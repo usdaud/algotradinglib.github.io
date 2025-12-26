@@ -50,4 +50,4 @@ Advances in green technology can enhance the effectiveness and appeal of Green M
 
 Green Monday represents a blend of consumer culture and environmental advocacy. As both a significant online shopping day and a marker for sustainable purchasing, it continues to grow in importance and impact. Retailers and consumers alike are increasingly recognizing the [value](../v/value.md) of integrating sustainability into their holiday shopping habits, making Green Monday a fixture in the modern holiday retail landscape.
 
-For more information, visit [Green Monday](https://greenmonday.org/).
+For more information, visit Green Monday.

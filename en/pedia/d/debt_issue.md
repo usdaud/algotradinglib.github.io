@@ -85,18 +85,18 @@ Technological advancements are transforming [debt](../d/debt.md) issuance with [
 
 ### Corporate Examples
 - **Apple Inc.**: Known for massive [bond](../b/bond.md) issuances despite having significant cash reserves; a strategy to take advantage of low-[interest](../i/interest.md) rates for [financing](../f/financing.md) stock buybacks and [capital](../c/capital.md) projects.
-- **Toyota Motor [Corporation](../c/corporation.md)**: Utilizes [debt](../d/debt.md) issuance to [finance](../f/finance.md) operations and global [expansion](../e/expansion.md). [Link](https://global.toyota/en/)
+- **Toyota Motor [Corporation](../c/corporation.md)**: Utilizes [debt](../d/debt.md) issuance to [finance](../f/finance.md) operations and global [expansion](../e/expansion.md). Link
 
 ### Government Examples
 - **[U.S. Treasury](../u/u.s._treasury.md)**: Regularly issues Treasury bonds, notes, and bills to [finance](../f/finance.md) the national [debt](../d/debt.md). The size and [liquidity](../l/liquidity.md) of the [U.S. Treasury](../u/u.s._treasury.md) [market](../m/market.md) make it a [benchmark](../b/benchmark.md) for global [interest](../i/interest.md) rates.
 - **[European Union](../e/european_union_(eu).md)**: Recently initiated a significant [bond](../b/bond.md) issuance program to [finance](../f/finance.md) pandemic recovery efforts through its NextGenerationEU [Fund](../f/fund.md).
 
 ### Municipal Examples
-- **City of New York**: Issues [municipal bonds](../m/municipal_bonds.md) to [fund](../f/fund.md) [infrastructure](../i/infrastructure.md) projects, public schools, and other essential services. [Link](https://www1.nyc.gov/)
+- **City of New York**: Issues [municipal bonds](../m/municipal_bonds.md) to [fund](../f/fund.md) [infrastructure](../i/infrastructure.md) projects, public schools, and other essential services. Link
 
 ### Leading Investment Banks
-- **Goldman Sachs**: A major [underwriter](../u/underwriter.md) in the corporate and sovereign [debt](../d/debt.md) markets, [offering](../o/offering.md) a wide [range](../r/range.md) of services related to [debt](../d/debt.md) issuance. [Link](https://www.goldmansachs.com/)
-- **JPMorgan Chase**: Prominent in global [debt](../d/debt.md) markets, involved in [underwriting](../u/underwriting.md) significant corporate and government [debt](../d/debt.md) issuances. [Link](https://www.jpmorganchase.com/)
+- **Goldman Sachs**: A major [underwriter](../u/underwriter.md) in the corporate and sovereign [debt](../d/debt.md) markets, [offering](../o/offering.md) a wide [range](../r/range.md) of services related to [debt](../d/debt.md) issuance. Link
+- **JPMorgan Chase**: Prominent in global [debt](../d/debt.md) markets, involved in [underwriting](../u/underwriting.md) significant corporate and government [debt](../d/debt.md) issuances. Link
 
 ## Conclusion
 

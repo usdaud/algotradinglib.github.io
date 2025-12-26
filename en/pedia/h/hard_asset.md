@@ -83,16 +83,16 @@ Investments in certain hard assets may be subject to regulatory and legal risks.
 ## Notable Companies and Institutions
 
 ### Barrick Gold Corporation
-One of the largest gold [mining](../m/mining.md) companies in the world, Barrick Gold operates mines across North America, South America, Africa, and Australia. The company is a major player in the gold [mining](../m/mining.md) [industry](../i/industry.md) and provides investors with exposure to gold through its stock. [Barrick Gold Corporation](https://www.barrick.com)
+One of the largest gold [mining](../m/mining.md) companies in the world, Barrick Gold operates mines across North America, South America, Africa, and Australia. The company is a major player in the gold [mining](../m/mining.md) [industry](../i/industry.md) and provides investors with exposure to gold through its stock. Barrick Gold Corporation
 
 ### ExxonMobil
-A leading multinational oil and gas [corporation](../c/corporation.md), ExxonMobil explores, produces, and refines oil and natural gas. It is a key player in the energy [commodity](../c/commodity.md) [market](../m/market.md), and its stock offers exposure to the oil and gas sector. [ExxonMobil](https://corporate.exxonmobil.com)
+A leading multinational oil and gas [corporation](../c/corporation.md), ExxonMobil explores, produces, and refines oil and natural gas. It is a key player in the energy [commodity](../c/commodity.md) [market](../m/market.md), and its stock offers exposure to the oil and gas sector. ExxonMobil
 
 ### Prologis
-An American multinational [logistics](../l/logistics.md) [real estate](../r/real_estate.md) investment [trust](../t/trust.md), Prologis focuses on the ownership, operation, and development of industrial properties. It is one of the largest REITs globally and offers investors exposure to [commercial real estate](../c/commercial_real_estate.md). [Prologis](https://www.prologis.com)
+An American multinational [logistics](../l/logistics.md) [real estate](../r/real_estate.md) investment [trust](../t/trust.md), Prologis focuses on the ownership, operation, and development of industrial properties. It is one of the largest REITs globally and offers investors exposure to [commercial real estate](../c/commercial_real_estate.md). Prologis
 
 ### Sotheby's
-A renowned auction house that specializes in fine art, collectibles, and luxury items, Sotheby's facilitates the buying and selling of high-[value](../v/value.md) collectibles. Investors interested in collectibles can participate in Sotheby's auctions. [Sotheby's](https://www.sothebys.com)
+A renowned auction house that specializes in fine art, collectibles, and luxury items, Sotheby's facilitates the buying and selling of high-[value](../v/value.md) collectibles. Investors interested in collectibles can participate in Sotheby's auctions. Sotheby's
 
 ## Conclusion
 

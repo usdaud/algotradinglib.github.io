@@ -12,7 +12,7 @@ Statistical [arbitrage](../a/arbitrage.md) (or stat-arb) is a [trading strategy]
 
 - **[Pairs Trading](../p/pairs_trading.md)**: One of the most common forms of stat-arb. It involves the identification of two securities with historical price [correlation](../c/correlation.md). When the prices diverge beyond a certain threshold, traders short the overperforming [security](../s/security.md) and buy the underperforming one, betting that prices [will](../w/will.md) converge.
 - **[Index](../i/index_instrument.md) [Arbitrage](../a/arbitrage.md)**: This strategy involves taking advantage of price differences between the individual components of a stock [index](../i/index_instrument.md) and the [index](../i/index_instrument.md) itself.
-  
+
 ### 2. Momentum Trading
 
 [Momentum trading](../m/momentum_trading.md) capitalizes on trends in the [market](../m/market.md). The idea is that assets that have performed well in the past [will](../w/will.md) continue to do so for some time, and those that have performed poorly [will](../w/will.md) continue to decline. [Quantitative momentum](../q/quantitative_momentum.md) strategies involve mathematical analyses of an [asset](../a/asset.md)'s price history to identify such trends.
@@ -26,7 +26,7 @@ HFT involves executing a high number of trades at extremely fast speeds, often m
 
 - **[Market](../m/market.md) Making**: This involves placing limit orders to buy and sell simultaneously. The strategy profits from the [bid-ask spread](../b/bid-ask_spread.md).
 - **Latency [Arbitrage](../a/arbitrage.md)**: Profiting from price discrepancies across different exchanges or trading platforms by executing trades faster than competitors.
-  
+
 ### 4. Machine Learning and AI
 
 The integration of [machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) into [quantitative trading](../q/quantitative_trading.md) is transforming the landscape by enabling the processing and analysis of large datasets to make predictions and decisions.
@@ -39,26 +39,26 @@ The integration of [machine learning](../m/machine_learning.md) (ML) and [artifi
 [Sentiment analysis](../s/sentiment_analysis.md) involves analyzing textual data from news articles, [social media](../s/social_media.md), and financial reports to gauge the general [investor](../i/investor.md) sentiment toward an [asset](../a/asset.md). This information is then used to make informed trading decisions.
 
 - **NLP Techniques**: [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques such as tokenization, sentiment scoring, and named entity recognition are commonly used.
-  
+
 ## Major Industry Players
 
 ### 1. Renaissance Technologies
 
 Founded by Jim Simons, Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md). Their Medallion [Fund](../f/fund.md) is one of the most profitable [hedge](../h/hedge.md) funds in history, largely due to its advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 
-**Website**: [Renaissance Technologies](https://www.rentec.com/)
+**online platform**: Renaissance Technologies
 
 ### 2. Two Sigma
 
 Another significant player in the [quantitative trading](../q/quantitative_trading.md) space is Two Sigma. They [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to build [predictive models](../p/predictive_models_in_trading.md) for trading.
 
-**Website**: [Two Sigma](https://www.twosigma.com/)
+**online platform**: Two Sigma
 
 ### 3. D.E. Shaw & Co.
 
 D.E. Shaw & Co. combines quantitative and qualitative strategies to achieve high returns. They employ sophisticated tools for [quantitative research](../q/quantitative_research.md) and [trading strategies](../t/trading_strategies.md).
 
-**Website**: [D.E. Shaw](https://www.deshaw.com/)
+**online platform**: D.E. Shaw
 
 ## Tools and Software
 

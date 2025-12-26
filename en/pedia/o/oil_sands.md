@@ -20,7 +20,7 @@ Surface [mining](../m/mining.md) is used when oil sands are located within appro
 2. **Overburden Removal**: Excavation of the top layers of soil and rock to expose the oil sands.
 3. **[Mining](../m/mining.md)**: Using large trucks and shovels to scoops up the oil sands, which are then transported for further processing.
 
-For example, companies like Syncrude and Suncor utilize surface [mining](../m/mining.md) in Alberta, Canada, one of the largest oil sands deposits globally. More information can be found on their websites: [Syncrude](http://www.syncrude.ca) and [Suncor](http://www.suncor.com).
+For example, companies like Syncrude and Suncor utilize surface [mining](../m/mining.md) in Alberta, Canada, one of the largest oil sands deposits globally. More information can be found on their websites: Syncrude and Suncor.
 
 ### In-Situ Methods
 
@@ -28,7 +28,7 @@ In-situ extraction is used when oil sands deposits are deeper than 70 meters. Th
 1. **Steam-Assisted Gravity Drainage (SAGD)**: This involves drilling two horizontal wells, one above the other. Steam is injected into the upper well to heat the bitumen, reducing its viscosity. The heated bitumen then flows into the lower well, from where it's pumped to the surface.
 2. **Cyclic Steam Stimulation (CSS)**: Also known as "huff and puff," this method injects steam into a well to heat the bitumen. After allowing some time for the bitumen to heat and the steam to condense, the well is put into production, and the bitumen is pumped to the surface.
 
-Canadian Natural Resources Limited (CNRL) provides detailed information on their in-situ techniques, which can be accessed on their site: [CNRL](http://www.cnrl.com).
+Canadian Natural Resources Limited (CNRL) provides detailed information on their in-situ techniques, which can be accessed in CNRL reports.
 
 ## Upgrading and Refining
 
@@ -83,8 +83,8 @@ Advanced reclamation techniques focus on restoring mined land more effectively. 
 
 ## Future Outlook
 
-The future of oil sands is contingent on several factors including global oil prices, regulatory frameworks, and technological advancements. With increasing pressure to address climate change, the [industry](../i/industry.md) may face stricter regulations and a push towards more sustainable practices. Nevertheless, given the vast reserves and economic importance, oil sands are likely to remain a key part of the energy landscape for the foreseeable future. 
+The future of oil sands is contingent on several factors including global oil prices, regulatory frameworks, and technological advancements. With increasing pressure to address climate change, the [industry](../i/industry.md) may face stricter regulations and a push towards more sustainable practices. Nevertheless, given the vast reserves and economic importance, oil sands are likely to remain a key part of the energy landscape for the foreseeable future.
 
-Companies and stakeholders are [investing](../i/investing.md) in research and development to make extraction and processing more efficient and environmentally friendly, aiming to balance economic benefits with sustainable practices. More information on efforts to balance these aspects can be found in reports published by the Oil Sands Community Alliance: [OSCA](http://www.oscaalberta.ca).
+Companies and stakeholders are [investing](../i/investing.md) in research and development to make extraction and processing more efficient and environmentally friendly, aiming to balance economic benefits with sustainable practices. More information on efforts to balance these aspects can be found in reports published by the Oil Sands Community Alliance: OSCA.
 
 In conclusion, oil sands are a complex subject intertwining geology, technology, [economics](../e/economics.md), and environmental science. They represent both an opportunity and a challenge, prompting ongoing efforts to harness their potential while mitigating their impacts.

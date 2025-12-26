@@ -8,9 +8,9 @@ Capitalized Cost generally includes the purchase price of the [asset](../a/asset
 
 1. **Purchase Price**: This is the initial cost of acquiring the [asset](../a/asset.md), including the basic purchase price and all related [taxes](../t/taxes.md) and fees.
 2. **Direct Costs**: These are costs directly attributable to the [acquisition](../a/acquisition.md) or construction of the [asset](../a/asset.md). Examples include:
-    - Transportation and handling costs
-    - Installation and assembly costs
-    - Costs of testing to ensure the [asset](../a/asset.md) functions correctly
+ - Transportation and handling costs
+ - Installation and assembly costs
+ - Costs of testing to ensure the [asset](../a/asset.md) functions correctly
 3. **Indirect Costs**: These may include overhead costs that are not directly attributable but are necessary for the [asset](../a/asset.md)'s [acquisition](../a/acquisition.md) or construction.
 4. **[Interest](../i/interest.md) Costs**: If an [asset](../a/asset.md) is financed, the [interest](../i/interest.md) costs during the construction period can also be capitalized.
 5. **Legal Fees**: Any legal fees associated with transferring the title or preparing legal documentation are also included in the capitalized cost.
@@ -56,12 +56,10 @@ For companies in the [technology sector](../t/technology_sector.md), capitalized
 ### Leading Companies in Capital Management
 
 #### IBM
-IBM capitalizes costs associated with developing software for both internal use and commercial [sale](../s/sale.md). Their comprehensive approach to managing these costs can be found on their official website:
-[IBM Capital Management](https://www.ibm.com/financing/us-en/capital-management)
+IBM capitalizes costs associated with developing software for both internal use and commercial [sale](../s/sale.md).
 
 #### General Electric (GE)
-GE provides detailed insights into the treatment of capitalized costs, particularly in their aviation and healthcare sectors, focusing on the [acquisition](../a/acquisition.md) of property, plant, and equipment:
-[GE Capitalized Cost Management](https://www.ge.com/investor-relations)
+GE provides detailed insights into the treatment of capitalized costs, particularly in their aviation and healthcare sectors, focusing on the [acquisition](../a/acquisition.md) of property, plant, and equipment.
 
 ## Regulatory and Compliance Considerations
 

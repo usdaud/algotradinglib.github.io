@@ -66,5 +66,4 @@ Algorithms should be continuously monitored and adjusted based on [market](../m/
 
 For further reading and exploring resources related to [trading psychology](../t/trading_psychology.md), you can visit the following websites:
 
-- **Institute of Trading and [Portfolio Management](../p/portfolio_management.md)**: [https://www.itpm.com/](https://www.itpm.com/)
-- **Trading Academy**: [https://tradingacademy.com/](https://tradingacademy.com/)
+- **Institute of Trading and [Portfolio Management](../p/portfolio_management.md)**- **Trading Academy**

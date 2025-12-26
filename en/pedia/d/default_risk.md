@@ -96,7 +96,7 @@ Algorithms can include [stress testing](../s/stress_testing.md) modules that sim
 
 ### Case Study: QuantConnect
 
-[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/accountability.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using historical data. The platform supports incorporating [default](../d/default.md) [risk measures](../r/risk_measures.md) into strategies. More information can be found on their [official website](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) offers a cloud-based [algorithmic trading](../a/accountability.md) platform that allows users to build and backtest [trading strategies](../t/trading_strategies.md) using historical data. The platform supports incorporating [default](../d/default.md) [risk measures](../r/risk_measures.md) into strategies.
 
 ## Conclusion
 

@@ -8,19 +8,19 @@ Prior to the HERO Act, service members receiving combat pay could not include th
 
 ### Key Features of the HERO Act
 
-1. **IRA Contribution Eligibility**: 
-   - Before the HERO Act, military personnel had restrictions on contributing to IRAs due to the non-taxable nature of combat pay. This act corrects that by allowing combat pay to be treated as [earned income](../e/earned_income.md), enabling military personnel to contribute to both Traditional and Roth IRAs. 
-   - For those in combat zones, this [provision](../p/provision.md) is particularly beneficial, as it allows contributions based on [income](../i/income.md) that is otherwise untaxed.
+1. **IRA Contribution Eligibility**:
+ - Before the HERO Act, military personnel had restrictions on contributing to IRAs due to the non-taxable nature of combat pay. This act corrects that by allowing combat pay to be treated as [earned income](../e/earned_income.md), enabling military personnel to contribute to both Traditional and Roth IRAs.
+ - For those in combat zones, this [provision](../p/provision.md) is particularly beneficial, as it allows contributions based on [income](../i/income.md) that is otherwise untaxed.
 
 2. **Retroactive Contributions**:
-   - The HERO Act also provides provisions for retroactive contributions to IRAs. This means that military personnel who received combat pay in the past can now go back and contribute for those years where they couldn't previously, subject to the annual contribution limits for IRAs during those specific years.
+ - The HERO Act also provides provisions for retroactive contributions to IRAs. This means that military personnel who received combat pay in the past can now go back and contribute for those years where they couldn't previously, subject to the annual contribution limits for IRAs during those specific years.
 
 3. **Support for Families**:
-   - Not only does the HERO Act benefit the service members, but it also indirectly supports their families by enhancing the financial [security](../s/security.md) of the household. Spouses of service members can also make spousal IRA contributions based on the service member’s combat pay being treated as [earned income](../e/earned_income.md).
+ - Not only does the HERO Act benefit the service members, but it also indirectly supports their families by enhancing the financial [security](../s/security.md) of the household. Spouses of service members can also make spousal IRA contributions based on the service member’s combat pay being treated as [earned income](../e/earned_income.md).
 
 4. **Tax Implications**:
-   - For Roth IRAs, since contributions are made with after-tax dollars, the HERO Act does not change the tax treatment but expands eligibility.
-   - For Traditional IRAs, contributions may be tax-deductible, providing immediate tax benefits.
+ - For Roth IRAs, since contributions are made with after-tax dollars, the HERO Act does not change the tax treatment but expands eligibility.
+ - For Traditional IRAs, contributions may be tax-deductible, providing immediate tax benefits.
 
 ### Implementation and Administrative Details
 

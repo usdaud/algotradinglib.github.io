@@ -40,5 +40,3 @@ DEGIRO integrates with a variety of financial platforms and tools to enhance its
 ## Regulation
 DEGIRO is regulated by the Dutch Authority for the [Financial Markets](../f/financial_market.md) (AFM) and operates under the supervision of the Netherlands Central [Bank](../b/bank.md) (DNB), ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
-## Website
-For more information and to start trading, visit the official DEGIRO website: [DEGIRO](https://www.degiro.com)

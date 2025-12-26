@@ -12,10 +12,10 @@ The RICP curriculum is comprehensive, providing in-depth knowledge on various as
 ### Retirement Income Process
 The RICP curriculum begins with an understanding of the retirement [income](../i/income.md) planning process, including client assessment, goal setting, and strategy development.
 
-### Sources of Income 
+### Sources of Income
 Financial professionals learn about different sources of retirement [income](../i/income.md) such as [Social Security](../s/social_security.md) benefits, pensions, annuities, and investment portfolios. The course covers how to optimize these sources to create a steady [income](../i/income.md) stream.
 
-### Social Security 
+### Social Security
 A crucial part of the RICP curriculum is understanding [Social Security](../s/social_security.md) benefits. Professionals are trained on how to maximize these benefits through various claiming strategies and by assessing their impact on overall retirement [income](../i/income.md).
 
 ### Annuities
@@ -51,4 +51,4 @@ Holding an RICP designation offers numerous benefits to financial professionals,
 - **[Networking](../n/networking.md)**: RICP designation holders become part of a network of professionals committed to excellence in [retirement planning](../r/retirement_planning.md), providing opportunities for collaboration and learning.
 
 ## Conclusion
-The RICP designation is an invaluable credential for financial professionals specializing in retirement [income](../i/income.md) planning. It provides comprehensive education and training in all critical areas of retirement [income](../i/income.md) management, equips professionals with the tools to deliver [robust](../r/robust.md) and sustainable [income](../i/income.md) strategies for their clients, and enhances their credibility and career prospects. For more information about the RICP program, you can visit the official [American College of Financial Services page](https://www.theamericancollege.edu/designations-degrees/RICP).
+The RICP designation is an invaluable credential for financial professionals specializing in retirement [income](../i/income.md) planning. It provides comprehensive education and training in all critical areas of retirement [income](../i/income.md) management, equips professionals with the tools to deliver [robust](../r/robust.md) and sustainable [income](../i/income.md) strategies for their clients, and enhances their credibility and career prospects.

@@ -19,7 +19,7 @@ Due to their high level of indebtedness, companies involved in HLTs often face h
 ## Types of Highly Leveraged Transactions
 
 ### Leveraged Recapitalizations
-Leveraged recapitalizations involve [restructuring](../r/restructuring.md) a company's [balance sheet](../b/balance_sheet.md) by replacing a significant portion of its [equity](../e/equity.md) with [debt](../d/debt.md). This can be done to [return](../r/return.md) [capital](../c/capital.md) to shareholders, discourage hostile takeovers, or [fund](../f/fund.md) strategic investments. 
+Leveraged recapitalizations involve [restructuring](../r/restructuring.md) a company's [balance sheet](../b/balance_sheet.md) by replacing a significant portion of its [equity](../e/equity.md) with [debt](../d/debt.md). This can be done to [return](../r/return.md) [capital](../c/capital.md) to shareholders, discourage hostile takeovers, or [fund](../f/fund.md) strategic investments.
 
 ### Management Buyouts (MBOs)
 In management buyouts, a company's existing management team acquires all or part of the company using a substantial amount of borrowed funds. MBOs aim to align management's interests with shareholders by giving them a significant ownership stake.

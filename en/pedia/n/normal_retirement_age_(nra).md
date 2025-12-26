@@ -14,7 +14,7 @@ The [genesis](../g/genesis.md) of the NRA concept coincides with the establishme
 
 ### United States
 
-In the United States, the NRA is determined by the [Social Security](../s/social_security.md) Administration (SSA). Historically, it was 65, but legislative changes have led to a gradual increase. Under the [Social Security](../s/social_security.md) Amendments of 1983, the NRA increases in stages and reaches 67 for individuals born in 1960 or later. 
+In the United States, the NRA is determined by the [Social Security](../s/social_security.md) Administration (SSA). Historically, it was 65, but legislative changes have led to a gradual increase. Under the [Social Security](../s/social_security.md) Amendments of 1983, the NRA increases in stages and reaches 67 for individuals born in 1960 or later.
 
 ### Europe
 
@@ -52,7 +52,7 @@ Changes in labor [market dynamics](../m/market_dynamics.md), including the natur
 
 ### Individual Retirement Planning
 
-Financial advisors emphasize the importance of aligning retirement strategies with NRA. This involves optimizing [social security](../s/social_security.md) benefits, pension plans, and personal savings to ensure financial [security](../s/security.md) during retirement. 
+Financial advisors emphasize the importance of aligning retirement strategies with NRA. This involves optimizing [social security](../s/social_security.md) benefits, pension plans, and personal savings to ensure financial [security](../s/security.md) during retirement.
 
 ### Corporate Pension Schemes
 

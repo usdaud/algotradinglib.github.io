@@ -15,8 +15,8 @@
 1. **Qualitative Assessment (Step Zero)**: This preliminary step evaluates whether it’s likely that the [goodwill](../g/goodwill.md) might be impaired. Factors such as macroeconomic conditions, [industry](../i/industry.md) and [market](../m/market.md) considerations, cost factors, and overall [financial performance](../f/financial_performance.md) are analyzed.
 
 2. **Quantitative Assessment**:
-   - **Step One**: Compare the [fair value](../f/fair_value.md) of the reporting unit (the smallest unit to which [goodwill](../g/goodwill.md) can be allocated) to its carrying amount, including [goodwill](../g/goodwill.md). 
-   - **Step Two**: If the [fair value](../f/fair_value.md) of the reporting unit is less than its carrying amount, the implied [fair value](../f/fair_value.md) of the reporting unit’s [goodwill](../g/goodwill.md) is calculated. The [impairment](../i/impairment.md) loss is the difference between the carrying amount and the implied [fair value](../f/fair_value.md) of [goodwill](../g/goodwill.md).
+ - **Step One**: Compare the [fair value](../f/fair_value.md) of the reporting unit (the smallest unit to which [goodwill](../g/goodwill.md) can be allocated) to its carrying amount, including [goodwill](../g/goodwill.md).
+ - **Step Two**: If the [fair value](../f/fair_value.md) of the reporting unit is less than its carrying amount, the implied [fair value](../f/fair_value.md) of the reporting unit’s [goodwill](../g/goodwill.md) is calculated. The [impairment](../i/impairment.md) loss is the difference between the carrying amount and the implied [fair value](../f/fair_value.md) of [goodwill](../g/goodwill.md).
 
 ### Reporting Unit
 
@@ -33,21 +33,21 @@ Several signs may indicate potential [goodwill](../g/goodwill.md) [impairment](.
 - Adverse changes in [market](../m/market.md) conditions or regulations
 - A reduction in stock price
 - Increased competition leading to declining [market share](../m/market_share.md)
-- [Restructuring](../r/restructuring.md) activities or significant changes in management strategy 
+- [Restructuring](../r/restructuring.md) activities or significant changes in management strategy
 
 ## Impairment Testing Process
 
 1. **Identification of Reporting Units**: Define and allocate [goodwill](../g/goodwill.md) and other assets to respective reporting units.
-  
+
 2. **Conduct a Qualitative Assessment**: Consider qualitative factors to ascertain the likelihood of [impairment](../i/impairment.md).
-  
+
 3. **[Quantitative Analysis](../q/quantitative_analysis.md) – Step One**:
-   - Measure the [fair value](../f/fair_value.md) of the reporting unit.
-   - Compare the [fair value](../f/fair_value.md) to the carrying amount, including [goodwill](../g/goodwill.md).
+ - Measure the [fair value](../f/fair_value.md) of the reporting unit.
+ - Compare the [fair value](../f/fair_value.md) to the carrying amount, including [goodwill](../g/goodwill.md).
 
 4. **[Quantitative Analysis](../q/quantitative_analysis.md) – Step Two** (if necessary):
-   - Determine the implied [fair value](../f/fair_value.md) of [goodwill](../g/goodwill.md).
-   - Compute any [impairment](../i/impairment.md) loss as the excess carrying [value](../v/value.md) over the implied [fair value](../f/fair_value.md).
+ - Determine the implied [fair value](../f/fair_value.md) of [goodwill](../g/goodwill.md).
+ - Compute any [impairment](../i/impairment.md) loss as the excess carrying [value](../v/value.md) over the implied [fair value](../f/fair_value.md).
 
 ## Goodwill Impairment Accounting
 
@@ -67,13 +67,13 @@ When [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) is recognized
 ## Examples of Goodwill Impairment
 
 **General Electric (GE)**
-- In 2018, GE recorded a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) charge of $22 billion related to its power [business](../b/business.md). The charge reflected deteriorating [market](../m/market.md) conditions and a reassessment of the [fair value](../f/fair_value.md) of the reporting unit: [GE 2018 Annual Report](https://www.ge.com/reports/2018-annual-report/).
+- In 2018, GE recorded a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) charge of $22 billion related to its power [business](../b/business.md). The charge reflected deteriorating [market](../m/market.md) conditions and a reassessment of the [fair value](../f/fair_value.md) of the reporting unit: GE 2018 Annual Report.
 
 **Kraft Heinz**
-- Kraft Heinz took a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) charge of $15.4 billion in 2019 due to challenges in meeting consumer [demand](../d/demand.md) and reevaluation of the long-term growth rate: [Kraft Heinz 2019 Annual Report](https://www.kraftheinzcompany.com/sites/g/files/yec346/f/2020-04/KHC_2019_Annual_Report.pdf).
+- Kraft Heinz took a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) charge of $15.4 billion in 2019 due to challenges in meeting consumer [demand](../d/demand.md) and reevaluation of the long-term growth rate: Kraft Heinz 2019 Annual Report.
 
 **Jones Lang LaSalle (JLL)**
-- In 2020, JLL reported a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) of $240 million triggered by the COVID-19 pandemic's impact on [commercial real estate](../c/commercial_real_estate.md) profitability: [JLL 2020 Annual Report](https://ir.jll.com/annual-reports-and-proxy).
+- In 2020, JLL reported a [goodwill](../g/goodwill.md) [impairment](../i/impairment.md) of $240 million triggered by the COVID-19 pandemic's impact on [commercial real estate](../c/commercial_real_estate.md) profitability: JLL 2020 Annual Report.
 
 ## Regulatory Framework
 

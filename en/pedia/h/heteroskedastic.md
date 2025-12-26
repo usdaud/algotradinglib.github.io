@@ -1,6 +1,6 @@
 # Heteroskedastic
 
-[Heteroskedasticity](../h/heteroskedasticity.md) refers to the circumstance in a statistical model in which the [variability](../v/variability.md) of the error terms, or noises, varies across observations. This [variability](../v/variability.md), or change in spread or "[dispersion](../d/dispersion.md)," of the errors can have significant impacts on the performance and reliability of regression analyses, making it a critical concept particularly in the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/accountability.md).
+[Heteroskedasticity](../h/heteroskedasticity.md) refers to the circumstance in a statistical model in which the [variability](../v/variability.md) of the error terms, or noises, varies across observations. This [variability](../v/variability.md), or change in spread or "[dispersion](../d/dispersion.md)," of the errors can have significant impacts on the performance and reliability of regression analyses, making it a critical concept particularly in the realm of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Understanding Heteroskedasticity
 
@@ -50,21 +50,21 @@ Several statistical tests and diagnostic plots can help identify [heteroskedasti
 
 ### Relevance in Algorithmic Trading
 
-In the field of [algorithmic trading](../a/accountability.md), accurately modeling and [forecasting](../f/forecasting.md) [financial time series](../f/financial_time_series.md) such as [asset](../a/asset.md) returns or price volatilities is crucial. [Heteroskedasticity](../h/heteroskedasticity.md) is particularly prevalent in financial data due to [market](../m/market.md) [volatility clustering](../v/volatility_clustering.md), where large changes in [asset](../a/asset.md) prices are followed by large changes (of either sign), and small changes tend to be followed by small changes.
+In the field of [algorithmic trading](../a/algorithmic_trading.md), accurately modeling and [forecasting](../f/forecasting.md) [financial time series](../f/financial_time_series.md) such as [asset](../a/asset.md) returns or price volatilities is crucial. [Heteroskedasticity](../h/heteroskedasticity.md) is particularly prevalent in financial data due to [market](../m/market.md) [volatility clustering](../v/volatility_clustering.md), where large changes in [asset](../a/asset.md) prices are followed by large changes (of either sign), and small changes tend to be followed by small changes.
 
 ### Application Examples
 
 1. **[Volatility](../v/volatility.md) Modeling**: [GARCH models](../g/garch_models.md) are extensively used in financial industries to model and forecast the [volatility](../v/volatility.md) of [asset](../a/asset.md) returns, aiding in [risk management](../r/risk_management.md) and [derivative](../d/derivative.md) pricing.
-   - Example: The V-Lab from NYU Stern consists of several financial models including GARCH for analyzing financial data: [NYU Stern Volatility Institute](http://vlab.stern.nyu.edu)
+ - Example: The V-Lab from NYU Stern consists of several financial models including GARCH for analyzing financial data: NYU Stern Volatility Institute
 2. **[Risk Management](../r/risk_management.md)**: Heteroskedastic models help in estimating [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Expected [Shortfall](../s/shortfall.md) (ES), essential metrics for financial institutions to manage their financial risks.
 3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Understanding how residual variances change with [market](../m/market.md) conditions assists in optimally structuring portfolios to maximize returns and minimize [risk](../r/risk.md).
-   
+
 ### Case Studies
 
 1. **Black-Scholes Option Pricing**: Although the standard [Black-Scholes model](../b/black-scholes_model.md) assumes constant [volatility](../v/volatility.md), extensions incorporating time-varying volatilities using [GARCH models](../g/garch_models.md) have shown improved accuracy.
-   - Reference: [Nasdaq Derivatives Academy](https://www.nasdaq.com/solutions/nasdaq-derivatives-academy)
+ - Reference: Nasdaq Derivatives Academy
 2. **High-Frequency Trading**: Heteroskedastic models are used to adapt [trading strategies](../t/trading_strategies.md) to changing [market](../m/market.md) conditions, improving [execution](../e/execution.md) and minimizing risks associated with rapid price movements.
-   - Reference: [Virtu Financial](https://www.virtu.com)
+ - Reference: Virtu Financial
 
 ### Future Directions
 
@@ -72,4 +72,4 @@ Continued advancements in computational capabilities and methodologies promise t
 
 ---
 
-Understanding and addressing [heteroskedasticity](../h/heteroskedasticity.md) is pivotal in many aspects of [finance](../f/finance.md), particularly within the [scope](../s/scope.md) of [algorithmic trading](../a/accountability.md). By effectively modeling and mitigating the repercussions of varying residual variances, traders and financial analysts can improve the robustness and accuracy of their [quantitative models](../q/quantitative_models.md) and strategies, ultimately leading to more informed and profitable trading decisions.
+Understanding and addressing [heteroskedasticity](../h/heteroskedasticity.md) is pivotal in many aspects of [finance](../f/finance.md), particularly within the [scope](../s/scope.md) of [algorithmic trading](../a/algorithmic_trading.md). By effectively modeling and mitigating the repercussions of varying residual variances, traders and financial analysts can improve the robustness and accuracy of their [quantitative models](../q/quantitative_models.md) and strategies, ultimately leading to more informed and profitable trading decisions.

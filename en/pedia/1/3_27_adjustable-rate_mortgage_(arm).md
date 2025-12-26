@@ -8,7 +8,7 @@ A 3/27 Adjustable-Rate [Mortgage](../m/mortgage.md) (ARM) is a type of [home](..
 In the case of a 3/27 ARM, the borrower enjoys a [fixed interest rate](../f/fixed_interest_rate.md) for the first three years. During this period, the [interest rate](../i/interest_rate.md) does not change, which provides a sense of stability and predictability regarding monthly [mortgage](../m/mortgage.md) payments. This initial fixed-rate period typically offers a lower rate compared to traditional 30-year fixed-rate mortgages, making the [loan](../l/loan.md) attractive to borrowers seeking lower initial payments.
 
 ### Adjustable Period
-After the initial three-year period, the [loan](../l/loan.md) enters its adjustable phase, which lasts for the remaining 27 years. During this time, the [interest rate](../i/interest_rate.md) is subject to change at regular intervals, which are often annual. The adjustable rate is calculated based on a specific [index](../i/index_instrument.md) (such as the London Interbank Offered Rate, or LIBOR) plus a [margin](../m/margin.md) set by the [lender](../l/lender.md). Rate adjustments are usually subject to caps or limits on how much they can increase or decrease, providing some protection to the borrower against extreme rate hikes.
+After the initial three-year period, the [loan](../l/loan.md) enters its adjustable phase, which lasts for the remaining 27 years. During this time, the [interest rate](../i/interest_rate.md) is subject to change at regular intervals, which are often annual. The adjustable rate is calculated based on a specific [index](../i/index_instrument.md) (such as SOFR (Secured Overnight Financing Rate), which replaced LIBOR (London Interbank Offered Rate, discontinued June 2023)) plus a [margin](../m/margin.md) set by the [lender](../l/lender.md). Rate adjustments are usually subject to caps or limits on how much they can increase or decrease, providing some protection to the borrower against extreme rate hikes.
 
 ## Advantages of a 3/27 ARM
 
@@ -46,7 +46,7 @@ Individuals anticipating a considerable increase in their [income](../i/income.m
 ## Regulatory and Market Considerations
 
 ### Index and Margin
-The adjustable-rate of a 3/27 ARM relies on an [underlying](../u/underlying.md) [index](../i/index_instrument.md) such as LIBOR, [Prime Rate](../p/prime_rate.md), or the Cost of Funds [Index](../i/index_instrument.md) (COFI), plus a [margin](../m/margin.md) determined by the [lender](../l/lender.md). The choice of [index](../i/index_instrument.md) significantly affects how the rate fluctuates. For example, the LIBOR [index](../i/index_instrument.md) is known for [variability](../v/variability.md), which can lead to more pronounced rate swings.
+The adjustable-rate of a 3/27 ARM relies on an [underlying](../u/underlying.md) [index](../i/index_instrument.md) such as SOFR (Secured Overnight Financing Rate, which replaced LIBOR after its discontinuation in June 2023), [Prime Rate](../p/prime_rate.md), or the Cost of Funds [Index](../i/index_instrument.md) (COFI), plus a [margin](../m/margin.md) determined by the [lender](../l/lender.md). The choice of [index](../i/index_instrument.md) significantly affects how the rate fluctuates. For example, LIBOR (discontinued June 2023, now replaced by SOFR) was known for [variability](../v/variability.md), which can lead to more pronounced rate swings.
 
 ### Rate Caps
 To protect borrowers from drastic rate changes, most 3/27 ARMs come with rate caps. These caps include:
@@ -60,9 +60,9 @@ Economic factors such as [inflation](../i/inflation.md), [Federal Reserve polici
 
 ### Lender Policies
 Different lenders may [offer](../o/offer.md) varied terms on 3/27 ARMs. Factors such as initial rate, [margin](../m/margin.md), and caps can differ, hence borrowers are advised to compare [multiple](../m/multiple.md) lenders. Notable lenders providing ARM products include:
-- [Wells Fargo](https://www.wellsfargo.com/mortgage/adjustable-rate/)
-- [Bank of America](https://www.bankofamerica.com/mortgage/adjustable-rate-mortgage/)
-- [Chase](https://www.chase.com/personal/mortgage/adjustable-rate-mortgages)
+- Wells Fargo
+- Bank of America
+- Chase
 
 ## Strategic Considerations
 

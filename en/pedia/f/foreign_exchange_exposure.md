@@ -25,9 +25,9 @@
 #### Key Players in Foreign Exchange Risk Management
 
 - **Corporations**: Multinational corporations (MNCs) like Apple, IBM, and Toyota are constantly exposed to foreign currencies. They employ various financial strategies and instruments to mitigate their forex risks.
-- **Banks and Financial Institutions**: Banks such as J.P. Morgan Chase [JPMorgan](https://www.jpmorganchase.com/), Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com/), and Citi [Citi](https://www.citigroup.com/citi/) [offer](../o/offer.md) a variety of services like forex trading, [hedging strategies](../h/hedging_strategies.md), and forex consulting.
-- **[Hedge](../h/hedge.md) Funds and [Asset](../a/asset.md) Managers**: These entities use forex [risk management](../r/risk_management.md) to safeguard their investments. Firms like BlackRock [BlackRock](https://www.blackrock.com/) and Bridgewater Associates [Bridgewater Associates](https://www.bridgewater.com/) are examples.
-- **Government and Regulatory Bodies**: Central banks and regulatory agencies monitor and sometimes intervene in forex markets to stabilize their domestic currencies. Institutions like the Federal Reserve [Federal Reserve](https://www.federalreserve.gov/) and the European Central [Bank](../b/bank.md) [ECB](https://www.ecb.europa.eu/).
+- **Banks and Financial Institutions**: Banks such as J.P. Morgan Chase JPMorgan, Goldman Sachs Goldman Sachs, and Citi Citi [offer](../o/offer.md) a variety of services like forex trading, [hedging strategies](../h/hedging_strategies.md), and forex consulting.
+- **[Hedge](../h/hedge.md) Funds and [Asset](../a/asset.md) Managers**: These entities use forex [risk management](../r/risk_management.md) to safeguard their investments. Firms like BlackRock BlackRock and Bridgewater Associates Bridgewater Associates are examples.
+- **Government and Regulatory Bodies**: Central banks and regulatory agencies monitor and sometimes intervene in forex markets to stabilize their domestic currencies. Institutions like the Federal Reserve Federal Reserve and the European Central [Bank](../b/bank.md) ECB.
 
 #### Case Studies
 

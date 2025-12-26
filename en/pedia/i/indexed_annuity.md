@@ -70,16 +70,12 @@ Once the [accumulation phase](../a/accumulation_phase.md) is complete, the annui
 Several financial institutions and [insurance](../i/insurance.md) companies [offer](../o/offer.md) indexed annuities. Some of the major players in this [market](../m/market.md) include:
 
 - **Allianz [Life Insurance](../l/life_insurance.md) Company of North America**: Provides a variety of fixed [index](../i/index_instrument.md) annuities designed to help customers meet their retirement [income](../i/income.md) needs.
-  [Allianz Life](https://www.allianzlife.com/)
 
 - **American [Equity](../e/equity.md) Investment Life Holding**: Offers various indexed annuity products focusing on retirement [security](../s/security.md) and policyholder benefits.
-  [American Equity](https://www.american-equity.com/)
 
 - **Athene Annuity and Life Company**: Specializes in providing innovative [fixed annuity](../f/fixed_annuity.md) products, including indexed annuities.
-  [Athene](https://www.athene.com/)
 
 - **Nationwide [Life Insurance](../l/life_insurance.md) Company**: Offers indexed annuities that aim to balance growth potential with protection.
-  [Nationwide](https://www.nationwide.com/)
 
 ## Regulatory Considerations
 

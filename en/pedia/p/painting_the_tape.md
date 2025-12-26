@@ -81,7 +81,7 @@ Many regulatory bodies have established [whistleblower](../w/whistleblower.md) p
 
 ## Technological Impact
 
-The rise of [algorithmic trading](../a/accountability.md) and high-frequency trading (HFT) has added complexity and new dimensions to Painting the Tape. In these environments, even subtle manipulative practices can have large distortions due to the sheer [volume](../v/volume.md) and speed of trades. Thus, the algorithms used for these strategies need to be painstakingly designed to avoid unintentional [market manipulation](../m/market_manipulation.md) and regulatory scrutiny.
+The rise of [algorithmic trading](../a/algorithmic_trading.md) and high-frequency trading (HFT) has added complexity and new dimensions to Painting the Tape. In these environments, even subtle manipulative practices can have large distortions due to the sheer [volume](../v/volume.md) and speed of trades. Thus, the algorithms used for these strategies need to be painstakingly designed to avoid unintentional [market manipulation](../m/market_manipulation.md) and regulatory scrutiny.
 
 ### 1. Algorithmic Safeguards
 

@@ -9,7 +9,7 @@ A Bayesian network is composed of:
 - **Nodes**: Represent variables which could be relevant to trading, such as [market indicators](../m/market_indicators.md), stock prices, or economic factors.
 - **Edges**: Directed edges between the nodes that represent conditional dependencies.
 - **Conditional [Probability Distributions](../p/probability_distributions_in_trading.md) (CPDs)**: For each node, a CPD quantifies the effect of the parent nodes on the current node.
-  
+
 When constructed well, a Bayesian network can help in determining [joint](../j/joint.md) [probability distributions](../p/probability_distributions_in_trading.md), performing inference, and learning the best model parameters from data.
 
 ## Components of Bayesian Networks in Trading
@@ -139,7 +139,6 @@ Traders can use Bayesian networks to backtest [trading strategies](../t/trading_
 Bayesian networks are powerful tools in the domain of [algorithmic trading](../a/algorithmic_trading.md) for modeling uncertainties, quantifying risks, predicting [market](../m/market.md) movements, and making data-driven decisions. By leveraging these networks, traders can enhance their strategy development, [risk management](../r/risk_management.md), and overall [trading performance](../t/trading_performance.md). As technology and data availability continue to advance, the application of Bayesian networks in trading is expected to grow, [offering](../o/offering.md) even greater insights and advantages in the competitive [financial markets](../f/financial_market.md).
 
 For more information on companies specializing in Bayesian networks and their applications in [finance](../f/finance.md), you can visit their respective websites:
-- [BNlearn](http://www.bnlearn.com)
-- [PyMC3](https://docs.pymc.io/)
-- [GeNIe](https://www.bayesfusion.com/genie/)
-
+- BNlearn
+- PyMC3
+- GeNIe

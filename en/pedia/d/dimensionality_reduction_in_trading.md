@@ -42,8 +42,8 @@ Autoencoders can detect complex patterns in [market](../m/market.md) data by enc
 ## Real-world Applications
 
 1. **[Risk Management](../r/risk_management.md)**: Dimensionality reduction techniques are pivotal in [risk management](../r/risk_management.md), where identifying the few key [risk factors](../r/risk_factors_in_trading.md) from a large dataset can significantly enhance predictive accuracy and reaction time.
-2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Firms specializing in [algorithmic trading](../a/algorithmic_trading.md), such as Renaissance Technologies, [leverage](../l/leverage.md) dimensionality reduction to streamline their high-frequency [trading strategies](../t/trading_strategies.md). Visit [Renaissance Technologies](https://www.rentec.com/) for more insights into their methodologies.
-3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Reducing dimensionality helps in identifying the most relevant assets, sectors, or strategies that contribute to portfolio returns. This is particularly useful for firms like BlackRock, whose systematic tools are detailed [here](https://www.blackrock.com/) for more information.
+2. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Firms specializing in [algorithmic trading](../a/algorithmic_trading.md), such as Renaissance Technologies, [leverage](../l/leverage.md) dimensionality reduction to streamline their high-frequency [trading strategies](../t/trading_strategies.md). Visit Renaissance Technologies for more insights into their methodologies.
+3. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Reducing dimensionality helps in identifying the most relevant assets, sectors, or strategies that contribute to portfolio returns. This is particularly useful for firms like BlackRock, whose systematic tools are detailed here for more information.
 
 ## Challenges in Dimensionality Reduction
 
@@ -52,4 +52,3 @@ Autoencoders can detect complex patterns in [market](../m/market.md) data by enc
 3. **Computational Complexity**: Some techniques, such as t-SNE, are computationally intensive and may not be suitable for real-time trading applications.
 
 In conclusion, dimensionality reduction is an essential tool in the arsenal of data scientists and quantitative traders. It helps unravel the complexity of high-dimensional [market](../m/market.md) data, making it more manageable and insightful. By applying these techniques, traders can enhance their strategies, optimize portfolios, and manage risks more effectively.
-

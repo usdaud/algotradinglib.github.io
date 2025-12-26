@@ -45,5 +45,3 @@ FP Markets is regulated by several top-tier financial authorities, ensuring a se
 - Australian Securities and Investments [Commission](../c/commission.md) (ASIC)
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 
-## Website
-For more information and to start trading, visit the official FP Markets website: [FP Markets](https://www.fpmarkets.com)

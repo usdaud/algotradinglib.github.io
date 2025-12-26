@@ -9,28 +9,28 @@ X-Stock Indicators are a subset of [technical indicators](../t/technical_indicat
 ## Types of X-Stock Indicators
 
 1. **[Momentum Indicators](../m/momentum_indicators.md)**
-   - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
-     The RSI measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). 
-   - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**:
-     The MACD is an [indicator](../i/indicator.md) that follows the [trend](../t/trend.md) and shows the relationship between two moving averages of a [security](../s/security.md)’s price.
-     
+ - **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**:
+ The RSI measures the speed and change of price movements. It is used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
+ - **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**:
+ The MACD is an [indicator](../i/indicator.md) that follows the [trend](../t/trend.md) and shows the relationship between two moving averages of a [security](../s/security.md)’s price.
+
 2. **[Volatility](../v/volatility.md) Indicators**
-   - **[Bollinger Bands](../b/bollinger_bands.md)**:
-     These bands are a [volatility](../v/volatility.md) [indicator](../i/indicator.md) that creates a set of upper and lower bands around the [price level](../p/price_level.md) based on standard deviations.
-   - **[Average True Range](../a/average_true_range_(atr).md) (ATR)**:
-     ATR measures [market](../m/market.md) [volatility](../v/volatility.md) by decomposing the entire [range](../r/range.md) of an [asset](../a/asset.md) price for that period.
-    
+ - **[Bollinger Bands](../b/bollinger_bands.md)**:
+ These bands are a [volatility](../v/volatility.md) [indicator](../i/indicator.md) that creates a set of upper and lower bands around the [price level](../p/price_level.md) based on standard deviations.
+ - **[Average True Range](../a/average_true_range_(atr).md) (ATR)**:
+ ATR measures [market](../m/market.md) [volatility](../v/volatility.md) by decomposing the entire [range](../r/range.md) of an [asset](../a/asset.md) price for that period.
+
 3. **[Volume Indicators](../v/volume_indicators.md)**
-   - **On-Balance [Volume](../v/volume.md) (OBV)**:
-     OBV uses [volume](../v/volume.md) flow to anticipate changes in stock price.
-   - **Accumulation/[Distribution](../d/distribution.md) Line (A/D Line)**:
-     This [indicator](../i/indicator.md) measures the cumulative [money flow](../m/money_flow.md) [volume](../v/volume.md), reflecting both price and [volume](../v/volume.md) to signal the strength of buying or selling pressure.
+ - **On-Balance [Volume](../v/volume.md) (OBV)**:
+ OBV uses [volume](../v/volume.md) flow to anticipate changes in stock price.
+ - **Accumulation/[Distribution](../d/distribution.md) Line (A/D Line)**:
+ This [indicator](../i/indicator.md) measures the cumulative [money flow](../m/money_flow.md) [volume](../v/volume.md), reflecting both price and [volume](../v/volume.md) to signal the strength of buying or selling pressure.
 
 4. **[Trend Indicators](../t/trend_indicators.md)**
-   - **Moving Averages (Simple, Exponential)**:
-     Moving averages smooth out price data to identify the direction of the [trend](../t/trend.md).
-   - **Parabolic Stop and Reverse ([Parabolic SAR](../p/parabolic_sar.md))**:
-     This [indicator](../i/indicator.md) is used to determine potential reversals in the price movement of traded assets.
+ - **Moving Averages (Simple, Exponential)**:
+ Moving averages smooth out price data to identify the direction of the [trend](../t/trend.md).
+ - **Parabolic Stop and Reverse ([Parabolic SAR](../p/parabolic_sar.md))**:
+ This [indicator](../i/indicator.md) is used to determine potential reversals in the price movement of traded assets.
 
 ## Working Mechanism of X-Stock Indicators
 
@@ -53,27 +53,27 @@ Once the data is analyzed, the [indicator](../i/indicator.md) generates signals 
 Algo-[trading strategies](../t/trading_strategies.md) [leverage](../l/leverage.md) X-Stock Indicators to enhance trading [efficiency](../e/efficiency.md) and profitability. These indicators can be a part of various trading mechanisms such as:
 
 1. **High-Frequency Trading (HFT)**
-   X-Stock Indicators are integral to HFT strategies which rely on executing a large number of orders at extremely fast speeds. Indicators like VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price) can help HFT systems to determine the best [execution](../e/execution.md) prices.
+ X-Stock Indicators are integral to HFT strategies which rely on executing a large number of orders at extremely fast speeds. Indicators like VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price) can help HFT systems to determine the best [execution](../e/execution.md) prices.
 
 2. **[Automated Backtesting](../a/automated_backtesting.md)**
-   Historical data processed through X-Stock Indicators can be used to simulate [trading strategies](../t/trading_strategies.md) over previous trading periods. This helps in refining strategies and enhancing their robustness before deploying them in live markets.
+ Historical data processed through X-Stock Indicators can be used to simulate [trading strategies](../t/trading_strategies.md) over previous trading periods. This helps in refining strategies and enhancing their robustness before deploying them in live markets.
 
 3. **[Risk Management](../r/risk_management.md)**
-   [Volatility](../v/volatility.md) indicators, for example, play a pivotal role in [risk management](../r/risk_management.md). They help in setting stop-loss levels and identifying potential price reversals to mitigate trading risks.
+ [Volatility](../v/volatility.md) indicators, for example, play a pivotal role in [risk management](../r/risk_management.md). They help in setting stop-loss levels and identifying potential price reversals to mitigate trading risks.
 
 4. **[Portfolio Optimization](../p/portfolio_optimization.md)**
-   Indicators can assist in diversifying and balancing portfolio assets. By analyzing [market](../m/market.md) trends and price dynamics, X-Stock Indicators can recommend [asset](../a/asset.md) reallocation to optimize returns.
+ Indicators can assist in diversifying and balancing portfolio assets. By analyzing [market](../m/market.md) trends and price dynamics, X-Stock Indicators can recommend [asset](../a/asset.md) reallocation to optimize returns.
 
 ## Examples of X-Stock Indicators in the Industry
 
 ### AlphaVantage
-[AlphaVantage](https://www.alphavantage.co/) provides a [range](../r/range.md) of APIs that deliver X-Stock Indicators data across different timeframes and markets. These APIs are used by algorithmic traders for integrating real-time signals into their [trading systems](../t/trading_systems.md).
+AlphaVantage provides a [range](../r/range.md) of APIs that deliver X-Stock Indicators data across different timeframes and markets. These APIs are used by algorithmic traders for integrating real-time signals into their [trading systems](../t/trading_systems.md).
 
 ### TradingView
-[TradingView](https://www.tradingview.com/) offers a suite of [technical analysis](../t/technical_analysis.md) tools, including several X-Stock Indicators. The platform is known for its user-friendly interface allowing traders to [overlay](../o/overlay.md) [multiple](../m/multiple.md) indicators on a single chart for a comprehensive analysis.
+TradingView offers a suite of [technical analysis](../t/technical_analysis.md) tools, including several X-Stock Indicators. The platform is known for its user-friendly interface allowing traders to [overlay](../o/overlay.md) [multiple](../m/multiple.md) indicators on a single chart for a comprehensive analysis.
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) allows developers to backtest [algorithmic trading](../a/algorithmic_trading.md) strategies using X-Stock Indicators. The platform provides a cloud-based [infrastructure](../i/infrastructure.md) where users can implement advanced [trading algorithms](../t/trading_algorithms.md) utilizing a wide array of [technical indicators](../t/technical_indicators.md).
+QuantConnect allows developers to backtest [algorithmic trading](../a/algorithmic_trading.md) strategies using X-Stock Indicators. The platform provides a cloud-based [infrastructure](../i/infrastructure.md) where users can implement advanced [trading algorithms](../t/trading_algorithms.md) utilizing a wide array of [technical indicators](../t/technical_indicators.md).
 
 ## Conclusion
 

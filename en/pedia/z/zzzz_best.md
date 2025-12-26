@@ -1,7 +1,7 @@
 # ZZZZ Best
 
 ## Overview
-ZZZZ Best is a historically significant example of corporate [fraud](../f/fraud.md) that occurred in the 1980s. It was a carpet-cleaning company founded by Barry Minkow in 1982 when he was just 16 years old. The [firm](../f/firm.md) appeared to be a highly successful company on the verge of significant [expansion](../e/expansion.md). However, it was later revealed that ZZZZ Best was largely a front for one of the most notorious Ponzi schemes and corporate frauds in modern financial history. 
+ZZZZ Best is a historically significant example of corporate [fraud](../f/fraud.md) that occurred in the 1980s. It was a carpet-cleaning company founded by Barry Minkow in 1982 when he was just 16 years old. The [firm](../f/firm.md) appeared to be a highly successful company on the verge of significant [expansion](../e/expansion.md). However, it was later revealed that ZZZZ Best was largely a front for one of the most notorious Ponzi schemes and corporate frauds in modern financial history.
 
 ## Company Formation and Initial Stages
 Barry Minkow started ZZZZ Best in his garage in Reseda, California. He initially aimed to run a legitimate carpet-cleaning [business](../b/business.md). However, the competition was intense, the margins were low, and the [business](../b/business.md) was struggling to grow. To overcome these financial difficulties, Minkow fabricated [credit card](../c/credit_card.md) charges to bolster the company's [financial statements](../f/financial_statements.md).
@@ -19,12 +19,12 @@ In December 1986, ZZZZ Best went public through a reverse [merger](../m/merger.m
 This newfound legitimacy lent the company an air of credibility, which further attracted investments and helped inflate the bubble Minkow had created. He charmed the media, and his story of a young [entrepreneur](../e/entrepreneur.md) making it big became widely publicized.
 
 ## Collapse and Exposure
-The fraudulent practices began to unravel in 1987 when an extensive article published in the Los Angeles Times raised questions about the legitimacy of ZZZZ Best’s supposed restoration projects. Subsequent investigations by journalists, auditors, and the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) exposed the full extent of the [fraud](../f/fraud.md). 
+The fraudulent practices began to unravel in 1987 when an extensive article published in the Los Angeles Times raised questions about the legitimacy of ZZZZ Best’s supposed restoration projects. Subsequent investigations by journalists, auditors, and the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) exposed the full extent of the [fraud](../f/fraud.md).
 
 In May 1987, an [internal audit](../i/internal_audit.md) uncovered fraudulent [insurance](../i/insurance.md) restoration contracts. The company's stock began to plummet, and by July 1987, ZZZZ Best filed for [bankruptcy](../b/bankruptcy.md). The fallout from the scandal was swift, with Minkow being charged with [multiple](../m/multiple.md) counts of [fraud](../f/fraud.md), [money laundering](../m/money_laundering.md), and other crimes.
 
 ## Legal Proceedings and Consequences
-Barry Minkow was convicted on 57 counts of securities [fraud](../f/fraud.md), [embezzlement](../e/embezzlement.md), [money laundering](../m/money_laundering.md), and other charges. In 1988, he was sentenced to 25 years in federal prison and ordered to pay $26 million in restitution. 
+Barry Minkow was convicted on 57 counts of securities [fraud](../f/fraud.md), [embezzlement](../e/embezzlement.md), [money laundering](../m/money_laundering.md), and other charges. In 1988, he was sentenced to 25 years in federal prison and ordered to pay $26 million in restitution.
 
 The ZZZZ Best scandal had far-reaching implications, leading to increased scrutiny and regulatory changes for public companies and those aspiring to go public. The case also served as a cautionary tale about the dangers of unchecked ambition and the lengths to which individuals might go to deceive investors and auditors.
 
@@ -33,8 +33,8 @@ Upon his eventual release from prison, Minkow became a pastor and a [fraud](../f
 ## Further Reading and Resources
 For those interested in more detailed accounts of ZZZZ Best and Barry Minkow, numerous books and articles have been written about this case. Minkow himself has appeared in various interviews discussing his actions and [offering](../o/offering.md) insights into the mind of a corporate fraudster.
 
-- [Barry Minkow's personal website](https://barryminkow.com/)
-- [U.S. Securities and Exchange Commission](https://www.sec.gov/)
+- Barry Minkow's
+- U.S. Securities and Exchange Commission
 - Book: *Cleaning Up: One Man's Redemptive Journey Through the Seductive World of Corporate Crime* by Barry Minkow and William Proctor
 
 ## Lessons Learned

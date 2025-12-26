@@ -14,7 +14,7 @@ Counteroffers in [algorithmic trading](../a/accountability.md) are essential in 
 
 ### Market Order vs. Limit Order
 
-Understanding the types of orders is crucial when discussing counteroffers. 
+Understanding the types of orders is crucial when discussing counteroffers.
 
 - **[Market Order](../m/market_order.md)**: An [order](../o/order.md) to buy or sell immediately at the current [market](../m/market.md) prices. These are executed quickly but can result in a less favorable price.
 - **[Limit Order](../l/limit_order.md)**: An [order](../o/order.md) to buy or sell at a specific price or better. These may not be executed immediately but allow for more control over the price.
@@ -94,19 +94,19 @@ HFT algorithms can analyze news feeds in real time to make trading decisions. Su
 
 ### Virtu Financial
 
-Virtu Financial is a prominent player in the field of high-frequency trading and [market](../m/market.md) making. For more information about Virtu Financial and their trading practices, visit their official website: [Virtu Financial](https://www.virtu.com/).
+Virtu Financial is a prominent player in the field of high-frequency trading and [market](../m/market.md) making.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is known for its sophisticated [quantitative trading](../q/quantitative_trading.md) models. For more insights, you can visit their official website: [Renaissance Technologies](https://www.rentech.com/).
+Renaissance Technologies, founded by Jim Simons, is known for its sophisticated [quantitative trading](../q/quantitative_trading.md) models. For more insights,
 
 ### Two Sigma
 
-Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies for [algorithmic trading](../a/accountability.md). More details can be found on their website: [Two Sigma](https://www.twosigma.com/).
+Two Sigma Investments is a [hedge fund](../h/hedge_fund.md) that employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies for [algorithmic trading](../a/accountability.md). More
 
 ### Citadel Securities
 
-Citadel Securities is a leading [market maker](../m/market_maker.md) and often employs advanced [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). For more information, visit: [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel Securities is a leading [market maker](../m/market_maker.md) and often employs advanced [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). For more information, visit: Citadel Securities.
 
 ## Challenges and Future Directions
 

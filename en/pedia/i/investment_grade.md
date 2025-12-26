@@ -4,7 +4,7 @@ Investment grade refers to bonds that are rated by [credit rating](../c/credit_r
 
 ## Credit Rating Agencies
 
-There are three major [credit rating](../c/credit_rating.md) agencies that evaluate and rate bonds and other forms of [debt](../d/debt.md): Standard & Poor's (S&P), Moody's Investors Service (Moody's), and [Fitch Ratings](../f/fitch_ratings.md). These agencies use a standardized [rating](../r/rating.md) scale to communicate the [creditworthiness](../c/creditworthiness.md) of the issuing entity. 
+There are three major [credit rating](../c/credit_rating.md) agencies that evaluate and rate bonds and other forms of [debt](../d/debt.md): Standard & Poor's (S&P), Moody's Investors Service (Moody's), and [Fitch Ratings](../f/fitch_ratings.md). These agencies use a standardized [rating](../r/rating.md) scale to communicate the [creditworthiness](../c/creditworthiness.md) of the issuing entity.
 
 ### Standard & Poor's (S&P)
 
@@ -15,7 +15,7 @@ S&P is one of the most well-known [credit rating](../c/credit_rating.md) agencie
 - **A**: High [credit](../c/credit.md) quality with a low [risk](../r/risk.md) of [default](../d/default.md).
 - **BBB**: [Good credit](../g/good_credit.md) quality, but some [risk](../r/risk.md) exists. Bonds rated at BBB- or higher are considered investment grade.
 
-[Standard & Poor's](https://www.spglobal.com/ratings)
+Standard & Poor's
 
 ### Moody's Investors Service
 
@@ -26,7 +26,7 @@ Moody's [rating](../r/rating.md) scale is similar to that of S&P but uses slight
 - **A**: [Good credit](../g/good_credit.md) quality with low [risk](../r/risk.md), but susceptible to [economic conditions](../e/economic_conditions.md).
 - **Baa**: Medium-grade [credit](../c/credit.md) quality, moderate [risk](../r/risk.md). Bonds rated at Baa3 or higher are considered investment grade.
 
-[Moody's Investors Service](https://www.moodys.com/)
+Moody's Investors Service
 
 ### Fitch Ratings
 
@@ -37,7 +37,6 @@ Moody's [rating](../r/rating.md) scale is similar to that of S&P but uses slight
 - **A**: High [credit](../c/credit.md) quality, with low [risk](../r/risk.md) but more susceptible to changes in [economic conditions](../e/economic_conditions.md).
 - **BBB**: [Good credit](../g/good_credit.md) quality with moderate [risk](../r/risk.md). Bonds rated at BBB- or higher are considered investment grade.
 
-[Fitch Ratings](https://www.fitchratings.com/)
 
 ## Different Types of Investment-Grade Bonds
 
@@ -56,7 +55,7 @@ Factors affecting [corporate bond](../c/corporate_bond.md) ratings include:
 
 ### Municipal Bonds
 
-[Municipal bonds](../m/municipal_bonds.md), or "munis," are issued by cities, states, or other local government entities. These bonds are typically used to [fund](../f/fund.md) public projects such as roads, schools, and water systems. 
+[Municipal bonds](../m/municipal_bonds.md), or "munis," are issued by cities, states, or other local government entities. These bonds are typically used to [fund](../f/fund.md) public projects such as roads, schools, and water systems.
 
 Factors affecting [municipal bond](../m/municipal_bond.md) ratings include:
 - Fiscal health of the issuing municipality

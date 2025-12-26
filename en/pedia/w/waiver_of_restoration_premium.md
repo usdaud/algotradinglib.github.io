@@ -12,15 +12,15 @@ The concept of a Restoration [Premium](../p/premium.md) relates mainly to the fi
 
 [Business](../b/business.md) interruption [insurance](../i/insurance.md) provides coverage for the loss of [income](../i/income.md) that a [business](../b/business.md) suffers after a disaster. The disaster could be anything ranging from a natural calamity like a flood or an earthquake to a man-made disaster like a fire. The Waiver of Restoration [Premium](../p/premium.md) in [business](../b/business.md) interruption [insurance](../i/insurance.md) policies ensures that after a claim, the policyholder does not have to pay additional premiums to restore their coverage limits. This is particularly crucial as businesses recovering from an interruption need as much financial breathing space as possible to get back on their feet.
 
-### Property Insurance 
+### Property Insurance
 
 In [property insurance](../p/property_insurance.md), policyholders often rebuild and restore destroyed or damaged properties. Without the waiver, they would have to pay extra premiums to reinstate the coverage limits once a claim is paid out. With the waiver, they avoid extra payments while still maintaining the necessary level of [insurance](../i/insurance.md) coverage, thereby managing their [financial planning](../f/financial_planning.md) more effectively.
 
-### Financial Products 
+### Financial Products
 
 Certain financial instruments and [derivatives](../d/derivatives.md) also embed similar clauses. For instance, catastrophe bonds and other [risk](../r/risk.md)-linked securities might feature Waiver of Restoration Premiums to ensure that investors do not face additional premiums to restore their investment's protective features post-claim. This makes such instruments more attractive by capping potential future costs.
 
-## Mechanism and Functionality 
+## Mechanism and Functionality
 
 ### How It Works
 

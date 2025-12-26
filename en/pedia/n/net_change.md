@@ -39,11 +39,11 @@ Using the previous example:
 Net change is an essential metric in trading and investment because it immediately informs [market](../m/market.md) participants about the day's price movement without requiring them to look through historical price charts. Here are several reasons why net change is significant:
 
 1. **Quick Assessment**: Net change provides a quick assessment of the day’s performance for a [security](../s/security.md), allowing traders and investors to make rapid decisions.
-   
+
 2. **[Market Sentiment](../m/market_sentiment.md)**: A continuous positive net change over [multiple](../m/multiple.md) days might indicate bullish sentiment, whereas a continuous negative net change might indicate bearish sentiment.
-   
+
 3. **Trigger Points**: Traders often set trigger points based on net changes to execute trades automatically. For instance, a large positive net change might trigger a sell [order](../o/order.md) to [capitalize](../c/capitalize.md) on gains.
-   
+
 4. **Comparison Tool**: Net change is useful for comparing the performance of [multiple](../m/multiple.md) securities or indices within the same trading day.
 
 ### Relation to Other Metrics
@@ -52,11 +52,11 @@ While net change is a standalone metric, it is often analyzed in conjunction wit
 
 ## Use Cases in Financial Technologies
 
-In financial technologies (fintech), particularly in [algorithmic trading](../a/accountability.md) (algo-trading), net change is often a critical component in the design of [trading algorithms](../t/trading_algorithms.md). These algorithms can execute trades based on pre-defined criteria, of which net change might be a part.
+In financial technologies (fintech), particularly in [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), net change is often a critical component in the design of [trading algorithms](../t/trading_algorithms.md). These algorithms can execute trades based on pre-defined criteria, of which net change might be a part.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) refers to a trading technique that uses computer algorithms to execute trades, run analysis, and manage portfolios with minimal human intervention. Net change can be a valuable metric for these algorithms:
+[Algorithmic trading](../a/algorithmic_trading.md) refers to a trading technique that uses computer algorithms to execute trades, run analysis, and manage portfolios with minimal human intervention. Net change can be a valuable metric for these algorithms:
 
 1. **Signal Generation**: Algorithms can use net change as a signal to buy or sell. For example, a significant positive net change in a short period might prompt a sell [order](../o/order.md) to [lock in profits](../l/lock_in_profits.md), while a significant negative net change might trigger a buy [order](../o/order.md) assuming a [mean reversion](../m/mean_reversion.md) strategy.
 
@@ -106,4 +106,4 @@ While net change is a valuable metric, it has some limitations:
 
 ## Conclusion
 
-Net change is a fundamental metric in [finance](../f/finance.md) and trading, providing a snapshot of price movement from one trading day to the next. While it's essential for quick assessments and comparing securities' performances, it should be used in tandem with other indicators for making well-informed trading and investment decisions. In the fintech realm, net change plays a critical role in [algorithmic trading](../a/accountability.md), [risk management](../r/risk_management.md), and [portfolio management](../p/par.md), showcasing its significance across various facets of the financial [industry](../i/industry.md). Understanding its calculation, interpretation, and applications can greatly enhance one's ability to navigate the complexities of [financial markets](../f/financial_market.md) and [trading strategies](../t/trading_strategies.md).
+Net change is a fundamental metric in [finance](../f/finance.md) and trading, providing a snapshot of price movement from one trading day to the next. While it's essential for quick assessments and comparing securities' performances, it should be used in tandem with other indicators for making well-informed trading and investment decisions. In the fintech realm, net change plays a critical role in [algorithmic trading](../a/algorithmic_trading.md), [risk management](../r/risk_management.md), and [portfolio management](../p/par.md), showcasing its significance across various facets of the financial [industry](../i/industry.md). Understanding its calculation, interpretation, and applications can greatly enhance one's ability to navigate the complexities of [financial markets](../f/financial_market.md) and [trading strategies](../t/trading_strategies.md).

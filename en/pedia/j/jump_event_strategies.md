@@ -30,9 +30,9 @@ In the context of [financial markets](../f/financial_market.md), a "jump" refers
 
 #### Example Firms Specializing in Jump Event Strategies
 
-1. **[Jump Trading](../j/jump_trading.md)**: As the name implies, [Jump Trading](../j/jump_trading.md) (https://jumptrading.com) is heavily involved in [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on sudden [market](../m/market.md) movements.
-2. **Citadel Securities**: Known for its sophisticated [trading algorithms](../t/trading_algorithms.md), Citadel Securities (https://www.citadelsecurities.com) actively engages in jump event strategies.
-3. **Jane Street**: This [firm](../f/firm.md) employs complex algorithms that can react to [market](../m/market.md) events with high precision (https://www.janestreet.com).
+1. **[Jump Trading](../j/jump_trading.md)**: As the name implies, [Jump Trading](../j/jump_trading.md) ( is heavily involved in [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on sudden [market](../m/market.md) movements.
+2. **Citadel Securities**: Known for its sophisticated [trading algorithms](../t/trading_algorithms.md), Citadel Securities ( actively engages in jump event strategies.
+3. **Jane Street**: This [firm](../f/firm.md) employs complex algorithms that can react to [market](../m/market.md) events with high precision (
 
 #### Advantages and Challenges
 

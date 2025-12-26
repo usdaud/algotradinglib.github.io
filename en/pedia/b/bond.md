@@ -23,16 +23,16 @@ Governments [issue](../i/issue.md) bonds to [finance](../f/finance.md) daily ope
 
 #### a. Treasury Bonds (T-Bonds)
 Issued by the United States Department of the Treasury, these are the safest bonds backed by the full faith and [credit](../c/credit.md) of the U.S. government.
-- [U.S. Department of the Treasury](https://www.treasury.gov/)
+- U.S. Department of the Treasury
 
 #### b. Municipal Bonds
 Issued by states, cities, or other local government entities. These bonds can [offer](../o/offer.md) [tax-free](../t/tax_free.md) [interest](../i/interest.md) [income](../i/income.md).
-- [California Municipal Bond Fund](https://californiamunicipalbonds.com/)
+- California Municipal Bond Fund
 
 ### 2. Corporate Bonds
 Corporations [issue](../i/issue.md) bonds to raise [capital](../c/capital.md) for [expansion](../e/expansion.md), acquisitions, or working [capital](../c/capital.md). Corporate bonds often [offer](../o/offer.md) higher yields but come with higher [risk](../r/risk.md) compared to government bonds.
-- [General Electric](https://www.ge.com/)
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+- General Electric
+- Berkshire Hathaway
 
 ### 3. Zero-Coupon Bonds
 These bonds do not pay periodic [interest](../i/interest.md) but are issued at a [discount](../d/discount.md) to their [face value](../f/face_value.md). The [interest](../i/interest.md) is effectively the difference between the purchase price and the [face value](../f/face_value.md) at [maturity](../m/maturity.md).
@@ -43,9 +43,9 @@ These are issued by companies with lower [credit](../c/credit.md) ratings and th
 ## Bond Ratings
 
 [Rating](../r/rating.md) agencies such as Moody's, Standard & Poor's, and [Fitch Ratings](../f/fitch_ratings.md) evaluate the [creditworthiness](../c/creditworthiness.md) of bond issuers and assign ratings. High-rated bonds ([AAA](../a/aaa.md), AA) are considered low-[risk](../r/risk.md), while lower-rated bonds (BB, B, CCC) are considered high-[risk](../r/risk.md).
-- [Moody's Investors Service](https://www.moodys.com/)
-- [S&P Global Ratings](https://www.spglobal.com/ratings/en/)
-- [Fitch Ratings](https://www.fitchratings.com/)
+- Moody's Investors Service
+- S&P Global Ratings
+- Fitch Ratings
 
 ## Bond Prices and Interest Rates
 

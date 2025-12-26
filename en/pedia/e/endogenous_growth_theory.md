@@ -67,7 +67,7 @@ The assumption of inherent scale effects in EGT has been questioned. In reality,
 ## Policy Implications
 
 ### Education and Training
-Policies aiming to enhance the quality and accessibility of education and vocational training can foster [human capital](../h/human_capital.md) formation, leading to sustained [economic growth](../e/economic_growth.md). 
+Policies aiming to enhance the quality and accessibility of education and vocational training can foster [human capital](../h/human_capital.md) formation, leading to sustained [economic growth](../e/economic_growth.md).
 
 ### Support for R&D
 Governments can play a crucial role in supporting R&D through grants, subsidies, and tax incentives. Encouraging collaboration between universities, research institutions, and private firms can further enhance innovation.

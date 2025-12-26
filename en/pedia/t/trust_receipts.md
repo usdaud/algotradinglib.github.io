@@ -69,7 +69,7 @@ Imagine a company, **XYZ Textiles**, importing fabrics from an overseas manufact
 
 ### Real-World Application
 
-Reference to a practical application can be found at the [HSBC Trade Solutions](https://www.business.hsbc.com/trade-solutions/trade-finance/trust-receipts) page, which offers detailed insights into how [trust](../t/trust.md) [receipts](../r/receipt.md) are employed in real-world international [trade](../t/trade.md) transactions.
+Reference to a practical application can be found at the HSBC Trade Solutions page, which offers detailed insights into how [trust](../t/trust.md) [receipts](../r/receipt.md) are employed in real-world international [trade](../t/trade.md) transactions.
 
 ## Conclusion
 

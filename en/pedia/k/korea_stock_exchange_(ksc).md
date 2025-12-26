@@ -87,4 +87,4 @@ While the KSE has achieved remarkable growth, it faces challenges such as [marke
 
 The Korea Stock [Exchange](../e/exchange.md) stands as a vital component of South Korea's financial [infrastructure](../i/infrastructure.md), facilitating [capital](../c/capital.md) flows, and contributing to [economic growth](../e/economic_growth.md). Through continuous innovation and adherence to high regulatory standards, KSE aims to sustain its role as a leading global stock [exchange](../e/exchange.md) in the rapidly evolving financial landscape.
 
-For more detailed information, you can visit the official Korea [Exchange](../e/exchange.md) website [here](https://global.krx.co.kr).
+For more detailed information, you can visit the official Korea [Exchange](../e/exchange.md) online platform here.

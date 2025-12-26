@@ -97,10 +97,10 @@ An example of an [asset](../a/asset.md)-based [algorithmic trading](../a/account
 
 Several firms and [software tools](../s/software_tools_for_trading.md) specialize in [asset](../a/asset.md)-based [valuation](../v/valuation.md) and [algorithmic trading](../a/accountability.md). Noteworthy entities include:
 
-- **[Morningstar](../m/morningstar.md)**: [Morningstar](https://www.morningstar.com/) offers in-depth financial data and [valuation](../v/valuation.md) tools that support [asset](../a/asset.md)-based approaches.
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) provides comprehensive financial data and analytics, widely used in [asset](../a/asset.md)-based [valuation](../v/valuation.md).
-- **[FactSet](../f/factset.md)**: [FactSet](https://www.factset.com/) integrates financial data, analytics, and [portfolio management](../p/par.md) tools useful for [asset](../a/asset.md)-based [trading strategies](../t/trading_strategies.md).
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides an [algorithmic trading](../a/accountability.md) platform, facilitating the development of [asset](../a/asset.md)-based [trading strategies](../t/trading_strategies.md).
+- **[Morningstar](../m/morningstar.md)**: Morningstar offers in-depth financial data and [valuation](../v/valuation.md) tools that support [asset](../a/asset.md)-based approaches.
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg Terminal provides comprehensive financial data and analytics, widely used in [asset](../a/asset.md)-based [valuation](../v/valuation.md).
+- **[FactSet](../f/factset.md)**: FactSet integrates financial data, analytics, and [portfolio management](../p/par.md) tools useful for [asset](../a/asset.md)-based [trading strategies](../t/trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides an [algorithmic trading](../a/accountability.md) platform, facilitating the development of [asset](../a/asset.md)-based [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

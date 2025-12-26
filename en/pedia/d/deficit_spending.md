@@ -19,7 +19,7 @@ The process of [deficit](../d/deficit.md) spending involves several key steps:
 1. **[Budget](../b/budget.md) Proposal:** The government drafts and proposes a [budget](../b/budget.md) that outlines expected revenues and planned expenditures.
 2. **Legislative Approval:** The [budget](../b/budget.md) is presented to the legislative body (e.g., Congress) for approval. Legislative debates may alter the proposed [budget](../b/budget.md).
 3. **Expenditure:** Upon approval, the government commences spending on various programs, services, and projects.
-4. **[Revenue](../r/revenue.md) Collection:** The government continues to collect revenues through [taxes](../t/taxes.md), tariffs, and other sources. 
+4. **[Revenue](../r/revenue.md) Collection:** The government continues to collect revenues through [taxes](../t/taxes.md), tariffs, and other sources.
 5. **Borrowing:** If expenditures exceed revenues, the government borrows [money](../m/money.md) to cover the [deficit](../d/deficit.md). Borrowing can occur through issuing treasury bonds, notes, or other [debt](../d/debt.md) instruments.
 
 ## Sources of Government Borrowing

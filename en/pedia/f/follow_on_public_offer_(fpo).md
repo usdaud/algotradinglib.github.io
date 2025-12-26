@@ -1,6 +1,6 @@
 # Follow On Public Offer (FPO)
 
-A Follow On Public [Offer](../o/offer.md) (FPO) is a process by which a publicly traded company issues additional [shares](../s/shares.md) to investors after its initial public [offering](../o/offering.md) (IPO). This method is leveraged by companies primarily to raise additional [capital](../c/capital.md) from the public. The raised funds can be used for various purposes such as [clearing](../c/clearing.md) debts, expanding businesses, or launching new projects. 
+A Follow On Public [Offer](../o/offer.md) (FPO) is a process by which a publicly traded company issues additional [shares](../s/shares.md) to investors after its initial public [offering](../o/offering.md) (IPO). This method is leveraged by companies primarily to raise additional [capital](../c/capital.md) from the public. The raised funds can be used for various purposes such as [clearing](../c/clearing.md) debts, expanding businesses, or launching new projects.
 
 ## Differences Between FPO and IPO
 
@@ -16,7 +16,7 @@ There are two primary types of FPOs:
 
 1. **Dilutive [Follow-on Offering](../f/follow-on_offering.md)**: In this type, new [shares](../s/shares.md) are issued, leading to a [dilution](../d/dilution.md) of [earnings](../e/earnings.md) per share (EPS) since the total number of [shares](../s/shares.md) increases. This usually results in a decrease in the share price in the short term. The [capital](../c/capital.md) raised from such [offering](../o/offering.md) is typically used for paying off [debt](../d/debt.md) or [investing](../i/investing.md) in new ventures.
 
-2. **Non-Dilutive [Follow-on Offering](../f/follow-on_offering.md)**: This involves the [sale](../s/sale.md) of [shares](../s/shares.md) that are already existing. Usually, large shareholders, like directors of the company or other [pre-IPO](../p/pre-ipo.md) investors, sell their own [shares](../s/shares.md) to the public. Since no new [shares](../s/shares.md) are issued, there is no [dilution](../d/dilution.md) of the EPS. 
+2. **Non-Dilutive [Follow-on Offering](../f/follow-on_offering.md)**: This involves the [sale](../s/sale.md) of [shares](../s/shares.md) that are already existing. Usually, large shareholders, like directors of the company or other [pre-IPO](../p/pre-ipo.md) investors, sell their own [shares](../s/shares.md) to the public. Since no new [shares](../s/shares.md) are issued, there is no [dilution](../d/dilution.md) of the EPS.
 
 ## Mechanism of an FPO
 
@@ -48,13 +48,11 @@ The process of an FPO involves several steps:
 
 One of the well-known examples of an FPO is Facebook’s [follow-on offering](../f/follow-on_offering.md) in December 2013. Facebook issued an additional 70 million [shares](../s/shares.md) to the public, raising about $3.9 billion. This allowed the company to ensure more [liquidity](../l/liquidity.md) and use the funds for corporate purposes.
 
-**Link**: [Facebook Investor Relations](https://investor.fb.com/home/default.aspx)
 
 ### Tesla's FPO (2020)
 
 Another significant example is that of Tesla's [follow-on offering](../f/follow-on_offering.md) in 2020. Tesla raised $2 billion through this [offering](../o/offering.md) by selling 2.65 million [shares](../s/shares.md). The funds raised were primarily for general corporate purposes and strengthening their [balance sheet](../b/balance_sheet.md).
 
-**Link**: [Tesla Investor Relations](https://ir.tesla.com/)
 
 ## Conclusion
 

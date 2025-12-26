@@ -51,7 +51,7 @@ Even though the weak form of EMH argues against the efficacy of [technical analy
 
 ### High-Frequency Trading (HFT)
 
-High-frequency trading leverages ultra-fast data feeds and low-latency [execution](../e/execution.md) to [capitalize](../c/capitalize.md) on minuscule inefficiencies and momentary price discrepancies that occur in the markets. HFT firms like Virtu Financial (https://www.virtu.com/) and Citadel Securities (https://www.citadelsecurities.com/) exemplify the cutting-edge of this strategy.
+High-frequency trading leverages ultra-fast data feeds and low-latency [execution](../e/execution.md) to [capitalize](../c/capitalize.md) on minuscule inefficiencies and momentary price discrepancies that occur in the markets. HFT firms like Virtu Financial ( and Citadel Securities ( exemplify the cutting-edge of this strategy.
 
 ### Market Microstructure and Impact on Efficiency
 

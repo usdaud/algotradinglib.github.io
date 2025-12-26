@@ -86,13 +86,13 @@ Beyond [duration](../d/duration.md), [convexity](../c/convexity.md) measures the
 Several financial technology and analytics firms provide tools and software for calculating and managing dollar [duration](../d/duration.md). Examples include:
 
 ### Bloomberg Terminal
-[Bloomberg](../b/bloomberg.md)'s platform offers comprehensive tools for calculating dollar [duration](../d/duration.md) and other fixed-[income](../i/income.md) analytics. Find more details [here](https://www.bloomberg.com/professional/solution/portfolios/).
+[Bloomberg](../b/bloomberg.md)'s platform offers comprehensive tools for calculating dollar [duration](../d/duration.md) and other fixed-[income](../i/income.md) analytics. Find more details here.
 
 ### MATLAB Financial Toolbox
-The MATLAB Financial Toolbox provides functions for calculating [duration](../d/duration.md), dollar [duration](../d/duration.md), and other [bond](../b/bond.md) metrics. Find more information [here](https://www.mathworks.com/products/finance.html).
+The MATLAB Financial Toolbox provides functions for calculating [duration](../d/duration.md), dollar [duration](../d/duration.md), and other [bond](../b/bond.md) metrics. Find more information here.
 
 ### Charles River Development
-Charles River offers [investment management](../i/investment_management.md) software that includes tools for [risk management](../r/risk_management.md), including the calculation of dollar [duration](../d/duration.md). More information can be found [here](https://www.crd.com/).
+Charles River offers [investment management](../i/investment_management.md) software that includes tools for [risk management](../r/risk_management.md), including the calculation of dollar [duration](../d/duration.md). More information can be found here.
 
 ## Case Studies
 

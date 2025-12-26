@@ -49,7 +49,7 @@ An [accelerated depreciation](../a/accelerated_depreciation.md) method that doub
 
 Consider a [manufacturing](../m/manufacturing.md) company that purchases equipment for $100,000 with an estimated [useful life](../u/useful_life.md) of 10 years and a [residual value](../r/residual_value.md) of $10,000. Using straight-line [depreciation](../d/depreciation.md):
 
-1. **Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md)**: 
+1. **Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md)**:
 \[ \frac{100,000 - 10,000}{10} = 9,000 \]
 2. **Accumulated [Depreciation](../d/depreciation.md) after 3 years**:
 \[ 3 \times 9,000 = 27,000 \]
@@ -70,9 +70,9 @@ For instance, Section 179 of the IRS Tax Code allows businesses to deduct the fu
 
 Several [software tools](../s/software_tools_for_trading.md) aid businesses in tracking and managing [depreciation](../d/depreciation.md). These tools automate calculations, ensure compliance with [accounting](../a/accounting.md) standards, and enhance accuracy in financial reporting.
 
-1. **QuickBooks**: [Link to QuickBooks](https://quickbooks.intuit.com/)
-2. **Sage Intacct**: [Link to Sage Intacct](https://www.sageintacct.com/)
-3. **FreshBooks**: [Link to FreshBooks](https://www.freshbooks.com/)
+1. **QuickBooks**: Link to QuickBooks
+2. **Sage Intacct**: Link to Sage Intacct
+3. **FreshBooks**: Link to FreshBooks
 
 ## Conclusion
 

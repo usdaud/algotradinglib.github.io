@@ -92,7 +92,7 @@ Here’s a basic example of implementing a fixed and [trailing stop](../t/traili
 [import](../i/import.md) numpy as np
 
 # Sample historical price data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'date': pd.date_range(start='2022-01-01', periods=100),
     'price': np.random.normal(100, 10, size=100)
 })
@@ -133,7 +133,7 @@ for i in [range](../r/range.md)(1, len(data)):
                 break
 
 # Create a DataFrame of results
-results = pd.DataFrame({
+results = pd.DataFrame{
     'trade_date': trade_dates,
     'exit_price': exit_prices,
     '[profit](../p/profit.md)': profits
@@ -148,9 +148,9 @@ In this example, we set up a simple stop-loss strategy that uses both a fixed st
 
 For more advanced implementations and support, several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md) solutions. Here are a few notable ones:
 
-- [QuantConnect](https://www.quantconnect.com/): An [algorithmic trading](../a/algorithmic_trading.md) platform integrating research and live trading.
-- [Kensho](https://www.kensho.com/): Provides advanced analytics and trading solutions powered by AI.
-- [AlgoTrader](https://www.algotrader.com/): A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+- QuantConnect: An [algorithmic trading](../a/algorithmic_trading.md) platform integrating research and live trading.
+- Kensho: Provides advanced analytics and trading solutions powered by AI.
+- AlgoTrader: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
 ## Conclusion
 

@@ -81,28 +81,28 @@ Incorporating [behavioral finance](../b/behavioral_finance.md) insights into per
 ## Companies and Tools
 
 ### 1. QuantConnect
-[QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and allows users to backtest strategies using historical data.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and allows users to backtest strategies using historical data.
 
 ### 2. Interactive Brokers (IBKR)
-[Interactive Brokers](https://www.interactivebrokers.com/) provides a comprehensive suite of tools for algorithmic traders, including an API for integrating custom [trading algorithms](../t/trading_algorithms.md). IBKR offers access to a wide [range](../r/range.md) of financial instruments and advanced [performance metrics](../p/performance_metrics.md).
+Interactive Brokers provides a comprehensive suite of tools for algorithmic traders, including an API for integrating custom [trading algorithms](../t/trading_algorithms.md). IBKR offers access to a wide [range](../r/range.md) of financial instruments and advanced [performance metrics](../p/performance_metrics.md).
 
 ### 3. MetaTrader 4/5
-[MetaTrader](https://www.metatrader4.com/) is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) through its scripting language, MQL. It allows users to develop and backtest trading robots, [technical indicators](../t/technical_indicators.md), and [trading strategies](../t/trading_strategies.md).
+MetaTrader is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) through its scripting language, MQL. It allows users to develop and backtest trading robots, [technical indicators](../t/technical_indicators.md), and [trading strategies](../t/trading_strategies.md).
 
 ### 4. Alpaca
-[Alpaca](https://alpaca.markets/) provides a [commission](../c/commission.md)-free trading API for building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [Alpaca](../a/alpaca.md)'s platform supports [real-time market data](../r/real-time_market_data.md) and paper trading for strategy testing.
+Alpaca provides a [commission](../c/commission.md)-free trading API for building and executing [algorithmic trading](../a/algorithmic_trading.md) strategies. [Alpaca](../a/alpaca.md)'s platform supports [real-time market data](../r/real-time_market_data.md) and paper trading for strategy testing.
 
 ### 5. TradeStation
-[TradeStation](https://www.tradestation.com/) offers a powerful platform for [algorithmic trading](../a/algorithmic_trading.md) with advanced charting, [backtesting](../b/backtesting.md), and performance analysis tools. [TradeStation](../t/tradestation.md)'s EasyLanguage programming language enables traders to develop custom indicators and strategies.
+TradeStation offers a powerful platform for [algorithmic trading](../a/algorithmic_trading.md) with advanced charting, [backtesting](../b/backtesting.md), and performance analysis tools. [TradeStation](../t/tradestation.md)'s EasyLanguage programming language enables traders to develop custom indicators and strategies.
 
 ### 6. QuantConnect
-[QuantConnect](https://www.quantconnect.com/) offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and allows users to backtest strategies using historical data.
+QuantConnect offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for designing, testing, and deploying [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and allows users to backtest strategies using historical data.
 
 ### 7. Numerai
-[Numerai](https://numer.ai/) is an AI-driven [hedge fund](../h/hedge_fund.md) that utilizes machine [learning algorithms](../l/learning_algorithms_in_trading.md) developed by a global community of data scientists. Numerai combines diverse [predictive models](../p/predictive_models_in_trading.md) to drive trading decisions and maximize performance.
+Numerai is an AI-driven [hedge fund](../h/hedge_fund.md) that utilizes machine [learning algorithms](../l/learning_algorithms_in_trading.md) developed by a global community of data scientists. Numerai combines diverse [predictive models](../p/predictive_models_in_trading.md) to drive trading decisions and maximize performance.
 
 ### 8. Quantlib
-[Quantlib](https://www.quantlib.org/) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). [Quantlib](../q/quantlib.md)'s extensive functionality supports sophisticated performance analysis.
+Quantlib is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for pricing [derivatives](../d/derivatives.md), managing portfolios, and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). [Quantlib](../q/quantlib.md)'s extensive functionality supports sophisticated performance analysis.
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Written Premium
 
-In the [insurance](../i/insurance.md) [industry](../i/industry.md), the term "written [premium](../p/premium.md)" holds significant [value](../v/value.md) and plays a crucial role in understanding an [insurance](../i/insurance.md) company's [financial health](../f/financial_health.md) and [market](../m/market.md) position. Written [premium](../p/premium.md) refers to the total amount of [premium](../p/premium.md) an [insurance](../i/insurance.md) company writes or registers within a specific period, regardless of whether it has been received. This metric is essential in both non-life (property and casualty) and [life insurance](../l/life_insurance.md) sectors. 
+In the [insurance](../i/insurance.md) [industry](../i/industry.md), the term "written [premium](../p/premium.md)" holds significant [value](../v/value.md) and plays a crucial role in understanding an [insurance](../i/insurance.md) company's [financial health](../f/financial_health.md) and [market](../m/market.md) position. Written [premium](../p/premium.md) refers to the total amount of [premium](../p/premium.md) an [insurance](../i/insurance.md) company writes or registers within a specific period, regardless of whether it has been received. This metric is essential in both non-life (property and casualty) and [life insurance](../l/life_insurance.md) sectors.
 
 ## Definition and Calculation
 
@@ -104,5 +104,4 @@ Macro-[economic conditions](../e/economic_conditions.md) can significantly impac
 
 Written [premium](../p/premium.md) is an essential metric in the [insurance](../i/insurance.md) [industry](../i/industry.md), reflecting the potential [revenue](../r/revenue.md) an insurer can generate within a specific time period. It plays a pivotal role in [revenue](../r/revenue.md) estimation, financial reporting, and strategic planning. However, it also comes with challenges that insurers must navigate, including [premium](../p/premium.md) [leakage](../l/leakage.md) and collectability [risk](../r/risk.md). By closely monitoring written premiums and related [performance indicators](../p/performance_indicators.md), [insurance](../i/insurance.md) companies can make informed decisions to enhance their [business](../b/business.md) operations and maintain financial stability.
 
-For more in-depth details on specific [insurance](../i/insurance.md) products and services, visit companies like [Allianz](https://www.allianz.com/) and [Aetna](https://www.aetna.com/).
-
+For more in-depth details on specific [insurance](../i/insurance.md) products and services, visit companies like Allianz and Aetna.

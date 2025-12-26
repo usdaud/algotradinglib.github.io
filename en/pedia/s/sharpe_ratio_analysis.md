@@ -56,13 +56,13 @@ While the [Sharpe Ratio](../s/sharpe_ratio.md) is a powerful tool, it has its li
 ## Companies Utilizing Sharpe Ratio
 
 ### Two Sigma Investments
-Two Sigma (https://www.twosigma.com/) is a [hedge fund](../h/hedge_fund.md) that heavily utilizes [quantitative analysis](../q/quantitative_analysis.md) and the [Sharpe Ratio](../s/sharpe_ratio.md) in their [trading algorithms](../t/trading_algorithms.md) to manage and optimize their investment strategies.
+Two Sigma ( is a [hedge fund](../h/hedge_fund.md) that heavily utilizes [quantitative analysis](../q/quantitative_analysis.md) and the [Sharpe Ratio](../s/sharpe_ratio.md) in their [trading algorithms](../t/trading_algorithms.md) to manage and optimize their investment strategies.
 
 ### Renaissance Technologies
-Renaissance Technologies (https://www.rentec.com/) is another [firm](../f/firm.md) where the [Sharpe Ratio](../s/sharpe_ratio.md) plays a critical role in the evaluation of their high-frequency [trading strategies](../t/trading_strategies.md).
+Renaissance Technologies ( is another [firm](../f/firm.md) where the [Sharpe Ratio](../s/sharpe_ratio.md) plays a critical role in the evaluation of their high-frequency [trading strategies](../t/trading_strategies.md).
 
 ### AQR Capital Management
-AQR (https://www.aqr.com/) employs sophisticated quantitative methods, including the use of the [Sharpe Ratio](../s/sharpe_ratio.md), to build and manage diversified portfolios.
+AQR ( employs sophisticated quantitative methods, including the use of the [Sharpe Ratio](../s/sharpe_ratio.md), to build and manage diversified portfolios.
 
 ## Advanced Topics
 ### Modified Sharpe Ratio

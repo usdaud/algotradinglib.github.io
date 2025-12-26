@@ -60,19 +60,19 @@ In the current [financial markets](../f/financial_market.md), BEY continues to f
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) ( [Bloomberg Bond Yield Calculator](https://www.bloomberg.com)) integrates BEY in its [data analytics](../d/data_analytics.md) tools for fixed-[income](../i/income.md) securities enabling traders to gauge and compare [bond](../b/bond.md) yields effectively.
+[Bloomberg](../b/bloomberg.md) ( Bloomberg Bond Yield Calculator) integrates BEY in its [data analytics](../d/data_analytics.md) tools for fixed-[income](../i/income.md) securities enabling traders to gauge and compare [bond](../b/bond.md) yields effectively.
 
 ### Market Axess
 
-[Market](../m/market.md) Axess ( [Market Axess Bond Trading Platform](https://www.marketaxess.com)) provides an electronic [bond](../b/bond.md) and [credit](../c/credit.md) [derivative](../d/derivative.md) [trading platform](../t/trading_platform.md) where BEY is used for trading corporate bonds, facilitating [market](../m/market.md) participants to make informed decisions on investments.
+[Market](../m/market.md) Axess ( Market Axess Bond Trading Platform) provides an electronic [bond](../b/bond.md) and [credit](../c/credit.md) [derivative](../d/derivative.md) [trading platform](../t/trading_platform.md) where BEY is used for trading corporate bonds, facilitating [market](../m/market.md) participants to make informed decisions on investments.
 
 ### Moody's Analytics
 
-Moody's Analytics ( [Moody's Bond Yields](https://www.moodysanalytics.com)) provides financial intelligence and analytical tools incorporating BEY in their [credit](../c/credit.md) analysis and [risk management](../r/risk_management.md) solutions.
+Moody's Analytics ( Moody's Bond Yields) provides financial intelligence and analytical tools incorporating BEY in their [credit](../c/credit.md) analysis and [risk management](../r/risk_management.md) solutions.
 
 ### FactSet
 
-[FactSet](../f/factset.md) ( [FactSet Bond Analytics](https://www.factset.com)) offers integrated data and software solutions using BEY for fixed-[income](../i/income.md) portfolio analytics and [risk](../r/risk.md) assessment.
+[FactSet](../f/factset.md) ( FactSet Bond Analytics) offers integrated data and software solutions using BEY for fixed-[income](../i/income.md) portfolio analytics and [risk](../r/risk.md) assessment.
 
 ## Conclusion
 

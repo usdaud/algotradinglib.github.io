@@ -8,29 +8,29 @@ Recurring [revenue](../r/revenue.md) is a financial concept that refers to the p
 
 Subscription models are among the most common forms of recurring [revenue](../r/revenue.md). In a subscription model, customers pay a regular [fee](../f/fee.md), usually on a monthly or annual [basis](../b/basis.md), to access a product or service. This model is popular in a variety of industries including software (e.g., Software as a Service, SaaS), media, and more. Examples:
 
-- **Software as a Service (SaaS)**: Companies like [Salesforce](https://www.salesforce.com) and [Adobe](https://www.adobe.com) [offer](../o/offer.md) their products on a subscription [basis](../b/basis.md).
-- **Media and Entertainment**: Subscription services like [Netflix](https://www.netflix.com) and [Spotify](https://www.spotify.com) [offer](../o/offer.md) streaming content for a monthly [fee](../f/fee.md).
+- **Software as a Service (SaaS)**: Companies like Salesforce and Adobe [offer](../o/offer.md) their products on a subscription [basis](../b/basis.md).
+- **Media and Entertainment**: Subscription services like Netflix and Spotify [offer](../o/offer.md) streaming content for a monthly [fee](../f/fee.md).
 
 ### 2. Membership Models
 
 Membership models are similar to subscription models but often include additional benefits such as exclusive content, products, or services that are only available to members. Examples:
 
-- **Wholesale Clubs**: Retailers like [Costco](https://www.costco.com) and [Sam's Club](https://www.samsclub.com) operate on a membership model where customers pay an annual [fee](../f/fee.md) to access the stores and benefit from the wholesale pricing.
-- **Professional Organizations**: Groups like the [American Bar Association](https://www.americanbar.org) or [IEEE](https://www.ieee.org) [offer](../o/offer.md) members access to resources, events, and [networking](../n/networking.md) opportunities for an annual [fee](../f/fee.md).
+- **Wholesale Clubs**: Retailers like Costco and Sam's Club operate on a membership model where customers pay an annual [fee](../f/fee.md) to access the stores and benefit from the wholesale pricing.
+- **Professional Organizations**: Groups like the American Bar Association or IEEE [offer](../o/offer.md) members access to resources, events, and [networking](../n/networking.md) opportunities for an annual [fee](../f/fee.md).
 
 ### 3. Service Contracts
 
 Service contracts are another common form of recurring [revenue](../r/revenue.md). These contracts ensure that customers receive ongoing service in [exchange](../e/exchange.md) for regular payments. Examples:
 
-- **Maintenance Contracts**: Companies like [ServiceMaster](https://www.servicemaster.com) [offer](../o/offer.md) ongoing maintenance services for homes and businesses through recurring contracts.
-- **Telecommunications**: Companies such as [Verizon](https://www.verizon.com) and [AT&T](https://www.att.com) [offer](../o/offer.md) monthly service contracts for phone, internet, and television services.
+- **Maintenance Contracts**: Companies like ServiceMaster [offer](../o/offer.md) ongoing maintenance services for homes and businesses through recurring contracts.
+- **Telecommunications**: Companies such as Verizon and AT&T [offer](../o/offer.md) monthly service contracts for phone, internet, and television services.
 
 ### 4. Leasing Models
 
 Leasing models involve the regular [payment](../p/payment.md) for the use of an [asset](../a/asset.md), such as a piece of equipment, vehicle, or [real estate](../r/real_estate.md). Examples:
 
-- **[Real Estate](../r/real_estate.md) Leasing**: Companies like [WeWork](https://www.wework.com) and [Regus](https://www.regus.com) [offer](../o/offer.md) office spaces on a leasing [basis](../b/basis.md), generating monthly recurring [revenue](../r/revenue.md).
-- **Equipment Leasing**: Companies like [Caterpillar](https://www.caterpillar.com) lease heavy machinery and construction equipment to other businesses.
+- **[Real Estate](../r/real_estate.md) Leasing**: Companies like WeWork and Regus [offer](../o/offer.md) office spaces on a leasing [basis](../b/basis.md), generating monthly recurring [revenue](../r/revenue.md).
+- **Equipment Leasing**: Companies like Caterpillar lease heavy machinery and construction equipment to other businesses.
 
 ## Benefits of Recurring Revenue
 
@@ -110,15 +110,15 @@ To illustrate the application and benefits of recurring [revenue](../r/revenue.m
 
 ### 1. Salesforce
 
-[Salesforce](https://www.salesforce.com), a leader in the [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) [industry](../i/industry.md), operates primarily on a SaaS subscription model. The company generates recurring [revenue](../r/revenue.md) by [offering](../o/offering.md) businesses access to its CRM platform on a subscription [basis](../b/basis.md). Salesforce's recurring [revenue](../r/revenue.md) has provided the company with a stable and predictable [income](../i/income.md) stream, facilitating its growth and [expansion](../e/expansion.md) into new markets.
+Salesforce, a leader in the [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) [industry](../i/industry.md), operates primarily on a SaaS subscription model. The company generates recurring [revenue](../r/revenue.md) by [offering](../o/offering.md) businesses access to its CRM platform on a subscription [basis](../b/basis.md). Salesforce's recurring [revenue](../r/revenue.md) has provided the company with a stable and predictable [income](../i/income.md) stream, facilitating its growth and [expansion](../e/expansion.md) into new markets.
 
 ### 2. Netflix
 
-[Netflix](https://www.netflix.com) is a prime example of a media company thriving on a subscription model. By [offering](../o/offering.md) a vast library of streaming content for a monthly [fee](../f/fee.md), Netflix has established a steady source of recurring [revenue](../r/revenue.md). The company's ability to continuously provide [value](../v/value.md) through original content and a vast streaming library has resulted in high [customer](../c/customer.md) retention and sustained [revenue](../r/revenue.md) growth.
+Netflix is a prime example of a media company thriving on a subscription model. By [offering](../o/offering.md) a vast library of streaming content for a monthly [fee](../f/fee.md), Netflix has established a steady source of recurring [revenue](../r/revenue.md). The company's ability to continuously provide [value](../v/value.md) through original content and a vast streaming library has resulted in high [customer](../c/customer.md) retention and sustained [revenue](../r/revenue.md) growth.
 
 ### 3. Adobe
 
-[Adobe](https://www.adobe.com) transitioned from a traditional software sales model to a subscription-based model with the launch of Adobe Creative Cloud. By [offering](../o/offering.md) access to its suite of creative software on a subscription [basis](../b/basis.md), Adobe has transformed its [revenue](../r/revenue.md) structure into a more predictable and stable model, benefiting from recurring [revenue](../r/revenue.md) and increasing [customer](../c/customer.md) loyalty.
+Adobe transitioned from a traditional software sales model to a subscription-based model with the launch of Adobe Creative Cloud. By [offering](../o/offering.md) access to its suite of creative software on a subscription [basis](../b/basis.md), Adobe has transformed its [revenue](../r/revenue.md) structure into a more predictable and stable model, benefiting from recurring [revenue](../r/revenue.md) and increasing [customer](../c/customer.md) loyalty.
 
 ## The Role of Technology in Recurring Revenue Models
 
@@ -142,7 +142,7 @@ CRM systems like Salesforce help companies manage [customer](../c/customer.md) i
 
 ### 5. Payment Processing Solutions
 
-Reliable and secure [payment](../p/payment.md) processing solutions are essential for handling subscriptions and recurring payments. Companies like [Stripe](https://www.stripe.com) and [PayPal](https://www.paypal.com) [offer](../o/offer.md) [robust](../r/robust.md) [payment](../p/payment.md) processing services that support various [payment](../p/payment.md) methods and currencies, ensuring smooth and hassle-free transactions for customers.
+Reliable and secure [payment](../p/payment.md) processing solutions are essential for handling subscriptions and recurring payments. Companies like Stripe and PayPal [offer](../o/offer.md) [robust](../r/robust.md) [payment](../p/payment.md) processing services that support various [payment](../p/payment.md) methods and currencies, ensuring smooth and hassle-free transactions for customers.
 
 ## Future Trends in Recurring Revenue Models
 

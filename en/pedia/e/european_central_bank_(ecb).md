@@ -2,7 +2,7 @@
 
 ## Introduction to the European Central Bank
 
-The European Central [Bank](../b/bank.md) (ECB) is a critical monetary institution within the [European Union](../e/european_union_(eu).md) (EU) tasked with overseeing the [monetary policy](../m/monetary_policy.md) of the [Eurozone](../e/eurozone.md), which includes 19 of the 27 EU member states that use the [euro](../e/euro.md) (€) as their [currency](../c/currency.md). Established on June 1, 1998, the ECB was created to ensure price stability within the [Eurozone](../e/eurozone.md) and to manage [monetary policy](../m/monetary_policy.md) to support economic stability and growth. 
+The European Central [Bank](../b/bank.md) (ECB) is a critical monetary institution within the [European Union](../e/european_union_(eu).md) (EU) tasked with overseeing the [monetary policy](../m/monetary_policy.md) of the [Eurozone](../e/eurozone.md), which includes 19 of the 27 EU member states that use the [euro](../e/euro.md) (€) as their [currency](../c/currency.md). Established on June 1, 1998, the ECB was created to ensure price stability within the [Eurozone](../e/eurozone.md) and to manage [monetary policy](../m/monetary_policy.md) to support economic stability and growth.
 
 ## Role and Objectives of the ECB
 
@@ -25,7 +25,7 @@ The Governing Council is the main decision-making body of the ECB. It consists o
 The Executive Board is responsible for the implementation of [monetary policy](../m/monetary_policy.md) as determined by the Governing Council. It consists of six members:
 - The President
 - The Vice-President
-- Four other members 
+- Four other members
 
 ### General Council
 The General Council, which includes the President and Vice-President of the ECB and the governors of the national central banks of all EU member states, has a consultative function.

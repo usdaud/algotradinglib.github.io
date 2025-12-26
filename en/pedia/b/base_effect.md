@@ -30,9 +30,9 @@ In [algorithmic trading](../a/accountability.md), the base effect can affect:
 
 ### Data Analysis
 
-###### Link: [Algorithmic Trading Company Example](https://www.alpaca.markets)
+###### Link: Algorithmic Trading Company Example
 
-Algorithms rely on historical data to predict future trends and make trading decisions. If this data is skewed due to base effects, algorithms can misidentify trends. 
+Algorithms rely on historical data to predict future trends and make trading decisions. If this data is skewed due to base effects, algorithms can misidentify trends.
 
 1. **Prediction Accuracy**: Models might overestimate growth or decline rates based on inflated historical data, leading to incorrect predictions.
 2. **Strategy Validation**: [Backtesting](../b/backtesting.md) results might appear overly optimistic or pessimistic, depending on the [base year](../b/base_year.md) selected for comparison.

@@ -68,18 +68,16 @@ Despite the potential benefits, proprietary trading is fraught with risks:
 Several leading firms in the [industry](../i/industry.md) have made a name for themselves through sophisticated [trading strategies](../t/trading_strategies.md) and advanced technologies.
 
 ### Jane Street
-[Jane Street](https://www.janestreet.com/) is renowned for its [quantitative trading](../q/quantitative_trading.md) expertise and sophisticated algorithms. 
-
+Jane Street is renowned for its [quantitative trading](../q/quantitative_trading.md) expertise and sophisticated algorithms.
 ### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com/) is a global [market maker](../m/market_maker.md) active in [multiple](../m/multiple.md) [asset](../a/asset.md) classes and uses advanced technology and research to drive its trading operations.
+Citadel Securities is a global [market maker](../m/market_maker.md) active in [multiple](../m/multiple.md) [asset](../a/asset.md) classes and uses advanced technology and research to drive its trading operations.
 
 ### Virtu Financial
-[Virtu Financial](https://www.virtu.com/) is a notable high-frequency trading and [market](../m/market.md)-making [firm](../f/firm.md) that leverages advanced technological innovations to execute trades efficiently.
+Virtu Financial is a notable high-frequency trading and [market](../m/market.md)-making [firm](../f/firm.md) that leverages advanced technological innovations to execute trades efficiently.
 
 ### Two Sigma
-[Two Sigma](https://www.twosigma.com/) focuses on employing [data science](../d/data_science_in_trading.md) and technology-driven methods to explore opportunities in the [financial markets](../f/financial_market.md).
+Two Sigma focuses on employing [data science](../d/data_science_in_trading.md) and technology-driven methods to explore opportunities in the [financial markets](../f/financial_market.md).
 
 ## Conclusion
 
 Proprietary trading remains a dynamic and highly competitive area of the [financial markets](../f/financial_market.md). It combines advanced technologies, sophisticated [trading strategies](../t/trading_strategies.md), and significant [risk](../r/risk.md) to generate substantial profits for trading institutions. Continual advancements in technology and quantitative methods ensure that proprietary trading [will](../w/will.md) evolve and adapt to changing [market](../m/market.md) conditions, [offering](../o/offering.md) both challenges and opportunities for those involved.
-

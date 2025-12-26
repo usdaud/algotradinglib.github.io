@@ -108,9 +108,9 @@ plt.show()
 
 Several companies and trading platforms utilize the least squares method in their [trading algorithms](../t/trading_algorithms.md):
 
-1. **[QuantConnect](../q/quantconnect.md)**: Provides a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. [QuantConnect](https://www.quantconnect.com/)
-2. **Kensho Technologies**: Uses advanced analytics, including regression models, for financial intelligence. [Kensho Technologies](https://www.kensho.com/)
-3. **Quantopian**: (Now part of [Robinhood](../r/robinhood.md)) Focused on providing a platform for [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. [Robinhood](https://robinhood.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a platform for designing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies. QuantConnect
+2. **Kensho Technologies**: Uses advanced analytics, including regression models, for financial intelligence. Kensho Technologies
+3. **Quantopian**: (Now part of [Robinhood](../r/robinhood.md)) Focused on providing a platform for [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies. Robinhood
 
 ### Conclusion
 

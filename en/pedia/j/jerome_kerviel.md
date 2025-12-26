@@ -79,4 +79,3 @@ The Jerome Kerviel case serves as a cautionary tale in the financial world, illu
 
 Jerome Kerviel's story is a complex and multi-faceted narrative that continues to [hold](../h/hold.md) relevance in discussions about [financial risk](../f/financial_risk.md), ethics, and regulation. While his actions had devastating consequences, they have also catalyzed significant changes in the way financial institutions operate, underscoring the critical importance of [robust](../r/robust.md) [risk management](../r/risk_management.md) and ethical vigilance in trading environments.
 
-For more information on Société Générale, you can visit their official [website](https://www.societegenerale.com).

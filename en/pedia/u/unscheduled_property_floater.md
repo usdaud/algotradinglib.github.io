@@ -1,12 +1,12 @@
 # Unscheduled Property Floater
 
-An unscheduled property floater is a type of [insurance](../i/insurance.md) policy or [endorsement](../e/endorsement.md) that provides coverage for [personal property](../p/personal_property.md) items without specifically listing them or assigning individual values. This type of policy is especially useful for items that are high in [value](../v/value.md) or prone to damage, loss, or theft, where the collective [value](../v/value.md) exceeds the standard coverage limits provided by a typical homeowner's or [renter's insurance](../r/renter's_insurance.md) policy. 
+An unscheduled property floater is a type of [insurance](../i/insurance.md) policy or [endorsement](../e/endorsement.md) that provides coverage for [personal property](../p/personal_property.md) items without specifically listing them or assigning individual values. This type of policy is especially useful for items that are high in [value](../v/value.md) or prone to damage, loss, or theft, where the collective [value](../v/value.md) exceeds the standard coverage limits provided by a typical homeowner's or [renter's insurance](../r/renter's_insurance.md) policy.
 
 ## Understanding Unscheduled Property Floaters
 
 ### Basic Concept
 
-The unscheduled property floater is designed to fill [gaps](../g/gap.md) left by traditional [insurance](../i/insurance.md) policies. Most homeowner's or [renter's insurance](../r/renter's_insurance.md) policies [will](../w/will.md) have specific limits on the coverage for certain types of [personal property](../p/personal_property.md), such as jewelry, electronics, or collectibles. If the [value](../v/value.md) of these items surpasses the limit, the policyholder could face considerable [out-of-pocket expenses](../o/out-of-pocket_expenses.md) in the event of loss or damage. 
+The unscheduled property floater is designed to fill [gaps](../g/gap.md) left by traditional [insurance](../i/insurance.md) policies. Most homeowner's or [renter's insurance](../r/renter's_insurance.md) policies [will](../w/will.md) have specific limits on the coverage for certain types of [personal property](../p/personal_property.md), such as jewelry, electronics, or collectibles. If the [value](../v/value.md) of these items surpasses the limit, the policyholder could face considerable [out-of-pocket expenses](../o/out-of-pocket_expenses.md) in the event of loss or damage.
 
 An unscheduled property floater provides additional coverage for these items, without the need to itemize each one individually. This is different from a "scheduled" property floater, where each item must be [listed](../l/listed.md) along with its [value](../v/value.md).
 
@@ -61,10 +61,10 @@ In the event of a claim, the general steps are:
 
 ## Industry Examples
 
-- **Allstate**: Offers an add-on "[personal property](../p/personal_property.md) floater" to cover items like jewelry, musical instruments, and fine arts. [Allstate](https://www.allstate.com)
-- **State Farm**: Provides [options](../o/options.md) for personal articles policy covering a wide [range](../r/range.md) of possessions with flexible limits. [State Farm](https://www.statefarm.com)
-- **GEICO**: Provides additional [personal property](../p/personal_property.md) coverage [options](../o/options.md) through their partnerships with other [insurance](../i/insurance.md) companies. [GEICO](https://www.geico.com)
-- **USAA**: Specializes in providing comprehensive [personal property](../p/personal_property.md) coverage, including floaters for high-[value](../v/value.md) items. [USAA](https://www.usaa.com)
+- **Allstate**: Offers an add-on "[personal property](../p/personal_property.md) floater" to cover items like jewelry, musical instruments, and fine arts. Allstate
+- **State Farm**: Provides [options](../o/options.md) for personal articles policy covering a wide [range](../r/range.md) of possessions with flexible limits. State Farm
+- **GEICO**: Provides additional [personal property](../p/personal_property.md) coverage [options](../o/options.md) through their partnerships with other [insurance](../i/insurance.md) companies. GEICO
+- **USAA**: Specializes in providing comprehensive [personal property](../p/personal_property.md) coverage, including floaters for high-[value](../v/value.md) items. USAA
 
 ## Conclusion
 

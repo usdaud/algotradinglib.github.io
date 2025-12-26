@@ -80,33 +80,33 @@ Using advanced trading platforms and software can enhance trading discipline. Th
 
 ### Algorithmic Trading Systems
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems are designed to execute trades based on predefined rules and criteria. By removing the emotional aspect of trading, these systems enhance discipline and consistency. Companies like [QuantConnect](../q/quantconnect.md) [www.quantconnect.com](https://www.quantconnect.com) [offer](../o/offer.md) platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) systems are designed to execute trades based on predefined rules and criteria. By removing the emotional aspect of trading, these systems enhance discipline and consistency. Companies like [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Backtesting and Simulation
 
-[Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) on historical data to evaluate its performance. [Simulation](../s/simulation_in_trading.md) tools allow traders to practice their strategies in a [risk](../r/risk.md)-free environment. These tools help in refining [trading strategies](../t/trading_strategies.md) and building confidence, which is crucial for maintaining discipline. Platforms like Quantopian [www.quantopian.com](https://www.quantopian.com) [offer](../o/offer.md) [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) services.
+[Backtesting](../b/backtesting.md) involves testing a [trading strategy](../t/trading_strategy.md) on historical data to evaluate its performance. [Simulation](../s/simulation_in_trading.md) tools allow traders to practice their strategies in a [risk](../r/risk.md)-free environment. These tools help in refining [trading strategies](../t/trading_strategies.md) and building confidence, which is crucial for maintaining discipline. Platforms like Quantopian [offer](../o/offer.md) [backtesting](../b/backtesting.md) and [simulation](../s/simulation_in_trading.md) services.
 
 ### Trading Bots
 
-Trading bots are automated software programs that execute trades on behalf of traders based on predefined strategies. Using trading bots ensures that trades are executed with precision and consistency, adhering to the trading plan. Companies like 3Commas [www.3commas.io](https://www.3commas.io) provide trading bot services that integrate with various cryptocurrency exchanges.
+Trading bots are automated software programs that execute trades on behalf of traders based on predefined strategies. Using trading bots ensures that trades are executed with precision and consistency, adhering to the trading plan. Companies like 3Commas provide trading bot services that integrate with various cryptocurrency exchanges.
 
 ## Examples of Companies Promoting Trading Discipline
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a platform that enables traders to design, develop, and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform emphasizes disciplined trading by providing tools for systematic strategy development and testing. More information can be found at [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is a platform that enables traders to design, develop, and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. The platform emphasizes disciplined trading by providing tools for systematic strategy development and testing. More information can be found at QuantConnect.
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of features that promote disciplined trading, including [risk management](../r/risk_management.md) tools, automated trading capabilities, and educational resources. The platform's advanced technology helps traders execute trades according to their plans. For more information, visit [Interactive Brokers](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) offers a [range](../r/range.md) of features that promote disciplined trading, including [risk management](../r/risk_management.md) tools, automated trading capabilities, and educational resources. The platform's advanced technology helps traders execute trades according to their plans. For more information, visit Interactive Brokers.
 
 ### 3Commas
 
-3Commas provides [automated trading bots](../a/automated_trading_bots.md) that execute trades based on predefined strategies. The platform's tools help traders maintain discipline by ensuring trades are executed consistently and without emotional interference. More details can be found at [3Commas](https://www.3commas.io).
+3Commas provides [automated trading bots](../a/automated_trading_bots.md) that execute trades based on predefined strategies. The platform's tools help traders maintain discipline by ensuring trades are executed consistently and without emotional interference. More details can be found at 3Commas.
 
 ### MetaTrader
 
-MetaTrader is a popular [trading platform](../t/trading_platform.md) that offers automated trading, [backtesting](../b/backtesting.md), and analytical tools. These features help traders adhere to their trading plans and maintain discipline. Visit [MetaTrader](https://www.metatrader4.com) for more information.
+MetaTrader is a popular [trading platform](../t/trading_platform.md) that offers automated trading, [backtesting](../b/backtesting.md), and analytical tools. These features help traders adhere to their trading plans and maintain discipline. Visit MetaTrader for more information.
 
 ## Conclusion
 

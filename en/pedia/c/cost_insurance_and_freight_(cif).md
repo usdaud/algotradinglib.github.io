@@ -8,7 +8,7 @@ Under CIF terms, the seller is responsible for:
 - The cost of the goods.
 - [Insurance](../i/insurance.md) to cover the goods during transit.
 - Freight charges to transport the goods to the buyer's port of destination.
-  
+
 However, once the goods are loaded on the shipping vessel, the [risk](../r/risk.md) of loss or damage transfers from the seller to the buyer. This means that while the seller handles the majority of the shipping and [insurance](../i/insurance.md) documentation, any incidents that occur during transit become the buyer's responsibility from the point of loading onwards.
 
 ## Historical Context
@@ -73,8 +73,8 @@ Consider a company in Brazil purchasing copper from a supplier in Canada under C
 
 While CIF is more of a term utilized in contractual dealings rather than being managed by specific companies, various [logistics](../l/logistics.md) and [insurance](../i/insurance.md) firms specialize in facilitating CIF shipments. For example:
 
-- **Maersk** (https://www.maersk.com/): A global leader in container shipping and vessel operations, frequently involved in facilitating CIF shipments.
-- **Lloyd’s of London** (https://www.lloyds.com/): Renowned for maritime [insurance](../i/insurance.md), providing policies that meet the CIF [insurance](../i/insurance.md) requirements.
-- **C.H. Robinson** (https://www.chrobinson.com/): A global [logistics](../l/logistics.md) company that helps sellers and buyers manage CIF terms effectively.
+- **Maersk** A global leader in container shipping and vessel operations, frequently involved in facilitating CIF shipments.
+- **Lloyd’s of London** ( Renowned for maritime [insurance](../i/insurance.md), providing policies that meet the CIF [insurance](../i/insurance.md) requirements.
+- **C.H. Robinson** ( A global [logistics](../l/logistics.md) company that helps sellers and buyers manage CIF terms effectively.
 
 Within the [scope](../s/scope.md) of international [trade](../t/trade.md), CIF remains an essential term for facilitating clear-cut responsibilities and reducing misunderstandings in global transactions. By understanding the nuances of CIF, parties can better negotiate contracts that protect their interests and streamline the shipping of goods across borders.

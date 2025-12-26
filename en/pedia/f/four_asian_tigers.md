@@ -22,7 +22,7 @@ Hong Kong's [stock market](../s/stock_market.md), the Hong Kong Stock [Exchange]
 
 Despite its achievements, Hong Kong faces challenges such as rising housing costs, political unrest, and economic dependence on mainland China. Nonetheless, its established financial [infrastructure](../i/infrastructure.md) and international connections ensure its ongoing relevance in global [trade](../t/trade.md) and [finance](../f/finance.md).
 
-For further details, visit the [Hong Kong Stock Exchange](https://www.hkex.com.hk).
+For further details, visit the Hong Kong Stock Exchange.
 
 ## Singapore
 
@@ -44,7 +44,7 @@ The Singapore [Exchange](../e/exchange.md) (SGX) is a significant financial inst
 
 Singapore faces challenges, including a labor shortage, high [cost of living](../c/cost_of_living.md), and economic vulnerabilities due to its dependence on international [trade](../t/trade.md). However, its adaptability and strategic initiatives in technology and sustainability position it for continued growth.
 
-For additional information, visit the [Singapore Exchange](https://www.sgx.com).
+For additional information, visit the Singapore Exchange.
 
 ## South Korea
 
@@ -66,7 +66,7 @@ Large family-owned conglomerates known as chaebols, including Samsung, Hyundai, 
 
 Challenges include an aging population, [income inequality](../i/income_inequality.md), and political tensions with North Korea. Nonetheless, South Korea's strengths in technology and industrial capabilities ensure its global competitiveness.
 
-For more, visit the [Samsung Group](https://www.samsung.com).
+For more, visit the Samsung Group.
 
 ## Taiwan
 
@@ -88,7 +88,7 @@ Taiwan is globally recognized for its semiconductor [manufacturing](../m/manufac
 
 Taiwan faces challenges such as political [uncertainty](../u/uncertainty_in_trading.md) with China, economic reliance on exports, and the need for industrial upgrading. Nevertheless, its prowess in high-tech industries, particularly semiconductors, secures its position in the global [economy](../e/economy.md).
 
-For further exploration, visit the [Taiwan Semiconductor Manufacturing Company](https://www.tsmc.com).
+For further exploration, visit the Taiwan Semiconductor Manufacturing Company.
 
 ## Comparative Analysis
 

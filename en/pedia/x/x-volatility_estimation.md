@@ -24,19 +24,19 @@ Several traditional methods exist for estimating [volatility](../v/volatility.md
 
 ## X-Volatility Estimation
 
-X-[Volatility Estimation](../v/volatility_estimation.md) is an advanced and innovative method for assessing and predicting [volatility](../v/volatility.md) in [financial markets](../f/financial_market.md). It builds upon traditional techniques and enhances them with sophisticated algorithms, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md). The term "X-[Volatility](../v/volatility.md)" encompasses a [range](../r/range.md) of models and approaches that aim to provide more accurate and timely [volatility](../v/volatility.md) estimates. 
+X-[Volatility Estimation](../v/volatility_estimation.md) is an advanced and innovative method for assessing and predicting [volatility](../v/volatility.md) in [financial markets](../f/financial_market.md). It builds upon traditional techniques and enhances them with sophisticated algorithms, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md). The term "X-[Volatility](../v/volatility.md)" encompasses a [range](../r/range.md) of models and approaches that aim to provide more accurate and timely [volatility](../v/volatility.md) estimates.
 
 ### Components of X-Volatility Estimation
 
 1. **Machine [Learning Algorithms](../l/learning_algorithms_in_trading.md)**:
-   - **[Supervised Learning](../s/supervised_learning.md)**: Techniques such as regression models can predict future [volatility](../v/volatility.md) based on historical data and other relevant features.
-   - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering methods help identify patterns in historical data that may indicate periods of high or low [volatility](../v/volatility.md).
+ - **[Supervised Learning](../s/supervised_learning.md)**: Techniques such as regression models can predict future [volatility](../v/volatility.md) based on historical data and other relevant features.
+ - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Clustering methods help identify patterns in historical data that may indicate periods of high or low [volatility](../v/volatility.md).
 2. **[Big Data Analytics](../b/big_data_analytics_in_trading.md)**:
-   - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing news articles, [social media](../s/social_media.md), and other text data to gauge [market sentiment](../m/market_sentiment.md) and its potential impact on [volatility](../v/volatility.md).
-   - **High-Frequency Data**: Utilizing high-frequency trading data to capture intraday price movements and improve short-term [volatility](../v/volatility.md) estimates.
+ - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Analyzing news articles, [social media](../s/social_media.md), and other text data to gauge [market sentiment](../m/market_sentiment.md) and its potential impact on [volatility](../v/volatility.md).
+ - **High-Frequency Data**: Utilizing high-frequency trading data to capture intraday price movements and improve short-term [volatility](../v/volatility.md) estimates.
 3. **Advanced Statistical Models**:
-   - **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: Models that assume [volatility](../v/volatility.md) itself follows a random process, providing a more dynamic view of [volatility](../v/volatility.md).
-   - **Jump-Diffusion Models**: These models account for sudden, large changes (jumps) in prices, which traditional models may miss.
+ - **[Stochastic Volatility Models](../s/stochastic_volatility_models.md)**: Models that assume [volatility](../v/volatility.md) itself follows a random process, providing a more dynamic view of [volatility](../v/volatility.md).
+ - **Jump-Diffusion Models**: These models account for sudden, large changes (jumps) in prices, which traditional models may miss.
 
 ### Implementing X-Volatility Estimation
 
@@ -51,33 +51,33 @@ Implementing X-[Volatility Estimation](../v/volatility_estimation.md) involves s
 ### Applications of X-Volatility Estimation
 
 1. **[Algorithmic Trading](../a/algorithmic_trading.md)**:
-   - Adjusting [trading strategies](../t/trading_strategies.md) dynamically based on [real-time volatility](../r/real-time_volatility.md) estimates.
-   - Enhancing [risk management](../r/risk_management.md) by predicting periods of high [volatility](../v/volatility.md).
+ - Adjusting [trading strategies](../t/trading_strategies.md) dynamically based on [real-time volatility](../r/real-time_volatility.md) estimates.
+ - Enhancing [risk management](../r/risk_management.md) by predicting periods of high [volatility](../v/volatility.md).
 2. **[Options](../o/options.md) Pricing and Trading**:
-   - Improving the accuracy of [option pricing models](../o/option_pricing_models.md) through better [volatility](../v/volatility.md) estimates.
-   - Identifying mispriced [options](../o/options.md) for [arbitrage](../a/arbitrage.md) opportunities.
+ - Improving the accuracy of [option pricing models](../o/option_pricing_models.md) through better [volatility](../v/volatility.md) estimates.
+ - Identifying mispriced [options](../o/options.md) for [arbitrage](../a/arbitrage.md) opportunities.
 3. **[Portfolio Management](../p/portfolio_management.md)**:
-   - Constructing portfolios that are optimized for given [risk](../r/risk.md) levels using advanced [volatility](../v/volatility.md) estimates.
-   - [Rebalancing](../r/rebalancing.md) portfolios in response to changing [market](../m/market.md) conditions.
+ - Constructing portfolios that are optimized for given [risk](../r/risk.md) levels using advanced [volatility](../v/volatility.md) estimates.
+ - [Rebalancing](../r/rebalancing.md) portfolios in response to changing [market](../m/market.md) conditions.
 4. **[Risk Management](../r/risk_management.md)**:
-   - Implementing [risk](../r/risk.md) controls and setting appropriate [margin](../m/margin.md) requirements based on predicted [volatility](../v/volatility.md).
-   - [Stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) using refined [volatility models](../v/volatility_models.md).
+ - Implementing [risk](../r/risk.md) controls and setting appropriate [margin](../m/margin.md) requirements based on predicted [volatility](../v/volatility.md).
+ - [Stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) using refined [volatility models](../v/volatility_models.md).
 
 ### Case Studies and Examples
 
 Several financial institutions and technology companies have successfully implemented X-[Volatility Estimation](../v/volatility_estimation.md) techniques. Here are a few notable examples:
 
 1. **JP Morgan**:
-   - JP Morgan employs [machine learning](../m/machine_learning.md) models to refine their [volatility](../v/volatility.md) estimates for trading and [risk management](../r/risk_management.md). 
-   - More information: [JP Morgan AI Research](https://www.jpmorgan.com/ai-research)
+ - JP Morgan employs [machine learning](../m/machine_learning.md) models to refine their [volatility](../v/volatility.md) estimates for trading and [risk management](../r/risk_management.md).
+ - More information: JP Morgan AI Research
 
 2. **Goldman Sachs**:
-   - Goldman Sachs uses [big data analytics](../b/big_data_analytics_in_trading.md) and advanced statistical models to enhance their [volatility forecasting](../v/volatility_forecasting.md).
-   - More information: [Goldman Sachs Data Analytics](https://www.goldmansachs.com/insights/pages/gs-research-big-data-and-business-strategy.htm)
+ - Goldman Sachs uses [big data analytics](../b/big_data_analytics_in_trading.md) and advanced statistical models to enhance their [volatility forecasting](../v/volatility_forecasting.md).
+ - More information: Goldman Sachs Data Analytics
 
 3. **Two Sigma**:
-   - This quantitative [hedge fund](../h/hedge_fund.md) leverages [machine learning](../m/machine_learning.md) and high-frequency data for [volatility estimation](../v/volatility_estimation.md) in its [trading strategies](../t/trading_strategies.md).
-   - More information: [Two Sigma Innovations](https://www.twosigma.com)
+ - This quantitative [hedge fund](../h/hedge_fund.md) leverages [machine learning](../m/machine_learning.md) and high-frequency data for [volatility estimation](../v/volatility_estimation.md) in its [trading strategies](../t/trading_strategies.md).
+ - More information: Two Sigma Innovations
 
 ### Challenges and Future Directions
 

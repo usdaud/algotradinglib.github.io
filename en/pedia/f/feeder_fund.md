@@ -63,11 +63,11 @@ While Feeder Funds can lead to [economies of scale](../e/economies_of_scale.md),
 
 ### Bridgewater Associates
 
-One of the largest [hedge](../h/hedge.md) funds globally, Bridgewater Associates, utilizes a [Master-Feeder structure](../m/master-feeder_structure.md) to manage its non-US and US [investor](../i/investor.md) funds. They operate both onshore and [offshore](../o/offshore.md) Feeder Funds directing [capital](../c/capital.md) into a single, cohesive Master [Fund](../f/fund.md) managed under a unified strategy. To learn more about Bridgewater Associates, visit their [official site](https://www.bridgewater.com).
+One of the largest [hedge](../h/hedge.md) funds globally, Bridgewater Associates, utilizes a [Master-Feeder structure](../m/master-feeder_structure.md) to manage its non-US and US [investor](../i/investor.md) funds. They operate both onshore and [offshore](../o/offshore.md) Feeder Funds directing [capital](../c/capital.md) into a single, cohesive Master [Fund](../f/fund.md) managed under a unified strategy. To learn more about Bridgewater Associates,
 
 ### Blackstone Group
 
-The Blackstone Group, a notable [private equity](../p/private_equity.md) and [investment management](../i/investment_management.md) [firm](../f/firm.md), likewise employs a [Master-Feeder structure](../m/master-feeder_structure.md) to efficiently manage its various [private equity](../p/private_equity.md) funds. These structures allow them to [offer](../o/offer.md) different vehicles tailored to [investor](../i/investor.md) needs while centralizing the management of committed [capital](../c/capital.md). More details can be found on their [official website](https://www.blackstone.com).
+The Blackstone Group, a notable [private equity](../p/private_equity.md) and [investment management](../i/investment_management.md) [firm](../f/firm.md), likewise employs a [Master-Feeder structure](../m/master-feeder_structure.md) to efficiently manage its various [private equity](../p/private_equity.md) funds. These structures allow them to [offer](../o/offer.md) different vehicles tailored to [investor](../i/investor.md) needs while centralizing the management of committed [capital](../c/capital.md). More
 
 ## Conclusion
 

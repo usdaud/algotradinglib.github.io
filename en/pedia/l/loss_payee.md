@@ -4,7 +4,7 @@ In the realm of [insurance](../i/insurance.md) and [finance](../f/finance.md), t
 
 ## Definition and Basic Understanding
 
-A "Loss [Payee](../p/payee.md)" is a party named in the [insurance](../i/insurance.md) policy, who is entitled to receive compensation in the event of a loss. This concept is especially pertinent in situations where the insured property is financed or leased. The loss [payee](../p/payee.md) could be a [lender](../l/lender.md), lessor, or any other entity that has a financial [interest](../i/interest.md) in the insured property. This entity's involvement provides a layer of protection for the financial [interest](../i/interest.md) they have tied to the insured [asset](../a/asset.md). 
+A "Loss [Payee](../p/payee.md)" is a party named in the [insurance](../i/insurance.md) policy, who is entitled to receive compensation in the event of a loss. This concept is especially pertinent in situations where the insured property is financed or leased. The loss [payee](../p/payee.md) could be a [lender](../l/lender.md), lessor, or any other entity that has a financial [interest](../i/interest.md) in the insured property. This entity's involvement provides a layer of protection for the financial [interest](../i/interest.md) they have tied to the insured [asset](../a/asset.md).
 
 ## How It Works
 
@@ -43,7 +43,7 @@ This is a more protective form that ensures the [lender](../l/lender.md) retains
 While the terms "loss [payee](../p/payee.md)" and "additional insured" might seem interchangeable, they have distinct differences:
 
 1. **Loss [Payee](../p/payee.md)**: Entitled to the [reimbursement](../r/reimbursement.md) or compensation from a claim made under the policy. This term is typically used in [property insurance](../p/property_insurance.md), particularly with financed or leased assets.
-   
+
 2. **Additional Insured**: Has the same coverage benefits as the named insured under the [insurance](../i/insurance.md) policy but is not necessarily entitled to claim compensation directly. Additional insured clauses are more common in [liability insurance](../l/liability_insurance.md) where third parties often need to be covered under the policy.
 
 ## Legal Implications and Requirements
@@ -74,7 +74,7 @@ For businesses leasing expensive equipment, the lessor often requires to be name
 
 Tesla's [financing](../f/financing.md) [options](../o/options.md) provide a practical insight into the application of loss [payee](../p/payee.md) clauses. When a [customer](../c/customer.md) finances a Tesla vehicle, the lending institution named on the [finance](../f/finance.md) contract is typically required to be [listed](../l/listed.md) as a loss [payee](../p/payee.md) on the [insurance](../i/insurance.md) policy. This process ensures the financial institution's interests are safeguarded in case of any substantial loss or damage to the vehicle.
 
-For more information: [Tesla Financing](https://www.tesla.com/support/financing-and-leasing)
+For more information: Tesla Financing
 
 ## Conclusion
 

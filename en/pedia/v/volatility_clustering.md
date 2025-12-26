@@ -40,7 +40,7 @@ RiskMetrics is a set of techniques for calculating and managing [risk](../r/risk
 
 ### Risk Management
 
-Understanding and predicting [volatility](../v/volatility.md) clustering can have significant implications for [risk management](../r/risk_management.md). By anticipating periods of high [volatility](../v/volatility.md), firms can adjust their [risk](../r/risk.md) exposure and [hedge](../h/hedge.md) their portfolios more effectively. 
+Understanding and predicting [volatility](../v/volatility.md) clustering can have significant implications for [risk management](../r/risk_management.md). By anticipating periods of high [volatility](../v/volatility.md), firms can adjust their [risk](../r/risk.md) exposure and [hedge](../h/hedge.md) their portfolios more effectively.
 
 ### Algorithmic Trading
 
@@ -52,30 +52,22 @@ By factoring in [volatility](../v/volatility.md) forecasts, portfolio managers c
 
 ## Companies Specialized in Volatility Modelling
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) services. It allows users to develop and backtest their [trading strategies](../t/trading_strategies.md) in a [robust](../r/robust.md) and scalable environment. The platform supports [multiple](../m/multiple.md) financial instruments and includes capabilities for implementing models that account for [volatility](../v/volatility.md) clustering.
-Website: [QuantConnect](https://www.quantconnect.com/)
-
+### StockSharp
+[StockSharp](../s/stocksharp.md) is a platform that provides [algorithmic trading](../a/algorithmic_trading.md) services. It allows users to develop and backtest their [trading strategies](../t/trading_strategies.md) in a [robust](../r/robust.md) and scalable environment. The platform supports [multiple](../m/multiple.md) financial instruments and includes capabilities for implementing models that account for [volatility](../v/volatility.md) clustering.
 ### Numerai
 Numerai is a crowd-sourced [hedge fund](../h/hedge_fund.md) where data scientists from around the world develop [machine learning](../m/machine_learning.md) models to predict [financial markets](../f/financial_market.md). Given the complexity and unpredictability of markets, models capable of understanding [volatility](../v/volatility.md) clustering are particularly valuable here.
-Website: [Numerai](https://numer.ai/)
 
 ### QuantInsti
 QuantInsti offers educational resources and tools for individuals interested in learning about [algorithmic trading](../a/algorithmic_trading.md). Their curriculum often includes topics such as [volatility](../v/volatility.md) clustering and how it impacts [trading strategies](../t/trading_strategies.md).
-Website: [QuantInsti](https://www.quantinsti.com/)
 
 ### Axioma (part of Qontigo)
 Axioma, now part of Qontigo, provides enterprise-level [risk management](../r/risk_management.md) tools that integrate [volatility](../v/volatility.md) clustering models. These tools are used by [asset](../a/asset.md) managers to optimize portfolios and manage [risk](../r/risk.md) effectively.
-Website: [Qontigo Axioma](https://qontigo.com/asset-owners-axioma-risk/)
 
 ### MSCI Barra
 MSCI Barra offers various [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) tools, incorporating advanced statistical models, including those [accounting](../a/accounting.md) for [volatility](../v/volatility.md) clustering, to help portfolio managers and analysts make informed investment decisions.
-Website: [MSCI](https://www.msci.com/barra)
-
 ## Challenges and Limitations
 
 ### Model Accuracy
-
 While models like GARCH and stochastic [volatility](../v/volatility.md) can capture [volatility](../v/volatility.md) clustering, they are not without flaws. Model accuracy is often contingent upon correct parameterization, and real-world conditions can lead to model failures.
 
 ### Computational Complexity

@@ -74,15 +74,15 @@ PoW-based blockchains face [scalability](../s/scalability.md) challenges due to 
 
 ### Bitcoin
 
-[Bitcoin](../b/bitcoin.md) remains the most prominent and successful implementation of PoW. Its robustness and [security](../s/security.md) have made it the [gold standard](../g/gold_standard.md) for other cryptocurrencies. Detailed information about [Bitcoin](../b/bitcoin.md) can be found on its [official website](https://bitcoin.org).
+[Bitcoin](../b/bitcoin.md) remains the most prominent and successful implementation of PoW. Its robustness and [security](../s/security.md) have made it the [gold standard](../g/gold_standard.md) for other cryptocurrencies. Detailed information about [Bitcoin](../b/bitcoin.md)
 
 ### Ethereum
 
-While [Ethereum](../e/ethereum_.md) is transitioning to PoS, it has used PoW since its launch in 2015. The [Ethereum](../e/ethereum_.md) Foundation provides comprehensive resources and updates about the network on its [official website](https://ethereum.org).
+While [Ethereum](../e/ethereum_.md) is transitioning to PoS, it has used PoW since its launch in 2015. The [Ethereum](../e/ethereum_.md) Foundation provides
 
 ### Litecoin
 
-Litecoin, created by Charlie Lee in 2011, is a popular PoW-based cryptocurrency often referred to as the silver to [Bitcoin](../b/bitcoin.md)'s gold. It uses the Scrypt [hash](../h/hash.md) function and aims for faster [transaction](../t/transaction.md) times. More information is available on the [Litecoin website](https://litecoin.org).
+Litecoin, created by Charlie Lee in 2011, is a popular PoW-based cryptocurrency often referred to as the silver to [Bitcoin](../b/bitcoin.md)'s gold. It uses the Scrypt [hash](../h/hash.md) function and aims for faster [transaction](../t/transaction.md) times.
 
 ## Conclusion
 

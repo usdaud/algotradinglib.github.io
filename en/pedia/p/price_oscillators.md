@@ -10,9 +10,9 @@ Price oscillators are [technical analysis](../t/technical_analysis.md) tools use
 
 RSI was developed by J. Welles Wilder and is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. RSI oscillates between 0 and 100. Traditionally, RSI values above 70 indicate [overbought](../o/overbought.md) conditions, whereas values below 30 suggest [oversold](../o/oversold.md) conditions.
 
-*RSI Formula*: 
+*RSI Formula*:
 \[ RSI = 100 - \left( \frac{100}{1 + \frac{\text{average [gain](../g/gain.md)}}{\text{average loss}}} \right) \]
-    
+
 - **[Overbought](../o/overbought.md):** RSI > 70
 - **[Oversold](../o/oversold.md):** RSI < 30
 
@@ -39,7 +39,7 @@ The [Commodity](../c/commodity.md) Channel [Index](../i/index_instrument.md) was
 
 *CCI Formula*:
 \[ CCI = \frac{\text{Typical Price} - \text{SMA}(Typical \text{ Price})}{0.015 \times \text{Mean Deviation}} \]
-    
+
 Where Typical Price (TP) is the average of high, low, and close prices,
 \[ \text{Typical Price} = \frac{\text{High} + \text{Low} + \text{Close}}{3} \]
 
@@ -50,7 +50,7 @@ Where Typical Price (TP) is the average of high, low, and close prices,
 Price oscillators are integral to [algorithmic trading](../a/algorithmic_trading.md) strategies for generating buy and sell signals based on predefined conditions. For instance:
 
 - **RSI**: When RSI crosses above 30, a buy signal may be initiated. Conversely, crossing below 70 may trigger a sell signal.
-  
+
 - **MACD**: A common signal is generated when the MACD line crosses above the signal line (buy) or below it (sell).
 
 - **[Stochastic Oscillator](../s/stochastic_oscillator.md)**: A buy signal is initiated when %K crosses above %D in the [oversold](../o/oversold.md) region and a sell signal when it crosses below %D in the [overbought](../o/overbought.md) region.
@@ -100,13 +100,13 @@ Successful deployment in live trading requires [robust](../r/robust.md) [risk ma
 
 Renaissance Technologies, founded by mathematician James Simons, exemplifies the successful application of algorithms based on oscillators and other indicators. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved unprecedented returns, largely attributed to sophisticated [quantitative models](../q/quantitative_models.md).
 
-**Website**: [Renaissance Technologies](https://www.ren.tech/)
+**online platform**: Renaissance Technologies
 
 #### Two Sigma
 
 Two Sigma, another giant in the field of [quantitative trading](../q/quantitative_trading.md), uses data-driven algorithms to capture [market](../m/market.md) opportunities. The [firm](../f/firm.md) leverages [machine learning](../m/machine_learning.md) along with [technical indicators](../t/technical_indicators.md), including oscillators, to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
-**Website**: [Two Sigma](https://www.twosigma.com/)
+**online platform**: Two Sigma
 
 ### Conclusion
 

@@ -34,7 +34,7 @@ QR codes are frequently used in [marketing](../m/marketing.md) campaigns to conn
 One of the most rapidly growing uses of QR codes is in the field of mobile payments. Systems like Alipay and WeChat Pay utilize QR codes to facilitate peer-to-peer and retail transactions. Customers can pay for goods and services by scanning a QR code displayed at the point of [sale](../s/sale.md), streamlining the [transaction](../t/transaction.md) process.
 
 **Example:**
-To learn more about WeChat Pay, you can visit [WeChat Pay](https://pay.weixin.qq.com/index.php/public/wechatpayment).
+To learn more about WeChat Pay, you can visit WeChat Pay.
 
 ### Product Identification and Tracking
 In [manufacturing](../m/manufacturing.md) and retail industries, QR codes play a crucial role in [inventory management](../i/inventory_management.md) and product tracking. They provide quick access to detailed information about a product, including its origin, [manufacturing](../m/manufacturing.md) process, and shipment status.
@@ -61,7 +61,7 @@ In the Fintech [industry](../i/industry.md), QR codes are revolutionizing how bu
 3. **Cryptocurrency Transactions:** QR codes simplify the process of sending and receiving cryptocurrency, providing a convenient way to share wallet addresses.
 
 ### Algo-Trading Utilization
-In [algorithmic trading](../a/accountability.md), QR codes can serve as a secure and efficient way to manage and track trading bots and algorithms. Here’s how:
+In [algorithmic trading](../a/algorithmic_trading.md), QR codes can serve as a secure and efficient way to manage and track trading bots and algorithms. Here’s how:
 
 1. **Code Deployment:** Deploying [trading algorithms](../t/trading_algorithms.md) can be made more secure by encoding deployment keys and permissions within a QR code, reducing the [risk](../r/risk.md) of interception.
 2. **[Trade](../t/trade.md) Authentication:** Authenticating critical [trade](../t/trade.md) actions through QR codes can ensure that only authorized users can execute high-stakes trades, adding an extra [security](../s/security.md) measure.

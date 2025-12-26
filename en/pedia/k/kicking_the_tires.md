@@ -37,4 +37,3 @@
 
 ## Conclusion
 "Kicking the Tires" is a useful approach in the financial and investment community for conducting an initial evaluation of an investment opportunity. This preliminary assessment helps investors and analysts quickly screen potential investments, identify obvious issues, and determine if further investigation is warranted. While the process is inherently superficial, following [best practices](../b/best_practices.md) can help ensure that it effectively complements a more thorough [due diligence](../d/due_diligence.md) process.
-

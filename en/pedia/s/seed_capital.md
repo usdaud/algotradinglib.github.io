@@ -27,19 +27,19 @@ Typical uses for seed [capital](../c/capital.md) include:
 Angel investors are affluent individuals who provide [capital](../c/capital.md) for startups in [exchange](../e/exchange.md) for [equity](../e/equity.md) ownership. They typically invest their own [money](../m/money.md) and may [offer](../o/offer.md) mentorship, [industry](../i/industry.md) connections, and [business](../b/business.md) expertise. Angel investors often take higher risks than other investors, attracted by the potential for high returns.
 
 #### Example
-One notable example of an angel investment platform is AngelList [Link](https://angel.co).
+One notable example of an angel investment platform is AngelList Link.
 
 ### Venture Capital Firms
 Some [venture capital](../v/venture_capital.md) (VC) firms specialize in seed-stage investments. These firms pool [capital](../c/capital.md) from various sources to invest in high-potential startups. While VC firms often invest larger sums than individual angel investors, they also may exert more control over the company's strategic direction.
 
 #### Example
-One prominent seed-stage [venture capital](../v/venture_capital.md) [firm](../f/firm.md) is Seedcamp [Link](https://seedcamp.com).
+One prominent seed-stage [venture capital](../v/venture_capital.md) [firm](../f/firm.md) is Seedcamp Link.
 
 ### Crowdfunding
 [Crowdfunding](../c/crowdfunding.md) platforms allow startups to raise small amounts of [money](../m/money.md) from a large number of people, typically via the Internet. Popular [crowdfunding](../c/crowdfunding.md) sites such as Kickstarter and Indiegogo enable entrepreneurs to pitch their ideas to a wide audience, [offering](../o/offering.md) rewards or [equity](../e/equity.md) in [return](../r/return.md) for their contributions.
 
 #### Example
-Kickstarter is a well-known [crowdfunding](../c/crowdfunding.md) platform [Link](https://www.kickstarter.com).
+Kickstarter is a well-known [crowdfunding](../c/crowdfunding.md) platform Link.
 
 ### Friends and Family
 Many entrepreneurs initially turn to their personal networks for seed [capital](../c/capital.md). Funding from friends and family is often easier to obtain and comes with fewer formalities. However, mixing [business](../b/business.md) with personal relationships can lead to potential conflicts and should be approached with caution.

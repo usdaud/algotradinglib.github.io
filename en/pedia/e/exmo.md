@@ -1,6 +1,6 @@
 # Exmo
 
-Exmo is a cryptocurrency [exchange](../e/exchange.md) platform founded in 2013. It is one of the largest exchanges in Eastern Europe, providing users with the ability to [trade](../t/trade.md) a [wide variety](../w/wide_variety.md) of cryptocurrencies. The platform is user-friendly and is designed to cater to both beginners and experienced traders. Exmo offers a [range](../r/range.md) of features including spot trading, [margin trading](../m/margin_trading.md), and various advanced trading tools. You can find more information about Exmo on their official website: [Exmo.com](https://exmo.com).
+Exmo is a cryptocurrency [exchange](../e/exchange.md) platform founded in 2013. It is one of the largest exchanges in Eastern Europe, providing users with the ability to [trade](../t/trade.md) a [wide variety](../w/wide_variety.md) of cryptocurrencies. The platform is user-friendly and is designed to cater to both beginners and experienced traders. Exmo offers a [range](../r/range.md) of features including spot trading, [margin trading](../m/margin_trading.md), and various advanced trading tools. You can findcom.
 
 ### Key Features
 
@@ -68,4 +68,4 @@ Exmo actively seeks partnerships and integrations to expand its ecosystem. These
 
 ### Conclusion
 
-Exmo is a comprehensive cryptocurrency [exchange](../e/exchange.md) platform that offers a wide [range](../r/range.md) of trading [options](../o/options.md), high [security](../s/security.md), and [robust](../r/robust.md) API support for developers. It is suitable for both individual and institutional investors looking to [trade](../t/trade.md) [multiple](../m/multiple.md) cryptocurrencies. The platform continues to evolve by adding new features and partnerships, ensuring it remains competitive in the ever-changing landscape of cryptocurrency exchanges. For more information, visit [Exmo.com](https://exmo.com).
+Exmo is a comprehensive cryptocurrency [exchange](../e/exchange.md) platform that offers a wide [range](../r/range.md) of trading [options](../o/options.md), high [security](../s/security.md), and [robust](../r/robust.md) API support for developers. It is suitable for both individual and institutional investors looking to [trade](../t/trade.md) [multiple](../m/multiple.md) cryptocurrencies. The platform continues to evolve by adding new features and partnerships, ensuring it remains competitive in the ever-changing landscape of cryptocurrency exchanges. For more information, visit Exmo.com.

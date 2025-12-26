@@ -18,7 +18,7 @@ The Williams Act includes several critical provisions designed to enhance [trans
 
 ### Minimum Offering Period
 - The Act mandates that [tender](../t/tender.md) offers must remain [open](../o/open.md) for at least 20 [business](../b/business.md) days, allowing shareholders sufficient time to assess the [offer](../o/offer.md) and decide whether to [tender](../t/tender.md) their [shares](../s/shares.md).
-  
+
 ### Equal Treatment
 - Shareholders must be treated equally, meaning that all tendering shareholders should receive the same price for their [shares](../s/shares.md). This [provision](../p/provision.md) prevents bidders from favoring certain shareholders over others.
 
@@ -56,4 +56,4 @@ While the Williams Act remains a cornerstone of U.S. securities regulation, it h
 
 The Williams Act has played a pivotal role in shaping the regulatory environment for [tender](../t/tender.md) offers and protecting shareholders' interests. By mandating thorough disclosures, equal treatment, and ensuring sufficient time for decision-making, it has made the [takeover](../t/takeover.md) process more transparent and fair. However, as the financial landscape evolves, there may be a need for continuous assessment and updates to ensure the Act remains relevant and effective in safeguarding [shareholder](../s/shareholder.md) rights.
 
-For more detailed information and official resources, you can visit the SEC's page on Williams Act [here](https://www.sec.gov).
+For more detailed information and official resources, you can

@@ -6,18 +6,18 @@ In the financial world, [risk](../r/risk.md)-[weighted](../w/weighted.md) assets
 
 ### What are Risk-Weighted Assets?
 
-[Risk](../r/risk.md)-[weighted](../w/weighted.md) assets are the total of all assets held by a [bank](../b/bank.md), [weighted](../w/weighted.md) by their respective [risk](../r/risk.md) levels. This calculation is designed to determine the minimum amount of [capital](../c/capital.md) a [bank](../b/bank.md) should [hold](../h/hold.md) to guard against losses. For instance, a secure [government bond](../g/government_bond.md) [will](../w/will.md) have a lower [risk](../r/risk.md)-weight compared to an unsecured personal [loan](../l/loan.md). 
+[Risk](../r/risk.md)-[weighted](../w/weighted.md) assets are the total of all assets held by a [bank](../b/bank.md), [weighted](../w/weighted.md) by their respective [risk](../r/risk.md) levels. This calculation is designed to determine the minimum amount of [capital](../c/capital.md) a [bank](../b/bank.md) should [hold](../h/hold.md) to guard against losses. For instance, a secure [government bond](../g/government_bond.md) [will](../w/will.md) have a lower [risk](../r/risk.md)-weight compared to an unsecured personal [loan](../l/loan.md).
 
 ### Importance of RWAs
 
 1. **Regulatory Compliance**: Banks are required by regulatory frameworks like [Basel III](../b/basel_iii.md) to maintain a certain level of [capital](../c/capital.md) based on the RWA. The [Basel III](../b/basel_iii.md) framework suggests that banks [hold](../h/hold.md) a [Tier 1 capital ratio](../t/tier_1_capital_ratio.md) of at least 6% of their RWAs.
-   
+
 2. **Financial Stability**: RWAs help in ensuring that banks have a sufficient buffer to absorb unexpected losses, reducing the likelihood of [insolvency](../i/insolvency.md).
-   
+
 3. **[Investor](../i/investor.md) Confidence**: Transparent reporting of RWAs allows investors and stakeholders to gauge the [risk](../r/risk.md) profile of a [bank](../b/bank.md).
 
 4. **Economic Health**: By encouraging banks to [hold](../h/hold.md) [capital](../c/capital.md) in proportion to [risk](../r/risk.md), RWAs contribute to the overall stability of the [financial system](../f/financial_system.md).
-   
+
 ## Calculation of Risk-Weighted Assets
 
 ### Standardized Approach

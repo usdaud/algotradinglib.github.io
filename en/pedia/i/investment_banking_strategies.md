@@ -69,10 +69,10 @@ Mergers and Acquisitions (M&A) are a cornerstone of [investment banking](../i/in
 
 Some of the leading [investment banks](../i/investment_bank_(ib).md) globally which employ these strategies include:
 
-1. **Goldman Sachs** - [Goldman Sachs](https://www.goldmansachs.com/)
-2. **JP Morgan Chase & Co.** - [JP Morgan](https://www.jpmorganchase.com/)
-3. **Morgan Stanley** - [Morgan Stanley](https://www.morganstanley.com/)
-4. **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md)** - [BAML](https://www.bankofamerica.com/)
-5. **CitiGroup** - [Citi](https://www.citigroup.com/)
+1. **Goldman Sachs** - Goldman Sachs
+2. **JP Morgan Chase & Co.** - JP Morgan
+3. **Morgan Stanley** - Morgan Stanley
+4. **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md)** - BAML
+5. **CitiGroup** - Citi
 
 These firms employ sophisticated strategies and large teams of analysts, traders, and bankers to execute these functions effectively and [offer](../o/offer.md) [value](../v/value.md) to their clients. Each of these strategies aligns with a specific objective, from raising [capital](../c/capital.md) to optimizing financial structures, ensuring diversified service offerings that cater to complex client needs.

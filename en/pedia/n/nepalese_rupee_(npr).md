@@ -1,6 +1,6 @@
 # Nepalese Rupee (NPR)
 
-The Nepalese Rupee (NPR) is the official [currency](../c/currency.md) of Nepal. It is abbreviated as "NPR" and is often symbolized as "रु" or "Rs." The [currency](../c/currency.md) is administered and circulated by the central monetary authority of Nepal, which is the Nepal Rastra [Bank](../b/bank.md) (NRB). 
+The Nepalese Rupee (NPR) is the official [currency](../c/currency.md) of Nepal. It is abbreviated as "NPR" and is often symbolized as "रु" or "Rs." The [currency](../c/currency.md) is administered and circulated by the central monetary authority of Nepal, which is the Nepal Rastra [Bank](../b/bank.md) (NRB).
 
 ## Historical Context
 
@@ -14,7 +14,7 @@ The Nepalese Rupee is sub-divided into smaller units called paisa, with 1 rupee 
 
 ### Banknotes
 
-Banknotes are available in various denominations, including Rs. 1, 2, 5, 10, 20, 50, 100, 500, and 1000. Nepal Rastra [Bank](../b/bank.md) governs the issuance and integrity of these notes. They typically feature prominent national symbols, historical figures, and cultural landmarks. For example, the 1000-rupee [note](../n/note.md) prominently features the image of Mount Everest, while the 500-rupee [note](../n/note.md) often features the image of Mount Manaslu. 
+Banknotes are available in various denominations, including Rs. 1, 2, 5, 10, 20, 50, 100, 500, and 1000. Nepal Rastra [Bank](../b/bank.md) governs the issuance and integrity of these notes. They typically feature prominent national symbols, historical figures, and cultural landmarks. For example, the 1000-rupee [note](../n/note.md) prominently features the image of Mount Everest, while the 500-rupee [note](../n/note.md) often features the image of Mount Manaslu.
 
 ## Exchange Rate and Pegging
 
@@ -33,13 +33,13 @@ The Nepalese Rupee serves several critical functions within the Nepalese [econom
 
 ## Monetary Policy
 
-[Monetary policy](../m/monetary_policy.md) in Nepal is primarily the responsibility of the Nepal Rastra [Bank](../b/bank.md), which aims to control [inflation](../i/inflation.md), influence [interest](../i/interest.md) rates, and ensure the stability of the [financial system](../f/financial_system.md). The NRB employs various tools such as [open market operations](../o/open_market_operations.md), repo rates, and cash [reserve ratio](../r/reserve_ratio.md) (CRR) to achieve its monetary objectives. 
+[Monetary policy](../m/monetary_policy.md) in Nepal is primarily the responsibility of the Nepal Rastra [Bank](../b/bank.md), which aims to control [inflation](../i/inflation.md), influence [interest](../i/interest.md) rates, and ensure the stability of the [financial system](../f/financial_system.md). The NRB employs various tools such as [open market operations](../o/open_market_operations.md), repo rates, and cash [reserve ratio](../r/reserve_ratio.md) (CRR) to achieve its monetary objectives.
 
 In recent years, one of the key challenges for the NRB has been to balance [economic growth](../e/economic_growth.md) with [inflation](../i/inflation.md) control. Nepal's [economy](../e/economy.md), heavily reliant on agriculture and remittances, is particularly sensitive to climatic conditions and global economic trends.
 
 ## Impact of Remittances
 
-Remittances form a significant part of Nepal's GDP, contributing close to 30%. A majority of the remittances are received in foreign currencies like USD or Gulf currencies, which are then converted into NPR. This influx of foreign [currency](../c/currency.md) helps to stabilize the [exchange rate](../e/exchange_rate.md) and also provides much-needed [liquidity](../l/liquidity.md) to the Nepalese [economy](../e/economy.md). 
+Remittances form a significant part of Nepal's GDP, contributing close to 30%. A majority of the remittances are received in foreign currencies like USD or Gulf currencies, which are then converted into NPR. This influx of foreign [currency](../c/currency.md) helps to stabilize the [exchange rate](../e/exchange_rate.md) and also provides much-needed [liquidity](../l/liquidity.md) to the Nepalese [economy](../e/economy.md).
 
 However, this also means that the NPR can be highly sensitive to fluctuations in the global [job market](../j/job_market.md), particularly in countries where many Nepalese migrant workers are employed.
 
@@ -70,4 +70,4 @@ The future of the Nepalese Rupee [will](../w/will.md) be shaped by several facto
 
 In conclusion, the Nepalese Rupee is not just a [medium of exchange](../m/medium_of_exchange.md) but a vital cog in the wheel of Nepal's [economy](../e/economy.md). Its stability, [value](../v/value.md), and evolution [will](../w/will.md) continue to shape the country's economic landscape for years to come.
 
-For more information about the Nepalese Rupee and related financial matters, please visit the official website of the Nepal Rastra [Bank](../b/bank.md) [here](https://www.nrb.org.np).
+./b/bank.md) here.

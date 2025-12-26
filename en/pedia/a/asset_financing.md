@@ -1,6 +1,6 @@
 # Asset Financing
 
-[Asset](../a/asset.md) [financing](../f/financing.md) refers to the utilization of a company's [balance sheet](../b/balance_sheet.md) assets, which include [short-term investments](../s/short-term_investments.md), [inventory](../i/inventory.md), and accounts [receivable](../r/receivable.md), to secure working [capital](../c/capital.md) loans or borrow [money](../m/money.md). Companies often need to secure such funding to meet their [cash flow](../c/cash_flow.md) needs without needing to provide additional personal [collateral](../c/collateral.md). 
+[Asset](../a/asset.md) [financing](../f/financing.md) refers to the utilization of a company's [balance sheet](../b/balance_sheet.md) assets, which include [short-term investments](../s/short-term_investments.md), [inventory](../i/inventory.md), and accounts [receivable](../r/receivable.md), to secure working [capital](../c/capital.md) loans or borrow [money](../m/money.md). Companies often need to secure such funding to meet their [cash flow](../c/cash_flow.md) needs without needing to provide additional personal [collateral](../c/collateral.md).
 
 ## Types of Asset Financing
 
@@ -36,18 +36,15 @@ ABL is a secure form of lending where a [business](../b/business.md) can borrow 
 
 ### 1. Crestmark
 Crestmark, a division of MetaBank®, provides commercial [financing](../f/financing.md), including [Asset-Based Lending](../a/asset-based_lending.md), Equipment Leasing, and Factoring. Crestmark offers tailored [financing](../f/financing.md) solutions facilitating [cash flow](../c/cash_flow.md) for small to mid-sized companies.
-[Visit Crestmark](https://www.crestmark.com/)
 
 ### 2. CIT Group
 A leading [national bank](../n/national_bank.md) empowering businesses by [offering](../o/offering.md) [financing](../f/financing.md), leasing, and advisory services. CIT Group’s offerings cover [Invoice](../i/invoice.md) [Discounting](../d/discounting.md), Equipment [Financing](../f/financing.md), and various forms of [Asset-Based Lending](../a/asset-based_lending.md).
-[Visit CIT Group](https://www.cit.com/)
 
 ### 3. OnDeck
 OnDeck offers a [range](../r/range.md) of [financing](../f/financing.md) solutions specifically designed for small businesses. Their [Asset](../a/asset.md) [Financing](../f/financing.md) [options](../o/options.md) provide straightforward access to [capital](../c/capital.md) with flexible [repayment](../r/repayment.md) [options](../o/options.md).
-[Visit OnDeck](https://www.ondeck.com/)
 
 ## Conclusion
 
-[Asset](../a/asset.md) [financing](../f/financing.md) serves as a crucial financial strategy for businesses looking to optimize their [cash flow](../c/cash_flow.md) while leveraging existing assets. Understanding different [asset](../a/asset.md) [financing](../f/financing.md) types and their implications [will](../w/will.md) enable companies to make informed financial decisions, maintain [operational efficiency](../o/operational_efficiency_in_trading.md), and support sustainable growth. 
+[Asset](../a/asset.md) [financing](../f/financing.md) serves as a crucial financial strategy for businesses looking to optimize their [cash flow](../c/cash_flow.md) while leveraging existing assets. Understanding different [asset](../a/asset.md) [financing](../f/financing.md) types and their implications [will](../w/will.md) enable companies to make informed financial decisions, maintain [operational efficiency](../o/operational_efficiency_in_trading.md), and support sustainable growth.
 
 Organizations specializing in [asset](../a/asset.md) [financing](../f/financing.md), like Crestmark, CIT Group, and OnDeck, [offer](../o/offer.md) tailored solutions designed to meet diverse [business](../b/business.md) needs, making it easier for companies to navigate their financial landscapes.

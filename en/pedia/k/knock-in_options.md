@@ -46,9 +46,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), knock-in [options](../o/o
 
 Several financial institutions and trading platforms [offer](../o/offer.md) knock-in [options](../o/options.md) as part of their [derivative](../d/derivative.md) product suite. Notable examples include:
 
-- **Goldman Sachs**: A leading global investment [bank](../b/bank.md) that provides various [exotic options](../e/exotic_options.md), including knock-in [options](../o/options.md) [Goldman Sachs](https://www.goldmansachs.com/).
-- **Barclays**: Offers a wide [range](../r/range.md) of structured products and [derivatives](../d/derivatives.md), including barrier [options](../o/options.md) [Barclays](https://www.barclays.co.uk/).
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A well-known [trading platform](../t/trading_platform.md) that includes [exotic options](../e/exotic_options.md) in their product offerings [Interactive Brokers](https://www.interactivebrokers.com/).
+- **Goldman Sachs**: A leading global investment [bank](../b/bank.md) that provides various [exotic options](../e/exotic_options.md), including knock-in [options](../o/options.md) Goldman Sachs.
+- **Barclays**: Offers a wide [range](../r/range.md) of structured products and [derivatives](../d/derivatives.md), including barrier [options](../o/options.md) Barclays.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A well-known [trading platform](../t/trading_platform.md) that includes [exotic options](../e/exotic_options.md) in their product offerings Interactive Brokers.
 
 In conclusion, knock-in [options](../o/options.md) provide unique opportunities for investors and traders to manage [risk](../r/risk.md) and create tailored investment strategies. However, understanding their complexities and the associated risks is crucial for their effective use in financial portfolios.
-

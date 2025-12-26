@@ -78,15 +78,15 @@ Some companies provide a separate [statement of retained earnings](../s/statemen
 
 ### Apple Inc.
 
-Apple Inc., one of the world's largest technology companies, has consistently high retained [earnings](../e/earnings.md). You can find more about Apple’s financials and retained [earnings](../e/earnings.md) in their annual reports ([Apple Investor Relations](https://investor.apple.com)).
+Apple Inc., one of the world's largest technology companies, has consistently high retained [earnings](../e/earnings.md). You can find more about Apple’s financials and retained [earnings](../e/earnings.md) in their annual reports.
 
 ### Microsoft Corporation
 
-Similarly, Microsoft [Corporation](../c/corporation.md) has substantial retained [earnings](../e/earnings.md), reflecting its strong [financial performance](../f/financial_performance.md) and strategy of reinvesting profits. More information can be found in their reports ([Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)).
+Similarly, Microsoft [Corporation](../c/corporation.md) has substantial retained [earnings](../e/earnings.md), reflecting its strong [financial performance](../f/financial_performance.md) and strategy of reinvesting profits. More information can be found in their reports.
 
 ## Challenges in Managing Retained Earnings
 
-While retained [earnings](../e/earnings.md) are fundamentally beneficial, managing them isn't without challenges. 
+While retained [earnings](../e/earnings.md) are fundamentally beneficial, managing them isn't without challenges.
 
 ### Over-Retaining Earnings
 

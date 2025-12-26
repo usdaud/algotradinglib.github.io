@@ -1,6 +1,6 @@
 # 401(k) Plan
 
-A 401(k) plan is a retirement savings plan sponsored by an employer. It allows employees to invest a portion of their paycheck into [long-term investments](../l/long-term_investments.md) with tax advantages. The name comes from the section of the Internal [Revenue](../r/revenue.md) Code—section 401(k)—that governs the plan. Introduced in 1978, this plan has become one of the most prevalent retirement savings structures in the United States. 
+A 401(k) plan is a retirement savings plan sponsored by an employer. It allows employees to invest a portion of their paycheck into [long-term investments](../l/long-term_investments.md) with tax advantages. The name comes from the section of the Internal [Revenue](../r/revenue.md) Code—section 401(k)—that governs the plan. Introduced in 1978, this plan has become one of the most prevalent retirement savings structures in the United States.
 
 ---
 
@@ -67,22 +67,22 @@ Many 401(k) providers [offer](../o/offer.md) mobile apps that allow participants
 Several companies specialize in [offering](../o/offering.md) 401(k) plans to employers and employees. Here are a few notable providers:
 
 ### Fidelity Investments
-Fidelity is one of the largest providers of 401(k) plans in the United States. They [offer](../o/offer.md) a wide [range](../r/range.md) of investment [options](../o/options.md), [robust](../r/robust.md) online tools, and educational resources to help participants optimize their retirement savings. [Fidelity](https://www.fidelity.com).
+Fidelity is one of the largest providers of 401(k) plans in the United States. They [offer](../o/offer.md) a wide [range](../r/range.md) of investment [options](../o/options.md), [robust](../r/robust.md) online tools, and educational resources to help participants optimize their retirement savings.
 
 ### Vanguard
-Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and has a significant presence in the retirement plan [market](../m/market.md). They [offer](../o/offer.md) comprehensive 401(k) services, including plan administration and [investment management](../i/investment_management.md). [Vanguard](https://www.vanguard.com).
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and has a significant presence in the retirement plan [market](../m/market.md). They [offer](../o/offer.md) comprehensive 401(k) services, including plan administration and [investment management](../i/investment_management.md).
 
 ### Charles Schwab
-Schwab provides extensive 401(k) plan services, including a variety of investment [options](../o/options.md) and advisory services. Their platform is user-friendly and includes tools to help participants make informed decisions. [Charles Schwab](https://www.schwab.com).
+Schwab provides extensive 401(k) plan services, including a variety of investment [options](../o/options.md) and advisory services. Their platform is user-friendly and includes tools to help participants make informed decisions.
 
 ### T. Rowe Price
-T. Rowe Price offers customized 401(k) plan solutions with a focus on participant education and engagement. They provide a [range](../r/range.md) of investment [options](../o/options.md) and [robust](../r/robust.md) online and mobile tools. [T. Rowe Price](https://www.troweprice.com).
+T. Rowe Price offers customized 401(k) plan solutions with a focus on participant education and engagement. They provide a [range](../r/range.md) of investment [options](../o/options.md) and [robust](../r/robust.md) online and mobile tools. T.
 
 ### Empower Retirement
-Empower is one of the largest retirement services providers in the U.S., [offering](../o/offering.md) a variety of plans for small to large businesses. Their platform emphasizes participant experience with personalized advice and financial wellness tools. [Empower Retirement](https://www.empower-retirement.com).
+Empower is one of the largest retirement services providers in the U.S., [offering](../o/offering.md) a variety of plans for small to large businesses. Their platform emphasizes participant experience with personalized advice and financial wellness tools.
 
 ---
 
 ## Conclusion
 
-A 401(k) plan represents a crucial component of [retirement planning](../r/retirement_planning.md) for many Americans, [offering](../o/offering.md) significant tax advantages, employer contributions, and a broad array of investment [options](../o/options.md). By understanding its features, managing the account effectively, and leveraging modern tools and platforms, participants can maximize the benefits of their 401(k) and aim for a financially secure retirement.
+A 401(k) plan represents a crucial component of [retirement planning](../r/retirement_planning.md) for many Americans, [offering](../o/offering.md) significant tax advantages, employer contributions, and a broad array of investment [options](../o/options.md). By understanding its features, managing the account effectively, and leveraging modern tools and platforms, participants can maximize the benefits of their 401(k) and aim for a financially secure retirement.

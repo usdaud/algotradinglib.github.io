@@ -1,6 +1,6 @@
 # Fibonacci Extensions
 
-Fibonacci extensions are a widely-used tool in [technical analysis](../t/technical_analysis.md) for predicting potential areas of price [reversal](../r/reversal.md), continuation, or targets during an upward or downward [trend](../t/trend.md) in the [financial markets](../f/financial_market.md). Based on the mathematical Fibonacci sequence, these extensions, named after the Italian mathematician Leonardo of Pisa (known as Fibonacci), are employed by traders to identify potential price levels beyond the standard [retracement](../r/retracement.md) levels of an [asset](../a/asset.md)’s primary [trend](../t/trend.md). This extended technical [indicator](../i/indicator.md) provides an insight beyond basic Fibonacci retracements, helping traders with a more comprehensive analysis of [asset](../a/asset.md) movements in the future. 
+Fibonacci extensions are a widely-used tool in [technical analysis](../t/technical_analysis.md) for predicting potential areas of price [reversal](../r/reversal.md), continuation, or targets during an upward or downward [trend](../t/trend.md) in the [financial markets](../f/financial_market.md). Based on the mathematical Fibonacci sequence, these extensions, named after the Italian mathematician Leonardo of Pisa (known as Fibonacci), are employed by traders to identify potential price levels beyond the standard [retracement](../r/retracement.md) levels of an [asset](../a/asset.md)’s primary [trend](../t/trend.md). This extended technical [indicator](../i/indicator.md) provides an insight beyond basic Fibonacci retracements, helping traders with a more comprehensive analysis of [asset](../a/asset.md) movements in the future.
 
 ## The Foundation of Fibonacci Sequence
 
@@ -26,7 +26,7 @@ These extensions predict future price zones where the [asset](../a/asset.md) mig
 
 ### Identifying Targets
 
-Fibonacci extensions are frequently employed to estimate potential target levels beyond the previous peak or [trough](../t/trough.md). Traders use these targets to set stop-loss or take-[profit](../p/profit.md) orders. For example, if a stock has moved from $50 to $100, a 161.8% extension level would indicate a potential target around $161.8 above the low, i.e., at $161.8 + $50 = $211.8. 
+Fibonacci extensions are frequently employed to estimate potential target levels beyond the previous peak or [trough](../t/trough.md). Traders use these targets to set stop-loss or take-[profit](../p/profit.md) orders. For example, if a stock has moved from $50 to $100, a 161.8% extension level would indicate a potential target around $161.8 above the low, i.e., at $161.8 + $50 = $211.8.
 
 ### Confirming Trends
 
@@ -60,13 +60,13 @@ RSI offers insights into potentially [overbought](../o/overbought.md) or [overso
 
 Several financial trading platforms and software [offer](../o/offer.md) integrated Fibonacci extension tools for traders, simplifying the calculation and plotting process. Here are a few notable ones:
 
-- **[TradingView](../t/tradingview.md)**: An online platform that offers Fibonacci extension tools directly on its charting interface. Users can easily drag and drop to set significant price points. Visit: [TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: An online platform that offers Fibonacci extension tools directly on its charting interface. Users can easily drag and drop to set significant price points. Visit: TradingView
 
-- **MetaTrader 4/5**: A widely used platform with built-in Fibonacci tools suitable for Forex, commodities, and stock traders. Visit: [MetaTrader](https://www.metatrader4.com) or [MetaTrader 5](https://www.metatrader5.com)
+- **MetaTrader 4/5**: A widely used platform with built-in Fibonacci tools suitable for Forex, commodities, and stock traders. Visit: MetaTrader or MetaTrader 5
 
-- **[NinjaTrader](../n/ninjatrader.md)**: A professional [trading platform](../t/trading_platform.md) providing advanced charting features and Fibonacci analysis tools. Visit: [NinjaTrader](https://ninjatrader.com)
+- **[NinjaTrader](../n/ninjatrader.md)**: A professional [trading platform](../t/trading_platform.md) providing advanced charting features and Fibonacci analysis tools. Visit: NinjaTrader
 
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: This platform offers comprehensive charting tools, including Fibonacci extensions. Visit: [TD Ameritrade - Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: This platform offers comprehensive charting tools, including Fibonacci extensions. Visit: TD Ameritrade - Thinkorswim
 
 ## Conclusion
 

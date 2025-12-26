@@ -74,15 +74,15 @@ Contrarily, a Defined Contribution Plan outlines the amount that [will](../w/wil
 
 ### Public Sector: Illinois State
 
-The state of Illinois has been a glaring example of a severely underfunded public pension system. Gathering unfunded liabilities in billions, the state faces continual challenges in meeting its pension promises without cutting essential public services or raising [taxes](../t/taxes.md). 
+The state of Illinois has been a glaring example of a severely underfunded public pension system. Gathering unfunded liabilities in billions, the state faces continual challenges in meeting its pension promises without cutting essential public services or raising [taxes](../t/taxes.md).
 
-**Link**: [Illinois State Retirement Systems](https://www.srs.illinois.gov/home)
+**Link**: Illinois State Retirement Systems
 
 ### Corporate Sector: General Motors (GM)
 
 General Motors is another high-profile case where the company faced significant pension liabilities. GM moved to de-[risk](../r/risk.md) its [pension plan](../p/pension_plan.md) by shifting to Defined Contribution Plans and purchasing group annuity contracts.
 
-**Link**: [General Motors](https://www.gm.com/)
+**Link**: General Motors
 
 ## Mitigation Measures for Underfunded Pension Plans
 

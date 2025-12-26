@@ -62,19 +62,19 @@ Using the earlier example, when the price of good X falls, the consumer’s [rea
 
 ## Application in Algorithmic Trading and Fintech
 
-In financial technologies and [algorithmic trading](../a/accountability.md), understanding consumer and [investor](../i/investor.md) behavior through concepts like the substitution effect is pivotal. This knowledge can enhance [predictive models](../p/predictive_models_in_trading.md), optimize [trading algorithms](../t/trading_algorithms.md), and improve automated decision-making systems. By incorporating the substitution effect:
+In financial technologies and [algorithmic trading](../a/algorithmic_trading.md), understanding consumer and [investor](../i/investor.md) behavior through concepts like the substitution effect is pivotal. This knowledge can enhance [predictive models](../p/predictive_models_in_trading.md), optimize [trading algorithms](../t/trading_algorithms.md), and improve automated decision-making systems. By incorporating the substitution effect:
 
 1. **[Price Sensitivity Analysis](../p/price_sensitivity_analysis.md)**: Algorithms can be designed to analyze how changes in [asset](../a/asset.md) prices lead to shifts between different securities or [asset](../a/asset.md) classes.
-  
+
 2. **Consumer Behavior Models**: Fintech applications can integrate the substitution effect into user preference models, providing personalized recommendations and improving [customer](../c/customer.md) retention.
-  
+
 3. **[Market](../m/market.md) Predictions**: Understanding how investors react to relative price changes can refine [predictive analytics tools](../p/predictive_analytics_tools.md), aiding in more accurate [forecasting](../f/forecasting.md) of [market](../m/market.md) movements.
 
 For example, a fintech company might use [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) to analyze historical data, identifying patterns in how consumers [substitute](../s/substitute.md) between different financial products when [interest](../i/interest.md) rates fluctuate. This insight can support [portfolio management](../p/par.md) strategies that [capitalize](../c/capitalize.md) on predicted shifts.
 
 ---
 
-To illustrate, consider a fintech company like Wealthfront ([Wealthfront](https://www.wealthfront.com/)). They [offer](../o/offer.md) automated [investment management](../i/investment_management.md), utilizing algorithms that consider various economic principles, including the substitution effect, to optimize [asset allocation](../a/asset_allocation.md) for clients, ensuring the portfolio aligns with [market](../m/market.md) conditions and individual [risk](../r/risk.md) preferences.
+To illustrate, consider a fintech company like Wealthfront (Wealthfront). They [offer](../o/offer.md) automated [investment management](../i/investment_management.md), utilizing algorithms that consider various economic principles, including the substitution effect, to optimize [asset allocation](../a/asset_allocation.md) for clients, ensuring the portfolio aligns with [market](../m/market.md) conditions and individual [risk](../r/risk.md) preferences.
 
 ## Conclusion
 

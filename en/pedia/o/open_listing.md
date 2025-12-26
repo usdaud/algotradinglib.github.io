@@ -15,7 +15,7 @@ One method often associated with [open](../o/open.md) listing is the Direct List
 #### Challenges
 - **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Direct access to the [market](../m/market.md) can expose [shares](../s/shares.md) to high [volatility](../v/volatility.md).
 - **No [Capital](../c/capital.md) Raise**: Unlike traditional IPOs, a direct listing does not involve selling new [shares](../s/shares.md) and raising new [capital](../c/capital.md) for the company.
-- **Limited Support**: Lack of [underwriter](../u/underwriter.md) support can mean reduced [marketing](../m/marketing.md) and [investor relations](../i/investor_relations.md) efforts.
+- **Limited Support**: Lack of [underwriter](../u/underwriter.md) support can mean reduced [marketing](../m/marketing.md) and [company filings](../i/investor_relations.md) efforts.
 
 ### Rule 144A Listing
 Another type of [open](../o/open.md) listing is found under [Rule 144A](../r/rule_144a.md) of the [Securities Act of 1933](../s/securities_act_of_1933.md), which allows the trading of [private placement](../p/private_placement.md) securities among qualified institutional buyers (QIBs). This method can be utilized to facilitate a quasi-public [market](../m/market.md) for the securities of companies that are not yet ready or willing to go through a full public listing.
@@ -34,12 +34,12 @@ Another type of [open](../o/open.md) listing is found under [Rule 144A](../r/rul
 ### Spotify
 Spotify's direct listing on the New York Stock [Exchange](../e/exchange.md) (NYSE) in 2018 is one of the most notable examples of a successful [open](../o/open.md) listing. By opting for a direct listing over a traditional IPO, Spotify provided [liquidity](../l/liquidity.md) to existing shareholders without diluting [shares](../s/shares.md) through an issuance of new stock.
 
-- **Link to Company**: [Spotify](https://www.spotify.com)
+- **Link to Company**: Spotify
 
 ### Slack Technologies
 Slack followed a similar path as Spotify by choosing a direct listing on the NYSE in 2019. This move enabled Slack to go public without the need for an [underwriter](../u/underwriter.md), and it facilitated quicker entry into the [market](../m/market.md).
 
-- **Link to Company**: [Slack](https://slack.com)
+- **Link to Company**: Slack
 
 ## Regulatory Considerations
 
@@ -48,7 +48,7 @@ Slack followed a similar path as Spotify by choosing a direct listing on the NYS
 ### SEC Involvement
 The SEC plays a crucial role in overseeing direct listings and ensuring that companies provide adequate disclosures to investors. This includes information on the company's [financial health](../f/financial_health.md), management, and [risk factors](../r/risk_factors_in_trading.md).
 
-- **Link to SEC Regulations**: [SEC](https://www.sec.gov)
+- **Link to SEC Regulations**: SEC
 
 ## Market Dynamics and Investor Impact
 

@@ -31,9 +31,9 @@ Since its inception, the RSE has progressively expanded its [range](../r/range.m
 2. **Bonds**: Government and corporate bonds. The Rwandan government regularly issues treasury bonds to [fund](../f/fund.md) public projects, and several companies have also issued corporate bonds to raise [capital](../c/capital.md).
 
 ### Notable Listed Companies
-- **[Bank](../b/bank.md) of Kigali**: One of the leading financial institutions in Rwanda. More information can be found on their [website](https://www.bk.rw).
-- **Bralirwa**: A major beverage producer in Rwanda. More information can be found on their [website](https://www.bralirwa.com).
-- **I&M [Bank](../b/bank.md) Rwanda**: Part of the I&M [Bank](../b/bank.md) group, which operates across East Africa. More information can be found on their [website](https://www.imbankgroup.com/rw).
+- **[Bank](../b/bank.md) of Kigali**: One of the leading financial institutions in Rwanda.
+- **Bralirwa**: A major beverage producer in Rwanda.
+- **I&M [Bank](../b/bank.md) Rwanda**: Part of the I&M [Bank](../b/bank.md) group, which operates across East Africa.
 
 ## Trading Mechanisms
 

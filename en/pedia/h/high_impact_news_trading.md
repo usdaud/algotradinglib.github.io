@@ -54,24 +54,21 @@ One of the most anticipated news events is the monthly U.S. [Non-Farm Payroll](.
 ### QuantConnect
 [QuantConnect](../q/quantconnect.md) provides a comprehensive platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to collaborate, back-test, and deploy strategies across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. Their [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) engine, Lean, supports deployment in High Impact News Trading scenarios.
 
-[QuantConnect](https://www.quantconnect.com/)
 
 ### Numerai
 Numerai leverages a collaborative [data science](../d/data_science_in_trading.md) approach to build [machine learning](../m/machine_learning.md) models that can predict financial [market](../m/market.md) movements, including those driven by high-impact news events. Numerai’s unique data-shared tournament approach allows for innovative strategies in High Impact News Trading.
 
-[Numerai](https://numer.ai/)
 
 ### Kensho Technologies
 Kensho, acquired by S&P Global, specializes in developing AI and [machine learning](../m/machine_learning.md) systems to understand and react to global events. Their technologies are utilized in creating sophisticated algorithms capable of trading based on high-impact news.
 
-[Kensho Technologies](https://www.kensho.com/)
 
 ## Developing Your Own High Impact News Trading Algorithm
 
 Building a [robust](../r/robust.md) High Impact News Trading algorithm involves several steps:
 
 1. **Strategy Design**: Define the key components of your strategy, such as the types of news events to focus on and your primary data sources.
- 
+
 2. **Algorithm Development**: Utilize programming languages like Python or R, and incorporate [machine learning](../m/machine_learning.md) techniques for analyzing news sentiment and predicting [market](../m/market.md) reactions.
 
 3. **[Backtesting](../b/backtesting.md)**: Thoroughly test your algorithm against historical data to gauge its performance and refine the strategy based on the outcomes.

@@ -17,9 +17,9 @@ The algorithm can be broken down into the following steps:
 
 ### Identifying Market Regimes
 
-[Market](../m/market.md) regimes refer to different periods characterized by unique [market](../m/market.md) conditions such as [bull](../b/bull.md) markets, bear markets, or periods of high [volatility](../v/volatility.md). K-Means clustering can be applied to historical [market](../m/market.md) data to identify these regimes by clustering time periods with similar characteristics. 
+[Market](../m/market.md) regimes refer to different periods characterized by unique [market](../m/market.md) conditions such as [bull](../b/bull.md) markets, bear markets, or periods of high [volatility](../v/volatility.md). K-Means clustering can be applied to historical [market](../m/market.md) data to identify these regimes by clustering time periods with similar characteristics.
 
-Example: 
+Example:
 - Cluster 1: [Bull market](../b/bull_market.md) with low [volatility](../v/volatility.md)
 - Cluster 2: [Bear market](../b/bear_market.md) with high [volatility](../v/volatility.md)
 - Cluster 3: Sideways [market](../m/market.md)
@@ -28,7 +28,7 @@ By identifying these regimes, traders can adjust their strategies according to h
 
 ### Segmentation of Stocks
 
-K-Means clustering can be used for stock segmentation to categorize [stocks](../s/stock.md) into clusters based on various attributes like price-to-[earnings](../e/earnings.md) ratio (P/E), [market capitalization](../m/market_capitalization.md), and trading [volume](../v/volume.md). 
+K-Means clustering can be used for stock segmentation to categorize [stocks](../s/stock.md) into clusters based on various attributes like price-to-[earnings](../e/earnings.md) ratio (P/E), [market capitalization](../m/market_capitalization.md), and trading [volume](../v/volume.md).
 
 Example:
 - Cluster 1: Large-cap, low P/E, high [dividend](../d/dividend.md)
@@ -81,17 +81,13 @@ plt.show()
 
 ### Case Studies
 
-#### QuantConnect
+#### StockSharp
 
-**[QuantConnect](../q/quantconnect.md)** offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform and is an excellent resource for implementing K-Means clustering. Their platform supports [multiple](../m/multiple.md) languages (C#, Python, F#) and offers extensive financial data, making it ideal for research and [backtesting](../b/backtesting.md).
-
-[QuantConnect](https://www.quantconnect.com/)
+**[StockSharp](../s/stocksharp.md)** offers a [algorithmic trading](../a/algorithmic_trading.md) platform and is an excellent resource for implementing K-Means clustering. Their platform supports C# and offers extensive financial data, making it ideal for research and [backtesting](../b/backtesting.md).
 
 #### Alpaca
 
 **[Alpaca](../a/alpaca.md)** is another platform that provides APIs for stock trading and analysis. Users can implement [clustering algorithms](../c/clustering_algorithms.md) to analyze [market](../m/market.md) data and execute trades based on the clusters identified.
-
-[Alpaca](https://alpaca.markets/)
 
 ## Challenges and Considerations
 
@@ -113,4 +109,4 @@ The random initialization of centroids can lead to different clustering outcomes
 
 ## Conclusion
 
-K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a [robust](../r/robust.md) framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.
+K-Means clustering offers valuable insights for traders by uncovering hidden patterns and segmenting markets. While it provides a [robust](../r/robust.md) framework for analyzing financial data, it should be used in conjunction with other methods and validated thoroughly before deployment. Platforms like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) [offer](../o/offer.md) ample resources and tools to implement and test K-Means [clustering algorithms](../c/clustering_algorithms.md) in trading contexts effectively.

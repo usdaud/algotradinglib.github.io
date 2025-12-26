@@ -90,7 +90,7 @@ China’s remarkable [economic growth](../e/economic_growth.md) over the past fe
 In contrast, India has faced challenges with a higher ICOR in its [infrastructure](../i/infrastructure.md) development sector. Inefficiencies in project [execution](../e/execution.md), regulatory hurdles, and less advanced technology compared to some peers have led to higher [capital](../c/capital.md) requirements to achieve desired output.
 
 ### Corporate Sector Example - Tesla, Inc.
-Tesla, Inc. [link](https://www.tesla.com/) has exhibited a relatively low ICOR in recent years within the automotive [industry](../i/industry.md). This is attributed to its innovative approach, significant advancements in electric vehicle technology, and efficient production methods, allowing it to grow its output with relatively lower [capital investment](../c/capital_investment.md).
+Tesla, Inc. link has exhibited a relatively low ICOR in recent years within the automotive [industry](../i/industry.md). This is attributed to its innovative approach, significant advancements in electric vehicle technology, and efficient production methods, allowing it to grow its output with relatively lower [capital investment](../c/capital_investment.md).
 
 ## Conclusion
 

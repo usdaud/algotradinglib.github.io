@@ -1,6 +1,6 @@
 # Least Squares Regression
 
-Least squares regression is a statistical method used to determine the [line of best fit](../l/line_of_best_fit.md) by minimizing the [sum of squares](../s/sum_of_squares.md) of the differences between observed and estimated values. This method has a significant place in [algorithmic trading](../a/algorithmic_trading.md), where it helps traders make informed decisions based on historical data and [predictive models](../p/predictive_models_in_trading.md). 
+Least squares regression is a statistical method used to determine the [line of best fit](../l/line_of_best_fit.md) by minimizing the [sum of squares](../s/sum_of_squares.md) of the differences between observed and estimated values. This method has a significant place in [algorithmic trading](../a/algorithmic_trading.md), where it helps traders make informed decisions based on historical data and [predictive models](../p/predictive_models_in_trading.md).
 
 ### Understanding Least Squares Regression
 
@@ -65,11 +65,11 @@ Pair trading involves finding two [stocks](../s/stock.md) that are statistically
 Several tools and platforms can be utilized for implementing least squares regression in [algorithmic trading](../a/algorithmic_trading.md). Some popular ones include:
 
 - **Python with libraries such as NumPy, Pandas, and statsmodels**:
-  - NumPy and Pandas are essential for data manipulation, while statsmodels provides [robust](../r/robust.md) functions for statistical modeling and [hypothesis testing](../h/hypothesis_testing.md). 
+ - NumPy and Pandas are essential for data manipulation, while statsmodels provides [robust](../r/robust.md) functions for statistical modeling and [hypothesis testing](../h/hypothesis_testing.md).
 - **R**:
-  - This statistical programming language offers extensive libraries for [regression analysis](../r/regression_analysis.md), including lm() function for linear modeling.
+ - This statistical programming language offers extensive libraries for [regression analysis](../r/regression_analysis.md), including lm() function for linear modeling.
 - **MATLAB**:
-  - Known for its numerical computing capabilities, MATLAB has built-in functions like fitlm() for fitting [linear models](../l/linear_models_in_trading.md).
+ - Known for its numerical computing capabilities, MATLAB has built-in functions like fitlm() for fitting [linear models](../l/linear_models_in_trading.md).
 
 ### Example Code
 
@@ -102,17 +102,17 @@ print(model.summary())
 ### Case Studies & Industry Examples
 
 1. **Renaissance Technologies**:
-   Renaissance Technologies, founded by Jim Simons, is one of the most successful quant funds utilizing statistical models, including [regression techniques](../r/regression_techniques.md), for [algorithmic trading](../a/algorithmic_trading.md). Their Medallion [Fund](../f/fund.md) has been known for its impressive returns, largely attributed to sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and data analysis.
+ Renaissance Technologies, founded by Jim Simons, is one of the most successful quant funds utilizing statistical models, including [regression techniques](../r/regression_techniques.md), for [algorithmic trading](../a/algorithmic_trading.md). Their Medallion [Fund](../f/fund.md) has been known for its impressive returns, largely attributed to sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and data analysis.
 
 2. **Two Sigma**:
-   Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of [machine learning](../m/machine_learning.md), advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building [predictive models](../p/predictive_models_in_trading.md) for their [trading strategies](../t/trading_strategies.md). More about Two Sigma can be found on their [official website](https://www.twosigma.com).
+ Two Sigma, another giant in the [quantitative trading](../q/quantitative_trading.md) space, employs a combination of [machine learning](../m/machine_learning.md), advanced statistical methods, and significant computational resources to analyze vast amounts of financial data. Least squares regression is fundamental in building [predictive models](../p/predictive_models_in_trading.md) for their [trading strategies](../t/trading_strategies.md).
 
 ### Interpretation and Analysis
 
 A successful application of least squares regression in trading requires careful interpretation of the model parameters and assumptions. Key points to consider include:
 
 - **[R-Squared](../r/r-squared_in_trading.md) and Adjusted [R-Squared](../r/r-squared_in_trading.md)**: These metrics indicate how well the independent variables explain the [variability](../v/variability.md) in the dependent variable. In trading, a high [R-Squared](../r/r-squared_in_trading.md) [value](../v/value.md) might suggest a strong predictive model, although caution should be exercised to avoid [overfitting](../o/overfitting.md).
-  
+
 - **P-Values**: Low p-values indicate that the coefficients are statistically significant. For trading, careful consideration of which variables to include in the model based on their p-values can improve model performance.
 
 - **Residuals Analysis**: Studying the residuals (the differences between observed and predicted values) can help identify patterns, [autocorrelation](../a/autocorrelation.md), or heteroscedasticity, all of which might suggest areas where the model can be improved.

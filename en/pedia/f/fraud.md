@@ -77,7 +77,6 @@ Navinder Singh Sarao, a British [trader](../t/trader.md), was accused of contrib
 
 Tower Research [Capital](../c/capital.md), a prominent high-frequency trading [firm](../f/firm.md), settled with the CFTC for $67.4 million to resolve charges related to [spoofing](../s/spoofing.md) in [multiple](../m/multiple.md) markets. The [firm](../f/firm.md) was found to have engaged in manipulative trading practices, including placing orders with no intention of executing them.
 
-[Link to Tower Research Capital](https://www.tower-research.com/)
 
 ## Conclusion
 

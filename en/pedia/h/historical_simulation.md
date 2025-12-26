@@ -55,9 +55,9 @@ While historical [simulation](../s/simulation_in_trading.md) is a powerful tool,
 
 Several [software platforms](../s/software_platforms_for_trading.md) and tools are available for performing historical simulations. These tools [range](../r/range.md) from basic to advanced and often include features for data handling, strategy coding, and performance analysis.
 
-- **MetaTrader**: Popular among retail traders, MetaTrader allows for [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) using historical data. [MetaTrader](https://www.metatrader5.com/en)
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and a powerful [backtesting](../b/backtesting.md) engine. [QuantConnect](https://www.quantconnect.com)
-- **[TradeStation](../t/tradestation.md)**: Offers a comprehensive platform for [backtesting](../b/backtesting.md) and automated trading. [TradeStation](https://www.tradestation.com)
+- **MetaTrader**: Popular among retail traders, MetaTrader allows for [backtesting](../b/backtesting.md) of [trading strategies](../t/trading_strategies.md) using historical data. MetaTrader
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides access to historical data and a powerful [backtesting](../b/backtesting.md) engine. QuantConnect
+- **[TradeStation](../t/tradestation.md)**: Offers a comprehensive platform for [backtesting](../b/backtesting.md) and automated trading. TradeStation
 
 ## Conclusion
 

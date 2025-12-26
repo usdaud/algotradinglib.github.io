@@ -10,26 +10,26 @@ The Variance-[Covariance](../c/covariance.md) Method, also known as the [delta](
 
 - **Variance**: Variance measures the [dispersion](../d/dispersion.md) of a set of values from their mean. In financial terms, it represents the [risk](../r/risk.md) or [volatility](../v/volatility.md) of an [asset](../a/asset.md)'s returns.
 
-    \[
-    \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
-    \]
+ \[
+ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
+ \]
 
-    where:
-    - \( \sigma^2 \) is the variance.
-    - \( x_i \) is each individual [return](../r/return.md).
-    - \( \mu \) is the mean [return](../r/return.md).
-    - \( N \) is the number of observations.
+ where:
+ - \( \sigma^2 \) is the variance.
+ - \( x_i \) is each individual [return](../r/return.md).
+ - \( \mu \) is the mean [return](../r/return.md).
+ - \( N \) is the number of observations.
 
 - **[Covariance](../c/covariance.md)**: [Covariance](../c/covariance.md) measures the degree to which two assets move in tandem. A positive [covariance](../c/covariance.md) indicates that the assets move together, while a negative [covariance](../c/covariance.md) indicates they move inversely.
 
-    \[
-    \sigma_{xy} = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu_x)(y_i - \mu_y)
-    \]
+ \[
+ \sigma_{xy} = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu_x)(y_i - \mu_y)
+ \]
 
-    where:
-    - \( \sigma_{xy} \) is the [covariance](../c/covariance.md) between returns \( x \) and \( y \).
-    - \( \mu_x \) and \( \mu_y \) are the mean returns of \( x \) and \( y \) respectively.
-    - \( N \) is the number of observations.
+ where:
+ - \( \sigma_{xy} \) is the [covariance](../c/covariance.md) between returns \( x \) and \( y \).
+ - \( \mu_x \) and \( \mu_y \) are the mean returns of \( x \) and \( y \) respectively.
+ - \( N \) is the number of observations.
 
 #### Correlation
 [Correlation](../c/correlation.md) is a standardized measure of the relationship between two variables and is calculated by normalizing [covariance](../c/covariance.md) by the product of the standard deviations of the two variables.
@@ -48,13 +48,13 @@ where:
 
 1. **Calculate Daily Returns**: For each [asset](../a/asset.md) in the portfolio, calculate the daily returns over a defined historical period.
 
-    \[
-    R_t = \frac{P_t - P_{t-1}}{P_{t-1}}
-    \]
+ \[
+ R_t = \frac{P_t - P_{t-1}}{P_{t-1}}
+ \]
 
-    where:
-    - \( R_t \) is the [return](../r/return.md) at time \( t \).
-    - \( P_t \) and \( P_{t-1} \) are the prices at times \( t \) and \( t-1 \) respectively.
+ where:
+ - \( R_t \) is the [return](../r/return.md) at time \( t \).
+ - \( P_t \) and \( P_{t-1} \) are the prices at times \( t \) and \( t-1 \) respectively.
 
 2. **Determine Mean and [Volatility](../v/volatility.md)**: Compute the mean (\( \mu \)) and [standard deviation](../s/standard_deviation.md) (\( \sigma \)) of these returns, which serve as the [expected return](../e/expected_return.md) and [risk measures](../r/risk_measures.md).
 
@@ -64,37 +64,37 @@ where:
 
 2. **[Covariance](../c/covariance.md) Matrix**: Compile these [covariance](../c/covariance.md) values into a symmetric matrix known as the [Covariance](../c/covariance.md) Matrix (\( \Sigma \)).
 
-    \[
-    \Sigma =
-    \begin{bmatrix}
-    \sigma_{11} & \sigma_{12} & \cdots & \sigma_{1n} \\
-    \sigma_{21} & \sigma_{22} & \cdots & \sigma_{2n} \\
-    \vdots & \vdots & \ddots & \vdots \\
-    \sigma_{n1} & \sigma_{n2} & \cdots & \sigma_{nn}
-    \end{bmatrix}
-    \]
+ \[
+ \Sigma =
+ \begin{bmatrix}
+ \sigma_{11} & \sigma_{12} & \cdots & \sigma_{1n} \\
+ \sigma_{21} & \sigma_{22} & \cdots & \sigma_{2n} \\
+ \vdots & \vdots & \ddots & \vdots \\
+ \sigma_{n1} & \sigma_{n2} & \cdots & \sigma_{nn}
+ \end{bmatrix}
+ \]
 
 #### Step 3: Portfolio Variance and VaR Calculation
 
 1. **Portfolio Weights**: Define \( w \) as the vector of portfolio weights \( w_i \).
 
-    \[
-    w = \begin{bmatrix} w_1 \\ w_2 \\ \vdots \\ w_n \end{bmatrix}
-    \]
+ \[
+ w = \begin{bmatrix} w_1 \\ w_2 \\ \vdots \\ w_n \end{bmatrix}
+ \]
 
 2. **[Portfolio Variance](../p/portfolio_variance.md) (\( \sigma_p^2 \))**: Compute the [portfolio variance](../p/portfolio_variance.md) using the following matrix operation:
 
-    \[
-    \sigma_p^2 = w^\top \Sigma w
-    \]
+ \[
+ \sigma_p^2 = w^\top \Sigma w
+ \]
 
 3. **[Standard Deviation](../s/standard_deviation.md) and VaR**: Calculate the portfolio [standard deviation](../s/standard_deviation.md) (\( \sigma_p \)) and use it to estimate VaR.
 
-    \[
-    \text{VaR} = Z_{\[alpha](../a/alpha.md)} \cdot \sigma_p
-    \]
+ \[
+ \text{VaR} = Z_{\[alpha](../a/alpha.md)} \cdot \sigma_p
+ \]
 
-    where \( Z_{\[alpha](../a/alpha.md)} \) is the [Z-score](../z/z-score.md) corresponding to the desired confidence level (e.g., 1.65 for 95% confidence).
+ where \( Z_{\[alpha](../a/alpha.md)} \) is the [Z-score](../z/z-score.md) corresponding to the desired confidence level (e.g., 1.65 for 95% confidence).
 
 ### Advantages of the Variance-Covariance Method
 
@@ -118,7 +118,7 @@ Financial analysts and quant developers often use Python for implementing the Va
 [import](../i/import.md) numpy as np
 
 # Define asset returns (as an example)
-returns = np.array([
+returns = np.array[
     [0.01, 0.02, 0.015],
     [0.012, 0.022, 0.018],
     [0.008, 0.02, 0.017]
@@ -156,14 +156,13 @@ This simple example demonstrates the calculation of portfolio VaR using the Vari
 #### JPMorgan Chase & Co.
 
 - JPMorgan is a pioneer in the field of [risk management](../r/risk_management.md) and famously developed the RiskMetrics model, which extensively uses the Variance-[Covariance](../c/covariance.md) Method.
-- [JPMorgan Risk Management](https://www.jpmorganchase.com/about/risk-management)
+- JPMorgan Risk Management
 
 #### BlackRock
 
 - BlackRock, one of the world's largest [asset management](../a/asset_management.md) firms, employs advanced variance-[covariance](../c/covariance.md) analysis in its Aladdin [risk](../r/risk.md) analytics platform to manage multi-[asset](../a/asset.md) portfolios.
-- [BlackRock Aladdin](https://www.blackrock.com/aladdin)
+- BlackRock Aladdin
 
 ### Conclusion
 
 The Variance-[Covariance](../c/covariance.md) Method remains a foundational technique in [financial risk management](../f/financial_risk_management.md). Its ease of use, coupled with the [efficiency](../e/efficiency.md) of matrix computations, makes it a valuable tool for quantifying potential losses in a portfolio. However, practitioners must be mindful of its [underlying](../u/underlying.md) assumptions and limitations, and consider complementing it with other methods and models to capture a more holistic view of [risk](../r/risk.md).
-

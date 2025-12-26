@@ -53,24 +53,24 @@ Independent contractors can receive detailed descriptions of the payments for sp
 ### Steps to Issue a Voucher Check:
 
 1. **Generate the [Check](../c/check.md)**:
-   Use an [accounting](../a/accounting.md) or financial software to create the [check](../c/check.md) portion. This software may include fields for all necessary [check](../c/check.md) details.
+ Use an [accounting](../a/accounting.md) or financial software to create the [check](../c/check.md) portion. This software may include fields for all necessary [check](../c/check.md) details.
 
 2. **Complete the [Voucher](../v/voucher.md)**:
-   Fill out the [voucher](../v/voucher.md) portion with detailed information such as the [invoice](../i/invoice.md) number, account code, [payment](../p/payment.md) description, and other pertinent details.
+ Fill out the [voucher](../v/voucher.md) portion with detailed information such as the [invoice](../i/invoice.md) number, account code, [payment](../p/payment.md) description, and other pertinent details.
 
 3. **[Issue](../i/issue.md) and Record**:
-   Once the [check](../c/check.md) and [voucher](../v/voucher.md) are complete, [issue](../i/issue.md) the [check](../c/check.md) to the [payee](../p/payee.md) and record the [transaction](../t/transaction.md) in your financial ledgers for future reference.
+ Once the [check](../c/check.md) and [voucher](../v/voucher.md) are complete, [issue](../i/issue.md) the [check](../c/check.md) to the [payee](../p/payee.md) and record the [transaction](../t/transaction.md) in your financial ledgers for future reference.
 
 ### Best Practices:
 
 - **Standardize Forms**:
-  Use standardized forms or templates for consistency and to avoid errors. Many [accounting](../a/accounting.md) software packages [offer](../o/offer.md) customizable [voucher](../v/voucher.md) [check](../c/check.md) templates.
+ Use standardized forms or templates for consistency and to avoid errors. Many [accounting](../a/accounting.md) software packages [offer](../o/offer.md) customizable [voucher](../v/voucher.md) [check](../c/check.md) templates.
 
 - **[Internal Controls](../i/internal_controls.md)**:
-  Implement [internal controls](../i/internal_controls.md) such as requiring [multiple](../m/multiple.md) approvals for high-[value](../v/value.md) transactions to ensure accuracy and prevent [fraud](../f/fraud.md).
+ Implement [internal controls](../i/internal_controls.md) such as requiring [multiple](../m/multiple.md) approvals for high-[value](../v/value.md) transactions to ensure accuracy and prevent [fraud](../f/fraud.md).
 
 - **Regular Audits**:
-  Conduct regular internal audits to ensure that [voucher](../v/voucher.md) checks are being issued according to company policy and for valid expenditures.
+ Conduct regular internal audits to ensure that [voucher](../v/voucher.md) checks are being issued according to company policy and for valid expenditures.
 
 ## Trends and Future Outlook
 
@@ -88,16 +88,12 @@ Integration of AI and [machine learning](../m/machine_learning.md) into [voucher
 Several companies provide [voucher](../v/voucher.md) [check](../c/check.md) solutions, often integrated into comprehensive [accounting](../a/accounting.md) or ERP systems. Examples include:
 
 1. **Intuit QuickBooks**: Offers [voucher](../v/voucher.md) [check](../c/check.md) features within their financial and [accounting](../a/accounting.md) software solutions.
-   [Intuit](https://quickbooks.intuit.com/)
 
 2. **SAP ERP**: Provides [robust](../r/robust.md) financial management tools, including capabilities for managing [voucher](../v/voucher.md) checks.
-   [SAP ERP](https://www.sap.com/products/erp-financial.html)
 
 3. **Oracle Financials**: Integrated financial solution with functionalities for issuing [voucher](../v/voucher.md) checks.
-   [Oracle Financials](https://www.oracle.com/financials/)
 
 4. **Microsoft Dynamics 365**: Includes modules for financial management that can [handle](../h/handle.md) [voucher](../v/voucher.md) checks.
-   [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/finance/overview/)
 
 ## Conclusion
 

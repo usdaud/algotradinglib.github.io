@@ -51,21 +51,21 @@ Several technological solutions and platforms are available to assist in managin
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive tools for trading data, analytics, and [execution](../e/execution.md) that can help manage explicit and implicit costs.
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Provides [market](../m/market.md) data, news, and tools for [trading costs](../t/trading_costs.md) analysis.
-- **ITG (Investment Technology Group)**: Specializes in [transaction cost analysis](../t/transaction_cost_analysis.md) and trading analytics (https://www.itg.com/).
+- **ITG (Investment Technology Group)**: Specializes in [transaction cost analysis](../t/transaction_cost_analysis.md) and trading analytics (
 
 ## Real-World Applications
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) and live trading services. It provides tools to optimize [trade](../t/trade.md) [execution](../e/execution.md) and manage costs by simulating different strategies before implementing them live (https://www.[quantconnect](../q/quantconnect.md).com/).
+[QuantConnect](../q/quantconnect.md) is a platform that offers [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) and live trading services. It provides tools to optimize [trade](../t/trade.md) [execution](../e/execution.md) and manage costs by simulating different strategies before implementing them live (
 
 ### Algomi
 
-Algomi creates the network that enables [buy-side](../b/buy-side.md), [sell-side](../s/sell-side.md), and intermediaries to [trade](../t/trade.md) with more [efficiency](../e/efficiency.md). It focuses on [liquidity](../l/liquidity.md) discovery and cost-effective trading across markets (https://www.algomi.com/).
+Algomi creates the network that enables [buy-side](../b/buy-side.md), [sell-side](../s/sell-side.md), and intermediaries to [trade](../t/trade.md) with more [efficiency](../e/efficiency.md). It focuses on [liquidity](../l/liquidity.md) discovery and cost-effective trading across markets (
 
 ### FlexTrade
 
-FlexTrade is a global leader in [broker](../b/broker.md)-[neutral](../n/neutral.md), multi-[asset](../a/asset.md) [execution](../e/execution.md) and [order management systems](../o/order_management_systems.md). Its technology focuses on optimizing [execution](../e/execution.md) quality and cost management (https://www.flextrade.com/).
+FlexTrade is a global leader in [broker](../b/broker.md)-[neutral](../n/neutral.md), multi-[asset](../a/asset.md) [execution](../e/execution.md) and [order management systems](../o/order_management_systems.md). Its technology focuses on optimizing [execution](../e/execution.md) quality and cost management (
 
 ## Conclusion
 

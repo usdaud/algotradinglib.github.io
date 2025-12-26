@@ -34,31 +34,31 @@ Modern [algorithmic trading](../a/accountability.md) relies on sophisticated tec
 
 Thomson [Reuters](../r/reuters.md) Eikon is a premier [financial analysis](../f/financial_analysis.md) platform that provides access to extensive [market](../m/market.md) data, including direct [currency](../c/currency.md) quotes. Algo-traders can utilize Eikon's API to integrate real-time data into their [trading algorithms](../t/trading_algorithms.md).
 
-**Visit Thomson [Reuters](../r/reuters.md) Eikon:** [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+**Visit Thomson [Reuters](../r/reuters.md) Eikon:** Thomson Reuters Eikon
 
 ### 2. **Bloomberg Terminal**
 
 Another leading platform, [Bloomberg Terminal](../b/bloomberg_terminal.md), offers comprehensive tools for financial professionals, including direct [quote](../q/quote.md) access for [multiple](../m/multiple.md) [currency](../c/currency.md) pairs. The terminal supports advanced analytics and [data integration](../d/data_integration.md), making it invaluable for [algorithmic trading](../a/accountability.md).
 
-**Visit [Bloomberg Terminal](../b/bloomberg_terminal.md):** [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+**Visit [Bloomberg Terminal](../b/bloomberg_terminal.md):** Bloomberg Terminal
 
 ### 3. **MetaTrader 4/5**
 
 MetaTrader is a widely-used platform for forex and [commodity](../c/commodity.md) trading, supporting algorithmic strategies through its scripting language MQL. It provides real-time direct quotes and [robust](../r/robust.md) back-testing capabilities for algos.
 
-**Visit MetaTrader:** [MetaTrader](https://www.metatrader4.com/)
+**Visit MetaTrader:** MetaTrader
 
 ### 4. **Interactive Brokers API**
 
 [Interactive Brokers](../i/interactive_brokers.md) offers a comprehensive API that gives traders access to live [market](../m/market.md) data, including direct quotes. This API supports a [range](../r/range.md) of programming languages, making it versatile for building custom algo-trading applications.
 
-**Visit [Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
+**Visit [Interactive Brokers](../i/interactive_brokers.md):** Interactive Brokers API
 
 ### 5. **QuantConnect**
 
 [QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/accountability.md) platform that provides data, including direct quotes, for [multiple](../m/multiple.md) [asset](../a/asset.md) classes. It supports back-testing and live trading, and is integrated with various brokerage accounts.
 
-**Visit [QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
+**Visit [QuantConnect](../q/quantconnect.md):** QuantConnect
 
 ## Regulatory and Ethical Considerations
 
@@ -103,13 +103,13 @@ To illustrate the practical application, consider a case study where an [algorit
 ### Step-by-Step Process:
 
 1. **Data [Acquisition](../a/acquisition.md)**: The [firm](../f/firm.md) subscribes to live direct [quote](../q/quote.md) feeds from [multiple](../m/multiple.md) sources, including Thomson [Reuters](../r/reuters.md) Eikon and [Bloomberg Terminal](../b/bloomberg_terminal.md).
-   
+
 2. **[Algorithm Design](../a/algorithm_design.md)**: A multi-[currency arbitrage](../c/currency_arbitrage.md) algorithm is designed, which identifies price discrepancies between [currency](../c/currency.md) pairs across different exchanges.
-   
+
 3. **Back-Testing**: Historical direct [quote](../q/quote.md) data is used to back-test the algorithm, assessing its performance under various [market](../m/market.md) conditions.
-   
+
 4. **[Risk Management](../r/risk_management.md)**: [Risk](../r/risk.md) parameters are integrated into the algorithm, including stop-loss limits to mitigate potential losses due to volatile [market](../m/market.md) conditions.
-   
+
 5. **[Execution](../e/execution.md)**: The algorithm is deployed in a live [trading environment](../t/trading_environment.md), continuously scanning for [arbitrage opportunities](../a/arbitrage_opportunities.md) and executing trades in real-time.
 
 ### Outcomes:

@@ -61,7 +61,7 @@ While multi-[asset class](../a/asset_class.md) [investing](../i/investing.md) of
 
 ## Algotrading in Multi-Asset Class Investing
 
-[Algorithmic trading](../a/accountability.md), or algotrading, is increasingly being used in multi-[asset class](../a/asset_class.md) [investing](../i/investing.md). Algotrading involves using algorithms to make trading decisions automatically based on pre-set criteria or [machine learning](../m/machine_learning.md) models. 
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, is increasingly being used in multi-[asset class](../a/asset_class.md) [investing](../i/investing.md). Algotrading involves using algorithms to make trading decisions automatically based on pre-set criteria or [machine learning](../m/machine_learning.md) models.
 
 ### Benefits of Algotrading in Multi-Asset Class
 
@@ -91,22 +91,22 @@ Financial technology, or fintech, has revolutionized multi-[asset class](../a/as
 
 Robo-advisors are automated platforms that provide financial advice and [portfolio management](../p/par.md) based on algorithms. They typically use a blend of strategic and tactical [asset allocation](../a/asset_allocation.md) to create diversified portfolios tailored to an [investor](../i/investor.md)’s [risk tolerance](../r/risk_tolerance.md) and financial goals. Examples of popular robo-advisors include:
 
-1. **Betterment**: [Betterment](https://www.betterment.com/) offers personalized advice and diversified portfolios using low-cost ETFs.
-2. **Wealthfront**: [Wealthfront](https://www.wealthfront.com/) provides automated [investment management](../i/investment_management.md) and [financial planning](../f/financial_planning.md) using a broad [range](../r/range.md) of [asset](../a/asset.md) classes.
+1. **Betterment**: Betterment offers personalized advice and diversified portfolios using low-cost ETFs.
+2. **Wealthfront**: Wealthfront provides automated [investment management](../i/investment_management.md) and [financial planning](../f/financial_planning.md) using a broad [range](../r/range.md) of [asset](../a/asset.md) classes.
 
 ### Online Brokerages
 
 Online brokerages [offer](../o/offer.md) platforms for investors to [trade](../t/trade.md) a variety of [asset](../a/asset.md) classes with ease. These platforms often provide analytical tools, research, and education to help investors make informed decisions. Examples include:
 
-1. **[Robinhood](../r/robinhood.md)**: [Robinhood](https://www.robinhood.com/) allows [commission](../c/commission.md)-free trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and cryptocurrencies.
-2. **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://www.etrade.com/) provides a comprehensive platform for trading [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), and more with [robust](../r/robust.md) research and analytical tools.
+1. **[Robinhood](../r/robinhood.md)**: Robinhood allows [commission](../c/commission.md)-free trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, [options](../o/options.md), and cryptocurrencies.
+2. **[E*TRADE](../e/e_trade.md)**: E*TRADE provides a comprehensive platform for trading [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), and more with [robust](../r/robust.md) research and analytical tools.
 
 ### Blockchain and Cryptocurrencies
 
 The advent of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced new [asset](../a/asset.md) classes and investment opportunities. [Blockchain](../b/blockchain_in_trading.md) enables transparent and secure transactions, while cryptocurrencies [offer](../o/offer.md) high growth potential and [diversification benefits](../d/diversification_benefits.md). Examples of [blockchain](../b/blockchain_in_trading.md)-based platforms include:
 
-1. **[Coinbase](../c/coinbase.md)**: [Coinbase](https://www.coinbase.com/) is a platform for buying, selling, and storing cryptocurrencies.
-2. **[Binance](../b/binance.md)**: [Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges, [offering](../o/offering.md) a wide [range](../r/range.md) of digital assets for trading.
+1. **[Coinbase](../c/coinbase.md)**: Coinbase is a platform for buying, selling, and storing cryptocurrencies.
+2. **[Binance](../b/binance.md)**: Binance is one of the largest cryptocurrency exchanges, [offering](../o/offering.md) a wide [range](../r/range.md) of digital assets for trading.
 
 ## Conclusion
 

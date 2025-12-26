@@ -17,7 +17,7 @@ Demutualization has profound implications for the landscape of [algorithmic trad
 ### Technology and Infrastructure
 Post-demutualization, exchanges often invest in advanced technology to attract more [order](../o/order.md) flow, especially from algorithmic traders. Enhanced [execution](../e/execution.md) speed, lower latency, and improved data quality are critical factors driving these investments.
 
-For instance, the London Stock [Exchange](../e/exchange.md) (LSE) demutualized in 2000 and subsequently invested heavily in its technology platform. [London Stock Exchange Group](https://www.lseg.com/)
+For instance, the London Stock [Exchange](../e/exchange.md) (LSE) demutualized in 2000 and subsequently invested heavily in its technology platform. London Stock Exchange Group
 
 ### Market Competition
 Demutualized exchanges typically face heightened competition, not only from other exchanges but also from alternative [trading systems](../t/trading_systems.md) (ATS) and electronic communication networks (ECNs). This competitive landscape encourages innovation and drives the development of new trading products and services, including those specifically tailored for algorithmic traders.
@@ -28,13 +28,13 @@ The for-[profit](../p/profit.md) structure incentivizes exchanges to broaden [ma
 ## Case Studies
 
 ### New York Stock Exchange (NYSE)
-The NYSE, one of the world's most significant exchanges, underwent demutualization in 2005. The transition allowed it to merge with Archipelago [Holdings](../h/holdings.md), an early electronic [exchange](../e/exchange.md), transforming NYSE into a hybrid [market](../m/market.md) [offering](../o/offering.md) both electronic and floor-based trading. This [merger](../m/merger.md) and the subsequent public listing of NYSE Group greatly enhanced its technological capabilities and [market](../m/market.md) reach. [NYSE](https://www.nyse.com/)
+The NYSE, one of the world's most significant exchanges, underwent demutualization in 2005. The transition allowed it to merge with Archipelago [Holdings](../h/holdings.md), an early electronic [exchange](../e/exchange.md), transforming NYSE into a hybrid [market](../m/market.md) [offering](../o/offering.md) both electronic and floor-based trading. This [merger](../m/merger.md) and the subsequent public listing of NYSE Group greatly enhanced its technological capabilities and [market](../m/market.md) reach. NYSE
 
 ### Hong Kong Exchanges and Clearing Limited (HKEX)
-HKEX demutualized in 2000 and [listed](../l/listed.md) on its own [exchange](../e/exchange.md) in 2003. The demutualization allowed HKEX to modernize its [trading systems](../t/trading_systems.md), introduce new financial products, and expand its global presence. The enhanced trading [infrastructure](../i/infrastructure.md) significantly benefits algorithmic traders operating in the Asian markets. [HKEX](https://www.hkex.com.hk/)
+HKEX demutualized in 2000 and [listed](../l/listed.md) on its own [exchange](../e/exchange.md) in 2003. The demutualization allowed HKEX to modernize its [trading systems](../t/trading_systems.md), introduce new financial products, and expand its global presence. The enhanced trading [infrastructure](../i/infrastructure.md) significantly benefits algorithmic traders operating in the Asian markets. HKEX
 
 ### Singapore Exchange (SGX)
-SGX was one of the first Asian exchanges to demutualize in 1999 and subsequently [listed](../l/listed.md) on its own [exchange](../e/exchange.md) in 2000. The demutualization led to a series of technological upgrades, including the implementation of the Quest trading engine, which supports high-speed trading and complex algorithms. [Singapore Exchange](https://www.sgx.com/)
+SGX was one of the first Asian exchanges to demutualize in 1999 and subsequently [listed](../l/listed.md) on its own [exchange](../e/exchange.md) in 2000. The demutualization led to a series of technological upgrades, including the implementation of the Quest trading engine, which supports high-speed trading and complex algorithms. Singapore Exchange
 
 ## Regulatory Considerations
 Demutualization is closely scrutinized by regulatory bodies due to its implications for [market](../m/market.md) structure and stability. Regulators assess the potential impact on [market](../m/market.md) [transparency](../t/transparency.md), [investor](../i/investor.md) protection, and [systemic risk](../s/systemic_risk.md).

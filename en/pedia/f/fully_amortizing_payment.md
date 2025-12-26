@@ -57,7 +57,7 @@ Thus, the borrower’s monthly [payment](../p/payment.md) is approximately $1013
 
 ## Fully Amortizing Vs. Interest-Only Loans
 
-While a fully amortizing [loan](../l/loan.md) incorporates both [interest](../i/interest.md) and [principal](../p/principal.md) in each [payment](../p/payment.md), an [interest](../i/interest.md)-only [loan](../l/loan.md) requires only [interest](../i/interest.md) payments for a given period. After this period, the [principal](../p/principal.md) balance must be paid either through a lump sum or subsequent larger payments. 
+While a fully amortizing [loan](../l/loan.md) incorporates both [interest](../i/interest.md) and [principal](../p/principal.md) in each [payment](../p/payment.md), an [interest](../i/interest.md)-only [loan](../l/loan.md) requires only [interest](../i/interest.md) payments for a given period. After this period, the [principal](../p/principal.md) balance must be paid either through a lump sum or subsequent larger payments.
 
 ### Fully Amortizing Loans
 
@@ -75,19 +75,19 @@ While a fully amortizing [loan](../l/loan.md) incorporates both [interest](../i/
 
 ### Residential Mortgages
 
-Residential mortgages are probably the most common type of fully amortizing loans. Borrowers pay a fixed amount monthly over a span of 15 to 30 years, reducing the [principal](../p/principal.md) over time until it’s fully paid off by the end of the term. Banks such as [Wells Fargo](https://www.wellsfargo.com), for example, [offer](../o/offer.md) a variety of fully amortizing [mortgage](../m/mortgage.md) products.
+Residential mortgages are probably the most common type of fully amortizing loans. Borrowers pay a fixed amount monthly over a span of 15 to 30 years, reducing the [principal](../p/principal.md) over time until it’s fully paid off by the end of the term. Banks such as Wells Fargo, for example, [offer](../o/offer.md) a variety of fully amortizing [mortgage](../m/mortgage.md) products.
 
 ### Auto Loans
 
-Auto loans are another example where fully amortizing payments are prevalent. Typically shorter-term (3-7 years), these loans also follow an [amortization schedule](../a/amortization.md) until the car is paid off. Companies like [Ford Credit](https://credit.ford.com) provide fully amortizing auto loans.
+Auto loans are another example where fully amortizing payments are prevalent. Typically shorter-term (3-7 years), these loans also follow an [amortization schedule](../a/amortization.md) until the car is paid off. Companies like Ford Credit provide fully amortizing auto loans.
 
 ### Personal Loans
 
-Banks and financial institutions provide personal loans that work similarly, designed to be amortized over periods ranging from a few months to several years. [SoFi](https://www.sofi.com), for instance, offers personal loans with fully amortizing [payment](../p/payment.md) structures.
+Banks and financial institutions provide personal loans that work similarly, designed to be amortized over periods ranging from a few months to several years. SoFi, for instance, offers personal loans with fully amortizing [payment](../p/payment.md) structures.
 
 ### Commercial Loans
 
-Businesses often use fully amortizing loans for [asset](../a/asset.md) purchases or other [capital](../c/capital.md) expenditures. For instance, companies might take out a [loan](../l/loan.md) to purchase new equipment, which is then paid off over several years. [Wells Fargo](https://www.wellsfargo.com) also offers commercial loans that are fully amortizing.
+Businesses often use fully amortizing loans for [asset](../a/asset.md) purchases or other [capital](../c/capital.md) expenditures. For instance, companies might take out a [loan](../l/loan.md) to purchase new equipment, which is then paid off over several years. Wells Fargo also offers commercial loans that are fully amortizing.
 
 ## Conclusion
 

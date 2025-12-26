@@ -62,11 +62,11 @@ VaR analysis calculates the maximum potential loss over a specified period, give
 
 ### J.P. Morgan’s Stress Testing Framework
 
-J.P. Morgan employs a rigorous [stress testing](../s/stress_testing_in_trading.md) framework to ensure the robustness of its [trading algorithms](../t/trading_algorithms.md). Their approach includes a combination of historical and hypothetical scenarios, focusing on events such as [market](../m/market.md) crashes, [liquidity](../l/liquidity.md) crises, and systemic risks. More details can be found [here](https://www.jpmorgan.com/).
+J.P. Morgan employs a rigorous [stress testing](../s/stress_testing_in_trading.md) framework to ensure the robustness of its [trading algorithms](../t/trading_algorithms.md). Their approach includes a combination of historical and hypothetical scenarios, focusing on events such as [market](../m/market.md) crashes, [liquidity](../l/liquidity.md) crises, and systemic risks. More details can be found here.
 
 ### Goldman Sachs Algorithmic Trading Stress Tests
 
-Goldman Sachs utilizes advanced [stress testing](../s/stress_testing_in_trading.md) methodologies, including Monte Carlo simulations and [scenario analysis](../s/scenario_analysis.md), to evaluate their [trading strategies](../t/trading_strategies.md). Their approach emphasizes the integration of stress test results into [risk management](../r/risk_management.md) practices to enhance the overall resilience of their trading operations. More details can be found [here](https://www.goldmansachs.com/).
+Goldman Sachs utilizes advanced [stress testing](../s/stress_testing_in_trading.md) methodologies, including Monte Carlo simulations and [scenario analysis](../s/scenario_analysis.md), to evaluate their [trading strategies](../t/trading_strategies.md). Their approach emphasizes the integration of stress test results into [risk management](../r/risk_management.md) practices to enhance the overall resilience of their trading operations. More details can be found here.
 
 ## Implications for Algorithmic Trading
 

@@ -13,11 +13,11 @@ In [accounting](../a/accounting.md), the term "on account" can apply to both sal
 ### Financial Statement Impact
 
 1. **[Balance Sheet](../b/balance_sheet.md):**
-   - **Accounts [Receivable](../r/receivable.md):** Sales on account increase accounts [receivable](../r/receivable.md), an [asset](../a/asset.md) on the [balance sheet](../b/balance_sheet.md). High accounts [receivable](../r/receivable.md) indicate that a company has extended substantial [credit](../c/credit.md) to its customers.
-   - **Accounts Payable:** Purchases on account increase accounts payable, a [liability](../l/liability.md) on the [balance sheet](../b/balance_sheet.md). High accounts payable indicate that a company owes significant amounts to its suppliers.
+ - **Accounts [Receivable](../r/receivable.md):** Sales on account increase accounts [receivable](../r/receivable.md), an [asset](../a/asset.md) on the [balance sheet](../b/balance_sheet.md). High accounts [receivable](../r/receivable.md) indicate that a company has extended substantial [credit](../c/credit.md) to its customers.
+ - **Accounts Payable:** Purchases on account increase accounts payable, a [liability](../l/liability.md) on the [balance sheet](../b/balance_sheet.md). High accounts payable indicate that a company owes significant amounts to its suppliers.
 
 2. **[Income Statement](../i/income_statement.md):**
-   - **[Revenue Recognition](../r/revenue_recognition.md):** [Revenue](../r/revenue.md) from sales on account is recognized when the [sale](../s/sale.md) occurs, not when [payment](../p/payment.md) is received. This aligns with the accrual [basis](../b/basis.md) of [accounting](../a/accounting.md).
+ - **[Revenue Recognition](../r/revenue_recognition.md):** [Revenue](../r/revenue.md) from sales on account is recognized when the [sale](../s/sale.md) occurs, not when [payment](../p/payment.md) is received. This aligns with the accrual [basis](../b/basis.md) of [accounting](../a/accounting.md).
 
 ### Cash Flow Implications
 
@@ -47,13 +47,13 @@ Effective [credit](../c/credit.md) policy helps mitigate the [risk](../r/risk.md
 
 Advances in financial technology (fintech) have revolutionized how companies manage transactions on account. Sophisticated [accounting](../a/accounting.md) software and enterprise resource planning (ERP) systems streamline the process of tracking accounts [receivable](../r/receivable.md) and payable, providing real-time insights into a company's [credit](../c/credit.md) exposure and [liquidity](../l/liquidity.md). Some notable software providers include:
 
-- **QuickBooks:** [QuickBooks](https://quickbooks.intuit.com/)
-- **SAP ERP:** [SAP ERP](https://www.sap.com/products/erp-financial-management.html)
-- **Oracle Financials:** [Oracle Financials](https://www.oracle.com/applications/financial-management/)
+- **QuickBooks:** QuickBooks
+- **SAP ERP:** SAP ERP
+- **Oracle Financials:** Oracle Financials
 
 ### Algorithmic Trading and Credit Management
 
-In [algorithmic trading](../a/accountability.md), understanding the [financial health](../f/financial_health.md) of companies is crucial. [Credit](../c/credit.md) management principles, including how well a company manages its receivables and payables, can be integral inputs in [trading algorithms](../t/trading_algorithms.md). These insights can impact decision-making, particularly in [credit](../c/credit.md) markets or when assessing companies' [stocks](../s/stock.md):
+In [algorithmic trading](../a/algorithmic_trading.md), understanding the [financial health](../f/financial_health.md) of companies is crucial. [Credit](../c/credit.md) management principles, including how well a company manages its receivables and payables, can be integral inputs in [trading algorithms](../t/trading_algorithms.md). These insights can impact decision-making, particularly in [credit](../c/credit.md) markets or when assessing companies' [stocks](../s/stock.md):
 
 - **[Credit](../c/credit.md) Scores and Ratings:** Algorithms may incorporate [credit](../c/credit.md) scores and ratings to gauge the reliability of companies' financial practices.
 - **[Financial Health](../f/financial_health.md) Indicators:** Metrics such as the accounts [receivable](../r/receivable.md) [turnover ratio](../t/turnover_ratio.md) and [days payable outstanding](../d/days_payable_outstanding.md) (DPO) can be used to evaluate a company’s [operational efficiency](../o/operational_efficiency_in_trading.md).
@@ -62,8 +62,8 @@ In [algorithmic trading](../a/accountability.md), understanding the [financial h
 
 Fintech companies are continually introducing new tools to improve [credit](../c/credit.md) management and transactions on account. Innovations like [blockchain](../b/blockchain_in_trading.md) and AI are creating more secure, efficient, and transparent systems for managing [credit](../c/credit.md) risks:
 
-- **[Blockchain](../b/blockchain_in_trading.md) for Secure Transactions:** [Blockchain](../b/blockchain_in_trading.md) technology ensures secure and verifiable records of transactions on account, reducing [fraud](../f/fraud.md) [risk](../r/risk.md). Companies like **R3** [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md)-based solutions for financial institutions. [R3](https://www.r3.com/)
-- **AI for [Credit Risk](../c/credit_risk.md) Assessment:** AI and [machine learning](../m/machine_learning.md) models analyze vast amounts of data to predict [credit risk](../c/credit_risk.md) more accurately. Companies like **Zest AI** specialize in AI-driven [credit risk](../c/credit_risk.md) assessment tools. [Zest AI](https://www.zest.ai/)
+- **[Blockchain](../b/blockchain_in_trading.md) for Secure Transactions:** [Blockchain](../b/blockchain_in_trading.md) technology ensures secure and verifiable records of transactions on account, reducing [fraud](../f/fraud.md) [risk](../r/risk.md). Companies like **R3** [offer](../o/offer.md) [blockchain](../b/blockchain_in_trading.md)-based solutions for financial institutions. R3
+- **AI for [Credit Risk](../c/credit_risk.md) Assessment:** AI and [machine learning](../m/machine_learning.md) models analyze vast amounts of data to predict [credit risk](../c/credit_risk.md) more accurately. Companies like **Zest AI** specialize in AI-driven [credit risk](../c/credit_risk.md) assessment tools. Zest AI
 
 ### Business Implications
 

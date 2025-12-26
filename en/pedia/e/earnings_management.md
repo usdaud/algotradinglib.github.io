@@ -80,7 +80,7 @@ One of the most infamous examples of [earnings](../e/earnings.md) management is 
 
 In recent years, IBM has faced scrutiny over allegations of [earnings](../e/earnings.md) management practices. The company has been accused of using various strategies to inflate its [earnings](../e/earnings.md), including the manipulation of [revenue recognition](../r/revenue_recognition.md) policies.
 
-For more detailed examples, investigations, and sophisticated analysis, you can explore cases such as the ones covered by regulatory bodies like the [Securities and Exchange Commission (SEC)](https://www.sec.gov).
+For more detailed examples, investigations, and sophisticated analysis, you can explore cases such as the ones covered by regulatory bodies like the Securities and Exchange Commission (SEC).
 
 ## Detection and Prevention
 

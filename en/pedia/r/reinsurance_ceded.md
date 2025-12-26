@@ -15,13 +15,13 @@ The concept of [reinsurance](../r/reinsurance.md) ceded helps primary insurers (
 In [treaty reinsurance](../t/treaty_reinsurance.md) agreements, a reinsurer agrees to accept all the [risk](../r/risk.md) of a particular line or category of [business](../b/business.md) that falls within the contract terms for a specified period. This arrangement typically covers a defined class of policies rather than individual policies. Treaties can be broadly categorized into two types:
 
 - **Proportional ([Pro Rata](../p/pro_rata.md)) [Treaty Reinsurance](../t/treaty_reinsurance.md):**
-  - **[Quota Share Treaty](../q/quota_share_treaty.md):** A fixed percentage of every policy within the defined category is reinsured. Both premiums and losses are shared in the agreed proportion.
-  - **[Surplus](../s/surplus.md) Share Treaty:** Only the portion of each [insurance](../i/insurance.md) policy amount that exceeds a specified retention limit is reinsured.
+ - **[Quota Share Treaty](../q/quota_share_treaty.md):** A fixed percentage of every policy within the defined category is reinsured. Both premiums and losses are shared in the agreed proportion.
+ - **[Surplus](../s/surplus.md) Share Treaty:** Only the portion of each [insurance](../i/insurance.md) policy amount that exceeds a specified retention limit is reinsured.
 
 - **Non-Proportional (Excess of Loss) [Treaty Reinsurance](../t/treaty_reinsurance.md):**
-  - **Per [Risk](../r/risk.md) Excess of Loss:** Provides coverage when individual losses exceed a specified retention level.
-  - **Per Occurrence Excess of Loss:** Provides coverage for aggregate losses from a single event that exceed a retention level.
-  - **Aggregate Excess of Loss:** Covers losses exceeding the retention level within a specific period, regardless of the cause.
+ - **Per [Risk](../r/risk.md) Excess of Loss:** Provides coverage when individual losses exceed a specified retention level.
+ - **Per Occurrence Excess of Loss:** Provides coverage for aggregate losses from a single event that exceed a retention level.
+ - **Aggregate Excess of Loss:** Covers losses exceeding the retention level within a specific period, regardless of the cause.
 
 ### Facultative Reinsurance
 
@@ -119,4 +119,4 @@ Climate change and emerging risks, such as cyber threats and pandemics, present 
 
 To enhance their [reinsurance](../r/reinsurance.md) strategies, insurers [will](../w/will.md) continue to [leverage](../l/leverage.md) technological advancements, explore innovative [risk](../r/risk.md) transfer mechanisms, and adapt to emerging trends and regulatory developments. By effectively utilizing [reinsurance](../r/reinsurance.md) ceded, insurers can navigate [market cycles](../m/market_cycles.md), manage catastrophe risks, and achieve sustained growth and profitability.
 
-For more information on [reinsurance](../r/reinsurance.md) and [risk management](../r/risk_management.md) strategies, visit [Munich Reinsurance Company](https://www.munichre.com/).
+For more information on [reinsurance](../r/reinsurance.md) and [risk management](../r/risk_management.md) strategies, visit Munich Reinsurance Company.

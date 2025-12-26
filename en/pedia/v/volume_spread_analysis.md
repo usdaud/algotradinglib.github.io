@@ -16,7 +16,7 @@ The spread in VSA indicates the difference between the high and low of a single 
 ## Implementing VSA in Trading
 
 ### 1. Accumulation Phase
-This phase occurs when professional traders begin to buy (accumulate) large amounts of a [security](../s/security.md) at lower prices. During this phase, the [market](../m/market.md) is typically quiet, with low [volatility](../v/volatility.md) and small price movements, as large operators build their positions without attracting attention. 
+This phase occurs when professional traders begin to buy (accumulate) large amounts of a [security](../s/security.md) at lower prices. During this phase, the [market](../m/market.md) is typically quiet, with low [volatility](../v/volatility.md) and small price movements, as large operators build their positions without attracting attention.
 
 ### 2. Mark-Up Phase
 Once professionals have accumulated enough positions, they push prices higher, resulting in a mark-up phase. This phase is characterized by rising prices accompanied by increasing [volume](../v/volume.md), signaling strong buying [interest](../i/interest.md) from professionals and eventually attracting retail traders.
@@ -74,7 +74,7 @@ Effective [risk management](../r/risk_management.md) is crucial when using VSA. 
 The [financial markets](../f/financial_market.md) are dynamic, and continuous learning is essential for staying updated with the latest trends and techniques in VSA. Engaging with trading communities, reading relevant literature, and attending seminars or webinars can enhance a [trader](../t/trader.md)'s VSA knowledge and expertise.
 
 ### Professional Platforms
-Professional platforms that provide [robust](../r/robust.md) VSA tools might include VSA-specific software such as the [Market](../m/market.md) System Analyzer (MSA) or specialized services like TradeGuider [TradeGuider](https://www.tradeguider.com/), which offers extensive VSA resources and trading solutions.
+Professional platforms that provide [robust](../r/robust.md) VSA tools might include VSA-specific software such as the [Market](../m/market.md) System Analyzer (MSA) or specialized services like TradeGuider TradeGuider, which offers extensive VSA resources and trading solutions.
 
 ## Conclusion
 

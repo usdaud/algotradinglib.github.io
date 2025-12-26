@@ -72,11 +72,11 @@ Both public and private sectors use DCF for various purposes. Governments might 
 
 ### Tech Giants
 
-Companies like Apple and Google frequently use DCF analysis for both internal project assessment and to evaluate [acquisition](../a/acquisition.md) targets. For instance, [Apple Inc.](https://www.apple.com) has been known to rely heavily on DCF models when deciding on new product lines or technological investments.
+Companies like Apple and Google frequently use DCF analysis for both internal project assessment and to evaluate [acquisition](../a/acquisition.md) targets. For instance, Apple Inc. has been known to rely heavily on DCF models when deciding on new product lines or technological investments.
 
 ### Real Estate Firms
 
-Major [real estate](../r/real_estate.md) firms, such as [CBRE Group](https://www.cbre.com), use DCF analysis to [value](../v/value.md) their extensive property portfolios. By anticipating future rental [income](../i/income.md) and other cash flows, these companies can make informed investment decisions.
+Major [real estate](../r/real_estate.md) firms, such as CBRE Group, use DCF analysis to [value](../v/value.md) their extensive property portfolios. By anticipating future rental [income](../i/income.md) and other cash flows, these companies can make informed investment decisions.
 
 ## Limitations and Criticism
 

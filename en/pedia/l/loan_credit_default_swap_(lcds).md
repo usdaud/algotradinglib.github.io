@@ -6,12 +6,12 @@ A [Loan](../l/loan.md) [Credit](../c/credit.md) [Default](../d/default.md) [Swap
 
 ### Definition and Basic Structure
 
-An LCDS is a contractual agreement between two parties, where one party (the protection buyer) pays a [premium](../p/premium.md) to the other party (the protection seller) in [exchange](../e/exchange.md) for compensation if a specified [loan](../l/loan.md) defaults. The protection seller essentially guarantees the [creditworthiness](../c/creditworthiness.md) of the [loan](../l/loan.md), thereby assuming the [risk](../r/risk.md) of [default](../d/default.md). 
+An LCDS is a contractual agreement between two parties, where one party (the protection buyer) pays a [premium](../p/premium.md) to the other party (the protection seller) in [exchange](../e/exchange.md) for compensation if a specified [loan](../l/loan.md) defaults. The protection seller essentially guarantees the [creditworthiness](../c/creditworthiness.md) of the [loan](../l/loan.md), thereby assuming the [risk](../r/risk.md) of [default](../d/default.md).
 
 - **Protection Buyer**: This entity seeks to [hedge](../h/hedge.md) or transfer the [credit risk](../c/credit_risk.md) of a [loan](../l/loan.md) it holds.
 - **Protection Seller**: This entity receives periodic payments in [exchange](../e/exchange.md) for taking on the [credit risk](../c/credit_risk.md).
 
-Comparable to an [insurance](../i/insurance.md) contract, the LCDS agreement defines the [credit](../c/credit.md) event, the reference entity (the borrower), and other key terms. 
+Comparable to an [insurance](../i/insurance.md) contract, the LCDS agreement defines the [credit](../c/credit.md) event, the reference entity (the borrower), and other key terms.
 
 ### Key Components
 
@@ -89,7 +89,7 @@ Entities willing to take on [credit risk](../c/credit_risk.md) in [exchange](../
 
 ### Counterparty Risk
 
-One major [risk](../r/risk.md) in an LCDS is [counterparty risk](../c/counterparty_risk.md), where the protection seller may [fail](../f/fail.md) to meet their obligation in the event of a [credit](../c/credit.md) event affecting the reference [loan](../l/loan.md). 
+One major [risk](../r/risk.md) in an LCDS is [counterparty risk](../c/counterparty_risk.md), where the protection seller may [fail](../f/fail.md) to meet their obligation in the event of a [credit](../c/credit.md) event affecting the reference [loan](../l/loan.md).
 
 ### Complexity and Monitoring
 
@@ -135,7 +135,7 @@ The [Basel III](../b/basel_iii.md) framework outlines international standards fo
 For more information on [Loan](../l/loan.md) [Credit Default Swaps](../c/credit_default_swaps.md), you can visit resources from financial institutions like JPMorgan Chase, Goldman Sachs, or updated financial research publications.
 
 Here are some links to explore further:
-- [JPMorgan Chase](https://www.jpmorganchase.com)
-- [Goldman Sachs](https://www.goldmansachs.com)
+- JPMorgan Chase
+- Goldman Sachs
 
 Through these instruments, the sophisticated interplay of [risk](../r/risk.md) and reward in [financial markets](../f/financial_market.md) can be navigated with greater precision and foresight.

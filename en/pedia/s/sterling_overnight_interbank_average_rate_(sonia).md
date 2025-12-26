@@ -2,6 +2,8 @@
 
 The Sterling Overnight Interbank Average Rate (SONIA) is a key financial [benchmark](../b/benchmark.md) for overnight [interest](../i/interest.md) rates in the British pound sterling (GBP) issued by the [Bank](../b/bank.md) of England. SONIA represents the average [interest rate](../i/interest_rate.md) at which banks and financial institutions lend to each other in the overnight [market](../m/market.md). The use of SONIA has increased significantly over recent years, and it has become an important tool for financial instruments, including [derivatives](../d/derivatives.md) and loans.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Overview
 
 SONIA is calculated daily by the [Bank](../b/bank.md) of England and is based on the actual transactions made in the overnight unsecured lending markets. It reflects the average rate at which large financial institutions in the UK lend [money](../m/money.md) to one another without requiring [collateral](../c/collateral.md). The [interest](../i/interest.md) rates are determined based on real [transaction](../t/transaction.md) data, making SONIA a transparent and reliable [benchmark](../b/benchmark.md).
@@ -11,9 +13,9 @@ SONIA is calculated daily by the [Bank](../b/bank.md) of England and is based on
 The SONIA rate is calculated using the following methodology:
 
 1. **Data Collection**: The [Bank](../b/bank.md) of England collects [transaction](../t/transaction.md) data from eligible banks and building societies operating in the UK. This data includes the amount, rate, and time of the transactions.
-   
+
 2. **[Volume](../v/volume.md)-[Weighted](../w/weighted.md) Mean**: The rate is calculated using a [volume](../v/volume.md)-[weighted](../w/weighted.md) mean method. This means that each [transaction](../t/transaction.md) contributes to the final rate in proportion to its size. Larger transactions have a more significant impact on the rate than smaller ones.
-   
+
 3. **[Trimmed Mean](../t/trimmed_mean.md)**: The highest and lowest 25% of observations are removed to mitigate the influence of outlier transactions. The trimmed dataset is then used to calculate the [volume](../v/volume.md)-[weighted](../w/weighted.md) mean, which forms the SONIA rate for that day.
 
 ## Historical Context
@@ -78,6 +80,6 @@ As the transition away from LIBOR continues, the future of SONIA looks promising
 
 3. **Global Influence**: SONIA's success may inspire the development of similar benchmarks in other currencies and regions, contributing to the global harmonization of [interest rate](../i/interest_rate.md) benchmarks.
 
-For more detailed information on SONIA and its application, refer to the [Bank](../b/bank.md) of England's official website: [SONIA Information](https://www.bankofengland.co.uk/markets/sonia-benchmark).
+For more detailed information on SONIA and its application, refer to the [Bank](../b/bank.md) of England's public materials: SONIA Information.
 
 In conclusion, the Sterling Overnight Interbank Average Rate (SONIA) plays a pivotal role in the global [financial system](../f/financial_system.md) by providing a reliable and transparent [benchmark](../b/benchmark.md) for overnight [interest](../i/interest.md) rates in GBP. Its widespread adoption and [robust](../r/robust.md) methodology make it a cornerstone of modern [financial markets](../f/financial_market.md), particularly as the [industry](../i/industry.md) transitions away from LIBOR.

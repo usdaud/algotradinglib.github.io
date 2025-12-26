@@ -3,7 +3,7 @@
 ## Introduction
 The [Cash Flow](../c/cash_flow.md) Statement is a crucial financial document that provides an overview of a company's cash inflows and outflows over a specific period. It is one of the fundamental components of a company's [financial statements](../f/financial_statements.md), along with the [income statement](../i/income_statement.md) and the [balance sheet](../b/balance_sheet.md). The purpose of a [cash flow](../c/cash_flow.md) statement is to give users an understanding of how the company generates and utilizes its cash and [cash equivalents](../c/cash_equivalents.md). This document is essential for stakeholders, including investors, creditors, and management, to assess the [firm](../f/firm.md)'s [liquidity](../l/liquidity.md), flexibility, and overall [financial health](../f/financial_health.md).
 
-## Components of the Cash Flow Statement 
+## Components of the Cash Flow Statement
 The [Cash Flow](../c/cash_flow.md) Statement is divided into three main sections, each of which details different types of cash activities:
 
 ### 1. Operating Activities
@@ -88,12 +88,9 @@ Public companies are required by regulatory bodies to present their [cash flow](
 
 ## Real-World Examples
 ### Microsoft
-Microsoft [Corporation](../c/corporation.md) provides detailed [cash flow](../c/cash_flow.md) statements in their annual reports, which can be accessed through their [investor relations](../i/investor_relations.md) page. Their [cash flow](../c/cash_flow.md) can be analyzed for trends in net [income](../i/income.md), [capital](../c/capital.md) expenditures, and [financing](../f/financing.md) activities.
-[Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor) 
-
+Microsoft [Corporation](../c/corporation.md) provides detailed [cash flow](../c/cash_flow.md) statements in their annual reports. Their [cash flow](../c/cash_flow.md) can be analyzed for trends in net [income](../i/income.md), [capital](../c/capital.md) expenditures, and [financing](../f/financing.md) activities.
 ### Amazon
-Amazon's [cash flow](../c/cash_flow.md) statements [offer](../o/offer.md) insights into its high [capital](../c/capital.md) expenditures related to the growth of its [logistics](../l/logistics.md) network and technology investments. 
-[Amazon Investor Relations](http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-irhome)
+Amazon's [cash flow](../c/cash_flow.md) statements [offer](../o/offer.md) insights into its high [capital](../c/capital.md) expenditures related to the growth of its [logistics](../l/logistics.md) network and technology investments.
 
 ## Conclusion
 A [Cash Flow](../c/cash_flow.md) Statement provides vital information about a company’s cash inflows and outflows, emphasizing its [liquidity](../l/liquidity.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and financial flexibility. Understanding this statement enables stakeholders to make informed decisions regarding their investments and the [firm](../f/firm.md)’s [financial health](../f/financial_health.md).

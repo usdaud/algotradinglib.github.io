@@ -11,7 +11,7 @@ Growth Opportunity Analysis in [algorithmic trading](../a/algorithmic_trading.md
 ### 1. **Algorithms and Models**
 - **Statistical Models:** Include [mean reversion](../m/mean_reversion.md), [momentum](../m/momentum.md) strategies, and [arbitrage](../a/arbitrage.md) models.
 - **[Machine Learning](../m/machine_learning.md) Models:** Utilize regression, classification, clustering, and [reinforcement learning](../r/reinforcement_learning.md).
-  
+
 ### 2. **Data Streams**
 - **[Market](../m/market.md) Data:** Price, [volume](../v/volume.md), and [order book](../o/order_book.md) data.
 - **[Alternative Data](../a/alternative_data.md):** [Social media](../s/social_media.md) sentiments, satellite imagery, and transactional data.
@@ -19,7 +19,7 @@ Growth Opportunity Analysis in [algorithmic trading](../a/algorithmic_trading.md
 ### 3. **Execution Systems**
 - **Smart [Order](../o/order.md) Routers (SOR):** Optimize [order](../o/order.md) [execution](../e/execution.md) across [multiple](../m/multiple.md) venues.
 - **Direct [Market](../m/market.md) Access (DMA):** Provides traders with the ability to place buy and sell orders directly into the [market](../m/market.md).
-  
+
 ### 4. **Risk Management**
 - Techniques ensuring strategies do not expose the [trader](../t/trader.md) to excessive [risk](../r/risk.md). Includes [stop-loss orders](../s/stop-loss_orders.md), [value](../v/value.md)-at-[risk](../r/risk.md) (VaR) calculations, and [scenario analysis](../s/scenario_analysis.md).
 

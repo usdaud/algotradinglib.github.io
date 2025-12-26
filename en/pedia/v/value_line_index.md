@@ -1,6 +1,6 @@
 # Value Line Index
 
-The [Value](../v/value.md) Line [Index](../i/index_instrument.md) (VLI) is a stock [market index](../m/market_index.md) comprised of roughly 1,700 companies from the New York Stock [Exchange](../e/exchange.md), American Stock [Exchange](../e/exchange.md), [NASDAQ](../n/nasdaq.md), and [over-the-counter markets](../o/over-the-counter_markets.md). Unlike other [market](../m/market.md) indices that use [market capitalization](../m/market_capitalization.md) to weigh their components, the [Value](../v/value.md) Line [Index](../i/index_instrument.md) gives [equal weight](../e/equal_weight.md) to each of the [stocks](../s/stock.md) it tracks. This equal weighting provides a unique perspective on [market](../m/market.md) trends and stock performance, making it an interesting [index](../i/index_instrument.md) for both retail and institutional investors to follow. 
+The [Value](../v/value.md) Line [Index](../i/index_instrument.md) (VLI) is a stock [market index](../m/market_index.md) comprised of roughly 1,700 companies from the New York Stock [Exchange](../e/exchange.md), American Stock [Exchange](../e/exchange.md), [NASDAQ](../n/nasdaq.md), and [over-the-counter markets](../o/over-the-counter_markets.md). Unlike other [market](../m/market.md) indices that use [market capitalization](../m/market_capitalization.md) to weigh their components, the [Value](../v/value.md) Line [Index](../i/index_instrument.md) gives [equal weight](../e/equal_weight.md) to each of the [stocks](../s/stock.md) it tracks. This equal weighting provides a unique perspective on [market](../m/market.md) trends and stock performance, making it an interesting [index](../i/index_instrument.md) for both retail and institutional investors to follow.
 
 ## Components and Calculation
 
@@ -54,7 +54,7 @@ Technical analysts often use the [Value](../v/value.md) Line [Index](../i/index_
 
 ## Value Line Corporation
 
-The [Value](../v/value.md) Line [Index](../i/index_instrument.md) is managed by the [Value](../v/value.md) Line [Corporation](../c/corporation.md), a research and publishing [firm](../f/firm.md) that specializes in investment analytics and financial data. Founded in 1931, the company is known for its comprehensive investment research tools and services. More information about the [Value](../v/value.md) Line [Corporation](../c/corporation.md) can be found on their official website: [Value Line](https://www.valueline.com).
+The [Value](../v/value.md) Line [Index](../i/index_instrument.md) is managed by the [Value](../v/value.md) Line [Corporation](../c/corporation.md), a research and publishing [firm](../f/firm.md) that specializes in investment analytics and financial data. Founded in 1931, the company is known for its comprehensive investment research tools and services. More information about the [Value](../v/value.md) Line [Corporation](../c/corporation.md) can be found on their public materials: Value Line.
 
 ## Conclusion
 

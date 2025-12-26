@@ -6,7 +6,7 @@ PayPal [Holdings](../h/holdings.md), Inc. is an American multinational financial
 
 Founded in December 1998 as Confinity, it was developed as a software company for handheld devices before transitioning to a [digital wallet](../d/digital_wallet.md). In March 2000, Confinity merged with X.com, an [online banking](../o/online_banking.md) company founded by Elon Musk. Later that year, X.com was renamed PayPal, and in October 2002, PayPal became a wholly-owned subsidiary of eBay. After growing massively while part of eBay, PayPal was spun off into a publicly traded company in July 2015.
 
-For more information, visit [PayPal's official website](https://www.paypal.com).
+
 
 ## Business Model
 
@@ -145,4 +145,4 @@ Providing tailored solutions for SMEs can drive further growth, as these busines
 
 PayPal remains a cornerstone in the digital payments landscape, owed to its commitment to innovation, user [security](../s/security.md), and extensive [market](../m/market.md) reach. By navigating regulatory challenges, fostering strategic partnerships, and continually enhancing its product offerings, PayPal is well-positioned to sustain its growth and adapt to the evolving financial technology ecosystem.
 
-For more detailed and up-to-date information, please visit the [official PayPal website](https://www.paypal.com).
+For more detailed and up-to-date information, please

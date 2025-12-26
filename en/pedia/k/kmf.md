@@ -30,15 +30,15 @@ The half-life is the time it takes for the [value](../v/value.md) of a deviated 
 
 ## The Key Mean Reversion Framework (KMF)
 
-The Key [Mean Reversion](../m/mean_reversion.md) Framework (KMF) is an advanced approach to implementing [mean reversion](../m/mean_reversion.md) in [algorithmic trading](../a/accountability.md). It comprises several integral components:
+The Key [Mean Reversion](../m/mean_reversion.md) Framework (KMF) is an advanced approach to implementing [mean reversion](../m/mean_reversion.md) in [algorithmic trading](../a/algorithmic_trading.md). It comprises several integral components:
 
 ### Data Collection and Preprocessing
 
 Accurate historical data is foundational to [mean reversion](../m/mean_reversion.md) strategies. Data sources include:
 
-- **[Alpha](../a/alpha.md) Vantage**: [AlphaVantage](https://www.alphavantage.co/)
-- **[Quandl](../q/quandl.md)**: [Quandl](https://www.quandl.com/)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com/)
+- **[Alpha](../a/alpha.md) Vantage**: AlphaVantage
+- **[Quandl](../q/quandl.md)**: Quandl
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
 
 Data must be cleaned and normalized to ensure consistency and reliability.
 
@@ -74,15 +74,15 @@ Selecting an appropriate timeframe is critical. Short-term strategies exploit ra
 
 ### Automation and Execution
 
-[Algorithmic trading](../a/accountability.md) involves automating the KMF strategy using programming languages and trading platforms:
+[Algorithmic trading](../a/algorithmic_trading.md) involves automating the KMF strategy using programming languages and trading platforms:
 
 - **Python**: Popular for its libraries like Pandas for data manipulation and NumPy for numerical analysis.
 - **R**: Useful for statistical computing and graphics.
-- **Trading Platforms**: Such as [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) and MetaTrader ([MetaTrader](https://www.metatrader4.com/)) for executing trades.
+- **Trading Platforms**: Such as [QuantConnect](../q/quantconnect.md) (QuantConnect) and MetaTrader (MetaTrader) for executing trades.
 
 ### Backtesting
 
-Before live trading, KMF strategies are rigorously backtested to validate their effectiveness using historical data. Platforms like [QuantConnect](../q/quantconnect.md) provide [backtesting](../b/backtesting.md) environments for such purposes.
+Before live trading, KMF strategies are rigorously backtested to validate their effectiveness using historical data. Platforms like [StockSharp](../s/stocksharp.md) provide [backtesting](../b/backtesting.md) environments for such purposes.
 
 ### Performance Metrics
 
@@ -126,16 +126,16 @@ These models capture the changing nature of [financial markets](../f/financial_m
 
 ## Regulatory and Ethical Considerations
 
-[Mean reversion](../m/mean_reversion.md) strategies, like all [algorithmic trading](../a/accountability.md) activities, must adhere to regulatory standards and ethical guidelines to ensure fair and transparent markets.
+[Mean reversion](../m/mean_reversion.md) strategies, like all [algorithmic trading](../a/algorithmic_trading.md) activities, must adhere to regulatory standards and ethical guidelines to ensure fair and transparent markets.
 
 ## Conclusion
 
-The Key [Mean Reversion](../m/mean_reversion.md) Framework (KMF) in [algorithmic trading](../a/accountability.md) is a sophisticated approach that leverages statistical analysis, advanced programming, and rigorous [backtesting](../b/backtesting.md) to exploit price movements and generate profits. While challenges such as [market](../m/market.md) conditions and [transaction costs](../t/transaction_costs.md) exist, the integration of [machine learning](../m/machine_learning.md) and advanced [risk management techniques](../r/risk_management_techniques.md) can significantly enhance the effectiveness of KMF strategies.
+The Key [Mean Reversion](../m/mean_reversion.md) Framework (KMF) in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated approach that leverages statistical analysis, advanced programming, and rigorous [backtesting](../b/backtesting.md) to exploit price movements and generate profits. While challenges such as [market](../m/market.md) conditions and [transaction costs](../t/transaction_costs.md) exist, the integration of [machine learning](../m/machine_learning.md) and advanced [risk management techniques](../r/risk_management_techniques.md) can significantly enhance the effectiveness of KMF strategies.
 
 ## References
 
-- **[Alpha](../a/alpha.md) Vantage**: [AlphaVantage](https://www.alphavantage.co/)
-- **[Quandl](../q/quandl.md)**: [Quandl](https://www.quandl.com/)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com/)
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/)
-- **MetaTrader**: [MetaTrader](https://www.metatrader4.com/)
+- **[Alpha](../a/alpha.md) Vantage**: AlphaVantage
+- **[Quandl](../q/quandl.md)**: Quandl
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect
+- **MetaTrader**: MetaTrader

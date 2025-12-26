@@ -33,7 +33,7 @@ Several factors can lead to the creation of deferred [income tax](../i/income_ta
 ## Examples
 
 ### Example of Deferred Tax Liability
-A company buys a piece of equipment for $100,000. For financial reporting, it uses a straight-line [depreciation](../d/depreciation.md) method over 10 years. For tax purposes, it uses an [accelerated depreciation](../a/accelerated_depreciation.md) method, which allows it to depreciate the [asset](../a/asset.md) faster. 
+A company buys a piece of equipment for $100,000. For financial reporting, it uses a straight-line [depreciation](../d/depreciation.md) method over 10 years. For tax purposes, it uses an [accelerated depreciation](../a/accelerated_depreciation.md) method, which allows it to depreciate the [asset](../a/asset.md) faster.
 
 In Year 1, the financial [depreciation](../d/depreciation.md) [expense](../e/expense.md) is $10,000, while the tax [depreciation](../d/depreciation.md) [expense](../e/expense.md) is $20,000. The company reports higher [income](../i/income.md) in its financial statement than on its [tax return](../t/tax_return.md), creating a [deferred tax liability](../d/deferred_tax_liability.md).
 

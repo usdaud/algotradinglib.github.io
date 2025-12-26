@@ -26,16 +26,16 @@ There are three primary methods of calculating GDP, each [offering](../o/offerin
 
 3. **Expenditure Approach:** The expenditure approach adds up all expenditures or spending on final goods and services in the [economy](../e/economy.md) (C + I + G + NX).
 
-   The formula is:
-   \[
-   GDP = C + I + G + (X - M)
-   \]
-   Where:
-   - \( C \) = Consumption
-   - \( I \) = Investment
-   - \( G \) = Government Spending
-   - \( X \) = Exports
-   - \( M \) = Imports
+ The formula is:
+ \[
+ GDP = C + I + G + (X - M)
+ \]
+ Where:
+ - \( C \) = Consumption
+ - \( I \) = Investment
+ - \( G \) = Government Spending
+ - \( X \) = Exports
+ - \( M \) = Imports
 
 ### Nominal vs. Real GDP
 
@@ -83,17 +83,17 @@ Despite its widespread use, GDP has several limitations:
 
 Countries regularly publish GDP reports, providing data on economic performance over specific periods. For example:
 
-- **United States:** The Bureau of Economic Analysis (BEA) releases quarterly GDP reports (https://www.bea.gov/data/gdp).
-- **[Eurozone](../e/eurozone.md):** Eurostat provides GDP data for member countries and the overall [Eurozone](../e/eurozone.md) (https://ec.europa.eu/eurostat/web/national-accounts/data).
-- **China:** The National Bureau of [Statistics](../s/statistics.md) of China offers economic [statistics](../s/statistics.md), including GDP (http://www.stats.gov.cn/english/).
+- **United States:** The Bureau of Economic Analysis (BEA) releases quarterly GDP reports (
+- **[Eurozone](../e/eurozone.md):** Eurostat provides GDP data for member countries and the overall [Eurozone](../e/eurozone.md) (
+- **China:** The National Bureau of [Statistics](../s/statistics.md) of China offers economic [statistics](../s/statistics.md), including GDP (
 
 ### Multinational Organizations
 
 Global organizations also use GDP data to analyze and report on [economic conditions](../e/economic_conditions.md):
 
-- **International Monetary [Fund](../f/fund.md) (IMF):** Provides global GDP estimates and economic forecasts (https://www.imf.org/en/Data).
-- **[World Bank](../w/world_bank.md):** Offers comprehensive databases and reports on global [economic indicators](../e/economic_indicators.md), including GDP (https://databank.worldbank.org/source/world-development-indicators).
-- **OECD:** The Organization for Economic Co-operation and Development publishes GDP [statistics](../s/statistics.md) and analyses for member and partner countries (https://data.oecd.org/gdp/gross-domestic-product-gdp.htm).
+- **International Monetary [Fund](../f/fund.md) (IMF):** Provides global GDP estimates and economic forecasts (
+- **[World Bank](../w/world_bank.md):** Offers comprehensive databases and reports on global [economic indicators](../e/economic_indicators.md), including GDP (
+- **OECD:** The Organization for Economic Co-operation and Development publishes GDP [statistics](../s/statistics.md) and analyses for member and partner countries (
 
 ## Case Studies
 

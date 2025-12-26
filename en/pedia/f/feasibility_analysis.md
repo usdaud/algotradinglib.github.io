@@ -58,7 +58,7 @@ Evaluating the performance of the [trading strategy](../t/trading_strategy.md) u
 
 ## 9. Case Studies and Examples
 
-Examining real-world case studies can provide insights into the feasibility of [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, companies like [Kensho Technologies](https://www.kensho.com) and [Two Sigma](https://www.twosigma.com) have successfully implemented sophisticated algorithms that [leverage](../l/leverage.md) [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to generate profitable trading opportunities.
+Examining real-world case studies can provide insights into the feasibility of [algorithmic trading](../a/algorithmic_trading.md) strategies. For example, companies like Kensho Technologies and Two Sigma have successfully implemented sophisticated algorithms that [leverage](../l/leverage.md) [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to generate profitable trading opportunities.
 
 ## 10. Conclusion
 

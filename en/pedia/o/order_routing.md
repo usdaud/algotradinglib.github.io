@@ -57,16 +57,16 @@ Maintaining and upgrading the technological [infrastructure](../i/infrastructure
 ## Case Studies and Real-World Applications
 
 ### 1. **Goldman Sachs**
-Goldman Sachs is a significant player in [algorithmic trading](../a/algorithmic_trading.md) and [order](../o/order.md) routing. Their [Smart Order Routing](../s/smart_order_routing.md) system is designed to provide optimized trading by leveraging [multiple](../m/multiple.md) strategies. [Goldman Sachs - Execution Algorithms](https://www.goldmansachs.com/what-we-do/securities/execution-services.html)
+Goldman Sachs is a significant player in [algorithmic trading](../a/algorithmic_trading.md) and [order](../o/order.md) routing. Their [Smart Order Routing](../s/smart_order_routing.md) system is designed to provide optimized trading by leveraging [multiple](../m/multiple.md) strategies. Goldman Sachs - Execution Algorithms
 
 ### 2. **Citadel Securities**
-Citadel Securities is renowned for its sophisticated [trading algorithms](../t/trading_algorithms.md). Their algorithms for [order](../o/order.md) routing ensure optimal [execution](../e/execution.md) by smartly selecting the [execution](../e/execution.md) venues. [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is renowned for its sophisticated [trading algorithms](../t/trading_algorithms.md). Their algorithms for [order](../o/order.md) routing ensure optimal [execution](../e/execution.md) by smartly selecting the [execution](../e/execution.md) venues. Citadel Securities
 
 ### 3. **Interactive Brokers**
-[Interactive Brokers](../i/interactive_brokers.md) offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools, including [smart order routing](../s/smart_order_routing.md) to retail and institutional clients. Their sophisticated [order](../o/order.md) routing technology aims to achieve the best possible [execution](../e/execution.md) prices by accessing various [market](../m/market.md) centers. [Interactive Brokers - IB SmartRouting](https://www.interactivebrokers.com/en/index.php?f=smartRouting)
+[Interactive Brokers](../i/interactive_brokers.md) offers a suite of [algorithmic trading](../a/algorithmic_trading.md) tools, including [smart order routing](../s/smart_order_routing.md) to retail and institutional clients. Their sophisticated [order](../o/order.md) routing technology aims to achieve the best possible [execution](../e/execution.md) prices by accessing various [market](../m/market.md) centers. Interactive Brokers - IB SmartRouting
 
 ### 4. **Morgan Stanley**
-Morgan Stanley operates an advanced electronic trading system that includes [order](../o/order.md) routing mechanisms to provide clients with best [execution](../e/execution.md). [Morgan Stanley Electronic Trading](https://www.morganstanley.com/what-we-do/institutional/electronic-trading)
+Morgan Stanley operates an advanced electronic trading system that includes [order](../o/order.md) routing mechanisms to provide clients with best [execution](../e/execution.md). Morgan Stanley Electronic Trading
 
 ## Conclusion
 

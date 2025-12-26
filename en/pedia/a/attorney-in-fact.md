@@ -7,7 +7,7 @@ An attorney-in-fact, also known as an agent, is an individual authorized to act 
 A [power of attorney](../p/power_of_attorney.md) can take several forms, each providing different levels of authority to the attorney-in-fact. The most common types include:
 
 ### 1. General Power of Attorney
-A general [power of attorney](../p/power_of_attorney.md) grants broad powers to the attorney-in-fact, allowing them to perform almost any act the [principal](../p/principal.md) could do personally. This might include managing financial accounts, signing documents, or making [business](../b/business.md) decisions. 
+A general [power of attorney](../p/power_of_attorney.md) grants broad powers to the attorney-in-fact, allowing them to perform almost any act the [principal](../p/principal.md) could do personally. This might include managing financial accounts, signing documents, or making [business](../b/business.md) decisions.
 
 ### 2. Special or Limited Power of Attorney
 A special or limited [power of attorney](../p/power_of_attorney.md) restricts the attorney-in-fact’s authority to specific matters or tasks. For example, the [principal](../p/principal.md) may [grant](../g/grant.md) authority solely to manage a particular [real estate](../r/real_estate.md) [transaction](../t/transaction.md) or to make decisions related to a certain [business](../b/business.md).

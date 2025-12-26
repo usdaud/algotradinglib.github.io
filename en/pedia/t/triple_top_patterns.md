@@ -1,6 +1,6 @@
 # Triple Top Pattern
 
-The **[Triple Top](../t/triple_top.md)** pattern is a chart pattern used in [technical analysis](../t/technical_analysis.md) to predict the [reversal](../r/reversal.md) of an upward [trend](../t/trend.md) in the price of an [asset](../a/asset.md). The formation of a [triple top](../t/triple_top.md) signals that the [asset](../a/asset.md) is struggling to break through a consistent level of resistance and suggests a potential decline in price. This pattern is typically used by traders to identify potential selling opportunities or to signal a bearish [market](../m/market.md). 
+The **[Triple Top](../t/triple_top.md)** pattern is a chart pattern used in [technical analysis](../t/technical_analysis.md) to predict the [reversal](../r/reversal.md) of an upward [trend](../t/trend.md) in the price of an [asset](../a/asset.md). The formation of a [triple top](../t/triple_top.md) signals that the [asset](../a/asset.md) is struggling to break through a consistent level of resistance and suggests a potential decline in price. This pattern is typically used by traders to identify potential selling opportunities or to signal a bearish [market](../m/market.md).
 
 ### Components of the Triple Top Pattern
 
@@ -45,8 +45,8 @@ While the [triple top](../t/triple_top.md) pattern is a useful tool for predicti
 ### Resources and Tools for Analysis
 
 Many platforms [offer](../o/offer.md) tools and features to help identify and [trade](../t/trade.md) [triple top](../t/triple_top.md) patterns, including:
-- [TradingView](https://www.tradingview.com): Provides advanced charting tools and [pattern recognition](../p/pattern_recognition.md) features.
-- [MetaTrader 4/5](https://www.metatrader4.com): Widely used trading platforms with customizable indicators and [pattern recognition](../p/pattern_recognition.md) capabilities.
-- [ThinkOrSwim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page): Offers advanced trading tools including [chart patterns](../c/chart_patterns.md) and analysis.
+- TradingView: Provides advanced charting tools and [pattern recognition](../p/pattern_recognition.md) features.
+- MetaTrader 4/5: Widely used trading platforms with customizable indicators and [pattern recognition](../p/pattern_recognition.md) capabilities.
+- ThinkOrSwim by TD Ameritrade: Offers advanced trading tools including [chart patterns](../c/chart_patterns.md) and analysis.
 
 By leveraging these tools and adhering to a disciplined [trading strategy](../t/trading_strategy.md), traders can effectively utilize the [triple top](../t/triple_top.md) chart pattern to identify potential [market](../m/market.md) reversals and [capitalize](../c/capitalize.md) on trading opportunities.

@@ -38,7 +38,7 @@ Not commonly discussed, temporal diversification involves varying investment tim
 
 ### Strategy Diversification
 
-A diversified approach in algorithms involves the use of [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md) to spread [risk](../r/risk.md). For instance, one could employ [momentum](../m/momentum.md)-based algorithms, mean-reversion strategies, and [market](../m/market.md)-[neutral](../n/neutral.md) [arbitrage](../a/arbitrage.md) strategies within the same portfolio. 
+A diversified approach in algorithms involves the use of [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md) to spread [risk](../r/risk.md). For instance, one could employ [momentum](../m/momentum.md)-based algorithms, mean-reversion strategies, and [market](../m/market.md)-[neutral](../n/neutral.md) [arbitrage](../a/arbitrage.md) strategies within the same portfolio.
 
 ## Techniques for Achieving Diversification in Algorithmic Trading
 
@@ -64,11 +64,11 @@ Simulating various [market](../m/market.md) conditions using Monte Carlo simulat
 
 Several companies have integrated diversification into their [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). Let's look at a couple of examples:
 
-### Renaissance Technologies [Renaissance Technologies](https://www.rentec.com/Home.action)
+### Renaissance Technologies Renaissance Technologies
 
 Renaissance Technologies, founded by Jim Simons, employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. Their Medallion [Fund](../f/fund.md), one of the most successful [hedge](../h/hedge.md) funds, is extraordinarily diversified across different [asset](../a/asset.md) classes, geographies, and strategies. The [fund](../f/fund.md)'s success is often attributed to this high level of diversification and the advanced statistical techniques employed.
 
-### Two Sigma [Two Sigma](https://www.twosigma.com/)
+### Two Sigma Two Sigma
 
 Two Sigma, founded by David Siegel and John Overdeck, is a [hedge fund](../h/hedge_fund.md) based on [data science](../d/data_science_in_trading.md) and technology. They utilize [machine learning](../m/machine_learning.md), distributed computing, and diversified investment strategies to manage their portfolios. Their approach includes a wide [range](../r/range.md) of diversification—from [asset](../a/asset.md) classes and geographies to the use of [multiple](../m/multiple.md) algorithmic strategies, helping them minimize risks and achieve steady returns.
 
@@ -76,15 +76,15 @@ Two Sigma, founded by David Siegel and John Overdeck, is a [hedge fund](../h/hed
 
 Various [software tools](../s/software_tools_for_trading.md) can help in constructing and managing diversified [algorithmic trading](../a/accountability.md) portfolios:
 
-### QuantConnect [QuantConnect](https://www.quantconnect.com/)
+### QuantConnect QuantConnect
 
 [QuantConnect](../q/quantconnect.md) allows traders to develop and backtest algorithms across [multiple](../m/multiple.md) [asset](../a/asset.md) classes and markets. With its [open](../o/open.md)-source Lean Algorithm Framework, traders can create diversified algorithmic strategies, run backtests, and optimize portfolios using advanced techniques.
 
-### MetaTrader [MetaTrader](https://www.metatrader4.com/en)
+### MetaTrader MetaTrader
 
 MetaTrader platforms (MT4 and MT5) provide a comprehensive environment for trading [multiple](../m/multiple.md) assets, including forex, [stocks](../s/stock.md), and commodities. Its features support the development of Expert Advisors (EAs) that can automate diversified [trading strategies](../t/trading_strategies.md).
 
-### NinjaTrader [NinjaTrader](https://ninjatrader.com/)
+### NinjaTrader NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) offers advanced charting and analytics tools along with automated trading capabilities. It allows for trading across various [asset](../a/asset.md) classes and implementing diversified [trading strategies](../t/trading_strategies.md).
 

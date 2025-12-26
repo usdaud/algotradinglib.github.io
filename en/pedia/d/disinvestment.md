@@ -54,7 +54,7 @@ As previously discussed, this method involves selling [shares](../s/shares.md) t
 Through [buyback](../b/buyback.md) programs, the entity repurchases its [shares](../s/shares.md) from existing shareholders, thus reducing the number of [shares](../s/shares.md) outstanding. This method is typically used by corporations rather than governments.
 
 ### 5. **Asset Sale**
-Instead of selling [equity](../e/equity.md), specific assets can be sold. This method is useful for disposing of non-core assets or underutilized properties. 
+Instead of selling [equity](../e/equity.md), specific assets can be sold. This method is useful for disposing of non-core assets or underutilized properties.
 
 ## Impacts of Disinvestment
 
@@ -105,9 +105,9 @@ India has seen significant disinvestment in its public sector enterprises. Gover
 During the 2008 [financial crisis](../f/financial_crisis.md), the U.S. government acquired significant stakes in General Motors and Chrysler. As the companies stabilized, the government divested its [holdings](../h/holdings.md), eventually recovering most of the [bailout](../b/bailout.md) funds.
 
 For more detailed information on some of these examples and to explore ongoing disinvestment initiatives, you can visit the respective companies' or governmental department's pages:
-- [British Airways](https://www.britishairways.com/)
-- [BPCL](https://www.bharatpetroleum.in/)
-- [Air India](https://www.airindia.in/)
+- British Airways
+- BPCL
+- Air India
 
 ## Conclusion
 

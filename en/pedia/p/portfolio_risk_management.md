@@ -51,10 +51,10 @@ In the era of [algorithmic trading](../a/algorithmic_trading.md), portfolio [ris
 
 Several advanced software and platforms have been developed to assist in comprehensive portfolio [risk management](../r/risk_management.md). Some notable ones include:
 
-- **MSCISolutions**: [MSCI](https://www.msci.com/) offers cutting-edge [risk management](../r/risk_management.md) tools tailored for institutional investors.
+- **MSCISolutions**: MSCI offers cutting-edge [risk management](../r/risk_management.md) tools tailored for institutional investors.
 - **RiskMetrics**: Acquired by MSCI, provides sophisticated models for assessing and managing [financial risk](../f/financial_risk.md).
-- **[Bloomberg](../b/bloomberg.md) PORT**: [Bloomberg](https://www.bloomberg.com/professional/product/portfolio-risk-and-analytics) offers [risk](../r/risk.md) analytics tools integrated with its financial information platform.
-- **BlackRock Aladdin**: [BlackRock's Aladdin](https://www.blackrock.com/aladdin) is a renowned platform providing [risk](../r/risk.md) analytics and [portfolio management](../p/portfolio_management.md) solutions.
+- **[Bloomberg](../b/bloomberg.md) PORT**: Bloomberg offers [risk](../r/risk.md) analytics tools integrated with its financial information platform.
+- **BlackRock Aladdin**: BlackRock's Aladdin is a renowned platform providing [risk](../r/risk.md) analytics and [portfolio management](../p/portfolio_management.md) solutions.
 
 ## Regulatory Frameworks in Portfolio Risk Management
 

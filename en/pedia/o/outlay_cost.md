@@ -99,21 +99,21 @@ Effective management of outlay costs involves several [best practices](../b/best
 
 ## Outlay Costs in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades at high speed and accuracy. Understanding and managing outlay costs is essential in this domain to ensure profitability. Examples of outlay costs in [algorithmic trading](../a/accountability.md) include:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades at high speed and accuracy. Understanding and managing outlay costs is essential in this domain to ensure profitability. Examples of outlay costs in [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **Data Fees**: Subscription fees for [real-time market data](../r/real-time_market_data.md) and historical datasets.
 - **Technology [Infrastructure](../i/infrastructure.md)**: Costs associated with servers, high-speed internet connections, and data storage solutions.
 - **Software Development**: Expenses for developing and maintaining [trading algorithms](../t/trading_algorithms.md) and platforms.
-- [**Brokerage Fees**](https://www.interactivebrokers.com/): Costs incurred for executing trades, including commissions charged by brokerage firms like [Interactive Brokers](../i/interactive_brokers.md).
+- **Brokerage Fees**: Costs incurred for executing trades, including commissions charged by brokerage firms like [Interactive Brokers](../i/interactive_brokers.md).
 - **Regulatory Compliance**: Expenses related to meeting regulatory requirements and ensuring compliance, such as legal fees and auditing costs.
 
 Managing these outlay costs efficiently can significantly impact the profitability of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ## Conclusion
 
-Outlay costs represent the foundational financial expenses required for the operation, [expansion](../e/expansion.md), and profitability of a [business](../b/business.md). By understanding and managing these costs effectively, businesses can enhance their [financial planning](../f/financial_planning.md), pricing strategies, and investment decisions. Whether in traditional [business](../b/business.md) operations or specialized fields like [algorithmic trading](../a/accountability.md), outlay costs remain a critical consideration for sustained success and growth. Proper tracking, classification, and control of these expenses enable companies to optimize their [financial performance](../f/financial_performance.md) and achieve strategic objectives.
+Outlay costs represent the foundational financial expenses required for the operation, [expansion](../e/expansion.md), and profitability of a [business](../b/business.md). By understanding and managing these costs effectively, businesses can enhance their [financial planning](../f/financial_planning.md), pricing strategies, and investment decisions. Whether in traditional [business](../b/business.md) operations or specialized fields like [algorithmic trading](../a/algorithmic_trading.md), outlay costs remain a critical consideration for sustained success and growth. Proper tracking, classification, and control of these expenses enable companies to optimize their [financial performance](../f/financial_performance.md) and achieve strategic objectives.
 
-For further details on brokerage fees and examples related to [algorithmic trading](../a/accountability.md), refer to [Interactive Brokers](https://www.interactivebrokers.com/).
+For further details on brokerage fees and examples related to [algorithmic trading](../a/algorithmic_trading.md), refer to Interactive Brokers.
 
 ---
 

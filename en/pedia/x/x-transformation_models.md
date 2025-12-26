@@ -8,23 +8,23 @@ X-Transformation models are a class of models that employ various transformation
 
 ### Key Components of X-Transformation Models:
 
-1. **Data Preprocessing:** 
-    - **Normalization and Standardization:** Scaling input features so that they have similar ranges.
-    - **Logarithmic Transformations:** Applying logarithms to stabilize variance and make distributions more normal.
-    - **Differencing and Detrending:** Removing trends or [seasonality](../s/seasonality.md) from [time series](../t/time_series.md) data to focus on the stochastic properties.
+1. **Data Preprocessing:**
+ - **Normalization and Standardization:** Scaling input features so that they have similar ranges.
+ - **Logarithmic Transformations:** Applying logarithms to stabilize variance and make distributions more normal.
+ - **Differencing and Detrending:** Removing trends or [seasonality](../s/seasonality.md) from [time series](../t/time_series.md) data to focus on the stochastic properties.
 
 2. **Feature Engineering:**
-    - **Polynomial Transformations:** Creating polynomial features to capture nonlinear relationships.
-    - **Interaction Terms:** Including interaction terms between different features to capture combined effects.
-    - **Fourier Transforms:** Using FFT (Fast Fourier Transform) for transforming time-series data into the frequency domain.
+ - **Polynomial Transformations:** Creating polynomial features to capture nonlinear relationships.
+ - **Interaction Terms:** Including interaction terms between different features to capture combined effects.
+ - **Fourier Transforms:** Using FFT (Fast Fourier Transform) for transforming time-series data into the frequency domain.
 
 3. **[Dimensionality Reduction](../d/dimensionality_reduction_in_trading.md):**
-    - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** Reducing the dimensionality of the dataset while retaining most of the [variability](../v/variability.md).
-    - **Autoencoders:** Using neural network-based models to learn a compact, latent representation of the data.
+ - **[Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA):** Reducing the dimensionality of the dataset while retaining most of the [variability](../v/variability.md).
+ - **Autoencoders:** Using neural network-based models to learn a compact, latent representation of the data.
 
 4. **Model Modifications:**
-    - **Regularization Techniques:** Applying L1 or L2 regularization to prevent [overfitting](../o/overfitting.md) and improve generalization.
-    - **Ensemble Methods:** Combining [multiple](../m/multiple.md) models to improve prediction accuracy.
+ - **Regularization Techniques:** Applying L1 or L2 regularization to prevent [overfitting](../o/overfitting.md) and improve generalization.
+ - **Ensemble Methods:** Combining [multiple](../m/multiple.md) models to improve prediction accuracy.
 
 ## Mathematical Foundation of X-Transformation Models
 
@@ -34,62 +34,62 @@ X-Transformation models often rely heavily on the following mathematical and sta
 
 [Time series](../t/time_series.md) transformations play a crucial role in [algorithmic trading](../a/algorithmic_trading.md) due to the sequential nature of the data. Common transformations include:
 
-- **Differencing:** 
-    \[
-    Y_t' = Y_t - Y_{t-1}
-    \]
-    This transformation is used to make a non-stationary [time series](../t/time_series.md) stationary by removing trends and [seasonality](../s/seasonality.md).
+- **Differencing:**
+ \[
+ Y_t' = Y_t - Y_{t-1}
+ \]
+ This transformation is used to make a non-stationary [time series](../t/time_series.md) stationary by removing trends and [seasonality](../s/seasonality.md).
 
 - **Logarithmic Transformation:**
-    \[
-    Y_t' = \log(Y_t)
-    \]
-    This is particularly useful for stabilizing the variance and making the data more normally distributed.
+ \[
+ Y_t' = \log(Y_t)
+ \]
+ This is particularly useful for stabilizing the variance and making the data more normally distributed.
 
 ### Fourier Transform
 
 Fourier Transform is used to decompose a [time series](../t/time_series.md) into frequencies. The Fast Fourier Transform (FFT) is an efficient algorithm to compute the discrete Fourier Transform (DFT):
 
 - **Fourier Series:**
-    \[
-    f(x) = a_0 + \sum_{n=1}^{\infty} \left(a_n \cos(nx) + b_n \sin(nx)\right)
-    \]
+ \[
+ f(x) = a_0 + \sum_{n=1}^{\infty} \left(a_n \cos(nx) + b_n \sin(nx)\right)
+ \]
 
-    Where \( a_0 \) is the average of the function, and \( a_n \) and \( b_n \) are the Fourier coefficients.
+ Where \( a_0 \) is the average of the function, and \( a_n \) and \( b_n \) are the Fourier coefficients.
 
 ### Principal Component Analysis (PCA)
 
 PCA is widely used for [dimensionality reduction](../d/dimensionality_reduction_in_trading.md):
 
 - **PCA Transformation:**
-    \[
-    Z = W^TX
-    \]
-    Where \( Z \) is the vector of [principal components](../p/principal_components_in_trading.md), \( W \) is the matrix of eigenvectors of the [covariance](../c/covariance.md) matrix of \( X \), and \( X \) is the original data matrix.
+ \[
+ Z = W^TX
+ \]
+ Where \( Z \) is the vector of [principal components](../p/principal_components_in_trading.md), \( W \) is the matrix of eigenvectors of the [covariance](../c/covariance.md) matrix of \( X \), and \( X \) is the original data matrix.
 
 ### Regularization Techniques
 
 Regularization helps prevent [overfitting](../o/overfitting.md) in [predictive models](../p/predictive_models_in_trading.md). Two common techniques are:
 
 - **L1 Regularization (Lasso):**
-    \[
-    \min_{w} \left( ||Xw - y||_2^2 + \[lambda](../l/lambda.md) ||w||_1 \right)
-    \]
+ \[
+ \min_{w} \left( ||Xw - y||_2^2 + \[lambda](../l/lambda.md) ||w||_1 \right)
+ \]
 
 - **L2 Regularization (Ridge):**
-    \[
-    \min_{w} \left( ||Xw - y||_2^2 + \[lambda](../l/lambda.md) ||w||_2^2 \right)
-    \]
+ \[
+ \min_{w} \left( ||Xw - y||_2^2 + \[lambda](../l/lambda.md) ||w||_2^2 \right)
+ \]
 
 ### Neural Networks and Autoencoders
 
 Autoencoders are a type of neural network used for [unsupervised learning](../u/unsupervised_learning.md) of efficient codings:
 
 - **Autoencoder Structure:**
-    \[
-    x \rightarrow h = f(Wx + b) \rightarrow \hat{x} = g(W'h + b')
-    \]
-    Where \( x \) is the input, \( \hat{x} \) is the reconstructed input, \( h \) is the latent representation, and \( W, W' \) are weight matrices.
+ \[
+ x \rightarrow h = f(Wx + b) \rightarrow \hat{x} = g(W'h + b')
+ \]
+ Where \( x \) is the input, \( \hat{x} \) is the reconstructed input, \( h \) is the latent representation, and \( W, W' \) are weight matrices.
 
 ## Popular Uses in Algorithmic Trading
 
@@ -131,11 +131,11 @@ As transformations and models become more complex, interpretability becomes a ch
 
 ### GSA Capital Partners
 
-GSA [Capital](../c/capital.md) Partners is a [hedge fund](../h/hedge_fund.md) known for its use of advanced statistical methods and X-Transformation techniques in [algorithmic trading](../a/algorithmic_trading.md). By applying these models, GSA [Capital](../c/capital.md) Partners has been able to achieve significant returns and manage [risk](../r/risk.md) effectively. More information can be found on their [official website](https://www.gsacapital.com).
+GSA [Capital](../c/capital.md) Partners is a [hedge fund](../h/hedge_fund.md) known for its use of advanced statistical methods and X-Transformation techniques in [algorithmic trading](../a/algorithmic_trading.md). By applying these models, GSA [Capital](../c/capital.md) Partners has been able to achieve significant returns and manage [risk](../r/risk.md) effectively.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and transformations to drive its [trading strategies](../t/trading_strategies.md). Founded by mathematician James Simons, the [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is renowned for its high returns. Visit their [official website](https://www.rentec.com) for more details.
+Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) and transformations to drive its [trading strategies](../t/trading_strategies.md). Founded by mathematician James Simons, the [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is renowned for its high returns.
 
 ## Conclusion
 

@@ -48,14 +48,14 @@ Growth and [value investing](../v/value_investing.md) are two primary strategies
 ### Real-World Applications and Notable Investors
 
 **Notable Growth Investors and Companies:**
-- **T. Rowe Price (https://www.troweprice.com):** Founder of [growth stock](../g/growth_stock.md) [investing](../i/investing.md) who established T. Rowe Price Associates.
-- **Cathie Wood:** CEO of ARK Invest (https://ark-invest.com), known for focusing on [disruptive innovation](../d/disruptive_innovation.md) and [growth stocks](../g/growth_stocks.md) like Tesla and Square.
-- **The Motley Fool (https://www.fool.com):** Provides [growth stock](../g/growth_stock.md) picks and investment advice.
+- **T. Rowe Price ( Founder of [growth stock](../g/growth_stock.md) [investing](../i/investing.md) who established T. Rowe Price Associates.
+- **Cathie Wood:** CEO of ARK Invest ( known for focusing on [disruptive innovation](../d/disruptive_innovation.md) and [growth stocks](../g/growth_stocks.md) like Tesla and Square.
+- **The Motley Fool ( Provides [growth stock](../g/growth_stock.md) picks and investment advice.
 
 **Notable [Value](../v/value.md) Investors and Companies:**
-- **Warren Buffett:** CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md) (https://www.berkshirehathaway.com), known for his [value investing](../v/value_investing.md) philosophy.
+- **Warren Buffett:** CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md) ( known for his [value investing](../v/value_investing.md) philosophy.
 - **[Benjamin Graham](../b/benjamin_graham.md):** Known as the father of [value investing](../v/value_investing.md) and the author of "The Intelligent [Investor](../i/investor.md)".
-- **Tweedy, Browne Company (https://www.tweedy.com):** An investment advisory [firm](../f/firm.md) known for its [value investing](../v/value_investing.md) approach.
+- **Tweedy, Browne Company ( An investment advisory [firm](../f/firm.md) known for its [value investing](../v/value_investing.md) approach.
 
 ### Conclusion
 

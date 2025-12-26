@@ -38,10 +38,10 @@ Despite the [robust](../r/robust.md) protections they [offer](../o/offer.md), Bl
 ## Enforcement Agencies
 Each state has its own securities regulator, typically within the state’s Department of [Commerce](../c/commerce.md) or Treasury. Some notable agencies include:
 
-- [California Department of Financial Protection and Innovation](https://dfpi.ca.gov/)
-- [New York State Department of Financial Services](https://www.dfs.ny.gov/)
-- [Texas State Securities Board](https://www.ssb.texas.gov/)
-  
+- California Department of Financial Protection and Innovation
+- New York State Department of Financial Services
+- Texas State Securities Board
+
 These agencies are responsible for enforcing Blue Sky Laws, approving registrations, and taking action against entities that violate securities laws.
 
 ## Implications for Investors

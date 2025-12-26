@@ -35,13 +35,13 @@ Hubbert's global peak oil prediction was more contentious. While some observers 
 ### Criticisms and Limitations
 
 1. **Technological Advancements:**
-   Critics argue that Hubbert's model does not adequately account for technological advancements that can significantly alter production capabilities, such as [hydraulic fracturing](../h/hydraulic_fracturing.md), horizontal drilling, and advanced seismic imaging.
+ Critics argue that Hubbert's model does not adequately account for technological advancements that can significantly alter production capabilities, such as [hydraulic fracturing](../h/hydraulic_fracturing.md), horizontal drilling, and advanced seismic imaging.
 
 2. **Economic Factors:**
-   Hubbert's model primarily focuses on geological and physical constraints, while critics argue that economic factors like oil prices, [government policies](../g/government_policies_in_trading.md), and [market dynamics](../m/market_dynamics.md) also play crucial roles in determining production rates.
+ Hubbert's model primarily focuses on geological and physical constraints, while critics argue that economic factors like oil prices, [government policies](../g/government_policies_in_trading.md), and [market dynamics](../m/market_dynamics.md) also play crucial roles in determining production rates.
 
 3. **Alternative Energy Sources:**
-   The rise of alternative energy sources, including renewables like solar and wind energy, presents another challenge to the model as economies transition away from dependence on fossil fuels.
+ The rise of alternative energy sources, including renewables like solar and wind energy, presents another challenge to the model as economies transition away from dependence on fossil fuels.
 
 ## Implications
 
@@ -77,6 +77,6 @@ Hubbert's Peak Theory remains a crucial model for understanding long-term trends
 
 For further information about the companies and entities involved in advancements in oil extraction technology, refer to specific [industry](../i/industry.md) leaders:
 
-- [Shell Oil](https://www.shell.com/)
-- [Schlumberger](https://www.slb.com/)
-- [Chevron](https://www.chevron.com/)
+- Shell Oil
+- Schlumberger
+- Chevron

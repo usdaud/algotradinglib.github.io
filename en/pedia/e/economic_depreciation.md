@@ -4,7 +4,7 @@ Economic [depreciation](../d/depreciation.md) is a crucial concept in both [fina
 
 ## Understanding Economic Depreciation
 
-Economic [depreciation](../d/depreciation.md) is more aligned with the [market value](../m/market_value.md) of an [asset](../a/asset.md) rather than the [historical cost](../h/historical_cost.md) [basis](../b/basis.md) used in [accounting](../a/accounting.md) [depreciation](../d/depreciation.md). It provides a more realistic assessment of an [asset](../a/asset.md)'s worth as it factors in real-world conditions such as technological advancements, [market](../m/market.md) [demand](../d/demand.md), and physical deterioration. 
+Economic [depreciation](../d/depreciation.md) is more aligned with the [market value](../m/market_value.md) of an [asset](../a/asset.md) rather than the [historical cost](../h/historical_cost.md) [basis](../b/basis.md) used in [accounting](../a/accounting.md) [depreciation](../d/depreciation.md). It provides a more realistic assessment of an [asset](../a/asset.md)'s worth as it factors in real-world conditions such as technological advancements, [market](../m/market.md) [demand](../d/demand.md), and physical deterioration.
 
 ### Factors Influencing Economic Depreciation
 

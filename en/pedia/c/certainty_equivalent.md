@@ -60,9 +60,9 @@ Certainty Equivalent is also integral to [risk management](../r/risk_management.
 
 Several fintech companies specialize in solutions involving Certainty Equivalent and [utility theory](../u/utility_theory_in_trading.md) for trading and [portfolio management](../p/par.md). Examples include:
 
-- **[Alpaca](../a/alpaca.md)**: [alpaca.markets](https://alpaca.markets/) - Provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) that can be programmed to incorporate Certainty Equivalents into [trading strategies](../t/trading_strategies.md).
-- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/) - Offers a platform for [backtesting](../b/backtesting.md) and live trading algorithmic strategies where [utility functions](../u/utility_functions_in_trading.md) and Certainty Equivalents can be employed.
-- **Numerai**: [numer.ai](https://numer.ai/) - Utilizes [machine learning](../m/machine_learning.md) models that can incorporate [risk](../r/risk.md) preferences defined by Certainty Equivalents.
+- **[Alpaca](../a/alpaca.md)**: alpaca.markets - Provides [algorithmic trading infrastructure](../a/algorithmic_trading_infrastructure.md) that can be programmed to incorporate Certainty Equivalents into [trading strategies](../t/trading_strategies.md).
+- **[QuantConnect](../q/quantconnect.md)**: quantconnect.com - Offers a platform for [backtesting](../b/backtesting.md) and live trading algorithmic strategies where [utility functions](../u/utility_functions_in_trading.md) and Certainty Equivalents can be employed.
+- **Numerai**: numer.ai - Utilizes [machine learning](../m/machine_learning.md) models that can incorporate [risk](../r/risk.md) preferences defined by Certainty Equivalents.
 
 ## Case Study: Application in Real-World Trading
 

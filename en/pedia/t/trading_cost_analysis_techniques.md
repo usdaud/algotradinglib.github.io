@@ -8,19 +8,19 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), an essential
 Commissions are the fees that brokers charge for executing trades on behalf of traders. This is the most visible cost in trading and can vary widely depending on the [broker](../b/broker.md), the [market](../m/market.md), and the [volume](../v/volume.md) of trading.
 
 **Example:**
-TD [Ameritrade](../a/ameritrade.md) provides detailed information on their [commission](../c/commission.md) structures on [their website](https://www.tdameritrade.com/pricing.page).
+TD [Ameritrade](../a/ameritrade.md) provides detailed information on their [commission](../c/commission.md)
 
 ### 2. Exchange Fees
 Exchanges impose fees for the [execution](../e/execution.md) of trades, which can be influenced by the trading venue, [transaction](../t/transaction.md) sizes, and frequency.
 
 **Example:**
-The New York Stock [Exchange](../e/exchange.md) (NYSE) lists its comprehensive [fee](../f/fee.md) schedule on [their website](https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf).
+The New York Stock [Exchange](../e/exchange.md) (NYSE) lists its comprehensive [fee](../f/fee.md)
 
 ### 3. Clearing and Settlement Fees
 These are fees associated with the [clearing and settlement](../c/clearing_and_settlement.md) process of trades, which ensure the transfer of securities and [payment](../p/payment.md) between parties.
 
 **Example:**
-Details about [clearing](../c/clearing.md) fees can be found at [DTCC](https://www.dtcc.com/clearing-services/equities-clearing-services) ([Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md)).
+Details about [clearing](../c/clearing.md) fees can be found at DTCC ([Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md)).
 
 ## Implicit Costs
 
@@ -48,7 +48,7 @@ Post-[trade](../t/trade.md) TCA assesses the actual [trading costs](../t/trading
 VWAP is a trading [benchmark](../b/benchmark.md) that calculates the average price at which a [security](../s/security.md) has traded throughout the day, based on both [volume](../v/volume.md) and price. It is used to assess the quality of [trade](../t/trade.md) executions.
 
 **Example:**
-[Bloomberg](../b/bloomberg.md) provides VWAP and other trading analytics tools, details of which can be found on [their website](https://www.bloomberg.com/professional/product/execution-management-system/).
+[Bloomberg](../b/bloomberg.md) provides VWAP and other trading analytics tools,
 
 ### 3. Implementation Shortfall
 Implementation [shortfall](../s/shortfall.md) measures the difference between the theoretical price at the decision time and the actual [execution](../e/execution.md) price. It encapsulates various [trading costs](../t/trading_costs.md) including [market](../m/market.md) impact and [slippage](../s/slippage.md).
@@ -62,16 +62,16 @@ This involves the study of the [bid-ask spread](../b/bid-ask_spread.md), [order 
 ## Tools and Platforms for Trading Cost Analysis
 
 ### 1. Markit Analytics
-Markit provides comprehensive TCA analytics encompassing pre-[trade](../t/trade.md), real-time, and post-[trade](../t/trade.md) insights. Details can be found on [Markit](https://ihsmarkit.com/products/transaction-cost-analysis.html).
+Markit provides comprehensive TCA analytics encompassing pre-[trade](../t/trade.md), real-time, and post-[trade](../t/trade.md) insights. Details can be found on Markit.
 
 ### 2. Abel Noser
-Abel Noser offers services tailored towards measuring and managing [trading costs](../t/trading_costs.md), helping institutional investors and traders optimize [execution](../e/execution.md). More information is available on [their website](https://www.abelnoser.com/).
+Abel Noser offers services tailored towards measuring and managing [trading costs](../t/trading_costs.md), helping institutional investors and traders optimize [execution](../e/execution.md).
 
 ### 3. ITG (Investment Technology Group)
-ITG specializes in TCA and provides sophisticated tools and analytics to assess and improve [trading performance](../t/trading_performance.md). Visit [their site](https://www.itg.com/) for more details.
+ITG specializes in TCA and provides sophisticated tools and analytics to assess and improve [trading performance](../t/trading_performance.md).
 
 ### 4. Virtu Financial
-Virtu Financial provides [execution](../e/execution.md) services and trading analytics, emphasizing [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in trading activities. They [offer](../o/offer.md) access to a suite of TCA tools on [their website](https://www.virtu.com/).
+Virtu Financial provides [execution](../e/execution.md) services and trading analytics, emphasizing [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in trading activities. They [offer](../o/offer.md)
 
 ## Conclusion
 Trading cost analysis plays a pivotal role in shaping the profitability of [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md). By leveraging sophisticated analytical techniques and tools, traders can [gain](../g/gain.md) deeper insights into the explicit and implicit costs associated with their trades. Continuous monitoring and management of these costs are essential for improving [execution](../e/execution.md) performance and overall trading outcomes.

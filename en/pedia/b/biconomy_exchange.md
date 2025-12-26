@@ -33,9 +33,9 @@ The [exchange](../e/exchange.md) lists numerous cryptocurrencies, ranging from w
 Biconomy [Exchange](../e/exchange.md) offers various advanced trading tools that cater to professional traders. These tools include:
 
 - **API Functionality**: Biconomy provides [robust](../r/robust.md) API support, allowing users to integrate third-party trading bots and algorithms for automated [trading strategies](../t/trading_strategies.md). This is particularly beneficial for high-frequency traders and those utilizing advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md).
-  
+
 - **Analytical Charts and [Technical Indicators](../t/technical_indicator.md)**: The [exchange](../e/exchange.md) features comprehensive charting tools with access to [multiple](../m/multiple.md) [technical indicators](../t/technical_indicator.md) and drawing tools, enabling traders to perform in-depth [market](../m/market.md) analysis and make informed trading decisions.
-  
+
 - **[Order Types](../o/order_types_in_trading.md)**: Biconomy supports various [order types](../o/order_types_in_trading.md), including limit orders, [market](../m/market.md) orders, and [stop-limit orders](../s/stop-limit_orders.md), providing traders with the flexibility to employ different strategies depending on [market](../m/market.md) conditions.
 
 ## Customer Support

@@ -1,6 +1,6 @@
 # World Economic Forum (WEF)
 
-The World Economic Forum (WEF) is an international non-governmental organization founded in 1971. Originally known as the European Management Forum, it was rebranded in 1987 to reflect its growing influence beyond Europe and its broadened mission. The WEF is most famous for its annual meeting held in Davos, Switzerland, which brings together leaders from various sectors — including [business](../b/business.md), government, academia, and civil society — to discuss and address critical global issues. 
+The World Economic Forum (WEF) is an international non-governmental organization founded in 1971. Originally known as the European Management Forum, it was rebranded in 1987 to reflect its growing influence beyond Europe and its broadened mission. The WEF is most famous for its annual meeting held in Davos, Switzerland, which brings together leaders from various sectors — including [business](../b/business.md), government, academia, and civil society — to discuss and address critical global issues.
 
 ## Mission and Objectives
 
@@ -64,4 +64,3 @@ While the WEF aims to address various global challenges, measuring the tangible 
 
 The World Economic Forum (WEF) plays a prominent role in shaping global agendas and driving initiatives to tackle pressing global issues. Through its convening power, it brings together diverse stakeholders to foster dialogue, collaboration, and innovation. While it faces criticisms regarding [transparency](../t/transparency.md) and tangible impacts, its efforts to improve the state of the world and address problems like climate change, economic inequality, and technological disruption continue to make it a significant player in global governance.
 
-For more information, you can visit the official website of the World Economic Forum: [WEF Official Website](https://www.weforum.org/).

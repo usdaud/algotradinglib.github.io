@@ -1,6 +1,6 @@
 # Informational Efficiency
 
-Informational [efficiency](../e/efficiency.md) is a vital concept in the [financial markets](../f/financial_market.md) and is particularly relevant to [algorithmic trading](../a/algorithmic_trading.md). It refers to the extent to which [market](../m/market.md) prices of securities fully reflect all available information. An informationally efficient [market](../m/market.md) is one where prices at any given time represent the true [intrinsic value](../i/intrinsic_value.md) of securities, considering all public and private information. This is the essence of the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), first formulated by [economist](../e/economist.md) Eugene Fama. 
+Informational [efficiency](../e/efficiency.md) is a vital concept in the [financial markets](../f/financial_market.md) and is particularly relevant to [algorithmic trading](../a/algorithmic_trading.md). It refers to the extent to which [market](../m/market.md) prices of securities fully reflect all available information. An informationally efficient [market](../m/market.md) is one where prices at any given time represent the true [intrinsic value](../i/intrinsic_value.md) of securities, considering all public and private information. This is the essence of the [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH), first formulated by [economist](../e/economist.md) Eugene Fama.
 
 ## Efficient Market Hypothesis (EMH)
 
@@ -27,7 +27,7 @@ For semi-strong form efficient markets, the use of any publicly available inform
 
  - **News-Based [Trading Algorithms](../t/trading_algorithms.md)**: These algorithms parse news articles, [social media](../s/social_media.md) posts, and press releases using [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques to act on new information as quickly as possible.
  - **[Earnings Announcements](../e/earnings_announcements.md)**: [Trading algorithms](../t/trading_algorithms.md) analyze [earnings](../e/earnings.md) reports and related metrics rapidly to predict price movements.
- 
+
 ### Strong Form Efficiency and Algo Trading
 
 If markets were strongly efficient, no information, including that known to company insiders, would give a trading advantage. Under this paradigm, even [insider trading](../i/insider.md) would not provide abnormal returns.
@@ -66,19 +66,19 @@ Different [market](../m/market.md) participants may have access to different lev
 
 Renaissance Technologies is a prominent [hedge fund](../h/hedge_fund.md) known for its quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies, emphasizing [market](../m/market.md) efficiencies and inefficiencies.
 
-- [Renaissance Technologies](https://www.rentec.com/)
+- Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma is a [firm](../f/firm.md) that combines [data science](../d/data_science_in_trading.md) and technology to create sophisticated [trading strategies](../t/trading_strategies.md).
 
-- [Two Sigma](https://www.twosigma.com/)
+- Two Sigma
 
 ### Citadel Securities
 
 Citadel Securities is a leading [market](../m/market.md)-maker employing complex algorithms to enhance [market efficiency](../m/market_efficiency.md) by providing [liquidity](../l/liquidity.md).
 
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Citadel Securities
 
 ## Conclusion
 

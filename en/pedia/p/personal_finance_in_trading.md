@@ -5,7 +5,7 @@ Personal [finance](../f/finance.md) refers to the management of an individual's 
 ## Managing Trading Capital
 
 ### Setting a Trading Budget
-A key aspect of personal [finance](../f/finance.md) in trading is setting a trading [budget](../b/budget.md). This [budget](../b/budget.md) should be an amount of [money](../m/money.md) that you can afford to lose. Trading involves risks, and it is essential to ensure that the [money](../m/money.md) allocated for trading does not impact your essential financial needs such as [mortgage](../m/mortgage.md) payments, utilities, education, and groceries. 
+A key aspect of personal [finance](../f/finance.md) in trading is setting a trading [budget](../b/budget.md). This [budget](../b/budget.md) should be an amount of [money](../m/money.md) that you can afford to lose. Trading involves risks, and it is essential to ensure that the [money](../m/money.md) allocated for trading does not impact your essential financial needs such as [mortgage](../m/mortgage.md) payments, utilities, education, and groceries.
 
 ### Allocating Funds Across Different Accounts
 It is also advisable to separate your trading funds from your other funds. This helps to monitor your [trading performance](../t/trading_performance.md) more efficiently and prevents you from accidentally using your trading [capital](../c/capital.md) for non-trading expenses. Many traders maintain [multiple](../m/multiple.md) accounts:
@@ -38,9 +38,9 @@ Effective [risk management](../r/risk_management.md) is fundamental to successfu
 - **[Backtesting](../b/backtesting.md):** Allows traders to test strategies on historical data to evaluate their effectiveness.
 
 Prominent companies [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) platforms include:
-- [AlgoTrader](https://www.algotrader.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [TradeStation](https://www.tradestation.com/)
+- AlgoTrader
+- QuantConnect
+- TradeStation
 
 ## Monitoring and Adjusting Financial Goals
 
@@ -68,14 +68,14 @@ Choosing the right [trading platform](../t/trading_platform.md) is critical for 
 - **[Execution](../e/execution.md) Speed:** Fast and reliable [trade](../t/trade.md) [execution](../e/execution.md).
 
 Some popular trading platforms include:
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [MetaTrader 4 and 5](https://www.metatrader4.com/en/)
+- Interactive Brokers
+- MetaTrader 4 and 5
 
 ### Financial Software
 Financial software can help you track your personal finances and manage your [budget](../b/budget.md), savings, and investments. Some recommended financial software includes:
-- [Quicken](https://www.quicken.com/)
-- [YNAB (You Need A Budget)](https://www.youneedabudget.com/)
-- [Personal Capital](https://www.personalcapital.com/)
+- Quicken
+- YNAB (You Need A Budget)
+- Personal Capital
 
 ### Educational Resources
 Continuing education is crucial for staying updated with [market](../m/market.md) trends and improving your trading skills. Some valuable educational resources include:

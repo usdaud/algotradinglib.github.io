@@ -99,10 +99,10 @@ Billing promptly and managing receivables efficiently since service industries o
 
 Several companies [offer](../o/offer.md) comprehensive cash management solutions, including:
 
-- **Kyriba**: A global leader in cloud treasury and [finance](../f/finance.md) solutions. More information can be found on [Kyriba’s website](https://www.kyriba.com/).
-- **SAP**: Offers [robust](../r/robust.md) ERP systems that include cash management modules. Their website is [SAP Treasury and Risk Management](https://www.sap.com/products/financial-management/treasury-management.html).
-- **Oracle**: Provides comprehensive financial management solutions that include cash management. Further details are available on [Oracle’s website](https://www.oracle.com/erp/financials.html).
-- **Fiserv**: Specializes in financial services technology and offers a [range](../r/range.md) of cash management tools. More information can be found on [Fiserv’s website](https://www.fiserv.com/en.html).
+- **Kyriba**: A global leader in cloud treasury and [finance](../f/finance.md) solutions.
+- **SAP**: Offers [robust](../r/robust.md) ERP systems that include cash management modules, such as SAP Treasury and Risk Management.
+- **Oracle**: Provides comprehensive financial management solutions that include cash management.
+- **Fiserv**: Specializes in financial services technology and offers a [range](../r/range.md) of cash management tools.
 
 ## Challenges in Cash Management
 

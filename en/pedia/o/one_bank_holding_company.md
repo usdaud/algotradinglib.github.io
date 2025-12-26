@@ -60,11 +60,11 @@ OBHCs might face limitations in their growth opportunities. With a focus on only
 
 ### First Citizens BancShares
 
-First Citizens BancShares is an example of an effective OBHC. Headquartered in Raleigh, North Carolina, the [holding company](../h/holding_company.md) controls First Citizens [Bank](../b/bank.md) (https://www.firstcitizens.com/). It has managed to [leverage](../l/leverage.md) the OBHC model to foster strong growth and stability, focusing resources and strategic decisions on enhancing the [bank](../b/bank.md)'s performance and expanding its reach.
+First Citizens BancShares is an example of an effective OBHC. Headquartered in Raleigh, North Carolina, the [holding company](../h/holding_company.md) controls First Citizens [Bank](../b/bank.md) ( It has managed to [leverage](../l/leverage.md) the OBHC model to foster strong growth and stability, focusing resources and strategic decisions on enhancing the [bank](../b/bank.md)'s performance and expanding its reach.
 
 ### East West Bancorp
 
-East West Bancorp, Inc. (https://www.eastwestbank.com/) is another successful OBHC. It controls East West [Bank](../b/bank.md) and has utilized the benefits of a single-focused holding structure to become one of the most prominent banks serving the Asian American community. The centralized focus has allowed it to tailor its services to meet the needs of its niche [market](../m/market.md) effectively.
+East West Bancorp, Inc. ( is another successful OBHC. It controls East West [Bank](../b/bank.md) and has utilized the benefits of a single-focused holding structure to become one of the most prominent banks serving the Asian American community. The centralized focus has allowed it to tailor its services to meet the needs of its niche [market](../m/market.md) effectively.
 
 ## Impact on Financial Markets
 

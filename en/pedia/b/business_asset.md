@@ -11,15 +11,15 @@ A **[Business](../b/business.md) [Asset](../a/asset.md)** is any resource owned 
 ## Types of Business Assets
 ### Tangible Assets
 1. **[Current Assets](../c/current_assets.md)**: Short-term assets expected to be converted into cash or used up within one year.
-   - **Cash and [Cash Equivalents](../c/cash_equivalents.md)**: [Liquid](../l/liquid.md) assets including [currency](../c/currency.md), [bank](../b/bank.md) balances, and [short-term investments](../s/short-term_investments.md).
-   - **Accounts [Receivable](../r/receivable.md)**: [Money](../m/money.md) owed to the [business](../b/business.md) by customers for goods or services provided.
-   - **[Inventory](../i/inventory.md)**: [Raw materials](../r/raw_materials.md), work-in-progress, and finished goods held for [sale](../s/sale.md).
-   - **Prepaid Expenses**: Payments made in advance for goods or services to be received in the future.
+ - **Cash and [Cash Equivalents](../c/cash_equivalents.md)**: [Liquid](../l/liquid.md) assets including [currency](../c/currency.md), [bank](../b/bank.md) balances, and [short-term investments](../s/short-term_investments.md).
+ - **Accounts [Receivable](../r/receivable.md)**: [Money](../m/money.md) owed to the [business](../b/business.md) by customers for goods or services provided.
+ - **[Inventory](../i/inventory.md)**: [Raw materials](../r/raw_materials.md), work-in-progress, and finished goods held for [sale](../s/sale.md).
+ - **Prepaid Expenses**: Payments made in advance for goods or services to be received in the future.
 
 2. **Fixed (Long-Term) Assets**: [Long-term assets](../l/long-term_assets.md) used in the operation of a [business](../b/business.md) and not expected to be converted into cash within a year.
-   - **Property, Plant, and Equipment (PP&E)**: Physical assets like buildings, machinery, vehicles, and equipment.
-   - **Land**: [Real estate](../r/real_estate.md) owned by the [business](../b/business.md).
-   - **Furniture and Fixtures**: Office furniture, fixtures, and other equipment used in daily operations.
+ - **Property, Plant, and Equipment (PP&E)**: Physical assets like buildings, machinery, vehicles, and equipment.
+ - **Land**: [Real estate](../r/real_estate.md) owned by the [business](../b/business.md).
+ - **Furniture and Fixtures**: Office furniture, fixtures, and other equipment used in daily operations.
 
 ### Intangible Assets
 1. **Intellectual Property**: Non-physical assets that include patents, trademarks, copyrights, and [trade](../t/trade.md) secrets.
@@ -41,17 +41,16 @@ A **[Business](../b/business.md) [Asset](../a/asset.md)** is any resource owned 
 
 ## Example Scenarios
 1. **[Manufacturing](../m/manufacturing.md) [Business](../b/business.md)**:
-   - **[Tangible Assets](../t/tangible_asset.md)**: Factory buildings, production machinery, raw material [inventory](../i/inventory.md), and delivery trucks.
-   - **Intangible Assets**: Patents for [manufacturing](../m/manufacturing.md) processes, trademarks for branded products.
+ - **[Tangible Assets](../t/tangible_asset.md)**: Factory buildings, production machinery, raw material [inventory](../i/inventory.md), and delivery trucks.
+ - **Intangible Assets**: Patents for [manufacturing](../m/manufacturing.md) processes, trademarks for branded products.
 
 2. **Technology Company**:
-   - **[Tangible Assets](../t/tangible_asset.md)**: Office space, computer equipment, and servers.
-   - **Intangible Assets**: Software licenses, [proprietary algorithms](../p/proprietary_algorithms.md), and brand [goodwill](../g/goodwill.md).
+ - **[Tangible Assets](../t/tangible_asset.md)**: Office space, computer equipment, and servers.
+ - **Intangible Assets**: Software licenses, [proprietary algorithms](../p/proprietary_algorithms.md), and brand [goodwill](../g/goodwill.md).
 
 3. **Retail Store**:
-   - **[Tangible Assets](../t/tangible_asset.md)**: Store premises, point-of-[sale](../s/sale.md) systems, and merchandise [inventory](../i/inventory.md).
-   - **Intangible Assets**: [Customer](../c/customer.md) loyalty programs and [trade](../t/trade.md) names.
+ - **[Tangible Assets](../t/tangible_asset.md)**: Store premises, point-of-[sale](../s/sale.md) systems, and merchandise [inventory](../i/inventory.md).
+ - **Intangible Assets**: [Customer](../c/customer.md) loyalty programs and [trade](../t/trade.md) names.
 
 ## Conclusion
 [Business](../b/business.md) assets are vital resources that provide [economic value](../e/economic_value.md) and support the operations and growth of a company. They can be tangible or intangible, and their effective management is crucial for maintaining financial stability, generating [revenue](../r/revenue.md), and achieving long-term [business](../b/business.md) success. Understanding and optimizing the use of [business](../b/business.md) assets helps businesses enhance their [efficiency](../e/efficiency.md), competitiveness, and profitability.
-

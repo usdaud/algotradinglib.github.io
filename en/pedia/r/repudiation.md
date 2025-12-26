@@ -38,9 +38,9 @@ To mitigate the risks of repudiation in digital transactions, various measures a
 
 Several companies employ non-repudiation techniques to ensure the [security](../s/security.md) and reliability of their digital transactions:
 
-- **DocuSign**: DocuSign provides digital [transaction](../t/transaction.md) management and electronic signature solutions that ensure non-repudiation by recording every step of the signing process and securing it with a unique digital certificate. [DocuSign](https://www.docusign.com/)
+- **DocuSign**: DocuSign provides digital [transaction](../t/transaction.md) management and electronic signature solutions that ensure non-repudiation by recording every step of the signing process and securing it with a unique digital certificate. DocuSign
 
-- **Adobe Sign**: Adobe Sign is another electronic signature solution that offers [robust](../r/robust.md) non-repudiation features. It ensures that documents are securely signed and tracks the signing process to prevent any disputes. [Adobe Sign](https://adobe.com/sign)
+- **Adobe Sign**: Adobe Sign is another electronic signature solution that offers [robust](../r/robust.md) non-repudiation features. It ensures that documents are securely signed and tracks the signing process to prevent any disputes. Adobe Sign
 
 ## Repudiation in Financial Markets
 

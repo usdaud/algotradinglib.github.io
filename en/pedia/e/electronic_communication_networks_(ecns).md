@@ -1,6 +1,6 @@
 # Electronic Communication Networks (ECNs)
 
-Electronic Communication Networks (ECNs) are an advanced type of [trading platform](../t/trading_platform.md) that facilitate the trading of financial products, especially [stocks](../s/stock.md) and currencies, outside of traditional stock exchanges. ECNs provide an electronic system for buyers and sellers to conduct trades directly between them, bypassing intermediaries like [market](../m/market.md) makers and brokers. This thorough examination of ECNs [will](../w/will.md) elucidate their function, benefits, types, key players, and their impact on the trading landscape. 
+Electronic Communication Networks (ECNs) are an advanced type of [trading platform](../t/trading_platform.md) that facilitate the trading of financial products, especially [stocks](../s/stock.md) and currencies, outside of traditional stock exchanges. ECNs provide an electronic system for buyers and sellers to conduct trades directly between them, bypassing intermediaries like [market](../m/market.md) makers and brokers. This thorough examination of ECNs [will](../w/will.md) elucidate their function, benefits, types, key players, and their impact on the trading landscape.
 
 ## Introduction to ECNs
 
@@ -13,9 +13,9 @@ At its core, an ECN matches orders from participants in different geographical l
 ECNs use sophisticated algorithms to match buy and sell orders that have been routed from various [market](../m/market.md) participants including banks, institutional traders, individual traders, and other financial entities. Here’s a step-by-step overview of how ECNs operate:
 
 1. **[Order](../o/order.md) Entry**: Traders enter orders via their [electronic communication network](../e/electronic_communication_network.md)-connected platforms. This can involve specifying [order types](../o/order_types_in_trading.md) such as [market](../m/market.md) orders, limit orders, stop orders, etc.
-   
+
 2. **[Order](../o/order.md) Matching**: The ECN receives these orders and uses its matching engine to find compatible buy and sell orders. It prioritizes these orders based on price and time of entry, often matching the best available prices.
-   
+
 3. **[Trade](../t/trade.md) [Execution](../e/execution.md)**: When orders are matched, the ECN executes the [trade](../t/trade.md) automatically. There is no need for manual intervention, leading to faster [execution](../e/execution.md) speeds.
 
 4. **[Order Routing](../o/order_routing.md)**: If the ECN is unable to find a match for an [order](../o/order.md) within its own platform, it can route the [order](../o/order.md) to other ECNs or traditional exchanges to find a match, ensuring high [order](../o/order.md) fill rates.
@@ -45,7 +45,7 @@ ECNs can be categorized based on their operational focus and the types of financ
 These networks specialize in the trading of [stocks](../s/stock.md) and other [equity](../e/equity.md) securities. Popular [equity](../e/equity.md) ECNs include:
 
 - **Instinet**: One of the oldest and most recognized names in the ECN space, providing electronic trading solutions to institutional and individual investors.
-  
+
 - **Arca ([NYSE Arca](../n/nyse_arca.md))**: Originally known as Archipelago, this ECN is now part of the New York Stock [Exchange](../e/exchange.md). It plays a critical role in [equity trading](../e/equity_trading.md).
 
 - **BATS**: Now part of Cboe Global Markets, BATS Global Markets operates across several [asset](../a/asset.md) classes including equities.
@@ -55,7 +55,7 @@ These networks specialize in the trading of [stocks](../s/stock.md) and other [e
 These ECNs focus on [foreign exchange](../f/foreign_exchange.md) trading, providing a platform for [currency](../c/currency.md) pairs. Notable examples include:
 
 - **EBS (Electronic Broking Services)**: A leading forex ECN that enhances [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md) for spot trading in various [currency](../c/currency.md) pairs.
-  
+
 - **[Reuters](../r/reuters.md) Dealing**: Part of the FXall [trading platform](../t/trading_platform.md), [Reuters](../r/reuters.md) Dealing connects traders across the globe to provide competitive pricing and efficient [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### Multi-Asset ECNs
@@ -63,7 +63,7 @@ These ECNs focus on [foreign exchange](../f/foreign_exchange.md) trading, provid
 Some ECNs facilitate trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, forex, commodities, and [derivatives](../d/derivatives.md). Examples include:
 
 - **Currenex**: A leading [multi-asset trading](../m/multi-asset_trading.md) platform that offers [robust](../r/robust.md) solutions for forex and other [asset](../a/asset.md) classes.
-  
+
 - **[NEX](../n/nex.md) Group**: A comprehensive [multi-asset trading](../m/multi-asset_trading.md) platform that supports a variety of financial instruments and delivers innovative technology solutions.
 
 ## Key Players in the ECN Market
@@ -72,23 +72,23 @@ Several firms and platforms have become prominent players in the ECN space due t
 
 ### Instinet
 
-Instinet is one of the pioneering ECNs, providing electronic trading solutions globally. By facilitating seamless and efficient trades, Instinet has earned a reputation for reliability and innovation in electronic trading. [Instinet Website](https://www.instinet.com/)
+Instinet is one of the pioneering ECNs, providing electronic trading solutions globally. By facilitating seamless and efficient trades, Instinet has earned a reputation for
 
 ### NYSE Arca
 
-[NYSE Arca](../n/nyse_arca.md) was formed through the [merger](../m/merger.md) of NYSE and Archipelago, [offering](../o/offering.md) a versatile ECN for [equity trading](../e/equity_trading.md). It provides a high-performance platform for trading both [stocks](../s/stock.md) and [exchange](../e/exchange.md)-traded funds (ETFs). [NYSE Arca Website](https://www.nyse.com/markets/nyse-arca)
+[NYSE Arca](../n/nyse_arca.md) was formed through the [merger](../m/merger.md) of NYSE and Archipelago, [offering](../o/offering.md) a versatile ECN for [equity trading](../e/equity_trading.md). It provides a high-performance platform for trading both [stocks](../s/stock.md) and [exchange](../e/exchange.md)-traded
 
 ### BATS Global Markets
 
-Initially an independent ECN, BATS has evolved into a leading global [market](../m/market.md) [infrastructure](../i/infrastructure.md) provider. Acquired by Cboe Global Markets, BATS continues to influence the trading landscape with its technological prowess. [Cboe Global Markets Website](https://markets.cboe.com/)
+Initially an independent ECN, BATS has evolved into a leading global [market](../m/market.md) [infrastructure](../i/infrastructure.md) provider. Acquired by Cboe Global Markets, BATS continues to influence the trading
 
 ### EBS
 
-EBS, a part of CME Group, stands out in the forex [market](../m/market.md) by [offering](../o/offering.md) deep [liquidity](../l/liquidity.md) and advanced trading tools. EBS is instrumental for institutional traders seeking reliable and competitive [currency trading](../c/currency_trading_strategies.md) solutions. [EBS Website](https://www.cmegroup.com/trading/market-tech-and-data-services/ebs.html)
+EBS, a part of CME Group, stands out in the forex [market](../m/market.md) by [offering](../o/offering.md) deep [liquidity](../l/liquidity.md) and advanced trading tools. EBS is instrumental for institutional traders seeking reliable and competitive [currency trading](../c/currency_trading_strategies.md)
 
 ### Reuters Dealing
 
-As a service within the FXall platform, [Reuters](../r/reuters.md) Dealing integrates extensive [market](../m/market.md) data and trading connectivity, catering to institutional forex traders' [demand](../d/demand.md) for precision and speed. [Reuters FXall Website](https://www.refinitiv.com/en/products/fxall-forex-trading)
+As a service within the FXall platform, [Reuters](../r/reuters.md) Dealing integrates extensive [market](../m/market.md) data and trading connectivity, catering to institutional forex traders' [demand](../d/demand.md)
 
 ## Impact on the Trading Landscape
 

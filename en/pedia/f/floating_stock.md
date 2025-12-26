@@ -37,7 +37,7 @@ The floating stock is a critical measure of a stock’s [liquidity](../l/liquidi
 ## Examples of Floating Stock in Action
 
 ### Low Floating Stocks
-[Stocks](../s/stock.md) like Tesla Inc. (TSLA) have had periods where the floating stock was relatively low due to heavy insider [holdings](../h/holdings.md) and institutional ownership, contributing to significant price [volatility](../v/volatility.md). This can make the stock attractive for day traders and short-term investors looking to [capitalize](../c/capitalize.md) on price swings. 
+[Stocks](../s/stock.md) like Tesla Inc. (TSLA) have had periods where the floating stock was relatively low due to heavy insider [holdings](../h/holdings.md) and institutional ownership, contributing to significant price [volatility](../v/volatility.md). This can make the stock attractive for day traders and short-term investors looking to [capitalize](../c/capitalize.md) on price swings.
 
 ### High Floating Stocks
 On the other hand, [stocks](../s/stock.md) like Apple Inc. (AAPL) have a high floating stock due to wide [retail investor](../r/retail_investor.md) participation and diversified institutional ownership. This results in a highly [liquid market](../l/liquid_market.md) with relatively lower [volatility](../v/volatility.md) compared to [stocks](../s/stock.md) with low floating stock.

@@ -4,9 +4,9 @@ The field of [algorithmic trading](../a/algorithmic_trading.md), or simply "algo
 
 ## Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used [momentum indicators](../m/momentum_indicators.md). Developed by J. Welles Wilder, it measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md). 
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) is one of the most commonly used [momentum indicators](../m/momentum_indicators.md). Developed by J. Welles Wilder, it measures the magnitude of recent price changes to evaluate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in the price of an [asset](../a/asset.md).
 
-### Calculation: 
+### Calculation:
 The RSI is calculated using the following formula:
 \[ \text{RSI} = 100 - \left( \frac{100}{1+RS} \right) \]
 where RS ([Relative Strength](../r/relative_strength.md)) is the average [gain](../g/gain.md) of up periods during a specified time frame divided by the average loss of down periods during the same time frame.

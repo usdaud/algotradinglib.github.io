@@ -1,15 +1,15 @@
 # Sortino Ratio Calculation
 
-The **[Sortino Ratio](../s/sortino_ratio.md)** is a financial metric that differentiates between good and bad [volatility](../v/volatility.md) in the assessment of an investment's [risk](../r/risk.md)-adjusted returns. While the widely-used [Sharpe Ratio](../s/sharpe_ratio.md) considers all [variability](../v/variability.md) in returns as [risk](../r/risk.md), the [Sortino Ratio](../s/sortino_ratio.md) focuses specifically on [downside risk](../d/downside_risk.md), providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than [upside](../u/upside.md) [variability](../v/variability.md). 
+The **[Sortino Ratio](../s/sortino_ratio.md)** is a financial metric that differentiates between good and bad [volatility](../v/volatility.md) in the assessment of an investment's [risk](../r/risk.md)-adjusted returns. While the widely-used [Sharpe Ratio](../s/sharpe_ratio.md) considers all [variability](../v/variability.md) in returns as [risk](../r/risk.md), the [Sortino Ratio](../s/sortino_ratio.md) focuses specifically on [downside risk](../d/downside_risk.md), providing a more nuanced view of an investment's performance. This is particularly useful for investors who are more concerned about downside events than [upside](../u/upside.md) [variability](../v/variability.md).
 
 ### Components of the Sortino Ratio
 
 To understand the [Sortino Ratio](../s/sortino_ratio.md), one needs to be familiar with its primary components:
 
 1. **[Expected Return](../e/expected_return.md) (\( R \))**: This is the mean [return](../r/return.md) of an investment over a specified period.
-  
+
 2. **[Risk](../r/risk.md)-Free Rate (\( R_f \))**: Typically, this is the [return](../r/return.md) of an investment considered "[risk](../r/risk.md)-free," such as [U.S. Treasury](../u/u.s._treasury.md) bonds.
-  
+
 3. **[Downside Deviation](../d/downside_deviation.md) (\( DD \))**: Unlike [standard deviation](../s/standard_deviation.md) that considers all deviations, [downside deviation](../d/downside_deviation.md) only considers returns that fall below a targeted or minimum acceptable [return](../r/return.md) (MAR).
 
 ### Formula
@@ -46,7 +46,7 @@ Where:
 
 #### 3. Determine the Minimum Acceptable Return (MAR)
 
-The MAR is often set at the [risk](../r/risk.md)-free rate (\( R_f \)), but it can be adjusted based on the [investor](../i/investor.md)'s target [return](../r/return.md) or other benchmarks. 
+The MAR is often set at the [risk](../r/risk.md)-free rate (\( R_f \)), but it can be adjusted based on the [investor](../i/investor.md)'s target [return](../r/return.md) or other benchmarks.
 
 #### 4. Calculate the Downside Deviation (\( DD \))
 
@@ -78,34 +78,34 @@ Finally, use the calculated values of \( R \), \( R_f \), and \( DD \) in the [S
 
 Consider the following example where an investment's annual returns over 5 years are: 10%, 5%, -2%, 12%, 8%. Assume the [risk](../r/risk.md)-free rate is 3%.
 
-1. **Mean [Return](../r/return.md) (\( R \))**: 
+1. **Mean [Return](../r/return.md) (\( R \))**:
 \[ R = \frac{10 + 5 - 2 + 12 + 8}{5} = \frac{33}{5} = 6.6\% \]
 
 2. **MAR**: Let's set MAR to the [risk](../r/risk.md)-free rate, \( R_f \) = 3%.
 
 3. **Calculate Deviations**:
-   - Year 1: 10% - 3% = 7% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
-   - Year 2: 5% - 3% = 2% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
-   - Year 3: -2% - 3% = -5% (negative, include in calculation)
-   - Year 4: 12% - 3% = 9% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
-   - Year 5: 8% - 3% = 5% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
-   
-   Negative deviations: 0, 0, -5%, 0, 0
+ - Year 1: 10% - 3% = 7% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
+ - Year 2: 5% - 3% = 2% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
+ - Year 3: -2% - 3% = -5% (negative, include in calculation)
+ - Year 4: 12% - 3% = 9% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
+ - Year 5: 8% - 3% = 5% (positive, set to 0 for [downside deviation](../d/downside_deviation.md))
 
-4. **Square Negative Deviations**: 
-   - \( (-5\%)^2 = 0.0025 \)
-   
+ Negative deviations: 0, 0, -5%, 0, 0
+
+4. **Square Negative Deviations**:
+ - \( (-5\%)^2 = 0.0025 \)
+
 5. **Sum Squares and Calculate [Downside Deviation](../d/downside_deviation.md)**:
-   - Sum: 0.0025
-   - Divide by number of periods: \( \frac{0.0025}{5} = 0.0005 \)
-   - Take the square root: \( \sqrt{0.0005} \approx 0.02236 \) or 2.236%
+ - Sum: 0.0025
+ - Divide by number of periods: \( \frac{0.0025}{5} = 0.0005 \)
+ - Take the square root: \( \sqrt{0.0005} \approx 0.02236 \) or 2.236%
 
 6. **[Sortino Ratio](../s/sortino_ratio.md)**:
 \[ \text{[Sortino Ratio](../s/sortino_ratio.md)} = \frac{6.6\% - 3\%}{2.236\%} = \frac{3.6\%}{2.236\%} \approx 1.61 \]
 
 ### Interpretation
 
-A higher [Sortino Ratio](../s/sortino_ratio.md) indicates a lower probability of [downside risk](../d/downside_risk.md) relative to the [expected return](../e/expected_return.md). Generally, a [Sortino Ratio](../s/sortino_ratio.md) above 1 is considered good, indicating that the investment's [return](../r/return.md) is high compared to its [downside risk](../d/downside_risk.md). A higher [Sortino Ratio](../s/sortino_ratio.md) also suggests that the investment is more efficient in generating returns per unit of [downside risk](../d/downside_risk.md). 
+A higher [Sortino Ratio](../s/sortino_ratio.md) indicates a lower probability of [downside risk](../d/downside_risk.md) relative to the [expected return](../e/expected_return.md). Generally, a [Sortino Ratio](../s/sortino_ratio.md) above 1 is considered good, indicating that the investment's [return](../r/return.md) is high compared to its [downside risk](../d/downside_risk.md). A higher [Sortino Ratio](../s/sortino_ratio.md) also suggests that the investment is more efficient in generating returns per unit of [downside risk](../d/downside_risk.md).
 
 ### Practical Considerations
 
@@ -125,9 +125,8 @@ A higher [Sortino Ratio](../s/sortino_ratio.md) indicates a lower probability of
 
 Several online tools and financial software can help compute the [Sortino Ratio](../s/sortino_ratio.md) efficiently:
 
-- **Portfolio Visualizer**: An online tool that provides detailed [portfolio analysis](../p/portfolio_analysis.md), including the [Sortino Ratio](../s/sortino_ratio.md) (https://www.portfoliovisualizer.com/).
-- **[Financial Planning](../f/financial_planning.md) Software**: Many platforms like **[Morningstar](../m/morningstar.md)**, **[Bloomberg](../b/bloomberg.md)**, and **Mint** [offer](../o/offer.md) [risk](../r/risk.md)-adjusted [performance metrics](../p/performance_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md) (https://www.[morningstar](../m/morningstar.md).com/, https://www.[bloomberg](../b/bloomberg.md).com/, https://www.mint.com/).
-
+- **Portfolio Visualizer**: An online tool that provides detailed [portfolio analysis](../p/portfolio_analysis.md), including the [Sortino Ratio](../s/sortino_ratio.md) (
+- **[Financial Planning](../f/financial_planning.md) Software**: Many platforms like **[Morningstar](../m/morningstar.md)**, **[Bloomberg](../b/bloomberg.md)**, and **Mint** [offer](../o/offer.md) [risk](../r/risk.md)-adjusted [performance metrics](../p/performance_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md) (
 ### Conclusion
 
 The [Sortino Ratio](../s/sortino_ratio.md) is a valuable tool for investors seeking to evaluate the [risk](../r/risk.md)-adjusted returns of their investments while focusing specifically on [downside risk](../d/downside_risk.md). By filtering out the [upside](../u/upside.md) [volatility](../v/volatility.md), it offers a clearer picture of how well an investment compensates for the [risk](../r/risk.md) of undesirable returns. Employing the [Sortino Ratio](../s/sortino_ratio.md) in conjunction with other financial metrics can lead to more informed and effective investment decisions.

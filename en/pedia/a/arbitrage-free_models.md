@@ -34,16 +34,16 @@ Several renowned models and frameworks adhere to the no-[arbitrage](../a/arbitra
 The [Black-Scholes model](../b/black-scholes_model.md), developed by Fischer Black, Myron Scholes, and Robert Merton, is primarily used for pricing European-style [options](../o/options.md). This groundbreaking model assumes a constant [volatility](../v/volatility.md) and [interest rate](../i/interest_rate.md), providing a closed-form solution for option pricing.
 
 - **Black-Scholes Formula:**
-  \[
-  C(S, t) = S N(d_1) - K e^{-r(T-t)} N(d_2)
-  \]
-  where:
-  \[
-  d_1 = \frac{\ln(S/K) + (r + \sigma^2/2)(T-t)}{\sigma \sqrt{T-t}}
-  \]
-  \[
-  d_2 = d_1 - \sigma \sqrt{T-t}
-  \]
+ \[
+ C(S, t) = S N(d_1) - K e^{-r(T-t)} N(d_2)
+ \]
+ where:
+ \[
+ d_1 = \frac{\ln(S/K) + (r + \sigma^2/2)(T-t)}{\sigma \sqrt{T-t}}
+ \]
+ \[
+ d_2 = d_1 - \sigma \sqrt{T-t}
+ \]
 
 ### Heath-Jarrow-Morton (HJM) Framework
 The HJM framework describes the evolution of [interest](../i/interest.md) rates in a manner consistent with an [arbitrage](../a/arbitrage.md)-[free market](../f/free_market.md). It focuses on modeling the entire [yield curve](../y/yield_curve.md), making it particularly useful for [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md). The model does not specify a single-[factor](../f/factor.md) form but provides a comprehensive structure for multi-[factor models](../f/factor_models.md).
@@ -52,27 +52,27 @@ The HJM framework describes the evolution of [interest](../i/interest.md) rates 
 The CIR model is another widely used approach for [interest rate](../i/interest_rate.md) modeling. It describes the evolution of [interest](../i/interest.md) rates through a mean-reverting stochastic process and is known for ensuring positivity in [interest](../i/interest.md) rates.
 
 - **CIR Dynamics:**
-  \[
-  dr_t = \[kappa](../k/kappa.md)(\[theta](../t/theta.md) - r_t)dt + \sigma \sqrt{r_t}dW_t
-  \]
-  where \( r_t \) is the [interest rate](../i/interest_rate.md) at time \( t \), \( \[kappa](../k/kappa.md) \) is the speed of reversion, \( \[theta](../t/theta.md) \) is the long-term mean, and \( \sigma \) is the [volatility](../v/volatility.md).
+ \[
+ dr_t = \[kappa](../k/kappa.md)(\[theta](../t/theta.md) - r_t)dt + \sigma \sqrt{r_t}dW_t
+ \]
+ where \( r_t \) is the [interest rate](../i/interest_rate.md) at time \( t \), \( \[kappa](../k/kappa.md) \) is the speed of reversion, \( \[theta](../t/theta.md) \) is the long-term mean, and \( \sigma \) is the [volatility](../v/volatility.md).
 
 ### Hull-White Model
 The [Hull-White model](../h/hull-white_model.md) extends the Vasicek model by allowing time-dependent parameters, improving the fit to observed [market](../m/market.md) data. It models short-term [interest](../i/interest.md) rates and can accommodate the observed [term structure of interest rates](../t/term_structure_of_interest_rates.md).
 
 - **Hull-White Dynamics:**
-  \[
-  dr_t = (\[theta](../t/theta.md)(t) - \[alpha](../a/alpha.md) r_t)dt + \sigma dW_t
-  \]
+ \[
+ dr_t = (\[theta](../t/theta.md)(t) - \[alpha](../a/alpha.md) r_t)dt + \sigma dW_t
+ \]
 
 ### Local Volatility Model
 The Local [Volatility](../v/volatility.md) model, introduced by Bruno Dupire, is an extension of the [Black-Scholes model](../b/black-scholes_model.md). It allows [volatility](../v/volatility.md) to vary with both the [asset](../a/asset.md) price and time, providing a more accurate representation of [market](../m/market.md) conditions, especially for pricing [exotic options](../e/exotic_options.md).
 
 - **Dupire's Equation:**
-  \[
-  \frac{\partial C}{\partial T} + \frac{1}{2} \sigma^2(K, T) K^2 \frac{\partial^2 C}{\partial K^2} = 0
-  \]
-  where \( C \) is the call price, \( K \) is the [strike price](../s/strike_price.md), and \( T \) is the time to [maturity](../m/maturity.md).
+ \[
+ \frac{\partial C}{\partial T} + \frac{1}{2} \sigma^2(K, T) K^2 \frac{\partial^2 C}{\partial K^2} = 0
+ \]
+ where \( C \) is the call price, \( K \) is the [strike price](../s/strike_price.md), and \( T \) is the time to [maturity](../m/maturity.md).
 
 ### Arbitrage-Free SABR Model
 The Stochastic [Alpha](../a/alpha.md) [Beta](../b/beta.md) [Rho](../r/rho.md) (SABR) model, extended to be [arbitrage](../a/arbitrage.md)-free, captures the dynamics of forward rates and their volatilities. The [arbitrage](../a/arbitrage.md)-free extension ensures that the prices computed are consistent with observed [market](../m/market.md) data and are free from [arbitrage](../a/arbitrage.md) opportunities.
@@ -101,5 +101,5 @@ Despite their importance, [arbitrage](../a/arbitrage.md)-free models face severa
 ## References
 For further exploration of [arbitrage](../a/arbitrage.md)-free models, you can visit:
 
-- [Nobel Prize in Economics 1997 - Black-Scholes-Merton](https://www.nobelprize.org/prizes/economic-sciences/1997/summary/)
-- [Hull & White Official Page](https://www.acf.hhs.gov/hull-and-white)
+- Nobel Prize in Economics 1997 - Black-Scholes-Merton
+- Hull & White model

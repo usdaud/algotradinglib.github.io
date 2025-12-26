@@ -89,16 +89,16 @@ Several companies and financial analysts actively use FCFF to make informed deci
 
 Many publicly traded companies report their FCFF in annual and quarterly reports as a part of their financial [disclosure](../d/disclosure.md). For instance:
 
-- [Apple Inc.](https://www.apple.com/investor/)
-- [Microsoft Corporation](https://www.microsoft.com/investor/)
-- [Amazon.com, Inc.](https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/amzn-20221231.htm)
+- Apple Inc.
+- Microsoft Corporation
+- Amazon.com, Inc.
 
 ### Financial Services and Analytics Firms
 
 Financial analytics and investment firms also frequently publish reports and perform valuations based on FCFF. Some of these firms include:
-- [Morningstar, Inc.](https://www.morningstar.com/)
-- [Moody's Analytics](https://www.moodysanalytics.com/)
-- [S&P Global](https://www.spglobal.com/)
+- Morningstar, Inc.
+- Moody's Analytics
+- S&P Global
 
 ### Example Use Cases
 
@@ -116,9 +116,9 @@ Investors and financial analysts often delve deeper into FCFF by considering adv
 ### Automation in FCFF Analysis
 
 With the advent of technology and financial analytics tools, professionals are increasingly utilizing automated platforms for calculating and analyzing FCFF. These tools facilitate more accurate and efficient [financial planning](../f/financial_planning.md) and analysis. Companies providing such tools include:
-- [FactSet](https://www.factset.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Capital IQ](https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro)
+- FactSet
+- Bloomberg Terminal
+- Capital IQ
 
 These platforms [offer](../o/offer.md) extensive databases, [financial modeling](../f/financial_modeling.md) tools, and proprietary analytics that streamline the FCFF calculation process, allowing financial analysts to focus on strategic decision-making and insights.
 

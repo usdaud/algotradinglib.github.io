@@ -76,25 +76,25 @@ Leveraged and [inverse ETFs](../i/inverse_etfs.md) amplify gains but also losses
 
 USO is one of the most popular Oil ETFs that aims to track the price movements of light, sweet [crude oil](../c/crude_oil.md). It primarily holds near-month [futures contracts](../f/futures_contracts.md).
 
-More information can be found on their [official website](https://www.uscfinvestments.com/uso).
+
 
 ### Energy Select Sector SPDR Fund (XLE)
 
 XLE provides exposure to U.S. energy companies involved in the extraction, production, and [sale](../s/sale.md) of oil, gas, and consumable fuels. It includes giant oil corporations like ExxonMobil and Chevron.
 
-More information can be found on their [official website](https://www.ssga.com/us/en/individual/etfs/funds/spdr-energy-select-sector-etf-xle).
+
 
 ### ProShares Ultra Bloomberg Crude Oil (UCO)
 
 UCO seeks to provide daily returns that correspond to twice the daily performance of the [Bloomberg](../b/bloomberg.md) [Commodity](../c/commodity.md) Balanced WTI [Crude Oil](../c/crude_oil.md) [Index](../i/index_instrument.md). It’s a [leveraged ETF](../l/leveraged_etf.md) and is more suitable for [short-term trading](../s/short-term_trading.md).
 
-More information can be found on their [official website](https://www.proshares.com/etf/uco).
+
 
 ### Invesco DB Oil Fund (DBO)
 
 DBO tracks the DBIQ Optimum [Yield](../y/yield.md) [Crude Oil](../c/crude_oil.md) [Index](../i/index_instrument.md) [Excess Return](../e/excess_return.md)™, which is composed of [futures contracts](../f/futures_contracts.md) on light sweet [crude oil](../c/crude_oil.md) (WTI). It aims to provide exposure to [crude oil](../c/crude_oil.md) while minimizing the negative impact of [contango](../c/contango.md) conditions.
 
-More information can be found on their [official website](https://www.invesco.com/portal/site/us/etfs/).
+
 
 ## Conclusion
 

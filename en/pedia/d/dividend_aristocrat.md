@@ -38,22 +38,22 @@ Historically, [Dividend](../d/dividend.md) Aristocrats have outperformed the bro
 ### Procter & Gamble Co. (PG)
 Procter & Gamble is a [consumer goods](../c/consumer_goods.md) giant known for its well-diversified product lines, including brands like Tide, Pampers, and Gillette. The company has increased its [dividend](../d/dividend.md) for over 60 consecutive years.
 
-**Website:** [Procter & Gamble](https://us.pg.com/)
+**online platform:** Procter & Gamble
 
 ### Johnson & Johnson (JNJ)
 Johnson & Johnson, a leader in the [healthcare sector](../h/healthcare_sector.md), offers a [range](../r/range.md) of products from pharmaceuticals to medical devices. It has increased its dividends for more than 55 years.
 
-**Website:** [Johnson & Johnson](https://www.jnj.com/)
+**online platform:** Johnson & Johnson
 
 ### Coca-Cola Co. (KO)
 Coca-Cola, a global leader in the beverage [industry](../i/industry.md), has increased its [dividend](../d/dividend.md) for over 58 years. Its substantial [cash flow](../c/cash_flow.md) and [brand recognition](../b/brand_recognition.md) make it a reliable [dividend](../d/dividend.md) payer.
 
-**Website:** [Coca-Cola](https://www.coca-colacompany.com/)
+**online platform:** Coca-Cola
 
 ### 3M Company (MMM)
 3M is a diversified technology company with operations in various sectors including industrial, health care, and [consumer goods](../c/consumer_goods.md). It has a strong track record of [dividend](../d/dividend.md) increases for more than 60 years.
 
-**Website:** [3M](https://www.3m.com/)
+**online platform:** 3M
 
 ## Risks and Considerations
 

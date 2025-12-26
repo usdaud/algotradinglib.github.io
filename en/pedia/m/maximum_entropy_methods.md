@@ -58,7 +58,7 @@ Quality data is paramount for any Maximum Entropy model. Trading data is often n
 - Cleaning: Removing errors, outliers, and missing values.
 - Normalization: Transforming data to a common scale.
 - Feature Extraction: Creating informative variables from raw data.
-  
+
 ### Parameter Estimation
 The estimation of the Lagrange multipliers \( \lambda_i \) is crucial and often involves techniques such as:
 
@@ -96,6 +96,6 @@ Maximum Entropy Methods [offer](../o/offer.md) a powerful framework for dealing 
 
 For more information on companies and resources leveraging Maximum Entropy Methods in trading, you can explore their official websites such as:
 
-- [Jane Street](https://www.janestreet.com)
-- [Two Sigma](https://www.twosigma.com)
-- [AQR Capital Management](https://www.aqr.com)
+- Jane Street
+- Two Sigma
+- AQR Capital Management

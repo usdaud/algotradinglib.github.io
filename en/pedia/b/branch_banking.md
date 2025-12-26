@@ -4,7 +4,7 @@ Branch banking refers to the system of banks having [multiple](../m/multiple.md)
 
 ## History of Branch Banking
 
-Branch banking has a long and storied history, tracing back to the early days of banking itself. The concept can be traced to the medieval period when merchants and moneylenders began establishing [multiple](../m/multiple.md) locations to facilitate [trade](../t/trade.md) and provide financial services. One of the earliest examples of a banking network with [multiple](../m/multiple.md) branches is the Medici [Bank](../b/bank.md), which had branches in several major cities across Europe in the 15th century. 
+Branch banking has a long and storied history, tracing back to the early days of banking itself. The concept can be traced to the medieval period when merchants and moneylenders began establishing [multiple](../m/multiple.md) locations to facilitate [trade](../t/trade.md) and provide financial services. One of the earliest examples of a banking network with [multiple](../m/multiple.md) branches is the Medici [Bank](../b/bank.md), which had branches in several major cities across Europe in the 15th century.
 
 The 19th century saw the proliferation of branch banking as banks in Europe and North America began to [open](../o/open.md) additional locations to serve growing populations and expanding economies. The [Industrial Revolution](../i/industrial_revolution.md) and the subsequent rise of urban centers further pushed banks to establish branches to meet the increasing [demand](../d/demand.md) for financial services.
 
@@ -37,7 +37,7 @@ Branches often have dedicated staff to provide [wealth management](../w/wealth_m
 - **Investment Advice**: [Guidance](../g/guidance.md) on investment [options](../o/options.md), including [stocks](../s/stock.md), bonds, mutual funds, and retirement accounts.
 - **[Estate Planning](../e/estate_planning.md)**: Services to help customers manage their estates and plan for [wealth](../w/wealth.md) transfer.
 - **[Insurance](../i/insurance.md)**: [Offering](../o/offering.md) [life insurance](../l/life_insurance.md), [health insurance](../h/health_insurance.md), and other [insurance](../i/insurance.md) products.
-  
+
 ## Advantages of Branch Banking
 
 Branch banking offers several benefits to both banks and their customers:

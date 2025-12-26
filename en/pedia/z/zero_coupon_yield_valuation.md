@@ -6,7 +6,7 @@ Zero coupon bonds are a type of [debt security](../d/debt_security.md) that does
 
 ## Characteristics of Zero Coupon Bonds
 
-1. **No Periodic [Interest](../i/interest.md) Payments**: Unlike traditional bonds that pay [interest](../i/interest.md) periodically, zero coupon bonds make no periodic [interest](../i/interest.md) payments. 
+1. **No Periodic [Interest](../i/interest.md) Payments**: Unlike traditional bonds that pay [interest](../i/interest.md) periodically, zero coupon bonds make no periodic [interest](../i/interest.md) payments.
 
 2. **Sold at a [Discount](../d/discount.md)**: These bonds are sold at a price significantly lower than their [face value](../f/face_value.md).
 
@@ -53,17 +53,17 @@ If the current [market price](../m/market_price.md) of a zero coupon [bond](../b
 ### Advantages of Zero Coupon Bonds
 
 1. **Predictable [Return](../r/return.md)**: The [return](../r/return.md) is fixed and known at the time of purchase.
-  
+
 2. **No [Reinvestment Risk](../r/reinvestment_risk.md)**: There are no periodic coupon payments that need to be reinvested, eliminating [reinvestment risk](../r/reinvestment_risk.md).
-  
+
 3. **Lower Purchase Price**: The initial investment is lower compared to bonds that pay periodic [interest](../i/interest.md).
 
 ### Disadvantages of Zero Coupon Bonds
 
 1. **Tax Implications**: Investors may need to pay [taxes](../t/taxes.md) on [imputed interest](../i/imputed_interest.md) annually.
-  
+
 2. **Price [Volatility](../v/volatility.md)**: Zero coupon bonds can be more volatile in price due to changes in [interest](../i/interest.md) rates compared to coupon-paying bonds.
-  
+
 3. **No [Cash Flow](../c/cash_flow.md)**: Investors do not receive periodic [interest](../i/interest.md) payments, which may be a disadvantage for those needing regular [income](../i/income.md).
 
 ## Practical Applications

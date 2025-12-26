@@ -1,6 +1,6 @@
 # Value-Growth Cycles
 
-[Value](../v/value.md)-Growth cycles are a recurrent theme in [financial markets](../f/financial_market.md), representing the oscillation between [value](../v/value.md) and [growth investing](../g/growth_investing.md) strategies. Understanding these cycles is critical for algorithmic traders who aim to optimize their [trading strategies](../t/trading_strategies.md) by leveraging data and analytics. 
+[Value](../v/value.md)-Growth cycles are a recurrent theme in [financial markets](../f/financial_market.md), representing the oscillation between [value](../v/value.md) and [growth investing](../g/growth_investing.md) strategies. Understanding these cycles is critical for algorithmic traders who aim to optimize their [trading strategies](../t/trading_strategies.md) by leveraging data and analytics.
 
 ## Value Investing
 
@@ -56,10 +56,10 @@ Algorithmic traders can use quantitative techniques to identify and exploit thes
 ### Company's Trading Algorithms
 Several companies are at the forefront of developing advanced [trading algorithms](../t/trading_algorithms.md) to exploit [value](../v/value.md)-growth cycles. Here are a few notable examples:
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) engines and deployment tools that let traders design and execute strategies based on [value](../v/value.md)-growth cycles. [QuantConnect](https://www.quantconnect.com/)
-2. **Two Sigma**: Two Sigma Investments uses [data science](../d/data_science_in_trading.md) and technology to create investment strategies. They employ [machine learning](../m/machine_learning.md) and distributed computing to [gain](../g/gain.md) insights into [value](../v/value.md)-growth cycles. [Two Sigma](https://www.twosigma.com/)
-3. **Kensho Technologies**: Kensho designs next-generation analytics tools for [financial markets](../f/financial_market.md), leveraging [machine learning](../m/machine_learning.md) to identify trends and cycles in [value](../v/value.md) and [growth investing](../g/growth_investing.md). [Kensho Technologies](https://www.kensho.com/)
-4. **AlphaSense**: AlphaSense uses AI and NLP to provide insights into [market](../m/market.md) trends, aiding the identification of [value](../v/value.md)-growth cycles for informed trading decisions. [AlphaSense](https://www.alpha-sense.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) [backtesting](../b/backtesting.md) engines and deployment tools that let traders design and execute strategies based on [value](../v/value.md)-growth cycles. QuantConnect
+2. **Two Sigma**: Two Sigma Investments uses [data science](../d/data_science_in_trading.md) and technology to create investment strategies. They employ [machine learning](../m/machine_learning.md) and distributed computing to [gain](../g/gain.md) insights into [value](../v/value.md)-growth cycles. Two Sigma
+3. **Kensho Technologies**: Kensho designs next-generation analytics tools for [financial markets](../f/financial_market.md), leveraging [machine learning](../m/machine_learning.md) to identify trends and cycles in [value](../v/value.md) and [growth investing](../g/growth_investing.md). Kensho Technologies
+4. **AlphaSense**: AlphaSense uses AI and NLP to provide insights into [market](../m/market.md) trends, aiding the identification of [value](../v/value.md)-growth cycles for informed trading decisions. AlphaSense
 
 ## Conclusion
 

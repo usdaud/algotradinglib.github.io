@@ -63,4 +63,4 @@ While the 28/36 Rule is a useful guideline, it is not without its limitations:
 
 Despite its limitations, the 28/36 Rule remains a valuable [benchmark](../b/benchmark.md) for both lenders and borrowers. It provides a clear, straightforward framework for assessing the affordability of housing and [debt](../d/debt.md) levels, contributing to more responsible financial decision-making. As with any financial guideline, it should be used in conjunction with other tools and considerations to make the most informed and prudent financial decisions.
 
-For more information on [mortgage](../m/mortgage.md) guidelines and [financial planning](../f/financial_planning.md), you can visit Fannie Mae's official website: [Fannie Mae](https://www.fanniemae.com)
+For more information on [mortgage](../m/mortgage.md) guidelines and [financial planning](../f/financial_planning.md), you can

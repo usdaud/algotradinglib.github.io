@@ -1,6 +1,6 @@
 # Experience Ratings in Insurance
 
-Experience ratings, also known as experience modification ratings or simply experience mods, are fundamental components in the [insurance](../i/insurance.md) [industry](../i/industry.md), specifically in calculating premiums for policyholders. This method is extensively used in [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md), although it can also be applied to other types such as general [liability](../l/liability.md) or [health insurance](../h/health_insurance.md). 
+Experience ratings, also known as experience modification ratings or simply experience mods, are fundamental components in the [insurance](../i/insurance.md) [industry](../i/industry.md), specifically in calculating premiums for policyholders. This method is extensively used in [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md), although it can also be applied to other types such as general [liability](../l/liability.md) or [health insurance](../h/health_insurance.md).
 
 Experience ratings assess the loss experience (i.e., previous claims made) of a policyholder and compare it to the expected loss experience of similar policyholders within the same [industry](../i/industry.md). The objective of experience ratings is to provide a customized [premium](../p/premium.md) rate that is fair and reflective of the individual’s or organization's actual [risk](../r/risk.md) profile.
 
@@ -37,12 +37,12 @@ Expected losses are determined based on [industry](../i/industry.md) standards a
 1. **Data Collection**: Insurers collect data on the policyholder's claims history over a specified period, generally excluding the immediate past year to account for finalizing claims.
 2. **[Benchmark](../b/benchmark.md) Development**: Establish expected losses [benchmark](../b/benchmark.md) based on [industry](../i/industry.md) averages and specific classifications.
 3. **Comparison**: To compute the EMF, compare the actual losses to the expected losses using the formula.
-4. **[Premium](../p/premium.md) Adjustment**: Apply the EMF to the base rate to calculate the final [premium](../p/premium.md). 
+4. **[Premium](../p/premium.md) Adjustment**: Apply the EMF to the base rate to calculate the final [premium](../p/premium.md).
 
 ### Example Calculation
 
 Assume a company in the [manufacturing](../m/manufacturing.md) sector with the following data over three years:
-- Actual losses: $150,000 
+- Actual losses: $150,000
 - Expected losses: $100,000
 
 The experience modification [factor](../f/factor.md) (EMF) would be:
@@ -65,7 +65,7 @@ Experience ratings play a pivotal role in encouraging [risk management](../r/ris
 2. **[Risk](../r/risk.md) Incentive**: They incentivize organizations to implement [robust](../r/robust.md) safety and health programs to reduce claims and, in turn, lower their premiums.
 3. **[Transparency](../t/transparency.md)**: They provide [transparency](../t/transparency.md) into how [insurance](../i/insurance.md) premiums are calculated and what factors influence them.
 4. **Customization**: They [offer](../o/offer.md) a customized [insurance](../i/insurance.md) approach where companies are rated on their individual performance rather than on a broad average.
-  
+
 ## Challenges and Criticisms
 
 While experience ratings have significant benefits, they also come with challenges and criticisms:
@@ -79,11 +79,11 @@ While experience ratings have significant benefits, they also come with challeng
 
 Several companies and organizations specialize in providing experience [rating](../r/rating.md) services and related resources:
 
-- **National Council on Compensation [Insurance](../i/insurance.md) (NCCI)**: The NCCI is a U.S. organization that collects and analyzes data from insurers to provide experience ratings. They have detailed resources about the experience modification rate (EMR) and how it is calculated. Visit their website at [NCCI](https://www.ncci.com/).
+- **National Council on Compensation [Insurance](../i/insurance.md) (NCCI)**: The NCCI is a U.S. organization that collects and analyzes data from insurers to provide experience ratings. They have detailed resources about the experience modification rate (EMR) and how it is calculated.
 
-- **The Hartford**: An [insurance](../i/insurance.md) company that offers [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md) and provides tools to help businesses understand their experience ratings. Visit their website at [The Hartford](https://www.thehartford.com/).
+- **The Hartford**: An [insurance](../i/insurance.md) company that offers [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md) and provides tools to help businesses understand their experience ratings.
 
-- **Liberty Mutual**: Another prominent [insurance](../i/insurance.md) provider that incorporates experience ratings into their [insurance premium](../i/insurance_premium.md) calculations. Visit their website at [Liberty Mutual](https://www.libertymutual.com/).
+- **Liberty Mutual**: Another prominent [insurance](../i/insurance.md) provider that incorporates experience ratings into their [insurance premium](../i/insurance_premium.md) calculations.
 
 ## Conclusion
 

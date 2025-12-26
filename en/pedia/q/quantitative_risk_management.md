@@ -54,19 +54,19 @@ Regulatory bodies like the Federal Reserve, European Central [Bank](../b/bank.md
 ## Leading Companies in Quantitative Risk Management
 
 ### RiskMetrics Group
-RiskMetrics Group, part of MSCI Inc., provides [risk management](../r/risk_management.md) software and analytics for the measurement and management of [market](../m/market.md), [credit](../c/credit.md), and [operational risk](../o/operational_risk.md). Visit [MSCI RiskMetrics](https://www.msci.com/riskmanager) for more information.
+RiskMetrics Group, part of MSCI Inc., provides [risk management](../r/risk_management.md) software and analytics for the measurement and management of [market](../m/market.md), [credit](../c/credit.md), and [operational risk](../o/operational_risk.md). Visit MSCI RiskMetrics for more information.
 
 ### Moody’s Analytics
-Moody's Analytics offers [financial analysis](../f/financial_analysis.md) software and services for [risk management](../r/risk_management.md), performance analysis, and [credit](../c/credit.md) analysis. Their tools help calculate and manage [mortgage](../m/mortgage.md), [market](../m/market.md), and portfolio [risk](../r/risk.md). Visit [Moody's Analytics](https://www.moodysanalytics.com) for more.
+Moody's Analytics offers [financial analysis](../f/financial_analysis.md) software and services for [risk management](../r/risk_management.md), performance analysis, and [credit](../c/credit.md) analysis. Their tools help calculate and manage [mortgage](../m/mortgage.md), [market](../m/market.md), and portfolio [risk](../r/risk.md). Visit Moody's Analytics for more.
 
 ### Algorithmics
-Algorithmics, owned by IBM, provides [risk management](../r/risk_management.md) software for financial institutions, leveraging advanced analytics to improve [financial performance](../f/financial_performance.md) and regulatory compliance. Learn more at [Algorithmics by IBM](https://www.ibm.com/analytics/risk-management).
+Algorithmics, owned by IBM, provides [risk management](../r/risk_management.md) software for financial institutions, leveraging advanced analytics to improve [financial performance](../f/financial_performance.md) and regulatory compliance. Learn more at Algorithmics by IBM.
 
 ### SAS Institute
-SAS Institute offers software solutions for [business](../b/business.md) analytics and [risk management](../r/risk_management.md), integrating data and [predictive analytics](../p/predictive_analytics.md) to make better decisions. More details can be found at [SAS Risk Management](https://www.sas.com/en_us/software/risk-management.html).
+SAS Institute offers software solutions for [business](../b/business.md) analytics and [risk management](../r/risk_management.md), integrating data and [predictive analytics](../p/predictive_analytics.md) to make better decisions. More details can be found at SAS Risk Management.
 
 ### BlackRock’s Aladdin
-Aladdin by BlackRock is a comprehensive [risk management](../r/risk_management.md) system that integrates [investment management](../i/investment_management.md) and [risk](../r/risk.md) analytics. It supports portfolio managers, analysts, and [risk](../r/risk.md) officers in decision-making processes. Visit [Aladdin by BlackRock](https://www.blackrock.com/aladdin) for further details.
+Aladdin by BlackRock is a comprehensive [risk management](../r/risk_management.md) system that integrates [investment management](../i/investment_management.md) and [risk](../r/risk.md) analytics. It supports portfolio managers, analysts, and [risk](../r/risk.md) officers in decision-making processes. Visit Aladdin by BlackRock for further details.
 
 ## Conclusion
 

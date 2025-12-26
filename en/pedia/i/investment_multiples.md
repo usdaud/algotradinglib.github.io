@@ -15,8 +15,8 @@ $$
 A high P/E ratio may indicate that a stock is overpriced or that investors are expecting high [growth rates](../g/growth_rates_in_trading.md) in the future. Conversely, a low P/E ratio could signify an [undervalued](../u/undervalued.md) stock or a company experiencing difficulties.
 
 ### Example Companies:
-- **Apple Inc.** ([Apple](https://www.apple.com))
-- **Microsoft [Corporation](../c/corporation.md)** ([Microsoft](https://www.microsoft.com))
+- **Apple Inc.** (Apple)
+- **Microsoft [Corporation](../c/corporation.md)** (Microsoft)
 
 ### 2. Price-to-Book (P/B) Ratio
 
@@ -29,8 +29,8 @@ $$
 A P/B ratio under 1 may indicate an [undervalued](../u/undervalued.md) stock, while a ratio above 1 suggests overvaluation.
 
 ### Example Companies:
-- **Intel [Corporation](../c/corporation.md)** ([Intel](https://www.intel.com))
-- **IBM [Corporation](../c/corporation.md)** ([IBM](https://www.ibm.com))
+- **Intel [Corporation](../c/corporation.md)** (Intel)
+- **IBM [Corporation](../c/corporation.md)** (IBM)
 
 ### 3. Enterprise Value-to-EBITDA (EV/EBITDA)
 
@@ -43,8 +43,8 @@ $$
 A low EV/EBITDA might indicate undervaluation, whereas a high EV/EBITDA could imply a company is [overvalued](../o/overvalued.md).
 
 ### Example Companies:
-- **Netflix, Inc.** ([Netflix](https://www.netflix.com))
-- **Amazon.com, Inc.** ([Amazon](https://www.amazon.com))
+- **Netflix, Inc.** (Netflix)
+- **Amazon.com, Inc.** (Amazon)
 
 ### 4. Price-to-Sales (P/S) Ratio
 
@@ -57,8 +57,8 @@ $$
 A lower P/S ratio might indicate that the stock is [undervalued](../u/undervalued.md), while a higher P/S ratio can suggest overvaluation.
 
 ### Example Companies:
-- **Tesla, Inc.** ([Tesla](https://www.tesla.com))
-- **Facebook, Inc.** (now **Meta Platforms, Inc.**) ([Meta](https://www.meta.com))
+- **Tesla, Inc.** (Tesla)
+- **Facebook, Inc.** (now **Meta Platforms, Inc.**) (Meta)
 
 ### 5. Dividend Yield
 
@@ -71,8 +71,8 @@ $$
 Higher [dividend](../d/dividend.md) yields can be attractive to investors looking for regular [income](../i/income.md), while lower yields may indicate potential for growth [reinvestment](../r/reinvestment.md).
 
 ### Example Companies:
-- **AT&T Inc.** ([AT&T](https://www.att.com))
-- **Verizon Communications Inc.** ([Verizon](https://www.verizon.com))
+- **AT&T Inc.** (AT&T)
+- **Verizon Communications Inc.** (Verizon)
 
 ### 6. Price-to-Cash Flow (P/CF) Ratio
 
@@ -85,8 +85,8 @@ $$
 The P/CF ratio provides insights into a company's ability to generate cash, which is crucial for assessing [financial health](../f/financial_health.md).
 
 ### Example Companies:
-- **Chevron [Corporation](../c/corporation.md)** ([Chevron](https://www.chevron.com))
-- **Exxon Mobil [Corporation](../c/corporation.md)** ([Exxon](https://corporate.exxonmobil.com))
+- **Chevron [Corporation](../c/corporation.md)** (Chevron)
+- **Exxon Mobil [Corporation](../c/corporation.md)** (Exxon)
 
 ### 7. PEG Ratio
 
@@ -99,8 +99,8 @@ $$
 A PEG ratio less than 1 indicates the stock might be [undervalued](../u/undervalued.md) considering its growth prospects, while a ratio greater than 1 could suggest overvaluation.
 
 ### Example Companies:
-- **NVIDIA [Corporation](../c/corporation.md)** ([NVIDIA](https://www.nvidia.com))
-- **Advanced Micro Devices, Inc.** ([AMD](https://www.amd.com))
+- **NVIDIA [Corporation](../c/corporation.md)** (NVIDIA)
+- **Advanced Micro Devices, Inc.** (AMD)
 
 ## Importance and Application of Investment Multiples
 
@@ -129,18 +129,18 @@ By analyzing multiples like P/B and P/CF, investors can gauge the risks associat
 Investment multiples serve as indispensable tools in the arsenal of financial analysts and investors. They not only facilitate the comparison and [valuation](../v/valuation.md) of companies but also contribute significantly to [risk](../r/risk.md) assessment and investment decision-making processes. Understanding the nuances of each [multiple](../m/multiple.md) and applying them appropriately in different contexts can lead to more accurate and effective investment strategies.
 
 ### Further Reading and Resources
-- [Apple Inc.](https://www.apple.com/investor)
-- [Microsoft Corporation](https://www.microsoft.com/en-us/Investor)
-- [Intel Corporation](https://www.intc.com)
-- [Netflix, Inc.](https://ir.netflix.net/ir-overview/default.aspx)
-- [Amazon.com, Inc.](https://www.amazon.com/ir)
-- [Tesla, Inc.](https://ir.tesla.com)
-- [Meta Platforms, Inc.](https://investor.fb.com/home/default.aspx)
-- [AT&T Inc.](https://investors.att.com)
-- [Verizon Communications Inc.](https://www.verizon.com/about/investors)
-- [Chevron Corporation](https://www.chevron.com/investors)
-- [Exxon Mobil Corporation](https://corporate.exxonmobil.com/Investors)
-- [NVIDIA Corporation](https://investor.nvidia.com/home/default.aspx)
-- [Advanced Micro Devices, Inc. (AMD)](https://ir.amd.com)
+- Apple Inc.
+- Microsoft Corporation
+- Intel Corporation
+- Netflix, Inc.
+- Amazon.com, Inc.
+- Tesla, Inc.
+- Meta Platforms, Inc.
+- AT&T Inc.
+- Verizon Communications Inc.
+- Chevron Corporation
+- Exxon Mobil Corporation
+- NVIDIA Corporation
+- Advanced Micro Devices, Inc. (AMD)
 
 This exhaustive overview covers the fundamental types of investment multiples, their importance in [financial analysis](../f/financial_analysis.md), and their application across different [market](../m/market.md) scenarios.

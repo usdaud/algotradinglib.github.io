@@ -31,7 +31,7 @@ To calculate [Z-scores](../z/z-scores_in_trading.md) for financial data, follow 
 
 \[ \mu = \frac{\sum X}{N} \]
 
-   where \( \sum X \) is the sum of all data points, and \( N \) is the number of data points.
+ where \( \sum X \) is the sum of all data points, and \( N \) is the number of data points.
 
 3. **Calculate [Standard Deviation](../s/standard_deviation.md)**: Compute the [standard deviation](../s/standard_deviation.md) (\( \sigma \)) of the dataset, which measures the [dispersion](../d/dispersion.md) of the dataset relative to the mean. The formula for [standard deviation](../s/standard_deviation.md) is:
 
@@ -49,7 +49,7 @@ Assume we have the closing prices of a stock for 10 days as follows: [101, 102, 
 \[ \mu = \frac{101 + 102 + 103 + 100 + 98 + 105 + 107 + 95 + 96 + 99}{10} = 100.6 \]
 
 2. **Calculate [Standard Deviation](../s/standard_deviation.md)**:
-\[ 
+\[
 \begin{align*}
 \sigma &= \sqrt{\frac{(101-100.6)^2 + (102-100.6)^2 + (103-100.6)^2 + (100-100.6)^2 + (98-100.6)^2 + (105-100.6)^2 + (107-100.6)^2 + (95-100.6)^2 + (96-100.6)^2 + (99-100.6)^2}{10}} \\
 &= \sqrt{\frac{0.16 + 1.96 + 5.76 + 0.36 + 6.76 + 19.36 + 41.76 + 31.36 + 21.16 + 2.56}{10}} \\
@@ -59,7 +59,7 @@ Assume we have the closing prices of a stock for 10 days as follows: [101, 102, 
  \]
 
 3. **Compute [Z-Score](../z/z-score.md) for each data point**:
-\[ 
+\[
 \begin{align*}
 Z_1 &= \frac{101 - 100.6}{3.623} = 0.11 \\
 Z_2 &= \frac{102 - 100.6}{3.623} = 0.38 \\
@@ -93,29 +93,28 @@ In statistical [arbitrage](../a/arbitrage.md), [pairs trading](../p/pairs_tradin
 Several trading platforms and [software tools](../s/software_tools_for_trading.md) provide functionalities to calculate [Z-scores](../z/z-scores_in_trading.md) seamlessly. Noteworthy examples include:
 
 - **Python (Pandas and NumPy libraries)**: Popular among data analysts and algo traders due to flexibility and powerful data manipulation capabilities. For instance:
-  ```python
-  [import](../i/import.md) pandas as pd
-  [import](../i/import.md) numpy as np
+ ```python
+ [import](../i/import.md) pandas as pd
+ [import](../i/import.md) numpy as np
 
-  # Assume df is a DataFrame with a 'price' column
-  df['z_score'] = (df['price'] - df['price'].mean()) / df['price'].std()
-  ```
+ # Assume df is a DataFrame with a 'price' column
+ df['z_score'] = (df['price'] - df['price'].mean()) / df['price'].std()
+ ```
 - **R (quantmod package)**: Widely used in [quantitative finance](../q/quantitative_finance.md) for [time series analysis](../t/time_series_analysis.md) and trading:
-  ```R
-  library(quantmod)
-  prices <- c(101, 102, 103, 100, 98, 105, 107, 95, 96, 99)
-  z_scores <- scale(prices)
-  ```
+ ```R
+ library(quantmod)
+ prices <- c(101, 102, 103, 100, 98, 105, 107, 95, 96, 99)
+ z_scores <- scale(prices)
+ ```
 - **Excel**: Basic [Z-score](../z/z-score.md) calculations can be performed using simple formulas:
-  ```excel
-  = (A1 - MEAN(A1:A10)) / STDEV(A1:A10)
-  ```
+ ```excel
+ = (A1 - MEAN(A1:A10)) / STDEV(A1:A10)
+ ```
 
 ### Case Study: Use of Z-Scores by Algorithmic Trading Firms
 
 **Hudson River Trading (HRT)**:
-Hudson River Trading (HRT) [https://www.hudsonrivertrading.com/] relies heavily on [quantitative research](../q/quantitative_research.md) and advanced algorithms. [Z-scores](../z/z-scores_in_trading.md) are part of their statistical models to identify and execute profitable trades. 
-
+Hudson River Trading (HRT) [ relies heavily on [quantitative research](../q/quantitative_research.md) and advanced algorithms. [Z-scores](../z/z-scores_in_trading.md) are part of their statistical models to identify and execute profitable trades.
 ### Conclusion
 
 [Z-scores](../z/z-scores_in_trading.md) are a potent statistical tool in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) insights into [market](../m/market.md) conditions and enabling traders to design [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Whether for mean-reversion, statistical [arbitrage](../a/arbitrage.md), or other [quantitative strategies](../q/quantitative_strategies_in_trading.md), understanding and calculating [Z-scores](../z/z-scores_in_trading.md) is indispensable for modern traders seeking to harness the power of data-driven decision-making.

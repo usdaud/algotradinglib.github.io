@@ -82,11 +82,11 @@ This software leverages statistical algorithms and [machine learning](../m/machi
 
 ### 3. SimCorp
 
-SimCorp provides integrated [investment management](../i/investment_management.md) solutions with [robust](../r/robust.md) [risk management](../r/risk_management.md) functionalities. More details can be found on their [official website](https://www.simcorp.com/en/software/enterprise-data-management/risk-management-compliance).
+SimCorp provides integrated [investment management](../i/investment_management.md) solutions with [robust](../r/robust.md) [risk management](../r/risk_management.md) functionalities. More
 
 ### 4. IBM Risk Analytics
 
-IBM’s suite of [risk](../r/risk.md) analytics solutions offers tools for [risk](../r/risk.md) modeling, [liquidity risk](../l/liquidity_risk.md) management, and compliance. Information about their offerings is available on their [official IBM Risk Analytics page](https://www.ibm.com/analytics/risk-management).
+IBM’s suite of [risk](../r/risk.md) analytics solutions offers tools for [risk](../r/risk.md) modeling, [liquidity risk](../l/liquidity_risk.md) management, and compliance. Information about their offerings is available on their official IBM Risk Analytics page.
 
 ## Regulatory Frameworks
 

@@ -61,7 +61,7 @@ Institutional investors, who often [hold](../h/hold.md) significant stakes in co
 
 ## Ethical Considerations
 
-While legal loopholes and regulatory frameworks can address the mechanics of greenmail, the ethical implications are a different matter. 
+While legal loopholes and regulatory frameworks can address the mechanics of greenmail, the ethical implications are a different matter.
 
 ### Corporate Governance and Fiduciary Duty
 
@@ -77,7 +77,7 @@ Greenmail can create a [moral hazard](../m/moral_hazard.md), where corporate rai
 
 Companies can adopt proactive measures to mitigate the [risk](../r/risk.md) of hostile takeovers and greenmail. Strengthening [internal controls](../i/internal_controls.md) and implementing [robust](../r/robust.md) [corporate governance](../c/corporate_governance.md) practices can play a crucial role in safeguarding against such threats. Regularly reviewing anti-[takeover](../t/takeover.md) provisions and maintaining healthy lines of communication with shareholders are essential steps in this process.
 
-### Strategic Investor Relations
+### Strategic company filings
 
 Building positive relationships with institutional investors and other key stakeholders can help create a strong network of support that deters hostile actors. [Transparency](../t/transparency.md) and proactive communication regarding company strategies, performance, and risks can foster [trust](../t/trust.md) and reduce the likelihood of greenmail.
 
@@ -89,15 +89,15 @@ Implementing [shareholder](../s/shareholder.md) rights plans, commonly known as 
 
 ### J.P. Morgan
 
-J.P. Morgan provides financial advisory services that include helping companies to develop and implement anti-[takeover](../t/takeover.md) strategies. For more about J.P. Morgan's services related to Mergers & Acquisitions, you can visit their official website: [J.P. Morgan](https://www.jpmorgan.com).
+J.P. Morgan provides financial advisory services that include helping companies to develop and implement anti-[takeover](../t/takeover.md) strategies. For more about J.P. Morgan's services related to Mergers & Acquisitions,P. Morgan.
 
 ### Goldman Sachs
 
-Goldman Sachs has a dedicated team that focuses on advising companies about managing and preventing hostile takeovers, including greenmail scenarios. Their approach includes deploying defenses such as poison pills and staggered board structures. For further information, visit: [Goldman Sachs](https://www.goldmansachs.com).
+Goldman Sachs has a dedicated team that focuses on advising companies about managing and preventing hostile takeovers, including greenmail scenarios. Their approach includes deploying defenses such as poison pills and staggered board structures. For further information, visit: Goldman Sachs.
 
 ### Wachtell, Lipton, Rosen & Katz
 
-A prominent law [firm](../f/firm.md) specializing in corporate law, Wachtell, Lipton, Rosen & Katz is known for pioneering the "[poison pill](../p/poison_pill.md)" defense mechanism against hostile takeovers. Companies often seek their expertise in crafting [robust](../r/robust.md) anti-[takeover](../t/takeover.md) strategies. More details about their services can be found here: [Wachtell, Lipton, Rosen & Katz](https://www.wlrk.com).
+A prominent law [firm](../f/firm.md) specializing in corporate law, Wachtell, Lipton, Rosen & Katz is known for pioneering the "[poison pill](../p/poison_pill.md)" defense mechanism against hostile takeovers. Companies often seek their expertise in crafting [robust](../r/robust.md) anti-[takeover](../t/takeover.md) strategies. More details about their services can be found here: Wachtell, Lipton, Rosen & Katz.
 
 ## Conclusion
 

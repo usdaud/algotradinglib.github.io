@@ -6,31 +6,31 @@
 
 ### 1. **Marketplace Dynamics**
 
-B2B marketplaces function similarly to consumer marketplaces but are specialized for [business](../b/business.md) needs. Companies such as Alibaba ([Alibaba B2B](https://www.alibaba.com/)) host platforms where businesses can connect to [trade](../t/trade.md) goods and services globally. These platforms allow for streamlined [procurement](../p/procurement.md) processes and extensive [networking](../n/networking.md) opportunities.
+B2B marketplaces function similarly to consumer marketplaces but are specialized for [business](../b/business.md) needs. Companies such as Alibaba (Alibaba B2B) host platforms where businesses can connect to [trade](../t/trade.md) goods and services globally. These platforms allow for streamlined [procurement](../p/procurement.md) processes and extensive [networking](../n/networking.md) opportunities.
 
 ### 2. **Supply Chain Management**
 
-Effective [supply chain](../s/supply_chain.md) management is crucial for B2B transactions. It involves coordination between various stakeholders, including suppliers, manufacturers, and distributors, to ensure timely and cost-effective delivery of goods and services. Technologies like ERP (Enterprise Resource Planning) systems and SCM ([Supply Chain](../s/supply_chain.md) Management) software are pivotal in managing these processes. Companies like SAP ([SAP SCM](https://www.sap.com/products/supply-chain-management.html)) provide comprehensive solutions for [supply chain](../s/supply_chain.md) [optimization](../o/optimization.md).
+Effective [supply chain](../s/supply_chain.md) management is crucial for B2B transactions. It involves coordination between various stakeholders, including suppliers, manufacturers, and distributors, to ensure timely and cost-effective delivery of goods and services. Technologies like ERP (Enterprise Resource Planning) systems and SCM ([Supply Chain](../s/supply_chain.md) Management) software are pivotal in managing these processes. Companies like SAP (SAP SCM) provide comprehensive solutions for [supply chain](../s/supply_chain.md) [optimization](../o/optimization.md).
 
 ### 3. **Customer Relationship Management (CRM)**
 
-In B2B transactions, maintaining [robust](../r/robust.md) relationships with clients is vital. CRM systems help businesses manage their relationships with customers through detailed databases and analytics. Providers like Salesforce ([Salesforce B2B](https://www.salesforce.com/solutions/industries/b2b-commerce/overview/)) [offer](../o/offer.md) CRM solutions tailored to B2B needs, facilitating improved [customer service](../c/customer_service.md) and retention.
+In B2B transactions, maintaining [robust](../r/robust.md) relationships with clients is vital. CRM systems help businesses manage their relationships with customers through detailed databases and analytics. Providers like Salesforce (Salesforce B2B) [offer](../o/offer.md) CRM solutions tailored to B2B needs, facilitating improved [customer service](../c/customer_service.md) and retention.
 
 ### 4. **Contractual Agreements**
 
-Contracts in B2B transactions often involve complex terms, encompassing quantities, pricing, delivery schedules, and compliance with [industry](../i/industry.md) standards. Legal frameworks and contract management software ensure that these agreements are enforced and accessible. Companies such as Coupa ([Coupa Contract Management](https://www.coupa.com/solutions/contract-management)) specialize in providing tools for efficient contract lifecycle management.
+Contracts in B2B transactions often involve complex terms, encompassing quantities, pricing, delivery schedules, and compliance with [industry](../i/industry.md) standards. Legal frameworks and contract management software ensure that these agreements are enforced and accessible. Companies such as Coupa (Coupa Contract Management) specialize in providing tools for efficient contract lifecycle management.
 
 ### 5. **Pricing Strategies**
 
-Pricing in B2B is more complex than in B2C, often involving bulk discounts, [trade credit](../t/trade_credit.md), and [negotiation](../n/negotiation.md) terms. Pricing strategies need to account for the long-term relationships and high volumes involved. Dynamic pricing tools and analytical frameworks from companies like PROS ([PROS Pricing](https://pros.com/pricing-software/)) assist businesses in optimizing their pricing models.
+Pricing in B2B is more complex than in B2C, often involving bulk discounts, [trade credit](../t/trade_credit.md), and [negotiation](../n/negotiation.md) terms. Pricing strategies need to account for the long-term relationships and high volumes involved. Dynamic pricing tools and analytical frameworks from companies like PROS (PROS Pricing) assist businesses in optimizing their pricing models.
 
 ### 6. **B2B Marketing**
 
-[Marketing](../m/marketing.md) in the B2B context involves targeting specific businesses rather than the general public. Strategies include content [marketing](../m/marketing.md), email campaigns, and [industry](../i/industry.md)-specific advertising. Platforms such as LinkedIn ([LinkedIn Marketing Solutions](https://business.linkedin.com/marketing-solutions)) [offer](../o/offer.md) targeted advertising tools to reach [business](../b/business.md) decision-makers effectively.
+[Marketing](../m/marketing.md) in the B2B context involves targeting specific businesses rather than the general public. Strategies include content [marketing](../m/marketing.md), email campaigns, and [industry](../i/industry.md)-specific advertising. Platforms such as LinkedIn (LinkedIn Marketing Solutions) [offer](../o/offer.md) targeted advertising tools to reach [business](../b/business.md) decision-makers effectively.
 
 ### 7. **E-commerce Solutions**
 
-B2B e-[commerce](../c/commerce.md) solutions facilitate online transactions between businesses. They [offer](../o/offer.md) features such as bulk ordering, custom pricing, and integration with existing [business](../b/business.md) systems. Magento ([Magento B2B](https://magento.com/solutions/b2b)) is an example of a platform [offering](../o/offering.md) comprehensive e-[commerce](../c/commerce.md) capabilities tailored to B2B needs.
+B2B e-[commerce](../c/commerce.md) solutions facilitate online transactions between businesses. They [offer](../o/offer.md) features such as bulk ordering, custom pricing, and integration with existing [business](../b/business.md) systems. Magento (Magento B2B) is an example of a platform [offering](../o/offering.md) comprehensive e-[commerce](../c/commerce.md) capabilities tailored to B2B needs.
 
 ## Advantages of B2B
 
@@ -94,15 +94,15 @@ The Internet of Things (IoT) is playing an increasing role in [supply chain](../
 
 ### 1. **IBM and Maersk**
 
-IBM and Maersk have collaborated on a [blockchain](../b/blockchain_in_trading.md)-based platform, TradeLens, to streamline global [trade](../t/trade.md). This platform enhances [efficiency](../e/efficiency.md) by providing end-to-end [visibility](../v/visibility.md) and reducing documentation processes: [TradeLens](https://www.tradelens.com/).
+IBM and Maersk have collaborated on a [blockchain](../b/blockchain_in_trading.md)-based platform, TradeLens, to streamline global [trade](../t/trade.md). This platform enhances [efficiency](../e/efficiency.md) by providing end-to-end [visibility](../v/visibility.md) and reducing documentation processes: TradeLens.
 
 ### 2. **Microsoft Azure for B2B**
 
-Microsoft Azure offers various cloud-based solutions for B2B, including AI-driven analytics and IoT integration, providing businesses with tools to optimize their operations and drive innovation: [Microsoft Azure B2B](https://azure.microsoft.com/en-us/solutions/b2b/).
+Microsoft Azure offers various cloud-based solutions for B2B, including AI-driven analytics and IoT integration, providing businesses with tools to optimize their operations and drive innovation: Microsoft Azure B2B.
 
 ### 3. **DHL Supply Chain Management**
 
-DHL uses advanced SCM systems and IoT technology to enhance its [logistics](../l/logistics.md) and [supply chain](../s/supply_chain.md) operations. These technologies provide real-time tracking and analytics, enabling more efficient and reliable service: [DHL Supply Chain](https://www.dhl.com/global-en/home/our-divisions/supply-chain.html).
+DHL uses advanced SCM systems and IoT technology to enhance its [logistics](../l/logistics.md) and [supply chain](../s/supply_chain.md) operations. These technologies provide real-time tracking and analytics, enabling more efficient and reliable service: DHL Supply Chain.
 
 ## Conclusion
 

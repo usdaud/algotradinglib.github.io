@@ -5,7 +5,7 @@ A growth [fund](../f/fund.md) is a diversified portfolio of [stocks](../s/stock.
 ## Characteristics
 
 ### High Growth Potential
-Growth funds typically invest in companies expected to grow at an above-average rate compared to other companies in the [market](../m/market.md). These companies often operate in rapidly expanding industries or sectors, such as technology, biotechnology, and consumer services. The primary focus is on [capital](../c/capital.md) appreciation rather than immediate returns from dividends. 
+Growth funds typically invest in companies expected to grow at an above-average rate compared to other companies in the [market](../m/market.md). These companies often operate in rapidly expanding industries or sectors, such as technology, biotechnology, and consumer services. The primary focus is on [capital](../c/capital.md) appreciation rather than immediate returns from dividends.
 
 ### Sector Concentration
 Many growth funds have a heavy concentration in particular sectors that are believed to have strong growth potential. For example, technology and healthcare are common sectors where growth funds invest, given the rapid innovation and high [growth rates](../g/growth_rates_in_trading.md) in these areas.
@@ -43,22 +43,19 @@ Thematic growth funds focus on companies that are poised to benefit from long-te
 ### Fidelity Contrafund (FCNTX)
 Managed by Fidelity and well-regarded for its performance, this growth [fund](../f/fund.md) focuses on [large-cap stocks](../l/large_cap_stocks.md) with strong growth potential. The [fund](../f/fund.md) is known for its diversified [holdings](../h/holdings.md) across various sectors.
 
-[Visit Fidelity Contrafund](https://fundresearch.fidelity.com/mutual-funds/summary/316071109)
 
 ### Vanguard Growth Index Fund (VIGAX)
 This [fund](../f/fund.md) aims to closely track the performance of the CRSP US Large Cap Growth [Index](../i/index_instrument.md). Vanguard Growth [Index Fund](../i/index_fund.md) invests in [stocks](../s/stock.md) of large U.S. companies characterized by their growth potential.
 
-[Visit Vanguard Growth Index Fund](https://investor.vanguard.com/mutual-funds/profile/VIGAX)
 
 ### T. Rowe Price Blue Chip Growth Fund (TRBCX)
 T. Rowe Price [Blue Chip](../b/blue_chip.md) Growth [Fund](../f/fund.md) invests mainly in large and medium-sized companies that have the potential for above-average growth.
 
-[Visit T. Rowe Price Blue Chip Growth Fund](https://www.troweprice.com/personal-investing/tools/fund-research/TRBCX)
+Visit T. Rowe Price Blue Chip Growth Fund
 
 ### American Funds Growth Fund of America (AGTHX)
 This [fund](../f/fund.md) seeks to provide growth of [capital](../c/capital.md) through investments in common [stocks](../s/stock.md). It is diversified across various industries, emphasizing sectors and companies that have shown strong [growth trends](../g/growth_trends_in_trading.md).
 
-[Visit American Funds Growth Fund of America](https://www.capitalgroup.com/individual/investments/agthx)
 
 ## Advantages of Growth Funds
 

@@ -58,10 +58,10 @@ Despite its potential, X-[Trend Analysis](../t/trend_analysis.md) faces several 
 
 # Key Players in the Industry
 Several companies specialize in providing X-[Trend Analysis](../t/trend_analysis.md) tools and platforms. Some notable ones include:
-- **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) and AI for [stock market](../s/stock_market.md) predictions. [Numerai](https://numer.ai/)
-- **Quantiacs**: A platform for creating, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies. [Quantiacs](https://quantiacs.com/)
-- **[Alpaca](../a/alpaca.md)**: An API for [algorithmic trading](../a/algorithmic_trading.md) that allows developers to automate their [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and tools for [backtesting](../b/backtesting.md) and live trading. [QuantConnect](https://www.quantconnect.com/)
+- **Numerai**: A [hedge fund](../h/hedge_fund.md) that uses [machine learning](../m/machine_learning.md) and AI for [stock market](../s/stock_market.md) predictions. Numerai
+- **Quantiacs**: A platform for creating, testing, and deploying [quantitative trading](../q/quantitative_trading.md) strategies. Quantiacs
+- **[Alpaca](../a/alpaca.md)**: An API for [algorithmic trading](../a/algorithmic_trading.md) that allows developers to automate their [trading strategies](../t/trading_strategies.md). Alpaca
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and tools for [backtesting](../b/backtesting.md) and live trading. QuantConnect
 
 # Future Trends
 The future of X-[Trend Analysis](../t/trend_analysis.md) looks promising, with several trends shaping its evolution:

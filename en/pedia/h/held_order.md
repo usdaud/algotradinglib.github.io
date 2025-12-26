@@ -55,7 +55,7 @@ Financial regulatory bodies often have guidelines and rules governing the [execu
 ## Algo Trading Context
 
 ### Algorithmic Execution Strategies
-In the realm of [algorithmic trading](../a/accountability.md), held orders can be integrated into certain [execution algorithms](../e/execution_algorithms.md) that prioritize immediate [execution](../e/execution.md) over other factors. These algorithms [will](../w/will.md) typically route the held orders to the most [liquid](../l/liquid.md) venues to ensure swift [execution](../e/execution.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), held orders can be integrated into certain [execution algorithms](../e/execution_algorithms.md) that prioritize immediate [execution](../e/execution.md) over other factors. These algorithms [will](../w/will.md) typically route the held orders to the most [liquid](../l/liquid.md) venues to ensure swift [execution](../e/execution.md).
 
 ### Impact on Market Microstructure
 In [market microstructure](../m/market_microstructure.md), the use of held orders by various [market](../m/market.md) participants can affect the dynamics of [order](../o/order.md) flow and price formation. High-frequency traders and [market](../m/market.md) makers must account for the presence of these orders and potentially adjust their strategies to accommodate the higher degree of immediacy attached to held orders.

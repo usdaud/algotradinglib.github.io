@@ -102,8 +102,8 @@ Cognitive biases are inherent in human psychology, and their influence can be pa
 
 Sources:
 
-- [Khan Academy](https://www.khanacademy.org)
-- [Investopedia](https://www.investopedia.com)
-- [Machine Algorithmic Trading Company](https://www.machinelearningtradingmodels.com)
+- Khan Academy
+- Investopedia
+- Machine Algorithmic Trading Company
 
-These resources [offer](../o/offer.md) additional insights into cognitive biases and methods for mitigating them in the context of trading.
+These resources [offer](../o/offer.md) additional insights into cognitive biases and methods for mitigating them in the context of trading.

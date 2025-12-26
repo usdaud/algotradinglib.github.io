@@ -16,31 +16,31 @@ There are five primary forms in the W-8 series, each serving a specific purpose:
 
 **Form W-8BEN** is used by individuals to certify their foreign status and claim benefits under an applicable [tax treaty](../t/tax_treaty.md). It requires the individual to provide personal information such as name, country of citizenship, and [taxpayer](../t/taxpayer.md) identification number (TIN). Additionally, the form allows the individual to claim reduced [withholding](../w/withholding.md) rates on certain types of [income](../i/income.md) such as dividends or [interest](../i/interest.md) based on tax treaties between the United States and the individual's country of residence.
 
-For more information, refer to the **[IRS website](https://www.irs.gov/forms-pubs/about-form-w-8ben)**.
+
 
 ### Form W-8BEN-E
 
 **Form W-8BEN-E** is designed for entities, such as corporations or partnerships, to certify their foreign status and claim benefits under an applicable [tax treaty](../t/tax_treaty.md). This form requires the entity to provide information such as the entity's name, address, and classification (e.g., [corporation](../c/corporation.md), partnership, etc.). Additionally, entities must certify their FATCA status, which involves identifying whether they are a Foreign Financial Institution (FFI), Non-Financial Foreign Entity (NFFE), or another type of foreign entity.
 
-For more information, refer to the **[IRS website](https://www.irs.gov/forms-pubs/about-form-w-8ben-e)**.
+
 
 ### Form W-8ECI
 
 **Form W-8ECI** is used by foreign entities and individuals to certify that the [income](../i/income.md) they receive is effectively connected with the conduct of a [trade](../t/trade.md) or [business](../b/business.md) within the United States. This designation allows the [income](../i/income.md) to be exempt from [withholding tax](../w/withholding_tax.md) and instead subject to regular U.S. [income tax](../i/income_tax.md) reporting. The form requires the foreign entity or individual to provide identification details and describe the nature of the [trade](../t/trade.md) or [business activities](../b/business_activities.md) conducted in the U.S.
 
-For more information, refer to the **[IRS website](https://www.irs.gov/forms-pubs/about-form-w-8eci)**.
+
 
 ### Form W-8EXP
 
 **Form W-8EXP** is utilized by foreign governments, international organizations, foreign central banks of [issue](../i/issue.md), foreign tax-exempt organizations, and foreign private foundations to claim [exemption](../e/exemption.md) from U.S. [withholding tax](../w/withholding_tax.md) on [income](../i/income.md) received. This form requires the entity to provide information such as its type, country of residence, and the [basis](../b/basis.md) for claiming [exemption](../e/exemption.md).
 
-For more information, refer to the **[IRS website](https://www.irs.gov/forms-pubs/about-form-w-8exp)**.
+
 
 ### Form W-8IMY
 
 **Form W-8IMY** is used by foreign intermediaries, foreign flow-through entities, and certain U.S. branches to certify their intermediary status and provide documentation for the beneficial owners behind the [flow-through entity](../f/flow-through_entity.md) or intermediary. This form also helps in documenting that the appropriate rate of [withholding tax](../w/withholding_tax.md) is applied to payments passing through the intermediary.
 
-For more information, refer to the **[IRS website](https://www.irs.gov/forms-pubs/about-form-w-8imy)**.
+
 
 ## Importance in International Finance
 
@@ -65,31 +65,31 @@ For both individuals and entities engaged in international [trade](../t/trade.md
 ### Key Sections of W-8BEN (Individual)
 
 1. **Part I – Identification of [Beneficial Owner](../b/beneficial_owner.md):**
-    - Name
-    - Country of citizenship
-    - Permanent residence address
+ - Name
+ - Country of citizenship
+ - Permanent residence address
 2. **Part II – Claim of [Tax Treaty](../t/tax_treaty.md) Benefits:**
-    - Providing information about the treaty country
-    - Specifying the type and rate of [income](../i/income.md)
+ - Providing information about the treaty country
+ - Specifying the type and rate of [income](../i/income.md)
 3. **Part III – Certification:**
-    - Signing and dating the form
+ - Signing and dating the form
 
 ### Key Sections of W-8BEN-E (Entity)
 
 1. **Part I – Identification of [Beneficial Owner](../b/beneficial_owner.md):**
-    - Name of entity
-    - Country of [incorporation](../i/incorporation.md) or organization
-    - Address
-    - Entity type ([corporation](../c/corporation.md), partnership, etc.)
+ - Name of entity
+ - Country of [incorporation](../i/incorporation.md) or organization
+ - Address
+ - Entity type ([corporation](../c/corporation.md), partnership, etc.)
 2. **Part II – Disregarded Entity or Branch Receiving [Payment](../p/payment.md):**
-    - Information on disregarded entities or branches
+ - Information on disregarded entities or branches
 3. **Part III – Claim of [Tax Treaty](../t/tax_treaty.md) Benefits:**
-    - Country of residence for tax purposes
-    - Specific treaty benefits claimed
+ - Country of residence for tax purposes
+ - Specific treaty benefits claimed
 4. **Part IV – FATCA Status:**
-    - FATCA status such as FFI, NFFE, etc.
+ - FATCA status such as FFI, NFFE, etc.
 5. **Part XXVIII – Certification:**
-    - Signing and dating the form
+ - Signing and dating the form
 
 ### Submission Guidelines
 

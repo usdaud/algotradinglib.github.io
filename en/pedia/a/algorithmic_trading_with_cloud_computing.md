@@ -16,24 +16,24 @@
 [Algorithmic trading](../a/algorithmic_trading.md) encompasses a variety of strategies, including:
 
 1. **[Trend Following](../t/trend_following.md)**:
-   - Identifies [market](../m/market.md) trends using [technical indicators](../t/technical_indicators.md) such as moving averages.
-   - Executes trades based on the direction of the [trend](../t/trend.md).
+ - Identifies [market](../m/market.md) trends using [technical indicators](../t/technical_indicators.md) such as moving averages.
+ - Executes trades based on the direction of the [trend](../t/trend.md).
 
 2. **[Arbitrage](../a/arbitrage.md)**:
-   - Exploits price differences of the same [asset](../a/asset.md) in different markets.
-   - Conducts rapid buy and sell operations to [lock in profits](../l/lock_in_profits.md).
+ - Exploits price differences of the same [asset](../a/asset.md) in different markets.
+ - Conducts rapid buy and sell operations to [lock in profits](../l/lock_in_profits.md).
 
 3. **[Market](../m/market.md) Making**:
-   - Provides [liquidity](../l/liquidity.md) by placing buy and sell orders for a particular [asset](../a/asset.md).
-   - Earns a [margin](../m/margin.md) between the buy and sell prices.
+ - Provides [liquidity](../l/liquidity.md) by placing buy and sell orders for a particular [asset](../a/asset.md).
+ - Earns a [margin](../m/margin.md) between the buy and sell prices.
 
 4. **Statistical [Arbitrage](../a/arbitrage.md)**:
-   - Utilizes [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit short-term mispricings.
-   - Often involves [pairs trading](../p/pairs_trading.md) or [mean reversion](../m/mean_reversion.md) strategies.
+ - Utilizes [mathematical models](../m/mathematical_models_in_trading.md) to identify and exploit short-term mispricings.
+ - Often involves [pairs trading](../p/pairs_trading.md) or [mean reversion](../m/mean_reversion.md) strategies.
 
 5. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
-   - Analyzes news, tweets, and other textual data to gauge [market sentiment](../m/market_sentiment.md).
-   - Executes trades based on sentiment scores.
+ - Analyzes news, tweets, and other textual data to gauge [market sentiment](../m/market_sentiment.md).
+ - Executes trades based on sentiment scores.
 
 ## Cloud Computing in Algorithmic Trading
 
@@ -65,74 +65,74 @@ Cloud providers [offer](../o/offer.md) [robust](../r/robust.md) architectures wi
 
 Selecting a suitable cloud provider depends on various factors such as cost, features, performance, and specific needs of the [trading strategy](../t/trading_strategy.md). Some well-known cloud providers suitable for [algorithmic trading](../a/algorithmic_trading.md) include:
 
-1. **Amazon Web Services (AWS)**: 
-   - Offers a wide array of services such as EC2 for computing, S3 for storage, and advanced AI/ML services.
-   - Provides specialized services like AWS Outposts for low-latency trading.
-   - Visit [AWS](https://aws.amazon.com/financial-services/trading-hpc/).
+1. **Amazon Web Services (AWS)**:
+ - Offers a wide array of services such as EC2 for computing, S3 for storage, and advanced AI/ML services.
+ - Provides specialized services like AWS Outposts for low-latency trading.
+ - Visit AWS.
 
 2. **Microsoft Azure**:
-   - Features services like Azure VM, Azure Blob Storage, and integrated AI/ML capabilities.
-   - Includes Azure Financial Services offerings tailored for trading.
-   - Visit [Microsoft Azure](https://azure.microsoft.com/en-us/industries/financial-services/).
+ - Features services like Azure VM, Azure Blob Storage, and integrated AI/ML capabilities.
+ - Includes Azure Financial Services offerings tailored for trading.
+ - Visit Microsoft Azure.
 
 3. **Google Cloud Platform (GCP)**:
-   - Offers computing, storage, and advanced [data analytics](../d/data_analytics.md) services such as BigQuery.
-   - Provides tools for [machine learning](../m/machine_learning.md) and AI integration.
-   - Visit [GCP](https://cloud.google.com/solutions/financial-services).
+ - Offers computing, storage, and advanced [data analytics](../d/data_analytics.md) services such as BigQuery.
+ - Provides tools for [machine learning](../m/machine_learning.md) and AI integration.
+ - Visit GCP.
 
 ### Infrastructure Setup
 
 1. **Compute Resources**:
-   - Utilize cloud VMs (virtual machines) for running [trading algorithms](../t/trading_algorithms.md). For instance, AWS EC2 or Azure VMs.
-   - [Leverage](../l/leverage.md) auto-scaling groups to adjust the number of instances based on [demand](../d/demand.md).
+ - Utilize cloud VMs (virtual machines) for running [trading algorithms](../t/trading_algorithms.md). For instance, AWS EC2 or Azure VMs.
+ - [Leverage](../l/leverage.md) auto-scaling groups to adjust the number of instances based on [demand](../d/demand.md).
 
 2. **Data Storage**:
-   - Use cloud storage solutions like AWS S3, Azure Blob Storage, or GCP Cloud Storage for historical data.
-   - Implement database services such as AWS RDS or GCP BigQuery for real-time data querying and analysis.
+ - Use cloud storage solutions like AWS S3, Azure Blob Storage, or GCP Cloud Storage for historical data.
+ - Implement database services such as AWS RDS or GCP BigQuery for real-time data querying and analysis.
 
 3. **[Networking](../n/networking.md)**:
-   - Set up Virtual Private Clouds (VPCs) for secure and isolated [networking](../n/networking.md) environments.
-   - Use managed [networking](../n/networking.md) services to [handle](../h/handle.md) connectivity and latency requirements.
+ - Set up Virtual Private Clouds (VPCs) for secure and isolated [networking](../n/networking.md) environments.
+ - Use managed [networking](../n/networking.md) services to [handle](../h/handle.md) connectivity and latency requirements.
 
 4. **Data Ingestion**:
-   - Incorporate data pipelines to gather and process [market](../m/market.md) data from various sources (e.g., APIs, data feeds).
-   - Use streaming services like AWS Kinesis or Azure Event Hubs for real-time data processing.
+ - Incorporate data pipelines to gather and process [market](../m/market.md) data from various sources (e.g., APIs, data feeds).
+ - Use streaming services like AWS Kinesis or Azure Event Hubs for real-time data processing.
 
 ### Development and Deployment
 
 1. **Algorithm Development**:
-   - Develop [trading algorithms](../t/trading_algorithms.md) using programming languages such as Python, Java, or C++.
-   - Utilize cloud-based development environments like AWS Cloud9 or Azure DevOps for collaborative development.
+ - Develop [trading algorithms](../t/trading_algorithms.md) using programming languages such as Python, Java, or C++.
+ - Utilize cloud-based development environments like AWS Cloud9 or Azure DevOps for collaborative development.
 
 2. **CI/CD Pipelines**:
-   - Implement Continuous Integration and Continuous Deployment (CI/CD) pipelines to streamline algorithm updates and deployments.
-   - Use tools like Jenkins, GitLab CI, or Azure DevOps Pipelines.
+ - Implement Continuous Integration and Continuous Deployment (CI/CD) pipelines to streamline algorithm updates and deployments.
+ - Use tools like Jenkins, GitLab CI, or Azure DevOps Pipelines.
 
 3. **Monitoring and Logging**:
-   - Set up monitoring and logging for algorithm performance using services like AWS CloudWatch, Azure Monitor, or GCP Stackdriver.
-   - Implement real-time alerting for anomalies or performance issues.
+ - Set up monitoring and logging for algorithm performance using services like AWS CloudWatch, Azure Monitor, or GCP Stackdriver.
+ - Implement real-time alerting for anomalies or performance issues.
 
 ### Example Architecture
 
 Here's an example architecture for an [algorithmic trading](../a/algorithmic_trading.md) system hosted on AWS:
 
 1. **Data Ingestion**:
-   - Utilize AWS Kinesis for real-time data streaming.
-   - Store ingested data in AWS S3 for later analysis.
+ - Utilize AWS Kinesis for real-time data streaming.
+ - Store ingested data in AWS S3 for later analysis.
 
 2. **Compute**:
-   - Run [trading algorithms](../t/trading_algorithms.md) on AWS EC2 instances within an auto-scaling group.
-   - Use AWS [Lambda](../l/lambda.md) for serverless processing tasks.
+ - Run [trading algorithms](../t/trading_algorithms.md) on AWS EC2 instances within an auto-scaling group.
+ - Use AWS [Lambda](../l/lambda.md) for serverless processing tasks.
 
 3. **Data Storage and Management**:
-   - Query and analyze data with AWS RDS for transactional data and Amazon Redshift for large-scale [data warehousing](../d/data_warehousing_in_trading.md).
+ - Query and analyze data with AWS RDS for transactional data and Amazon Redshift for large-scale [data warehousing](../d/data_warehousing_in_trading.md).
 
 4. **[Networking](../n/networking.md)**:
-   - Secure communication via an AWS VPC with appropriate [security](../s/security.md) groups and IAM roles.
+ - Secure communication via an AWS VPC with appropriate [security](../s/security.md) groups and IAM roles.
 
 5. **Monitoring**:
-   - Implement AWS CloudWatch for real-time monitoring and alerting.
-   - Use AWS CloudTrail for logging and auditing actions.
+ - Implement AWS CloudWatch for real-time monitoring and alerting.
+ - Use AWS CloudTrail for logging and auditing actions.
 
 ## Challenges and Considerations
 

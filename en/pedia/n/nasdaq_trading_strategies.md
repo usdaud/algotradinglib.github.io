@@ -78,4 +78,4 @@ Traders must comply with regulatory requirements, such as those imposed by the S
 
 [NASDAQ](../n/nasdaq.md) [trading strategies](../t/trading_strategies.md) [offer](../o/offer.md) numerous opportunities for [profit](../p/profit.md), thanks to the [market](../m/market.md)’s [volatility](../v/volatility.md), [liquidity](../l/liquidity.md), and technology focus. However, they also entail significant risks and require a high level of skill and knowledge. By leveraging appropriate tools, indicators, and [risk management](../r/risk_management.md) techniques, traders can effectively navigate the complexities of the [NASDAQ](../n/nasdaq.md) [Stock Market](../s/stock_market.md).
 
-For more information on [NASDAQ](../n/nasdaq.md) and [NASDAQ](../n/nasdaq.md) [trading strategies](../t/trading_strategies.md), visit the official [NASDAQ](../n/nasdaq.md) website: [NASDAQ](https://www.nasdaq.com/).
+For more information on [NASDAQ](../n/nasdaq.md) and [NASDAQ](../n/nasdaq.md) [trading strategies](../t/trading_strategies.md), visit the official [NASDAQ](../n/nasdaq.md) online platform: NASDAQ.

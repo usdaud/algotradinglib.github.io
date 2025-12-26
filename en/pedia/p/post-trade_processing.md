@@ -8,7 +8,7 @@ Post-[trade](../t/trade.md) processing is a critical component of the securities
 
 ### Definition and Importance
 
-[Trade](../t/trade.md) capture is the initial step in the post-[trade](../t/trade.md) processing sequence, wherein the details of the executed [trade](../t/trade.md) are recorded into the trading system. The primary aim is to create an accurate transactional record that [will](../w/will.md) be used for subsequent post-[trade](../t/trade.md) activities. 
+[Trade](../t/trade.md) capture is the initial step in the post-[trade](../t/trade.md) processing sequence, wherein the details of the executed [trade](../t/trade.md) are recorded into the trading system. The primary aim is to create an accurate transactional record that [will](../w/will.md) be used for subsequent post-[trade](../t/trade.md) activities.
 
 ### Key Activities
 
@@ -54,8 +54,8 @@ Post-[trade](../t/trade.md) processing is a critical component of the securities
 
 ### Link to Clearinghouse
 
-- [DTCC (Depository Trust & Clearing Corporation)](https://www.dtcc.com/)
-- [LCH (London Clearing House)](https://www.lch.com/)
+- DTCC (Depository Trust & Clearing Corporation)
+- LCH (London Clearing House)
 
 ## Settlement
 
@@ -71,8 +71,8 @@ Settlement is the final step in the [trade](../t/trade.md) lifecycle, where the 
 
 ### Link to Settlement Systems
 
-- [Euroclear](https://www.euroclear.com/)
-- [Clearstream](https://www.clearstream.com/)
+- Euroclear
+- Clearstream
 
 ## Reconciliation
 
@@ -100,14 +100,14 @@ In the realm of post-[trade](../t/trade.md) processing, regulatory compliance is
 
 ### Institutions and Links
 
-- [SEC (U.S. Securities and Exchange Commission)](https://www.sec.gov/)
-- [ESMA (European Securities and Markets Authority)](https://www.esma.europa.eu/)
+- SEC (U.S. Securities and Exchange Commission)
+- ESMA (European Securities and Markets Authority)
 
 ## Risk Management
 
 ### Importance in Post-Trade Processing
 
-[Risk management](../r/risk_management.md) is an integral part of post-[trade](../t/trade.md) processing. Effective [risk management](../r/risk_management.md) ensures the smooth functioning of [financial markets](../f/financial_market.md) by mitigating [counterparty](../c/counterparty.md), operational, and settlement risks. 
+[Risk management](../r/risk_management.md) is an integral part of post-[trade](../t/trade.md) processing. Effective [risk management](../r/risk_management.md) ensures the smooth functioning of [financial markets](../f/financial_market.md) by mitigating [counterparty](../c/counterparty.md), operational, and settlement risks.
 
 ### Key Risk Management Strategies
 
@@ -117,8 +117,8 @@ In the realm of post-[trade](../t/trade.md) processing, regulatory compliance is
 
 ### Link to Risk Management Tools and Services
 
-- [Axioma (Risk Management Software)](https://www.axioma.com/)
-- [Numerix (Risk Management Solutions)](https://www.numerix.com/)
+- Axioma (Risk Management Software)
+- Numerix (Risk Management Solutions)
 
 ## Technology and Automation
 
@@ -134,8 +134,8 @@ Technology and automation are revolutionizing post-[trade](../t/trade.md) proces
 
 ### Link to Technology Providers
 
-- [IBM Blockchain](https://www.ibm.com/blockchain)
-- [UiPath (RPA Solutions)](https://www.uipath.com/)
+- IBM Blockchain
+- UiPath (RPA Solutions)
 
 ## Conclusion
 

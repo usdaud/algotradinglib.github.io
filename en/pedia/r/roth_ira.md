@@ -73,14 +73,14 @@ Regular [rebalancing](../r/rebalancing.md) can help to keep your investment port
 
 ### Online Brokers
 Many online brokers [offer](../o/offer.md) Roth IRAs, allowing you to [open](../o/open.md) an account with just a few clicks. Examples include Vanguard, Fidelity, and [Charles Schwab](../c/charles_schwab.md).
-- [Vanguard](https://investor.vanguard.com/ira/roth-ira)
-- [Fidelity](https://www.fidelity.com/retirement-ira/roth-ira)
-- [Charles Schwab](https://www.schwab.com/ira/roth-ira)
+- Vanguard
+- Fidelity
+- Charles Schwab
 
 ### Robo-Advisors
 Robo-advisors like Betterment and Wealthfront also [offer](../o/offer.md) Roth IRAs and can automatically manage your investments based on your [risk tolerance](../r/risk_tolerance.md) and goals.
-- [Betterment](https://www.betterment.com/roth-ira/)
-- [Wealthfront](https://www.wealthfront.com/ira/roth-ira)
+- Betterment
+- Wealthfront
 
 ### Banks and Credit Unions
 Traditional financial institutions like banks and [credit](../c/credit.md) unions often [offer](../o/offer.md) Roth IRAs, though they may have more limited investment [options](../o/options.md) compared to brokers and robo-advisors.

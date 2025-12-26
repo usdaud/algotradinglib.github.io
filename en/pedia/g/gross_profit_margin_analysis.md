@@ -32,9 +32,9 @@ For example, a trading algorithm might be programmed to prioritize [stocks](../s
 
 Several financial platforms and services provide real-time financial data, including [gross profit margin](../g/gross_profit_margin.md), which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal:** [Bloomberg](https://www.bloomberg.com/professional/solution/execution-order-management/) offers comprehensive financial data and analytics that are essential for real-time trading and analysis.
-2. **Thomson [Reuters](../r/reuters.md) Eikon:** [Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software) provides [financial markets](../f/financial_market.md) data and tools for in-depth analysis and trading.
-3. **[Yahoo Finance](../y/yahoo_finance.md) API:** [Yahoo Finance](https://www.yahoofinanceapi.com/) offers access to fundamental financial data, including gross [profit margins](../p/profit_margins_in_trading.md).
+1. **[Bloomberg](../b/bloomberg.md) Terminal:** Bloomberg offers comprehensive financial data and analytics that are essential for real-time trading and analysis.
+2. **Thomson [Reuters](../r/reuters.md) Eikon:** Thomson Reuters provides [financial markets](../f/financial_market.md) data and tools for in-depth analysis and trading.
+3. **[Yahoo Finance](../y/yahoo_finance.md) API:** Yahoo Finance offers access to fundamental financial data, including gross [profit margins](../p/profit_margins_in_trading.md).
 
 #### Case Study: Analyzing Gross Profit Margin for Algorithmic Trading
 
@@ -46,9 +46,9 @@ Let's consider a hypothetical case study to illustrate how gross [profit margin 
 
 1. **Data Collection:** The algorithm collects financial data from sources like [Bloomberg](../b/bloomberg.md) or [Yahoo Finance](../y/yahoo_finance.md), focusing on the [technology sector](../t/technology_sector.md).
 2. **Screening Criteria:** It screens for companies with the following characteristics:
-   - [Gross profit margin](../g/gross_profit_margin.md) above 50%
-   - Year-over-year [revenue](../r/revenue.md) growth of at least 10%
-   - Positive [earnings](../e/earnings.md) before [interest](../i/interest.md) and [taxes](../t/taxes.md) (EBIT)
+ - [Gross profit margin](../g/gross_profit_margin.md) above 50%
+ - Year-over-year [revenue](../r/revenue.md) growth of at least 10%
+ - Positive [earnings](../e/earnings.md) before [interest](../i/interest.md) and [taxes](../t/taxes.md) (EBIT)
 3. **[Trend Analysis](../t/trend_analysis.md):** The algorithm analyzes historical data to identify trends in the [gross profit margin](../g/gross_profit_margin.md) over the past five years.
 4. **Decision-Making:** Based on the analysis, the algorithm generates buy or sell signals. For instance, if a company's [gross profit margin](../g/gross_profit_margin.md) has consistently improved and meets other criteria, the algorithm may flag it as a buy.
 
@@ -60,6 +60,6 @@ Gross [profit margin analysis](../p/profit_margin_analysis.md) is a powerful too
 
 For further details on how financial data providers support [algorithmic trading](../a/algorithmic_trading.md) with metrics like [gross profit margin](../g/gross_profit_margin.md), you can visit their official websites:
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/execution-order-management/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- [Yahoo Finance API](https://www.yahoofinanceapi.com/)
+- Bloomberg Terminal
+- Thomson Reuters Eikon
+- Yahoo Finance API

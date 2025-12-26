@@ -58,6 +58,6 @@ The [Value](../v/value.md)-Growth Spread is a crucial metric in the realm of inv
 
 ### Further Reading
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [BlackRock: Factors Driving Value vs. Growth](https://www.blackrock.com/us/individual/)
-- [Fama & French Three-Factor Model](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_factors.html)
+- Renaissance Technologies
+- BlackRock: Factors Driving Value vs. Growth
+- Fama & French Three-Factor Model

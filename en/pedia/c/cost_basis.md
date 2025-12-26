@@ -59,21 +59,21 @@ Several [software tools](../s/software_tools_for_trading.md) and platforms can h
 ### Broker Platforms
 
 Most brokerage platforms [offer](../o/offer.md) tools and reports to track the cost [basis](../b/basis.md) of investments. Examples include:
-- [Charles Schwab](https://www.schwab.com)
-- [Fidelity](https://www.fidelity.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
+- Charles Schwab
+- Fidelity
+- TD Ameritrade
 
 ### Tax Software
 
 Tax preparation software often includes features for managing investment portfolios and calculating cost [basis](../b/basis.md):
-- [TurboTax](https://turbotax.intuit.com)
-- [H&R Block](https://www.hrblock.com)
+- TurboTax
+- H&R Block
 
 ### Specialized Tools
 
 There are specialized tools designed specifically for tracking and analyzing investment cost [basis](../b/basis.md):
-- [Sharesight](https://www.sharesight.com)
-- [GainsKeeper](https://www.gainskeeper.com)
+- Sharesight
+- GainsKeeper
 
 ## Importance of Accurate Cost Basis Tracking
 

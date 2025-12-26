@@ -59,7 +59,7 @@ PBO serves as a critical measure for various stakeholders:
 For company management, PBO helps in:
 - **[Financial Planning](../f/financial_planning.md)**: Ensuring sufficient funds are allocated to meet future pension [obligations](../o/obligation.md).
 - **[Risk Management](../r/risk_management.md)**: Identifying potential financial risks associated with pension plans and strategizing mitigation measures.
-- **[Investor Relations](../i/investor_relations.md)**: Providing [transparency](../t/transparency.md) to investors about the company's long-term financial commitments.
+- **[company filings](../i/investor_relations.md)**: Providing [transparency](../t/transparency.md) to investors about the company's long-term financial commitments.
 
 ### Financial Reporting
 
@@ -80,7 +80,7 @@ For actuaries, precise PBO calculation is critical for:
 It's important to distinguish PBO from other pension-related metrics, particularly Accumulated Benefit Obligation (ABO):
 
 - **PBO (Projected Benefit Obligation)**: Considers future salary increases in the calculation. It represents the [present value](../p/present_value.md) of expected future payments for pension benefits, based on both current services and projected increases in [earnings](../e/earnings.md).
-  
+
 - **ABO (Accumulated Benefit Obligation)**: Reflects the [present value](../p/present_value.md) of pension benefits earned based on current salaries without [accounting](../a/accounting.md) for future salary increases.
 
 The key difference lies in the inclusion of projected salary increases in PBO, making it a more comprehensive measure of future pension [obligations](../o/obligation.md).

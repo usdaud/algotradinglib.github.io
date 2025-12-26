@@ -25,10 +25,10 @@ Internal economies of scale are those cost savings that [accrue](../a/accrue.md)
 ## Examples of Economies of Scale
 
 ### Walmart
-Walmart is an excellent example of a company that benefits immensely from economies of scale. Its massive size allows it to function with low operational costs. Walmart's ability to buy massive quantities of goods directly from manufacturers at steep discounts, coupled with highly efficient [logistics](../l/logistics.md) and operation processes, results in significant cost savings. [Learn more about Walmart](https://www.walmart.com).
+Walmart is an excellent example of a company that benefits immensely from economies of scale. Its massive size allows it to function with low operational costs. Walmart's ability to buy massive quantities of goods directly from manufacturers at steep discounts, coupled with highly efficient [logistics](../l/logistics.md) and operation processes, results in significant cost savings. Learn more about Walmart.
 
 ### Amazon
-Amazon leverages both internal and [external economies of scale](../e/external_economies_of_scale.md), particularly through its vast [distribution network](../d/distribution_network.md) and advanced technology [infrastructure](../i/infrastructure.md). Its large scale allows for an expansive reach and the ability to invest heavily in IT and [logistics](../l/logistics.md), diminishing costs as its sales [volume](../v/volume.md) increases. [Learn more about Amazon](https://www.amazon.com).
+Amazon leverages both internal and [external economies of scale](../e/external_economies_of_scale.md), particularly through its vast [distribution network](../d/distribution_network.md) and advanced technology [infrastructure](../i/infrastructure.md). Its large scale allows for an expansive reach and the ability to invest heavily in IT and [logistics](../l/logistics.md), diminishing costs as its sales [volume](../v/volume.md) increases. Learn more about Amazon.
 
 ## Importance in Business Strategy
 
@@ -50,7 +50,7 @@ While economies of scale [offer](../o/offer.md) significant advantages, maintain
 In [manufacturing](../m/manufacturing.md), economies of scale are achieved through extended production runs, automation, and more efficient [supply chain](../s/supply_chain.md) management. [Mass production](../m/mass_production.md) allows for the significant spreading of initial setup costs across many units, reducing the per-unit [manufacturing](../m/manufacturing.md) costs.
 
 ### Technology Sector
-In the [technology sector](../t/technology_sector.md), companies like Google and Microsoft reap economies of scale through network effects and large-scale operations. Higher sales volumes lower the per-unit costs of goods sold, while investments in data centers and cloud [infrastructure](../i/infrastructure.md) demonstrate significant cost benefits at scale. [Learn more about Google](https://about.google/) and [Microsoft](https://www.microsoft.com).
+In the [technology sector](../t/technology_sector.md), companies like Google and Microsoft reap economies of scale through network effects and large-scale operations. Higher sales volumes lower the per-unit costs of goods sold, while investments in data centers and cloud [infrastructure](../i/infrastructure.md) demonstrate significant cost benefits at scale. Learn more about Google and Microsoft.
 
 ## Conclusion
 

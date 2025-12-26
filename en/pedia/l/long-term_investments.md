@@ -112,19 +112,19 @@ Seeking advice from financial professionals can provide valuable insights and re
 
 ### Online Brokerage Platforms
 
-Online brokerage platforms [offer](../o/offer.md) a [range](../r/range.md) of investment [options](../o/options.md), research tools, and educational resources catering to both novice and experienced investors. Notable platforms include [Charles Schwab](https://www.schwab.com), [Fidelity](https://www.fidelity.com), and [E*TRADE](https://www.etrade.com).
+Online brokerage platforms [offer](../o/offer.md) a [range](../r/range.md) of investment [options](../o/options.md), research tools, and educational resources catering to both novice and experienced investors. Notable platforms include Charles Schwab, Fidelity, and E*TRADE.
 
 ### Robo-Advisors
 
-Robo-advisors are automated platforms providing personalized investment advice and [portfolio management](../p/par.md) based on algorithms. They [offer](../o/offer.md) low-cost, hands-off investment solutions. Examples include [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com).
+Robo-advisors are automated platforms providing personalized investment advice and [portfolio management](../p/par.md) based on algorithms. They [offer](../o/offer.md) low-cost, hands-off investment solutions. Examples include Betterment and Wealthfront.
 
 ### Financial Planning Software
 
-[Financial planning](../f/financial_planning.md) software helps individuals create detailed plans to meet their financial goals. Features include budgeting, [retirement planning](../r/retirement_planning.md), and investment tracking. Tools like [Quicken](https://www.quicken.com) and [Personal Capital](https://www.personalcapital.com) are popular choices.
+[Financial planning](../f/financial_planning.md) software helps individuals create detailed plans to meet their financial goals. Features include budgeting, [retirement planning](../r/retirement_planning.md), and investment tracking. Tools like Quicken and Personal Capital are popular choices.
 
 ### Market Research Tools
 
-[Market research](../m/market_research.md) tools provide access to financial data, analyst reports, and [market](../m/market.md) analysis, aiding in informed decision-making. [Morningstar](https://www.morningstar.com) and [Yahoo Finance](https://finance.yahoo.com) are widely used resources.
+[Market research](../m/market_research.md) tools provide access to financial data, analyst reports, and [market](../m/market.md) analysis, aiding in informed decision-making. Morningstar and Yahoo Finance are widely used resources.
 
 ## Conclusion
 

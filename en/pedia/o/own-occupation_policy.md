@@ -114,11 +114,11 @@ Several [insurance](../i/insurance.md) companies specialize in providing own-occ
 
 ### Leading Providers
 
-1. **Guardian [Life Insurance](../l/life_insurance.md) Company**: Known for their comprehensive [disability insurance](../d/disability_insurance.md) plans that include true own-occupation coverage. [Guardian Disability Insurance](https://www.guardianlife.com/disability-insurance)
+1. **Guardian [Life Insurance](../l/life_insurance.md) Company**: Known for their comprehensive [disability insurance](../d/disability_insurance.md) plans that include true own-occupation coverage. Guardian Disability Insurance
 
-2. **The Standard**: Offers a [range](../r/range.md) of own-occupation policies with customizable features to meet the needs of professionals. [The Standard Disability](https://www.standard.com/individual/insurance/disability-insurance)
+2. **The Standard**: Offers a [range](../r/range.md) of own-occupation policies with customizable features to meet the needs of professionals. The Standard Disability
 
-3. **MassMutual**: Provides [robust](../r/robust.md) own-occupation [disability insurance](../d/disability_insurance.md) with various riders to enhance coverage. [MassMutual Disability Insurance](https://www.massmutual.com/our-products/disability-income/own-occupation)
+3. **MassMutual**: Provides [robust](../r/robust.md) own-occupation [disability insurance](../d/disability_insurance.md) with various riders to enhance coverage. MassMutual Disability Insurance
 
 ### Industry Trends
 
@@ -132,4 +132,4 @@ The [market](../m/market.md) for own-occupation policies is evolving, driven by 
 
 An own-occupation policy is a powerful tool for protecting your financial future if you become unable to perform your specific job duties. It offers comprehensive coverage and flexibility, making it an excellent choice for professionals, high-[income](../i/income.md) earners, and those in specialized fields. While the premiums might be higher, the benefits provided by an own-occupation policy can far outweigh the costs, ensuring peace of mind and financial stability in challenging times. By understanding the ins and outs of these policies and carefully selecting the right one, you can safeguard your [income](../i/income.md) and maintain your lifestyle even in the face of disability.
 
-For more information, consider visiting [Guardian Life](https://www.guardianlife.com/disability-insurance), [The Standard](https://www.standard.com/individual/insurance/disability-insurance), or [MassMutual](https://www.massmutual.com/our-products/disability-income/own-occupation).
+For more information, consider visiting Guardian Life, The Standard, or MassMutual.

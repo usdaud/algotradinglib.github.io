@@ -4,7 +4,7 @@ Diamonds have captivated humanity for centuries with their dazzling sparkle and 
 
 ## Formation and Types of Diamonds
 
-Diamonds are formed deep within the Earth's mantle under extreme pressure and temperature conditions. They are brought to the surface through volcanic eruptions in rocks known as kimberlites and lamproites. 
+Diamonds are formed deep within the Earth's mantle under extreme pressure and temperature conditions. They are brought to the surface through volcanic eruptions in rocks known as kimberlites and lamproites.
 
 ### Natural Diamonds
 
@@ -49,7 +49,7 @@ The diamond [market](../m/market.md) is a vast and complex network, ranging from
 
 ### Mining
 
-Countries such as Botswana, Russia, Canada, and Australia are major producers of natural diamonds. Companies like De Beers [debeersgroup.com](https://www.debeersgroup.com) and Alrosa [alrosa.ru](https://eng.alrosa.ru) dominate the diamond [mining](../m/mining.md) [industry](../i/industry.md).
+Countries such as Botswana, Russia, Canada, and Australia are major producers of natural diamonds. Companies like De Beers debeersgroup.com and Alrosa alrosa.ru dominate the diamond [mining](../m/mining.md) [industry](../i/industry.md).
 
 ### Pricing and Valuation
 
@@ -61,11 +61,11 @@ The [value](../v/value.md) of a diamond is determined by the "Four Cs" - Carat, 
 
 ### Trading and Certification
 
-Diamonds are traded on various platforms and marketplaces. Certification by organizations such as the Gemological Institute of America (GIA) [gia.edu](https://www.gia.edu) ensures the authenticity and quality of the diamonds.
+Diamonds are traded on various platforms and marketplaces. Certification by organizations such as the Gemological Institute of America (GIA) gia.edu ensures the authenticity and quality of the diamonds.
 
 ## Ethical Considerations
 
-The diamond [industry](../i/industry.md) has faced scrutiny over ethical issues such as "blood diamonds" or "conflict diamonds," which are diamonds mined in war zones and sold to [finance](../f/finance.md) armed conflict. Organizations like the Kimberley Process [kimberleyprocess.com](https://www.kimberleyprocess.com) have been established to prevent the [trade](../t/trade.md) of conflict diamonds and ensure ethical sourcing.
+The diamond [industry](../i/industry.md) has faced scrutiny over ethical issues such as "blood diamonds" or "conflict diamonds," which are diamonds mined in war zones and sold to [finance](../f/finance.md) armed conflict. Organizations like the Kimberley Process kimberleyprocess.com have been established to prevent the [trade](../t/trade.md) of conflict diamonds and ensure ethical sourcing.
 
 ## Conclusion
 

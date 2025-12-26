@@ -43,7 +43,7 @@ where \( \phi \) is the [cumulative distribution function](../c/cumulative_distr
 
 ### Machine Learning and Neural Networks
 
-With the advent of [machine learning](../m/machine_learning.md), more advanced techniques such as [neural networks](../n/neural_networks_in_trading.md) have been employed to model complex dependencies between [asset](../a/asset.md) returns. 
+With the advent of [machine learning](../m/machine_learning.md), more advanced techniques such as [neural networks](../n/neural_networks_in_trading.md) have been employed to model complex dependencies between [asset](../a/asset.md) returns.
 
 #### LSTM Networks
 Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), are particularly effective in capturing [temporal dependencies](../t/temporal_dependencies_in_trading.md) and have been used for predicting [joint](../j/joint.md) returns.
@@ -52,7 +52,7 @@ Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN)
 
 ### Data Sources and Tools
 
-Accurate and high-frequency data is critical for effective [Joint Return](../j/joint_return.md) Analysis. Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) and [Reuters](../r/reuters.md) provide comprehensive financial datasets.
+Accurate and high-frequency data is critical for effective [Joint Return](../j/joint_return.md) Analysis. Companies like [Bloomberg](../b/bloomberg.md) ( and [Reuters](../r/reuters.md) provide comprehensive financial datasets.
 
 ### Software
 
@@ -92,7 +92,7 @@ During the 2008 [Financial Crisis](../f/financial_crisis.md), many assets that w
 
 ### Quant Funds
 
-Quantitative funds, or "quant funds," heavily rely on [joint return](../j/joint_return.md) analysis for their [trading strategies](../t/trading_strategies.md). Firms like Renaissance Technologies (https://www.rentec.com) and Two Sigma (https://www.twosigma.com) use sophisticated statistical techniques to model [asset](../a/asset.md) dependencies and optimize their [trading algorithms](../t/trading_algorithms.md).
+Quantitative funds, or "quant funds," heavily rely on [joint return](../j/joint_return.md) analysis for their [trading strategies](../t/trading_strategies.md). Firms like Renaissance Technologies ( and Two Sigma ( use sophisticated statistical techniques to model [asset](../a/asset.md) dependencies and optimize their [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

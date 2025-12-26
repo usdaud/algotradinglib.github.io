@@ -24,11 +24,11 @@ Video conferencing systems consist of several essential components:
 
 ## Popular Video Conferencing Platforms
 
-1. **Zoom**: Known for its ease of use and versatility. URL: [Zoom](https://zoom.us/)
-2. **Microsoft Teams**: Part of the Microsoft 365 suite, integrating closely with other Microsoft tools. URL: [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
-3. **Cisco Webex**: Known for its [robust](../r/robust.md) [security](../s/security.md) features. URL: [Cisco Webex](https://www.webex.com/)
-4. **Google Meet**: Integrated with Google Workspace, useful for users within Google's ecosystem. URL: [Google Meet](https://meet.google.com/)
-5. **Skype**: One of the original video conferencing platforms, now more focused on personal use. URL: [Skype](https://www.skype.com/)
+1. **Zoom**: Known for its ease of use and versatility. URL: Zoom
+2. **Microsoft Teams**: Part of the Microsoft 365 suite, integrating closely with other Microsoft tools. URL: Microsoft Teams
+3. **Cisco Webex**: Known for its [robust](../r/robust.md) [security](../s/security.md) features. URL: Cisco Webex
+4. **Google Meet**: Integrated with Google Workspace, useful for users within Google's ecosystem. URL: Google Meet
+5. **Skype**: One of the original video conferencing platforms, now more focused on personal use. URL: Skype
 
 ## Benefits
 

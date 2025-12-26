@@ -29,18 +29,18 @@ DTI Ratio = (Total Monthly [Debt](../d/debt.md) Payments / Gross Monthly [Income
 ### Components
 
 1. **Total Monthly [Debt](../d/debt.md) Payments**: This includes all recurring monthly [debt](../d/debt.md) [obligations](../o/obligation.md). Common examples are:
-   - [Mortgage](../m/mortgage.md) or rent payments
-   - Auto [loan](../l/loan.md) payments
-   - Student [loan](../l/loan.md) payments
-   - [Credit card](../c/credit_card.md) payments
-   - Personal [loan](../l/loan.md) payments
+ - [Mortgage](../m/mortgage.md) or rent payments
+ - Auto [loan](../l/loan.md) payments
+ - Student [loan](../l/loan.md) payments
+ - [Credit card](../c/credit_card.md) payments
+ - Personal [loan](../l/loan.md) payments
 
 2. **Gross Monthly [Income](../i/income.md)**: This is the individual's total [income](../i/income.md) before [taxes](../t/taxes.md) and other deductions. Sources can include:
-   - Salaries and wages
-   - Bonuses and commissions
-   - Rental [income](../i/income.md)
-   - Retirement [income](../i/income.md)
-   - Alimony and child support payments
+ - Salaries and wages
+ - Bonuses and commissions
+ - Rental [income](../i/income.md)
+ - Retirement [income](../i/income.md)
+ - Alimony and child support payments
 
 ### Example Calculation
 

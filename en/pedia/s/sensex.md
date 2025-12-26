@@ -1,6 +1,6 @@
 # Sensex
 
-The Sensex, also known as the S&P BSE Sensex, is one of the most prominent barometers of the Indian [stock market](../s/stock_market.md). It represents the 30 most traded and financially [robust](../r/robust.md) companies [listed](../l/listed.md) on the Bombay Stock [Exchange](../e/exchange.md) (BSE). This term, often used interchangeably with "BSE 30," merges "sensitive" and "[index](../i/index_instrument.md)," reflecting its role in gauging [market sentiment](../m/market_sentiment.md) and trends. To understand its significance in [financial markets](../f/financial_market.md), especially in [algorithmic trading](../a/accountability.md) and fintech sectors, one must delve into its history, composition, calculation methods, and broader impact.
+The Sensex, also known as the S&P BSE Sensex, is one of the most prominent barometers of the Indian [stock market](../s/stock_market.md). It represents the 30 most traded and financially [robust](../r/robust.md) companies [listed](../l/listed.md) on the Bombay Stock [Exchange](../e/exchange.md) (BSE). This term, often used interchangeably with "BSE 30," merges "sensitive" and "[index](../i/index_instrument.md)," reflecting its role in gauging [market sentiment](../m/market_sentiment.md) and trends. To understand its significance in [financial markets](../f/financial_market.md), especially in [algorithmic trading](../a/algorithmic_trading.md) and fintech sectors, one must delve into its history, composition, calculation methods, and broader impact.
 
 ## History of Sensex
 
@@ -49,7 +49,7 @@ The Sensex is also the [basis](../b/basis.md) for various financial instruments 
 
 ## Sensex and Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the Sensex serves as a crucial input parameter. Algorithms that execute trades based on [market](../m/market.md) conditions often take cues from changes in the Sensex. Key attributes include:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the Sensex serves as a crucial input parameter. Algorithms that execute trades based on [market](../m/market.md) conditions often take cues from changes in the Sensex. Key attributes include:
 
 - **[Trend Analysis](../t/trend_analysis.md)**: Algorithms analyze Sensex trends to predict [market](../m/market.md) movements.
 - **[Arbitrage](../a/arbitrage.md)**: Exploiting price differences between Sensex and its [futures](../f/futures.md).
@@ -68,9 +68,9 @@ Fintech companies [leverage](../l/leverage.md) Sensex data in [multiple](../m/mu
 - **Investment Apps**: Real-time Sensex data for stock tracking and trading.
 
 ### Companies in the Fintech Space
-- **[Zerodha](../z/zerodha.md)**: [zerodha.com](https://zerodha.com)
-- **Groww**: [groww.in](https://groww.in)
-- **Paytm [Money](../m/money.md)**: [paytmmoney.com](https://paytmmoney.com)
+- **[Zerodha](../z/zerodha.md)**: zerodha.com
+- **Groww**: groww.in
+- **Paytm [Money](../m/money.md)**: paytmmoney.com
 
 ## Broader Impact
 
@@ -87,4 +87,4 @@ The performance of the Sensex deeply influences [investor](../i/investor.md) psy
 
 ## Conclusion
 
-The Sensex stands as a cornerstone of the Indian financial [market](../m/market.md). From its historical significance and constituent makeup to its calculation methodology and impact on both traditional and [algorithmic trading](../a/accountability.md), the Sensex offers deep insights into [market dynamics](../m/market_dynamics.md). Its influence extends beyond mere numbers, shaping economic policies, media narratives, and [investor](../i/investor.md) behavior. As algorithms and fintech innovations continue to evolve, the Sensex [will](../w/will.md) undoubtedly remain a critical element in the financial landscape, serving as an enduring symbol of [market sentiment](../m/market_sentiment.md) and economic health.
+The Sensex stands as a cornerstone of the Indian financial [market](../m/market.md). From its historical significance and constituent makeup to its calculation methodology and impact on both traditional and [algorithmic trading](../a/algorithmic_trading.md), the Sensex offers deep insights into [market dynamics](../m/market_dynamics.md). Its influence extends beyond mere numbers, shaping economic policies, media narratives, and [investor](../i/investor.md) behavior. As algorithms and fintech innovations continue to evolve, the Sensex [will](../w/will.md) undoubtedly remain a critical element in the financial landscape, serving as an enduring symbol of [market sentiment](../m/market_sentiment.md) and economic health.

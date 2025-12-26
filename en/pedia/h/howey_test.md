@@ -59,6 +59,6 @@ The Howey Test remains a cornerstone of U.S. securities law, crucial for determi
 
 For further information on companies and cases mentioned:
 
-- SEC v. W.J. Howey Co.: [Link to Case](https://supreme.justia.com/cases/federal/us/328/293/)
-- Kik Interactive Inc.: [Kik Interactive](https://www.kik.com/)
-- [Ripple](../r/ripple.md) Labs Inc.: [Ripple](https://ripple.com/)
+- SEC v. W.J. Howey Co.: Link to Case
+- Kik Interactive Inc.: Kik Interactive
+- [Ripple](../r/ripple.md) Labs Inc.: Ripple

@@ -67,10 +67,8 @@ GMAB is one of several living benefit riders that can be added to annuity contra
 
 Prominent [insurance](../i/insurance.md) companies [offering](../o/offering.md) variable annuities with GMAB riders include:
 
-- **Prudential Financial**: Known for diverse annuity products and riders (http://www.prudential.com).
-- **MetLife**: Another major player [offering](../o/offering.md) [robust](../r/robust.md) [variable annuity](../v/variable_annuity.md) [options](../o/options.md) (https://www.metlife.com).
-- **Allianz**: Offers a variety of annuity products with optional riders (https://www.allianzlife.com).
-
+- **Prudential Financial**: Known for diverse annuity products and riders - **MetLife**: Another major player [offering](../o/offering.md) [robust](../r/robust.md) [variable annuity](../v/variable_annuity.md) [options](../o/options.md) (
+- **Allianz**: Offers a variety of annuity products with optional riders
 ## Conclusion
 
 The Guaranteed Minimum Accumulation Benefit (GMAB) is a valuable feature for [variable annuity](../v/variable_annuity.md) holders, providing a cushion against [market](../m/market.md) downturns while allowing for participation in [market](../m/market.md) gains. While it presents certain costs and conditions, it is especially beneficial for investors nearing retirement who seek to mitigate their [risk](../r/risk.md) exposure. As with any financial product, potential users should scrutinize the terms, costs, and personal financial needs before committing to a GMAB.

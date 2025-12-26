@@ -66,15 +66,15 @@ Implementing safety stock strategies can act as a buffer against unforeseen [dem
 
 ### Amazon
 
-Amazon, one of the largest e-[commerce](../c/commerce.md) platforms, uses sophisticated [inventory management](../i/inventory_management.md) and [demand forecasting](../d/demand_forecasting.md) systems to minimize backorders. The company leverages [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to predict [customer](../c/customer.md) [demand](../d/demand.md) accurately, optimize [inventory](../i/inventory.md) levels, and ensure timely replenishment. However, despite these advanced systems, backorders can still occur, particularly during peak shopping seasons like [Black Friday](../b/black_friday.md) and Cyber Monday. [Amazon](https://www.amazon.com)
+Amazon, one of the largest e-[commerce](../c/commerce.md) platforms, uses sophisticated [inventory management](../i/inventory_management.md) and [demand forecasting](../d/demand_forecasting.md) systems to minimize backorders. The company leverages [big data analytics](../b/big_data_analytics_in_trading.md) and [machine learning](../m/machine_learning.md) to predict [customer](../c/customer.md) [demand](../d/demand.md) accurately, optimize [inventory](../i/inventory.md) levels, and ensure timely replenishment. However, despite these advanced systems, backorders can still occur, particularly during peak shopping seasons like [Black Friday](../b/black_friday.md) and Cyber Monday. Amazon
 
 ### Apple
 
-Apple has faced backorder situations, especially during new product launches. High [demand](../d/demand.md) for new iPhones, iPads, and other devices often leads to backorders as the initial stock gets depleted rapidly. Apple communicates clearly with customers about backorder statuses and expected shipping dates, maintaining [customer](../c/customer.md) [trust](../t/trust.md) and managing expectations effectively. [Apple](https://www.apple.com)
+Apple has faced backorder situations, especially during new product launches. High [demand](../d/demand.md) for new iPhones, iPads, and other devices often leads to backorders as the initial stock gets depleted rapidly. Apple communicates clearly with customers about backorder statuses and expected shipping dates, maintaining [customer](../c/customer.md) [trust](../t/trust.md) and managing expectations effectively. Apple
 
 ### Tesla
 
-Tesla, the electric vehicle manufacturer, has experienced backorders due to production delays and increased [demand](../d/demand.md) for its vehicles. The company often faces challenges in ramping up production to meet preorder volumes, leading to extended wait times for customers. Tesla focuses on transparent [customer](../c/customer.md) communication and streamlining production processes to manage backorders. [Tesla](https://www.tesla.com)
+Tesla, the electric vehicle manufacturer, has experienced backorders due to production delays and increased [demand](../d/demand.md) for its vehicles. The company often faces challenges in ramping up production to meet preorder volumes, leading to extended wait times for customers. Tesla focuses on transparent [customer](../c/customer.md) communication and streamlining production processes to manage backorders. Tesla
 
 ## Conclusion
 

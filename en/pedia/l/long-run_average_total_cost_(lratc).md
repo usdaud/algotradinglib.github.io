@@ -2,13 +2,13 @@
 
 The Long-Run Average Total Cost (LRATC) is a concept in [economics](../e/economics.md) that represents the per-[unit cost](../u/unit_cost.md) of production when all inputs are considered variable and the [firm](../f/firm.md) can change its scale of operations. Unlike the short-run, where at least one [factor](../f/factor.md) of production is fixed, the [long run](../l/long_run.md) allows for complete flexibility in adjusting all inputs. This makes the LRATC crucial for firms when planning [expansion](../e/expansion.md) or contraction in their production capacities.
 
-## Definition and Importance 
+## Definition and Importance
 
-The LRATC curve shows the lowest possible average cost of production for any level of output when all inputs can be varied. This curve is essential for understanding [economies of scale](../e/economies_of_scale.md), where increasing the scale of production leads to lower average costs, and [diseconomies of scale](../d/diseconomies_of_scale.md), where further increasing production leads to higher average costs. It provides firms with a long-term perspective on cost-minimization strategies and helps in making efficient production decisions. 
+The LRATC curve shows the lowest possible average cost of production for any level of output when all inputs can be varied. This curve is essential for understanding [economies of scale](../e/economies_of_scale.md), where increasing the scale of production leads to lower average costs, and [diseconomies of scale](../d/diseconomies_of_scale.md), where further increasing production leads to higher average costs. It provides firms with a long-term perspective on cost-minimization strategies and helps in making efficient production decisions.
 
 ## Economies and Diseconomies of Scale
 
-One of the primary roles of the LRATC curve is to illustrate how economies and [diseconomies of scale](../d/diseconomies_of_scale.md) affect [production costs](../p/production_costs.md) in the [long run](../l/long_run.md). 
+One of the primary roles of the LRATC curve is to illustrate how economies and [diseconomies of scale](../d/diseconomies_of_scale.md) affect [production costs](../p/production_costs.md) in the [long run](../l/long_run.md).
 
 ### Economies of Scale
 
@@ -57,11 +57,11 @@ In modern [economics](../e/economics.md), the concept of LRATC is not just acade
 
 ### Case Study: Automotive Industry
 
-In the automotive [industry](../i/industry.md), [economies of scale](../e/economies_of_scale.md) play a significant role. Major car manufacturers like Toyota and Ford utilize their large-scale operations to reduce per-unit costs. By understanding their LRATC, these firms can make strategic decisions about expanding production lines, entering new markets, or [investing](../i/investing.md) in new technologies like electric vehicles. For more information on how these companies manage costs, visit [Toyota](https://www.toyota-global.com).
+In the automotive [industry](../i/industry.md), [economies of scale](../e/economies_of_scale.md) play a significant role. Major car manufacturers like Toyota and Ford utilize their large-scale operations to reduce per-unit costs. By understanding their LRATC, these firms can make strategic decisions about expanding production lines, entering new markets, or [investing](../i/investing.md) in new technologies like electric vehicles. For more information on how these companies manage costs, visit Toyota.
 
 ### Case Study: Tech Industry
 
-In the tech [industry](../i/industry.md), companies like Apple and Microsoft have significant [economies of scale](../e/economies_of_scale.md) due to their extensive R&D and [marketing](../m/marketing.md) capabilities. Their LRATC analysis helps them decide on the scale of production for new products, ensuring they can compete effectively on price while maintaining profitability. For further details, visit [Apple](https://www.apple.com) and [Microsoft](https://www.microsoft.com).
+In the tech [industry](../i/industry.md), companies like Apple and Microsoft have significant [economies of scale](../e/economies_of_scale.md) due to their extensive R&D and [marketing](../m/marketing.md) capabilities. Their LRATC analysis helps them decide on the scale of production for new products, ensuring they can compete effectively on price while maintaining profitability. For further details, visit Apple and Microsoft.
 
 ## Conclusion
 

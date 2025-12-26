@@ -56,7 +56,7 @@ Sudden changes in the [market](../m/market.md) conditions can impact the expecte
 This [risk](../r/risk.md) arises from the possibility that the other party in a [trade](../t/trade.md) may [default](../d/default.md). In [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) where trades are not executed on centralized exchanges, [counterparty risk](../c/counterparty_risk.md) is a significant concern.
 
 ### Technological Risk
-[Algorithmic arbitrage](../a/algorithmic_arbitrage.md) relies heavily on technology. Failures in [trading algorithms](../t/trading_algorithms.md), software bugs, or hardware malfunctions can lead to substantial financial losses. 
+[Algorithmic arbitrage](../a/algorithmic_arbitrage.md) relies heavily on technology. Failures in [trading algorithms](../t/trading_algorithms.md), software bugs, or hardware malfunctions can lead to substantial financial losses.
 
 ## Regulatory Considerations
 Arbitrageurs operate under the scrutiny of financial regulators. Given the potential for [market](../m/market.md) abuse, [insider trading](../i/insider.md), and manipulation, regulatory bodies like the US Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) monitor [arbitrage](../a/arbitrage.md) activities to ensure fair and transparent markets.
@@ -72,10 +72,10 @@ Regulators are wary of practices that artificially manipulate prices for [profit
 LTCM was a [hedge fund](../h/hedge_fund.md) founded in 1994 that employed complex [arbitrage](../a/arbitrage.md) strategies, including [bond arbitrage](../b/bond_arbitrage.md), to exploit [market](../m/market.md) inefficiencies. In 1998, the [fund](../f/fund.md)'s highly leveraged positions resulted in significant losses, leading to its eventual [bailout](../b/bailout.md).
 
 ### Citadel LLC
-Citadel LLC is a global financial institution that engages in a wide [range](../r/range.md) of investment strategies, including [arbitrage](../a/arbitrage.md). Their [quantitative trading](../q/quantitative_trading.md) division employs algorithmic models to execute high-frequency [arbitrage](../a/arbitrage.md) trades. More information can be found on their website [Citadel LLC](https://www.citadel.com/).
+Citadel LLC is a global financial institution that engages in a wide [range](../r/range.md) of investment strategies, including [arbitrage](../a/arbitrage.md). Their [quantitative trading](../q/quantitative_trading.md) division employs algorithmic models to execute high-frequency [arbitrage](../a/arbitrage.md) trades.
 
 ### Two Sigma Investments
-Two Sigma uses advanced [data science](../d/data_science_in_trading.md) and technology to guide its investment strategies. Their approach includes various forms of [arbitrage](../a/arbitrage.md) leveraged through [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md). More information is available at [Two Sigma Investments](https://www.twosigma.com/).
+Two Sigma uses advanced [data science](../d/data_science_in_trading.md) and technology to guide its investment strategies. Their approach includes various forms of [arbitrage](../a/arbitrage.md) leveraged through [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md). More information is available at Two Sigma Investments.
 
 ## Conclusion
 Arbitrageurs play a critical role in maintaining [market efficiency](../m/market_efficiency.md) by exploiting price discrepancies across different markets and assets. The evolution of technology and [algorithmic trading](../a/accountability.md) has significantly enhanced the speed and accuracy of [arbitrage](../a/arbitrage.md) strategies, enabling traders to [capitalize](../c/capitalize.md) on minute and fleeting opportunities. However, the complexity of [arbitrage](../a/arbitrage.md) strategies requires sophisticated [risk management](../r/risk_management.md) practices and rigorous adherence to regulatory guidelines. With advancements in AI, [machine learning](../m/machine_learning.md), and [blockchain](../b/blockchain_in_trading.md) technology, the future of [arbitrage](../a/arbitrage.md) promises even more innovative and efficient methods to navigate the [financial markets](../f/financial_market.md).

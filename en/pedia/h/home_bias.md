@@ -80,15 +80,15 @@ Efforts to reduce the [transaction costs](../t/transaction_costs.md) associated 
 
 ### Vanguard Group
 
-[Vanguard Group](https://www.vanguard.com) offers a variety of global investment products, including international mutual funds and ETFs, which can help investors diversify their portfolios and reduce [home](../h/home.md) bias.
+Vanguard Group offers a variety of global investment products, including international mutual funds and ETFs, which can help investors diversify their portfolios and reduce [home](../h/home.md) bias.
 
 ### BlackRock
 
-[BlackRock](https://www.blackrock.com) provides a [range](../r/range.md) of international and global funds through its [iShares](../i/ishares.md) ETFs, enabling investors to [gain](../g/gain.md) exposure to different international markets and [asset](../a/asset.md) classes, thereby addressing [home](../h/home.md) bias.
+BlackRock provides a [range](../r/range.md) of international and global funds through its [iShares](../i/ishares.md) ETFs, enabling investors to [gain](../g/gain.md) exposure to different international markets and [asset](../a/asset.md) classes, thereby addressing [home](../h/home.md) bias.
 
 ### Fidelity Investments
 
-[Fidelity Investments](https://www.fidelity.com) also offers a diverse lineup of global investment [options](../o/options.md), including mutual funds and ETFs aimed at helping investors achieve better [diversification](../d/diversification.md) and reduce [home](../h/home.md) bias.
+Fidelity Investments also offers a diverse lineup of global investment [options](../o/options.md), including mutual funds and ETFs aimed at helping investors achieve better [diversification](../d/diversification.md) and reduce [home](../h/home.md) bias.
 
 ## Case Studies
 

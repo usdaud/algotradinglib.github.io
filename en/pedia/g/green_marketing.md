@@ -9,24 +9,24 @@ Green [marketing](../m/marketing.md), also known as environmental [marketing](..
 ### Key Components of Green Marketing
 
 1. **Product Design and Innovation**:
-   - **Sustainable Materials**: Utilization of natural and recyclable materials.
-   - **Energy [Efficiency](../e/efficiency.md)**: Products designed to consume less power.
-   - **Durability**: Longer-lasting products reduce waste.
+ - **Sustainable Materials**: Utilization of natural and recyclable materials.
+ - **Energy [Efficiency](../e/efficiency.md)**: Products designed to consume less power.
+ - **Durability**: Longer-lasting products reduce waste.
 
 2. **Packaging**:
-   - **Recyclable Packaging**: Using materials that can be recycled.
-   - **Minimalist Packaging**: Reducing packaging materials to the bare minimum necessary for protection and [marketing](../m/marketing.md).
-   - **Biodegradable Packaging**: Packaging materials that decompose naturally and minimize environmental impact.
+ - **Recyclable Packaging**: Using materials that can be recycled.
+ - **Minimalist Packaging**: Reducing packaging materials to the bare minimum necessary for protection and [marketing](../m/marketing.md).
+ - **Biodegradable Packaging**: Packaging materials that decompose naturally and minimize environmental impact.
 
 3. **Production Processes**:
-   - **Energy-efficient [Manufacturing](../m/manufacturing.md)**: Processes that use less energy and reduce greenhouse gas emissions.
-   - **Waste Management**: Efficient handling and reduction of production waste.
-   - **Water Conservation**: Techniques to reduce water usage during production.
+ - **Energy-efficient [Manufacturing](../m/manufacturing.md)**: Processes that use less energy and reduce greenhouse gas emissions.
+ - **Waste Management**: Efficient handling and reduction of production waste.
+ - **Water Conservation**: Techniques to reduce water usage during production.
 
 4. **Product [Marketing](../m/marketing.md)**:
-   - **Eco-labeling**: Certifications and labels that indicate environmental friendliness.
-   - **Sustainable Branding**: [Marketing](../m/marketing.md) strategies that emphasize a brand's commitment to sustainability.
-   - **[Transparency](../t/transparency.md)**: Providing clear information regarding the environmental benefits and sustainable practices related to the product.
+ - **Eco-labeling**: Certifications and labels that indicate environmental friendliness.
+ - **Sustainable Branding**: [Marketing](../m/marketing.md) strategies that emphasize a brand's commitment to sustainability.
+ - **[Transparency](../t/transparency.md)**: Providing clear information regarding the environmental benefits and sustainable practices related to the product.
 
 ### Historical Development of Green Marketing
 
@@ -59,20 +59,16 @@ Research showcases that a significant segment of consumers prefers products from
 Many companies have successfully implemented green [marketing](../m/marketing.md) strategies, enhancing their [market](../m/market.md) positions and sustainability profiles:
 
 1. **Patagonia**:
-    - **Website**: [Patagonia](https://www.patagonia.com)
-    - Patagonia emphasizes its commitment to environmental sustainability through the use of recycled materials and sustainable practices in its [supply chain](../s/supply_chain.md). Their "Worn Wear" initiative promotes the reuse and recycling of their products.
+ - Patagonia emphasizes its commitment to environmental sustainability through the use of recycled materials and sustainable practices in its [supply chain](../s/supply_chain.md). Their "Worn Wear" initiative promotes the reuse and recycling of their products.
 
 2. **IKEA**:
-    - **Website**: [IKEA](https://www.ikea.com)
-    - IKEA has committed to sourcing sustainable materials, reducing energy consumption, and producing energy-efficient products. Their "People & Planet Positive" strategy outlines their vision and actions toward sustainability.
+ - IKEA has committed to sourcing sustainable materials, reducing energy consumption, and producing energy-efficient products. Their "People & Planet Positive" strategy outlines their vision and actions toward sustainability.
 
 3. **Tesla**:
-    - **Website**: [Tesla](https://www.tesla.com)
-    - Tesla focuses on electric vehicles and renewable energy solutions as part of its mission to accelerate the world's transition to sustainable energy.
+ - Tesla focuses on electric vehicles and renewable energy solutions as part of its mission to accelerate the world's transition to sustainable energy.
 
 4. **Unilever**:
-    - **Website**: [Unilever](https://www.unilever.com)
-    - Unilever's Sustainable Living Plan aims to decouple its growth from environmental damage and increase positive social impact. 
+ - Unilever's Sustainable Living Plan aims to decouple its growth from environmental damage and increase positive social impact.
 
 ### Strategies for Implementing Green Marketing
 

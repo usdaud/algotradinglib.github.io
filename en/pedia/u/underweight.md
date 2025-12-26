@@ -76,7 +76,7 @@ In summary, being underweight in a financial context is a deliberate [investment
 
 For more detailed information on investment strategies and [portfolio management](../p/par.md), you can refer to the following resources:
 
-- [BlackRock](https://www.blackrock.com/)
-- [Vanguard](https://investor.vanguard.com/)
-- [Morningstar](https://www.morningstar.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
+- BlackRock
+- Vanguard
+- Morningstar
+- Fidelity Investments

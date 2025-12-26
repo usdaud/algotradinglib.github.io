@@ -67,32 +67,23 @@ Statistical [arbitrage](../a/arbitrage.md) is a [market](../m/market.md)-[neutra
 ### Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its use of [quantitative models](../q/quantitative_models.md) and algorithms in trading. Founded by Jim Simons, the company is famous for its Medallion [Fund](../f/fund.md), which has achieved remarkable returns using advanced quantitative methods.
 
-Website: [Renaissance Technologies](https://www.rentec.com)
-
 ### Two Sigma
 Two Sigma is a financial technology and [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities. The company combines [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to develop [quantitative trading](../q/quantitative_trading.md) strategies.
 
-Website: [Two Sigma](https://www.twosigma.com)
 
 ### DE Shaw Group
 DE Shaw Group is a global investment and technology development [firm](../f/firm.md) known for its research-driven and quantitative investment approach. The [firm](../f/firm.md) employs scientists, engineers, and financial analysts to develop innovative strategies and technology solutions.
 
-Website: [DE Shaw Group](https://www.deshaw.com)
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management is an [investment management](../i/investment_management.md) [firm](../f/firm.md) that applies a systematic and scientific approach to [investment management](../i/investment_management.md). AQR’s research-driven strategies span across traditional and alternative [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), and commodities.
 
-Website: [AQR Capital Management](https://www.aqr.com)
 
 ### Citadel LLC
 Citadel is a global financial institution that uses proprietary models and [quantitative research](../q/quantitative_research.md) to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) operates in various [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), commodities, and forex.
 
-Website: [Citadel LLC](https://www.citadel.com)
-
 ### WorldQuant
 WorldQuant is a global quantitative investment [firm](../f/firm.md) that uses rigorous scientific methods to develop and deploy advanced [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to achieve its investment goals.
-
-Website: [WorldQuant](https://www.worldquant.com)
 
 ## Conclusion
 

@@ -71,7 +71,7 @@ Different methods for measuring [inflation](../i/inflation.md) (CPI, PPI, core [
 
 ### FinTech Innovations
 
-Innovations in financial technology (FinTech) have revolutionized many aspects of [financial analysis](../f/financial_analysis.md), including the calculation and application of the real [rate of return](../r/rate_of_return.md). Tools and platforms now [offer](../o/offer.md) [real-time data analysis](../r/real-time_data_analysis.md), [predictive analytics](../p/predictive_analytics.md), and automated calculations, enhancing the accuracy and [efficiency](../e/efficiency.md) of these financial metrics. Companies like [Personal Capital](https://www.personalcapital.com/) provide such tools that facilitate easy tracking of real returns on investment.
+Innovations in financial technology (FinTech) have revolutionized many aspects of [financial analysis](../f/financial_analysis.md), including the calculation and application of the real [rate of return](../r/rate_of_return.md). Tools and platforms now [offer](../o/offer.md) [real-time data analysis](../r/real-time_data_analysis.md), [predictive analytics](../p/predictive_analytics.md), and automated calculations, enhancing the accuracy and [efficiency](../e/efficiency.md) of these financial metrics. Companies like Personal Capital provide such tools that facilitate easy tracking of real returns on investment.
 
 ### Big Data Analytics
 
@@ -79,7 +79,7 @@ Innovations in financial technology (FinTech) have revolutionized many aspects o
 
 ### Machine Learning Algorithms
 
-[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are increasingly employed to predict complex economic variables such as [inflation](../i/inflation.md). These algorithms can process and learn from historical data to anticipate future trends, contributing to more accurate real [rate of return](../r/rate_of_return.md) estimations. Financial services companies like [Betterment](https://www.betterment.com/) [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to optimize investment portfolios considering real returns.
+[Machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) are increasingly employed to predict complex economic variables such as [inflation](../i/inflation.md). These algorithms can process and learn from historical data to anticipate future trends, contributing to more accurate real [rate of return](../r/rate_of_return.md) estimations. Financial services companies like Betterment [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to optimize investment portfolios considering real returns.
 
 ## Conclusion
 

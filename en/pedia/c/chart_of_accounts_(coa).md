@@ -23,12 +23,12 @@ To illustrate, a simple COA might assign codes as follows:
 ### Hierarchical Structure
 COAs often employ a hierarchical structure, with major account types broken down into subcategories to provide more granularity. For example:
 - **Assets (1000-1999)**
-  - **[Current Assets](../c/current_assets.md) (1100-1199)**
-    - Cash (1100)
-    - Accounts [Receivable](../r/receivable.md) (1110)
-  - **Fixed Assets (1200-1299)**
-    - Buildings (1200)
-    - Machinery (1210)
+ - **[Current Assets](../c/current_assets.md) (1100-1199)**
+ - Cash (1100)
+ - Accounts [Receivable](../r/receivable.md) (1110)
+ - **Fixed Assets (1200-1299)**
+ - Buildings (1200)
+ - Machinery (1210)
 
 ## Importance of a Chart of Accounts
 The COA serves several critical functions:
@@ -54,24 +54,24 @@ While general guidelines can be applied, each [business](../b/business.md) may n
 ## Example of a Chart of Accounts
 Here's a simple example of a COA for a small [business](../b/business.md):
 
-| **Account Code** | **Account Name**       | **Description**                 |
+| **Account Code** | **Account Name** | **Description** |
 |-----------------|----------------------|---------------------------------|
-| 1000            | Cash                 | Cash in hand and in [bank](../b/bank.md)        |
-| 1100            | Accounts [Receivable](../r/receivable.md)  | [Money](../m/money.md) owed by customers         |
-| 1500            | [Inventory](../i/inventory.md)            | Goods available for [sale](../s/sale.md)        |
-| 2000            | Accounts Payable     | [Money](../m/money.md) owed to suppliers         |
-| 3000            | [Common Stock](../c/common_stock.md)         | Owner's [equity](../e/equity.md) in the [business](../b/business.md)  |
-| 4000            | Service [Revenue](../r/revenue.md)      | [Income](../i/income.md) from services provided   |
-| 5000            | Rent [Expense](../e/expense.md)         | Cost of leasing premises        |
-| 5100            | Salaries [Expense](../e/expense.md)     | Wages paid to employees         |
+| 1000 | Cash | Cash in hand and in [bank](../b/bank.md) |
+| 1100 | Accounts [Receivable](../r/receivable.md) | [Money](../m/money.md) owed by customers |
+| 1500 | [Inventory](../i/inventory.md) | Goods available for [sale](../s/sale.md) |
+| 2000 | Accounts Payable | [Money](../m/money.md) owed to suppliers |
+| 3000 | [Common Stock](../c/common_stock.md) | Owner's [equity](../e/equity.md) in the [business](../b/business.md) |
+| 4000 | Service [Revenue](../r/revenue.md) | [Income](../i/income.md) from services provided |
+| 5000 | Rent [Expense](../e/expense.md) | Cost of leasing premises |
+| 5100 | Salaries [Expense](../e/expense.md) | Wages paid to employees |
 
 ## Software Solutions for COA
 Several [accounting](../a/accounting.md) [software platforms](../s/software_platforms_for_trading.md) provide tools to create and manage a COA efficiently:
-- **QuickBooks (Intuit):** [QuickBooks](https://quickbooks.intuit.com/)
-- **Xero:** [Xero](https://www.xero.com/)
-- **Sage:** [Sage](https://www.sage.com/)
-- **Oracle NetSuite:** [Oracle NetSuite](https://www.netsuite.com/portal/home.shtml)
-- **SAP:** [SAP](https://www.sap.com/)
+- **QuickBooks (Intuit):** QuickBooks
+- **Xero:** Xero
+- **Sage:** Sage
+- **Oracle NetSuite:** Oracle NetSuite
+- **SAP:** SAP
 
 These solutions often come with pre-configured COAs suitable for various industries, which can be further customized to meet specific needs.
 

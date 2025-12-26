@@ -5,7 +5,7 @@
 ## Components and Calculation
 
 ### Price Change
-At the core of any financial [index](../i/index_instrument.md) is the measurement of price movements of the included assets. This component reflects the appreciation or [depreciation](../d/depreciation.md) in the [value](../v/value.md) of each [asset](../a/asset.md) over time. 
+At the core of any financial [index](../i/index_instrument.md) is the measurement of price movements of the included assets. This component reflects the appreciation or [depreciation](../d/depreciation.md) in the [value](../v/value.md) of each [asset](../a/asset.md) over time.
 
 #### Calculation Formula
 For an individual [asset](../a/asset.md):
@@ -40,7 +40,7 @@ To track the performance continuously, daily [total return](../t/total_return.md
 ### Example: S&P 500 Total Return Index (SPXTR)
 One of the most cited TRIs is the S&P 500 [Total Return Index](../t/total_return_index.md). It incorporates dividends paid by the constituents of the S&P 500, assuming they are reinvested into the [index](../i/index_instrument.md).
 
-More information: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
+More information: S&P Dow Jones Indices
 
 ## Importance and Applications
 
@@ -92,15 +92,15 @@ The amount and frequency of dividends by constituent companies impact the total 
 
 ### MSCI Inc.
 Renowned for providing global [equity](../e/equity.md), [fixed income](../f/fixed_income.md), [real estate](../r/real_estate.md), and ESG indices.
-More information: [MSCI Inc.](https://www.msci.com/)
+More information: MSCI Inc.
 
 ### S&P Dow Jones Indices
 Known for comprehensive [equity](../e/equity.md) and fixed-[income](../i/income.md) indices including the famous S&P 500 TRI.
-More information: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
+More information: S&P Dow Jones Indices
 
 ### FTSE Russell
 Provides indices covering equities, [fixed income](../f/fixed_income.md), and [real estate](../r/real_estate.md).
-More information: [FTSE Russell](https://www.ftserussell.com/)
+More information: FTSE Russell
 
 ## Summary
 [Total Return](../t/total_return.md) Indices [offer](../o/offer.md) a [robust](../r/robust.md) framework for understanding and comparing investment performance by incorporating both price movements and [income](../i/income.md) generated from the constituent assets. They serve as essential tools for investors, [fund](../f/fund.md) managers, and financial product developers, allowing for better-informed investment decisions and [performance benchmarking](../p/performance_benchmarking.md).

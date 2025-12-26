@@ -53,5 +53,3 @@ X-[Trader](../t/trader.md).net employs standard online [security](../s/security.
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
 - **Secure Access**: Implementing secure login processes to prevent unauthorized access.
 
-## Website
-For more information and to join the community, visit the official X-[Trader](../t/trader.md).net website: [X-Trader.net](https://www.x-trader.net/)

@@ -15,8 +15,8 @@ The practice of interbank deposits dates back to the early days of modern bankin
 Central banks play a pivotal role in the interbank [deposit](../d/deposit.md) [market](../m/market.md). They regulate and oversee the [market](../m/market.md) to ensure its stability and [efficiency](../e/efficiency.md). Through [monetary policy](../m/monetary_policy.md) tools such as the [discount rate](../d/discount_rate.md) and [reserve requirements](../r/reserve_requirements.md), central banks influence the availability and cost of interbank funds. They also provide a safety net by acting as lenders of last resort, [offering](../o/offering.md) [liquidity](../l/liquidity.md) to banks during times of stress.
 
 ### Examples:
-- **Federal Reserve (USA)**: The Federal Reserve regulates the [interbank market](../i/interbank_market.md) in the United States. More information can be found on their [official website](https://www.federalreserve.gov/).
-- **European Central [Bank](../b/bank.md) (EU)**: The ECB oversees interbank operations in the [Eurozone](../e/eurozone.md). Visit their [official website](https://www.ecb.europa.eu/home/html/index.en.html) for more details.
+- **Federal Reserve (USA)**: The Federal Reserve regulates the [interbank market](../i/interbank_market.md) in the United States.
+- **European Central [Bank](../b/bank.md) (EU)**: The ECB oversees interbank operations in the [Eurozone](../e/eurozone.md).
 
 ## Types of Interbank Deposits
 

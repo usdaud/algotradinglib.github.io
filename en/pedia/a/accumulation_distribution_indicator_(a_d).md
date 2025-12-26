@@ -79,7 +79,7 @@ While the A/D [indicator](../i/indicator.md) is powerful, it is not without limi
 The Accumulation/[Distribution](../d/distribution.md) [Indicator](../i/indicator.md) (A/D) is a [robust](../r/robust.md) tool for assessing the flow of [money](../m/money.md) into and out of a [security](../s/security.md), blending both price and [volume](../v/volume.md) data for enhanced [market](../m/market.md) insights. By understanding the calculation, interpretation, and application of the ADL, traders can better confirm trends and identify potential reversals, contributing to more informed trading decisions. However, it should be utilized alongside other indicators and analysis techniques to mitigate its inherent limitations and achieve a holistic [market](../m/market.md) view.
 
 For further details, you might visit the official pages of trading platforms such as:
-- MetaTrader: [MetaTrader 4](https://www.metatrader4.com) and [MetaTrader 5](https://www.metatrader5.com)
-- [NinjaTrader](../n/ninjatrader.md): [NinjaTrader](https://ninjatrader.com)
-- [TradingView](../t/tradingview.md): [TradingView](https://www.tradingview.com)
-- ThinkOrSwim: [ThinkOrSwim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- MetaTrader: MetaTrader 4 and MetaTrader 5
+- [NinjaTrader](../n/ninjatrader.md): NinjaTrader
+- [TradingView](../t/tradingview.md): TradingView
+- ThinkOrSwim: ThinkOrSwim by TD Ameritrade

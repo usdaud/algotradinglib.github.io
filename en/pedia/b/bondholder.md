@@ -5,7 +5,7 @@ A bondholder is an [investor](../i/investor.md) or the owner of [debt](../d/debt
 ## Types of Bonds
 
 ### Corporate Bonds
-Corporate bonds are [debt](../d/debt.md) securities issued by companies to [finance](../f/finance.md) a variety of initiatives such as expansions, acquisitions, or day-to-day [business](../b/business.md) operations. They can be secured, [offering](../o/offering.md) [collateral](../c/collateral.md) to the bondholders, or unsecured, depending purely on the [issuer](../i/issuer.md)’s [creditworthiness](../c/creditworthiness.md). 
+Corporate bonds are [debt](../d/debt.md) securities issued by companies to [finance](../f/finance.md) a variety of initiatives such as expansions, acquisitions, or day-to-day [business](../b/business.md) operations. They can be secured, [offering](../o/offering.md) [collateral](../c/collateral.md) to the bondholders, or unsecured, depending purely on the [issuer](../i/issuer.md)’s [creditworthiness](../c/creditworthiness.md).
 
 ### Government Bonds
 These are bonds issued by national governments. They often [offer](../o/offer.md) lower yields compared to corporate bonds, implying lower [risk](../r/risk.md), as they are backed by the taxing power of the government. Examples include [U.S. Treasury](../u/u.s._treasury.md) bonds and U.K. [gilts](../g/gilts.md).
@@ -81,4 +81,4 @@ Regulations like the SEC’s Regulation Best [Interest](../i/interest.md) and [M
 
 Bondholders are pivotal players in the [debt](../d/debt.md) [capital markets](../c/capital_markets.md), providing essential funds to issuers while seeking to safeguard their investments through rights and strategic trading. Advancements in [algorithmic trading](../a/accountability.md) have revolutionized the way bondholders manage their portfolios, [offering](../o/offering.md) new opportunities and challenges that necessitate a vigilant regulatory approach to maintain [market](../m/market.md) integrity.
 
-For more comprehensive details and resources on high-frequency and [algorithmic trading](../a/accountability.md) solutions, you can visit firms like [Virtu Financial](https://www.virtu.com/), which provide state-of-the-art technology platforms for modern trading environments.
+For more comprehensive details and resources on high-frequency and [algorithmic trading](../a/accountability.md) solutions, you can visit firms like Virtu Financial, which provide state-of-the-art technology platforms for modern trading environments.

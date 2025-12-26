@@ -73,31 +73,31 @@ Several computational tools and libraries are available for implementing stochas
 ### Python Libraries
 
 - **NumPy**: Fundamental package for scientific computing with Python, [offering](../o/offering.md) support for large multi-dimensional arrays and matrices.
-  - [NumPy](https://numpy.org/)
+ - NumPy
 
 - **SciPy**: [Open](../o/open.md)-source library used for scientific and technical computing, complementing NumPy.
-  - [SciPy](https://scipy.org/)
+ - SciPy
 
 - **Pandas**: Library providing data structures and data analysis tools for Python.
-  - [Pandas](https://pandas.pydata.org/)
+ - Pandas
 
 - **[QuantLib](../q/quantlib.md)**: [Open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md).
-  - [QuantLib](https://www.quantlib.org/)
+ - QuantLib
 
 ### MATLAB
 
 MATLAB is extensively used in the financial [industry](../i/industry.md) for developing [quantitative trading](../q/quantitative_trading.md) models. It includes toolboxes designed explicitly for implementing [stochastic processes](../s/stochastic_processes.md) and simulations.
-  - [MATLAB](https://www.mathworks.com/products/matlab.html)
+ - MATLAB
 
 ### R
 
 R is another popular language used for statistical computing and graphics. It offers [multiple](../m/multiple.md) packages for [stochastic modeling](../s/stochastic_modeling.md) and [quantitative finance](../q/quantitative_finance.md).
-  - [R Project](https://www.r-project.org/)
+ - R Project
 
 ### Julia
 
 Julia is also gaining traction in [quantitative finance](../q/quantitative_finance.md) due to its high-performance capabilities and ease of use.
-  - [Julia](https://julialang.org/)
+ - Julia
 
 ## Advanced Topics in Stochastic Calculus
 

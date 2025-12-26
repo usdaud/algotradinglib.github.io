@@ -4,7 +4,7 @@
 
 #### Understanding Vega
 
-[Vega](../v/vega.md) measures the amount an option's price changes with a 1% change in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). For example, if an option has a [Vega](../v/vega.md) of 0.15, and the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) increases by 1%, the price of the option [will](../w/will.md) increase by approximately $0.15. Conversely, if the [volatility](../v/volatility.md) decreases by 1%, the option's price [will](../w/will.md) fall by $0.15. 
+[Vega](../v/vega.md) measures the amount an option's price changes with a 1% change in the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). For example, if an option has a [Vega](../v/vega.md) of 0.15, and the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) increases by 1%, the price of the option [will](../w/will.md) increase by approximately $0.15. Conversely, if the [volatility](../v/volatility.md) decreases by 1%, the option's price [will](../w/will.md) fall by $0.15.
 
 [Vega](../v/vega.md) is higher for [options](../o/options.md) that are at-the-[money](../m/money.md) and decreases as [options](../o/options.md) move deeper in- or out-of-the-[money](../m/money.md). Additionally, [Vega](../v/vega.md) also tends to be higher for [options](../o/options.md) with longer time to expiration.
 
@@ -13,7 +13,7 @@
 In a volatile [market](../m/market.md), neglecting [Vega](../v/vega.md) can lead to substantial losses. [Vega](../v/vega.md) [risk management](../r/risk_management.md) is essential for [options](../o/options.md) traders, portfolio managers, and financial institutions to maintain a balanced and [risk](../r/risk.md)-adjusted portfolio. Here are some primary reasons why [Vega](../v/vega.md) [risk management](../r/risk_management.md) is important:
 
 1. **[Volatility Forecasting](../v/volatility_forecasting.md):** Understanding how various [volatility](../v/volatility.md) scenarios affect an [options](../o/options.md) portfolio is critical. Traders must analyze [historical volatility](../h/historical_volatility.md) and implied [volatility](../v/volatility.md) to predict future movements.
-   
+
 2. **[Hedging Strategies](../h/hedging_strategies.md):** Effective [Vega](../v/vega.md) [risk management](../r/risk_management.md) often involves [hedging strategies](../h/hedging_strategies.md) to protect against unfavorable [volatility](../v/volatility.md) shifts. Using other [options](../o/options.md) or financial instruments can help [offset](../o/offset.md) potential adverse effects.
 
 3. **Regulatory Compliance:** Financial institutions must adhere to regulations that require adequate [risk management](../r/risk_management.md) practices, including those addressing [volatility risk](../v/volatility_risk.md).
@@ -49,16 +49,12 @@ Hedging [Vega](../v/vega.md) [risk](../r/risk.md) involves strategies that reduc
 Several tools and platforms are available to assist in [Vega](../v/vega.md) [risk management](../r/risk_management.md):
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal:** Provides comprehensive data and analytics, including implied [volatility](../v/volatility.md) surfaces and [options](../o/options.md) [Greeks](../g/greeks.md), for effective [Vega](../v/vega.md) [risk management](../r/risk_management.md).
-   [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 2. **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** An advanced [trading platform](../t/trading_platform.md) with features for [options](../o/options.md) analysis, [volatility](../v/volatility.md) studies, and real-time data.
-   [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
 3. **OptionsHouse by [E*TRADE](../e/e_trade.md):** Offers powerful tools and analytics for [options](../o/options.md) traders to manage and [hedge](../h/hedge.md) [Vega](../v/vega.md) [risk](../r/risk.md).
-   [OptionsHouse](https://us.etrade.com/platforms/optionshouse)
 
 4. **[Interactive Brokers](../i/interactive_brokers.md):** Provides [robust](../r/robust.md) platforms for [options](../o/options.md) trading with tools for Greek [risk management](../r/risk_management.md), including [Vega](../v/vega.md).
-   [Interactive Brokers](https://www.interactivebrokers.com/)
 
 #### Conclusion
 

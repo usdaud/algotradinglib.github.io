@@ -17,51 +17,51 @@ The [Kalman filter](../k/kalman_filter_in_trading.md) operates under the assumpt
 
 Consider the dynamic system represented by the following state-space model:
 
-- **State Equation**: 
-  \[
-  x_{k} = A \cdot x_{k-1} + B \cdot u_{k} + w_{k}
-  \]
-  where:
-  - \( x_k \) represents the state vector at time \( k \).
-  - \( A \) is the state transition matrix.
-  - \( B \) is the control-input matrix.
-  - \( u_k \) is the control vector.
-  - \( w_k \) is the process [noise](../n/noise.md), assumed to be Gaussian with zero mean and [covariance](../c/covariance.md) \( Q \).
+- **State Equation**:
+ \[
+ x_{k} = A \cdot x_{k-1} + B \cdot u_{k} + w_{k}
+ \]
+ where:
+ - \( x_k \) represents the state vector at time \( k \).
+ - \( A \) is the state transition matrix.
+ - \( B \) is the control-input matrix.
+ - \( u_k \) is the control vector.
+ - \( w_k \) is the process [noise](../n/noise.md), assumed to be Gaussian with zero mean and [covariance](../c/covariance.md) \( Q \).
 
 - **Measurement Equation**:
-  \[
-  z_{k} = H \cdot x_{k} + v_{k}
-  \]
-  where:
-  - \( z_k \) is the observation vector.
-  - \( H \) is the observation matrix.
-  - \( v_k \) is the measurement [noise](../n/noise.md), assumed to be Gaussian with zero mean and [covariance](../c/covariance.md) \( R \).
+ \[
+ z_{k} = H \cdot x_{k} + v_{k}
+ \]
+ where:
+ - \( z_k \) is the observation vector.
+ - \( H \) is the observation matrix.
+ - \( v_k \) is the measurement [noise](../n/noise.md), assumed to be Gaussian with zero mean and [covariance](../c/covariance.md) \( R \).
 
 The [Kalman filter](../k/kalman_filter_in_trading.md) performs the following recursive steps to estimate \( x_k \):
 
 1. **Prediction**:
-   - Predict the state:
-     \[
-     \hat{x}_{k|k-1} = A \cdot \hat{x}_{k-1|k-1} + B \cdot u_{k}
-     \]
-   - Predict the error [covariance](../c/covariance.md):
-     \[
-     P_{k|k-1} = A \cdot P_{k-1|k-1} \cdot A^T + Q
-     \]
+ - Predict the state:
+ \[
+ \hat{x}_{k|k-1} = A \cdot \hat{x}_{k-1|k-1} + B \cdot u_{k}
+ \]
+ - Predict the error [covariance](../c/covariance.md):
+ \[
+ P_{k|k-1} = A \cdot P_{k-1|k-1} \cdot A^T + Q
+ \]
 
 2. **Update**:
-   - Compute the [Kalman Gain](../k/kalman_gain_in_trading.md):
-     \[
-     K_{k} = P_{k|k-1} \cdot H^T \cdot (H \cdot P_{k|k-1} \cdot H^T + R)^{-1}
-     \]
-   - Update the state estimate:
-     \[
-     \hat{x}_{k|k-1} = \hat{x}_{k|k-1} + K_{k} \cdot (z_{k} - H \cdot \hat{x}_{k|k-1})
-     \]
-   - Update the error [covariance](../c/covariance.md):
-     \[
-     P_{k|k-1} = (I - K_{k} \cdot H) \cdot P_{k|k-1}
-     \]
+ - Compute the [Kalman Gain](../k/kalman_gain_in_trading.md):
+ \[
+ K_{k} = P_{k|k-1} \cdot H^T \cdot (H \cdot P_{k|k-1} \cdot H^T + R)^{-1}
+ \]
+ - Update the state estimate:
+ \[
+ \hat{x}_{k|k-1} = \hat{x}_{k|k-1} + K_{k} \cdot (z_{k} - H \cdot \hat{x}_{k|k-1})
+ \]
+ - Update the error [covariance](../c/covariance.md):
+ \[
+ P_{k|k-1} = (I - K_{k} \cdot H) \cdot P_{k|k-1}
+ \]
 
 ### Application in Algorithmic Trading
 
@@ -72,13 +72,13 @@ In [algorithmic trading](../a/algorithmic_trading.md), the [Kalman filter](../k/
 One of the primary applications is estimating the [underlying](../u/underlying.md) [trend](../t/trend.md) of an [asset](../a/asset.md)'s price. Traders model the price series as follows:
 
 - **State Equation**:
-  \[
-  x_{k} = x_{k-1} + w_{k}
-  \]
+ \[
+ x_{k} = x_{k-1} + w_{k}
+ \]
 - **Measurement Equation**:
-  \[
-  z_{k} = x_{k} + v_{k}
-  \]
+ \[
+ z_{k} = x_{k} + v_{k}
+ \]
 
 Here, \( x_k \) represents the true price, while \( z_k \) represents the observed price. The [Kalman filter](../k/kalman_filter_in_trading.md) helps in estimating \( x_k \), providing a [trend](../t/trend.md) component that is less influenced by [noise](../n/noise.md).
 
@@ -87,9 +87,9 @@ Here, \( x_k \) represents the true price, while \( z_k \) represents the observ
 [Volatility](../v/volatility.md) is a critical parameter in [trading strategies](../t/trading_strategies.md), influencing [risk management](../r/risk_management.md) and [position sizing](../p/position_sizing.md). The [Kalman filter](../k/kalman_filter_in_trading.md) can model stochastic [volatility](../v/volatility.md) by extending the state-space model to include an additional state variable representing [volatility](../v/volatility.md).
 
 - **State Equation for [Volatility](../v/volatility.md)**:
-  \[
-  \sigma_{k} = \sigma_{k-1} + w_{k}
-  \]
+ \[
+ \sigma_{k} = \sigma_{k-1} + w_{k}
+ \]
 
 The filtered [volatility](../v/volatility.md) estimates can then be used to construct dynamic [trading strategies](../t/trading_strategies.md) that adapt to changing [market](../m/market.md) conditions.
 
@@ -171,4 +171,4 @@ Despite its theoretical appeal, implementing the [Kalman filter in trading](../k
 
 Kalman [trend](../t/trend.md) filtering offers a sophisticated approach to estimating and predicting [financial time series](../f/financial_time_series.md), making it a valuable tool in the arsenal of algorithmic traders. By effectively distinguishing between [noise](../n/noise.md) and true [market](../m/market.md) signals, the [Kalman filter](../k/kalman_filter_in_trading.md) supports informed decision-making and enhances [trading strategies](../t/trading_strategies.md). With ongoing advancements and the development of more [robust](../r/robust.md) variants, the [Kalman filter](../k/kalman_filter_in_trading.md) continues to be a cornerstone in the field of [algorithmic trading](../a/algorithmic_trading.md).
 
-For more information about [algorithmic trading](../a/algorithmic_trading.md) and software solutions, visit [KX Systems](https://kx.com) or [Numerix](https://www.numerix.com).
+For more information about [algorithmic trading](../a/algorithmic_trading.md) and software solutions, visit KX Systems or Numerix.

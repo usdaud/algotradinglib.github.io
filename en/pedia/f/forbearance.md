@@ -11,11 +11,11 @@
 
 ## Types of Forbearance
 1. **[Mortgage](../m/mortgage.md) Forbearance**: Temporary suspension or reduction of [mortgage](../m/mortgage.md) payments.
-   - **Example**: A homeowner who loses their job may request forbearance to avoid [foreclosure](../f/foreclosure.md).
+ - **Example**: A homeowner who loses their job may request forbearance to avoid [foreclosure](../f/foreclosure.md).
 2. **Student [Loan](../l/loan.md) Forbearance**: Temporary relief from student [loan](../l/loan.md) payments.
-   - **Example**: A recent graduate facing financial difficulties may apply for forbearance on their student loans.
+ - **Example**: A recent graduate facing financial difficulties may apply for forbearance on their student loans.
 3. **[Credit Card](../c/credit_card.md) Forbearance**: Temporary suspension or reduction of [credit card](../c/credit_card.md) payments.
-   - **Example**: A [credit card](../c/credit_card.md) [issuer](../i/issuer.md) may [offer](../o/offer.md) forbearance to a cardholder affected by a natural disaster.
+ - **Example**: A [credit card](../c/credit_card.md) [issuer](../i/issuer.md) may [offer](../o/offer.md) forbearance to a cardholder affected by a natural disaster.
 
 ## Importance
 1. **Financial Relief**: Provides borrowers with temporary financial relief during periods of hardship, helping them avoid [default](../d/default.md) and maintain their [credit](../c/credit.md) standing.
@@ -45,4 +45,3 @@
 
 ## Conclusion
 Forbearance is a valuable tool for borrowers facing temporary financial hardships, providing them with short-term relief from [loan](../l/loan.md) payments. While it can help avoid [default](../d/default.md) and manage [debt](../d/debt.md), borrowers must be aware of the potential for [accrued interest](../a/accrued_interest.md) and the need to [resume](../r/resume.md) regular payments after the forbearance period ends. Understanding the process, benefits, and challenges of forbearance can help borrowers make informed decisions during financial difficulties.
-

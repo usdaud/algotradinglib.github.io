@@ -48,11 +48,11 @@ Pattern day traders often employ various strategies to maximize their returns. T
 
 ## Role of Technology
 
-Technology plays a pivotal role in pattern [day trading](../d/day_trading.md). Advanced trading platforms that provide real-time data, charting tools, and fast [execution](../e/execution.md) are essential. Moreover, [algorithmic trading](../a/accountability.md) systems and automated [trading strategies](../t/trading_strategies.md) are increasingly used by professional pattern day traders to [gain](../g/gain.md) an edge in the markets.
+Technology plays a pivotal role in pattern [day trading](../d/day_trading.md). Advanced trading platforms that provide real-time data, charting tools, and fast [execution](../e/execution.md) are essential. Moreover, [algorithmic trading](../a/algorithmic_trading.md) systems and automated [trading strategies](../t/trading_strategies.md) are increasingly used by professional pattern day traders to [gain](../g/gain.md) an edge in the markets.
 
 ## Algo-Trading in Pattern Day Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves the use of computer algorithms to automate trading decisions based on pre-defined criteria. For pattern day traders, algo-trading can provide several advantages:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves the use of computer algorithms to automate trading decisions based on pre-defined criteria. For pattern day traders, algo-trading can provide several advantages:
 
 ### Speed and Efficiency
 
@@ -82,15 +82,15 @@ Choosing the right brokerage and [trading platform](../t/trading_platform.md) is
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) is known for its professional-grade trading platforms and comprehensive tools for day traders. Their [website](https://www.interactivebrokers.com/) offers details on their trading solutions and regulatory compliance.
+[Interactive Brokers](../i/interactive_brokers.md) is known for its professional-grade trading platforms and comprehensive tools for day traders. their online platform offers details on their trading solutions and regulatory compliance.
 
 ### TD Ameritrade
 
-TD [Ameritrade](../a/ameritrade.md) provides platforms like thinkorswim, which is highly regarded for [technical analysis](../t/technical_analysis.md) and charting capabilities. Their [website](https://www.tdameritrade.com/) gives an overview of their services and tools.
+TD [Ameritrade](../a/ameritrade.md) provides platforms like thinkorswim, which is highly regarded for [technical analysis](../t/technical_analysis.md) and charting capabilities. their online platform gives an overview of their services and tools.
 
 ### E*TRADE
 
-[E*TRADE](../e/e_trade.md) offers a [range](../r/range.md) of trading tools suitable for pattern day traders, including comprehensive educational resources. More details can be found on their [website](https://us.etrade.com/).
+[E*TRADE](../e/e_trade.md) offers a [range](../r/range.md) of trading tools suitable for pattern day traders, including comprehensive educational resources. More
 
 ## Conclusion
 

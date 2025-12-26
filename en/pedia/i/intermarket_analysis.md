@@ -68,25 +68,21 @@ Several [software tools](../s/software_tools_for_trading.md) facilitate Intermar
 
 The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive data, news, and analytics across [financial markets](../f/financial_market.md), making it a crucial tool for Intermarket Analysis. It allows users to track correlations and trends between different [asset](../a/asset.md) classes seamlessly.
 
-[Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 2. Reuters Eikon
 
 [Reuters](../r/reuters.md) Eikon is another powerful tool providing [real-time market data](../r/real-time_market_data.md) and analytics. It allows for extensive [cross-market analysis](../c/cross-market_analysis.md), indispensable for traders engaging in Intermarket Analysis.
 
-[Visit Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
 
 ### 3. Trade Ideas
 
 [Trade](../t/trade.md) Ideas uses [artificial intelligence](../a/artificial_intelligence_in_trading.md) to help traders identify trends and trading opportunities across [multiple](../m/multiple.md) markets. With advanced algorithmic scanning capabilities, it simplifies the process of Intermarket Analysis.
 
-[Visit Trade Ideas](https://www.trade-ideas.com/)
 
 ### 4. MetaStock
 
 [MetaStock](../m/metastock.md) offers software solutions tailored for [technical analysis](../t/technical_analysis.md), including tools specifically designed for Intermarket Analysis. It helps in identifying correlations and predictive patterns across various [asset](../a/asset.md) classes.
 
-[Visit MetaStock](https://www.metastock.com/)
 
 ## Case Studies in Intermarket Analysis
 

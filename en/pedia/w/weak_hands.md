@@ -30,7 +30,7 @@ Weak hands play a significant role in the dynamics of [financial markets](../f/f
 
 - **Amplification of [Volatility](../v/volatility.md)**: Weak hands tend to exit their positions quickly during [market](../m/market.md) drops, which can exacerbate selling pressure and increase [volatility](../v/volatility.md).
 - **Buy High, Sell Low**: Due to their lack of conviction, weak hands often buy into assets during periods of optimism and sell during periods of pessimism, which is the opposite of the profitable buy low, sell high approach.
-  
+
 ## Impact on Market Dynamics
 
 ### Market Trends

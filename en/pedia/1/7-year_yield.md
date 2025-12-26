@@ -65,7 +65,7 @@ The 7-year [yield](../y/yield.md) specifically refers to the [yield](../y/yield.
 The 7-year [yield](../y/yield.md) has experienced significant fluctuations in recent years, influenced by various economic and geopolitical factors. For instance, the COVID-19 pandemic led to unprecedented [monetary policy](../m/monetary_policy.md) actions, dramatically affecting yields.
 
 ### Historical Data Access
-Investors and analysts can access historical [yield](../y/yield.md) data from the U.S. Department of the Treasury's [website](https://home.treasury.gov/).
+Investors and analysts can access historical [yield](../y/yield.md) data from the U.S. Department of the Treasury.
 
 ## Conclusion
 The 7-year [yield](../y/yield.md) is a pivotal element in the financial landscape, providing insights into [economic conditions](../e/economic_conditions.md), [investor](../i/investor.md) sentiment, and future [interest](../i/interest.md) rates. By understanding the factors that influence the 7-year [yield](../y/yield.md) and its broader implications, stakeholders can make more informed decisions in their investment strategies and policy formulations.

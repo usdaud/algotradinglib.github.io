@@ -4,7 +4,7 @@ The securities [market](../m/market.md) is a critical component of the global [f
 
 ## 1. Introduction to Securities Market Regulation
 
-Securities [market regulation](../m/market_regulation.md) refers to the framework of rules, institutions, and practices designed to ensure the orderly functioning of securities markets, protect investors, and [uphold](../u/uphold.md) [market](../m/market.md) integrity. The foundation of these regulations is to foster [transparency](../t/transparency.md), fairness, and [efficiency](../e/efficiency.md). 
+Securities [market regulation](../m/market_regulation.md) refers to the framework of rules, institutions, and practices designed to ensure the orderly functioning of securities markets, protect investors, and [uphold](../u/uphold.md) [market](../m/market.md) integrity. The foundation of these regulations is to foster [transparency](../t/transparency.md), fairness, and [efficiency](../e/efficiency.md).
 
 ### 1.1 Objectives of Securities Market Regulation
 - **Protection of Investors**: Safeguarding the interests of investors, especially retail investors, by ensuring they have access to necessary information and that their rights are protected.
@@ -29,19 +29,15 @@ Coordination among different countries is facilitated by international organizat
 
 ### 3.1 Securities and Exchange Commission (SEC)
 The SEC is a U.S. government instrumentality responsible for overseeing and regulating the securities markets. Its mandate includes monitoring disclosures, enforcing securities laws, and protecting investors.
-[US SEC](https://www.sec.gov/)
 
 ### 3.2 Financial Conduct Authority (FCA)
 The FCA is a financial regulatory body in the UK tasked with protecting consumers, ensuring [market](../m/market.md) integrity, and promoting competition.
-[Financial Conduct Authority](https://www.fca.org.uk/)
 
 ### 3.3 European Securities and Markets Authority (ESMA)
 ESMA is an independent EU authority that enhances [investor](../i/investor.md) protection and promotes stable and orderly [financial markets](../f/financial_market.md).
-[ESMA](https://www.esma.europa.eu/)
 
 ### 3.4 International Organization of Securities Commissions (IOSCO)
 IOSCO is the global standard setter for securities regulation, working to improve international cooperation and establish consistent regulatory standards globally.
-[IOSCO](https://www.iosco.org/)
 
 ## 4. Key Legislation
 
@@ -56,7 +52,7 @@ The act established new or expanded requirements for U.S. [public company](../p/
 
 ## 5. International Regulations
 
-Given the global nature of securities markets, international regulations play a crucial role in harmonizing standards and practices across borders. 
+Given the global nature of securities markets, international regulations play a crucial role in harmonizing standards and practices across borders.
 
 ### 5.1 Markets in Financial Instruments Directive (MiFID)
 MiFID aims to increase competition and consumer protection in investment services. It harmonizes regulation for investment services across the EU.

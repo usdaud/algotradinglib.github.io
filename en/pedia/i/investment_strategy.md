@@ -22,10 +22,10 @@ Investment strategy is a broad term that refers to a specific, disciplined, and 
 ### 6. Quantitative Investing
 Quantitative or "quant" [investing](../i/investing.md) employs [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to make investment decisions. These models analyze various financial and economic data to forecast [market](../m/market.md) trends and identify trading opportunities. Companies specializing in this strategy, such as Renaissance Technologies and Two Sigma, have garnered attention for their high returns and reliance on complex statistical techniques and [machine learning](../m/machine_learning.md).
 
-Visit [Renaissance Technologies](https://www.rentec.com) and [Two Sigma](https://www.twosigma.com) to learn more.
+Visit Renaissance Technologies and Two Sigma to learn more.
 
 ### 7. Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) involves using computer programs to execute trades based on a set of predefined instructions. These algorithms can be based on various strategies such as [trend following](../t/trend_following.md), [arbitrage](../a/arbitrage.md), and [market](../m/market.md) making. The goal is often to execute trades at the best possible prices, minimize [market](../m/market.md) impact, and maximize speed and [efficiency](../e/efficiency.md). [Algorithmic trading](../a/accountability.md) has become increasingly popular with the rise of high-frequency trading (HFT), where firms execute large volumes of trades at very high speeds.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer programs to execute trades based on a set of predefined instructions. These algorithms can be based on various strategies such as [trend following](../t/trend_following.md), [arbitrage](../a/arbitrage.md), and [market](../m/market.md) making. The goal is often to execute trades at the best possible prices, minimize [market](../m/market.md) impact, and maximize speed and [efficiency](../e/efficiency.md). [Algorithmic trading](../a/algorithmic_trading.md) has become increasingly popular with the rise of high-frequency trading (HFT), where firms execute large volumes of trades at very high speeds.
 
 ### 8. Socially Responsible Investing (SRI)
 Socially responsible [investing](../i/investing.md) considers both financial [return](../r/return.md) and social/environmental good. Investors may avoid firms that produce or sell harmful products and support companies that demonstrate ethical behavior, contribute to community development, or practice environmental sustainability. ESG (Environmental, Social, and Governance) criteria are often used to evaluate companies.
@@ -52,7 +52,7 @@ Socially responsible [investing](../i/investing.md) considers both financial [re
 ### 1. Warren Buffett
 Warren Buffett, CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), is renowned for his [value investing](../v/value_investing.md) strategy. He is often referred to as the "[Oracle of Omaha](../o/oracle_of_omaha.md)" and has a long track record of successful investments. Buffett’s approach focuses on the [intrinsic value](../i/intrinsic_value.md) of companies, strong management, and long-term holding periods.
 
-Visit [Berkshire Hathaway](https://www.berkshirehathaway.com) to learn more.
+Visit Berkshire Hathaway to learn more.
 
 ### 2. Benjamin Graham
 [Benjamin Graham](../b/benjamin_graham.md) is often considered the father of [value investing](../v/value_investing.md). His works, including "The Intelligent [Investor](../i/investor.md)" and "[Security Analysis](../s/security_analysis.md)," continue to be essential reading for [value](../v/value.md) investors. His emphasis on [margin of safety](../m/margin_of_safety.md) and [intrinsic value](../i/intrinsic_value.md) has shaped modern investment philosophies.
@@ -60,24 +60,24 @@ Visit [Berkshire Hathaway](https://www.berkshirehathaway.com) to learn more.
 ### 3. John Bogle
 [John Bogle](../j/john_bogle.md) was the founder of Vanguard Group and a key proponent of [index investing](../i/index_investing.md). He introduced the first [index](../i/index_instrument.md) [mutual fund](../m/mutual_fund.md) available to the general public and advocated for low-cost, [passive investment strategies](../p/passive_investment_strategies.md). His philosophy centers on buying and holding low-cost [index](../i/index_instrument.md) funds to match [market](../m/market.md) performance.
 
-Visit [Vanguard](https://www.vanguard.com) to learn more.
+Visit Vanguard to learn more.
 
 ### 4. Ray Dalio
 Ray Dalio is the founder of Bridgewater Associates, one of the world’s largest [hedge](../h/hedge.md) funds. His approach to [investing](../i/investing.md) involves macroeconomic analysis and [diversification](../d/diversification.md). Dalio is known for his "All Weather" investment strategy, designed to perform well in any economic environment.
 
-Visit [Bridgewater Associates](https://www.bridgewater.com) to learn more.
+Visit Bridgewater Associates to learn more.
 
 ### 5. Peter Lynch
 Peter Lynch managed the Magellan [Fund](../f/fund.md) at [Fidelity Investments](../f/fidelity_investments.md) from 1977 to 1990, achieving an average [annual return](../a/annual_return.md) of 29.2%. He is known for his "invest in what you know" philosophy, encouraging investors to buy [stocks](../s/stock.md) in industries they are familiar with and understand.
 
-Visit [Fidelity Investments](https://www.fidelity.com) to learn more.
+Visit Fidelity Investments to learn more.
 
 ## Modern Trends in Investment Strategy
 
 ### 1. Robo-Advisors
 Robo-advisors are automated platforms that provide [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) services with minimal human intervention. These platforms use algorithms and [data analytics](../d/data_analytics.md) to [offer](../o/offer.md) investment recommendations and manage portfolios, often at a lower cost compared to traditional financial advisors. Companies like Betterment, Wealthfront, and [Robinhood](../r/robinhood.md) are examples of popular robo-advisors.
 
-Visit [Betterment](https://www.betterment.com), [Wealthfront](https://www.wealthfront.com), and [Robinhood](https://www.robinhood.com) to learn more.
+Visit Betterment, Wealthfront, and Robinhood to learn more.
 
 ### 2. ESG Investing
 [Environmental, Social, and Governance (ESG) investing](../e/environmental_social_and_governance_(esg)_investing.md) considers the non-financial impacts of investments. Investors increasingly look to align their portfolios with their values by choosing companies that adhere to sustainable practices, positive social impact, and [robust](../r/robust.md) governance frameworks. ESG data and ratings are becoming integral to investment decision-making.
@@ -86,8 +86,8 @@ Visit [Betterment](https://www.betterment.com), [Wealthfront](https://www.wealth
 The advent of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies has introduced a new [asset class](../a/asset_class.md) and [multiple](../m/multiple.md) investment strategies. Investors can engage in direct trading of cryptocurrencies, invest in [blockchain](../b/blockchain_in_trading.md) technology companies, or use decentralized [finance](../f/finance.md) (DeFi) platforms. The [volatility](../v/volatility.md) and regulatory environment make this a high-[risk](../r/risk.md) but potentially high-reward strategy.
 
 ### 4. Machine Learning and AI
-[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing investment strategies by [offering](../o/offering.md) advanced tools for data analysis, [forecasting](../f/forecasting.md), and [algorithmic trading](../a/accountability.md). AI models can assimilate vast amounts of data, identify patterns, and make predictions that would be impossible for humans alone. This innovation is driving the next generation of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+[Machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are revolutionizing investment strategies by [offering](../o/offering.md) advanced tools for data analysis, [forecasting](../f/forecasting.md), and [algorithmic trading](../a/algorithmic_trading.md). AI models can assimilate vast amounts of data, identify patterns, and make predictions that would be impossible for humans alone. This innovation is driving the next generation of quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ## Conclusion
 
-Investment strategy encompasses a wide [range](../r/range.md) of methodologies, each designed to achieve specific financial goals under varying conditions of [risk](../r/risk.md) and [market](../m/market.md) behavior. From traditional [value](../v/value.md) and [growth investing](../g/growth_investing.md) to cutting-edge quantitative and [algorithmic trading](../a/accountability.md), investors have numerous tools and approaches at their disposal. Key elements such as [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and [diversification](../d/diversification.md) are foundational to any successful strategy. As technology and [market dynamics](../m/market_dynamics.md) evolve, so too do the strategies that investors employ, [offering](../o/offering.md) new opportunities and challenges in the pursuit of financial returns.
+Investment strategy encompasses a wide [range](../r/range.md) of methodologies, each designed to achieve specific financial goals under varying conditions of [risk](../r/risk.md) and [market](../m/market.md) behavior. From traditional [value](../v/value.md) and [growth investing](../g/growth_investing.md) to cutting-edge quantitative and [algorithmic trading](../a/algorithmic_trading.md), investors have numerous tools and approaches at their disposal. Key elements such as [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and [diversification](../d/diversification.md) are foundational to any successful strategy. As technology and [market dynamics](../m/market_dynamics.md) evolve, so too do the strategies that investors employ, [offering](../o/offering.md) new opportunities and challenges in the pursuit of financial returns.

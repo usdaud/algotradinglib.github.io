@@ -48,15 +48,15 @@ Mitigating headline [risk](../r/risk.md) involves adopting strategies to protect
 
 ## Implications of Headline Risk in Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), headline [risk](../r/risk.md) presents both challenges and opportunities:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), headline [risk](../r/risk.md) presents both challenges and opportunities:
 
 1. **Challenges:**
-   - **[Market](../m/market.md) [Volatility](../v/volatility.md):** Sudden news events can lead to heightened [market](../m/market.md) [volatility](../v/volatility.md), which can disrupt [trading algorithms](../t/trading_algorithms.md) and result in unexpected losses.
-   - **[Execution Risk](../e/execution_risk.md):** Rapid price movements driven by headline [risk](../r/risk.md) can lead to [slippage](../s/slippage.md) and [execution](../e/execution.md) inefficiencies, affecting the performance of [trading strategies](../t/trading_strategies.md).
+ - **[Market](../m/market.md) [Volatility](../v/volatility.md):** Sudden news events can lead to heightened [market](../m/market.md) [volatility](../v/volatility.md), which can disrupt [trading algorithms](../t/trading_algorithms.md) and result in unexpected losses.
+ - **[Execution Risk](../e/execution_risk.md):** Rapid price movements driven by headline [risk](../r/risk.md) can lead to [slippage](../s/slippage.md) and [execution](../e/execution.md) inefficiencies, affecting the performance of [trading strategies](../t/trading_strategies.md).
 
 2. **Opportunities:**
-   - **News-Based Strategies:** Algorithms that can quickly analyze and react to news headlines can [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. News [trading algorithms](../t/trading_algorithms.md) often use [sentiment analysis](../s/sentiment_analysis.md) and NLP techniques to gauge the potential impact of news on [asset](../a/asset.md) prices.
-   - **[Event-Driven Trading](../e/event-driven_trading.md):** [Event-driven trading](../e/event-driven_trading.md) strategies focus on exploiting price movements resulting from specific events, such as [earnings announcements](../e/earnings_announcements.md) or regulatory changes. Such strategies can benefit from well-defined triggers based on headline [risk](../r/risk.md).
+ - **News-Based Strategies:** Algorithms that can quickly analyze and react to news headlines can [capitalize](../c/capitalize.md) on [market](../m/market.md) movements. News [trading algorithms](../t/trading_algorithms.md) often use [sentiment analysis](../s/sentiment_analysis.md) and NLP techniques to gauge the potential impact of news on [asset](../a/asset.md) prices.
+ - **[Event-Driven Trading](../e/event-driven_trading.md):** [Event-driven trading](../e/event-driven_trading.md) strategies focus on exploiting price movements resulting from specific events, such as [earnings announcements](../e/earnings_announcements.md) or regulatory changes. Such strategies can benefit from well-defined triggers based on headline [risk](../r/risk.md).
 
 ## Case Studies
 
@@ -70,4 +70,4 @@ The onset of the COVID-19 pandemic in early 2020 is an example of headline [risk
 
 ## Conclusion
 
-Headline [risk](../r/risk.md) is an ever-present [factor](../f/factor.md) in [financial markets](../f/financial_market.md), driven by a wide [range](../r/range.md) of sources from economic reports to [social media](../s/social_media.md) activity. Understanding and managing headline [risk](../r/risk.md) is crucial for investors, traders, and financial professionals. By employing tools such as [sentiment analysis](../s/sentiment_analysis.md), event studies, and diversified investment strategies, [market](../m/market.md) participants can better anticipate and mitigate the potential adverse effects of headline [risk](../r/risk.md). In the realm of [algorithmic trading](../a/accountability.md), headline [risk](../r/risk.md) offers both challenges and opportunities, highlighting the importance of integrating adaptable and responsive systems to navigate an increasingly news-driven [market](../m/market.md) landscape.
+Headline [risk](../r/risk.md) is an ever-present [factor](../f/factor.md) in [financial markets](../f/financial_market.md), driven by a wide [range](../r/range.md) of sources from economic reports to [social media](../s/social_media.md) activity. Understanding and managing headline [risk](../r/risk.md) is crucial for investors, traders, and financial professionals. By employing tools such as [sentiment analysis](../s/sentiment_analysis.md), event studies, and diversified investment strategies, [market](../m/market.md) participants can better anticipate and mitigate the potential adverse effects of headline [risk](../r/risk.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), headline [risk](../r/risk.md) offers both challenges and opportunities, highlighting the importance of integrating adaptable and responsive systems to navigate an increasingly news-driven [market](../m/market.md) landscape.

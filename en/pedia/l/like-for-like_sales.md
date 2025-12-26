@@ -1,6 +1,6 @@
 # Like-for-Like Sales
 
-**Like-for-like (LFL) sales** is a key financial metric used primarily in the retail and hospitality sectors to assess and measure the performance of a [business](../b/business.md) over a specific timeframe. This metric allows for a fair comparison by [accounting](../a/accounting.md) for changes such as new store openings, closures, relocations, and significant refurbishments. By isolating the impact of new and closed locations, like-for-like sales data reflects the genuine growth of the [underlying](../u/underlying.md) [business](../b/business.md) and its [operational efficiency](../o/operational_efficiency_in_trading.md). 
+**Like-for-like (LFL) sales** is a key financial metric used primarily in the retail and hospitality sectors to assess and measure the performance of a [business](../b/business.md) over a specific timeframe. This metric allows for a fair comparison by [accounting](../a/accounting.md) for changes such as new store openings, closures, relocations, and significant refurbishments. By isolating the impact of new and closed locations, like-for-like sales data reflects the genuine growth of the [underlying](../u/underlying.md) [business](../b/business.md) and its [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Definition and Importance
 
@@ -13,16 +13,16 @@ At its core, like-for-like sales, also known as comparable sales or same-store s
 ### Importance
 
 1. **Performance Measurement**: By filtering out the effects of store expansions and closures, LFL sales provide a more accurate gauge of a [business](../b/business.md)'s health and operational effectiveness. This measure helps identify genuine growth driven by factors such as improved [marketing](../m/marketing.md), better [customer service](../c/customer_service.md), or successful product launches.
-   
+
 2. **[Investor](../i/investor.md) Insight**: Investors use LFL sales to assess a company's true growth trajectory and operational success. High LFL sales [growth rates](../g/growth_rates_in_trading.md) often indicate a company's ability to increase sales without relying solely on [expansion](../e/expansion.md), making it a crucial [indicator](../i/indicator.md) for investors looking to gauge long-term profitability and sustainability.
-   
+
 3. **Strategic Planning**: Businesses utilize LFL sales data to pinpoint strong and weak areas within their operations. By analyzing which stores are performing well on a like-for-like [basis](../b/basis.md), companies can allocate resources more effectively, adjust strategies, and implement [best practices](../b/best_practices.md) across the board.
 
 ## Calculation Methods
 
 ### Same Store Basis
 
-The most traditional method of calculating LFL sales is the same store [basis](../b/basis.md), which compares sales figures from stores that were [open](../o/open.md) during both the current and previous periods. This approach minimizes distortions caused by new store openings and closures. 
+The most traditional method of calculating LFL sales is the same store [basis](../b/basis.md), which compares sales figures from stores that were [open](../o/open.md) during both the current and previous periods. This approach minimizes distortions caused by new store openings and closures.
 
 ### Constant Currency
 
@@ -50,15 +50,15 @@ Grocery stores rely heavily on LFL sales as an [indicator](../i/indicator.md) of
 
 ### Starbucks
 
-Starbucks is a prime example of a company that frequently reports its LFL sales to provide insights into its operational performance. In their fiscal reports, Starbucks often breaks down LFL sales growth by geographical region, [offering](../o/offering.md) a detailed view of how different markets contribute to their overall growth. You can access Starbucks' financial reports and [investor](../i/investor.md) information through their [investor relations page](https://investor.starbucks.com).
+Starbucks is a prime example of a company that frequently reports its LFL sales to provide insights into its operational performance. In their fiscal reports, Starbucks often breaks down LFL sales growth by geographical region, [offering](../o/offering.md) a detailed view of how different markets contribute to their overall growth. You can access Starbucks' financial reports and [investor](../i/investor.md) information.
 
 ### Walmart
 
-Walmart, the global retail giant, regularly reports its like-for-like sales during its quarterly [earnings](../e/earnings.md) calls. By focusing on LFL sales in their US and international segments, Walmart offers a clear picture of its growth beyond new store openings. This metric provides investors with valuable insights into Walmart's ability to increase sales from its existing store base. Additional information can be found on Walmart's [corporate site](https://corporate.walmart.com).
+Walmart, the global retail giant, regularly reports its like-for-like sales during its quarterly [earnings](../e/earnings.md) calls. By focusing on LFL sales in their US and international segments, Walmart offers a clear picture of its growth beyond new store openings. This metric provides investors with valuable insights into Walmart's ability to increase sales from its existing store base. Additional information is available in Walmart's filings.
 
 ### Tesco
 
-Tesco, one of the largest supermarket chains in the UK, relies on LFL sales to analyze the performance of its numerous outlets across the country. The company uses these figures to drive decisions on [inventory management](../i/inventory_management.md), store layouts, and promotional strategies. Tesco's financial and operational reports are available on their [investor relations page](https://www.tescoplc.com/investors).
+Tesco, one of the largest supermarket chains in the UK, relies on LFL sales to analyze the performance of its numerous outlets across the country. The company uses these figures to drive decisions on [inventory management](../i/inventory_management.md), store layouts, and promotional strategies. Tesco's financial and operational reports are available on their company filings.
 
 ## Advantages and Limitations
 

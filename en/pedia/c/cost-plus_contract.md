@@ -90,15 +90,15 @@ Government defense contracts often utilize cost-plus structures to manage the la
 
 ### Bechtel Corporation
 
-Bechtel, a world-renowned engineering, [procurement](../p/procurement.md), construction, and [project management](../p/project_management.md) company, often employs cost-plus contracts especially in their large-scale [infrastructure](../i/infrastructure.md) projects. More details on their contract philosophy can be found at [Bechtel Corporation](https://www.bechtel.com/about-us/).
+Bechtel, a world-renowned engineering, [procurement](../p/procurement.md), construction, and [project management](../p/project_management.md) company, often employs cost-plus contracts especially in their large-scale [infrastructure](../i/infrastructure.md) projects. More details on their contract philosophy can be found at Bechtel Corporation.
 
 ### Boeing
 
-Defense contractor Boeing uses cost-plus contracts in their agreements with the US Department of Defense, owing to the unpredictable nature of defense technology projects. Learn more at [Boeing Defense](https://www.boeing.com/defense/).
+Defense contractor Boeing uses cost-plus contracts in their agreements with the US Department of Defense, owing to the unpredictable nature of defense technology projects. Learn more at Boeing Defense.
 
 ### NASA
 
-NASA frequently employs cost-plus contracts for its exploratory missions and technological development projects. These contracts help manage the high degree of [uncertainty](../u/uncertainty_in_trading.md) inherent in space exploration. More information is available at [NASA Procurement](https://www.nasa.gov/office/procurement).
+NASA frequently employs cost-plus contracts for its exploratory missions and technological development projects. These contracts help manage the high degree of [uncertainty](../u/uncertainty_in_trading.md) inherent in space exploration. More information is available at NASA Procurement.
 
 ## Comparative Analysis with Other Contracts
 

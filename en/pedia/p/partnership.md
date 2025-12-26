@@ -77,19 +77,18 @@ Goldman Sachs was historically a partnership until it went public in 1999. The p
 ### KKR & Co. Inc.
 KKR, a global investment [firm](../f/firm.md), often operates through limited partnerships to structure its [private equity](../p/private_equity.md) funds, providing [liability](../l/liability.md) protection for its investors while enabling resource sharing.
 
-For more information on specific firms and their partnership structures, visit [Bridgewater Associates' official page](https://www.bridgewater.com) and [KKR's official page](https://www.kkr.com).
 
 ## Partnerships in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) partnerships can be particularly powerful as they combine technical expertise with financial acumen. These partnerships often consist of data scientists, quantitative analysts, and traders who collaborate to develop and deploy complex [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md) partnerships can be particularly powerful as they combine technical expertise with financial acumen. These partnerships often consist of data scientists, quantitative analysts, and traders who collaborate to develop and deploy complex [trading algorithms](../t/trading_algorithms.md).
 
 ### Key Elements
 - **Collaboration:** Effective communication and teamwork are crucial for the development of [robust](../r/robust.md) [trading algorithms](../t/trading_algorithms.md).
-- **Resource Sharing:** Partners pool computational resources, intellectual property, and financial [capital](../c/capital.md) to create and maintain [algorithmic trading](../a/accountability.md) systems.
+- **Resource Sharing:** Partners pool computational resources, intellectual property, and financial [capital](../c/capital.md) to create and maintain [algorithmic trading](../a/algorithmic_trading.md) systems.
 - **[Risk Management](../r/risk_management.md):** By working together, partners can develop sophisticated [risk management](../r/risk_management.md) strategies to mitigate potential losses from automated trading.
 
 ### Examples
-Companies specializing in [algorithmic trading](../a/accountability.md), such as Two Sigma and Renaissance Technologies, rely on partnership structures to harness the diverse expertise required for successful algorithm development and [execution](../e/execution.md).
+Companies specializing in [algorithmic trading](../a/algorithmic_trading.md), such as Two Sigma and Renaissance Technologies, rely on partnership structures to harness the diverse expertise required for successful algorithm development and [execution](../e/execution.md).
 
 ## Conclusion
 

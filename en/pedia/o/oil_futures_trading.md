@@ -85,13 +85,11 @@ Position limits are regulatory caps on the number of [futures contracts](../f/fu
 
 As part of the CME Group, NYMEX is the primary venue for trading WTI [crude oil](../c/crude_oil.md) [futures](../f/futures.md). It offers both floor trading and electronic trading through its CME Globex platform.
 
-[NYMEX](https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html)
 
 ### Intercontinental Exchange (ICE)
 
 ICE is a key player in global oil [futures](../f/futures.md) trading, particularly for Brent [crude oil](../c/crude_oil.md). It provides electronic trading services and operates a clearinghouse to mitigate [counterparty](../c/counterparty.md) risks.
 
-[ICE](https://www.theice.com/products/219/Brent-Crude-Futures)
 
 ## Conclusion
 

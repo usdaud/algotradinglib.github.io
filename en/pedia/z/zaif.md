@@ -57,7 +57,7 @@ Zaif offers spot trading, where traders can instantly buy or sell cryptocurrenci
 
 ### Automated Trading
 
-For those interested in [algorithmic trading](../a/accountability.md), Zaif supports the use of trading bots. These bots can execute trades based on pre-set rules and conditions, allowing for automated [trading strategies](../t/trading_strategies.md) that can operate without constant manual intervention.
+For those interested in [algorithmic trading](../a/algorithmic_trading.md), Zaif supports the use of trading bots. These bots can execute trades based on pre-set rules and conditions, allowing for automated [trading strategies](../t/trading_strategies.md) that can operate without constant manual intervention.
 
 ### API Integrations
 
@@ -91,10 +91,10 @@ To comply with regulatory requirements, Zaif mandates a Know Your [Customer](../
 
 ## API Documentation
 
-Zaif provides detailed API documentation, enabling developers to integrate their own applications with the platform. The API supports various functionalities including [order](../o/order.md) placement, [market](../m/market.md) data retrieval, and account management. The documentation can be accessed here: [Zaif API Documentation](https://zaif.jp/api_docs).
+Zaif provides detailed API documentation, enabling developers to integrate their own applications with the platform. The API supports various functionalities including [order](../o/order.md) placement, [market](../m/market.md) data retrieval, and account management. The documentation can be accessed here: Zaif API Documentation.
 
 ## Conclusion
 
 Zaif stands out in the crowded cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md) due to its regulatory compliance, [robust](../r/robust.md) [security](../s/security.md) features, and a wide [range](../r/range.md) of supported services. While it has faced challenges in the past, the platform continues to evolve and adapt, making it a reliable and versatile option for both individual traders and businesses looking to venture into the cryptocurrency space.
 
-For more detailed information, you can visit their official website: [Zaif](https://zaif.jp/).
+For more detailed information,

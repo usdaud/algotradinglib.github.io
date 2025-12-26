@@ -12,8 +12,7 @@ Understanding [trading costs](../t/trading_costs.md) is crucial for the success 
 
 Explicit costs are the direct, visible costs associated with trading. They usually consist of the following:
 
-- **Commissions**: Fees paid to brokers for executing trades. These can vary widely based on the [broker](../b/broker.md) and the [volume](../v/volume.md) of trades. For instance, [Interactive Brokers](../i/interactive_brokers.md) offers sophisticated algo trading services with competitive pricing. More details can be found [here](https://www.interactivebrokers.com/). 
-- **[Exchange](../e/exchange.md) Fees**: Charges levied by stock exchanges for the [execution](../e/execution.md) of trades. Different exchanges have different [fee](../f/fee.md) structures based on the types of assets being traded and the trading [volume](../v/volume.md).
+- **Commissions**: Fees paid to brokers for executing trades. These can vary widely based on the [broker](../b/broker.md) and the [volume](../v/volume.md) of trades. For instance, [Interactive Brokers](../i/interactive_brokers.md) offers sophisticated algo trading services with competitive pricing. More details can be found here. - **[Exchange](../e/exchange.md) Fees**: Charges levied by stock exchanges for the [execution](../e/execution.md) of trades. Different exchanges have different [fee](../f/fee.md) structures based on the types of assets being traded and the trading [volume](../v/volume.md).
 
 ### 2.2. Implicit Costs
 
@@ -49,7 +48,7 @@ Reducing [trading costs](../t/trading_costs.md) is essential for enhancing net r
 
 ### 4.1. Algorithm Selection
 
-Selecting the right [trading algorithms](../t/trading_algorithms.md) can significantly affect [execution](../e/execution.md) quality. Algorithms designed for specific [market](../m/market.md) conditions, such as VWAP, time-[weighted average](../w/weighted_average.md) price (TWAP), or participation algorithms, can help optimize [trade](../t/trade.md) [execution](../e/execution.md) and minimize costs. Firms like Virtu Financial [offer](../o/offer.md) advanced [execution](../e/execution.md) services; more information is available [here](https://www.virtu.com/our-products/execution-services/).
+Selecting the right [trading algorithms](../t/trading_algorithms.md) can significantly affect [execution](../e/execution.md) quality. Algorithms designed for specific [market](../m/market.md) conditions, such as VWAP, time-[weighted average](../w/weighted_average.md) price (TWAP), or participation algorithms, can help optimize [trade](../t/trade.md) [execution](../e/execution.md) and minimize costs. Firms like Virtu Financial [offer](../o/offer.md) advanced [execution](../e/execution.md) services; more information is available here.
 
 ### 4.2. Broker Negotiation
 

@@ -20,7 +20,7 @@ Due to its smaller size, the VSE has fewer [market](../m/market.md) segments com
 - **Equities:** [Shares](../s/shares.md) of public companies.
 - **Bonds:** Government and corporate bonds.
 - **Mutual Funds:** Development of mutual funds as a way to [offer](../o/offer.md) diversified investment [options](../o/options.md).
-  
+
 ### Trading Mechanisms
 
 The VSE utilizes a manual trading system, somewhat akin to the methods used in the past by larger exchanges before the advent of electronic trading. Traders submit buy or sell orders through brokerage firms, which are then matched manually. The settlement of transactions takes place through the [exchange](../e/exchange.md)’s central [clearing and settlement](../c/clearing_and_settlement.md) system.
@@ -67,4 +67,4 @@ Despite the existing challenges, there is potential for growth and increased rel
 
 ## Conclusion
 
-The Vanuatu Stock [Exchange](../e/exchange.md), while small in scale, plays a vital role in the financial [infrastructure](../i/infrastructure.md) of Vanuatu and contributes to the broader South Pacific financial ecosystem. Through ongoing improvements and adaptation to modern trends, it has the potential to emerge as a more significant player within the regional financial [market](../m/market.md) landscape. For more information, interested parties can visit the [official website](https://www.vfsc.vu/).
+The Vanuatu Stock [Exchange](../e/exchange.md), while small in scale, plays a vital role in the financial [infrastructure](../i/infrastructure.md) of Vanuatu and contributes to the broader South Pacific financial ecosystem. Through ongoing improvements and adaptation to modern trends, it has the potential to emerge as a more significant player within the regional financial [market](../m/market.md) landscape.

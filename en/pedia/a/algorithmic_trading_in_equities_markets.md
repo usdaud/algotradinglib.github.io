@@ -91,26 +91,22 @@ Several firms are at the forefront of [algorithmic trading](../a/algorithmic_tra
 
 Founded by Jim Simons, Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which deploys sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md) inefficiencies. The [firm](../f/firm.md) has achieved extraordinary returns and is a leading player in the [industry](../i/industry.md).
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Citadel Securities
 
 Citadel Securities, part of Citadel LLC, is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider. The [firm](../f/firm.md) utilizes advanced algorithms to facilitate high-speed trading across various [asset](../a/asset.md) classes.
 
-[Visit Citadel Securities](https://www.citadelsecurities.com/)
 
 ### 3. Two Sigma
 
 Two Sigma combines [data science](../d/data_science_in_trading.md), technology, and innovation to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) employs a research-driven approach and leverages [machine learning](../m/machine_learning.md) to optimize its [trading models](../t/trading_models.md).
 
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ### 4. Virtu Financial
 
 Virtu Financial is a global leader in high-frequency trading and [market](../m/market.md) making. It uses proprietary technology to provide [liquidity](../l/liquidity.md) and ensure efficient [market](../m/market.md) operations.
 
-[Visit Virtu Financial](https://www.virtu.com/)
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) in equities markets has revolutionized the way trading is conducted. By leveraging advanced technology, sophisticated models, and comprehensive data, algo trading enables [market](../m/market.md) participants to achieve superior trading outcomes. However, it also presents challenges and regulatory considerations that must be addressed to ensure the integrity and fairness of [financial markets](../f/financial_market.md). As technology continues to evolve, the role of [algorithmic trading](../a/algorithmic_trading.md) is expected to expand, driving further innovation and [efficiency](../e/efficiency.md) in the equities markets.
+[Algorithmic trading](../a/algorithmic_trading.md) in equities markets has revolutionized the way trading is conducted. By leveraging advanced technology, sophisticated models, and comprehensive data, algo trading enables [market](../m/market.md) participants to achieve superior trading outcomes. However, it also presents challenges and regulatory considerations that must be addressed to ensure the integrity and fairness of [financial markets](../f/financial_market.md). As technology continues to evolve, the role of [algorithmic trading](../a/algorithmic_trading.md) is expected to expand, driving further innovation and [efficiency](../e/efficiency.md) in the equities markets.

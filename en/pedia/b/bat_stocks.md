@@ -18,7 +18,7 @@ Baidu’s [business](../b/business.md) model revolves around online advertising,
 
 ### Financial Performance
 
-Baidu has consistently shown [robust](../r/robust.md) [financial performance](../f/financial_performance.md), backed by its dominant [market](../m/market.md) position and diversified portfolio. For recent and detailed financial information, you can visit [Baidu's Investor Relations page](https://ir.baidu.com/).
+Baidu has consistently shown [robust](../r/robust.md) [financial performance](../f/financial_performance.md), backed by its dominant [market](../m/market.md) position and diversified portfolio.
 
 ### Key Developments
 
@@ -39,10 +39,10 @@ Alibaba has a multifaceted [business](../b/business.md) model that spans several
 - **E-[commerce](../c/commerce.md):** Platforms like Taobao and Tmall generate significant [revenue](../r/revenue.md) from advertisements and [commission](../c/commission.md) fees.
 - **[Cloud Computing](../c/cloud_computing_in_trading.md):** Alibaba Cloud offers a [range](../r/range.md) of cloud services, rapidly growing its [market share](../m/market_share.md) outside China as well.
 - **Digital Media and Entertainment:** Through entities like Youku Tudou, Alibaba also ventures into digital content [distribution](../d/distribution.md).
-  
+
 ### Financial Performance
 
-Alibaba has consistently posted strong growth numbers. The company's diverse portfolio and strong foothold in critical sectors like e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) have been instrumental in driving its [financial performance](../f/financial_performance.md). For more details, visit [Alibaba’s Investor Relation Page](https://www.alibabagroup.com/en/ir/home).
+Alibaba has consistently posted strong growth numbers. The company's diverse portfolio and strong foothold in critical sectors like e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) have been instrumental in driving its [financial performance](../f/financial_performance.md).
 
 ### Key Developments
 
@@ -66,7 +66,7 @@ Tencent's [business](../b/business.md) model is highly diversified, including:
 
 ### Financial Performance
 
-Tencent’s financial numbers have been impressive, driven by its [robust](../r/robust.md) presence in [multiple](../m/multiple.md) high-growth sectors. The company continually innovates and expands its ecosystem, providing a stable [revenue](../r/revenue.md) base. For detailed financial information, visit [Tencent’s Investor Relations page](https://www.tencent.com/en-us/investors.html).
+Tencent’s financial numbers have been impressive, driven by its [robust](../r/robust.md) presence in [multiple](../m/multiple.md) high-growth sectors. The company continually innovates and expands its ecosystem, providing a stable [revenue](../r/revenue.md) base.
 
 ### Key Developments
 
@@ -90,7 +90,7 @@ The future looks promising for BAT [stocks](../s/stock.md) due to their continua
 
 ### Regulatory Risks
 
-One of the primary risks associated with BAT [stocks](../s/stock.md) is regulatory scrutiny. The Chinese government has historically imposed stringent regulations on technology companies. 
+One of the primary risks associated with BAT [stocks](../s/stock.md) is regulatory scrutiny. The Chinese government has historically imposed stringent regulations on technology companies.
 
 ### Market Saturation
 

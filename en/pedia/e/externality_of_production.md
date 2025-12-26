@@ -73,7 +73,7 @@ Tesla Motors provides an example of positive externalities through production. T
 
 ### Cap-and-Trade in Europe
 
-The [European Union](../e/european_union_(eu).md) Emission Trading Scheme (EU ETS) is a successful implementation of a cap-and-[trade](../t/trade.md) system aimed at reducing greenhouse gas emissions. By setting a cap on emissions and allowing companies to [trade](../t/trade.md) permits, the EU has incentivized businesses to lower their carbon footprints while providing flexibility in how they achieve these reductions. 
+The [European Union](../e/european_union_(eu).md) Emission Trading Scheme (EU ETS) is a successful implementation of a cap-and-[trade](../t/trade.md) system aimed at reducing greenhouse gas emissions. By setting a cap on emissions and allowing companies to [trade](../t/trade.md) permits, the EU has incentivized businesses to lower their carbon footprints while providing flexibility in how they achieve these reductions.
 
 ## The Role of Technology
 

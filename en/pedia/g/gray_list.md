@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Algorithmic trading](../a/accountability.md) or algo-trading utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computer programs to make high-[volume](../v/volume.md), high-frequency trades. One critical element in maintaining the [efficiency](../e/efficiency.md) and integrity of [algorithmic trading](../a/accountability.md) systems is the concept of a "Gray List." The Gray List is a [risk management](../r/risk_management.md) tool used to flag certain financial instruments or actions for closer scrutiny, without fully restricting them as a Black List would.
+[Algorithmic trading](../a/algorithmic_trading.md) or algo-trading utilizes advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computer programs to make high-[volume](../v/volume.md), high-frequency trades. One critical element in maintaining the [efficiency](../e/efficiency.md) and integrity of [algorithmic trading](../a/algorithmic_trading.md) systems is the concept of a "Gray List." The Gray List is a [risk management](../r/risk_management.md) tool used to flag certain financial instruments or actions for closer scrutiny, without fully restricting them as a Black List would.
 
 ## What is a Gray List?
 
@@ -58,13 +58,11 @@ The identification process for placement on a Gray List usually involves [multip
 
 ### Example 1: JPMorgan Chase
 
-JPMorgan Chase is known for its [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md), which include Gray Lists to prevent [market](../m/market.md) abuse and manage potential compliance risks. For more information on their [risk management frameworks](../r/risk_management_frameworks.md), you can visit their official website:
-[JPMorgan Chase Risk Management](https://www.jpmorganchase.com/)
+JPMorgan Chase is known for its [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md), which include Gray Lists to prevent [market](../m/market.md) abuse and manage potential compliance risks. For more information on their [risk management frameworks](../r/risk_management_frameworks.md), you can
 
 ### Example 2: Goldman Sachs
 
 Goldman Sachs leverages advanced algorithms and comprehensive [risk management](../r/risk_management.md) protocols, including the use of Gray Lists to flag high-[risk](../r/risk.md) securities. More details on their approach can be found here:
-[Goldman Sachs Risk Management](https://www.goldmansachs.com/)
 
 ## Pros and Cons of Using a Gray List
 
@@ -82,4 +80,4 @@ Goldman Sachs leverages advanced algorithms and comprehensive [risk management](
 
 ## Conclusion
 
-Gray Lists play a crucial role in the landscape of [algorithmic trading](../a/accountability.md), balancing [risk](../r/risk.md) and reward by highlighting entities and instruments that require closer observation. They serve as a nuanced tool within broader [risk management frameworks](../r/risk_management_frameworks.md), [offering](../o/offering.md) financial institutions the flexibility to manage risks without outright bans. While implementing and maintaining a Gray List involves certain complexities and administrative tasks, the benefits in terms of [risk](../r/risk.md) mitigation and enhanced monitoring make it an invaluable component of modern financial [trading systems](../t/trading_systems.md).
+Gray Lists play a crucial role in the landscape of [algorithmic trading](../a/algorithmic_trading.md), balancing [risk](../r/risk.md) and reward by highlighting entities and instruments that require closer observation. They serve as a nuanced tool within broader [risk management frameworks](../r/risk_management_frameworks.md), [offering](../o/offering.md) financial institutions the flexibility to manage risks without outright bans. While implementing and maintaining a Gray List involves certain complexities and administrative tasks, the benefits in terms of [risk](../r/risk.md) mitigation and enhanced monitoring make it an invaluable component of modern financial [trading systems](../t/trading_systems.md).

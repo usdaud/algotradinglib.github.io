@@ -67,7 +67,7 @@ Recent updates in IFRS 10 and ASC 810 provide extended guidelines on how to acco
 - Investors and analysts use NCI data to make informed decisions regarding investments and valuations.
 
 For more detailed and specific issues regarding non-controlling interests, you can explore relevant literature and guidelines on official financial bodies' websites:
-- [International Financial Reporting Standards (IFRS)](https://www.ifrs.org)
-- [Financial Accounting Standards Board (FASB)](https://www.fasb.org)
+- International Financial Reporting Standards (IFRS)
+- Financial Accounting Standards Board (FASB)
 
 Understanding non-controlling [interest](../i/interest.md) is essential for a nuanced interpretation of a company’s [financial statements](../f/financial_statements.md) and can substantially influence investment, [valuation](../v/valuation.md), and strategic [business](../b/business.md) decisions.

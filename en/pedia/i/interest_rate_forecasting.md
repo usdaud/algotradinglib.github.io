@@ -81,6 +81,6 @@ Hybrid models combine [multiple](../m/multiple.md) [forecasting](../f/forecastin
 
 For further information on [algorithmic trading](../a/algorithmic_trading.md) and [interest rate](../i/interest_rate.md) [forecasting](../f/forecasting.md), visit:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [QuantInsti](https://www.quantinsti.com/)
-- [The MathWorks - MATLAB Trading Toolbox](https://www.mathworks.com/products/trading.html)
+- QuantConnect
+- QuantInsti
+- The MathWorks - MATLAB Trading Toolbox

@@ -39,7 +39,7 @@ Common in traditional stock exchanges, a centralized [order](../o/order.md) book
 
 Used primarily in cryptocurrency markets and by certain fintech solutions, decentralized [order](../o/order.md) books do not rely on a central [exchange](../e/exchange.md). Orders are placed directly by traders on a peer-to-peer network.
 
-- **Uniswap (https://uniswap.org)**: A decentralized [exchange](../e/exchange.md) using automated [market](../m/market.md)-making (AMM) protocols where the [liquidity](../l/liquidity.md) is pooled rather than a traditional [order](../o/order.md) book.
+- **Uniswap ( A decentralized [exchange](../e/exchange.md) using automated [market](../m/market.md)-making (AMM) protocols where the [liquidity](../l/liquidity.md) is pooled rather than a traditional [order](../o/order.md) book.
 
 ## Importance of the Order Book
 
@@ -83,7 +83,7 @@ Swing traders rely on [order](../o/order.md) books to identify medium-term price
 
 Algo traders use [order](../o/order.md) book data to develop automated [trading strategies](../t/trading_strategies.md). Algorithms can be programmed to react to specific patterns in the [order](../o/order.md) book, optimizing [trade](../t/trade.md) [execution](../e/execution.md) and improving profitability.
 
-- **Example**: [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) provides an [algorithmic trading](../a/accountability.md) platform where traders can backtest and deploy [trading algorithms](../t/trading_algorithms.md) using [order](../o/order.md) book data.
+- **Example**: [QuantConnect](../q/quantconnect.md) ( provides an [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and deploy [trading algorithms](../t/trading_algorithms.md) using [order](../o/order.md) book data.
 
 ## Challenges of Using Order Books
 
@@ -103,4 +103,4 @@ Not all orders are publicly visible in the [order](../o/order.md) book. Some [tr
 
 The [order](../o/order.md) book is an indispensable tool in trading and [financial markets](../f/financial_market.md), [offering](../o/offering.md) deep insights into [market dynamics](../m/market_dynamics.md) and participant behavior. Mastering the [order](../o/order.md) book enables traders to make informed decisions, optimize [trade](../t/trade.md) [execution](../e/execution.md), and implement sophisticated [trading strategies](../t/trading_strategies.md). Whether trading equities, cryptocurrencies, or any other [financial instrument](../f/financial_instrument.md), a thorough understanding of the [order](../o/order.md) book can provide a competitive edge.
 
-For more practical utilization and implementation of [order](../o/order.md) book data, professional traders and algo strategists should explore platforms like [QuantConnect](../q/quantconnect.md) or exchanges providing detailed [order](../o/order.md) book analytics to dive deeper into this essential trading concept.
+For more practical utilization and implementation of [order](../o/order.md) book data, professional traders and algo strategists should explore platforms like [StockSharp](../s/stocksharp.md) or exchanges providing detailed [order](../o/order.md) book analytics to dive deeper into this essential trading concept.

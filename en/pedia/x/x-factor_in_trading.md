@@ -28,15 +28,15 @@ The combined expertise and skill set of the team involved in algo trading can al
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a prime example of a [firm](../f/firm.md) with a significant X-[Factor](../f/factor.md). Renowned for its Medallion [Fund](../f/fund.md), the [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms developed by a team of scientists and mathematicians. Renaissance Technologies' proprietary technology and innovative strategies have consistently delivered exceptional returns. More information about the company can be found on [their website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is a prime example of a [firm](../f/firm.md) with a significant X-[Factor](../f/factor.md). Renowned for its Medallion [Fund](../f/fund.md), the [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms developed by a team of scientists and mathematicians. Renaissance Technologies' proprietary technology and innovative strategies have consistently delivered exceptional returns.
 
 #### Two Sigma
 
-Two Sigma is another notable [firm](../f/firm.md) leveraging its X-[Factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) utilizes [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop and implement [trading strategies](../t/trading_strategies.md). Their approach integrates a variety of data sources and advanced analytical techniques, providing them with a competitive edge. Additional details about Two Sigma can be found on [their website](https://www.twosigma.com).
+Two Sigma is another notable [firm](../f/firm.md) leveraging its X-[Factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) utilizes [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing to develop and implement [trading strategies](../t/trading_strategies.md). Their approach integrates a variety of data sources and advanced analytical techniques, providing them with a competitive edge.
 
 ### Challenges and Considerations
 
-While the X-[Factor](../f/factor.md) can provide a significant advantage in [algorithmic trading](../a/algorithmic_trading.md), it also presents several challenges and considerations. 
+While the X-[Factor](../f/factor.md) can provide a significant advantage in [algorithmic trading](../a/algorithmic_trading.md), it also presents several challenges and considerations.
 
 #### 1. Data Quality and Reliability
 

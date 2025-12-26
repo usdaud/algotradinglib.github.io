@@ -4,23 +4,23 @@
 
 ### Key Features
 
-1. **Increased Computational Power:**  
-   o1-pro boasts a larger number of parameters and a more complex architecture, allowing for extremely detailed and accurate responses.
+1. **Increased Computational Power:**
+ o1-pro boasts a larger number of parameters and a more complex architecture, allowing for extremely detailed and accurate responses.
 
-2. **Deep Chain-of-Thought:**  
-   With an extended internal reasoning process, o1-pro is capable of handling the most challenging problems in areas like mathematics, programming, and data analysis.
+2. **Deep Chain-of-Thought:**
+ With an extended internal reasoning process, o1-pro is capable of handling the most challenging problems in areas like mathematics, programming, and data analysis.
 
-3. **Professional-Grade Performance:**  
-   Designed for critical applications in scientific research, [financial analysis](../f/financial_analysis.md), and software engineering, o1-pro offers reliability and precision at scale.
+3. **Professional-Grade Performance:**
+ Designed for critical applications in scientific research, [financial analysis](../f/financial_analysis.md), and software engineering, o1-pro offers reliability and precision at scale.
 
 ### Applications
 
-- **Advanced Programming & Debugging:**  
-  Generating high-quality code and providing detailed debugging assistance.
-- **Scientific & Mathematical Analysis:**  
-  Solving complex problems that require deep logical and quantitative reasoning.
-- **Enterprise [Data Analytics](../d/data_analytics.md):**  
-  Supporting sophisticated [business models](../b/business_models.md) and decision-making processes.
+- **Advanced Programming & Debugging:**
+ Generating high-quality code and providing detailed debugging assistance.
+- **Scientific & Mathematical Analysis:**
+ Solving complex problems that require deep logical and quantitative reasoning.
+- **Enterprise [Data Analytics](../d/data_analytics.md):**
+ Supporting sophisticated [business models](../b/business_models.md) and decision-making processes.
 
 ### Advantages
 

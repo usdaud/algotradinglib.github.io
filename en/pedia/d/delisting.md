@@ -16,7 +16,7 @@ Voluntary delisting occurs when a company decides to remove its stock from the [
 
 ### Involuntary Delisting
 
-Involuntary delisting occurs when a stock [exchange](../e/exchange.md) decides to remove a company's securities because it no longer meets the [exchange](../e/exchange.md)'s requirements. The criteria can include: 
+Involuntary delisting occurs when a stock [exchange](../e/exchange.md) decides to remove a company's securities because it no longer meets the [exchange](../e/exchange.md)'s requirements. The criteria can include:
 - **[Financial Distress](../f/financial_distress.md):** If a company is facing [bankruptcy](../b/bankruptcy.md) or severe financial difficulties, it may be delisted.
 - **Regulatory Non-Compliance:** Companies must adhere to certain regulatory standards to remain [listed](../l/listed.md). Non-compliance often leads to delisting.
 - **[Market Capitalization](../m/market_capitalization.md) and Share Price:** Exchanges often have minimum thresholds for [market capitalization](../m/market_capitalization.md) and share price. If a company falls below these, it risks delisting.
@@ -72,7 +72,7 @@ Different countries have their own regulations and processes for delisting. For 
 
 ### United States
 
-The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) oversees delisting procedures. Exchanges like the NYSE and [NASDAQ](../n/nasdaq.md) have specific rules and [listing requirements](../l/listing_requirements.md) companies must follow. 
+The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) oversees delisting procedures. Exchanges like the NYSE and [NASDAQ](../n/nasdaq.md) have specific rules and [listing requirements](../l/listing_requirements.md) companies must follow.
 
 ### European Union
 
@@ -94,13 +94,12 @@ The Securities and [Exchange](../e/exchange.md) Board of India (SEBI) governs li
 
 ### NYSE and NASDAQ
 
-- **NYSE Delisting Standards:** [NYSE](https://www.nyse.com/regulations) 
-- **[NASDAQ](../n/nasdaq.md) Delisting Rules:** [NASDAQ](https://listingcenter.nasdaq.com)
+- **NYSE Delisting Standards:** NYSE - **[NASDAQ](../n/nasdaq.md) Delisting Rules:** NASDAQ
 
 ### Global Exchanges
 
-- **London Stock [Exchange](../e/exchange.md) (LSE):** [LSE](https://www.londonstockexchange.com/discover/regulations)
-- **Tokyo Stock [Exchange](../e/exchange.md) (TSE):** [TSE](https://www.jpx.co.jp/english/rules-participants/rules/listing/index.html)
+- **London Stock [Exchange](../e/exchange.md) (LSE):** LSE
+- **Tokyo Stock [Exchange](../e/exchange.md) (TSE):** TSE
 
 ## Conclusion
 

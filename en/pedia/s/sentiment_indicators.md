@@ -9,31 +9,28 @@ Sentiment indicators are a vital component in [algorithmic trading](../a/algorit
 News sentiment indicators analyze news articles, press releases, and financial reports to gauge the sentiment behind them. These indicators use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms to assess whether the news sentiment is positive, negative, or [neutral](../n/neutral.md).
 
 - **Example**: Thomson [Reuters](../r/reuters.md) MarketPsych Indices (TRMI) reports real-time sentiment scores derived from global news sources.
-  [Thomson Reuters MarketPsych Indices](https://www.refinitiv.com/en/financial-data/news-company-data/marketpsych)
 
 ### 2. Social Media Sentiment
 
 [Social media sentiment](../s/social_media_sentiment.md) indicators focus on popular platforms like Twitter, Reddit, and Stocktwits to determine the overall [market sentiment](../m/market_sentiment.md). By analyzing tweets, posts, and discussions, these indicators provide insights into the collective sentiment of retail investors and traders.
 
 - **Example**: TickerTags is a [social media analytics](../s/social_media_analytics.md) platform that tracks sentiment around specific [stocks](../s/stock.md) based on [social media](../s/social_media.md) mentions.
-  [TickerTags](https://www.tickertags.com/)
 
 ### 3. Sentiment Surveys
 
 [Sentiment surveys](../s/sentiment_surveys.md) gather opinions and attitudes from [market](../m/market.md) participants through structured questionnaires. These surveys are often conducted by financial news outlets, economic institutions, and research firms. The results are then quantified and used as indicators.
 
 - **Example**: The American Association of Individual Investors (AAII) Sentiment Survey measures the sentiment of individual investors based on their expectations for the [stock market](../s/stock_market.md) over the next six months.
-  [AAII Sentiment Survey](https://www.aaii.com/sentimentsurvey)
 
 ## How Sentiment Indicators Work
 
 Sentiment indicators typically process large volumes of unstructured text data to detect patterns and sentiments. Here's a closer look at the steps involved:
 
 1. **Data Collection**: Raw data is gathered from various sources such as news articles, [social media](../s/social_media.md) platforms, and survey results.
-   
+
 2. **Data Processing**: [Natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) algorithms are applied to parse and structure the data. This involves tasks like tokenization, part-of-speech tagging, and named entity recognition.
 
-3. **Sentiment Scoring**: The processed data is then analyzed to assign sentiment scores. These scores can be binary (positive/negative), ternary (positive/[neutral](../n/neutral.md)/negative), or on a continuous scale. 
+3. **Sentiment Scoring**: The processed data is then analyzed to assign sentiment scores. These scores can be binary (positive/negative), ternary (positive/[neutral](../n/neutral.md)/negative), or on a continuous scale.
 
 4. **Visualization**: Sentiment scores are often displayed in charts or graphs, making it easier for traders to spot trends and make informed decisions.
 
@@ -45,15 +42,12 @@ Sentiment indicators typically process large volumes of unstructured text data t
 - **Part-of-Speech Tagging**: Identifying the grammatical parts of speech in each token.
 - **Named Entity Recognition**: Detecting and classifying entities like names, dates, and financial terms.
 - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Scoring the sentiment of text using pre-defined lexicons or [machine learning](../m/machine_learning.md) models.
-  
+
 Popular NLP libraries used in [sentiment analysis](../s/sentiment_analysis.md) are:
 
 - **NLTK (Natural Language Toolkit)**: A comprehensive library for Python that provides tools for text processing tasks.
-  [NLTK](https://www.nltk.org/)
 - **SpaCy**: An efficient library for advanced NLP in Python.
-  [SpaCy](https://spacy.io/)
 - **TextBlob**: A simpler library for processing textual data in Python.
-  [TextBlob](https://textblob.readthedocs.io/en/dev/)
 
 ## Algorithmic Trading Strategies Using Sentiment Indicators
 

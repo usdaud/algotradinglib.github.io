@@ -85,15 +85,15 @@ Optimal Bet Size: 40.00% of the bankroll
 
 ### Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company that utilises [quantitative models](../q/quantitative_models.md) derived from mathematical and statistical methods. Founded by Jim Simons, Renaissance Technologies is one of the pioneers of [algorithmic trading](../a/algorithmic_trading.md) and is rumored to use principles similar to the [Kelly Criterion](../k/kelly_criterion.md) to optimize their [trading strategies](../t/trading_strategies.md).
-[https://www.rentec.com/](https://www.rentec.com/)
+
 
 ### Two Sigma
 Two Sigma is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space, employing large-scale data analysis, advanced technology, and [mathematical models](../m/mathematical_models_in_trading.md). Two Sigma's strategies include sophisticated [risk management](../r/risk_management.md) techniques that likely [leverage](../l/leverage.md) the principles of the [Kelly Criterion](../k/kelly_criterion.md).
-[https://www.twosigma.com/](https://www.twosigma.com/)
+
 
 ### Citadel
 Citadel, founded by Ken Griffin, is a global financial institution with a focus on [quantitative trading](../q/quantitative_trading.md) and [mathematical models](../m/mathematical_models_in_trading.md). The [firm](../f/firm.md) uses a variety of advanced [risk management](../r/risk_management.md) tactics, which may include Kelly Optimal Bet Sizing for efficient [capital allocation](../c/capital_allocation.md).
-[https://www.citadel.com/](https://www.citadel.com/)
+
 
 ## Conclusion
 

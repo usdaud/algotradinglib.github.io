@@ -2,7 +2,7 @@
 
 Gross Domestic [Income](../i/income.md) (GDI) is a metric that measures the total [income](../i/income.md) earned by a country's residents and businesses, including any product [taxes](../t/taxes.md) minus subsidies not included in the [valuation](../v/valuation.md) of output. It serves as an alternative measure to Gross Domestic Product (GDP) for gauging the economic activity within a nation, though the two should, in theory, be equal since they are two sides of the same coin. While GDP calculates the total [value](../v/value.md) of goods and services produced within a country, GDI adds up the incomes earned from that production.
 
-GDI is crucial for providing a comprehensive view of the economic landscape, making it an important concept for economists, policymakers, and financial [market](../m/market.md) analysts, including those involved in [algorithmic trading](../a/accountability.md) or "algotrading." Understanding GDI is essential for making informed predictions about economic trends, formulating monetary policies, and constructing investment strategies. Below, we provide a detailed examination of GDI, including its components, calculation methods, importance, and relationship with GDP.
+GDI is crucial for providing a comprehensive view of the economic landscape, making it an important concept for economists, policymakers, and financial [market](../m/market.md) analysts, including those involved in [algorithmic trading](../a/algorithmic_trading.md) or "algotrading." Understanding GDI is essential for making informed predictions about economic trends, formulating monetary policies, and constructing investment strategies. Below, we provide a detailed examination of GDI, including its components, calculation methods, importance, and relationship with GDP.
 
 ## Components of GDI
 
@@ -84,16 +84,16 @@ Strong GDI growth can strengthen a country's [currency](../c/currency.md) as it 
 ## Real-World Examples
 
 ### 1. **United States**
-In the United States, the Bureau of Economic Analysis (BEA) publishes quarterly GDI data as part of its national [income](../i/income.md) and product accounts. The BEA's official page on GDI can be found here: [BEA GDI](https://www.bea.gov/data/income-saving/gross-domestic-income).
+In the United States, the Bureau of Economic Analysis (BEA) publishes quarterly GDI data as part of its national [income](../i/income.md) and product accounts. The BEA's public materials on GDI can be found here: BEA GDI.
 
 ### 2. **European Union**
-Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), compiles GDI data for EU member countries. More information can be obtained from their official page: [Eurostat](https://ec.europa.eu/eurostat).
+Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), compiles GDI data for EU member countries.
 
 ### 3. **Japan**
-The [Statistics](../s/statistics.md) Bureau of Japan provides GDI data alongside other [economic indicators](../e/economic_indicators.md). Their official page is accessible here: [Statistics Bureau of Japan](https://www.stat.go.jp).
+The [Statistics](../s/statistics.md) Bureau of Japan provides GDI data alongside other [economic indicators](../e/economic_indicators.md). Their public materials is accessible here: Statistics Bureau of Japan.
 
 ### 4. **India**
-The Ministry of [Statistics](../s/statistics.md) and Programme Implementation (MOSPI) in India releases GDI data regularly. Their official portal can be accessed here: [MOSPI](http://www.mospi.gov.in).
+The Ministry of [Statistics](../s/statistics.md) and Programme Implementation (MOSPI) in India releases GDI data regularly. Their official portal can be accessed here: MOSPI.
 
 ## Future Trends in GDI Analysis
 

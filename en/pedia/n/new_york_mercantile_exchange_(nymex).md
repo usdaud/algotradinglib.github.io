@@ -1,6 +1,6 @@
 # New York Mercantile Exchange (NYMEX)
 
-The New York Mercantile [Exchange](../e/exchange.md) (NYMEX) is a commodities [futures](../f/futures.md) [exchange](../e/exchange.md) owned and operated by CME Group, a leading global [derivatives](../d/derivatives.md) marketplace. NYMEX allows traders and investors to buy and sell [futures](../f/futures.md) and [options](../o/options.md) contracts on various commodities, including energy products like [crude oil](../c/crude_oil.md) and natural gas, as well as metals such as gold and silver. Established in 1872 as the Butter and Cheese [Exchange](../e/exchange.md) of New York, it evolved to become a leading commodities [exchange](../e/exchange.md) and a key player in global [financial markets](../f/financial_market.md). 
+The New York Mercantile [Exchange](../e/exchange.md) (NYMEX) is a commodities [futures](../f/futures.md) [exchange](../e/exchange.md) owned and operated by CME Group, a leading global [derivatives](../d/derivatives.md) marketplace. NYMEX allows traders and investors to buy and sell [futures](../f/futures.md) and [options](../o/options.md) contracts on various commodities, including energy products like [crude oil](../c/crude_oil.md) and natural gas, as well as metals such as gold and silver. Established in 1872 as the Butter and Cheese [Exchange](../e/exchange.md) of New York, it evolved to become a leading commodities [exchange](../e/exchange.md) and a key player in global [financial markets](../f/financial_market.md).
 
 ## History and Evolution
 
@@ -42,7 +42,7 @@ Arguably the most significant product traded on NYMEX is [crude oil](../c/crude_
 
 ### Natural Gas
 
-Natural gas [futures](../f/futures.md) are another critical product, providing [market](../m/market.md) participants the ability to [hedge](../h/hedge.md) against price [volatility](../v/volatility.md) in the natural gas markets. 
+Natural gas [futures](../f/futures.md) are another critical product, providing [market](../m/market.md) participants the ability to [hedge](../h/hedge.md) against price [volatility](../v/volatility.md) in the natural gas markets.
 
 ### Precious Metals
 
@@ -94,7 +94,7 @@ The introduction of electronic trading via the Globex platform has revolutionize
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has seen significant growth, with algorithms executing trades at speeds impossible for human traders. This evolution has increased [liquidity](../l/liquidity.md) and reduced the [bid](../b/bid.md)-ask [spreads](../s/spreads.md) in various contracts.
+[Algorithmic trading](../a/algorithmic_trading.md) has seen significant growth, with algorithms executing trades at speeds impossible for human traders. This evolution has increased [liquidity](../l/liquidity.md) and reduced the [bid](../b/bid.md)-ask [spreads](../s/spreads.md) in various contracts.
 
 ## Case Studies
 
@@ -124,4 +124,3 @@ NYMEX is expected to continue its global [expansion](../e/expansion.md), making 
 
 The New York Mercantile [Exchange](../e/exchange.md) (NYMEX) has evolved into one of the world's premier commodities exchanges, [offering](../o/offering.md) a wide array of [futures](../f/futures.md) and [options](../o/options.md) contracts. Its role in [price discovery](../p/price_discovery.md), [risk management](../r/risk_management.md), and economic signaling underscores its importance in global markets. As it continues to adapt and expand, NYMEX remains a critical venue for traders and investors navigating the complex world of commodities.
 
-For more information, visit the [official NYMEX page on CME Group's website](https://www.cmegroup.com/markets/energy/nymex.html).

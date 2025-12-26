@@ -19,9 +19,9 @@ where \( V \) represents the option price and \( \sigma \) represents the [volat
 Vomma is crucial for several reasons:
 
 1. **[Volatility](../v/volatility.md) Management**: For traders who are exposed to [volatility](../v/volatility.md) risks, understanding Vomma can help manage these risks more effectively. By knowing how [vega](../v/vega.md) [will](../w/will.md) change as [volatility](../v/volatility.md) changes, traders can better position themselves to either [profit](../p/profit.md) from or [hedge](../h/hedge.md) against these changes.
-  
+
 2. **Portfolio Adjustment**: Traders who use [delta](../d/delta.md)-[neutral](../n/neutral.md) strategies, which aim to [hedge](../h/hedge.md) out price movements of the [underlying asset](../u/underlying_asset.md), need to be aware of Vomma to adjust their portfolios appropriately when [volatility](../v/volatility.md) changes.
-  
+
 3. **[Risk](../r/risk.md) Measurement**: Vomma provides an insightful measure of an option's sensitivity to the second [derivative](../d/derivative.md) of [volatility](../v/volatility.md). This is essential for assessing the [risk](../r/risk.md) in more sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Calculation
@@ -61,6 +61,6 @@ Additionally, Vomma can be used to optimize [trading strategies](../t/trading_st
 
 Vomma plays an indispensable role in the high-stakes world of [options](../o/options.md) trading. It offers a more granular perspective on how option prices [will](../w/will.md) behave under varying [volatility](../v/volatility.md) conditions, providing traders and [risk](../r/risk.md) managers with the information they need to adjust positions and manage risks effectively. While not as commonly discussed as other [Greeks](../g/greeks.md) like [delta](../d/delta.md), [gamma](../g/gamma.md), or [vega](../v/vega.md), Vomma holds its significance for those deeply involved in advanced [options trading strategies](../o/options_trading_strategies.md).
 
-For more information on [options](../o/options.md) trading and [risk management](../r/risk_management.md), one may visit professional [options](../o/options.md) trading platforms or educational resources provided by financial institutions specializing in [derivatives](../d/derivatives.md) and [options](../o/options.md) trading. Some well-known players in this domain include [Option Clearing Corporation (OCC)](https://www.theocc.com) and [Chicago Board Options Exchange (Cboe)](https://www.cboe.com).
+For more information on [options](../o/options.md) trading and [risk management](../r/risk_management.md), one may visit professional [options](../o/options.md) trading platforms or educational resources provided by financial institutions specializing in [derivatives](../d/derivatives.md) and [options](../o/options.md) trading. Some well-known players in this domain include Option Clearing Corporation (OCC) and Chicago Board Options Exchange (Cboe).
 
 By understanding Vomma, [market](../m/market.md) participants can navigate the intricate dynamics of [volatility](../v/volatility.md) in a more competent and informed manner, achieving a refined approach to trading in the [options](../o/options.md) [market](../m/market.md).

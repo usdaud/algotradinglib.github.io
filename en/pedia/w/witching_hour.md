@@ -112,4 +112,4 @@ Regulatory bodies closely monitor trading activities during the witching hour du
 
 The witching hour in trading and [finance](../f/finance.md) encapsulates a period of intense [market](../m/market.md) activity and [volatility](../v/volatility.md), driven by the simultaneous expiration of various [derivative](../d/derivative.md) contracts. Understanding its dynamics, risks, and opportunities is crucial for traders aiming to navigate these turbulent waters successfully. By employing strategic approaches and leveraging advanced trading tools, [market](../m/market.md) participants can optimize their trades and [capitalize](../c/capitalize.md) on the unique conditions presented by the witching hour.
 
-For more in-depth understanding and trading resources, traders can visit [Investopedia](https://www.investopedia.com/terms/q/quadruplewitching.asp) or consult their preferred financial services provider's educational materials.
+For more in-depth understanding and trading resources, traders can visit Investopedia or consult their preferred financial services provider's educational materials.

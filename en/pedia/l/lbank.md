@@ -86,7 +86,7 @@ LBank offers a [robust](../r/robust.md) API (Application Programming Interface) 
 
 ### Algorithmic Trading
 
-With the growing popularity of [algorithmic trading](../a/accountability.md), LBank provides support for trading bots and algorithmic strategies. Users can deploy bots to execute trades based on predefined criteria, such as price movements, [volume](../v/volume.md), and [technical indicators](../t/technical_indicator.md). This automation helps eliminate emotional biases and ensures consistent [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
+With the growing popularity of [algorithmic trading](../a/algorithmic_trading.md), LBank provides support for trading bots and algorithmic strategies. Users can deploy bots to execute trades based on predefined criteria, such as price movements, [volume](../v/volume.md), and [technical indicators](../t/technical_indicator.md). This automation helps eliminate emotional biases and ensures consistent [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
 
 ### Market Orders and Limit Orders
 
@@ -116,4 +116,4 @@ LBank has established a strong global presence, with a user base spanning over 1
 
 LBank has emerged as a leading digital [asset](../a/asset.md) [trading platform](../t/trading_platform.md), [offering](../o/offering.md) a comprehensive [range](../r/range.md) of services and features to cater to diverse trading needs. Its commitment to [security](../s/security.md), regulatory compliance, and [customer](../c/customer.md) support has earned it a reputation as a trusted and reliable [exchange](../e/exchange.md) in the cryptocurrency [industry](../i/industry.md). As the crypto landscape continues to evolve, LBank remains dedicated to innovation and user satisfaction, positioning itself for sustained growth and success in the future.
 
-For more information about LBank, you can visit their official website: [https://www.lbank.info/](https://www.lbank.info/)
+For more information about LBank,

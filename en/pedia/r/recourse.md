@@ -12,11 +12,11 @@ Full recourse allows the [lender](../l/lender.md) to go after the borrower's per
 
 ### Limited Recourse
 
-Limited recourse restricts the [lender](../l/lender.md)'s ability to recover funds to specific assets or [revenue](../r/revenue.md) streams specified in the agreement. This type of recourse is often used in [project finance](../p/project_finance.md) and [real estate](../r/real_estate.md) investments where the [loan](../l/loan.md) is secured by the project or property itself. 
+Limited recourse restricts the [lender](../l/lender.md)'s ability to recover funds to specific assets or [revenue](../r/revenue.md) streams specified in the agreement. This type of recourse is often used in [project finance](../p/project_finance.md) and [real estate](../r/real_estate.md) investments where the [loan](../l/loan.md) is secured by the project or property itself.
 
 ### Non-Recourse
 
-Non-recourse means the [lender](../l/lender.md) can only seize the [collateral](../c/collateral.md) specified in the [loan](../l/loan.md) agreement, such as the property itself, and cannot go after the borrower's other assets. This type is often utilized in [real estate](../r/real_estate.md) and certain types of securitized loans. 
+Non-recourse means the [lender](../l/lender.md) can only seize the [collateral](../c/collateral.md) specified in the [loan](../l/loan.md) agreement, such as the property itself, and cannot go after the borrower's other assets. This type is often utilized in [real estate](../r/real_estate.md) and certain types of securitized loans.
 
 ### Soft and Hard Recourse
 
@@ -52,7 +52,7 @@ Non-recourse loans limit the [lender](../l/lender.md)’s ability to recover the
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using algorithms to automate trading decisions and executions. Recourse, as a form of [risk management](../r/risk_management.md), is an essential component in the design and deployment of these algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using algorithms to automate trading decisions and executions. Recourse, as a form of [risk management](../r/risk_management.md), is an essential component in the design and deployment of these algorithms.
 
 ### Backtesting
 
@@ -70,9 +70,9 @@ In the ever-evolving world of Financial Technology (FinTech), recourse mechanism
 
 In [peer-to-peer lending](../p/peer-to-peer_lending.md) platforms, recourse terms are often clearly specified to protect both lenders and borrowers. This ensures [transparency](../t/transparency.md) and helps mitigate the [risk](../r/risk.md) of [default](../d/default.md).
 
-**Example of P2P Lending Platforms:** 
-- [Lending Club](https://www.lendingclub.com)
-- [Prosper](https://www.prosper.com)
+**Example of P2P Lending Platforms:**
+- Lending Club
+- Prosper
 
 ### Robo-Advisors
 
@@ -82,9 +82,9 @@ Robo-advisors use algorithms to manage investment portfolios. Recourse [options]
 
 [Blockchain](../b/blockchain_in_trading.md)-based [smart contracts](../s/smart_contracts_in_trading.md) can integrate recourse terms to automatically enact penalties or corrective measures if one party fails to meet their [obligations](../o/obligation.md). This automation reduces the need for intermediaries and increases the [efficiency](../e/efficiency.md) of financial transactions.
 
-**Example of [Blockchain](../b/blockchain_in_trading.md) Platforms [Offering](../o/offering.md) [Smart Contracts](../s/smart_contracts_in_trading.md):** 
-- [Ethereum](https://ethereum.org)
-- [Chainlink](https://chain.link)
+**Example of [Blockchain](../b/blockchain_in_trading.md) Platforms [Offering](../o/offering.md) [Smart Contracts](../s/smart_contracts_in_trading.md):**
+- Ethereum
+- Chainlink
 
 ## Regulatory Considerations
 
@@ -111,13 +111,13 @@ During the 2008 [financial crisis](../f/financial_crisis.md), the recourse terms
 
 In [corporate finance](../c/corporate_finance.md), recourse terms in loans and bonds can significantly impact a company's [liquidity](../l/liquidity.md) and [risk management](../r/risk_management.md) strategies. For example, General Electric (GE) has various recourse and non-recourse [financing](../f/financing.md) [options](../o/options.md) to manage its [capital structure](../c/capital_structure.md) efficiently.
 
-**General Electric Financial Services:** [General Electric](https://www.ge.com/financial-services)
+**General Electric Financial Services:** General Electric
 
 ### Case Study 3: Peer-to-Peer Lending
 
 A [peer-to-peer lending](../p/peer-to-peer_lending.md) platform like Lending Club offers both recourse and non-recourse loans. The availability of recourse loans often attracts more conservative investors willing to [trade](../t/trade.md) off some [interest rate](../i/interest_rate.md) returns for added [security](../s/security.md).
 
-**Lending Club:** [Lending Club](https://www.lendingclub.com)
+**Lending Club:** Lending Club
 
 ## Future Trends
 
@@ -135,6 +135,6 @@ As financial technology progresses, regulatory bodies [will](../w/will.md) likel
 
 ## Conclusion
 
-Recourse is a multi-faceted concept in [finance](../f/finance.md) that provides a safety net for lenders and investors. Whether through full, limited, or non-recourse terms, this mechanism helps in managing [risk](../r/risk.md) and ensuring that contractual [obligations](../o/obligation.md) are met. In the age of financial technology and [algorithmic trading](../a/accountability.md), the implementation and importance of recourse mechanisms are only set to grow, [offering](../o/offering.md) new layers of protection and [efficiency](../e/efficiency.md) in financial transactions.
+Recourse is a multi-faceted concept in [finance](../f/finance.md) that provides a safety net for lenders and investors. Whether through full, limited, or non-recourse terms, this mechanism helps in managing [risk](../r/risk.md) and ensuring that contractual [obligations](../o/obligation.md) are met. In the age of financial technology and [algorithmic trading](../a/algorithmic_trading.md), the implementation and importance of recourse mechanisms are only set to grow, [offering](../o/offering.md) new layers of protection and [efficiency](../e/efficiency.md) in financial transactions.
 
 Understanding the intricacies of recourse, its applications, and its legal implications is essential for anyone involved in [finance](../f/finance.md), be it personal lending, [corporate finance](../c/corporate_finance.md), or cutting-edge FinTech innovations. As the [industry](../i/industry.md) continues to evolve, recourse [will](../w/will.md) remain a cornerstone of [financial risk management](../f/financial_risk_management.md) strategies.

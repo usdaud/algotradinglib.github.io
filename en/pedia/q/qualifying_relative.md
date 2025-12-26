@@ -35,11 +35,11 @@ The individual must be a U.S. citizen, U.S. [resident alien](../r/resident_alien
 
 ## Importance in Tax Filing
 
-Claiming a qualifying relative as a dependent can [offer](../o/offer.md) substantial tax benefits for the [taxpayer](../t/taxpayer.md). These benefits can include a reduction in [taxable income](../t/taxable_income.md), eligibility for certain tax credits (e.g., the Child and Dependent Care [Credit](../c/credit.md)), and higher [income](../i/income.md) limits for other credits like the [Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC). 
+Claiming a qualifying relative as a dependent can [offer](../o/offer.md) substantial tax benefits for the [taxpayer](../t/taxpayer.md). These benefits can include a reduction in [taxable income](../t/taxable_income.md), eligibility for certain tax credits (e.g., the Child and Dependent Care [Credit](../c/credit.md)), and higher [income](../i/income.md) limits for other credits like the [Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC).
 
 ## Example Scenarios
 
-**Example 1: Elderly Parent** 
+**Example 1: Elderly Parent**
 
 John supports his elderly mother who lives with him throughout the year. She earns $2,000 annually from a small pension. John pays for all her living expenses, including food, housing, and medical bills. Despite her receiving some [income](../i/income.md), her [gross income](../g/gross_income.md) is below the IRS [exemption](../e/exemption.md) amount, and John meets all other criteria, so he can claim her as a qualifying relative.
 
@@ -63,7 +63,7 @@ Proper documentation and record keeping are crucial when claiming a qualifying r
 
 ## Changes and Updates
 
-Tax laws and IRS regulations change periodically, and the criteria for who qualifies as a dependent may be updated. It's essential for taxpayers to stay current with IRS publications and guidelines. [IRS Publication 501](https://www.irs.gov/publications/p501) provides detailed information on qualifying dependents and should be consulted each tax year to confirm criteria and eligibility.
+Tax laws and IRS regulations change periodically, and the criteria for who qualifies as a dependent may be updated. It's essential for taxpayers to stay current with IRS publications and guidelines. IRS Publication 501 provides detailed information on qualifying dependents and should be consulted each tax year to confirm criteria and eligibility.
 
 ## Conclusion
 

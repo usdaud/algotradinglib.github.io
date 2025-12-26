@@ -23,16 +23,16 @@ In the United States, [tender](../t/tender.md) offers are governed by the [Secur
 ### Key Filings and Disclosures:
 
 1. **Schedule TO ([Tender](../t/tender.md) [Offer](../o/offer.md) Statement under Section 14(d)(1))**:
-   The bidder must file this document with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), detailing the [offer](../o/offer.md) terms, purpose, and financial considerations.
+ The bidder must file this document with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), detailing the [offer](../o/offer.md) terms, purpose, and financial considerations.
 
-2. **[Schedule 13D](../s/schedule_13d.md)**: 
-   Investors acquiring more than 5% of a company’s [shares](../s/shares.md) must file [Schedule 13D](../s/schedule_13d.md), disclosing the purpose of the purchase and future plans.
+2. **[Schedule 13D](../s/schedule_13d.md)**:
+ Investors acquiring more than 5% of a company’s [shares](../s/shares.md) must file [Schedule 13D](../s/schedule_13d.md), disclosing the purpose of the purchase and future plans.
 
-3. **SEC Rule 14e-1**: 
-   Mandates the [offer](../o/offer.md) to remain [open](../o/open.md) for a minimum period, usually 20 [business](../b/business.md) days, providing shareholders ample time for consideration.
+3. **SEC Rule 14e-1**:
+ Mandates the [offer](../o/offer.md) to remain [open](../o/open.md) for a minimum period, usually 20 [business](../b/business.md) days, providing shareholders ample time for consideration.
 
 4. **Best Price Rule (Rule 14d-10)**:
-   Requires that all shareholders receive the identical highest price tendered during the [offer](../o/offer.md) period, preventing preferential treatment of specific shareholders.
+ Requires that all shareholders receive the identical highest price tendered during the [offer](../o/offer.md) period, preventing preferential treatment of specific shareholders.
 
 ## Strategic Motives
 
@@ -101,6 +101,6 @@ The [market](../m/market.md)'s reaction to a [tender](../t/tender.md) [offer](..
 ### Further Reading and Resources
 
 For more information, you may visit:
-- [SEC (U.S. Securities and Exchange Commission)](https://www.sec.gov)
-- [Oracle Corporation](https://www.oracle.com)
-- [Dell Technologies](https://www.dell.com)
+- SEC (U.S. Securities and Exchange Commission)
+- Oracle Corporation
+- Dell Technologies

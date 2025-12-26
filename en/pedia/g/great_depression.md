@@ -41,7 +41,7 @@ Several policy missteps exacerbated the economic downturn:
 
 - **Contractionary [Monetary Policy](../m/monetary_policy.md):** The Federal Reserve in the United States initially raised [interest](../i/interest.md) rates to defend the [gold standard](../g/gold_standard.md), restricting the [money supply](../m/money_supply.md).
 - **Fiscal Austerity:** Governments of the era cut back on spending and increased [taxes](../t/taxes.md), further reducing economic [demand](../d/demand.md).
-  
+
 ## Impact of the Great Depression
 
 ### Economic Impact
@@ -51,7 +51,7 @@ The economic devastation of the Great [Depression](../d/depression.md) had sever
 - **[Unemployment](../u/unemployment.md):** [Unemployment](../u/unemployment.md) rates in the United States soared to approximately 25%.
 - **GDP Decline:** The Gross Domestic Product (GDP) of many nations plummeted significantly.
 - **[Deflation](../d/deflation.md):** Prices fell consistently, exacerbating the real [debt](../d/debt.md) burdens.
-  
+
 ### Social Impact
 
 The social fabric of society was greatly affected:
@@ -77,13 +77,13 @@ President Franklin D. Roosevelt's [New Deal](../n/new_deal.md) aimed at recovery
 
 - **Financial Reforms:** Establishment of the FDIC (Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md)) and Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) to restore confidence in the [financial system](../f/financial_system.md).
 - **Public Works Projects:** Large-scale public works, such as the Civilian Conservation Corps (CCC) and Works Progress Administration (WPA), created jobs.
-  
+
 ### Repeal of Protectionist Measures
 
 Gradual easing of protectionist measures helped improve international [trade](../t/trade.md) dynamics.
 
 - **Reciprocal [Trade](../t/trade.md) Agreements Act:** In 1934 United States introduced this act to lower tariffs through bilateral agreements.
-  
+
 ### Monetary and Fiscal Stimulus
 
 An expansionary monetary and [fiscal policy](../f/fiscal_policy.md) started to take root:
@@ -101,14 +101,14 @@ A wave of regulatory changes was enacted to prevent such a crisis from reoccurri
 
 - **Banking Sector:** Increased regulation and oversight of the banking [industry](../i/industry.md), including the [Glass-Steagall Act](../g/glass-steagall_act.md) separating commercial and [investment banking](../i/investment_banking.md).
 - **[Stock Market](../s/stock_market.md):** Enhanced scrutiny and regulations for [stock market](../s/stock_market.md) activities.
-  
+
 ### Increased Role of Government
 
 The Great [Depression](../d/depression.md) established a precedent for active government intervention in the [economy](../e/economy.md), leading to:
 
 - **[Keynesian Economics](../k/keynesian_economics_in_trading.md):** Widespread acceptance of the theories of [John Maynard Keynes](../j/john_maynard_keynes.md) advocating for government spending to combat economic downturns.
 - **Social Safety Nets:** Establishment or [expansion](../e/expansion.md) of [social security](../s/social_security.md) systems and [unemployment](../u/unemployment.md) [insurance](../i/insurance.md).
-  
+
 ### Influence on Future Policy
 
 The lessons learned from the Great [Depression](../d/depression.md) influenced future policy decisions:

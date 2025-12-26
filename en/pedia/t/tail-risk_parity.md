@@ -66,19 +66,19 @@ Tail-[Risk Parity](../r/risk_parity.md) is not a static strategy. It requires on
 ## Notable Companies and Tools
 
 ### 1. AQR Capital Management
-AQR has developed several strategies aimed at better understanding and managing tail risks. Their research and papers often delve into advanced methods of portfolio construction and [risk management](../r/risk_management.md). More information can be found on their official website: [AQR](https://www.aqr.com).
+AQR has developed several strategies aimed at better understanding and managing tail risks. Their research and papers often delve into advanced methods of portfolio construction and [risk management](../r/risk_management.md).
 
 ### 2. BlackRock
-BlackRock, with its extensive resources and advanced analytics, offers products that incorporate elements of tail-[risk management](../r/risk_management.md). Their Aladdin platform is particularly renowned for its analytical capabilities. Visit their official site here: [BlackRock](https://www.blackrock.com).
+BlackRock, with its extensive resources and advanced analytics, offers products that incorporate elements of tail-[risk management](../r/risk_management.md). Their Aladdin platform is particularly renowned for its analytical capabilities.
 
 ### 3. MSCI
-MSCI offers a suite of tools and indices that help in managing and analyzing tail risks in portfolios. Their solutions provide insights into [risk factors](../r/risk_factors_in_trading.md), performance, and [stress testing](../s/stress_testing_in_trading.md). Learn more on their site: [MSCI](https://www.msci.com).
+MSCI offers a suite of tools and indices that help in managing and analyzing tail risks in portfolios. Their solutions provide insights into [risk factors](../r/risk_factors_in_trading.md), performance, and [stress testing](../s/stress_testing_in_trading.md). Learn more in MSCI materials.
 
 ### 4. RiskMetrics
-RiskMetrics, now a part of MSCI, has been a pioneer in [risk management](../r/risk_management.md) solutions, including tools to measure and manage tail risks. Visit them here: [RiskMetrics](https://www.msci.com/riskmetrics).
+RiskMetrics, now a part of MSCI, has been a pioneer in [risk management](../r/risk_management.md) solutions, including tools to measure and manage tail risks. Visit them here: RiskMetrics.
 
 ### 5. Bloomberg
-[Bloomberg](../b/bloomberg.md) offers comprehensive analytics and data services that include tools for assessing and managing tail risks in financial portfolios. Detailed information can be accessed on their website: [Bloomberg](https://www.bloomberg.com).
+[Bloomberg](../b/bloomberg.md) offers comprehensive analytics and data services that include tools for assessing and managing tail risks in financial portfolios. Detailed information can be accessed through its online channels: Bloomberg.
 
 ## Conclusion
 

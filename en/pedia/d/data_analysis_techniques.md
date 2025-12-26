@@ -14,7 +14,7 @@ Historical data is a crucial component in developing and testing [algorithmic tr
 
 ### Techniques
 
-- **[Backtesting](../b/backtesting.md):** This technique involves testing a [trading strategy](../t/trading_strategy.md) on historical data to assess its viability. 
+- **[Backtesting](../b/backtesting.md):** This technique involves testing a [trading strategy](../t/trading_strategy.md) on historical data to assess its viability.
 - **[Time Series Analysis](../t/time_series_analysis.md):** Methods like ARIMA (AutoRegressive Integrated Moving Average) help in modeling and [forecasting](../f/forecasting.md) [financial time series](../f/financial_time_series.md).
 - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying historical patterns like head and shoulders, triangles, etc., to predict future price movements.
 
@@ -105,12 +105,12 @@ Numerous [software platforms](../s/software_platforms_for_trading.md) and tools 
 
 - **Programming Languages:** Python and R are widely used due to their extensive libraries and community support.
 - **Data Analysis Libraries:** Pandas, NumPy, and SciPy for data manipulation and analysis; scikit-learn and [TensorFlow](../t/tensorflow.md) for [machine learning](../m/machine_learning.md) tasks.
-- **Trading Platforms:** MetaTrader, [QuantConnect](../q/quantconnect.md), and [TradeStation](../t/tradestation.md) [offer](../o/offer.md) [robust](../r/robust.md) environments for developing and testing [trading algorithms](../t/trading_algorithms.md).
+- **Trading Platforms:** MetaTrader, [StockSharp](../s/stocksharp.md), and [TradeStation](../t/tradestation.md) [offer](../o/offer.md) [robust](../r/robust.md) environments for developing and testing [trading algorithms](../t/trading_algorithms.md).
 
 To explore some of these tools and platforms, refer to the following links:
 
-- **[Quandl](../q/quandl.md):** [Quandl](https://www.quandl.com/)
-- **MetaTrader:** [MetaTrader](https://www.metatrader4.com/en)
-- **[QuantConnect](../q/quantconnect.md):** [QuantConnect](https://www.quantconnect.com/)
+- **[Quandl](../q/quandl.md):** Quandl
+- **MetaTrader:** MetaTrader
+- **[QuantConnect](../q/quantconnect.md):** QuantConnect
 
-In conclusion, mastering data analysis techniques is essential for developing [robust](../r/robust.md) and profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. From [historical data analysis](../h/historical_data_analysis.md) to [machine learning](../m/machine_learning.md), each technique plays a critical role in identifying opportunities and mitigating risks in the complex and dynamic world of [financial markets](../f/financial_market.md).
+In conclusion, mastering data analysis techniques is essential for developing [robust](../r/robust.md) and profitable [algorithmic trading](../a/algorithmic_trading.md) strategies. From [historical data analysis](../h/historical_data_analysis.md) to [machine learning](../m/machine_learning.md), each technique plays a critical role in identifying opportunities and mitigating risks in the complex and dynamic world of [financial markets](../f/financial_market.md).

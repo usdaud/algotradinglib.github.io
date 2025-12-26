@@ -20,61 +20,61 @@ Typically, an IOI [will](../w/will.md) detail crucial information such as:
 ### Applications
 
 1. **Initial Public Offerings (IPOs)**
-    - Investors use IOIs to express their [interest](../i/interest.md) in participating in an IPO before the [shares](../s/shares.md) are officially [listed](../l/listed.md) on the [exchange](../e/exchange.md).
-    - This assists underwriters in assessing the [demand](../d/demand.md) for the IPO and setting the final [offering price](../o/offering_price.md).
+ - Investors use IOIs to express their [interest](../i/interest.md) in participating in an IPO before the [shares](../s/shares.md) are officially [listed](../l/listed.md) on the [exchange](../e/exchange.md).
+ - This assists underwriters in assessing the [demand](../d/demand.md) for the IPO and setting the final [offering price](../o/offering_price.md).
 
 2. **Secondary Offerings**
-    - Existing shareholders or companies issuing additional [shares](../s/shares.md) may receive IOIs to determine [interest](../i/interest.md) levels prior to formal release.
+ - Existing shareholders or companies issuing additional [shares](../s/shares.md) may receive IOIs to determine [interest](../i/interest.md) levels prior to formal release.
 
 3. **Private Placements**
-    - In cases where securities are offered privately rather than through public markets, IOIs help in determining potential buyers and their level of [interest](../i/interest.md).
+ - In cases where securities are offered privately rather than through public markets, IOIs help in determining potential buyers and their level of [interest](../i/interest.md).
 
 ### Usage in Algo Trading
 
-In [algorithmic trading](../a/accountability.md), IOIs are utilized to automate and streamline the process of gauging [market](../m/market.md) [interest](../i/interest.md) before committing to large trades.
+In [algorithmic trading](../a/algorithmic_trading.md), IOIs are utilized to automate and streamline the process of gauging [market](../m/market.md) [interest](../i/interest.md) before committing to large trades.
 
 1. **Pretrade Analysis**
-    - Advanced [trading algorithms](../t/trading_algorithms.md) can analyze IOIs to predict [market](../m/market.md) trends and the impact of future trades on the [market](../m/market.md).
-    - Analytics driven by AI can assess historical data in [correlation](../c/correlation.md) with the present IOIs to predict [interest](../i/interest.md) trends.
+ - Advanced [trading algorithms](../t/trading_algorithms.md) can analyze IOIs to predict [market](../m/market.md) trends and the impact of future trades on the [market](../m/market.md).
+ - Analytics driven by AI can assess historical data in [correlation](../c/correlation.md) with the present IOIs to predict [interest](../i/interest.md) trends.
 
 2. **[Market](../m/market.md) Impact Models**
-    - Algorithms can utilize IOIs to create [market](../m/market.md) impact models that estimate the potential effects of large trades on [market](../m/market.md) prices.
+ - Algorithms can utilize IOIs to create [market](../m/market.md) impact models that estimate the potential effects of large trades on [market](../m/market.md) prices.
 
 3. **[Liquidity](../l/liquidity.md) Management**
-    - IOIs can be essential for managing [liquidity](../l/liquidity.md). Algorithms capable of interpreting IOI data can optimize the timing and [volume](../v/volume.md) of trades to minimize adverse [market](../m/market.md) movements.
+ - IOIs can be essential for managing [liquidity](../l/liquidity.md). Algorithms capable of interpreting IOI data can optimize the timing and [volume](../v/volume.md) of trades to minimize adverse [market](../m/market.md) movements.
 
 ## Regulatory Aspects
 
 Regulatory bodies have oversight on the use and [disclosure](../d/disclosure.md) of IOIs to prevent [market manipulation](../m/market_manipulation.md) and ensure [transparency](../t/transparency.md).
 
 1. **FINRA Rules**
-    - The Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) oversees the use of IOIs among intermediaries in the U.S. markets.
-    - Specific guidelines ensure IOIs are accurate and not misleading.
+ - The Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) oversees the use of IOIs among intermediaries in the U.S. markets.
+ - Specific guidelines ensure IOIs are accurate and not misleading.
 
 2. **[MiFID II](../m/mifid_ii.md) Directive**
-    - In the [European Union](../e/european_union_(eu).md), under the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)), firms are required to be explicit about the nature of each IOI to ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection.
+ - In the [European Union](../e/european_union_(eu).md), under the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)), firms are required to be explicit about the nature of each IOI to ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection.
 
 ## Benefits and Drawbacks
 
 ### Benefits
 
 1. **[Transparency](../t/transparency.md)**
-    - IOIs contribute to [market](../m/market.md) [transparency](../t/transparency.md) by signaling potential trading interests early.
+ - IOIs contribute to [market](../m/market.md) [transparency](../t/transparency.md) by signaling potential trading interests early.
 
 2. **Reduced [Market](../m/market.md) Impact**
-    - Stating [interest](../i/interest.md) without formal commitment can help gauge [supply](../s/supply.md) and [demand](../d/demand.md) dynamics without immediately affecting [market](../m/market.md) prices.
+ - Stating [interest](../i/interest.md) without formal commitment can help gauge [supply](../s/supply.md) and [demand](../d/demand.md) dynamics without immediately affecting [market](../m/market.md) prices.
 
 3. **[Risk Management](../r/risk_management.md)**
-    - Allows for managing trading [risk](../r/risk.md) as entities can understand preliminary [interest](../i/interest.md) and adjust positions accordingly.
+ - Allows for managing trading [risk](../r/risk.md) as entities can understand preliminary [interest](../i/interest.md) and adjust positions accordingly.
 
 ### Drawbacks
 
 1. **Non-binding Nature**
-    - The lack of obligation can sometimes lead to uncertainties and potential misinformation.
+ - The lack of obligation can sometimes lead to uncertainties and potential misinformation.
 
 2. **Potential for Manipulation**
-    - Without stringent regulatory controls, IOIs might be misused to manipulate [market](../m/market.md) perceptions.
+ - Without stringent regulatory controls, IOIs might be misused to manipulate [market](../m/market.md) perceptions.
 
 ## Conclusion
 
-The Indication of [Interest](../i/interest.md) (IOI) remains a fundamental tool in [financial markets](../f/financial_market.md), serving the vital role of bridging the gap between [interest](../i/interest.md) and commitment. Through effective use, it helps [market](../m/market.md) participants manage [risk](../r/risk.md), optimize [liquidity](../l/liquidity.md), and enhance [transparency](../t/transparency.md). With expanding technologies and [algorithmic trading](../a/accountability.md), the use of IOIs continues to evolve, emphasizing the need for [robust](../r/robust.md) regulatory frameworks to [uphold](../u/uphold.md) [market](../m/market.md) integrity. For more information and regulations, visit [FINRA](https://www.finra.org/) and [MiFID II](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial-markets/securities-markets/mifid-ii_en).
+The Indication of [Interest](../i/interest.md) (IOI) remains a fundamental tool in [financial markets](../f/financial_market.md), serving the vital role of bridging the gap between [interest](../i/interest.md) and commitment. Through effective use, it helps [market](../m/market.md) participants manage [risk](../r/risk.md), optimize [liquidity](../l/liquidity.md), and enhance [transparency](../t/transparency.md). With expanding technologies and [algorithmic trading](../a/algorithmic_trading.md), the use of IOIs continues to evolve, emphasizing the need for [robust](../r/robust.md) regulatory frameworks to [uphold](../u/uphold.md) [market](../m/market.md) integrity. For more information and regulations, visit FINRA and MiFID II.

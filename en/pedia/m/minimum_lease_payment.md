@@ -74,8 +74,6 @@ Industries that rely heavily on leased machinery and equipment, such as [manufac
 
 Fintech companies providing lease management solutions, like LeaseQuery or CoStar [Real Estate](../r/real_estate.md) Manager, often incorporate automated calculations of MLPs to assist clients in maintaining compliance with [accounting](../a/accounting.md) standards. These platforms [offer](../o/offer.md) tools to track [lease payments](../l/lease_payments.md), calculate present values, and generate necessary disclosures, thereby simplifying the [accounting](../a/accounting.md) process for complex lease agreements.
 
-[LeaseQuery](https://leasequery.com/)
-[CoStar Real Estate Manager](https://www.costar.com/products/real-estate-manager)
 
 ## Conclusion
 

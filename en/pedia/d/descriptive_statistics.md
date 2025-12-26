@@ -18,8 +18,8 @@ where \( N \) is the number of observations, and \( x_i \) are the individual va
 
 The [median](../m/median.md) is the middle [value](../v/value.md) in a dataset when the values are arranged in ascending or descending [order](../o/order.md). If the number of observations is even, the [median](../m/median.md) is the average of the two middle values. It is less affected by outliers compared to the mean.
 
-\[ \text{[Median](../m/median.md)} = 
-\begin{cases} 
+\[ \text{[Median](../m/median.md)} =
+\begin{cases}
 x_{(\frac{N+1}{2})} & \text{if } N \text{ is odd} \\
 \frac{x_{(\frac{N}{2})} + x_{(\frac{N}{2}+1)}}{2} & \text{if } N \text{ is even}
 \end{cases}
@@ -87,7 +87,7 @@ The shape of the data [distribution](../d/distribution.md) can be described usin
 
 ### Kurtosis
 
-[Kurtosis](../k/kurtosis.md) measures the "tailedness" of the [distribution](../d/distribution.md). 
+[Kurtosis](../k/kurtosis.md) measures the "tailedness" of the [distribution](../d/distribution.md).
 
 - Positive [kurtosis](../k/kurtosis.md) (leptokurtic): [Distribution](../d/distribution.md) with heavy tails.
 - Negative [kurtosis](../k/kurtosis.md) ([platykurtic](../p/platykurtic.md)): [Distribution](../d/distribution.md) with light tails.

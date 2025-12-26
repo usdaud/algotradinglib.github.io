@@ -75,4 +75,4 @@ The onset of the COVID-19 pandemic in early 2020 saw the Fear and Greed [Index](
 
 The Fear and Greed [Index](../i/index_instrument.md) serves as a valuable tool for gauging [market sentiment](../m/market_sentiment.md). While it is not an infallible predictor of [market](../m/market.md) movements, it provides a snapshot of prevailing [investor](../i/investor.md) emotions and can help in making informed investment decisions. By understanding and leveraging this [index](../i/index_instrument.md), investors can better navigate the complexities of [market cycles](../m/market_cycles.md), manage risks more effectively, and potentially enhance their investment returns.
 
-For more information and the latest updated Fear and Greed [Index](../i/index_instrument.md), you can visit [CNN Business Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/).
+For more information and the latest updated Fear and Greed [Index](../i/index_instrument.md), you can visit CNN Business Fear & Greed Index.

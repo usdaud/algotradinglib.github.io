@@ -8,7 +8,7 @@ Global [market](../m/market.md) analysis is a critical component of any successf
 
 ### Gross Domestic Product (GDP)
 
-Gross Domestic Product (GDP) is one of the most important indicators used to gauge the health of a country's [economy](../e/economy.md). It represents the total dollar [value](../v/value.md) of all goods and services produced over a specific time period. GDP can be measured by three methods: production (or output), [income](../i/income.md), and expenditure. 
+Gross Domestic Product (GDP) is one of the most important indicators used to gauge the health of a country's [economy](../e/economy.md). It represents the total dollar [value](../v/value.md) of all goods and services produced over a specific time period. GDP can be measured by three methods: production (or output), [income](../i/income.md), and expenditure.
 
 For algo traders, sudden changes in GDP growth can signal potential [market](../m/market.md) shifts. For example, a higher-than-expected GDP growth rate may indicate a strong [economy](../e/economy.md), which could lead to higher corporate [earnings](../e/earnings.md) and, consequently, a bullish [market sentiment](../m/market_sentiment.md).
 
@@ -58,7 +58,7 @@ Understanding sector-specific trends is vital for making informed trading decisi
 
 ### Technology Sector
 
-The [technology sector](../t/technology_sector.md) is one of the fastest-growing and most dynamic sectors in the global [economy](../e/economy.md). It encompasses software, hardware, semiconductors, and various IT services. 
+The [technology sector](../t/technology_sector.md) is one of the fastest-growing and most dynamic sectors in the global [economy](../e/economy.md). It encompasses software, hardware, semiconductors, and various IT services.
 
 Algo traders often focus on tech companies because of their rapid growth and high [liquidity](../l/liquidity.md). Innovations and disruptions in technology can lead to significant [market](../m/market.md) opportunities.
 
@@ -110,7 +110,7 @@ High-frequency traders rely on [market](../m/market.md) data providers like CME 
 
 [Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning](../m/machine_learning.md) are becoming increasingly important in algo trading. These technologies can analyze vast amounts of data, identify patterns, and make predictions with high accuracy.
 
-Firms like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) specialize in AI-driven [market](../m/market.md) analysis and [offer](../o/offer.md) platforms that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) for [trading strategies](../t/trading_strategies.md).
+Firms like Kensho and Numerai specialize in AI-driven [market](../m/market.md) analysis and [offer](../o/offer.md) platforms that [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) for [trading strategies](../t/trading_strategies.md).
 
 ## Risk Management in Algo Trading
 

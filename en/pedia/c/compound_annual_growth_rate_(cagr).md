@@ -28,10 +28,10 @@ Thus, the investment has grown at an annual compound growth rate of approximatel
 In [algorithmic trading](../a/algorithmic_trading.md), CAGR is essential for the following reasons:
 
 1. **Performance Measurement:** It provides a single annualized rate that shows the consistent growth of an investment portfolio over time, even if the growth happened at an irregular rate year over year.
-  
+
 2. **Portfolio Comparison:** Traders can use CAGR to compare the performance of different portfolios or investment strategies over the same period because it normalizes the [growth rates](../g/growth_rates_in_trading.md).
-  
-3. **[Risk](../r/risk.md) Evaluation:** By comparing CAGR with the [volatility](../v/volatility.md) of the investment (measured in terms of the [standard deviation](../s/standard_deviation.md) of returns), traders can evaluate the [risk](../r/risk.md)-adjusted performance of a strategy. 
+
+3. **[Risk](../r/risk.md) Evaluation:** By comparing CAGR with the [volatility](../v/volatility.md) of the investment (measured in terms of the [standard deviation](../s/standard_deviation.md) of returns), traders can evaluate the [risk](../r/risk.md)-adjusted performance of a strategy.
 
 ### Practical Applications
 
@@ -72,13 +72,13 @@ Unlike the average [annual return](../a/annual_return.md), CAGR smoothes out the
 ### Real-World Usage
 
 #### Investors
-Private and institutional investors use CAGR to gauge the performance of investments like [stocks](../s/stock.md), bonds, and mutual funds. Websites like [Morningstar](https://www.morningstar.com) often use CAGR when showcasing the historical performance of investment funds.
+Private and institutional investors use CAGR to gauge the performance of investments like [stocks](../s/stock.md), bonds, and mutual funds. Websites like Morningstar often use CAGR when showcasing the historical performance of investment funds.
 
 #### Financial Analysts
-Analysts use CAGR in their financial models to predict future [earnings](../e/earnings.md) and to evaluate the historical performance of a company. This can be seen in Analyst reports from companies like [Goldman Sachs](https://www.goldmansachs.com).
+Analysts use CAGR in their financial models to predict future [earnings](../e/earnings.md) and to evaluate the historical performance of a company. This can be seen in Analyst reports from companies like Goldman Sachs.
 
 #### Businesses
-Businesses use CAGR to monitor and report the growth of key [performance indicators](../p/performance_indicators.md) (KPIs) such as [revenue](../r/revenue.md), profits, and user base. Companies like [Amazon](https://www.amazon.com) display such data in their annual reports to showcase performance growth over time.
+Businesses use CAGR to monitor and report the growth of key [performance indicators](../p/performance_indicators.md) (KPIs) such as [revenue](../r/revenue.md), profits, and user base. Companies like Amazon display such data in their annual reports to showcase performance growth over time.
 
 ### Limitations of CAGR
 Despite its usefulness, CAGR has some limitations:
@@ -90,4 +90,4 @@ Despite its usefulness, CAGR has some limitations:
 3. **Single Metric:** It should not be used in isolation but rather combined with other metrics like [standard deviation](../s/standard_deviation.md), [Sharpe ratio](../s/sharpe_ratio.md), and maximum [drawdown](../d/drawdown.md) to get a comprehensive view.
 
 ### Conclusion
-CAGR provides a clear and straightforward metric for comparing the annual [growth rates](../g/growth_rates_in_trading.md) of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the [growth rates](../g/growth_rates_in_trading.md) of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.
+CAGR provides a clear and straightforward metric for comparing the annual [growth rates](../g/growth_rates_in_trading.md) of investments over time. It's a critical tool for traders, investors, analysts, and businesses to measure and compare performance accurately. Its main advantage is its ability to normalize the [growth rates](../g/growth_rates_in_trading.md) of different investments, providing a 'smoother' perspective on performance. However, users should be aware of its limitations and use it in conjunction with other metrics for a well-rounded analysis.

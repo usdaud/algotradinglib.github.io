@@ -14,7 +14,7 @@ To understand a short squeeze, it is crucial first to grasp the concept of [shor
 Short squeezes happen when several conditions align, including but not limited to:
 
 1. **Heavy [Short Interest](../s/short_interest.md)**: This refers to a high percentage of [shares](../s/shares.md) that have been sold short but not yet covered or closed out. When a stock has heavy [short interest](../s/short_interest.md), it suggests many traders are betting against it.
-   
+
 2. **Favorable News**: Any new information that could potentially increase the stock price triggers panic buying from short sellers.
 
 3. **Limited [Float](../f/float.md)**: When the number of public [shares](../s/shares.md) available for trading is low, any increase in [demand](../d/demand.md) can disproportionately affect the stock price.
@@ -26,9 +26,9 @@ Short squeezes happen when several conditions align, including but not limited t
 When the stock price rises contrary to short sellers' expectations, it can set off a chain reaction known as a short squeeze. Here's how this process unfolds:
 
 1. **Rising Stock Price**: Positive news, stronger-than-expected [earnings](../e/earnings.md), or other bullish events cause the stock price to increase.
-   
+
 2. **[Margin](../m/margin.md) Calls**: As the stock price rises, short sellers face [unrealized losses](../u/unrealized_losses.md). Brokers may [issue](../i/issue.md) [margin](../m/margin.md) calls, forcing traders to add more [capital](../c/capital.md) to their [margin](../m/margin.md) accounts or buy back the stock to close out their positions.
-   
+
 3. **Panic Buying**: To limit losses or avoid further [margin](../m/margin.md) calls, short sellers rush to buy back the stock, adding to the [demand](../d/demand.md). This buying pressure can cause the stock price to escalate further.
 
 4. **Feedback Loop**: The rising stock price attracts additional buyers, some of whom are speculating on the short squeeze itself. This can create a feedback loop of rising prices and escalating buying.
@@ -52,7 +52,7 @@ Coinciding with the GameStop saga, AMC Entertainment also experienced a dramatic
 ### Risks for Short Sellers
 
 1. **Unlimited Loss Potential**: Unlike long positions, where the maximum loss is the initial investment (as the stock price can theoretically drop only to zero), short positions have theoretically [unlimited risk](../u/unlimited_risk.md) because there's no cap on how high a stock price can rise.
-   
+
 2. **[Margin](../m/margin.md) Requirements**: [Short selling](../s/short_selling.md) typically involves borrowing [shares](../s/shares.md), requiring a [margin account](../m/margin_account.md). If a stock price rises significantly, brokers might [demand](../d/demand.md) additional [collateral](../c/collateral.md), known as a [margin call](../m/margin_call.md).
 
 3. **[Market](../m/market.md) [Volatility](../v/volatility.md)**: The rapid price increase inherent in short squeezes leads to volatile trading conditions, making it challenging to execute orders at desired prices.
@@ -66,7 +66,7 @@ Coinciding with the GameStop saga, AMC Entertainment also experienced a dramatic
 ### Legal and Ethical Considerations
 
 - **[Market Manipulation](../m/market_manipulation.md)**: Coordinated efforts to induce a short squeeze may border on [market manipulation](../m/market_manipulation.md), which can attract regulatory scrutiny. Platforms and forums used to facilitate such coordination may face regulatory action.
-  
+
 - **[Transparency](../t/transparency.md) and [Disclosure](../d/disclosure.md)**: [Hedge](../h/hedge.md) funds and institutional investors must disclose their short positions according to [market](../m/market.md) regulations, but retail investors are not held to the same standard, leading to disparities in [market](../m/market.md) information.
 
 ## Technology's Role
@@ -79,7 +79,7 @@ Coinciding with the GameStop saga, AMC Entertainment also experienced a dramatic
 
 - **[Volume](../v/volume.md)**: High-frequency traders (HFTs) provide [liquidity](../l/liquidity.md) but can also remove it rapidly, exacerbating price [volatility](../v/volatility.md) during a short squeeze.
 
-Tradebot Systems, one example of a [firm](../f/firm.md) highly involved in [algorithmic trading](../a/algorithmic_trading.md), has been known to [capitalize](../c/capitalize.md) on short squeeze events. More details about their operation can be found on their [website](http://www.tradebotsystems.com/).
+Tradebot Systems, one example of a [firm](../f/firm.md) highly involved in [algorithmic trading](../a/algorithmic_trading.md), has been known to [capitalize](../c/capitalize.md) on short squeeze events.
 
 ### Social Media and Online Forums
 
@@ -87,7 +87,7 @@ Platforms like Reddit, Twitter, and Discord have become instrumental in coordina
 
 ### Data Analytics
 
-Advanced [data analytics](../d/data_analytics.md) can be leveraged to identify potential short squeeze opportunities. By analyzing [social media sentiment](../s/social_media_sentiment.md), trading volumes, and [short interest ratios](../s/short_interest_ratios.md), sophisticated traders can preemptively position themselves to benefit from impending short squeezes. Firms specializing in financial [data analytics](../d/data_analytics.md)—like S3 Partners—[offer](../o/offer.md) services that assess [short interest](../s/short_interest.md) and securities [finance](../f/finance.md) data, which can be invaluable for traders looking to understand [market dynamics](../m/market_dynamics.md). Visit their [website](https://www.s3partners.com/) for more information.
+Advanced [data analytics](../d/data_analytics.md) can be leveraged to identify potential short squeeze opportunities. By analyzing [social media sentiment](../s/social_media_sentiment.md), trading volumes, and [short interest ratios](../s/short_interest_ratios.md), sophisticated traders can preemptively position themselves to benefit from impending short squeezes. Firms specializing in financial [data analytics](../d/data_analytics.md)—like S3 Partners—[offer](../o/offer.md) services that assess [short interest](../s/short_interest.md) and securities [finance](../f/finance.md) data, which can be invaluable for traders looking to understand [market dynamics](../m/market_dynamics.md).
 
 ## Conclusion
 

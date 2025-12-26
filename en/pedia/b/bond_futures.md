@@ -1,12 +1,12 @@
 # Bond Futures
 
-[Bond](../b/bond.md) [futures](../f/futures.md) are a type of financial contract that obligates the contract holder to buy or sell a [bond](../b/bond.md) at a predetermined price on a future date. These contracts are used by traders to [hedge](../h/hedge.md) against [interest rate risk](../i/interest_rate_risk.md), speculate on price movements, or achieve other financial goals. [Bond](../b/bond.md) [futures](../f/futures.md) are an essential aspect of the [fixed income](../f/fixed_income.md) [market](../m/market.md) and are widely used in [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/accountability.md) (algo trading). 
+[Bond](../b/bond.md) [futures](../f/futures.md) are a type of financial contract that obligates the contract holder to buy or sell a [bond](../b/bond.md) at a predetermined price on a future date. These contracts are used by traders to [hedge](../h/hedge.md) against [interest rate risk](../i/interest_rate_risk.md), speculate on price movements, or achieve other financial goals. [Bond](../b/bond.md) [futures](../f/futures.md) are an essential aspect of the [fixed income](../f/fixed_income.md) [market](../m/market.md) and are widely used in [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/accountability.md) (algo trading).
 
 ## Understanding Bond Futures
 
 ### Contract Specifications
 
-[Bond](../b/bond.md) [futures contracts](../f/futures_contracts.md) specify the details of the [underlying](../u/underlying.md) [bond](../b/bond.md) such as the [issuer](../i/issuer.md), [coupon rate](../c/coupon_rate.md), [maturity date](../m/maturity_date.md), and [face value](../f/face_value.md). These contracts are standardized, meaning they have fixed terms and conditions set by the [exchange](../e/exchange.md) on which they are traded. 
+[Bond](../b/bond.md) [futures contracts](../f/futures_contracts.md) specify the details of the [underlying](../u/underlying.md) [bond](../b/bond.md) such as the [issuer](../i/issuer.md), [coupon rate](../c/coupon_rate.md), [maturity date](../m/maturity_date.md), and [face value](../f/face_value.md). These contracts are standardized, meaning they have fixed terms and conditions set by the [exchange](../e/exchange.md) on which they are traded.
 
 ### Common Types of Bond Futures
 
@@ -35,7 +35,7 @@ The contract size determines the [nominal](../n/nominal.md) amount of the [under
 The [fair value](../f/fair_value.md) of a [bond](../b/bond.md) future is calculated using the [spot price](../s/spot_price.md) of the [bond](../b/bond.md), adjusted for carrying costs until the contract’s expiration. The formula incorporates:
 
 - [Spot Price](../s/spot_price.md) of the [Bond](../b/bond.md)
-- [Interest](../i/interest.md) Earned on the [Bond](../b/bond.md) 
+- [Interest](../i/interest.md) Earned on the [Bond](../b/bond.md)
 - Cost of Carry (including the [interest rate](../i/interest_rate.md) differential and other [holding costs](../h/holding_costs.md))
 
 ## Bond Futures in Algorithmic Trading
@@ -55,11 +55,11 @@ The [fair value](../f/fair_value.md) of a [bond](../b/bond.md) future is calcula
 
 Several exchanges globally [offer](../o/offer.md) [bond](../b/bond.md) [futures contracts](../f/futures_contracts.md):
 
-1. **CME Group**: Offers [U.S. Treasury](../u/u.s._treasury.md) [bond](../b/bond.md) [futures](../f/futures.md) and a variety of other fixed-[income](../i/income.md) contracts. [CME Group](https://www.cmegroup.com)
-2. **Eurex [Exchange](../e/exchange.md)**: Provides [futures](../f/futures.md) on European government bonds like the [Euro](../e/euro.md)-Bund. [Eurex](https://www.eurex.com)
-3. **LIFFE**: Offers [futures](../f/futures.md) on UK [Gilts](../g/gilts.md) and European government bonds. [Euronext](https://www.euronext.com/en/markets/amsterdam/liffe)
+1. **CME Group**: Offers [U.S. Treasury](../u/u.s._treasury.md) [bond](../b/bond.md) [futures](../f/futures.md) and a variety of other fixed-[income](../i/income.md) contracts. CME Group
+2. **Eurex [Exchange](../e/exchange.md)**: Provides [futures](../f/futures.md) on European government bonds like the [Euro](../e/euro.md)-Bund. Eurex
+3. **LIFFE**: Offers [futures](../f/futures.md) on UK [Gilts](../g/gilts.md) and European government bonds. Euronext
 
-## Regulatory Environment 
+## Regulatory Environment
 
 ### Key Regulatory Bodies
 
@@ -72,7 +72,7 @@ Regulation in [bond](../b/bond.md) [futures](../f/futures.md) markets ensures [t
 
 ## Innovations and Trends
 
-### Electronification 
+### Electronification
 
 The [bond](../b/bond.md) [futures market](../f/futures_market.md) is increasingly leveraging electronic trading platforms, enhancing speed, [transparency](../t/transparency.md), and accessibility.
 

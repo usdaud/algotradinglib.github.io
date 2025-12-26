@@ -27,13 +27,13 @@ Statistical models use historical data to identify patterns and relationships be
 Advanced [machine learning](../m/machine_learning.md) techniques have become increasingly popular for X-Rate Modeling. These models can [handle](../h/handle.md) large volumes of data and uncover complex patterns:
 
 1. **[Supervised Learning](../s/supervised_learning.md)**: Algorithms such as [Support Vector Machines](../s/support_vector_machines_in_trading.md), [Random Forests](../r/random_forests_in_trading.md), and [Neural Networks](../n/neural_networks_in_trading.md) are trained on historical data to predict future [exchange](../e/exchange.md) rates.
-    - Example: [Neural networks](../n/neural_networks_in_trading.md) can capture non-linear relationships in data, making them suitable for [forecasting](../f/forecasting.md) volatile Forex markets.
+ - Example: [Neural networks](../n/neural_networks_in_trading.md) can capture non-linear relationships in data, making them suitable for [forecasting](../f/forecasting.md) volatile Forex markets.
 
 2. **[Unsupervised Learning](../u/unsupervised_learning.md)**: Methods like clustering and [anomaly detection](../a/anomaly_detection.md) identify hidden structures and irregularities in data.
-    - Example: [K-means clustering](../k/k-means_clustering_in_trading.md) can group similar [currency](../c/currency.md) pairs, aiding in the identification of correlated movements.
+ - Example: [K-means clustering](../k/k-means_clustering_in_trading.md) can group similar [currency](../c/currency.md) pairs, aiding in the identification of correlated movements.
 
 3. **[Reinforcement Learning](../r/reinforcement_learning.md)**: Agents learn to make sequential trading decisions based on rewards and penalties, optimizing long-term gains.
-    - Example: [Deep Q-Learning](../d/deep_q-learning.md) models can develop strategic trading policies mimicking human decision-making processes.
+ - Example: [Deep Q-Learning](../d/deep_q-learning.md) models can develop strategic trading policies mimicking human decision-making processes.
 
 #### Econometric Models
 Econometric models integrate economic theory with statistical methods to quantify relationships between economic variables and [exchange](../e/exchange.md) rates:
@@ -81,10 +81,10 @@ Implementing X-Rate Modeling in [algorithmic trading](../a/algorithmic_trading.m
 
 Several companies and platforms provide tools and services for X-Rate Modeling and [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **MetaTrader**: Offers [algorithmic trading](../a/algorithmic_trading.md) features, including automated trading and [backtesting](../b/backtesting.md) capabilities. [MetaTrader](https://www.metatrader4.com/en)
-2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various models and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
-3. **Kx Systems**: Specializes in high-performance databases and time-series analytics for [financial markets](../f/financial_market.md). [Kx Systems](https://kx.com/)
-4. **Numerai**: Leverages [data science](../d/data_science_in_trading.md) competitions to develop advanced [trading algorithms](../t/trading_algorithms.md). [Numerai](https://numer.ai/)
+1. **MetaTrader**: Offers [algorithmic trading](../a/algorithmic_trading.md) features, including automated trading and [backtesting](../b/backtesting.md) capabilities. MetaTrader
+2. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports various models and [backtesting](../b/backtesting.md). QuantConnect
+3. **Kx Systems**: Specializes in high-performance databases and time-series analytics for [financial markets](../f/financial_market.md). Kx Systems
+4. **Numerai**: Leverages [data science](../d/data_science_in_trading.md) competitions to develop advanced [trading algorithms](../t/trading_algorithms.md). Numerai
 
 ### Challenges and Future Directions
 

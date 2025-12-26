@@ -183,25 +183,21 @@ Several companies and trading platforms provide tools and software for implement
 
 MetaTrader 5 is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) and provides various tools for setting and managing [profit](../p/profit.md) targets. Its built-in MQL5 language allows traders to develop custom indicators and automated [trading algorithms](../t/trading_algorithms.md).
 
-[Check MetaTrader 5](https://www.metatrader5.com/)
 
 ### TradeStation
 
 [TradeStation](../t/tradestation.md) offers a powerful [trading platform](../t/trading_platform.md) with advanced charting tools and the ability to develop and backtest [algorithmic trading](../a/algorithmic_trading.md) strategies. Its EasyLanguage platform supports the creation of custom scripts for [profit](../p/profit.md) targets and other [trade](../t/trade.md) management actions.
 
-[Check TradeStation](https://www.tradestation.com/)
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers a [range](../r/range.md) of tools for developing, [backtesting](../b/backtesting.md), and live [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive data libraries, making it ideal for sophisticated [profit](../p/profit.md) target strategies.
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that offers a [range](../r/range.md) of tools for developing, [backtesting](../b/backtesting.md), and live [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and provides extensive data libraries, making it ideal for sophisticated [profit](../p/profit.md) target strategies.
 
-[Check QuantConnect](https://www.quantconnect.com/)
 
 ### NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) is widely used for [futures](../f/futures.md), forex, and stock trading. The platform supports automated strategies and provides [robust](../r/robust.md) tools for setting and managing [profit](../p/profit.md) targets through custom [indicator](../i/indicator.md) development.
 
-[Check NinjaTrader](https://ninjatrader.com/)
 
 ---
 

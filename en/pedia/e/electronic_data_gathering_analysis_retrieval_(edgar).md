@@ -54,7 +54,7 @@ These documents are essential during [shareholder](../s/shareholder.md) meetings
 
 ### Accessing the Database
 
-EDGAR can be accessed via the SEC's official website at [https://www.sec.gov/edgar.shtml](https://www.sec.gov/edgar.shtml). The interface allows users to perform both simple and advanced searches based on [multiple](../m/multiple.md) criteria.
+EDGAR can be accessed../m/multiple.md) criteria.
 
 ### Search Features
 

@@ -16,16 +16,16 @@ There are several key types of testing that algorithmic traders employ to ensure
 - [Performance Metrics](../p/performance_metrics.md): Measurements like returns, [volatility](../v/volatility.md), drawdowns, and [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate performance.
 
 **Tools for [Backtesting](../b/backtesting.md):**
-- **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/))
-- **[TradingView](../t/tradingview.md)** ([link](https://www.tradingview.com/))
-- **[Backtrader](../b/backtrader.md)** ([link](https://www.backtrader.com/))
+- **[QuantConnect](../q/quantconnect.md)** (link)
+- **[TradingView](../t/tradingview.md)** (link)
+- **[Backtrader](../b/backtrader.md)** (link)
 
 #### 2.2 Forward Testing (Paper Trading)
 Forward testing, also known as paper trading, involves running the algorithm in a live [market](../m/market.md) environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual [money](../m/money.md).
 
 **Tools for Forward Testing:**
-- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** ([link](https://www.interactivebrokers.com/))
-- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** (link)
+- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** (link)
 
 ### 3. Key Considerations in Algorithm Testing
 
@@ -43,8 +43,8 @@ The results from testing should be statistically significant, ensuring that the 
 
 ### 4. Tools and Platforms for Algorithm Testing
 
-#### 4.1 QuantConnect
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various [broker](../b/broker.md) integrations.
+#### 4.1 StockSharp
+[StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various [broker](../b/broker.md) integrations.
 
 #### 4.2 TradingView
 [TradingView](../t/tradingview.md) is a social network for traders and investors [offering](../o/offering.md) charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.
@@ -93,16 +93,16 @@ There are several key types of testing that algorithmic traders employ to ensure
 - [Performance Metrics](../p/performance_metrics.md): Measurements like returns, [volatility](../v/volatility.md), drawdowns, and [Sharpe Ratio](../s/sharpe_ratio.md) to evaluate performance.
 
 **Tools for [Backtesting](../b/backtesting.md):**
-- **[QuantConnect](../q/quantconnect.md)** ([link](https://www.quantconnect.com/))
-- **[TradingView](../t/tradingview.md)** ([link](https://www.tradingview.com/))
-- **[Backtrader](../b/backtrader.md)** ([link](https://www.backtrader.com/))
+- **[QuantConnect](../q/quantconnect.md)** (link)
+- **[TradingView](../t/tradingview.md)** (link)
+- **[Backtrader](../b/backtrader.md)** (link)
 
 #### 2.2 Forward Testing (Paper Trading)
 Forward testing, also known as paper trading, involves running the algorithm in a live [market](../m/market.md) environment but using a simulated account. This allows traders to see how their algorithm performs in real-time without risking actual [money](../m/money.md).
 
 **Tools for Forward Testing:**
-- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** ([link](https://www.interactivebrokers.com/))
-- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** ([link](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page))
+- **[Interactive Brokers](../i/interactive_brokers.md) Paper Trading** (link)
+- **[Thinkorswim](../t/thinkorswim.md) PaperMoney** (link)
 
 ### 3. Key Considerations in Algorithm Testing
 
@@ -120,8 +120,8 @@ The results from testing should be statistically significant, ensuring that the 
 
 ### 4. Tools and Platforms for Algorithm Testing
 
-#### 4.1 QuantConnect
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including C#, Python, and F#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various [broker](../b/broker.md) integrations.
+#### 4.1 StockSharp
+[StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#. It enables [backtesting](../b/backtesting.md), live trading, and research, and supports various [broker](../b/broker.md) integrations.
 
 #### 4.2 TradingView
 [TradingView](../t/tradingview.md) is a social network for traders and investors [offering](../o/offering.md) charting tools, analysis, and strategies. It supports [backtesting](../b/backtesting.md) and forward testing through its Pine Script language.

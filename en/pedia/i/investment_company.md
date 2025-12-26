@@ -19,9 +19,9 @@ An investment company is a type of financial institution that collects funds fro
 
 Some well-known [mutual fund](../m/mutual_fund.md) companies include:
 
-- [Vanguard](https://www.vanguard.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
-- [T. Rowe Price](https://www.troweprice.com/)
+- Vanguard
+- Fidelity Investments
+- T. Rowe Price
 
 ### 2. Closed-End Funds
 Closed-end funds are investment companies that [issue](../i/issue.md) a fixed number of [shares](../s/shares.md) through an initial public [offering](../o/offering.md) (IPO). Unlike [open](../o/open.md)-end funds, closed-end funds do not redeem [shares](../s/shares.md) on [demand](../d/demand.md). Instead, [shares](../s/shares.md) are traded on stock exchanges, and their prices are determined by [market](../m/market.md) [supply](../s/supply.md) and [demand](../d/demand.md).
@@ -38,9 +38,9 @@ Closed-end funds are investment companies that [issue](../i/issue.md) a fixed nu
 
 Some examples of [closed-end fund](../c/closed-end_fund.md) providers include:
 
-- [BlackRock](https://www.blackrock.com/)
-- [Nuveen](https://www.nuveen.com/)
-- [Eaton Vance](https://funds.eatonvance.com/)
+- BlackRock
+- Nuveen
+- Eaton Vance
 
 ### 3. Exchange-Traded Funds (ETFs)
 [Exchange](../e/exchange.md)-traded funds (ETFs) are investment companies that [trade](../t/trade.md) on stock exchanges, much like individual [stocks](../s/stock.md). ETFs pool [money](../m/money.md) from investors to invest in a diversified portfolio of assets, typically tracking an [underlying](../u/underlying.md) [index](../i/index_instrument.md).
@@ -56,9 +56,9 @@ Some examples of [closed-end fund](../c/closed-end_fund.md) providers include:
 
 Prominent ETF providers include:
 
-- [iShares by BlackRock](https://www.ishares.com/)
-- [SPDR ETFs by State Street Global Advisors](https://www.ssga.com/)
-- [Vanguard ETFs](https://www.vanguard.com/)
+- iShares by BlackRock
+- SPDR ETFs by State Street Global Advisors
+- Vanguard ETFs
 
 ### 4. Hedge Funds
 [Hedge](../h/hedge.md) funds are investment companies that typically cater to high-net-worth individuals and institutional investors. These funds employ a variety of sophisticated strategies to achieve high returns, including long/short positions, [leverage](../l/leverage.md), [derivatives](../d/derivatives.md), and [arbitrage](../a/arbitrage.md).
@@ -75,9 +75,9 @@ Prominent ETF providers include:
 
 Some well-known [hedge fund](../h/hedge_fund.md) firms include:
 
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Man Group](https://www.man.com/)
+- Bridgewater Associates
+- Renaissance Technologies
+- Man Group
 
 ## Role and Functions of Investment Companies
 

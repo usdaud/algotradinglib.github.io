@@ -5,12 +5,12 @@ In the context of trading and financial systems, the term "beneficiary" refers t
 ### Types of Beneficiaries
 
 1. **Primary and Contingent Beneficiaries**:
-    - **Primary Beneficiary**: The main individual or entity designated to receive the benefit.
-    - **[Contingent Beneficiary](../c/contingent_beneficiary.md)**: The individual or entity that receives the benefit if the primary beneficiary is unable to.
+ - **Primary Beneficiary**: The main individual or entity designated to receive the benefit.
+ - **[Contingent Beneficiary](../c/contingent_beneficiary.md)**: The individual or entity that receives the benefit if the primary beneficiary is unable to.
 
 2. **Revocable and Irrevocable Beneficiaries**:
-    - **[Revocable Beneficiary](../r/revocable_beneficiary.md)**: The beneficiary designation can be altered or revoked by the owner of the investment or policy.
-    - **[Irrevocable Beneficiary](../i/irrevocable_beneficiary.md)**: Once named, the beneficiary designation cannot easily be changed without the consent of the beneficiary.
+ - **[Revocable Beneficiary](../r/revocable_beneficiary.md)**: The beneficiary designation can be altered or revoked by the owner of the investment or policy.
+ - **[Irrevocable Beneficiary](../i/irrevocable_beneficiary.md)**: Once named, the beneficiary designation cannot easily be changed without the consent of the beneficiary.
 
 ### Importance of Beneficiaries in Financial Planning
 
@@ -30,16 +30,16 @@ Naming beneficiaries involves legal considerations:
 - **Legal Disputes**: Clear, updated beneficiary designations help mitigate potential legal disputes after the death of the [asset](../a/asset.md) owner.
 - **Incapacity**: In case of the account holder's incapacity, having designated beneficiaries can simplify the process of [asset](../a/asset.md) [distribution](../d/distribution.md).
 
-### Algorithms and Automated Trading 
+### Algorithms and Automated Trading
 
-In the context of [algorithmic trading](../a/accountability.md), the role of beneficiaries can be related to firms or individuals who benefit from the [trading strategies](../t/trading_strategies.md). When a [firm](../f/firm.md) engages in [algorithmic trading](../a/accountability.md)—developing and deploying algorithms to execute trades at high speed—profits generated from these trades benefit the [firm](../f/firm.md)'s stakeholders or investors. 
+In the context of [algorithmic trading](../a/accountability.md), the role of beneficiaries can be related to firms or individuals who benefit from the [trading strategies](../t/trading_strategies.md). When a [firm](../f/firm.md) engages in [algorithmic trading](../a/accountability.md)—developing and deploying algorithms to execute trades at high speed—profits generated from these trades benefit the [firm](../f/firm.md)'s stakeholders or investors.
 
 ### Resources and Further Reading
 
 To explore more about beneficiaries in the context of financial and legal planning, and their role in [algorithmic trading](../a/accountability.md), consider the following resources:
 
-- [Fidelity Investments](https://www.fidelity.com)
-- [Charles Schwab Corporation](https://www.schwab.com)
-- [Vanguard](https://www.vanguard.com)
+- Fidelity Investments
+- Charles Schwab Corporation
+- Vanguard
 
 These organizations [offer](../o/offer.md) educational resources on [financial planning](../f/financial_planning.md), [investment management](../i/investment_management.md), and the importance of beneficiary designations. Additionally, they provide tools for managing and updating beneficiary information within investment and retirement accounts.

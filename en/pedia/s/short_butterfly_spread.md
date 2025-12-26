@@ -80,10 +80,10 @@ A practical scenario for using a Short [Butterfly Spread](../b/butterfly_spread.
 
 Several trading platforms and tools facilitate the creation and management of Short Butterfly [Spreads](../s/spreads.md):
 
-- **[ThinkOrSwim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md): Known for advanced [options](../o/options.md) trading capabilities. [Visit Website](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers advanced tools and analytics for [options](../o/options.md) trading. [Visit Website](https://www.interactivebrokers.com/en/index.php?f=4985)
-- **[E*TRADE](../e/e_trade.md)**: Intuitive platform for [options](../o/options.md) analysis and trading. [Visit Website](https://us.etrade.com/home)
-- **Tastyworks**: Specialized in [options](../o/options.md) trading with user-friendly interfaces. [Visit Website](https://tastyworks.com/)
+- **[ThinkOrSwim](../t/thinkorswim.md)** by TD [Ameritrade](../a/ameritrade.md): Known for advanced [options](../o/options.md)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers advanced tools and analytics for [options](../o/options.md)
+- **[E*TRADE](../e/e_trade.md)**: Intuitive platform for [options](../o/options.md)
+- **Tastyworks**: Specialized in [options](../o/options.md)
 
 ## Conclusion
 

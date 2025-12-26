@@ -66,7 +66,7 @@ BTC-[Alpha](../a/alpha.md) conducts regular [security](../s/security.md) audits 
 
 ## Customer Support
 
-BTC-[Alpha](../a/alpha.md) prides itself on providing timely and efficient [customer](../c/customer.md) support. The support team can be reached via [multiple](../m/multiple.md) channels including email, live chat, and a comprehensive FAQ section on the website. This ensures that users' queries and issues are addressed promptly.
+BTC-[Alpha](../a/alpha.md) prides itself on providing timely and efficient [customer](../c/customer.md) support. The support team can be reached via [multiple](../m/multiple.md) channels including email, live chat, and a comprehensive FAQ section. This ensures that users' queries and issues are addressed promptly.
 
 ### Education and Resources
 
@@ -94,4 +94,4 @@ BTC-[Alpha](../a/alpha.md) complies with various international regulations to en
 
 BTC-[Alpha](../a/alpha.md) remains a [robust](../r/robust.md) and formidable player in the cryptocurrency [exchange](../e/exchange.md) landscape. It offers a blend of user-friendly features and advanced trading tools, making it accessible to a broad spectrum of users. Its commitment to [security](../s/security.md) and regulatory compliance further strengthens its reputation as a reliable platform for trading digital assets.
 
-For more information, you can visit their [official website](https://btc-alpha.com/) and explore various features, updates, and resources they [offer](../o/offer.md).
+./o/offer.md).

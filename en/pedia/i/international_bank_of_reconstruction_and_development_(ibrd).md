@@ -35,7 +35,7 @@ IBRD offers a [range](../r/range.md) of financial products and services to suppo
 The IBRD is committed to several key areas that are essential for sustainable development:
 
 1. **[Infrastructure](../i/infrastructure.md) Development**: [Financing](../f/financing.md) [infrastructure](../i/infrastructure.md) projects such as roads, bridges, and energy facilities, which are critical for [economic growth](../e/economic_growth.md) and development.
-   
+
 2. **Climate Change and Sustainability**: Addressing climate change through funding projects that promote sustainable development and reduce carbon footprints. This involves [investing](../i/investing.md) in renewable energy sources, energy [efficiency](../e/efficiency.md) projects, and climate-resilient [infrastructure](../i/infrastructure.md).
 
 3. **Health and Education**: Supporting initiatives that enhance healthcare systems and educational outcomes, crucial for [human capital](../h/human_capital.md) development and long-term [economic growth](../e/economic_growth.md).
@@ -90,4 +90,4 @@ Looking ahead, IBRD aims to enhance its support in tackling the world’s most p
 
 4. **Inclusive Growth**: Ensuring that [economic growth](../e/economic_growth.md) benefits a broader segment of the population, including marginalized and vulnerable groups.
 
-For more information about the International [Bank](../b/bank.md) of Reconstruction and Development (IBRD) and its activities, you can visit the official [World Bank website](https://worldbank.org).
+For more information about the International [Bank](../b/bank.md) of Reconstruction and Development (IBRD) and its activities,

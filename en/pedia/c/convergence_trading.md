@@ -33,8 +33,7 @@ The strategy is often synonymous with "statistical [arbitrage](../a/arbitrage.md
 
 Several [quantitative hedge funds](../q/quantitative_hedge_funds.md) and [proprietary trading](../p/proprietary_trading.md) firms have successfully implemented convergence [trading strategies](../t/trading_strategies.md). Notable examples include:
 
-- **Two Sigma**: A quantitative investment [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to identify investment opportunities, including convergence [trading strategies](../t/trading_strategies.md). [Website](https://www.twosigma.com/)
-- **AQR [Capital](../c/capital.md) Management**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) dedicated to rigorous research and innovative [quantitative analysis](../q/quantitative_analysis.md), including convergence and statistical [arbitrage](../a/arbitrage.md). [Website](https://www.aqr.com/)
+- **AQR [Capital](../c/capital.md) Management**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) dedicated to rigorous research and innovative [quantitative analysis](../q/quantitative_analysis.md), including convergence and statistical [arbitrage](../a/arbitrage.md). online platform
 
 ### Real World Example: Royal Dutch Shell and Shell Transport and Trading Company
 

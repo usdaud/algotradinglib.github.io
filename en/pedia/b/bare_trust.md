@@ -32,8 +32,7 @@ In the context of [algorithmic trading](../a/accountability.md) (algotrading), b
 
 ### Example of a Company Utilizing Bare Trusts for Algotrading
 
-- **XYZ Algotrading Solutions**  
-  Website: [XYZ Algotrading Solutions](https://www.xyzalgotradingsolutions.com)
+- **XYZ Algotrading Solutions**
 
 XYZ Algotrading Solutions employs bare trusts to [hold](../h/hold.md) assets. This provides their clients (beneficiaries) with distinct advantages such as [asset protection](../a/asset_protection.md), tax [efficiency](../e/efficiency.md), and direct entitlement to profits generated from trading activities.
 

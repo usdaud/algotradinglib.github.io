@@ -77,31 +77,31 @@ While the [franchise](../f/franchise.md) brand may be strong, franchisees still 
 
 McDonald's is one of the most well-known [franchise](../f/franchise.md) brands in the world, with a strong global [franchise](../f/franchise.md) network. It offers extensive support and training to its franchisees.
 
-More information: [McDonald's Franchise Information](https://corporate.mcdonalds.com/corpmcd/franchising.html)
+More information: McDonald's Franchise Information
 
 ### 2. **Subway**
 
 Subway is another giant in the franchising world, known for its customizable sandwiches and relatively low start-up costs compared to other major brands.
 
-More information: [Subway Franchise Information](https://www.subway.com/en-us/ownafranchise)
+More information: Subway Franchise Information
 
 ### 3. **7-Eleven**
 
 7-Eleven offers a comprehensive [franchise](../f/franchise.md) program with various levels of investment [options](../o/options.md). It provides franchisees with funding assistance and operational support.
 
-More information: [7-Eleven Franchise Information](https://franchise.7-eleven.com/franchise/home)
+More information: 7-Eleven Franchise Information
 
 ### 4. **KFC**
 
 KFC, specializing in fried chicken, is part of Yum! Brands, one of the largest restaurant companies in the world. It has a detailed [franchise](../f/franchise.md) support system in place.
 
-More information: [KFC Franchise Information](https://www.kfc.com/about/franchising)
+More information: KFC Franchise Information
 
 ### 5. **The UPS Store**
 
 Providing postal and [business](../b/business.md) services, The UPS Store offers extensive support to franchisees, including training, [marketing](../m/marketing.md), and operational assistance.
 
-More information: [The UPS Store Franchise Information](https://www.theupsstorefranchise.com/)
+More information: The UPS Store Franchise Information
 
 ## Steps to Becoming a Franchisee
 

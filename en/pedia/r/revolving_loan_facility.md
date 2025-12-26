@@ -2,6 +2,8 @@
 
 A revolving [loan](../l/loan.md) [facility](../f/facility.md) is a type of [credit](../c/credit.md) issued by a financial institution that provides the borrower with the flexibility to draw down, repay, and redrawn loans advanced to it. It is similar to a [credit card](../c/credit_card.md) in terms of usage: the borrower can access funds up to a certain [credit limit](../c/credit_limit.md), repay these funds, and borrow again as needed. Revolving [loan](../l/loan.md) facilities are frequently used by companies to manage their working [capital](../c/capital.md) needs because they [offer](../o/offer.md) a readily available source of funds on an ongoing [basis](../b/basis.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Features of Revolving Loan Facility
 
 - **[Credit Limit](../c/credit_limit.md)**: This is the maximum amount of [money](../m/money.md) that the borrower can access at any given time. The [credit limit](../c/credit_limit.md) is set by the [lender](../l/lender.md) and can be based on the borrower’s [creditworthiness](../c/creditworthiness.md), [business](../b/business.md) profile, and [financial health](../f/financial_health.md).
@@ -37,8 +39,8 @@ Revolving [loan](../l/loan.md) facilities are commonly used by businesses as par
 ## Examples and Case Studies
 
 - **General Electric (GE)**: General Electric often utilizes [revolving credit](../r/revolving_credit.md) facilities to meet short-term [liquidity](../l/liquidity.md) requirements and manage working [capital](../c/capital.md) effectively. Without such facilities, GE would find it challenging to maintain the flexibility needed in its diverse and often dynamically changing operational environment.
-- **[JP Morgan Chase](https://www.jpmorganchase.com)**: JP Morgan offers revolving [loan](../l/loan.md) facilities as part of its corporate banking services, providing both committed and uncommitted revolving lines of [credit](../c/credit.md) to clients.
-  
+- **JP Morgan Chase**: JP Morgan offers revolving [loan](../l/loan.md) facilities as part of its corporate banking services, providing both committed and uncommitted revolving lines of [credit](../c/credit.md) to clients.
+
 - **Tech Startups**: Startups in the tech [industry](../i/industry.md) frequently use revolving [loan](../l/loan.md) facilities to manage the volatile [cash flow](../c/cash_flow.md) associated with R&D expenses and [capital](../c/capital.md) investments. The flexibility allows them to draw funds when [venture capital](../v/venture_capital.md) infusions are delayed or seasonal [revenue](../r/revenue.md) dips occur.
 
 ## Financial and Legal Considerations

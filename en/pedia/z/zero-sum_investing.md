@@ -62,10 +62,10 @@ While zero-sum markets involve direct competition, many [financial markets](../f
 
 Several companies operate in markets closely associated with zero-sum dynamics, providing platforms and services for traders. Examples include:
 
-- **CME Group**: Operating one of the largest [derivatives](../d/derivatives.md) trading platforms, CME Group facilitates trading in [futures](../f/futures.md) and [options](../o/options.md). [Visit CME Group](https://www.cmegroup.com/)
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: A prominent global network of exchanges and clearinghouses, ICE also provides platforms for [futures](../f/futures.md) and [options](../o/options.md) trading. [Visit ICE](https://www.theice.com/)
-- **[Euronext](../e/euronext.md)**: Another major [exchange](../e/exchange.md) [offering](../o/offering.md) a diverse [range](../r/range.md) of financial [derivatives](../d/derivatives.md) contracts. [Visit Euronext](https://www.euronext.com/)
-- **Forex.com**: A leading platform for forex trading, [offering](../o/offering.md) various tools and resources for [currency](../c/currency.md) traders. [Visit Forex.com](https://www.forex.com/)
+- **CME Group**: Operating one of the largest [derivatives](../d/derivatives.md) trading platforms, CME Group facilitates trading in [futures](../f/futures.md) and [options](../o/options.md). Visit CME Group
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: A prominent global network of exchanges and clearinghouses, ICE also provides platforms for [futures](../f/futures.md) and [options](../o/options.md) trading. Visit ICE
+- **[Euronext](../e/euronext.md)**: Another major [exchange](../e/exchange.md) [offering](../o/offering.md) a diverse [range](../r/range.md) of financial [derivatives](../d/derivatives.md) contracts. Visit Euronext
+- **Forex.com**: A leading platform for forex trading, [offering](../o/offering.md) various tools and resources for [currency](../c/currency.md) traders. Visit Forex.com
 
 ## Conclusion
 

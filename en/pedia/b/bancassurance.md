@@ -72,21 +72,21 @@ While bancassurance presents numerous benefits, it also comes with inherent chal
 
 ### European Market Leaders
 
-- **BNP Paribas Cardif:** This French bancassurer operates in 35 countries, [offering](../o/offering.md) various [insurance](../i/insurance.md) products through its banking partners. It has a particularly strong presence in Europe, Asia, and Latin America. [BNP Paribas Cardif](https://www.bnpparibascardif.com/en/)
+- **BNP Paribas Cardif:** This French bancassurer operates in 35 countries, [offering](../o/offering.md) various [insurance](../i/insurance.md) products through its banking partners. It has a particularly strong presence in Europe, Asia, and Latin America. BNP Paribas Cardif
 
-- **Allianz SE:** As one of the world's leading insurers, Allianz uses bancassurance as a major [distribution channel](../d/distribution_channel.md), partnering with numerous banks worldwide. Its collaboration with HSBC is a notable example, creating a global bancassurance agreement. [Allianz SE](https://www.allianz.com/en/home.html)
+- **Allianz SE:** As one of the world's leading insurers, Allianz uses bancassurance as a major [distribution channel](../d/distribution_channel.md), partnering with numerous banks worldwide. Its collaboration with HSBC is a notable example, creating a global bancassurance agreement. Allianz SE
 
 ### Asian Market Growth
 
-- **ICICI [Bank](../b/bank.md) and Prudential [Life Insurance](../l/life_insurance.md):** A standout example in India, this partnership leverages ICICI [Bank](../b/bank.md)'s extensive network and Prudential's expertise in [life insurance](../l/life_insurance.md). The collaboration has made ICICI Prudential [Life Insurance](../l/life_insurance.md) one of the leading life insurers in India. [ICICI Prudential Life Insurance](https://www.iciciprulife.com/)
+- **ICICI [Bank](../b/bank.md) and Prudential [Life Insurance](../l/life_insurance.md):** A standout example in India, this partnership leverages ICICI [Bank](../b/bank.md)'s extensive network and Prudential's expertise in [life insurance](../l/life_insurance.md). The collaboration has made ICICI Prudential [Life Insurance](../l/life_insurance.md) one of the leading life insurers in India. ICICI Prudential Life Insurance
 
-- **China Construction [Bank](../b/bank.md) (CCB) and AIA Group:** This partnership illustrates how bancassurance has flourished in China, with CCB providing AIA's [insurance](../i/insurance.md) products through its vast branch network. [AIA Group](https://www.aia.com/en)
+- **China Construction [Bank](../b/bank.md) (CCB) and AIA Group:** This partnership illustrates how bancassurance has flourished in China, with CCB providing AIA's [insurance](../i/insurance.md) products through its vast branch network. AIA Group
 
 ### Latin American Expansion
 
-- **Banco Bradesco and Bradesco Seguros:** One of the largest financial groups in South America, Banco Bradesco has successfully integrated bancassurance through its subsidiary Bradesco Seguros. The synergy between the [bank](../b/bank.md) and the insurer has created a [robust](../r/robust.md) financial services ecosystem. [Banco Bradesco](https://banco.bradesco/html/classic/index.shtm)
+- **Banco Bradesco and Bradesco Seguros:** One of the largest financial groups in South America, Banco Bradesco has successfully integrated bancassurance through its subsidiary Bradesco Seguros. The synergy between the [bank](../b/bank.md) and the insurer has created a [robust](../r/robust.md) financial services ecosystem. Banco Bradesco
 
-- **Banco Santander and Mapfre:** In Brazil, Banco Santander and Mapfre have established a significant bancassurance partnership, [offering](../o/offering.md) life, auto, and [health insurance](../h/health_insurance.md) products. [Banco Santander Brasil](https://www.santander.com.br/)
+- **Banco Santander and Mapfre:** In Brazil, Banco Santander and Mapfre have established a significant bancassurance partnership, [offering](../o/offering.md) life, auto, and [health insurance](../h/health_insurance.md) products. Banco Santander Brasil
 
 ## Technology and Digital Transformation
 

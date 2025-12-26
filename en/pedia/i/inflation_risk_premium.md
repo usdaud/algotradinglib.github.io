@@ -38,7 +38,7 @@ Several factors can influence the size of the [inflation](../i/inflation.md) [ri
 
 To mitigate the impact of [inflation](../i/inflation.md) [risk](../r/risk.md), investors can turn to [inflation](../i/inflation.md)-linked securities, such as Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) in the United States. These bonds adjust their [principal](../p/principal.md) and [interest](../i/interest.md) payments based on [inflation](../i/inflation.md) rates, effectively providing a [hedge](../h/hedge.md) against [inflation](../i/inflation.md) [risk](../r/risk.md). While TIPS eliminate the [inflation](../i/inflation.md) [risk premium](../r/risk_premium.md), they might still [offer](../o/offer.md) a lower initial [yield](../y/yield.md) compared to [nominal](../n/nominal.md) bonds.
 
-More information on TIPS can be found on the [U.S. Department of the Treasury’s website](https://www.treasurydirect.gov/).
+More information on TIPS can be found on the U.S. Department of the Treasury’s online platform.
 
 #### Measuring the Inflation Risk Premium
 

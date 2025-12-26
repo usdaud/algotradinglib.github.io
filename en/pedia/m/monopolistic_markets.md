@@ -54,13 +54,13 @@ Governments and regulatory bodies often intervene in monopolistic markets to pro
 
 ### Real-World Examples of Monopolistic Markets
 
-1. **Microsoft**: In the 1990s, Microsoft held a dominant position in the operating system [market](../m/market.md) with its Windows platform. The company faced [antitrust](../a/antitrust.md) lawsuits and regulatory scrutiny due to its monopolistic practices. [Microsoft](https://www.microsoft.com)
+1. **Microsoft**: In the 1990s, Microsoft held a dominant position in the operating system [market](../m/market.md) with its Windows platform. The company faced [antitrust](../a/antitrust.md) lawsuits and regulatory scrutiny due to its monopolistic practices. Microsoft
 
-2. **De Beers**: Historically, De Beers controlled a significant portion of the global diamond [market](../m/market.md). The company’s dominance allowed it to influence diamond prices and production levels. [De Beers](https://www.debeersgroup.com)
+2. **De Beers**: Historically, De Beers controlled a significant portion of the global diamond [market](../m/market.md). The company’s dominance allowed it to influence diamond prices and production levels. De Beers
 
-3. **AT&T**: Before the breakup in 1984, AT&T held a [monopoly](../m/monopoly.md) over telephone services in the United States. The government intervened to promote competition and reduce the company’s [market power](../m/market_power.md). [AT&T](https://www.att.com)
+3. **AT&T**: Before the breakup in 1984, AT&T held a [monopoly](../m/monopoly.md) over telephone services in the United States. The government intervened to promote competition and reduce the company’s [market power](../m/market_power.md). AT&T
 
-4. **Google**: As of recent years, Google has faced scrutiny for its dominance in the online search and digital advertising markets. Regulatory bodies have investigated its practices to ensure fair competition. [Google](https://www.google.com)
+4. **Google**: As of recent years, Google has faced scrutiny for its dominance in the online search and digital advertising markets. Regulatory bodies have investigated its practices to ensure fair competition. Google
 
 ### Conclusion
 

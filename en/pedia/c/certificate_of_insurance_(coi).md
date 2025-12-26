@@ -37,4 +37,3 @@ A construction company hires a subcontractor to perform electrical work on a pro
 
 ## Conclusion
 A Certificate of [Insurance](../i/insurance.md) is a crucial document that verifies the existence and details of an [insurance](../i/insurance.md) policy. It provides proof of coverage, helps manage [risk](../r/risk.md), and ensures compliance with contractual and legal requirements. Understanding the key components and importance of a COI can help businesses and individuals effectively manage their [insurance](../i/insurance.md) needs and protect their interests.
-

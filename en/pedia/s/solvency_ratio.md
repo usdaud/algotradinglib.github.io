@@ -1,6 +1,6 @@
 # Solvency Ratio
 
-The [Solvency](../s/solvency.md) Ratio is a critical financial measure used to assess a company's ability to meet its [long-term debt](../l/long-term_debt.md) [obligations](../o/obligation.md). It evaluates the proportion of a company's total assets that are financed by its [total liabilities](../t/total_liabilities.md), highlighting the [firm](../f/firm.md)’s [financial health](../f/financial_health.md) and long-term viability. The higher the [solvency](../s/solvency.md) ratio, the healthier the company. The ratio is crucial for creditors, investors, and stakeholders as it provides a clear picture of the company's [leverage](../l/leverage.md) and [risk](../r/risk.md) profile. 
+The [Solvency](../s/solvency.md) Ratio is a critical financial measure used to assess a company's ability to meet its [long-term debt](../l/long-term_debt.md) [obligations](../o/obligation.md). It evaluates the proportion of a company's total assets that are financed by its [total liabilities](../t/total_liabilities.md), highlighting the [firm](../f/firm.md)’s [financial health](../f/financial_health.md) and long-term viability. The higher the [solvency](../s/solvency.md) ratio, the healthier the company. The ratio is crucial for creditors, investors, and stakeholders as it provides a clear picture of the company's [leverage](../l/leverage.md) and [risk](../r/risk.md) profile.
 
 ## Key Components of Solvency Ratio
 1. **Total Assets:** This includes all the resources owned by the company that have future [economic value](../e/economic_value.md) expressed in terms of [money](../m/money.md). These are recorded on the [balance sheet](../b/balance_sheet.md) and include both current and non-[current assets](../c/current_assets.md).
@@ -62,13 +62,13 @@ A [solvency](../s/solvency.md) ratio of 60% indicates that Company XYZ has a sol
 In the fintech space, the [solvency](../s/solvency.md) ratio is vital for both traditional financial firms and emerging fintech entities. Here’s why:
 - **Regulatory Compliance:** Fintech companies dealing in financial transactions need to maintain a healthy [solvency](../s/solvency.md) ratio to comply with regulatory standards.
 - **Investment Attractiveness:** Fintech firms with high [solvency](../s/solvency.md) ratios often attract more [investor](../i/investor.md) [interest](../i/interest.md), facilitating easier access to [capital](../c/capital.md) through better [credit](../c/credit.md) ratings.
-- **[Algorithmic Trading](../a/accountability.md) Firms:** For firms engaged in [algorithmic trading](../a/accountability.md), maintaining a good [solvency](../s/solvency.md) ratio helps in securing leveraged positions and improves [trust](../t/trust.md) from financial partners and clearinghouses.
+- **[Algorithmic Trading](../a/algorithmic_trading.md) Firms:** For firms engaged in [algorithmic trading](../a/algorithmic_trading.md), maintaining a good [solvency](../s/solvency.md) ratio helps in securing leveraged positions and improves [trust](../t/trust.md) from financial partners and clearinghouses.
 
 ## Challenges in Solvency Ratio Analysis
 - **Dynamic [Market](../m/market.md) Conditions:** Rapid changes in [market](../m/market.md) conditions, [interest](../i/interest.md) rates, and [economic cycles](../e/economic_cycles.md) can impact the feasibility of using past ratios to predict future [solvency](../s/solvency.md) accurately.
 - **Quality of Financial Data:** Inaccurate or manipulated [financial statements](../f/financial_statements.md) can skew [solvency](../s/solvency.md) ratios, leading to misleading interpretations.
 
 ### Company Reference
-For more detailed information on [solvency](../s/solvency.md) and application within financial reporting, visit the internal resources of major financial consulting firms such as [KPMG's Financial Services](https://home.kpmg.xx/xx/en/home/industries/financial-services.html).
+For more detailed information on [solvency](../s/solvency.md) and application within financial reporting, visit the internal resources of major financial consulting firms such as KPMG's Financial Services.
 
 By thoroughly understanding and effectively utilizing the [solvency](../s/solvency.md) ratio, investors, financial analysts, and [business](../b/business.md) managers can make more informed decisions that contribute to long-term financial stability and success.

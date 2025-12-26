@@ -1,8 +1,8 @@
 # Worthless Securities
 
-## Definition and Introduction 
+## Definition and Introduction
 
-Worthless securities are financial instruments that have little to no [market value](../m/market_value.md) and are often deemed unacceptable as [collateral](../c/collateral.md). These securities may include [stocks](../s/stock.md), bonds, or other forms of investment that have become devalued due to various reasons. When a [security](../s/security.md) becomes worthless, it not only presents a significant loss to the holder but also reflects the failing performance of the issuing entity. 
+Worthless securities are financial instruments that have little to no [market value](../m/market_value.md) and are often deemed unacceptable as [collateral](../c/collateral.md). These securities may include [stocks](../s/stock.md), bonds, or other forms of investment that have become devalued due to various reasons. When a [security](../s/security.md) becomes worthless, it not only presents a significant loss to the holder but also reflects the failing performance of the issuing entity.
 
 ## Common Types of Worthless Securities
 
@@ -14,7 +14,7 @@ Worthless securities are financial instruments that have little to no [market va
 
 4. **[Out-of-the-Money Options](../o/out-of-the-money_options.md)**: [Options](../o/options.md) contracts that have an [exercise price](../e/excersise_price.md) significantly above (for call [options](../o/options.md)) or below (for [put options](../p/put_options.md)) the current [market price](../m/market_price.md) of the [underlying asset](../u/underlying_asset.md), and are not likely to reach that price before expiration.
 
-## Causes of Worthlessness 
+## Causes of Worthlessness
 
 1. **[Bankruptcy](../b/bankruptcy.md)**: One of the most common reasons for a [security](../s/security.md) to become worthless is the [bankruptcy](../b/bankruptcy.md) of the issuing company. When a company declares [bankruptcy](../b/bankruptcy.md), its assets are liquidated to pay off debts, and shareholders are often left with nothing.
 
@@ -40,7 +40,7 @@ Investors can declare worthless securities as a [capital](../c/capital.md) loss,
 
 2. **[Lehman Brothers](../l/lehman_brothers.md) (2008)**: During the [financial crisis](../f/financial_crisis.md), [Lehman Brothers](../l/lehman_brothers.md) filed for [bankruptcy](../b/bankruptcy.md), sending its stock plummeting from over $60 per share to mere cents.
 
-3. **[Bear Stearns](../b/bear_stearns.md) (2008)**: Another financial giant whose stock became nearly worthless in the wake of the 2008 [financial crisis](../f/financial_crisis.md), eventually being sold to JPMorgan Chase for a pittance compared to its former [value](../v/value.md). 
+3. **[Bear Stearns](../b/bear_stearns.md) (2008)**: Another financial giant whose stock became nearly worthless in the wake of the 2008 [financial crisis](../f/financial_crisis.md), eventually being sold to JPMorgan Chase for a pittance compared to its former [value](../v/value.md).
 
 ## How to Avoid Investing in Worthless Securities
 
@@ -68,4 +68,4 @@ In the unfortunate event of holding worthless securities, investors can pursue t
 
 ## Conclusion
 
-Worthless securities are an unfortunate reality of [investing](../i/investing.md), but being informed about their causes, tax implications, and recovery [options](../o/options.md) can arm investors with the knowledge to navigate and mitigate such risks. Through diligent research, strategic [diversification](../d/diversification.md), and appropriate loss management, the adverse impact of worthless securities can be significantly reduced. Understanding these principles is particularly critical for those involved in [algorithmic trading](../a/accountability.md) and fintech, where the rapid [execution](../e/execution.md) and high frequency of trades require [robust](../r/robust.md) [risk management systems](../r/risk_management_systems.md).
+Worthless securities are an unfortunate reality of [investing](../i/investing.md), but being informed about their causes, tax implications, and recovery [options](../o/options.md) can arm investors with the knowledge to navigate and mitigate such risks. Through diligent research, strategic [diversification](../d/diversification.md), and appropriate loss management, the adverse impact of worthless securities can be significantly reduced. Understanding these principles is particularly critical for those involved in [algorithmic trading](../a/algorithmic_trading.md) and fintech, where the rapid [execution](../e/execution.md) and high frequency of trades require [robust](../r/robust.md) [risk management systems](../r/risk_management_systems.md).

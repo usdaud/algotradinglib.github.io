@@ -14,7 +14,7 @@ One of the most significant contributions Zacks Investment Research has made to 
 
 ### Zacks Rank
 
-The most famous of these models is the Zacks Rank. The Zacks Rank is a unique, quantitative model that rates [stocks](../s/stock.md) based on four primary factors: Agreement, Magnitude, [Upside](../u/upside.md), and Surprise. Each [factor](../f/factor.md) contributes to a stock's overall Zacks Rank, which ranges from #1 (Strong Buy) to #5 (Strong Sell). 
+The most famous of these models is the Zacks Rank. The Zacks Rank is a unique, quantitative model that rates [stocks](../s/stock.md) based on four primary factors: Agreement, Magnitude, [Upside](../u/upside.md), and Surprise. Each [factor](../f/factor.md) contributes to a stock's overall Zacks Rank, which ranges from #1 (Strong Buy) to #5 (Strong Sell).
 
 - **Agreement**: Measures the degree of consensus among analysts' [earnings estimates](../e/earnings_estimate.md).
 - **Magnitude**: Assesses the size of recent [earnings](../e/earnings.md) estimate changes.
@@ -35,7 +35,7 @@ Zacks provides comprehensive research reports that include the Zacks Rank along 
 
 The core of Zacks’ research methodologies lies in its data-driven, quantitative approach to [financial analysis](../f/financial_analysis.md). The [firm](../f/firm.md) leverages advanced statistical techniques, [machine learning](../m/machine_learning.md), and [big data analytics](../b/big_data_analytics_in_trading.md) to interpret and predict stock performance. Below are some of the core methodologies employed by Zacks Investment Research:
 
-### Earnings Estimate Revisions 
+### Earnings Estimate Revisions
 
 One of the central premises of Zacks' research methodology is that [earnings](../e/earnings.md) estimate revisions are a powerful [indicator](../i/indicator.md) of stock performance. Analysts’ [earnings estimates](../e/earnings_estimate.md) are continually updated based on new information, and Zacks models track these revisions to predict future stock behavior.
 
@@ -97,4 +97,4 @@ Zacks Investment Research has established itself as a leader in the financial re
 
 The company’s emphasis on [earnings](../e/earnings.md) estimate revisions, [earnings surprises](../e/earnings_surprises.md), and [fundamental analysis](../f/fundamental_analysis.md) forms the foundation of its research methodologies. Additionally, Zacks' commitment to leveraging [machine learning](../m/machine_learning.md), [big data](../b/big_data_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) ensures that it remains at the cutting edge of [financial analysis](../f/financial_analysis.md).
 
-For more information, visit [Zacks Investment Research](https://www.zacks.com/).
+For more information, visit Zacks Investment Research.

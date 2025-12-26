@@ -1,6 +1,6 @@
 # Rational Behavior
 
-Rational behavior is a foundational concept in [economics](../e/economics.md) and [finance](../f/finance.md), referring to decision-making processes grounded in logical reasoning and the pursuit of optimized outcomes. Individuals or entities exhibiting rational behavior aim to maximize [utility](../u/utility.md) or [profit](../p/profit.md) under given constraints. The essence of rational behavior involves making choices that are consistent with one's best interests, aligning with the objectives of maximizing gains and minimizing losses. 
+Rational behavior is a foundational concept in [economics](../e/economics.md) and [finance](../f/finance.md), referring to decision-making processes grounded in logical reasoning and the pursuit of optimized outcomes. Individuals or entities exhibiting rational behavior aim to maximize [utility](../u/utility.md) or [profit](../p/profit.md) under given constraints. The essence of rational behavior involves making choices that are consistent with one's best interests, aligning with the objectives of maximizing gains and minimizing losses.
 
 Rational behavior is particularly significant in the realm of [financial markets](../f/financial_market.md), where it forms the [basis](../b/basis.md) of numerous theoretical models and practical strategies. It assumes that all [market](../m/market.md) participants, such as investors, traders, and institutions, act optimally to achieve their goals based on the available information.
 
@@ -32,7 +32,7 @@ While traditional [finance](../f/finance.md) relies on rational behavior, [behav
 ## Practical Implications of Rational Behavior
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) leverages predefined rules and algorithms to execute trades rapidly and efficiently. These algorithms are grounded in rational decision-making principles, analyzing vast datasets to identify optimal trading opportunities based on historical trends, price movements, and other relevant metrics.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages predefined rules and algorithms to execute trades rapidly and efficiently. These algorithms are grounded in rational decision-making principles, analyzing vast datasets to identify optimal trading opportunities based on historical trends, price movements, and other relevant metrics.
 
 ### Risk Management
 Effective [risk management](../r/risk_management.md) strategies are built on rational behavior. By assessing potential risks and devising measures to mitigate them, entities can safeguard their [capital](../c/capital.md). This involves using tools like [stop-loss orders](../s/stop-loss_orders.md), [diversification](../d/diversification.md), and hedging to manage exposure to adverse [market](../m/market.md) movements.

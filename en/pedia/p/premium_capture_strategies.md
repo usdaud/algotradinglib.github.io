@@ -120,19 +120,19 @@ Let’s consider a hypothetical example of an algorithm designed to implement a 
 
 Several companies provide platforms and tools for implementing [premium](../p/premium.md) capture strategies. Notable among them are:
 
-### 1. **Interactive Brokers** [Interactive Brokers](https://www.interactivebrokers.com/)
+### 1. **Interactive Brokers** Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) offers a suite of advanced trading tools, including an [options](../o/options.md) analytics platform that supports [premium](../p/premium.md) capture strategies. Their [Trader](../t/trader.md) Workstation (TWS) and API allow for sophisticated [algorithmic trading](../a/algorithmic_trading.md).
 
-### 2. **TD Ameritrade** [TD Ameritrade](https://www.tdameritrade.com/)
+### 2. **TD Ameritrade** TD Ameritrade
 TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md) platform provides extensive resources for developing and [backtesting](../b/backtesting.md) option strategies. Their API also supports [algorithmic trading](../a/algorithmic_trading.md).
 
-### 3. **Tastyworks** [Tastyworks](https://www.tastyworks.com/)
+### 3. **Tastyworks** Tastyworks
 Tastyworks specializes in [options](../o/options.md) trading with a focus on innovative strategies. They [offer](../o/offer.md) educational resources and a [trading platform](../t/trading_platform.md) designed specifically for [options](../o/options.md) traders.
 
-### 4. **QuantConnect** [QuantConnect](https://www.quantconnect.com/)
-[QuantConnect](../q/quantconnect.md) is a highly popular [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports the design and [execution](../e/execution.md) of [premium](../p/premium.md) capture strategies. It provides access to historical data and a [robust](../r/robust.md) [backtesting](../b/backtesting.md) environment.
+### 4. **StockSharp**
+[StockSharp](../s/stocksharp.md) is a highly popular [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports the design and [execution](../e/execution.md) of [premium](../p/premium.md) capture strategies. It provides access to historical data and a [robust](../r/robust.md) [backtesting](../b/backtesting.md) environment.
 
-### 5. **OneOption** [OneOption](https://www.oneoption.com/)
+### 5. **OneOption** OneOption
 OneOption offers tools and resources geared toward [options](../o/options.md) traders, including [proprietary algorithms](../p/proprietary_algorithms.md) that can be customized for [premium](../p/premium.md) capture.
 
 ## Risks and Mitigation

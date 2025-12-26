@@ -13,22 +13,22 @@ EMAs are widely used in [technical analysis](../t/technical_analysis.md) to spot
 The calculation of the 6-Month EMA involves several steps, starting with the calculation of the [multiplier](../m/multiplier.md) and moving on to the recursive formula. Here's a step-by-step breakdown:
 
 1. **Calculate the [Multiplier](../m/multiplier.md):**
-   \[
-   \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1}
-   \]
-   For a 6-Month EMA, where \(n\) is the number of periods (assuming 30 trading days per month, thus \(n = 180\) days),
-   \[
-   \text{[Multiplier](../m/multiplier.md)} = \frac{2}{180 + 1} \approx 0.011
-   \]
+ \[
+ \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1}
+ \]
+ For a 6-Month EMA, where \(n\) is the number of periods (assuming 30 trading days per month, thus \(n = 180\) days),
+ \[
+ \text{[Multiplier](../m/multiplier.md)} = \frac{2}{180 + 1} \approx 0.011
+ \]
 
 2. **Compute the Initial EMA:**
-   The initial EMA is usually the simple moving average (SMA) over the first 180 days.
+ The initial EMA is usually the simple moving average (SMA) over the first 180 days.
 
 3. **Apply the Recursive Formula:**
-   \[
-   \text{EMA}_{\text{today}} = (\text{Price}_{\text{today}} \times \text{[Multiplier](../m/multiplier.md)}) + (\text{EMA}_{\text{yesterday}} \times (1 - \text{[Multiplier](../m/multiplier.md)}))
-   \]
-   This formula ensures that more recent prices have a greater impact on the EMA.
+ \[
+ \text{EMA}_{\text{today}} = (\text{Price}_{\text{today}} \times \text{[Multiplier](../m/multiplier.md)}) + (\text{EMA}_{\text{yesterday}} \times (1 - \text{[Multiplier](../m/multiplier.md)}))
+ \]
+ This formula ensures that more recent prices have a greater impact on the EMA.
 
 ### Applications in Trading
 
@@ -80,20 +80,20 @@ Many [automated trading systems](../a/automated_trading_systems.md) integrate th
 
 ### Real-World Example: Stock Trading System
 
-Consider a stock trading system designed by a company like [AlgoTrader](https://www.algotrader.com/), which offers [algorithmic trading](../a/algorithmic_trading.md) software solutions. One of their [trading models](../t/trading_models.md) might involve using the 6-Month EMA to identify [trend](../t/trend.md)-following opportunities in the equities [market](../m/market.md).
+Consider a stock trading system designed by a company like AlgoTrader, which offers [algorithmic trading](../a/algorithmic_trading.md) software solutions. One of their [trading models](../t/trading_models.md) might involve using the 6-Month EMA to identify [trend](../t/trend.md)-following opportunities in the equities [market](../m/market.md).
 
 1. **EMA Calculation:**
-   The software calculates the 6-Month EMA for each stock in its universe of tradable assets.
+ The software calculates the 6-Month EMA for each stock in its universe of tradable assets.
 
 2. **Signal Generation:**
-   When a stock's price crosses above the 6-Month EMA, the system generates a buy signal. Conversely, when the price crosses below the EMA, it generates a sell signal.
+ When a stock's price crosses above the 6-Month EMA, the system generates a buy signal. Conversely, when the price crosses below the EMA, it generates a sell signal.
 
 3. **[Order](../o/order.md) [Execution](../e/execution.md):**
-   The algorithm then sends buy/sell orders to the [exchange](../e/exchange.md) based on these signals, potentially incorporating additional filters and criteria to reduce [false signals](../f/false_signals_in_trading.md).
+ The algorithm then sends buy/sell orders to the [exchange](../e/exchange.md) based on these signals, potentially incorporating additional filters and criteria to reduce [false signals](../f/false_signals_in_trading.md).
 
 4. **Continuous Monitoring:**
-   The system continuously monitors the [market](../m/market.md) and updates the 6-Month EMA calculations in real-time, ensuring that trading decisions are based on the most current data.
+ The system continuously monitors the [market](../m/market.md) and updates the 6-Month EMA calculations in real-time, ensuring that trading decisions are based on the most current data.
 
 ### Conclusion
 
-The 6-Month Exponential Moving Average is a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. Its ability to smooth out price data while giving more weight to recent prices makes it invaluable for identifying trends, generating entry and exit signals, and managing [risk](../r/risk.md). However, like any technical [indicator](../i/indicator.md), it has its limitations and should be used in conjunction with other tools and analysis to maximize its effectiveness. In the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), the responsiveness and simplicity of the 6-Month EMA can provide a competitive edge, allowing traders and systems to adapt swiftly to ever-changing [market](../m/market.md) conditions.
+The 6-Month Exponential Moving Average is a powerful tool in the arsenal of traders and [algorithmic trading](../a/algorithmic_trading.md) systems. Its ability to smooth out price data while giving more weight to recent prices makes it invaluable for identifying trends, generating entry and exit signals, and managing [risk](../r/risk.md). However, like any technical [indicator](../i/indicator.md), it has its limitations and should be used in conjunction with other tools and analysis to maximize its effectiveness. In the fast-paced world of [algorithmic trading](../a/algorithmic_trading.md), the responsiveness and simplicity of the 6-Month EMA can provide a competitive edge, allowing traders and systems to adapt swiftly to ever-changing [market](../m/market.md) conditions.

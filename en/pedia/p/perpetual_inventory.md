@@ -50,19 +50,19 @@ Perpetual [Inventory](../i/inventory.md) is a system of [inventory management](.
 
 **1. Oracle NetSuite:**
 Oracle NetSuite offers comprehensive cloud-based ERP solutions with [robust](../r/robust.md) [inventory management](../i/inventory_management.md) capabilities, including perpetual [inventory](../i/inventory.md) tracking.
-Website: [Oracle NetSuite](https://www.netsuite.com/portal/home.shtml)
+online platform: Oracle NetSuite
 
 **2. SAP:**
 SAP provides ERP software with advanced [inventory management](../i/inventory_management.md) features, including real-time [inventory](../i/inventory.md) monitoring and automation through RFID and barcoding.
-Website: [SAP](https://www.sap.com/products/erp.html)
+online platform: SAP
 
 **3. Zebra Technologies:**
 Zebra Technologies specializes in automatic identification and data capture solutions, [offering](../o/offering.md) RFID, barcode printers, and scanners for efficient perpetual [inventory management](../i/inventory_management.md).
-Website: [Zebra Technologies](https://www.zebra.com/us/en.html)
+online platform: Zebra Technologies
 
 **4. Shopify:**
 Shopify offers an e-[commerce](../c/commerce.md) platform with integrated [inventory management](../i/inventory_management.md) tools that support perpetual [inventory](../i/inventory.md) tracking for online and physical store operations.
-Website: [Shopify](https://www.shopify.com)
+online platform: Shopify
 
 ## Future Trends and Innovations
 

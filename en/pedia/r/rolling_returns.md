@@ -13,8 +13,8 @@ The calculation involves several steps:
 1. **Choosing the Rolling Period**: Decide on the time frame for which the rolling [return](../r/return.md) [will](../w/will.md) be calculated.
 2. **Setting the Window Size**: Define how frequently the returns need to be calculated within the chosen rolling period.
 3. **Algorithm**: Implement the rolling function that recalculates returns for each period:
-   - For example, to calculate a 1-year rolling [return](../r/return.md) on a monthly [basis](../b/basis.md) over a 5-year span, returns are calculated in 5-year windows that [roll forward](../r/roll_forward.md) each month.
-  
+ - For example, to calculate a 1-year rolling [return](../r/return.md) on a monthly [basis](../b/basis.md) over a 5-year span, returns are calculated in 5-year windows that [roll forward](../r/roll_forward.md) each month.
+
 The formula for rolling returns relatively remains the same as the general [return](../r/return.md) formula:
 \[ \text{[Return](../r/return.md)} = \frac{(P_{end} - P_{start}) + D}{P_{start}} \]
 Where:
@@ -61,9 +61,9 @@ Each of these companies uses rolling returns to present comprehensive performanc
 ## Conclusion
 Rolling returns provide a dynamic and [robust](../r/robust.md) method for evaluating an investment's performance. By [offering](../o/offering.md) insights into consistency, [risk](../r/risk.md), and comparative performance, they are an invaluable tool for investors and analysts. While there are challenges associated with their complexity and data requirements, the advantages far outweigh these drawbacks.
 
-For further details, you can explore resources and tools provided by leading firms like [Morningstar](../m/morningstar.md) at [morningstar.com](https://www.morningstar.com/), Vanguard at [vanguard.com](https://investor.vanguard.com/), and BlackRock at [blackrock.com](https://www.blackrock.com/).
+For further details, you can explore resources and tools provided by leading firms like [Morningstar](../m/morningstar.md) at morningstar.com, Vanguard at vanguard.com, and BlackRock at blackrock.com.
 
 ## References
-- [Morningstar](../m/morningstar.md). (n.d.). Retrieved from [morningstar.com](https://www.morningstar.com/)
-- Vanguard. (n.d.). Retrieved from [vanguard.com](https://investor.vanguard.com/)
-- BlackRock. (n.d.). Retrieved from [blackrock.com](https://www.blackrock.com/)
+- [Morningstar](../m/morningstar.md). (n.d.). Retrieved from morningstar.com
+- Vanguard. (n.d.). Retrieved from vanguard.com
+- BlackRock. (n.d.). Retrieved from blackrock.com

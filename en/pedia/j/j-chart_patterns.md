@@ -7,12 +7,12 @@ J-[Chart patterns](../c/chart_patterns.md), often referred to as J patterns, are
 There are several variations of J-[Chart patterns](../c/chart_patterns.md), each with unique characteristics and implications for [market](../m/market.md) behavior. The main types are:
 
 1. **J-Shaped [Rally](../r/rally.md):**
-   - **Description:** This pattern forms when the price of an [asset](../a/asset.md) suddenly rallies after a period of decline or [consolidation](../c/consolidation.md). It starts with a slight decline followed by a sharp upward movement, creating a J-like shape.
-   - **Implication:** A J-Shaped [Rally](../r/rally.md) often indicates strong bullish sentiment and may signal the beginning of a new [uptrend](../u/uptrend.md).
-   
+ - **Description:** This pattern forms when the price of an [asset](../a/asset.md) suddenly rallies after a period of decline or [consolidation](../c/consolidation.md). It starts with a slight decline followed by a sharp upward movement, creating a J-like shape.
+ - **Implication:** A J-Shaped [Rally](../r/rally.md) often indicates strong bullish sentiment and may signal the beginning of a new [uptrend](../u/uptrend.md).
+
 2. **Inverted J-Shape (J-Shaped Decline):**
-   - **Description:** This is the inverse of the J-Shaped [Rally](../r/rally.md). It starts with a slight upward movement followed by a sharp decline, resembling an inverted "J".
-   - **Implication:** This pattern usually denotes bearish sentiment and may mark the start of a significant [downtrend](../d/downtrend.md).
+ - **Description:** This is the inverse of the J-Shaped [Rally](../r/rally.md). It starts with a slight upward movement followed by a sharp decline, resembling an inverted "J".
+ - **Implication:** This pattern usually denotes bearish sentiment and may mark the start of a significant [downtrend](../d/downtrend.md).
 
 ## Characteristics of J-Chart Patterns
 

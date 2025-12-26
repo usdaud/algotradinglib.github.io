@@ -30,8 +30,8 @@ Fintech, short for financial technology, has revolutionized many aspects of the 
 
 One significant development is the rise of electronic RFQ platforms. These platforms digitize the RFQ process, allowing for quicker dissemination of RFQs and faster responses from suppliers. Notable platforms include:
 
-- **Tradeweb:** A leading operator of electronic marketplaces for rates, [credit](../c/credit.md), equities, and [money](../m/money.md) markets (https://www.tradeweb.com/).
-- **[MarketAxess](../m/marketaxess.md):** Specializes in electronic trading of corporate bonds and other fixed-[income](../i/income.md) securities (https://www.[marketaxess](../m/marketaxess.md).com/).
+- **Tradeweb:** A leading operator of electronic marketplaces for rates, [credit](../c/credit.md), equities, and [money](../m/money.md) markets (
+- **[MarketAxess](../m/marketaxess.md):** Specializes in electronic trading of corporate bonds and other fixed-[income](../i/income.md) securities (
 
 These platforms [offer](../o/offer.md) several benefits:
 - **Speed:** RFQs can be issued and responded to in real-time, significantly reducing the time it takes to complete the [procurement](../p/procurement.md) process.

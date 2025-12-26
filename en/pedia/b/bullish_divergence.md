@@ -90,16 +90,16 @@ Several platforms [offer](../o/offer.md) extensive tools and libraries to help a
 
 ### MetaTrader 5
 
-MetaTrader 5 provides a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) framework with support for custom indicators and automated [trading strategies](../t/trading_strategies.md). [MetaTrader 5 Official Website](https://www.metatrader5.com/)
+MetaTrader 5 provides a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) framework with support for custom indicators and automated [trading strategies](../t/trading_strategies.md).
 
 ### TradeStation
 
-[TradeStation](../t/tradestation.md) offers advanced charting tools and a proprietary EasyLanguage for [algorithmic trading](../a/algorithmic_trading.md). [TradeStation Official Website](https://www.tradestation.com/)
+[TradeStation](../t/tradestation.md) offers advanced charting tools and a proprietary EasyLanguage for [algorithmic trading](../a/algorithmic_trading.md).
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including Python and C#. It allows traders to backtest and live [trade](../t/trade.md) strategies. [QuantConnect Official Website](https://www.quantconnect.com/)
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages, including Python and C#. It allows traders to backtest and live [trade](../t/trade.md)
 
 ## Conclusion
 
-Bullish [divergence](../d/divergence.md) is a valuable tool in the arsenal of algorithmic traders, [offering](../o/offering.md) potential early signals of upward price movements. While it has its limitations, the combination of [multiple](../m/multiple.md) indicators, [robust](../r/robust.md) [backtesting](../b/backtesting.md), and comprehensive [risk management](../r/risk_management.md) can significantly enhance its [utility](../u/utility.md). As with any [trading strategy](../t/trading_strategy.md), a disciplined approach and constant evaluation are essential for sustained success.
+Bullish [divergence](../d/divergence.md) is a valuable tool in the arsenal of algorithmic traders, [offering](../o/offering.md) potential early signals of upward price movements. While it has its limitations, the combination of [multiple](../m/multiple.md) indicators, [robust](../r/robust.md) [backtesting](../b/backtesting.md), and comprehensive [risk management](../r/risk_management.md) can significantly enhance its [utility](../u/utility.md). As with any [trading strategy](../t/trading_strategy.md), a disciplined approach and constant evaluation are essential for sustained success.

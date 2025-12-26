@@ -91,7 +91,7 @@ Examining real-world examples of natural monopolies provides valuable insights i
 The electricity sector is a classic example of a natural [monopoly](../m/monopoly.md). The high fixed costs of power plants, transmission lines, and [distribution](../d/distribution.md) networks create substantial [barriers to entry](../b/barriers_to_entry.md). Electric utilities often operate as regulated monopolies, with government oversight ensuring that prices are reasonable and service quality is maintained. In many regions, regulatory agencies such as the Federal Energy Regulatory [Commission](../c/commission.md) (FERC) in the United States play a crucial role in balancing the interests of consumers and [utility](../u/utility.md) companies.
 
 #### Source:
-- [Federal Energy Regulatory Commission (FERC)](https://www.ferc.gov)
+- Federal Energy Regulatory Commission (FERC)
 
 ### Water Supply
 

@@ -45,22 +45,18 @@ Using a diversified portfolio of [trading strategies](../t/trading_strategies.md
 ## Case Studies
 ### 1. Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company that has successfully mastered the principles of managing [J-Curve](../j/j-curve.md) [risk](../r/risk.md). By using advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, they have been able to implement strategies that, after an initial period of adjustment, [yield](../y/yield.md) consistent positive returns.
-[Learn More](https://www.rentec.com/)
 
 ### 2. Two Sigma
 Two Sigma applies [data science](../d/data_science_in_trading.md) to find connections in the world's data. They have incorporated comprehensive [risk management](../r/risk_management.md) techniques, including mitigation of [J-Curve](../j/j-curve.md) [risk](../r/risk.md), to successfully run their [trading algorithms](../t/trading_algorithms.md).
-[Learn More](https://www.twosigma.com/)
 
 ## Tools and Software
 Several [software tools](../s/software_tools_for_trading.md) can help manage [J-Curve](../j/j-curve.md) [risk](../r/risk.md) by [offering](../o/offering.md) capabilities for back-testing, [simulation](../s/simulation_in_trading.md), and real-time monitoring. These include:
 
-### 1. QuantConnect
-[QuantConnect](../q/quantconnect.md) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with features for back-testing and live trading. It allows developers to simulate different [market](../m/market.md) conditions to prepare algorithms for real-world performance.
-[Learn More](https://www.quantconnect.com/)
+### 1. StockSharp
+[StockSharp](../s/stocksharp.md) provides a [algorithmic trading](../a/algorithmic_trading.md) platform with features for back-testing and live trading. It allows developers to simulate different [market](../m/market.md) conditions to prepare algorithms for real-world performance.
 
 ### 2. Algorithmic Trading Group (ATG)
 ATG offers technology and expertise for developing and deploying [trading algorithms](../t/trading_algorithms.md). Their platform includes tools for [stress testing](../s/stress_testing_in_trading.md) and performance analysis, crucial for managing [J-Curve](../j/j-curve.md) [risk](../r/risk.md).
-[Learn More](https://atgforex.com/)
 
 ## Conclusion
 Understanding and mitigating [J-Curve](../j/j-curve.md) [risk](../r/risk.md) is essential for [algorithmic trading](../a/algorithmic_trading.md) success. By anticipating the initial downturn and implementing strategies to manage this period, traders can optimize their long-term returns. Leveraging tools, simulations, and real-time performance monitoring can help manage these risks effectively. [Algorithmic trading](../a/algorithmic_trading.md) firms like Renaissance Technologies and Two Sigma illustrate how successful [risk management](../r/risk_management.md) can lead to substantial and sustained profitability.

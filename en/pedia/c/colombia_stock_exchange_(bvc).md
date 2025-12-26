@@ -4,7 +4,7 @@ The Colombia Stock [Exchange](../e/exchange.md), known as Bolsa de Valores de Co
 
 ## History and Evolution
 
-The BVC was officially founded in 2001, following the [consolidation](../c/consolidation.md) of three regional stock exchanges: the Bogotá Stock [Exchange](../e/exchange.md), the Medellín Stock [Exchange](../e/exchange.md), and the Occidente Stock [Exchange](../e/exchange.md). This unification created a single, centralized platform to better meet the needs of both domestic and international investors. The integration was aimed at improving [liquidity](../l/liquidity.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and expanding the [market](../m/market.md) reach. 
+The BVC was officially founded in 2001, following the [consolidation](../c/consolidation.md) of three regional stock exchanges: the Bogotá Stock [Exchange](../e/exchange.md), the Medellín Stock [Exchange](../e/exchange.md), and the Occidente Stock [Exchange](../e/exchange.md). This unification created a single, centralized platform to better meet the needs of both domestic and international investors. The integration was aimed at improving [liquidity](../l/liquidity.md), [operational efficiency](../o/operational_efficiency_in_trading.md), and expanding the [market](../m/market.md) reach.
 
 ## Structure and Governance
 
@@ -46,7 +46,7 @@ BVC has established various partnerships and collaborations with international e
 
 ## Market Performance and Statistics
 
-The Colombian Stock [Exchange](../e/exchange.md) is represented by several key indices, with the COLCAP [Index](../i/index_instrument.md) being the most widely followed [indicator](../i/indicator.md) of [market](../m/market.md) performance. The COLCAP [Index](../i/index_instrument.md) comprises the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the BVC. Historical performance data of the COLCAP [Index](../i/index_instrument.md) and other [market](../m/market.md) [statistics](../s/statistics.md) are typically available on the BVC’s official website: [BVC Market Data](https://www.bvc.com.co/).
+The Colombian Stock [Exchange](../e/exchange.md) is represented by several key indices, with the COLCAP [Index](../i/index_instrument.md) being the most widely followed [indicator](../i/indicator.md) of [market](../m/market.md) performance. The COLCAP [Index](../i/index_instrument.md) comprises the top 20 most [liquid](../l/liquid.md) [stocks](../s/stock.md) on the BVC. Historical performance data of the COLCAP [Index](../i/index_instrument.md) and other [market](../m/market.md) [statistics](../s/statistics.md) are published regularly.
 
 ## Future Prospects and Innovations
 

@@ -11,10 +11,10 @@ The Q Ratio is defined as the ratio of the [market value](../m/market_value.md) 
 ### Components of the Q Ratio
 
 1. **[Market Value](../m/market_value.md) of Assets**:
-   - This is the total [market value](../m/market_value.md) of a company's [equity](../e/equity.md) plus the [market value](../m/market_value.md) of its [debt](../d/debt.md). The [market value of equity](../m/market_value_of_equity.md) can be obtained by multiplying the company's current stock price by its total number of outstanding [shares](../s/shares.md). The [market value](../m/market_value.md) of [debt](../d/debt.md) can be computed by the current trading prices of the company's [debt](../d/debt.md) securities.
+ - This is the total [market value](../m/market_value.md) of a company's [equity](../e/equity.md) plus the [market value](../m/market_value.md) of its [debt](../d/debt.md). The [market value of equity](../m/market_value_of_equity.md) can be obtained by multiplying the company's current stock price by its total number of outstanding [shares](../s/shares.md). The [market value](../m/market_value.md) of [debt](../d/debt.md) can be computed by the current trading prices of the company's [debt](../d/debt.md) securities.
 
 2. **[Replacement Cost](../r/replacement_cost.md) of Assets**:
-   - [Replacement cost](../r/replacement_cost.md) refers to the amount it would cost to replace a company's existing assets at current prices. This can be more challenging to determine and often requires estimates based on [industry](../i/industry.md) standards and [inflation](../i/inflation.md)-adjusted values.
+ - [Replacement cost](../r/replacement_cost.md) refers to the amount it would cost to replace a company's existing assets at current prices. This can be more challenging to determine and often requires estimates based on [industry](../i/industry.md) standards and [inflation](../i/inflation.md)-adjusted values.
 
 ### Interpretation of Q Ratio
 
@@ -58,7 +58,7 @@ Historical data on Q Ratios can provide valuable insights for back-testing inves
 
 ### Q Ratio in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the Q Ratio can be integrated into [quantitative models](../q/quantitative_models.md) to develop [trading strategies](../t/trading_strategies.md). By incorporating Q Ratios into algorithms, traders can exploit [market](../m/market.md) inefficiencies and identify [arbitrage opportunities](../a/arbitrage_opportunities.md). For instance, a trading algorithm could be programmed to buy [undervalued](../u/undervalued.md) [stocks](../s/stock.md) with low Q Ratios and sell [overvalued](../o/overvalued.md) [stocks](../s/stock.md) with high Q Ratios.
+In [algorithmic trading](../a/algorithmic_trading.md), the Q Ratio can be integrated into [quantitative models](../q/quantitative_models.md) to develop [trading strategies](../t/trading_strategies.md). By incorporating Q Ratios into algorithms, traders can exploit [market](../m/market.md) inefficiencies and identify [arbitrage opportunities](../a/arbitrage_opportunities.md). For instance, a trading algorithm could be programmed to buy [undervalued](../u/undervalued.md) [stocks](../s/stock.md) with low Q Ratios and sell [overvalued](../o/overvalued.md) [stocks](../s/stock.md) with high Q Ratios.
 
 ### Machine Learning and Q Ratio
 
@@ -70,6 +70,4 @@ Fintech companies have begun leveraging the Q Ratio in developing innovative fin
 
 ## Conclusion
 
-The Q Ratio, or Tobin's Q, is a powerful tool for assessing [market](../m/market.md) valuations and making informed financial decisions. By comparing the [market value](../m/market_value.md) of a company's assets to their [replacement cost](../r/replacement_cost.md), the Q Ratio offers insights into whether a stock might be [overvalued](../o/overvalued.md) or [undervalued](../u/undervalued.md). Despite its limitations, the Q Ratio remains a valuable metric in [investment analysis](../i/investment_analysis.md), [corporate finance](../c/corporate_finance.md), and [economic forecasting](../e/economic_forecasting.md). Advanced applications, particularly in [algorithmic trading](../a/accountability.md) and fintech, demonstrate the evolving use of the Q Ratio in modern [financial markets](../f/financial_market.md), providing investors and companies with sophisticated tools to navigate complex investment landscapes.
-
-For more information on how fintech companies are leveraging the Q Ratio, you can visit [Jim Tobin's Professional Page](https://www.jimtobin.com).
+The Q Ratio, or Tobin's Q, is a powerful tool for assessing [market](../m/market.md) valuations and making informed financial decisions. By comparing the [market value](../m/market_value.md) of a company's assets to their [replacement cost](../r/replacement_cost.md), the Q Ratio offers insights into whether a stock might be [overvalued](../o/overvalued.md) or [undervalued](../u/undervalued.md). Despite its limitations, the Q Ratio remains a valuable metric in [investment analysis](../i/investment_analysis.md), [corporate finance](../c/corporate_finance.md), and [economic forecasting](../e/economic_forecasting.md). Advanced applications, particularly in [algorithmic trading](../a/algorithmic_trading.md) and fintech, demonstrate the evolving use of the Q Ratio in modern [financial markets](../f/financial_market.md), providing investors and companies with sophisticated tools to navigate complex investment landscapes.

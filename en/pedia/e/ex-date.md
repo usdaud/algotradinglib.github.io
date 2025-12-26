@@ -60,11 +60,11 @@ Understanding the ex-date is also crucial for managing risks associated with [di
 
 ### Apple Inc.
 
-Apple Inc. (AAPL) is known for its substantial [dividend](../d/dividend.md) payouts. Understanding the ex-date is crucial for investors who want to benefit from these dividends. Link: [Apple Investor Relations](https://investor.apple.com/)
+Apple Inc. (AAPL) is known for its substantial [dividend](../d/dividend.md) payouts. Understanding the ex-date is crucial for investors who want to benefit from these dividends. Link
 
 ### Procter & Gamble
 
-Procter & Gamble (PG) is another company with a consistent [dividend](../d/dividend.md) [payout](../p/payout.md) history. Investors and algorithms need to track the company's ex-dates for optimal [trading strategies](../t/trading_strategies.md). Link: [Procter & Gamble Investor Relations](https://www.pginvestor.com/)
+Procter & Gamble (PG) is another company with a consistent [dividend](../d/dividend.md) [payout](../p/payout.md) history. Investors and algorithms need to track the company's ex-dates for optimal [trading strategies](../t/trading_strategies.md). Link
 
 ## Conclusion
 

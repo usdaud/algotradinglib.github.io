@@ -25,7 +25,7 @@ In contemporary [financial markets](../f/financial_market.md), a significant [vo
 
 High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that relies on extremely quick [trade](../t/trade.md) [execution](../e/execution.md), often measured in microseconds. HFT strategies are designed to [capitalize](../c/capitalize.md) on minute price discrepancies across markets. During a flash crash, HFT algorithms can potentially magnify [market](../m/market.md) movements by exiting positions en masse or rapidly changing orders, contributing to the rapid decline and recovery in prices.
 
-- Virtu Financial is a prominent player in the HFT space. [Virtu Financial](https://www.virtu.com/)
+- Virtu Financial is a prominent player in the HFT space. Virtu Financial
 
 ### Market Liquidity
 
@@ -49,7 +49,7 @@ In the United States, the National [Market](../m/market.md) System (NMS) impleme
 
 [Post-trade analysis](../p/post-trade_analysis.md) and reporting systems have also been bolstered to better understand and address the causes of flash crashes. Exchanges and regulatory bodies analyze massive volumes of [trade](../t/trade.md) data to identify patterns and pinpoint potential triggers, which helps in refining existing controls and introducing new safeguards.
 
-- The SEC maintains an ongoing oversight on [market](../m/market.md) practices. [U.S. Securities and Exchange Commission](https://www.sec.gov/)
+- The SEC maintains an ongoing oversight on [market](../m/market.md) practices. U.S. Securities and Exchange Commission
 
 ## Technological and Market Solutions
 

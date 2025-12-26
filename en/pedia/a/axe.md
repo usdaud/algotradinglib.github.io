@@ -116,23 +116,23 @@ Several companies specialize in tools and services useful for identifying axes a
 
 ### RavenPack
 
-[RavenPack](https://www.ravenpack.com/) offers high-[performance analytics](../p/performance_analytics.md) and data services that help in identifying [market sentiment](../m/market_sentiment.md), including axes. They provide insights by analyzing news, [social media](../s/social_media.md), and other textual data sources.
+RavenPack offers high-[performance analytics](../p/performance_analytics.md) and data services that help in identifying [market sentiment](../m/market_sentiment.md), including axes. They provide insights by analyzing news, [social media](../s/social_media.md), and other textual data sources.
 
 ### Bloomberg Terminal
 
-The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is one of the most well-known platforms used by traders worldwide. It offers extensive data feeds and analytics tools that can aid in identifying axes.
+The Bloomberg Terminal is one of the most well-known platforms used by traders worldwide. It offers extensive data feeds and analytics tools that can aid in identifying axes.
 
 ### Refinitiv
 
-[Refinitiv](https://www.refinitiv.com/) provides data and analytics solutions that incorporate [sentiment analysis](../s/sentiment_analysis.md), which can help in identifying axes. Their platforms aggregate data from an array of sources, including news and trading volumes.
+Refinitiv provides data and analytics solutions that incorporate [sentiment analysis](../s/sentiment_analysis.md), which can help in identifying axes. Their platforms aggregate data from an array of sources, including news and trading volumes.
 
 ### Trade Ideas
 
-[Trade Ideas](https://www.trade-ideas.com/) specializes in [market](../m/market.md) scanning and analysis tools that can be customized to identify potential axes. Their platform is popularly used for identifying trading opportunities based on [multiple](../m/multiple.md) indicators, including sentiment and [volume analysis](../v/volume_analysis.md).
+Trade Ideas specializes in [market](../m/market.md) scanning and analysis tools that can be customized to identify potential axes. Their platform is popularly used for identifying trading opportunities based on [multiple](../m/multiple.md) indicators, including sentiment and [volume analysis](../v/volume_analysis.md).
 
 ### Kensho Technologies
 
-[Kensho Technologies](https://www.kensho.com/), now a part of S&P Global, leverages [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) to provide actionable insights into [market](../m/market.md) trends, including axes. Their tools are highly advanced and used by institutional traders.
+Kensho Technologies, now a part of S&P Global, leverages [machine learning](../m/machine_learning.md) and [data analytics](../d/data_analytics.md) to provide actionable insights into [market](../m/market.md) trends, including axes. Their tools are highly advanced and used by institutional traders.
 
 ## Conclusion
 

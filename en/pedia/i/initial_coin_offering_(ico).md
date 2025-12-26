@@ -76,7 +76,7 @@ The [value](../v/value.md) of tokens can be extremely volatile, influenced by [m
 Several ICOs have stood out due to their success or impact on the [industry](../i/industry.md):
 
 - **[Ethereum](../e/ethereum_.md) (ETH)**: One of the most successful ICOs, raising $18 million in 2014. [Ethereum](../e/ethereum_.md)'s success paved the way for numerous other projects.
-  
+
 - **[EOS](../e/eos.md) ([EOS](../e/eos.md))**: Raised over $4 billion in its year-long ICO from 2017 to 2018, making it one of the largest ICOs in history.
 
 - **[Tezos](../t/tezos.md) (XTZ)**: Initially raised $232 million in 2017, but faced legal and operational challenges that highlighted some of the risks associated with ICOs.
@@ -115,6 +115,6 @@ ICOs have revolutionized the way projects raise funds in the cryptocurrency and 
 
 To learn more about specific ICO projects and their impact, you can explore the following resources:
 
-- [Ethereum](https://ethereum.org/)
-- [EOS](https://eos.io/)
-- [Tezos](https://tezos.com/)
+- Ethereum
+- EOS
+- Tezos

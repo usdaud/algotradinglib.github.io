@@ -48,11 +48,11 @@ Integrated [risk management](../r/risk_management.md) systems can run simulation
 
 Several companies specialize in providing hybrid cloud solutions tailored to the financial services [industry](../i/industry.md):
 
-1. **IBM Cloud for Financial Services**: IBM offers a secure, scalable hybrid cloud platform designed to help financial institutions innovate while maintaining regulatory compliance. More information can be found at [IBM Cloud for Financial Services](https://www.ibm.com/cloud/financial-services).
+1. **IBM Cloud for Financial Services**: IBM offers a secure, scalable hybrid cloud platform designed to help financial institutions innovate while maintaining regulatory compliance. More information can be found at IBM Cloud for Financial Services.
 
-2. **Microsoft Azure for Financial Services**: Azure provides a comprehensive set of cloud services aimed at enabling financial institutions to modernize their [infrastructure](../i/infrastructure.md). Detailed insights are available at [Microsoft Azure for Financial Services](https://azure.microsoft.com/en-us/solutions/financial-services/).
+2. **Microsoft Azure for Financial Services**: Azure provides a comprehensive set of cloud services aimed at enabling financial institutions to modernize their [infrastructure](../i/infrastructure.md). Detailed insights are available at Microsoft Azure for Financial Services.
 
-3. **Google Cloud for Financial Services**: Google Cloud offers a suite of solutions leveraging AI and [big data](../b/big_data_in_trading.md) to enhance trading, [risk management](../r/risk_management.md), and [customer](../c/customer.md) experiences. Explore further at [Google Cloud for Financial Services](https://cloud.google.com/solutions/financial-services).
+3. **Google Cloud for Financial Services**: Google Cloud offers a suite of solutions leveraging AI and [big data](../b/big_data_in_trading.md) to enhance trading, [risk management](../r/risk_management.md), and [customer](../c/customer.md) experiences. Explore further at Google Cloud for Financial Services.
 
 ## Security Considerations
 

@@ -1,6 +1,6 @@
 # Quantitative Analysis (QA)
 
-[Quantitative Analysis](../q/quantitative_analysis.md) (QA) is the use of mathematical and statistical methods to evaluate investment opportunities and manage [risk](../r/risk.md) in [financial markets](../f/financial_market.md). This technique relies heavily on numerical data and complex computational models to make informed decisions about [trading strategies](../t/trading_strategies.md), [portfolio management](../p/par.md), and [risk](../r/risk.md) assessment. QA is a cornerstone of modern [finance](../f/finance.md) and trading, particularly in disciplines like [algorithmic trading](../a/accountability.md) and financial technology (FinTech).
+[Quantitative Analysis](../q/quantitative_analysis.md) (QA) is the use of mathematical and statistical methods to evaluate investment opportunities and manage [risk](../r/risk.md) in [financial markets](../f/financial_market.md). This technique relies heavily on numerical data and complex computational models to make informed decisions about [trading strategies](../t/trading_strategies.md), [portfolio management](../p/par.md), and [risk](../r/risk.md) assessment. QA is a cornerstone of modern [finance](../f/finance.md) and trading, particularly in disciplines like [algorithmic trading](../a/algorithmic_trading.md) and financial technology (FinTech).
 
 ## Historical Background
 
@@ -15,7 +15,7 @@ Markowitz's work on portfolio selection emphasized the importance of [diversific
 ### 1. **Statistical Analysis**
 
 - **[Descriptive Statistics](../d/descriptive_statistics.md)**: These are measures that summarize the basic features of data, including mean, [median](../m/median.md), variance, and [standard deviation](../s/standard_deviation.md). [Descriptive statistics](../d/descriptive_statistics.md) provide a foundational understanding of data characteristics and distributions.
-  
+
 - **Inferential [Statistics](../s/statistics.md)**: These methods involve making predictions or inferences about a population based on a sample of data. Techniques such as [hypothesis testing](../h/hypothesis_testing.md), [confidence intervals](../c/confidence_intervals.md), and [regression analysis](../r/regression_analysis.md) are common.
 
 ### 2. **Time Series Analysis**
@@ -42,7 +42,7 @@ Recent advances in computational power and data availability have catalyzed the 
 
 ### 1. **Algorithmic Trading**
 
-[Algorithmic trading](../a/accountability.md), or algo trading, uses computer algorithms to execute trades based on predefined criteria. [Quantitative analysis](../q/quantitative_analysis.md) drives these algorithms, enabling high-frequency trading (HFT) and sophisticated [trading strategies](../t/trading_strategies.md) that can [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, uses computer algorithms to execute trades based on predefined criteria. [Quantitative analysis](../q/quantitative_analysis.md) drives these algorithms, enabling high-frequency trading (HFT) and sophisticated [trading strategies](../t/trading_strategies.md) that can [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
 
 ### 2. **Risk Management**
 
@@ -74,15 +74,15 @@ Numerous tools and [software platforms](../s/software_platforms_for_trading.md) 
 
 ### Renaissance Technologies
 
-Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). Its Medallion [Fund](../f/fund.md), which utilizes complex [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes, has achieved extraordinary returns. Renaissance employs a distinct blend of statistical [arbitrage](../a/arbitrage.md), HFT, and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) ([Renaissance Technologies](https://www.rentec.com/)).
+Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md). Its Medallion [Fund](../f/fund.md), which utilizes complex [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes, has achieved extraordinary returns. Renaissance employs a distinct blend of statistical [arbitrage](../a/arbitrage.md), HFT, and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) (Renaissance Technologies).
 
 ### Two Sigma
 
-Two Sigma focuses on data-driven [investing](../i/investing.md), utilizing [machine learning](../m/machine_learning.md) and distributed computing to develop [predictive models](../p/predictive_models_in_trading.md). Their quantitative approach spans various [asset](../a/asset.md) classes and leverages vast amounts of data to inform investment decisions ([Two Sigma](https://www.twosigma.com/)).
+Two Sigma focuses on data-driven [investing](../i/investing.md), utilizing [machine learning](../m/machine_learning.md) and distributed computing to develop [predictive models](../p/predictive_models_in_trading.md). Their quantitative approach spans various [asset](../a/asset.md) classes and leverages vast amounts of data to inform investment decisions (Two Sigma).
 
 ### DE Shaw & Co.
 
-This [firm](../f/firm.md) employs a multi-strategy approach, blending quantitative and [fundamental analysis](../f/fundamental_analysis.md). DE Shaw & Co. has been a pioneer in using computer-driven strategies to exploit [market](../m/market.md) inefficiencies across various [asset](../a/asset.md) classes ([DE Shaw & Co.](https://www.deshaw.com/)).
+This [firm](../f/firm.md) employs a multi-strategy approach, blending quantitative and [fundamental analysis](../f/fundamental_analysis.md). DE Shaw & Co. has been a pioneer in using computer-driven strategies to exploit [market](../m/market.md) inefficiencies across various [asset](../a/asset.md) classes (DE Shaw & Co.).
 
 ## Challenges and Limitations
 

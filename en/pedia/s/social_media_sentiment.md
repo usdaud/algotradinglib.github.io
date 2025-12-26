@@ -60,15 +60,14 @@ Before deploying these strategies in live trading, rigorous [backtesting](../b/b
 
 ### Mention Analytics
 
-[Mention Analytics](https://mention.com/) is a real-time media monitoring tool that tracks brand mentions across various digital platforms. Financial analysts and traders can utilize Mention Analytics to monitor sentiment around specific [stocks](../s/stock.md) or sectors intensively.
+Mention Analytics is a real-time media monitoring tool that tracks brand mentions across various digital platforms. Financial analysts and traders can utilize Mention Analytics to monitor sentiment around specific [stocks](../s/stock.md) or sectors intensively.
 
 ### StockTwits and Sentdex
-- **[StockTwits](https://stocktwits.com/):** A [social media](../s/social_media.md) platform for traders and investors, providing [sentiment analysis](../s/sentiment_analysis.md) and streaming [market](../m/market.md) data.
-- **[Sentdex](https://sentdex.com/):** Offers [sentiment analysis](../s/sentiment_analysis.md) tools and APIs for analyzing sentiment from [social media](../s/social_media.md) and other unstructured data sources for financial trading.
+- **StockTwits:** A [social media](../s/social_media.md) platform for traders and investors, providing [sentiment analysis](../s/sentiment_analysis.md) and streaming [market](../m/market.md) data.
+- **Sentdex:** Offers [sentiment analysis](../s/sentiment_analysis.md) tools and APIs for analyzing sentiment from [social media](../s/social_media.md) and other unstructured data sources for financial trading.
 
 ### Quantconnect
-[Quantconnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform that allows users to design, backtest, and deploy algorithms. They [offer](../o/offer.md) APIs and datasets for [sentiment analysis](../s/sentiment_analysis.md), including [social media](../s/social_media.md) sentiment data.
+[QuantConnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform that allows users to design, backtest, and deploy algorithms. They [offer](../o/offer.md) APIs and datasets for [sentiment analysis](../s/sentiment_analysis.md), including [social media](../s/social_media.md) sentiment data.
 
 ## Conclusion
 The integration of [social media](../s/social_media.md) sentiment into [algorithmic trading](../a/algorithmic_trading.md) enriches the toolkit of quantitative traders by providing real-time insights into [market](../m/market.md) moods and trends. As tools and techniques for [sentiment analysis](../s/sentiment_analysis.md) continue to evolve, the potential for more sophisticated and accurate [trading models](../t/trading_models.md) only increases. This intersection of [social media](../s/social_media.md) and [financial markets](../f/financial_market.md) illustrates the growing relevance of unstructured data in a traditionally structured domain.
-

@@ -29,14 +29,14 @@ The Zero-Lag version, however, incorporates a compensation [factor](../f/factor.
 The implementation of a Zero-Lag Filter requires knowledge of programming and algorithms. Here's a simplified pseudocode outline:
 
 1. **Initialize Parameters**:
-    - Define the length of the moving average `n`.
-    - Initialize buffer for past `n` prices.
-   
+ - Define the length of the moving average `n`.
+ - Initialize buffer for past `n` prices.
+
 2. **Main Loop**:
-    1. Add the latest price to the buffer.
-    2. Compute the normal moving average (MA).
-    3. Apply a [correction](../c/correction.md) [delta](../d/delta.md) to account for the lag:
-    \[ ZeroLag_{t} = MA_{t} + (MA_{t} - MA_{t-1}) \]
+ 1. Add the latest price to the buffer.
+ 2. Compute the normal moving average (MA).
+ 3. Apply a [correction](../c/correction.md) [delta](../d/delta.md) to account for the lag:
+ \[ ZeroLag_{t} = MA_{t} + (MA_{t} - MA_{t-1}) \]
 
 ### Example Code in Python
 
@@ -73,10 +73,10 @@ In HFT, the importance of timely data processing cannot be overstated. Zero-Lag 
 ## Companies and Platforms Using Zero-Lag Filters
 
 1. **[QuantConnect](../q/quantconnect.md)**:
-   A quant [trading platform](../t/trading_platform.md) that supports diverse algorithms and allows users to integrate custom filters, including Zero-Lag Filters. Learn more at [QuantConnect](https://www.quantconnect.com/).
+ A quant [trading platform](../t/trading_platform.md) that supports diverse algorithms and allows users to integrate custom filters, including Zero-Lag Filters. Learn more at QuantConnect.
 
 2. **Algorithmica Research**:
-   This company specializes in providing [algorithmic trading](../a/algorithmic_trading.md) solutions, often incorporating advanced [signal processing](../s/signal_processing_in_trading.md) techniques like the Zero-Lag Filter. More information can be found at [Algorithmica](https://www.algorithmica.com/).
+ This company specializes in providing [algorithmic trading](../a/algorithmic_trading.md) solutions, often incorporating advanced [signal processing](../s/signal_processing_in_trading.md) techniques like the Zero-Lag Filter. More information can be found at Algorithmica.
 
 ## Pros and Cons of Zero-Lag Filter
 
@@ -92,7 +92,7 @@ In HFT, the importance of timely data processing cannot be overstated. Zero-Lag 
 
 ## Conclusion
 
-Zero-Lag Filters represent a significant advancement in the field of digital [signal processing](../s/signal_processing_in_trading.md) for [financial markets](../f/financial_market.md). By addressing the critical [issue](../i/issue.md) of lag found in traditional filters, they provide traders and algorithmic platforms with a more responsive and accurate tool for [trend](../t/trend.md) identification and decision-making. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, techniques like the Zero-Lag Filter [will](../w/will.md) likely see greater adoption as traders pursue every possible edge in the highly competitive landscape of [financial markets](../f/financial_market.md). 
+Zero-Lag Filters represent a significant advancement in the field of digital [signal processing](../s/signal_processing_in_trading.md) for [financial markets](../f/financial_market.md). By addressing the critical [issue](../i/issue.md) of lag found in traditional filters, they provide traders and algorithmic platforms with a more responsive and accurate tool for [trend](../t/trend.md) identification and decision-making. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, techniques like the Zero-Lag Filter [will](../w/will.md) likely see greater adoption as traders pursue every possible edge in the highly competitive landscape of [financial markets](../f/financial_market.md).
 
 ---
 

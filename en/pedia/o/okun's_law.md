@@ -66,7 +66,7 @@ Okun's Law is widely used in macroeconomic policy and economic modeling:
 Numerous empirical studies have tested Okun's Law in different countries and time periods. Some studies find that the Okun coefficient varies with [business](../b/business.md) cycles, being higher during recessions and lower during expansions. Other research emphasizes the importance of considering sectoral shifts and demographic changes.
 
 ### Recent Developments
-With the rise of advanced econometric techniques and data availability, recent studies have refined the estimates of Okun's Law, incorporating factors like labor force participation rates, part-time employment, and [underemployment](../u/underemployment.md). Online platforms, such as the Federal Reserve Economic Data (FRED) [link](https://fred.stlouisfed.org/), [offer](../o/offer.md) extensive datasets for exploring these relationships further.
+With the rise of advanced econometric techniques and data availability, recent studies have refined the estimates of Okun's Law, incorporating factors like labor force participation rates, part-time employment, and [underemployment](../u/underemployment.md). Online platforms, such as the Federal Reserve Economic Data (FRED) link, [offer](../o/offer.md) extensive datasets for exploring these relationships further.
 
 ### Conclusion
 Okun's Law remains a valuable empirical tool for understanding the relationship between [unemployment](../u/unemployment.md) and economic output. While it has some limitations and may require adjustments for specific contexts, its simplicity and intuitive appeal make it a staple in economic analysis and policy discussions.

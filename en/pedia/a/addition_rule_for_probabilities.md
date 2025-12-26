@@ -93,8 +93,8 @@ For correlated events, advanced techniques such as copulas or conditional probab
 
 To further understand the application of probability rules in [algorithmic trading](../a/accountability.md) and statistical [finance](../f/finance.md), consider exploring resources provided by financial institutions and academic research. Some notable entities include:
 
-- [Investopedia](https://www.investopedia.com/) offers a wide [range](../r/range.md) of articles on probability, [risk management](../r/risk_management.md), and [trading strategies](../t/trading_strategies.md).
-- [Quant Start](https://www.quantstart.com/) provides tutorials and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) using statistical methods.
+- Investopedia offers a wide [range](../r/range.md) of articles on probability, [risk management](../r/risk_management.md), and [trading strategies](../t/trading_strategies.md).
+- Quant Start provides tutorials and resources for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) using statistical methods.
 
 ### Conclusion
 

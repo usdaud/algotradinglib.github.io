@@ -1,6 +1,6 @@
 # Liberty Bond
 
-A Liberty [Bond](../b/bond.md) was a war [bond](../b/bond.md) issued in the United States during World War I to support the allied cause in World War I. Subscribing to the bonds became a symbol of patriotic duty in the United States and introduced the idea of financial securities to many citizens for the first time. 
+A Liberty [Bond](../b/bond.md) was a war [bond](../b/bond.md) issued in the United States during World War I to support the allied cause in World War I. Subscribing to the bonds became a symbol of patriotic duty in the United States and introduced the idea of financial securities to many citizens for the first time.
 
 These bonds were sold to American citizens to help [finance](../f/finance.md) the war effort. The bonds offered a [fixed interest rate](../f/fixed_interest_rate.md) and were considered a safe and patriotic investment. The campaign for these bonds was the largest financial mobilization in American history up to that point, and it massively promoted the idea of widespread financial participation.
 
@@ -44,8 +44,7 @@ The success of the Liberty [Bond](../b/bond.md) program demonstrated that the Am
 
 In the post-war period, the experience gained in issuing and [marketing](../m/marketing.md) Liberty Bonds served as a valuable blueprint for subsequent [bond](../b/bond.md) programs, most notably [War Bonds](../w/war_bond.md) sold during World War II.
 
-For further reference, the official link concerning [U.S. Treasury](../u/u.s._treasury.md) savings bonds and bonds history can be found here: [https://www.treasurydirect.gov/indiv/research/history/hislibertybonds.htm](https://www.treasurydirect.gov/indiv/research/history/hislibertybonds.htm)
-
+For further reference, the official link concerning [U.S. Treasury](../u/u.s._treasury.md) savings bonds and bonds history can be found here
 ### In Summary
 
 Liberty Bonds were a groundbreaking initiative that facilitated the U.S. war effort in World War I. Through extensive [marketing](../m/marketing.md) and patriotic appeal, the government successfully raised billions of dollars from the American public. The program not only helped [finance](../f/finance.md) the war but also introduced many citizens to the world of financial securities, leaving a lasting impact on the nation's [financial markets](../f/financial_market.md) and collective consciousness.

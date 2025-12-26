@@ -45,7 +45,7 @@ Where:
 
 ### Step 1: Define Investment Universe
 
-The first step in [weighted](../w/weighted.md) [portfolio optimization](../p/portfolio_optimization.md) is defining the universe of potential investments. This could include equities, bonds, commodities, and other types of assets. 
+The first step in [weighted](../w/weighted.md) [portfolio optimization](../p/portfolio_optimization.md) is defining the universe of potential investments. This could include equities, bonds, commodities, and other types of assets.
 
 ### Step 2: Gather Historical Data
 
@@ -104,21 +104,21 @@ With the advent of AI, [machine learning](../m/machine_learning.md) approaches s
 ### Asset Management Companies
 Many [asset management](../a/asset_management.md) companies use [portfolio optimization](../p/portfolio_optimization.md) to [offer](../o/offer.md) bespoke investment products tailored to clients' [risk](../r/risk.md) preferences and financial goals. Examples include:
 
-- [BlackRock](https://www.blackrock.com/)
-- [Vanguard](https://investor.vanguard.com/)
-- [Fidelity Investments](https://www.fidelity.com/)
+- BlackRock
+- Vanguard
+- Fidelity Investments
 
 ### Robo-Advisors
 Robo-advisors are digital platforms that provide automated, algorithm-driven [financial planning](../f/financial_planning.md) services with minimal human supervision. They use [portfolio optimization](../p/portfolio_optimization.md) algorithms to construct and manage investment portfolios. Examples include:
 
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+- Betterment
+- Wealthfront
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds often [leverage](../l/leverage.md) complex [optimization](../o/optimization.md) models to generate [alpha](../a/alpha.md) while managing risks. 
+[Hedge](../h/hedge.md) funds often [leverage](../l/leverage.md) complex [optimization](../o/optimization.md) models to generate [alpha](../a/alpha.md) while managing risks.
 
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Bridgewater Associates
+- Two Sigma
 
 ## Challenges and Considerations
 

@@ -56,16 +56,16 @@ Global funds provide regular reports to investors, detailing the [fund](../f/fun
 ## Notable Companies Managing Global Funds
 
 ### Vanguard
-Vanguard is one of the largest investment companies managing global funds. Their funds [offer](../o/offer.md) exposure to various international markets. For more information, visit [Vanguard Global Funds](https://www.vanguard.com).
+Vanguard is one of the largest investment companies managing global funds. Their funds [offer](../o/offer.md) exposure to various international markets. For more information, visit Vanguard Global Funds.
 
 ### BlackRock
-BlackRock offers a variety of global funds, including [iShares](../i/ishares.md) ETFs that invest globally. Their funds cater to different [risk](../r/risk.md) tolerances and investment goals. More details can be found at [BlackRock Global Funds](https://www.blackrock.com).
+BlackRock offers a variety of global funds, including [iShares](../i/ishares.md) ETFs that invest globally. Their funds cater to different [risk](../r/risk.md) tolerances and investment goals. More details can be found at BlackRock Global Funds.
 
 ### Fidelity Investments
-Fidelity provides a [range](../r/range.md) of global mutual funds and ETFs, aiming to capture opportunities across the globe. Visit [Fidelity Global Funds](https://www.fidelity.com) for more information.
+Fidelity provides a [range](../r/range.md) of global mutual funds and ETFs, aiming to capture opportunities across the globe. Visit Fidelity Global Funds for more information.
 
 ### T. Rowe Price
-T. Rowe Price offers global funds that invest in equities, bonds, and other securities from different countries, focusing on long-term growth. For more information, visit [T. Rowe Price Global Funds](https://www.troweprice.com).
+T. Rowe Price offers global funds that invest in equities, bonds, and other securities from different countries, focusing on long-term growth. For more information, visit T. Rowe Price Global Funds.
 
 ## Conclusion
 

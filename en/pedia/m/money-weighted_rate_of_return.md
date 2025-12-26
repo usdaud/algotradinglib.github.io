@@ -21,16 +21,16 @@ The [Money](../m/money.md)-[Weighted](../w/weighted.md) [Rate of Return](../r/ra
 To calculate the MWRR, the following steps are generally undertaken:
 
 1. **List All Cash Flows:** Identify and list all cash flows associated with the investment over the given period. Cash inflows (deposits) are considered positive, while cash outflows (withdrawals) are considered negative.
-   
+
 2. **Determine the Time Periods:** Specify the timing of each [cash flow](../c/cash_flow.md). This involves noting the exact dates of each contribution and [withdrawal](../w/withdrawal.md).
 
 3. **Formula Application:** Apply the IRR formula, which is based on solving for the [discount rate](../d/discount_rate.md) (r) in the following equation:
-   
-   \[
-   \sum_{t=0}^{N} \frac{C_t}{(1 + r)^{t}} = 0
-   \]
-   
-   Here, \(C_t\) represents the [cash flow](../c/cash_flow.md) at time t, r is the IRR (MWRR), and N is the total number of periods.
+
+ \[
+ \sum_{t=0}^{N} \frac{C_t}{(1 + r)^{t}} = 0
+ \]
+
+ Here, \(C_t\) represents the [cash flow](../c/cash_flow.md) at time t, r is the IRR (MWRR), and N is the total number of periods.
 
 Given that solving the IRR may involve iterative [numerical methods](../n/numerical_methods_in_trading.md), financial calculators, spreadsheet software like Microsoft Excel, or specialized financial software are often used.
 
@@ -101,8 +101,8 @@ Software like Microsoft Excel offers the IRR() function, which simplifies the co
 
 There are various financial software packages designed for investment performance measurement, including calculating MWRR. Examples include [Portfolio Performance](../p/portfolio_performance.md), Personal [Capital](../c/capital.md), and specialized modules in [financial planning](../f/financial_planning.md) software suites.
 
-- [Personal Capital](https://www.personalcapital.com/)
-- [Portfolio Performance](https://www.portfolio-performance.info/)
+- Personal Capital
+- Portfolio Performance
 
 ## Conclusion
 

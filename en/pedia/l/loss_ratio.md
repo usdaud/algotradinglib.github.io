@@ -1,6 +1,6 @@
 # Loss Ratio
 
-Loss ratio is a key financial metric used in the [insurance](../i/insurance.md) [industry](../i/industry.md) to assess the profitability and performance of an [insurance](../i/insurance.md) company's [underwriting](../u/underwriting.md) activities. Specifically, it measures the proportion of premiums collected by an insurer that is paid out in claims. This critical ratio helps insurers understand the effectiveness of their [risk](../r/risk.md) assessment and pricing strategies. 
+Loss ratio is a key financial metric used in the [insurance](../i/insurance.md) [industry](../i/industry.md) to assess the profitability and performance of an [insurance](../i/insurance.md) company's [underwriting](../u/underwriting.md) activities. Specifically, it measures the proportion of premiums collected by an insurer that is paid out in claims. This critical ratio helps insurers understand the effectiveness of their [risk](../r/risk.md) assessment and pricing strategies.
 
 ### Definition
 
@@ -46,7 +46,7 @@ In the property and casualty sector, the loss ratio is often analyzed alongside 
 
 ### Companies Monitoring Loss Ratio
 
-Many [insurance](../i/insurance.md) companies and [industry](../i/industry.md) analysts monitor loss ratios closely to maintain [financial health](../f/financial_health.md) and regulatory compliance. For instance, companies like [Allianz](https://www.allianz.com), [AIG](https://www.aig.com), and [State Farm](https://www.statefarm.com) routinely report and analyze their loss ratios.
+Many [insurance](../i/insurance.md) companies and [industry](../i/industry.md) analysts monitor loss ratios closely to maintain [financial health](../f/financial_health.md) and regulatory compliance. For instance, companies like Allianz, AIG, and State Farm routinely report and analyze their loss ratios.
 
 ### Management Strategies
 
@@ -56,7 +56,7 @@ Many [insurance](../i/insurance.md) companies and [industry](../i/industry.md) a
 2. **Pricing Adjustments**: Regularly reviewing and adjusting [premium](../p/premium.md) rates to ensure they reflect the [underlying](../u/underlying.md) [risk](../r/risk.md) properly.
 3. **Claims Management**: Improving claims handling processes to minimize losses, prevent [fraud](../f/fraud.md), and reduce claim processing times.
 4. **[Reinsurance](../r/reinsurance.md)**: Using [reinsurance](../r/reinsurance.md) strategically to mitigate large risks and stabilize loss ratios.
-5. **[Data Analytics](../d/data_analytics.md)**: Leveraging advanced analytics and [big data](../b/big_data_in_trading.md) to predict future losses more accurately and refine [risk models](../r/risk_models_in_trading.md). 
+5. **[Data Analytics](../d/data_analytics.md)**: Leveraging advanced analytics and [big data](../b/big_data_in_trading.md) to predict future losses more accurately and refine [risk models](../r/risk_models_in_trading.md).
 
 ### Conclusion
 

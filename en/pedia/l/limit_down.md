@@ -71,7 +71,7 @@ While limit down mechanisms provide significant benefits, they are not without c
 
 ## Future Developments
 
-The evolution of limit down mechanisms continues as markets and technologies advance. The increasing prevalence of high-frequency and [algorithmic trading](../a/accountability.md) necessitates more sophisticated and adaptive limit down rules. Regulatory bodies are continually assessing the effectiveness of existing systems and exploring innovations to maintain [market](../m/market.md) stability and [investor](../i/investor.md) confidence.
+The evolution of limit down mechanisms continues as markets and technologies advance. The increasing prevalence of high-frequency and [algorithmic trading](../a/algorithmic_trading.md) necessitates more sophisticated and adaptive limit down rules. Regulatory bodies are continually assessing the effectiveness of existing systems and exploring innovations to maintain [market](../m/market.md) stability and [investor](../i/investor.md) confidence.
 
 ### Fintech Innovations
 

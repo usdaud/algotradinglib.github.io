@@ -1,6 +1,6 @@
 # Murabaha
 
-Murabaha is an Islamic [financing](../f/financing.md) structure in which the seller provides the cost and [profit margin](../p/profit_margin.md) of a [commodity](../c/commodity.md) or product to the buyer. It represents an Islamic way of banking in compliance with Islamic laws (Sharia). It’s often compared to lending at an agreed-upon [profit margin](../p/profit_margin.md), making it similar in practice to cost-plus [financing](../f/financing.md). 
+Murabaha is an Islamic [financing](../f/financing.md) structure in which the seller provides the cost and [profit margin](../p/profit_margin.md) of a [commodity](../c/commodity.md) or product to the buyer. It represents an Islamic way of banking in compliance with Islamic laws (Sharia). It’s often compared to lending at an agreed-upon [profit margin](../p/profit_margin.md), making it similar in practice to cost-plus [financing](../f/financing.md).
 
 Primarily used in [Islamic banking](../i/islamic_banking.md) and by Islamic [finance](../f/finance.md) institutions, Murabaha is a non-[interest](../i/interest.md)-based [financing](../f/financing.md). Instead of charging [interest](../i/interest.md) on the [loan](../l/loan.md) amount (which is prohibited by Islamic law), lenders earn profits on the cost of goods sold, making Murabaha one of the most popular [financing](../f/financing.md) methods in the [Islamic banking](../i/islamic_banking.md) sector.
 
@@ -15,7 +15,7 @@ In a Murabaha agreement, the following steps are usually taken:
 
 ### Example
 
-Consider a [business](../b/business.md) wishing to procure machinery valued at $100,000. Under Murabaha, the [bank](../b/bank.md) [will](../w/will.md) purchase the machinery and sell it to the [business](../b/business.md) at a mark-up price; let's say $110,000, payable in installments over five years. This markup represents the [bank](../b/bank.md)’s [profit](../p/profit.md) for the [financing](../f/financing.md). 
+Consider a [business](../b/business.md) wishing to procure machinery valued at $100,000. Under Murabaha, the [bank](../b/bank.md) [will](../w/will.md) purchase the machinery and sell it to the [business](../b/business.md) at a mark-up price; let's say $110,000, payable in installments over five years. This markup represents the [bank](../b/bank.md)’s [profit](../p/profit.md) for the [financing](../f/financing.md).
 
 ## Advantages of Murabaha
 
@@ -72,14 +72,14 @@ The [Accounting](../a/accounting.md) and Auditing Organization for Islamic Finan
 While Murabaha functions traditionally in the banking sector, it has found applications in the FinTech space:
 
 1. **[Blockchain](../b/blockchain_in_trading.md):** Leveraging [blockchain](../b/blockchain_in_trading.md) technology for Murabaha transactions ensures [transparency](../t/transparency.md), and immutable records, facilitating smoother cross-border transactions.
-  
-2. **[Algorithmic Trading](../a/accountability.md):** Algorithms designed for Sharia-compliant trading can incorporate Murabaha structures for automated, compliant trades.
+
+2. **[Algorithmic Trading](../a/algorithmic_trading.md):** Algorithms designed for Sharia-compliant trading can incorporate Murabaha structures for automated, compliant trades.
 
 Several companies are leading in [offering](../o/offering.md) Murabaha-based products using technology:
 
-- **Emirates Islamic:** Offers Murabaha facilities for personal, auto, and [home](../h/home.md) [financing](../f/financing.md). More information can be found on their [website](https://www.emiratesislamic.ae/eng/).
-  
-- **Qatar Islamic [Bank](../b/bank.md):** Provides comprehensive Murabaha [financing](../f/financing.md) solutions, the details of which are available on their [website](http://www.qib.com.qa/).
+- **Emirates Islamic:** Offers Murabaha facilities for personal, auto, and [home](../h/home.md) [financing](../f/financing.md).
+
+- **Qatar Islamic [Bank](../b/bank.md):** Provides comprehensive Murabaha [financing](../f/financing.md) solutions,
 
 ## Conclusion
 

@@ -14,7 +14,7 @@ Temporal dependencies, also known as temporal correlations or autocorrelations, 
 ## Types of Temporal Dependencies
 
 ### Autoregressive (AR) Models
-[Autoregressive models](../a/autoregressive.md) are a type of stochastic model used to describe certain time-varying processes. The basic idea is to use previous time points in the data to predict future values. 
+[Autoregressive models](../a/autoregressive.md) are a type of stochastic model used to describe certain time-varying processes. The basic idea is to use previous time points in the data to predict future values.
 
 ### Moving Average (MA) Models
 Moving average models use past forecast errors in a regression-like model. These models are useful for capturing the [noise](../n/noise.md) and irregular fluctuations in the [time series](../t/time_series.md) data.
@@ -28,7 +28,7 @@ LSTM networks are a type of recurrent neural network (RNN) that are designed to 
 ## Techniques to Identify Temporal Dependencies
 
 ### Auto-correlation Function (ACF)
-The auto-[correlation](../c/correlation.md) function measures the [correlation](../c/correlation.md) between the [time series](../t/time_series.md) data and a lagged version of itself. 
+The auto-[correlation](../c/correlation.md) function measures the [correlation](../c/correlation.md) between the [time series](../t/time_series.md) data and a lagged version of itself.
 
 ### Partial Autocorrelation Function (PACF)
 The partial [autocorrelation](../a/autocorrelation.md) function measures the degree of association between a [time series](../t/time_series.md) and its lagged values, controlling for the values of the [time series](../t/time_series.md) at all shorter lags.
@@ -97,6 +97,6 @@ Temporal dependencies are a cornerstone of [predictive modeling](../p/predictive
 
 ## Additional Resources
 
-1. [QuantConnect](https://www.quantconnect.com/)
-2. [Kaggle: Financial Data Analysis](https://www.kaggle.com/datasets)
-3. [Algorithmic Trading on GitHub](https://github.com/topics/algorithmic-trading)
+1. QuantConnect
+2. Kaggle: Financial Data Analysis
+3. Algorithmic Trading on GitHub

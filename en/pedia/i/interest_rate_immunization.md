@@ -19,14 +19,14 @@
 There are several methodologies to achieve [interest rate](../i/interest_rate.md) immunization, including classical immunization, [cash flow](../c/cash_flow.md) matching, and dedicated portfolios:
 
 1. **Classical Immunization:**
-   - **[Duration](../d/duration.md) Matching:** Aligns the portfolio's [duration](../d/duration.md) with the [investment horizon](../i/investment_horizon.md). This approach aims to [offset](../o/offset.md) the changes in the portfolio's [value](../v/value.md) due to [interest rate](../i/interest_rate.md) movements.
-   - **[Rebalancing](../r/rebalancing.md):** Periodically adjusts the portfolio to maintain the [duration](../d/duration.md) alignment as bonds mature or as [interest](../i/interest.md) rates change.
-   
+ - **[Duration](../d/duration.md) Matching:** Aligns the portfolio's [duration](../d/duration.md) with the [investment horizon](../i/investment_horizon.md). This approach aims to [offset](../o/offset.md) the changes in the portfolio's [value](../v/value.md) due to [interest rate](../i/interest_rate.md) movements.
+ - **[Rebalancing](../r/rebalancing.md):** Periodically adjusts the portfolio to maintain the [duration](../d/duration.md) alignment as bonds mature or as [interest](../i/interest.md) rates change.
+
 2. **[Cash Flow](../c/cash_flow.md) Matching:**
-   - This method involves selecting investments whose cash flows coincide with the timing and amount of the [investor](../i/investor.md)'s liabilities. It differs from [duration](../d/duration.md) matching by focusing on the actual cash flows rather than statistical measures.
-   
+ - This method involves selecting investments whose cash flows coincide with the timing and amount of the [investor](../i/investor.md)'s liabilities. It differs from [duration](../d/duration.md) matching by focusing on the actual cash flows rather than statistical measures.
+
 3. **Dedicated Portfolios:**
-   - These portfolios are built to meet specific future liabilities, akin to [cash flow](../c/cash_flow.md) matching but often incorporating elements of [duration](../d/duration.md) analysis and [rebalancing](../r/rebalancing.md) to fine-tune performance.
+ - These portfolios are built to meet specific future liabilities, akin to [cash flow](../c/cash_flow.md) matching but often incorporating elements of [duration](../d/duration.md) analysis and [rebalancing](../r/rebalancing.md) to fine-tune performance.
 
 ### Applications of Interest Rate Immunization
 
@@ -57,4 +57,4 @@ Successfully implementing [interest rate](../i/interest_rate.md) immunization re
 
 [Interest rate](../i/interest_rate.md) immunization is a powerful tool for managing [interest rate risk](../i/interest_rate_risk.md) in fixed-[income](../i/income.md) portfolios. By understanding and applying the principles of [duration](../d/duration.md) and [convexity](../c/convexity.md), and through methodologies such as [duration](../d/duration.md) matching and [cash flow](../c/cash_flow.md) matching, investors can protect their portfolios against adverse [interest rate](../i/interest_rate.md) movements. However, successful implementation requires ongoing monitoring, periodic [rebalancing](../r/rebalancing.md), and a comprehensive understanding of the [underlying](../u/underlying.md) risks and [financial markets](../f/financial_market.md).
 
-[Interest rate](../i/interest_rate.md) immunization continues to be a vital strategy for financial institutions, pension funds, [insurance](../i/insurance.md) companies, and investment firms aiming to achieve stable and predictable returns amidst the uncertainties of [interest rate](../i/interest_rate.md) fluctuations. For more information about specific applications and details, refer to financial institutions [offering](../o/offering.md) expert advice and structured products tailored to [interest rate](../i/interest_rate.md) immunization, such as [BlackRock](https://www.blackrock.com) and [PIMCO](https://www.pimco.com). 
+[Interest rate](../i/interest_rate.md) immunization continues to be a vital strategy for financial institutions, pension funds, [insurance](../i/insurance.md) companies, and investment firms aiming to achieve stable and predictable returns amidst the uncertainties of [interest rate](../i/interest_rate.md) fluctuations. For more information about specific applications and details, refer to financial institutions [offering](../o/offering.md) expert advice and structured products tailored to [interest rate](../i/interest_rate.md) immunization, such as BlackRock and PIMCO.

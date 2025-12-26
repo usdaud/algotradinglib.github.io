@@ -35,7 +35,7 @@ In practice, traders often calculate the total [gamma exposure](../g/gamma_expos
 ### Gamma Exposure in Practice
 To illustrate how [gamma exposure](../g/gamma_exposure.md) works in practice, let’s consider a scenario with a portfolio containing different [options](../o/options.md) positions:
 
-- **Long Calls**: A [trader](../t/trader.md) holds [multiple](../m/multiple.md) long call [options](../o/options.md), which typically have positive [gamma](../g/gamma.md). 
+- **Long Calls**: A [trader](../t/trader.md) holds [multiple](../m/multiple.md) long call [options](../o/options.md), which typically have positive [gamma](../g/gamma.md).
 - **Short Puts**: Additionally, the [trader](../t/trader.md) holds short [put options](../p/put_options.md), which also have positive [gamma](../g/gamma.md) in this scenario.
 
 To assess the portfolio’s [gamma exposure](../g/gamma_exposure.md), the [trader](../t/trader.md) would sum up the individual [gamma](../g/gamma.md) values:
@@ -53,8 +53,8 @@ If the total [gamma exposure](../g/gamma_exposure.md) is significant, the [trade
 ### Tools and Platforms for Gamma Exposure Analysis
 Several tools and platforms provide advanced [gamma exposure](../g/gamma_exposure.md) analysis features to assist traders and investors in making informed decisions. Some prominent examples include:
 
-- **SqueezeMetrics**: SqueezeMetrics [https://www.squeezemetrics.com/] offers tools specifically designed for [gamma exposure](../g/gamma_exposure.md) analysis, providing insights into [dealer](../d/dealer.md) positioning and [market sentiment](../m/market_sentiment.md).
-- **Orats**: Orats [https://www.orats.com/] provides robust options analytics, including detailed [gamma exposure](../g/gamma_exposure.md) reports and other [options](../o/options.md)-related data.
+- **SqueezeMetrics**: SqueezeMetrics [ offers tools specifically designed for [gamma exposure](../g/gamma_exposure.md) analysis, providing insights into [dealer](../d/dealer.md) positioning and [market sentiment](../m/market_sentiment.md).
+- **Orats**: Orats [ provides robust options analytics, including detailed [gamma exposure](../g/gamma_exposure.md) reports and other [options](../o/options.md)-related data.
 
 ### Real-World Applications of Gamma Exposure
 [Gamma exposure](../g/gamma_exposure.md) analysis is not just a theoretical [exercise](../e/exercise.md); it has real-world applications in various [trading strategies](../t/trading_strategies.md):
@@ -65,4 +65,3 @@ Several tools and platforms provide advanced [gamma exposure](../g/gamma_exposur
 
 ### Conclusion
 [Gamma exposure](../g/gamma_exposure.md) analysis is an essential tool for [options](../o/options.md) traders and investors seeking to manage [risk](../r/risk.md), understand [market dynamics](../m/market_dynamics.md), and optimize their [trading strategies](../t/trading_strategies.md). By analyzing the [gamma exposure](../g/gamma_exposure.md) of their portfolios, traders can [gain](../g/gain.md) valuable insights into potential price movements and make more informed decisions to enhance their profitability and mitigate [risk](../r/risk.md). Advanced tools and platforms are available to assist with this analysis, making it accessible even to those with limited experience in [options](../o/options.md) trading. Whether for [market](../m/market.md) making, hedging, or [volatility](../v/volatility.md) trading, [gamma exposure](../g/gamma_exposure.md) remains a cornerstone of sophisticated [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md).
-

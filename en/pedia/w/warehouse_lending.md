@@ -24,21 +24,21 @@ Warehouse lending involves short-term, revolving lines of [credit](../c/credit.m
 
 ### Mortgage Bankers
 
-[Mortgage](../m/mortgage.md) bankers originate [mortgage](../m/mortgage.md) loans and often rely on warehouse lending to [fund](../f/fund.md) their operations. They underwrite, [fund](../f/fund.md), and service these loans until they are sold on the [secondary market](../s/secondary_market.md). 
+[Mortgage](../m/mortgage.md) bankers originate [mortgage](../m/mortgage.md) loans and often rely on warehouse lending to [fund](../f/fund.md) their operations. They underwrite, [fund](../f/fund.md), and service these loans until they are sold on the [secondary market](../s/secondary_market.md).
 
 ### Warehouse Lenders
 
 Warehouse lenders are typically large banks or specialized financial institutions that provide the lines of [credit](../c/credit.md) to [mortgage](../m/mortgage.md) bankers. Examples include:
 
-- **Wells Fargo**: Offers various warehouse lending services to [mortgage](../m/mortgage.md) bankers. [Wells Fargo Warehouse Lending](https://www.wellsfargo.com/com/financing/warehouse-lending/)
-- **JPMorgan Chase**: Provides [financing](../f/financing.md) solutions, including warehouse lines, to [mortgage](../m/mortgage.md) lenders. [JPMorgan Chase Warehouse Lending](https://www.jpmorgan.com/solutions/cib/investment-banking/warehouse-finance)
+- **Wells Fargo**: Offers various warehouse lending services to [mortgage](../m/mortgage.md) bankers. Wells Fargo Warehouse Lending
+- **JPMorgan Chase**: Provides [financing](../f/financing.md) solutions, including warehouse lines, to [mortgage](../m/mortgage.md) lenders. JPMorgan Chase Warehouse Lending
 
 ### Secondary Market Purchasers
 
 These are entities or agencies that purchase pooled [mortgage](../m/mortgage.md) loans. By purchasing these loans, they provide [liquidity](../l/liquidity.md) to the original [mortgage](../m/mortgage.md) lenders. Key players include:
 
-- **Fannie Mae**: A [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that buys [mortgage](../m/mortgage.md) loans, thus providing [liquidity](../l/liquidity.md) to the [mortgage](../m/mortgage.md) [market](../m/market.md). [Fannie Mae](https://www.fanniemae.com)
-- **[Freddie Mac](../f/freddie_mac.md)**: Another [government-sponsored enterprise](../g/government-sponsored_enterprise.md) performing similar functions as Fannie Mae. [Freddie Mac](https://www.freddiemac.com)
+- **Fannie Mae**: A [government-sponsored enterprise](../g/government-sponsored_enterprise.md) that buys [mortgage](../m/mortgage.md) loans, thus providing [liquidity](../l/liquidity.md) to the [mortgage](../m/mortgage.md) [market](../m/market.md). Fannie Mae
+- **[Freddie Mac](../f/freddie_mac.md)**: Another [government-sponsored enterprise](../g/government-sponsored_enterprise.md) performing similar functions as Fannie Mae. Freddie Mac
 
 ## Risks Involved
 

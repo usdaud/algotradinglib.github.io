@@ -78,7 +78,7 @@ Companies and investors utilize [One-Touch Options](../o/one-touch_options.md) t
 
 ## Example of Use in FinTech
 
-One company that has integrated [One-Touch Options](../o/one-touch_options.md) into its [trading platform](../t/trading_platform.md) is [IG Group](https://www.ig.com). As a prominent player in the online trading space, IG offers a [range](../r/range.md) of binary [options](../o/options.md), including [One-Touch Options](../o/one-touch_options.md), allowing traders to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities with sophisticated [risk management](../r/risk_management.md) tools.
+One company that has integrated [One-Touch Options](../o/one-touch_options.md) into its [trading platform](../t/trading_platform.md) is IG Group. As a prominent player in the online trading space, IG offers a [range](../r/range.md) of binary [options](../o/options.md), including [One-Touch Options](../o/one-touch_options.md), allowing traders to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities with sophisticated [risk management](../r/risk_management.md) tools.
 
 ## Conclusion
 

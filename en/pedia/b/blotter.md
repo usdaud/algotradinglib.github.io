@@ -52,33 +52,33 @@ A forex blotter tracks trades in the [foreign exchange](../f/foreign_exchange.md
 
 Modern trading platforms come equipped with integrated blotter functionalities. These platforms facilitate the real-time recording and analysis of trades. Examples include:
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: [Bloomberg](../b/bloomberg.md)’s terminal offers extensive blotter capabilities, capturing real-time [trade](../t/trade.md) data and providing powerful analytical tools. More about their services can be found on their [official site](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-- **Eikon by Refinitiv**: Eikon provides comprehensive blotter features for traders and analysts, integrating real-time data, news, and analytical tools. Details are available on their [website](https://www.refinitiv.com/en/products/eikon-trading-software).
-- **[CQG](../c/cqg.md)**: [CQG](../c/cqg.md) offers trading platforms with advanced [order](../o/order.md) [execution](../e/execution.md) and blotter functionalities. More information can be accessed [here](https://www.cqg.com/).
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: [Bloomberg](../b/bloomberg.md)’s terminal offers extensive blotter capabilities, capturing real-time [trade](../t/trade.md) data and providing powerful analytical tools.
+- **Eikon by Refinitiv**: Eikon provides comprehensive blotter features for traders and analysts, integrating real-time data, news, and analytical tools.
+- **[CQG](../c/cqg.md)**: [CQG](../c/cqg.md) offers trading platforms with advanced [order](../o/order.md) [execution](../e/execution.md) and blotter functionalities.
 
 ### Order Management Systems (OMS)
 
 [Order Management Systems](../o/order_management_systems.md) (OMS) are essential technologies in the trading ecosystem, providing [robust](../r/robust.md) blotter functionalities. OMS systems not only facilitate the [execution](../e/execution.md) of orders but also manage the entire [order](../o/order.md) lifecycle, including tracking and recording trades in the blotter. Notable OMS providers include:
 
-- **Charles River Development**: Their OMS integrates blotter capabilities, [offering](../o/offering.md) a holistic view of trading activities. Find more information on their [site](https://www.crd.com/).
-- **Fidessa**: Fidessa’s OMS provides comprehensive blotter and [execution](../e/execution.md) management features for different [asset](../a/asset.md) classes. Visit their [website](https://www.fidessa.com/) for details.
-- **TradingScreen**: Their multi-[asset](../a/asset.md) OMS includes extensive blotter functionalities, supporting the needs of institutional traders. More information is available on their [website](https://www.tradingscreen.com/).
+- **Charles River Development**: Their OMS integrates blotter capabilities, [offering](../o/offering.md) a holistic view of trading activities.
+- **Fidessa**: Fidessa’s OMS provides comprehensive blotter and [execution](../e/execution.md) management features for different [asset](../a/asset.md) classes.
+- **TradingScreen**: Their multi-[asset](../a/asset.md) OMS includes extensive blotter functionalities, supporting the needs of institutional traders.
 
 ### Execution Management Systems (EMS)
 
 EMSs focus on the [execution](../e/execution.md) of trades, providing real-time blotter updates and advanced [execution](../e/execution.md) analytics. Examples of EMS providers include:
 
-- **FlexTrade**: FlexTrade’s EMS offers customizable blotter features, suited for various [trading strategies](../t/trading_strategies.md) and [asset](../a/asset.md) classes. More details can be found on their [site](https://flextrade.com/).
-- **Portware**: Now part of [FactSet](../f/factset.md), Portware provides EMS with powerful blotter capabilities for real-time [trade](../t/trade.md) monitoring. Visit their [website](https://www.factset.com/products-solutions/deep-sector-coverage/global-trading/portware-enterprise) for more information.
-- **Liquidnet**: Liquidnet’s EMS offers blotter functionalities that serve institutional traders with [large block trades](../l/large_block_trades.md). Details are on their [site](https://www.liquidnet.com/).
+- **FlexTrade**: FlexTrade’s EMS offers customizable blotter features, suited for various [trading strategies](../t/trading_strategies.md) and [asset](../a/asset.md) classes.
+- **Portware**: Now part of [FactSet](../f/factset.md), Portware provides EMS with powerful blotter capabilities for real-time [trade](../t/trade.md) monitoring.
+- **Liquidnet**: Liquidnet’s EMS offers blotter functionalities that serve institutional traders with [large block trades](../l/large_block_trades.md).
 
 ### Real-time Data Feeds
 
 Accurate real-time data is crucial for the effectiveness of a trading blotter. Data providers [offer](../o/offer.md) feeds that seamlessly integrate with trading platforms and blotters, ensuring up-to-date information. Leading data providers include:
 
-- **Thomson [Reuters](../r/reuters.md)**: Their real-time data services are widely used in the [industry](../i/industry.md). More can be found on their [official site](https://www.refinitiv.com/en).
-- **[Bloomberg](../b/bloomberg.md) L.P.**: [Bloomberg](../b/bloomberg.md) offers extensive real-time data services, details of which are available [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
-- **ICE Data Services**: They provide a [range](../r/range.md) of real-time data feeds that integrate with [trading systems](../t/trading_systems.md) and blotters. More information is available on their [site](https://www.theice.com/market-data).
+- **Thomson [Reuters](../r/reuters.md)**: Their real-time data services are widely used in the [industry](../i/industry.md).
+- **[Bloomberg](../b/bloomberg.md) L.P.**: [Bloomberg](../b/bloomberg.md) offers extensive real-time data services.
+- **ICE Data Services**: They provide a [range](../r/range.md) of real-time data feeds that integrate with [trading systems](../t/trading_systems.md) and blotters.
 
 ## Challenges and Future Directions
 

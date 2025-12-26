@@ -18,13 +18,13 @@ The GSTT is applied to transfers made to "skip persons," which generally include
 
 ### Exclusions and Exemptions
 
-- **Annual Exclusion**: The annual exclusion amount per [beneficiary](../b/beneficiary.md) is exempt from GSTT. As of 2023, this amount is $17,000.
-- **Lifetime [Exemption](../e/exemption.md)**: Each individual has a lifetime GST [exemption](../e/exemption.md). For 2023, this [exemption](../e/exemption.md) is set at $12.92 million, meaning the individual can transfer up to this amount to skip persons without triggering the GSTT.
+- **Annual Exclusion**: The annual exclusion amount per [beneficiary](../b/beneficiary.md) is exempt from GSTT. As of 2025, this amount is $19,000.
+- **Lifetime [Exemption](../e/exemption.md)**: Each individual has a lifetime GST [exemption](../e/exemption.md). For 2025, this [exemption](../e/exemption.md) is set at $13.99 million, meaning the individual can transfer up to this amount to skip persons without triggering the GSTT.
 - **Educational and Medical Exclusions**: Payments for tuition or medical expenses made directly to the educational institution or medical provider are not subject to GSTT.
 
 ### Tax Rate
 
-The GSTT is imposed at the highest federal [estate tax](../e/estate_tax.md) rate, which, as of 2023, is 40%. This rate applies to the fair [market value](../m/market_value.md) of the transferred property at the time of the transfer.
+The GSTT is imposed at the highest federal [estate tax](../e/estate_tax.md) rate, which, as of 2025, is 40%. This rate applies to the fair [market value](../m/market_value.md) of the transferred property at the time of the transfer.
 
 ## Calculating GSTT
 

@@ -76,13 +76,13 @@ Regularly reviewing the performance and viability of ETFs can help [fund](../f/f
 
 Global X is an ETF [issuer](../i/issuer.md) known for its specialized and thematic ETFs. Despite their diverse product offerings, some of their funds have transformed into Zombie ETFs due to low [investor](../i/investor.md) [interest](../i/interest.md). The [firm](../f/firm.md) has occasionally closed such funds to streamline its offerings.
 
-For more information, visit [Global X Funds](https://www.globalxetfs.com/).
+For more information, visit Global X Funds.
 
 ### Example 2: WisdomTree
 
 WisdomTree is another example of an ETF manager that, over time, has faced challenges with certain funds not attracting sufficient assets. This has led to the closure and [consolidation](../c/consolidation.md) of various ETFs within their portfolio.
 
-For more details, visit [WisdomTree](https://www.wisdomtree.com/).
+For more details, visit WisdomTree.
 
 ## Future Outlook for Zombie ETFs
 
@@ -92,7 +92,7 @@ The ETF [industry](../i/industry.md) continues to evolve, with innovation and co
 
 ### Role of Technology
 
-Advancements in technology, particularly in areas such as [algorithmic trading](../a/accountability.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), have the potential to influence the ETF [market](../m/market.md). These technologies can aid in the creation of more sophisticated and targeted investment strategies, potentially reducing the likelihood of ETFs becoming 'Zombie' by better aligning products with [market](../m/market.md) needs.
+Advancements in technology, particularly in areas such as [algorithmic trading](../a/algorithmic_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), have the potential to influence the ETF [market](../m/market.md). These technologies can aid in the creation of more sophisticated and targeted investment strategies, potentially reducing the likelihood of ETFs becoming 'Zombie' by better aligning products with [market](../m/market.md) needs.
 
 ### Regulatory Changes
 

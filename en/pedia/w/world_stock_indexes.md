@@ -2,7 +2,7 @@
 
 #### 1. Introduction to Stock Indexes
 
-A stock [index](../i/index_instrument.md), or stock [market index](../m/market_index.md), is a measurement of the [value](../v/value.md) of a section of the [stock market](../s/stock_market.md). It is computed from the prices of selected [stocks](../s/stock.md). These indices serve as indicators of the overall performance and health of the [stock market](../s/stock_market.md) and are used by analysts and investors to understand the [market](../m/market.md) trends, compare individual [stocks](../s/stock.md), and develop investment strategies. 
+A stock [index](../i/index_instrument.md), or stock [market index](../m/market_index.md), is a measurement of the [value](../v/value.md) of a section of the [stock market](../s/stock_market.md). It is computed from the prices of selected [stocks](../s/stock.md). These indices serve as indicators of the overall performance and health of the [stock market](../s/stock_market.md) and are used by analysts and investors to understand the [market](../m/market.md) trends, compare individual [stocks](../s/stock.md), and develop investment strategies.
 
 #### 2. Major World Stock Indexes
 
@@ -20,8 +20,6 @@ The S&P 500 was created in 1957 by the [rating](../r/rating.md) agency Standard 
 - The [index](../i/index_instrument.md) includes companies such as Apple, Microsoft, Amazon, and Tesla.
 - It covers approximately 80% of the entire U.S. stock [market capitalization](../m/market_capitalization.md).
 
-**Website:** [S&P 500](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
-
 ##### 2.2 DJIA (United States)
 
 **Overview:**
@@ -34,7 +32,6 @@ The DJIA was created by Charles Dow in 1896 and is one of the oldest stock index
 - Representative companies include Goldman Sachs, Disney, and Boeing.
 - Unlike the S&P 500, the Dow is a [price-weighted index](../p/price-weighted_index.md).
 
-**Website:** [Dow Jones Industrial Average](https://www.spglobal.com/spdji/en/indices/equity/dow-jones-industrial-average/)
 
 ##### 2.3 NASDAQ Composite (United States)
 
@@ -48,10 +45,8 @@ Established in 1971, the [NASDAQ](../n/nasdaq.md) Composite was the first electr
 - Highly technological, including companies such as Alphabet, Facebook, and Netflix.
 - Often viewed as a representation of the technology and biotechnology sectors in the U.S. [economy](../e/economy.md).
 
-**Website:** [NASDAQ Composite](https://www.nasdaq.com/market-activity/index/comp)
 
 ##### 2.4 FTSE 100 (United Kingdom)
-
 **Overview:**
 The FTSE 100 [Index](../i/index_instrument.md) is a share [index](../i/index_instrument.md) of the 100 companies [listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) with the highest [market capitalization](../m/market_capitalization.md).
 
@@ -62,7 +57,6 @@ The FTSE 100 was established in 1984 and is managed by the FTSE Group, a subsidi
 - Contains companies like HSBC, BP, and GlaxoSmithKline.
 - Seen as a gauge for the performance of the UK [economy](../e/economy.md).
 
-**Website:** [FTSE 100](https://www.ftserussell.com/products/indices/uk)
 
 ##### 2.5 DAX (Germany)
 
@@ -76,7 +70,6 @@ The DAX [index](../i/index_instrument.md) was first introduced in 1988.
 - Includes multinational giants such as Siemens, Bayer, and BMW.
 - Known for its large representation of industrial and [manufacturing](../m/manufacturing.md) sectors.
 
-**Website:** [DAX](https://www.deutsche-boerse.com/dbg-en/)
 
 ##### 2.6 Nikkei 225 (Japan)
 
@@ -90,13 +83,11 @@ Introduced in 1950, it is the oldest stock [index](../i/index_instrument.md) in 
 - Incorporates prominent companies like Toyota, SoftBank, and Sony.
 - Reflects Japan's economic health and [investor](../i/investor.md) sentiment.
 
-**Website:** [Nikkei 225](https://indexes.nikkei.co.jp/en/nkave)
 
 ##### 2.7 CAC 40 (France)
 
 **Overview:**
 The CAC 40 is a [benchmark](../b/benchmark.md) French stock [market index](../m/market_index.md) representing 40 of the largest and most [liquid](../l/liquid.md) [stocks](../s/stock.md) traded on the [Euronext Paris](../e/euronext_paris.md).
-
 **Historical Context:**
 It was established in 1987 and stands for "Cotation Assistée en Continu" (Continuous Assisted [Quotation](../q/quotation.md)).
 
@@ -104,7 +95,6 @@ It was established in 1987 and stands for "Cotation Assistée en Continu" (Conti
 - Includes companies such as L'Oréal, TotalEnergies, and LVMH.
 - An important measure of the performance of the French [economy](../e/economy.md).
 
-**Website:** [CAC 40](https://live.euronext.com/en/product/indices/FR0003500008-XPAR)
 
 ##### 2.8 Hang Seng Index (Hong Kong)
 
@@ -118,7 +108,6 @@ The [index](../i/index_instrument.md) was established in 1969 as a way to gauge 
 - Major companies include HSBC, Tencent [Holdings](../h/holdings.md), and China Mobile.
 - Often seen as a barometer of the Hong Kong [economy](../e/economy.md) and its relationship with the mainland Chinese [market](../m/market.md).
 
-**Website:** [Hang Seng Index](https://www.hsi.com.hk/eng)
 
 ##### 2.9 SSE Composite Index (China)
 
@@ -132,7 +121,6 @@ The [index](../i/index_instrument.md) was created in 1991 to represent the overa
 - Contains influential companies like PetroChina, Industrial and [Commercial Bank](../c/commercial_bank.md) of China, and Sinopec.
 - Reflects the overall status of the Chinese [economy](../e/economy.md).
 
-**Website:** [SSE Composite Index](http://english.sse.com.cn/indices/online/list/)
 
 ##### 2.10 SENSEX (India)
 
@@ -141,12 +129,10 @@ The S&P BSE [SENSEX](../s/sensex.md) [Index](../i/index_instrument.md), also kno
 
 **Historical Context:**
 It was created in 1986 and comprises 30 financially sound and well-established companies.
-
 **Key Components:**
 - Includes companies like Tata Consultancy Services, Reliance Industries, and HDFC [Bank](../b/bank.md).
 - Known for representing key sectors of the Indian [economy](../e/economy.md).
 
-**Website:** [SENSEX](https://www.bseindia.com/SensexView/SensexView.htm)
 
 #### 3. Importance and Applications of Stock Indexes
 

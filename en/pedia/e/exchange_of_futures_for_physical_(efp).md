@@ -63,9 +63,9 @@ Regulatory frameworks for EFP transactions vary by jurisdiction, and participant
 
 Several leading [futures](../f/futures.md) exchanges facilitate EFP transactions, including:
 
-- **CME Group**: The CME Group provides comprehensive regulations and guidelines for EFP transactions across various [asset](../a/asset.md) classes. Further details can be found on their official website: [CME Group EFP](https://www.cmegroup.com/)
+- **CME Group**: The CME Group provides comprehensive regulations and guidelines for EFP transactions across various [asset](../a/asset.md) classes. Further
 
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE markets support an array of [futures](../f/futures.md) and EFP transactions, particularly in energy markets. Information on their EFP processes is available here: [ICE EFP](https://www.theice.com/)
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE markets support an array of [futures](../f/futures.md) and EFP transactions, particularly in energy markets. Information on their EFP processes is available here: ICE EFP
 
 ## Conclusion
 

@@ -9,7 +9,7 @@ The [Economic Recovery](../e/economic_recovery.md) Tax Act of 1981 was signed in
 ### Key Provisions of ERTA
 
 1. **Reduction in Individual [Income Tax](../i/income_tax.md) Rates**: One of the most notable aspects of ERTA was the reduction in marginal tax rates for individuals. The top [marginal tax rate](../m/marginal_tax_rate.md) was cut from 70% to 50%, and across-the-board reductions were implemented for all taxpayers.
-  
+
 2. **[Indexing](../i/indexing.md) of [Tax Brackets](../t/tax_brackets.md)**: To combat the effects of [inflation](../i/inflation.md), ERTA introduced the [indexing](../i/indexing.md) of [tax brackets](../t/tax_brackets.md) to prevent "bracket creep," where [inflation](../i/inflation.md) pushes taxpayers into higher [tax brackets](../t/tax_brackets.md) without an actual increase in [real income](../r/real_income.md).
 
 3. **Accelerated Cost Recovery System (ACRS)**: ERTA introduced ACRS, which allowed businesses to recover the costs of [capital](../c/capital.md) investments more quickly through [accelerated depreciation](../a/accelerated_depreciation.md) deductions. This [provision](../p/provision.md) aimed to boost investment in machinery, equipment, and other [capital](../c/capital.md) expenditures.

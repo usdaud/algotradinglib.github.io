@@ -21,7 +21,7 @@ The Altman [Z-Score](../z/z-score.md) employs five key [financial ratios](../f/f
 The original [Z-Score](../z/z-score.md) formula for public [manufacturing](../m/manufacturing.md) companies is as follows:
 
 ```
-Z = 1.2(WC/TA) + 1.4(RE/TA) + 3.3(EBIT/TA) + 0.6(MVE/TL) + 1.0(S/TA)
+Z = 1.2(WC/TA) + 1.4(RE/TA) + 3.3(EBIT/TA) + 0.6(MVE/TL) + 0.99(S/TA)
 ```
 
 Each ratio is multiplied by a standard coefficient, which was statistically determined by Altman to have predictive power for assessing [financial distress](../f/financial_distress.md). After computing the [weighted](../w/weighted.md) sum of these ratios, the resulting [Z-Score](../z/z-score.md) can be interpreted as follows:
@@ -69,8 +69,8 @@ Despite its limitations, the Altman [Z-Score](../z/z-score.md) remains widely ut
 
 Several financial institutions include the Altman [Z-Score](../z/z-score.md) in their [credit](../c/credit.md) analysis toolkits:
 
-- **Moody’s Analytics**: The global [finance](../f/finance.md) and [risk management](../r/risk_management.md) [firm](../f/firm.md) incorporates the Altman [Z-Score](../z/z-score.md) in its [Credit Risk](../c/credit_risk.md) Calculator. [Moody's Analytics](https://www.moodysanalytics.com)
-- **S&P Global**: Known for its [credit](../c/credit.md) ratings, S&P Global uses the [Z-Score](../z/z-score.md) as one of many metrics in assessing the [creditworthiness](../c/creditworthiness.md) of an [issuer](../i/issuer.md). [S&P Global](https://www.spglobal.com)
+- **Moody’s Analytics**: The global [finance](../f/finance.md) and [risk management](../r/risk_management.md) [firm](../f/firm.md) incorporates the Altman [Z-Score](../z/z-score.md) in its [Credit Risk](../c/credit_risk.md) Calculator. Moody's Analytics
+- **S&P Global**: Known for its [credit](../c/credit.md) ratings, S&P Global uses the [Z-Score](../z/z-score.md) as one of many metrics in assessing the [creditworthiness](../c/creditworthiness.md) of an [issuer](../i/issuer.md). S&P Global
 
 ### Academic and Educational Influence
 

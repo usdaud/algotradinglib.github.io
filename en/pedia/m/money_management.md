@@ -21,7 +21,7 @@ In the context of trading and investments, [money](../m/money.md) management is 
 
 ### Budgeting
 
-Budgeting is the process of creating a plan to spend your [money](../m/money.md). This spending plan is called a [budget](../b/budget.md). Creating this plan allows individuals or organizations to determine in advance whether they [will](../w/will.md) have enough [money](../m/money.md) to do the things they need to do or would like to do. Budgeting is an essential part of sound financial management. 
+Budgeting is the process of creating a plan to spend your [money](../m/money.md). This spending plan is called a [budget](../b/budget.md). Creating this plan allows individuals or organizations to determine in advance whether they [will](../w/will.md) have enough [money](../m/money.md) to do the things they need to do or would like to do. Budgeting is an essential part of sound financial management.
 
 #### Steps in Budgeting:
 
@@ -77,7 +77,7 @@ Financial advisors [offer](../o/offer.md) professional [guidance](../g/guidance.
 
 ### Algorithms and Automated Systems in Algo Trading
 
-In the realm of [algorithmic trading](../a/accountability.md) (algo trading), specialized software and algorithms can execute trades based on predefined criteria. These systems can help manage [risk](../r/risk.md), ensure discipline in trading decisions, and maximize profitability. For instance, platforms like [Alpaca](https://alpaca.markets) provide APIs for automated [trading strategies](../t/trading_strategies.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), specialized software and algorithms can execute trades based on predefined criteria. These systems can help manage [risk](../r/risk.md), ensure discipline in trading decisions, and maximize profitability. For instance, platforms like Alpaca provide APIs for automated [trading strategies](../t/trading_strategies.md).
 
 ## Best Practices in Money Management
 
@@ -97,4 +97,4 @@ Maintain discipline in spending, saving, and [investing](../i/investing.md). Pat
 
 ## Conclusion
 
-[Money](../m/money.md) management is a fundamental aspect of [financial health](../f/financial_health.md) and success, whether for individuals or organizations. By mastering budgeting, saving, [investing](../i/investing.md), [risk management](../r/risk_management.md), and [debt](../d/debt.md) management, one can ensure a stable and prosperous financial future. Utilizing tools like financial software, seeking professional advice, and incorporating [algorithmic trading](../a/accountability.md) systems can further enhance the effectiveness of [money management strategies](../m/money_management_strategies.md).
+[Money](../m/money.md) management is a fundamental aspect of [financial health](../f/financial_health.md) and success, whether for individuals or organizations. By mastering budgeting, saving, [investing](../i/investing.md), [risk management](../r/risk_management.md), and [debt](../d/debt.md) management, one can ensure a stable and prosperous financial future. Utilizing tools like financial software, seeking professional advice, and incorporating [algorithmic trading](../a/algorithmic_trading.md) systems can further enhance the effectiveness of [money management strategies](../m/money_management_strategies.md).

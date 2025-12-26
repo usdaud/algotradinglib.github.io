@@ -53,23 +53,23 @@ Filing a claim for accidental death benefits typically involves several steps:
 
 ### 1. Prudential Financial
 
-[Prudential Financial](https://www.prudential.com) offers an accidental [death benefit](../d/death_benefit.md) [rider](../r/rider.md) as an optional feature in their [life insurance](../l/life_insurance.md) policies. This [rider](../r/rider.md) can provide additional financial protection for unexpected accidents.
+Prudential Financial offers an accidental [death benefit](../d/death_benefit.md) [rider](../r/rider.md) as an optional feature in their [life insurance](../l/life_insurance.md) policies. This [rider](../r/rider.md) can provide additional financial protection for unexpected accidents.
 
 ### 2. MetLife
 
-[MetLife](https://www.metlife.com) provides an optional accidental [death benefit](../d/death_benefit.md) [rider](../r/rider.md), which significantly increases the policy's [payout](../p/payout.md) in the case of accidental death.
+MetLife provides an optional accidental [death benefit](../d/death_benefit.md) [rider](../r/rider.md), which significantly increases the policy's [payout](../p/payout.md) in the case of accidental death.
 
 ### 3. State Farm
 
-[State Farm](https://www.statefarm.com) offers an accidental [death benefit](../d/death_benefit.md) as part of their [life insurance](../l/life_insurance.md) products, providing extra financial [security](../s/security.md) in the event of an accidental death.
+State Farm offers an accidental [death benefit](../d/death_benefit.md) as part of their [life insurance](../l/life_insurance.md) products, providing extra financial [security](../s/security.md) in the event of an accidental death.
 
 ### 4. AIG
 
-[AIG](https://www.aig.com) offers accidental death and dismemberment [insurance](../i/insurance.md), which not only covers accidental death but also provides benefits for serious injuries resulting from accidents.
+AIG offers accidental death and dismemberment [insurance](../i/insurance.md), which not only covers accidental death but also provides benefits for serious injuries resulting from accidents.
 
 ### 5. Mutual of Omaha
 
-[Mutual of Omaha](https://www.mutualofomaha.com) includes accidental death benefits in their [life insurance](../l/life_insurance.md) policies, helping beneficiaries manage financial burdens following an untimely and accidental death.
+Mutual of Omaha includes accidental death benefits in their [life insurance](../l/life_insurance.md) policies, helping beneficiaries manage financial burdens following an untimely and accidental death.
 
 ## Conclusion
 

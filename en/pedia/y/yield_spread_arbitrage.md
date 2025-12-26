@@ -41,7 +41,7 @@ Several [quantitative models](../q/quantitative_models.md) and techniques are us
 
 ### Real-World Applications and Use Cases
 
-[Yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) is employed by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) desks, and institutional investors. For example, [Bridgewater Associates](https://www.bridgewater.com/), one of the world’s largest [hedge](../h/hedge.md) funds, uses sophisticated [arbitrage](../a/arbitrage.md) strategies across different [asset](../a/asset.md) classes.
+[Yield spread](../y/yield_spread.md) [arbitrage](../a/arbitrage.md) is employed by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) desks, and institutional investors. For example, Bridgewater Associates, one of the world’s largest [hedge](../h/hedge.md) funds, uses sophisticated [arbitrage](../a/arbitrage.md) strategies across different [asset](../a/asset.md) classes.
 
 ### Technological Infrastructure
 

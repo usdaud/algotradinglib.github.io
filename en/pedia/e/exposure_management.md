@@ -20,7 +20,7 @@ Different techniques are employed to manage exposure effectively in [algorithmic
 
 3. **Hedging:** Employing financial instruments such as [options](../o/options.md), [futures](../f/futures.md), or other [derivatives](../d/derivatives.md) to [offset](../o/offset.md) potential losses in the main [trading strategy](../t/trading_strategy.md).
 
-4. **[Stop-Loss Orders](../s/stop-loss_orders.md):** Setting predefined exit points for losing trades to limit potential losses. 
+4. **[Stop-Loss Orders](../s/stop-loss_orders.md):** Setting predefined exit points for losing trades to limit potential losses.
 
 5. **[Portfolio Rebalancing](../p/portfolio_rebalancing.md):** Periodically adjusting the portfolio to maintain the intended allocation and [risk](../r/risk.md) levels.
 
@@ -32,11 +32,11 @@ Different techniques are employed to manage exposure effectively in [algorithmic
 
 Several tools and platforms facilitate effective exposure management in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[Risk Management](../r/risk_management.md) Software:** Tools like [AlgoTrader](../a/algotrader.md) (https://www.[algotrader](../a/algotrader.md).com/) and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provide comprehensive [risk](../r/risk.md) analytics and management features.
+1. **[Risk Management](../r/risk_management.md) Software:** Tools like [AlgoTrader](../a/algotrader.md) ( and [StockSharp](../s/stocksharp.md) provide comprehensive [risk](../r/risk.md) analytics and management features.
 
-2. **[Portfolio Management](../p/portfolio_management.md) Systems:** Solutions like BlackRock's Aladdin (https://www.blackrock.com/aladdin) [offer](../o/offer.md) advanced features for managing exposure across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+2. **[Portfolio Management](../p/portfolio_management.md) Systems:** Solutions like BlackRock's Aladdin ( [offer](../o/offer.md) advanced features for managing exposure across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
-3. **[Market](../m/market.md) Data Feeds:** Providers such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[market](../m/market.md)-data/) and Thomson [Reuters](../r/reuters.md) [supply](../s/supply.md) real-time data crucial for dynamic exposure management.
+3. **[Market](../m/market.md) Data Feeds:** Providers such as [Bloomberg](../b/bloomberg.md) ( and Thomson [Reuters](../r/reuters.md) [supply](../s/supply.md) real-time data crucial for dynamic exposure management.
 
 4. **[Backtesting](../b/backtesting.md) Platforms:** Tools like MATLAB, R, and Python libraries (e.g., [Backtrader](../b/backtrader.md)) enable extensive testing of strategies under different [market](../m/market.md) conditions to assess exposure.
 

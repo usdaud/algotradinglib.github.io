@@ -49,8 +49,8 @@ Firms often deploy hybrid strategies that combine elements to optimize for both 
 ## Strategic Management in Technology-Driven Environments
 
 In rapidly evolving sectors like fintech or algo-trading, agility in strategic management becomes paramount:
-- **[Algorithmic Trading](../a/accountability.md)**: Requires an adaptive strategy to [leverage](../l/leverage.md) [market](../m/market.md) data for automated trades. Platforms like **[QuantConnect](../q/quantconnect.md)** (https://www.[quantconnect](../q/quantconnect.md).com/) enable traders to backtest strategies using historical data.
-- **Fintech Innovations**: Disruptive technologies necessitate a flexible strategy. Companies like **Stripe** (https://stripe.com/) continually adapt their [business models](../b/business_models.md) to [offer](../o/offer.md) advanced [payment](../p/payment.md) processing solutions.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Requires an adaptive strategy to [leverage](../l/leverage.md) [market](../m/market.md) data for automated trades. Platforms like **[QuantConnect](../q/quantconnect.md)** ( enable traders to backtest strategies using historical data.
+- **Fintech Innovations**: Disruptive technologies necessitate a flexible strategy. Companies like **Stripe** ( continually adapt their [business models](../b/business_models.md) to [offer](../o/offer.md) advanced [payment](../p/payment.md) processing solutions.
 
 ## Globalization and Strategic Management
 
@@ -71,15 +71,14 @@ Apple demonstrates strategic prowess by innovating consistently while maintainin
 
 Google excels at maintaining a diversified [product portfolio](../p/product_portfolio.md) while fostering innovation:
 - **Core Product Services**: Dominates the search engine [market](../m/market.md), providing a constant [revenue](../r/revenue.md) stream.
-- **New Ventures**: Invests in moonshot projects through **X (https://x.company/)**.
-- **Adoptive Strategy**: Constantly evolves by acquiring startups and integrating new technologies.
+- **New Ventures**: Invests in moonshot projects through **X - **Adoptive Strategy**: Constantly evolves by acquiring startups and integrating new technologies.
 
 ## Strategic Management Tools and Software
 
 Several tools and software solutions facilitate different aspects of strategic management:
 - **[Business](../b/business.md) Model Canvas**: An outline of a [business](../b/business.md)’s structure, [value](../v/value.md) propositions, resources, and customers.
 - **Mintzberg’s Strategy Safari**: Offers diverse perspectives on strategy formulation and implementation.
-- **Strategic Planning Software**: Platforms like **ClearPoint Strategy** (https://www.clearpointstrategy.com/) help in planning, tracking, and executing strategies.
+- **Strategic Planning Software**: Platforms like **ClearPoint Strategy** help in planning, tracking, and executing strategies.
 
 ## Challenges in Strategic Management
 

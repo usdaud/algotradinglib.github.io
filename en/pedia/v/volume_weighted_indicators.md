@@ -8,11 +8,11 @@
 
 ### Volume
 
-[Volume](../v/volume.md) refers to the number of [shares](../s/shares.md) or contracts traded in a [security](../s/security.md) or [market](../m/market.md) during a given period. It serves as a measure of [market](../m/market.md) activity and [liquidity](../l/liquidity.md). High [volume](../v/volume.md) can indicate strong [interest](../i/interest.md) and increased [momentum](../m/momentum.md), while low [volume](../v/volume.md) often signifies [consolidation](../c/consolidation.md) or [uncertainty](../u/uncertainty_in_trading.md). 
+[Volume](../v/volume.md) refers to the number of [shares](../s/shares.md) or contracts traded in a [security](../s/security.md) or [market](../m/market.md) during a given period. It serves as a measure of [market](../m/market.md) activity and [liquidity](../l/liquidity.md). High [volume](../v/volume.md) can indicate strong [interest](../i/interest.md) and increased [momentum](../m/momentum.md), while low [volume](../v/volume.md) often signifies [consolidation](../c/consolidation.md) or [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Volume Weighted Average Price (VWAP)
 
-VWAP stands for [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price. It is perhaps the most commonly used [volume](../v/volume.md)-based [indicator](../i/indicator.md). VWAP calculates the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price. It helps traders determine the true average buying or selling price for a particular time frame. 
+VWAP stands for [Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price. It is perhaps the most commonly used [volume](../v/volume.md)-based [indicator](../i/indicator.md). VWAP calculates the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price. It helps traders determine the true average buying or selling price for a particular time frame.
 
 ### Calculation
 
@@ -24,7 +24,7 @@ The calculation of VWAP involves summing the products of [volume](../v/volume.md
 
 ### 1. Volume Weighted Moving Average (VWMA)
 
-The VWMA accounts for [volume](../v/volume.md) by weighting the moving average calculation. Here, periods with higher volumes have a more significant impact on the moving average, thus smoothing out the effect of low-[volume](../v/volume.md) periods. 
+The VWMA accounts for [volume](../v/volume.md) by weighting the moving average calculation. Here, periods with higher volumes have a more significant impact on the moving average, thus smoothing out the effect of low-[volume](../v/volume.md) periods.
 
 #### Calculation
 
@@ -34,7 +34,7 @@ The VWMA is calculated similarly to a Simple Moving Average (SMA) but uses the [
 
 ### 2. Volume Weighted RSI (VW-RSI)
 
-The [Volume](../v/volume.md) [Weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) modifies the traditional RSI by incorporating [volume](../v/volume.md). It provides a more accurate measurement of [momentum](../m/momentum.md) that takes [market](../m/market.md) activity into account. 
+The [Volume](../v/volume.md) [Weighted](../w/weighted.md) [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) modifies the traditional RSI by incorporating [volume](../v/volume.md). It provides a more accurate measurement of [momentum](../m/momentum.md) that takes [market](../m/market.md) activity into account.
 
 #### Calculation
 
@@ -42,7 +42,7 @@ VW-RSI includes [volume](../v/volume.md) as part of the RSI calculation, which c
 
 ### 3. Accumulation/Distribution Line (A/D Line)
 
-The A/D line uses both price and [volume](../v/volume.md) to measure the accumulation (buying) and [distribution](../d/distribution.md) (selling) of a stock over a period. 
+The A/D line uses both price and [volume](../v/volume.md) to measure the accumulation (buying) and [distribution](../d/distribution.md) (selling) of a stock over a period.
 
 #### Calculation
 
@@ -92,9 +92,9 @@ df['VWAP'] = VWAP
 
 Several platforms support the use of VWIs in automated [trading strategies](../t/trading_strategies.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, supports [volume](../v/volume.md)-[weighted](../w/weighted.md) indicators. [Visit QuantConnect](https://www.quantconnect.com/)
-- **Algorithmia**: Facilitates integration of [multiple](../m/multiple.md) [technical indicators](../t/technical_indicators.md) into [trading algorithms](../t/trading_algorithms.md). [Visit Algorithmia](https://algorithmia.com/)
-- **MetaTrader 5**: Widely used [trading platform](../t/trading_platform.md) providing customizable [volume](../v/volume.md)-[weighted](../w/weighted.md) indicators. [Visit MetaTrader](https://www.metatrader5.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform, supports [volume](../v/volume.md)-[weighted](../w/weighted.md) indicators. Visit QuantConnect
+- **Algorithmia**: Facilitates integration of [multiple](../m/multiple.md) [technical indicators](../t/technical_indicators.md) into [trading algorithms](../t/trading_algorithms.md). Visit Algorithmia
+- **MetaTrader 5**: Widely used [trading platform](../t/trading_platform.md) providing customizable [volume](../v/volume.md)-[weighted](../w/weighted.md) indicators. Visit MetaTrader
 
 ## Advantages and Disadvantages
 
@@ -115,6 +115,6 @@ Several platforms support the use of VWIs in automated [trading strategies](../t
 
 ## References
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Algorithmia](https://algorithmia.com/)
-- [MetaTrader](https://www.metatrader5.com/)
+- QuantConnect
+- Algorithmia
+- MetaTrader

@@ -11,25 +11,25 @@ A GPU is a highly parallel processor that is optimized for performing complex ma
 ### Core Elements
 
 1. **Shader Cores (CUDA Cores/Stream Processors):** These are the fundamental processing units within the GPU responsible for executing tasks. For instance, NVIDIA refers to them as CUDA cores, while AMD calls them Stream Processors.
-  
+
 2. **Memory (VRAM):** Video RAM (VRAM) is specialized memory used rapidly to store and access the data required for rendering images, such as textures and frame buffers.
-  
+
 3. **Texture Mapping Units (TMUs):** These units [handle](../h/handle.md) the texture mapping process, which involves wrapping textural data onto 3D objects to add detail without increasing the polygon count.
-  
+
 4. **Render Output Units (ROPs):** ROPs take finalized data from different shader cores and output it to the display screen, managing anti-aliasing and other final image processing tasks.
 
 ### Architectural Components
 
 1. **Memory Interface:** Connects the VRAM to the GPU cores, affecting the bandwidth and overall performance.
-  
+
 2. **Pipeline:** A set of data-processing stages where each stage completes a part of the rendering task, allowing efficient data flow through the GPU.
-  
+
 3. **Cooling System:** Keeps the GPU at optimal operating temperatures, essential for maintaining performance and longevity.
 
 ## Types of GPUs
 
 1. **Integrated GPUs:** Built into the CPU or motherboard and share the system's RAM. Common in laptops and low-power devices due to their cost and energy [efficiency](../e/efficiency.md). Famous examples include Intel UHD Graphics and AMD Radeon [Vega](../v/vega.md).
-  
+
 2. **Discrete GPUs:** Standalone hardware components often sold in the form of graphic cards. They have their own dedicated VRAM and are much more powerful for tasks requiring high graphical demands. Examples include the NVIDIA GeForce and AMD Radeon series.
 
 3. **Hybrid GPUs:** Combine features of both integrated and discrete GPUs, often seen in modular form factors and high-performance laptops.
@@ -39,13 +39,13 @@ A GPU is a highly parallel processor that is optimized for performing complex ma
 The GPU operates based on a highly parallel architecture, contrasting with traditional CPUs. The operation can generally be described in the following stages:
 
 1. **Data Input:** The GPU receives data from the CPU, typically imagery or instructions for computation.
-  
+
 2. **Geometry Processing:** Transforms 3D models into 2D representations as perceived from a virtual camera.
-  
+
 3. **Rasterization:** Converts the geometric data into pixels or fragments that make up the final image.
-  
+
 4. **Shading:** Applies color, texture, and lighting effects to each pixel fragment, using shader cores to execute complex algorithms rapidly.
-  
+
 5. **Output:** Combines shaded fragments into the final image, which is then sent to the display through the ROPs.
 
 ## Applications of GPUs
@@ -60,7 +60,7 @@ Industries like architecture, film production, and engineering use GPUs for rend
 
 ### Artificial Intelligence and Machine Learning
 
-[Deep learning](../d/deep_learning.md) and AI tasks involve training models with vast datasets. GPUs' parallel processing capabilities make them ideal for accelerating these processes. Companies like [NVIDIA](https://www.nvidia.com) provide GPUs specifically designed for AI research.
+[Deep learning](../d/deep_learning.md) and AI tasks involve training models with vast datasets. GPUs' parallel processing capabilities make them ideal for accelerating these processes. Companies like NVIDIA provide GPUs specifically designed for AI research.
 
 ### Cryptocurrency Mining
 

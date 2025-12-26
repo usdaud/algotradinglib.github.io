@@ -58,7 +58,7 @@ NBER collaborates with a multitude of institutions, both academic and government
 
 ### Online Resources and Accessibility
 
-NBER maintains an extensive online presence, making its research findings readily accessible to the public. Key resources available on their website include:
+NBER maintains an extensive online presence, making its research findings readily accessible to the public. Key resources available through its online channels include:
 
 - **Working Paper Database**: A searchable database of all working papers published by NBER.
 - **Research Summaries**: Brief overviews of research findings designed for a broad audience, including non-economists.
@@ -71,7 +71,7 @@ NBER’s [leadership](../l/leadership.md) includes prominent figures from academ
 - **President**: The president of NBER is typically a distinguished [economist](../e/economist.md) who oversees the organization's strategic direction and research priorities.
 - **Board of Directors**: The board consists of leaders from various sectors including academia, [business](../b/business.md), and government, ensuring diverse perspectives and [robust](../r/robust.md) governance.
 
-For more detailed and up-to-date information on NBER, you can visit their official website: [NBER Official Website](https://www.nber.org)
+For more detailed and up-to-date information on NBER, you can
 
 ### Conclusion
 

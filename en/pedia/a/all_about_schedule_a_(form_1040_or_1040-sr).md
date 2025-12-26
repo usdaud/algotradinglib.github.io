@@ -27,7 +27,7 @@ To qualify for this [deduction](../d/deduction.md), medical and dental expenses 
 - Payments for treatments affecting any part or function of the body.
 - Prescription medications and insulin.
 - Payments to doctors, dentists, surgeons, chiropractors, psychiatrists, psychologists, and other medical practitioners.
-  
+
 #### Taxes You Paid
 
 This section allows a [deduction](../d/deduction.md) for state and local [income](../i/income.md) [taxes](../t/taxes.md), [real estate](../r/real_estate.md) [taxes](../t/taxes.md), and [personal property](../p/personal_property.md) [taxes](../t/taxes.md). Key points include:
@@ -61,7 +61,7 @@ Losses from federally declared disasters can be itemized:
 #### Other Itemized Deductions
 
 This category includes various other deductible expenses such as:
-  
+
 - Gambling losses up to the amount of gambling [income](../i/income.md).
 - Unreimbursed expenses attributable to the production or collection of [income](../i/income.md), and certain other expenses related to tax preparation and [investment management](../i/investment_management.md).
 

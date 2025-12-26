@@ -2,7 +2,7 @@
 
 [Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo trading, is the use of advanced [mathematical models](../m/mathematical_models_in_trading.md) and electronic system platforms to make high-speed trading decisions in the [financial markets](../f/financial_market.md). MATLAB, a high-level language and interactive environment for numerical computation, visualization, and programming, is widely used in [algorithmic trading](../a/algorithmic_trading.md) for a variety of purposes such as data analysis, strategy development, and [backtesting](../b/backtesting.md).
 
-## Introduction to Algorithmic Trading 
+## Introduction to Algorithmic Trading
 
 [Algorithmic trading](../a/algorithmic_trading.md) refers to the use of algorithms to automate [trading strategies](../t/trading_strategies.md) and decisions. It encompasses the use of historical data, [mathematical models](../m/mathematical_models_in_trading.md), and computer programs to generate trading orders and strategies. This type of trading has become increasingly influential in [financial markets](../f/financial_market.md) due to its ability to process large amounts of data swiftly and execute trades with high precision.
 
@@ -11,19 +11,19 @@
 MATLAB offers several advantages in the context of [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Data Handling and Manipulation**:
-    MATLAB excels in [data analytics](../d/data_analytics.md) and manipulation, providing tools for importing, cleaning, and managing large datasets, which are essential for [algorithmic trading](../a/algorithmic_trading.md).
+ MATLAB excels in [data analytics](../d/data_analytics.md) and manipulation, providing tools for importing, cleaning, and managing large datasets, which are essential for [algorithmic trading](../a/algorithmic_trading.md).
 
 2. **Visualization**:
-    One of MATLAB's strong suits is its powerful visualization capabilities. Traders can create a wide [range](../r/range.md) of plots and graphs to represent data visually, making it easier to spot trends and patterns.
+ One of MATLAB's strong suits is its powerful visualization capabilities. Traders can create a wide [range](../r/range.md) of plots and graphs to represent data visually, making it easier to spot trends and patterns.
 
 3. **Advanced Mathematical Functions**:
-    MATLAB comes with a rich library of mathematical functions that are highly beneficial in developing, testing, and optimizing complex [trading strategies](../t/trading_strategies.md).
+ MATLAB comes with a rich library of mathematical functions that are highly beneficial in developing, testing, and optimizing complex [trading strategies](../t/trading_strategies.md).
 
 4. **Rapid Prototyping**:
-    MATLAB's scripting language allows for rapid development and prototyping of [trading algorithms](../t/trading_algorithms.md). This can significantly reduce the amount of time required to iterate through different [trading strategy](../t/trading_strategy.md) ideas.
+ MATLAB's scripting language allows for rapid development and prototyping of [trading algorithms](../t/trading_algorithms.md). This can significantly reduce the amount of time required to iterate through different [trading strategy](../t/trading_strategy.md) ideas.
 
 5. **Extensive Toolboxes**:
-    MATLAB provides numerous toolboxes specifically designed for financial computations, such as the Financial Toolbox and [Econometrics](../e/econometrics_in_trading.md) Toolbox. These toolboxes [offer](../o/offer.md) pre-built functions and methods to [handle](../h/handle.md) various financial tasks effectively.
+ MATLAB provides numerous toolboxes specifically designed for financial computations, such as the Financial Toolbox and [Econometrics](../e/econometrics_in_trading.md) Toolbox. These toolboxes [offer](../o/offer.md) pre-built functions and methods to [handle](../h/handle.md) various financial tasks effectively.
 
 ## Key Components of Algorithmic Trading in MATLAB
 
@@ -115,10 +115,10 @@ ylabel('Cumulative Returns');
 
 ## Case Studies and Real-world Applications
 
-1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) using [multiple](../m/multiple.md) programming languages including MATLAB. [Link to QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) using [multiple](../m/multiple.md) programming languages including MATLAB. Link to QuantConnect
 
-2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a MATLAB-to-API integration for live trading with MATLAB developed algorithms. [Link to Interactive Brokers](https://www.interactivebrokers.com/)
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a MATLAB-to-API integration for live trading with MATLAB developed algorithms. Link to Interactive Brokers
 
 ## Conclusion
 
-[Algorithmic trading](../a/algorithmic_trading.md) with MATLAB offers a powerful and flexible platform for developing and optimizing [trading strategies](../t/trading_strategies.md) using advanced mathematical and statistical techniques. By leveraging MATLAB's extensive [range](../r/range.md) of tools for data analysis, visualization, and [computational finance](../c/computational_finance.md), traders can [gain](../g/gain.md) a significant edge in the fast-paced world of [financial markets](../f/financial_market.md).
+[Algorithmic trading](../a/algorithmic_trading.md) with MATLAB offers a powerful and flexible platform for developing and optimizing [trading strategies](../t/trading_strategies.md) using advanced mathematical and statistical techniques. By leveraging MATLAB's extensive [range](../r/range.md) of tools for data analysis, visualization, and [computational finance](../c/computational_finance.md), traders can [gain](../g/gain.md) a significant edge in the fast-paced world of [financial markets](../f/financial_market.md).

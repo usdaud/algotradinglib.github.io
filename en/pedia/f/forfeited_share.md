@@ -43,7 +43,7 @@ Consider a company XYZ Ltd. Company XYZ issues 100 [shares](../s/shares.md) to a
 A case illustrating the concept might involve a company outlining specific procedures in their [Articles of Association](../a/articles_of_association.md) for the recovery of unpaid [shares](../s/shares.md). For example, a publicly traded company may occasionally announce forfeiture actions in their [financial statements](../f/financial_statements.md) or regulatory filings.
 
 #### Tech Giants and Startups:
-- **Facebook (Meta)** and **Google (Alphabet):** Though large tech companies maintain meticulous control over share issuance and collection practices, instances of forfeiture, if any, are disclosed in their detailed quarterly reports. These companies adhere strictly to governance codes to prevent forfeiture occurrences. URL for reference: [Meta – Investor Relations](https://investor.fb.com/) and [Alphabet – Investor Relations](https://abc.xyz/investor/).
+- **Facebook (Meta)** and **Google (Alphabet):** Though large tech companies maintain meticulous control over share issuance and collection practices, instances of forfeiture, if any, are disclosed in their detailed quarterly reports. These companies adhere strictly to governance codes to prevent forfeiture occurrences. URL for reference.
 
 ## Strategic Considerations
 

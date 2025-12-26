@@ -17,9 +17,9 @@ Fast-Moving [Consumer Goods](../c/consumer_goods.md) (FMCG) refer to products th
 ## Categories of FMCG
 
 1. **Food and Beverages**: Includes snacks, dairy products, frozen foods, baked goods, and non-alcoholic drinks like soda and juice.
-   
+
 2. **Personal Care Products**: Items like toothpaste, shampoo, cosmetics, and deodorants fall under this category.
-  
+
 3. **Household Care Products**: Items used for [home](../h/home.md) maintenance, such as detergents, fabric softeners, and cleaning agents.
 
 4. **Over-the-Counter Medicines**: Includes medications that can be purchased without a prescription, such as pain relievers, cold medicines, and antiseptics.
@@ -28,33 +28,29 @@ Fast-Moving [Consumer Goods](../c/consumer_goods.md) (FMCG) refer to products th
 
 ### Procter & Gamble (P&G)
 
-Procter & Gamble (P&G) is one of the most prominent FMCG companies globally. It offers a wide [range](../r/range.md) of products in health care, beauty, grooming, and household care. P&G's well-known brands include Tide, Gillette, Pampers, and Crest. 
+Procter & Gamble (P&G) is one of the most prominent FMCG companies globally. It offers a wide [range](../r/range.md) of products in health care, beauty, grooming, and household care. P&G's well-known brands include Tide, Gillette, Pampers, and Crest.
 
-[Procter & Gamble Official Website](https://us.pg.com/)
 
 ### Unilever
 
 Unilever is another leader in the FMCG sector, producing various food, beverage, cleaning agents, and personal care products. Brands like Dove, Lipton, Knorr, and [Axe](../a/axe.md) are part of Unilever’s extensive portfolio.
 
-[Unilever Official Website](https://www.unilever.com/)
 
 ### Nestlé
 
 Nestlé is a multinational company specializing in nutrition, health, and wellness sectors. Its product lines include baby foods, bottled water, breakfast cereals, coffee, dairy products, and pet foods. Nestlé brands include Nescafé, Gerber, Purina, and KitKat.
 
-[Nestlé Official Website](https://www.nestle.com/)
+Nestlé
 
 ### The Coca-Cola Company
 
 The Coca-Cola Company is primarily known for its beverages, including soft drinks, bottled water, and juices. Its flagship product, Coca-Cola, is one of the most recognized brands worldwide. Others include Fanta, Sprite, and Minute Maid.
 
-[Coca-Cola Official Website](https://www.coca-colacompany.com/)
 
 ### Pepsico
 
 PepsiCo operates in both the beverage and convenient foods sectors. It owns brands such as Pepsi, Mountain Dew, Lay’s, Gatorade, Tropicana, and Quaker. PepsiCo is known for its strong portfolio in snacks and beverages.
 
-[PepsiCo Official Website](https://www.pepsico.com/)
 
 ## Market Dynamics
 

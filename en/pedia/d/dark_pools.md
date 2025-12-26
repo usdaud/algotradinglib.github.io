@@ -32,15 +32,15 @@ Dark pools have been subject to increasing scrutiny and regulatory measures in v
 
 ### Notable Dark Pools and Their Operators
 1. **Barclays LX**: Operated by Barclays [Capital](../c/capital.md), this [dark pool](../d/dark_pool.md) has been a subject of regulatory scrutiny.
-2. **[Credit](../c/credit.md) Suisse CrossFinder**: Managed by [Credit](../c/credit.md) Suisse, it is one of the largest and most active dark pools.
+2. **CrossFinder (formerly Credit Suisse)**: Previously managed by Credit Suisse, this was one of the largest dark pools. Following UBS's acquisition of Credit Suisse in March 2023, the platform has been integrated into UBS operations.
 3. **ITG POSIT**: An agency [broker](../b/broker.md) [dark pool](../d/dark_pool.md) that allows participants to execute large trades anonymously.
 4. **Liquidnet**: Known for its focus on institutional investors, [offering](../o/offering.md) a platform to [trade](../t/trade.md) large blocks without revealing the [trade](../t/trade.md) details to the [market](../m/market.md).
 
 More information about these dark pools can be found on their respective operators' websites:
-- Barclays [Capital](../c/capital.md): [link](https://www.investmentbank.barclays.com)
-- [Credit](../c/credit.md) Suisse: [link](https://www.credit-suisse.com)
-- ITG (now part of Virtu Financial): [link](https://www.virtu.com)
-- Liquidnet: [link](https://www.liquidnet.com)
+- Barclays [Capital](../c/capital.md): link
+- UBS (acquired Credit Suisse March 2023): link
+- ITG (now part of Virtu Financial): link
+- Liquidnet: link
 
 ### Conclusion
-Dark pools remain a significant yet controversial component of modern [financial markets](../f/financial_market.md). While they [offer](../o/offer.md) distinct advantages in terms of reducing [market](../m/market.md) impact and preserving anonymity for large trades, their lack of [transparency](../t/transparency.md) and potential effects on [market](../m/market.md) mechanics are points of ongoing debate and regulation. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the role and regulation of dark pools are likely to remain dynamic and closely watched by [market](../m/market.md) participants and regulators alike.
+Dark pools remain a significant yet controversial component of modern [financial markets](../f/financial_market.md). While they [offer](../o/offer.md) distinct advantages in terms of reducing [market](../m/market.md) impact and preserving anonymity for large trades, their lack of [transparency](../t/transparency.md) and potential effects on [market](../m/market.md) mechanics are points of ongoing debate and regulation. As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the role and regulation of dark pools are likely to remain dynamic and closely watched by [market](../m/market.md) participants and regulators alike.

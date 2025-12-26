@@ -10,7 +10,7 @@ Fitness trackers are one of the most commonly used types of wearable technology.
 
 ### Smartwatches
 
-Smartwatches extend the capabilities of fitness trackers by integrating them with basic computing tasks. They provide functionalities like notifications from a linked smartphone, making and receiving calls, sending text messages, and even running third-party apps. Popular smartwatches include the Apple Watch [Apple Watch](https://www.apple.com/apple-watch-series-7/), Samsung Galaxy Watch [Samsung Galaxy Watch](https://www.samsung.com/global/galaxy/galaxy-watch4/), and Fitbit Versa [Fitbit Versa](https://www.fitbit.com/global/us/products/smartwatches/versa).
+Smartwatches extend the capabilities of fitness trackers by integrating them with basic computing tasks. They provide functionalities like notifications from a linked smartphone, making and receiving calls, sending text messages, and even running third-party apps. Popular smartwatches include the Apple Watch Apple Watch, Samsung Galaxy Watch Samsung Galaxy Watch, and Fitbit Versa Fitbit Versa.
 
 ### Smart Clothing
 
@@ -18,7 +18,7 @@ Smart clothing embeds sensors and other electronics into the fabrics of clothes,
 
 ### Augmented Reality (AR) Glasses
 
-AR glasses [overlay](../o/overlay.md) digital information onto the user's view of the real world, providing contextually relevant information without interrupting the user's physical engagement. These devices can be used for a variety of applications such as navigation, gaming, and real-time language translation. Examples include Microsoft’s HoloLens [HoloLens](https://www.microsoft.com/hololens) and Google Glass [Google Glass](https://www.x.company/glass).
+AR glasses [overlay](../o/overlay.md) digital information onto the user's view of the real world, providing contextually relevant information without interrupting the user's physical engagement. These devices can be used for a variety of applications such as navigation, gaming, and real-time language translation. Examples include Microsoft’s HoloLens HoloLens and Google Glass Google Glass.
 
 ### Medical Wearables
 

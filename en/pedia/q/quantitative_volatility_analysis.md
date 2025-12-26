@@ -42,8 +42,8 @@ Quantitative [volatility](../v/volatility.md) [trading strategies](../t/trading_
 Several tools and [software platforms](../s/software_platforms_for_trading.md) assist in conducting quantitative [volatility analysis](../v/volatility_analysis.md):
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform for accessing financial data and models.
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and implementing [trading strategies](../t/trading_strategies.md).
-- **Numerical Algorithms Group (NAG)**: Provides numerical and statistical software for [financial analysis](../f/financial_analysis.md). [NAG](https://www.nag.com)
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows for [backtesting](../b/backtesting.md) and implementing [trading strategies](../t/trading_strategies.md).
+- **Numerical Algorithms Group (NAG)**: Provides numerical and statistical software for [financial analysis](../f/financial_analysis.md). NAG
 - **R and Python Libraries**: Libraries like `quantmod`, `xts`, and `TTR` in R as well as `pandas`, `NumPy`, `SciPy`, and `[QuantLib](../q/quantlib.md)` in Python are extensively used for [volatility analysis](../v/volatility_analysis.md).
 
 ## Real-World Applications

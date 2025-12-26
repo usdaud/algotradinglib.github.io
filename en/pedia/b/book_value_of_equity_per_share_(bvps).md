@@ -24,7 +24,7 @@ To calculate BVPS, follow these steps:
 
 1. **Determine Total Shareholders' [Equity](../e/equity.md)**: Look at the company's [balance sheet](../b/balance_sheet.md) to find the total shareholders' [equity](../e/equity.md). This is also known as [book value](../b/book_value.md), which is the company's total assets minus its [total liabilities](../t/total_liabilities.md).
 2. **Subtract Preferred [Equity](../e/equity.md)**: In cases where the company has issued [preferred stock](../p/preferred_stock.md), this amount needs to be subtracted from the total shareholders' [equity](../e/equity.md) since BVPS focuses on common stockholders.
-3. **Identify Outstanding [Shares](../s/shares.md)**: Find the number of outstanding [shares](../s/shares.md), which is usually available in the [financial statements](../f/financial_statements.md) or [investor relations](../i/investor_relations.md) section of the company's website.
+3. **Identify Outstanding [Shares](../s/shares.md)**: Find the number of outstanding [shares](../s/shares.md), which is usually available in the [financial statements](../f/financial_statements.md) or company filings.
 4. **Apply the Formula**: Divide the adjusted [equity](../e/equity.md) by the number of outstanding [shares](../s/shares.md) to get the BVPS.
 
 Example:
@@ -64,7 +64,7 @@ In algotrading, BVPS can be part of various [trading strategies](../t/trading_st
 
 ## Real-World Example: IBM
 
-Let's consider IBM (International [Business](../b/business.md) Machines [Corporation](../c/corporation.md)) as an example [Company Website](https://www.ibm.com).
+Let's consider IBM (International [Business](../b/business.md) Machines [Corporation](../c/corporation.md))
 
 As of IBM's latest financial [disclosure](../d/disclosure.md), assume the following:
 - Total Shareholders' [Equity](../e/equity.md): $20 billion

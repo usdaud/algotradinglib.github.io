@@ -1,6 +1,6 @@
 # Standardization in Finance and Trading
 
-Standardization in the financial and trading industries refers to the process of developing and implementing technical standards. These standards ensure that the processes and transactions carried out are efficient, safe, and consistent. They are critical for interoperability, reduction of complexity, and enhancement of communication among different financial entities, systems, and platforms. In today’s global financial ecosystem, standardization plays a pivotal role in promoting [transparency](../t/transparency.md), minimizing discrepancies, and facilitating smoother operations across various [market](../m/market.md) participants. This document provides an in-depth exploration of standardization, with particular emphasis on its relevance to [algorithmic trading](../a/accountability.md), financial technologies (fintech), and the broader financial services [industry](../i/industry.md).
+Standardization in the financial and trading industries refers to the process of developing and implementing technical standards. These standards ensure that the processes and transactions carried out are efficient, safe, and consistent. They are critical for interoperability, reduction of complexity, and enhancement of communication among different financial entities, systems, and platforms. In today’s global financial ecosystem, standardization plays a pivotal role in promoting [transparency](../t/transparency.md), minimizing discrepancies, and facilitating smoother operations across various [market](../m/market.md) participants. This document provides an in-depth exploration of standardization, with particular emphasis on its relevance to [algorithmic trading](../a/algorithmic_trading.md), financial technologies (fintech), and the broader financial services [industry](../i/industry.md).
 
 ## The Importance of Standardization
 
@@ -41,10 +41,10 @@ The Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md))
 
 ### 3. Algorithmic Trading
 
-Standardization is particularly crucial in [algorithmic trading](../a/accountability.md), where transactions are executed by algorithms with minimal human intervention. The standardized protocols ensure that algorithms behave consistently and predictably across different trading platforms.
+Standardization is particularly crucial in [algorithmic trading](../a/algorithmic_trading.md), where transactions are executed by algorithms with minimal human intervention. The standardized protocols ensure that algorithms behave consistently and predictably across different trading platforms.
 
 #### FIX Algorithmic Trading Definition Language (FIXatdl)
-FIXatdl is a standard for defining [algorithmic trading](../a/accountability.md) behavior within the FIX protocol. It allows for the standardized representation of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), enabling smoother integration and deployment of algorithms across various trading environments.
+FIXatdl is a standard for defining [algorithmic trading](../a/algorithmic_trading.md) behavior within the FIX protocol. It allows for the standardized representation of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), enabling smoother integration and deployment of algorithms across various trading environments.
 
 ### 4. FinTech
 
@@ -57,13 +57,13 @@ PSD2 is a European regulation requiring banks to [open](../o/open.md) their [pay
 ## Case Studies and Real-World Applications
 
 ### SWIFT
-The Society for Worldwide Interbank Financial Telecommunication (SWIFT) is a global provider of secure financial messaging services. SWIFT uses standardized messages to facilitate international payments and securities transactions, promoting interoperability and standardization across global financial institutions. More details about SWIFT can be found [here](https://www.swift.com/).
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT) is a global provider of secure financial messaging services. SWIFT uses standardized messages to facilitate international payments and securities transactions, promoting interoperability and standardization across global financial institutions. More details about SWIFT can be found here.
 
 ### DTCC
-The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) provides [clearing and settlement](../c/clearing_and_settlement.md) services for various financial transactions. By adhering to standardized protocols, DTCC enhances the [efficiency](../e/efficiency.md) and reliability of post-[trade](../t/trade.md) processes. More information can be accessed [here](http://www.dtcc.com/).
+The [Depository](../d/depository.md) [Trust](../t/trust.md) & [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (DTCC) provides [clearing and settlement](../c/clearing_and_settlement.md) services for various financial transactions. By adhering to standardized protocols, DTCC enhances the [efficiency](../e/efficiency.md) and reliability of post-[trade](../t/trade.md) processes. More information can be accessed here.
 
 ### CLS Group
-CLS Group provides [foreign exchange](../f/foreign_exchange.md) settlement services aimed at mitigating settlement [risk](../r/risk.md) for FX transactions. It employs standardized settlement processes ensuring that all parties meet their [obligations](../o/obligation.md) efficiently. To learn more about CLS Group, visit [here](https://www.cls-group.com/).
+CLS Group provides [foreign exchange](../f/foreign_exchange.md) settlement services aimed at mitigating settlement [risk](../r/risk.md) for FX transactions. It employs standardized settlement processes ensuring that all parties meet their [obligations](../o/obligation.md) efficiently. To learn more about CLS Group, visit here.
 
 ## Challenges in Standardization
 

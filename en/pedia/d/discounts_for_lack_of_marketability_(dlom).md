@@ -5,7 +5,7 @@ Discounts for Lack of Marketability (DLOM) is an important yet complex concept i
 ## Importance of DLOM
 
 Understanding DLOM is critical for various stakeholders, including investors, [business](../b/business.md) owners, financial analysts, and legal professionals:
-  
+
 - **Investors**: Investors may want to know the DLOM to assess the viability and true [value](../v/value.md) of [private equity](../p/private_equity.md) investments.
 - **[Business](../b/business.md) Owners**: [Business](../b/business.md) owners may need to apply DLOM when planning for [liquidity](../l/liquidity.md) or exit strategies.
 - **Financial Analysts**: Financial analysts use DLOM in [valuation models](../v/valuation_models.md) to provide a more accurate picture of an [asset](../a/asset.md)'s [market value](../m/market_value.md).
@@ -14,12 +14,12 @@ Understanding DLOM is critical for various stakeholders, including investors, [b
 ## Factors Influencing DLOM
 
 [Multiple](../m/multiple.md) factors can influence the DLOM, making it a nuanced and variable figure:
-  
+
 - **Size of the Company**: Smaller companies often face higher DLOMs due to limited resources and [market](../m/market.md) presence.
 - **Profitability**: Companies with higher profitability may have lower DLOMs as they attract more [interest](../i/interest.md) from potential buyers.
 - **Growth Prospects**: Firms with high growth potential might experience a reduced DLOM because of the anticipated future returns.
 - **[Dividend Policy](../d/dividend_policy.md)**: Consistent [dividend](../d/dividend.md) payments can lower the DLOM as they [offer](../o/offer.md) some [liquidity](../l/liquidity.md) to shareholders.
-  
+
 ## Methodology
 
 Determining the DLOM can be done through various methods, each with its own set of assumptions, advantages, and drawbacks:
@@ -27,21 +27,21 @@ Determining the DLOM can be done through various methods, each with its own set 
 ### Empirical Models
 
 Empirical models use historical data to estimate the DLOM by comparing public and private companies. These models include:
-  
+
 - **[Restricted Stock](../r/restricted_stock.md) Studies**: These studies compare the prices of restricted [shares](../s/shares.md), which cannot be sold immediately, with the prices of unrestricted [shares](../s/shares.md) of the same company.
 - **[Pre-IPO](../p/pre-ipo.md) Studies**: These studies compare the prices at which private companies sell their [shares](../s/shares.md) shortly before [going public](../g/going_public.md) with the prices of their [shares](../s/shares.md) immediately after the IPO.
 
 ### Theoretical Models
 
 Theoretical models employ financial theories to estimate DLOM, which include:
-  
+
 - **[Option Pricing Models](../o/option_pricing_models.md)**: These models, such as the [Black-Scholes model](../b/black-scholes_model.md), can estimate the DLOM by treating marketability as an option to sell.
 - **Qualitative Models**: These models assess qualitative factors like company size, growth rate, and [dividend policy](../d/dividend_policy.md) to estimate the DLOM.
 
 ### Hybrid Models
 
 Hybrid models combine aspects of both empirical and theoretical approaches to provide a more nuanced estimation:
-  
+
 - **Longstaff Model**: This model uses financial [options](../o/options.md) theory to estimate DLOM by considering the cost of hedging against marketability [risk](../r/risk.md).
 - **Finnerty Model**: A refinement of [restricted stock](../r/restricted_stock.md) studies, this model considers both the time frame and the [underlying](../u/underlying.md) [volatility](../v/volatility.md) of the stock.
 

@@ -38,10 +38,10 @@ Macro-focused models take into account broader [economic indicators](../e/econom
 Entities like the Federal Reserve, European Central [Bank](../b/bank.md), and various sovereign [wealth](../w/wealth.md) funds have adopted ZBIMs to manage their vast portfolios. Their strategies often include [asset](../a/asset.md) purchases under QE, diversified global investments, and [hedging strategies](../h/hedging_strategies.md) to protect against [inflation](../i/inflation.md) and [currency](../c/currency.md) fluctuations.
 
 ### Hedge Funds and Asset Managers
-Leading [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) firms have developed proprietary ZBIMs to remain competitive. Firms like BlackRock (https://www.blackrock.com) and Bridgewater Associates (https://www.bridgewater.com) utilize sophisticated algorithms and diverse [asset allocation](../a/asset_allocation.md) strategies to generate returns in ZLB conditions.
+Leading [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) firms have developed proprietary ZBIMs to remain competitive. Firms like BlackRock ( and Bridgewater Associates ( utilize sophisticated algorithms and diverse [asset allocation](../a/asset_allocation.md) strategies to generate returns in ZLB conditions.
 
 ### Pension Funds and Insurance Companies
-These institutions face significant challenges in ZLB environments due to their [long-term liabilities](../l/long-term_liabilities.md). Firms like Allianz (https://www.allianz.com) and PIMCO (https://www.pimco.com) have implemented ZBIMs that include a mix of real assets, alternative investments, and [dynamic hedging](../d/dynamic_hedging.md) techniques to secure returns for their beneficiaries.
+These institutions face significant challenges in ZLB environments due to their [long-term liabilities](../l/long-term_liabilities.md). Firms like Allianz ( and PIMCO ( have implemented ZBIMs that include a mix of real assets, alternative investments, and [dynamic hedging](../d/dynamic_hedging.md) techniques to secure returns for their beneficiaries.
 
 ## Key Challenges and Considerations
 ### Low Yield Environment

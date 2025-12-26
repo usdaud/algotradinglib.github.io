@@ -1,6 +1,6 @@
 # Office of the Comptroller of the Currency (OCC)
 
-The Office of the Comptroller of the [Currency](../c/currency.md) (OCC) is a vital regulatory body in the United States [financial system](../f/financial_system.md). Established by the [National Currency](../n/national_currency.md) Act of 1863, the OCC serves a crucial role in the oversight and supervision of national banks, federal savings associations, and the federal branches and agencies of foreign banks operating in the U.S. 
+The Office of the Comptroller of the [Currency](../c/currency.md) (OCC) is a vital regulatory body in the United States [financial system](../f/financial_system.md). Established by the [National Currency](../n/national_currency.md) Act of 1863, the OCC serves a crucial role in the oversight and supervision of national banks, federal savings associations, and the federal branches and agencies of foreign banks operating in the U.S.
 
 ## Mission and Responsibilities
 
@@ -53,7 +53,6 @@ However, the OCC faces several challenges:
 
 ## Resources and Contact Information
 
-For more information about the OCC, visit their official website: [Office of the Comptroller of the Currency](https://www.occ.treas.gov/)
 
 ---
 

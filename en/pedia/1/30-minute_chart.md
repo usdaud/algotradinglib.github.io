@@ -82,7 +82,7 @@ Algorithms use real-time 30-minute chart data for generating buy/sell signals.
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies is known for leveraging sophisticated algorithms, likely utilizing time frames such as the 30-minute chart. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is known for leveraging sophisticated algorithms, likely utilizing time frames such as the 30-minute chart.
 
 ### Their Approach
 
@@ -92,6 +92,6 @@ Renaissance Technologies is known for leveraging sophisticated algorithms, likel
 
 ## Conclusion
 
-The 30-minute chart serves as a versatile tool that amalgamates the benefits of shorter and longer time frames. Its [utility](../u/utility.md) across various [trading strategies](../t/trading_strategies.md) makes it a cornerstone in [algorithmic trading](../a/algorithmic_trading.md). From [technical indicators](../t/technical_indicators.md) to [risk management](../r/risk_management.md) and automated algorithms, the 30-minute chart offers a comprehensive framework for traders to develop and execute their strategies successfully. 
+The 30-minute chart serves as a versatile tool that amalgamates the benefits of shorter and longer time frames. Its [utility](../u/utility.md) across various [trading strategies](../t/trading_strategies.md) makes it a cornerstone in [algorithmic trading](../a/algorithmic_trading.md). From [technical indicators](../t/technical_indicators.md) to [risk management](../r/risk_management.md) and automated algorithms, the 30-minute chart offers a comprehensive framework for traders to develop and execute their strategies successfully.
 
-As the trading landscape continues to evolve with technological advancements, the 30-minute chart remains a key component in the [trader](../t/trader.md)'s toolkit, supporting informed, timely, and strategic decision-making.
+As the trading landscape continues to evolve with technological advancements, the 30-minute chart remains a key component in the [trader](../t/trader.md)'s toolkit, supporting informed, timely, and strategic decision-making.

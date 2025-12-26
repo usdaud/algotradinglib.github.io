@@ -54,13 +54,13 @@ While exploiting loopholes can provide short-term financial gains, it can lead t
 Apple Inc. has been scrutinized for using loopholes in international and U.S. tax laws to minimize its [tax liability](../t/tax_liability.md). By taking advantage of Ireland's tax laws and employing strategies such as the "[Double Irish with a Dutch Sandwich](../d/double_irish_with_a_dutch_sandwich.md)," Apple significantly reduced its effective [corporate tax](../c/corporate_tax.md) rate.
 
 **Reference:**
-Apple's website with financial disclosures: [Apple Inc. - Investor Relations](https://investor.apple.com/)
+Apple's online platform with financial disclosures: Apple Inc. - company filings
 
 ### Case Study 2: Renaissance Technologies and Quantitative Trading Loopholes
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds of all time, has been known to exploit various [market](../m/market.md) inefficiencies and regulatory loopholes through its Medallion [Fund](../f/fund.md), an advanced [quantitative trading](../q/quantitative_trading.md) strategy.
 
 **Reference:**
-Renaissance Technologies' official site: [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies' public materials: Renaissance Technologies
 
 ## Regulatory Responses
 

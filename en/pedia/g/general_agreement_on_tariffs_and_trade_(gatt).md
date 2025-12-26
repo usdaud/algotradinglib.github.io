@@ -1,6 +1,6 @@
 # General Agreement on Tariffs and Trade (GATT)
 
-The General Agreement on Tariffs and [Trade](../t/trade.md) (GATT) was a multilateral agreement regulating international [trade](../t/trade.md). GATT was intended to boost [economic recovery](../e/economic_recovery.md) after World War II through reconstructing and fostering international [trade](../t/trade.md). The agreement aimed to reduce tariffs, eliminate [trade](../t/trade.md) barriers, and provide a platform for the [negotiation](../n/negotiation.md) of international [trade](../t/trade.md) agreements. 
+The General Agreement on Tariffs and [Trade](../t/trade.md) (GATT) was a multilateral agreement regulating international [trade](../t/trade.md). GATT was intended to boost [economic recovery](../e/economic_recovery.md) after World War II through reconstructing and fostering international [trade](../t/trade.md). The agreement aimed to reduce tariffs, eliminate [trade](../t/trade.md) barriers, and provide a platform for the [negotiation](../n/negotiation.md) of international [trade](../t/trade.md) agreements.
 
 ## Objectives and Principles
 

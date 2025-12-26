@@ -1,6 +1,6 @@
 # Stochastic Oscillator
 
-The Stochastic [Oscillator](../o/oscillator.md) is a widely used [momentum](../m/momentum.md) [indicator](../i/indicator.md) in the field of [technical analysis](../t/technical_analysis.md) that compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period of time. This [oscillator](../o/oscillator.md) is specifically designed to predict [market](../m/market.md) trends and potential [reversal](../r/reversal.md) points. Developed by George C. Lane in the late 1950s, it is particularly valued for its ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions. 
+The Stochastic [Oscillator](../o/oscillator.md) is a widely used [momentum](../m/momentum.md) [indicator](../i/indicator.md) in the field of [technical analysis](../t/technical_analysis.md) that compares a particular closing price of a [security](../s/security.md) to a [range](../r/range.md) of its prices over a certain period of time. This [oscillator](../o/oscillator.md) is specifically designed to predict [market](../m/market.md) trends and potential [reversal](../r/reversal.md) points. Developed by George C. Lane in the late 1950s, it is particularly valued for its ability to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions.
 
 ### Understanding the Stochastic Oscillator
 
@@ -73,6 +73,6 @@ print(df[['%K', '%D']])
 
 ### Conclusion
 
-Overall, the stochastic [oscillator](../o/oscillator.md) remains a crucial tool for traders aiming to optimize entry and exit points. It offers clarity in visualizing [market](../m/market.md) [momentum](../m/momentum.md) and navigating potential [market](../m/market.md) reversals. Although no single [indicator](../i/indicator.md) is foolproof, the stochastic [oscillator](../o/oscillator.md)'s [robust](../r/robust.md) methodology and ease of integration into different [trading strategies](../t/trading_strategies.md) make it an indispensable part of any [trader](../t/trader.md)’s toolkit. 
+Overall, the stochastic [oscillator](../o/oscillator.md) remains a crucial tool for traders aiming to optimize entry and exit points. It offers clarity in visualizing [market](../m/market.md) [momentum](../m/momentum.md) and navigating potential [market](../m/market.md) reversals. Although no single [indicator](../i/indicator.md) is foolproof, the stochastic [oscillator](../o/oscillator.md)'s [robust](../r/robust.md) methodology and ease of integration into different [trading strategies](../t/trading_strategies.md) make it an indispensable part of any [trader](../t/trader.md)’s toolkit.
 
-For a more in-depth perspective or specialized stochastic [oscillator](../o/oscillator.md) tools, companies like [TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com) [offer](../o/offer.md) comprehensive charting resources and community discussions for avid traders.
+For a more in-depth perspective or specialized stochastic [oscillator](../o/oscillator.md) tools, companies like [TradingView](../t/tradingview.md) ( [offer](../o/offer.md) comprehensive charting resources and community discussions for avid traders.

@@ -32,13 +32,13 @@ One of the prominent applications of [zero-sum models](../z/zero-sum_models.md) 
 
 Renaissance Technologies is a famed [hedge fund](../h/hedge_fund.md) known for its successful use of [algorithmic trading](../a/algorithmic_trading.md) strategies. Their flagship Medallion [Fund](../f/fund.md) employs sophisticated algorithms to exploit small [market](../m/market.md) inefficiencies, operating in a [zero-sum game](../z/zero-sum_game.md) environment where they consistently [outperform](../o/outperform.md) other [market](../m/market.md) participants.
 
-#### Reference: [Renaissance Technologies](https://www.rentec.com/)
+#### Reference: Renaissance Technologies
 
 ### Two Sigma
 
 Two Sigma is another notable [firm](../f/firm.md) in the algo trading space. They use [data science](../d/data_science_in_trading.md) and technology to develop models that analyze massive datasets for trading opportunities. In the zero-sum context, Two Sigma’s profits are mirrored by equivalent losses somewhere else in the [market](../m/market.md).
 
-#### Reference: [Two Sigma](https://www.twosigma.com/)
+#### Reference: Two Sigma
 
 ## Advantages of Zero-Sum Models
 
@@ -73,4 +73,3 @@ With the advent of [artificial intelligence](../a/artificial_intelligence_in_tra
 ## Conclusion
 
 Zero-sum investment models form an essential part of the [algorithmic trading](../a/algorithmic_trading.md) landscape. Their influence spans designing competitive strategies, understanding [market dynamics](../m/market_dynamics.md), and leveraging advanced technologies like AI for strategic advantages. While challenges abound, the ongoing evolution in technology and trading practices continues to reshape the zero-sum [trading environment](../t/trading_environment.md), [offering](../o/offering.md) both opportunities and risks for [market](../m/market.md) participants.
-

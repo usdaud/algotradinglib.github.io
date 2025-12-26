@@ -49,7 +49,7 @@ Numerous financial platforms and [software tools](../s/software_tools_for_tradin
 1. **MetaTrader 4 and 5 (MT4/MT5):** Widely used trading platforms that [offer](../o/offer.md) various [technical indicators](../t/technical_indicators.md), including the 1Y MA. They provide tools for [backtesting](../b/backtesting.md) and implementing automated [trading strategies](../t/trading_strategies.md).
 2. **[Bloomberg](../b/bloomberg.md) Terminal:** A comprehensive platform used by financial professionals for [market](../m/market.md) analysis and trading. [Bloomberg](../b/bloomberg.md) provides extensive support for moving averages and other [technical indicators](../t/technical_indicators.md).
 3. **[TradingView](../t/tradingview.md):** An online charting platform that allows users to apply the 1Y MA and other indicators to a wide [range](../r/range.md) of securities.
-4. **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create, test, and deploy [trading strategies](../t/trading_strategies.md) using the 1Y MA and other [technical indicators](../t/technical_indicators.md).
+4. **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to create, test, and deploy [trading strategies](../t/trading_strategies.md) using the 1Y MA and other [technical indicators](../t/technical_indicators.md).
 
 ## Real-World Example: Apple Inc. (AAPL)
 
@@ -64,4 +64,4 @@ By analyzing the intersection of AAPL's daily prices with its 1Y MA, traders can
 
 ---
 
-Understanding and utilizing the 1-year moving average is crucial for traders and investors aiming to navigate [financial markets](../f/financial_market.md) effectively. It provides a foundational tool for [trend analysis](../t/trend_analysis.md), support, and resistance identification, and integrating this knowledge into [algorithmic trading](../a/algorithmic_trading.md) systems can significantly enhance [trading performance](../t/trading_performance.md).
+Understanding and utilizing the 1-year moving average is crucial for traders and investors aiming to navigate [financial markets](../f/financial_market.md) effectively. It provides a foundational tool for [trend analysis](../t/trend_analysis.md), support, and resistance identification, and integrating this knowledge into [algorithmic trading](../a/algorithmic_trading.md) systems can significantly enhance [trading performance](../t/trading_performance.md).

@@ -26,7 +26,7 @@ Fiat [money](../m/money.md) has been used in various forms throughout history, b
 ### Advantages of Fiat Money
 
 #### 1. **Flexibility in Monetary Policy:**
-Fiat [money](../m/money.md) allows governments to have greater control over their economies. Central banks can implement monetary policies, like [quantitative easing](../q/quantitative_easing.md) or controlling [interest](../i/interest.md) rates, to manage [economic growth](../e/economic_growth.md) and stability. 
+Fiat [money](../m/money.md) allows governments to have greater control over their economies. Central banks can implement monetary policies, like [quantitative easing](../q/quantitative_easing.md) or controlling [interest](../i/interest.md) rates, to manage [economic growth](../e/economic_growth.md) and stability.
 
 #### 2. **Economic Stability:**
 Governments can respond to economic crises more flexibly by adjusting the [money supply](../m/money_supply.md). For instance, during the 2008 [financial crisis](../f/financial_crisis.md), many central banks increased the [money supply](../m/money_supply.md) to support economic stability.
@@ -50,12 +50,12 @@ Critics argue that fiat [money](../m/money.md) is not a good [store of value](..
 #### 1. **The U.S. Dollar (USD):**
 The U.S. dollar is perhaps the most well-known example of fiat [money](../m/money.md). Managed by the Federal Reserve, it is the world's primary [reserve currency](../r/reserve_currency.md) and is used in global [trade](../t/trade.md) and [finance](../f/finance.md).
 
-- [Federal Reserve](https://www.federalreserve.gov)
+- Federal Reserve
 
 #### 2. **The Euro (EUR):**
 The [Euro](../e/euro.md) is the official [currency](../c/currency.md) of the [Eurozone](../e/eurozone.md), used by 19 out of the 27 [European Union](../e/european_union_(eu).md) countries. It is governed by the policies of the European Central [Bank](../b/bank.md).
 
-- [European Central Bank](https://www.ecb.europa.eu)
+- European Central Bank
 
 #### 3. **Hyperinflation in Zimbabwe:**
 Zimbabwe provides a case study of the dangers of fiat [money](../m/money.md). In the late 2000s, mismanagement and excessive printing of [money](../m/money.md) led to [hyperinflation](../h/hyperinflation.md), rendering the Zimbabwean dollar worthless.
@@ -65,10 +65,10 @@ Zimbabwe provides a case study of the dangers of fiat [money](../m/money.md). In
 #### 1. **Digital Currencies:**
 The advance of technology has introduced digital forms of fiat [money](../m/money.md). Central banks are exploring Central [Bank](../b/bank.md) Digital Currencies (CBDCs) as a new form of fiat [currency](../c/currency.md). For example, China's Digital Yuan is a state-backed [digital currency](../d/digital_currency.md) aimed at modernizing the [financial system](../f/financial_system.md).
 
-- [People’s Bank of China](http://www.pbc.gov.cn)
+- People’s Bank of China
 
 #### 2. **Cryptocurrencies:**
-While not fiat [money](../m/money.md), cryptocurrencies like [Bitcoin](../b/bitcoin.md) often emerge in discussions about the future of [money](../m/money.md). Unlike fiat [money](../m/money.md), cryptocurrencies are decentralized and not controlled by any government, [offering](../o/offering.md) an alternative to traditional fiat systems. 
+While not fiat [money](../m/money.md), cryptocurrencies like [Bitcoin](../b/bitcoin.md) often emerge in discussions about the future of [money](../m/money.md). Unlike fiat [money](../m/money.md), cryptocurrencies are decentralized and not controlled by any government, [offering](../o/offering.md) an alternative to traditional fiat systems.
 
 ### Conclusion
 

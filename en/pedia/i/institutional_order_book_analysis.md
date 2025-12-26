@@ -61,9 +61,9 @@ Institutional traders must navigate a complex regulatory landscape. Regulations 
 ### Real-World Application
 Many companies [offer](../o/offer.md) tools and platforms for institutional [order book analysis](../o/order_book_analysis.md). For instance:
 
-- **[Bloomberg](../b/bloomberg.md)** offers advanced analytics tools for [order book analysis](../o/order_book_analysis.md). [Bloomberg Analytics](https://www.bloomberg.com/professional/)
-- **Thomson [Reuters](../r/reuters.md)** provides [market](../m/market.md) data and trading tools. [Refinitiv](https://www.refinitiv.com/en/financial-data)
-- **[NASDAQ](../n/nasdaq.md)** offers data feeds and trading technology solutions. [NASDAQ Trading Services](https://business.nasdaq.com/trade/)
+- **[Bloomberg](../b/bloomberg.md)** offers advanced analytics tools for [order book analysis](../o/order_book_analysis.md). Bloomberg Analytics
+- **Thomson [Reuters](../r/reuters.md)** provides [market](../m/market.md) data and trading tools. Refinitiv
+- **[NASDAQ](../n/nasdaq.md)** offers data feeds and trading technology solutions. NASDAQ Trading Services
 
 ### Conclusion
 Institutional [order book analysis](../o/order_book_analysis.md) requires a deep understanding of [market](../m/market.md) mechanics and the ability to interpret large volumes of data. By leveraging advanced technologies and adhering to regulatory guidelines, institutional traders can enhance their [trading strategies](../t/trading_strategies.md) and achieve better outcomes in the [market](../m/market.md).

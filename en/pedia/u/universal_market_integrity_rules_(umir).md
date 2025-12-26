@@ -38,7 +38,7 @@ These rules encompass a broad [range](../r/range.md) of ethical and professional
 
 ## UMIR and Algo-Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, refers to the use of automated systems to execute trades based on pre-defined strategies. UMIR sets forth specific rules to address the unique challenges and risks associated with algo-trading, such as:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, refers to the use of automated systems to execute trades based on pre-defined strategies. UMIR sets forth specific rules to address the unique challenges and risks associated with algo-trading, such as:
 
 ### 1. **Risk Management Controls and Supervisory Procedures**
 Algo-trading participants are required to establish [risk management](../r/risk_management.md) controls and supervisory procedures to manage the risks associated with high-speed trading. These include:
@@ -69,5 +69,4 @@ UMIR violations can result in significant penalties, including fines, suspension
 
 ## Conclusion
 
-The Universal [Market](../m/market.md) Integrity Rules form a critical foundation for maintaining the integrity, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) of Canadian [financial markets](../f/financial_market.md). By establishing comprehensive guidelines for trading practices, compliance, and supervision, UMIR helps protect investors, promote fair competition, and ensure the smooth functioning of [financial markets](../f/financial_market.md). With the ongoing evolution of trading technologies and strategies, UMIR [will](../w/will.md) continue to adapt and evolve to address emerging risks and challenges, thereby upholding the principles of [market](../m/market.md) integrity. For further information, visit the [IIROC website](https://www.iiroc.ca/rules-and-enforcement/universal-market-integrity-rules-umir).
-
+The Universal [Market](../m/market.md) Integrity Rules form a critical foundation for maintaining the integrity, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) of Canadian [financial markets](../f/financial_market.md). By establishing comprehensive guidelines for trading practices, compliance, and supervision, UMIR helps protect investors, promote fair competition, and ensure the smooth functioning of [financial markets](../f/financial_market.md). With the ongoing evolution of trading technologies and strategies, UMIR [will](../w/will.md) continue to adapt and evolve to address emerging risks and challenges, thereby upholding the principles of [market](../m/market.md) integrity.

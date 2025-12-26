@@ -51,11 +51,11 @@ Reversing entries are optional and are made at the beginning of the new [account
 The [accounting](../a/accounting.md) cycle is crucial for several reasons:
 
 - **Accuracy**: It provides a systematic method to ensure that all financial transactions are accurately recorded and reported.
-  
+
 - **Consistency**: It promotes consistency in financial reporting by following standardized steps.
-  
+
 - **Compliance**: It helps businesses comply with [accounting](../a/accounting.md) standards and regulatory requirements.
-  
+
 - **Decision-Making**: [Financial statements](../f/financial_statements.md) produced through the [accounting](../a/accounting.md) cycle serve as critical tools for decision-making by management, investors, and other stakeholders.
 
 ## Automation in the Accounting Cycle
@@ -64,11 +64,11 @@ With advancements in technology, many businesses have automated the [accounting]
 
 ### Examples of Accounting Software
 
-- **QuickBooks**: QuickBooks is a widely-used [accounting](../a/accounting.md) software designed for small to medium-sized businesses. It offers a [range](../r/range.md) of features, including invoicing, [payroll](../p/payroll.md), [expense](../e/expense.md) tracking, and financial reporting. More information is available on their [website](https://quickbooks.intuit.com/).
+- **QuickBooks**: QuickBooks is a widely-used [accounting](../a/accounting.md) software designed for small to medium-sized businesses. It offers a [range](../r/range.md) of features, including invoicing, [payroll](../p/payroll.md), [expense](../e/expense.md) tracking, and financial reporting.
 
-- **Xero**: Xero provides cloud-based [accounting](../a/accounting.md) software suitable for small businesses. It offers features such as [bank reconciliation](../b/bank_reconciliation.md), invoicing, [expense](../e/expense.md) management, and financial reporting. More information is available on their [website](https://www.xero.com/).
+- **Xero**: Xero provides cloud-based [accounting](../a/accounting.md) software suitable for small businesses. It offers features such as [bank reconciliation](../b/bank_reconciliation.md), invoicing, [expense](../e/expense.md) management, and financial reporting.
 
-- **Sage**: Sage offers a suite of [accounting](../a/accounting.md) software solutions tailored to businesses of different sizes and industries. Features include [accounting](../a/accounting.md), [payroll](../p/payroll.md), and [payment](../p/payment.md) processing. More information can be found on their [website](https://www.sage.com/).
+- **Sage**: Sage offers a suite of [accounting](../a/accounting.md) software solutions tailored to businesses of different sizes and industries. Features include [accounting](../a/accounting.md), [payroll](../p/payroll.md), and [payment](../p/payment.md) processing.
 
 ## Conclusion
 

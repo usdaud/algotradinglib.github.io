@@ -4,7 +4,7 @@ The [K-Ratio](../k/k-ratio_in_trading.md) is a unique performance measure used p
 
 ## Definition of K-Ratio
 
-The [K-Ratio](../k/k-ratio_in_trading.md), also known as the Kestner Ratio (named after its creator, John Kestner), quantifies the growth in the log of the [equity](../e/equity.md) curve and measures the consistency of this growth over a specific period. Essentially, it assesses the smoothness of the [equity](../e/equity.md) curve, which signifies an [investor](../i/investor.md)'s or a [trading strategy](../t/trading_strategy.md)'s portfolio [value](../v/value.md) over time. 
+The [K-Ratio](../k/k-ratio_in_trading.md), also known as the Kestner Ratio (named after its creator, John Kestner), quantifies the growth in the log of the [equity](../e/equity.md) curve and measures the consistency of this growth over a specific period. Essentially, it assesses the smoothness of the [equity](../e/equity.md) curve, which signifies an [investor](../i/investor.md)'s or a [trading strategy](../t/trading_strategy.md)'s portfolio [value](../v/value.md) over time.
 
 Mathematically, the [K-Ratio](../k/k-ratio_in_trading.md) is calculated by fitting a [linear regression](../l/linear_regression.md) line to the logarithmic [equity](../e/equity.md) curve of the portfolio and then determining the slope and [standard error](../s/standard_error.md) of that line. The formula for the [K-Ratio](../k/k-ratio_in_trading.md) is as follows:
 
@@ -93,13 +93,12 @@ For Strategy B:
 
 [Hedge](../h/hedge.md) funds and institutional investors often seek strategies that not only promise high returns but also demonstrate consistency and [risk control](../r/risk_control.md). The [K-Ratio](../k/k-ratio_in_trading.md) can help in differentiating between strategies that might have similar average returns but different levels of [volatility](../v/volatility.md) and consistency.
 
-For instance, [Bridgewater Associates](https://www.bridgewater.com/), one of the largest [hedge](../h/hedge.md) funds globally, could use the [K-Ratio](../k/k-ratio_in_trading.md) to evaluate the performance of their various [trading strategies](../t/trading_strategies.md), ensuring that the ones chosen for implementation exhibit stable growth profiles.
+For instance, Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds globally, could use the [K-Ratio](../k/k-ratio_in_trading.md) to evaluate the performance of their various [trading strategies](../t/trading_strategies.md), ensuring that the ones chosen for implementation exhibit stable growth profiles.
 
 ### Algorithmic Trading Firms
 
-[Algorithmic trading](../a/algorithmic_trading.md) firms, such as [Citadel Securities](https://www.citadelsecurities.com/), utilize [performance metrics](../p/performance_metrics.md) like the [K-Ratio](../k/k-ratio_in_trading.md) to optimize their [trading algorithms](../t/trading_algorithms.md). By employing the [K-Ratio](../k/k-ratio_in_trading.md), these firms can improve their models to perform consistently, even in volatile [market](../m/market.md) conditions.
+[Algorithmic trading](../a/algorithmic_trading.md) firms, such as Citadel Securities, utilize [performance metrics](../p/performance_metrics.md) like the [K-Ratio](../k/k-ratio_in_trading.md) to optimize their [trading algorithms](../t/trading_algorithms.md). By employing the [K-Ratio](../k/k-ratio_in_trading.md), these firms can improve their models to perform consistently, even in volatile [market](../m/market.md) conditions.
 
 ## Conclusion
 
 The [K-Ratio](../k/k-ratio_in_trading.md) Performance Measure stands out as a sophisticated tool for evaluating the performance of investment strategies. It goes beyond traditional metrics by focusing on the consistency and reliability of returns, thus [offering](../o/offering.md) a more holistic understanding of a strategy's performance. While it may require advanced statistical knowledge and detailed data, its advantages can significantly enhance decision-making processes in [algorithmic trading](../a/algorithmic_trading.md) and [portfolio management](../p/portfolio_management.md). By striving for strategies with higher K-Ratios, investors and traders can achieve more stable and predictable growth in their portfolios.
-

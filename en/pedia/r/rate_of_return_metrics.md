@@ -1,9 +1,9 @@
 # Rate of Return Metrics
 
-In the realm of [financial markets](../f/financial_market.md), understanding investment performance is crucial. This is especially pertinent in [algorithmic trading](../a/algorithmic_trading.md), where decisions are made based on quantitative analyses and [trading strategies](../t/trading_strategies.md) executed by algorithms. [Rate of return](../r/rate_of_return.md) metrics are fundamental for assessing the success of [trading strategies](../t/trading_strategies.md). 
+In the realm of [financial markets](../f/financial_market.md), understanding investment performance is crucial. This is especially pertinent in [algorithmic trading](../a/algorithmic_trading.md), where decisions are made based on quantitative analyses and [trading strategies](../t/trading_strategies.md) executed by algorithms. [Rate of return](../r/rate_of_return.md) metrics are fundamental for assessing the success of [trading strategies](../t/trading_strategies.md).
 
 ## Rate of Return (RoR)
-At its core, the [rate of return](../r/rate_of_return.md) is a measure of the [gain](../g/gain.md) or loss of an investment over a specific period, expressed as a percentage of the investment's cost. It allows investors to compare the profitability of various investments or [trading strategies](../t/trading_strategies.md) regardless of the amount invested. 
+At its core, the [rate of return](../r/rate_of_return.md) is a measure of the [gain](../g/gain.md) or loss of an investment over a specific period, expressed as a percentage of the investment's cost. It allows investors to compare the profitability of various investments or [trading strategies](../t/trading_strategies.md) regardless of the amount invested.
 
 ### Formula
 The basic formula for the [rate of return](../r/rate_of_return.md) is:
@@ -28,7 +28,7 @@ where:
 - \( n \) is the number of years.
 
 ### Importance in Algorithmic Trading
-CAGR is especially important in [algorithmic trading](../a/algorithmic_trading.md) for long-term strategy assessment. Algorithms designed to operate over longer periods can be evaluated for their annual [growth rates](../g/growth_rates_in_trading.md), allowing traders to assess sustainability and performance accurately. 
+CAGR is especially important in [algorithmic trading](../a/algorithmic_trading.md) for long-term strategy assessment. Algorithms designed to operate over longer periods can be evaluated for their annual [growth rates](../g/growth_rates_in_trading.md), allowing traders to assess sustainability and performance accurately.
 
 ## Sharpe Ratio
 The [Sharpe Ratio](../s/sharpe_ratio.md) is a widely-used metric to understand the [risk](../r/risk.md)-adjusted performance of an investment or [trading strategy](../t/trading_strategy.md). Named after Nobel laureate [William F. Sharpe](../w/william_f._sharpe.md), this ratio measures the extra [return](../r/return.md) earned for the extra [volatility](../v/volatility.md) endured by holding a riskier [asset](../a/asset.md).
@@ -97,7 +97,7 @@ Maximum [Drawdown](../d/drawdown.md) represents the peak-to-[trough](../t/trough
 \[ \text{MDD} = \frac{[Trough](../t/trough.md) \ [Value](../v/value.md) - Peak \ [Value](../v/value.md)}{Peak \ [Value](../v/value.md)} \]
 
 ### Importance
-MDD is a critical metric in [algorithmic trading](../a/algorithmic_trading.md), allowing traders to assess the resilience of their strategies during adverse [market](../m/market.md) conditions. 
+MDD is a critical metric in [algorithmic trading](../a/algorithmic_trading.md), allowing traders to assess the resilience of their strategies during adverse [market](../m/market.md) conditions.
 
 ## Information Ratio
 [Information Ratio](../i/information_ratio.md) measures the [risk-adjusted return](../r/risk-adjusted_return.md) of an investment portfolio compared to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), considering the [tracking error](../t/tracking_error.md).
@@ -111,7 +111,7 @@ where:
 - \( \sigma_{R_p - R_b} \) is the [tracking error](../t/tracking_error.md).
 
 ### Application
-The [Information Ratio](../i/information_ratio.md) is useful in [algorithmic trading](../a/algorithmic_trading.md) for strategies designed to [outperform](../o/outperform.md) benchmarks consistently. 
+The [Information Ratio](../i/information_ratio.md) is useful in [algorithmic trading](../a/algorithmic_trading.md) for strategies designed to [outperform](../o/outperform.md) benchmarks consistently.
 
 ## Conclusion
 [Rate of return](../r/rate_of_return.md) metrics serve as the backbone for evaluating [algorithmic trading](../a/algorithmic_trading.md) strategies. From basic measures like RoR and CAGR to more nuanced metrics like [Sharpe Ratio](../s/sharpe_ratio.md) and [Alpha](../a/alpha.md), each plays a vital role in dissecting the performance, [risk](../r/risk.md), and effectiveness of [trading algorithms](../t/trading_algorithms.md). Mastery of these metrics is essential for algorithmic traders aiming to refine their strategies and achieve optimal performance in the [financial markets](../f/financial_market.md).

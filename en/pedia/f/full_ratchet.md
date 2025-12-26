@@ -50,6 +50,5 @@ Key points usually covered include:
 ## Conclusion
 A Full Ratchet [anti-dilution provision](../a/anti-dilution_provision.md) is a potent protective mechanism for investors, ensuring their investment retains [value](../v/value.md) even in adverse [economic conditions](../e/economic_conditions.md) or company downturns. However, it represents a double-edged sword for companies, influencing their [capital](../c/capital.md) raising strategy and future investment appeal. Properly balancing these interests is crucial for both parties in the [negotiation](../n/negotiation.md) process.
 
-For more details and examples of Full Ratchet provisions, you can refer to legal and investment advisory services such as Fenwick & West LLP [Fenwick & West](https://www.fenwick.com/) or technology-focused venture firms like Andreessen Horowitz [Andreessen Horowitz](https://a16z.com/). 
-
+For more details and examples of Full Ratchet provisions, you can refer to legal and investment advisory services such as Fenwick & West LLP Fenwick & West or technology-focused venture firms like Andreessen Horowitz Andreessen Horowitz.
 This nuanced balance laid out within the Full Ratchet [provision](../p/provision.md) framework underscores its importance in sophisticated investment scenarios, ensuring all parties are adequately protected and informed.

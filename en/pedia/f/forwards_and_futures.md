@@ -51,12 +51,8 @@ Forwards and [futures](../f/futures.md) also serve speculators who bet on future
 
 #### Notable Companies and Platforms
 
-1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**: https://www.cmegroup.com/
-2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: https://www.theice.com/
-3. **AQR [Capital](../c/capital.md) Management**: https://www.aqr.com/
-4. **Renaissance Technologies**: No official website; known for privacy.
-5. **Jane Street**: https://www.janestreet.com/
-6. **[Jump Trading](../j/jump_trading.md)**: No official website; contact through LinkedIn or other professional networks.
+1. **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**3. **AQR [Capital](../c/capital.md) Management**4. **Renaissance Technologies**.
+5. **Jane Street**6. **[Jump Trading](../j/jump_trading.md)**.
 
 ### Risks and Challenges
 

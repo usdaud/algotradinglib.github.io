@@ -1,8 +1,8 @@
 # Growth Curve
 
-In the realm of [algorithmic trading](../a/accountability.md), understanding and effectively utilizing the Growth Curve is fundamental for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). The Growth Curve represents the graphical depiction of the growth of an investment or portfolio over time, helping traders analyze and predict future performance based on past data. This concept is pivotal not only for assessing current [trading strategies](../t/trading_strategies.md) but for refining and improving them.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), understanding and effectively utilizing the Growth Curve is fundamental for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). The Growth Curve represents the graphical depiction of the growth of an investment or portfolio over time, helping traders analyze and predict future performance based on past data. This concept is pivotal not only for assessing current [trading strategies](../t/trading_strategies.md) but for refining and improving them.
 
-[Algorithmic trading](../a/accountability.md) (also known as algo-trading or black-box trading) is the process of using computer programs and algorithms to execute trades at high speeds and volumes. The rationale behind this is to exploit small price discrepancies and ensure consistent profitability over time. However, the core of its success lies in solid analysis and prediction models, where the Growth Curve plays a vital role.
+[Algorithmic trading](../a/algorithmic_trading.md) (also known as algo-trading or black-box trading) is the process of using computer programs and algorithms to execute trades at high speeds and volumes. The rationale behind this is to exploit small price discrepancies and ensure consistent profitability over time. However, the core of its success lies in solid analysis and prediction models, where the Growth Curve plays a vital role.
 
 ## Fundamental Aspects of Growth Curve
 
@@ -41,7 +41,7 @@ Traders often use sophisticated software and visualization tools to plot and ana
 ## Application in Algorithmic Trading
 
 ### **Strategy Backtesting**
-Before deploying an algorithm in real markets, it is crucial to backtest the strategy using historical data to examine its performance. The Growth Curve generated from [backtesting](../b/backtesting.md) data can indicate whether a strategy is potentially profitable. 
+Before deploying an algorithm in real markets, it is crucial to backtest the strategy using historical data to examine its performance. The Growth Curve generated from [backtesting](../b/backtesting.md) data can indicate whether a strategy is potentially profitable.
 
 For example, a trading algorithm focusing on high-frequency trading (HFT) must demonstrate consistent growth on the backtested Growth Curve with minimal drawdowns and acceptable [risk](../r/risk.md) levels.
 
@@ -57,14 +57,13 @@ Growth Curves can also be used for [comparative analysis](../c/comparative_analy
 ## Case Studies and Real-World Examples
 
 ### **Two Sigma**
-Two Sigma, a prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [data science](../d/data_science_in_trading.md), [algorithmic trading](../a/accountability.md), and advanced technology, exemplifies the practical application of the Growth Curve in their [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) extensive [data analytics](../d/data_analytics.md) to continually refine and optimize their algorithms for maximum [efficiency](../e/efficiency.md) and profitability.
+Two Sigma, a prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in [data science](../d/data_science_in_trading.md), [algorithmic trading](../a/algorithmic_trading.md), and advanced technology, exemplifies the practical application of the Growth Curve in their [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) extensive [data analytics](../d/data_analytics.md) to continually refine and optimize their algorithms for maximum [efficiency](../e/efficiency.md) and profitability.
 
-For more information on Two Sigma, visit their official website: [Two Sigma](https://www.twosigma.com/)
 
 ### **Renaissance Technologies**
 Renaissance Technologies, founded by Jim Simons, is renowned for its use of sophisticated [quantitative models](../q/quantitative_models.md) to predict price changes in financial instruments. Their Medallion [Fund](../f/fund.md), which has shown remarkable growth over decades, utilizes Growth Curves to monitor and enhance their [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
-For more insights into Renaissance Technologies, [check](../c/check.md) their information: [Renaissance Technologies](https://www.rentec.com/)
+For more insights into Renaissance Technologies, [check](../c/check.md) their information: Renaissance Technologies
 
 ## Challenges and Considerations
 
@@ -93,4 +92,4 @@ The integration of [blockchain](../b/blockchain_in_trading.md) technology may en
 
 ## Conclusion
 
-The Growth Curve remains a fundamental tool for assessing and optimizing the performance of [trading algorithms](../t/trading_algorithms.md). By providing a visual representation of an investment's performance over time, it helps traders make informed decisions and adjust their strategies to meet evolving [market](../m/market.md) conditions. Understanding and leveraging this concept can significantly enhance the success and [efficiency](../e/efficiency.md) of [algorithmic trading](../a/accountability.md) operations.
+The Growth Curve remains a fundamental tool for assessing and optimizing the performance of [trading algorithms](../t/trading_algorithms.md). By providing a visual representation of an investment's performance over time, it helps traders make informed decisions and adjust their strategies to meet evolving [market](../m/market.md) conditions. Understanding and leveraging this concept can significantly enhance the success and [efficiency](../e/efficiency.md) of [algorithmic trading](../a/algorithmic_trading.md) operations.

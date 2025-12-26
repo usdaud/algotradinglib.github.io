@@ -1,6 +1,6 @@
 # Repurchase Activity
 
-Repurchase activity, often referred to as stock buybacks, is a corporate action where a company buys back its own outstanding [shares](../s/shares.md) from the marketplace. The company essentially reabsorbs a portion of its ownership that was previously distributed among public and private investors. 
+Repurchase activity, often referred to as stock buybacks, is a corporate action where a company buys back its own outstanding [shares](../s/shares.md) from the marketplace. The company essentially reabsorbs a portion of its ownership that was previously distributed among public and private investors.
 
 This activity can have profound implications on the company’s stock price, [earnings](../e/earnings.md) per share (EPS), and overall [market](../m/market.md) perception. In the context of [algorithmic trading](../a/algorithmic_trading.md), understanding repurchase activity is crucial as it can provide predictive signals and trading opportunities.
 
@@ -37,7 +37,7 @@ In some cases, a company may enter into direct negotiations with a specific [sha
 
 ## Effects on Stock Price and Market Perception
 
-Repurchase activity can have varying impacts on a company's stock price and [market](../m/market.md) perception, often influenced by the context in which the [buyback](../b/buyback.md) occurs. 
+Repurchase activity can have varying impacts on a company's stock price and [market](../m/market.md) perception, often influenced by the context in which the [buyback](../b/buyback.md) occurs.
 
 ### 1. **Short-Term Price Increase**
 Announcing or executing a [buyback](../b/buyback.md) can lead to an immediate increase in stock price due to the anticipated reduction in the [supply](../s/supply.md) of [shares](../s/shares.md) and perceived positive signal from the company’s management.
@@ -50,7 +50,7 @@ Buybacks are often interpreted as a sign that the company’s management has con
 
 ## Regulatory Considerations
 
-Different countries have various regulations governing stock repurchases. These rules are designed to prevent [market manipulation](../m/market_manipulation.md) and [insider trading](../i/insider.md). 
+Different countries have various regulations governing stock repurchases. These rules are designed to prevent [market manipulation](../m/market_manipulation.md) and [insider trading](../i/insider.md).
 
 ### 1. **United States: SEC Rule 10b-18**
 In the United States, companies must adhere to the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) [Rule 10b-18](../r/rule_10b-18.md), which provides a "safe harbor" for repurchase activities, outlining conditions under which companies can buy back [shares](../s/shares.md) without facing [liability](../l/liability.md) for [market manipulation](../m/market_manipulation.md).
@@ -66,16 +66,16 @@ Countries like Japan, Canada, and Australia also have their own specific regulat
 Several high-profile companies have executed large and impactful [buyback](../b/buyback.md) programs. These companies often have significant cash reserves and a strategic focus on returning [value](../v/value.md) to shareholders through repurchases.
 
 ### 1. **Apple Inc.**
-Apple has one of the largest stock [buyback](../b/buyback.md) programs in history. [Visit Apple](https://www.apple.com/)
+Apple has one of the largest stock [buyback](../b/buyback.md) programs in history. Visit Apple
 
 ### 2. **Microsoft Corporation**
-Microsoft frequently engages in stock repurchases as part of its strategy to [return](../r/return.md) cash to shareholders. [Visit Microsoft](https://www.microsoft.com/)
+Microsoft frequently engages in stock repurchases as part of its strategy to [return](../r/return.md) cash to shareholders. Visit Microsoft
 
 ### 3. **Berkshire Hathaway**
-Under the [leadership](../l/leadership.md) of Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) has periodically engaged in significant buybacks. [Visit Berkshire Hathaway](https://www.berkshirehathaway.com/)
+Under the [leadership](../l/leadership.md) of Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) has periodically engaged in significant buybacks. Visit Berkshire Hathaway
 
 ### 4. **Alphabet Inc.**
-Alphabet, the [parent company](../p/parent_company.md) of Google, has also engaged in substantial buybacks. [Visit Alphabet](https://abc.xyz/)
+Alphabet, the [parent company](../p/parent_company.md) of Google, has also engaged in substantial buybacks. Visit Alphabet
 
 ## Algorithmic Trading and Repurchase Activity
 

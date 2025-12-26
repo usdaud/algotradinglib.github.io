@@ -90,8 +90,8 @@ Mergers and Acquisitions present significant opportunities for growth and [value
 
 For more information on M&A [risk management](../r/risk_management.md), you can visit expert financial advisory firms such as:
 
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [Morgan Stanley](https://www.morganstanley.com)
-- [Deloitte](https://www2.deloitte.com)
-- [Ernst & Young (EY)](https://www.ey.com)
-- [PwC](https://www.pwc.com)
+- Goldman Sachs
+- Morgan Stanley
+- Deloitte
+- Ernst & Young (EY)
+- PwC

@@ -36,16 +36,16 @@ Passive management often leads to lower [portfolio turnover](../p/portfolio_turn
 
 ## Key Players and Products
 ### The Vanguard Group
-The Vanguard Group is one of the most prominent providers of [index](../i/index_instrument.md) funds. Their product lineup includes the Vanguard 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md), Vanguard Total Stock [Market Index](../m/market_index.md) [Fund](../f/fund.md), and Vanguard Total [Bond](../b/bond.md) [Market Index](../m/market_index.md) [Fund](../f/fund.md). Visit their website for more information: [Vanguard](https://www.vanguard.com).
+The Vanguard Group is one of the most prominent providers of [index](../i/index_instrument.md) funds. Their product lineup includes the Vanguard 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md), Vanguard Total Stock [Market Index](../m/market_index.md) [Fund](../f/fund.md), and Vanguard Total [Bond](../b/bond.md) [Market Index](../m/market_index.md) [Fund](../f/fund.md).
 
 ### BlackRock (iShares)
-BlackRock, through its [iShares](../i/ishares.md) [product line](../p/product_line.md), offers a [wide variety](../w/wide_variety.md) of [index](../i/index_instrument.md) ETFs. Popular funds include the [iShares](../i/ishares.md) Core S&P 500 ETF, [iShares](../i/ishares.md) MSCI Emerging Markets ETF, and [iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md). [Check](../c/check.md) out their offerings here: [BlackRock iShares](https://www.ishares.com).
+BlackRock, through its [iShares](../i/ishares.md) [product line](../p/product_line.md), offers a [wide variety](../w/wide_variety.md) of [index](../i/index_instrument.md) ETFs. Popular funds include the [iShares](../i/ishares.md) Core S&P 500 ETF, [iShares](../i/ishares.md) MSCI Emerging Markets ETF, and [iShares](../i/ishares.md) [U.S. Treasury](../u/u.s._treasury.md) [Bond ETF](../b/bond_etf.md). [Check](../c/check.md) out their offerings here: BlackRock iShares.
 
 ### Fidelity Investments
-Fidelity offers several [index](../i/index_instrument.md) funds and ETFs with competitive [expense](../e/expense.md) ratios. Examples include the Fidelity 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md) and Fidelity Zero Total [Market Index](../m/market_index.md) [Fund](../f/fund.md). More details can be found on their website: [Fidelity Investments](https://www.fidelity.com).
+Fidelity offers several [index](../i/index_instrument.md) funds and ETFs with competitive [expense](../e/expense.md) ratios. Examples include the Fidelity 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md) and Fidelity Zero Total [Market Index](../m/market_index.md) [Fund](../f/fund.md). More
 
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) provides a [range](../r/range.md) of [index](../i/index_instrument.md) funds and ETFs targeting different [market](../m/market.md) segments. Their Schwab S&P 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md) and Schwab International [Index](../i/index_instrument.md) [Fund](../f/fund.md) are particularly well-regarded. For more information, visit: [Charles Schwab](https://www.schwab.com).
+[Charles Schwab](../c/charles_schwab.md) provides a [range](../r/range.md) of [index](../i/index_instrument.md) funds and ETFs targeting different [market](../m/market.md) segments. Their Schwab S&P 500 [Index](../i/index_instrument.md) [Fund](../f/fund.md) and Schwab International [Index](../i/index_instrument.md) [Fund](../f/fund.md) are particularly well-regarded. For more information, visit: Charles Schwab.
 
 ## How They Work
 ### Replication Strategies
@@ -74,7 +74,7 @@ Since [index](../i/index_instrument.md) funds aim to replicate the [market](../m
 [Index](../i/index_instrument.md) funds [offer](../o/offer.md) a simple, cost-effective way to achieve diversified, long-term investment exposure. They are ideal for investors looking to capture the broad [market](../m/market.md) returns without incurring high fees or engaging in complex [security selection](../s/security_selection.md) processes. Their key benefits lie in passive management, low fees, and broad [diversification](../d/diversification.md).
 
 For more detailed insights and up-to-date information, always refer to the managing companies' official websites and regulatory filings. For example, visit:
-- [Vanguard](https://www.vanguard.com)
-- [BlackRock iShares](https://www.ishares.com)
-- [Fidelity Investments](https://www.fidelity.com)
-- [Charles Schwab](https://www.schwab.com)
+- Vanguard
+- BlackRock iShares
+- Fidelity Investments
+- Charles Schwab

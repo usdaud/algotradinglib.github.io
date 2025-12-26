@@ -14,9 +14,9 @@ The Iranian Rial has a rich history that dates back to the early 20th century. I
 Managing a [national currency](../n/national_currency.md) such as the Iranian Rial, particularly during periods of economic turmoil, requires specialized strategies. In recent years, Iran's government and central [bank](../b/bank.md) have employed several tactics to manage and stabilize the Rial.
 
 1. **Central [Bank](../b/bank.md) of Iran (CBI)**: The CBI, established in 1960, is the primary institution responsible for managing the Rial. Its mandate includes regulating [monetary policy](../m/monetary_policy.md), maintaining [currency](../c/currency.md) reserves, and issuing banknotes and coins. The CBI has faced numerous challenges, including dealing with [hyperinflation](../h/hyperinflation.md) and ensuring adequate [liquidity](../l/liquidity.md) in the [market](../m/market.md).
-   
-   - [Central Bank of Iran](https://www.cbi.ir)
-   
+
+ - Central Bank of Iran
+
 2. **[Multiple](../m/multiple.md) [Exchange](../e/exchange.md) Rates**: Iran has experimented with [multiple](../m/multiple.md) [exchange](../e/exchange.md) rates to control [inflation](../i/inflation.md) and manage economic sanctions. Typically, there are at least three [exchange](../e/exchange.md) rates: the official rate, a subsidized rate for essential goods, and a [market](../m/market.md) rate. This system, while intended to prevent mass [inflation](../i/inflation.md), often leads to [currency arbitrage](../c/currency_arbitrage.md), making it more difficult to control the [money supply](../m/money_supply.md) effectively.
 3. **[Foreign Exchange Reserves](../f/foreign_exchange_reserves.md)**: The CBI maintains [foreign exchange reserves](../f/foreign_exchange_reserves.md) to stabilize the Rial. These reserves are critical for ensuring Iran can meet its international [obligations](../o/obligation.md) and [import](../i/import.md) essential goods. However, sanctions and restricted access to international markets have made it difficult for Iran to maintain adequate reserves.
 

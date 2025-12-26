@@ -19,7 +19,7 @@ In [financial markets](../f/financial_market.md), a "Large [Trader](../t/trader.
 ### Large Trader Reporting
 In the United States, large traders are subject to specific reporting requirements under the SEC's Large [Trader](../t/trader.md) Reporting Rule (Rule 13h-1). This rule requires large traders to register with the SEC and disclose their Large [Trader](../t/trader.md) Identification Number (LTID) to their [broker](../b/broker.md)-dealers. [Broker](../b/broker.md)-dealers, in turn, are required to maintain and report [transaction](../t/transaction.md) records for large traders' accounts.
 
-More about the SEC's regulation can be found on their website: [SEC Large Trader](https://www.sec.gov/divisions/marketreg/large-trader-faqs.htm)
+More about the SEC's regulation can be found through its online channels: SEC Large Trader
 
 ### Impact on Markets
 1. **[Liquidity](../l/liquidity.md)**: Large traders can provide significant [liquidity](../l/liquidity.md) to the markets, enabling smoother transactions.
@@ -27,7 +27,7 @@ More about the SEC's regulation can be found on their website: [SEC Large Trader
 3. **[Market](../m/market.md) Trends**: Large traders can influence trends, especially if many large traders follow similar strategies or react similarly to [market](../m/market.md) news.
 
 ### Strategies Used by Large Traders
-1. **[Algorithmic Trading](../a/accountability.md)**: Utilization of automated [trading strategies](../t/trading_strategies.md) to execute large orders efficiently and minimize [market](../m/market.md) impact.
+1. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Utilization of automated [trading strategies](../t/trading_strategies.md) to execute large orders efficiently and minimize [market](../m/market.md) impact.
 2. **High-Frequency Trading**: High-speed trading to capture small price discrepancies across markets.
 3. **[Arbitrage](../a/arbitrage.md)**: Taking advantage of price differences in different markets or securities.
 4. **[Momentum Trading](../m/momentum_trading.md)**: Capitalizing on [market](../m/market.md) trends by following the [momentum](../m/momentum.md) of [security](../s/security.md) prices.
@@ -40,19 +40,14 @@ Large traders typically invest heavily in technology and [infrastructure](../i/i
 Several leading companies provide services tailored to the needs of large traders, [offering](../o/offering.md) technology, platforms, and [market](../m/market.md) data.
 
 1. **[Bloomberg](../b/bloomberg.md)**: Offers extensive financial [software tools](../s/software_tools_for_trading.md), analytics, and data services.
-   [Bloomberg](https://www.bloomberg.com)
 
 2. **Goldman Sachs**: Provides [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) services.
-   [Goldman Sachs](https://www.goldmansachs.com)
 
 3. **Morgan Stanley**: Offers [asset management](../a/asset_management.md), [wealth management](../w/wealth_management.md), and [brokerage services](../b/brokerage_services.md).
-   [Morgan Stanley](https://www.morganstanley.com)
 
 4. **Citadel**: A global financial institution with a focus on [hedge fund](../h/hedge_fund.md) management and [market](../m/market.md)-making.
-   [Citadel](https://www.citadel.com)
 
 5. **BlackRock**: The world's largest [asset](../a/asset.md) manager, providing a broad [range](../r/range.md) of [investment management](../i/investment_management.md) services.
-   [BlackRock](https://www.blackrock.com)
 
 ### Risks Associated with Large Trading
 1. **[Market](../m/market.md) Impact**: The sheer size of trades can move markets adversely, impacting [liquidity](../l/liquidity.md) and prices.

@@ -89,6 +89,6 @@ For more detailed information on specific company applications or additional nua
 
 To explore further, consider these organizations that [offer](../o/offer.md) extensive resources and services in executive compensation and SARs:
 
-- [Willis Towers Watson](https://www.wtwco.com)
-- [Mercer](https://www.mercer.com)
-- [Deloitte](https://www2.deloitte.com)
+- Willis Towers Watson
+- Mercer
+- Deloitte

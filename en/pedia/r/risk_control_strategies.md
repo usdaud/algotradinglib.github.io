@@ -102,8 +102,8 @@ Example: Ensuring that [trading systems](../t/trading_systems.md) comply with [M
 
 For more detailed information and solutions related to [risk control](../r/risk_control.md) strategies in [algorithmic trading](../a/algorithmic_trading.md), you can explore companies like:
 
-- [Numerix](https://www.numerix.com/)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [QuantConnect](https://www.quantconnect.com/)
+- Numerix
+- Bloomberg Terminal
+- QuantConnect
 
 These platforms [offer](../o/offer.md) a [range](../r/range.md) of tools and services that assist traders and financial institutions in managing [risk](../r/risk.md) effectively while optimizing their [algorithmic trading](../a/algorithmic_trading.md) strategies.

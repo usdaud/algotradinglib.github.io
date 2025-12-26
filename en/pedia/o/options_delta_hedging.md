@@ -51,7 +51,7 @@ Professional traders, such as [market](../m/market.md) makers and [hedge](../h/h
 
 With the advent of high-frequency trading (HFT) and sophisticated algorithms, [delta hedging](../d/delta_hedging.md) can be automated. [Algorithmic trading](../a/algorithmic_trading.md) platforms can execute [delta](../d/delta.md)-[neutral](../n/neutral.md) strategies in milliseconds, taking advantage of [market](../m/market.md) inefficiencies and reducing human error.
 
-- **Automated Platforms**: Companies like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) provide platforms for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including [delta hedging](../d/delta_hedging.md).
+- **Automated Platforms**: Companies like QuantConnect and AlgoTrader provide platforms for developing and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, including [delta hedging](../d/delta_hedging.md).
 
 ## Benefits and Challenges
 
@@ -71,4 +71,4 @@ With the advent of high-frequency trading (HFT) and sophisticated algorithms, [d
 
 [Options](../o/options.md) [Delta Hedging](../d/delta_hedging.md) is an essential strategy for managing [risk](../r/risk.md) in [options](../o/options.md) trading. By achieving a [delta](../d/delta.md)-[neutral](../n/neutral.md) position, traders can insulate themselves from small price movements in the [underlying asset](../u/underlying_asset.md). While it offers significant benefits, such as reduced [risk](../r/risk.md) and improved [liquidity](../l/liquidity.md), it also presents challenges like high [transaction costs](../t/transaction_costs.md) and the need for continuous [rebalancing](../r/rebalancing.md). In modern trading, advanced algorithms and automated platforms have made [delta hedging](../d/delta_hedging.md) more accessible, enabling traders to execute these strategies with greater precision and speed.
 
-For those looking to implement [Delta Hedging](../d/delta_hedging.md) strategies programmatically, platforms like [QuantConnect](https://www.quantconnect.com/) and [AlgoTrader](https://www.algotrader.com/) [offer](../o/offer.md) the necessary tools and [infrastructure](../i/infrastructure.md).
+For those looking to implement [Delta Hedging](../d/delta_hedging.md) strategies programmatically, platforms like QuantConnect and AlgoTrader [offer](../o/offer.md) the necessary tools and [infrastructure](../i/infrastructure.md).

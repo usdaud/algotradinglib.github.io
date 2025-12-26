@@ -1,6 +1,6 @@
 # Federal Agencies
 
-Federal agencies play an essential role in the overall functioning of the United States government. These agencies, often referred to as administrative agencies or regulatory agencies, are established by Congress to carry out specific mandates that have a profound impact on various aspects of public life. They are bestowed with significant authority to interpret, administer, and enforce legislation, effectively bridging the legislative gap by operationalizing laws passed by Congress. This document aims to explore several significant federal agencies, detailing their roles, responsibilities, and the impact they have on American society. 
+Federal agencies play an essential role in the overall functioning of the United States government. These agencies, often referred to as administrative agencies or regulatory agencies, are established by Congress to carry out specific mandates that have a profound impact on various aspects of public life. They are bestowed with significant authority to interpret, administer, and enforce legislation, effectively bridging the legislative gap by operationalizing laws passed by Congress. This document aims to explore several significant federal agencies, detailing their roles, responsibilities, and the impact they have on American society.
 
 ## Securities and Exchange Commission (SEC)
 
@@ -16,7 +16,7 @@ The Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md)
 The SEC's policies and enforcement actions significantly impact companies, investors, and the overall [economy](../e/economy.md). By ensuring [transparency](../t/transparency.md) and accountability, the SEC helps to foster a stable and trustworthy financial environment conducive to investment and [economic growth](../e/economic_growth.md).
 
 ### Resource
-Visit [Securities and Exchange Commission](https://www.sec.gov) for more information.
+Visit Securities and Exchange Commission for more information.
 
 ## Federal Reserve System (The Fed)
 
@@ -31,7 +31,7 @@ The Federal Reserve System, commonly known as the Federal Reserve or simply "the
 The Federal Reserve's policies have a broad and profound impact on the U.S. [economy](../e/economy.md). Through its control over [monetary policy](../m/monetary_policy.md), it can influence [inflation](../i/inflation.md), employment, and overall [economic growth](../e/economic_growth.md).
 
 ### Resource
-For more details, visit [Federal Reserve](https://www.federalreserve.gov).
+For more details, visit Federal Reserve.
 
 ## Federal Trade Commission (FTC)
 
@@ -46,7 +46,7 @@ The Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC) is an 
 The FTC's efforts in promoting fair competition and consumer protection are vital for maintaining a balanced and fair economic landscape in the United States. Its regulatory actions help ensure that consumers can [trust](../t/trust.md) products and services and that businesses operate on an even playing field.
 
 ### Resource
-More information is available on the [Federal Trade Commission](https://www.ftc.gov) website.
+
 
 ## Environmental Protection Agency (EPA)
 
@@ -62,7 +62,7 @@ The Environmental Protection Agency (EPA) is an independent federal agency taske
 The EPA’s regulations and initiatives play an instrumental role in preserving the environment, improving public health, and fostering sustainable practices that benefit society and the [economy](../e/economy.md).
 
 ### Resource
-For additional information, visit the [Environmental Protection Agency](https://www.epa.gov).
+For additional information, visit the Environmental Protection Agency.
 
 ## Department of Homeland Security (DHS)
 
@@ -78,7 +78,7 @@ The Department of Homeland [Security](../s/security.md) (DHS) is a federal agenc
 By focusing on a multitude of [security](../s/security.md) dimensions, the DHS plays a crucial role in ensuring the safety and well-being of U.S. citizens. Its efforts are fundamental to protecting the nation from diverse threats, ranging from terrorism and cyberattacks to natural disasters.
 
 ### Resource
-Additional details can be found on the [Department of Homeland Security](https://www.dhs.gov) website.
+
 
 ## Federal Communications Commission (FCC)
 
@@ -94,7 +94,7 @@ The Federal Communications [Commission](../c/commission.md) (FCC) is an independ
 The FCC’s regulatory framework is essential for maintaining [robust](../r/robust.md), competitive, and efficient communication systems, which are fundamental to modern society and [economy](../e/economy.md).
 
 ### Resource
-For further information, visit the [Federal Communications Commission](https://www.fcc.gov) website.
+
 
 ## Food and Drug Administration (FDA)
 
@@ -110,7 +110,7 @@ The Food and Drug Administration (FDA) is an agency within the Department of Hea
 The FDA’s vigilance in regulating products that influence public health is crucial for ensuring the safety and well-being of consumers and maintaining [trust](../t/trust.md) in the various industries it oversees.
 
 ### Resource
-Visit the [Food and Drug Administration](https://www.fda.gov) website for more details.
+
 
 ## Internal Revenue Service (IRS)
 
@@ -126,7 +126,7 @@ The Internal [Revenue](../r/revenue.md) Service (IRS) is the federal agency resp
 The IRS's ability to efficiently collect [taxes](../t/taxes.md) is fundamental for funding the federal government and its numerous public services. Its role is pivotal in maintaining the fiscal stability and financial integrity of the United States.
 
 ### Resource
-For more information, visit the [Internal Revenue Service](https://www.irs.gov) website.
+
 
 ## Federal Bureau of Investigation (FBI)
 
@@ -142,6 +142,6 @@ The Federal Bureau of Investigation (FBI) is the [principal](../p/principal.md) 
 The FBI's diverse and vital functions have a far-reaching impact on national [security](../s/security.md) and public safety, contributing to a safer environment for all U.S. residents.
 
 ### Resource
-For further information, visit the [Federal Bureau of Investigation](https://www.fbi.gov) website.
+
 
 These foundational federal agencies, among others, constitute the backbone of the federal government's ability to regulate, support, and protect various dimensions of public and [economic life](../e/economic_life.md) in the United States. Each agency carries out specialized roles vital to maintaining [order](../o/order.md), promoting fairness, and fostering growth within their respective jurisdictions.

@@ -63,8 +63,7 @@ Understanding the [demand](../d/demand.md) curve is essential in various fields,
 ## Real-World Example
 Consider the tech giant Apple Inc. When Apple launches a new iPhone, it sets a high initial price, and [demand](../d/demand.md) might initially be limited to early adopters. Over time, as the price decreases, the [demand](../d/demand.md) increases, reflecting movement along the [demand](../d/demand.md) curve. Moreover, if a major competitor releases a superior alternative, the [demand](../d/demand.md) for the iPhone may decrease, shifting the [demand](../d/demand.md) curve to the left.
 
-[Apple Inc.](https://www.apple.com)
+Apple Inc.
 
 ## Conclusion
 The [demand](../d/demand.md) curve is a cornerstone of economic theory that aids in understanding consumer behavior and [market dynamics](../m/market_dynamics.md). By analyzing how the [quantity demanded](../q/quantity_demanded.md) of a good changes with its price and other factors, businesses and policymakers can make informed decisions to achieve specific economic objectives.
-

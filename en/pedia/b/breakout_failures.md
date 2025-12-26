@@ -74,15 +74,15 @@ Effective [risk management](../r/risk_management.md) is crucial for handling [br
 
 #### Example 1: Wealth-Lab
 
-[Wealth](../w/wealth.md)-Lab (https://www.[wealth](../w/wealth.md)-lab.com/) offers a [robust](../r/robust.md) [backtesting](../b/backtesting.md) platform where traders can simulate [breakout](../b/breakout.md) strategies and incorporate various filters, including [volume](../v/volume.md) and time, to reduce the incidence of [breakout](../b/breakout.md) failures.
+[Wealth](../w/wealth.md)-Lab ( offers a [robust](../r/robust.md) [backtesting](../b/backtesting.md) platform where traders can simulate [breakout](../b/breakout.md) strategies and incorporate various filters, including [volume](../v/volume.md) and time, to reduce the incidence of [breakout](../b/breakout.md) failures.
 
-#### Example 2: QuantConnect
+#### Example 2: StockSharp
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) provides an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and [machine learning](../m/machine_learning.md) libraries to develop sophisticated strategies that account for [breakout](../b/breakout.md) failures.
+[StockSharp](../s/stocksharp.md) provides an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md). Users can utilize extensive historical data and [machine learning](../m/machine_learning.md) libraries to develop sophisticated strategies that account for [breakout](../b/breakout.md) failures.
 
 #### Example 3: TradeStation
 
-[TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) allows traders to create custom algorithms with EasyLanguage, incorporating rules to detect and respond to [breakout](../b/breakout.md) failures efficiently.
+[TradeStation](../t/tradestation.md) ( allows traders to create custom algorithms with EasyLanguage, incorporating rules to detect and respond to [breakout](../b/breakout.md) failures efficiently.
 
 ---
 
@@ -92,10 +92,10 @@ Effective [risk management](../r/risk_management.md) is crucial for handling [br
 
 **References**
 
-- [Wealth](../w/wealth.md)-Lab: [Wealth-Lab Website](https://www.wealth-lab.com/)
-- [QuantConnect](../q/quantconnect.md): [QuantConnect Website](https://www.quantconnect.com/)
-- [TradeStation](../t/tradestation.md): [TradeStation Website](https://www.tradestation.com/)
+- [Wealth](../w/wealth.md)-Lab:
+- [QuantConnect](../q/quantconnect.md):
+- [TradeStation](../t/tradestation.md):
 
 ---
 
-This article aims to provide an exhaustive understanding of [breakout](../b/breakout.md) failures in [algorithmic trading](../a/algorithmic_trading.md). By leveraging the insights shared, traders and developers can enhance their strategies to withstand the test of volatile markets.
+This article aims to provide an exhaustive understanding of [breakout](../b/breakout.md) failures in [algorithmic trading](../a/algorithmic_trading.md). By leveraging the insights shared, traders and developers can enhance their strategies to withstand the test of volatile markets.

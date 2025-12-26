@@ -94,19 +94,16 @@ While IPOs can [offer](../o/offer.md) numerous benefits, they are not without ri
 
 Google's IPO in 2004 was one of the most highly anticipated and successful IPOs in history. The search giant raised $1.67 billion, with its [shares](../s/shares.md) priced at $85. Today, Alphabet Inc., Google's [parent company](../p/parent_company.md), has become one of the largest companies in the world.
 
-[Google Investor Relations](https://abc.xyz/investor/)
 
 ### Alibaba Group
 
 Alibaba's IPO on the New York Stock [Exchange](../e/exchange.md) in 2014 set a record for the largest IPO ever, raising $25 billion. This IPO helped cement Alibaba's position as a global e-[commerce](../c/commerce.md) giant.
 
-[Alibaba Investor Relations](https://www.alibabagroup.com/en/ir/home)
 
 ### Facebook
 
 Facebook's IPO in 2012 was another landmark event. Although it faced some initial trading issues, it eventually raised $16 billion. Today, Facebook (now Meta Platforms, Inc.) stands as a central figure in the [social media](../s/social_media.md) landscape.
 
-[Meta Investor Relations](https://investor.fb.com/)
 
 ## Conclusion
 

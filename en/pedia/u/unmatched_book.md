@@ -63,7 +63,7 @@ A prominent [Wall Street](../w/wall_street.md) [market](../m/market.md)-maker fa
 
 ## Unmatched Book in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or "algo trading," uses pre-programmed instructions to execute large orders at high speed and [volume](../v/volume.md). Even within the automated world of algo trading, unmatched books can still occur, often due to:
+[Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," uses pre-programmed instructions to execute large orders at high speed and [volume](../v/volume.md). Even within the automated world of algo trading, unmatched books can still occur, often due to:
 
 1. **Latency Issues**: Differences in [execution](../e/execution.md) times between different systems or trading venues.
 2. **Algorithm Errors**: Bugs or errors in the [trading algorithms](../t/trading_algorithms.md) can cause discrepancies.
@@ -86,8 +86,8 @@ A prominent [Wall Street](../w/wall_street.md) [market](../m/market.md)-maker fa
 1. **[Transparency](../t/transparency.md)**: Provides a transparent record of all transactions, making [reconciliation](../r/reconciliation.md) easier.
 2. **Real-Time Settlement**: Enables near-instantaneous settlement, eliminating the settlement fails.
 3. **[Security](../s/security.md)**: Ensures heightened [security](../s/security.md), reducing [fraud](../f/fraud.md) and operational errors.
-   
-For example, companies like **IBM [Blockchain](../b/blockchain_in_trading.md)** (https://www.ibm.com/[blockchain](../b/blockchain_in_trading.md)) are at the forefront of developing [blockchain](../b/blockchain_in_trading.md) solutions for the [financial sector](../f/financial_sector.md), aimed at improving [transaction](../t/transaction.md) [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md).
+
+For example, companies like **IBM [Blockchain](../b/blockchain_in_trading.md)** ( are at the forefront of developing [blockchain](../b/blockchain_in_trading.md) solutions for the [financial sector](../f/financial_sector.md), aimed at improving [transaction](../t/transaction.md) [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md).
 
 ### Machine Learning
 
@@ -105,7 +105,7 @@ Cloud-based [trade](../t/trade.md) matching and settlement solutions [offer](../
 2. **Reliability**: Ensures high availability and disaster recovery.
 3. **Cost-[Efficiency](../e/efficiency.md)**: Reduces costs associated with maintaining on-premise systems.
 
-Companies like **Amazon Web Services** (https://aws.amazon.com/financial-services) [offer](../o/offer.md) comprehensive cloud solutions tailored for the financial [industry](../i/industry.md), aiming to enhance the [operational efficiency](../o/operational_efficiency_in_trading.md) and [scalability](../s/scalability.md) of trading operations.
+Companies like **Amazon Web Services** ( [offer](../o/offer.md) comprehensive cloud solutions tailored for the financial [industry](../i/industry.md), aiming to enhance the [operational efficiency](../o/operational_efficiency_in_trading.md) and [scalability](../s/scalability.md) of trading operations.
 
 ## Conclusion
 

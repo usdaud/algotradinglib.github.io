@@ -61,7 +61,7 @@ In [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), curre
 
 ### Bond Market
 
-Suppose a [trader](../t/trader.md) is evaluating two corporate bonds with similar [credit](../c/credit.md) ratings. 
+Suppose a [trader](../t/trader.md) is evaluating two corporate bonds with similar [credit](../c/credit.md) ratings.
 
 - [Bond](../b/bond.md) A: [Market price](../m/market_price.md) = $950, Annual coupon = $45
 - [Bond](../b/bond.md) B: [Market price](../m/market_price.md) = $1,050, Annual coupon = $55
@@ -91,9 +91,9 @@ Company Y offers a higher current [yield](../y/yield.md), which might make it mo
 
 Several financial platforms provide tools to calculate and compare current yields:
 
-- [Morningstar](https://www.morningstar.com/)
-- [Bloomberg](https://www.bloomberg.com/)
-- [Yahoo Finance](https://finance.yahoo.com/)
+- Morningstar
+- Bloomberg
+- Yahoo Finance
 
 These resources [offer](../o/offer.md) real-time data, allowing investors or algorithms to make informed trading decisions based on current yields.
 

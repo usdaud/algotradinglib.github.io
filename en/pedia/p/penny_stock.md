@@ -51,7 +51,7 @@ The high [volatility](../v/volatility.md) of [penny stocks](../p/penny_stocks.md
 
 ## Regulations
 
-The regulation of [penny stocks](../p/penny_stocks.md) is much stricter today than it was in the past, primarily because of the prevalence of fraudulent schemes involving these securities. 
+The regulation of [penny stocks](../p/penny_stocks.md) is much stricter today than it was in the past, primarily because of the prevalence of fraudulent schemes involving these securities.
 
 ### The Securities and Exchange Commission (SEC)
 In the United States, the SEC has made significant efforts to curb penny stock [fraud](../f/fraud.md). Companies trading under $5 per share face more stringent reporting and [disclosure](../d/disclosure.md) requirements. The goal is to improve [transparency](../t/transparency.md) and reduce opportunities for [fraud](../f/fraud.md).

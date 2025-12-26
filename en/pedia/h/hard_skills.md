@@ -1,13 +1,13 @@
 # Hard Skills
 
-[Algorithmic trading](../a/accountability.md), also known as algo trading or black-box trading, is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a [trade](../t/trade.md) in [order](../o/order.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md). The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from the obvious benefits, some crucial hard skills are vital for anyone aiming to succeed in [algorithmic trading](../a/accountability.md).
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo trading or black-box trading, is the process of using computers programmed to follow a defined set of instructions (an algorithm) for placing a [trade](../t/trade.md) in [order](../o/order.md) to generate profits at a speed and frequency that is impossible for a human [trader](../t/trader.md). The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from the obvious benefits, some crucial hard skills are vital for anyone aiming to succeed in [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Programming Skills
 
 ### Languages and Key Tools
-To engage in [algorithmic trading](../a/accountability.md) effectively, programming is indispensable. The most commonly used programming languages in this domain include:
+To engage in [algorithmic trading](../a/algorithmic_trading.md) effectively, programming is indispensable. The most commonly used programming languages in this domain include:
 
-- **Python**: Python is heavily used in [algorithmic trading](../a/accountability.md) due to its simple syntax, extensive libraries (such as NumPy, pandas, Matplotlib, and SciPy), and frameworks for [machine learning](../m/machine_learning.md) like [TensorFlow](../t/tensorflow.md) and scikit-learn. Python's ability to [handle](../h/handle.md) data manipulation and automate tasks makes it essential.
+- **Python**: Python is heavily used in [algorithmic trading](../a/algorithmic_trading.md) due to its simple syntax, extensive libraries (such as NumPy, pandas, Matplotlib, and SciPy), and frameworks for [machine learning](../m/machine_learning.md) like [TensorFlow](../t/tensorflow.md) and scikit-learn. Python's ability to [handle](../h/handle.md) data manipulation and automate tasks makes it essential.
 - **C++**: Known for its speed and [efficiency](../e/efficiency.md), C++ is often used for high-frequency trading where milliseconds matter. It provides low-level memory manipulation and quick [execution](../e/execution.md).
 - **R**: Specialized in statistical computing and graphics, R is used for developing and testing statistical models.
 - **Java**: Known for its portability and performance, Java is also used in trading platforms for developing large-scale [trading systems](../t/trading_systems.md).
@@ -67,7 +67,7 @@ forecast = model_fit.forecast(steps=10)[0]
 
 ## Financial Knowledge
 
-Understanding the [financial markets](../f/financial_market.md)' mechanisms and products is vital for [algorithmic trading](../a/accountability.md):
+Understanding the [financial markets](../f/financial_market.md)' mechanisms and products is vital for [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Market Types
 - **Equities**: [Stocks](../s/stock.md) and [shares](../s/shares.md).
@@ -118,7 +118,7 @@ Managing [risk](../r/risk.md) effectively ensures that the [trading strategy](..
 
 ## Data Analysis
 
-The backbone of [algorithmic trading](../a/accountability.md) is accurate, extensive, and up-to-date data analysis. Traders require skills to [handle](../h/handle.md) [big data](../b/big_data_in_trading.md), clean it, and derive actionable insights from it:
+The backbone of [algorithmic trading](../a/algorithmic_trading.md) is accurate, extensive, and up-to-date data analysis. Traders require skills to [handle](../h/handle.md) [big data](../b/big_data_in_trading.md), clean it, and derive actionable insights from it:
 
 ### Data Sources
 - **[Market](../m/market.md) Data**: Historical and [real-time market data](../r/real-time_market_data.md), including price, [volume](../v/volume.md), [bid](../b/bid.md)-ask [spreads](../s/spreads.md).
@@ -148,7 +148,7 @@ Proficiency in data analysis empowers traders to build more accurate and reliabl
 
 ## Machine Learning
 
-[Machine learning](../m/machine_learning.md) is increasingly being adopted in [algorithmic trading](../a/accountability.md) to develop data-driven [trading algorithms](../t/trading_algorithms.md). Key aspects include:
+[Machine learning](../m/machine_learning.md) is increasingly being adopted in [algorithmic trading](../a/algorithmic_trading.md) to develop data-driven [trading algorithms](../t/trading_algorithms.md). Key aspects include:
 
 ### Types of Learning
 - **[Supervised Learning](../s/supervised_learning.md)**: Building [predictive models](../p/predictive_models_in_trading.md) from historical labeled data (e.g., stock prices).
@@ -204,6 +204,6 @@ s.close()
 
 ## Conclusion
 
-[Algorithmic trading](../a/accountability.md) requires a multifaceted skillset that blends programming, [quantitative analysis](../q/quantitative_analysis.md), financial knowledge, [risk management](../r/risk_management.md), data analysis, [machine learning](../m/machine_learning.md), and network engineering. Mastering these hard skills can provide a competitive edge in developing, implementing, and optimizing [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md) requires a multifaceted skillset that blends programming, [quantitative analysis](../q/quantitative_analysis.md), financial knowledge, [risk management](../r/risk_management.md), data analysis, [machine learning](../m/machine_learning.md), and network engineering. Mastering these hard skills can provide a competitive edge in developing, implementing, and optimizing [trading algorithms](../t/trading_algorithms.md).
 
 Leveraging the power of modern technology and [mathematical models](../m/mathematical_models_in_trading.md), algorithmic traders can [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities that were previously inaccessible to human traders, driving more efficient and effective [trading strategies](../t/trading_strategies.md).

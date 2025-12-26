@@ -50,5 +50,5 @@ James M. Buchanan Jr. was a pioneering figure in the field of [economics](../e/e
 
 For more information about James M. Buchanan Jr. and his contributions, please visit the following pages:
 
-- [George Mason University - Center for Study of Public Choice](https://www.gmu.edu/centers/publicchoice/faculty/buchanan.html)
-- [Liberty Fund - James M. Buchanan](https://www.libertyfund.org/about/james-m-buchanan)
+- George Mason University - Center for Study of Public Choice
+- Liberty Fund - James M. Buchanan

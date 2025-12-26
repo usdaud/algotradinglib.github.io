@@ -7,21 +7,21 @@ Quick response in trading, often called low-latency trading, refers to the speed
 #### Hardware
 
 1. **Servers and Data Centers**
-   - **Proximity Hosting**: To minimize latency, many traders use servers located physically close to major [exchange](../e/exchange.md) data centers. This practice, known as proximity hosting or co-location, significantly reduces the time it takes for data to travel between the [exchange](../e/exchange.md) and the [trader](../t/trader.md)'s server.
-   - **High-Performance Computing**: The use of high-performance computers with rapid data processing capabilities ensures that [trading algorithms](../t/trading_algorithms.md) can respond instantaneously to [market](../m/market.md) changes.
+ - **Proximity Hosting**: To minimize latency, many traders use servers located physically close to major [exchange](../e/exchange.md) data centers. This practice, known as proximity hosting or co-location, significantly reduces the time it takes for data to travel between the [exchange](../e/exchange.md) and the [trader](../t/trader.md)'s server.
+ - **High-Performance Computing**: The use of high-performance computers with rapid data processing capabilities ensures that [trading algorithms](../t/trading_algorithms.md) can respond instantaneously to [market](../m/market.md) changes.
 
 2. **Networks**
-   - **Fiber Optic Cables**: Utilizing the fastest data transmission methods, such as fiber optic cables, helps ensure that information travels swiftly between different points.
-   - **Microwave Transmission**: In some cases, microwave technology is used to further reduce latency. Microwave signals travel at the speed of light in air, which can be faster than fiber optics over long distances.
+ - **Fiber Optic Cables**: Utilizing the fastest data transmission methods, such as fiber optic cables, helps ensure that information travels swiftly between different points.
+ - **Microwave Transmission**: In some cases, microwave technology is used to further reduce latency. Microwave signals travel at the speed of light in air, which can be faster than fiber optics over long distances.
 
 #### Software
 
 1. **Algorithms**
-   - **[Trading Algorithms](../t/trading_algorithms.md)**: These are coded instructions used to [trade](../t/trade.md) securities based on pre-set criteria. The speed of [execution](../e/execution.md) largely depends on the [efficiency](../e/efficiency.md) of the code. Frequently used languages include C++, Python, and Java.
-   - **Latency Minimization**: The key to quick response lies in minimizing software-induced delays through optimized code that prioritizes speed.
+ - **[Trading Algorithms](../t/trading_algorithms.md)**: These are coded instructions used to [trade](../t/trade.md) securities based on pre-set criteria. The speed of [execution](../e/execution.md) largely depends on the [efficiency](../e/efficiency.md) of the code. Frequently used languages include C++, Python, and Java.
+ - **Latency Minimization**: The key to quick response lies in minimizing software-induced delays through optimized code that prioritizes speed.
 
 2. **Operating Systems**
-   - **Real-Time Operating Systems (RTOS)**: Specific operating systems designed to [handle](../h/handle.md) real-time applications ensure that the system responds without delays, which is critical in a [trading environment](../t/trading_environment.md).
+ - **Real-Time Operating Systems (RTOS)**: Specific operating systems designed to [handle](../h/handle.md) real-time applications ensure that the system responds without delays, which is critical in a [trading environment](../t/trading_environment.md).
 
 ### Strategies Utilized in Quick Response Trading
 
@@ -40,16 +40,16 @@ This involves complex [mathematical models](../m/mathematical_models_in_trading.
 ### Key Players and Institutions
 
 1. **Jane Street**
-   - [Jane Street](https://www.janestreet.com)
-      Jane Street is known for its [quantitative trading](../q/quantitative_trading.md) and sophisticated algorithms. The [firm](../f/firm.md) utilizes cutting-edge technology to execute trades rapidly and efficiently.
+ - Jane Street
+ Jane Street is known for its [quantitative trading](../q/quantitative_trading.md) and sophisticated algorithms. The [firm](../f/firm.md) utilizes cutting-edge technology to execute trades rapidly and efficiently.
 
 2. **Citadel Securities**
-   - [Citadel Securities](https://www.citadelsecurities.com)
-      Citadel Securities specializes in [market](../m/market.md) making and utilizes proprietary technology to ensure quick and accurate [trade](../t/trade.md) executions.
+ - Citadel Securities
+ Citadel Securities specializes in [market](../m/market.md) making and utilizes proprietary technology to ensure quick and accurate [trade](../t/trade.md) executions.
 
 3. **Virtu Financial**
-   - [Virtu Financial](https://www.virtu.com)
-      Virtu Financial is known for its high-frequency [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on minute price movements in the [market](../m/market.md).
+ - Virtu Financial
+ Virtu Financial is known for its high-frequency [trading strategies](../t/trading_strategies.md) that [capitalize](../c/capitalize.md) on minute price movements in the [market](../m/market.md).
 
 ### Challenges in Maintaining Quick Response
 
@@ -70,10 +70,10 @@ Regulatory bodies have scrutinized high-frequency trading practices, citing conc
 #### Emerging Technologies
 
 1. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
-   [Quantum computing](../q/quantum_computing_in_trading.md) could revolutionize quick response by solving complex calculations and processing massive datasets at unprecedented speeds.
+ [Quantum computing](../q/quantum_computing_in_trading.md) could revolutionize quick response by solving complex calculations and processing massive datasets at unprecedented speeds.
 
 2. **[Artificial Intelligence](../a/artificial_intelligence_in_trading.md) and [Machine Learning](../m/machine_learning.md)**
-   AI and ML models can enhance [trading algorithms](../t/trading_algorithms.md) by learning and adapting to [market](../m/market.md) conditions in real-time, potentially improving the speed and accuracy of responses.
+ AI and ML models can enhance [trading algorithms](../t/trading_algorithms.md) by learning and adapting to [market](../m/market.md) conditions in real-time, potentially improving the speed and accuracy of responses.
 
 #### Global Expansion
 

@@ -55,7 +55,7 @@ To dispute a billing error, consumers must send a written notice to the [credito
 
 ### Step 3: Creditor Acknowledgment
 
-Within 30 days of receiving the dispute notice, the [creditor](../c/creditor.md) must acknowledge receipt in writing. 
+Within 30 days of receiving the dispute notice, the [creditor](../c/creditor.md) must acknowledge receipt in writing.
 
 ### Step 4: Investigation
 

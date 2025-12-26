@@ -72,5 +72,4 @@ In response to these criticisms, several reforms have been suggested, including 
 
 The Retail Price [Index](../i/index_instrument.md) (RPI) remains a cornerstone in understanding [inflation](../i/inflation.md) and economic shifts. Despite its drawbacks and criticisms, it continues to be an essential tool for economic analysis, policy-making, and personal [financial planning](../f/financial_planning.md). Continuous updates and methodological improvements ensure that it remains relevant in capturing the changing economic landscape.
 
-For more information on the Retail Price [Index](../i/index_instrument.md) or related data, visit the [Office for National Statistics](https://www.ons.gov.uk).
-
+For more information on the Retail Price [Index](../i/index_instrument.md) or related data, visit the Office for National Statistics.

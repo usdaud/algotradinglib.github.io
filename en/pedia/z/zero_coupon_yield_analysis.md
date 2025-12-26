@@ -5,8 +5,8 @@ Zero Coupon [Yield Analysis](../y/yield_analysis.md) is a methodology used to ev
 ### Fundamentals of Zero-Coupon Bonds
 
 A [zero-coupon bond](../z/zero-coupon_bond.md) is a [bond](../b/bond.md) that:
-1. **Does not pay periodic coupons**: Unlike traditional bonds that pay [interest](../i/interest.md) semiannually or annually, zero-coupon bonds [offer](../o/offer.md) no such cash flows. 
-2. **Sold at a [discount](../d/discount.md)**: Investors purchase zero-coupon bonds at a price significantly lower than the [face value](../f/face_value.md). 
+1. **Does not pay periodic coupons**: Unlike traditional bonds that pay [interest](../i/interest.md) semiannually or annually, zero-coupon bonds [offer](../o/offer.md) no such cash flows.
+2. **Sold at a [discount](../d/discount.md)**: Investors purchase zero-coupon bonds at a price significantly lower than the [face value](../f/face_value.md).
 3. **Pays [face value](../f/face_value.md) at [maturity](../m/maturity.md)**: The [bondholder](../b/bondholder.md) receives a lump sum [payment](../p/payment.md) equal to the [bond](../b/bond.md)'s [face value](../f/face_value.md) when it matures.
 
 Because there are no periodic [interest](../i/interest.md) payments, the only component of [return](../r/return.md) for an [investor](../i/investor.md) in a [zero-coupon bond](../z/zero-coupon_bond.md) is the appreciation in the [bond](../b/bond.md)'s price as it approaches [maturity](../m/maturity.md).
@@ -14,8 +14,8 @@ Because there are no periodic [interest](../i/interest.md) payments, the only co
 ### Yield to Maturity (YTM) Calculation
 
 The [yield to maturity](../y/yield_to_maturity.md) (YTM) of a [zero-coupon bond](../z/zero-coupon_bond.md) provides a measure of the annualized [return](../r/return.md) an [investor](../i/investor.md) can expect if the [bond](../b/bond.md) is held until [maturity](../m/maturity.md). YTM can be calculated using the following formula:
-\[ 
-YTM = \left( \frac{F}{P} \right)^{\frac{1}{T}} - 1 
+\[
+YTM = \left( \frac{F}{P} \right)^{\frac{1}{T}} - 1
 \]
 where:
 - \( F \) is the [face value](../f/face_value.md) of the [bond](../b/bond.md).
@@ -54,14 +54,14 @@ Consider bonds with maturities of 1 year, 2 years, and 3 years and their corresp
 
 First, compute the 1-year zero-coupon [yield](../y/yield.md):
 
-\[ 
+\[
 YTM_1 = \frac{1000}{950} - 1 \approx 0.0526 \text{ or 5.26%}
 \]
 
 Next, derive the [2-year yield](../1/2-year_yield.md) considering both coupons and previously derived 1-year [spot rate](../s/spot_rate.md). For simplicity, assume [continuous compounding](../c/continuous_compounding.md) yields.
 
-\[ 
-1800 = \frac{100}{(1+YTM_1)} + \frac{2100}{(1+YTM_2)^2} 
+\[
+1800 = \frac{100}{(1+YTM_1)} + \frac{2100}{(1+YTM_2)^2}
 \]
 
 Solving iteratively provides \( YTM_2 \).
@@ -72,9 +72,9 @@ Repeat the process for the 3-year [bond](../b/bond.md) to get \( YTM_3 \).
 
 Traders and financial analysts rely on various tools and software to perform zero-coupon [yield analysis](../y/yield_analysis.md):
 1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data, analytics, and tools to analyze [bond](../b/bond.md) yields and construct zero-coupon [yield](../y/yield.md) curves.
-   - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - Bloomberg Terminal
 2. **Matlab and Python**: Financial toolboxes in Matlab and libraries such as NumPy, pandas, and [QuantLib](../q/quantlib.md) in Python can be used for [bond](../b/bond.md) pricing and [yield analysis](../y/yield_analysis.md).
-   - [QuantLib](https://www.quantlib.org/)
+ - QuantLib
 3. **Excel**: Excel’s financial functions can solve for YTM and construct [yield](../y/yield.md) curves with proper scripting.
 
 ### Practical Example: US Treasury STRIPS
@@ -82,7 +82,7 @@ Traders and financial analysts rely on various tools and software to perform zer
 A practical application of zero-coupon bonds is in US [Treasury STRIPS](../t/treasury_strips.md) (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) of Securities). These are used extensively in managing long-term investment strategies and pension [fund](../f/fund.md) liabilities due to their predictable [payment](../p/payment.md) structure.
 
 Official data and trading can be accessed through resources such as:
-- [US Treasury Direct](https://www.treasurydirect.gov)
+- US Treasury Direct
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 # Federal Open Market Committee Meeting (FOMC Meeting)
 
-The Federal [Open Market](../o/open_market.md) Committee (FOMC) is a component of the Federal Reserve System, which is the central [bank](../b/bank.md) of the United States. The FOMC is crucial in setting [monetary policy](../m/monetary_policy.md), which includes guiding the country's [interest](../i/interest.md) rates and giving direction about the economic outlook. FOMC meetings are significant events not only for policymakers but for traders, investors, economists, and the public as they provide insights into the current and future state of the U.S. [economy](../e/economy.md). 
+The Federal [Open Market](../o/open_market.md) Committee (FOMC) is a component of the Federal Reserve System, which is the central [bank](../b/bank.md) of the United States. The FOMC is crucial in setting [monetary policy](../m/monetary_policy.md), which includes guiding the country's [interest](../i/interest.md) rates and giving direction about the economic outlook. FOMC meetings are significant events not only for policymakers but for traders, investors, economists, and the public as they provide insights into the current and future state of the U.S. [economy](../e/economy.md).
 
 ## Composition of the FOMC
 
@@ -54,19 +54,19 @@ The FOMC's role and the methods it uses have evolved over time in response to ch
 1. **Event-Driven Strategies**: Algorithms may incorporate economic calendars and alert systems to [handle](../h/handle.md) FOMC announcements. These strategies might involve adjusting positions just before or after announcements to exploit expected [market](../m/market.md) movements.
 2. **[Sentiment Analysis](../s/sentiment_analysis.md)**: Some algorithms analyze the language used in FOMC statements and minutes to quantify sentiment and predict [market](../m/market.md) reactions. [Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) techniques can be used for this purpose.
 3. **[Trend Following](../t/trend_following.md)**: Post-announcement trends can be [robust](../r/robust.md) due to the high [volume](../v/volume.md) of [market](../m/market.md) participants reacting to new information. Algorithms can deploy [trend](../t/trend.md)-following techniques to [capitalize](../c/capitalize.md) on these movements.
-4. **Policy [Uncertainty](../u/uncertainty_in_trading.md) [Index](../i/index_instrument.md)**: Models might include indices that measure policy [uncertainty](../u/uncertainty_in_trading.md), like those based at [Economic Policy Uncertainty Index](http://www.policyuncertainty.com), to adjust their trading parameters around FOMC meetings.
+4. **Policy [Uncertainty](../u/uncertainty_in_trading.md) [Index](../i/index_instrument.md)**: Models might include indices that measure policy [uncertainty](../u/uncertainty_in_trading.md), like those based at Economic Policy Uncertainty Index, to adjust their trading parameters around FOMC meetings.
 
 ## Major Companies and Platforms
 
 Several major financial companies and platforms provide services and tools for tracking and reacting to FOMC activities:
 
-1. **[Bloomberg](../b/bloomberg.md) LP**: [Bloomberg](../b/bloomberg.md) offers comprehensive coverage of FOMC meetings, including live updates, analysis, and economic data. More information can be found at [Bloomberg](https://www.bloomberg.com).
+1. **[Bloomberg](../b/bloomberg.md) LP**: [Bloomberg](../b/bloomberg.md) offers comprehensive coverage of FOMC meetings, including live updates, analysis, and economic data. More information can be found at Bloomberg.
 
-2. **[Reuters](../r/reuters.md)**: Another leading source for real-time updates and in-depth analysis on FOMC actions and their [market](../m/market.md) implications. Visit [Reuters](https://www.reuters.com).
+2. **[Reuters](../r/reuters.md)**: Another leading source for real-time updates and in-depth analysis on FOMC actions and their [market](../m/market.md) implications. Visit Reuters.
 
 3. **Trading Platforms like MetaTrader and [TradeStation](../t/tradestation.md)**: These platforms allow for the integration of news feeds and economic calendars and provide tools for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to respond to FOMC events.
 
-4. **[Investment Banks](../i/investment_bank_(ib).md) such as Goldman Sachs and JPMorgan Chase**: These firms often publish detailed reports and outlooks on the implications of FOMC decisions. For more, visit [Goldman Sachs](https://www.goldmansachs.com) and [JPMorgan Chase](https://www.jpmorganchase.com).
+4. **[Investment Banks](../i/investment_bank_(ib).md) such as Goldman Sachs and JPMorgan Chase**: These firms often publish detailed reports and outlooks on the implications of FOMC decisions. For more, visit Goldman Sachs and JPMorgan Chase.
 
 ## Conclusion
 

@@ -90,5 +90,4 @@ Despite its growth, the takaful [industry](../i/industry.md) faces several chall
 
 Takaful represents a Sharia-compliant alternative to conventional [insurance](../i/insurance.md), grounded in the principles of mutual assistance and shared responsibility. Its emphasis on ethics and community makes it an attractive choice for many, particularly in regions with a significant Muslim population. Despite the challenges it faces, the growth and adaptation of takaful showcase its potential as a [robust](../r/robust.md) model for [risk management](../r/risk_management.md) and financial protection in a manner that aligns with Islamic principles.
 
-For more detailed information and services provided by Takaful companies, you can visit [Takaful International Company](https://www.takafulinternational.com/) or [SALAMA Islamic Arab Insurance Company](https://www.salama.ae/).
-
+For more detailed information and services provided by Takaful companies, you can visit Takaful International Company or SALAMA Islamic Arab Insurance Company.

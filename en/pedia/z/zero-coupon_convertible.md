@@ -25,19 +25,19 @@ In a zero-coupon [convertible bond](../c/convertible_bond.md), the [bondholder](
 The [valuation](../v/valuation.md) of zero-coupon convertibles can be complex due to their dual nature as both fixed-[income](../i/income.md) and [equity](../e/equity.md) instruments. The following components are considered in their [valuation](../v/valuation.md):
 
 1. **[Present Value](../p/present_value.md) of the [Zero-Coupon Bond](../z/zero-coupon_bond.md):**
-   The zero-coupon [convertible bond](../c/convertible_bond.md)'s [value](../v/value.md) starts with the [present value](../p/present_value.md) of its face amount, discounted at the appropriate [risk](../r/risk.md)-free rate over the term of the [bond](../b/bond.md).
+ The zero-coupon [convertible bond](../c/convertible_bond.md)'s [value](../v/value.md) starts with the [present value](../p/present_value.md) of its face amount, discounted at the appropriate [risk](../r/risk.md)-free rate over the term of the [bond](../b/bond.md).
 
 2. **Conversion Option [Value](../v/value.md):**
-   This is the [value](../v/value.md) of the option to convert the [bond](../b/bond.md) into [equity](../e/equity.md). It is generally calculated using [option pricing models](../o/option_pricing_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), which consider factors such as the [volatility](../v/volatility.md) of the [underlying](../u/underlying.md) stock, the time to [maturity](../m/maturity.md), the conversion ratio, and the [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md).
+ This is the [value](../v/value.md) of the option to convert the [bond](../b/bond.md) into [equity](../e/equity.md). It is generally calculated using [option pricing models](../o/option_pricing_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), which consider factors such as the [volatility](../v/volatility.md) of the [underlying](../u/underlying.md) stock, the time to [maturity](../m/maturity.md), the conversion ratio, and the [risk](../r/risk.md)-free [interest rate](../i/interest_rate.md).
 
 3. **Implied [Volatility](../v/volatility.md):**
-   The [volatility](../v/volatility.md) of the [issuer](../i/issuer.md)'s stock plays a significant role in determining the [value](../v/value.md) of the conversion option. Higher [volatility](../v/volatility.md) increases the potential [value](../v/value.md) of the option.
+ The [volatility](../v/volatility.md) of the [issuer](../i/issuer.md)'s stock plays a significant role in determining the [value](../v/value.md) of the conversion option. Higher [volatility](../v/volatility.md) increases the potential [value](../v/value.md) of the option.
 
 4. **[Credit Rating](../c/credit_rating.md):**
-   The [issuer](../i/issuer.md)'s [credit rating](../c/credit_rating.md) affects the [bond](../b/bond.md)'s overall [discount rate](../d/discount_rate.md) and [risk](../r/risk.md) profile. Lower [credit](../c/credit.md) ratings translate to higher [risk](../r/risk.md) and thus [demand](../d/demand.md) higher [discount](../d/discount.md) rates.
+ The [issuer](../i/issuer.md)'s [credit rating](../c/credit_rating.md) affects the [bond](../b/bond.md)'s overall [discount rate](../d/discount_rate.md) and [risk](../r/risk.md) profile. Lower [credit](../c/credit.md) ratings translate to higher [risk](../r/risk.md) and thus [demand](../d/demand.md) higher [discount](../d/discount.md) rates.
 
 5. **[Interest Rate](../i/interest_rate.md) Environment:**
-   Prevailing [interest](../i/interest.md) rates also influence the [valuation](../v/valuation.md), as changes in [interest](../i/interest.md) rates affect the [present value](../p/present_value.md) calculations for fixed-[income](../i/income.md) components.
+ Prevailing [interest](../i/interest.md) rates also influence the [valuation](../v/valuation.md), as changes in [interest](../i/interest.md) rates affect the [present value](../p/present_value.md) calculations for fixed-[income](../i/income.md) components.
 
 ## Benefits of Zero-Coupon Convertibles
 
@@ -81,7 +81,6 @@ High [volatility](../v/volatility.md) can affect the [valuation](../v/valuation.
 
 In 2019, Tesla issued zero-coupon convertible bonds to raise [capital](../c/capital.md) without diluting its existing shareholders. These bonds offered investors the option to convert into Tesla [shares](../s/shares.md) while providing Tesla with low-[interest](../i/interest.md) [capital](../c/capital.md), allowing them to manage their [cash flow](../c/cash_flow.md) effectively during periods of heavy investment.
 
-For more details on Tesla's financial instruments, visit [Tesla Investor Relations](https://ir.tesla.com).
 
 ## Conclusion
 

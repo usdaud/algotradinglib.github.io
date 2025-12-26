@@ -12,14 +12,14 @@ One of the most straightforward techniques for locking in profits involves setti
 ### Trailing Stop Orders
 A [trailing stop](../t/trailing_stop.md) [order](../o/order.md) is a type of [stop-loss order](../s/stop-loss_order.md) that adjusts itself as the price of a [security](../s/security.md) moves in favor of the [trader](../t/trader.md). Instead of setting a static price at which to execute the [trade](../t/trade.md), the [trailing stop](../t/trailing_stop.md) allows the [trade](../t/trade.md) to continue gaining [value](../v/value.md) while simultaneously adjusting the stop level to lock in profits. If the [market price](../m/market_price.md) starts moving against the [trader](../t/trader.md)’s position, the [trailing stop](../t/trailing_stop.md) [order](../o/order.md) gets triggered and the position is closed.
 
-### Scaling Out 
+### Scaling Out
 Scaling out involves gradually selling portions of a position as the price moves higher. This approach allows traders to lock in partial profits while keeping some exposure to potential further gains. It reduces the emotional strain and the [risk](../r/risk.md) of making all-or-nothing decisions in volatile markets.
 
 ### Options Strategy
 [Options](../o/options.md) can also be used to lock in profits. For instance, an [investor](../i/investor.md) holding a long position in a stock could purchase [put options](../p/put_options.md) to [hedge](../h/hedge.md) against a potential downside while still benefiting from any upward movement. Often referred to as a [protective put](../p/protective_put.md), this strategy limits the losses while allowing gains from the increase in stock prices.
 
 ### Hedging
-Hedging involves taking an opposite position in a related [security](../s/security.md) to mitigate potential losses from an existing position. By using [futures](../f/futures.md), [options](../o/options.md), or other financial instruments, traders can effectively lock in some or all of their profits while protecting against downside risks. 
+Hedging involves taking an opposite position in a related [security](../s/security.md) to mitigate potential losses from an existing position. By using [futures](../f/futures.md), [options](../o/options.md), or other financial instruments, traders can effectively lock in some or all of their profits while protecting against downside risks.
 
 ## Importance in Different Trading Strategies
 
@@ -59,7 +59,7 @@ Another [risk](../r/risk.md)/reward adjustment strategy is [diversification](../
  Most brokerage platforms [offer](../o/offer.md) built-in tools for setting [profit](../p/profit.md) targets, trailing stops, and other [order types](../o/order_types_in_trading.md) that facilitate locking in profits. Traders should become familiar with their [broker](../b/broker.md)'s platform's specific functionalities to efficiently implement these strategies.
 
 ### Algorithmic Trading Systems
- For sophisticated traders and institutional players, [algorithmic trading](../a/accountability.md) systems can automatically implement [profit](../p/profit.md)-locking strategies. These systems use complex algorithms to analyze [market](../m/market.md) conditions, execute trades, and adjust orders in real time to optimize [profit](../p/profit.md) locking.
+ For sophisticated traders and institutional players, [algorithmic trading](../a/algorithmic_trading.md) systems can automatically implement [profit](../p/profit.md)-locking strategies. These systems use complex algorithms to analyze [market](../m/market.md) conditions, execute trades, and adjust orders in real time to optimize [profit](../p/profit.md) locking.
 
 ### Trading Software
  Several software solutions are available specifically designed to assist traders in locking in profits. These tools often provide advanced charting, analytical instruments, and automated trading capabilities to enhance decision-making.

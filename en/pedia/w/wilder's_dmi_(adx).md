@@ -17,37 +17,37 @@ The Directional Movement [Index](../i/index_instrument.md) is comprised of three
 The calculations for the +DI and -DI lines are relatively straightforward and consist of several steps:
 
 1. **True [Range](../r/range.md) (TR)**: The true [range](../r/range.md) is the greatest of the following:
-   - Current high minus current low
-   - Absolute [value](../v/value.md) of the current high minus the previous close
-   - Absolute [value](../v/value.md) of the current low minus the previous close
-   
-   \[
-   TR = \max[(\text{current high} - \text{current low}), \|(\text{current high} - \text{previous close})\|, \|(\text{current low} - \text{previous close})\|]
-   \]
+ - Current high minus current low
+ - Absolute [value](../v/value.md) of the current high minus the previous close
+ - Absolute [value](../v/value.md) of the current low minus the previous close
+
+ \[
+ TR = \max[(\text{current high} - \text{current low}), \|(\text{current high} - \text{previous close})\|, \|(\text{current low} - \text{previous close})\|]
+ \]
 
 2. **Directional Movement (DM)**:
-   - Positive Directional Movement (+DM): If the current high minus the previous high is greater than the previous low minus the current low, and greater than zero, then +DM is the current high minus the previous high. Otherwise, +DM is zero.
-   - Negative Directional Movement (-DM): If the previous low minus the current low is greater than the current high minus the previous high, and greater than zero, then -DM is the previous low minus the current low. Otherwise, -DM is zero.
+ - Positive Directional Movement (+DM): If the current high minus the previous high is greater than the previous low minus the current low, and greater than zero, then +DM is the current high minus the previous high. Otherwise, +DM is zero.
+ - Negative Directional Movement (-DM): If the previous low minus the current low is greater than the current high minus the previous high, and greater than zero, then -DM is the previous low minus the current low. Otherwise, -DM is zero.
 
-   \[
-   +DM = (\text{current high} - \text{previous high}) \, \text{(if \, it too \, is \, greater \, than \, the \, other)}
-   \]
-   
-   \[
-   -DM = (\text{previous low} - \text{current low}) \, \text{(if \, it \, is \, greater \, than \, the \, other)}
-   \]
+ \[
+ +DM = (\text{current high} - \text{previous high}) \, \text{(if \, it too \, is \, greater \, than \, the \, other)}
+ \]
+
+ \[
+ -DM = (\text{previous low} - \text{current low}) \, \text{(if \, it \, is \, greater \, than \, the \, other)}
+ \]
 
 3. **Smoothen the DI**: Calculate the smooth average of the Directional Movement over a set period (usually 14 days):
 
-   \[
-   +DI = 100 \times (\operatorname{Smoothed +DM}/\operatorname{ATR})
-   \]
-   
-   \[
-   -DI = 100 \times (\operatorname{Smoothed -DM}/\operatorname{ATR})
-   \]
-   
-   Where ATR ([Average True Range](../a/average_true_range_(atr).md)) is the smoothened True [Range](../r/range.md) over the same period.
+ \[
+ +DI = 100 \times (\operatorname{Smoothed +DM}/\operatorname{ATR})
+ \]
+
+ \[
+ -DI = 100 \times (\operatorname{Smoothed -DM}/\operatorname{ATR})
+ \]
+
+ Where ATR ([Average True Range](../a/average_true_range_(atr).md)) is the smoothened True [Range](../r/range.md) over the same period.
 
 ### Calculating the ADX
 
@@ -55,16 +55,16 @@ After obtaining +DI and -DI, the ADX itself can be calculated through the follow
 
 1. **Directional Movement (DX)**: This computes the absolute difference between the +DI and -DI lines, divided by the sum of the +DI and -DI lines, then multiplied by 100:
 
-   \[
-   DX = \frac{\left|(+DI) - (-DI)\right|}{(+DI) + (-DI)} \times 100
-   \]
+ \[
+ DX = \frac{\left|(+DI) - (-DI)\right|}{(+DI) + (-DI)} \times 100
+ \]
 
 2. **Average DX (ADX)**:
-   Smooth the DX values over a set period ([default](../d/default.md) is usually 14 days). The ADX values indicate the strength of the [trend](../t/trend.md):
-   
-   \[
-   ADX = \operatorname{Smooth\ Average\ of\ } DX
-   \]
+ Smooth the DX values over a set period ([default](../d/default.md) is usually 14 days). The ADX values indicate the strength of the [trend](../t/trend.md):
+
+ \[
+ ADX = \operatorname{Smooth\ Average\ of\ } DX
+ \]
 
 ## Interpreting ADX Values
 
@@ -95,13 +95,13 @@ Although less common, ADX can also be used in conjunction with +DI and -DI lines
 
 Let's consider a real-world application of ADX in stock trading:
 
-Suppose a [trader](../t/trader.md) is monitoring the stock of [Tesla, Inc.](https://www.tesla.com). The [trader](../t/trader.md) can add the ADX [indicator](../i/indicator.md) to their [technical analysis](../t/technical_analysis.md) chart. If the ADX line crosses above 20 while the +DI line is above the -DI line, the [trader](../t/trader.md) may interpret this as a signal to go long, expecting the stock's [uptrend](../u/uptrend.md) to continue.
+Suppose a [trader](../t/trader.md) is monitoring the stock of Tesla, Inc.. The [trader](../t/trader.md) can add the ADX [indicator](../i/indicator.md) to their [technical analysis](../t/technical_analysis.md) chart. If the ADX line crosses above 20 while the +DI line is above the -DI line, the [trader](../t/trader.md) may interpret this as a signal to go long, expecting the stock's [uptrend](../u/uptrend.md) to continue.
 
 Similarly, if the ADX crosses below 20, it could signal a weakening [trend](../t/trend.md), prompting the [trader](../t/trader.md) to exit their position or implement [risk management](../r/risk_management.md) strategies.
 
 ## Integration with Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), ADX can be utilized in developing automated [trading strategies](../t/trading_strategies.md). Here's how:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), ADX can be utilized in developing automated [trading strategies](../t/trading_strategies.md). Here's how:
 
 ### Coded Strategies
 

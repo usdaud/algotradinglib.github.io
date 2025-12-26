@@ -1,6 +1,6 @@
 # Kazakhstan Stock Exchange (KASE)
 
-The Kazakhstan Stock [Exchange](../e/exchange.md) (KASE) is the [principal](../p/principal.md) [trading platform](../t/trading_platform.md) for securities and other financial instruments in Kazakhstan. It plays a pivotal role in the economic and financial landscape of the country, acting as a hub for [capital](../c/capital.md) [market](../m/market.md) activities. This comprehensive overview [will](../w/will.md) cover the history, structure, functions, regulations, and various other facets of KASE. 
+The Kazakhstan Stock [Exchange](../e/exchange.md) (KASE) is the [principal](../p/principal.md) [trading platform](../t/trading_platform.md) for securities and other financial instruments in Kazakhstan. It plays a pivotal role in the economic and financial landscape of the country, acting as a hub for [capital](../c/capital.md) [market](../m/market.md) activities. This comprehensive overview [will](../w/will.md) cover the history, structure, functions, regulations, and various other facets of KASE.
 
 ## History and Background
 
@@ -123,7 +123,7 @@ While the prospects are promising, KASE faces several challenges:
 - **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Managing risks associated with [market](../m/market.md) [volatility](../v/volatility.md) and economic uncertainties.
 - **Competition**: Competing with other regional and global exchanges for listings and [investor](../i/investor.md) attention.
 
-For more information, you can visit the official KASE website: [Kazakhstan Stock Exchange (KASE)](https://kase.kz/en/).
+
 
 ## Statistical Insights
 
@@ -141,7 +141,7 @@ As of 2022, there were over 110 companies [listed](../l/listed.md) on KASE, repr
 
 ## Protocols for Algorithmic Trading
 
-KASE supports [algorithmic trading](../a/accountability.md) and provides the necessary [infrastructure](../i/infrastructure.md) for high-frequency trading (HFT). Key protocols include:
+KASE supports [algorithmic trading](../a/algorithmic_trading.md) and provides the necessary [infrastructure](../i/infrastructure.md) for high-frequency trading (HFT). Key protocols include:
 
 ### FIX Protocol
 
@@ -157,7 +157,7 @@ KASE provides API access to its [trading systems](../t/trading_systems.md), enab
 
 ### Risk Controls
 
-To ensure [market](../m/market.md) stability, KASE implements rigorous [risk](../r/risk.md) controls on [algorithmic trading](../a/accountability.md) activities. These include pre-[trade](../t/trade.md) [risk](../r/risk.md) checks, real-time monitoring, and post-[trade](../t/trade.md) surveillance.
+To ensure [market](../m/market.md) stability, KASE implements rigorous [risk](../r/risk.md) controls on [algorithmic trading](../a/algorithmic_trading.md) activities. These include pre-[trade](../t/trade.md) [risk](../r/risk.md) checks, real-time monitoring, and post-[trade](../t/trade.md) surveillance.
 
 ## Conclusion
 

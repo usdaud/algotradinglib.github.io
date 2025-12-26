@@ -11,19 +11,19 @@
 Coverage B typically encompasses several categories of claims, including but not limited to:
 
 1. **Third-Party Over Actions**:
-    - This arises when an injured employee sues a [third party](../t/third_party.md) (such as a contractor or equipment manufacturer) who may then sue the employer for contribution or indemnification. 
+ - This arises when an injured employee sues a [third party](../t/third_party.md) (such as a contractor or equipment manufacturer) who may then sue the employer for contribution or indemnification.
 
 2. **Loss of Consortium**:
-    - Spouses of injured workers may sue the employer for loss of companionship or support resulting from the employee's injury.
+ - Spouses of injured workers may sue the employer for loss of companionship or support resulting from the employee's injury.
 
 3. **Dual Capacity Claims**:
-    - When an employer acts in a different capacity than that of an employer (such as a manufacturer of a defective product that caused the injury).
+ - When an employer acts in a different capacity than that of an employer (such as a manufacturer of a defective product that caused the injury).
 
 4. **Consequential Bodily Injury**:
-    - Injuries sustained by a [third party](../t/third_party.md) (such as a family member) as a consequence of the worker’s injury.
+ - Injuries sustained by a [third party](../t/third_party.md) (such as a family member) as a consequence of the worker’s injury.
 
 5. **[Independent Contractor](../i/independent_contractor.md) Claims**:
-    - Situations where an [independent contractor](../i/independent_contractor.md) sues the employer for injuries sustained while working.
+ - Situations where an [independent contractor](../i/independent_contractor.md) sues the employer for injuries sustained while working.
 
 ### Coverage Limits and Conditions
 
@@ -69,7 +69,7 @@ With advancements in technology and the rise of fintech solutions, managing [wor
 
 Pie [Insurance](../i/insurance.md), a technology-driven provider specializing in [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md), utilizes advanced analytics and [machine learning](../m/machine_learning.md) to [offer](../o/offer.md) tailored coverage solutions. By integrating fintech approaches, Pie [Insurance](../i/insurance.md) enhances the [efficiency](../e/efficiency.md) of [underwriting](../u/underwriting.md), claims processing, and [customer service](../c/customer_service.md), demonstrating the potential of technology in modernizing [workers' compensation](../w/workers'_compensation.md) [insurance](../i/insurance.md).
 
-Website: [Pie Insurance](https://www.pieinsurance.com)
+online platform: Pie Insurance
 
 ## Exclusions and Limitations
 
@@ -78,16 +78,16 @@ While Coverage B provides significant protection, it is not all-encompassing. Th
 ### Common Exclusions
 
 1. **Intentional Acts**:
-    - Injuries resulting from intentional acts by the employer are typically excluded from coverage.
+ - Injuries resulting from intentional acts by the employer are typically excluded from coverage.
 
 2. **Punitive Damages**:
-    - Coverage B may not cover punitive damages awarded in a lawsuit, intended to punish the employer for egregious conduct.
+ - Coverage B may not cover punitive damages awarded in a lawsuit, intended to punish the employer for egregious conduct.
 
 3. **Fines and Penalties**:
-    - Regulatory fines and penalties imposed on the employer for safety violations or non-compliance with [workers' compensation](../w/workers'_compensation.md) laws are usually excluded.
+ - Regulatory fines and penalties imposed on the employer for safety violations or non-compliance with [workers' compensation](../w/workers'_compensation.md) laws are usually excluded.
 
 4. **Professional [Liability](../l/liability.md)**:
-    - Claims related to professional errors or omissions (which require separate professional [liability insurance](../l/liability_insurance.md)).
+ - Claims related to professional errors or omissions (which require separate professional [liability insurance](../l/liability_insurance.md)).
 
 ### Policy-Specific Limitations
 

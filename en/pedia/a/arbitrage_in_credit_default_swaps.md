@@ -7,7 +7,7 @@
 ## Basics of Credit Default Swaps (CDS)
 ### What are Credit Default Swaps?
 
-[Credit Default Swaps](../c/credit_default_swaps.md) are essentially a form of [credit](../c/credit.md) [insurance](../i/insurance.md) that pays the holder in the event of a [default](../d/default.md) by the borrower. These financial instruments enable investors to [hedge](../h/hedge.md) against [credit risk](../c/credit_risk.md) or speculate on the [creditworthiness](../c/creditworthiness.md) of a borrower. 
+[Credit Default Swaps](../c/credit_default_swaps.md) are essentially a form of [credit](../c/credit.md) [insurance](../i/insurance.md) that pays the holder in the event of a [default](../d/default.md) by the borrower. These financial instruments enable investors to [hedge](../h/hedge.md) against [credit risk](../c/credit_risk.md) or speculate on the [creditworthiness](../c/creditworthiness.md) of a borrower.
 
 ### Key Participants
 
@@ -34,7 +34,7 @@ The [premium](../p/premium.md) paid by the protection buyer is known as the CDS 
 
 [Basis](../b/basis.md) trading involves taking advantage of the spread difference between a CDS and the [underlying](../u/underlying.md) [bond](../b/bond.md). The [basis](../b/basis.md) is the difference between the CDS spread and the [yield spread](../y/yield_spread.md) of the corresponding [bond](../b/bond.md). A positive [basis](../b/basis.md) indicates the CDS spread is higher than the [bond](../b/bond.md) [yield spread](../y/yield_spread.md), while a negative [basis](../b/basis.md) indicates the reverse.
 
-### Curve Arbitrage 
+### Curve Arbitrage
 
 Curve [arbitrage](../a/arbitrage.md) involves exploiting anomalies in the term structure of CDS [spreads](../s/spreads.md). If the [spreads](../s/spreads.md) of CDS contracts with different maturities do not align as expected, arbitrageurs can enter positions at different points on the curve to [profit](../p/profit.md) from the eventual [correction](../c/correction.md) of these discrepancies.
 
@@ -150,7 +150,7 @@ As the CDS [market](../m/market.md) evolves, new products, indices, and contract
 
 For further information, you can visit some related websites for deeper insights into the participating companies and ongoing [market](../m/market.md) trends:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JP Morgan](https://www.jpmorgan.com/)
-- [Citadel](https://www.citadel.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
+- Goldman Sachs
+- JP Morgan
+- Citadel
+- Renaissance Technologies

@@ -39,13 +39,13 @@ For businesses, balloon [payment](../p/payment.md) loans can provide initial [ca
 ### Advantages
 
 1. **Lower Monthly Payments**: One of the primary advantages of balloon [payment](../p/payment.md) loans is the lower monthly payments compared to a fully [amortized loan](../a/amortized_loan.md). This can free up [cash flow](../c/cash_flow.md) for other uses.
-  
+
 2. **Flexibility**: Such loans can [offer](../o/offer.md) flexibility in [financial planning](../f/financial_planning.md), especially for borrowers expecting increased [income](../i/income.md) or the [sale](../s/sale.md) of the financed [asset](../a/asset.md) before the balloon [payment](../p/payment.md) is due.
 
 ### Disadvantages
 
 1. **[Risk](../r/risk.md) of Large Lump Sum**: The major disadvantage is the significant lump sum due at the end of the term. Borrowers who misjudge their financial trajectory might struggle to make the balloon [payment](../p/payment.md).
-  
+
 2. **Refinancing Dependence**: There is often a reliance on the ability to [refinance](../r/refinance.md) the [loan](../l/loan.md). [Market](../m/market.md) conditions or changes in a borrower's [creditworthiness](../c/creditworthiness.md) can impact the feasibility of refinancing.
 
 ## Practical Considerations

@@ -126,16 +126,16 @@ Institutions managing large portfolios frequently use [order](../o/order.md)-spl
 High-frequency trading (HFT) firms [leverage](../l/leverage.md) sophisticated, [market](../m/market.md) [adaptive algorithms](../a/adaptive_algorithms.md) to execute trades at lightning speeds, often capitalizing on very small price inefficiencies. These firms implement complex models to decide the optimal moment to buy or sell, balancing speed and [market](../m/market.md) impact.
 
 For more information, you can visit some of these leading HFT firms:
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Citadel Securities
+- Two Sigma
+- Virtu Financial
 
 ### Retail Trading Platforms
 
 Retail traders and brokerage platforms also [offer](../o/offer.md) access to basic forms of these algorithms, making sophisticated [trade](../t/trade.md) [execution](../e/execution.md) strategies accessible to individual investors. Platforms like [Interactive Brokers](../i/interactive_brokers.md) and [E*TRADE](../e/e_trade.md) integrate TWAP and VWAP algorithms into their trading interfaces.
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E*TRADE](https://us.etrade.com/home)
+- Interactive Brokers
+- E*TRADE
 
 ## Conclusion
 

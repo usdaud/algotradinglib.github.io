@@ -80,17 +80,17 @@ Techniques such as [Principal Component Analysis](../p/principal_component_analy
 ### Ray Dalio's Bridgewater Associates
 Bridgewater Associates, founded by Ray Dalio, is known for its systematic and [rule-based trading](../r/rule-based_trading.md) strategies. The [firm](../f/firm.md) employs extensive debiasing techniques such as stress-testing models against historical crises and diversifying across [asset](../a/asset.md) classes to mitigate biases.
 
-Website: [Bridgewater Associates](https://www.bridgewater.com/)
+online platform: Bridgewater Associates
 
 ### Renaissance Technologies
 Founded by James Simons, Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods. The [firm](../f/firm.md) is reputed for its rigorous testing and validation processes, including cross-validation and ensemble methods, to reduce biases.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
+online platform: Renaissance Technologies
 
 ### AQR Capital Management
 Cliff Asness's AQR [Capital](../c/capital.md) Management employs sophisticated debiasing techniques such as Bayesian methods and [robust](../r/robust.md) loss functions to enhance their [systematic trading](../s/systematic_trading.md) models' performance.
 
-Website: [AQR Capital Management](https://www.aqr.com/)
+online platform: AQR Capital Management
 
 ## Conclusion
 

@@ -70,6 +70,6 @@ Telegraphic Transfers remain a cornerstone of international [finance](../f/finan
 
 For more information about TT services, you can visit the following links:
 
-- [SWIFT Official Website](https://www.swift.com)
-- [Deloitte's Fintech Industry Insights](https://www2.deloitte.com/global/en/pages/financial-services/articles/gx-deloitte-fintech.html)
-- [HSBC - Global Banking and Markets](https://www.gbm.hsbc.com)
+-
+- Deloitte's Fintech Industry Insights
+- HSBC - Global Banking and Markets

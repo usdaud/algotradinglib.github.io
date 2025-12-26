@@ -2,6 +2,8 @@
 
 Preferred securities, often referred to as [preferred stock](../p/preferred_stock.md), represent a hybrid [financial instrument](../f/financial_instrument.md) that combines features of both [equity](../e/equity.md) and [debt](../d/debt.md). These securities are issued by corporations and are presented to investors as a means of raising [capital](../c/capital.md). The concept of preferred securities embodies various elements that make them distinct and particularly attractive to certain types of investors, predominantly those seeking steady [income](../i/income.md) and relative safety. This comprehensive examination delves into the intricacies of preferred securities, their characteristics, types, advantages, disadvantages, and their role in the broader financial ecosystem.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Characteristics of Preferred Securities
 
 Preferred [stocks](../s/stock.md) have unique attributes that differentiate them from common [stocks](../s/stock.md) and bonds. Key characteristics include:
@@ -85,17 +87,14 @@ Several companies and financial institutions utilize preferred securities as par
 ### Wells Fargo & Company
 Wells Fargo, a major American financial services company, regularly issues [preferred stock](../p/preferred_stock.md) as part of its [capital](../c/capital.md) management strategy. These offerings allow the [bank](../b/bank.md) to maintain a balanced [capital structure](../c/capital_structure.md) while providing attractive investment opportunities to [income](../i/income.md)-focused investors.
 
-[Wells Fargo Preferred Stock Information](https://www.wellsfargo.com)
 
 ### Bank of America Corporation
 [Bank](../b/bank.md) of America, another leading global financial institution, also issues preferred securities to enhance its [capital](../c/capital.md) base and support its lending and investment activities. These securities [offer](../o/offer.md) competitive dividends to attract a broad [range](../r/range.md) of investors.
 
-[Bank of America Preferred Stock Information](https://www.bankofamerica.com)
 
 ### AT&T Inc.
 Telecommunications giant AT&T Inc. issues various preferred securities to raise [capital](../c/capital.md) for its expansive operations. These securities play a crucial role in funding the company's [infrastructure](../i/infrastructure.md) and technological advancements.
 
-[AT&T Preferred Stock Information](https://www.att.com)
 
 ## Conclusion
 

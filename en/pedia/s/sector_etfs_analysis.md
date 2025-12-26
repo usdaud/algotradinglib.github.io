@@ -7,34 +7,34 @@
 ## Types of Sector ETFs
 
 1. **Technology [Sector ETFs](../s/sector_etfs.md)**: This category includes ETFs that focus on companies involved in various aspects of the [technology sector](../t/technology_sector.md), including software, hardware, and services. Examples include:
-   - **Technology Select Sector SPDR [Fund](../f/fund.md) (XLK)**: [Link to XLK](https://www.sectorspdr.com/sectorspdr/sector/xlk)
+ - **Technology Select Sector SPDR [Fund](../f/fund.md) (XLK)**: Link to XLK
 
 2. **Healthcare [Sector ETFs](../s/sector_etfs.md)**: These ETFs target companies in the healthcare [industry](../i/industry.md), including pharmaceuticals, biotechnology, and healthcare providers.
-   - **Health Care Select Sector SPDR [Fund](../f/fund.md) (XLV)**: [Link to XLV](https://www.sectorspdr.com/sectorspdr/sector/xlv)
+ - **Health Care Select Sector SPDR [Fund](../f/fund.md) (XLV)**: Link to XLV
 
 3. **Financial [Sector ETFs](../s/sector_etfs.md)**: Focuses on financial institutions like banks, [insurance](../i/insurance.md) companies, and [asset](../a/asset.md) managers.
-   - **Financial Select Sector SPDR [Fund](../f/fund.md) (XLF)**: [Link to XLF](https://www.sectorspdr.com/sectorspdr/sector/xlf)
+ - **Financial Select Sector SPDR [Fund](../f/fund.md) (XLF)**: Link to XLF
 
 4. **Consumer Discretionary [Sector ETFs](../s/sector_etfs.md)**: Includes companies that produce non-essential goods and services, such as retailers and automotive manufacturers.
-   - **Consumer Discretionary Select Sector SPDR [Fund](../f/fund.md) (XLY)**: [Link to XLY](https://www.sectorspdr.com/sectorspdr/sector/xly)
+ - **Consumer Discretionary Select Sector SPDR [Fund](../f/fund.md) (XLY)**: Link to XLY
 
 5. **Energy [Sector ETFs](../s/sector_etfs.md)**: Focus on companies involved in the production and [distribution](../d/distribution.md) of energy, including oil, gas, and renewable energy sources.
-   - **Energy Select Sector SPDR [Fund](../f/fund.md) (XLE)**: [Link to XLE](https://www.sectorspdr.com/sectorspdr/sector/xle)
+ - **Energy Select Sector SPDR [Fund](../f/fund.md) (XLE)**: Link to XLE
 
 6. **[Consumer Staples](../c/consumer_staples.md) [Sector ETFs](../s/sector_etfs.md)**: Targets companies providing essential goods and services, such as food and beverages, household products, and personal hygiene items.
-   - **[Consumer Staples](../c/consumer_staples.md) Select Sector SPDR [Fund](../f/fund.md) (XLP)**: [Link to XLP](https://www.sectorspdr.com/sectorspdr/sector/xlp)
+ - **[Consumer Staples](../c/consumer_staples.md) Select Sector SPDR [Fund](../f/fund.md) (XLP)**: Link to XLP
 
 7. **Industrial [Sector ETFs](../s/sector_etfs.md)**: Includes companies that produce [capital goods](../c/capital_goods.md), provide commercial services, or are involved in construction and [manufacturing](../m/manufacturing.md).
-   - **Industrial Select Sector SPDR [Fund](../f/fund.md) (XLI)**: [Link to XLI](https://www.sectorspdr.com/sectorspdr/sector/xli)
+ - **Industrial Select Sector SPDR [Fund](../f/fund.md) (XLI)**: Link to XLI
 
 8. **Utilities [Sector ETFs](../s/sector_etfs.md)**: Focuses on companies that provide essential services such as electricity, water, and natural gas.
-   - **Utilities Select Sector SPDR [Fund](../f/fund.md) (XLU)**: [Link to XLU](https://www.sectorspdr.com/sectorspdr/sector/xlu)
+ - **Utilities Select Sector SPDR [Fund](../f/fund.md) (XLU)**: Link to XLU
 
 9. **Materials [Sector ETFs](../s/sector_etfs.md)**: Includes companies involved in the extraction and initial processing of [raw materials](../r/raw_materials.md).
-   - **Materials Select Sector SPDR [Fund](../f/fund.md) (XLB)**: [Link to XLB](https://www.sectorspdr.com/sectorspdr/sector/xlb)
+ - **Materials Select Sector SPDR [Fund](../f/fund.md) (XLB)**: Link to XLB
 
 10. **[Real Estate](../r/real_estate.md) [Sector ETFs](../s/sector_etfs.md)**: Targets companies that engage in [real estate](../r/real_estate.md) development, operations, and management, as well as [Real Estate](../r/real_estate.md) Investment Trusts (REITs).
-    - **[Real Estate](../r/real_estate.md) Select Sector SPDR [Fund](../f/fund.md) (XLRE)**: [Link to XLRE](https://www.sectorspdr.com/sectorspdr/sector/xlre)
+ - **[Real Estate](../r/real_estate.md) Select Sector SPDR [Fund](../f/fund.md) (XLRE)**: Link to XLRE
 
 ## Analysis Methods
 
@@ -130,4 +130,3 @@ When analyzing [Sector ETFs](../s/sector_etfs.md), several [performance metrics]
 ## Conclusion
 
 [Sector ETFs](../s/sector_etfs.md) are a versatile investment tool that can help investors [gain](../g/gain.md) targeted exposure to specific industries within the broader [market](../m/market.md). By understanding the unique characteristics, risks, and opportunities associated with each sector, investors can make more informed decisions and enhance their overall portfolio strategy. Diversifying across various sectors and employing a mix of fundamental, technical, quantitative, and [sentiment analysis](../s/sentiment_analysis.md) can provide a comprehensive approach to Sector ETF [investing](../i/investing.md).
-

@@ -65,11 +65,11 @@ This script calculates the [Z-Score](../z/z-score.md) for each closing price of 
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including Z-Scores, to [trade](../t/trade.md) in [financial markets](../f/financial_market.md). The [firm](../f/firm.md) is known for its quantitative approach and has a stellar track record of returns, largely driven by its ability to exploit statistical anomalies in the [market](../m/market.md). More information about Renaissance Technologies can be found [here](https://www.rentec.com/).
+Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including Z-Scores, to [trade](../t/trade.md) in [financial markets](../f/financial_market.md). The [firm](../f/firm.md) is known for its quantitative approach and has a stellar track record of returns, largely driven by its ability to exploit statistical anomalies in the [market](../m/market.md). More information about Renaissance Technologies can be found here.
 
 ### Two Sigma
 
-Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify trading opportunities and manage [risk](../r/risk.md). Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More details can be found on their [website](https://www.twosigma.com/).
+Two Sigma is another prominent quantitative [hedge fund](../h/hedge_fund.md) that leverages a vast array of data and statistical methods, including Z-Scores, to make trading decisions. The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify trading opportunities and manage [risk](../r/risk.md). Two Sigma's approach involves extensive use of Z-Scores to develop and fine-tune their [trading models](../t/trading_models.md). More
 
 ## Conclusion
 

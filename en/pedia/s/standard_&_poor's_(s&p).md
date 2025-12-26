@@ -45,7 +45,7 @@ S&P operates under the umbrella of S&P Global, a [corporation](../c/corporation.
 3. **S&P Dow Jones Indices:** Manages and licenses [market](../m/market.md) indices.
 4. **S&P Global Platts:** Specializes in energy and commodities information.
 
-Visit [S&P Global](https://www.spglobal.com/) for more information.
+Visit S&P Global for more information.
 
 ## Analytical Services
 
@@ -69,7 +69,7 @@ In recent years, S&P has integrated advanced technologies like AI and [Big Data 
 
 ### Algotrading
 
-For [algorithmic trading](../a/accountability.md), S&P provides datasets that can be integrated into [trading algorithms](../t/trading_algorithms.md) to optimize investment strategies. [Data analytics](../d/data_analytics.md) platforms can use S&P's data to create [predictive models](../p/predictive_models_in_trading.md), back-test strategies, and set automated trading parameters.
+For [algorithmic trading](../a/algorithmic_trading.md), S&P provides datasets that can be integrated into [trading algorithms](../t/trading_algorithms.md) to optimize investment strategies. [Data analytics](../d/data_analytics.md) platforms can use S&P's data to create [predictive models](../p/predictive_models_in_trading.md), back-test strategies, and set automated trading parameters.
 
 ### Fintech Collaborations
 
@@ -78,5 +78,3 @@ S&P collaborates with fintech companies to develop innovative financial products
 ## Conclusion
 
 Standard & Poor's plays a pivotal role in the global financial ecosystem. Its [credit](../c/credit.md) ratings, [market](../m/market.md) indices, and analytical services are indispensable tools for investors, policymakers, and financial professionals. By continually evolving and integrating new technologies, S&P maintains its status as one of the most influential entities in [finance](../f/finance.md).
-
-For further details on their offerings and methodologies, you can visit their official site at [S&P Global](https://www.spglobal.com/). 

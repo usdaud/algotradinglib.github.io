@@ -1,6 +1,6 @@
 # Joint Probability
 
-[Joint](../j/joint.md) probability is a fundamental concept in the field of [statistics](../s/statistics.md) and [probability theory](../p/probability_theory_in_trading.md), and it plays a vital role in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/accountability.md). It refers to the probability of two or more events occurring simultaneously. This concept is essential for the modeling and prediction of financial [market](../m/market.md) behavior, as it allows traders and analysts to understand and measure the likelihood of [multiple](../m/multiple.md) outcomes happening at the same time.
+[Joint](../j/joint.md) probability is a fundamental concept in the field of [statistics](../s/statistics.md) and [probability theory](../p/probability_theory_in_trading.md), and it plays a vital role in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It refers to the probability of two or more events occurring simultaneously. This concept is essential for the modeling and prediction of financial [market](../m/market.md) behavior, as it allows traders and analysts to understand and measure the likelihood of [multiple](../m/multiple.md) outcomes happening at the same time.
 
 ## Definition and Notation
 
@@ -24,7 +24,7 @@ In the context of [risk management](../r/risk_management.md), [joint](../j/joint
 
 ### Portfolio Optimization
 
-[Portfolio optimization](../p/portfolio_optimization.md) involves selecting a mix of investment assets that maximizes [return](../r/return.md) for a given level of [risk](../r/risk.md). [Joint](../j/joint.md) [probability distributions](../p/probability_distributions_in_trading.md) of [asset](../a/asset.md) returns are essential for modern portfolio theory (MPT) to achieve efficient [diversification](../d/diversification.md). By understanding how different [asset](../a/asset.md) returns are correlated, [algorithmic trading](../a/accountability.md) models can be designed to optimize [asset allocation](../a/asset_allocation.md) in a way that reduces portfolio [risk](../r/risk.md).
+[Portfolio optimization](../p/portfolio_optimization.md) involves selecting a mix of investment assets that maximizes [return](../r/return.md) for a given level of [risk](../r/risk.md). [Joint](../j/joint.md) [probability distributions](../p/probability_distributions_in_trading.md) of [asset](../a/asset.md) returns are essential for modern portfolio theory (MPT) to achieve efficient [diversification](../d/diversification.md). By understanding how different [asset](../a/asset.md) returns are correlated, [algorithmic trading](../a/algorithmic_trading.md) models can be designed to optimize [asset allocation](../a/asset_allocation.md) in a way that reduces portfolio [risk](../r/risk.md).
 
 ## Calculation Methods
 
@@ -82,16 +82,16 @@ R is a powerful software environment for statistical computing and graphics. It 
 
 ### Python
 
-Python, with libraries like NumPy, SciPy, and pandas, is prevalent in [algorithmic trading](../a/accountability.md) for its versatility and ease of use. Libraries such as `statsmodels` and `copulas` are particularly useful for [joint](../j/joint.md) probability analysis and dependencies modeling.
+Python, with libraries like NumPy, SciPy, and pandas, is prevalent in [algorithmic trading](../a/algorithmic_trading.md) for its versatility and ease of use. Libraries such as `statsmodels` and `copulas` are particularly useful for [joint](../j/joint.md) probability analysis and dependencies modeling.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md), cloud-based [algorithmic trading](../a/accountability.md) platform that allows users to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers extensive historical data and supports several programming languages, including Python and C#. For more information, visit [QuantConnect](https://www.quantconnect.com).
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md), cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). It offers extensive historical data and supports several programming languages, including Python and C#. For more information, visit QuantConnect.
 
 ### Quantlib
 
-[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for modeling, trading, and [risk management](../r/risk_management.md). It includes functionalities for complex [derivatives](../d/derivatives.md) pricing and [joint](../j/joint.md) probability analysis. For more information, visit [QuantLib](https://www.quantlib.org).
+[QuantLib](../q/quantlib.md) is an [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides tools for modeling, trading, and [risk management](../r/risk_management.md). It includes functionalities for complex [derivatives](../d/derivatives.md) pricing and [joint](../j/joint.md) probability analysis. For more information, visit QuantLib.
 
 ## Conclusion
 
-[Joint](../j/joint.md) probability is a crucial concept in [probability theory](../p/probability_theory_in_trading.md) and plays a significant role in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/accountability.md). It helps traders and analysts understand the likelihood of [multiple](../m/multiple.md) events occurring simultaneously, which is essential for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and the development of [trading strategies](../t/trading_strategies.md). Various methods, both analytical and empirical, are used to estimate [joint](../j/joint.md) probabilities, and advanced tools and software aid in this complex analysis. Understanding and accurately estimating [joint](../j/joint.md) probabilities can provide a substantial edge in the highly competitive world of [algorithmic trading](../a/accountability.md).
+[Joint](../j/joint.md) probability is a crucial concept in [probability theory](../p/probability_theory_in_trading.md) and plays a significant role in [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md). It helps traders and analysts understand the likelihood of [multiple](../m/multiple.md) events occurring simultaneously, which is essential for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and the development of [trading strategies](../t/trading_strategies.md). Various methods, both analytical and empirical, are used to estimate [joint](../j/joint.md) probabilities, and advanced tools and software aid in this complex analysis. Understanding and accurately estimating [joint](../j/joint.md) probabilities can provide a substantial edge in the highly competitive world of [algorithmic trading](../a/algorithmic_trading.md).

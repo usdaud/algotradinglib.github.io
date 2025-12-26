@@ -53,13 +53,13 @@ As companies expand globally, Transfer Agents face the challenge of managing [sh
 ## Leading Transfer Agents
 
 ### Computershare
-Computershare is one of the largest and most well-known Transfer Agents globally. They provide a comprehensive [range](../r/range.md) of services, including transfer and registration, [dividend](../d/dividend.md) [disbursement](../d/disbursement.md), and [proxy](../p/proxy.md) services. More information can be found on their [official website](https://www.computershare.com).
+Computershare is one of the largest and most well-known Transfer Agents globally. They provide a comprehensive [range](../r/range.md) of services, including transfer and registration, [dividend](../d/dividend.md) [disbursement](../d/disbursement.md), and [proxy](../p/proxy.md) services.
 
 ### American Stock Transfer & Trust Company, LLC (AST)
-AST offers a wide array of services, including share registry, corporate actions, and [shareholder](../s/shareholder.md) communication. They are known for their [robust](../r/robust.md) technology platform that supports efficient and secure operations. More details are available on their [official website](https://www.astfinancial.com).
+AST offers a wide array of services, including share registry, corporate actions, and [shareholder](../s/shareholder.md) communication. They are known for their [robust](../r/robust.md) technology platform that supports efficient and secure operations. More
 
 ### Broadridge Financial Solutions, Inc.
-Broadridge provides advanced technology solutions and services to Transfer Agents and other financial institutions. Their offerings include [data analytics](../d/data_analytics.md), [proxy](../p/proxy.md) services, and [shareholder](../s/shareholder.md) communication tools. You can learn more on their [official website](https://www.broadridge.com).
+Broadridge provides advanced technology solutions and services to Transfer Agents and other financial institutions. Their offerings include [data analytics](../d/data_analytics.md), [proxy](../p/proxy.md) services, and [shareholder](../s/shareholder.md) communication tools.
 
 ## Conclusion
 

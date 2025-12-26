@@ -2,6 +2,8 @@
 
 Quarterly [Income](../i/income.md) [Debt](../d/debt.md) Securities, commonly known as QUIDS, are a type of [financial instrument](../f/financial_instrument.md) that represent [debt](../d/debt.md) [obligations](../o/obligation.md) issued by corporations or financial institutions. These securities are designed to provide regular, predictable [income](../i/income.md) to investors, typically in the form of quarterly [interest](../i/interest.md) payments. The key characteristics of QUIDS include fixed or variable [interest](../i/interest.md) rates, [maturity](../m/maturity.md) dates, and various [credit](../c/credit.md) ratings, making them an attractive option for [income](../i/income.md)-oriented investors who seek both stability and periodic [income](../i/income.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Features of QUIDS
 
 ### Interest Payments
@@ -78,15 +80,15 @@ Several major financial institutions and corporations [issue](../i/issue.md) QUI
 
 ### Bank of America
 
-[Bank](../b/bank.md) of America offers various types of [debt](../d/debt.md) securities, including QUIDS, as part of its product lineup. Investors can explore available offerings and detailed terms on their official website: [Bank of America](https://www.bankofamerica.com).
+[Bank](../b/bank.md) of America offers various types of [debt](../d/debt.md) securities, including QUIDS, as part of its product lineup.
 
 ### JPMorgan Chase & Co.
 
-JPMorgan Chase & Co. provides numerous fixed-[income](../i/income.md) investment [options](../o/options.md), including QUIDS. Detailed information on their available securities can be found on their [investor relations](../i/investor_relations.md) page: [JPMorgan Chase & Co.](https://www.jpmorganchase.com).
+JPMorgan Chase & Co. provides numerous fixed-[income](../i/income.md) investment [options](../o/options.md), including QUIDS. Detailed information on their available securities can be found on their [company filings](../i/investor_relations.md) page: JPMorgan Chase & Co..
 
 ### Citigroup
 
-Citigroup issues QUIDS and other [debt](../d/debt.md) securities to meet their [capital](../c/capital.md) requirements. Investors can learn more about these investment opportunities on Citigroup's official site: [Citigroup](https://www.citigroup.com).
+Citigroup issues QUIDS and other [debt](../d/debt.md) securities to meet their [capital](../c/capital.md) requirements.
 
 ## Conclusion
 

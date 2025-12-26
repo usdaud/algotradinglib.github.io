@@ -56,10 +56,10 @@ Access to [liquidity](../l/liquidity.md), or the ability to buy or sell assets w
 
 Several companies are at the forefront of providing brokerage [execution](../e/execution.md) services and technology, including:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides comprehensive electronic trading solutions and direct [market](../m/market.md) access. [Interactive Brokers](https://www.interactivebrokers.com)
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers advanced trading tools and [execution](../e/execution.md) services for [algorithmic trading](../a/algorithmic_trading.md). [Fidelity Investments](https://www.fidelity.com)
-- **Goldman Sachs**: Known for its advanced [execution](../e/execution.md) and smart [order routing](../o/order_routing.md) technologies. [Goldman Sachs](https://www.goldmansachs.com)
-- **Citadel Securities**: A leading provider of [liquidity](../l/liquidity.md) and advanced [execution](../e/execution.md) services in [financial markets](../f/financial_market.md). [Citadel Securities](https://www.citadelsecurities.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides comprehensive electronic trading solutions and direct [market](../m/market.md) access. Interactive Brokers
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Offers advanced trading tools and [execution](../e/execution.md) services for [algorithmic trading](../a/algorithmic_trading.md). Fidelity Investments
+- **Goldman Sachs**: Known for its advanced [execution](../e/execution.md) and smart [order routing](../o/order_routing.md) technologies. Goldman Sachs
+- **Citadel Securities**: A leading provider of [liquidity](../l/liquidity.md) and advanced [execution](../e/execution.md) services in [financial markets](../f/financial_market.md). Citadel Securities
 
 ## Regulatory Environment
 
@@ -135,4 +135,3 @@ Keeping abreast of regulatory developments and ensuring compliance with evolving
 ## Conclusion
 
 Brokerage [execution](../e/execution.md) is a multifaceted and dynamic area of [algorithmic trading](../a/algorithmic_trading.md), demanding constant innovation and adaptation. By understanding the complexities and leveraging advanced technologies, traders can achieve superior [execution](../e/execution.md) quality, minimize costs, and navigate the ever-changing [financial markets](../f/financial_market.md) with confidence.
-

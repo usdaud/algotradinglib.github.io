@@ -91,8 +91,8 @@ Overall, while the Black-Scholes model may not be perfect, it remains a cornerst
 
 ## Companies Utilizing Black-Scholes Model
 
-1. [CME Group](https://www.cmegroup.com/): CME Group uses the Black-Scholes model for pricing [options on futures](../o/options_on_futures.md) contracts.
-2. [Goldman Sachs](https://www.goldmansachs.com/): Goldman Sachs employs advanced versions of the Black-Scholes model for trading and [risk management](../r/risk_management.md).
-3. [Nasdaq](https://www.nasdaq.com/): [Nasdaq](../n/nasdaq.md) uses the model for pricing various [options](../o/options.md) traded on its [exchange](../e/exchange.md).
+1. CME Group: CME Group uses the Black-Scholes model for pricing [options on futures](../o/options_on_futures.md) contracts.
+2. Goldman Sachs: Goldman Sachs employs advanced versions of the Black-Scholes model for trading and [risk management](../r/risk_management.md).
+3. Nasdaq: [Nasdaq](../n/nasdaq.md) uses the model for pricing various [options](../o/options.md) traded on its [exchange](../e/exchange.md).
 
 The influence of the Black-Scholes model on [finance](../f/finance.md) is profound, providing a mathematical [basis](../b/basis.md) for pricing [options](../o/options.md) and managing [financial risk](../f/financial_risk.md). Despite its limitations, it remains a fundamental tool, continuously adapted and extended to meet the evolving needs of [financial markets](../f/financial_market.md).

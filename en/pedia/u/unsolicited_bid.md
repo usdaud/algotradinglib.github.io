@@ -76,8 +76,7 @@ Unsolicited bids are complex and high-stakes maneuvers in the corporate world, i
 
 For more information about specific companies involved in unsolicited bids, you can visit the following websites:
 
-- [Kraft Heinz](https://www.kraftheinzcompany.com/)
-- [Unilever](https://www.unilever.com/)
-- [Oracle](https://www.oracle.com/)
-- [PeopleSoft](https://www.oracle.com/applications/peoplesoft/)
-
+- Kraft Heinz
+- Unilever
+- Oracle
+- PeopleSoft

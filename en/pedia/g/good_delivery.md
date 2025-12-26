@@ -4,7 +4,7 @@ Good Delivery refers to the standards set for the characteristics, production, a
 
 ## Historical Background
 
-The concept of Good Delivery has its origins in the late 18th and early 19th centuries when precious metal trading began to formalize. The LBMA, established in 1987, has played a pivotal role in setting and maintaining these standards to ensure consistent quality and reliability. The Good Delivery List curated by the LBMA includes the refiners and bars that meet these stringent criteria. 
+The concept of Good Delivery has its origins in the late 18th and early 19th centuries when precious metal trading began to formalize. The LBMA, established in 1987, has played a pivotal role in setting and maintaining these standards to ensure consistent quality and reliability. The Good Delivery List curated by the LBMA includes the refiners and bars that meet these stringent criteria.
 
 ## Criteria for Good Delivery Bars
 
@@ -18,7 +18,7 @@ Good Delivery bars have specified weight ranges. For example, gold bars typicall
 
 ### Dimensions
 
-Dimensions are another critical aspect of Good Delivery bars. The LBMA requires gold bars to have a length, width, thickness, and top surface dimension within certain limits to ensure uniformity and ease of stacking and transportation. 
+Dimensions are another critical aspect of Good Delivery bars. The LBMA requires gold bars to have a length, width, thickness, and top surface dimension within certain limits to ensure uniformity and ease of stacking and transportation.
 
 ### Markings
 
@@ -54,7 +54,7 @@ The LBMA maintains two separate Good Delivery Lists for gold and silver. These l
 - **Gold Good Delivery List**: Maintains the names of gold refiners whose bars meet the standard criteria.
 - **Silver Good Delivery List**: Includes refiners producing silver bars that adhere to the required specifications.
 
-Refer to the LBMA Good Delivery List for detailed information on accredited refiners: [LBMA Good Delivery List](http://www.lbma.org.uk/good-delivery/about-GD)
+Refer to the LBMA Good Delivery List for detailed information on accredited refiners: LBMA Good Delivery List
 
 ## Compliance and Amendments
 

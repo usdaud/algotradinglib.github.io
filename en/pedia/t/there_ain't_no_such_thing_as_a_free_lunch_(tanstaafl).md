@@ -30,7 +30,7 @@ One of the core tenets of [investing](../i/investing.md) is the [risk-return tra
 
 ### Trading Algorithms and Financial Models
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to [trade](../t/trade.md) securities. While [algorithmic trading](../a/accountability.md) can provide advantages like speed and accuracy, it is not without its costs and risks:
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, leverages [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to [trade](../t/trade.md) securities. While [algorithmic trading](../a/algorithmic_trading.md) can provide advantages like speed and accuracy, it is not without its costs and risks:
 - **[Model Risk](../m/model_risk.md)**: The performance of financial models is contingent upon the quality of the data and the assumptions underpinning them. Bad data or wrong assumptions can result in substantial losses.
 - **Technological Risks**: Deployment of [trading algorithms](../t/trading_algorithms.md) requires substantial initial and ongoing investments in technology [infrastructure](../i/infrastructure.md) and personnel.
 - **[Market](../m/market.md) Impact**: High-frequency trading can introduce additional [volatility](../v/volatility.md) into the markets, posing systemic risks.
@@ -88,7 +88,7 @@ When the [housing bubble](../h/housing_bubble.md) burst, the hidden costs became
 The rise and subsequent [volatility](../v/volatility.md) of cryptocurrencies like [Bitcoin](../b/bitcoin.md) can also be related to TANSTAAFL. Early investors reaped significant returns, but these were often not without cost:
 - **Extreme [Volatility](../v/volatility.md)**: Prices of cryptocurrencies have shown extreme [volatility](../v/volatility.md), leading to significant losses for many.
 - **Regulatory Risks**: As governments around the world start to impose regulations, the cost of compliance and legal risks increases.
-  
+
 ## Conclusion
 
 The principle that "There Ain't No Such Thing as a Free Lunch" serves as a valuable reminder that every decision comes with [trade](../t/trade.md)-offs. Whether in government policy, [personal finance](../p/personal_finance_in_trading.md), investment strategies, or corporate practices, understanding and considering the hidden and opportunity costs is crucial for making informed, sustainable decisions. Ignoring these costs can lead to suboptimal outcomes and unforeseen consequences.

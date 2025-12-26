@@ -9,7 +9,7 @@
 ### Key Characteristics
 
 1. **[Strike Price](../s/strike_price.md)**: The pre-determined price at which the [warrant](../w/warrant.md) holder can purchase the [underlying](../u/underlying.md) stock. This price is usually set higher than the current [market price](../m/market_price.md) at the time of issuance.
-  
+
 2. **[Expiration Date](../e/expiration_date.md)**: The date until which the [warrant](../w/warrant.md) is valid. The holder can [exercise](../e/exercise.md) the [warrant](../w/warrant.md) anytime before or on this date.
 
 3. **[Warrant](../w/warrant.md) Ratio**: The ratio of the number of [warrants](../w/warrants_in_trading.md) issued in relation to the primary investment. For example, in a [venture capital](../v/venture_capital.md) deal, a [warrant](../w/warrant.md) coverage of "20%" would imply that the [investor](../i/investor.md) receives additional [warrants](../w/warrants_in_trading.md) equivalent to 20% of their initial [equity](../e/equity.md) purchase.
@@ -35,16 +35,16 @@ Here, the issuance of [warrants](../w/warrants_in_trading.md) is conditional upo
 
 ### For Investors
 1. **[Upside Potential](../u/upside_potential_in_trading.md)**: [Warrants](../w/warrants_in_trading.md) provide the potential for significant [upside](../u/upside.md) if the company's stock price appreciates above the [strike price](../s/strike_price.md).
-  
+
 2. **[Risk](../r/risk.md) Mitigation**: By adding [warrants](../w/warrants_in_trading.md) to an [equity](../e/equity.md) or [debt](../d/debt.md) investment, investors can [demand](../d/demand.md) relatively lower returns or accept higher [risk](../r/risk.md) due to the additional potential [upside](../u/upside.md).
-  
+
 3. **[Portfolio Diversification](../p/portfolio_diversification.md)**: Inclusion of [warrants](../w/warrants_in_trading.md) can add another layer of [diversification](../d/diversification.md) within the [investor](../i/investor.md)'s portfolio, providing a potential payoff structure different from the primary investment.
 
 ### For Companies
 1. **Attracting Investment**: [Offering](../o/offering.md) [warrant](../w/warrant.md) coverage can make an investment deal more attractive, thereby facilitating fundraising, particularly in early rounds or high-[risk](../r/risk.md) ventures.
-  
+
 2. **Deferred [Dilution](../d/dilution.md)**: Since [warrants](../w/warrants_in_trading.md) may not be exercised immediately, issuing [warrants](../w/warrants_in_trading.md) can delay potential [dilution](../d/dilution.md) of current shareholders' [equity](../e/equity.md).
-  
+
 3. **Alignment of Interests**: Performance or milestone-based [warrant](../w/warrant.md) issuance aligns the interests of the investors with the company’s long-term success.
 
 ## Risks and Considerations
@@ -53,16 +53,16 @@ Despite the advantages, [warrant](../w/warrant.md) coverage comes with its set o
 
 ### For Investors
 1. **[Liquidity Risk](../l/liquidity_risk.md)**: [Warrants](../w/warrants_in_trading.md) are not always easily tradable, which can pose a challenge if the [investor](../i/investor.md) needs to [liquidate](../l/liquidate.md) their position.
-  
+
 2. **Out-of-the-[Money](../m/money.md) [Risk](../r/risk.md)**: If the company’s stock price never reaches the [strike price](../s/strike_price.md) before the [expiration date](../e/expiration_date.md), the [warrants](../w/warrants_in_trading.md) could expire worthless.
-  
+
 3. **Complex [Valuation](../v/valuation.md)**: Properly valuing [warrants](../w/warrants_in_trading.md) can be complex, requiring sophisticated models and assumptions about future stock price movements, [volatility](../v/volatility.md), and other [market](../m/market.md) conditions.
 
 ### For Companies
 1. **[Dilution](../d/dilution.md)**: When [warrants](../w/warrants_in_trading.md) are exercised, the issuance of new [shares](../s/shares.md) can dilute the existing shareholders' stake.
-  
+
 2. **Potential [Liability](../l/liability.md)**: [Warrants](../w/warrants_in_trading.md) can sometimes add contingent liabilities to the company's [balance sheet](../b/balance_sheet.md), depending on how they are accounted for.
-  
+
 3. **Complexity in [Financial Planning](../f/financial_planning.md)**: Having [warrants](../w/warrants_in_trading.md) as part of the [capital structure](../c/capital_structure.md) can complicate [financial planning](../f/financial_planning.md) and [forecasting](../f/forecasting.md), especially when [multiple](../m/multiple.md) rounds of [financing](../f/financing.md) with [warrant](../w/warrant.md) coverage are involved.
 
 ## Real-World Applications
@@ -90,13 +90,13 @@ During M&A transactions, [warrants](../w/warrants_in_trading.md) might be issued
 
 Palantir Technologies often uses [warrant](../w/warrant.md) coverage in its strategic deals to sweeten agreements with clients. In 2020, Palantir provided [warrants](../w/warrants_in_trading.md) to various entities as part of commercial contracts, providing them the right to purchase Palantir stock at predefined prices. This approach aligns the performance incentives of Palantir with its key clients.
 
-Palantir Technologies: [palantir.com](https://www.palantir.com)
+Palantir Technologies: palantir.com
 
 ### Airbnb Inc.
 
 During its early funding rounds, Airbnb issued [warrants](../w/warrants_in_trading.md) to investors, granting them the opportunity to purchase additional [shares](../s/shares.md) if the company reached certain performance milestones. This mechanism helped attract significant investment while aligning the investors' success with that of the company's growth trajectory.
 
-Airbnb: [airbnb.com](https://www.airbnb.com)
+Airbnb: airbnb.com
 
 ## Conclusion
 

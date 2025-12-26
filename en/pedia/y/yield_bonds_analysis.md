@@ -66,11 +66,11 @@ Algorithms can identify [arbitrage](../a/arbitrage.md) opportunities arising fro
 
 ## Example: Lighthouse Investment Partners
 
-[Lighthouse Investment Partners](https://www.lighthousepartners.com) is one such [firm](../f/firm.md) that implements [quantitative strategies](../q/quantitative_strategies_in_trading.md) focusing on [bond](../b/bond.md) [yield analysis](../y/yield_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to create diversified and [risk](../r/risk.md)-adjusted portfolios.
+Lighthouse Investment Partners is one such [firm](../f/firm.md) that implements [quantitative strategies](../q/quantitative_strategies_in_trading.md) focusing on [bond](../b/bond.md) [yield analysis](../y/yield_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) to create diversified and [risk](../r/risk.md)-adjusted portfolios.
 
 ## Advanced Algorithmic Techniques
 
-### 1. **Reinforcement Learning**: 
+### 1. **Reinforcement Learning**:
 
 Traders can employ [reinforcement learning](../r/reinforcement_learning.md) to allow algorithms to learn [trading strategies](../t/trading_strategies.md) through trial and error, dynamically adjusting to [market](../m/market.md) conditions.
 

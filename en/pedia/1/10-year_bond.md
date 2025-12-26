@@ -24,8 +24,8 @@ When a 10-year [bond](../b/bond.md) reaches its [maturity date](../m/maturity_da
 
 Government bonds are issued by national governments and are considered low-[risk](../r/risk.md) investments. The most widely cited 10-year [government bond](../g/government_bond.md) is the [U.S. Treasury](../u/u.s._treasury.md) [Note](../n/note.md) (T-[Note](../n/note.md)). Other examples include German Bundesanleihen (Bunds), United Kingdom [Gilts](../g/gilts.md), and Japanese Government Bonds (JGBs).
 
-- [U.S. Treasury Issuance](https://www.treasury.gov)
-- [Bundesbank Offering](https://www.bundesbank.de)
+- U.S. Treasury Issuance
+- Bundesbank Offering
 
 ### Corporate Bonds
 
@@ -79,8 +79,8 @@ Institutional investors, such as pension funds, [insurance](../i/insurance.md) c
 
 ### Trading Platforms
 
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Refinitiv Eikon](https://www.refinitiv.com/en/products/refinitiv-eikon-trading-software)
+- Bloomberg Terminal
+- Refinitiv Eikon
 
 These platforms provide access to real-time data, news, and analytical tools essential for algotrading.
 
@@ -88,8 +88,8 @@ These platforms provide access to real-time data, news, and analytical tools ess
 
 [Hedge](../h/hedge.md) funds employ advanced algotrading strategies to [gain](../g/gain.md) a competitive edge in the [bond market](../b/bond_market.md). Firms like Renaissance Technologies are renowned for their use of [quantitative models](../q/quantitative_models.md) in trading a wide [range](../r/range.md) of financial instruments, including 10-year bonds.
 
-- [Renaissance Technologies](https://www.rentec.com)
+- Renaissance Technologies
 
 ## Conclusion
 
-The 10-year [bond](../b/bond.md) is a cornerstone of the [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) for [interest](../i/interest.md) rates, an [indicator](../i/indicator.md) of economic sentiment, and a crucial element in various [trading strategies](../t/trading_strategies.md). In the realm of algotrading, the dynamic interplay of [yield](../y/yield.md) movements, [economic indicators](../e/economic_indicators.md), and sophisticated algorithms underscores the complexity and significance of these financial instruments. Whether for [risk management](../r/risk_management.md), [arbitrage](../a/arbitrage.md) opportunities, or macroeconomic analysis, the 10-year [bond](../b/bond.md) remains an indispensable tool for investors and traders alike.
+The 10-year [bond](../b/bond.md) is a cornerstone of the [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) for [interest](../i/interest.md) rates, an [indicator](../i/indicator.md) of economic sentiment, and a crucial element in various [trading strategies](../t/trading_strategies.md). In the realm of algotrading, the dynamic interplay of [yield](../y/yield.md) movements, [economic indicators](../e/economic_indicators.md), and sophisticated algorithms underscores the complexity and significance of these financial instruments. Whether for [risk management](../r/risk_management.md), [arbitrage](../a/arbitrage.md) opportunities, or macroeconomic analysis, the 10-year [bond](../b/bond.md) remains an indispensable tool for investors and traders alike.

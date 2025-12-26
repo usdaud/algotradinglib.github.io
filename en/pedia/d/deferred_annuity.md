@@ -55,11 +55,11 @@ Understanding the different types of deferred annuities and their associated fea
 
 Several major [insurance](../i/insurance.md) companies [offer](../o/offer.md) a [range](../r/range.md) of deferred annuity products:
 
-- **New York Life**: [New York Life Deferred Annuities](https://www.newyorklife.com/products/annuities)
-- **Prudential**: [Prudential Annuity Solutions](https://www.prudential.com/annuities)
-- **MetLife**: [MetLife Deferred Annuities](https://www.metlife.com/annuities)
-- **Allianz**: [Allianz Deferred Annuities](https://www.allianzlife.com/annuities/deferred-annuities)
-- **Pacific Life**: [Pacific Life Annuities](https://www.pacificlife.com/annuities.html)
+- **New York Life**: New York Life Deferred Annuities
+- **Prudential**: Prudential Annuity Solutions
+- **MetLife**: MetLife Deferred Annuities
+- **Allianz**: Allianz Deferred Annuities
+- **Pacific Life**: Pacific Life Annuities
 
 ## Real-Life Application
 

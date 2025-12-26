@@ -31,7 +31,7 @@ FIT schemes usually cover a variety of renewable technologies, including but not
 
 ### Grid Access
 
-Ensuring that small-scale producers have access to the electrical grid is a crucial aspect of FIT programs. Policies typically require [utility](../u/utility.md) companies to provide grid access to all eligible producers, sometimes with the costs covered by the utilities themselves or the government. 
+Ensuring that small-scale producers have access to the electrical grid is a crucial aspect of FIT programs. Policies typically require [utility](../u/utility.md) companies to provide grid access to all eligible producers, sometimes with the costs covered by the utilities themselves or the government.
 
 ## Global Examples
 

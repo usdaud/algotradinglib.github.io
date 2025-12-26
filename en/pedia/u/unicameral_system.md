@@ -51,17 +51,17 @@ Although representation can be more direct, there is also a [risk](../r/risk.md)
 ### Scandinavian Countries
 Some of the most well-known examples of countries with unicameral legislatures can be found in Scandinavia. For instance, Sweden and Norway both operate under unicameral systems.
 
-- **Sweden**: The Swedish Parliament, known as the Riksdag, is a unicameral body consisting of 349 members. It is responsible for making laws, determining the [budget](../b/budget.md), and overseeing the work of the government. [Swedish Parliament](https://www.riksdagen.se/en/)
-- **Norway**: The Norwegian Parliament, known as the Storting, also operates as a unicameral legislature with 169 members. The Storting is responsible for passing legislation, approving the [budget](../b/budget.md), and overseeing the government. [Norwegian Parliament](https://www.stortinget.no/en/In-English/)
+- **Sweden**: The Swedish Parliament, known as the Riksdag, is a unicameral body consisting of 349 members. It is responsible for making laws, determining the [budget](../b/budget.md), and overseeing the work of the government. Swedish Parliament
+- **Norway**: The Norwegian Parliament, known as the Storting, also operates as a unicameral legislature with 169 members. The Storting is responsible for passing legislation, approving the [budget](../b/budget.md), and overseeing the government. Norwegian Parliament
 
 ### New Zealand
-New Zealand transitioned to a unicameral system in 1951 when it abolished its upper house, the Legislative Council. The New Zealand Parliament now consists of a single chamber, the House of Representatives, which has 120 members. The shift to a unicameral system was aimed at streamlining the legislative process and enhancing [efficiency](../e/efficiency.md). [New Zealand Parliament](https://www.parliament.nz/en/)
+New Zealand transitioned to a unicameral system in 1951 when it abolished its upper house, the Legislative Council. The New Zealand Parliament now consists of a single chamber, the House of Representatives, which has 120 members. The shift to a unicameral system was aimed at streamlining the legislative process and enhancing [efficiency](../e/efficiency.md). New Zealand Parliament
 
 ### Nebraska, USA
-An interesting example of a unicameral legislature in the context of a country predominantly using bicameral systems is the state of Nebraska in the United States. Nebraska's legislature, known as the Nebraska Unicameral, consists of 49 senators. It is the only state in the U.S. with a unicameral system, which has been in place since 1937. The move to a unicameral system was motivated by a desire to reduce costs and eliminate redundancy. [Nebraska Legislature](http://www.nebraskalegislature.gov/)
+An interesting example of a unicameral legislature in the context of a country predominantly using bicameral systems is the state of Nebraska in the United States. Nebraska's legislature, known as the Nebraska Unicameral, consists of 49 senators. It is the only state in the U.S. with a unicameral system, which has been in place since 1937. The move to a unicameral system was motivated by a desire to reduce costs and eliminate redundancy. Nebraska Legislature
 
 ### China
-China's legislative body, the National People's Congress (NPC), operates as a unicameral legislature with nearly 3,000 members. The NPC is responsible for enacting laws, approving state budgets, and making key decisions on national policy. It is the highest organ of state power in China. [National People's Congress of China](http://www.npc.gov.cn/)
+China's legislative body, the National People's Congress (NPC), operates as a unicameral legislature with nearly 3,000 members. The NPC is responsible for enacting laws, approving state budgets, and making key decisions on national policy. It is the highest organ of state power in China. National People's Congress of China
 
 ## Comparison with Bicameral Systems
 
@@ -70,8 +70,8 @@ While unicameral systems [offer](../o/offer.md) several benefits, it is importan
 ### Bicameral Systems
 In contrast to unicameral legislatures, bicameral systems consist of two separate chambers. Typically, these are the lower house (e.g., House of Representatives) and the upper house (e.g., Senate). This structure aims to provide [checks and balances](../c/checks_and_balances.md), mitigate hasty decision-making, and ensure broader representation.
 
-- **United States**: The U.S. Congress is a well-known bicameral legislature, consisting of the House of Representatives and the Senate. This system is designed to balance the representation of states and the population, with each state having equal representation in the Senate and proportional representation in the House. [United States Congress](https://www.congress.gov/)
-- **United Kingdom**: The UK Parliament is another example of a [bicameral system](../b/bicameral_system.md), with the House of Commons serving as the lower house and the House of Lords as the upper house. The bicameral structure helps ensure that legislation is thoroughly reviewed and debated. [UK Parliament](https://www.parliament.uk/)
+- **United States**: The U.S. Congress is a well-known bicameral legislature, consisting of the House of Representatives and the Senate. This system is designed to balance the representation of states and the population, with each state having equal representation in the Senate and proportional representation in the House. United States Congress
+- **United Kingdom**: The UK Parliament is another example of a [bicameral system](../b/bicameral_system.md), with the House of Commons serving as the lower house and the House of Lords as the upper house. The bicameral structure helps ensure that legislation is thoroughly reviewed and debated. UK Parliament
 
 ### Comparison
 - **Speed and [Efficiency](../e/efficiency.md)**: Unicameral systems generally allow for quicker legislative action compared to bicameral systems, which may face delays due to the need for agreement between two chambers.

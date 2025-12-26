@@ -39,4 +39,3 @@ The **Government Accountability Office (GAO)** is an independent, non-partisan a
 
 ## Conclusion
 The Government Accountability Office plays a crucial role in ensuring the accountability, [transparency](../t/transparency.md), and [efficiency](../e/efficiency.md) of the federal government. By conducting audits, evaluations, and investigations, the GAO helps to improve government operations and safeguard public resources. Its work supports informed decision-making by Congress and enhances public [trust](../t/trust.md) in government.
-

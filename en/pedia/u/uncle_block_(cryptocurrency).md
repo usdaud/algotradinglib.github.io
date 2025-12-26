@@ -58,7 +58,7 @@ The GHOST protocol allows [Ethereum](../e/ethereum_.md) to have shorter block ti
 
 ## Real-world Example: Ethereum
 
-[Ethereum](../e/ethereum_.md) is the most notable [blockchain](../b/blockchain_in_trading.md) platform utilizing uncle blocks. Miners who discover uncle blocks receive approximately 1.75 ETH, as opposed to the 2 ETH for a full valid block. This incentivizes miners and contributes to the network's [security](../s/security.md) and decentralization. More details about [Ethereum](../e/ethereum_.md) can be found on their [official website](https://ethereum.org/).
+[Ethereum](../e/ethereum_.md) is the most notable [blockchain](../b/blockchain_in_trading.md) platform utilizing uncle blocks. Miners who discover uncle blocks receive approximately 1.75 ETH, as opposed to the 2 ETH for a full valid block. This incentivizes miners and contributes to the network's [security](../s/security.md) and decentralization. More details about [Ethereum](../e/ethereum_.md)
 
 ## Conclusion
 

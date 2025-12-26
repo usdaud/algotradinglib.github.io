@@ -10,7 +10,7 @@ SMA is a type of moving average that is calculated by taking the [arithmetic mea
 
 The Simple Moving Average is calculated using the following formula:
 
-\[SMA = \frac{P_1 + P_2 + P_3 + ... + P_n}{n}\]
+\[SMA = \frac{P_1 + P_2 + P_3 +... + P_n}{n}\]
 
 Where:
 - \(P\) represents the price of the [asset](../a/asset.md) at different times (e.g., daily closing prices).
@@ -43,7 +43,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), SMAs are used in diverse 
 
 ### Trend Following Strategies
 
-One basic use of the SMA in [algorithmic trading](../a/algorithmic_trading.md) is within [trend](../t/trend.md)-following strategies. 
+One basic use of the SMA in [algorithmic trading](../a/algorithmic_trading.md) is within [trend](../t/trend.md)-following strategies.
 
 - **[Golden Cross](../g/golden_cross.md)**: A bullish signal is generated when a short-term SMA (e.g., 50-day) crosses above a long-term SMA (e.g., 200-day). This crossover indicates a potential upward [trend](../t/trend.md).
 - **[Death Cross](../d/death_cross.md)**: Conversely, a bearish signal is triggered when the short-term SMA crosses below the long-term SMA, indicating a potential downward [trend](../t/trend.md).
@@ -73,12 +73,12 @@ SMAs can be employed to filter signals from other [technical analysis](../t/tech
 
 Many trading platforms and tools incorporate SMA indicators. Examples include:
 
-- **MetaTrader** [MetaTrader](https://www.metatrader4.com/): A widely-used [trading platform](../t/trading_platform.md) that provides built-in SMA indicators.
-- **[NinjaTrader](../n/ninjatrader.md)** [NinjaTrader](https://ninjatrader.com/): Offers advanced trading tools and indicators, including customizable SMA.
+- **MetaTrader** MetaTrader: A widely-used [trading platform](../t/trading_platform.md) that provides built-in SMA indicators.
+- **[NinjaTrader](../n/ninjatrader.md)** NinjaTrader: Offers advanced trading tools and indicators, including customizable SMA.
 
 ### Algorithmic Trading Firms
 
-[Algorithmic trading](../a/algorithmic_trading.md) firms like **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/) and **Quantitative Brokers** [Quantitative Brokers](https://www.quantitativebrokers.com/) use SMAs in various algorithmic strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) firms like **[QuantConnect](../q/quantconnect.md)** QuantConnect and **Quantitative Brokers** Quantitative Brokers use SMAs in various algorithmic strategies.
 
 ### Case Study: Quantitative Brokers
 

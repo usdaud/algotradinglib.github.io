@@ -11,7 +11,7 @@ The EBITDA-to-[Interest Coverage Ratio](../i/interest_coverage_ratio.md) measure
 ### Components of the Ratio
 
 - **EBITDA**: [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization. This metric provides a clear view of a company’s operational profitability by excluding non-operational expenses and non-[cash accounting](../c/cash_accounting.md) entries.
-  
+
 - **[Interest Expense](../i/interest_expense.md)**: The cost incurred by a company for borrowed funds. These expenses are critical as they are obligatory payments that must be met regardless of the company's profitability.
 
 ## Importance in Algotrading
@@ -103,4 +103,4 @@ To mitigate these limitations, employ complementary metrics and periodic reasses
 
 The EBITDA-to-[Interest Coverage Ratio](../i/interest_coverage_ratio.md) is an essential financial metric for assessing a company's [debt](../d/debt.md)-servicing ability. In the realm of algotrading, it provides critical insights for investment decision-making and [risk management](../r/risk_management.md). By understanding and leveraging this ratio, traders can enhance their algorithmic models, optimize investment strategies, and achieve better financial outcomes. Whether for filtering investment opportunities, conducting [financial health](../f/financial_health.md) checks, or developing [predictive analytics](../p/predictive_analytics.md), the EBITDA-to-[Interest Coverage Ratio](../i/interest_coverage_ratio.md) remains a cornerstone of informed, [data-driven trading strategies](../d/data-driven_trading_strategies.md).
 
-For more detailed information and real-time data, many companies provide financial insights through their [investor relations](../i/investor_relations.md) pages, such as [GE Investor Relations](https://www.ge.com/investor-relations).
+For more detailed information and real-time data, many companies provide financial insights../i/investor_relations.md) pages, such as GE company filings.

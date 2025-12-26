@@ -72,23 +72,23 @@ The [Black-Litterman Model](../b/black-litterman_model.md) is an advanced [portf
 
 [Hedge](../h/hedge.md) funds are significant users of QPT. Firms like Renaissance Technologies and Two Sigma are known for their [quantitative approaches](../q/quantitative_approaches.md) to trading and [portfolio management](../p/portfolio_management.md).
 
-- Renaissance Technologies [Website](https://www.rentec.com/)
-- Two Sigma [Website](https://www.twosigma.com/)
+-
+-
 
 ### Asset Management Firms
 
 Large [asset management](../a/asset_management.md) firms also employ QPT to optimize their investment strategies. BlackRock, Vanguard, and State Street Global Advisors utilize quantitative methods extensively.
 
-- BlackRock [Website](https://www.blackrock.com/)
-- Vanguard [Website](https://www.vanguard.com/)
-- State Street Global Advisors [Website](https://www.ssga.com/)
+-
+-
+-
 
 ### Investment Banks
 
 [Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs and J.P. Morgan use [quantitative models](../q/quantitative_models.md) for [proprietary trading](../p/proprietary_trading.md), [risk management](../r/risk_management.md), and advising clients on investments.
 
-- Goldman Sachs [Website](https://www.goldmansachs.com/)
-- J.P. Morgan [Website](https://www.jpmorgan.com/)
+-
+-
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ The Degree of Combined [Leverage](../l/leverage.md) (DCL) is a financial metric 
 
 ## Understanding Leverage
 
-[Leverage](../l/leverage.md) in [finance](../f/finance.md) refers to the use of various financial instruments or borrowed [capital](../c/capital.md)—like [debt](../d/debt.md)—to increase the potential [return](../r/return.md) on investment. There are two primary types of [leverage](../l/leverage.md): 
+[Leverage](../l/leverage.md) in [finance](../f/finance.md) refers to the use of various financial instruments or borrowed [capital](../c/capital.md)—like [debt](../d/debt.md)—to increase the potential [return](../r/return.md) on investment. There are two primary types of [leverage](../l/leverage.md):
 1. **[Operating Leverage](../o/operating_leverage.md)**: This refers to the extent to which a company uses fixed costs in its operations. A company with high [operating leverage](../o/operating_leverage.md) [will](../w/will.md) see a significant change in EBIT with small changes in sales because its fixed costs are relatively large.
 2. **Financial [Leverage](../l/leverage.md)**: This pertains to the use of [debt](../d/debt.md) in the company's [capital structure](../c/capital_structure.md). Companies with high financial [leverage](../l/leverage.md) have high levels of [debt](../d/debt.md) and thus high-[interest](../i/interest.md) [obligations](../o/obligation.md). Changes in EBIT [will](../w/will.md) cause larger changes in net [income](../i/income.md) due to the [fixed cost](../f/fixed_cost.md) of [interest](../i/interest.md).
 

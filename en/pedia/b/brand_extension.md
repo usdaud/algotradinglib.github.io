@@ -32,7 +32,7 @@ Brand extensions can be primarily categorized into a few types, including:
 
 While brand extension has many benefits, it also comes with several potential challenges and risks, including:
 
-1. **Brand [Dilution](../d/dilution.md)**: Extending a brand too far can dilute its image. If a brand known for luxury items introduces low-quality products, it might tarnish the brand’s overall reputation. 
+1. **Brand [Dilution](../d/dilution.md)**: Extending a brand too far can dilute its image. If a brand known for luxury items introduces low-quality products, it might tarnish the brand’s overall reputation.
 
 2. **Consumer Confusion**: Consumers may become confused about what the brand represents if it enters too many different categories. Mixed brand signals can lead to decreased [customer](../c/customer.md) loyalty.
 

@@ -46,40 +46,40 @@ Legal documentation is crucial when dealing with finder's fees. The contract sho
 ### Sample Finder's Fee Agreement Clauses
 
 1. **Identification of Parties:**
-    ```
-    This Agreement is made and entered into as of [Date] by and between [Party A] and [Finder], collectively referred to as the "Parties."
-    ```
+ ```
+ This Agreement is made and entered into as of [Date] by and between [Party A] and [Finder], collectively referred to as the "Parties."
+ ```
 
 2. **[Scope](../s/scope.md) of Services:**
-    ```
-    Finder agrees to introduce [Party A] to potential opportunities for [specific [transaction](../t/transaction.md) or deal type], herein referred to as the "Opportunity."
-    ```
+ ```
+ Finder agrees to introduce [Party A] to potential opportunities for [specific [transaction](../t/transaction.md) or deal type], herein referred to as the "Opportunity."
+ ```
 
 3. **[Fee](../f/fee.md) and [Payment](../p/payment.md) Terms:**
-    ```
-    [Party A] agrees to pay Finder a finder's fee of [Amount or Percentage] upon [specific event, e.g., the completion of the [transaction](../t/transaction.md)]. [Payment](../p/payment.md) shall be made within [time frame] of the event.
-    ```
+ ```
+ [Party A] agrees to pay Finder a finder's fee of [Amount or Percentage] upon [specific event, e.g., the completion of the [transaction](../t/transaction.md)]. [Payment](../p/payment.md) shall be made within [time frame] of the event.
+ ```
 
 4. **Exclusivity:**
-    ```
-    Finder acknowledges and agrees that this Agreement is non-exclusive, and [Party A] reserves the right to seek opportunities through other sources.
-    ```
+ ```
+ Finder acknowledges and agrees that this Agreement is non-exclusive, and [Party A] reserves the right to seek opportunities through other sources.
+ ```
 
 5. **Confidentiality:**
-    ```
-    Finder agrees to keep all information regarding the Opportunity and this Agreement confidential, except as required by law.
-    ```
+ ```
+ Finder agrees to keep all information regarding the Opportunity and this Agreement confidential, except as required by law.
+ ```
 
 6. **Termination:**
-    ```
-    Either Party may terminate this Agreement with [time period] written notice. Termination [will](../w/will.md) not affect the Finder's right to fees earned prior to termination.
-    ```
+ ```
+ Either Party may terminate this Agreement with [time period] written notice. Termination [will](../w/will.md) not affect the Finder's right to fees earned prior to termination.
+ ```
 
 ### Example Companies Utilizing Finder's Fees
 
-- **Realty ONE Group:** A growing [real estate](../r/real_estate.md) franchisor that often collaborates with brokers and other [real estate](../r/real_estate.md) professionals to identify and secure new franchisees. For more details, visit their [Realty ONE Group](https://www.realtyonegroup.com/) website.
-  
-- **Sequoia [Capital](../c/capital.md):** A leading [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that might engage in finder's [fee](../f/fee.md) agreements with intermediaries who introduce promising startups. More information can be found on their [Sequoia Capital](https://www.sequoiacap.com/) page.
+- **Realty ONE Group:** A growing [real estate](../r/real_estate.md) franchisor that often collaborates with brokers and other [real estate](../r/real_estate.md) professionals to identify and secure new franchisees.
+
+- **Sequoia [Capital](../c/capital.md):** A leading [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that might engage in finder's [fee](../f/fee.md) agreements with intermediaries who introduce promising startups.
 
 ## Ethical Considerations
 

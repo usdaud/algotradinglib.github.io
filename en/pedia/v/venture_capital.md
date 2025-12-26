@@ -1,22 +1,22 @@
 # Venture Capital
 
-Venture [capital](../c/capital.md) (VC) is a form of [private equity](../p/private_equity.md) and a type of [financing](../f/financing.md) that investors provide to [startup](../s/startup.md) companies and small businesses that are believed to have long-term growth potential. Venture [capital](../c/capital.md) generally comes from well-off investors, [investment banks](../i/investment_bank_(ib).md), and any other financial institutions. However, it does not always take just a monetary form; it can also be provided in the form of technical or managerial expertise. 
+Venture [capital](../c/capital.md) (VC) is a form of [private equity](../p/private_equity.md) and a type of [financing](../f/financing.md) that investors provide to [startup](../s/startup.md) companies and small businesses that are believed to have long-term growth potential. Venture [capital](../c/capital.md) generally comes from well-off investors, [investment banks](../i/investment_bank_(ib).md), and any other financial institutions. However, it does not always take just a monetary form; it can also be provided in the form of technical or managerial expertise.
 
-**Core Concepts and Processes:** 
+**Core Concepts and Processes:**
 
 ## Origin and Evolution
-The concept of venture [capital](../c/capital.md) was institutionalized after World War II, with pioneers like Georges Doriot, who is often regarded as the "father of venture [capitalism](../c/capitalism.md)," starting the American Research and Development [Corporation](../c/corporation.md) (ARDC) in 1946. The modern venture [capital](../c/capital.md) [industry](../i/industry.md) began to take shape in the 1980s and 1990s with the advancement of the [technology sector](../t/technology_sector.md), especially in Silicon Valley. 
+The concept of venture [capital](../c/capital.md) was institutionalized after World War II, with pioneers like Georges Doriot, who is often regarded as the "father of venture [capitalism](../c/capitalism.md)," starting the American Research and Development [Corporation](../c/corporation.md) (ARDC) in 1946. The modern venture [capital](../c/capital.md) [industry](../i/industry.md) began to take shape in the 1980s and 1990s with the advancement of the [technology sector](../t/technology_sector.md), especially in Silicon Valley.
 
 ## Types of Venture Capital
 1. **[Seed Capital](../s/seed_capital.md)**: The investment made at the idea stage of a [startup](../s/startup.md) to establish its operations and to develop its MVP (Minimum Viable Product).
 2. **[Startup](../s/startup.md) [Capital](../c/capital.md)**: Given to companies to complete product development and to commercialize their products. At this stage, companies may be in the process of being launched.
 3. **Early-Stage [Capital](../c/capital.md)**: Companies require this for scaling their operations, usually offered after they have demonstrated [market](../m/market.md) fit and possess a working model that generates revenues.
-4. **[Expansion](../e/expansion.md) [Capital](../c/capital.md)**: Provided to companies looking to scale and expand their [business](../b/business.md) exponentially. 
+4. **[Expansion](../e/expansion.md) [Capital](../c/capital.md)**: Provided to companies looking to scale and expand their [business](../b/business.md) exponentially.
 5. **Late-Stage [Capital](../c/capital.md)**: Finances are provided to companies that might attract a [buyout](../b/buyout.md) or IPO (Initial Public [Offering](../o/offering.md)).
 
 ## How Venture Capital Works
 Venture [capital](../c/capital.md) is typically associated with high-[risk](../r/risk.md), high-[return](../r/return.md) investments. The process generally involves several steps:
- 
+
 1. **Deal Sourcing**: Identifying potential investment opportunities through networks, personal contacts, or other channels.
 2. **[Due Diligence](../d/due_diligence.md)**: Thoroughly evaluating the company's [business plan](../b/business_plan.md), [financial health](../f/financial_health.md), [market](../m/market.md) potential, competitive landscape, and management team.
 3. **Investment**: Structuring the deal and financial terms, which often includes convertible [debt](../d/debt.md), [equity](../e/equity.md), or a combination of both.
@@ -40,8 +40,8 @@ Venture [capital](../c/capital.md) is typically associated with high-[risk](../r
 4. **[Impact Investing](../i/impact_investing.md)**: Investments made into companies, organizations, and funds with the intention of generating social or environmental impact alongside a financial [return](../r/return.md).
 
 For those interested in exploring more about venture [capital](../c/capital.md) institutions and firms, here are a few resources:
-- Sequoia [Capital](../c/capital.md): [sequoiacap.com](https://www.sequoiacap.com/)
-- Andreessen Horowitz: [a16z.com](https://a16z.com/)
-- Accel Partners: [accel.com](https://www.accel.com/)
-  
+- Sequoia [Capital](../c/capital.md): sequoiacap.com
+- Andreessen Horowitz: a16z.com
+- Accel Partners: accel.com
+
 Venture [capital](../c/capital.md) continues to evolve, and staying abreast of the latest trends is crucial for both investors and entrepreneurs aiming to [leverage](../l/leverage.md) this potent financial tool.

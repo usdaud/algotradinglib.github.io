@@ -10,7 +10,7 @@ The primary objective of the United States Natural Gas [Fund](../f/fund.md) is t
 ### Structure and Management
 As an ETF, UNG provides [liquidity](../l/liquidity.md) and ease of access for individual and institutional investors alike. It is managed by United States [Commodity](../c/commodity.md) Funds LLC (USCF), a company specializing in creating [commodity](../c/commodity.md)-based ETFs. The [fund](../f/fund.md)'s governance and daily operations are executed in compliance with regulatory standards to ensure [transparency](../t/transparency.md) and [investor](../i/investor.md) protection.
 
-For more information on the [fund](../f/fund.md) and its management, you can visit their website [USCF Investments - UNG](https://www.uscfinvestments.com/).
+For more information on the [fund](../f/fund.md) and its management,
 
 ## Investment Strategy
 
@@ -66,4 +66,4 @@ These funds use advanced [trading strategies](../t/trading_strategies.md) to pro
 
 ## Conclusion
 
-The United States Natural Gas [Fund](../f/fund.md) (UNG) offers a unique opportunity for investors seeking direct exposure to natural gas prices. Managed by the USCF, the [fund](../f/fund.md) uses [futures contracts](../f/futures_contracts.md) to track the [commodity](../c/commodity.md)'s price movements. However, potential investors should be aware of the significant risks, including [market](../m/market.md) [volatility](../v/volatility.md), [contango](../c/contango.md) impacts, and management fees. Proper understanding and careful consideration of these factors can help in making informed investment decisions that align with overall financial goals. For more detailed information, visit [USCF Investments - UNG](https://www.uscfinvestments.com/).
+The United States Natural Gas [Fund](../f/fund.md) (UNG) offers a unique opportunity for investors seeking direct exposure to natural gas prices. Managed by the USCF, the [fund](../f/fund.md) uses [futures contracts](../f/futures_contracts.md) to track the [commodity](../c/commodity.md)'s price movements. However, potential investors should be aware of the significant risks, including [market](../m/market.md) [volatility](../v/volatility.md), [contango](../c/contango.md) impacts, and management fees. Proper understanding and careful consideration of these factors can help in making informed investment decisions that align with overall financial goals. For more detailed information, visit USCF Investments - UNG.

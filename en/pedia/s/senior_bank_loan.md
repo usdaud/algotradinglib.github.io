@@ -2,6 +2,8 @@
 
 A senior [bank](../b/bank.md) [loan](../l/loan.md), often simply referred to as a senior [loan](../l/loan.md), is a type of [financing](../f/financing.md) provided by banks or financial institutions to corporations, typically for growth, acquisitions, or refinancing. Senior loans are called "senior" because they take precedence over other types of [debt](../d/debt.md) securities in terms of [repayment](../r/repayment.md) priority in case of [liquidation](../l/liquidation.md) or [bankruptcy](../b/bankruptcy.md).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Characteristics of Senior Bank Loans
 
 ### Seniority
@@ -95,13 +97,13 @@ Companies engaging in mergers and acquisitions often secure senior loans to faci
 Several financial institutions are recognized leaders in arranging and syndicating senior loans.
 
 ### JPMorgan Chase
-A prominent global financial services [firm](../f/firm.md) that provides a [range](../r/range.md) of [investment banking](../i/investment_banking.md) services, including arranging senior loans. [JPMorgan Chase](https://www.jpmorganchase.com)
+A prominent global financial services [firm](../f/firm.md) that provides a [range](../r/range.md) of [investment banking](../i/investment_banking.md) services, including arranging senior loans. JPMorgan Chase
 
 ### Bank of America Merrill Lynch
-Offers comprehensive lending solutions, including senior loans, for corporations and institutional clients. [Bank of America Merrill Lynch](https://www.bofaml.com)
+Offers comprehensive lending solutions, including senior loans, for corporations and institutional clients. Bank of America Merrill Lynch
 
 ### Wells Fargo
-A significant player in the senior [loan](../l/loan.md) [market](../m/market.md), providing [syndicated loan](../s/syndicated_loan.md) arrangements and other financial solutions. [Wells Fargo](https://www.wellsfargo.com)
+A significant player in the senior [loan](../l/loan.md) [market](../m/market.md), providing [syndicated loan](../s/syndicated_loan.md) arrangements and other financial solutions. Wells Fargo
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Solvency
 
-Solvency is a key concept in [finance](../f/finance.md) and [accounting](../a/accounting.md) that refers to an entity's ability to meet its long-term financial [obligations](../o/obligation.md). Unlike [liquidity](../l/liquidity.md), which deals with short-term [financial health](../f/financial_health.md), solvency focuses on the long-term. This concept is crucial for both businesses and individuals as it determines their capacity to continue operations and meet their [debt](../d/debt.md) [obligations](../o/obligation.md) over an extended period. 
+Solvency is a key concept in [finance](../f/finance.md) and [accounting](../a/accounting.md) that refers to an entity's ability to meet its long-term financial [obligations](../o/obligation.md). Unlike [liquidity](../l/liquidity.md), which deals with short-term [financial health](../f/financial_health.md), solvency focuses on the long-term. This concept is crucial for both businesses and individuals as it determines their capacity to continue operations and meet their [debt](../d/debt.md) [obligations](../o/obligation.md) over an extended period.
 
 Solvency is typically assessed using various [financial ratios](../f/financial_ratios.md), balance sheets, and [income](../i/income.md) statements. The primary solvency ratios include the [Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio, [Interest Coverage Ratio](../i/interest_coverage_ratio.md), and [Equity](../e/equity.md) Ratio. These measures help stakeholders understand the financial stability and [risk](../r/risk.md) profile of a company or individual.
 
@@ -117,6 +117,6 @@ The collapse of [Lehman Brothers](../l/lehman_brothers.md) in 2008 highlights th
 ### Tesla Inc.
 Tesla has undergone periods of financial instability but has improved its solvency through continuous [equity](../e/equity.md) raises and strong [revenue](../r/revenue.md) growth from its electric vehicles and energy products. The company's focus on innovation and [operational efficiency](../o/operational_efficiency_in_trading.md) has enhanced its long-term [financial health](../f/financial_health.md).
 
-For more information on financial solvency and related services, visit [Tesla](https://www.tesla.com).
+For more information on financial solvency and related services, visit Tesla.
 
 Understanding and managing solvency is crucial for any entity aiming to achieve long-term financial success and stability. By regularly assessing solvency ratios, maintaining a strong [equity](../e/equity.md) base, and leveraging technological advancements, both businesses and individuals can improve their [financial health](../f/financial_health.md) and ensure sustainability.

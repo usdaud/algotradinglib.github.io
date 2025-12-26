@@ -1,8 +1,8 @@
 # Long-Term Debt to Total Assets Ratio
 
-The [Long-Term Debt](../l/long-term_debt.md) to Total Assets ratio is a financial metric used to assess the ratio of a company’s [long-term debt](../l/long-term_debt.md) compared to its total assets. This important [leverage ratio](../l/leverage_ratio.md) helps investors and stakeholders understand the extent to which a company is utilizing [long-term debt](../l/long-term_debt.md) to [finance](../f/finance.md) its assets. 
+The [Long-Term Debt](../l/long-term_debt.md) to Total Assets ratio is a financial metric used to assess the ratio of a company’s [long-term debt](../l/long-term_debt.md) compared to its total assets. This important [leverage ratio](../l/leverage_ratio.md) helps investors and stakeholders understand the extent to which a company is utilizing [long-term debt](../l/long-term_debt.md) to [finance](../f/finance.md) its assets.
 
-The formula for calculating the [Long-Term Debt](../l/long-term_debt.md) to Total Assets ratio is: 
+The formula for calculating the [Long-Term Debt](../l/long-term_debt.md) to Total Assets ratio is:
 
 \[ \text{Long-Term Debt to Total Assets Ratio} = \frac{\text{[Long-Term Liabilities](../l/long-term_liabilities.md)}}{\text{Total Assets}} \]
 
@@ -10,7 +10,7 @@ The formula for calculating the [Long-Term Debt](../l/long-term_debt.md) to Tota
 
 ### 1. Long-Term Liabilities
 
-[Long-term liabilities](../l/long-term_liabilities.md) refer to financial [obligations](../o/obligation.md) that a company is required to pay over a period longer than one year. These typically include bonds payable, long-term loans, leases, and other forms of [long-term debt](../l/long-term_debt.md). 
+[Long-term liabilities](../l/long-term_liabilities.md) refer to financial [obligations](../o/obligation.md) that a company is required to pay over a period longer than one year. These typically include bonds payable, long-term loans, leases, and other forms of [long-term debt](../l/long-term_debt.md).
 
 #### Types of Long-Term Liabilities:
 - **Bonds Payable:** These are [debt](../d/debt.md) securities issued by a company to investors, with the promise of periodic [interest](../i/interest.md) payments and the [repayment](../r/repayment.md) of the [face value](../f/face_value.md) at [maturity](../m/maturity.md).
@@ -20,7 +20,7 @@ The formula for calculating the [Long-Term Debt](../l/long-term_debt.md) to Tota
 
 ### 2. Total Assets
 
-Total assets represent everything that a company owns and uses to generate [revenue](../r/revenue.md), including both current and [long-term assets](../l/long-term_assets.md). 
+Total assets represent everything that a company owns and uses to generate [revenue](../r/revenue.md), including both current and [long-term assets](../l/long-term_assets.md).
 
 #### Types of Total Assets:
 - **[Current Assets](../c/current_assets.md):** These are assets that are expected to be converted into cash or used up within one year. Examples include cash, accounts [receivable](../r/receivable.md), and [inventory](../i/inventory.md).
@@ -72,7 +72,7 @@ As of their most recent [financial statements](../f/financial_statements.md), Ap
 
 ### 2. ExxonMobil
 ExxonMobil, being part of the heavily [capital](../c/capital.md)-intensive [energy sector](../e/energy_sector.md), has:
-- [Long-Term Debt](../l/long-term_debt.md): $47.9 billion 
+- [Long-Term Debt](../l/long-term_debt.md): $47.9 billion
 - Total Assets: $338.9 billion
 
 \[ \text{[Long-Term Debt](../l/long-term_debt.md) to Total Assets Ratio} = \frac{47.9}{338.9} \approx 0.14 \text{ or } 14\% \]

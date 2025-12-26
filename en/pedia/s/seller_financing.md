@@ -89,14 +89,14 @@ Imagine a scenario where John is selling his house for $300,000 and Jane, the bu
 
 Seller [financing](../f/financing.md) contrasts sharply with traditional [financing](../f/financing.md):
 
-| Feature                        | Seller [Financing](../f/financing.md)                  | Traditional [Financing](../f/financing.md)                              |
+| Feature | Seller [Financing](../f/financing.md) | Traditional [Financing](../f/financing.md) |
 |-------------------------------|-----------------------------------|---------------------------------------------------|
-| Approval Process              | Simplified, quick approval        | Rigid, lengthy approval process                   |
-| [Credit](../c/credit.md) Requirements           | Flexible, negotiated terms        | Strict [credit score](../c/credit_score.md) and [income](../i/income.md) verification       |
-| [Down Payment](../d/down_payment.md)                  | [Negotiable](../n/negotiable.md), often lower           | Typically higher, as dictated by [lender](../l/lender.md) policies  |
-| [Interest](../i/interest.md) Rates                | Potentially higher                | Generally lower, influenced by [market](../m/market.md) rates       |
-| Closing Speed                 | Faster, fewer procedural delays   | Slower, subject to [lender](../l/lender.md)’s pace and documentation|
-| Legal Complexity              | Requires careful structuring      | Standardized, well-understood legal framework     |
+| Approval Process | Simplified, quick approval | Rigid, lengthy approval process |
+| [Credit](../c/credit.md) Requirements | Flexible, negotiated terms | Strict [credit score](../c/credit_score.md) and [income](../i/income.md) verification |
+| [Down Payment](../d/down_payment.md) | [Negotiable](../n/negotiable.md), often lower | Typically higher, as dictated by [lender](../l/lender.md) policies |
+| [Interest](../i/interest.md) Rates | Potentially higher | Generally lower, influenced by [market](../m/market.md) rates |
+| Closing Speed | Faster, fewer procedural delays | Slower, subject to [lender](../l/lender.md)’s pace and documentation|
+| Legal Complexity | Requires careful structuring | Standardized, well-understood legal framework |
 
 ## Technology and Seller Financing
 
@@ -116,8 +116,8 @@ While not traditional seller [financing](../f/financing.md), alternative [financ
 
 ## Companies Offering Solutions
 
-1. **Groundfloor**: [Groundfloor](https://www.groundfloor.com/) - A fintech platform specializing in [real estate](../r/real_estate.md) microloans, [offering](../o/offering.md) alternatives to traditional [financing](../f/financing.md).
-2. **PeerStreet**: [PeerStreet](https://www.peerstreet.com/) - Provides [real estate](../r/real_estate.md)-backed loans funded by a network of investors, facilitating creative [financing](../f/financing.md) solutions.
+1. **Groundfloor**: Groundfloor - A fintech platform specializing in [real estate](../r/real_estate.md) microloans, [offering](../o/offering.md) alternatives to traditional [financing](../f/financing.md).
+2. **PeerStreet**: PeerStreet - Provides [real estate](../r/real_estate.md)-backed loans funded by a network of investors, facilitating creative [financing](../f/financing.md) solutions.
 
 ## Conclusion
 

@@ -64,22 +64,22 @@ Quantitative traders use structural models to develop and backtest [trading stra
 Several companies and tools have been instrumental in the development and application of structural models in trading:
 
 ### 1. Moody’s Analytics
-[Moody’s Analytics](https://www.moodysanalytics.com/) provides financial intelligence and analytical tools to help investors, banks, and other financial institutions assess [credit risk](../c/credit_risk.md), [value](../v/value.md) assets, and make informed investment decisions.
+Moody’s Analytics provides financial intelligence and analytical tools to help investors, banks, and other financial institutions assess [credit risk](../c/credit_risk.md), [value](../v/value.md) assets, and make informed investment decisions.
 
 ### 2. Bloomberg
-[Bloomberg](https://www.bloomberg.com/) offers a suite of tools for financial [market](../m/market.md) analysis and trading. Their terminal provides access to macroeconomic data, [financial statements](../f/financial_statements.md), and various analytical models.
+Bloomberg offers a suite of tools for financial [market](../m/market.md) analysis and trading. Their terminal provides access to macroeconomic data, [financial statements](../f/financial_statements.md), and various analytical models.
 
 ### 3. FactSet
-[FactSet](https://www.factset.com/) provides integrated financial information and analytical applications, including tools for [quantitative analysis](../q/quantitative_analysis.md) and [risk management](../r/risk_management.md).
+FactSet provides integrated financial information and analytical applications, including tools for [quantitative analysis](../q/quantitative_analysis.md) and [risk management](../r/risk_management.md).
 
 ### 4. MATLAB
-[MATLAB](https://www.mathworks.com/products/matlab.html) is a high-level programming language and environment used extensively in [financial modeling](../f/financial_modeling.md). It offers toolboxes for [econometrics](../e/econometrics_in_trading.md), [optimization](../o/optimization.md), and statistical analysis, making it a popular choice for developing structural models.
+MATLAB is a high-level programming language and environment used extensively in [financial modeling](../f/financial_modeling.md). It offers toolboxes for [econometrics](../e/econometrics_in_trading.md), [optimization](../o/optimization.md), and statistical analysis, making it a popular choice for developing structural models.
 
 ### 5. SAS
-[SAS](https://www.sas.com/) provides advanced analytics and [risk management](../r/risk_management.md) solutions. Their software is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for developing and implementing structural models.
+SAS provides advanced analytics and [risk management](../r/risk_management.md) solutions. Their software is widely used in the [finance](../f/finance.md) [industry](../i/industry.md) for developing and implementing structural models.
 
 ### 6. Python and R
-Both [Python](https://www.python.org/) and [R](https://www.r-project.org/) are [open](../o/open.md)-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of libraries and packages for [econometrics](../e/econometrics_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md).
+Both Python and R are [open](../o/open.md)-source programming languages that have become increasingly popular for [financial modeling](../f/financial_modeling.md). They [offer](../o/offer.md) a wide [range](../r/range.md) of libraries and packages for [econometrics](../e/econometrics_in_trading.md), statistical analysis, and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Limitations
 Despite their advantages, structural models also face several challenges and limitations:

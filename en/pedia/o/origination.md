@@ -10,7 +10,7 @@ The origination process starts with the potential borrower submitting an applica
 
 ### 2. Documentation and Verification
 
-Once the application is received, the [lender](../l/lender.md) conducts a thorough documentation and verification process. This step involves collecting all necessary documents that validate the information provided in the application form. Common documents required are [income](../i/income.md) proof, tax returns, [bank](../b/bank.md) statements, identification proofs, [business](../b/business.md) [revenue](../r/revenue.md) records, and more. 
+Once the application is received, the [lender](../l/lender.md) conducts a thorough documentation and verification process. This step involves collecting all necessary documents that validate the information provided in the application form. Common documents required are [income](../i/income.md) proof, tax returns, [bank](../b/bank.md) statements, identification proofs, [business](../b/business.md) [revenue](../r/revenue.md) records, and more.
 
 The verification process ensures the authenticity of the information provided by cross-checking with various databases and perhaps even performing a background [check](../c/check.md).
 
@@ -53,7 +53,7 @@ With the advent of fintech, the origination process has become increasingly auto
 
 ### Platform-Based Origination
 
-Financial platforms and marketplaces like LendingClub ([LendingClub](https://www.lendingclub.com)) and Prosper ([Prosper](https://www.prosper.com)) have revolutionized the origination process by connecting borrowers directly with investors. These platforms utilize sophisticated algorithms for [credit](../c/credit.md) scoring and [risk](../r/risk.md) assessment, democratizing the lending process and often providing better terms for borrowers and investors alike.
+Financial platforms and marketplaces like LendingClub (LendingClub) and Prosper (Prosper) have revolutionized the origination process by connecting borrowers directly with investors. These platforms utilize sophisticated algorithms for [credit](../c/credit.md) scoring and [risk](../r/risk.md) assessment, democratizing the lending process and often providing better terms for borrowers and investors alike.
 
 ## Regulatory Aspects
 

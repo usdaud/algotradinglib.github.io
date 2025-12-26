@@ -42,11 +42,11 @@ With the advent and growth of [algorithmic trading](../a/algorithmic_trading.md)
 
 ## Examples of Companies Leveraging Long-term Economic Trends
 
-1. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which has averaged a 66% [annual return](../a/annual_return.md), Renaissance Technologies uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit [market](../m/market.md) inefficiencies. While the details of their strategies are closely guarded, the [firm](../f/firm.md)’s success can be partially attributed to understanding long-term economic trends and cycles. More information can be found on their [official website](https://www.rentec.com/).
+1. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which has averaged a 66% [annual return](../a/annual_return.md), Renaissance Technologies uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit [market](../m/market.md) inefficiencies. While the details of their strategies are closely guarded, the [firm](../f/firm.md)’s success can be partially attributed to understanding long-term economic trends and cycles.
 
-2. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater is one of the largest [hedge](../h/hedge.md) funds in the world. Dalio's investment philosophy, described in his book "Principles," often emphasizes understanding long-term [economic cycles](../e/economic_cycles.md), including the Kondratieff Waves. Further details are available on their [official site](https://www.bridgewater.com/).
+2. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater is one of the largest [hedge](../h/hedge.md) funds in the world. Dalio's investment philosophy, described in his book "Principles," often emphasizes understanding long-term [economic cycles](../e/economic_cycles.md), including the Kondratieff Waves. Further details are available on their public materials.
 
-3. **Two Sigma**: This [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to improve investment strategies. Their approach often includes analyzing historical economic data and trends, which may encompass long-term cycles like the Kondratieff Waves. More on their methodologies can be found on their [website](https://www.twosigma.com/).
+3. **Two Sigma**: This [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to improve investment strategies. Their approach often includes analyzing historical economic data and trends, which may encompass long-term cycles like the Kondratieff
 
 ## Criticisms and Controversies
 
@@ -63,4 +63,3 @@ Kondratieff Waves have faced several criticisms over the years:
 ## Conclusion
 
 Kondratieff Waves [offer](../o/offer.md) a fascinating lens through which to view long-term economic trends. Despite the criticisms and controversies surrounding the theory, it remains an important concept in the fields of economic history and [investment strategy](../i/investment_strategy.md). In the realm of [algorithmic trading](../a/algorithmic_trading.md), the insights derived from understanding these long-term cycles can prove invaluable, providing a structured approach to long-term investment, [risk management](../r/risk_management.md), and [market timing](../m/market_timing.md).
-

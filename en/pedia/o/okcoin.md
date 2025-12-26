@@ -4,8 +4,7 @@
 OKCoin is one of the world's leading cryptocurrency exchanges, providing a platform for individuals and institutional investors to buy, sell, and [trade](../t/trade.md) various digital assets. Founded in 2013 by Star Xu, OKCoin has grown to become a prominent player in the cryptocurrency [industry](../i/industry.md), [offering](../o/offering.md) a wide [range](../r/range.md) of features, [robust](../r/robust.md) [security](../s/security.md) measures, and a focus on regulatory compliance.
 
 ## Platform Overview
-- **Website**: [OKCoin](https://www.okcoin.com)
-  
+
 OKCoin's platform is designed to cater to both beginners and advanced traders. It offers a user-friendly interface, a variety of trading pairs, and a suite of tools to enhance the trading experience. The [exchange](../e/exchange.md) supports a wide [range](../r/range.md) of cryptocurrencies, including [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), Litecoin (LTC), and many others.
 
 ## Key Features
@@ -52,4 +51,4 @@ OKCoin is known for its active engagement with the cryptocurrency community. The
 ## Conclusion
 OKCoin is a comprehensive cryptocurrency [exchange](../e/exchange.md) that offers a wide [range](../r/range.md) of features and services to meet the needs of different types of traders. With its focus on [security](../s/security.md), regulatory compliance, and user satisfaction, OKCoin continues to be a trusted and reliable platform in the ever-evolving world of digital assets.
 
-For those interested in exploring OKCoin's offerings, more information can be found on their [official website](https://www.okcoin.com).
+For those interested in exploring OKCoin's offerings,

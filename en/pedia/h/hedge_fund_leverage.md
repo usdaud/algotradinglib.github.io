@@ -7,7 +7,7 @@
 In the context of [hedge](../h/hedge.md) funds, [leverage](../l/leverage.md) can be thought of as the use of various tools and techniques to control larger amounts of assets than what the actual [capital](../c/capital.md) allows. [Hedge](../h/hedge.md) funds obtain [leverage](../l/leverage.md) through several avenues, including:
 
 1. **Borrowing Funds**: [Hedge](../h/hedge.md) funds borrow [money](../m/money.md) from banks, brokers, and other financial institutions. The borrowed funds are then used to increase the size of positions in various securities.
-  
+
 2. **[Derivatives](../d/derivatives.md)**: Instruments such as [options](../o/options.md), [futures](../f/futures.md), and swaps enable [hedge](../h/hedge.md) funds to [gain](../g/gain.md) exposure to the [value](../v/value.md) movements of the [underlying](../u/underlying.md) assets without having to invest fully in those assets.
 
 3. **[Margin](../m/margin.md)**: Using [margin](../m/margin.md) involves borrowing [money](../m/money.md) from a [broker](../b/broker.md) to [trade](../t/trade.md) financial assets. This allows the [hedge fund](../h/hedge_fund.md) to buy more securities than what they could with their available [capital](../c/capital.md).
@@ -19,7 +19,7 @@ In the context of [hedge](../h/hedge.md) funds, [leverage](../l/leverage.md) can
 [Hedge](../h/hedge.md) funds typically employ several types of [leverage](../l/leverage.md):
 
 - **Portfolio [Leverage](../l/leverage.md)**: This involves increasing the size of the entire portfolio by borrowing funds or using [derivatives](../d/derivatives.md).
-  
+
 - **[Balance Sheet](../b/balance_sheet.md) [Leverage](../l/leverage.md)**: Refers to the ratio of a [firm](../f/firm.md)'s total assets to its net assets, reflecting how much of the assets are financed by borrowed [money](../m/money.md).
 
 ### Risk and Return Profile
@@ -48,7 +48,7 @@ Several well-known [hedge](../h/hedge.md) funds have historically used [leverage
 
 - **Long-Term [Capital](../c/capital.md) Management (LTCM)**: LTCM's failure in 1998 is one of the most infamous examples where excessive [leverage](../l/leverage.md), combined with large positions in illiquid markets, led to massive losses and a near-collapse that required federal intervention.
 
-- **Bridgewater Associates**: As one of the world's largest [hedge](../h/hedge.md) funds, it uses a variety of [leverage](../l/leverage.md) strategies but emphasizes diversified, [risk](../r/risk.md)-balanced investments to manage potential downside risks. [Bridgewater Associates](https://www.bridgewater.com/)
+- **Bridgewater Associates**: As one of the world's largest [hedge](../h/hedge.md) funds, it uses a variety of [leverage](../l/leverage.md) strategies but emphasizes diversified, [risk](../r/risk.md)-balanced investments to manage potential downside risks. Bridgewater Associates
 
 ### Conclusion
 

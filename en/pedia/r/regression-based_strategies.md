@@ -100,13 +100,13 @@ Here, \( \[lambda](../l/lambda.md) \) is the regularization parameter that contr
 ### Implementations
 
 1. **Scikit-Learn**: A popular library in Python that provides implementations of various [regression techniques](../r/regression_techniques.md).
-   - [Scikit-Learn](https://scikit-learn.org)
+ - Scikit-Learn
 
 2. **Statsmodels**: Another Python library that offers more detailed statistical modelling and [regression analysis](../r/regression_analysis.md).
-   - [Statsmodels](https://www.statsmodels.org/stable/index.html)
+ - Statsmodels
 
 3. **[QuantConnect](../q/quantconnect.md)**: A platform that allows algorithmic traders to backtest and deploy regression-based strategies.
-   - [QuantConnect](https://www.quantconnect.com)
+ - QuantConnect
 
 ### Conclusion
 

@@ -47,5 +47,3 @@ CMC Markets is regulated by several top-tier financial authorities, ensuring a s
 - Investment [Industry](../i/industry.md) Regulatory Organization of Canada (IIROC)
 - [Financial Markets](../f/financial_market.md) Authority (FMA) of New Zealand
 
-## Website
-For more information and to start trading, visit the official CMC Markets website: [CMC Markets](https://www.cmcmarkets.com)

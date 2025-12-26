@@ -21,27 +21,22 @@ Consumers regularly purchase CPGs, often weekly or monthly, depending on the pro
 ### Procter & Gamble (P&G)
 Procter & Gamble, commonly known as P&G, is a multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md) headquartered in Cincinnati, Ohio. P&G provides a wide [range](../r/range.md) of products across various categories, including beauty, grooming, health care, fabric care, [home](../h/home.md) care, and baby, feminine, and family care.
 
-[Visit P&G’s Website](https://us.pg.com/)
 
 ### Unilever
 Unilever is a British-Dutch multinational company that produces a variety of [consumer goods](../c/consumer_goods.md), including foods and beverages, cleaning agents, beauty, and personal care products. Unilever operates in more than 190 countries and owns over 400 brands.
 
-[Visit Unilever’s Website](https://www.unilever.com/)
 
 ### Nestlé
 Nestlé, a Swiss multinational food and drink processing [conglomerate](../c/conglomerate.md), is one of the largest food companies in the world. Its [product portfolio](../p/product_portfolio.md) includes baby food, bottled water, breakfast cereals, coffee and tea, confectionery, dairy products, ice cream, pet foods, and snacks.
 
-[Visit Nestlé’s Website](https://www.nestle.com/)
 
 ### The Coca-Cola Company
 The Coca-Cola Company is a global beverage [corporation](../c/corporation.md) headquartered in Atlanta, Georgia. Best known for its flagship product Coca-Cola, the company produces a multitude of non-alcoholic beverages including water, sports drinks, juices, and ready-to-drink teas and coffees.
 
-[Visit Coca-Cola’s Website](https://www.coca-colacompany.com/)
 
 ### PepsiCo
 PepsiCo is an American multinational food, snack, and beverage [corporation](../c/corporation.md) headquartered in Harrison, New York. The company's product [range](../r/range.md) includes a diverse array of beverages and food items, such as Pepsi, Mountain Dew, Lay's, Doritos, Gatorade, Tropicana, and Quaker.
 
-[Visit PepsiCo’s Website](https://www.pepsico.com/)
 
 ## Market Trends and Dynamics
 

@@ -21,29 +21,29 @@ One of the biggest advantages of TWR is its ability to remove the distorting imp
 ### Applicability to Performance Measurement
 - **[Fund](../f/fund.md) Managers**: Often used by mutual funds and other investment vehicles to present performance that is true to the manager's decisions.
 - **Benchmarking**: Offers a comparable metric when comparing against indices or other benchmarks.
-  
+
 ## Methodology
 
 ### Step-by-Step Calculation
 Understanding the calculation of TWR involves several steps:
 
 1. **Segment the Investment Periods**
-   - Divide the total investment period into smaller periods, each ending when a [cash flow](../c/cash_flow.md) occurs.
-   
+ - Divide the total investment period into smaller periods, each ending when a [cash flow](../c/cash_flow.md) occurs.
+
 2. **Calculate Sub-period Returns**
-   - For each sub-period, calculate the [return](../r/return.md) using the formula:
-     \[
-     R_i = \frac{E_i - B_i}{B_i}
-     \]
-     where \( R_i \) is the [return](../r/return.md) of the i-th sub-period, \( E_i \) is the ending [value](../v/value.md) of the sub-period, and \( B_i \) is the beginning [value](../v/value.md).
+ - For each sub-period, calculate the [return](../r/return.md) using the formula:
+ \[
+ R_i = \frac{E_i - B_i}{B_i}
+ \]
+ where \( R_i \) is the [return](../r/return.md) of the i-th sub-period, \( E_i \) is the ending [value](../v/value.md) of the sub-period, and \( B_i \) is the beginning [value](../v/value.md).
 
 3. **Compound the Sub-period Returns**
-   - Chain-link the sub-period returns to get the overall [return](../r/return.md):
-     \[
-     TWR = \prod_{i=1}^{n} (1 + R_i) - 1
-     \]
-     where \( n \) is the number of sub-periods.
-  
+ - Chain-link the sub-period returns to get the overall [return](../r/return.md):
+ \[
+ TWR = \prod_{i=1}^{n} (1 + R_i) - 1
+ \]
+ where \( n \) is the number of sub-periods.
+
 ## Practical Application
 
 ### Example
@@ -57,30 +57,30 @@ Suppose an [investor](../i/investor.md) starts with $10,000. During the year, th
 To calculate TWR:
 
 1. **First Sub-period (Jan 1 - Apr 1)**:
-   \[ 
-   R_1 = \frac{10,500 - 10,000}{10,000} = 0.05 
-   \]
+ \[
+ R_1 = \frac{10,500 - 10,000}{10,000} = 0.05
+ \]
 
 2. **Second Sub-period (Apr 1 - Jul 1)**:
-   \[ 
-   R_2 = \frac{16,000 - 15,500}{15,500} \approx 0.03226 
-   \]
+ \[
+ R_2 = \frac{16,000 - 15,500}{15,500} \approx 0.03226
+ \]
 
 3. **Third Sub-period (Jul 1 - Oct 1)**:
-   \[ 
-   R_3 = \frac{10,200 - 10,000}{10,000} = 0.02 
-   \]
+ \[
+ R_3 = \frac{10,200 - 10,000}{10,000} = 0.02
+ \]
 
 4. **Chain Linking**:
-   \[
-   TWR = (1+R_1) \times (1+R_2) \times (1+R_3) - 1
-   \]
-   \[
-   TWR = (1+0.05) \times (1+0.03226) \times (1+0.02) - 1
-   \]
-   \[
-   TWR \approx 1.05 \times 1.03226 \times 1.02 - 1 \approx 0.1055 \text{ or } 10.55\%
-   \]
+ \[
+ TWR = (1+R_1) \times (1+R_2) \times (1+R_3) - 1
+ \]
+ \[
+ TWR = (1+0.05) \times (1+0.03226) \times (1+0.02) - 1
+ \]
+ \[
+ TWR \approx 1.05 \times 1.03226 \times 1.02 - 1 \approx 0.1055 \text{ or } 10.55\%
+ \]
 
 ### Adjusting for Compounding
 The simplified example above is straightforward. In practice, the methodology often involves more frequent computations and may include daily cash flows, necessitating the use of financial software.
@@ -88,10 +88,10 @@ The simplified example above is straightforward. In practice, the methodology of
 ## Software Tools for TWR Calculation
 
 ### Examples of Software Tools
-- **[Morningstar](../m/morningstar.md) Direct**: A platform [offering](../o/offering.md) a variety of performance measurement tools and analytics. ([Morningstar Direct Website](https://www.morningstar.com/products/direct))
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides [robust](../r/robust.md) financial analytics, including performance measurement. ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/))
-- **Portfolio123**: Focuses on quantitative stock [market research](../m/market_research.md) and [portfolio management](../p/portfolio_management.md). ([Portfolio123 Website](https://www.portfolio123.com/))
-  
+- **[Morningstar](../m/morningstar.md) Direct**: A platform [offering](../o/offering.md) a variety of performance measurement tools and analytics.
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides [robust](../r/robust.md) financial analytics, including performance measurement. (Bloomberg Terminal)
+- **Portfolio123**: Focuses on quantitative stock [market research](../m/market_research.md) and [portfolio management](../p/portfolio_management.md).
+
 ## Challenges and Limitations
 
 ### Cash Flow Frequency

@@ -4,7 +4,7 @@ In the realm of [finance](../f/finance.md) and [investing](../i/investing.md), v
 
 ## What is a Value Fund?
 
-A [Value](../v/value.md) [Fund](../f/fund.md) is a type of [mutual fund](../m/mutual_fund.md) or ETF that primarily invests in [value](../v/value.md) [stocks](../s/stock.md). These are [stocks](../s/stock.md) of companies that, in the opinion of the [fund manager](../f/fund_manager.md) or according to specific [valuation](../v/valuation.md) metrics, are trading for less than their intrinsic or [book value](../b/book_value.md). The fundamental belief driving [value investing](../v/value_investing.md) is that the [market](../m/market.md) sometimes misprices securities, and such inefficiencies can be exploited by purchasing [stocks](../s/stock.md) that are [undervalued](../u/undervalued.md). 
+A [Value](../v/value.md) [Fund](../f/fund.md) is a type of [mutual fund](../m/mutual_fund.md) or ETF that primarily invests in [value](../v/value.md) [stocks](../s/stock.md). These are [stocks](../s/stock.md) of companies that, in the opinion of the [fund manager](../f/fund_manager.md) or according to specific [valuation](../v/valuation.md) metrics, are trading for less than their intrinsic or [book value](../b/book_value.md). The fundamental belief driving [value investing](../v/value_investing.md) is that the [market](../m/market.md) sometimes misprices securities, and such inefficiencies can be exploited by purchasing [stocks](../s/stock.md) that are [undervalued](../u/undervalued.md).
 
 ### Characteristics of Value Stocks
 
@@ -86,7 +86,7 @@ Managing [risk](../r/risk.md) is a crucial component of running a [value](../v/v
 
 ## Famous Value Investors
 
-The [value investing](../v/value_investing.md) strategy has been popularized by several renowned investors, most notably Warren Buffett, who runs [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc. Buffett’s approach largely involves [investing](../i/investing.md) in businesses with strong fundamentals that are trading below [intrinsic value](../i/intrinsic_value.md). 
+The [value investing](../v/value_investing.md) strategy has been popularized by several renowned investors, most notably Warren Buffett, who runs [Berkshire Hathaway](../b/berkshire_hathaway.md) Inc. Buffett’s approach largely involves [investing](../i/investing.md) in businesses with strong fundamentals that are trading below [intrinsic value](../i/intrinsic_value.md).
 
 Another notable [investor](../i/investor.md) is [Benjamin Graham](../b/benjamin_graham.md), often referred to as the father of [value investing](../v/value_investing.md). His works, such as "The Intelligent [Investor](../i/investor.md)," have laid the groundwork for many modern [value investing](../v/value_investing.md) principles.
 
@@ -94,7 +94,7 @@ Another notable [investor](../i/investor.md) is [Benjamin Graham](../b/benjamin_
 
 One prominent example of a [value](../v/value.md) [fund](../f/fund.md) is the **Dodge & Cox Stock [Fund](../f/fund.md)**. Established in 1965, this [fund](../f/fund.md) has a long track record of seeking [undervalued](../u/undervalued.md) [stocks](../s/stock.md) with strong fundamentals. The [fund](../f/fund.md)’s managers focus on rigorous research and a long-term [investment horizon](../i/investment_horizon.md).
 
-For more information, visit the Dodge & Cox Stock [Fund](../f/fund.md)'s webpage: [Dodge & Cox](https://www.dodgeandcox.com/our-funds/dodge-cox-stock-fund)
+For more information, visit the Dodge & Cox Stock [Fund](../f/fund.md)'s webpage: Dodge & Cox
 
 ## Conclusion
 

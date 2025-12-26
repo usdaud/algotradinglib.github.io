@@ -36,7 +36,7 @@ In mathematical and [quantitative finance](../q/quantitative_finance.md) models,
 
 ### Application in Algorithms
 
-[Algorithmic trading](../a/accountability.md) systems and [quantitative investment models](../q/quantitative_investment_models.md) can be engineered to account for the ratchet effect by incorporating parameters that impose a cost or constraint on reducing [risk](../r/risk.md) levels or [capital allocation](../c/capital_allocation.md) once they have been elevated. This approach helps to optimize long-term strategies and manage [risk](../r/risk.md) more effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) systems and [quantitative investment models](../q/quantitative_investment_models.md) can be engineered to account for the ratchet effect by incorporating parameters that impose a cost or constraint on reducing [risk](../r/risk.md) levels or [capital allocation](../c/capital_allocation.md) once they have been elevated. This approach helps to optimize long-term strategies and manage [risk](../r/risk.md) more effectively.
 
 ## Psychological and Behavioral Aspects
 

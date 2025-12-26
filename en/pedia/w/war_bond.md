@@ -56,7 +56,7 @@ Celebrities were actively involved in war [bond](../b/bond.md) drives. Prominent
 In the United Kingdom, war bonds were marketed as "War Savings Certificates." Campaigns similar to those in the United States were employed, using posters, pamphlets, and public figures to promote [bond](../b/bond.md) sales. The British government also introduced "National War Bonds," which offered higher [interest](../i/interest.md) rates to attract larger investments from wealthier citizens and institutions.
 
 ### Canada
-Canada also relied heavily on war bonds, named "Victory Bonds," during both World Wars. The Canadian government employed similar [marketing](../m/marketing.md) techniques, utilizing posters, radio, and public events to encourage [bond](../b/bond.md) purchases. 
+Canada also relied heavily on war bonds, named "Victory Bonds," during both World Wars. The Canadian government employed similar [marketing](../m/marketing.md) techniques, utilizing posters, radio, and public events to encourage [bond](../b/bond.md) purchases.
 
 ### Other Countries
 Many other countries, including Australia, Germany, and Japan, also issued war bonds during major conflicts. Each country adapted its [marketing](../m/marketing.md) strategies to fit its cultural context, but the [underlying](../u/underlying.md) principles of fostering patriotism and providing a stable financial [return](../r/return.md) remained consistent.
@@ -75,4 +75,4 @@ In a world increasingly interconnected through global [finance](../f/finance.md)
 ## Summary
 War bonds have historically served as an essential tool for governments to [fund](../f/fund.md) wartime efforts while fostering a sense of civic duty and patriotism among their citizenry. By examining their history, economic impact, and [marketing](../m/marketing.md) strategies, one can appreciate the multifaceted role that war bonds have played in both wartime economies and societies. Though less common in modern times, their legacy as a powerful [financial instrument](../f/financial_instrument.md) and social mobilizer remains significant.
 
-For more detailed information on war bonds, you can visit the [U.S. Treasury's official page](https://www.treasurydirect.gov/indiv/products/prod_e_bonds_glance.htm) on Series EE Bonds, which highlights the modern equivalents of the historical war bonds.
+For more detailed information on war bonds, you can visit the U.S. Treasury's public materials on Series EE Bonds, which highlights the modern equivalents of the historical war bonds.

@@ -38,7 +38,7 @@ The exam questions are divided into four distinct sections, each addressing diff
 
 ### Study Resources and Preparation
 
-Candidates typically prepare for the Series 6 exam using a combination of study materials, including textbooks, online courses, practice exams, and study guides. 
+Candidates typically prepare for the Series 6 exam using a combination of study materials, including textbooks, online courses, practice exams, and study guides.
 
 ## Key Concepts
 

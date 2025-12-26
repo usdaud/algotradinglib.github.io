@@ -76,13 +76,13 @@ In this scenario, the homeowner receives $100,000 in cash, which can be utilized
 
 Several major financial institutions [offer](../o/offer.md) cash-out refinancing [options](../o/options.md), each with its own specific terms and conditions:
 
-- **Wells Fargo** ([wellsfargo.com](https://www.wellsfargo.com/mortgage/cashout-refinance/)): Known for its comprehensive [range](../r/range.md) of [mortgage](../m/mortgage.md) products, Wells Fargo provides various cash-out refinancing [options](../o/options.md) tailored to different financial needs.
-  
-- **Chase** ([chase.com](https://www.chase.com/personal/mortgage/cash-out-refinance)): Chase offers competitive rates and flexible terms for cash-out refinancing, along with tools to help potential borrowers understand their [options](../o/options.md).
-  
-- **[Bank](../b/bank.md) of America** ([bankofamerica.com](https://www.bankofamerica.com/mortgage/cash-out-refinance/)): [Bank](../b/bank.md) of America provides personalized cash-out [refinance](../r/refinance.md) solutions, supported by extensive financial resources and [customer service](../c/customer_service.md).
-  
-- **Quicken Loans** ([rocketmortgage.com](https://www.rocketmortgage.com/learn/cash-out-refinance)): Operated by Rocket [Mortgage](../m/mortgage.md), this [lender](../l/lender.md) is known for its technologically streamlined process and user-friendly online platform, facilitating easy access to cash-out refinancing.
+- **Wells Fargo** (wellsfargo.com): Known for its comprehensive [range](../r/range.md) of [mortgage](../m/mortgage.md) products, Wells Fargo provides various cash-out refinancing [options](../o/options.md) tailored to different financial needs.
+
+- **Chase** (chase.com): Chase offers competitive rates and flexible terms for cash-out refinancing, along with tools to help potential borrowers understand their [options](../o/options.md).
+
+- **[Bank](../b/bank.md) of America** (bankofamerica.com): [Bank](../b/bank.md) of America provides personalized cash-out [refinance](../r/refinance.md) solutions, supported by extensive financial resources and [customer service](../c/customer_service.md).
+
+- **Quicken Loans** (rocketmortgage.com): Operated by Rocket [Mortgage](../m/mortgage.md), this [lender](../l/lender.md) is known for its technologically streamlined process and user-friendly online platform, facilitating easy access to cash-out refinancing.
 
 ## Conclusion
 

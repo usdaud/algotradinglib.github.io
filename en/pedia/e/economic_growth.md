@@ -36,25 +36,25 @@ Corporate [earnings](../e/earnings.md) reports provide insight into the profitab
 
 A [Bloomberg Terminal](../b/bloomberg_terminal.md) provides comprehensive access to real-time financial data, news, and analysis tools, crucial for algorithmic traders focusing on [economic indicators](../e/economic_indicators.md).
 
-**[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)**
+**Bloomberg Terminal**
 
 ### Reuters Eikon
 
 [Reuters](../r/reuters.md) Eikon offers a [robust](../r/robust.md) set of tools for [market](../m/market.md) analysis, including [economic indicators](../e/economic_indicators.md), news, and financial research reports, which are indispensable for making data-driven trading decisions.
 
-**[Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)**
+**Reuters Eikon**
 
 ### Federal Reserve Economic Data (FRED)
 
 FRED, managed by the [Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis, offers a [wealth](../w/wealth.md) of economic data that can be integrated into [trading models](../t/trading_models.md) for predictive analysis.
 
-**[Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/)**
+**Federal Reserve Economic Data (FRED)**
 
 ### World Bank Databank
 
 The [World Bank](../w/world_bank.md)'s Databank provides access to global economic data, including GDP, CPI, [interest](../i/interest.md) rates, and other vital metrics for international economic analysis.
 
-**[World Bank Databank](https://databank.worldbank.org/)**
+**World Bank Databank**
 
 ## Predictive Models and Algorithmic Trading
 

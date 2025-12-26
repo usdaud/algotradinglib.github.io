@@ -15,7 +15,7 @@ A waiver of [subrogation](../s/subrogation.md), therefore, is an agreement betwe
 The waiver of [subrogation](../s/subrogation.md) is a critical contractual element primarily for two reasons:
 
 1. **[Risk](../r/risk.md) Allocation**: It clearly defines the [risk](../r/risk.md) allocation between the contracting parties. By waiving the right of [subrogation](../s/subrogation.md), both parties know in advance that they [will](../w/will.md) not be dragged into litigation by insurers for recovery purposes.
-   
+
 2. **Cost Management**: It can help in managing [insurance](../i/insurance.md) costs. When an insurer knows that [subrogation](../s/subrogation.md) rights are waived, it may [offer](../o/offer.md) lower premiums as there is a decreased chance of future litigation and recovery efforts.
 
 ### Typical Industries Using Waivers
@@ -25,7 +25,7 @@ Several industries and sectors regularly incorporate waivers of [subrogation](..
 - **Construction**: Construction contracts often include waivers of [subrogation](../s/subrogation.md) to prevent litigation among contractors, subcontractors, and clients.
 - **Leasing**: Commercial and residential lease agreements frequently feature waivers of [subrogation](../s/subrogation.md) clauses to avoid disputes between landlords and tenants.
 - **[Manufacturing](../m/manufacturing.md)**: Contracts between manufacturers and suppliers might include these clauses to streamline responsibilities and manage mutual risks.
-  
+
 ## Legal Considerations
 
 Including a waiver of [subrogation](../s/subrogation.md) in contracts requires careful legal drafting and clear understanding by all involved parties. Here are some key legal considerations:
@@ -58,4 +58,4 @@ The waiver of [subrogation](../s/subrogation.md) is a strategic [risk management
 
 For businesses engaging in high-[risk](../r/risk.md) industries or complex commercial relationships, understanding and utilizing waivers of [subrogation](../s/subrogation.md) can provide a significant advantage in managing potential disputes and streamlining operations.
 
-For further reading on [best practices](../b/best_practices.md) and the implementation of waiver of [subrogation](../s/subrogation.md) in various industries, you can explore resources provided by [insurance](../i/insurance.md) companies and legal experts. Notable companies like [Allianz](https://www.allianz.com) and [Aon](https://www.aon.com) provide extensive insights and guidebooks on [risk management](../r/risk_management.md) strategies, including the effective use of waivers of [subrogation](../s/subrogation.md) in contractual agreements.
+For further reading on [best practices](../b/best_practices.md) and the implementation of waiver of [subrogation](../s/subrogation.md) in various industries, you can explore resources provided by [insurance](../i/insurance.md) companies and legal experts. Notable companies like Allianz and Aon provide extensive insights and guidebooks on [risk management](../r/risk_management.md) strategies, including the effective use of waivers of [subrogation](../s/subrogation.md) in contractual agreements.

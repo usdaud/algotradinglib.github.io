@@ -41,7 +41,7 @@ A critical approach in [hedge](../h/hedge.md) funds where managers play on both 
 #### Example Algorithmic Models
 
 - **[Mean Reversion](../m/mean_reversion.md) Algorithms**: These algorithms [capitalize](../c/capitalize.md) on the assumption that [asset](../a/asset.md) prices [will](../w/will.md) revert to their historical mean. In the context of negative [beta](../b/beta.md) strategies, such algorithms can be used to buy [undervalued](../u/undervalued.md) negatively correlated assets and sell them when they revert to the mean.
-  
+
 - **[Pairs Trading](../p/pairs_trading.md)**: This involves taking two correlated assets and betting on the convergence of their prices. In a negative [beta](../b/beta.md) strategy, pairing a negatively [beta](../b/beta.md)-correlated [asset](../a/asset.md) with a positively [beta](../b/beta.md)-correlated [asset](../a/asset.md) can balance the overall [beta](../b/beta.md).
 
 ## Risk Management
@@ -54,11 +54,11 @@ Implementing negative [beta](../b/beta.md) strategies demands rigorous [risk man
 
 ## Case Studies and Real-World Applications
 
-**Bridgewater Associates**: One of the world's largest [hedge](../h/hedge.md) funds, known for its All Weather portfolio, employs various [beta](../b/beta.md) strategies to balance [risk](../r/risk.md) across different economic environments. This includes holding assets with low or negative [market](../m/market.md) [beta](../b/beta.md). [Bridgewater Associates](https://www.bridgewater.com/)
+**Bridgewater Associates**: One of the world's largest [hedge](../h/hedge.md) funds, known for its All Weather portfolio, employs various [beta](../b/beta.md) strategies to balance [risk](../r/risk.md) across different economic environments. This includes holding assets with low or negative [market](../m/market.md) [beta](../b/beta.md). Bridgewater Associates
 
-**AQR [Capital](../c/capital.md) Management**: Known for [quantitative strategies](../q/quantitative_strategies_in_trading.md), AQR uses a variety of [beta](../b/beta.md) strategies within multi-strategy funds to [hedge](../h/hedge.md) against [market](../m/market.md) movements. Their approach involves sophisticated models to dynamically manage [beta](../b/beta.md) exposures across their portfolios. [AQR Capital Management](https://www.aqr.com/)
+**AQR [Capital](../c/capital.md) Management**: Known for [quantitative strategies](../q/quantitative_strategies_in_trading.md), AQR uses a variety of [beta](../b/beta.md) strategies within multi-strategy funds to [hedge](../h/hedge.md) against [market](../m/market.md) movements. Their approach involves sophisticated models to dynamically manage [beta](../b/beta.md) exposures across their portfolios. AQR Capital Management
 
-**Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs [machine learning](../m/machine_learning.md) and sophisticated algorithms to [trade](../t/trade.md) based on statistical relationships identified in historical data, including those with negative [beta](../b/beta.md) characteristics. [Two Sigma](https://www.twosigma.com/)
+**Two Sigma**: This quantitative [hedge fund](../h/hedge_fund.md) employs [machine learning](../m/machine_learning.md) and sophisticated algorithms to [trade](../t/trade.md) based on statistical relationships identified in historical data, including those with negative [beta](../b/beta.md) characteristics. Two Sigma
 
 ## Challenges and Considerations
 

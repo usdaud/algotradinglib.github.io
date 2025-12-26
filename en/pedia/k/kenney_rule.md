@@ -1,10 +1,10 @@
 # Kenney Rule
 
-The Kenney Rule is a relatively lesser-known trading rule in the realm of [algorithmic trading](../a/accountability.md), or "algotrading." It is named after a prominent figure in the trading [industry](../i/industry.md), although detailed historical documentation on the origin of the rule might be sparse. The Kenney Rule is particularly impactful in the domain of [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md), [offering](../o/offering.md) traders a framework to protect [capital](../c/capital.md) while maximizing the potential for profitable trades.
+The Kenney Rule is a relatively lesser-known trading rule in the realm of [algorithmic trading](../a/algorithmic_trading.md), or "algotrading." It is named after a prominent figure in the trading [industry](../i/industry.md), although detailed historical documentation on the origin of the rule might be sparse. The Kenney Rule is particularly impactful in the domain of [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md), [offering](../o/offering.md) traders a framework to protect [capital](../c/capital.md) while maximizing the potential for profitable trades.
 
 ## Background and Importance in Algotrading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, involves the use of automated systems to execute orders in [financial markets](../f/financial_market.md). These systems rely on pre-set rules and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions at very high speeds, often much faster than human traders. Given the speed and complexity of these trades, a [robust](../r/robust.md) [risk management](../r/risk_management.md) strategy is crucial to avoid significant losses. The Kenney Rule serves as one such strategy, helping traders maintain a balanced portfolio and manage [risk](../r/risk.md) effectively.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of automated systems to execute orders in [financial markets](../f/financial_market.md). These systems rely on pre-set rules and [mathematical models](../m/mathematical_models_in_trading.md) to make trading decisions at very high speeds, often much faster than human traders. Given the speed and complexity of these trades, a [robust](../r/robust.md) [risk management](../r/risk_management.md) strategy is crucial to avoid significant losses. The Kenney Rule serves as one such strategy, helping traders maintain a balanced portfolio and manage [risk](../r/risk.md) effectively.
 
 ## Principle Behind Kenney Rule
 
@@ -51,7 +51,7 @@ While the Kenney Rule offers strong advantages, it is not without its criticisms
 
 ## Implementation in Algotrading
 
-To implement the Kenney Rule in an [algorithmic trading](../a/accountability.md) system, you need a series of code snippets and algorithms that enforce the rule. This could be done in various programming languages commonly used in algotrading, such as Python or R. Below is a simple example in Python, using basic constructs to demonstrate the principle.
+To implement the Kenney Rule in an [algorithmic trading](../a/algorithmic_trading.md) system, you need a series of code snippets and algorithms that enforce the rule. This could be done in various programming languages commonly used in algotrading, such as Python or R. Below is a simple example in Python, using basic constructs to demonstrate the principle.
 
 ### Example Code in Python
 
@@ -109,16 +109,16 @@ By following the Kenney Rule, AlgoTrade Solutions effectively allocates its [cap
 Several [software platforms](../s/software_platforms_for_trading.md) and tools can assist in implementing the Kenney Rule within algotrading systems. These include:
 
 1. **MetaTrader**: Popular forex [trading platform](../t/trading_platform.md) with MQL programming language for custom indicators and scripts.
-   - [MetaTrader](https://www.metatrader4.com/en)
+ - MetaTrader
 
 2. **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) for [futures](../f/futures.md) and forex with advanced charting and automated strategy development.
-   - [NinjaTrader](https://ninjatrader.com/)
+ - NinjaTrader
 
 3. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) platform for designing and [beta](../b/beta.md) testing [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md).
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 4. **[Interactive Brokers](../i/interactive_brokers.md) API**: Provides [robust](../r/robust.md) API tools for developing custom trading applications with sound [risk management](../r/risk_management.md) principles.
-   - [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=5041)
+ - Interactive Brokers
 
 ## Conclusion
 

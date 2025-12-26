@@ -11,57 +11,57 @@ The Ultimate [Oscillator](../o/oscillator.md) is designed to blend short, medium
 The calculation of the Ultimate [Oscillator](../o/oscillator.md) involves several steps, which includes the True [Range](../r/range.md), Buying Pressure, and average Buying Pressure across three different timeframes. Below are the steps broken down:
 
 1. **True [Range](../r/range.md) (TR)**:
-   The True [Range](../r/range.md) is the highest [value](../v/value.md) of the following: 
-   - The current High minus the current Low.
-   - The absolute [value](../v/value.md) of the current High minus the previous Close.
-   - The absolute [value](../v/value.md) of the current Low minus the previous Close.
-   
-   \[
-   TR = \max\left(\text{Current High} - \text{Current Low}, |\text{Current High} - \text{Previous Close}|, |\text{Current Low} - \text{Previous Close}|\right)
-   \]
+ The True [Range](../r/range.md) is the highest [value](../v/value.md) of the following:
+ - The current High minus the current Low.
+ - The absolute [value](../v/value.md) of the current High minus the previous Close.
+ - The absolute [value](../v/value.md) of the current Low minus the previous Close.
+
+ \[
+ TR = \max\left(\text{Current High} - \text{Current Low}, |\text{Current High} - \text{Previous Close}|, |\text{Current Low} - \text{Previous Close}|\right)
+ \]
 
 2. **Buying Pressure (BP)**:
-   The Buying Pressure is the difference between the Current Close and the Lesser of the Current Low or the Previous Close.
-   
-   \[
-   BP = \text{Current Close} - \min(\text{Current Low}, \text{Previous Close})
-   \]
+ The Buying Pressure is the difference between the Current Close and the Lesser of the Current Low or the Previous Close.
+
+ \[
+ BP = \text{Current Close} - \min(\text{Current Low}, \text{Previous Close})
+ \]
 
 3. **Average Buying Pressure (AvgBP)**:
-   For each of the three different periods (typically 7, 14, and 28), calculate the Sum of Buying Pressures and the Sum of True Ranges:
-   \[
-   \text{AvgBP}_{7} = \sum_{i=1}^{7} BP_i , \quad \text{AvgTR}_{7} = \sum_{i=1}^{7} TR_i
-   \]
-   \[
-   \text{AvgBP}_{14} = \sum_{i=1}^{14} BP_i , \quad \text{AvgTR}_{14} = \sum_{i=1}^{14} TR_i
-   \]
-   \[
-   \text{AvgBP}_{28} = \sum_{i=1}^{28} BP_i , \quad \text{AvgTR}_{28} = \sum_{i=1}^{28} TR_i
-   \]
+ For each of the three different periods (typically 7, 14, and 28), calculate the Sum of Buying Pressures and the Sum of True Ranges:
+ \[
+ \text{AvgBP}_{7} = \sum_{i=1}^{7} BP_i, \quad \text{AvgTR}_{7} = \sum_{i=1}^{7} TR_i
+ \]
+ \[
+ \text{AvgBP}_{14} = \sum_{i=1}^{14} BP_i, \quad \text{AvgTR}_{14} = \sum_{i=1}^{14} TR_i
+ \]
+ \[
+ \text{AvgBP}_{28} = \sum_{i=1}^{28} BP_i, \quad \text{AvgTR}_{28} = \sum_{i=1}^{28} TR_i
+ \]
 
 4. **[Weighted Averages](../w/weighted_averages_in_trading.md)**:
-   Calculate the [weighted average](../w/weighted_average.md) of these Buying Pressure averages and True [Range](../r/range.md) averages:
-   \[
-   BP_w = \frac{(4 \cdot \text{AvgBP}_{7} + 2 \cdot \text{AvgBP}_{14} + \text{AvgBP}_{28})}{(4 + 2 + 1)}
-   \]
-   \[
-   TR_w = \frac{(4 \cdot \text{AvgTR}_{7} + 2 \cdot \text{AvgTR}_{14} + \text{AvgTR}_{28})}{(4 + 2 + 1)}
-   \]
+ Calculate the [weighted average](../w/weighted_average.md) of these Buying Pressure averages and True [Range](../r/range.md) averages:
+ \[
+ BP_w = \frac{(4 \cdot \text{AvgBP}_{7} + 2 \cdot \text{AvgBP}_{14} + \text{AvgBP}_{28})}{(4 + 2 + 1)}
+ \]
+ \[
+ TR_w = \frac{(4 \cdot \text{AvgTR}_{7} + 2 \cdot \text{AvgTR}_{14} + \text{AvgTR}_{28})}{(4 + 2 + 1)}
+ \]
 
 5. **Ultimate [Oscillator](../o/oscillator.md) (UO)**:
-   Finally, the Ultimate [Oscillator](../o/oscillator.md) [value](../v/value.md) is calculated as:
-   \[
-   UO = 100 \times \left(\frac{BP_w}{TR_w}\right)
-   \]
+ Finally, the Ultimate [Oscillator](../o/oscillator.md) [value](../v/value.md) is calculated as:
+ \[
+ UO = 100 \times \left(\frac{BP_w}{TR_w}\right)
+ \]
 
 ### Interpretation of the Ultimate Oscillator
 
 The Ultimate [Oscillator](../o/oscillator.md) ranges between 0 and 100, similar to other oscillators like the RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)). It helps traders identify buying or selling pressure in a [security](../s/security.md).
 
 - **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**: Generally, a [value](../v/value.md) above 70 is considered [overbought](../o/overbought.md), and a [value](../v/value.md) below 30 is considered [oversold](../o/oversold.md). These conditions usually indicate a potential [reversal](../r/reversal.md) in the price [trend](../t/trend.md).
-- **Bullish and Bearish Divengences**: [Divergence](../d/divergence.md) occurs when the price of an [asset](../a/asset.md) moves in the opposite direction of the Ultimate [Oscillator](../o/oscillator.md). 
-  - **[Bullish Divergence](../b/bullish_divergence.md)**: This happens when prices are making new lows but the Ultimate [Oscillator](../o/oscillator.md) is making higher lows. This is an indication that the selling pressure is declining and a [reversal](../r/reversal.md) to the [upside](../u/upside.md) might happen soon.
-  - **[Bearish Divergence](../b/bearish_divergence.md)**: This is when prices are making new highs, but the Ultimate [Oscillator](../o/oscillator.md) is making lower highs. This suggests that buying pressure is waning and a [reversal](../r/reversal.md) to the downside might be imminent.
+- **Bullish and Bearish Divengences**: [Divergence](../d/divergence.md) occurs when the price of an [asset](../a/asset.md) moves in the opposite direction of the Ultimate [Oscillator](../o/oscillator.md).
+ - **[Bullish Divergence](../b/bullish_divergence.md)**: This happens when prices are making new lows but the Ultimate [Oscillator](../o/oscillator.md) is making higher lows. This is an indication that the selling pressure is declining and a [reversal](../r/reversal.md) to the [upside](../u/upside.md) might happen soon.
+ - **[Bearish Divergence](../b/bearish_divergence.md)**: This is when prices are making new highs, but the Ultimate [Oscillator](../o/oscillator.md) is making lower highs. This suggests that buying pressure is waning and a [reversal](../r/reversal.md) to the downside might be imminent.
 
 ## Practical Use of the Ultimate Oscillator
 
@@ -104,4 +104,4 @@ Traders often use the Ultimate [Oscillator](../o/oscillator.md) in conjunction w
 
 The Ultimate [Oscillator](../o/oscillator.md), by melding together varying time periods, seeks to [offer](../o/offer.md) a balanced and less noisy perspective on [market](../m/market.md) [momentum](../m/momentum.md). While its complexity might deter some traders, the nuanced signals it provides can be invaluable in making informed trading decisions. Whether used alone or in conjunction with other [technical indicators](../t/technical_indicator.md), the Ultimate [Oscillator](../o/oscillator.md) can be a potent tool in a [trader](../t/trader.md)'s arsenal when applied correctly.
 
-For more information on Larry Williams and his other contributions to [technical analysis](../t/technical_analysis.md), you can refer to his official [website](https://www.ireallytrade.com/).
+For more information on Larry Williams and his other contributions to [technical analysis](../t/technical_analysis.md),

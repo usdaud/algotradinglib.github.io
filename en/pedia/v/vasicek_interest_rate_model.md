@@ -28,11 +28,9 @@ To price zero-coupon bonds within the Vasicek framework, one can derive the pric
 
 \[ P(t,T) = A(t,T) \cdot \exp(-B(t,T) \cdot r_t) \]
 
-where
 
 \[ A(t,T) = \exp \left( (B(t,T)-T+t)( \[alpha](../a/alpha.md) \[beta](../b/beta.md) - \frac{\sigma^2}{2\[alpha](../a/alpha.md)^2} ) - \frac{\sigma^2}{4\[alpha](../a/alpha.md)} B^2(t,T) \right) \]
 
-and 
 
 \[ B(t,T) = \frac{1 - e^{-\[alpha](../a/alpha.md) (T-t)}}{\[alpha](../a/alpha.md)} \]
 

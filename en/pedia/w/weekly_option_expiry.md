@@ -45,10 +45,10 @@ This strategy leverages statistical and econometric techniques to exploit correl
 
 Several companies and trading platforms are at the forefront of [algorithmic trading](../a/algorithmic_trading.md) in weekly [options](../o/options.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
-- **QuantInsti**: Provides professional training and certification in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with the necessary skills to navigate weekly [options](../o/options.md) trading. [Visit QuantInsti](https://www.quantinsti.com/)
-- **Two Sigma**: A highly respected quantitative [hedge fund](../h/hedge_fund.md) known for its advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. [Visit Two Sigma](https://www.twosigma.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers extensive tools and platforms for [algorithmic trading](../a/algorithmic_trading.md), including [options](../o/options.md) trading. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading algorithms](../t/trading_algorithms.md). Visit QuantConnect
+- **QuantInsti**: Provides professional training and certification in [algorithmic trading](../a/algorithmic_trading.md), empowering traders with the necessary skills to navigate weekly [options](../o/options.md) trading. Visit QuantInsti
+- **Two Sigma**: A highly respected quantitative [hedge fund](../h/hedge_fund.md) known for its advanced [algorithmic trading](../a/algorithmic_trading.md) strategies. Visit Two Sigma
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers extensive tools and platforms for [algorithmic trading](../a/algorithmic_trading.md), including [options](../o/options.md) trading. Visit Interactive Brokers
 
 ## Risk Management in Weekly Options Trading
 

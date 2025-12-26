@@ -43,6 +43,3 @@ Futu integrates with a variety of financial platforms and tools to enhance its s
 Futu is regulated by several top-tier financial authorities, ensuring a secure and compliant [trading environment](../t/trading_environment.md):
 - Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC) in Hong Kong
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)) in the USA
-
-## Website
-For more information and to start trading, visit the official Futu website: [Futu](https://www.futuholdings.com)

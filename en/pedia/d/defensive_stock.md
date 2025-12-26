@@ -24,19 +24,19 @@ While defensive [stocks](../s/stock.md) [offer](../o/offer.md) stability and con
 
 ### Utilities
 
-The [utility](../u/utility.md) sector includes companies that provide essential services such as electricity, water, and natural gas. These services are necessary regardless of [economic conditions](../e/economic_conditions.md), resulting in stable [demand](../d/demand.md). Major companies in this sector, like Duke Energy [Corporation](../c/corporation.md) ([duke-energy.com](https://www.duke-energy.com/)), often [offer](../o/offer.md) high [dividend](../d/dividend.md) yields and have regulated [revenue](../r/revenue.md) streams, contributing to their defensive nature.
+The [utility](../u/utility.md) sector includes companies that provide essential services such as electricity, water, and natural gas. These services are necessary regardless of [economic conditions](../e/economic_conditions.md), resulting in stable [demand](../d/demand.md). Major companies in this sector, like Duke Energy [Corporation](../c/corporation.md) (duke-energy.com), often [offer](../o/offer.md) high [dividend](../d/dividend.md) yields and have regulated [revenue](../r/revenue.md) streams, contributing to their defensive nature.
 
 ### Healthcare
 
-The [healthcare sector](../h/healthcare_sector.md) encompasses companies involved in the production of pharmaceuticals, medical devices, and providers of healthcare services. [Demand](../d/demand.md) for healthcare is relatively inelastic because medical needs do not fluctuate significantly with the [economy](../e/economy.md). Companies like Johnson & Johnson ([jnj.com](https://www.jnj.com/)) and Pfizer ([pfizer.com](https://www.pfizer.com/)) are prominent defensive [stocks](../s/stock.md) within this sector.
+The [healthcare sector](../h/healthcare_sector.md) encompasses companies involved in the production of pharmaceuticals, medical devices, and providers of healthcare services. [Demand](../d/demand.md) for healthcare is relatively inelastic because medical needs do not fluctuate significantly with the [economy](../e/economy.md). Companies like Johnson & Johnson (jnj.com) and Pfizer (pfizer.com) are prominent defensive [stocks](../s/stock.md) within this sector.
 
 ### Consumer Staples
 
-[Consumer staples](../c/consumer_staples.md) include products that people need on a daily [basis](../b/basis.md), such as food, beverages, and household items. Companies operating in this sector, like Procter & Gamble ([pg.com](https://www.pg.com/)) and Coca-Cola ([coca-colacompany.com](https://www.coca-colacompany.com/)), tend to have consistent [demand](../d/demand.md) regardless of the economic climate, making them defensive investments.
+[Consumer staples](../c/consumer_staples.md) include products that people need on a daily [basis](../b/basis.md), such as food, beverages, and household items. Companies operating in this sector, like Procter & Gamble (pg.com) and Coca-Cola (coca-colacompany.com), tend to have consistent [demand](../d/demand.md) regardless of the economic climate, making them defensive investments.
 
 ### Telecommunications
 
-Telecommunications companies provide essential communication services, including telephone and internet services. These services are crucial for both personal and [business activities](../b/business_activities.md), resulting in steady [demand](../d/demand.md). Companies such as AT&T ([att.com](https://www.att.com/)) and Verizon Communications ([verizon.com](https://www.verizon.com/)) are often considered defensive [stocks](../s/stock.md) within this sector.
+Telecommunications companies provide essential communication services, including telephone and internet services. These services are crucial for both personal and [business activities](../b/business_activities.md), resulting in steady [demand](../d/demand.md). Companies such as AT&T (att.com) and Verizon Communications (verizon.com) are often considered defensive [stocks](../s/stock.md) within this sector.
 
 ## Advantages of Investing in Defensive Stocks
 

@@ -15,13 +15,13 @@ A **Junior [Security](../s/security.md)** refers to a type of [security](../s/se
 
 ## Types of Junior Securities
 1. **[Common Stock](../c/common_stock.md)**: [Equity](../e/equity.md) securities that represent ownership in a company, with residual claims on assets and [earnings](../e/earnings.md) after all debts and other [obligations](../o/obligation.md) are satisfied.
-   - **Example**: [Shares](../s/shares.md) of publicly traded companies [listed](../l/listed.md) on stock exchanges.
+ - **Example**: [Shares](../s/shares.md) of publicly traded companies [listed](../l/listed.md) on stock exchanges.
 2. **[Preferred Stock](../p/preferred_stock.md)**: [Equity](../e/equity.md) securities that have a higher claim on assets and [earnings](../e/earnings.md) than [common stock](../c/common_stock.md) but are junior to all forms of [debt](../d/debt.md).
-   - **Example**: Preferred [shares](../s/shares.md) that pay fixed dividends and have priority over common [shares](../s/shares.md) in [asset](../a/asset.md) [liquidation](../l/liquidation.md).
+ - **Example**: Preferred [shares](../s/shares.md) that pay fixed dividends and have priority over common [shares](../s/shares.md) in [asset](../a/asset.md) [liquidation](../l/liquidation.md).
 3. **[Subordinated Debt](../s/subordinated_debt.md)**: [Debt](../d/debt.md) securities that are junior to other forms of [debt](../d/debt.md), such as senior [debt](../d/debt.md), in the event of [liquidation](../l/liquidation.md).
-   - **Example**: Subordinated bonds issued by companies to raise additional [capital](../c/capital.md).
+ - **Example**: Subordinated bonds issued by companies to raise additional [capital](../c/capital.md).
 4. **Convertible Bonds**: Bonds that can be converted into a predetermined number of [shares](../s/shares.md) of [common stock](../c/common_stock.md), combining features of [debt](../d/debt.md) and [equity](../e/equity.md).
-   - **Example**: Convertible bonds issued by a company to attract investors looking for [fixed income](../f/fixed_income.md) with the potential for [equity](../e/equity.md) [upside](../u/upside.md).
+ - **Example**: Convertible bonds issued by a company to attract investors looking for [fixed income](../f/fixed_income.md) with the potential for [equity](../e/equity.md) [upside](../u/upside.md).
 
 ## Example Scenarios
 1. **Corporate [Financing](../f/financing.md)**: A company issues [subordinated debt](../s/subordinated_debt.md) to raise funds for [expansion](../e/expansion.md), knowing that this [debt](../d/debt.md) [will](../w/will.md) have lower priority compared to its existing senior bonds.
@@ -41,4 +41,3 @@ A **Junior [Security](../s/security.md)** refers to a type of [security](../s/se
 
 ## Conclusion
 Junior securities play a crucial role in the [financial markets](../f/financial_market.md), [offering](../o/offering.md) higher [risk](../r/risk.md) and potentially higher returns compared to senior securities. They are an important component of a company's [capital structure](../c/capital_structure.md) and provide diverse investment opportunities. Understanding the types, risks, and [best practices](../b/best_practices.md) associated with junior securities can help investors make informed decisions and effectively manage their investment portfolios.
-

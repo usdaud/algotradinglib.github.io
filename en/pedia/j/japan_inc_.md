@@ -18,7 +18,7 @@ An example of Horizontal [Keiretsu](../k/keiretsu.md) is the "Mitsubishi Group,"
 
 ### Ministry of International Trade and Industry (MITI)
 
-The Ministry of International [Trade](../t/trade.md) and [Industry](../i/industry.md) (MITI) played a pivotal role in Japan's economic transformation. Established in 1949, MITI was responsible for coordinating efforts between the Japanese government and private [industry](../i/industry.md). 
+The Ministry of International [Trade](../t/trade.md) and [Industry](../i/industry.md) (MITI) played a pivotal role in Japan's economic transformation. Established in 1949, MITI was responsible for coordinating efforts between the Japanese government and private [industry](../i/industry.md).
 
 Some key functions of MITI included:
 - **Industrial Policy**: Guiding industries towards certain sectors deemed strategically important, [offering](../o/offering.md) subsidies, and providing [guidance](../g/guidance.md).
@@ -39,7 +39,7 @@ The Ringi system is the traditional Japanese decision-making process involving c
 
 ### Just-In-Time Manufacturing (Kaizen)
 
-Industries, particularly automobile [manufacturing](../m/manufacturing.md), adopted the Just-in-Time (JIT) [manufacturing](../m/manufacturing.md) system. Toyota, a pioneer in this regard, developed the Toyota Production System (TPS), which organizes [manufacturing](../m/manufacturing.md) to reduce waste and improve [efficiency](../e/efficiency.md). 
+Industries, particularly automobile [manufacturing](../m/manufacturing.md), adopted the Just-in-Time (JIT) [manufacturing](../m/manufacturing.md) system. Toyota, a pioneer in this regard, developed the Toyota Production System (TPS), which organizes [manufacturing](../m/manufacturing.md) to reduce waste and improve [efficiency](../e/efficiency.md).
 
 Key principles include:
 - **Right-on-Time [Inventory](../i/inventory.md)**: Reducing storage costs by receiving goods only as they are needed in the production process.
@@ -82,22 +82,22 @@ Japanese companies have been expanding their international presence through merg
 Several prominent companies exemplify the spirit and practices of Japan Inc.
 
 ### Toyota Motor Corporation
-[https://global.toyota/en/]
+[
 
 Toyota is a multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It operates under the principles of the Toyota Production System and continues to be an [industry](../i/industry.md) leader in innovation, quality, and [efficiency](../e/efficiency.md).
 
 ### Mitsubishi Group
-[https://www.mitsubishi.com/]
+[
 
 Mitsubishi is one of the largest and most diversified [keiretsu](../k/keiretsu.md). Its businesses span various industries, including [finance](../f/finance.md), heavy industries, chemicals, energy, and [logistics](../l/logistics.md). Mitsubishi exemplifies the interconnectedness of Japan Inc.'s [business](../b/business.md) practices.
 
 ### Sony Corporation
-[https://www.sony.com/]
+[
 
 Sony is a global leader in electronics, entertainment, and financial services. It symbolizes Japan's innovative capability and its commitment to technology and quality. Sony's advancements in consumer electronics, gaming, and film production highlight Japan's dynamic economic strategies.
 
 ### SoftBank Group
-[https://group.softbank/en/]
+[
 
 SoftBank has emerged as a leading tech [conglomerate](../c/conglomerate.md) under the [leadership](../l/leadership.md) of its CEO, Masayoshi Son. Known for its aggressive investment strategies, including the Vision [Fund](../f/fund.md), SoftBank represents a new wave of Japanese entrepreneurship that blends traditional values with bold, global outlooks.
 

@@ -1,6 +1,6 @@
 # Jumbo Pool
 
-The world of [algorithmic trading](../a/accountability.md), or "algo-trading," is vast and varied, consisting of numerous strategies, technologies, and terminologies. One such concept is the "Jumbo Pool." This term is frequently used in the realms of high-frequency trading (HFT) and [dark pools](../d/dark_pools.md). Here, we [will](../w/will.md) explore the intricate details of Jumbo Pools, their relevance in [algorithmic trading](../a/accountability.md), their advantages and disadvantages, and their role in modern [financial markets](../f/financial_market.md).
+The world of [algorithmic trading](../a/algorithmic_trading.md), or "algo-trading," is vast and varied, consisting of numerous strategies, technologies, and terminologies. One such concept is the "Jumbo Pool." This term is frequently used in the realms of high-frequency trading (HFT) and [dark pools](../d/dark_pools.md). Here, we [will](../w/will.md) explore the intricate details of Jumbo Pools, their relevance in [algorithmic trading](../a/algorithmic_trading.md), their advantages and disadvantages, and their role in modern [financial markets](../f/financial_market.md).
 
 ## What is a Jumbo Pool?
 
@@ -34,11 +34,11 @@ A Jumbo Pool is a type of [dark pool](../d/dark_pool.md) that specifically handl
 Several financial institutions and technology providers are prominent in the Jumbo Pool space. These entities develop and operate advanced trading platforms designed to [handle](../h/handle.md) the unique demands of large institutional orders.
 
 ### Prominent Jumbo Pool Operators
-1. **Liquidnet**: Known for its extensive network of institutional investors, Liquidnet provides a platform for executing [large block trades](../l/large_block_trades.md) with minimal [market](../m/market.md) impact. [Visit Liquidnet](https://www.liquidnet.com)
+1. **Liquidnet**: Known for its extensive network of institutional investors, Liquidnet provides a platform for executing [large block trades](../l/large_block_trades.md) with minimal [market](../m/market.md) impact. Visit Liquidnet
 
-2. **ITG POSIT**: [Offering](../o/offering.md) a suite of [dark pool](../d/dark_pool.md) trading solutions, ITG POSIT is a major player in the algo-trading and [dark pool](../d/dark_pool.md) space. [Visit ITG](https://www.itg.com)
+2. **ITG POSIT**: [Offering](../o/offering.md) a suite of [dark pool](../d/dark_pool.md) trading solutions, ITG POSIT is a major player in the algo-trading and [dark pool](../d/dark_pool.md) space. Visit ITG
 
-3. **Goldman Sachs' Sigma X**: Sigma X is Goldman Sachs' [dark pool](../d/dark_pool.md) [offering](../o/offering.md), catering to institutional clients seeking to execute large orders discreetly. [Visit Goldman Sachs](https://www.goldmansachs.com)
+3. **Goldman Sachs' Sigma X**: Sigma X is Goldman Sachs' [dark pool](../d/dark_pool.md) [offering](../o/offering.md), catering to institutional clients seeking to execute large orders discreetly. Visit Goldman Sachs
 
 ### Technological Infrastructure
 
@@ -72,6 +72,6 @@ The landscape of Jumbo Pools and algo-trading is continually evolving. Several f
 
 ## Conclusion
 
-Jumbo Pools represent a crucial component of the [algorithmic trading](../a/accountability.md) ecosystem, catering to the unique needs of large institutional investors. By providing a venue for executing substantial orders with minimal [market](../m/market.md) impact and enhanced confidentiality, they play a vital role in stabilizing markets and reducing [volatility](../v/volatility.md). However, their lack of [transparency](../t/transparency.md) and potential for manipulation necessitate careful regulation and oversight.
+Jumbo Pools represent a crucial component of the [algorithmic trading](../a/algorithmic_trading.md) ecosystem, catering to the unique needs of large institutional investors. By providing a venue for executing substantial orders with minimal [market](../m/market.md) impact and enhanced confidentiality, they play a vital role in stabilizing markets and reducing [volatility](../v/volatility.md). However, their lack of [transparency](../t/transparency.md) and potential for manipulation necessitate careful regulation and oversight.
 
 As technology continues to advance and regulatory frameworks evolve, Jumbo Pools are likely to adapt and transform, [offering](../o/offering.md) even greater [efficiency](../e/efficiency.md) and sophistication. Understanding the intricacies of Jumbo Pools is essential for anyone involved in institutional trading, as they [offer](../o/offer.md) powerful tools for managing large orders in today's complex financial landscape.

@@ -1,6 +1,6 @@
 # Voluntary Liquidation
 
-Voluntary [liquidation](../l/liquidation.md) is a process by which a company decides to wind up its operations and dissolve itself. This decision is typically made by the company's shareholders or directors when the company is solvent, meaning that it has enough assets to cover its liabilities, including any outstanding debts. The process of voluntary [liquidation](../l/liquidation.md) is governed by various legal and regulatory frameworks, which vary depending on the jurisdiction in which the company operates. 
+Voluntary [liquidation](../l/liquidation.md) is a process by which a company decides to wind up its operations and dissolve itself. This decision is typically made by the company's shareholders or directors when the company is solvent, meaning that it has enough assets to cover its liabilities, including any outstanding debts. The process of voluntary [liquidation](../l/liquidation.md) is governed by various legal and regulatory frameworks, which vary depending on the jurisdiction in which the company operates.
 
 Let’s delve into the details of voluntary [liquidation](../l/liquidation.md), covering its types, procedures, legal implications, and [best practices](../b/best_practices.md).
 
@@ -47,7 +47,7 @@ Licensed [insolvency](../i/insolvency.md) practitioners appointed as liquidators
 - Settling the company's debts.
 - Distributing remaining funds to shareholders (in MVL) or creditors (in CVL).
 - Reporting to creditors and shareholders about the [liquidation](../l/liquidation.md) proceedings.
-  
+
 Liquidators have the authority to investigate the company’s financial affairs before [liquidation](../l/liquidation.md) and can challenge transactions that appear suspicious or were transacted under [insolvency](../i/insolvency.md) conditions to benefit certain parties unfairly.
 
 ### Reports and Final Accounts
@@ -82,7 +82,7 @@ Maintaining detailed records and providing comprehensive reports to stakeholders
 ## Case Studies and Real-Life Applications
 
 ### Case Study 1: XYZ Manufacturing Co. - MVL
-XYZ [Manufacturing](../m/manufacturing.md) Co. decided to enter into voluntary [liquidation](../l/liquidation.md) following the retirement of its founders. The company was solvent and had a good standing with creditors and suppliers. By declaring [solvency](../s/solvency.md) and following the MVL process, the [firm](../f/firm.md) managed to wind up operations smoothly, realizing all assets and settling all debts. Shareholders received their due returns, and the [liquidator](../l/liquidator.md) provided a transparent final report, concluding the process effectively. 
+XYZ [Manufacturing](../m/manufacturing.md) Co. decided to enter into voluntary [liquidation](../l/liquidation.md) following the retirement of its founders. The company was solvent and had a good standing with creditors and suppliers. By declaring [solvency](../s/solvency.md) and following the MVL process, the [firm](../f/firm.md) managed to wind up operations smoothly, realizing all assets and settling all debts. Shareholders received their due returns, and the [liquidator](../l/liquidator.md) provided a transparent final report, concluding the process effectively.
 
 ### Case Study 2: ABC Retail Ltd. - CVL
 ABC Retail Ltd., facing financial downturns and accumulating [debt](../d/debt.md), opted for Creditors' Voluntary [Liquidation](../l/liquidation.md). The directors, acknowledging [insolvency](../i/insolvency.md), took the decision proactively. A meeting with creditors led to the appointment of an experienced [liquidator](../l/liquidator.md) who identified and sold off valuable assets. The [liquidator](../l/liquidator.md) managed claims from creditors, distributed the proceeds according to legal priorities, and provided comprehensive reports at each stage, culminating in the company’s orderly dissolution.
@@ -90,17 +90,17 @@ ABC Retail Ltd., facing financial downturns and accumulating [debt](../d/debt.md
 ### Famous Liquidations
 
 - **Apple’s Subsidiaries:** In its broad [restructuring](../r/restructuring.md) efforts, Apple Inc. occasionally liquidates subsidiaries that no longer align with its strategic goals. These processes highlight the organized approach of a financially [robust](../r/robust.md) company making strategic decisions.
-  
+
 - **Bankruptcies in the [Financial Crisis](../f/financial_crisis.md):** Many companies opted for voluntary [liquidation](../l/liquidation.md) during the 2008 [financial crisis](../f/financial_crisis.md) as a preemptive measure to manage [debt](../d/debt.md) and liabilities more effectively.
 
 ## References for Further Reading
 
 For more information on voluntary [liquidation](../l/liquidation.md) processes, [insolvency](../i/insolvency.md) regulations, and [best practices](../b/best_practices.md), refer to the following resources:
 
-- [Institute of Chartered Accountants in England and Wales](https://www.icaew.com)
-- [Insolvency Service](https://www.gov.uk/government/organisations/insolvency-service)
-- [American Bankruptcy Institute](https://www.abi.org)
-  
+- Institute of Chartered Accountants in England and Wales
+- Insolvency Service
+- American Bankruptcy Institute
+
 These institutions provide extensive guidelines, case studies, and updates on legislative changes affecting voluntary [liquidation](../l/liquidation.md) and broader [insolvency](../i/insolvency.md) practices.
 
 ---

@@ -13,23 +13,23 @@ Gold has been a valuable [asset](../a/asset.md) for thousands of years, serving 
 ### Key Components of Algorithmic Gold Trading
 
 1. **Data Collection and Preprocessing**:
-    - **Historical Data**: Historical prices, volumes, and other relevant [market](../m/market.md) data are collected and preprocessed.
-    - **Real-time Data**: Live feeds of [market](../m/market.md) data are integrated into the algorithm for timely decision-making.
+ - **Historical Data**: Historical prices, volumes, and other relevant [market](../m/market.md) data are collected and preprocessed.
+ - **Real-time Data**: Live feeds of [market](../m/market.md) data are integrated into the algorithm for timely decision-making.
 
 2. **Strategy Development**:
-    - **[Trend Following](../t/trend_following.md)**: Algorithms detect and follow [market](../m/market.md) trends.
-    - **[Mean Reversion](../m/mean_reversion.md)**: Algorithms identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and [trade](../t/trade.md) accordingly.
-    - **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms exploit price differences between different markets or instruments.
+ - **[Trend Following](../t/trend_following.md)**: Algorithms detect and follow [market](../m/market.md) trends.
+ - **[Mean Reversion](../m/mean_reversion.md)**: Algorithms identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions and [trade](../t/trade.md) accordingly.
+ - **[Arbitrage](../a/arbitrage.md) Opportunities**: Algorithms exploit price differences between different markets or instruments.
 
 3. **[Backtesting](../b/backtesting.md)**:
-    - [Simulation](../s/simulation_in_trading.md) of the trading algorithm on historical data to evaluate its performance and refine the strategy.
+ - [Simulation](../s/simulation_in_trading.md) of the trading algorithm on historical data to evaluate its performance and refine the strategy.
 
 4. **[Execution](../e/execution.md)**:
-    - [Execution](../e/execution.md) of trades through brokers or trading platforms with minimal latency.
+ - [Execution](../e/execution.md) of trades through brokers or trading platforms with minimal latency.
 
 ### Companies Utilizing Algorithmic Gold Trading
 
-- **DRW**: [DRW](https://drw.com/) employs innovative [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md), to [capitalize](../c/capitalize.md) on opportunities in the gold [market](../m/market.md).
+- **DRW**: DRW employs innovative [trading strategies](../t/trading_strategies.md), including [algorithmic trading](../a/algorithmic_trading.md), to [capitalize](../c/capitalize.md) on opportunities in the gold [market](../m/market.md).
 
 ## Technical Analysis
 
@@ -37,9 +37,9 @@ Gold has been a valuable [asset](../a/asset.md) for thousands of years, serving 
 
 ### Popular Technical Indicators for Gold Trading
 
-1. **Moving Averages**: 
-    - Simple Moving Average (SMA)
-    - Exponential Moving Average (EMA)
+1. **Moving Averages**:
+ - Simple Moving Average (SMA)
+ - Exponential Moving Average (EMA)
 
 2. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)**: Measures the speed and change of price movements to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
@@ -54,19 +54,19 @@ Gold has been a valuable [asset](../a/asset.md) for thousands of years, serving 
 ### Key Factors in Fundamental Analysis
 
 1. **[Economic Indicators](../e/economic_indicators.md)**:
-    - **[Inflation](../i/inflation.md) Rates**: High [inflation](../i/inflation.md) rates often lead to increased gold prices.
-    - **[Interest](../i/interest.md) Rates**: Lower [interest](../i/interest.md) rates make gold more attractive compared to [interest](../i/interest.md)-bearing assets.
+ - **[Inflation](../i/inflation.md) Rates**: High [inflation](../i/inflation.md) rates often lead to increased gold prices.
+ - **[Interest](../i/interest.md) Rates**: Lower [interest](../i/interest.md) rates make gold more attractive compared to [interest](../i/interest.md)-bearing assets.
 
-2. **[Geopolitical Events](../g/geopolitical_events.md)**: 
-    - Political instability, wars, and other events can increase gold’s appeal as a safe-haven [asset](../a/asset.md).
+2. **[Geopolitical Events](../g/geopolitical_events.md)**:
+ - Political instability, wars, and other events can increase gold’s appeal as a safe-haven [asset](../a/asset.md).
 
 3. **[Supply](../s/supply.md) and [Demand](../d/demand.md)**:
-    - Gold production levels, including [mining](../m/mining.md) activities.
-    - Jewelry and industrial [demand](../d/demand.md).
+ - Gold production levels, including [mining](../m/mining.md) activities.
+ - Jewelry and industrial [demand](../d/demand.md).
 
 ### Leading Analysts
 
-- **[Bloomberg](../b/bloomberg.md) Intelligence**: [Bloomberg](https://www.bloomberg.com/) provides in-depth [fundamental analysis](../f/fundamental_analysis.md) and [market](../m/market.md) forecasts for gold.
+- **[Bloomberg](../b/bloomberg.md) Intelligence**: Bloomberg provides in-depth [fundamental analysis](../f/fundamental_analysis.md) and [market](../m/market.md) forecasts for gold.
 
 ## Options Trading
 

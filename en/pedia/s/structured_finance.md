@@ -88,7 +88,7 @@ Frequent changes in financial regulations can affect the structuring, issuance, 
 Structured [finance](../f/finance.md) played a central role in the 2008 financial meltdown. [Mortgage](../m/mortgage.md)-Backed Securities (MBS) and Collateralized [Debt](../d/debt.md) [Obligations](../o/obligation.md) (CDOs) were at the heart of the crisis. The mispricing of [risk](../r/risk.md) and the failure of [credit rating](../c/credit_rating.md) agencies to assess the real [risk](../r/risk.md) involved led to widespread defaults and financial instability.
 
 ### Corporate Securitization
-Many corporations use structured [finance](../f/finance.md) for funding purposes. For instance, companies like [General Electric](https://www.ge.com) have used [securitization](../s/securitization.md) to [finance](../f/finance.md) their operations, releasing trapped [capital](../c/capital.md) from their receivables.
+Many corporations use structured [finance](../f/finance.md) for funding purposes. For instance, companies like General Electric have used [securitization](../s/securitization.md) to [finance](../f/finance.md) their operations, releasing trapped [capital](../c/capital.md) from their receivables.
 
 ### Governmental Use
 Governments also use structured [finance](../f/finance.md) for various purposes, such as [infrastructure](../i/infrastructure.md) funding and [public-private partnerships](../p/public-private_partnerships.md). [Municipal bonds](../m/municipal_bonds.md) and other forms of governmental [securitization](../s/securitization.md) help in raising funds while managing [financial risk](../f/financial_risk.md).
@@ -96,13 +96,13 @@ Governments also use structured [finance](../f/finance.md) for various purposes,
 ## Leading Firms in Structured Finance
 
 ### JP Morgan
-JP Morgan is one of the leading firms in the world of structured [finance](../f/finance.md). The [bank](../b/bank.md) offers a wide [range](../r/range.md) of services, including [asset](../a/asset.md)-backed securities, collateralized [loan](../l/loan.md) [obligations](../o/obligation.md), and structured [credit](../c/credit.md) products. More details can be found on their [website](https://www.jpmorgan.com).
+JP Morgan is one of the leading firms in the world of structured [finance](../f/finance.md). The [bank](../b/bank.md) offers a wide [range](../r/range.md) of services, including [asset](../a/asset.md)-backed securities, collateralized [loan](../l/loan.md) [obligations](../o/obligation.md), and structured [credit](../c/credit.md) products. More
 
 ### Goldman Sachs
-Goldman Sachs provides comprehensive solutions in structured [finance](../f/finance.md), ranging from [securitization](../s/securitization.md) to [risk management](../r/risk_management.md) products. They have been at the forefront in creating innovative financial solutions. More information is available on their [website](https://www.goldmansachs.com).
+Goldman Sachs provides comprehensive solutions in structured [finance](../f/finance.md), ranging from [securitization](../s/securitization.md) to [risk management](../r/risk_management.md) products. They have been at the forefront in creating innovative financial solutions.
 
 ### Citigroup
-Citigroup offers diverse structured [finance](../f/finance.md) services, including [asset](../a/asset.md)-backed securities, [mortgage](../m/mortgage.md)-backed securities, and [credit](../c/credit.md) [derivatives](../d/derivatives.md). Their expertise spans both corporate and governmental sectors. Visit their [website](https://www.citigroup.com) for more information.
+Citigroup offers diverse structured [finance](../f/finance.md) services, including [asset](../a/asset.md)-backed securities, [mortgage](../m/mortgage.md)-backed securities, and [credit](../c/credit.md) [derivatives](../d/derivatives.md). Their expertise spans both corporate and governmental sectors.
 
 ## Conclusion
 

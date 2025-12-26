@@ -80,9 +80,9 @@ Despite its benefits, WLC faces several challenges:
 
 Several tools and software solutions are available to assist in Whole-Life Cost analysis:
 
-- **IBM Maximo**: A [robust](../r/robust.md) [asset management](../a/asset_management.md) software that includes lifecycle costing functionalities (https://www.ibm.com/us-en/marketplace/[asset](../a/asset.md)-management).
-- **BIM (Building Information Modeling)**: Tools like Autodesk Revit provide features for lifecycle cost analysis in construction projects (https://www.autodesk.com/products/revit/overview).
-- **[Life Cycle](../l/life_cycle.md) Costing Software**: Dedicated solutions such as [Life Cycle](../l/life_cycle.md) Costing (LCC) software by BSI (https://www.bsigroup.com/en-GB/our-services/product-certification/life-cycle-costing-software/).
+- **IBM Maximo**: A [robust](../r/robust.md) [asset management](../a/asset_management.md) software that includes lifecycle costing functionalities (
+- **BIM (Building Information Modeling)**: Tools like Autodesk Revit provide features for lifecycle cost analysis in construction projects (
+- **[Life Cycle](../l/life_cycle.md) Costing Software**: Dedicated solutions such as [Life Cycle](../l/life_cycle.md) Costing (LCC) software by BSI (
 
 ## Conclusion
 

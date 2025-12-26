@@ -33,7 +33,7 @@ The EMA is particularly useful for capturing short-term [momentum](../m/momentum
 
 ### Relative Strength Index (RSI)
 
-The RSI measures the speed and change of price movements, oscillating between 0 and 100. It is generally used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md). 
+The RSI measures the speed and change of price movements, oscillating between 0 and 100. It is generally used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [market](../m/market.md).
 
 Example Formula:
 ```
@@ -191,8 +191,8 @@ print(tail(cumulative_strategy_returns, 1))
 
 For further exploration of [algorithmic trading](../a/algorithmic_trading.md) services and platforms, you may visit:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [MetaTrader](https://www.metatrader5.com/en)
-- [Trality](https://www.trality.com/)
+- QuantConnect
+- MetaTrader
+- Trality
 
 By leveraging these tools, traders can backtest and deploy their strategies in real-time, harnessing the power of [technical analysis](../t/technical_analysis.md) to navigate the [financial markets](../f/financial_market.md).

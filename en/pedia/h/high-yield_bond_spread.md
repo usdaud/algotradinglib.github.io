@@ -63,8 +63,8 @@ Several tools and platforms assist investors and analysts in monitoring [high-yi
 
 - **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive source for real-time financial data, including high-[yield](../y/yield.md) [spreads](../s/spreads.md).
 - **[Reuters](../r/reuters.md) Eikon**: Another [robust](../r/robust.md) platform [offering](../o/offering.md) detailed [bond market](../b/bond_market.md) information and analytics.
-- **The ICE BofA US High [Yield](../y/yield.md) [Index](../i/index_instrument.md) (H0A0)**: Managed by ICE Data Indices, LLC, it tracks the performance of U.S. dollar-denominated below investment-grade corporate [debt](../d/debt.md) (https://indices.theice.com/[home](../h/home.md)).
-- **Federal Reserve Economic Data (FRED)**: Provides historical [time series](../t/time_series.md) data on [high-yield bond](../h/high-yield_bond.md) [spreads](../s/spreads.md), sourced from the ICE Data Indices (https://fred.stlouisfed.org/).
+- **The ICE BofA US High [Yield](../y/yield.md) [Index](../i/index_instrument.md) (H0A0)**: Managed by ICE Data Indices, LLC, it tracks the performance of U.S. dollar-denominated below investment-grade corporate [debt](../d/debt.md) (
+- **Federal Reserve Economic Data (FRED)**: Provides historical [time series](../t/time_series.md) data on [high-yield bond](../h/high-yield_bond.md) [spreads](../s/spreads.md), sourced from the ICE Data Indices (
 
 ## Conclusion
 

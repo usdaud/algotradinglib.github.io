@@ -73,7 +73,7 @@ where \(\sigma_X\) and \(\sigma_Y\) are the standard deviations of \(X\) and \(Y
 In [algorithmic trading](../a/algorithmic_trading.md), [joint](../j/joint.md) density functions can be employed in various ways, including:
 
 1. **[Risk Management](../r/risk_management.md)**: Understanding the [joint](../j/joint.md) [distribution](../d/distribution.md) of [asset](../a/asset.md) returns is crucial for [portfolio optimization](../p/portfolio_optimization.md) and [risk](../r/risk.md) assessment. For example, the [joint](../j/joint.md) density function of stock returns and [market](../m/market.md) indices helps in identifying [hedging strategies](../h/hedging_strategies.md).
-  
+
 2. **Option Pricing**: The [valuation](../v/valuation.md) of multi-[asset](../a/asset.md) [options](../o/options.md) can rely on the [joint](../j/joint.md) [distribution](../d/distribution.md) of [underlying asset](../u/underlying_asset.md) prices. Models like the multivariate Black-Scholes use [joint](../j/joint.md) densities to price basket [options](../o/options.md).
 
 3. **Statistical [Arbitrage](../a/arbitrage.md)**: [Joint](../j/joint.md) densities can be used to identify and exploit statistical relationships between different assets or financial instruments.

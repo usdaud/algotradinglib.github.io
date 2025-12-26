@@ -8,19 +8,19 @@ Short-term trading refers to the strategies and actions that involve buying and 
 [Day trading](../d/day_trading.md) involves buying and selling financial instruments within the same trading day. Traders close all positions before the [market](../m/market.md) closes to avoid overnight risks. The focus is on taking advantage of small price movements within a single day.
 
 * **Example:**
-  * [Interactive Brokers: Day Trading](https://www.interactivebrokers.com/en/index.php?f=4985)
+ * Interactive Brokers: Day Trading
 
 ### 2. Scalping
 [Scalping](../s/scalping.md) is a form of high-frequency trading where traders aim to [profit](../p/profit.md) from small price changes. The strategy involves making dozens or hundreds of trades in a single day, holding positions for a very short period, often just a few seconds or minutes.
 
 * **Example:**
-  * [TradeZero: Scalping](https://www.tradezero.co/)
+ * TradeZero: Scalping
 
 ### 3. Swing Trading
 [Swing trading](../s/swing_trading.md) involves holding positions for several days to weeks. The primary aim is to [capitalize](../c/capitalize.md) on potential "swings" in the [market](../m/market.md). Swing traders analyze short- or medium-term [price patterns](../p/price_patterns.md) and trends to make their trading decisions.
 
 * **Example:**
-  * [SwingTrader: Swing Trading](https://swingtrader.investors.com/)
+ * SwingTrader: Swing Trading
 
 ## Key Components of Short-Term Trading
 
@@ -28,25 +28,25 @@ Short-term trading refers to the strategies and actions that involve buying and 
 [Technical analysis](../t/technical_analysis.md) involves analyzing statistical trends from trading activity, such as price movement and [volume](../v/volume.md). Short-term traders use various [chart patterns](../c/chart_patterns.md), indicators, and algorithms to make trading decisions.
 
 * **Popular Tools:**
-  * Moving Averages
-  * [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
-  * [Bollinger Bands](../b/bollinger_bands.md)
-  * MACD (Moving Average Convergence [Divergence](../d/divergence.md))
+ * Moving Averages
+ * [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
+ * [Bollinger Bands](../b/bollinger_bands.md)
+ * MACD (Moving Average Convergence [Divergence](../d/divergence.md))
 
 ### 2. Trading Platforms and Software
 Advanced trading platforms and software are essential for short-term trading. These platforms [offer](../o/offer.md) real-time data, charting tools, and the ability to execute trades quickly.
 
 * **Examples:**
-  * [MetaTrader 4/5](https://www.metatrader4.com/)
-  * [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-  * [E*TRADE Pro](https://us.etrade.com/platforms/etrade-pro)
+ * MetaTrader 4/5
+ * Thinkorswim by TD Ameritrade
+ * E*TRADE Pro
 
 ### 3. High-Frequency Trading (HFT)
 High-Frequency Trading uses sophisticated algorithms to execute a large number of orders in fractions of a second. HFT firms [leverage](../l/leverage.md) complex algorithms, high-speed data processing, and direct [market](../m/market.md) access.
 
 * **Examples:**
-  * [Virtu Financial](https://www.virtu.com/)
-  * [Citadel Securities](https://www.citadelsecurities.com/)
+ * Virtu Financial
+ * Citadel Securities
 
 ### 4. Risk Management
 [Risk management](../r/risk_management.md) is critical in short-term trading due to the potentially high [volatility](../v/volatility.md) and [leverage](../l/leverage.md) used. This includes setting [stop-loss orders](../s/stop-loss_orders.md), [position sizing](../p/position_sizing.md), and constant monitoring of trades.
@@ -69,7 +69,7 @@ Understanding [market sentiment](../m/market_sentiment.md), news reports, and ex
 [Arbitrage](../a/arbitrage.md) involves taking advantage of price discrepancies between different markets or instruments. For instance, a [trader](../t/trader.md) might take a long position in one [market](../m/market.md) while simultaneously taking a short position in another to [profit](../p/profit.md) from price differences.
 
 ### News-Based Trading
-News-based trading hinges on [investing](../i/investing.md) based on the information released in news reports. Positive or negative news can significantly move the [market](../m/market.md) in a very short period. 
+News-based trading hinges on [investing](../i/investing.md) based on the information released in news reports. Positive or negative news can significantly move the [market](../m/market.md) in a very short period.
 
 ## Tools and Resources
 
@@ -77,14 +77,14 @@ News-based trading hinges on [investing](../i/investing.md) based on the informa
 Trading bots execute trades automatically based on predefined criteria. They can analyze [market](../m/market.md) conditions continuously and carry out trades faster than humanly possible.
 
 * **Examples:**
-  * [3Commas](https://3commas.io/)
-  * [Cryptohopper](https://www.cryptohopper.com/)
+ * 3Commas
+ * Cryptohopper
 
 ### API Access
 Many brokerages and trading platforms [offer](../o/offer.md) API access, allowing traders to develop custom algorithms and [trade](../t/trade.md) directly via the platform's [infrastructure](../i/infrastructure.md).
 
 * **Examples:**
-  * [Interactive Brokers API](https://www.interactivebrokers.com/en/index.php?f=5041)
+ * Interactive Brokers API
 
 ## Psychological Factors in Short-Term Trading
 

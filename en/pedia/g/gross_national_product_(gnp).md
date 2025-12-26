@@ -41,7 +41,7 @@ GNP is a crucial [indicator](../i/indicator.md) for economists and policy framer
 
 - **Complex Calculation:** Given the involvement of international citizens and their economic activities, calculating GNP accurately can be complex.
 - **Can Misrepresent Economic Health:** If a country's GNP is significantly influenced by national citizens' overseas [earnings](../e/earnings.md) or foreign residents' activity within the country, it may overshadow domestic economic issues.
-  
+
 ## Historical Background
 
 The concept of GNP was developed in the early 20th century as economists sought better methods to measure economic performance that took into account international economic activities. It played a crucial role during the post-World War II era as it provided a broader perspective during a time of significant global economic change.
@@ -56,7 +56,7 @@ In the 1990s, many countries, especially developed ones like the United States, 
 
 While GDP focuses on the [value](../v/value.md) of goods and services produced within a country’s borders, irrespective of the producers’ nationality, GNP provides a broader understanding by adding net [income](../i/income.md) from abroad. For instance, American companies operating in Europe contribute to the U.S. GNP but not to its GDP.
 
-### Sectors Heavily Influencing GNP 
+### Sectors Heavily Influencing GNP
 
 - **Remittances:** Countries with significant portions of their population working abroad see considerable contributions from remittances to GNP.
 - **Multinational Corporations:** Profits repatriated to the [home](../h/home.md) country of multinational corporations significantly affect GNP.
@@ -74,7 +74,7 @@ Even today, despite the increased focus on GDP, many countries report GNP to pro
 
 ### International Organizations and GNP
 
-Organizations like the [World Bank](../w/world_bank.md) and IMF provide detailed [statistics](../s/statistics.md) on GNP, bridging insights into the economic contributions of countries in the global context. [World Bank](https://www.worldbank.org/) continues to publish comprehensive GNP data for various nations helping in comprehensive economic analysis.
+Organizations like the [World Bank](../w/world_bank.md) and IMF provide detailed [statistics](../s/statistics.md) on GNP, bridging insights into the economic contributions of countries in the global context. World Bank continues to publish comprehensive GNP data for various nations helping in comprehensive economic analysis.
 
 ## Conclusion
 

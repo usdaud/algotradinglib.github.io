@@ -41,33 +41,33 @@ Use the Wilcoxon Signed-Rank Test when:
 Following is a step-by-step example:
 
 1. Suppose we have pairs of data:
-   - Pair 1: (5, 7)
-   - Pair 2: (9, 13)
-   - Pair 3: (4, 4)
-   - Pair 4: (6, 8)
-   - Pair 5: (6, 5)
+ - Pair 1: (5, 7)
+ - Pair 2: (9, 13)
+ - Pair 3: (4, 4)
+ - Pair 4: (6, 8)
+ - Pair 5: (6, 5)
 
 2. Differences:
-   - Pair 1: -2
-   - Pair 2: -4
-   - Pair 3: 0 (ignored)
-   - Pair 4: -2
-   - Pair 5: 1
+ - Pair 1: -2
+ - Pair 2: -4
+ - Pair 3: 0 (ignored)
+ - Pair 4: -2
+ - Pair 5: 1
 
 3. Absolute Differences:
-   - Pair 1: 2
-   - Pair 2: 4
-   - Pair 4: 2
-   - Pair 5: 1
+ - Pair 1: 2
+ - Pair 2: 4
+ - Pair 4: 2
+ - Pair 5: 1
 
 4. Ranks:
-   - Rank 1: 1
-   - Rank 2: 2.5 (for both Pair 1 and Pair 4)
-   - Rank 4: 4
+ - Rank 1: 1
+ - Rank 2: 2.5 (for both Pair 1 and Pair 4)
+ - Rank 4: 4
 
 5. Assign Signs and Sum the Ranks:
-   - Positive Ranks Sum: 1 (for Pair 5)
-   - Negative Ranks Sum: 2.5 + 2.5 + 4 = 9
+ - Positive Ranks Sum: 1 (for Pair 5)
+ - Negative Ranks Sum: 2.5 + 2.5 + 4 = 9
 
 6. Test Statistic: Minimum of 1 and 9 = 1
 
@@ -99,25 +99,25 @@ Use the Wilcoxon Rank-Sum Test when:
 ### Example Calculation
 
 1. Suppose we have two samples:
-   - Sample 1: 10, 15, 20
-   - Sample 2: 15, 20, 25, 30
+ - Sample 1: 10, 15, 20
+ - Sample 2: 15, 20, 25, 30
 
 2. Combine and Rank:
-   - 10 (1.0), 15 (2.5), 15 (2.5)
-   - 20 (4.5), 20 (4.5), 25 (6.0), 30 (7.0)
+ - 10 (1.0), 15 (2.5), 15 (2.5)
+ - 20 (4.5), 20 (4.5), 25 (6.0), 30 (7.0)
 
 3. Separate Ranks:
-   - Sample 1 Ranks: 1, 2.5, 4.5
-   - Sample 2 Ranks: 2.5, 4.5, 6, 7
+ - Sample 1 Ranks: 1, 2.5, 4.5
+ - Sample 2 Ranks: 2.5, 4.5, 6, 7
 
 4. Sum the Ranks:
-   - Sum of Ranks of Sample 1: 1 + 2.5 + 4.5 = 8
-   - Sum of Ranks of Sample 2: 2.5 + 4.5 + 6 + 7 = 20
+ - Sum of Ranks of Sample 1: 1 + 2.5 + 4.5 = 8
+ - Sum of Ranks of Sample 2: 2.5 + 4.5 + 6 + 7 = 20
 
 5. Compute U:
-   - U1 = R1 - ((n1 * (n1 + 1)) / 2)
-   - U2 = R2 - ((n2 * (n2 + 1)) / 2)
-   - Then, U is the smaller [value](../v/value.md) of U1 and U2. Calculate accordingly.
+ - U1 = R1 - ((n1 * (n1 + 1)) / 2)
+ - U2 = R2 - ((n2 * (n2 + 1)) / 2)
+ - Then, U is the smaller [value](../v/value.md) of U1 and U2. Calculate accordingly.
 
 ## Application in Finance and Trading
 
@@ -125,7 +125,7 @@ Wilcoxon Tests, especially the Wilcoxon Signed-Rank Test, are often used in [fin
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), Wilcoxon Tests can be used to:
+In [algorithmic trading](../a/algorithmic_trading.md), Wilcoxon Tests can be used to:
 
 - Compare the performance of two [trading strategies](../t/trading_strategies.md) on different assets or time periods.
 - Evaluate the effectiveness of an adaptation or new version of a trading algorithm.
@@ -141,7 +141,7 @@ FinTech companies apply Wilcoxon Tests for:
 
 ### Practical Example
 
-For instance, a FinTech company like [Robinhood](https://robinhood.com) might use the Wilcoxon Signed-Rank Test to evaluate a new feature in their trading app that is designed to help users improve [trading performance](../t/trading_performance.md). They could compare the [trading performance metrics](../t/trading_performance_metrics.md) (such as daily returns) of a sample of users before and after introducing the new feature, checking if the new feature has a statistically significant impact.
+For instance, a FinTech company like Robinhood might use the Wilcoxon Signed-Rank Test to evaluate a new feature in their trading app that is designed to help users improve [trading performance](../t/trading_performance.md). They could compare the [trading performance metrics](../t/trading_performance_metrics.md) (such as daily returns) of a sample of users before and after introducing the new feature, checking if the new feature has a statistically significant impact.
 
 ## Advantages and Limitations
 
@@ -157,4 +157,4 @@ For instance, a FinTech company like [Robinhood](https://robinhood.com) might us
 2. **[Scalability](../s/scalability.md) Issues:** May become cumbersome with very large datasets.
 3. **Interpretation:** Results can be less intuitive compared to parametric tests.
 
-In conclusion, the Wilcoxon Test is a versatile statistical tool that provides a [robust](../r/robust.md) alternative to parametric tests, especially when dealing with non-normal distributions or ordinal data. Its applications in [finance](../f/finance.md) and trading, particularly in [algorithmic trading](../a/accountability.md) and FinTech, highlight its importance in practical, real-world scenarios. Whether comparing [trading algorithms](../t/trading_algorithms.md) or evaluating financial models, the Wilcoxon Test remains a valuable tool for data scientists and financial analysts.
+In conclusion, the Wilcoxon Test is a versatile statistical tool that provides a [robust](../r/robust.md) alternative to parametric tests, especially when dealing with non-normal distributions or ordinal data. Its applications in [finance](../f/finance.md) and trading, particularly in [algorithmic trading](../a/algorithmic_trading.md) and FinTech, highlight its importance in practical, real-world scenarios. Whether comparing [trading algorithms](../t/trading_algorithms.md) or evaluating financial models, the Wilcoxon Test remains a valuable tool for data scientists and financial analysts.

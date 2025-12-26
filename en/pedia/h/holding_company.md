@@ -64,25 +64,25 @@ Holding companies must comply with tax regulations in all jurisdictions where th
 
 [Berkshire Hathaway](../b/berkshire_hathaway.md) is one of the most well-known holding companies globally. Founded by Warren Buffett, it owns a diverse [range](../r/range.md) of subsidiaries in industries such as [insurance](../i/insurance.md), [finance](../f/finance.md), [manufacturing](../m/manufacturing.md), and retail. [Berkshire Hathaway](../b/berkshire_hathaway.md)'s success lies in its strategic acquisitions, long-term investment approach, and decentralized management structure.
 
-**Website:** [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+**online platform:** Berkshire Hathaway
 
 ### Alphabet Inc.
 
 Alphabet Inc. is the parent holding company of Google and several other subsidiaries engaged in various sectors, including technology, life sciences, and [venture capital](../v/venture_capital.md). Alphabet's holding company structure allows it to manage its diverse portfolio of businesses efficiently and foster innovation across different industries.
 
-**Website:** [Alphabet Inc.](https://abc.xyz/)
+**online platform:** Alphabet Inc.
 
 ### Procter & Gamble (P&G)
 
 Procter & Gamble operates as a holding company owning [multiple](../m/multiple.md) [consumer goods](../c/consumer_goods.md) brands. Its subsidiaries span various segments, including beauty, health care, and [home](../h/home.md) care. The holding company structure enables P&G to streamline operations, harness synergies, and focus on [brand management](../b/brand_management.md).
 
-**Website:** [Procter & Gamble](https://www.pg.com/)
+**online platform:** Procter & Gamble
 
 ### Johnson & Johnson
 
 Johnson & Johnson is another example of a prominent holding company. It operates through three main segments: consumer health products, pharmaceuticals, and medical devices. The holding company oversees the strategic direction, [financial performance](../f/financial_performance.md), and research activities of its subsidiaries.
 
-**Website:** [Johnson & Johnson](https://www.jnj.com/)
+**online platform:** Johnson & Johnson
 
 ## Creating a Holding Company
 

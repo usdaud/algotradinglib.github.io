@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Gamification is the application of game-design elements and game principles in non-game contexts. In [algorithmic trading](../a/accountability.md), gamification can be employed to make trading more engaging, to improve [trader](../t/trader.md) behavior, to refine strategies, and to educate new traders. By integrating game mechanics such as points, badges, leaderboards, and challenges into trading platforms, firms can drive specific behaviors, enhance user experience, and ultimately improve trading outcomes.
+Gamification is the application of game-design elements and game principles in non-game contexts. In [algorithmic trading](../a/algorithmic_trading.md), gamification can be employed to make trading more engaging, to improve [trader](../t/trader.md) behavior, to refine strategies, and to educate new traders. By integrating game mechanics such as points, badges, leaderboards, and challenges into trading platforms, firms can drive specific behaviors, enhance user experience, and ultimately improve trading outcomes.
 
 ## Key Concepts of Gamification
 
@@ -38,7 +38,7 @@ Gamification can increase user engagement by making the trading process more enj
 
 ### Education and Training
 
-For novice traders or those looking to learn [algorithmic trading](../a/accountability.md), gamification can be a powerful educational tool. Interactive tutorials, [simulated trading](../s/simulated_trading.md) environments, and incremental challenges can be used to teach users about [market dynamics](../m/market_dynamics.md), [trading strategies](../t/trading_strategies.md), and [risk management](../r/risk_management.md).
+For novice traders or those looking to learn [algorithmic trading](../a/algorithmic_trading.md), gamification can be a powerful educational tool. Interactive tutorials, [simulated trading](../s/simulated_trading.md) environments, and incremental challenges can be used to teach users about [market dynamics](../m/market_dynamics.md), [trading strategies](../t/trading_strategies.md), and [risk management](../r/risk_management.md).
 
 ### Behavior Modification
 
@@ -50,15 +50,15 @@ Gamification elements like leaderboards and social badges can foster a sense of 
 
 ### Psychological Benefits
 
-Gamification taps into basic human psychology, utilizing reward systems and competitive elements to keep users motivated. This not only improves user retention but can also make the [learning curve](../l/learning_curve.md) of [algorithmic trading](../a/accountability.md) more approachable.
+Gamification taps into basic human psychology, utilizing reward systems and competitive elements to keep users motivated. This not only improves user retention but can also make the [learning curve](../l/learning_curve.md) of [algorithmic trading](../a/algorithmic_trading.md) more approachable.
 
 ## Case Studies
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/accountability.md) platform that provides a collaborative environment for data scientists and traders. The platform uses gamification through its community ranking system, where users can [gain](../g/gain.md) points and achievements based on their contributions, successful algorithms, and participation in competitions.
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that provides a collaborative environment for data scientists and traders. The platform uses gamification through its community ranking system, where users can [gain](../g/gain.md) points and achievements based on their contributions, successful algorithms, and participation in competitions.
 
-More information about [QuantConnect](../q/quantconnect.md) can be found [here](https://www.quantconnect.com/).
+More information about [QuantConnect](../q/quantconnect.md) can be found here.
 
 ### Quantopian (Legacy)
 
@@ -70,7 +70,7 @@ Though Quantopian ceased operations in 2020, its impact on gamification in tradi
 
 [Robinhood](../r/robinhood.md), a [commission](../c/commission.md)-free stock and crypto trading app, has employed gamification techniques to attract and retain millennial traders. Features like confetti animations following trades and insightful notifications make the trading experience more enjoyable and engaging.
 
-More information about [Robinhood](../r/robinhood.md) can be found [here](https://www.robinhood.com/).
+More information about [Robinhood](../r/robinhood.md) can be found here.
 
 ## Potential Challenges and Criticisms
 
@@ -110,6 +110,6 @@ Future gamified trading platforms might incorporate more sophisticated personali
 
 ## Conclusion
 
-Gamification in [algorithmic trading](../a/accountability.md) represents a significant evolution in how trading platforms engage with their users. By incorporating game design elements, platforms can make trading more accessible, educational, and engaging. However, the potential for encouraging risky behavior and the regulatory landscape must be carefully navigated to ensure a balanced and ethical approach.
+Gamification in [algorithmic trading](../a/algorithmic_trading.md) represents a significant evolution in how trading platforms engage with their users. By incorporating game design elements, platforms can make trading more accessible, educational, and engaging. However, the potential for encouraging risky behavior and the regulatory landscape must be carefully navigated to ensure a balanced and ethical approach.
 
 As technology advances, we can expect to see even more innovative uses of gamification in the trading [industry](../i/industry.md), making it a fascinating space to watch in the coming years.

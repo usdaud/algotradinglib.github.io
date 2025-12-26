@@ -40,9 +40,9 @@ In [algorithmic trading](../a/algorithmic_trading.md), [gamma](../g/gamma.md) ad
 
 Several companies and trading platforms specialize in providing tools and services for [gamma](../g/gamma.md) adjustment in [algorithmic trading](../a/algorithmic_trading.md). Some noteworthy examples include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) [website](https://www.quantconnect.com/) provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options](../o/options.md) trading and [gamma](../g/gamma.md) adjustment. Traders can use [QuantConnect](../q/quantconnect.md)'s extensive libraries and data feeds to develop and test strategies that incorporate [gamma](../g/gamma.md) adjustment techniques.
-- **Numerix**: Numerix [website](https://www.numerix.com/) offers software solutions for [risk management](../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing. Their tools include advanced analytics for managing [gamma exposure](../g/gamma_exposure.md) and optimizing option strategies.
-- **OptionsPlay**: OptionsPlay [website](https://www.optionsplay.com/) provides a suite of trading tools and analytics for [options](../o/options.md) traders, including features for managing [gamma](../g/gamma.md) and other [option Greeks](../o/option_greeks.md).
+- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) online platform provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options](../o/options.md) trading and [gamma](../g/gamma.md) adjustment. Traders can use [QuantConnect](../q/quantconnect.md)'s extensive libraries and data feeds to develop and test strategies that incorporate [gamma](../g/gamma.md) adjustment techniques.
+- **Numerix**../r/risk_management.md) and [derivatives](../d/derivatives.md) pricing. Their tools include advanced analytics for managing [gamma exposure](../g/gamma_exposure.md) and optimizing option strategies.
+- **OptionsPlay**../o/options.md) traders, including features for managing [gamma](../g/gamma.md) and other [option Greeks](../o/option_greeks.md).
 
 ### Conclusion
 

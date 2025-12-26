@@ -35,8 +35,8 @@ FF&E plays a crucial role in various sectors:
 ### FF&E Service Providers
 
 Many firms specialize in providing FF&E solutions. These service providers [offer](../o/offer.md) comprehensive packages that include selection, [procurement](../p/procurement.md), and installation.
-- **Skypad Consultancy**: [Skypad FF&E Procurement](https://www.skypadconsultancy.com/ff-e-procurement)
-- **FF&E International**: [FF&E International](https://www.ffneinternational.com)
+- **Skypad Consultancy**: Skypad FF&E Procurement
+- **FF&E International**: FF&E International
 
 ## FF&E Valuation and Accounting
 
@@ -65,25 +65,25 @@ FF&E requirements can vary significantly across different industries:
 
 In the hospitality [industry](../i/industry.md), FF&E is critical for creating a pleasant guest experience. Items such as hotel beds, [lobby](../l/lobby.md) furniture, conference room setups, and restaurant seating are crucial components. Customization based on brand standards and guest feedback is often necessary.
 
-- **Hilton Hotels**: [Hilton Design and FF&E](https://design.hilton.com/)
+- **Hilton Hotels**: Hilton Design and FF&E
 
 ### Healthcare
 
 Healthcare facilities require specialized FF&E to meet the needs of patients and healthcare providers. This includes hospital beds, medical equipment, waiting room furniture, and nurse stations. Compliance with health and safety standards is imperative.
 
-- **GE Healthcare**: [GE Healthcare FF&E for Medical Facilities](https://www.gehealthcare.com/)
+- **GE Healthcare**: GE Healthcare FF&E for Medical Facilities
 
 ### Education
 
 Educational institutions from K-12 schools to universities need functional and versatile FF&E to support both students and staff. This includes classroom desks, laboratory equipment, and library furnishings.
 
-- **Smith System**: [Smith System Educational Furniture](https://smithsystem.com/)
+- **Smith System**: Smith System Educational Furniture
 
 ### Corporate Offices
 
 For corporate offices, FF&E focuses on enhancing [productivity](../p/productivity.md) and employee well-being. Ergonomic furniture, conference room setups, and collaborative workspace environments are key considerations.
 
-- **Knoll**: [Knoll Office Furniture](https://www.knoll.com/)
+- **Knoll**: Knoll Office Furniture
 
 ## Benefits of Effective FF&E Management
 

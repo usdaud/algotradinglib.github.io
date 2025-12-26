@@ -22,7 +22,7 @@ This strategy is most suitable for individuals who can't afford to lose their in
 Government bonds are one of the safest investment [options](../o/options.md), [offering](../o/offering.md) lower returns but with minimal [risk](../r/risk.md) to the [principal](../p/principal.md). [U.S. Treasury](../u/u.s._treasury.md) securities, such as Treasury bills (T-bills), [Treasury notes](../t/treasury_notes.md) (T-notes), and Treasury bonds (T-bonds), are considered among the safest investments globally.
 
 ### High-Quality Corporate Bonds
-Corporate bonds issued by companies with strong [credit](../c/credit.md) ratings [offer](../o/offer.md) a higher [yield](../y/yield.md) than government bonds but still carry a relatively low [risk](../r/risk.md). Investors should look for bonds rated as "[investment grade](../i/investment_grade.md)" by [rating](../r/rating.md) agencies like Moody's or Standard & Poor's. 
+Corporate bonds issued by companies with strong [credit](../c/credit.md) ratings [offer](../o/offer.md) a higher [yield](../y/yield.md) than government bonds but still carry a relatively low [risk](../r/risk.md). Investors should look for bonds rated as "[investment grade](../i/investment_grade.md)" by [rating](../r/rating.md) agencies like Moody's or Standard & Poor's.
 
 ### Money Market Accounts
 [Money market](../m/money_market.md) accounts [offer](../o/offer.md) [liquidity](../l/liquidity.md) and are typically low-[risk](../r/risk.md), as they invest in short-term, high-quality securities. They often provide better yields than traditional savings accounts and maintain a stable net [asset](../a/asset.md) [value](../v/value.md) (NAV).
@@ -52,7 +52,7 @@ This strategy involves regularly [investing](../i/investing.md) a fixed amount o
 ### Low Returns
 The main challenge in a [capital preservation](../c/capital_preservation.md) strategy is that the returns are usually lower compared to more aggressive investment approaches. This can be a problem in a low-[interest](../i/interest.md)-rate environment where even low-[risk](../r/risk.md) investments [offer](../o/offer.md) minimal returns.
 
-### Inflation Risk 
+### Inflation Risk
 While the goal is to keep up with or slightly exceed [inflation](../i/inflation.md), there is no guarantee that conservative investments [will](../w/will.md) always achieve this. Prolonged periods of low [interest](../i/interest.md) rates can result in real losses in [purchasing power](../p/purchasing_power.md).
 
 ### Opportunity Cost

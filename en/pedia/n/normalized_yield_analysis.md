@@ -84,13 +84,12 @@ NYA facilitates the measurement of performance across different [trading strateg
 
 Renaissance Technologies, founded by Jim Simons, is one of the most well-known [hedge](../h/hedge.md) funds that employ [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md) uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to analyze and execute trades. Renaissance Technologies is known for its Medallion [Fund](../f/fund.md), which has achieved exceptional returns. While specific methodologies are proprietary, the use of normalized [performance metrics](../p/performance_metrics.md), including [yield](../y/yield.md), is fundamental in their approach to consistently generating [alpha](../a/alpha.md).
 
-For more information, visit their [official site](https://www.rentec.com/).
 
 ### Two Sigma
 
 Two Sigma is another prominent [firm](../f/firm.md) in the world of [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md). They focus heavily on [data science](../d/data_science_in_trading.md) and advanced [statistics](../s/statistics.md) to drive their [trading strategies](../t/trading_strategies.md). Normalized [performance metrics](../p/performance_metrics.md), including [yield](../y/yield.md) normalization, play a crucial role in their data-driven approach.
 
-For more details, [check](../c/check.md) their [official website](https://www.twosigma.com/).
+For more details, [check](../c/check.md)
 
 ## Conclusion
 

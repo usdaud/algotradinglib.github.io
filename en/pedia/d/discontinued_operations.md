@@ -104,19 +104,19 @@ Several companies have undertaken major strategies that involved discontinued op
 
 Procter & Gamble Co. (P&G), a multinational [consumer goods](../c/consumer_goods.md) company, announced the [sale](../s/sale.md) of its beauty brands to Coty Inc. in a [transaction](../t/transaction.md) valued at $12.5 billion in 2016. This [divestiture](../d/divestiture.md) marked a strategic shift to streamline its [product portfolio](../p/product_portfolio.md) and focus on core brands. The [transaction](../t/transaction.md) led to comprehensive financial reporting of discontinued operations in P&G’s [financial statements](../f/financial_statements.md).
 
-**Link to the company [home](../h/home.md) page:** [Procter & Gamble](https://us.pg.com/)
+**Link to the company [home](../h/home.md) page:** Procter & Gamble
 
 ### Hewlett-Packard (HP)
 
 Hewlett-Packard (HP) decided to split into two separate companies in 2015: Hewlett Packard Enterprise (HPE) and HP Inc. This significant [restructuring](../r/restructuring.md) initiative was classified under discontinued operations, allowing investors to distinguish the performance of the new entities from HP's historical results.
 
-**Link to the company [home](../h/home.md) page:** [HP](https://www.hp.com/)
+**Link to the company [home](../h/home.md) page:** HP
 
 ### General Electric (GE)
 
 In recent years, General Electric (GE) has executed [multiple](../m/multiple.md) divestitures, including its oil and gas [business](../b/business.md), to focus on core industrial operations. These strategic divestitures were reported as discontinued operations, significantly affecting GE's financial metrics and necessitating adjustments in analytical models used by algo traders.
 
-**Link to the company [home](../h/home.md) page:** [General Electric](https://www.ge.com/)
+**Link to the company [home](../h/home.md) page:** General Electric
 
 ## Conclusion
 

@@ -88,4 +88,4 @@ for key, [value](../v/value.md) in result[4].items():
 
 Unit root models are a fundamental aspect of [time series analysis](../t/time_series_analysis.md), indispensable in understanding economic and financial data. By accurately identifying and interpreting unit root processes, practitioners can enhance model accuracy, improve forecasts, and develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Whether for [economics](../e/economics.md), [finance](../f/finance.md), or another field, unit root models and testing methods remain vital analytical tools.
 
-For further reading and more advanced implementation details, consider exploring resources provided by statistical organizations and [econometrics](../e/econometrics_in_trading.md) software, such as [Statsmodels Documentation](https://www.statsmodels.org/stable/tsa.html).
+For further reading and more advanced implementation details, consider exploring resources provided by statistical organizations and [econometrics](../e/econometrics_in_trading.md) software, such as Statsmodels Documentation.

@@ -41,19 +41,19 @@ The [Nasdaq](../n/nasdaq.md) 100 [Index](../i/index_instrument.md) includes dive
 
 ### Apple Inc.
 
-Apple Inc. ([Nasdaq](../n/nasdaq.md): AAPL) is one of the largest and most influential companies in the world. Known for its innovative products such as the iPhone, iPad, and MacBook, Apple plays a central role in the [Nasdaq](../n/nasdaq.md) 100 [Index](../i/index_instrument.md). [Apple Company Website](https://www.apple.com/)
+Apple Inc. ([Nasdaq](../n/nasdaq.md): AAPL) is one of the largest and most influential companies in the world. Known for its innovative products such as the iPhone, iPad, and MacBook, Apple plays a central role in the [Nasdaq](../n/nasdaq.md) 100 [Index](../i/index_instrument.md).
 
 ### Microsoft Corp.
 
-Microsoft Corp. ([Nasdaq](../n/nasdaq.md): MSFT) is a global leader in software, services, and solutions. Its wide [range](../r/range.md) of products, including the Windows operating system, Microsoft Office, and Azure cloud services, contribute significantly to the [index](../i/index_instrument.md)'s performance. [Microsoft Company Website](https://www.microsoft.com/)
+Microsoft Corp. ([Nasdaq](../n/nasdaq.md): MSFT) is a global leader in software, services, and solutions. Its wide [range](../r/range.md) of products, including the Windows operating system, Microsoft Office, and Azure cloud services, contribute significantly to the [index](../i/index_instrument.md)'s
 
 ### Amazon.com Inc.
 
-Amazon.com Inc. ([Nasdaq](../n/nasdaq.md): AMZN) revolutionized the retail [industry](../i/industry.md) through its e-[commerce](../c/commerce.md) platform. The company's ventures into [cloud computing](../c/cloud_computing_in_trading.md) (AWS), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and streaming services make it a significant component of the [Nasdaq](../n/nasdaq.md) 100. [Amazon Company Website](https://www.amazon.com/)
+Amazon.com Inc. ([Nasdaq](../n/nasdaq.md): AMZN) revolutionized the retail [industry](../i/industry.md) through its e-[commerce](../c/commerce.md) platform. The company's ventures into [cloud computing](../c/cloud_computing_in_trading.md) (AWS), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and streaming services make it a significant component of the [Nasdaq](../n/nasdaq.md)
 
 ### Alphabet Inc.
 
-Alphabet Inc. ([Nasdaq](../n/nasdaq.md): GOOGL) is the [parent company](../p/parent_company.md) of Google, the most widely used search engine. Alphabet's portfolio extends into various fields including advertising, [cloud computing](../c/cloud_computing_in_trading.md), and autonomous vehicles. [Alphabet Company Website](https://www.abc.xyz/)
+Alphabet Inc. ([Nasdaq](../n/nasdaq.md): GOOGL) is the [parent company](../p/parent_company.md) of Google, the most widely used search engine. Alphabet's portfolio extends into various fields including advertising, [cloud computing](../c/cloud_computing_in_trading.md),
 
 ## Importance of the Nasdaq 100 Index
 
@@ -141,4 +141,3 @@ Statistical [arbitrage](../a/arbitrage.md) strategies can exploit price discrepa
 
 The [Nasdaq](../n/nasdaq.md) 100 [Index](../i/index_instrument.md) stands as a crucial [indicator](../i/indicator.md) and investment [benchmark](../b/benchmark.md) within the [financial markets](../f/financial_market.md). Its emphasis on leading non-financial companies, particularly in the [technology sector](../t/technology_sector.md), offers unique opportunities and challenges for investors. Whether through [direct investment](../d/direct_investment.md) or the use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), the [Nasdaq](../n/nasdaq.md) 100 continues to play a substantial role in shaping the financial landscape.
 
-For more information, you can visit the official [Nasdaq website](https://www.nasdaq.com/).

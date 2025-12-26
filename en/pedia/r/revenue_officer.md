@@ -68,9 +68,9 @@ The path to becoming a [Revenue](../r/revenue.md) Officer often involves extensi
 
 Several high-profile companies have successfully integrated the role of a [Revenue](../r/revenue.md) Officer into their corporate structure. For instance:
 
-- **Salesforce:** Known for its [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) software, Salesforce benefits greatly from a [robust](../r/robust.md) [revenue](../r/revenue.md) strategy that aligns with its rapid growth model. More information is available on their website: [Salesforce](https://www.salesforce.com).
+- **Salesforce:** Known for its [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) software, Salesforce benefits greatly from a [robust](../r/robust.md) [revenue](../r/revenue.md) strategy that aligns with its rapid growth model.
 
-- **HubSpot:** Another example is HubSpot, which offers a [range](../r/range.md) of software products for inbound [marketing](../m/marketing.md) and sales. The company's [revenue](../r/revenue.md) officer plays a pivotal role in ensuring aligned growth strategies across its product lines. Details about their executive team can be found here: [HubSpot](https://www.hubspot.com/company/management).
+- **HubSpot:** Another example is HubSpot, which offers a [range](../r/range.md) of software products for inbound [marketing](../m/marketing.md) and sales. The company's [revenue](../r/revenue.md) officer plays a pivotal role in ensuring aligned growth strategies across its product lines. Details about their executive team can be found here: HubSpot.
 
 ## Conclusion
 

@@ -5,35 +5,35 @@ Narrow [money](../m/money.md), also known as [M1](../m/m1.md), refers to the mos
 ## Components of Narrow Money
 
 1. **Physical [Currency](../c/currency.md):**
-   - **Coins:** Metallic [money](../m/money.md) issued by a country's mint, used for small transactions.
-   - **Banknotes:** Paper [currency](../c/currency.md) issued by a nation's central [bank](../b/bank.md) or other authorized financial institution, widely accepted for medium to large transactions.
+ - **Coins:** Metallic [money](../m/money.md) issued by a country's mint, used for small transactions.
+ - **Banknotes:** Paper [currency](../c/currency.md) issued by a nation's central [bank](../b/bank.md) or other authorized financial institution, widely accepted for medium to large transactions.
 
 2. **[Demand](../d/demand.md) Deposits:**
-   - These are funds held in checking accounts that can be accessed on [demand](../d/demand.md) without any prior notice.
-   - Includes funds held in current accounts and other types of accounts that allow for unlimited withdrawals and payments.
+ - These are funds held in checking accounts that can be accessed on [demand](../d/demand.md) without any prior notice.
+ - Includes funds held in current accounts and other types of accounts that allow for unlimited withdrawals and payments.
 
 ## Key Characteristics
 
 - **[Liquidity](../l/liquidity.md):** Narrow [money](../m/money.md) is the most [liquid](../l/liquid.md) form of [money](../m/money.md), meaning it can be easily converted into cash or used for transactions without any delay.
 - **Daily Transactions:** It is primarily used for everyday transactions, such as purchasing goods and services, paying bills, and other routine financial activities.
 - **Stability and [Security](../s/security.md):** Being highly [liquid](../l/liquid.md) also means it is held in more secure forms like cash or in [demand deposit](../d/demand_deposit.md) accounts, minimizing risks associated with [market](../m/market.md) fluctuations.
-  
+
 ## Measurement and Importance
 
 Understanding and measuring narrow [money](../m/money.md) is crucial for several reasons:
 
 1. **[Economic Indicator](../e/economic_indicator.md):** Narrow [money](../m/money.md) serves as an [indicator](../i/indicator.md) of the [economy](../e/economy.md)'s [liquidity](../l/liquidity.md) position and consumer spending patterns. Central banks and policymakers monitor [M1](../m/m1.md) to gauge monetary conditions and make informed decisions about [interest](../i/interest.md) rates and other monetary policies.
-  
+
 2. **[Inflation](../i/inflation.md) Control:** By regulating the [supply](../s/supply.md) of narrow [money](../m/money.md), central banks can control [inflation](../i/inflation.md). An excess [supply](../s/supply.md) of [M1](../m/m1.md) can lead to increased spending, driving up prices, while a shortage can have the opposite effect.
-  
+
 3. **Policy Formulation:** Detailed understanding of narrow [money](../m/money.md) helps in formulating fiscal and monetary policies to stabilize the [economy](../e/economy.md), stimulate growth, or curb [inflation](../i/inflation.md).
 
 ## Factors Affecting Narrow Money Supply
 
 1. **Central [Bank](../b/bank.md) Policies:** [Interest](../i/interest.md) rates, [reserve requirements](../r/reserve_requirements.md), and [open market operations](../o/open_market_operations.md) directly influence the [supply](../s/supply.md) of narrow [money](../m/money.md).
-  
+
 2. **Commercial Banking Practices:** The lending practices and policies of commercial banks also affect how much [demand](../d/demand.md) deposits expand or contract.
-  
+
 3. **Economic Activity:** Higher economic activity generally increases the [transaction](../t/transaction.md) [demand](../d/demand.md) for [money](../m/money.md), thus affecting [M1](../m/m1.md).
 
 ## Examples of Narrow Money in Different Economies
@@ -44,7 +44,6 @@ Understanding and measuring narrow [money](../m/money.md) is crucial for several
 - **[Demand](../d/demand.md) Deposits:** Funds in checking accounts at commercial banks, which are monitored by the Federal Reserve to assess the [liquidity](../l/liquidity.md) in the [economy](../e/economy.md).
 
 More details can be found at:
-[Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/)
 
 ### European Union
 
@@ -52,7 +51,6 @@ More details can be found at:
 - **[Demand](../d/demand.md) Deposits:** [Euro](../e/euro.md)-denominated checking accounts held at commercial banks within the [Eurozone](../e/eurozone.md).
 
 Further information is available at:
-[European Central Bank](https://www.ecb.europa.eu/)
 
 ### Japan
 
@@ -60,7 +58,6 @@ Further information is available at:
 - **[Demand](../d/demand.md) Deposits:** Yen-denominated checking accounts at various commercial banks.
 
 For more details, refer to:
-[Bank of Japan](https://www.boj.or.jp/en/)
 
 ## Narrow Money vs. Broad Money
 

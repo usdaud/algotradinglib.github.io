@@ -47,9 +47,9 @@ This involves buying and selling two [options](../o/options.md) of the same type
 
 These strategies involve selling both a call and put at different strike prices ([strangle](../s/strangle.md)) or the same [strike price](../s/strike_price.md) ([straddle](../s/straddle.md)). The aim is to [capitalize](../c/capitalize.md) on the combined decay of both [options](../o/options.md).
 
-- **Implementation**: 
-  - **[Straddle](../s/straddle.md)**: Sell both a call and put with the same [strike price](../s/strike_price.md).
-  - **[Strangle](../s/strangle.md)**: Sell both a call and put with different strike prices but similar time to expiration.
+- **Implementation**:
+ - **[Straddle](../s/straddle.md)**: Sell both a call and put with the same [strike price](../s/strike_price.md).
+ - **[Strangle](../s/strangle.md)**: Sell both a call and put with different strike prices but similar time to expiration.
 - **[Theta](../t/theta.md) Play**: [Theta](../t/theta.md) decay is significant, but [risk](../r/risk.md) is high if the [underlying asset](../u/underlying_asset.md) moves sharply.
 - **[Risk Management](../r/risk_management.md)**: Limit potential losses by defining exit strategies or using [stop-loss orders](../s/stop-loss_orders.md).
 
@@ -57,16 +57,16 @@ These strategies involve selling both a call and put at different strike prices 
 
 A [butterfly spread](../b/butterfly_spread.md) involves three strikes: buying one option at a lower and higher [strike price](../s/strike_price.md), and selling two [options](../o/options.md) at a middle [strike price](../s/strike_price.md). It offers a balanced [risk](../r/risk.md)-reward scenario with limited potential gains and losses.
 
-- **Implementation**: 
-  - **Call Butterfly**: Buy a lower-strike call, sell two middle-strike calls, buy a higher-strike call.
-  - **Put Butterfly**: Buy a lower-strike put, sell two middle-strike puts, buy a higher-strike put.
+- **Implementation**:
+ - **Call Butterfly**: Buy a lower-strike call, sell two middle-strike calls, buy a higher-strike call.
+ - **Put Butterfly**: Buy a lower-strike put, sell two middle-strike puts, buy a higher-strike put.
 - **[Theta](../t/theta.md) Play**: [Gain](../g/gain.md) from the differential [theta](../t/theta.md) decay of short middle-strike [options](../o/options.md) versus long wings.
 - **[Risk Management](../r/risk_management.md)**: Define the width of strikes carefully to balance potential gains against maximum [risk](../r/risk.md).
 
 ## Practical Considerations in Algotrading
 
 ### Data and Inputs
-Successful implementation of [theta](../t/theta.md) decay strategies in algotrading requires [robust](../r/robust.md) data inputs, including real-time [options](../o/options.md) pricing, [historical volatility](../h/historical_volatility.md), and [interest](../i/interest.md) rates. Specialized data feeds and analytics tools, like those provided by [QuantConnect](https://www.quantconnect.com/), can be invaluable.
+Successful implementation of [theta](../t/theta.md) decay strategies in algotrading requires [robust](../r/robust.md) data inputs, including real-time [options](../o/options.md) pricing, [historical volatility](../h/historical_volatility.md), and [interest](../i/interest.md) rates. Specialized data feeds and analytics tools, like those provided by QuantConnect, can be invaluable.
 
 ### Algorithm Design
 Designing [trading algorithms](../t/trading_algorithms.md) incorporates not only the fundamental principles of [theta](../t/theta.md) decay but also advanced statistical models to forecast and react to [market](../m/market.md) conditions dynamically. [Backtesting](../b/backtesting.md) is critical to ensure the strategy's viability under various [market](../m/market.md) scenarios.
@@ -79,7 +79,7 @@ Designing [trading algorithms](../t/trading_algorithms.md) incorporates not only
 - **[Diversification](../d/diversification.md)**: Avoid concentrating on a single [underlying asset](../u/underlying_asset.md) or [market segment](../m/market_segment.md).
 
 ### Execution Efficiency
-[Execution](../e/execution.md) speed and [efficiency](../e/efficiency.md) are vital in algotrading. Partnering with brokers and trading platforms that [offer](../o/offer.md) low-latency [execution](../e/execution.md) and direct [market](../m/market.md) access can significantly improve the profitability of [theta](../t/theta.md) decay strategies. Companies like [Interactive Brokers](https://www.interactivebrokers.com/) provide such [infrastructure](../i/infrastructure.md).
+[Execution](../e/execution.md) speed and [efficiency](../e/efficiency.md) are vital in algotrading. Partnering with brokers and trading platforms that [offer](../o/offer.md) low-latency [execution](../e/execution.md) and direct [market](../m/market.md) access can significantly improve the profitability of [theta](../t/theta.md) decay strategies. Companies like Interactive Brokers provide such [infrastructure](../i/infrastructure.md).
 
 ## Conclusion
 

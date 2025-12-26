@@ -14,7 +14,7 @@ One of the cornerstones of intertemporal portfolio choice is the notion of [stoc
 Investors are assumed to derive [utility](../u/utility.md) not just from [wealth](../w/wealth.md) accumulated at a single point in time, but from a stream of consumption over time. [Utility functions](../u/utility_functions_in_trading.md) in intertemporal settings often exhibit properties such as time consistency and [risk](../r/risk.md) aversion, making them crucial for understanding how decisions are made across different periods.
 
 #### Consumption-Savings Decisions
-Intertemporal portfolio choice is not solely about investment; it also encompasses consumption-savings decisions. Investors must decide how much of their [wealth](../w/wealth.md) to consume in the current period and how much to save and invest for future consumption. 
+Intertemporal portfolio choice is not solely about investment; it also encompasses consumption-savings decisions. Investors must decide how much of their [wealth](../w/wealth.md) to consume in the current period and how much to save and invest for future consumption.
 
 ### Theoretical Foundations
 
@@ -47,9 +47,9 @@ Financial advisors use intertemporal portfolio choice models to help clients pla
 Universities and other large institutions with substantial endowments use intertemporal portfolio choice to ensure that their portfolios can support future spending needs while preserving [capital](../c/capital.md).
 
 #### Robo-Advisors
-Modern robo-advisors incorporate intertemporal portfolio choice principles to dynamically adjust users' portfolios based on their changing financial situations and goals over time. For example, Betterment and Wealthfront are platforms that [leverage](../l/leverage.md) such techniques. 
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+Modern robo-advisors incorporate intertemporal portfolio choice principles to dynamically adjust users' portfolios based on their changing financial situations and goals over time. For example, Betterment and Wealthfront are platforms that [leverage](../l/leverage.md) such techniques.
+- Betterment
+- Wealthfront
 
 ### Empirical Findings
 
@@ -78,4 +78,3 @@ Real-world investors may not adhere strictly to the rational principles assumed 
 
 ### Conclusion
 Intertemporal portfolio choice is a complex but essential component of modern financial theory, providing a framework for making informed investment decisions over [multiple](../m/multiple.md) periods. While it offers significant insights and advantages, it also poses numerous challenges and requires sophisticated tools and models. Through ongoing research and technological advancements, such as the development of robo-advisors, the principles of intertemporal portfolio choice continue to evolve, [offering](../o/offering.md) ever-more refined approaches to optimal investment and consumption over time.
-

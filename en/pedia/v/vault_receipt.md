@@ -80,13 +80,10 @@ Private investors also utilize vault [receipts](../r/receipt.md) to secure their
 Some leading companies specializing in vault receipt issuance and management include:
 
 - **Brinks**: A renowned [security](../s/security.md) solutions provider that offers vault services for precious metals and other valuable assets.
-[Brinks](https://www.brinks.com)
 
 - **Loomis**: Provides comprehensive vault services, including issuance and management of vault [receipts](../r/receipt.md) for various commodities.
-[Loomis](https://www.loomis.us)
 
 - **G4S**: Offers secure storage solutions and vault receipt services for clients looking to safeguard valuable assets.
-[G4S](https://www.g4s.com)
 
 ## Challenges and Future Prospects
 

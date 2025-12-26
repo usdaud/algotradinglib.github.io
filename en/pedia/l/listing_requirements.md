@@ -27,7 +27,7 @@ The New York Stock [Exchange](../e/exchange.md) is one of the world's largest an
 1. **[Corporate Governance](../c/corporate_governance.md)**: Compliance with SEC regulations and NYSE's specific governance practices.
 2. **[Disclosure](../d/disclosure.md)**: [Robust](../r/robust.md) [disclosure](../d/disclosure.md) practices, including regular [financial statements](../f/financial_statements.md) and material event notices.
 
-For more details, visit: [NYSE Listing Requirements](https://www.nyse.com/markets/nyse)
+For more details, visit: NYSE Listing Requirements
 
 ### NASDAQ
 
@@ -43,7 +43,7 @@ For more details, visit: [NYSE Listing Requirements](https://www.nyse.com/market
 1. **[Corporate Governance](../c/corporate_governance.md)**: Adherence to [NASDAQ](../n/nasdaq.md)'s governance standards.
 2. **[Transparency](../t/transparency.md)**: High standards for reporting and [disclosure](../d/disclosure.md).
 
-For more details, visit: [NASDAQ Listing Requirements](https://listingcenter.nasdaq.com/assets/initialguide.pdf)
+For more details, visit: NASDAQ Listing Requirements
 
 ### London Stock Exchange (LSE)
 
@@ -60,7 +60,7 @@ The London Stock [Exchange](../e/exchange.md) provides two markets for listing: 
 2. **Nominated Adviser (Nomad)**: Companies must appoint a Nomad to guide through the listing process.
 3. **Continuous [Obligations](../o/obligation.md)**: Regular financial reporting and governance are mandatory.
 
-For more details, visit: [LSE Listing Requirements](https://www.londonstockexchange.com/raise-finance)
+For more details, visit: LSE Listing Requirements
 
 ### Tokyo Stock Exchange (TSE)
 
@@ -76,7 +76,7 @@ The Tokyo Stock [Exchange](../e/exchange.md) lists the majority of Japanese comp
 1. **Governance**: Requirements for [corporate governance](../c/corporate_governance.md) are stringent.
 2. **[Disclosure](../d/disclosure.md)**: Companies must provide detailed financial and operational disclosures.
 
-For more details, visit: [TSE Listing Requirements](https://www.jpx.co.jp/english/equities/listing/)
+For more details, visit: TSE Listing Requirements
 
 ### Hong Kong Stock Exchange (HKEX)
 
@@ -91,7 +91,7 @@ HKEX is one of the prominent exchanges in Asia and has [robust](../r/robust.md) 
 1. **[Corporate Governance](../c/corporate_governance.md)**: Strong governance criteria must be met.
 2. **[Disclosure](../d/disclosure.md)**: High [transparency](../t/transparency.md) and comprehensive [disclosure](../d/disclosure.md) are mandatory.
 
-For more details, visit: [HKEX Listing Requirements](https://www.hkex.com.hk/Listing/Rules-and-Guidance/Listing-Documents?sc_lang=en)
+For more details, visit: HKEX Listing Requirements
 
 ## Dual Listings
 

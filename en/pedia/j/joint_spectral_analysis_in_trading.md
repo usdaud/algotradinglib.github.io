@@ -72,8 +72,8 @@ The results of [spectral analysis](../s/spectral_analysis.md) can be complex to 
 
 For those interested in implementing JSA in their [trading models](../t/trading_models.md), several [software tools](../s/software_tools_for_trading.md) and libraries are available:
 
-- [MATLAB](https://www.mathworks.com/products/matlab.html) offers built-in functions for [spectral analysis](../s/spectral_analysis.md), including Fourier and Wavelet transforms.
-- [Python's SciPy](https://scipy.org/) library provides extensive support for [spectral analysis](../s/spectral_analysis.md) through its [signal processing](../s/signal_processing_in_trading.md) module.
-- [R](https://www.r-project.org/) also has numerous packages for [spectral analysis](../s/spectral_analysis.md), such as `spectral` and `wavelets`.
+- MATLAB offers built-in functions for [spectral analysis](../s/spectral_analysis.md), including Fourier and Wavelet transforms.
+- Python's SciPy library provides extensive support for [spectral analysis](../s/spectral_analysis.md) through its [signal processing](../s/signal_processing_in_trading.md) module.
+- R also has numerous packages for [spectral analysis](../s/spectral_analysis.md), such as `spectral` and `wavelets`.
 
 It’s also valuable to stay updated with academic research and [industry](../i/industry.md) case studies to continually refine your approach to using JSA in trading.

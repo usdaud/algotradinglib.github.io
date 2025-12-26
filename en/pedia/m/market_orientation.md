@@ -103,19 +103,17 @@ The regulatory landscape in fintech is notably stringent and rapidly evolving. [
 
 Amazon is a quintessential example of [market](../m/market.md) orientation. The company’s ability to gather [customer](../c/customer.md) data through its extensive online platform enables it to deliver highly customized experiences and anticipate [market](../m/market.md) trends. Its focus on [customer](../c/customer.md) satisfaction, rapid innovation cycles, and effective use of technology underscores its [market](../m/market.md)-oriented approach.
 
-[Amazon Case Study](https://www.amazon.com/)
 
 ### Apple
 
 Apple’s success is largely attributed to its keen understanding of consumer desires and [market](../m/market.md) trends. By prioritizing user experience and innovative product design, Apple maintains a strong competitive edge. Its agility in responding to technological advancements and [market](../m/market.md) shifts exemplifies effective [market](../m/market.md) orientation.
 
-[Apple Inc.](https://www.apple.com/)
+Apple Inc.
 
 ### Tesla
 
 Tesla’s [market](../m/market.md) orientation is evident in its focus on sustainable energy and innovative automotive technologies. By aligning its products with the growing [demand](../d/demand.md) for green technology, Tesla has carved out a significant [market](../m/market.md) position. Continual engagement with consumer preferences and proactive adjustments in production and [marketing](../m/marketing.md) strategies underscore Tesla's [market](../m/market.md)-oriented strategy.
 
-[Tesla](https://www.tesla.com/)
 
 ## Conclusion
 

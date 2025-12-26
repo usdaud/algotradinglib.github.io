@@ -82,7 +82,7 @@ The RSE's technological [infrastructure](../i/infrastructure.md) is designed to 
 
 ### Electronic Trading System
 
-The RSE's electronic trading system is a sophisticated platform that supports real-time [order](../o/order.md) matching, [trade](../t/trade.md) [execution](../e/execution.md), and [market](../m/market.md) data dissemination. The system is equipped with advanced features, such as [algorithmic trading](../a/accountability.md) capabilities, which allow [market](../m/market.md) participants to implement complex [trading strategies](../t/trading_strategies.md) efficiently.
+The RSE's electronic trading system is a sophisticated platform that supports real-time [order](../o/order.md) matching, [trade](../t/trade.md) [execution](../e/execution.md), and [market](../m/market.md) data dissemination. The system is equipped with advanced features, such as [algorithmic trading](../a/algorithmic_trading.md) capabilities, which allow [market](../m/market.md) participants to implement complex [trading strategies](../t/trading_strategies.md) efficiently.
 
 ### Data Analytics
 
@@ -126,4 +126,4 @@ To attract and retain investors, the RSE is focusing on [investor](../i/investor
 
 ## Conclusion
 
-The Uzbekistan Republican Stock [Exchange](../e/exchange.md) (RSE) has established itself as a key player in the country's financial ecosystem, providing a [robust](../r/robust.md) platform for trading a diverse [range](../r/range.md) of financial instruments. With ongoing reforms, technological advancements, and a focus on [market](../m/market.md) development, the RSE is well-positioned to drive [economic growth](../e/economic_growth.md) and attract both domestic and [foreign investment](../f/foreign_investment.md) in the years to come. For more information, visit the official website of the Uzbekistan Republican Stock [Exchange](../e/exchange.md) at [http://rse.uz/](http://rse.uz/).
+The Uzbekistan Republican Stock [Exchange](../e/exchange.md) (RSE) has established itself as a key player in the country's financial ecosystem, providing a [robust](../r/robust.md) platform for trading a diverse [range](../r/range.md) of financial instruments. With ongoing reforms, technological advancements, and a focus on [market](../m/market.md) development, the RSE is well-positioned to drive [economic growth](../e/economic_growth.md) and attract both domestic and [foreign investment](../f/foreign_investment.md) in the years to come../e/exchange.md) at

@@ -4,7 +4,7 @@ Block trading stands as a formidable element in the [financial markets](../f/fin
 
 ## Understanding Block Trades
 
-A [block trade](../b/block_trade.md) is defined as the purchase or [sale](../s/sale.md) of a large quantity of securities. Generally, in equities, this entails a minimum of 10,000 [shares](../s/shares.md) or a [trade](../t/trade.md) [value](../v/value.md) exceeding $200,000. In the fixed-[income](../i/income.md) sector, it involves transactions typically in the millions of dollars. 
+A [block trade](../b/block_trade.md) is defined as the purchase or [sale](../s/sale.md) of a large quantity of securities. Generally, in equities, this entails a minimum of 10,000 [shares](../s/shares.md) or a [trade](../t/trade.md) [value](../v/value.md) exceeding $200,000. In the fixed-[income](../i/income.md) sector, it involves transactions typically in the millions of dollars.
 
 Block trades are pivotal in various [financial markets](../f/financial_market.md) due to their ability to significantly influence [market](../m/market.md) prices. Executing them requires immense expertise to avoid adverse [market](../m/market.md) impacts, thus, specialized trading desks and strategies are employed.
 
@@ -16,17 +16,17 @@ The sheer size of block trades makes their [execution](../e/execution.md) comple
 
 [Dark pools](../d/dark_pools.md), a subset of trading venues, allow large trades to be executed away from public exchanges. These private forums provide anonymity to the participants, helping minimize the [market](../m/market.md) impact by keeping the information about impending large trades hidden.
 
-Several prominent [dark pool](../d/dark_pool.md) operators include [Liquidnet](https://www.liquidnet.com/) and [ITG POSIT](https://www.itg.com/posit/). These platforms facilitate block trades between institutional investors, ensuring minimal footprint on the [open market](../o/open_market.md).
+Several prominent [dark pool](../d/dark_pool.md) operators include Liquidnet and ITG POSIT. These platforms facilitate block trades between institutional investors, ensuring minimal footprint on the [open market](../o/open_market.md).
 
 ### Algorithmic Trading
 
 [Algorithmic trading](../a/algorithmic_trading.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and software to execute block trades. These algorithms are designed to break down the large orders into smaller, manageable trades that can be executed over time or across various trading venues. This technique is often referred to as ‘[Order](../o/order.md) Slicing’.
 
-One common [execution](../e/execution.md) algorithm used in this context is the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP) algorithm, which aims to execute the [trade](../t/trade.md) at prices close to the average trading price over a specific period. Companies like [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) provide bespoke [algorithmic trading](../a/algorithmic_trading.md) services tailored for block trades.
+One common [execution](../e/execution.md) algorithm used in this context is the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP) algorithm, which aims to execute the [trade](../t/trade.md) at prices close to the average trading price over a specific period. Companies like Goldman Sachs and Morgan Stanley provide bespoke [algorithmic trading](../a/algorithmic_trading.md) services tailored for block trades.
 
 ### Principal Trades
 
-In a [principal](../p/principal.md) [trade](../t/trade.md), brokers facilitate block trades by committing their [capital](../c/capital.md). They buy large blocks of [shares](../s/shares.md) to sell them over time or use their [inventory](../i/inventory.md) to fulfill large orders. This helps in managing the timing and impact of the [trade](../t/trade.md) on the [market](../m/market.md). [Investment banks](../i/investment_bank_(ib).md) like [J.P. Morgan](https://www.jpmorgan.com/) and [Barclays](https://home.barclays/) commonly engage in [principal](../p/principal.md) trading.
+In a [principal](../p/principal.md) [trade](../t/trade.md), brokers facilitate block trades by committing their [capital](../c/capital.md). They buy large blocks of [shares](../s/shares.md) to sell them over time or use their [inventory](../i/inventory.md) to fulfill large orders. This helps in managing the timing and impact of the [trade](../t/trade.md) on the [market](../m/market.md). [Investment banks](../i/investment_bank_(ib).md) like J.P. Morgan and Barclays commonly engage in [principal](../p/principal.md) trading.
 
 ## Advantages and Challenges
 
@@ -82,4 +82,4 @@ The evolution of technology and [market](../m/market.md) [infrastructure](../i/i
 1. **AI and [Machine Learning](../m/machine_learning.md)**: Enhanced algorithms utilizing AI and [machine learning](../m/machine_learning.md) are expected to further refine the [execution](../e/execution.md) of block trades, reducing [market](../m/market.md) impact and improving [efficiency](../e/efficiency.md).
 2. **[Blockchain](../b/blockchain_in_trading.md) Technology**: [Blockchain](../b/blockchain_in_trading.md) offers potential enhancements in [transparency](../t/transparency.md) and [security](../s/security.md) for executing and settling block trades.
 
-In conclusion, [block trade](../b/block_trade.md) analysis is integral to understanding the broader implications of large trades in [financial markets](../f/financial_market.md). Through sophisticated strategies, technological advancements, and stringent regulatory frameworks, their [execution](../e/execution.md) continues to evolve, providing both challenges and opportunities for [market](../m/market.md) participants.
+In conclusion, [block trade](../b/block_trade.md) analysis is integral to understanding the broader implications of large trades in [financial markets](../f/financial_market.md). Through sophisticated strategies, technological advancements, and stringent regulatory frameworks, their [execution](../e/execution.md) continues to evolve, providing both challenges and opportunities for [market](../m/market.md) participants.

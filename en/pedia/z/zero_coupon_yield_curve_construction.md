@@ -74,8 +74,7 @@ Constructing the zero-coupon [yield curve](../y/yield_curve.md) is both a theore
 - **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) terminals [offer](../o/offer.md) advanced tools for [yield curve](../y/yield_curve.md) construction, incorporating real-time data and [robust](../r/robust.md) analytical capabilities.
 - **[Reuters](../r/reuters.md) Eikon**: Similar to [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md) Eikon provides comprehensive tools for [financial analysis](../f/financial_analysis.md), including [yield curve](../y/yield_curve.md) construction.
 
-#### Case Study: Bloomberg's Zero-Curve (https://www.bloomberg.com)
-
+#### Case Study: Bloomberg's Zero-Curve
 [Bloomberg](../b/bloomberg.md) provides tools for zero coupon [yield curve](../y/yield_curve.md) construction that include bootstrapping functionalities, parametric models, and [interpolation](../i/interpolation.md) techniques. Users can input [market](../m/market.md) data, customize model settings, and obtain detailed analysis and visualization of the [yield curve](../y/yield_curve.md).
 
 ### Applications
@@ -97,8 +96,8 @@ Constructing an accurate zero-coupon [yield curve](../y/yield_curve.md) presents
 
 ### Conclusion
 
-Zero coupon [yield curve](../y/yield_curve.md) construction is a cornerstone of modern [financial analysis](../f/financial_analysis.md), [offering](../o/offering.md) critical insights into the [term structure of interest rates](../t/term_structure_of_interest_rates.md). By leveraging various construction methods, ranging from bootstrapping to advanced parametric models, financial professionals can accurately model [yield](../y/yield.md) curves and apply them to [bond](../b/bond.md) pricing, [risk management](../r/risk_management.md), and [investment strategy](../i/investment_strategy.md). As [financial markets](../f/financial_market.md) continue to evolve, the need for precise and adaptable [yield curve](../y/yield_curve.md) construction methodologies [will](../w/will.md) remain essential. 
+Zero coupon [yield curve](../y/yield_curve.md) construction is a cornerstone of modern [financial analysis](../f/financial_analysis.md), [offering](../o/offering.md) critical insights into the [term structure of interest rates](../t/term_structure_of_interest_rates.md). By leveraging various construction methods, ranging from bootstrapping to advanced parametric models, financial professionals can accurately model [yield](../y/yield.md) curves and apply them to [bond](../b/bond.md) pricing, [risk management](../r/risk_management.md), and [investment strategy](../i/investment_strategy.md). As [financial markets](../f/financial_market.md) continue to evolve, the need for precise and adaptable [yield curve](../y/yield_curve.md) construction methodologies [will](../w/will.md) remain essential.
 
 Sources for further reading and practical tools:
-- [Bloomberg](../b/bloomberg.md): [Bloomberg Zero Curve Tools](https://www.bloomberg.com)
-- [Reuters](../r/reuters.md) Eikon: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- [Bloomberg](../b/bloomberg.md): Bloomberg Zero Curve Tools
+- [Reuters](../r/reuters.md) Eikon: Thomson Reuters Eikon

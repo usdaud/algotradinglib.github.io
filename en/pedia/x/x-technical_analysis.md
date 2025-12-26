@@ -43,11 +43,11 @@ Indicators and oscillators are mathematical calculations based on price, [volume
 [Chart patterns](../c/chart_patterns.md) are formations created by the price movements on a chart. They are categorized into two main types: [continuation patterns](../c/continuation_patterns.md) and [reversal patterns](../r/reversal_patterns.md).
 
 - **[Continuation Patterns](../c/continuation_patterns.md):** These indicate that the current [trend](../t/trend.md) is likely to continue. Examples include:
-  - **Triangles:** Symmetrical, ascending, and descending triangles that form during [consolidation](../c/consolidation.md) phases.
-  - **Flags and Pennants:** Small, brief [consolidation patterns](../c/consolidation_patterns.md) that follow a strong price movement.
+ - **Triangles:** Symmetrical, ascending, and descending triangles that form during [consolidation](../c/consolidation.md) phases.
+ - **Flags and Pennants:** Small, brief [consolidation patterns](../c/consolidation_patterns.md) that follow a strong price movement.
 - **[Reversal Patterns](../r/reversal_patterns.md):** These suggest that the current [trend](../t/trend.md) is likely to reverse. Examples include:
-  - **Head and Shoulders:** A pattern with three peaks, with the middle peak being the highest.
-  - **Double Tops and Bottoms:** Patterns with two peaks or troughs at roughly the same level.
+ - **Head and Shoulders:** A pattern with three peaks, with the middle peak being the highest.
+ - **Double Tops and Bottoms:** Patterns with two peaks or troughs at roughly the same level.
 
 ### 2. Fibonacci Retracement
 [Fibonacci retracement](../f/fibonacci_retracement.md) is based on the idea that markets [will](../w/will.md) retrace a predictable portion of a move, after which they [will](../w/will.md) continue in the original direction. Key Fibonacci levels include 38.2%, 50%, and 61.8%. Traders use these levels to identify potential [support and resistance](../s/support_and_resistance.md) levels.
@@ -79,9 +79,9 @@ Long-term investors use [technical analysis](../t/technical_analysis.md) to time
 
 Several platforms and tools are available for traders to perform [technical analysis](../t/technical_analysis.md). Some of the most popular ones include:
 
-- **[TradingView](../t/tradingview.md):** A widely used charting platform that offers a [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools, indicators, and social features. Visit: [TradingView](https://www.tradingview.com/)
-- **MetaTrader 4/5:** Popular trading platforms that [offer](../o/offer.md) advanced charting and [technical analysis](../t/technical_analysis.md) tools. Visit: [MetaTrader](https://www.metatrader5.com/)
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** A comprehensive [trading platform](../t/trading_platform.md) that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[TradingView](../t/tradingview.md):** A widely used charting platform that offers a [range](../r/range.md) of [technical analysis](../t/technical_analysis.md) tools, indicators, and social features. Visit: TradingView
+- **MetaTrader 4/5:** Popular trading platforms that [offer](../o/offer.md) advanced charting and [technical analysis](../t/technical_analysis.md) tools. Visit: MetaTrader
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md):** A comprehensive [trading platform](../t/trading_platform.md) that provides [advanced technical analysis](../a/advanced_technical_analysis.md) tools and educational resources. Visit: Thinkorswim
 
 ## Conclusion
 

@@ -16,7 +16,7 @@ Maturity in [finance](../f/finance.md) and trading refers to the final [payment]
 
 **[Options](../o/options.md):** In [options](../o/options.md) trading, maturity is referred to as the [expiration date](../e/expiration_date.md). By this date, the option holder must decide whether to [exercise](../e/exercise.md) the option or let it expire worthless.
 
-**[Futures](../f/futures.md):** [Futures contracts](../f/futures_contracts.md) also have a [maturity date](../m/maturity_date.md) which is the point when the contract must be settled either by [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md) or by cash settlement. 
+**[Futures](../f/futures.md):** [Futures contracts](../f/futures_contracts.md) also have a [maturity date](../m/maturity_date.md) which is the point when the contract must be settled either by [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md) or by cash settlement.
 
 ### Loans
 
@@ -54,7 +54,7 @@ A [flat yield curve](../f/flat_yield_curve.md) indicates that yields are roughly
 
 ## Maturity Models in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), understanding and utilizing the concept of maturity can help in developing sophisticated [trading models](../t/trading_models.md) and strategies. Certain strategies may be time-dependent or take advantage of the changes in [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md) as the [maturity date](../m/maturity_date.md) of a [financial instrument](../f/financial_instrument.md) approaches.
+In [algorithmic trading](../a/algorithmic_trading.md), understanding and utilizing the concept of maturity can help in developing sophisticated [trading models](../t/trading_models.md) and strategies. Certain strategies may be time-dependent or take advantage of the changes in [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md) as the [maturity date](../m/maturity_date.md) of a [financial instrument](../f/financial_instrument.md) approaches.
 
 ### Mean Reversion
 
@@ -88,11 +88,11 @@ Fintech companies [leverage](../l/leverage.md) technology to [offer](../o/offer.
 
 #### BondEvalue
 
-[BondEvalue](https://www.bondevalue.com) is a fintech company specializing in the [bond market](../b/bond_market.md). It offers a platform that brings [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) to [bond](../b/bond.md) trading by making prices more accessible and trading processes more streamlined.
+BondEvalue is a fintech company specializing in the [bond market](../b/bond_market.md). It offers a platform that brings [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) to [bond](../b/bond.md) trading by making prices more accessible and trading processes more streamlined.
 
 #### Algoriz
 
-[Algoriz](https://www.algoriz.com) is a platform that allows users to build, test, and implement [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) without extensive coding knowledge. It provides various tools that take maturity dates into account for optimizing [trading models](../t/trading_models.md).
+Algoriz is a platform that allows users to build, test, and implement [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) without extensive coding knowledge. It provides various tools that take maturity dates into account for optimizing [trading models](../t/trading_models.md).
 
 ### Blockchain and Tokenization
 

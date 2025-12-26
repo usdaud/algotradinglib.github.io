@@ -44,7 +44,7 @@ R_w = (0.40 \times 0.05) + (0.30 \times 0.10) + (0.30 \times 0.07) = 0.02 + 0.03
 
 ### Value-Weighted Return
 
-In a [value](../v/value.md)-[weighted](../w/weighted.md) [return](../r/return.md) calculation, the weights are based on the [market](../m/market.md) values of the individual assets rather than predetermined percentages. 
+In a [value](../v/value.md)-[weighted](../w/weighted.md) [return](../r/return.md) calculation, the weights are based on the [market](../m/market.md) values of the individual assets rather than predetermined percentages.
 
 ### Formula
 
@@ -66,8 +66,8 @@ Assuming a portfolio with the following [market](../m/market.md) values and retu
 The [value](../v/value.md)-[weighted](../w/weighted.md) [return](../r/return.md) is calculated as:
 
 \[
-R_{vw} = \frac{(150,000 \times 0.05) + (250,000 \times 0.10) + (100,000 \times 0.07)}{150,000 + 250,000 + 100,000} 
-= \frac{7,500 + 25,000 + 7,000}{500,000} 
+R_{vw} = \frac{(150,000 \times 0.05) + (250,000 \times 0.10) + (100,000 \times 0.07)}{150,000 + 250,000 + 100,000}
+= \frac{7,500 + 25,000 + 7,000}{500,000}
 = \frac{39,500}{500,000}
 = 0.079 \text{ or } 7.9\%
 \]
@@ -95,9 +95,9 @@ Assume a portfolio with returns over three periods:
 The time-[weighted](../w/weighted.md) [return](../r/return.md) is calculated as:
 
 \[
-R_{tw} = (1 + 0.02) \times (1 + 0.03) \times (1 - 0.01) - 1 
-= 1.02 \times 1.03 \times 0.99 - 1 
-= 1.0431 - 1 
+R_{tw} = (1 + 0.02) \times (1 + 0.03) \times (1 - 0.01) - 1
+= 1.02 \times 1.03 \times 0.99 - 1
+= 1.0431 - 1
 = 0.0431 \text{ or } 4.31\%
 \]
 
@@ -107,18 +107,18 @@ Modern trading platforms and [portfolio management](../p/portfolio_management.md
 
 ### Portfolio Management Software
 
-1. **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that offers advanced portfolio analytics and benchmarking tools. More information can be found on [Morningstar Direct's website](https://www.morningstar.com/products/direct).
+1. **[Morningstar](../m/morningstar.md) Direct**: A comprehensive [investment analysis](../i/investment_analysis.md) platform that offers advanced portfolio analytics and benchmarking tools.
 2. **[Bloomberg](../b/bloomberg.md) Terminal**: Known for its extensive data and analytics capabilities, [Bloomberg](../b/bloomberg.md) Terminal helps in [portfolio management](../p/portfolio_management.md), including calculating [weighted](../w/weighted.md) returns.
 
 ### Trading Platforms
 
-1. **MetaTrader 5**: This widely-used [trading platform](../t/trading_platform.md) includes features for [algorithmic trading](../a/algorithmic_trading.md) and [portfolio analysis](../p/portfolio_analysis.md). Learn more on the [MetaTrader website](https://www.metatrader5.com/en).
-2. **[QuantConnect](../q/quantconnect.md)**: A platform focused on [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), it offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md) with [weighted](../w/weighted.md) returns. Visit [QuantConnect](https://www.quantconnect.com).
+1. **MetaTrader 5**: This widely-used [trading platform](../t/trading_platform.md) includes features for [algorithmic trading](../a/algorithmic_trading.md) and [portfolio analysis](../p/portfolio_analysis.md).
+2. **[QuantConnect](../q/quantconnect.md)**: A platform focused on [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md), it offers tools for [backtesting](../b/backtesting.md) and analyzing [trading strategies](../t/trading_strategies.md) with [weighted](../w/weighted.md) returns. Visit QuantConnect.
 
 ### Programming Libraries
 
-1. **Pandas**: A Python library widely used for data analysis, including financial data. The `pandas` library can be used to calculate [weighted](../w/weighted.md) returns efficiently. [Check](../c/check.md) out [Pandas documentation](https://pandas.pydata.org).
-2. **NumPy**: Another Python library, `NumPy`, is useful for numerical calculations, including those required for [weighted](../w/weighted.md) [return](../r/return.md) calculations. Visit [NumPy's official website](https://numpy.org).
+1. **Pandas**: A Python library widely used for data analysis, including financial data. The `pandas` library can be used to calculate [weighted](../w/weighted.md) returns efficiently. [Check](../c/check.md) out Pandas documentation.
+2. **NumPy**: Another Python library, `NumPy`, is useful for numerical calculations, including those required for [weighted](../w/weighted.md) [return](../r/return.md) calculations.
 
 ### Financial Calculators
 

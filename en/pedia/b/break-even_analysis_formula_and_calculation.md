@@ -28,7 +28,7 @@ Alternatively, the formula can be expressed in terms of sales [revenue](../r/rev
 
 Where:
 
-- **[Contribution Margin](../c/contribution_margin.md) Ratio** is calculated as: 
+- **[Contribution Margin](../c/contribution_margin.md) Ratio** is calculated as:
 
 \[ \text{[Contribution Margin](../c/contribution_margin.md) Ratio} = \frac{\text{[Sale](../s/sale.md) Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit}}{\text{[Sale](../s/sale.md) Price per Unit}} \]
 
@@ -55,23 +55,23 @@ Let's consider a practical example to illustrate the [break-even analysis](../b/
 
 1. **[Contribution Margin](../c/contribution_margin.md) per Unit:**
 
-    \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = \text{[Sale](../s/sale.md) Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit} \]
-    \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = 50 - 30 \]
-    \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = $20 \]
+ \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = \text{[Sale](../s/sale.md) Price per Unit} - \text{[Variable Cost](../v/variable_cost.md) per Unit} \]
+ \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = 50 - 30 \]
+ \[ \text{[Contribution Margin](../c/contribution_margin.md) per Unit} = $20 \]
 
 2. **Break-Even Point in Units:**
 
-    \[ \text{Break-Even Point (BEP) in Units} = \frac{\text{Total Fixed Costs}}{\text{[Contribution Margin](../c/contribution_margin.md) per Unit}} \]
-    \[ \text{Break-Even Point} = \frac{10,000}{20} \]
-    \[ \text{Break-Even Point} = 500 \text{ units} \]
+ \[ \text{Break-Even Point (BEP) in Units} = \frac{\text{Total Fixed Costs}}{\text{[Contribution Margin](../c/contribution_margin.md) per Unit}} \]
+ \[ \text{Break-Even Point} = \frac{10,000}{20} \]
+ \[ \text{Break-Even Point} = 500 \text{ units} \]
 
 Therefore, the company needs to sell 500 units to cover its fixed and variable costs.
 
 3. **Break-Even Point in Sales Dollars:**
 
-    \[ \text{Break-Even Point (BEP) in Sales Dollars} = \text{Break-Even Point in Units} \times \text{[Sale](../s/sale.md) Price per Unit} \]
-    \[ \text{Break-Even Point in Sales Dollars} = 500 \times 50 \]
-    \[ \text{Break-Even Point in Sales Dollars} = $25,000 \]
+ \[ \text{Break-Even Point (BEP) in Sales Dollars} = \text{Break-Even Point in Units} \times \text{[Sale](../s/sale.md) Price per Unit} \]
+ \[ \text{Break-Even Point in Sales Dollars} = 500 \times 50 \]
+ \[ \text{Break-Even Point in Sales Dollars} = $25,000 \]
 
 The company must achieve $25,000 in sales to reach its break-even point.
 

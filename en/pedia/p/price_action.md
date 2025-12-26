@@ -62,8 +62,7 @@ Certain trading platforms [offer](../o/offer.md) advanced charting tools that ar
 ### Educational Resources
 Numerous educational resources are available for traders looking to deepen their understanding of [price action trading](../p/price_action_trading.md). These include:
 - **Books:** "[Price Action Trading](../p/price_action_trading.md)" by Al Brooks, "Naked Forex" by Alex Nekritin and Walter Peters.
-- **Online Courses:** Courses provided by trading educators like Nial Fuller (https://www.learntotradethemarket.com/) and Al Brooks (https://brookstradingcourse.com/).
-- **Webinars and Workshops:** Many experienced traders and educators [offer](../o/offer.md) live webinars and workshops to teach price action techniques.
+- **Online Courses:** Courses provided by trading educators like Nial Fuller and Al Brooks - **Webinars and Workshops:** Many experienced traders and educators [offer](../o/offer.md) live webinars and workshops to teach price action techniques.
 
 ## Conclusion
 

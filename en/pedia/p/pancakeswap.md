@@ -134,4 +134,3 @@ PancakeSwap aims to continue its growth by adding more features, improving user 
 
 PancakeSwap plans to deepen its integration within the [Binance](../b/binance.md) Smart Chain and explore partnerships with other DeFi platforms to provide a comprehensive, interconnected ecosystem for users.
 
-For more details, visit the official PancakeSwap website: [PancakeSwap](https://pancakeswap.finance).

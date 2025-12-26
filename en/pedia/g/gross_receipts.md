@@ -95,7 +95,7 @@ Investors and analysts scrutinize gross [receipts](../r/receipt.md) to gauge a c
 
 ### Case Study: Amazon
 
-Amazon, a global e-[commerce](../c/commerce.md) giant, reports its gross [receipts](../r/receipt.md) to provide stakeholders with insight into the company's extensive [revenue](../r/revenue.md) streams. From online sales and subscription services (like Amazon Prime) to AWS (Amazon Web Services) and advertising, Amazon's gross [receipts](../r/receipt.md) reflect the diversified nature of its [business](../b/business.md) model. For detailed financial information, visit [Amazon Investor Relations](https://www.amazon.com/ir).
+Amazon, a global e-[commerce](../c/commerce.md) giant, reports its gross [receipts](../r/receipt.md) to provide stakeholders with insight into the company's extensive [revenue](../r/revenue.md) streams. From online sales and subscription services (like Amazon Prime) to AWS (Amazon Web Services) and advertising, Amazon's gross [receipts](../r/receipt.md) reflect the diversified nature of its [business](../b/business.md) model. For detailed financial information, visit Amazon company filings.
 
 ## Limitations and Considerations
 

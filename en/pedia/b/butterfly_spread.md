@@ -1,6 +1,6 @@
 # Butterfly Spread
 
-A butterfly spread is a [neutral](../n/neutral.md) [options](../o/options.md) [trading strategy](../t/trading_strategy.md) that involves the simultaneous purchase and [sale](../s/sale.md) of [multiple](../m/multiple.md) [options](../o/options.md) with different strike prices. This strategy is designed to generate a [profit](../p/profit.md) when the price of the [underlying asset](../u/underlying_asset.md) remains within a certain [range](../r/range.md), and it is popular among traders who expect minimal price movement. The butterfly spread can be implemented using either calls or puts and can be further divided into different variations like [long butterfly spread](../l/long_butterfly_spread.md) and [short butterfly spread](../s/short_butterfly_spread.md). 
+A butterfly spread is a [neutral](../n/neutral.md) [options](../o/options.md) [trading strategy](../t/trading_strategy.md) that involves the simultaneous purchase and [sale](../s/sale.md) of [multiple](../m/multiple.md) [options](../o/options.md) with different strike prices. This strategy is designed to generate a [profit](../p/profit.md) when the price of the [underlying asset](../u/underlying_asset.md) remains within a certain [range](../r/range.md), and it is popular among traders who expect minimal price movement. The butterfly spread can be implemented using either calls or puts and can be further divided into different variations like [long butterfly spread](../l/long_butterfly_spread.md) and [short butterfly spread](../s/short_butterfly_spread.md).
 
 ## Components of a Butterfly Spread
 
@@ -22,7 +22,7 @@ The result is a position where the [trader](../t/trader.md) profits the most if 
 
 ### Long Butterfly Spread
 
-A [long butterfly spread](../l/long_butterfly_spread.md) is set up by purchasing a lower strike option, selling two middle strike [options](../o/options.md), and purchasing a higher strike option. This strategy results in a net [debit](../d/debit.md) initially paid out, but offers a high reward-to-[risk](../r/risk.md) ratio if the [underlying asset](../u/underlying_asset.md)'s price is around the middle [strike price](../s/strike_price.md) at expiration. 
+A [long butterfly spread](../l/long_butterfly_spread.md) is set up by purchasing a lower strike option, selling two middle strike [options](../o/options.md), and purchasing a higher strike option. This strategy results in a net [debit](../d/debit.md) initially paid out, but offers a high reward-to-[risk](../r/risk.md) ratio if the [underlying asset](../u/underlying_asset.md)'s price is around the middle [strike price](../s/strike_price.md) at expiration.
 
 ### Short Butterfly Spread
 
@@ -44,10 +44,10 @@ In contrast, a [short butterfly spread](../s/short_butterfly_spread.md) involves
 ## Example with Real Companies
 
 To delve deeper into how butterfly [spreads](../s/spreads.md) work in a real-world context, you can consider visiting [options](../o/options.md) strategies resources from top trading platforms:
-- [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f= trading&ib_entity=llc)
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [E*TRADE](https://us.etrade.com/home)
-- [Charles Schwab](https://www.schwab.com)
+- Interactive Brokers
+- Thinkorswim by TD Ameritrade
+- E*TRADE
+- Charles Schwab
 
 These platforms often provide educational resources, tools, and simulators that can help you practice setting up butterfly [spreads](../s/spreads.md) and other [options](../o/options.md) strategies.
 
@@ -70,4 +70,4 @@ An [iron butterfly](../i/iron_butterfly.md) involves both calls and puts. It is 
 
 Butterfly spread is a powerful [options](../o/options.md) [trading strategy](../t/trading_strategy.md) apt for traders anticipating a [neutral](../n/neutral.md) [market](../m/market.md). While the strategy capably limits [risk](../r/risk.md) and can [offer](../o/offer.md) a rewarding payoff if executed meticulously, it requires a deep understanding of the [market](../m/market.md), precise timing, and choice of strike prices. By leveraging the resources and tools available at reputable trading platforms, traders can enhance their strategies and optimize their potential returns.
 
-For a more comprehensive understanding and hands-on practice, visit the websites of reputable trading platforms mentioned above, which [offer](../o/offer.md) detailed guides and educational materials on butterfly [spreads](../s/spreads.md) and other [options trading strategies](../o/options_trading_strategies.md).
+For a more comprehensive understanding and hands-on practice, visit the websites of reputable trading platforms mentioned above, which [offer](../o/offer.md) detailed guides and educational materials on butterfly [spreads](../s/spreads.md) and other [options trading strategies](../o/options_trading_strategies.md).

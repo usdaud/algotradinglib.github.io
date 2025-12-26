@@ -61,19 +61,19 @@ Government-backed ECAs may face fiscal constraints, particularly during economic
 ## Examples of Export Credit Agencies
 
 ### 1. Export-Import Bank of the United States (EXIM)
-[EXIM](https://www.exim.gov) is an official ECA that provides [financing](../f/financing.md) and [insurance](../i/insurance.md) to support U.S. [export](../e/export.md) businesses. It offers working [capital](../c/capital.md) guarantees, [export](../e/export.md) [credit](../c/credit.md) [insurance](../i/insurance.md), and [loan](../l/loan.md) guarantees to help American companies compete globally.
+EXIM is an official ECA that provides [financing](../f/financing.md) and [insurance](../i/insurance.md) to support U.S. [export](../e/export.md) businesses. It offers working [capital](../c/capital.md) guarantees, [export](../e/export.md) [credit](../c/credit.md) [insurance](../i/insurance.md), and [loan](../l/loan.md) guarantees to help American companies compete globally.
 
 ### 2. UK Export Finance (UKEF)
-[UKEF](https://www.gov.uk/government/organisations/uk-export-finance) is the United Kingdom's [export](../e/export.md) [credit](../c/credit.md) agency, [offering](../o/offering.md) a [range](../r/range.md) of products such as [insurance](../i/insurance.md), guarantees, and loans to support UK exporters. UKEF also provides [market](../m/market.md) intelligence and advisory services.
+UKEF is the United Kingdom's [export](../e/export.md) [credit](../c/credit.md) agency, [offering](../o/offering.md) a [range](../r/range.md) of products such as [insurance](../i/insurance.md), guarantees, and loans to support UK exporters. UKEF also provides [market](../m/market.md) intelligence and advisory services.
 
 ### 3. Euler Hermes
-[Euler Hermes](https://www.eulerhermes.com) is a private [export](../e/export.md) [credit](../c/credit.md) agency and a subsidiary of Allianz. It provides [credit](../c/credit.md) [insurance](../i/insurance.md), bonding, and guarantees to support global [trade](../t/trade.md).
+Euler Hermes is a private [export](../e/export.md) [credit](../c/credit.md) agency and a subsidiary of Allianz. It provides [credit](../c/credit.md) [insurance](../i/insurance.md), bonding, and guarantees to support global [trade](../t/trade.md).
 
 ### 4. Coface
-[Coface](https://www.coface.com) is a private ECA that offers [credit](../c/credit.md) [insurance](../i/insurance.md) and [risk management](../r/risk_management.md) solutions to companies worldwide. It provides products to help businesses protect against the risks of non-[payment](../p/payment.md) and facilitate international [trade](../t/trade.md).
+Coface is a private ECA that offers [credit](../c/credit.md) [insurance](../i/insurance.md) and [risk management](../r/risk_management.md) solutions to companies worldwide. It provides products to help businesses protect against the risks of non-[payment](../p/payment.md) and facilitate international [trade](../t/trade.md).
 
 ### 5. Export Development Canada (EDC)
-[EDC](https://www.edc.ca) is Canada's official [export](../e/export.md) [credit](../c/credit.md) agency, providing [financing](../f/financing.md), [insurance](../i/insurance.md), and bonding solutions to Canadian exporters and investors. EDC also offers [market](../m/market.md) intelligence and advisory services.
+EDC is Canada's official [export](../e/export.md) [credit](../c/credit.md) agency, providing [financing](../f/financing.md), [insurance](../i/insurance.md), and bonding solutions to Canadian exporters and investors. EDC also offers [market](../m/market.md) intelligence and advisory services.
 
 ## Conclusion
 

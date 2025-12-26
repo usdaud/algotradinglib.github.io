@@ -19,7 +19,7 @@ MPT introduces the [efficient frontier](../e/efficient_frontier.md), a curve rep
 ### Capital Asset Pricing Model (CAPM)
 CAPM extends MPT by introducing [market](../m/market.md) [equilibrium](../e/equilibrium.md). It postulates that the [expected return](../e/expected_return.md) on an [asset](../a/asset.md) depends on its [systematic risk](../s/systematic_risk.md) ([beta](../b/beta.md)), as compared to the overall [market](../m/market.md):
 
-    E(R_i) = R_f + β_i [E(R_m) - R_f]
+ E(R_i) = R_f + β_i [E(R_m) - R_f]
 
 where:
 - \( E(R_i) \) = [expected return](../e/expected_return.md) of [asset](../a/asset.md) \( i \)
@@ -71,31 +71,31 @@ Statistical [arbitrage](../a/arbitrage.md) (stat-arb) leverages statistical mode
 - **C++:** Used for high-frequency trading due to its performance and [efficiency](../e/efficiency.md).
 
 ### Software Platforms
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#, F#, Python, and R. [QuantConnect](https://www.quantconnect.com/)
-- **[Quantlib](../q/quantlib.md):** A comprehensive library for [quantitative finance](../q/quantitative_finance.md). [Quantlib](https://www.quantlib.org/)
-- **MATLAB [Finance](../f/finance.md) Toolbox:** Provides extensive tools for designing and [backtesting](../b/backtesting.md) [quantitative strategies](../q/quantitative_strategies_in_trading.md). [MathWorks Finance Toolbox](https://www.mathworks.com/products/finance.html)
+- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform supporting C#, F#, Python, and R. QuantConnect
+- **[Quantlib](../q/quantlib.md):** A comprehensive library for [quantitative finance](../q/quantitative_finance.md). Quantlib
+- **MATLAB [Finance](../f/finance.md) Toolbox:** Provides extensive tools for designing and [backtesting](../b/backtesting.md) [quantitative strategies](../q/quantitative_strategies_in_trading.md). MathWorks Finance Toolbox
 
 ### Data Providers
-- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive data, analytics, and trading tools. [Bloomberg](https://www.bloomberg.com/professional/solution/data-and-content/)
-- **Thomson [Reuters](../r/reuters.md) Eikon:** Provides news, [real-time market data](../r/real-time_market_data.md), and analytics. [Refinitiv Eikon](https://eikon.thomsonreuters.com/)
-- **[Quandl](../q/quandl.md):** Supplies financial, economic, and [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md). [Quandl](https://www.quandl.com/)
+- **[Bloomberg](../b/bloomberg.md) Terminal:** Offers comprehensive data, analytics, and trading tools. Bloomberg
+- **Thomson [Reuters](../r/reuters.md) Eikon:** Provides news, [real-time market data](../r/real-time_market_data.md), and analytics. Refinitiv Eikon
+- **[Quandl](../q/quandl.md):** Supplies financial, economic, and [alternative data](../a/alternative_data.md) for [financial modeling](../f/financial_modeling.md). Quandl
 
 ## Notable Companies
 
 ### Renaissance Technologies
-Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), known for its Medallion [Fund](../f/fund.md). RenTech employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md). [Renaissance Technologies](https://www.rentec.com/)
+Founded by Jim Simons, Renaissance Technologies is one of the most successful [quantitative hedge funds](../q/quantitative_hedge_funds.md), known for its Medallion [Fund](../f/fund.md). RenTech employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-frequency [trading strategies](../t/trading_strategies.md). Renaissance Technologies
 
 ### Two Sigma
-Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and large datasets to create sophisticated investment strategies. It emphasizes a scientific approach to [financial markets](../f/financial_market.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and large datasets to create sophisticated investment strategies. It emphasizes a scientific approach to [financial markets](../f/financial_market.md). Two Sigma
 
 ### D.E. Shaw
-Founded by David E. Shaw, this [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) and [proprietary algorithms](../p/proprietary_algorithms.md) to manage [hedge](../h/hedge.md) funds and other investment products. [D.E. Shaw](https://www.deshaw.com/)
+Founded by David E. Shaw, this [firm](../f/firm.md) uses [quantitative models](../q/quantitative_models.md) and [proprietary algorithms](../p/proprietary_algorithms.md) to manage [hedge](../h/hedge.md) funds and other investment products. D.E. Shaw
 
 ### AQR Capital Management
-AQR (Applied [Quantitative Research](../q/quantitative_research.md)) [Capital](../c/capital.md) Management employs a systematic approach to deliver diversified investment solutions across [asset](../a/asset.md) classes. [AQR](https://www.aqr.com/)
+AQR (Applied [Quantitative Research](../q/quantitative_research.md)) [Capital](../c/capital.md) Management employs a systematic approach to deliver diversified investment solutions across [asset](../a/asset.md) classes. AQR
 
 ### Citadel
-Founded by Ken Griffin, Citadel uses [quantitative research](../q/quantitative_research.md), technology, and data analysis to manage multi-strategy [hedge](../h/hedge.md) funds. [Citadel](https://www.citadel.com/)
+Founded by Ken Griffin, Citadel uses [quantitative research](../q/quantitative_research.md), technology, and data analysis to manage multi-strategy [hedge](../h/hedge.md) funds. Citadel
 
 ## Risk Management in Quantitative Strategies
 

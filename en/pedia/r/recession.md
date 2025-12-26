@@ -60,7 +60,7 @@ Businesses often experience a decline in profits due to reduced consumer spendin
 Recessions often result in lower property values, reduced construction activity, and higher [foreclosure](../f/foreclosure.md) rates, significantly impacting the [real estate](../r/real_estate.md) [market](../m/market.md).
 
 ### Increased Poverty and Inequality
-Economic downturns typically result in increased [poverty](../p/poverty.md) and inequality, as job losses and reduced social services disproportionately affect low-[income](../i/income.md) households. 
+Economic downturns typically result in increased [poverty](../p/poverty.md) and inequality, as job losses and reduced social services disproportionately affect low-[income](../i/income.md) households.
 
 ### Higher Government Debt
 Governments frequently respond to recessions by increasing spending to stimulate the [economy](../e/economy.md), which can lead to higher levels of national [debt](../d/debt.md). Temporary measures such as tax cuts or stimulus packages also contribute to the growing [debt](../d/debt.md) levels.

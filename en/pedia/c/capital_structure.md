@@ -5,12 +5,12 @@
 ### Components of Capital Structure
 
 1. **[Equity](../e/equity.md) [Capital](../c/capital.md)**: This represents the ownership stake in the company and typically consists of [common stock](../c/common_stock.md) and [preferred stock](../p/preferred_stock.md).
-   * **[Common Stock](../c/common_stock.md)**: [Equity](../e/equity.md) [shares](../s/shares.md) that represent ownership in a company. Shareholders have voting rights and are entitled to dividends.
-   * **[Preferred Stock](../p/preferred_stock.md)**: A type of [equity](../e/equity.md) that has characteristics of both [debt](../d/debt.md) and common [equity](../e/equity.md). Preferred shareholders have a higher claim on assets and [earnings](../e/earnings.md) than common shareholders and typically receive dividends before common shareholders.
+ * **[Common Stock](../c/common_stock.md)**: [Equity](../e/equity.md) [shares](../s/shares.md) that represent ownership in a company. Shareholders have voting rights and are entitled to dividends.
+ * **[Preferred Stock](../p/preferred_stock.md)**: A type of [equity](../e/equity.md) that has characteristics of both [debt](../d/debt.md) and common [equity](../e/equity.md). Preferred shareholders have a higher claim on assets and [earnings](../e/earnings.md) than common shareholders and typically receive dividends before common shareholders.
 
 2. **[Debt](../d/debt.md) [Capital](../c/capital.md)**: Borrowed funds that the company must repay with [interest](../i/interest.md). [Debt](../d/debt.md) can take several forms:
-   * **Traditional [Debt](../d/debt.md)**: Loans, bonds, and other long-term [obligations](../o/obligation.md).
-   * **[Short-term Debt](../s/short-term_debt.md)**: [Credit](../c/credit.md) lines and other short-term borrowings.
+ * **Traditional [Debt](../d/debt.md)**: Loans, bonds, and other long-term [obligations](../o/obligation.md).
+ * **[Short-term Debt](../s/short-term_debt.md)**: [Credit](../c/credit.md) lines and other short-term borrowings.
 
 3. **Hybrid Instruments**: Financial instruments that contain characteristics of both [debt](../d/debt.md) and [equity](../e/equity.md), such as convertible bonds and preferred [equity](../e/equity.md).
 
@@ -47,8 +47,6 @@ Management of a company's [capital](../c/capital.md) structure involves strategi
 
 ### Real-world Examples
 
-- **Apple Inc.**: Known for having a significant amount of both [debt](../d/debt.md) and cash reserves, Apple optimizes its [capital](../c/capital.md) structure to minimize the [cost of capital](../c/cost_of_capital.md) and maximize [shareholder](../s/shareholder.md) returns. [Apple Investor Relations](https://investor.apple.com/)
-- **General Electric (GE)**: Historically had a complex [capital](../c/capital.md) structure with a mix of [debt](../d/debt.md) and [equity](../e/equity.md), indicative of its various [business](../b/business.md) segments and strategic [financial planning](../f/financial_planning.md). [GE Investor Relations](https://www.ge.com/investor-relations)
 
 ### Conclusion
 

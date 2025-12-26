@@ -15,14 +15,14 @@ The establishment of [Euronext](../e/euronext.md), combining stock exchanges fro
 
 ## Organizational Structure
 ### Corporate Governance
-[Euronext](../e/euronext.md) Amsterdam operates under the larger umbrella of [Euronext](../e/euronext.md) N.V., with a centralized management structure that ensures consistency across its various markets. It is governed by a Board of Directors and an Executive Committee responsible for day-to-day operations and strategic decision-making. 
+[Euronext](../e/euronext.md) Amsterdam operates under the larger umbrella of [Euronext](../e/euronext.md) N.V., with a centralized management structure that ensures consistency across its various markets. It is governed by a Board of Directors and an Executive Committee responsible for day-to-day operations and strategic decision-making.
 
 ### Regulatory Framework
 The [exchange](../e/exchange.md) operates under the regulations set forth by the AFM (Autoriteit Financiële Markten) and the DNB (De Nederlandsche [Bank](../b/bank.md)). It is also subject to European financial regulations, including [MiFID II](../m/mifid_ii.md), which aims to increase [transparency](../t/transparency.md) and [investor](../i/investor.md) protection in the securities markets.
 
 ## Trading Platforms and Technology
 ### State-of-the-Art Technologies
-[Euronext](../e/euronext.md) Amsterdam utilizes the Universal [Trading Platform](../t/trading_platform.md) (UTP) to facilitate high-speed, low-latency trading activities. The platform supports various types of financial instruments, including equities, bonds, [derivatives](../d/derivatives.md), and ETFs. 
+[Euronext](../e/euronext.md) Amsterdam utilizes the Universal [Trading Platform](../t/trading_platform.md) (UTP) to facilitate high-speed, low-latency trading activities. The platform supports various types of financial instruments, including equities, bonds, [derivatives](../d/derivatives.md), and ETFs.
 
 ### Connectivity and Access
 The [exchange](../e/exchange.md) provides [robust](../r/robust.md) connectivity [options](../o/options.md), including co-location services, allowing trading firms to place their servers in the same data centers as [Euronext](../e/euronext.md)'s trading engines. This minimizes latency and ensures rapid [order](../o/order.md) [execution](../e/execution.md), crucial for high-frequency trading (HFT) strategies.
@@ -70,5 +70,4 @@ Recent technological advancements include [blockchain](../b/blockchain_in_tradin
 ## Conclusion
 [Euronext](../e/euronext.md) Amsterdam is a cornerstone of the European [financial system](../f/financial_system.md), [offering](../o/offering.md) a wide array of financial instruments and [robust](../r/robust.md) trading [infrastructure](../i/infrastructure.md). Its rich history, coupled with modern technological and regulatory frameworks, make it a dynamic and vital component of the global [financial markets](../f/financial_market.md).
 
-For more information, you can visit the official [Euronext](../e/euronext.md) Amsterdam website [here](https://www.euronext.com/en/markets/amsterdam).
-
+For more information, you can visit the official [Euronext](../e/euronext.md) Amsterdam online platform here.

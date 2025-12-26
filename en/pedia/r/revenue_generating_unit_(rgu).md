@@ -55,15 +55,15 @@ Where:
 
 ### Telecom Industry
 
-In the telecom sector, RGUs are vital for tracking the performance of various offerings such as mobile, broadband, and fixed-line services. Companies like **AT&T** (https://www.att.com/) and **Verizon** (https://www.verizon.com/) rely heavily on RGU metrics to measure user engagement and service uptake. These metrics help them optimize their product bundles and pricing strategies to maximize [revenue](../r/revenue.md).
+In the telecom sector, RGUs are vital for tracking the performance of various offerings such as mobile, broadband, and fixed-line services. Companies like **AT&T** ( and **Verizon** ( rely heavily on RGU metrics to measure user engagement and service uptake. These metrics help them optimize their product bundles and pricing strategies to maximize [revenue](../r/revenue.md).
 
 ### Media and Entertainment
 
-For companies like **Netflix** (https://www.netflix.com/) and **Spotify** (https://www.spotify.com/), RGUs represent the number of active subscriptions. By monitoring RGUs, these firms can better understand [customer](../c/customer.md) viewing or listening habits, personalize recommendations, and improve user retention strategies.
+For companies like **Netflix** ( and **Spotify** ( RGUs represent the number of active subscriptions. By monitoring RGUs, these firms can better understand [customer](../c/customer.md) viewing or listening habits, personalize recommendations, and improve user retention strategies.
 
 ### Financial Services
 
-Banks and financial institutions also use RGUs, albeit in a slightly different manner. [Multiple](../m/multiple.md) products such as [credit](../c/credit.md) cards, loans, and [insurance](../i/insurance.md) policies are each counted as an RGU. Companies like **[Bank](../b/bank.md) of America** (https://www.bankofamerica.com/) and **Wells Fargo** (https://www.wellsfargo.com/) track RGUs to evaluate cross-selling opportunities and [customer](../c/customer.md) satisfaction levels.
+Banks and financial institutions also use RGUs, albeit in a slightly different manner. [Multiple](../m/multiple.md) products such as [credit](../c/credit.md) cards, loans, and [insurance](../i/insurance.md) policies are each counted as an RGU. Companies like **[Bank](../b/bank.md) of America** ( and **Wells Fargo** ( track RGUs to evaluate cross-selling opportunities and [customer](../c/customer.md) satisfaction levels.
 
 ## Challenges in RGU Measurement
 

@@ -66,37 +66,29 @@ Calendar [spreads](../s/spreads.md), or time [spreads](../s/spreads.md), involve
 
 ## Tools and Platforms for Volatility Strategies
 
-Several sophisticated platforms and tools can assist traders in implementing and managing option [volatility](../v/volatility.md) strategies. 
+Several sophisticated platforms and tools can assist traders in implementing and managing option [volatility](../v/volatility.md) strategies.
 
 ### Trading Platforms
 
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced platform [offering](../o/offering.md) powerful tools for [options](../o/options.md) trading, including analysis and strategy building.
-  - Website: [Thinkorswim](https://www.thinkorswim.com)
-  
+
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Known for low-cost trading, it offers extensive tools for [options](../o/options.md) traders.
-  - Website: [Interactive Brokers](https://www.interactivebrokers.com)
-  
+
 - **Tastyworks**: Focused specifically on [options](../o/options.md) trading with an intuitive interface and competitive [commission](../c/commission.md) structure.
-  - Website: [Tastyworks](https://www.tastyworks.com)
 
 ### Analytical Tools
 
 - **OptionVue**: Provides comprehensive option analytics and trading tools.
-  - Website: [OptionVue](https://www.optionvue.com)
 
 - **[TradeStation](../t/tradestation.md)**: Offers [robust](../r/robust.md) analytics features and a powerful [trading platform](../t/trading_platform.md).
-  - Website: [TradeStation](https://www.tradestation.com)
 
 - **[LiveVol](../l/livevol.md) X**: An advanced [volatility](../v/volatility.md) platform to analyze and [trade](../t/trade.md) [options](../o/options.md).
-  - Website: [LiveVol](https://www.livevol.com/livevol-x)
 
 ### Educational Resources
 
 - **[Options](../o/options.md) [Industry](../i/industry.md) Council (OIC)**: Provides educational resources for [options](../o/options.md) traders ranging from beginner to advanced.
-  - Website: [OIC](https://www.optionseducation.org)
 
 - **CBOE**: Offers extensive educational materials on [options](../o/options.md) and [volatility](../v/volatility.md) trading.
-  - Website: [CBOE](https://www.cboe.com)
 
 ## Conclusion
 

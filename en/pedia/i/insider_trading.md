@@ -62,4 +62,4 @@ The case of Martha Stewart, who was convicted in 2004 for her involvement in an 
 
 Insider trading remains a significant concern in the [financial markets](../f/financial_market.md), attracting scrutiny from regulators, corporations, and investors. While legal insider trading is a legitimate activity that promotes [transparency](../t/transparency.md), illegal insider trading undermines [market](../m/market.md) integrity and fairness. Continuous efforts by regulatory bodies, [robust](../r/robust.md) compliance programs, and ethical behavior by corporate insiders are essential to combating this [issue](../i/issue.md) and maintaining the [trust](../t/trust.md) and [efficiency](../e/efficiency.md) of [financial markets](../f/financial_market.md).
 
-For further information, you can visit the [U.S. Securities and Exchange Commission (SEC) website](https://www.sec.gov/) and [Financial Conduct Authority (FCA) website](https://www.fca.org.uk/).
+For further information, you can visit the U.S. Securities and Exchange Commission (SEC)

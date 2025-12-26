@@ -4,21 +4,21 @@ ISO [currency](../c/currency.md) codes, also known as ISO 4217 codes, are a set 
 
 ## Understanding ISO 4217
 
-ISO 4217 is the international standard for [currency](../c/currency.md) codes. Each [currency](../c/currency.md) is assigned a unique three-letter code, typically comprising two letters from the ISO 3166-1 [alpha](../a/alpha.md)-2 country code and an additional letter identifying the [currency](../c/currency.md) (e.g., USD for United States Dollar). Besides the alphabetic code, ISO 4217 also assigns numeric codes to each [currency](../c/currency.md) for computational ease.
+ISO 4217 is the international standard for [currency](../c/currency.md) codes. Each [currency](../c/currency.md) is assigned a unique three-letter code, typically comprising two letters from the ISO 3166-1 alpha-2 country code and an additional letter identifying the [currency](../c/currency.md) (e.g., USD for United States Dollar). Besides the alphabetic code, ISO 4217 also assigns numeric codes to each [currency](../c/currency.md) for computational ease.
 
 ### Components of ISO 4217 Codes
 
 1. **Alphabetic Code**:
-   - A three-letter code that uniquely identifies a [currency](../c/currency.md).
-   - For example, GBP (Great Britain Pound), EUR ([Euro](../e/euro.md)), JPY (Japanese Yen).
+ - A three-letter code that uniquely identifies a [currency](../c/currency.md).
+ - For example, GBP (Great Britain Pound), EUR ([Euro](../e/euro.md)), JPY (Japanese Yen).
 
 2. **Numeric Code**:
-   - A three-digit number that can be used in automated systems and electronic communication.
-   - For instance, the numeric code for USD is 840, for EUR it is 978, and for JPY it is 392.
+ - A three-digit number that can be used in automated systems and electronic communication.
+ - For instance, the numeric code for USD is 840, for EUR it is 978, and for JPY it is 392.
 
 3. **Minor Unit**:
-   - Represents the subdivision of the [currency](../c/currency.md), often used to indicate cents or pence.
-   - For example, 1 USD = 100 cents, 1 GBP = 100 pence.
+ - Represents the subdivision of the [currency](../c/currency.md), often used to indicate cents or pence.
+ - For example, 1 USD = 100 cents, 1 GBP = 100 pence.
 
 ## Importance in Algo Trading
 
@@ -27,16 +27,16 @@ Algo trading involves executing trades using automated systems based on pre-defi
 ### Key Areas of Application
 
 1. **Forex Trading**:
-   - Forex ([foreign exchange](../f/foreign_exchange.md)) trading is a primary area where ISO [currency](../c/currency.md) codes are essential.
-   - [Trading algorithms](../t/trading_algorithms.md) that deal with [currency](../c/currency.md) pairs (e.g., EUR/USD, GBP/JPY) rely heavily on these codes to execute trades accurately.
+ - Forex ([foreign exchange](../f/foreign_exchange.md)) trading is a primary area where ISO [currency](../c/currency.md) codes are essential.
+ - [Trading algorithms](../t/trading_algorithms.md) that deal with [currency](../c/currency.md) pairs (e.g., EUR/USD, GBP/JPY) rely heavily on these codes to execute trades accurately.
 
 2. **Multi-[Currency](../c/currency.md) Portfolios**:
-   - Investors often [hold](../h/hold.md) portfolios consisting of assets denominated in various currencies.
-   - ISO [currency](../c/currency.md) codes allow for seamless management and reporting of these assets.
+ - Investors often [hold](../h/hold.md) portfolios consisting of assets denominated in various currencies.
+ - ISO [currency](../c/currency.md) codes allow for seamless management and reporting of these assets.
 
 3. **International Transactions**:
-   - Companies and financial institutions engage in cross-border transactions requiring precise [currency](../c/currency.md) identification.
-   - Algorithms used to optimize these transactions depend on ISO [currency](../c/currency.md) codes for accurate conversion and processing.
+ - Companies and financial institutions engage in cross-border transactions requiring precise [currency](../c/currency.md) identification.
+ - Algorithms used to optimize these transactions depend on ISO [currency](../c/currency.md) codes for accurate conversion and processing.
 
 ## Practical Implementation
 
@@ -127,9 +127,9 @@ This code uses ISO codes to track and print the exposure to different currencies
 
 ### Comprehensive List
 
-A comprehensive list of ISO 4217 codes can be found on the official website of the International Organization for Standardization:
+A comprehensive list of ISO 4217 codes can be found on the public materials of the International Organization for Standardization:
 
-- [ISO 4217 Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
+- ISO 4217 Currency Codes
 
 This list includes all active and historical currencies, their alphabetic and numeric codes, and minor units.
 

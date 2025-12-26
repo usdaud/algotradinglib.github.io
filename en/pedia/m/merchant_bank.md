@@ -32,18 +32,18 @@ Merchant banks often play a crucial role in Initial Public Offerings (IPOs), whe
 
 ## Difference from Investment Banks
 
-Merchant banks and [investment banks](../i/investment_bank_(ib).md) often appear to [offer](../o/offer.md) similar services but have distinct differences. While [investment banks](../i/investment_bank_(ib).md) focus more on [underwriting](../u/underwriting.md) and trading securities, merchant banks provide a broader [range](../r/range.md) of services including [private equity](../p/private_equity.md) investment, syndicated loans, and advisory services for mergers and acquisitions. 
+Merchant banks and [investment banks](../i/investment_bank_(ib).md) often appear to [offer](../o/offer.md) similar services but have distinct differences. While [investment banks](../i/investment_bank_(ib).md) focus more on [underwriting](../u/underwriting.md) and trading securities, merchant banks provide a broader [range](../r/range.md) of services including [private equity](../p/private_equity.md) investment, syndicated loans, and advisory services for mergers and acquisitions.
 
-## Key Players 
+## Key Players
 
 ### Rothschild & Co
-Known as one of the world's leading financial advisory groups, Rothschild offers a comprehensive [range](../r/range.md) of services in M&A, [restructuring](../r/restructuring.md), and strategic advisory across the globe. More about them can be found [here](https://www.rothschildandco.com/).
+Known as one of the world's leading financial advisory groups, Rothschild offers a comprehensive [range](../r/range.md) of services in M&A, [restructuring](../r/restructuring.md), and strategic advisory across the globe. More about them can be found here.
 
 ### J.P. Morgan
-A global leader in financial services, J.P. Morgan provides solutions in [investment banking](../i/investment_banking.md), equities, [fixed income](../f/fixed_income.md), commodities, and [wealth management](../w/wealth_management.md). Visit their website for more information [here](https://www.jpmorgan.com/).
+A global leader in financial services, J.P. Morgan provides solutions in [investment banking](../i/investment_banking.md), equities, [fixed income](../f/fixed_income.md), commodities, and [wealth management](../w/wealth_management.md).
 
 ### Goldman Sachs
-Known for its expertise in [asset management](../a/asset_management.md), mergers and acquisitions, and a full [range](../r/range.md) of [investment banking](../i/investment_banking.md) services, Goldman Sachs has a significant impact on the global [financial sector](../f/financial_sector.md). More details are available [here](https://www.goldmansachs.com/).
+Known for its expertise in [asset management](../a/asset_management.md), mergers and acquisitions, and a full [range](../r/range.md) of [investment banking](../i/investment_banking.md) services, Goldman Sachs has a significant impact on the global [financial sector](../f/financial_sector.md). More details are available here.
 
 ## Regulation and Compliance
 
@@ -57,7 +57,7 @@ The integration of Fintech solutions in the realm of merchant banking has proven
 
 ### Algorithmic Trading
 
-Merchant banks are increasingly leveraging [algorithmic trading](../a/accountability.md) for executing large orders efficiently. Algorithms can analyze [multiple](../m/multiple.md) [market](../m/market.md) variables in real-time, providing opportunities for [arbitrage](../a/arbitrage.md) and minimizing the impact on [market](../m/market.md) prices. This is particularly beneficial in handling large-scale transactions and managing portfolios.
+Merchant banks are increasingly leveraging [algorithmic trading](../a/algorithmic_trading.md) for executing large orders efficiently. Algorithms can analyze [multiple](../m/multiple.md) [market](../m/market.md) variables in real-time, providing opportunities for [arbitrage](../a/arbitrage.md) and minimizing the impact on [market](../m/market.md) prices. This is particularly beneficial in handling large-scale transactions and managing portfolios.
 
 ### Data Analytics
 

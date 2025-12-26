@@ -42,11 +42,11 @@ Recent advancements in [machine learning](../m/machine_learning.md) and [artific
 
 Several firms are renowned for their expertise in quantitative investment strategies. These firms employ teams of quants—professionals with backgrounds in mathematics, [statistics](../s/statistics.md), and computer science. Here are a few prominent companies:
 
-- **Two Sigma Investments** [(Two Sigma Investments)](https://www.twosigma.com) is a New York-based [hedge fund](../h/hedge_fund.md) that specializes in [systematic trading](../s/systematic_trading.md) and employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to develop its investment strategies.
+- **Two Sigma Investments** (Two Sigma Investments) is a New York-based [hedge fund](../h/hedge_fund.md) that specializes in [systematic trading](../s/systematic_trading.md) and employs [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and distributed computing to develop its investment strategies.
 
-- **Renaissance Technologies** [(Renaissance Technologies)](https://www.rentec.com) is another prominent [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which is famous for its exceptional returns. The [firm](../f/firm.md) relies heavily on [quantitative models](../q/quantitative_models.md) developed by a team of scientists and engineers.
+- **Renaissance Technologies** (Renaissance Technologies) is another prominent [hedge fund](../h/hedge_fund.md) known for its Medallion [Fund](../f/fund.md), which is famous for its exceptional returns. The [firm](../f/firm.md) relies heavily on [quantitative models](../q/quantitative_models.md) developed by a team of scientists and engineers.
 
-- **DE Shaw & Co** [(DE Shaw & Co)](https://www.deshaw.com) is a global investment and technology development [firm](../f/firm.md) that uses [quantitative models](../q/quantitative_models.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
+- **DE Shaw & Co** (DE Shaw & Co) is a global investment and technology development [firm](../f/firm.md) that uses [quantitative models](../q/quantitative_models.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies.
 
 ## Mathematical Models and Techniques
 

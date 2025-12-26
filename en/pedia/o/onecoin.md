@@ -63,5 +63,3 @@ Investigations and legal proceedings have led to the seizure of millions of doll
 ## Conclusion
 
 OneCoin's case emphasizes the need for increased vigilance and regulatory oversight in the rapidly evolving world of cryptocurrency and investment schemes. The allure of quick, high returns can cloud [judgment](../j/judgment.md), but potential investors must conduct thorough [due diligence](../d/due_diligence.md) to avoid being victimized by fraudulent schemes. The saga of OneCoin continues to unfold, with national and international authorities still on the hunt for Ruja Ignatova and other key figures involved in the scam.
-
-For more information on Ruja Ignatova and the OneCoin investigation, you can visit the official FBI page dedicated to her [here](https://www.fbi.gov/wanted/topten/ruja-ignatova).

@@ -68,7 +68,7 @@ The forfaiting [market](../m/market.md) involves various financial institutions,
 
 ### ITFA
 
-The International [Trade](../t/trade.md) and Forfaiting Association (ITFA) [Website](https://itfa.org/) is a collective organization aimed at promoting [best practices](../b/best_practices.md) and education among its members. ITFA provides a platform for members to network, share knowledge, and collaborate on [trade finance](../t/trade_finance.md) transactions, ensuring that the [market](../m/market.md) operates efficiently and transparently.
+The International [Trade](../t/trade.md) and Forfaiting Association (ITFA) online platform is a collective organization aimed at promoting [best practices](../b/best_practices.md) and education among its members. ITFA provides a platform for members to network, share knowledge, and collaborate on [trade finance](../t/trade_finance.md) transactions, ensuring that the [market](../m/market.md) operates efficiently and transparently.
 
 ## Comparison to Similar Financial Instruments
 

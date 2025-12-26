@@ -28,4 +28,3 @@
 
 ## Conclusion
 Ultima is a higher-[order](../o/order.md) Greek used in [options](../o/options.md) trading to measure the sensitivity of [vega](../v/vega.md) to changes in [volatility](../v/volatility.md). It provides advanced insights into the behavior of [options](../o/options.md) and is essential for managing complex portfolios and mitigating risks associated with [volatility](../v/volatility.md). Understanding and effectively utilizing ultima requires advanced knowledge of [options](../o/options.md) pricing and continuous monitoring of [market](../m/market.md) conditions to optimize [trading strategies](../t/trading_strategies.md) and [risk management](../r/risk_management.md) practices.
-

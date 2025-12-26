@@ -1,6 +1,6 @@
 # Zero Bound Rate Strategies
 
-Zero Bound Rate Strategies refer to the suite of investment and trading methodologies tailored for economic environments where central [bank](../b/bank.md) [interest](../i/interest.md) rates are at or near zero. These strategies have gained prominence in the wake of the global [financial crisis](../f/financial_crisis.md) in 2008 and the COVID-19 pandemic, both of which saw central banks worldwide, such as the Federal Reserve, the European Central [Bank](../b/bank.md), and the [Bank](../b/bank.md) of Japan, driving [interest](../i/interest.md) rates down to stimulate economic activity. 
+Zero Bound Rate Strategies refer to the suite of investment and trading methodologies tailored for economic environments where central [bank](../b/bank.md) [interest](../i/interest.md) rates are at or near zero. These strategies have gained prominence in the wake of the global [financial crisis](../f/financial_crisis.md) in 2008 and the COVID-19 pandemic, both of which saw central banks worldwide, such as the Federal Reserve, the European Central [Bank](../b/bank.md), and the [Bank](../b/bank.md) of Japan, driving [interest](../i/interest.md) rates down to stimulate economic activity.
 
 In such scenarios, traditional [monetary policy](../m/monetary_policy.md) tools become less effective, prompting the need for innovative financial strategies. This document provides an extensive exploration of Zero Bound Rate Strategies, focusing on their theoretical underpinnings, practical implementations, and the implications for [risk management](../r/risk_management.md) and trading.
 
@@ -71,8 +71,8 @@ Advanced technological and analytical tools are crucial for optimizing Zero Boun
 
 Several companies specialize in providing the necessary technological [infrastructure](../i/infrastructure.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) capabilities. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **Numerai**: Utilizes [machine learning](../m/machine_learning.md) models to crowdsource investment strategies from data scientists worldwide. (https://numer.ai/)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) capabilities. (
+- **Numerai**: Utilizes [machine learning](../m/machine_learning.md) models to crowdsource investment strategies from data scientists worldwide. (
 
 ### Conclusion
 

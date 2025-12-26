@@ -37,7 +37,7 @@ These coins are typically minted with designs showcasing the islands' maritime h
 ## Issuing Authority
 
 ### Cayman Islands Monetary Authority (CIMA)
-The Cayman Islands Monetary Authority (CIMA) is the official entity responsible for issuing and regulating the Cayman Islands Dollar. Established in 1997, CIMA oversees the [monetary policy](../m/monetary_policy.md), maintains [currency](../c/currency.md) reserves, and ensures [financial system](../f/financial_system.md) stability. For more information, you can visit their [official website](https://www.cima.ky/).
+The Cayman Islands Monetary Authority (CIMA) is the official entity responsible for issuing and regulating the Cayman Islands Dollar. Established in 1997, CIMA oversees the [monetary policy](../m/monetary_policy.md), maintains [currency](../c/currency.md) reserves, and ensures [financial system](../f/financial_system.md) stability.
 
 ## Economic Significance
 

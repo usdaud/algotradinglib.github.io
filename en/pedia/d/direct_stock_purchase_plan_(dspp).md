@@ -12,12 +12,12 @@ In a DSPP, the company either administers the plan itself or hires a third-party
 
 ### Enrollment and Purchase Process
 
-1. **Enrollment:** To enroll in a DSPP, investors usually need to complete an application form available on the company's website or through its [transfer agent](../t/transfer_agent.md). Some companies may charge an initial setup [fee](../f/fee.md), but many do not.
-   
+1. **Enrollment../t/transfer_agent.md). Some companies may charge an initial setup [fee](../f/fee.md), but many do not.
+
 2. **Funding:** After enrolling, investors must [fund](../f/fund.md) their accounts. This can be done through a one-time [payment](../p/payment.md) or via regular automatic deductions from their [bank](../b/bank.md) accounts.
-   
+
 3. **Purchasing [Shares](../s/shares.md):** The company or its agent [will](../w/will.md) pool the funds from all participating investors and purchase [shares](../s/shares.md) at predetermined intervals (e.g., weekly or monthly). Purchases are usually made at the [market price](../m/market_price.md) but without the need for [broker](../b/broker.md) commissions.
-   
+
 4. **Additional Contributions:** Investors can add [money](../m/money.md) to their accounts regularly or occasionally, allowing them to benefit from dollar-cost averaging, which helps to reduce the impact of [market](../m/market.md) [volatility](../v/volatility.md).
 
 ### Dividends and Reinvestment
@@ -60,11 +60,8 @@ While avoiding [broker](../b/broker.md) commissions can lead to cost savings, th
 
 Many well-known companies [offer](../o/offer.md) Direct Stock Purchase Plans. Some notable examples include:
 
-- **Coca-Cola**: [Coca-Cola Investor Relations](https://investors.coca-colacompany.com)
-- **Procter & Gamble**: [P&G Investor Relations](https://www.pgstock.com)
-- **ExxonMobil**: [ExxonMobil Investor Relations](https://investor.exxonmobil.com)
-- **Walt Disney**: [Disney Stock Purchase Plan](https://www.disneyshareholder.com)
-- **Johnson & Johnson**: [Johnson & Johnson Stock Purchase Plan](https://www.jnj.com/investor-relations)
+- **Walt Disney**: Disney Stock Purchase Plan
+- **Johnson & Johnson**: Johnson & Johnson Stock Purchase Plan
 
 ## Conclusion
 

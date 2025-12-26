@@ -10,7 +10,7 @@ The formula for calculating the EMA requires the following steps:
 
 1. **Calculate the SMA**: For the initial EMA [value](../v/value.md), you need to calculate the Simple Moving Average (SMA) of the [asset](../a/asset.md) over the chosen period (8 periods in this case).
 
-\[ SMA = \frac{P_1 + P_2 + P_3 + ... + P_n}{n} \]
+\[ SMA = \frac{P_1 + P_2 + P_3 +... + P_n}{n} \]
 
 Where \( P \) represents the price at each period and \( n \) is the total number of periods.
 
@@ -47,8 +47,8 @@ A simple and popular strategy using the 8-period EMA is the Moving Average Cross
 1. **Select Two EMAs**: Choose a short-term EMA (8-period) and a longer-term EMA (20-period).
 
 2. **Identify Crossovers**:
-   - **Bullish Crossover**: When the 8-period EMA crosses above the 20-period EMA, it indicates an upward [momentum](../m/momentum.md) and a potential buy signal.
-   - **Bearish Crossover**: When the 8-period EMA crosses below the 20-period EMA, it signifies downward [momentum](../m/momentum.md) and a potential sell signal.
+ - **Bullish Crossover**: When the 8-period EMA crosses above the 20-period EMA, it indicates an upward [momentum](../m/momentum.md) and a potential buy signal.
+ - **Bearish Crossover**: When the 8-period EMA crosses below the 20-period EMA, it signifies downward [momentum](../m/momentum.md) and a potential sell signal.
 
 ### Calculating the 8-Period EMA in Practice
 
@@ -56,16 +56,16 @@ To illustrate the calculation of an 8-period EMA, let's assume we have the follo
 
 | Day | Price |
 |-----|-------|
-| 1   | 10    |
-| 2   | 12    |
-| 3   | 14    |
-| 4   | 13    |
-| 5   | 15    |
-| 6   | 17    |
-| 7   | 16    |
-| 8   | 18    |
-| 9   | 20    |
-| 10  | 19    |
+| 1 | 10 |
+| 2 | 12 |
+| 3 | 14 |
+| 4 | 13 |
+| 5 | 15 |
+| 6 | 17 |
+| 7 | 16 |
+| 8 | 18 |
+| 9 | 20 |
+| 10 | 19 |
 
 **Step 1: Calculate the initial SMA for the first 8 days.**
 
@@ -96,9 +96,9 @@ Most modern trading platforms and charting software provide built-in functions t
 1. **[Load](../l/load.md) Chart**: [Open](../o/open.md) the chart of the [asset](../a/asset.md) you wish to analyze.
 2. **Insert [Indicator](../i/indicator.md)**: Go to `Insert` > `Indicators` > `[Trend](../t/trend.md)` > `Moving Average`.
 3. **Settings**:
-   - Set the period to 8
-   - Choose `Exponential` as the MA method
-   - Apply to `Close`
+ - Set the period to 8
+ - Choose `Exponential` as the MA method
+ - Apply to `Close`
 4. **Apply**: Click OK to apply the [indicator](../i/indicator.md) to the chart.
 
 ### TradingView
@@ -107,8 +107,8 @@ Most modern trading platforms and charting software provide built-in functions t
 2. **Add [Indicator](../i/indicator.md)**: Click on the `Indicators` button.
 3. **Search**: Type `Moving Average Exponential` and select it.
 4. **Settings**:
-   - In the [indicator](../i/indicator.md) settings, set the length to 8
-   - Apply and save the settings.
+ - In the [indicator](../i/indicator.md) settings, set the length to 8
+ - Apply and save the settings.
 
 ### Python (using Pandas and TA-Lib libraries)
 
@@ -155,7 +155,7 @@ The 8-period EMA is a powerful tool in the arsenal of technical analysts and tra
 
 For more information on implementing and customizing EMA calculations, you can visit the official [trading platform](../t/trading_platform.md) websites or consult the following resources:
 
-- [MetaTrader 4](https://www.metatrader4.com)
-- [TradingView](https://www.tradingview.com)
+- MetaTrader 4
+- TradingView
 
-By understanding the intricacies of the 8-period EMA and its role in [technical analysis](../t/technical_analysis.md), traders can enhance their [market](../m/market.md) analysis and improve their overall [trading performance](../t/trading_performance.md).
+By understanding the intricacies of the 8-period EMA and its role in [technical analysis](../t/technical_analysis.md), traders can enhance their [market](../m/market.md) analysis and improve their overall [trading performance](../t/trading_performance.md).

@@ -24,11 +24,11 @@ Most [index](../i/index_instrument.md)-linked bonds include provisions to cap lo
 
 ## Types of Index-Linked Bonds
 
-There are several types of [index](../i/index_instrument.md)-linked bonds, each catering to different [investor](../i/investor.md) needs and [market](../m/market.md) conditions. 
+There are several types of [index](../i/index_instrument.md)-linked bonds, each catering to different [investor](../i/investor.md) needs and [market](../m/market.md) conditions.
 
 ### Treasury Inflation-Protected Securities (TIPS)
 
-The U.S. Department of the Treasury issues TIPS, one of the most widely recognized forms of [index](../i/index_instrument.md)-linked bonds. TIPS adjust their [principal](../p/principal.md) based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). [Interest](../i/interest.md) is then calculated on the adjusted [principal](../p/principal.md). TIPS [offer](../o/offer.md) a [robust](../r/robust.md) [hedge](../h/hedge.md) against [inflation](../i/inflation.md) but may provide relatively lower yields in comparison to conventional bonds during low [inflation](../i/inflation.md) periods. More details can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/).
+The U.S. Department of the Treasury issues TIPS, one of the most widely recognized forms of [index](../i/index_instrument.md)-linked bonds. TIPS adjust their [principal](../p/principal.md) based on changes in the Consumer Price [Index](../i/index_instrument.md) (CPI). [Interest](../i/interest.md) is then calculated on the adjusted [principal](../p/principal.md). TIPS [offer](../o/offer.md) a [robust](../r/robust.md) [hedge](../h/hedge.md) against [inflation](../i/inflation.md) but may provide relatively lower yields in comparison to conventional bonds during low [inflation](../i/inflation.md) periods. More details can be found on the U.S. Treasury's online platform.
 
 ### Inflation-Linkers (UK Gilts)
 
@@ -52,7 +52,7 @@ The [demand](../d/demand.md) for [index](../i/index_instrument.md)-linked bonds 
 
 ### Pricing
 
-The pricing of [index](../i/index_instrument.md)-linked bonds involves complexities beyond those of standard fixed-[income](../i/income.md) securities. The real [yield](../y/yield.md) ([yield](../y/yield.md) minus [inflation](../i/inflation.md)) plays a crucial role, and [market](../m/market.md) participants continuously adjust prices based on [inflation](../i/inflation.md) forecasts and [economic indicators](../e/economic_indicators.md). 
+The pricing of [index](../i/index_instrument.md)-linked bonds involves complexities beyond those of standard fixed-[income](../i/income.md) securities. The real [yield](../y/yield.md) ([yield](../y/yield.md) minus [inflation](../i/inflation.md)) plays a crucial role, and [market](../m/market.md) participants continuously adjust prices based on [inflation](../i/inflation.md) forecasts and [economic indicators](../e/economic_indicators.md).
 
 ### Liquidity and Trading
 
@@ -108,4 +108,4 @@ Governments use [index](../i/index_instrument.md)-linked bonds to manage nationa
 
 ## References
 
-For further details, readers may refer to official resources such as the [U.S. Treasury's website](https://www.treasurydirect.gov/) for comprehensive information on Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) and other [index](../i/index_instrument.md)-linked instruments offered globally.
+For further details, readers may refer to official resources such as the U.S. Treasury's online platform for comprehensive information on Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS) and other [index](../i/index_instrument.md)-linked instruments offered globally.

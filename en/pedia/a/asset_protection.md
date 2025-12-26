@@ -44,11 +44,11 @@ While [asset](../a/asset.md) protection is entirely legal, it must be approached
 
 ### BSW Group
 
-BSW Group is a renowned [firm](../f/firm.md) specializing in [wealth management](../w/wealth_management.md) and [asset](../a/asset.md) protection strategies for high-net-worth individuals. The [firm](../f/firm.md) employs a variety of legal structures and financial instruments to create comprehensive [asset](../a/asset.md) protection plans. For more information, visit their [website](https://www.bswmgroup.com).
+BSW Group is a renowned [firm](../f/firm.md) specializing in [wealth management](../w/wealth_management.md) and [asset](../a/asset.md) protection strategies for high-net-worth individuals. The [firm](../f/firm.md) employs a variety of legal structures and financial instruments to create comprehensive [asset](../a/asset.md) protection plans.
 
 ### Dynasty Financial Partners
 
-Dynasty Financial Partners offers [robust](../r/robust.md) financial advisory services, including [asset](../a/asset.md) protection strategies. They provide integrated solutions that include trusts, [estate planning](../e/estate_planning.md), and [business](../b/business.md) succession planning to safeguard their clients' [wealth](../w/wealth.md). More details can be found on their [website](https://www.dynastyfinancialpartners.com).
+Dynasty Financial Partners offers [robust](../r/robust.md) financial advisory services, including [asset](../a/asset.md) protection strategies. They provide integrated solutions that include trusts, [estate planning](../e/estate_planning.md), and [business](../b/business.md) succession planning to safeguard their clients' [wealth](../w/wealth.md). More
 
 ## Conclusion
 

@@ -62,9 +62,9 @@ The model helps portfolio managers in constructing and managing fixed-[income](.
 
 ## Extensions and Variants
 
-### LMM (Libor Market Model)
+### Market Models (LMM/RFR)
 
-The HJM framework has led to the development of several extensions and variants. One notable example is the Libor [Market](../m/market.md) Model (LMM), which specifically models the evolution of forward Libor rates rather than continuous forward rates.
+The HJM framework has led to the development of several extensions and variants. One notable example is the LIBOR Market Model (LMM), which historically modeled the evolution of forward LIBOR rates. Following the discontinuation of LIBOR in 2023, the industry has transitioned to Risk-Free Rate (RFR) market models that model rates such as SOFR (Secured Overnight Financing Rate), SONIA, and €STR.
 
 ### Multi-Factor Models
 

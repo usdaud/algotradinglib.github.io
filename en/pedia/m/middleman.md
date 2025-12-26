@@ -23,8 +23,8 @@ Dealers buy and sell securities for their accounts, acting as principals rather 
 [Investment banks](../i/investment_bank_(ib).md) assist companies in raising [capital](../c/capital.md), [underwriting](../u/underwriting.md) new [debt](../d/debt.md) and [equity](../e/equity.md) securities, facilitating mergers and acquisitions, and [offering](../o/offering.md) advisory services. They act as intermediaries between issuers and investors.
 
 - Examples:
-  - **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com/)
-  - **Morgan Stanley**: [Morgan Stanley](https://www.morganstanley.com/)
+ - **Goldman Sachs**: Goldman Sachs
+ - **Morgan Stanley**: Morgan Stanley
 
 ### 4. Financial Advisors
 
@@ -41,8 +41,8 @@ In recent years, fintech platforms have emerged as new types of middlemen, lever
 - **[Blockchain](../b/blockchain_in_trading.md) Platforms**: Companies like [Ripple](../r/ripple.md) provide decentralized solutions for cross-border payments, reducing the need for traditional banking intermediaries.
 
 - Examples:
-  - **Betterment**: [Betterment](https://www.betterment.com/)
-  - **[Ripple](../r/ripple.md)**: [Ripple](https://ripple.com/)
+ - **Betterment**: Betterment
+ - **[Ripple](../r/ripple.md)**: Ripple
 
 ## Functions and Benefits of Middlemen
 
@@ -102,7 +102,7 @@ The [demand](../d/demand.md) for personalized services is on the rise. Middlemen
 
 ### 4. Automation
 
-Automation [will](../w/will.md) play a significant role in transforming middleman functions. From robo-advisors to [algorithmic trading](../a/accountability.md), automation reduces the need for human intervention, increasing [efficiency](../e/efficiency.md) and reducing costs.
+Automation [will](../w/will.md) play a significant role in transforming middleman functions. From robo-advisors to [algorithmic trading](../a/algorithmic_trading.md), automation reduces the need for human intervention, increasing [efficiency](../e/efficiency.md) and reducing costs.
 
 ## Conclusion
 
@@ -112,7 +112,7 @@ Middlemen play a vital role in [finance](../f/finance.md) and trading by bridgin
 
 References:
 
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [Morgan Stanley](https://www.morganstanley.com/)
-- [Betterment](https://www.betterment.com/)
-- [Ripple](https://ripple.com/)
+- Goldman Sachs
+- Morgan Stanley
+- Betterment
+- Ripple

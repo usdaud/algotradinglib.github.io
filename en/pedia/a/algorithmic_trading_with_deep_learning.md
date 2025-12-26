@@ -92,7 +92,7 @@ While CNNs are primarily used in image and video recognition, they have been ada
 
 1. **Live Trading**: Integrating the model with trading platforms for real-time [execution](../e/execution.md).
 2. **Monitoring**: Continuously monitoring model performance and making adjustments as needed.
-  
+
 ## Challenges in Algorithmic Trading with Deep Learning
 
 ### Data Quality
@@ -120,39 +120,32 @@ Ensuring the [security](../s/security.md) of [trading algorithms](../t/trading_a
 ### TensorFlow
 
 An [open](../o/open.md)-source library for [deep learning](../d/deep_learning.md) by Google, widely used for building and deploying models.
-[TensorFlow](https://www.tensorflow.org/)
 
 ### PyTorch
 
 An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) library by Facebook, known for its dynamic computational graph.
-[PyTorch](https://pytorch.org/)
 
 ### Keras
 
 A high-level [neural networks](../n/neural_networks_in_trading.md) API, written in Python and capable of running on top of [TensorFlow](../t/tensorflow.md).
-[Keras](https://keras.io/)
 
 ### Scikit-learn
 
 Although not specifically for [deep learning](../d/deep_learning.md), it provides useful tools for data preprocessing and model evaluation.
-[Scikit-learn](https://scikit-learn.org/)
 
 ## Case Studies and Applications
 
 ### JPMorgan Chase
 
 JPMorgan Chase has been utilizing [machine learning](../m/machine_learning.md) and [deep learning](../d/deep_learning.md) for various [trading strategies](../t/trading_strategies.md).
-[JPMorgan AI Research](https://www.jpmorgan.com/solutions/ai-research)
 
 ### Renaissance Technologies
 
 Known for its Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
-[Renaissance Technologies](http://www.rentec.com/)
 
 ### Two Sigma
 
 This [hedge fund](../h/hedge_fund.md) uses [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) for its [trading strategies](../t/trading_strategies.md).
-[Two Sigma](https://www.twosigma.com/)
 
 ## Future of Algorithmic Trading with Deep Learning
 
@@ -164,10 +157,10 @@ The future looks promising with advancements in [quantum computing](../q/quantum
 
 ## References
 
-- [TensorFlow](../t/tensorflow.md) Official Website: [https://www.tensorflow.org/](https://www.tensorflow.org/)
-- [PyTorch](../p/pytorch.md) Official Website: [https://pytorch.org/](https://pytorch.org/)
-- [Keras](../k/keras.md) Official Website: [https://keras.io/](https://keras.io/)
-- Scikit-learn Official Website: [https://scikit-learn.org/](https://scikit-learn.org/)
-- JPMorgan AI Research: [https://www.jpmorgan.com/solutions/ai-research](https://www.jpmorgan.com/solutions/ai-research)
-- Renaissance Technologies: [http://www.rentec.com/](http://www.rentec.com/)
-- Two Sigma: [https://www.twosigma.com/](https://www.twosigma.com/)
+- [TensorFlow](../t/tensorflow.md)
+- [PyTorch](../p/pytorch.md)
+- [Keras](../k/keras.md)
+- Scikit-learn
+- JPMorgan AI Research
+- Renaissance Technologies
+- Two Sigma

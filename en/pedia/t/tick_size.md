@@ -11,7 +11,7 @@
 1. **[Market](../m/market.md) [Liquidity](../l/liquidity.md):** A smaller [tick](../t/tick.md) size generally increases [market](../m/market.md) [liquidity](../l/liquidity.md) by narrowing [bid](../b/bid.md)-ask [spreads](../s/spreads.md), allowing for tighter pricing.
 2. **[Trading Costs](../t/trading_costs.md):** A smaller [tick](../t/tick.md) size can reduce [trading costs](../t/trading_costs.md) due to reduced [slippage](../s/slippage.md) and narrower [spreads](../s/spreads.md).
 3. **[Price Discovery](../p/price_discovery.md):** [Tick](../t/tick.md) size affects the [price discovery](../p/price_discovery.md) process, helping markets reflect true [supply](../s/supply.md) and [demand](../d/demand.md).
-4. **[Algorithmic Trading](../a/accountability.md):** For algorithmic traders, [tick](../t/tick.md) size can influence the performance and [execution](../e/execution.md) of [trading algorithms](../t/trading_algorithms.md). Knowing the [tick](../t/tick.md) size helps in fine-tuning [trading strategies](../t/trading_strategies.md).
+4. **[Algorithmic Trading](../a/algorithmic_trading.md):** For algorithmic traders, [tick](../t/tick.md) size can influence the performance and [execution](../e/execution.md) of [trading algorithms](../t/trading_algorithms.md). Knowing the [tick](../t/tick.md) size helps in fine-tuning [trading strategies](../t/trading_strategies.md).
 
 ### Historical Context
 
@@ -65,7 +65,7 @@ Financial [data analytics](../d/data_analytics.md) platforms need [tick](../t/ti
 
 **Reference to Companies:**
 
-- For further reading on [tick](../t/tick.md) sizes and their implications, you might visit [NASDAQ](../n/nasdaq.md) [here](https://www.nasdaq.com/).
-- For a deep dive into [tick](../t/tick.md) size configurations and their historical context, you can [check](../c/check.md) out the CME Group [here](https://www.cmegroup.com/).
+- For further reading on [tick](../t/tick.md) sizes and their implications, you might visit [NASDAQ](../n/nasdaq.md) here.
+- For a deep dive into [tick](../t/tick.md) size configurations and their historical context, you can [check](../c/check.md) out the CME Group here.
 
 Understanding [tick](../t/tick.md) size is fundamental for anyone involved in trading, whether through manual means or algorithmic strategies. It deeply affects [liquidity](../l/liquidity.md), costs, and the overall [market](../m/market.md) structure. Properly leveraging knowledge of [tick](../t/tick.md) sizes can lead to more effective [trading strategies](../t/trading_strategies.md) and improved [market](../m/market.md) outcomes.

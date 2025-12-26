@@ -1,8 +1,8 @@
 # 2-Year Yield
 
-The term "2-Year [Yield](../y/yield.md)" refers to the [return](../r/return.md) on investment, expressed as a percentage, on a [U.S. Treasury](../u/u.s._treasury.md) [note](../n/note.md) that has a [maturity](../m/maturity.md) of two years. This metric is a crucial [indicator](../i/indicator.md) in the [financial markets](../f/financial_market.md), particularly for understanding the short-term [interest rate](../i/interest_rate.md) environment and gauging [investor](../i/investor.md) sentiment regarding future [economic conditions](../e/economic_conditions.md). 
+The term "2-Year [Yield](../y/yield.md)" refers to the [return](../r/return.md) on investment, expressed as a percentage, on a [U.S. Treasury](../u/u.s._treasury.md) [note](../n/note.md) that has a [maturity](../m/maturity.md) of two years. This metric is a crucial [indicator](../i/indicator.md) in the [financial markets](../f/financial_market.md), particularly for understanding the short-term [interest rate](../i/interest_rate.md) environment and gauging [investor](../i/investor.md) sentiment regarding future [economic conditions](../e/economic_conditions.md).
 
-In the context of algotrading, the 2-Year [Yield](../y/yield.md) can provide important signals for algorithmic strategies that depend on [interest rate](../i/interest_rate.md) differentials, [yield curve](../y/yield_curve.md) analysis, or macroeconomic [indicator](../i/indicator.md)-based [trading systems](../t/trading_systems.md). 
+In the context of algotrading, the 2-Year [Yield](../y/yield.md) can provide important signals for algorithmic strategies that depend on [interest rate](../i/interest_rate.md) differentials, [yield curve](../y/yield_curve.md) analysis, or macroeconomic [indicator](../i/indicator.md)-based [trading systems](../t/trading_systems.md).
 
 ## Importance of the 2-Year Yield
 
@@ -16,13 +16,13 @@ The shape of the [yield curve](../y/yield_curve.md), which plots yields across v
 
 ### Relationship with Other Market Indicators
 
-The 2-Year [Yield](../y/yield.md) often moves in tandem with other short-term [interest](../i/interest.md) rates and indicators. The LIBOR, the [federal funds rate](../f/federal_funds_rate.md), and short-term [corporate bond](../c/corporate_bond.md) yields can exhibit correlations with the 2-Year [Yield](../y/yield.md). These relationships are crucial for traders who employ cross-[market](../m/market.md) [arbitrage](../a/arbitrage.md) strategies or those who [trade](../t/trade.md) [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md). 
+The 2-Year [Yield](../y/yield.md) often moves in tandem with other short-term [interest](../i/interest.md) rates and indicators. The LIBOR, the [federal funds rate](../f/federal_funds_rate.md), and short-term [corporate bond](../c/corporate_bond.md) yields can exhibit correlations with the 2-Year [Yield](../y/yield.md). These relationships are crucial for traders who employ cross-[market](../m/market.md) [arbitrage](../a/arbitrage.md) strategies or those who [trade](../t/trade.md) [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md).
 
 ## 2-Year Treasury Notes
 
 ### Issuance and Features
 
-2-Year [Treasury notes](../t/treasury_notes.md) are issued by the U.S. Department of the Treasury. These notes pay [interest](../i/interest.md) every six months and [return](../r/return.md) the [face value](../f/face_value.md) upon [maturity](../m/maturity.md). The notes are sold at auction, and the [yield](../y/yield.md) is determined by the [market](../m/market.md) [demand](../d/demand.md) at the time of issuance. 
+2-Year [Treasury notes](../t/treasury_notes.md) are issued by the U.S. Department of the Treasury. These notes pay [interest](../i/interest.md) every six months and [return](../r/return.md) the [face value](../f/face_value.md) upon [maturity](../m/maturity.md). The notes are sold at auction, and the [yield](../y/yield.md) is determined by the [market](../m/market.md) [demand](../d/demand.md) at the time of issuance.
 
 ### Market for 2-Year Notes
 
@@ -70,4 +70,4 @@ While the 2-Year [Yield](../y/yield.md) is specific to U.S. Treasuries, similar 
 
 ## Conclusion
 
-The 2-Year [Yield](../y/yield.md) is a multifaceted metric that serves as a cornerstone for various financial [market](../m/market.md) analyses and [algorithmic trading](../a/algorithmic_trading.md) strategies. Its significance as an [economic indicator](../e/economic_indicator.md), a component of the [yield curve](../y/yield_curve.md), and a reflection of [Federal Reserve policies](../f/federal_reserve_policies.md) makes it indispensable for traders, economists, and policymakers. [Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) the 2-Year [Yield](../y/yield.md) to predict [market](../m/market.md) movements, optimize trading decisions, and manage [risk](../r/risk.md), reaffirming its critical role in the financial ecosystem.
+The 2-Year [Yield](../y/yield.md) is a multifaceted metric that serves as a cornerstone for various financial [market](../m/market.md) analyses and [algorithmic trading](../a/algorithmic_trading.md) strategies. Its significance as an [economic indicator](../e/economic_indicator.md), a component of the [yield curve](../y/yield_curve.md), and a reflection of [Federal Reserve policies](../f/federal_reserve_policies.md) makes it indispensable for traders, economists, and policymakers. [Algorithmic trading](../a/algorithmic_trading.md) systems [leverage](../l/leverage.md) the 2-Year [Yield](../y/yield.md) to predict [market](../m/market.md) movements, optimize trading decisions, and manage [risk](../r/risk.md), reaffirming its critical role in the financial ecosystem.

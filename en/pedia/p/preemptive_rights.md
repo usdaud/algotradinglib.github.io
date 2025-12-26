@@ -1,15 +1,15 @@
 # Preemptive Rights
 
-Preemptive rights are a crucial concept in [corporate finance](../c/corporate_finance.md), particularly in the context of [equity](../e/equity.md) and stock issuance. Also known as subscription rights or first-refusal rights, they [grant](../g/grant.md) existing shareholders the preferential right to purchase additional [shares](../s/shares.md) of a company before the company offers them to the general public. This mechanism is intended to protect shareholders from [dilution](../d/dilution.md) of their ownership percentage in the company. 
+Preemptive rights are a crucial concept in [corporate finance](../c/corporate_finance.md), particularly in the context of [equity](../e/equity.md) and stock issuance. Also known as subscription rights or first-refusal rights, they [grant](../g/grant.md) existing shareholders the preferential right to purchase additional [shares](../s/shares.md) of a company before the company offers them to the general public. This mechanism is intended to protect shareholders from [dilution](../d/dilution.md) of their ownership percentage in the company.
 Preemptive rights are embedded into the corporate bylaws or sometimes issued as rights agreements in various jurisdictions.
 
 ## The Fundamentals of Preemptive Rights
 
-Preemptive rights are designed to ensure that existing shareholders maintain their proportional ownership in a company. In other words, if a company decides to [issue](../i/issue.md) more [shares](../s/shares.md), shareholders who [hold](../h/hold.md) preemptive rights have the opportunity to purchase a proportional number of new [shares](../s/shares.md) before they are offered to new investors. 
+Preemptive rights are designed to ensure that existing shareholders maintain their proportional ownership in a company. In other words, if a company decides to [issue](../i/issue.md) more [shares](../s/shares.md), shareholders who [hold](../h/hold.md) preemptive rights have the opportunity to purchase a proportional number of new [shares](../s/shares.md) before they are offered to new investors.
 
 ### Mechanics of Preemptive Rights
 
-When a company plans to [issue](../i/issue.md) new [shares](../s/shares.md), it notifies its existing shareholders, often through a rights [offering circular](../o/offering_circular.md) or [prospectus](../p/prospectus.md). Shareholders are given a specified period (known as the rights [offering](../o/offering.md) period) to elect whether to [exercise](../e/exercise.md) their preemptive rights. 
+When a company plans to [issue](../i/issue.md) new [shares](../s/shares.md), it notifies its existing shareholders, often through a rights [offering circular](../o/offering_circular.md) or [prospectus](../p/prospectus.md). Shareholders are given a specified period (known as the rights [offering](../o/offering.md) period) to elect whether to [exercise](../e/exercise.md) their preemptive rights.
 
 1. **Notification**: Existing shareholders are informed about the new issuance and their entitlement to purchase additional [shares](../s/shares.md).
 2. **[Exercise](../e/exercise.md) Period**: Shareholders have a limited time to [exercise](../e/exercise.md) their rights. This period varies but is typically a few weeks.
@@ -94,4 +94,4 @@ Preemptive rights are a vital aspect of [corporate finance](../c/corporate_finan
 
 Understanding preemptive rights requires a thorough grasp of legal frameworks, strategic considerations, and practical implications, which collectively shape the complex landscape of [equity financing](../e/equity_financing.md).
 
-For more information on preemptive rights and [corporate finance](../c/corporate_finance.md), visit [American Bar Association on Corporations](https://www.americanbar.org/groups/business_law).
+For more information on preemptive rights and [corporate finance](../c/corporate_finance.md), visit American Bar Association on Corporations.

@@ -1,6 +1,6 @@
 # William H. Gross
 
-William H. "Bill" Gross, often referred to as the "[Bond](../b/bond.md) King," is a highly influential figure in the world of [finance](../f/finance.md) and [investment management](../i/investment_management.md). Born on April 13, 1944, in Middletown, Ohio, Gross is best known as the co-founder of Pacific [Investment Management](../i/investment_management.md) Company (PIMCO), one of the largest and most respected [asset management](../a/asset_management.md) firms in the world. 
+William H. "Bill" Gross, often referred to as the "[Bond](../b/bond.md) King," is a highly influential figure in the world of [finance](../f/finance.md) and [investment management](../i/investment_management.md). Born on April 13, 1944, in Middletown, Ohio, Gross is best known as the co-founder of Pacific [Investment Management](../i/investment_management.md) Company (PIMCO), one of the largest and most respected [asset management](../a/asset_management.md) firms in the world.
 
 ## Early Life and Education
 
@@ -12,7 +12,7 @@ Before founding PIMCO, Gross served in the U.S. Navy and worked as an investment
 
 ## Establishing PIMCO
 
-Gross co-founded PIMCO in 1971 with Jim Muzzy and Bill Podlich. Initially, PIMCO operated as a division of Pacific Mutual [Life Insurance](../l/life_insurance.md) Company but later became its own entity. Under Gross's [leadership](../l/leadership.md), the [firm](../f/firm.md) grew exponentially and managed assets worth over $2 trillion by the 2010s. 
+Gross co-founded PIMCO in 1971 with Jim Muzzy and Bill Podlich. Initially, PIMCO operated as a division of Pacific Mutual [Life Insurance](../l/life_insurance.md) Company but later became its own entity. Under Gross's [leadership](../l/leadership.md), the [firm](../f/firm.md) grew exponentially and managed assets worth over $2 trillion by the 2010s.
 
 ### Investment Philosophy
 
@@ -40,8 +40,8 @@ Despite the controversies surrounding his departure from PIMCO, Gross's legacy a
 
 ## Further Reading and Resource
 
-For more detailed information about William H. Gross and his current activities, you can visit his official website and blog:
+For more detailed information about William H. Gross and his current activities, you can
 
-- [Janus Henderson](https://www.janushenderson.com)
+- Janus Henderson
 
 His extensive body of work provides valuable lessons and insights into the world of [bond](../b/bond.md) investment and [risk management](../r/risk_management.md) strategies.

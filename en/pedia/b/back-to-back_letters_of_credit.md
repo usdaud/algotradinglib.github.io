@@ -1,6 +1,6 @@
 # Back-to-Back Letters of Credit
 
-A back-to-back [letter of credit](../l/letter_of_credit.md) (L/C) is a financial arrangement involving two separate letters of [credit](../c/credit.md) used together to facilitate complex [trade](../t/trade.md) transactions. This term is prevalent in international [trade](../t/trade.md) where a buyer, typically he who does not have the necessary financial resources or established [credit](../c/credit.md), facilitates purchasing goods from a seller via an intermediary, usually an agent or [broker](../b/broker.md). 
+A back-to-back [letter of credit](../l/letter_of_credit.md) (L/C) is a financial arrangement involving two separate letters of [credit](../c/credit.md) used together to facilitate complex [trade](../t/trade.md) transactions. This term is prevalent in international [trade](../t/trade.md) where a buyer, typically he who does not have the necessary financial resources or established [credit](../c/credit.md), facilitates purchasing goods from a seller via an intermediary, usually an agent or [broker](../b/broker.md).
 
 ## Key Components
 
@@ -20,7 +20,7 @@ To better understand the intricacies of back-to-back L/C, let’s delve into a s
 2. **Primary L/C Issuance**: The buyer applies to their [bank](../b/bank.md) to [issue](../i/issue.md) the primary [letter of credit](../l/letter_of_credit.md) in favor of the intermediary.
 3. **Receipt of Primary L/C**: Upon receiving the primary L/C, the intermediary applies to their [bank](../b/bank.md) to [issue](../i/issue.md) a secondary L/C in favor of the seller.
 4. **Shipment of Goods**: The seller ships the goods to the designated destination and provides the shipping documents required under the terms of the secondary L/C.
-5. **Presentation of Documents**: The seller submits the required documents to their [bank](../b/bank.md), which then verifies and forwards them to the intermediary’s [bank](../b/bank.md). 
+5. **Presentation of Documents**: The seller submits the required documents to their [bank](../b/bank.md), which then verifies and forwards them to the intermediary’s [bank](../b/bank.md).
 6. **Verification and [Payment](../p/payment.md)**: The intermediary’s [bank](../b/bank.md) verifies the documents’ compliance with the secondary L/C terms and makes the [payment](../p/payment.md) to the seller.
 7. **Submission to Buyer’s [Bank](../b/bank.md)**: The intermediary’s [bank](../b/bank.md) then forwards the shipping documents to the buyer’s [bank](../b/bank.md). The buyer’s [bank](../b/bank.md) ensures that these documents comply with the primary L/C terms.
 8. **[Payment](../p/payment.md) to Intermediary**: Upon verification of the documents, the buyer’s [bank](../b/bank.md) pays the intermediary, completing the [transaction](../t/transaction.md) cycle.
@@ -43,9 +43,9 @@ While specifics of companies engaging in back-to-back L/C are largely confidenti
 
 For more information:
 
-- [Citibank](https://www.citigroup.com)
-- [HSBC](https://www.hsbc.com)
-- [JPMorgan Chase](https://www.jpmorganchase.com)
+- Citibank
+- HSBC
+- JPMorgan Chase
 
 They provide [structured finance](../s/structured_finance.md) solutions and [trade](../t/trade.md) services, including back-to-back L/C to facilitate international [trade](../t/trade.md) operations.
 

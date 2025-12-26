@@ -6,7 +6,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), "[Indicator]
 
 ### Types of Divergence
 
-There are two primary types of [divergence](../d/divergence.md) in [algorithmic trading](../a/algorithmic_trading.md): 
+There are two primary types of [divergence](../d/divergence.md) in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Regular [Divergence](../d/divergence.md)**: Often used to identify potential reversals in the [market](../m/market.md) [trend](../t/trend.md).
 2. **Hidden [Divergence](../d/divergence.md)**: Utilized to signal the likelihood of [trend](../t/trend.md) continuation.
@@ -32,7 +32,7 @@ Hidden [divergence](../d/divergence.md) is used to predict the continuation of t
 The identification and analysis of [divergence](../d/divergence.md) can be effectively automated through [algorithmic trading](../a/algorithmic_trading.md) systems. Here’s how [divergence](../d/divergence.md) is implemented in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Data Collection**: The initial step involves collecting historical price data and corresponding technical [indicator](../i/indicator.md) values.
-  
+
 2. **[Signal Detection](../s/signal_detection_in_trading.md)**: Algorithms are written to detect [divergence](../d/divergence.md) by comparing price trends and [indicator](../i/indicator.md) trends. This involves mathematical computations to identify discrepancies.
 
 3. **[Backtesting](../b/backtesting.md)**: Before deploying any [trading strategy](../t/trading_strategy.md), it is crucial to backtest the algorithm against historical data to validate its effectiveness and reliability.
@@ -44,16 +44,12 @@ The identification and analysis of [divergence](../d/divergence.md) can be effec
 Several trading platforms [offer](../o/offer.md) the ability to implement and automate [divergence](../d/divergence.md)-based [trading strategies](../t/trading_strategies.md). Some of the prominent ones include:
 
 - **MetaTrader 4/5 (MT4/5)**: A popular [trading platform](../t/trading_platform.md) that provides extensive tools for [technical analysis](../t/technical_analysis.md), including custom [indicator](../i/indicator.md) scripts to detect [divergence](../d/divergence.md).
-  [MetaTrader](https://www.metatrader4.com/)
 
 - **[TradingView](../t/tradingview.md)**: A community-based platform [offering](../o/offering.md) advanced charting tools and the ability to write custom scripts using Pine Script for detecting and acting on [divergence](../d/divergence.md).
-  [TradingView](https://www.tradingview.com/)
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) in various languages such as C#, Python, and F#.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) in C#.
 
 - **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that allows creating, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
-  [AlgoTrader](https://www.algotrader.com/)
 
 ### Examples of Divergence Indicators
 
@@ -93,7 +89,7 @@ The [Stochastic Oscillator](../s/stochastic_oscillator.md) is a [momentum](../m/
 Despite its efficacy, trading based on [divergence](../d/divergence.md) has inherent challenges and limitations:
 
 - **[False Signals](../f/false_signals_in_trading.md)**: [Divergence](../d/divergence.md) does not always result in price reversals or continuations as expected, leading to potential [false signals](../f/false_signals_in_trading.md).
-  
+
 - **Lagging Nature**: Indicators used for [divergence](../d/divergence.md) detection (RSI, MACD, Stochastic) are [lagging indicators](../l/lagging_indicators.md) which means they are confirming the [trend](../t/trend.md) after it has begun, which can sometimes result in missed opportunities.
 
 - **Complicated in Sideways Markets**: [Divergence](../d/divergence.md) signals can be less reliable in choppy, sideways markets where [price action](../p/price_action.md) is more random and less directional.

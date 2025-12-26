@@ -38,7 +38,7 @@ Both short straddles and strangles involve selling [options](../o/options.md) wi
 
 #### Short Straddle
 
-A [short straddle](../s/short_straddle.md) involves selling a call and a [put option](../p/put.md) at the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md). 
+A [short straddle](../s/short_straddle.md) involves selling a call and a [put option](../p/put.md) at the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md).
 
 - **[Profit](../p/profit.md) Potential:** Highest if the stock price remains at the [strike price](../s/strike_price.md) until expiration.
 - **Loss Potential:** Unlimited on the [upside](../u/upside.md) (call) and substantial on the downside (put).
@@ -66,9 +66,9 @@ Accurate [market](../m/market.md) analysis is crucial for executing uncovered [o
 
 Choosing the right brokerage is essential. Traders need a brokerage that offers competitive [margin](../m/margin.md) rates, reliable trading platforms, and comprehensive [risk management](../r/risk_management.md) tools. Some well-regarded brokerages for [options](../o/options.md) trading include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [E*TRADE](https://us.etrade.com)
+- Interactive Brokers
+- TD Ameritrade
+- E*TRADE
 
 ### 4. Regulatory Considerations
 

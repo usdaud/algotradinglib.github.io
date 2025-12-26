@@ -59,9 +59,9 @@ NAV [correlation analysis](../c/correlation_analysis.md) provides insights into 
 Several tools and [software platforms](../s/software_platforms_for_trading.md) are available for conducting NAV [correlation analysis](../c/correlation_analysis.md). These include:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a comprehensive suite of analytical tools, including [correlation analysis](../c/correlation_analysis.md) functionalities.
-- [**Morningstar Direct**](https://www.morningstar.com/products/direct): Provides data and analytics on investment portfolios, including [correlation](../c/correlation.md) metrics.
+- **Morningstar Direct**: Provides data and analytics on investment portfolios, including [correlation](../c/correlation.md) metrics.
 - **[FactSet](../f/factset.md)**: An integrated financial data platform that includes [correlation analysis](../c/correlation_analysis.md) tools.
-- [**Portfolio Visualizer**](https://www.portfoliovisualizer.com): An online tool that provides [portfolio analysis](../p/portfolio_analysis.md), including [correlation](../c/correlation.md) calculations.
+- **Portfolio Visualizer**: An online tool that provides [portfolio analysis](../p/portfolio_analysis.md), including [correlation](../c/correlation.md) calculations.
 
 ### Conclusion
 

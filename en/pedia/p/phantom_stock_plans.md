@@ -8,7 +8,7 @@ Phantom Stock Plans, also known as Shadow Stock Plans or Synthetic [Equity](../e
 
 ### Key Characteristics of Phantom Stock Plans
 
-1. **[Valuation](../v/valuation.md)**: Phantom stock units are usually valued according to the company's stock [equity](../e/equity.md) [value](../v/value.md), regardless of the company being public or private. In the case of private companies, specific financial metrics and [business valuations](../b/business_valuations.md) are utilized to set the initial [value](../v/value.md) and track changes over time. 
+1. **[Valuation](../v/valuation.md)**: Phantom stock units are usually valued according to the company's stock [equity](../e/equity.md) [value](../v/value.md), regardless of the company being public or private. In the case of private companies, specific financial metrics and [business valuations](../b/business_valuations.md) are utilized to set the initial [value](../v/value.md) and track changes over time.
 
 2. **[Dividend](../d/dividend.md) Equivalents**: Employees may receive cash payments equivalent to the dividends that would be paid on actual [shares](../s/shares.md) of company stock.
 
@@ -34,7 +34,7 @@ Phantom Stock Plans, also known as Shadow Stock Plans or Synthetic [Equity](../e
 2. **[Valuation](../v/valuation.md) Method**: Establishing a clear method for valuing the phantom [stocks](../s/stock.md), especially for private companies, is crucial. This might include third-party appraisals or using internal financial metrics.
 3. **[Vesting](../v/vesting.md) Schedule**: A [vesting](../v/vesting.md) schedule determines when employees become entitled to receive benefits under the plan. This schedule often aligns with the company’s objectives to retain employees over a longer term.
 4. **[Payout](../p/payout.md) Terms**: Defining the specific triggering events for [payout](../p/payout.md), such as retirement, termination, or a [sale](../s/sale.md) of the [business](../b/business.md), allows clarity and [transparency](../t/transparency.md).
-5. **Legal and Tax Considerations**: Implementing a [phantom stock plan](../p/phantom_stock_plan.md) requires thorough knowledge of legal frameworks and tax implications for both the company and the employees. 
+5. **Legal and Tax Considerations**: Implementing a [phantom stock plan](../p/phantom_stock_plan.md) requires thorough knowledge of legal frameworks and tax implications for both the company and the employees.
 
 ### Legal and Tax Context
 
@@ -64,6 +64,6 @@ Phantom Stock Plans are primarily used by private companies, but notable public 
 Phantom Stock Plans provide a versatile mechanism for companies to reward and retain employees, aligning their interests with the company's success without the complexities involved with actual stock issuance. While they require meticulous planning and legal compliance, the benefits they [offer](../o/offer.md) can significantly enhance employee engagement and company performance. Businesses considering implementing phantom stock plans should consult with financial and legal experts to ensure optimal design and [execution](../e/execution.md).
 
 For further information, you may refer to specific company offerings and detailed examples through direct links provided by the companies. Here are some companies known to implement or [offer](../o/offer.md) advisory on such plans:
-- [CompIntelligence](https://www.compintelligence.com)
-- [Equity Methods](https://www.equitymethods.com/services/share-plan-administration/phantom-stock-plans/)
-- [PayScale](https://www.payscale.com/compensation-today/2010/05/phantom-stock-plans)
+- CompIntelligence
+- Equity Methods
+- PayScale

@@ -176,7 +176,7 @@ Mergers and Acquisitions are complex and multifaceted transactions that can prov
 
 For more information, you can visit:
 
-- [McKinsey & Company on M&A](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-best-companies-create-value-from-ma)
-- [Deloitte on M&A](https://www2.deloitte.com/global/en/pages/financial-advisory/solutions/mergers-and-acquisitions.html)
-- [PwC on M&A](https://www.pwc.com/gx/en/services/advisory/deals.html)
-- [EY on M&A](https://www.ey.com/en_gl/strategy-transactions/mergers-acquisitions)
+- McKinsey & Company on M&A
+- Deloitte on M&A
+- PwC on M&A
+- EY on M&A

@@ -75,13 +75,13 @@ For [real estate](../r/real_estate.md) investments, yield is often referred to a
 
 ### Yield in Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), yield metrics can be integrated into automated [trading strategies](../t/trading_strategies.md). Algorithms may be designed to make buy or sell decisions based on yield thresholds or changes.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), yield metrics can be integrated into automated [trading strategies](../t/trading_strategies.md). Algorithms may be designed to make buy or sell decisions based on yield thresholds or changes.
 
 *Example: A trading algorithm could be set to buy bonds when the yield exceeds a certain percentage, indicating a potential undervaluation.*
 
 ### Contemporary FinTech Applications
 
-In the fintech world, yield calculations are often embedded into platforms, [offering](../o/offering.md) real-time analytics to investors. Companies like [Lemonade](https://www.lemonade.com) and [Robinhood](https://www.robinhood.com) utilize technology to provide yield information instantly to their users.
+In the fintech world, yield calculations are often embedded into platforms, [offering](../o/offering.md) real-time analytics to investors. Companies like Lemonade and Robinhood utilize technology to provide yield information instantly to their users.
 
 ### Conclusion
 

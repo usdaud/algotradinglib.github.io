@@ -48,17 +48,14 @@ The Forex [market](../m/market.md) is a major focus for Global Macro funds due t
 ### Bridgewater Associates
 Bridgewater Associates, founded by Ray Dalio, is one of the largest and most well-known Global Macro [hedge](../h/hedge.md) funds. The [firm](../f/firm.md)’s “Pure [Alpha](../a/alpha.md)” strategy aims to deliver consistent returns through diversified bets across various [asset](../a/asset.md) classes and geographies.
 
-[Bridgewater Associates](https://www.bwater.com/)
 
 ### Brevan Howard
 Brevan Howard, founded by Alan Howard, is another leading [Global Macro hedge fund](../g/global_macro_hedge_fund.md). The [firm](../f/firm.md) uses discretionary strategies to exploit macroeconomic trends and events.
 
-[Brevan Howard](https://www.brevanhoward.com/)
 
 ### Moore Capital Management
 Founded by Louis Bacon, Moore [Capital](../c/capital.md) Management is known for its discretionary [Global Macro strategies](../g/global_macro_strategies.md). The [fund](../f/fund.md) has historically navigated through various [economic cycles](../e/economic_cycles.md) by making informed bets on macroeconomic events.
 
-[Moore Capital Management](https://www.mcm.com/)
 
 ## Advantages and Disadvantages
 

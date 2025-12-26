@@ -60,4 +60,3 @@ QE2 faced several criticisms from economists, policymakers, and [market](../m/ma
 
 The mixed results of QE2 highlighted the limitations of [monetary policy](../m/monetary_policy.md) in addressing deep-seated economic issues and underscored the need for complementary fiscal and structural policies to achieve sustainable growth and [full employment](../f/full_employment.md). Despite the controversies and criticisms, QE2 remains a significant chapter in the history of central banking and continues to inform debates on the role of [monetary policy](../m/monetary_policy.md) in modern economies.
 
-For further information on the Federal Reserve and its policies, you can visit the Federal Reserve's official website: [Federal Reserve](https://www.federalreserve.gov).

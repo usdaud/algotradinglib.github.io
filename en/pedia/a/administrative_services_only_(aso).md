@@ -60,5 +60,4 @@ Administrative Services Only (ASO) is a contract between an employer and an [ins
 
 Administrative Services Only (ASO) arrangements provide a flexible and potentially cost-saving alternative to fully-insured health plans, enabling employers to manage their health benefits more closely. By understanding the key features, benefits, and challenges of ASO, employers can make informed decisions to better meet the health care needs of their employees while managing [financial risk](../f/financial_risk.md). Companies considering an ASO arrangement should weigh the potential for cost savings and increased control against the increased administrative responsibilities and financial [variability](../v/variability.md).
 
-For more detailed information on ASO services, you can visit the websites of leading providers such as [Aetna](https://www.aetna.com) and [UnitedHealthcare](https://www.uhc.com).
-
+For more detailed information on ASO services, you can visit the websites of leading providers such as Aetna and UnitedHealthcare.

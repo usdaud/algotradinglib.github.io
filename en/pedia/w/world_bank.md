@@ -7,19 +7,19 @@ The World [Bank](../b/bank.md) is an international financial institution that pr
 The [World Bank Group](../w/world_bank_group.md) consists of five components:
 
 1. **International [Bank](../b/bank.md) for Reconstruction and Development (IBRD)**:
-    - The IBRD primarily deals with middle-[income](../i/income.md) and [credit](../c/credit.md)-worthy low-[income](../i/income.md) countries. It provides financial products, including loans and guarantees, as well as [risk management](../r/risk_management.md) products such as [insurance](../i/insurance.md) against natural disasters for countries. 
+ - The IBRD primarily deals with middle-[income](../i/income.md) and [credit](../c/credit.md)-worthy low-[income](../i/income.md) countries. It provides financial products, including loans and guarantees, as well as [risk management](../r/risk_management.md) products such as [insurance](../i/insurance.md) against natural disasters for countries.
 
 2. **International Development Association (IDA)**:
-    - The IDA focuses on the poorest countries in the world, providing concessional loans and grants. The terms of IDA [financing](../f/financing.md) are more favorable than [market](../m/market.md) rates and often include long [repayment](../r/repayment.md) periods and low [interest](../i/interest.md) rates.
+ - The IDA focuses on the poorest countries in the world, providing concessional loans and grants. The terms of IDA [financing](../f/financing.md) are more favorable than [market](../m/market.md) rates and often include long [repayment](../r/repayment.md) periods and low [interest](../i/interest.md) rates.
 
 3. **[International Finance Corporation](../i/international_finance_corporation.md) (IFC)**:
-    - The IFC supports [private sector](../p/private_sector.md) development by providing investment and advisory services. By [investing](../i/investing.md) in [private sector](../p/private_sector.md) [business](../b/business.md) ventures, it helps to foster sustainable economic development in developing countries.
+ - The IFC supports [private sector](../p/private_sector.md) development by providing investment and advisory services. By [investing](../i/investing.md) in [private sector](../p/private_sector.md) [business](../b/business.md) ventures, it helps to foster sustainable economic development in developing countries.
 
 4. **Multilateral Investment Guarantee Agency (MIGA)**:
-    - MIGA aims to promote foreign [direct investment](../d/direct_investment.md) into developing countries to support [economic growth](../e/economic_growth.md), reduce [poverty](../p/poverty.md), and improve people's lives. It provides [political risk](../p/political_risk.md) [insurance](../i/insurance.md) and [credit](../c/credit.md) enhancement to investors and lenders to facilitate foreign [direct investment](../d/direct_investment.md).
+ - MIGA aims to promote foreign [direct investment](../d/direct_investment.md) into developing countries to support [economic growth](../e/economic_growth.md), reduce [poverty](../p/poverty.md), and improve people's lives. It provides [political risk](../p/political_risk.md) [insurance](../i/insurance.md) and [credit](../c/credit.md) enhancement to investors and lenders to facilitate foreign [direct investment](../d/direct_investment.md).
 
 5. **International Centre for Settlement of Investment Disputes (ICSID)**:
-    - ICSID provides international facilities for conciliation and [arbitration](../a/arbitration.md) of investment disputes. The center contributes to boosting the flow of investment by enhancing the legal framework to [handle](../h/handle.md) disputes.
+ - ICSID provides international facilities for conciliation and [arbitration](../a/arbitration.md) of investment disputes. The center contributes to boosting the flow of investment by enhancing the legal framework to [handle](../h/handle.md) disputes.
 
 ## Key Priorities and Functions
 
@@ -117,4 +117,4 @@ With the growing impact of climate change, scaling up efforts to improve resilie
 
 The World [Bank](../b/bank.md) continues to be a vital institution in the global development landscape. With its combination of financial resources, technical expertise, and in-depth research, it has the capacity to drive meaningful change in developing countries. However, addressing the criticisms and challenges remains essential to ensure that its interventions are effective, sustainable, and beneficial to the countries and communities it serves.
 
-For more information about the World [Bank](../b/bank.md), visit their [official website](https://www.worldbank.org).
+For more information about the World [Bank](../b/bank.md),

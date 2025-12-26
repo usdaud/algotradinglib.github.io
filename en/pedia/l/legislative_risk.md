@@ -1,10 +1,10 @@
 # Legislative Risk
 
-Legislative [risk](../r/risk.md), often referred to as [regulatory risk](../r/regulatory_risk.md), is the danger that changes in laws and regulations [will](../w/will.md) materially impact a [business](../b/business.md), [market](../m/market.md), or investment. In the context of [algorithmic trading](../a/accountability.md) (algotrading), legislative [risk](../r/risk.md) can have significant implications given the highly regulated nature of [financial markets](../f/financial_market.md) and the rapid evolution of trading technologies. This [risk](../r/risk.md) manifests when governments, regulatory bodies, or financial [market](../m/market.md) authorities introduce new laws, modify existing legislation, or reinterpret policies that directly or indirectly influence [trading strategies](../t/trading_strategies.md), compliance requirements, [market](../m/market.md) structures, and operational frameworks.
+Legislative [risk](../r/risk.md), often referred to as [regulatory risk](../r/regulatory_risk.md), is the danger that changes in laws and regulations [will](../w/will.md) materially impact a [business](../b/business.md), [market](../m/market.md), or investment. In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), legislative [risk](../r/risk.md) can have significant implications given the highly regulated nature of [financial markets](../f/financial_market.md) and the rapid evolution of trading technologies. This [risk](../r/risk.md) manifests when governments, regulatory bodies, or financial [market](../m/market.md) authorities introduce new laws, modify existing legislation, or reinterpret policies that directly or indirectly influence [trading strategies](../t/trading_strategies.md), compliance requirements, [market](../m/market.md) structures, and operational frameworks.
 
 ## Importance of Understanding Legislative Risk in Algotrading
 
-[Algorithmic trading](../a/accountability.md), a strategy that uses computer algorithms to execute a large number of trades in milliseconds, has increasingly dominated the modern [financial markets](../f/financial_market.md). These complex algorithms rely on speed, [efficiency](../e/efficiency.md), and the ability to process vast amounts of data quickly. However, because algotrading operates within the tightly regulated [financial markets](../f/financial_market.md), it is particularly vulnerable to legislative changes. 
+[Algorithmic trading](../a/algorithmic_trading.md), a strategy that uses computer algorithms to execute a large number of trades in milliseconds, has increasingly dominated the modern [financial markets](../f/financial_market.md). These complex algorithms rely on speed, [efficiency](../e/efficiency.md), and the ability to process vast amounts of data quickly. However, because algotrading operates within the tightly regulated [financial markets](../f/financial_market.md), it is particularly vulnerable to legislative changes.
 
 ### Key Reasons Legislative Risk is Critical in Algotrading
 
@@ -20,7 +20,7 @@ Legislative [risk](../r/risk.md), often referred to as [regulatory risk](../r/re
 
 ## Examples of Legislative Risks in Algotrading
 
-[Algorithmic trading](../a/accountability.md) firms need to stay vigilant about various legislative domains that could impact their operations, including but not limited to securities law, tax law, and international [trade](../t/trade.md) regulations.
+[Algorithmic trading](../a/algorithmic_trading.md) firms need to stay vigilant about various legislative domains that could impact their operations, including but not limited to securities law, tax law, and international [trade](../t/trade.md) regulations.
 
 ### Securities Laws and High-Frequency Trading (HFT)
 
@@ -35,10 +35,10 @@ A notable example where legislative [risk](../r/risk.md) came to the fore was th
 
 ### MiFID II in Europe
 
-The [European Union](../e/european_union_(eu).md) introduced the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) in January 2018, significantly altering the landscape for algotrading in Europe. Key regulations affecting [algorithmic trading](../a/accountability.md) include:
+The [European Union](../e/european_union_(eu).md) introduced the Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) in January 2018, significantly altering the landscape for algotrading in Europe. Key regulations affecting [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **[Algorithm Testing](../a/algorithm_testing.md) and Validation**: Firms must test algorithms to ensure they operate as intended and do not contribute to [market](../m/market.md) abuse.
-- **Algo & HFT Registration**: Firms engaging in [algorithmic trading](../a/accountability.md) must register their algorithms and comply with a set of stringent requirements.
+- **Algo & HFT Registration**: Firms engaging in [algorithmic trading](../a/algorithmic_trading.md) must register their algorithms and comply with a set of stringent requirements.
 - **Enhanced [Transparency](../t/transparency.md) and Reporting**: Increased [transparency](../t/transparency.md) requirements affecting how orders are matched and reported.
 
 ### Tax Laws and Financial Transactions
@@ -52,11 +52,11 @@ Tax regulations can impact [trading strategies](../t/trading_strategies.md) and 
 Legislative [risk](../r/risk.md) can also arise from international [trade](../t/trade.md) policies and [market](../m/market.md) access regulations, which can have both direct and indirect effects on algotrading operations:
 
 - **[Trade](../t/trade.md) Wars and Tariffs**: Political conflicts and tariffs can impact markets by increasing [volatility](../v/volatility.md) and affecting the prices of traded assets.
-- **Cross-Border Data Regulations**: Restrictions on cross-border data flow can hinder the ability of [algorithmic trading](../a/accountability.md) firms to process and analyze data efficiently.
+- **Cross-Border Data Regulations**: Restrictions on cross-border data flow can hinder the ability of [algorithmic trading](../a/algorithmic_trading.md) firms to process and analyze data efficiently.
 
 ## Mitigating Legislative Risk
 
-Managing legislative [risk](../r/risk.md) in [algorithmic trading](../a/accountability.md) involves several strategies and [best practices](../b/best_practices.md):
+Managing legislative [risk](../r/risk.md) in [algorithmic trading](../a/algorithmic_trading.md) involves several strategies and [best practices](../b/best_practices.md):
 
 ### Keeping Abreast of Legal Developments
 
@@ -79,22 +79,22 @@ Depending solely on a single [trading strategy](../t/trading_strategy.md) or [ma
 
 ### Engaging with Regulators
 
-Proactive engagement with regulatory bodies can provide firms with insights into upcoming legislative changes and allow them to contribute to the shaping of regulations. Providing feedback during consultation periods and participating in [industry](../i/industry.md) discussions can help ensure that new regulations consider the operational realities of [algorithmic trading](../a/accountability.md).
+Proactive engagement with regulatory bodies can provide firms with insights into upcoming legislative changes and allow them to contribute to the shaping of regulations. Providing feedback during consultation periods and participating in [industry](../i/industry.md) discussions can help ensure that new regulations consider the operational realities of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Notable Companies and Resources
 
 Several companies and resources focus on helping trading firms navigate the complexities of legislative [risk](../r/risk.md). Here are a few notable ones:
 
 ### NAVEX Global
-[NAVEX Global](https://www.navexglobal.com/) specializes in compliance management and offers tools and advisory services that can be critical for trading firms managing legislative [risk](../r/risk.md).
+NAVEX Global specializes in compliance management and offers tools and advisory services that can be critical for trading firms managing legislative [risk](../r/risk.md).
 
 ### AxiomSL
-[AxiomSL](https://www.axiomsl.com/) provides data management, [risk](../r/risk.md), and regulatory reporting solutions. Their platforms help financial institutions comply with a [range](../r/range.md) of global regulatory requirements.
+AxiomSL provides data management, [risk](../r/risk.md), and regulatory reporting solutions. Their platforms help financial institutions comply with a [range](../r/range.md) of global regulatory requirements.
 
 ### RegTech Solutions
 
-- **SteelEye**: [SteelEye](https://www.steel-eye.com/) offers compliance technology that helps firms meet regulatory [obligations](../o/obligation.md) efficiently.
-- **ComplyAdvantage**: [ComplyAdvantage](https://complyadvantage.com/) provides AI-powered insights to help firms manage compliance and [regulatory risk](../r/regulatory_risk.md).
+- **SteelEye**: SteelEye offers compliance technology that helps firms meet regulatory [obligations](../o/obligation.md) efficiently.
+- **ComplyAdvantage**: ComplyAdvantage provides AI-powered insights to help firms manage compliance and [regulatory risk](../r/regulatory_risk.md).
 
 ### Industry Associations
 
@@ -102,6 +102,6 @@ Engaging with [industry](../i/industry.md) associations, such as the Securities 
 
 ## Conclusion
 
-Legislative [risk](../r/risk.md) is an inherent aspect of [algorithmic trading](../a/accountability.md), given the heavily regulated nature of [financial markets](../f/financial_market.md). As [trading algorithms](../t/trading_algorithms.md) become more complex and deeply integrated into [market](../m/market.md) mechanisms, staying ahead of regulatory changes is both a strategic necessity and a compliance mandate. Through continuous monitoring, employing advanced [RegTech](../r/regtech.md) solutions, and engaging proactively with regulatory bodies, [algorithmic trading](../a/accountability.md) firms can better manage legislative risks and sustain their operational and competitive edge in the evolving financial landscape.
+Legislative [risk](../r/risk.md) is an inherent aspect of [algorithmic trading](../a/algorithmic_trading.md), given the heavily regulated nature of [financial markets](../f/financial_market.md). As [trading algorithms](../t/trading_algorithms.md) become more complex and deeply integrated into [market](../m/market.md) mechanisms, staying ahead of regulatory changes is both a strategic necessity and a compliance mandate. Through continuous monitoring, employing advanced [RegTech](../r/regtech.md) solutions, and engaging proactively with regulatory bodies, [algorithmic trading](../a/algorithmic_trading.md) firms can better manage legislative risks and sustain their operational and competitive edge in the evolving financial landscape.
 
 Understanding and adeptly managing legislative [risk](../r/risk.md) not only safeguards firms from potential legal and financial repercussions but also ensures that their algorithmic strategies remain [robust](../r/robust.md), resilient, and compliant with the ever-changing regulatory environment.

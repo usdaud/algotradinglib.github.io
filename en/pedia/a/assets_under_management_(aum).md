@@ -15,7 +15,7 @@ The calculation of AUM may vary depending on the specific guidelines set by an o
 3. **Cash**: [Liquid](../l/liquid.md) assets.
 4. **Alternatives**: [Private equity](../p/private_equity.md), [hedge](../h/hedge.md) funds, commodities.
 
-For example, if an [asset](../a/asset.md) manager oversees ten portfolios each valued at $10 million, the total AUM would be $100 million. 
+For example, if an [asset](../a/asset.md) manager oversees ten portfolios each valued at $10 million, the total AUM would be $100 million.
 
 Periodical assessments are essential, as [market](../m/market.md) fluctuations and investment decisions can significantly impact the AUM. Therefore, AUM is often reported on a quarterly or annual [basis](../b/basis.md).
 
@@ -83,13 +83,13 @@ Regulatory changes can impact how AUM is calculated, reported, and used in [mark
 ## Notable Examples and Case Studies
 
 ### BlackRock
-BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, with AUM exceeding $10 trillion (as of 2023). The [firm](../f/firm.md)'s vast AUM enables it to have a significant influence on global markets and investment trends. More about BlackRock can be found on their [official website](https://www.blackrock.com).
+BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, with AUM exceeding $10 trillion (as of 2023). The [firm](../f/firm.md)'s vast AUM enables it to have a significant influence on global markets and
 
 ### Vanguard
-Vanguard is another major player in the [asset management](../a/asset_management.md) [industry](../i/industry.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard’s AUM reflects its dedication to providing cost-effective investment solutions. More about Vanguard can be found on their [official website](https://www.vanguard.com).
+Vanguard is another major player in the [asset management](../a/asset_management.md) [industry](../i/industry.md), known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard’s AUM reflects its dedication to providing cost-effective investment
 
 ### Fidelity
-Fidelity is a diversified financial services company [offering](../o/offering.md) [investment management](../i/investment_management.md) and advisory services. Fidelity's AUM represents its extensive client base and diversified investment products. More about Fidelity can be found on their [official website](https://www.fidelity.com).
+Fidelity is a diversified financial services company [offering](../o/offering.md) [investment management](../i/investment_management.md) and advisory services. Fidelity's AUM represents its extensive client base and diversified investment
 
 ## Conclusion
 

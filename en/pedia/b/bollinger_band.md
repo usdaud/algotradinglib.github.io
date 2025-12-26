@@ -7,20 +7,20 @@ At its basic form, Bollinger Bands consist of three lines: a middle band and two
 ## Components of Bollinger Bands
 
 1. **Middle Band (Simple Moving Average):**
-   The middle band is usually set as a 20-day simple moving average (SMA). This middle band acts as the [baseline](../b/baseline.md) or core around which the outer bands are constructed.
+ The middle band is usually set as a 20-day simple moving average (SMA). This middle band acts as the [baseline](../b/baseline.md) or core around which the outer bands are constructed.
 
 2. **Upper Band:**
-   The upper band is computed by adding two standard deviations to the middle band. The formula is as follows:
-   \[
-   \text{Upper Band} = \text{SMA} + (k \times \text{[Standard Deviation](../s/standard_deviation.md)})
-   \]
-   Here, "k" is a constant, typically set to 2.
+ The upper band is computed by adding two standard deviations to the middle band. The formula is as follows:
+ \[
+ \text{Upper Band} = \text{SMA} + (k \times \text{[Standard Deviation](../s/standard_deviation.md)})
+ \]
+ Here, "k" is a constant, typically set to 2.
 
 3. **Lower Band:**
-   The lower band is calculated by subtracting two standard deviations from the middle band. The formula is:
-   \[
-   \text{Lower Band} = \text{SMA} - (k \times \text{[Standard Deviation](../s/standard_deviation.md)})
-   \]
+ The lower band is calculated by subtracting two standard deviations from the middle band. The formula is:
+ \[
+ \text{Lower Band} = \text{SMA} - (k \times \text{[Standard Deviation](../s/standard_deviation.md)})
+ \]
 
 ## How Bollinger Bands Work
 
@@ -101,4 +101,4 @@ Although Bollinger Bands [offer](../o/offer.md) substantial benefits, they come 
 
 Bollinger Bands remains a potent tool in the arsenal of traders and analysts due to its adaptability and multi-faceted applications across various markets. However, like any technical [indicator](../i/indicator.md), its effectiveness is maximized when used in conjunction with other analytical tools and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices.
 
-For a deeper dive into Bollinger Bands, visit the official website of John Bollinger: [Bollinger Bands® Official Website](https://www.bollingerbands.com/).
+For a deeper dive into Bollinger Bands,

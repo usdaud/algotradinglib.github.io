@@ -49,16 +49,16 @@ However, there are also some drawbacks to consider:
 ## Industry Practices and Trends
 
 ### Automobile Financing
-The automotive [industry](../i/industry.md) is one of the most significant sectors where indirect loans are prevalent. Car dealerships frequently [offer](../o/offer.md) [financing](../f/financing.md) [options](../o/options.md) through affiliations with [multiple](../m/multiple.md) banks and [credit](../c/credit.md) unions. One key player in this field is [Ally Financial](https://www.ally.com/auto/), a company well-known for providing automotive financial services, including indirect loans.
+The automotive [industry](../i/industry.md) is one of the most significant sectors where indirect loans are prevalent. Car dealerships frequently [offer](../o/offer.md) [financing](../f/financing.md) [options](../o/options.md) through affiliations with [multiple](../m/multiple.md) banks and [credit](../c/credit.md) unions. One key player in this field is Ally Financial, a company well-known for providing automotive financial services, including indirect loans.
 
 ### Retail Financing
-In retail [financing](../f/financing.md), large chain stores and small retailers alike sometimes [offer](../o/offer.md) [financing](../f/financing.md) [options](../o/options.md) for their customers. Companies like [Synchrony Financial](https://www.synchrony.com/) specialize in retail [financing](../f/financing.md), providing [credit](../c/credit.md) [options](../o/options.md) for consumers purchasing items such as electronics, jewelry, and [home](../h/home.md) improvement products.
+In retail [financing](../f/financing.md), large chain stores and small retailers alike sometimes [offer](../o/offer.md) [financing](../f/financing.md) [options](../o/options.md) for their customers. Companies like Synchrony Financial specialize in retail [financing](../f/financing.md), providing [credit](../c/credit.md) [options](../o/options.md) for consumers purchasing items such as electronics, jewelry, and [home](../h/home.md) improvement products.
 
 ### Real Estate Financing
-In [real estate](../r/real_estate.md), intermediaries such as [mortgage](../m/mortgage.md) brokers often facilitate indirect [financing](../f/financing.md). These brokers work with [multiple](../m/multiple.md) lenders to find the best [mortgage](../m/mortgage.md) [options](../o/options.md) for their clients. A prominent company in this sector is [Quicken Loans](https://www.quickenloans.com/), now known as Rocket [Mortgage](../m/mortgage.md), which offers various [mortgage](../m/mortgage.md) products through brokers.
+In [real estate](../r/real_estate.md), intermediaries such as [mortgage](../m/mortgage.md) brokers often facilitate indirect [financing](../f/financing.md). These brokers work with [multiple](../m/multiple.md) lenders to find the best [mortgage](../m/mortgage.md) [options](../o/options.md) for their clients. A prominent company in this sector is Quicken Loans, now known as Rocket [Mortgage](../m/mortgage.md), which offers various [mortgage](../m/mortgage.md) products through brokers.
 
 ### Technological Advancements
-With advancements in technology, the process of securing indirect loans has become more efficient and [customer](../c/customer.md)-friendly. Online platforms and digital services allow for rapid [credit](../c/credit.md) assessments and [loan](../l/loan.md) approvals. For instance, companies like [LendingTree](https://www.lendingtree.com/) provide online services that connect borrowers with a variety of lenders, streamlining the indirect [loan](../l/loan.md) process.
+With advancements in technology, the process of securing indirect loans has become more efficient and [customer](../c/customer.md)-friendly. Online platforms and digital services allow for rapid [credit](../c/credit.md) assessments and [loan](../l/loan.md) approvals. For instance, companies like LendingTree provide online services that connect borrowers with a variety of lenders, streamlining the indirect [loan](../l/loan.md) process.
 
 ## Regulatory Environment
 

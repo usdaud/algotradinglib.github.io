@@ -75,7 +75,7 @@ Hedging transactions are a fundamental aspect of modern [financial risk manageme
 
 For further details, please refer to the official websites of institutions specializing in hedging and [financial derivatives](../f/financial_derivatives.md):
 
-- [Chicago Mercantile Exchange (CME Group)](https://www.cmegroup.com/)
-- [International Swaps and Derivatives Association (ISDA)](https://www.isda.org/)
+- Chicago Mercantile Exchange (CME Group)
+- International Swaps and Derivatives Association (ISDA)
 
 This detailed understanding [will](../w/will.md) enable investors and financial professionals to deploy [hedging strategies](../h/hedging_strategies.md) more effectively, balancing [risk](../r/risk.md) and reward in an ever-volatile [market](../m/market.md) landscape.

@@ -68,19 +68,19 @@ Analyze the [distribution](../d/distribution.md) of the outcomes from the [simul
 Several tools and libraries are available for performing Monte Carlo [Simulation](../s/simulation_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md). These include:
 
 - **Python Libraries**:
-  - [NumPy](https://numpy.org/): Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them.
-  - [pandas](https://pandas.pydata.org/): Offers data structures and tools for processing structured data.
-  - [SciPy](https://www.scipy.org/): Contains modules for [optimization](../o/optimization.md), integration, [interpolation](../i/interpolation.md), eigenvalue problems, algebraic equations, and other numerical tasks.
-  - [PyMC3](https://docs.pymc.io/): Allows for Bayesian statistical modeling and probabilistic [machine learning](../m/machine_learning.md), including MCS.
-  
+ - NumPy: Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them.
+ - pandas: Offers data structures and tools for processing structured data.
+ - SciPy: Contains modules for [optimization](../o/optimization.md), integration, [interpolation](../i/interpolation.md), eigenvalue problems, algebraic equations, and other numerical tasks.
+ - PyMC3: Allows for Bayesian statistical modeling and probabilistic [machine learning](../m/machine_learning.md), including MCS.
+
 - **Commercial Software**:
-  - [MATLAB](https://www.mathworks.com/products/matlab.html)
-  - [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
-  - [Crystal Ball](https://www.oracle.com/epm/crystal-ball/)
+ - MATLAB
+ - Wolfram Mathematica
+ - Crystal Ball
 
 - **R Packages**:
-  - [decisionSupport](https://cran.r-project.org/web/packages/decisionSupport/index.html): Facilitates decision analysis and support through [simulation](../s/simulation_in_trading.md)-based approaches.
-  - [SimEd](https://cran.r-project.org/web/packages/SimEd/index.html): Educational tool for teaching and learning [simulation](../s/simulation_in_trading.md) and its application in decision-making.
+ - decisionSupport: Facilitates decision analysis and support through [simulation](../s/simulation_in_trading.md)-based approaches.
+ - SimEd: Educational tool for teaching and learning [simulation](../s/simulation_in_trading.md) and its application in decision-making.
 
 ## Case Studies
 ### Case Study 1: Strategy Performance Evaluation

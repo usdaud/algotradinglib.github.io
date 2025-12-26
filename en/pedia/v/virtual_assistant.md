@@ -6,7 +6,7 @@ A virtual assistant in the context of financial trading and fintech is a softwar
 
 ### Automated Trading
 
-Automated trading or [algorithmic trading](../a/accountability.md) is one of the primary functions of virtual assistants in financial trading. Virtual assistants can execute trades based on predefined criteria, [market](../m/market.md) conditions, or [predictive analytics](../p/predictive_analytics.md). This helps in:
+Automated trading or [algorithmic trading](../a/algorithmic_trading.md) is one of the primary functions of virtual assistants in financial trading. Virtual assistants can execute trades based on predefined criteria, [market](../m/market.md) conditions, or [predictive analytics](../p/predictive_analytics.md). This helps in:
 
 - **Reducing human errors:** Automated systems eliminate the [risk](../r/risk.md) of manual trading errors which can be costly.
 - **Speed and [efficiency](../e/efficiency.md):** Virtual assistants can analyze data and execute trades much faster than a human [trader](../t/trader.md).
@@ -69,15 +69,15 @@ Several companies have developed virtual assistants for financial trading and fi
 
 ### IBM Watson
 
-IBM Watson is an AI-powered virtual assistant that offers a [range](../r/range.md) of solutions for the financial services [industry](../i/industry.md). It can be used for [market](../m/market.md) analysis, [risk management](../r/risk_management.md), compliance, and [customer](../c/customer.md) support. [IBM Watson](https://www.ibm.com/watson/financial-services)
+IBM Watson is an AI-powered virtual assistant that offers a [range](../r/range.md) of solutions for the financial services [industry](../i/industry.md). It can be used for [market](../m/market.md) analysis, [risk management](../r/risk_management.md), compliance, and [customer](../c/customer.md) support. IBM Watson
 
 ### AlphaSense
 
-AlphaSense is an AI-based [market](../m/market.md) intelligence platform designed to help investment professionals make informed decisions. It provides real-time insights and analysis based on a wide [range](../r/range.md) of data sources. [AlphaSense](https://www.alpha-sense.com)
+AlphaSense is an AI-based [market](../m/market.md) intelligence platform designed to help investment professionals make informed decisions. It provides real-time insights and analysis based on a wide [range](../r/range.md) of data sources. AlphaSense
 
 ### Kasisto
 
-Kasisto's KAI is a conversational AI platform tailored for financial services. It provides [customer](../c/customer.md) support, account management, and [transaction](../t/transaction.md) assistance through chatbots and virtual assistants. [Kasisto KAI](https://kasisto.com)
+Kasisto's KAI is a conversational AI platform tailored for financial services. It provides [customer](../c/customer.md) support, account management, and [transaction](../t/transaction.md) assistance through chatbots and virtual assistants. Kasisto KAI
 
 ## Future Trends of Virtual Assistants in FinTech
 

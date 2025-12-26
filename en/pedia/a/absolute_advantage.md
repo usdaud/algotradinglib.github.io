@@ -88,23 +88,23 @@ Absolute advantage is a fundamental concept in [economics](../e/economics.md) th
 
 ### Apple Inc.
 
-Apple Inc., a multinational technology company, has an absolute advantage in designing and producing high-end consumer electronics, particularly smartphones, tablets, and laptops. The company's advantage stems from its innovation capabilities, proprietary technology, and efficient production processes. Apple's products often lead the [market](../m/market.md) in terms of quality and functionality, allowing the company to maintain high-[profit margins](../p/profit_margins_in_trading.md) and a loyal [customer](../c/customer.md) base. More about Apple Inc. can be found on their [official website](https://www.apple.com).
+Apple Inc., a multinational technology company, has an absolute advantage in designing and producing high-end consumer electronics, particularly smartphones, tablets, and laptops. The company's advantage stems from its innovation capabilities, proprietary technology, and efficient production processes. Apple's products often lead the [market](../m/market.md) in terms of quality and functionality, allowing the company to maintain high-[profit margins](../p/profit_margins_in_trading.md) and a loyal [customer](../c/customer.md)
 
 ### Saudi Aramco
 
-Saudi Aramco, the state-owned oil company of Saudi Arabia, enjoys an absolute advantage in oil production due to the country's vast reserves of easily extractable [petroleum](../p/petroleum.md). Saudi Aramco's ability to produce oil at a lower cost compared to other producers makes it one of the most profitable companies in the world. This absolute advantage plays a crucial role in global energy markets and Saudi Arabia's [economy](../e/economy.md). Further information is available on the [Saudi Aramco website](https://www.aramco.com).
+Saudi Aramco, the state-owned oil company of Saudi Arabia, enjoys an absolute advantage in oil production due to the country's vast reserves of easily extractable [petroleum](../p/petroleum.md). Saudi Aramco's ability to produce oil at a lower cost compared to other producers makes it one of the most profitable companies in the world. This absolute advantage plays a crucial role in global energy markets and Saudi Arabia's [economy](../e/economy.md).
 
 ### Toyota Motor Corporation
 
-Toyota Motor [Corporation](../c/corporation.md), a Japanese automotive manufacturer, holds an absolute advantage in the automotive [industry](../i/industry.md). Known for its efficient production techniques, such as the Toyota Production System (TPS), Toyota produces high-quality vehicles with lower defect rates and at competitive costs. This [efficiency](../e/efficiency.md) has enabled Toyota to become one of the largest car manufacturers globally. For more details, visit the [Toyota Motor Corporation website](https://www.toyota-global.com).
+Toyota Motor [Corporation](../c/corporation.md), a Japanese automotive manufacturer, holds an absolute advantage in the automotive [industry](../i/industry.md). Known for its efficient production techniques, such as the Toyota Production System (TPS), Toyota produces high-quality vehicles with lower defect rates and at competitive costs. This [efficiency](../e/efficiency.md) has enabled Toyota to become one of the largest car manufacturers globally.
 
 ### Cargill Inc.
 
-Cargill Inc., a global food [corporation](../c/corporation.md) based in the United States, has an absolute advantage in agricultural production and trading. With extensive operations in crop cultivation, animal husbandry, and food processing, Cargill leverages advanced agricultural technologies and large-scale farming to produce food more efficiently than many competitors. This advantage helps Cargill maintain a significant presence in global food markets. More information can be found on the [Cargill Inc. website](https://www.cargill.com).
+Cargill Inc., a global food [corporation](../c/corporation.md) based in the United States, has an absolute advantage in agricultural production and trading. With extensive operations in crop cultivation, animal husbandry, and food processing, Cargill leverages advanced agricultural technologies and large-scale farming to produce food more efficiently than many competitors. This advantage helps Cargill maintain a significant presence in global food
 
 ### Tata Steel Ltd.
 
-Tata Steel Ltd., part of the Indian multinational [conglomerate](../c/conglomerate.md) Tata Group, possesses an absolute advantage in steel production. With access to abundant iron ore reserves and efficient [manufacturing](../m/manufacturing.md) processes, Tata Steel produces high-quality steel at competitive costs. This advantage has enabled the company to expand its global footprint and compete effectively in international markets. For further details, visit the [Tata Steel Ltd. website](https://www.tatasteel.com).
+Tata Steel Ltd., part of the Indian multinational [conglomerate](../c/conglomerate.md) Tata Group, possesses an absolute advantage in steel production. With access to abundant iron ore reserves and efficient [manufacturing](../m/manufacturing.md) processes, Tata Steel produces high-quality steel at competitive costs. This advantage has enabled the company to expand its global footprint and compete effectively in international markets. For further details,
 
 ## Theoretical Models and Empirical Studies
 

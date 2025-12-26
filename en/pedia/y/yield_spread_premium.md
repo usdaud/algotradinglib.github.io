@@ -9,7 +9,7 @@ At its core, [Yield Spread](../y/yield_spread.md) [Premium](../p/premium.md) rep
 Here's a simpler breakdown of how it typically works:
 - **Borrower Qualification**: The borrower qualifies for a [loan](../l/loan.md) with a par rate, say at 3.5% [interest](../i/interest.md).
 - **Offered Rate**: The [broker](../b/broker.md) offers the borrower a rate of 4.0%.
-- **[Premium](../p/premium.md) Calculation**: The [lender](../l/lender.md) pays the [broker](../b/broker.md) based on the difference, i.e., the [premium](../p/premium.md) spread between 3.5% and 4.0%. 
+- **[Premium](../p/premium.md) Calculation**: The [lender](../l/lender.md) pays the [broker](../b/broker.md) based on the difference, i.e., the [premium](../p/premium.md) spread between 3.5% and 4.0%.
 
 ### Key Components of YSP
 1. **Par Rate**: This is the [interest rate](../i/interest_rate.md) without any [lender](../l/lender.md) receipt of fees or discounts. Essentially, it's the rate at which the [lender](../l/lender.md) can sell the [loan](../l/loan.md) without losing [money](../m/money.md).
@@ -43,11 +43,11 @@ Alternatives to YSP include:
 
 ### The Role of Technology and Fintech
 
-Advancements in technology and fintech are progressively shifting the landscape. Automated systems and [algorithmic trading](../a/accountability.md) (in the context of [mortgage](../m/mortgage.md)-backed securities) have helped:
+Advancements in technology and fintech are progressively shifting the landscape. Automated systems and [algorithmic trading](../a/algorithmic_trading.md) (in the context of [mortgage](../m/mortgage.md)-backed securities) have helped:
 - **Improve [Transparency](../t/transparency.md)**: Enhanced [disclosure](../d/disclosure.md) through online platforms enables borrowers to better understand [loan](../l/loan.md) terms.
 - **Increase Competition**: Digital platforms allow borrowers to easily compare rates and brokers, potentially fostering better [market](../m/market.md) practices.
 
-Companies such as **Rocket [Mortgage](../m/mortgage.md)** (https://www.rocketmortgage.com/) leverages technology to [offer](../o/offer.md) more transparent [loan](../l/loan.md) processes, which could mitigate some issues traditionally associated with [yield spread](../y/yield_spread.md) premiums.
+Companies such as **Rocket [Mortgage](../m/mortgage.md)** ( leverages technology to [offer](../o/offer.md) more transparent [loan](../l/loan.md) processes, which could mitigate some issues traditionally associated with [yield spread](../y/yield_spread.md) premiums.
 
 ## Conclusion
 

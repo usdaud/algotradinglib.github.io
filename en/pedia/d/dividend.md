@@ -102,19 +102,19 @@ Algorithmic traders can use [yield analysis](../y/yield_analysis.md) to identify
 
 ### The Coca-Cola Company
 
-The Coca-Cola Company has a long history of issuing consistent and reliable dividends. More information about their dividend practices can be found here: [Coca-Cola Dividend Information](https://investors.coca-colacompany.com/)
+The Coca-Cola Company has a long history of issuing consistent and reliable dividends. More information about their dividend practices can be found here: Coca-Cola Dividend Information
 
 ### Johnson & Johnson
 
-Another example of a stable dividend-issuing company is Johnson & Johnson, which has been distributing dividends for decades. For more information, visit: [Johnson & Johnson Investor Relations](https://www.investor.jnj.com/)
+Another example of a stable dividend-issuing company is Johnson & Johnson, which has been distributing dividends for decades. For more information, visit
 
 ### Procter & Gamble
 
-Procter & Gamble has a strong track record of dividend payouts, often considered a [benchmark](../b/benchmark.md) in dividend consistency. Learn more at: [Procter & Gamble Investor Relations](https://www.pginvestor.com/)
+Procter & Gamble has a strong track record of dividend payouts, often considered a [benchmark](../b/benchmark.md) in dividend consistency. Learn more at
 
 ### AT&T
 
-AT&T is known for its high [dividend yield](../d/dividend_yield.md), making it attractive to [income](../i/income.md)-focused investors. For details, visit: [AT&T Investor Relations](https://investors.att.com/)
+AT&T is known for its high [dividend yield](../d/dividend_yield.md), making it attractive to [income](../i/income.md)-focused investors. For details, visit
 
 ## Conclusion
 

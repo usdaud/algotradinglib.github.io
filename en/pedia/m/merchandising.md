@@ -25,7 +25,6 @@ Product merchandising refers to the strategies used to promote and sell a produc
 
 With the rise of e-[commerce](../c/commerce.md), digital merchandising has become increasingly important. This involves presenting products effectively on online platforms to enhance the shopping experience and drive sales. Key elements include:
 
-- **Website Design:** Ensuring the e-[commerce](../c/commerce.md) site is user-friendly, visually appealing, and easy to navigate.
 - **Product Images and Descriptions:** Providing high-quality images and detailed descriptions to help customers make informed purchasing decisions.
 - **Personalization:** Using data and algorithms to [offer](../o/offer.md) personalized product recommendations and tailor the shopping experience.
 - **Search Engine [Optimization](../o/optimization.md) (SEO):** Implementing SEO strategies to improve product [visibility](../v/visibility.md) in search engine results.
@@ -70,4 +69,4 @@ Several tools and software solutions are available to assist retailers in execut
 
 Merchandising plays a pivotal role in the success of retail businesses, encompassing a wide [range](../r/range.md) of practices and strategies focused on optimizing product presentation, pricing, promotion, and placement. Through visual merchandising, product merchandising, digital merchandising, and the use of retail analytics, retailers can enhance the shopping experience, drive sales, and achieve their [business](../b/business.md) goals. As technology continues to evolve, the adoption of advanced merchandising tools and software [will](../w/will.md) further empower retailers to make data-driven decisions and stay competitive in an ever-changing [market](../m/market.md).
 
-For more information on merchandising strategies, visit [Blue Yonder](https://blueyonder.com), [RELEX](https://www.relexsolutions.com), or [Symphony RetailAI](https://www.symphonyretailai.com).
+For more information on merchandising strategies, visit Blue Yonder, RELEX, or Symphony RetailAI.

@@ -79,19 +79,16 @@ These strategies incorporate [machine learning](../m/machine_learning.md) and [a
 ## Implementing Automated Trading Systems
 
 ### Choosing the Right Platform
-Selecting the appropriate platform is foundational for implementing automated [trading systems](../t/trading_systems.md). Popular platforms include MetaTrader, [NinjaTrader](../n/ninjatrader.md), [QuantConnect](../q/quantconnect.md), and proprietary systems developed by top firms. Each platform offers different features, including scripting languages, data feeds, [backtesting](../b/backtesting.md) capabilities, and [execution](../e/execution.md) speed.
+Selecting the appropriate platform is foundational for implementing automated [trading systems](../t/trading_systems.md). Popular platforms include MetaTrader, [NinjaTrader](../n/ninjatrader.md), [StockSharp](../s/stocksharp.md), and proprietary systems developed by top firms. Each platform offers different features, including scripting languages, data feeds, [backtesting](../b/backtesting.md) capabilities, and [execution](../e/execution.md) speed.
 
 - **MetaTrader**:
-  MetaTrader is widely used for forex and CFD trading. It supports automated trading through its MQL5 scripting language, enabling traders to develop custom algorithms and indicators.
-  [MetaTrader](https://www.metaquotes.net)
+ MetaTrader is widely used for forex and CFD trading. It supports automated trading through its MQL5 scripting language, enabling traders to develop custom algorithms and indicators.
 
 - **[NinjaTrader](../n/ninjatrader.md)**:
-  [NinjaTrader](../n/ninjatrader.md) provides a comprehensive suite of tools for [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and live trading. It supports C# programming for creating custom strategies.
-  [NinjaTrader](https://www.ninjatrader.com)
+ [NinjaTrader](../n/ninjatrader.md) provides a comprehensive suite of tools for [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and live trading. It supports C# programming for creating custom strategies.
 
-- **[QuantConnect](../q/quantconnect.md)**:
-  [QuantConnect](../q/quantconnect.md) offers an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md), supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and programming languages such as Python, C#, and F#. It provides a community for sharing and improving [trading algorithms](../t/trading_algorithms.md).
-  [QuantConnect](https://www.quantconnect.com)
+- **[StockSharp](../s/stocksharp.md)**:
+ [StockSharp](../s/stocksharp.md) offers an [open](../o/open.md)-source platform for [algorithmic trading](../a/algorithmic_trading.md), supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and C#. It provides a community for sharing and improving [trading algorithms](../t/trading_algorithms.md).
 
 ### Programming Languages
 Different platforms and strategies may require different programming languages. Common languages used in [algorithmic trading](../a/algorithmic_trading.md) include:
@@ -134,4 +131,4 @@ There is increasing focus on ethical considerations and responsible trading prac
 ### Democratization of Algorithmic Trading
 Advancements in technology and availability of resources are making [algorithmic trading](../a/algorithmic_trading.md) accessible to a broader audience, including individual traders and small firms. This democratization [trend](../t/trend.md) is likely to continue, driven by educational platforms, [open](../o/open.md)-source tools, and community collaboration.
 
-Automated [trading systems](../t/trading_systems.md) have revolutionized [financial markets](../f/financial_market.md), providing unprecedented speed, [efficiency](../e/efficiency.md), and complexity in [trading strategies](../t/trading_strategies.md). While they [offer](../o/offer.md) significant advantages, they also present challenges that require careful consideration and management. As technology continues to evolve, these systems [will](../w/will.md) likely become even more sophisticated, shaping the future of trading and investment.
+Automated [trading systems](../t/trading_systems.md) have revolutionized [financial markets](../f/financial_market.md), providing unprecedented speed, [efficiency](../e/efficiency.md), and complexity in [trading strategies](../t/trading_strategies.md). While they [offer](../o/offer.md) significant advantages, they also present challenges that require careful consideration and management. As technology continues to evolve, these systems [will](../w/will.md) likely become even more sophisticated, shaping the future of trading and investment.

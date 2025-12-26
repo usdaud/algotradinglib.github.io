@@ -5,13 +5,13 @@ Monetary base, also known as the base [money](../m/money.md), high-powered [mone
 ## Components of the Monetary Base
 
 ### Currency in Circulation
-[Currency](../c/currency.md) in circulation refers to the physical [money](../m/money.md) (both coins and paper [currency](../c/currency.md)) that is used by the public. This is the [money](../m/money.md) that one would typically think of when considering cash—what you have in your wallet, purse, or even under the mattress. 
+[Currency](../c/currency.md) in circulation refers to the physical [money](../m/money.md) (both coins and paper [currency](../c/currency.md)) that is used by the public. This is the [money](../m/money.md) that one would typically think of when considering cash—what you have in your wallet, purse, or even under the mattress.
 
 ### Commercial Bank Reserves
 [Commercial bank](../c/commercial_bank.md) reserves are the funds that commercial banks [hold](../h/hold.md) in their accounts at the central [bank](../b/bank.md). These reserves can be further divided into:
 
 - **Required Reserves**: The minimum amounts that banks are mandated to [hold](../h/hold.md) based on a percentage of their [deposit](../d/deposit.md) liabilities.
-- **[Excess Reserves](../e/excess_reserves.md)**: Any reserves that banks [hold](../h/hold.md) over and above the required minimum. 
+- **[Excess Reserves](../e/excess_reserves.md)**: Any reserves that banks [hold](../h/hold.md) over and above the required minimum.
 
 These reserves play a vital role in the overall [money supply](../m/money_supply.md) and influence how banks lend [money](../m/money.md).
 
@@ -61,15 +61,15 @@ The advent of digital currencies and cryptocurrencies has led to discussions abo
 Economists and analysts use various models to study the monetary base and its effects. Some commonly used models include:
 
 ### Money Multiplier Model
-The [money](../m/money.md) [multiplier](../m/multiplier.md) shows the relationship between the monetary base and the broader [money supply](../m/money_supply.md). It calculates how much the [money supply](../m/money_supply.md) increases for every unit increase in the monetary base. 
+The [money](../m/money.md) [multiplier](../m/multiplier.md) shows the relationship between the monetary base and the broader [money supply](../m/money_supply.md). It calculates how much the [money supply](../m/money_supply.md) increases for every unit increase in the monetary base.
 
 ### IS-LM Model
 The IS-LM (Investment-Savings, [Liquidity](../l/liquidity.md) preference-[Money supply](../m/money_supply.md)) model is another crucial analytical tool. It helps in understanding the effects of monetary base changes on [interest](../i/interest.md) rates and output in the goods and services [market](../m/market.md).
 
 ## Conclusion
 
-Understanding the monetary base is foundational for comprehending broader economic dynamics. Whether you are a policymaker, an [investor](../i/investor.md), a [trader](../t/trader.md), or an algo-trading bot designer, grasping the nuances of base [money](../m/money.md) can provide you with invaluable insights. 
+Understanding the monetary base is foundational for comprehending broader economic dynamics. Whether you are a policymaker, an [investor](../i/investor.md), a [trader](../t/trader.md), or an algo-trading bot designer, grasping the nuances of base [money](../m/money.md) can provide you with invaluable insights.
 
-For ongoing learning and more details, refer to resources from central banks such as the [Federal Reserve](https://www.federalreserve.gov/), the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), and the [Bank of Japan](https://www.boj.or.jp/en/index.htm/).
+For ongoing learning and more details, refer to resources from central banks such as the Federal Reserve, the European Central Bank, and the Bank of Japan.
 
 In summary, while the monetary base may appear to be a simple concept, its implications are vast and profound, influencing everything from everyday consumer prices to complex financial systems and [trading algorithms](../t/trading_algorithms.md).

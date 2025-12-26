@@ -37,17 +37,14 @@ In [joint](../j/joint.md) [supply](../s/supply.md) scenarios, cost allocation be
 ### Cargill
 
 Cargill is a major player in the agricultural sector, dealing with [joint](../j/joint.md) [supply](../s/supply.md) products like beef and leather. Their operations encompass producing animal feed, processing meat, and tanning leather. Their integrated [business](../b/business.md) model leverages [joint](../j/joint.md) [supply](../s/supply.md) to maximize [efficiency](../e/efficiency.md) and profitability.
-[Cargill](https://www.cargill.com/)
 
 ### ExxonMobil
 
 ExxonMobil is intricately involved in the [petroleum](../p/petroleum.md) [industry](../i/industry.md), producing a [range](../r/range.md) of [joint](../j/joint.md) products including gasoline, diesel, jet fuel, and chemical products. Their comprehensive refining processes ensure that they can produce [multiple](../m/multiple.md) products from a single raw material source.
-[ExxonMobil](https://corporate.exxonmobil.com/)
 
 ### Weyerhaeuser
 
 Weyerhaeuser is a key company in the timber and wood products sector. They manage vast forest lands and produce a variety of wood products, including lumber, pulp, and paper. Their production process yields several jointly supplied products, optimizing the use of resources.
-[Weyerhaeuser](https://www.weyerhaeuser.com/)
 
 ## Mathematical Formulations
 

@@ -101,7 +101,7 @@ For potential investors, EBITDAR is a practical metric for assessing the profita
 
 Hertz Global [Holdings](../h/holdings.md), a renowned car rental company with significant lease [obligations](../o/obligation.md), often uses EBITDAR in its financial reports.
 
-For more information, visit the official Hertz website: [Hertz Global Holdings](https://www.hertz.com/).
+
 
 ## Conclusion
 

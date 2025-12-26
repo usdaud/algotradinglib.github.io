@@ -96,15 +96,17 @@ Different brokers [offer](../o/offer.md) varied [fee](../f/fee.md) structures. H
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) is renowned for its competitive [commission](../c/commission.md) rates and [robust](../r/robust.md) trading tools. More information can be found on their [website](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) is renowned for its competitive [commission](../c/commission.md) rates and [robust](../r/robust.md) trading tools.
 
-### TD Ameritrade
+### Charles Schwab
 
-TD [Ameritrade](../a/ameritrade.md) offers a comprehensive [trading platform](../t/trading_platform.md) with zero [commission](../c/commission.md) on online stock trades. More information is available on their [website](https://www.tdameritrade.com/).
+**Note:** TD Ameritrade was acquired by Charles Schwab on October 6, 2020. The full integration of customer accounts was completed over Labor Day weekend in September 2023.
+
+Charles Schwab (including the former TD Ameritrade platform) offers a comprehensive [trading platform](../t/trading_platform.md) with zero [commission](../c/commission.md) on online stock trades.
 
 ### E*TRADE
 
-[E*TRADE](../e/e_trade.md) offers various [fee](../f/fee.md) structures, including [commission](../c/commission.md)-free trades and competitive [options](../o/options.md) pricing. Detailed information is accessible on their [website](https://us.etrade.com/).
+[E*TRADE](../e/e_trade.md) offers various [fee](../f/fee.md) structures, including [commission](../c/commission.md)-free trades and competitive [options](../o/options.md)
 
 ## Conclusion
 

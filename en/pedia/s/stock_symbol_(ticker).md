@@ -59,7 +59,7 @@ Finding a stock symbol is straightforward:
 
 ## FinTech and Algorithmic Trading with Stock Symbols
 
-In the context of FinTech and [algorithmic trading](../a/accountability.md), stock symbols play a pivotal role. [Automated trading systems](../a/automated_trading_systems.md) require precise information to execute trades, and stock symbols serve as the unique identifiers in electronic [trading algorithms](../t/trading_algorithms.md).
+In the context of FinTech and [algorithmic trading](../a/algorithmic_trading.md), stock symbols play a pivotal role. [Automated trading systems](../a/automated_trading_systems.md) require precise information to execute trades, and stock symbols serve as the unique identifiers in electronic [trading algorithms](../t/trading_algorithms.md).
 
 1. **Data Feeds:** Real-time data feeds use stock symbols to stream live quotes, news, and other [market](../m/market.md) data.
 2. **[Backtesting](../b/backtesting.md):** Algorithmic traders backtest their strategies using historical data, which is indexed by stock symbols.
@@ -69,4 +69,4 @@ In the context of FinTech and [algorithmic trading](../a/accountability.md), sto
 
 Stock symbols are an integral part of the trading and [finance](../f/finance.md) world, serving as essential tools for identification and communication of stock-related information. Whether you are an individual [investor](../i/investor.md), a financial analyst, or an algorithmic [trader](../t/trader.md), understanding stock symbols and their applications [will](../w/will.md) enhance your ability to navigate the [stock market](../s/stock_market.md) efficiently. As technology continues to evolve, the importance of stock symbols [will](../w/will.md) only grow, further embedding them into the fabric of modern financial systems.
 
-For more details about how a specific company uses its stock symbol, you may visit the company's [investor relations](../i/investor_relations.md) website. For instance, [Apple Inc.'s Investor Relations](https://investor.apple.com/investor-relations/default.aspx) page provides further information.
+./i/investor_relations.md) online platform. For instance, Apple Inc.'s company filings provides further information.

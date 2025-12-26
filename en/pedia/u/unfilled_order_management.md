@@ -26,7 +26,7 @@ Characteristics of the [order](../o/order.md) itself can be a reason for it rema
 
 ### Order Splitting
 
-[Order](../o/order.md) splitting involves breaking down large orders into smaller chunks to facilitate better [execution](../e/execution.md) and minimize [market](../m/market.md) impact. 
+[Order](../o/order.md) splitting involves breaking down large orders into smaller chunks to facilitate better [execution](../e/execution.md) and minimize [market](../m/market.md) impact.
 
 - **[Algorithmic Execution](../a/algorithmic_execution.md) Algorithms**: Strategies like VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price) and TWAP (Time [Weighted Average](../w/weighted_average.md) Price) spread out orders over time to achieve optimal [execution](../e/execution.md) prices.
 - **Iceberg Orders**: These are large orders divided into smaller disclosed amounts that help reduce [market](../m/market.md) impact and disguise the true [order](../o/order.md) size.
@@ -95,21 +95,20 @@ Ensuring that the management of [unfilled orders](../u/unfilled_orders.md) adher
 
 ### AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) offers advanced systems for unfilled [order management](../o/order_management_in_trading.md) with capabilities in automated, high-frequency, and [quantitative trading](../q/quantitative_trading.md).
+AlgoTrader offers advanced systems for unfilled [order management](../o/order_management_in_trading.md) with capabilities in automated, high-frequency, and [quantitative trading](../q/quantitative_trading.md).
 
 ### FlexTrade
 
-[FlexTrade](https://flextrade.com/) provides [robust](../r/robust.md) solutions for [order management](../o/order_management_in_trading.md), including sophisticated [execution algorithms](../e/execution_algorithms.md) and smart [order routing](../o/order_routing.md) technologies.
+FlexTrade provides [robust](../r/robust.md) solutions for [order management](../o/order_management_in_trading.md), including sophisticated [execution algorithms](../e/execution_algorithms.md) and smart [order routing](../o/order_routing.md) technologies.
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) offers an [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that integrates unfilled [order management](../o/order_management_in_trading.md) features supporting dynamic re-pricing and [order](../o/order.md) splitting.
+QuantConnect offers an [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that integrates unfilled [order management](../o/order_management_in_trading.md) features supporting dynamic re-pricing and [order](../o/order.md) splitting.
 
 ### Trading Technologies
 
-[Trading Technologies](https://www.tradingtechnologies.com/) specializes in technology [infrastructure](../i/infrastructure.md) for trading, including OMS and EMS solutions that cater to unfilled [order management](../o/order_management_in_trading.md).
+Trading Technologies specializes in technology [infrastructure](../i/infrastructure.md) for trading, including OMS and EMS solutions that cater to unfilled [order management](../o/order_management_in_trading.md).
 
 ## Conclusion
 
 Unfilled [order management](../o/order_management_in_trading.md) is a pivotal element in the broader [scope](../s/scope.md) of [algorithmic trading](../a/algorithmic_trading.md). Effective strategies and technology implementations ensure optimal [trade](../t/trade.md) executions, minimize [market](../m/market.md) impact, and manage trading risks effectively. With the ongoing advancements in trading technologies and [data analytics](../d/data_analytics.md), the management of [unfilled orders](../u/unfilled_orders.md) continues to evolve, facilitating more sophisticated [trading strategies](../t/trading_strategies.md) and improved [market](../m/market.md) outcomes.
-

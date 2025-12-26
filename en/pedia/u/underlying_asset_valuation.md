@@ -1,6 +1,6 @@
 # Underlying Asset Valuation
 
-**[Underlying asset](../u/underlying_asset.md) [valuation](../v/valuation.md)** is a fundamental concept in [finance](../f/finance.md) and trading, involving the determination of the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) which serves as the foundation for a [derivative](../d/derivative.md) instrument. This process is crucial for both investors and traders as it helps them make informed decisions regarding their investments and [trading strategies](../t/trading_strategies.md). 
+**[Underlying asset](../u/underlying_asset.md) [valuation](../v/valuation.md)** is a fundamental concept in [finance](../f/finance.md) and trading, involving the determination of the [intrinsic value](../i/intrinsic_value.md) of an [asset](../a/asset.md) which serves as the foundation for a [derivative](../d/derivative.md) instrument. This process is crucial for both investors and traders as it helps them make informed decisions regarding their investments and [trading strategies](../t/trading_strategies.md).
 
 ## Introduction to Underlying Assets
 
@@ -94,7 +94,7 @@ Regulatory changes and political events can have a profound impact on [asset](..
 
 Understanding and accurately valuing [underlying](../u/underlying.md) assets is a critical skill for anyone involved in [financial markets](../f/financial_market.md). Whether through [fundamental analysis](../f/fundamental_analysis.md), [technical analysis](../t/technical_analysis.md), quantitative methods, or other approaches, the ability to determine an [asset](../a/asset.md)'s [intrinsic value](../i/intrinsic_value.md) can significantly enhance [trading strategies](../t/trading_strategies.md) and investment decisions. Despite the numerous challenges, continuous improvement and adaptation to [market](../m/market.md) conditions can lead to more accurate valuations and better financial outcomes.
 
-For more information on companies specializing in [asset valuation](../a/asset_valuation.md) and [financial analysis](../f/financial_analysis.md), consider visiting websites such as [Morningstar](https://www.morningstar.com) and [S&P Global](https://www.spglobal.com).
+For more information on companies specializing in [asset valuation](../a/asset_valuation.md) and [financial analysis](../f/financial_analysis.md), consider visiting websites such as Morningstar and S&P Global.
 
 ---
 

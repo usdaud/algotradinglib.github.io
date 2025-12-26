@@ -1,6 +1,6 @@
 # Optimization
 
-Optimization is a crucial discipline in [finance](../f/finance.md) and trading, including [algorithmic trading](../a/accountability.md) and financial technology (fintech). This domain focuses on enhancing decision-making processes, improving resource allocation, and maximizing or minimizing specific functions to achieve the best possible outcomes. Optimization techniques are applied at various levels in [trading strategies](../t/trading_strategies.md), [portfolio management](../p/par.md), and [risk](../r/risk.md) assessment. This comprehensive explanation dives deep into optimization as it relates to these fields.
+Optimization is a crucial discipline in [finance](../f/finance.md) and trading, including [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech). This domain focuses on enhancing decision-making processes, improving resource allocation, and maximizing or minimizing specific functions to achieve the best possible outcomes. Optimization techniques are applied at various levels in [trading strategies](../t/trading_strategies.md), [portfolio management](../p/par.md), and [risk](../r/risk.md) assessment. This comprehensive explanation dives deep into optimization as it relates to these fields.
 
 ## Definition and Fundamentals
 
@@ -40,7 +40,7 @@ Stochastic programming addresses optimization problems under [uncertainty](../u/
 Optimization techniques are also pivotal in [risk management](../r/risk_management.md), where the goal is to minimize potential losses or maximize [risk](../r/risk.md)-adjusted returns. [Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR) and Conditional [Value](../v/value.md)-at-[Risk](../r/risk.md) (CVaR) are common [risk metrics](../r/risk_metrics.md) that can be optimized under different [market](../m/market.md) scenarios.
 
 ### Algorithmic Trading Strategies
-Optimization plays a key role in [algorithmic trading](../a/accountability.md), where strategies are backtested and optimized to achieve the highest possible performance. This involves selecting the best parameters for [trading algorithms](../t/trading_algorithms.md), such as moving average periods, stop-loss limits, and position sizes.
+Optimization plays a key role in [algorithmic trading](../a/algorithmic_trading.md), where strategies are backtested and optimized to achieve the highest possible performance. This involves selecting the best parameters for [trading algorithms](../t/trading_algorithms.md), such as moving average periods, stop-loss limits, and position sizes.
 
 ### Derivatives Pricing
 In [derivatives](../d/derivatives.md) markets, optimization is used to calibrate pricing models to [market](../m/market.md) data, to ensure accurate [valuation](../v/valuation.md) of [options](../o/options.md) and other complex financial instruments. Techniques like least-squares optimization can be employed to fit model parameters.
@@ -80,7 +80,7 @@ Python provides numerous libraries for optimization, such as:
 - **SciPy**: A fundamental library for scientific computing that includes many optimization algorithms.
 - **Pyomo**: An [open](../o/open.md)-source software package for modeling optimization applications.
 - **Pandas**: While primarily used for data manipulation, Pandas integrates well with optimization libraries.
-  
+
 ### R
 R is another language extensively used for statistical computing and graphics. Libraries like `lpSolve`, `Quadprog`, and `ROI` (R Optimization [Infrastructure](../i/infrastructure.md)) support various optimization techniques.
 

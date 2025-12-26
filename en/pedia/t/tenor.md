@@ -12,7 +12,7 @@ In the [bond market](../b/bond_market.md), tenor is synonymous with the term "[m
 
 ### Examples
 
-1. **[U.S. Treasury](../u/u.s._treasury.md) Bonds:** These are long-term government [debt](../d/debt.md) securities with maturities ranging from 10 to 30 years. 
+1. **[U.S. Treasury](../u/u.s._treasury.md) Bonds:** These are long-term government [debt](../d/debt.md) securities with maturities ranging from 10 to 30 years.
 2. **Corporate Bonds:** Companies [issue](../i/issue.md) these bonds to raise [capital](../c/capital.md), with a [range](../r/range.md) of tenors based on their funding needs and [market](../m/market.md) conditions.
 
 ## Tenor in Loans and Mortgages

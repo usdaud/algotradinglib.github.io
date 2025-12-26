@@ -85,7 +85,7 @@ Imagine a tech company like **Apple Inc. (AAPL)** is about to release its quarte
 If AAPL's stock price swings significantly post-announcement, the gains from one of the [options](../o/options.md) can [offset](../o/offset.md) the losses from the other, potentially leading to a net [profit](../p/profit.md).
 
 ### Source Link
-For more details about Apple Inc., visit the [Apple Official Website](https://www.apple.com/).
+For more details about Apple Inc.,
 
 ## Conclusion
 

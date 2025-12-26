@@ -48,7 +48,7 @@ The [supply](../s/supply.md) and [demand](../d/demand.md) curves can shift based
 
 ## Application in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or "algotrading," involves using computer programs to automate [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). The [Law of Supply](../l/law_of_supply.md) and [Demand](../d/demand.md) is a critical component of these strategies as it helps algorithms predict price movements based on changes in [supply](../s/supply.md) and [demand](../d/demand.md) conditions. 
+[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," involves using computer programs to automate [trading strategies](../t/trading_strategies.md) in the [financial markets](../f/financial_market.md). The [Law of Supply](../l/law_of_supply.md) and [Demand](../d/demand.md) is a critical component of these strategies as it helps algorithms predict price movements based on changes in [supply](../s/supply.md) and [demand](../d/demand.md) conditions.
 
 ### Components of Algotrading
 
@@ -58,18 +58,18 @@ The [supply](../s/supply.md) and [demand](../d/demand.md) curves can shift based
 
 ### Example: High-Frequency Trading (HFT)
 
-High-frequency trading is a subset of [algorithmic trading](../a/accountability.md) that involves executing a large number of orders at extremely high speeds. HFT firms use sophisticated algorithms to analyze [supply](../s/supply.md) and [demand](../d/demand.md) data in real time and execute trades within milliseconds. One of the key goals is to identify and exploit short-term inefficiencies in the [market](../m/market.md).
+High-frequency trading is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing a large number of orders at extremely high speeds. HFT firms use sophisticated algorithms to analyze [supply](../s/supply.md) and [demand](../d/demand.md) data in real time and execute trades within milliseconds. One of the key goals is to identify and exploit short-term inefficiencies in the [market](../m/market.md).
 
 #### Key Players in HFT
 
-- **Virtu Financial**: One of the leading [market](../m/market.md)-making firms employing high-frequency [trading strategies](../t/trading_strategies.md). [Virtu Financial](https://www.virtu.com/)
-- **Citadel Securities**: Another prominent [firm](../f/firm.md) in the HFT space known for its advanced [trading algorithms](../t/trading_algorithms.md). [Citadel Securities](https://www.citadelsecurities.com/)
+- **Virtu Financial**: One of the leading [market](../m/market.md)-making firms employing high-frequency [trading strategies](../t/trading_strategies.md). Virtu Financial
+- **Citadel Securities**: Another prominent [firm](../f/firm.md) in the HFT space known for its advanced [trading algorithms](../t/trading_algorithms.md). Citadel Securities
 
 ## Real-World Examples
 
 ### Oil Market
 
-The oil [market](../m/market.md) provides a clear example of [supply](../s/supply.md) and [demand](../d/demand.md) dynamics. Oil prices fluctuate based on changes in [supply](../s/supply.md) (e.g., OPEC production decisions, geopolitical tensions) and [demand](../d/demand.md) (e.g., [economic growth](../e/economic_growth.md), technological changes). 
+The oil [market](../m/market.md) provides a clear example of [supply](../s/supply.md) and [demand](../d/demand.md) dynamics. Oil prices fluctuate based on changes in [supply](../s/supply.md) (e.g., OPEC production decisions, geopolitical tensions) and [demand](../d/demand.md) (e.g., [economic growth](../e/economic_growth.md), technological changes).
 
 In 2020, the COVID-19 pandemic led to a significant drop in global [demand](../d/demand.md) for oil as travel and industrial activities decreased. Concurrently, issues within OPEC regarding production cuts led to an [oversupply](../o/oversupply.md). This [disequilibrium](../d/disequilibrium.md) caused a dramatic fall in oil prices, demonstrating the power of [supply](../s/supply.md) and [demand](../d/demand.md) forces.
 

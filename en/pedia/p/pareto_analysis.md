@@ -96,7 +96,7 @@ Pareto Analysis is frequently integrated with [Six Sigma](../s/six_sigma.md) met
 
 ### Use in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), Pareto Analysis can be utilized to identify strategies or parameters that [yield](../y/yield.md) the most significant results. Traders can focus on the top-performing algorithms, optimizing their [trading strategies](../t/trading_strategies.md) for better returns. For instance, if 20% of the trading parameters are found to generate 80% of the profits, traders can prioritize refining these parameters.
+In [algorithmic trading](../a/algorithmic_trading.md), Pareto Analysis can be utilized to identify strategies or parameters that [yield](../y/yield.md) the most significant results. Traders can focus on the top-performing algorithms, optimizing their [trading strategies](../t/trading_strategies.md) for better returns. For instance, if 20% of the trading parameters are found to generate 80% of the profits, traders can prioritize refining these parameters.
 
 ### Machine Learning Applications
 
@@ -110,5 +110,4 @@ There are various tools and software available that facilitate Pareto Analysis. 
 
 Pareto Analysis remains a foundational tool in various fields, enabling organizations to focus on the most impactful issues. It’s a simple yet powerful technique for improving [efficiency](../e/efficiency.md), making data-driven decisions, and optimizing resources. While it has limitations, its integration with advanced techniques and tools continues to enhance its applicability and effectiveness in addressing complex challenges.
 
-For more information on companies specializing in [quality management](../q/quality_management.md) tools, you can visit [Minitab](https://www.minitab.com/en-us/), a renowned provider of statistical software for quality improvement.
-
+For more information on companies specializing in [quality management](../q/quality_management.md) tools, you can visit Minitab, a renowned provider of statistical software for quality improvement.

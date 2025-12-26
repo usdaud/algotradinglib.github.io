@@ -85,7 +85,7 @@ The future relevance of OPEC [will](../w/will.md) likely hinge on several factor
 
 ### Transition to Renewable Energy
 
-As the world increasingly pivots towards renewable energy sources to combat climate change, [demand](../d/demand.md) for fossil fuels is expected to wane. OPEC member countries are already exploring ways to diversify their economies away from oil dependency. 
+As the world increasingly pivots towards renewable energy sources to combat climate change, [demand](../d/demand.md) for fossil fuels is expected to wane. OPEC member countries are already exploring ways to diversify their economies away from oil dependency.
 
 ### Technological Advances
 
@@ -99,4 +99,4 @@ OPEC’s collaboration with non-member countries, particularly through the OPEC+
 
 The Organization of the [Petroleum](../p/petroleum.md) Exporting Countries (OPEC) has been a cornerstone institution in global oil markets for over six decades. Through its [strategic management](../s/strategic_management.md) of oil production, OPEC has significantly impacted economic and geopolitical landscapes worldwide. Despite facing [multiple](../m/multiple.md) challenges—from internal disagreements to external competition—OPEC continues to play an essential role in the global [energy sector](../e/energy_sector.md). Its future [will](../w/will.md) likely be shaped by the evolving dynamics of global energy needs, technological advancements, and the ongoing transition towards renewable energy sources.
 
-For more information on OPEC, visit their official website: [www.opec.org](https://www.opec.org).
+For more information on OPEC,

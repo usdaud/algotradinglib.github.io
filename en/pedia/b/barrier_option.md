@@ -11,24 +11,24 @@ Barrier [options](../o/options.md) can be broadly categorized into two types: [k
 [Knock-in options](../k/knock-in_options.md) come into existence only if the [underlying asset](../u/underlying_asset.md) reaches a specified barrier level.
 
 1. **[Up-and-In Option](../u/up-and-in_option.md)**:
-    - **Definition**: Activated when the price of the [underlying asset](../u/underlying_asset.md) rises above the barrier level.
-    - **Example**: Let’s assume a company issues an up-and-in [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $50 and a barrier level of $55. If the [underlying asset](../u/underlying_asset.md)’s price rises above $55 during the life of the option, it becomes a regular vanilla [call option](../c/call_option.md).
-  
+ - **Definition**: Activated when the price of the [underlying asset](../u/underlying_asset.md) rises above the barrier level.
+ - **Example**: Let’s assume a company issues an up-and-in [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $50 and a barrier level of $55. If the [underlying asset](../u/underlying_asset.md)’s price rises above $55 during the life of the option, it becomes a regular vanilla [call option](../c/call_option.md).
+
 2. **Down-and-In Option**:
-    - **Definition**: Activated when the price of the [underlying asset](../u/underlying_asset.md) falls below the barrier level.
-    - **Example**: An [investor](../i/investor.md) might have a down-and-in [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $90 and a barrier level of $85. This option becomes active only if the price falls below $85.
+ - **Definition**: Activated when the price of the [underlying asset](../u/underlying_asset.md) falls below the barrier level.
+ - **Example**: An [investor](../i/investor.md) might have a down-and-in [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $90 and a barrier level of $85. This option becomes active only if the price falls below $85.
 
 ### Knock-Out Options
 
 [Knock-out options](../k/knock-out_options.md) become void if the [underlying asset](../u/underlying_asset.md) reaches a specified barrier level.
 
 1. **[Up-and-Out Option](../u/up-and-out_option.md)**:
-    - **Definition**: Ceases to exist if the price of the [underlying asset](../u/underlying_asset.md) rises above the barrier level.
-    - **Example**: An up-and-out [call option](../c/call_option.md) can be structured with a [strike price](../s/strike_price.md) of $60 and a barrier level of $70. If the [underlying asset](../u/underlying_asset.md)'s price goes above $70, the option expires worthless.
-  
+ - **Definition**: Ceases to exist if the price of the [underlying asset](../u/underlying_asset.md) rises above the barrier level.
+ - **Example**: An up-and-out [call option](../c/call_option.md) can be structured with a [strike price](../s/strike_price.md) of $60 and a barrier level of $70. If the [underlying asset](../u/underlying_asset.md)'s price goes above $70, the option expires worthless.
+
 2. **Down-and-Out Option**:
-    - **Definition**: Expires if the price of the [underlying asset](../u/underlying_asset.md) falls below the barrier level.
-    - **Example**: Consider a down-and-out [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $75 and a barrier level of $65. Should the [market price](../m/market_price.md) fall below $65, the option becomes void.
+ - **Definition**: Expires if the price of the [underlying asset](../u/underlying_asset.md) falls below the barrier level.
+ - **Example**: Consider a down-and-out [put option](../p/put.md) with a [strike price](../s/strike_price.md) of $75 and a barrier level of $65. Should the [market price](../m/market_price.md) fall below $65, the option becomes void.
 
 ## Valuation of Barrier Options
 
@@ -65,17 +65,14 @@ Barrier [options](../o/options.md) are cheaper than similar vanilla [options](..
 ## Real-World Examples and Products
 
 1. **J.P. Morgan**:
-    - J.P. Morgan offers a variety of barrier [options](../o/options.md) and structured products for clients. Their extensive [range](../r/range.md) of custom solutions includes [equity](../e/equity.md), FX, and rates barrier [options](../o/options.md).
-    - [https://www.jpmorgan.com](https://www.jpmorgan.com)
-  
+ - J.P. Morgan offers a variety of barrier [options](../o/options.md) and structured products for clients. Their extensive [range](../r/range.md) of custom solutions includes [equity](../e/equity.md), FX, and rates barrier [options](../o/options.md).
+ -
 2. **Goldman Sachs**:
-    - Goldman Sachs provides advisory services and the [execution](../e/execution.md) of complex barrier option strategies in equities, FX, and commodities to institutional investors.
-    - [https://www.goldmansachs.com](https://www.goldmansachs.com)
-  
+ - Goldman Sachs provides advisory services and the [execution](../e/execution.md) of complex barrier option strategies in equities, FX, and commodities to institutional investors.
+ -
 3. **Barclays**:
-    - Barclays offers sophisticated barrier option products tailored for [risk management](../r/risk_management.md) and speculative purposes, across diverse [asset](../a/asset.md) classes.
-    - [https://www.barclays.com](https://www.barclays.com)
-
+ - Barclays offers sophisticated barrier option products tailored for [risk management](../r/risk_management.md) and speculative purposes, across diverse [asset](../a/asset.md) classes.
+ -
 ## Theoretical Considerations
 
 ### Path Dependency

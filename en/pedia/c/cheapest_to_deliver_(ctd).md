@@ -4,7 +4,7 @@
 
 In the realm of [fixed income](../f/fixed_income.md) and [derivatives](../d/derivatives.md) trading, the term "Cheapest to Deliver" (CTD) refers to the process of selecting the [bond](../b/bond.md) that minimizes the cost of fulfilling a [futures contract](../f/futures_contract.md) obligation. The CTD [bond](../b/bond.md) is the specific [bond](../b/bond.md) that a short position holder in a [futures contract](../f/futures_contract.md) [will](../w/will.md) deliver to the long position holder at the [maturity](../m/maturity.md) of the contract. The selection of the CTD [bond](../b/bond.md) is vital as it directly impacts the profitability and [risk management](../r/risk_management.md) of traders and portfolio managers.
 
-The CTD concept is most commonly associated with [interest rate futures](../i/interest_rate_futures.md), particularly Treasury [futures contracts](../f/futures_contracts.md). These [futures contracts](../f/futures_contracts.md) are standard financial contracts that require the delivery of a specified amount of a [government bond](../g/government_bond.md) at a predetermined future date. For example, [U.S. Treasury](../u/u.s._treasury.md) [futures](../f/futures.md) are standardized contracts traded on exchanges like the Chicago Mercantile [Exchange](../e/exchange.md) (CME Group) which is accessible via the following link: [CME Group](https://www.cmegroup.com).
+The CTD concept is most commonly associated with [interest rate futures](../i/interest_rate_futures.md), particularly Treasury [futures contracts](../f/futures_contracts.md). These [futures contracts](../f/futures_contracts.md) are standard financial contracts that require the delivery of a specified amount of a [government bond](../g/government_bond.md) at a predetermined future date. For example, [U.S. Treasury](../u/u.s._treasury.md) [futures](../f/futures.md) are standardized contracts traded on exchanges like the Chicago Mercantile [Exchange](../e/exchange.md) (CME Group) which is accessible via the following link: CME Group.
 
 ## Importance of Cheapest to Deliver (CTD)
 
@@ -55,24 +55,24 @@ The [factor](../f/factor.md) [value](../v/value.md) is influenced by the [bond](
 
 Assume we have three bonds eligible for delivery into a Treasury [futures contract](../f/futures_contract.md). Here are their respective details:
 
-1. **[Bond](../b/bond.md) A**: 
-   - Cash Price: $101.00
-   - Conversion [Factor](../f/factor.md): 0.9785
-   - [Accrued Interest](../a/accrued_interest.md): $1.20
+1. **[Bond](../b/bond.md) A**:
+ - Cash Price: $101.00
+ - Conversion [Factor](../f/factor.md): 0.9785
+ - [Accrued Interest](../a/accrued_interest.md): $1.20
 
-2. **[Bond](../b/bond.md) B**: 
-   - Cash Price: $102.50
-   - Conversion [Factor](../f/factor.md): 0.9850
-   - [Accrued Interest](../a/accrued_interest.md): $1.50
+2. **[Bond](../b/bond.md) B**:
+ - Cash Price: $102.50
+ - Conversion [Factor](../f/factor.md): 0.9850
+ - [Accrued Interest](../a/accrued_interest.md): $1.50
 
-3. **[Bond](../b/bond.md) C**: 
-   - Cash Price: $100.75
-   - Conversion [Factor](../f/factor.md): 0.9700
-   - [Accrued Interest](../a/accrued_interest.md): $1.10
+3. **[Bond](../b/bond.md) C**:
+ - Cash Price: $100.75
+ - Conversion [Factor](../f/factor.md): 0.9700
+ - [Accrued Interest](../a/accrued_interest.md): $1.10
 
 Now, calculate the CTD Price for each [bond](../b/bond.md):
 
-1. **[Bond](../b/bond.md) A:** 
+1. **[Bond](../b/bond.md) A:**
 \[ \text{CTD Price} = \frac{101.00}{0.9785} + 1.20 = 103.29 + 1.20 = 104.49 \]
 
 2. **[Bond](../b/bond.md) B:**
@@ -102,7 +102,7 @@ Several factors influence which [bond](../b/bond.md) becomes the CTD [bond](../b
 Traders and portfolio managers can engage in [arbitrage](../a/arbitrage.md) and [hedging strategies](../h/hedging_strategies.md) based on the CTD [bond](../b/bond.md):
 
 - **[Basis](../b/basis.md) Trading**: This strategy involves taking positions in cash bonds and offsetting [futures contracts](../f/futures_contracts.md) to exploit price discrepancies between the cash and [futures](../f/futures.md) markets.
-  
+
 - **[Yield Curve](../y/yard.md) Positioning**: Identifying the CTD [bond](../b/bond.md) helps in making strategic decisions based on anticipated movements in the [yield curve](../y/yard.md).
 
 - **Switcher Sales**: Executing switch trades where higher-priced bonds are sold, and the CTD bonds are purchased to optimize the delivery cost.
@@ -112,7 +112,7 @@ Traders and portfolio managers can engage in [arbitrage](../a/arbitrage.md) and 
 Accurate identification of the CTD [bond](../b/bond.md) aids in effective [risk management](../r/risk_management.md):
 
 - **[Margin](../m/margin.md) Requirements**: By knowing the CTD [bond](../b/bond.md), traders can anticipate [margin](../m/margin.md) requirements for [futures](../f/futures.md) positions more accurately.
-  
+
 - **[Valuation](../v/valuation.md)**: It enables proper [valuation](../v/valuation.md) of [futures contracts](../f/futures_contracts.md), which is essential for marking-to-[market](../m/market.md) and [risk](../r/risk.md) assessment.
 
 ## Technology and Tools for CTD Calculation
@@ -120,8 +120,8 @@ Accurate identification of the CTD [bond](../b/bond.md) aids in effective [risk 
 Advancements in technology have streamlined the process of identifying the CTD [bond](../b/bond.md). Professional trading platforms and [risk management systems](../r/risk_management_systems.md) now provide tools for rapid and precise calculations, accommodating [real-time market data](../r/real-time_market_data.md) and automated updates. Examples of such platforms include [Bloomberg Terminal](../b/bloomberg_terminal.md) and Thomson [Reuters](../r/reuters.md) Eikon. These platforms integrate comprehensive [market](../m/market.md) data and analytical tools, facilitating efficient CTD determination.
 
 For further information about professional trading platforms, visit:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- Bloomberg Terminal
+- Thomson Reuters Eikon
 
 ## Conclusion
 

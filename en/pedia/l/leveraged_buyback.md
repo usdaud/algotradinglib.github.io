@@ -66,19 +66,16 @@ To better illustrate the concept of leveraged buybacks, let's explore real-world
 
 Apple Inc. made headlines with significant [share buybacks](../s/share_buybacks.md). Although not all of Apple's buybacks are leveraged, the company has used [debt](../d/debt.md) issuance as part of its repurchase strategy. This move has helped the tech giant [return](../r/return.md) enormous amounts of [capital](../c/capital.md) to shareholders.
 
-**Reference:** [Apple's Investor Relations](https://investor.apple.com/)
 
 ### IBM
 
 IBM has also engaged in leveraged buybacks. The company issued [debt](../d/debt.md) [multiple](../m/multiple.md) times to [finance](../f/finance.md) its repurchase programs, aiming to enhance [earnings](../e/earnings.md) per share and provide [shareholder](../s/shareholder.md) returns.
 
-**Reference:** [IBM's Investor Relations](https://www.ibm.com/investor/)
 
 ### Procter & Gamble (P&G)
 
 Procter & Gamble has utilized leveraged buybacks as part of its [capital allocation](../c/capital_allocation.md) strategy. The company issued around $5 billion in [debt](../d/debt.md) to [fund](../f/fund.md) share repurchases.
 
-**Reference:** [P&G's Investor Relations](https://www.pginvestor.com/)
 
 ## Conclusion
 

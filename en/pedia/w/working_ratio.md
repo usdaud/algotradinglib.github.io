@@ -20,7 +20,7 @@ The working ratio is particularly valuable in industries with high operational o
 The calculation of the working ratio involves two primary components: operating expenses and [net sales](../n/net_sales.md).
 
 1. **Operating Expenses**: These include all expenses incurred during the normal course of [business](../b/business.md) operations, such as cost of goods sold (COGS), salaries and wages, rent, utilities, and other day-to-day expenses.
-   
+
 2. **[Net Sales](../n/net_sales.md)**: This is the total [revenue](../r/revenue.md) generated from the [sale](../s/sale.md) of goods or services, after deducting returns, allowances, and discounts.
 
 ### Example Calculation

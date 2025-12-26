@@ -59,27 +59,21 @@ In Canada, gross-up adjustments are prevalent in executive compensation and stoc
 
 ## Corporate Examples
 
-### **Deloitte (https://www2.deloitte.com/):**
-Deloitte offers advisory services that include gross-up calculations for [expatriate](../e/expatriate.md) employees, ensuring their net compensation packages are accurately projected and managed.
+### **Deloitte Deloitte offers advisory services that include gross-up calculations for [expatriate](../e/expatriate.md) employees, ensuring their net compensation packages are accurately projected and managed.
 
-### **KPMG (https://home.kpmg/):**
-KPMG’s tax services incorporate gross-up calculations particularly in structuring employee relocation packages and benefits administration.
+### **KPMG KPMG’s tax services incorporate gross-up calculations particularly in structuring employee relocation packages and benefits administration.
 
-### **PwC (https://www.pwc.com/):**
-PwC provides comprehensive compensation and benefits structuring which involves grossing up amounts for tax compliance and net benefit [assurance](../a/assurance.md).
+### **PwC PwC provides comprehensive compensation and benefits structuring which involves grossing up amounts for tax compliance and net benefit [assurance](../a/assurance.md).
 
 ## Automation in Gross-Up Calculations
 
 With advancements in technology, many organizations now rely on sophisticated software for gross-up calculations. These tools minimize errors and streamline financial processes, ensuring compliance and accuracy.
 
-### **BambooHR (https://www.bamboohr.com/):**
-BambooHR provides [payroll](../p/payroll.md) and compensation solutions that automate gross-up calculations, simplifying HR processes and [payroll](../p/payroll.md) management.
+### **BambooHR BambooHR provides [payroll](../p/payroll.md) and compensation solutions that automate gross-up calculations, simplifying HR processes and [payroll](../p/payroll.md) management.
 
-### **ADP (https://www.adp.com/):**
-ADP’s [payroll](../p/payroll.md) services include automated gross-up calculations, ensuring precise employee net pay and compliance with tax regulations.
+### **ADP ADP’s [payroll](../p/payroll.md) services include automated gross-up calculations, ensuring precise employee net pay and compliance with tax regulations.
 
-### **Workday (https://www.workday.com/):**
-Workday’s platform supports gross-up functionalities as part of its broader financial management solutions, assisting organizations in maintaining accurate [payroll](../p/payroll.md) and benefit disbursements.
+### **Workday Workday’s platform supports gross-up functionalities as part of its broader financial management solutions, assisting organizations in maintaining accurate [payroll](../p/payroll.md) and benefit disbursements.
 
 ## Conclusion
 

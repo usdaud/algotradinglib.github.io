@@ -11,7 +11,7 @@
 \[ Y = \beta_0 + \beta_1X + \epsilon \]
 
 Where:
-  
+
 - \(Y\) is the dependent variable.
 - \(X\) is the independent variable.
 - \(\beta_0\) is the y-intercept.
@@ -28,7 +28,7 @@ Suppose you want to predict a stock's future prices based on its historical pric
 [import](../i/import.md) statsmodels.api as sm
 
 # Creating a dataframe with historical prices
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Historical_Price': [100, 101, 102, 103, 104],
     'Future_Price': [101, 102, 103, 104, 105]
 })
@@ -51,7 +51,7 @@ print(predictions)
 \[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_pX_p + \epsilon \]
 
 Where:
-  
+
 - \(X_1, X_2, \ldots, X_p\) are the predictor variables.
 
 #### Example in Trading
@@ -60,7 +60,7 @@ Predicting a stock's future prices based on [multiple](../m/multiple.md) factors
 
 ```python
 # Creating dataframe with multiple factors
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Historical_Price': [100, 101, 102, 103, 104],
     '[Volume](../v/volume.md)': [2000, 2200, 2100, 2300, 2400],
     'Market_Index': [1500, 1520, 1510, 1530, 1540],
@@ -85,7 +85,7 @@ When the relationship between the independent variable and the dependent variabl
 \[ Y = \beta_0 + \beta_1X + \beta_2X^2 + \beta_3X^3 + \ldots + \beta_dX^d + \epsilon \]
 
 Where:
-  
+
 - \(d\) is the degree of the polynomial.
 
 #### Example in Trading
@@ -97,7 +97,7 @@ from sklearn.preprocessing [import](../i/import.md) PolynomialFeatures
 from sklearn.linear_model [import](../i/import.md) LinearRegression
 
 # Creating dataframe
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Historical_Price': [100, 101, 102, 103, 104],
     'Future_Price': [101, 102, 103, 104, 105]
 })
@@ -124,7 +124,7 @@ print(predictions)
 \[ R^2 = 1 - \frac{SS_{res}}{SS_{tot}} \]
 
 Where:
-  
+
 - \(SS_{res}\) is the sum of the squares of the residuals.
 - \(SS_{tot}\) is the total [sum of squares](../s/sum_of_squares.md).
 
@@ -135,7 +135,7 @@ Adjusted [R-squared](../r/r-squared_in_trading.md) adjusts the [R-squared](../r/
 \[ \text{Adjusted } R^2 = 1 - \frac{(1-R^2)(n-1)}{n-k-1} \]
 
 Where:
-  
+
 - \(n\) is the number of observations.
 - \(k\) is the number of predictors.
 
@@ -146,7 +146,7 @@ The [mean squared error](../m/mean_squared_error.md) is the average of the squar
 \[ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2 \]
 
 Where:
-  
+
 - \(n\) is the number of observations.
 - \(y_i\) is the observed [value](../v/value.md).
 - \(\hat{y_i}\) is the predicted [value](../v/value.md).
@@ -160,7 +160,7 @@ Ridge regression uses L2 regularization to shrink the coefficients of the model,
 \[ \min_{\beta} \| y - X\beta \|^2_2 + \[lambda](../l/lambda.md) \| \[beta](../b/beta.md) \|^2_2 \]
 
 Where:
-  
+
 - \(\[lambda](../l/lambda.md)\) is the regularization parameter.
 
 ### 2. Lasso Regression
@@ -175,7 +175,7 @@ Lasso regression uses L1 regularization to impose a constraint that some coeffic
 from sklearn.linear_model [import](../i/import.md) Ridge, Lasso
 
 # Generating dataset
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Historical_Price': [100, 101, 102, 103, 104],
     '[Volume](../v/volume.md)': [2000, 2200, 2100, 2300, 2400],
     'Market_Index': [1500, 1520, 1510, 1530, 1540],
@@ -207,22 +207,22 @@ In [valuation](../v/valuation.md), [regression analysis](../r/regression_analysi
 
 ### 3. Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), regression models are used to predict future price movements based on historical data. The coefficients of the regression model can help to identify how strongly various factors influence the [asset](../a/asset.md) price.
+In [algorithmic trading](../a/algorithmic_trading.md), regression models are used to predict future price movements based on historical data. The coefficients of the regression model can help to identify how strongly various factors influence the [asset](../a/asset.md) price.
 
 ## Companies Utilizing Regression in Finance
 
 ### 1. JPMorgan Chase
 
-JPMorgan Chase (https://www.jpmorganchase.com) utilizes advanced statistical models, including [regression analysis](../r/regression_analysis.md), for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/accountability.md).
+JPMorgan Chase ( utilizes advanced statistical models, including [regression analysis](../r/regression_analysis.md), for [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. Goldman Sachs
 
-Goldman Sachs (https://www.goldmansachs.com) leverages regression models to analyze [market](../m/market.md) trends, forecast [economic conditions](../e/economic_conditions.md), and develop [trading strategies](../t/trading_strategies.md).
+Goldman Sachs ( leverages regression models to analyze [market](../m/market.md) trends, forecast [economic conditions](../e/economic_conditions.md), and develop [trading strategies](../t/trading_strategies.md).
 
 ### 3. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) is a platform that offers tools for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), often incorporating regression-based models into their analytics suite.
+[QuantConnect](../q/quantconnect.md) ( is a platform that offers tools for developing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), often incorporating regression-based models into their analytics suite.
 
 ## Conclusion
 
-[Regression analysis](../r/regression_analysis.md) is a powerful tool in [finance](../f/finance.md) and trading, providing valuable insights and helping to model complex relationships between variables. Whether for [risk management](../r/risk_management.md), [valuation](../v/valuation.md), or [algorithmic trading](../a/accountability.md), understanding and applying regression principles can significantly enhance decision-making processes. As the complexity of [financial markets](../f/financial_market.md) continues to grow, so [will](../w/will.md) the importance and sophistication of regression-based models.
+[Regression analysis](../r/regression_analysis.md) is a powerful tool in [finance](../f/finance.md) and trading, providing valuable insights and helping to model complex relationships between variables. Whether for [risk management](../r/risk_management.md), [valuation](../v/valuation.md), or [algorithmic trading](../a/algorithmic_trading.md), understanding and applying regression principles can significantly enhance decision-making processes. As the complexity of [financial markets](../f/financial_market.md) continues to grow, so [will](../w/will.md) the importance and sophistication of regression-based models.

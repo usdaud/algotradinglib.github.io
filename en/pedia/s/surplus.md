@@ -20,7 +20,7 @@ Government surplus refers to the excess of government [revenue](../r/revenue.md)
 The concepts of consumer and [producer surplus](../p/producer_surplus.md) are integral to the understanding of [market](../m/market.md) [equilibrium](../e/equilibrium.md). At [equilibrium](../e/equilibrium.md), the [quantity demanded](../q/quantity_demanded.md) by consumers equals the [quantity supplied](../q/quantity_supplied.md) by producers, leading to no surplus or shortage in the [market](../m/market.md). Surpluses typically occur when prices are set above or below the [equilibrium](../e/equilibrium.md) price:
 
 - **Price Floors**: A government-imposed limit on how low a price can be charged for a product. When a price floor is set above the [equilibrium](../e/equilibrium.md) price, it can lead to a surplus, as suppliers produce more than consumers are willing to buy at that price.
-  
+
 - **Price Ceilings**: A limit on how high the price of a product can go, set below the [equilibrium](../e/equilibrium.md) price, leading to shortages. In some cases, artificial price ceilings and floors lead to [market](../m/market.md) imbalances leading to either surpluses or shortages.
 
 ## Surplus in Fiscal Policy
@@ -49,7 +49,7 @@ A cash surplus is the additional [liquidity](../l/liquidity.md) a company holds 
 
 ## Surplus in Financial Markets
 
-In [financial markets](../f/financial_market.md), surpluses can relate to several facets such as [trade](../t/trade.md) balances in the context of international [finance](../f/finance.md) or funds managed within investment portfolios. 
+In [financial markets](../f/financial_market.md), surpluses can relate to several facets such as [trade](../t/trade.md) balances in the context of international [finance](../f/finance.md) or funds managed within investment portfolios.
 
 ### Trade Surplus
 A [trade surplus](../t/trade_surplus.md) occurs when a country's exports exceed its imports. This favorable balance of [trade](../t/trade.md) can lead to a stronger [national currency](../n/national_currency.md), increased foreign reserves, and an overall positive impact on the country's GDP. However, prolonged [trade](../t/trade.md) surpluses may result in [trade](../t/trade.md) tensions with partner countries, as seen in various global economic scenarios.
@@ -93,7 +93,7 @@ Surplus is a profound concept in [economics](../e/economics.md) and [finance](..
 
 ## Links to Companies
 
-- [Apple Inc.](https://www.apple.com/investor-relations/)
-- [Government of Singapore Investment Corporation (GIC)](https://www.gic.com.sg)
-- [Temasek Holdings](https://www.temasek.com.sg)
-- [Norway’s Government Pension Fund Global](https://www.nbim.no/en/)
+- Apple Inc.
+- Government of Singapore Investment Corporation (GIC)
+- Temasek Holdings
+- Norway’s Government Pension Fund Global

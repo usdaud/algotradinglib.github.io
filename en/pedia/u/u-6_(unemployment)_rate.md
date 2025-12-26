@@ -9,7 +9,7 @@ The U-6 rate encompasses several categories of workers who are often overlooked 
 1. **Officially Unemployed (U-3)**: People without jobs who are actively seeking employment and are available to start work. This is the standard that most people think of when discussing [unemployment](../u/unemployment.md) rates.
 
 2. **Marginally Attached Workers**: Individuals who are not currently working or looking for work but have shown some degree of [interest](../i/interest.md) in working in the recent past—specifically, they have looked for work within the last 12 months but not in the past four weeks. This group includes:
-    - **Discouraged Workers**: Those who are not searching for work because they believe no jobs are available for them or that there are no jobs for which they would qualify.
+ - **Discouraged Workers**: Those who are not searching for work because they believe no jobs are available for them or that there are no jobs for which they would qualify.
 
 3. **Involuntary Part-Time Workers**: Workers who are employed part-time (less than 35 hours per week) but desire and are available for full-time work. These individuals are also known as "part-time for economic reasons," as their [underemployment](../u/underemployment.md) is typically due to unfavorable [business](../b/business.md) conditions or the inability to find full-time work.
 
@@ -49,9 +49,8 @@ Historically, the U-6 rate tends to follow the same overall trends as the U-3 ra
 
 ### Recent Data
 
-For the latest [statistics](../s/statistics.md) and historical data on the U-6 [unemployment rate](../u/unemployment_rate.md), you can refer to the Bureau of Labor [Statistics](../s/statistics.md)’ official page on alternative measures of labor underutilization:
+For the latest [statistics](../s/statistics.md) and historical data on the U-6 [unemployment rate](../u/unemployment_rate.md), you can refer to the Bureau of Labor [Statistics](../s/statistics.md)’ public materials on alternative measures of labor underutilization:
 
-[Bureau of Labor Statistics - U-6 Rate](https://www.bls.gov/lau/stalt.htm)
 
 ## Criticisms and Limitations
 

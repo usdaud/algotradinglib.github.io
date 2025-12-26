@@ -76,7 +76,7 @@ One of the most significant carding incidents was the Target data breach in 2013
 
 In another major case, Heartland [Payment](../p/payment.md) Systems, a [payment](../p/payment.md) processing company, experienced a data breach in 2008. Attackers installed malware on the company's network, compromising over 100 million [credit](../c/credit.md) and [debit](../d/debit.md) card accounts. The incident prompted widespread concern and led to enhanced [security](../s/security.md) measures across the [payment](../p/payment.md) [industry](../i/industry.md).
 
-For more information on Target: [Target Corporation](https://corporate.target.com/)
-For more information on Heartland [Payment](../p/payment.md) Systems: [Heartland Payment Systems](https://www.heartlandpaymentsystems.com/)
+For more information on Target: Target Corporation
+For more information on Heartland [Payment](../p/payment.md) Systems: Heartland Payment Systems
 
 Carding remains a pervasive [issue](../i/issue.md) in the digital age, posing continuous challenges to cybersecurity and financial systems globally. Through collaboration, advanced [security](../s/security.md) practices, and public education, efforts to combat carding can help reduce its impact and protect consumers.

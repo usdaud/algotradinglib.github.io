@@ -47,7 +47,7 @@ Staking ICX tokens is an essential part of participating in the ICON network. By
 
 ### Staking Process
 1. **Locking Up Tokens**: Users need to lock up (or stake) their ICX tokens in a smart contract.
-2. **Earn Rewards**: Rewards are earned based on the number of tokens staked and the length of the staking period. 
+2. **Earn Rewards**: Rewards are earned based on the number of tokens staked and the length of the staking period.
 3. **Unstaking**: Users can unstake their tokens, though this usually involves a [waiting period](../w/waiting_period.md) to ensure network stability.
 
 ## Use Cases and Applications
@@ -95,4 +95,3 @@ ICON 2.0 is an upcoming major [upgrade](../u/upgrade.md) aimed at improving the 
 ## Conclusion
 ICON (ICX) is a pioneering project that aims to create an interconnected [blockchain](../b/blockchain_in_trading.md) ecosystem. Through its innovative technology, strong governance model, and strategic partnerships, ICON is well-positioned to play a crucial role in the future of [blockchain](../b/blockchain_in_trading.md) and decentralized [finance](../f/finance.md). The network's focus on interoperability allows it to bridge the gap between different blockchains, providing a unified platform for various industries and applications to thrive.
 
-For more information, you can visit the official ICON Foundation website at [ICON Foundation](https://icon.foundation/).

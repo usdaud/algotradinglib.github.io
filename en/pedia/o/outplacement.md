@@ -37,20 +37,20 @@ Outplacement is a service offered by organizations to support employees who are 
 ## Types of Outplacement Programs
 
 1. **Individual Outplacement**: Tailored to executives or senior-level employees, individual outplacement programs [offer](../o/offer.md) highly personalized services, including executive coaching and advanced career strategy sessions.
-   
+
 2. **Group Outplacement**: Often used during large-scale layoffs, group outplacement involves workshops and training sessions for [multiple](../m/multiple.md) employees at once. It’s a cost-effective way to deliver support while addressing common needs.
 
 3. **Virtual Outplacement**: With advancements in technology, many outplacement services are now offered virtually. This includes online coaching, webinars, and access to digital job search tools. Virtual outplacement is especially useful for remote or globally dispersed workforces.
 
 ## Examples of Outplacement Firms
 
-1. **RiseSmart**: RiseSmart offers contemporary outplacement services with a focus on technology and data-driven results. Their features include personalized coaching, [resume](../r/resume.md) writing, and job search assistance. [RiseSmart](https://www.risesmart.com/)
+1. **RiseSmart**: RiseSmart offers contemporary outplacement services with a focus on technology and data-driven results. Their features include personalized coaching, [resume](../r/resume.md) writing, and job search assistance. RiseSmart
 
-2. **Lee Hecht Harrison (LHH)**: LHH is a global outplacement [firm](../f/firm.md) that provides a wide [range](../r/range.md) of services including career coaching, job search strategies, and emotional support. They are renowned for their comprehensive and tailored outplacement solutions. [LHH](https://www.lhh.com/us/en/)
+2. **Lee Hecht Harrison (LHH)**: LHH is a global outplacement [firm](../f/firm.md) that provides a wide [range](../r/range.md) of services including career coaching, job search strategies, and emotional support. They are renowned for their comprehensive and tailored outplacement solutions. LHH
 
-3. **Right Management**: As part of the ManpowerGroup, Right Management offers extensive outplacement and career management services. Their offerings include career assessment, job search support, and professional development resources. [Right Management](https://www.right.com/)
+3. **Right Management**: As part of the ManpowerGroup, Right Management offers extensive outplacement and career management services. Their offerings include career assessment, job search support, and professional development resources. Right Management
 
-4. **Career Partners International (CPI)**: CPI provides personalized outplacement services with a focus on matching employees with the right career opportunities quickly. Their services include career coaching, [resume](../r/resume.md) writing, and job search strategies. [CPI](https://www.cpiworld.com/)
+4. **Career Partners International (CPI)**: CPI provides personalized outplacement services with a focus on matching employees with the right career opportunities quickly. Their services include career coaching, [resume](../r/resume.md) writing, and job search strategies. CPI
 
 ## The Evolution of Outplacement
 

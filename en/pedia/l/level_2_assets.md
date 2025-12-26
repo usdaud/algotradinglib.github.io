@@ -5,7 +5,7 @@ Level 2 assets are one of the categories used in financial reporting under the [
 ## Characteristics of Level 2 Assets
 
 Level 2 assets [hold](../h/hold.md) several distinguishing features:
- 
+
 1. **Observable Inputs**: Unlike [Level 1 assets](../l/level_1_assets.md), Level 2 assets utilize observable inputs other than quoted prices that are readily available for identical assets. Such observable inputs could include quoted prices for similar assets in active or non-active markets.
 2. **[Market](../m/market.md) Activity**: These assets are not traded in high volumes or frequency, making their [valuation](../v/valuation.md) less transparent compared to [Level 1 assets](../l/level_1_assets.md).
 3. **Reliance on Models**: [Valuation](../v/valuation.md) relies on models incorporating observable [market](../m/market.md) data. For instance, the [fair value](../f/fair_value.md) might be derived using the [present value](../p/present_value.md) of expected future cash flows, with inputs based on observable [market](../m/market.md) data, such as [interest](../i/interest.md) rates and [yield](../y/yield.md) curves.
@@ -13,7 +13,7 @@ Level 2 assets [hold](../h/hold.md) several distinguishing features:
 ## Examples of Level 2 Assets
 
 Examples of Level 2 assets include:
- 
+
 1. **Corporate Bonds**: These bonds may not [trade](../t/trade.md) daily but have observable data points such as [interest](../i/interest.md) rates and [credit](../c/credit.md) [spreads](../s/spreads.md) that can be used in [valuation models](../v/valuation_models.md).
 2. **[Mortgage](../m/mortgage.md)-backed Securities (MBS)**: Although these securities do not [trade](../t/trade.md) as frequently as more [liquid](../l/liquid.md) assets, they do have observable inputs like yields and [prepayment](../p/prepayment.md) rates that help in [valuation](../v/valuation.md).
 3. **[Derivatives](../d/derivatives.md)**: Certain [derivatives](../d/derivatives.md), like [interest rate swaps](../i/interest_rate_swaps.md), fall under Level 2 as their fair values can be determined using models with observable inputs such as [interest rate](../i/interest_rate.md) curves.
@@ -52,4 +52,4 @@ Valuing Level 2 assets poses several challenges due to the nature of their input
 
 ## Conclusion
 
-Level 2 assets play a vital role in [financial markets](../f/financial_market.md) and institutions. Their [valuation](../v/valuation.md), while more complex than [Level 1 assets](../l/level_1_assets.md), strikes a balance by utilizing observable inputs and sophisticated models. Understanding these assets, their [valuation](../v/valuation.md) methods, and related regulatory frameworks helps in appreciating the nuanced [transparency](../t/transparency.md) they [offer](../o/offer.md) in financial reporting. For more information on the regulations and frameworks, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board at [FASB](https://www.fasb.org/) and the International Financial Reporting Standards Foundation at [IFRS](https://www.ifrs.org/).
+Level 2 assets play a vital role in [financial markets](../f/financial_market.md) and institutions. Their [valuation](../v/valuation.md), while more complex than [Level 1 assets](../l/level_1_assets.md), strikes a balance by utilizing observable inputs and sophisticated models. Understanding these assets, their [valuation](../v/valuation.md) methods, and related regulatory frameworks helps in appreciating the nuanced [transparency](../t/transparency.md) they [offer](../o/offer.md) in financial reporting. For more information on the regulations and frameworks, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board at FASB and the International Financial Reporting Standards Foundation at IFRS.

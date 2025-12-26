@@ -51,17 +51,17 @@ Several advanced [software tools](../s/software_tools_for_trading.md) can assist
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers extensive financial data, analytics, and tools for both [value](../v/value.md) and [momentum analysis](../m/momentum_analysis.md).
 - **[Morningstar](../m/morningstar.md) Direct**: Provides comprehensive data that can help in screening [value](../v/value.md) [stocks](../s/stock.md) and analyzing [momentum](../m/momentum.md).
-- **[QuantConnect](../q/quantconnect.md)**: A platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies, ideal for custom [Value](../v/value.md)-[Momentum Investing](../m/momentum_investing.md) algorithms.
+- **[StockSharp](../s/stocksharp.md)**: A platform for [backtesting](../b/backtesting.md) and deploying [quantitative trading](../q/quantitative_trading.md) strategies, ideal for custom [Value](../v/value.md)-[Momentum Investing](../m/momentum_investing.md) algorithms.
 - **Kensho**: AI-driven analytics platform useful for uncovering [market](../m/market.md) trends.
 - **[TradeStation](../t/tradestation.md)**: A [trading platform](../t/trading_platform.md) that offers both [technical analysis](../t/technical_analysis.md) tools for [momentum investing](../m/momentum_investing.md) and [fundamental analysis](../f/fundamental_analysis.md) for [value investing](../v/value_investing.md).
 
 #### Case Studies
 
-1. **AQR [Capital](../c/capital.md) Management**: AQR integrates [value](../v/value.md) and [momentum](../m/momentum.md) strategies extensively in their [portfolio management](../p/portfolio_management.md). More about AQR can be found on their website: [AQR Capital Management](https://www.aqr.com/).
+1. **AQR [Capital](../c/capital.md) Management**: AQR integrates [value](../v/value.md) and [momentum](../m/momentum.md) strategies extensively in their [portfolio management](../p/portfolio_management.md). More about AQR can be found through its online channels: AQR Capital Management.
 
-2. **Bridgewater Associates**: While primarily quant-driven, Bridgewater employs diversified strategies that include elements of both [value](../v/value.md) and [momentum investing](../m/momentum_investing.md). Learn more about Bridgewater Associates on their website: [Bridgewater Associates](https://www.bridgewater.com/).
+2. **Bridgewater Associates**: While primarily quant-driven, Bridgewater employs diversified strategies that include elements of both [value](../v/value.md) and [momentum investing](../m/momentum_investing.md).
 
-3. **Robeco**: This [firm](../f/firm.md) has various funds that apply the [value](../v/value.md)-[momentum](../m/momentum.md) strategy. Detailed information can be found here: [Robeco](https://www.robeco.com/).
+3. **Robeco**: This [firm](../f/firm.md) has various funds that apply the [value](../v/value.md)-[momentum](../m/momentum.md) strategy. Detailed information can be found here: Robeco.
 
 #### Academic References
 

@@ -1,6 +1,6 @@
 # Shortfall
 
-In the realm of [finance](../f/finance.md) and trading, "shortfall" refers to the situation where there is a [deficit](../d/deficit.md) or inadequacy in meeting an expected level or requirement. This term can be applied in various contexts such as [income](../i/income.md), [asset](../a/asset.md) performance, budgeting, or [trading strategies](../t/trading_strategies.md). Understanding shortfalls is crucial for [financial planning](../f/financial_planning.md), [risk management](../r/risk_management.md), and developing effective [trading algorithms](../t/trading_algorithms.md). 
+In the realm of [finance](../f/finance.md) and trading, "shortfall" refers to the situation where there is a [deficit](../d/deficit.md) or inadequacy in meeting an expected level or requirement. This term can be applied in various contexts such as [income](../i/income.md), [asset](../a/asset.md) performance, budgeting, or [trading strategies](../t/trading_strategies.md). Understanding shortfalls is crucial for [financial planning](../f/financial_planning.md), [risk management](../r/risk_management.md), and developing effective [trading algorithms](../t/trading_algorithms.md).
 
 ## Types of Shortfall
 
@@ -18,7 +18,7 @@ Funding shortfall often occurs in pension plans or long-term financial projects 
 
 ## Shortfall in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), often referred to as algo-trading, utilizes computer algorithms to execute trades based on predefined criteria. In algo-trading, shortfall might occur due to various factors such as poor strategy design, [execution](../e/execution.md) delays, or unforeseen [market](../m/market.md) conditions. Understanding these dynamics is vital for minimizing losses and improving the robustness of [trading algorithms](../t/trading_algorithms.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, utilizes computer algorithms to execute trades based on predefined criteria. In algo-trading, shortfall might occur due to various factors such as poor strategy design, [execution](../e/execution.md) delays, or unforeseen [market](../m/market.md) conditions. Understanding these dynamics is vital for minimizing losses and improving the robustness of [trading algorithms](../t/trading_algorithms.md).
 
 ### 1. Execution Shortfall
 [Execution](../e/execution.md) shortfall is a measure of the deviation between the actual fill price of a [trade](../t/trade.md) and its theoretical optimal price. This concept is particularly important for institutional investors and high-frequency traders who need to efficiently execute large volumes of trades without significantly impacting the [market price](../m/market_price.md).
@@ -54,4 +54,4 @@ Hedging involves taking offsetting positions in related securities to reduce the
 
 ## Conclusion
 
-Shortfall is an inherent aspect of [finance](../f/finance.md) and trading, encompassing budgetary deficits, performance [gaps](../g/gap.md), [liquidity](../l/liquidity.md) issues, and more. In the specialized context of [algorithmic trading](../a/accountability.md), managing shortfall involves a deep understanding of [execution](../e/execution.md) dynamics, strategy [optimization](../o/optimization.md), model validation, and data quality. By employing [risk management techniques](../r/risk_management_techniques.md) such as hedging, [diversification](../d/diversification.md), and [adaptive algorithms](../a/adaptive_algorithms.md), traders and financial planners can better navigate and mitigate the challenges associated with shortfalls, ultimately enhancing financial stability and performance.
+Shortfall is an inherent aspect of [finance](../f/finance.md) and trading, encompassing budgetary deficits, performance [gaps](../g/gap.md), [liquidity](../l/liquidity.md) issues, and more. In the specialized context of [algorithmic trading](../a/algorithmic_trading.md), managing shortfall involves a deep understanding of [execution](../e/execution.md) dynamics, strategy [optimization](../o/optimization.md), model validation, and data quality. By employing [risk management techniques](../r/risk_management_techniques.md) such as hedging, [diversification](../d/diversification.md), and [adaptive algorithms](../a/adaptive_algorithms.md), traders and financial planners can better navigate and mitigate the challenges associated with shortfalls, ultimately enhancing financial stability and performance.

@@ -12,13 +12,13 @@ Before the introduction of the Jordanian Dinar, Jordan used the Palestinian poun
 
 #### Linked to the British Pound
 
-Initially, the Jordanian Dinar was pegged to the British pound sterling. This relationship was maintained until 1971, when changes in global [exchange rate](../e/exchange_rate.md) systems compelled Jordan to reevaluate its [currency](../c/currency.md)'s peg. 
+Initially, the Jordanian Dinar was pegged to the British pound sterling. This relationship was maintained until 1971, when changes in global [exchange rate](../e/exchange_rate.md) systems compelled Jordan to reevaluate its [currency](../c/currency.md)'s peg.
 
 ## Monetary Policy and the Central Bank of Jordan
 
 ### Central Bank of Jordan
 
-The Central [Bank](../b/bank.md) of Jordan (CBJ) is responsible for issuing and regulating the Jordanian Dinar. Established in 1964, the CBJ has a mandate to maintain monetary and financial stability in Jordan. More information can be found on their [official website](http://www.cbj.gov.jo/).
+The Central [Bank](../b/bank.md) of Jordan (CBJ) is responsible for issuing and regulating the Jordanian Dinar. Established in 1964, the CBJ has a mandate to maintain monetary and financial stability in Jordan.
 
 ### Exchange Rate Policy
 
@@ -26,7 +26,7 @@ Since 1995, the Jordanian Dinar has been pegged to the US Dollar at an [exchange
 
 ## Denominations
 
-The Jordanian Dinar is available in both coins and banknotes, with various denominations serving different monetary needs. 
+The Jordanian Dinar is available in both coins and banknotes, with various denominations serving different monetary needs.
 
 ### Coins
 
@@ -56,7 +56,7 @@ Each banknote features portraits of Jordanian [royalty](../r/royalty.md) and sig
 
 ### Inflation Control
 
-One of the primary roles of the Central [Bank](../b/bank.md) of Jordan is to control [inflation](../i/inflation.md), ensuring that the [value](../v/value.md) of the Jordanian Dinar remains stable. By [pegging](../p/pegging.md) the JOD to the USD, the CBJ aims to mitigate external economic shocks. 
+One of the primary roles of the Central [Bank](../b/bank.md) of Jordan is to control [inflation](../i/inflation.md), ensuring that the [value](../v/value.md) of the Jordanian Dinar remains stable. By [pegging](../p/pegging.md) the JOD to the USD, the CBJ aims to mitigate external economic shocks.
 
 ### Foreign Reserves
 

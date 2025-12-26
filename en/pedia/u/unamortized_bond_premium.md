@@ -4,7 +4,7 @@ In the world of [finance](../f/finance.md) and trading, the term "Unamortized [B
 
 **Bonds and [Bond](../b/bond.md) Premiums: A Primer**
 
-When a [corporation](../c/corporation.md) or government agency issues a [bond](../b/bond.md), they are essentially borrowing [money](../m/money.md) from investors. The [bond](../b/bond.md) [issuer](../i/issuer.md) promises to pay the [bondholder](../b/bondholder.md) a specified [interest rate](../i/interest_rate.md) (the [coupon rate](../c/coupon_rate.md)) over a predetermined period, after which the [principal](../p/principal.md) amount (the [face value](../f/face_value.md) of the [bond](../b/bond.md)) is returned to the [investor](../i/investor.md). 
+When a [corporation](../c/corporation.md) or government agency issues a [bond](../b/bond.md), they are essentially borrowing [money](../m/money.md) from investors. The [bond](../b/bond.md) [issuer](../i/issuer.md) promises to pay the [bondholder](../b/bondholder.md) a specified [interest rate](../i/interest_rate.md) (the [coupon rate](../c/coupon_rate.md)) over a predetermined period, after which the [principal](../p/principal.md) amount (the [face value](../f/face_value.md) of the [bond](../b/bond.md)) is returned to the [investor](../i/investor.md).
 
 ### Bond Issuance
 Bonds can be issued at [face value](../f/face_value.md) (par), at a [discount](../d/discount.md), or at a [premium](../p/premium.md):
@@ -12,7 +12,7 @@ Bonds can be issued at [face value](../f/face_value.md) (par), at a [discount](.
 2. **At a [Discount](../d/discount.md)**: When a [bond](../b/bond.md)’s [market price](../m/market_price.md) is lower than its [face value](../f/face_value.md).
 3. **At a [Premium](../p/premium.md)**: When a [bond](../b/bond.md)’s [market price](../m/market_price.md) is higher than its [face value](../f/face_value.md).
 
-A [bond](../b/bond.md) is sold at a [premium](../p/premium.md) when its [coupon rate](../c/coupon_rate.md) is higher than the prevailing [market](../m/market.md) [interest](../i/interest.md) rates. Conversely, a [bond](../b/bond.md) is sold at a [discount](../d/discount.md) when its [coupon rate](../c/coupon_rate.md) is lower than the [market](../m/market.md) rate. 
+A [bond](../b/bond.md) is sold at a [premium](../p/premium.md) when its [coupon rate](../c/coupon_rate.md) is higher than the prevailing [market](../m/market.md) [interest](../i/interest.md) rates. Conversely, a [bond](../b/bond.md) is sold at a [discount](../d/discount.md) when its [coupon rate](../c/coupon_rate.md) is lower than the [market](../m/market.md) rate.
 
 ### Unamortized Bond Premium Explained
 When an [investor](../i/investor.md) buys a [bond](../b/bond.md) at a [premium](../p/premium.md), they pay more than the [face value](../f/face_value.md) for the [bond](../b/bond.md). This [premium](../p/premium.md) needs to be accounted for systematically over the life of the [bond](../b/bond.md), a process known as amortization. The portion of the [premium](../p/premium.md) that has not yet been amortized is known as the unamortized [bond](../b/bond.md) [premium](../p/premium.md).
@@ -29,7 +29,7 @@ When a [bond](../b/bond.md) is purchased at a [premium](../p/premium.md), the pu
        Cr. Cash                                $107,000
 ```
 
-If the [face value](../f/face_value.md) of the [bond](../b/bond.md) is $100,000 and it is purchased at $107,000, the [premium](../p/premium.md) is $7,000. 
+If the [face value](../f/face_value.md) of the [bond](../b/bond.md) is $100,000 and it is purchased at $107,000, the [premium](../p/premium.md) is $7,000.
 
 Over time, as amortization occurs, the entries would look something like:
 ```
@@ -45,7 +45,7 @@ The two primary methods used for amortizing [bond](../b/bond.md) premiums are th
 #### **Straight-Line Method**
 Under this method, the total [bond](../b/bond.md) [premium](../p/premium.md) is divided by the number of [interest](../i/interest.md) payments to be made over the [bond](../b/bond.md)’s life. This results in an equal amount of [premium](../p/premium.md) being amortized with each [payment](../p/payment.md).
 
-For example, if the [bond](../b/bond.md) mentioned above makes semi-annual payments and has a term of 10 years, that means 20 total [interest](../i/interest.md) payments. 
+For example, if the [bond](../b/bond.md) mentioned above makes semi-annual payments and has a term of 10 years, that means 20 total [interest](../i/interest.md) payments.
 ```
 $7,000 Total [Premium](../p/premium.md) / 20 Payments = $350 Amortized Per [Payment](../p/payment.md)
 ```
@@ -66,8 +66,8 @@ $5,000 - $350 = $4,650
 
 ### Real-World Application
 Several large financial institutions and corporations have entire departments dedicated to managing their [bond](../b/bond.md) portfolios, ensuring that [premium](../p/premium.md) and [discount](../d/discount.md) amortizations are accounted for accurately. For example:
-- **J.P. Morgan Chase** actively manages [bond](../b/bond.md) portfolios and provides extensive resources on [bond](../b/bond.md) investments (https://www.jpmorganchase.com/).
-- **Goldman Sachs** offers various fixed-[income](../i/income.md) securities to its clients and includes [bond](../b/bond.md) [accounting](../a/accounting.md) services (https://www.goldmansachs.com/).
+- **J.P. Morgan Chase** actively manages [bond](../b/bond.md) portfolios and provides extensive resources on [bond](../b/bond.md) investments (
+- **Goldman Sachs** offers various fixed-[income](../i/income.md) securities to its clients and includes [bond](../b/bond.md) [accounting](../a/accounting.md) services (
 
 ### Tax Implications
 In many tax jurisdictions, the amortization of [bond](../b/bond.md) premiums can have significant tax implications. Investors can often deduct the amortization of [bond](../b/bond.md) premiums from their taxable [interest](../i/interest.md) [income](../i/income.md), reducing their overall tax burden.
@@ -75,7 +75,7 @@ In many tax jurisdictions, the amortization of [bond](../b/bond.md) premiums can
 ### Advanced Considerations
 #### **Callable Bonds**
 Callable bonds, which can be redeemed by the [issuer](../i/issuer.md) before [maturity](../m/maturity.md), add complexity to the amortization process. Premiums on callable bonds must be amortized over the [bond](../b/bond.md)'s expected life, not its stated life, since the [bond](../b/bond.md) may be called early.
-   
+
 #### **Zero-Coupon Bonds**
 With zero-coupon bonds, there isn't periodic [interest](../i/interest.md). The [premium](../p/premium.md) amortization contributes directly to adjusting the [bond](../b/bond.md)'s carrying amount.
 

@@ -53,9 +53,9 @@ Tensions between the United States and Iran have periodically caused spikes in o
 
 Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md) and have developed sophisticated systems to navigate the complexities of geopolitical events. Notable examples include:
 
-- [Jane Street](https://www.janestreet.com/): A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses sophisticated algorithms and technology to [trade](../t/trade.md) a wide [range](../r/range.md) of financial products.
-- [Two Sigma](https://www.twosigma.com/): A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to build innovative [trading strategies](../t/trading_strategies.md).
-- [Citadel Securities](https://www.citadelsecurities.com/): A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) known for using advanced algorithms and technology to provide [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md).
+- Jane Street: A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses sophisticated algorithms and technology to [trade](../t/trade.md) a wide [range](../r/range.md) of financial products.
+- Two Sigma: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and technology to build innovative [trading strategies](../t/trading_strategies.md).
+- Citadel Securities: A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) known for using advanced algorithms and technology to provide [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md).
 
 ## The Future of Algorithmic Trading Amid Geopolitical Events
 

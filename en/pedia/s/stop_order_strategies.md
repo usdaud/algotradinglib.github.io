@@ -47,19 +47,19 @@ In [trend](../t/trend.md)-following strategies, trailing stops are often used to
 Modern trading platforms provide extensive support for various [stop order](../s/stop_order.md) strategies. Below are some leading platforms and their offerings:
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) (IBKR) provides comprehensive tools for implementing stop orders, including stop-loss, stop-limit, and [trailing stop](../t/trailing_stop.md) orders. Their [Trader](../t/trader.md) Workstation (TWS) platform allows for sophisticated [order management](../o/order_management_in_trading.md) and automation. More information can be found at [Interactive Brokers](https://www.interactivebrokers.com/).
+[Interactive Brokers](../i/interactive_brokers.md) (IBKR) provides comprehensive tools for implementing stop orders, including stop-loss, stop-limit, and [trailing stop](../t/trailing_stop.md) orders. Their [Trader](../t/trader.md) Workstation (TWS) platform allows for sophisticated [order management](../o/order_management_in_trading.md) and automation. More information can be found at Interactive Brokers.
 
 ### MetaTrader 5
-MetaTrader 5 (MT5) is well-known for its Algo trading capabilities. The platform supports [multiple](../m/multiple.md) stop [order types](../o/order_types_in_trading.md) and allows for the scripting of custom [trading algorithms](../t/trading_algorithms.md) using MQL5. More details can be accessed at [MetaTrader 5](https://www.metatrader5.com/).
+MetaTrader 5 (MT5) is well-known for its Algo trading capabilities. The platform supports [multiple](../m/multiple.md) stop [order types](../o/order_types_in_trading.md) and allows for the scripting of custom [trading algorithms](../t/trading_algorithms.md) using MQL5. More details can be accessed at MetaTrader 5.
 
 ### TradeStation
-[TradeStation](../t/tradestation.md) provides advanced tools for building and testing [stop order](../s/stop_order.md) strategies. Their platform offers various [order types](../o/order_types_in_trading.md) and advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities supported by their proprietary EasyLanguage scripting language. Learn more at [TradeStation](https://www.tradestation.com/).
+[TradeStation](../t/tradestation.md) provides advanced tools for building and testing [stop order](../s/stop_order.md) strategies. Their platform offers various [order types](../o/order_types_in_trading.md) and advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities supported by their proprietary EasyLanguage scripting language. Learn more at TradeStation.
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md), an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform, provides extensive support for [backtesting](../b/backtesting.md) and live trading using various [stop order](../s/stop_order.md) strategies. Algorithms can be coded in [multiple](../m/multiple.md) languages, including C#, Python, and F#. For more details, visit [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md), an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform, provides extensive support for [backtesting](../b/backtesting.md) and live trading using various [stop order](../s/stop_order.md) strategies. Algorithms can be coded in [multiple](../m/multiple.md) languages, including C#, Python, and F#. For more details, visit QuantConnect.
 
 ### ThinkOrSwim
-[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offers powerful tools for active trading and supports a [range](../r/range.md) of stop [order types](../o/order_types_in_trading.md). The platform features customizable algorithms and real-time adjustment capabilities. Visit [ThinkOrSwim](https://www.thinkorswim.com/) for more information.
+[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) offers powerful tools for active trading and supports a [range](../r/range.md) of stop [order types](../o/order_types_in_trading.md). The platform features customizable algorithms and real-time adjustment capabilities. Visit ThinkOrSwim for more information.
 
 ## Conclusion
 

@@ -30,9 +30,9 @@
 ### Step-by-Step Process
 
 1. **Data Collection**: The first step involves collecting historical and [real-time market data](../r/real-time_market_data.md) (prices, volumes, [financial statements](../f/financial_statements.md), etc.). Sources include exchanges, financial institutions, and specialized data providers.
-  
+
 2. **Data Preprocessing**: Cleaning and preparing data for analysis by handling missing values, normalizing data, and feature engineering.
-  
+
 3. **Model Selection and Development**: Depending on the strategy, models such as ARIMA for time-series [forecasting](../f/forecasting.md), [logistic regression](../l/logistic_regression_in_trading.md) for classification, or [deep learning](../d/deep_learning.md) models for complex patterns are selected and developed.
 
 4. **[Backtesting](../b/backtesting.md)**: Running the algorithm on historical data to assess performance. It is crucial to include [transaction costs](../t/transaction_costs.md), [slippage](../s/slippage.md), and realistic assumptions in the [backtesting](../b/backtesting.md) process.
@@ -44,9 +44,9 @@
 7. **Live Trading**: Deploying the algorithm for live trading, continuously monitoring performance, and making necessary adjustments.
 
 ### Example Platforms and Tools
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and [offering](../o/offering.md) [robust](../r/robust.md) [backtesting](../b/backtesting.md) tools. [QuantConnect](https://www.quantconnect.com/)
-- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free API for trading [stocks](../s/stock.md), which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). [Alpaca](https://alpaca.markets/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a comprehensive suite of trading APIs for different [asset](../a/asset.md) classes, along with [risk management](../r/risk_management.md) tools. [Interactive Brokers](https://www.interactivebrokers.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source cloud platform for [algorithmic trading](../a/algorithmic_trading.md) and research, supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and [offering](../o/offering.md) [robust](../r/robust.md) [backtesting](../b/backtesting.md) tools. QuantConnect
+- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free API for trading [stocks](../s/stock.md), which allows developers to create and execute algo [trading strategies](../t/trading_strategies.md). Alpaca
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides a comprehensive suite of trading APIs for different [asset](../a/asset.md) classes, along with [risk management](../r/risk_management.md) tools. Interactive Brokers
 
 ### Case Study: Momentum Strategy with Risk Management
 
@@ -56,7 +56,7 @@ Develop a [momentum](../m/momentum.md)-based trading algorithm that improves [yi
 #### Steps and Approach
 
 1. **Data Collection**: Retrieve historical price data for a set of assets.
-  
+
 2. **Feature Engineering**: Create [momentum indicators](../m/momentum_indicators.md) like Moving Average Convergence [Divergence](../d/divergence.md) (MACD) and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI).
 
 3. **Model Development**: Define the [trading rules](../t/trading_rules.md) based on [momentum indicators](../m/momentum_indicators.md), e.g., buy when MACD crosses above zero and sell when RSI exceeds 70.
@@ -67,7 +67,7 @@ Develop a [momentum](../m/momentum.md)-based trading algorithm that improves [yi
 
 6. **[Optimization](../o/optimization.md)**: Adjust parameters (e.g., MACD periods, RSI thresholds) to improve the [Sharpe ratio](../s/sharpe_ratio.md) without [overfitting](../o/overfitting.md) the model.
 
-7. **Deployment**: Implement the strategy using a [trading platform](../t/trading_platform.md) like [QuantConnect](../q/quantconnect.md), ensuring real-time data handling and [execution](../e/execution.md).
+7. **Deployment**: Implement the strategy using a [trading platform](../t/trading_platform.md) like [StockSharp](../s/stocksharp.md), ensuring real-time data handling and [execution](../e/execution.md).
 
 ### Challenges and Considerations
 

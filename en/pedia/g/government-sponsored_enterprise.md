@@ -22,27 +22,27 @@ Some defining characteristics of GSEs include:
 ### Federal National Mortgage Association (Fannie Mae)
 Fannie Mae was created in 1938 to expand the secondary [mortgage](../m/mortgage.md) [market](../m/market.md) by securitizing mortgages using [mortgage](../m/mortgage.md)-backed securities (MBS), thereby allowing lenders to reinvest their assets into more lending. This [securitization](../s/securitization.md) also allows institutions to mitigate [risk](../r/risk.md) associated with [mortgage](../m/mortgage.md) lending.
 
-- [Fannie Mae](https://www.fanniemae.com/un/data-tools/data-downloads)
+- Fannie Mae
 
 ### Federal Home Loan Mortgage Corporation (Freddie Mac)
 [Freddie Mac](../f/freddie_mac.md) was established in 1970 to further support the secondary [mortgage](../m/mortgage.md) [market](../m/market.md) and to reduce the [risk](../r/risk.md) to lenders by purchasing residential mortgages, packaging them into MBS, and selling them to investors. Both Fannie Mae and [Freddie Mac](../f/freddie_mac.md) aim to improve housing [finance](../f/finance.md) stability and affordability.
 
-- [Freddie Mac](https://www.freddiemac.com)
+- Freddie Mac
 
 ### Federal Home Loan Banks (FHLBanks)
 The network of regional FHLBanks, founded in 1932, provides reliable funding to American financial institutions (notably community banks) to support [home mortgage](../h/home_mortgage.md) lending, small [business](../b/business.md) loans, disaster relief, and rural development. The FHLBanks play a crucial role in maintaining [liquidity](../l/liquidity.md) in the local banking system.
 
-- [FHLBanks](https://www.fhlbanks.com)
+- FHLBanks
 
 ### Federal Agricultural Mortgage Corporation (Farmer Mac)
 Farmer Mac, created in 1988, enhances the availability of farm and rural [credit](../c/credit.md) by purchasing eligible loans and creating securities backed by them. It provides a [secondary market](../s/secondary_market.md) for agricultural loans, similar to how Fannie Mae and [Freddie Mac](../f/freddie_mac.md) operate in the housing [market](../m/market.md).
 
-- [Farmer Mac](https://www.farmermac.com)
+- Farmer Mac
 
 ### Student Loan Marketing Association (Sallie Mae)
 Originally established in 1972 as a GSE, Sallie Mae was privatized in 2004 but continues to affect the student [loan](../l/loan.md) [market](../m/market.md), primarily through servicing and collection of education loans. Its transition from GSE to a private entity reflects the changing approach to managing and [financing](../f/financing.md) student loans.
 
-- [Sallie Mae](https://www.salliemae.com)
+- Sallie Mae
 
 ## Implications and Controversies
 
@@ -62,7 +62,7 @@ GSEs are subject to various levels of oversight and regulation, often involving 
 ### Federal Housing Finance Agency (FHFA)
 The FHFA was established in 2008 to provide oversight and regulatory control over the housing GSEs. It ensures they operate safely and soundly within their legislative mandates, maintain sufficient [capital](../c/capital.md) levels, and adhere to proper [risk management](../r/risk_management.md) practices.
 
-- [FHFA](https://www.fhfa.gov)
+- FHFA
 
 ### Office of Federal Housing Enterprise Oversight (OFHEO)
 Prior to the establishment of FHFA, the oversight of Fannie Mae and [Freddie Mac](../f/freddie_mac.md) was the responsibility of the OFHEO. Post-2008 reforms consolidated these functions within the FHFA to streamline and enhance regulatory [efficiency](../e/efficiency.md).

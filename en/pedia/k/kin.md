@@ -74,23 +74,23 @@ Several companies and applications have integrated Kin to [leverage](../l/levera
 
 - **Kik Messenger**: As the origin platform for Kin, Kik continues to drive engagement and usage of the cryptocurrency within its messaging app.
 
-Link: [Kik Messenger](https://www.kik.com)
+Link: Kik Messenger
 
 - **MadLipz**: A popular app for creating and sharing video parodies, MadLipz uses Kin to reward users and creators for their contributions.
 
-Link: [MadLipz](https://www.madlipz.com)
+Link: MadLipz
 
 - **Tapatalk**: A forum hosting service, Tapatalk integrates Kin to enable forum participants to earn rewards for quality posts and interactions.
 
-Link: [Tapatalk](https://www.tapatalk.com)
+Link: Tapatalk
 
 - **Perfect365**: An augmented reality beauty app that uses Kin to reward users for their engagement and activity within the platform.
 
-Link: [Perfect365](https://www.perfect365.com)
+Link: Perfect365
 
 - **PeerBet**: A peer-to-peer betting platform where users can wager Kin on various outcomes, providing a decentralized alternative to traditional betting platforms.
 
-Link: [PeerBet](https://peerbet.io)
+Link: PeerBet
 
 ## Future Roadmap
 

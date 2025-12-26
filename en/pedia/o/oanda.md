@@ -47,5 +47,3 @@ OANDA is regulated by several top-tier financial authorities, ensuring a secure 
 - [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) in the USA
 - Monetary Authority of Singapore (MAS)
 
-## Website
-For more information and to start trading, visit the official OANDA website: [OANDA](https://www.oanda.com)

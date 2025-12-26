@@ -76,7 +76,7 @@ Integrating [blockchain](../b/blockchain_in_trading.md) technology into existing
 
 The cryptocurrency [market](../m/market.md) is known for its [volatility](../v/volatility.md), and tokens issued through a reverse ICO are not immune to these [market dynamics](../m/market_dynamics.md). Companies must prepare for potential fluctuations in their token's [value](../v/value.md) and ensure they have a strategy to manage these risks.
 
-### Investor Relations and Communications
+### company filings and Communications
 
 Maintaining transparent and consistent communication with investors is crucial for the success of a reverse ICO. Companies must provide regular updates, address [investor](../i/investor.md) concerns promptly, and maintain a transparent dialogue to build and sustain [investor](../i/investor.md) confidence.
 
@@ -86,13 +86,13 @@ Maintaining transparent and consistent communication with investors is crucial f
 
 One of the most notable examples of a reverse ICO is the Telegram [Open](../o/open.md) Network (TON) conducted by Telegram, a well-established messaging platform. In 2018, Telegram raised $1.7 billion through its token [sale](../s/sale.md), intending to develop a decentralized platform for digital communication and transactions. Despite facing regulatory challenges and eventual legal hurdles with the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), the TON ICO demonstrated the significant [interest](../i/interest.md) and potential for reverse ICOs.
 
-More details can be found on their website: [Telegram](https://telegram.org/)
+More details can be found through its online channels: Telegram
 
 ### Kodak
 
 In 2018, Kodak announced the KodakCoin reverse ICO, aimed at creating a [blockchain](../b/blockchain_in_trading.md)-based image rights management platform. Kodak, a well-known name in photography, leveraged its [brand recognition](../b/brand_recognition.md) to attract [interest](../i/interest.md) in its cryptocurrency initiative. Despite some operational delays, the KodakCoin project illustrates how established companies can innovate and explore new avenues through reverse ICOs.
 
-More details can be found on their website: [Kodak](https://www.kodak.com/)
+More details can be found through its online channels: Kodak
 
 ## Future Outlook
 

@@ -26,7 +26,7 @@ Lenders regularly assess NTA to determine a company's [creditworthiness](../c/cr
 ### Comparisons and Ratios
 Investors use the NTA in [multiple](../m/multiple.md) [valuation ratios](../v/valuation_ratios.md):
 
-* **Price-to-Book Ratio (P/B Ratio)**: 
+* **Price-to-Book Ratio (P/B Ratio)**:
 \[ \text{P/B Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Book Value](../b/book_value.md) per Share}} \]
 Where [Book Value](../b/book_value.md) per Share could be derived from NTA.
 
@@ -81,4 +81,4 @@ The relevance of NTA varies across industries. [Asset](../a/asset.md)-heavy indu
 
 Net [Tangible Assets](../t/tangible_asset.md) serve as a cornerstone for [multiple](../m/multiple.md) [financial analysis](../f/financial_analysis.md) purposes. They [offer](../o/offer.md) crucial insights into a company's [valuation](../v/valuation.md), investment appeal, and [creditworthiness](../c/creditworthiness.md). However, while NTA is undeniably important, it must be considered within the broader context of financial metrics for a comprehensive understanding of a company's true [value](../v/value.md).
 
-For detailed company-specific data, financial reports, and further reading, visit the [Tesla Investor Relations](https://ir.tesla.com) page.
+For detailed company-specific data, financial reports, and further reading,

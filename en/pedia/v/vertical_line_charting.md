@@ -66,13 +66,10 @@ There are several tools and software [options](../o/options.md) available that s
 ### Leading Platforms
 
 1. **[TradingView](../t/tradingview.md)**: [TradingView](../t/tradingview.md) offers [robust](../r/robust.md) charting tools and supports various types of charting methods, including Vertical Line Charting. It provides a comprehensive suite of [technical analysis tools](../t/technical_analysis_tools.md) that can be customized to the [trader](../t/trader.md)'s needs.
-    - Website: [TradingView](https://www.tradingview.com)
 
 2. **MetaTrader 4/5**: Known for its extensive [range](../r/range.md) of charting tools and indicators, MetaTrader platforms can be configured for Vertical Line Charting through custom scripts and plugins.
-    - Website: [MetaTrader 4](https://www.metatrader4.com) / [MetaTrader 5](https://www.metatrader5.com)
 
 3. **[NinjaTrader](../n/ninjatrader.md)**: This platform is also highly customizable and supports various charting methods. Traders can set up Vertical Line Charts through [NinjaTrader](../n/ninjatrader.md)’s sophisticated analytic capabilities.
-    - Website: [NinjaTrader](https://www.ninjatrader.com)
 
 ### Custom Scripts and Plugins
 

@@ -8,9 +8,9 @@ A [benchmark](../b/benchmark.md), in financial parlance, is a standard or point 
 
 ### Types of Benchmarks
 1. **[Market](../m/market.md) Indices**: These are the most common benchmarks and include:
-   - **S&P 500**: Comprises 500 of the largest companies [listed](../l/listed.md) on US stock exchanges.
-   - **[NASDAQ](../n/nasdaq.md) Composite**: Includes over 2,500 companies traded on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md).
-   - **Dow Jones Industrial Average (DJIA)**: Consists of 30 large publicly-owned companies in the US.
+ - **S&P 500**: Comprises 500 of the largest companies [listed](../l/listed.md) on US stock exchanges.
+ - **[NASDAQ](../n/nasdaq.md) Composite**: Includes over 2,500 companies traded on the [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md).
+ - **Dow Jones Industrial Average (DJIA)**: Consists of 30 large publicly-owned companies in the US.
 
 2. **Custom Benchmarks**: Tailored to suit specific strategies or portfolios, often constructed to match the [risk](../r/risk.md) profile or [asset allocation](../a/asset_allocation.md).
 
@@ -29,21 +29,21 @@ In [algorithmic trading](../a/algorithmic_trading.md), [benchmark](../b/benchmar
 ### Methods of Benchmark Comparison
 1. **[Absolute Return](../a/absolute_return.md) Comparison**: Directly comparing the returns of the trading algorithm with that of the [benchmark](../b/benchmark.md) over a given period.
 2. **[Risk-adjusted Return](../r/risk-adjusted_return.md) Comparison**: This involves comparing returns after [accounting](../a/accounting.md) for the [risk](../r/risk.md) taken by the trading algorithm.
-   - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [excess return](../e/excess_return.md) per unit of [standard deviation](../s/standard_deviation.md).
-   - **[Sortino Ratio](../s/sortino_ratio.md)**: Similar to Sharpe but only considers [downside risk](../d/downside_risk.md).
-   - **[Alpha](../a/alpha.md) and [Beta](../b/beta.md)**: [Alpha](../a/alpha.md) measures performance against a [benchmark](../b/benchmark.md), while [Beta](../b/beta.md) assesses the [volatility](../v/volatility.md) relative to the [market](../m/market.md).
+ - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [excess return](../e/excess_return.md) per unit of [standard deviation](../s/standard_deviation.md).
+ - **[Sortino Ratio](../s/sortino_ratio.md)**: Similar to Sharpe but only considers [downside risk](../d/downside_risk.md).
+ - **[Alpha](../a/alpha.md) and [Beta](../b/beta.md)**: [Alpha](../a/alpha.md) measures performance against a [benchmark](../b/benchmark.md), while [Beta](../b/beta.md) assesses the [volatility](../v/volatility.md) relative to the [market](../m/market.md).
 
 3. **[Drawdown Analysis](../d/drawdown_analysis.md)**: Comparing the maximum [drawdown](../d/drawdown.md) (peak-to-[trough](../t/trough.md) decline) of the algorithm to that of the [benchmark](../b/benchmark.md).
 4. **Relative [Performance Metrics](../p/performance_metrics.md)**:
-   - **[Tracking Error](../t/tracking_error.md)**: Measures the deviation of the algorithm's returns from the [benchmark](../b/benchmark.md).
-   - **[Information Ratio](../i/information_ratio.md)**: The ratio of portfolio returns above the returns of the [benchmark](../b/benchmark.md) to the [volatility](../v/volatility.md) of those returns.
+ - **[Tracking Error](../t/tracking_error.md)**: Measures the deviation of the algorithm's returns from the [benchmark](../b/benchmark.md).
+ - **[Information Ratio](../i/information_ratio.md)**: The ratio of portfolio returns above the returns of the [benchmark](../b/benchmark.md) to the [volatility](../v/volatility.md) of those returns.
 
 ### Case Studies in Benchmark Comparison
 Below are examples of firms that [offer](../o/offer.md) [robust](../r/robust.md) tools for benchmarking in [algorithmic trading](../a/algorithmic_trading.md):
 
-1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) provides [backtesting](../b/backtesting.md) and live trading with benchmarks to compare algorithm performance.
-2. **[Alpaca](../a/alpaca.md)**: [Alpaca](https://alpaca.markets/) offers trading APIs and benchmarking tools for developers.
-3. **Kensho Technologies**: [Kensho](https://www.kensho.com/) focuses on analytics and offers benchmarking as part of its [financial analysis](../f/financial_analysis.md) tools.
+1. **[QuantConnect](../q/quantconnect.md)**: QuantConnect provides [backtesting](../b/backtesting.md) and live trading with benchmarks to compare algorithm performance.
+2. **[Alpaca](../a/alpaca.md)**: Alpaca offers trading APIs and benchmarking tools for developers.
+3. **Kensho Technologies**: Kensho focuses on analytics and offers benchmarking as part of its [financial analysis](../f/financial_analysis.md) tools.
 
 ### Challenges in Benchmark Comparison
 1. **Selection of an Appropriate [Benchmark](../b/benchmark.md)**: It can be difficult to find a [benchmark](../b/benchmark.md) that accurately reflects the strategy's [risk](../r/risk.md) and [return](../r/return.md) profile.

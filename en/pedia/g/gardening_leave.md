@@ -32,10 +32,10 @@ Algo trading firms, such as Citadel Securities and Renaissance Technologies, hav
 
 ### Case Studies:
 1. **Citadel Securities**
-   - [Citadel Securities](https://www.citadelsecurities.com/) is one of the largest [market](../m/market.md)-making firms globally. The company employs advanced algorithms and [data analytics](../d/data_analytics.md) to execute trades with high [efficiency](../e/efficiency.md). Given the proprietary nature of their [trading strategies](../t/trading_strategies.md), Citadel Securities includes strong gardening leave provisions in their employment contracts for key personnel to protect their intellectual property.
+ - Citadel Securities is one of the largest [market](../m/market.md)-making firms globally. The company employs advanced algorithms and [data analytics](../d/data_analytics.md) to execute trades with high [efficiency](../e/efficiency.md). Given the proprietary nature of their [trading strategies](../t/trading_strategies.md), Citadel Securities includes strong gardening leave provisions in their employment contracts for key personnel to protect their intellectual property.
 
 2. **Renaissance Technologies**
-   - [Renaissance Technologies](https://www.rentec.com/) is a prominent quant [hedge fund](../h/hedge_fund.md) known for its exceptional returns driven by sophisticated algorithms. To safeguard their [trading models](../t/trading_models.md) and data, Renaissance Technologies enforces gardening leave clauses to ensure that departing employees do not transfer sensitive information to competitors.
+ - Renaissance Technologies is a prominent quant [hedge fund](../h/hedge_fund.md) known for its exceptional returns driven by sophisticated algorithms. To safeguard their [trading models](../t/trading_models.md) and data, Renaissance Technologies enforces gardening leave clauses to ensure that departing employees do not transfer sensitive information to competitors.
 
 ## Benefits and Drawbacks
 

@@ -68,11 +68,11 @@ Many financial institutions are required to [hold](../h/hold.md) a certain amoun
 
 ### Apple Inc.'s Cash Management
 
-Apple Inc. is known for its substantial cash reserves, which include a significant portion of cash equivalents. According to their [financial statements](../f/financial_statements.md), Apple holds a variety of cash equivalents, such as [commercial paper](../c/commercial_paper.md), treasury securities, and [money market](../m/money_market.md) funds. These instruments provide the company with the [liquidity](../l/liquidity.md) needed to manage its operations effectively and take advantage of strategic opportunities. For more details, you can visit [Apple Inc.'s Investor Relations page](https://investor.apple.com).
+Apple Inc. is known for its substantial cash reserves, which include a significant portion of cash equivalents. According to their [financial statements](../f/financial_statements.md), Apple holds a variety of cash equivalents, such as [commercial paper](../c/commercial_paper.md), treasury securities, and [money market](../m/money_market.md) funds. These instruments provide the company with the [liquidity](../l/liquidity.md) needed to manage its operations effectively and take advantage of strategic opportunities.
 
 ### Alphabet Inc.'s Cash Position
 
-Alphabet Inc., the [parent company](../p/parent_company.md) of Google, also maintains a substantial amount of cash equivalents. The company holds a mix of treasury bills, highly rated [commercial paper](../c/commercial_paper.md), and other [short-term investments](../s/short-term_investments.md) to ensure [liquidity](../l/liquidity.md) and minimize [risk](../r/risk.md). This approach allows Alphabet to be agile and responsive to [market](../m/market.md) changes while preserving [capital](../c/capital.md). For more information, you can visit [Alphabet Inc.'s Investor Relations page](https://abc.xyz/investor/).
+Alphabet Inc., the [parent company](../p/parent_company.md) of Google, also maintains a substantial amount of cash equivalents. The company holds a mix of treasury bills, highly rated [commercial paper](../c/commercial_paper.md), and other [short-term investments](../s/short-term_investments.md) to ensure [liquidity](../l/liquidity.md) and minimize [risk](../r/risk.md). This approach allows Alphabet to be agile and responsive to [market](../m/market.md) changes while preserving [capital](../c/capital.md).
 
 ## Conclusion
 

@@ -32,20 +32,20 @@ Where:
 * In a basic example, assume you want to predict whether a stock's price [will](../w/will.md) go up (event A) given that its trading [volume](../v/volume.md) has increased (data B). Using historical data, you update your model to better predict how trading [volume](../v/volume.md) impacts stock price.
 
 #### 2. Portfolio Optimization
-* By using [Bayesian Networks](../b/bayesian_networks.md), traders can model the [joint](../j/joint.md) [distribution](../d/distribution.md) of several assets’ returns to optimize the expected returns of a portfolio given a certain level of [risk](../r/risk.md). 
+* By using [Bayesian Networks](../b/bayesian_networks.md), traders can model the [joint](../j/joint.md) [distribution](../d/distribution.md) of several assets’ returns to optimize the expected returns of a portfolio given a certain level of [risk](../r/risk.md).
 
 ### Computational Methods
 
 #### Markov Chain Monte Carlo (MCMC)
 - One of the popular computational techniques used in Bayesian inference is Markov Chain Monte Carlo. MCMC helps compute the posterior [distribution](../d/distribution.md) when it is complex and not analytically tractable.
 - **Example Libraries**:
-  - **PyMC3** - A popular Python library for Bayesian modeling that relies heavily on MCMC ([PyMC3 documentation](https://docs.pymc.io/)).
-  - **Stan** - A flexible language for Bayesian modeling that supports MCMC ([Stan website](https://mc-stan.org/)).
+ - **PyMC3** - A popular Python library for Bayesian modeling that relies heavily on MCMC (PyMC3 documentation).
+ - **Stan** - A flexible language for Bayesian modeling that supports MCMC (Stan documentation).
 
 #### Variational Inference
 - Another method is Variational Inference (VI), which approximates the posterior [distribution](../d/distribution.md) with a simpler [distribution](../d/distribution.md) and optimizes the parameters of this simple [distribution](../d/distribution.md).
 - **Example Libraries**:
-  - **[TensorFlow](../t/tensorflow.md) Probability** - Extends [TensorFlow](../t/tensorflow.md) to support probabilistic models via variational inference methods ([TensorFlow Probability](https://www.tensorflow.org/probability)).
+ - **[TensorFlow](../t/tensorflow.md) Probability** - Extends [TensorFlow](../t/tensorflow.md) to support probabilistic models via variational inference methods (TensorFlow Probability).
 
 ### Challenges in Bayesian Inference
 
@@ -62,8 +62,7 @@ Where:
 
 An example of a [firm](../f/firm.md) that might utilize Bayesian inference in their [trading models](../t/trading_models.md) is Renaissance Technologies, a well-known [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) founded by Jim Simons. Their approach involves advanced [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques, likely incorporating Bayesian methods for updating their [trading strategies](../t/trading_strategies.md) based on new [market](../m/market.md) data.
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Conclusion
 
-Bayesian inference is a powerful tool in the algorithmic [trader](../t/trader.md)'s arsenal, enabling more flexible and responsive models that can adapt to [market dynamics](../m/market_dynamics.md). Through methods like MCMC and Variational Inference, traders can continuously update and refine their strategies, ultimately striving for better [risk management](../r/risk_management.md) and improved prediction accuracy.
+Bayesian inference is a powerful tool in the algorithmic [trader](../t/trader.md)'s arsenal, enabling more flexible and responsive models that can adapt to [market dynamics](../m/market_dynamics.md). Through methods like MCMC and Variational Inference, traders can continuously update and refine their strategies, ultimately striving for better [risk management](../r/risk_management.md) and improved prediction accuracy.

@@ -37,15 +37,15 @@ To illustrate the Modified Dietz method, consider the following example:
 - Beginning [value](../v/value.md) of the portfolio (BV): $100,000
 - Ending [value](../v/value.md) of the portfolio (EV): $120,000
 - Cash flows during the period:
-  - $10,000 added on day 30
-  - $5,000 withdrawn on day 60
+ - $10,000 added on day 30
+ - $5,000 withdrawn on day 60
 - Analysis period: 90 days
 
 First, calculate the weights for each [cash flow](../c/cash_flow.md):
 - Weight for $10,000 added on day 30:
-  \[ W_{30} = \frac{90 - 30}{90} = \frac{60}{90} = 0.6667 \]
+ \[ W_{30} = \frac{90 - 30}{90} = \frac{60}{90} = 0.6667 \]
 - Weight for $5,000 withdrawn on day 60:
-  \[ W_{60} = \frac{90 - 60}{90} = \frac{30}{90} = 0.3333 \]
+ \[ W_{60} = \frac{90 - 60}{90} = \frac{30}{90} = 0.3333 \]
 
 Next, apply the Modified Dietz formula:
 \[ CF = 10,000 - 5,000 = 5,000 \]

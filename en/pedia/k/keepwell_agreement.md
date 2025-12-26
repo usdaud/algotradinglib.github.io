@@ -64,11 +64,11 @@ The financial commitments under Keepwell Agreements are generally not recognized
 
 One notable example is the case of **China Oceanwide [Holdings](../h/holdings.md) Group**, which provided Keepwell Agreements to support its overseas subsidiaries in various financial transactions. The agreements covered [bond](../b/bond.md) issuances that were crucial for funding [expansion](../e/expansion.md) projects and operational activities.
 
-- [China Oceanwide Holdings Group](http://www.oceanwidehk.com/)
+- China Oceanwide Holdings Group
 
 Another instance involves **Greenland Holding Group**, which has used Keepwell Agreements to support its [offshore](../o/offshore.md) [debt](../d/debt.md) issuances, making it an instrumental part of their global financial strategy.
 
-- [Greenland Holding Group](http://www.greenlandsc.com/)
+- Greenland Holding Group
 
 ## Criticisms and Controversies
 

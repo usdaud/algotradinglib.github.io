@@ -5,10 +5,10 @@ Social trading is a form of investment that allows individuals to observe, follo
 
 ## Key Concepts
 ### Mirror Trading
-Mirror trading, also known as copy trading, is the most straightforward form of social trading. In mirror trading, an [investor](../i/investor.md)'s portfolio replicates the trades executed by a chosen [trader](../t/trader.md). This methodology eliminates the need for the [investor](../i/investor.md) to conduct in-depth [market research](../m/market_research.md) or develop [trading strategies](../t/trading_strategies.md). 
+Mirror trading, also known as copy trading, is the most straightforward form of social trading. In mirror trading, an [investor](../i/investor.md)'s portfolio replicates the trades executed by a chosen [trader](../t/trader.md). This methodology eliminates the need for the [investor](../i/investor.md) to conduct in-depth [market research](../m/market_research.md) or develop [trading strategies](../t/trading_strategies.md).
 
 ### Signal Providers
-Signal providers are experienced traders who share their [trading signals](../t/trading_signals.md) with others on a social [trading platform](../t/trading_platform.md). Investors can subscribe to these signals to receive real-time notifications and insights, which they can opt to act upon. 
+Signal providers are experienced traders who share their [trading signals](../t/trading_signals.md) with others on a social [trading platform](../t/trading_platform.md). Investors can subscribe to these signals to receive real-time notifications and insights, which they can opt to act upon.
 
 ### Social Networks
 Social trading platforms often incorporate [social media](../s/social_media.md)-like features, allowing traders to interact, discuss strategies, and share insights. This community-driven approach fosters a collaborative environment where information is readily shared, benefiting all participants.
@@ -38,16 +38,16 @@ Investors in social trading platforms may become emotionally invested in the suc
 
 ## Popular Platforms
 ### eToro
-[eToro](https://www.etoro.com/) is one of the most well-known social trading platforms globally. It offers a user-friendly interface where investors can follow and copy the trades of top-performing traders in real-time. [eToro](../e/etoro.md) also provides a comprehensive educational center and a demo account for new users.
+eToro is one of the most well-known social trading platforms globally. It offers a user-friendly interface where investors can follow and copy the trades of top-performing traders in real-time. [eToro](../e/etoro.md) also provides a comprehensive educational center and a demo account for new users.
 
 ### ZuluTrade
-[ZuluTrade](https://www.zulutrade.com/) connects traders with investors by providing access to a wide [range](../r/range.md) of signal providers. The platform ranks signal providers based on [performance metrics](../p/performance_metrics.md), helping investors make informed choices.
+ZuluTrade connects traders with investors by providing access to a wide [range](../r/range.md) of signal providers. The platform ranks signal providers based on [performance metrics](../p/performance_metrics.md), helping investors make informed choices.
 
 ### NAGA
-[NAGA](https://www.naga.com/) combines social trading with [social networking](../s/social_networking.md). It offers a [range](../r/range.md) of financial instruments, including [stocks](../s/stock.md), cryptocurrencies, and forex, allowing users to diversify their portfolios while engaging with the trading community.
+NAGA combines social trading with [social networking](../s/social_networking.md). It offers a [range](../r/range.md) of financial instruments, including [stocks](../s/stock.md), cryptocurrencies, and forex, allowing users to diversify their portfolios while engaging with the trading community.
 
 ### TradeCrowd
-[TradeCrowd](https://www.tradecrowd.com/) focuses on making social trading accessible to everyone. It provides tools for copying trades, analyzing [trader](../t/trader.md) performance, and interacting with other members of the community.
+TradeCrowd focuses on making social trading accessible to everyone. It provides tools for copying trades, analyzing [trader](../t/trader.md) performance, and interacting with other members of the community.
 
 ## Regulatory Environment
 Regulation of social trading platforms varies by country and jurisdiction. Many countries have implemented stringent measures to protect investors, requiring platforms to obtain licenses and adhere to specific operational guidelines. It is vital for investors to choose platforms that are regulated by reputable authorities to ensure their investments are protected.

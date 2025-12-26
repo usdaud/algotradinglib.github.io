@@ -9,7 +9,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 **Calculation**:
 \[ \text{[Rate of Return](../r/rate_of_return.md)} = \frac{\text{Current [Value](../v/value.md)} - \text{Initial [Value](../v/value.md)}}{\text{Initial [Value](../v/value.md)}} \times 100 \]
 
-**Importance**: 
+**Importance**:
 - Primary metric to assess the performance of a [trading strategy](../t/trading_strategy.md).
 - Facilitates comparison between different investments or strategies.
 
@@ -22,7 +22,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 
 - \( n \) = number of years.
 
-**Importance**: 
+**Importance**:
 - Smooths out the [volatility](../v/volatility.md) over a period to provide a simple average.
 - Useful for comparing investments of different lengths.
 
@@ -138,5 +138,4 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md), [quantitati
 
 In [algorithmic trading](../a/algorithmic_trading.md), the application of these [performance metrics](../p/performance_metrics.md) is crucial for the success and sustainability of [trading strategies](../t/trading_strategies.md). They provide valuable insights into the strengths and weaknesses of different strategies, allowing traders to make informed decisions and adjustments.
 
-For further exploration and tools for calculating these metrics, visiting [QuantConnect](https://www.quantconnect.com/) or [Kensho](https://www.kensho.com/) may prove beneficial. These platforms [offer](../o/offer.md) [robust](../r/robust.md) [quantitative analysis](../q/quantitative_analysis.md) tools for traders and quantitative analysts.
-
+For further exploration and tools for calculating these metrics, visiting QuantConnect or Kensho may prove beneficial. These platforms [offer](../o/offer.md) [robust](../r/robust.md) [quantitative analysis](../q/quantitative_analysis.md) tools for traders and quantitative analysts.

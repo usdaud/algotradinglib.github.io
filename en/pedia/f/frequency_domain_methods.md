@@ -56,17 +56,17 @@ Several tools and libraries are available for performing frequency domain analys
 
 ### Python Libraries
 - **NumPy**: Provides support for array operations and includes FFT functionalities.
-  - [NumPy](https://numpy.org/)
+ - NumPy
 - **SciPy**: Offers scientific and technical computing capabilities, including [signal processing](../s/signal_processing_in_trading.md) functions.
-  - [SciPy](https://www.scipy.org/)
+ - SciPy
 - **Pandas**: Although primarily a data manipulation library, it integrates well with NumPy and SciPy for frequency domain analysis.
-  - [Pandas](https://pandas.pydata.org/)
+ - Pandas
 
 ### Specialized Software
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming. It has [robust](../r/robust.md) capabilities for frequency domain analysis and [signal processing](../s/signal_processing_in_trading.md).
-  - [MATLAB](https://www.mathworks.com/products/matlab.html)
+ - MATLAB
 - **R**: A language and environment for statistical computing and graphics. Packages such as `spectral` [offer](../o/offer.md) tools for frequency domain analysis.
-  - [R](https://www.r-project.org/)
+ - R
 
 ## Case Studies
 
@@ -78,7 +78,7 @@ In the Forex [market](../m/market.md), identifying cycles in [currency](../c/cur
 
 ### Algorithmic Trading Firms
 Firms such as **Two Sigma Investments** [leverage](../l/leverage.md) advanced quantitative techniques, including frequency domain methods, to inform their [trading strategies](../t/trading_strategies.md). They utilize sophisticated models that incorporate frequency domain analysis to predict [market](../m/market.md) movements and optimize their [trading algorithms](../t/trading_algorithms.md).
-- [Two Sigma](https://www.twosigma.com/)
+- Two Sigma
 
 ## Conclusion
 

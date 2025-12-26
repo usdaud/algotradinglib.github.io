@@ -1,6 +1,6 @@
 # Option Agreement
 
-An option agreement is a contract in financial trading and investment that gives an [investor](../i/investor.md) the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a set price within a specific period. This sophisticated [financial instrument](../f/financial_instrument.md) is an essential concept in trading, particularly in [options](../o/options.md) trading and [derivatives](../d/derivatives.md) markets. In an era where [algorithmic trading](../a/accountability.md) (algo-trading) and fintech are playing an increasingly pivotal role, understanding option agreements becomes even more crucial.
+An option agreement is a contract in financial trading and investment that gives an [investor](../i/investor.md) the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a set price within a specific period. This sophisticated [financial instrument](../f/financial_instrument.md) is an essential concept in trading, particularly in [options](../o/options.md) trading and [derivatives](../d/derivatives.md) markets. In an era where [algorithmic trading](../a/algorithmic_trading.md) (algo-trading) and fintech are playing an increasingly pivotal role, understanding option agreements becomes even more crucial.
 
 ## Key Elements of an Option Agreement
 
@@ -55,7 +55,7 @@ The [Greeks](../g/greeks.md) are measures of sensitivity used to understand how 
 [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that involve [options](../o/options.md) include [delta](../d/delta.md)-[neutral](../n/neutral.md) strategies, [volatility arbitrage](../v/volatility_arbitrage.md), and [options](../o/options.md) [market](../m/market.md)-making. These strategies are designed to exploit inefficiencies in the [options](../o/options.md) [market](../m/market.md).
 
 ### Risk Management
-[Options](../o/options.md) are potent tools for hedging and managing [risk](../r/risk.md) in an [algorithmic trading](../a/accountability.md) portfolio. Traders use [options](../o/options.md) to protect against adverse movements in the [underlying asset](../u/underlying_asset.md)'s price.
+[Options](../o/options.md) are potent tools for hedging and managing [risk](../r/risk.md) in an [algorithmic trading](../a/algorithmic_trading.md) portfolio. Traders use [options](../o/options.md) to protect against adverse movements in the [underlying asset](../u/underlying_asset.md)'s price.
 
 ### High-Frequency Trading (HFT)
 High-frequency traders often employ [options](../o/options.md) due to their [leverage](../l/leverage.md) and the ability to execute complex strategies quickly. This involves using sophisticated algorithms that can process and react to [market](../m/market.md) data in milliseconds.
@@ -63,14 +63,14 @@ High-frequency traders often employ [options](../o/options.md) due to their [lev
 ## Real-World Examples
 
 ### Firms Specializing in Options Trading
-- **Optiver**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) in global [financial markets](../f/financial_market.md). They apply advanced algorithms and technology to [trade](../t/trade.md) in [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [options](../o/options.md). [Optiver](https://www.optiver.com)
-  
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider that uses advanced strategies and technology in [options](../o/options.md) trading. [Jane Street](https://www.janestreet.com)
+- **Optiver**: A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) in global [financial markets](../f/financial_market.md). They apply advanced algorithms and technology to [trade](../t/trade.md) in [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including [options](../o/options.md). Optiver
+
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [liquidity](../l/liquidity.md) provider that uses advanced strategies and technology in [options](../o/options.md) trading. Jane Street
 
 ### Trading Platforms
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a comprehensive platform for [options](../o/options.md) trading, complete with various tools and resources for individual and institutional clients. [Interactive Brokers](https://www.interactivebrokers.com)
-  
-- **thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md), ideal for [options](../o/options.md) trading, with extensive analytical tools and educational resources. [TD Ameritrade](https://www.tdameritrade.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a comprehensive platform for [options](../o/options.md) trading, complete with various tools and resources for individual and institutional clients. Interactive Brokers
+
+- **thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: Provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md), ideal for [options](../o/options.md) trading, with extensive analytical tools and educational resources. TD Ameritrade
 
 ## Legal and Compliance Considerations
 
@@ -82,8 +82,8 @@ In the United States, the Securities and [Exchange](../e/exchange.md) [Commissio
 
 ## Conclusion
 
-Option agreements are a vital part of [financial markets](../f/financial_market.md), [offering](../o/offering.md) significant opportunities for [profit](../p/profit.md) through strategic trading and [risk management](../r/risk_management.md). With the integration of [algorithmic trading](../a/accountability.md) and fintech innovations, the landscape of [options](../o/options.md) trading continues to evolve, becoming more efficient and accessible. For anyone involved in trading, investment, or [financial analysis](../f/financial_analysis.md), understanding the intricacies of option agreements is essential for making informed and strategic decisions.
+Option agreements are a vital part of [financial markets](../f/financial_market.md), [offering](../o/offering.md) significant opportunities for [profit](../p/profit.md) through strategic trading and [risk management](../r/risk_management.md). With the integration of [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations, the landscape of [options](../o/options.md) trading continues to evolve, becoming more efficient and accessible. For anyone involved in trading, investment, or [financial analysis](../f/financial_analysis.md), understanding the intricacies of option agreements is essential for making informed and strategic decisions.
 
-Understanding and leveraging the features of [options](../o/options.md), such as the [underlying asset](../u/underlying_asset.md), [strike price](../s/strike_price.md), expiry date, and the [premium](../p/premium.md), and employing the advanced [valuation models](../v/valuation_models.md) like the Black-Scholes and [Greeks](../g/greeks.md), can provide traders with a competitive edge in the [market](../m/market.md). In [algorithmic trading](../a/accountability.md), [options](../o/options.md) provide a versatile instrument for developing sophisticated strategies and managing portfolio [risk](../r/risk.md) effectively.
+Understanding and leveraging the features of [options](../o/options.md), such as the [underlying asset](../u/underlying_asset.md), [strike price](../s/strike_price.md), expiry date, and the [premium](../p/premium.md), and employing the advanced [valuation models](../v/valuation_models.md) like the Black-Scholes and [Greeks](../g/greeks.md), can provide traders with a competitive edge in the [market](../m/market.md). In [algorithmic trading](../a/algorithmic_trading.md), [options](../o/options.md) provide a versatile instrument for developing sophisticated strategies and managing portfolio [risk](../r/risk.md) effectively.
 
 As the [financial markets](../f/financial_market.md) continue to evolve with technology and regulations, staying informed and updated on the dynamics of option agreements [will](../w/will.md) help traders and firms navigate this complex yet rewarding domain.

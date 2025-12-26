@@ -33,7 +33,7 @@ To mitigate the risks associated with holding zero-coupon bonds, investors emplo
 Immunization is a strategy that seeks to make a [bond](../b/bond.md) portfolio insensitive to [interest rate](../i/interest_rate.md) changes. This involves setting the portfolio's [duration](../d/duration.md) equal to the [investment horizon](../i/investment_horizon.md). For zero-coupon bonds, since the [duration](../d/duration.md) is equal to the [maturity](../m/maturity.md), holding the bonds to [maturity](../m/maturity.md) can serve as a form of immunization against [interest rate risk](../i/interest_rate_risk.md).
 
 #### 3. Using Interest Rate Derivatives
-[Interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md), such as [interest rate swaps](../i/interest_rate_swaps.md), [futures](../f/futures.md), or [options](../o/options.md), can be used to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) movements. 
+[Interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md), such as [interest rate swaps](../i/interest_rate_swaps.md), [futures](../f/futures.md), or [options](../o/options.md), can be used to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) movements.
 
 1. **Swaps**: In an [interest rate swap](../i/interest_rate_swap.md), the [investor](../i/investor.md) might [exchange](../e/exchange.md) a [fixed interest rate](../f/fixed_interest_rate.md) for a floating rate, thereby reducing the [risk](../r/risk.md) associated with the fluctuating [value](../v/value.md) of zero-coupon bonds.
 2. **[Futures](../f/futures.md)**: Treasury [bond futures](../b/bond_futures.md) can be sold to [offset](../o/offset.md) the [risk](../r/risk.md) of declining prices due to rising [interest](../i/interest.md) rates.
@@ -84,7 +84,7 @@ Although zero-coupon bonds are primarily exposed to [interest rate risk](../i/in
 
 Large financial institutions such as [hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md) often use zero-coupon bonds as part of their fixed-[income](../i/income.md) portfolios. These institutions may employ sophisticated algotrading systems to manage and [hedge](../h/hedge.md) their exposure. For example:
 
-- **PIMCO**: PIMCO is one of the world's largest fixed-[income](../i/income.md) investment managers. They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [interest rate](../i/interest_rate.md) modeling and [scenario analysis](../s/scenario_analysis.md), to [hedge](../h/hedge.md) their [bond](../b/bond.md) portfolios. Learn more at their [official website](https://www.pimco.com/en-us).
+- **PIMCO**: PIMCO is one of the world's largest fixed-[income](../i/income.md) investment managers. They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [interest rate](../i/interest_rate.md) modeling and [scenario analysis](../s/scenario_analysis.md), to [hedge](../h/hedge.md) their [bond](../b/bond.md) portfolios.
 
 ### Pension Funds
 

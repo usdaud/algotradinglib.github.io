@@ -46,7 +46,7 @@ Entities such as state governments, local municipalities, and special purpose di
 
 #### Underwriters
 
-[Investment banks](../i/investment_bank_(ib).md) or brokerage firms that purchase the entire [bond](../b/bond.md) [issue](../i/issue.md) from the [issuer](../i/issuer.md) and resell it to investors. Notable [underwriting](../u/underwriting.md) firms include Goldman Sachs (https://www.goldmansachs.com/) and Morgan Stanley (https://www.morganstanley.com/).
+[Investment banks](../i/investment_bank_(ib).md) or brokerage firms that purchase the entire [bond](../b/bond.md) [issue](../i/issue.md) from the [issuer](../i/issuer.md) and resell it to investors. Notable [underwriting](../u/underwriting.md) firms include Goldman Sachs ( and Morgan Stanley (
 
 #### Investors
 
@@ -62,7 +62,7 @@ Entities that facilitate the buying and selling of bonds in the [secondary marke
 
 ### Role of Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the [municipal bond](../m/municipal_bond.md) [market](../m/market.md), [algorithmic trading](../a/algorithmic_trading.md) can enhance [efficiency](../e/efficiency.md), pricing accuracy, and [liquidity](../l/liquidity.md). Firms like BlackRock (https://www.blackrock.com/) and Two Sigma (https://www.twosigma.com/) are known for employing advanced technologies in their [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) uses [mathematical models](../m/mathematical_models_in_trading.md) and automated algorithms to execute trades at high speeds and volumes, often without human intervention. In the [municipal bond](../m/municipal_bond.md) [market](../m/market.md), [algorithmic trading](../a/algorithmic_trading.md) can enhance [efficiency](../e/efficiency.md), pricing accuracy, and [liquidity](../l/liquidity.md). Firms like BlackRock ( and Two Sigma ( are known for employing advanced technologies in their [trading strategies](../t/trading_strategies.md).
 
 #### Advantages of Algorithmic Trading
 

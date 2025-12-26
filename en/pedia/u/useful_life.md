@@ -61,11 +61,11 @@ The useful life of an [asset](../a/asset.md) has direct implications for [financ
 
 ### Case Studies and Real-World Applications
 
-1. **Tesla** - In the automotive [manufacturing](../m/manufacturing.md) sector, Tesla estimates the useful life of its production equipment and Gigafactory assets based on expected production levels and technological advancements. (More information: [Tesla](https://www.tesla.com))
+1. **Tesla** - In the automotive [manufacturing](../m/manufacturing.md) sector, Tesla estimates the useful life of its production equipment and Gigafactory assets based on expected production levels and technological advancements. (More information: Tesla)
 
-2. **Apple** - In high technology, Apple must estimate the useful life of R&D equipment, factoring in rapid technological progress and product lifecycle. (More information: [Apple](https://www.apple.com))
+2. **Apple** - In high technology, Apple must estimate the useful life of R&D equipment, factoring in rapid technological progress and product lifecycle. (More information: Apple)
 
-3. **Amazon** - As an e-[commerce](../c/commerce.md) giant, Amazon evaluates the useful life of its fulfillment center equipment, including robots and sorting machines, to manage efficient operations. (More information: [Amazon](https://www.amazon.com))
+3. **Amazon** - As an e-[commerce](../c/commerce.md) giant, Amazon evaluates the useful life of its fulfillment center equipment, including robots and sorting machines, to manage efficient operations. (More information: Amazon)
 
 ### Conclusion
 

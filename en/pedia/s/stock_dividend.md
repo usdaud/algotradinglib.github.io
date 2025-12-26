@@ -8,7 +8,7 @@ A stock [dividend](../d/dividend.md) is a [payment](../p/payment.md) made by a [
 
 When a [corporation](../c/corporation.md) earns a [profit](../p/profit.md), it has several [options](../o/options.md) for how to use that [profit](../p/profit.md): reinvesting it in the company, paying down [debt](../d/debt.md), or returning it to shareholders among others. When the [corporation](../c/corporation.md) decides to [return](../r/return.md) some of that [profit](../p/profit.md) to shareholders, it can do so through dividends, which can be paid either in cash or additional [shares](../s/shares.md) of stock.
 
-Stock dividends are declared based on the number of [shares](../s/shares.md) that an [investor](../i/investor.md) currently holds. For example, a 5% stock [dividend](../d/dividend.md) would mean that a [shareholder](../s/shareholder.md) would receive one additional share for every 20 [shares](../s/shares.md) they already own. 
+Stock dividends are declared based on the number of [shares](../s/shares.md) that an [investor](../i/investor.md) currently holds. For example, a 5% stock [dividend](../d/dividend.md) would mean that a [shareholder](../s/shareholder.md) would receive one additional share for every 20 [shares](../s/shares.md) they already own.
 
 ### Key Characteristics
 
@@ -59,9 +59,9 @@ While the number of [shares](../s/shares.md) increases, the [market value](../m/
 
 Numerous companies across various sectors have a history of issuing stock dividends. For instance:
 
-- [Apple Inc.](https://www.apple.com/)
-- [Tesla](https://www.tesla.com/)
-- [Coca-Cola](https://www.coca-colacompany.com/)
+- Apple Inc.
+- Tesla
+- Coca-Cola
 
 ## Comparison with Stock Splits
 
@@ -77,14 +77,14 @@ Though both stock dividends and stock splits result in shareholders receiving mo
 When a small stock [dividend](../d/dividend.md) is issued, the [journal](../j/journal.md) entry typically involves:
 
 - **Declaration Date**:
-    - [Debit](../d/debit.md): [Retained Earnings](../r/retained_earnings.md) 
-    - [Credit](../c/credit.md): [Common Stock](../c/common_stock.md) Dividends Distributable
-    - [Credit](../c/credit.md): [Additional Paid-in Capital](../a/additional_paid-in_capital.md) (if the [shares](../s/shares.md) are issued at a [market value](../m/market_value.md) greater than [par value](../p/par_value.md))
+ - [Debit](../d/debit.md): [Retained Earnings](../r/retained_earnings.md)
+ - [Credit](../c/credit.md): [Common Stock](../c/common_stock.md) Dividends Distributable
+ - [Credit](../c/credit.md): [Additional Paid-in Capital](../a/additional_paid-in_capital.md) (if the [shares](../s/shares.md) are issued at a [market value](../m/market_value.md) greater than [par value](../p/par_value.md))
 
 - **[Payment](../p/payment.md) Date**:
-    - [Debit](../d/debit.md): [Common Stock](../c/common_stock.md) Dividends Distributable
-    - [Credit](../c/credit.md): [Common Stock](../c/common_stock.md)
-   
+ - [Debit](../d/debit.md): [Common Stock](../c/common_stock.md) Dividends Distributable
+ - [Credit](../c/credit.md): [Common Stock](../c/common_stock.md)
+
 This process ensures the [equity](../e/equity.md) structure reflects the newly [issued shares](../i/issued_shares.md) appropriately.
 
 ### Financial Statement Impact

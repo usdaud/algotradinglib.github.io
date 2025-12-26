@@ -1,7 +1,7 @@
 # Groupthink
 
 ## Introduction
-Groupthink is a psychological phenomenon where individuals within a group strive for consensus to such an extent that they suppress dissenting viewpoints, leading to poor decision-making. It is often characterized by the desire for harmony or conformity, resulting in an irrational or dysfunctional decision-making process. This phenomenon is especially pertinent in environments where cohesive group dynamics are critical, such as in corporate boardrooms, governmental bodies, and even [algorithmic trading](../a/accountability.md) teams.
+Groupthink is a psychological phenomenon where individuals within a group strive for consensus to such an extent that they suppress dissenting viewpoints, leading to poor decision-making. It is often characterized by the desire for harmony or conformity, resulting in an irrational or dysfunctional decision-making process. This phenomenon is especially pertinent in environments where cohesive group dynamics are critical, such as in corporate boardrooms, governmental bodies, and even [algorithmic trading](../a/algorithmic_trading.md) teams.
 
 ## Historical Background
 The term "groupthink" was first coined by social psychologist Irving Janis in 1972. Janis defined groupthink as a [mode](../m/mode.md) of thinking that people engage in when they are deeply involved in a cohesive in-group, where the members' striving for unanimity overrides their motivation to realistically appraise alternative courses of action. His research was initially aimed at understanding how U.S. governmental decisions, such as the Bay of Pigs Invasion, could have gone awry due to the pressure towards consensus.
@@ -32,10 +32,10 @@ Several high-profile disasters and poor decisions have been attributed to groupt
 - **Challenger Space Shuttle Disaster**: In 1986, the NASA space shuttle launched despite warnings about the reliability of the O-ring seals in cold weather. The decision-making process showed many signs of groupthink, such as the intentional disregarding of warnings and pressure to conform.
 
 ## Groupthink in Algorithmic Trading
-Groupthink is particularly relevant in the context of [algorithmic trading](../a/accountability.md), where collaborative decision-making is key. Financial trading environments are high-pressure, high-stakes scenarios that can quickly amplify the downsides of groupthink.
+Groupthink is particularly relevant in the context of [algorithmic trading](../a/algorithmic_trading.md), where collaborative decision-making is key. Financial trading environments are high-pressure, high-stakes scenarios that can quickly amplify the downsides of groupthink.
 
 ### Impact on Algorithmic Trading
-Groupthink can have deleterious effects on [algorithmic trading](../a/accountability.md) operations. Analysts and developers working on [trading algorithms](../t/trading_algorithms.md) may succumb to groupthink for several reasons:
+Groupthink can have deleterious effects on [algorithmic trading](../a/algorithmic_trading.md) operations. Analysts and developers working on [trading algorithms](../t/trading_algorithms.md) may succumb to groupthink for several reasons:
 
 1. **Overconfidence in Models**: Traders and analysts may develop an unjustified belief in the superiority and infallibility of their [trading algorithms](../t/trading_algorithms.md), ignoring potential risks.
 2. **Resistance to Change**: Teams may reject new information or alternative hypotheses that contradict their established models.
@@ -43,7 +43,7 @@ Groupthink can have deleterious effects on [algorithmic trading](../a/accountabi
 4. **Suboptimal [Risk Management](../r/risk_management.md)**: Groupthink can lead to poor [risk](../r/risk.md) assessment and management, as potential risks and worst-case scenarios are downplayed or ignored entirely.
 
 ### Mitigating Groupthink
-Several strategies can be employed to mitigate the [risk](../r/risk.md) of groupthink within [algorithmic trading](../a/accountability.md) teams:
+Several strategies can be employed to mitigate the [risk](../r/risk.md) of groupthink within [algorithmic trading](../a/algorithmic_trading.md) teams:
 
 - **Promote [Open](../o/open.md) Dialogue**: Encouraging a culture of [open](../o/open.md) communication where dissenting opinions are valued can help prevent groupthink.
 - **Anonymous Feedback**: Providing channels for anonymous feedback can ensure that all voices are heard, regardless of hierarchy.
@@ -54,10 +54,10 @@ Several strategies can be employed to mitigate the [risk](../r/risk.md) of group
 ## Companies Utilizing Algorithmic Trading
 Several financial firms are well-known for their use of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). These companies invest heavily in technology and talent to maintain a competitive edge:
 
-- **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses complex algorithms to achieve high returns. [Renaissance Technologies](https://www.rentec.com/)
-- **Two Sigma**: A systematic investment [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and technology to its [trading strategies](../t/trading_strategies.md). [Two Sigma](https://www.twosigma.com/)
-- **D.E. Shaw Group**: Founded by David E. Shaw, this [firm](../f/firm.md) uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computer programs to drive its [trading strategies](../t/trading_strategies.md). [D.E. Shaw Group](https://www.deshaw.com/)
-- **Citadel**: Led by Ken Griffin, Citadel employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [algorithmic trading](../a/accountability.md) in its investment approaches. [Citadel](http://www.citadel.com/)
+- **Renaissance Technologies**: Founded by Jim Simons, Renaissance Technologies is renowned for its Medallion [Fund](../f/fund.md), which uses complex algorithms to achieve high returns. Renaissance Technologies
+- **Two Sigma**: A systematic investment [firm](../f/firm.md) that applies [data science](../d/data_science_in_trading.md) and technology to its [trading strategies](../t/trading_strategies.md). Two Sigma
+- **D.E. Shaw Group**: Founded by David E. Shaw, this [firm](../f/firm.md) uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computer programs to drive its [trading strategies](../t/trading_strategies.md). D.E. Shaw Group
+- **Citadel**: Led by Ken Griffin, Citadel employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [algorithmic trading](../a/algorithmic_trading.md) in its investment approaches. Citadel
 
 ## Conclusion
-Groupthink is a significant psychological phenomenon that can drastically affect decision-making processes within groups. Its relevance to [algorithmic trading](../a/accountability.md) highlights the importance of awareness and mitigation strategies to ensure that trading teams make well-rounded, informed decisions. By fostering an environment that values diversity, [open](../o/open.md) dialogue, and critical assessment, the detrimental effects of groupthink can be minimized, leading to more [robust](../r/robust.md) and effective decision-making processes.
+Groupthink is a significant psychological phenomenon that can drastically affect decision-making processes within groups. Its relevance to [algorithmic trading](../a/algorithmic_trading.md) highlights the importance of awareness and mitigation strategies to ensure that trading teams make well-rounded, informed decisions. By fostering an environment that values diversity, [open](../o/open.md) dialogue, and critical assessment, the detrimental effects of groupthink can be minimized, leading to more [robust](../r/robust.md) and effective decision-making processes.

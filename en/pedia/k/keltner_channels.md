@@ -11,20 +11,20 @@ The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960
 ### Construction
 
 1. **Middle Line (EMA)**:
-   - The middle line of the Keltner Channels is an Exponential Moving Average (EMA) of the closing prices. The typical period used is 20 days, although this can be adjusted based on the [trader](../t/trader.md)’s preference.
+ - The middle line of the Keltner Channels is an Exponential Moving Average (EMA) of the closing prices. The typical period used is 20 days, although this can be adjusted based on the [trader](../t/trader.md)’s preference.
 
 2. **Upper and Lower Bands**:
-   - The upper and lower bands are calculated by adding and subtracting a [multiple](../m/multiple.md) of the [Average True Range](../a/average_true_range_(atr).md) (ATR) to the EMA. A common [multiple](../m/multiple.md) used is 2, but this can also be adjusted for higher sensitivity.
+ - The upper and lower bands are calculated by adding and subtracting a [multiple](../m/multiple.md) of the [Average True Range](../a/average_true_range_(atr).md) (ATR) to the EMA. A common [multiple](../m/multiple.md) used is 2, but this can also be adjusted for higher sensitivity.
 
-   \[
-   \text{Upper Band} = EMA + (ATR \times k)
-   \]
+ \[
+ \text{Upper Band} = EMA + (ATR \times k)
+ \]
 
-   \[
-   \text{Lower Band} = EMA - (ATR \times k)
-   \]
+ \[
+ \text{Lower Band} = EMA - (ATR \times k)
+ \]
 
-   Here, \( k \) is the chosen [multiple](../m/multiple.md) of the ATR.
+ Here, \( k \) is the chosen [multiple](../m/multiple.md) of the ATR.
 
 ### Components
 
@@ -35,19 +35,19 @@ The concept of Keltner Channels was introduced by Chester W. Keltner in his 1960
 
 Keltner Channels can be used for various trading purposes, including identifying [trend](../t/trend.md) directions, potential [reversal](../r/reversal.md) points, and [trade](../t/trade.md) entries. Here are some common ways to use them:
 
-- **[Trend](../t/trend.md) Identification**: 
-  The slope of the middle line (EMA) helps determine the [trend](../t/trend.md) direction. If the EMA is upward sloping, it indicates an [uptrend](../u/uptrend.md); if it is downward sloping, it suggests a [downtrend](../d/downtrend.md).
+- **[Trend](../t/trend.md) Identification**:
+ The slope of the middle line (EMA) helps determine the [trend](../t/trend.md) direction. If the EMA is upward sloping, it indicates an [uptrend](../u/uptrend.md); if it is downward sloping, it suggests a [downtrend](../d/downtrend.md).
 
 - **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Levels**:
-  When the price touches or moves above the upper band, it may indicate an [overbought](../o/overbought.md) condition. Conversely, touching or moving below the lower band may signal an [oversold](../o/oversold.md) condition.
+ When the price touches or moves above the upper band, it may indicate an [overbought](../o/overbought.md) condition. Conversely, touching or moving below the lower band may signal an [oversold](../o/oversold.md) condition.
 
 - **[Trade](../t/trade.md) Entries**:
-  Traders may use Keltner Channels for entry points. For instance, a [breakout](../b/breakout.md) above the upper band in an [uptrend](../u/uptrend.md) may signal a buy, while a [breakout](../b/breakout.md) below the lower band in a [downtrend](../d/downtrend.md) may signal a sell.
+ Traders may use Keltner Channels for entry points. For instance, a [breakout](../b/breakout.md) above the upper band in an [uptrend](../u/uptrend.md) may signal a buy, while a [breakout](../b/breakout.md) below the lower band in a [downtrend](../d/downtrend.md) may signal a sell.
 
 ### Advantages
 
 1. **Adaptable to [Market](../m/market.md) Conditions**: The use of ATR allows Keltner Channels to adapt to changing [market](../m/market.md) conditions, making them useful in both trending and ranging markets.
-   
+
 2. **Easy to Use**: Keltner Channels provide visual cues that make it easy for traders to spot potential trading opportunities.
 
 3. **Combining with Other Indicators**: This tool can be combined with other [technical indicators](../t/technical_indicators.md) like RSI or MACD for better accuracy.
@@ -71,42 +71,42 @@ Suppose a [trader](../t/trader.md) is analyzing the daily chart of a stock. They
 In the context of [algorithmic trading](../a/algorithmic_trading.md), Keltner Channels can be implemented programmatically to execute trades based on predefined conditions. Here’s how one might set up an algo-[trading strategy](../t/trading_strategy.md) using Keltner Channels:
 
 1. **Define Parameters**:
-   - Choose the EMA period, ATR period, and ATR [multiplier](../m/multiplier.md).
-   
-   ```python
-   ema_period = 20
-   atr_period = 14
-   atr_multiplier = 2
-   ```
+ - Choose the EMA period, ATR period, and ATR [multiplier](../m/multiplier.md).
+
+ ```python
+ ema_period = 20
+ atr_period = 14
+ atr_multiplier = 2
+ ```
 
 2. **Calculate EMA and ATR**:
-   - Calculate the EMA of the closing prices and the ATR over the specified period.
-   
-   ```python
-   ema = ta.EMA(close_prices, timeperiod=ema_period)
-   atr = ta.ATR(high_prices, low_prices, close_prices, timeperiod=atr_period)
-   ```
+ - Calculate the EMA of the closing prices and the ATR over the specified period.
+
+ ```python
+ ema = ta.EMA(close_prices, timeperiod=ema_period)
+ atr = ta.ATR(high_prices, low_prices, close_prices, timeperiod=atr_period)
+ ```
 
 3. **Determine Upper and Lower Bands**:
-   - Calculate the upper and lower bands.
-   
-   ```python
-   upper_band = ema + (atr * atr_multiplier)
-   lower_band = ema - (atr * atr_multiplier)
-   ```
+ - Calculate the upper and lower bands.
+
+ ```python
+ upper_band = ema + (atr * atr_multiplier)
+ lower_band = ema - (atr * atr_multiplier)
+ ```
 
 4. **[Trading Rules](../t/trading_rules.md)**:
-   - Implement the trading logic: buy when the price breaks above the upper band in an [uptrend](../u/uptrend.md), and sell when the price breaks below the lower band in a [downtrend](../d/downtrend.md).
-   
-   ```python
-   if close_prices[-1] > upper_band[-1] and ema_slope > 0:
-       place_buy_order()
-   elif close_prices[-1] < lower_band[-1] and ema_slope < 0:
-       place_sell_order()
-   ```
+ - Implement the trading logic: buy when the price breaks above the upper band in an [uptrend](../u/uptrend.md), and sell when the price breaks below the lower band in a [downtrend](../d/downtrend.md).
+
+ ```python
+ if close_prices[-1] > upper_band[-1] and ema_slope > 0:
+ place_buy_order()
+ elif close_prices[-1] < lower_band[-1] and ema_slope < 0:
+ place_sell_order()
+ ```
 
 5. **[Backtesting](../b/backtesting.md)**:
-   - Run historical backtests to evaluate the strategy’s performance and fine-tune parameters.
+ - Run historical backtests to evaluate the strategy’s performance and fine-tune parameters.
 
 By integrating Keltner Channels into an [algorithmic trading](../a/algorithmic_trading.md) strategy, traders can automate the identification of potential buy and sell signals, thus improving [efficiency](../e/efficiency.md) and the ability to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities in real-time.
 
@@ -114,17 +114,17 @@ By integrating Keltner Channels into an [algorithmic trading](../a/algorithmic_t
 
 Several platforms and libraries [offer](../o/offer.md) tools for implementing Keltner Channels in both manual and [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[TradingView](https://www.tradingview.com/)**
-  - Provides built-in Keltner Channels indicators and allows for customization in scripting.
+- **TradingView**
+ - Provides built-in Keltner Channels indicators and allows for customization in scripting.
 
-- **[MetaTrader 4/5](https://www.metatrader4.com/en)**
-  - Offers customizable Keltner Channels as part of its [indicator](../i/indicator.md) suite.
+- **MetaTrader 4/5**
+ - Offers customizable Keltner Channels as part of its [indicator](../i/indicator.md) suite.
 
-- **[QuantConnect](https://www.quantconnect.com/)**
-  - Supports [algorithmic trading](../a/algorithmic_trading.md) strategies incorporating Keltner Channels.
+- **QuantConnect**
+ - Supports [algorithmic trading](../a/algorithmic_trading.md) strategies incorporating Keltner Channels.
 
-- **[TA-Lib](https://mrjbq7.github.io/ta-lib/)**
-  - A popular [technical analysis](../t/technical_analysis.md) library for Python with functions for calculating Keltner Channels.
+- **TA-Lib**
+ - A popular [technical analysis](../t/technical_analysis.md) library for Python with functions for calculating Keltner Channels.
 
 ### Conclusion
 

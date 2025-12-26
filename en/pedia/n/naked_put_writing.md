@@ -16,18 +16,18 @@ The mechanics of [naked put](../n/naked_put.md) writing are straightforward: the
 Suppose an [investor](../i/investor.md) writes a naked [put option](../p/put.md) on ABC Corp's stock with a [strike price](../s/strike_price.md) of $50, collecting a [premium](../p/premium.md) of $5 per option. If the stock price stays at or above $50 until the option's expiration, the [put option](../p/put.md) expires worthless, and the [writer](../w/writer.md) keeps the $5 [premium](../p/premium.md). However, if the stock price falls to $40, the [put option](../p/put.md) [will](../w/will.md) likely be exercised by the option buyer, forcing the [writer](../w/writer.md) to purchase the stock at the $50 [strike price](../s/strike_price.md), resulting in a loss of $10 per share ($50 - $40) minus the $5 [premium](../p/premium.md) received, leading to a [net loss](../n/net_loss.md) of $5 per share.
 
 ## Risks of Naked Put Writing
-The primary [risk](../r/risk.md) in [naked put](../n/naked_put.md) writing is the potential for significant losses if the [underlying asset](../u/underlying_asset.md)'s price declines substantially. 
+The primary [risk](../r/risk.md) in [naked put](../n/naked_put.md) writing is the potential for significant losses if the [underlying asset](../u/underlying_asset.md)'s price declines substantially.
 
 ### Unlimited Loss Potential
 Unlike covered puts where the losses are somewhat controlled by the ownership of the [underlying asset](../u/underlying_asset.md), naked puts expose the [trader](../t/trader.md) to substantial [risk](../r/risk.md). If the [underlying](../u/underlying.md) stock drops to zero, the put [writer](../w/writer.md) is obligated to purchase the stock at the [strike price](../s/strike_price.md), leading to significant losses.
 
 ### Margin Requirements
 Because [naked put](../n/naked_put.md) writing involves potential exposure to unlimited losses, brokers require traders to have sufficient [margin](../m/margin.md) in their accounts to cover potential losses. The [margin](../m/margin.md) requirements can be quite high and [will](../w/will.md) vary based on the [broker](../b/broker.md) and the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md). For instance:
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Implements a detailed [margin](../m/margin.md) calculation which ensures that clients maintain sufficient [equity](../e/equity.md) in their accounts ([Interactive Brokers Margin Requirements](https://www.interactivebrokers.com/en/index.php?f=26662)).
-- **[Charles Schwab](../c/charles_schwab.md)**: Offers a comprehensive [margin](../m/margin.md) overview that details the [margin](../m/margin.md) requirements for different types of [options](../o/options.md) trades ([Schwab Margin Requirements](https://www.schwab.com/margin-requirements)).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Implements a detailed [margin](../m/margin.md) calculation which ensures that clients maintain sufficient [equity](../e/equity.md) in their accounts (Interactive Brokers Margin Requirements).
+- **[Charles Schwab](../c/charles_schwab.md)**: Offers a comprehensive [margin](../m/margin.md) overview that details the [margin](../m/margin.md) requirements for different types of [options](../o/options.md) trades (Schwab Margin Requirements).
 
 ## Benefits of Naked Put Writing
-[Naked put](../n/naked_put.md) writing can be beneficial under certain [market](../m/market.md) conditions and is used for [income](../i/income.md) generation. 
+[Naked put](../n/naked_put.md) writing can be beneficial under certain [market](../m/market.md) conditions and is used for [income](../i/income.md) generation.
 
 ### Income Generation
 The primary benefit of writing naked puts is the potential to generate [income](../i/income.md) through the premiums collected. These premiums can provide a steady [income](../i/income.md), especially in a stable or rising [market](../m/market.md) where the likelihood of the [put options](../p/put_options.md) being exercised is lower.
@@ -45,7 +45,7 @@ When considering a [naked put](../n/naked_put.md) writing strategy, traders shou
 High implied [volatility](../v/volatility.md) can result in higher premiums, which can be attractive for put writers. However, increased [volatility](../v/volatility.md) also implies higher [risk](../r/risk.md), as the [underlying asset](../u/underlying_asset.md)'s price is expected to move more significantly.
 
 ### Delta
-[Delta](../d/delta.md), which measures how much an option's price is expected to move per $1 change in the [underlying asset](../u/underlying_asset.md)'s price, is also an important [factor](../f/factor.md). For [put options](../p/put_options.md), [delta](../d/delta.md) is typically negative, meaning the option's price decreases as the [underlying asset](../u/underlying_asset.md)'s price increases. 
+[Delta](../d/delta.md), which measures how much an option's price is expected to move per $1 change in the [underlying asset](../u/underlying_asset.md)'s price, is also an important [factor](../f/factor.md). For [put options](../p/put_options.md), [delta](../d/delta.md) is typically negative, meaning the option's price decreases as the [underlying asset](../u/underlying_asset.md)'s price increases.
 
 ## Case Studies
 ### Case Study 1: Tesla Inc. (TSLA)
@@ -57,4 +57,4 @@ Suppose an [investor](../i/investor.md) is interested in purchasing Apple stock,
 ## Conclusion
 [Naked put](../n/naked_put.md) writing can be a [lucrative](../l/lucrative.md) strategy for experienced traders who are willing to accept substantial [risk](../r/risk.md) in [exchange](../e/exchange.md) for potential [premium](../p/premium.md) [income](../i/income.md). It requires a thorough understanding of [market](../m/market.md) conditions, [volatility](../v/volatility.md), and the mechanics of [options](../o/options.md) trading. Given its risks, it is advisable for traders to apply this strategy alongside [robust](../r/robust.md) [risk management](../r/risk_management.md) practices and ensure sufficient [margin](../m/margin.md) levels to cover potential losses.
 
-Before engaging in [naked put](../n/naked_put.md) writing, traders should consult with financial advisors and consider their [risk tolerance](../r/risk_tolerance.md), [market](../m/market.md) outlook, and overall [investment strategy](../i/investment_strategy.md). Proper education and continuous [market](../m/market.md) monitoring are crucial to successfully navigating the complexities of [naked put](../n/naked_put.md) writing. For those interested in exploring this strategy further, platforms such as [Interactive Brokers](https://www.interactivebrokers.com) and [Charles Schwab](https://www.schwab.com) [offer](../o/offer.md) comprehensive resources and tools to assist in [options](../o/options.md) trading.
+Before engaging in [naked put](../n/naked_put.md) writing, traders should consult with financial advisors and consider their [risk tolerance](../r/risk_tolerance.md), [market](../m/market.md) outlook, and overall [investment strategy](../i/investment_strategy.md). Proper education and continuous [market](../m/market.md) monitoring are crucial to successfully navigating the complexities of [naked put](../n/naked_put.md) writing. For those interested in exploring this strategy further, platforms such as Interactive Brokers and Charles Schwab [offer](../o/offer.md) comprehensive resources and tools to assist in [options](../o/options.md) trading.

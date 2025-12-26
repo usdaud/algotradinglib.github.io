@@ -41,13 +41,13 @@ Algo-traders can deploy strategies both before and after [earnings announcements
 ## Tools and Platforms for Algorithmic Trading
 Various tools and platforms are available for creating and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies that [capitalize](../c/capitalize.md) on [earnings](../e/earnings.md) surprises. Some prominent platforms include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [backtesting](../b/backtesting.md) and live trading capabilities. More information at [QuantConnect](https://www.quantconnect.com/).
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) [backtesting](../b/backtesting.md) and live trading capabilities. More information at QuantConnect.
 
-- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at [Alpaca](https://alpaca.markets/).
+- **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that offers API access for [algorithmic trading](../a/algorithmic_trading.md). More information at Alpaca.
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides an extensive set of APIs for [algorithmic trading](../a/algorithmic_trading.md), along with [robust](../r/robust.md) [market](../m/market.md) data services. More information at [Interactive Brokers](https://www.interactivebrokers.com/).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides an extensive set of APIs for [algorithmic trading](../a/algorithmic_trading.md), along with [robust](../r/robust.md) [market](../m/market.md) data services. More information at Interactive Brokers.
 
-- **[Trading Technologies](../t/trading_technologies.md)**: This platform offers tools for building, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md). More information at [Trading Technologies](https://www.tradingtechnologies.com/).
+- **[Trading Technologies](../t/trading_technologies.md)**: This platform offers tools for building, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md). More information at Trading Technologies.
 
 ## Factors Influencing Earnings Surprises
 Several factors can contribute to an [earnings](../e/earnings.md) surprise, including:

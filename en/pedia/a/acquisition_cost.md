@@ -81,15 +81,15 @@ Leveraging AI and [machine learning](../m/machine_learning.md) can help reduce A
 
 ### Marketing and Sales
 
-- **HubSpot**: A company known for its [customer](../c/customer.md) [relationship management](../r/relationship_management.md) and inbound [marketing](../m/marketing.md) software. Their techniques focus on reducing CAC by streamlining [marketing](../m/marketing.md) and sales efforts ([HubSpot](https://www.hubspot.com/)).
-  
-- **Marketo**: Offers [marketing](../m/marketing.md) automation software aimed at optimizing [marketing](../m/marketing.md) efforts and reducing CAC ([Marketo](https://www.marketo.com/)).
+- **HubSpot**: A company known for its [customer](../c/customer.md) [relationship management](../r/relationship_management.md) and inbound [marketing](../m/marketing.md) software. Their techniques focus on reducing CAC by streamlining [marketing](../m/marketing.md) and sales efforts (HubSpot).
+
+- **Marketo**: Offers [marketing](../m/marketing.md) automation software aimed at optimizing [marketing](../m/marketing.md) efforts and reducing CAC (Marketo).
 
 ### Algorithmic Trading
 
-- **[QuantConnect](../q/quantconnect.md)**: A platform that allows traders to create, backtest, and deploy algorithms. [QuantConnect](../q/quantconnect.md) offers cost-effective solutions for data [acquisition](../a/acquisition.md) and algorithm development ([QuantConnect](https://www.quantconnect.com/)).
+- **[QuantConnect](../q/quantconnect.md)**: A platform that allows traders to create, backtest, and deploy algorithms. [QuantConnect](../q/quantconnect.md) offers cost-effective solutions for data [acquisition](../a/acquisition.md) and algorithm development (QuantConnect).
 
-- **AlgoTrader**: Provides institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md) that supports multi-[asset](../a/asset.md) [algorithmic trading](../a/accountability.md) and reduces overall [acquisition](../a/acquisition.md) and operational costs ([AlgoTrader](https://www.algotrader.com/)).
+- **AlgoTrader**: Provides institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md) that supports multi-[asset](../a/asset.md) [algorithmic trading](../a/accountability.md) and reduces overall [acquisition](../a/acquisition.md) and operational costs (AlgoTrader).
 
 ## Conclusion
 

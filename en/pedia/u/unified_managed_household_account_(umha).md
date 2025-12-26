@@ -9,9 +9,9 @@ A Unified Managed Household Account (UMHA) refers to a holistic [investment mana
 ### Key Components
 
 1. **[Aggregation](../a/aggregation.md) of Assets**: UMHAs bring together all investment accounts under one administrative umbrella, enabling the smooth coordination of strategies and simplification of [asset management](../a/asset_management.md).
-   
+
 2. **Multigenerational Planning**: These accounts can cater to long-term generational [wealth](../w/wealth.md) transfer strategies and [estate planning](../e/estate_planning.md), providing a more extensive, cohesive approach to managing [wealth](../w/wealth.md) for current and future generations.
-   
+
 3. **Personalized Investment Strategies**: Since a household may have diversified financial goals, UMHAs allow for customizable investment strategies that align with the different [risk](../r/risk.md) tolerances and timelines of each account holder within the household.
 
 4. **Comprehensive Reporting**: UMHAs provide unified reports that cover the entire household's investments, expenditure, liabilities, and [performance metrics](../p/performance_metrics.md), [offering](../o/offering.md) a detailed overview for better decision-making.
@@ -46,7 +46,7 @@ A Unified Managed Household Account (UMHA) refers to a holistic [investment mana
 
 ### Algo-Trading
 
-In the context of [algorithmic trading](../a/accountability.md) (algo-trading), UMHAs can [leverage](../l/leverage.md) sophisticated algorithms to optimize investment strategies across all household assets. This can involve:
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), UMHAs can [leverage](../l/leverage.md) sophisticated algorithms to optimize investment strategies across all household assets. This can involve:
 
 1. **Automated [Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: Algorithms can continuously monitor and rebalance the household portfolio to maintain the desired [asset allocation](../a/asset_allocation.md) and [risk](../r/risk.md) profile.
 2. **Tax-Efficient Trading**: Algorithms can be programmed to perform tax-loss harvesting, strategically selling securities to [offset](../o/offset.md) gains and minimize tax liabilities.
@@ -65,11 +65,11 @@ UMHAs can significantly benefit from the integration of financial technology (fi
 
 #### Financial Planning Firms
 
-Many [financial planning](../f/financial_planning.md) firms have adopted UMHA structures to [offer](../o/offer.md) comprehensive services to their clients. For example, [Vanguard](https://www.vanguard.com/) and [Fidelity Investments](https://www.fidelity.com/) [offer](../o/offer.md) aggregated account services that help clients manage [multiple](../m/multiple.md) accounts under one cohesive strategy.
+Many [financial planning](../f/financial_planning.md) firms have adopted UMHA structures to [offer](../o/offer.md) comprehensive services to their clients. For example, Vanguard and Fidelity Investments [offer](../o/offer.md) aggregated account services that help clients manage [multiple](../m/multiple.md) accounts under one cohesive strategy.
 
 #### Emerging Fintech Solutions
 
-Fintech companies like [Personal Capital](https://www.personalcapital.com/) provide advanced tools for account [aggregation](../a/aggregation.md), [offering](../o/offering.md) users a unified view of their finances across various accounts and enabling a more holistic [wealth management](../w/wealth_management.md) experience.
+Fintech companies like Personal Capital provide advanced tools for account [aggregation](../a/aggregation.md), [offering](../o/offering.md) users a unified view of their finances across various accounts and enabling a more holistic [wealth management](../w/wealth_management.md) experience.
 
 ### Conclusion
 

@@ -11,8 +11,8 @@ A Variable Prepaid [Forward Contract](../f/forward_contract.md) is a binding agr
 1. **Upfront [Payment](../p/payment.md)**: The [investor](../i/investor.md) receives an upfront cash amount, typically a percentage of the current [market value](../m/market_value.md) of the [shares](../s/shares.md). This [payment](../p/payment.md) is akin to a [loan](../l/loan.md) against the future delivery of the [shares](../s/shares.md).
 2. **Share [Collateral](../c/collateral.md)**: The [shares](../s/shares.md) subject to the VPFC are generally pledged as [collateral](../c/collateral.md). The [investor](../i/investor.md) retains voting rights and [dividend](../d/dividend.md) rights unless otherwise specified.
 3. **Variable Settlement**: The actual number of [shares](../s/shares.md) delivered at the conclusion of the contract is based on the closing price of the [shares](../s/shares.md) at [maturity](../m/maturity.md):
-   - If the share price is above a certain threshold (the “cap” price), the [investor](../i/investor.md) may deliver fewer [shares](../s/shares.md).
-   - If the share price is below a certain threshold (the “floor” price), the [investor](../i/investor.md) may deliver more [shares](../s/shares.md).
+ - If the share price is above a certain threshold (the “cap” price), the [investor](../i/investor.md) may deliver fewer [shares](../s/shares.md).
+ - If the share price is below a certain threshold (the “floor” price), the [investor](../i/investor.md) may deliver more [shares](../s/shares.md).
 4. **Term**: The [duration](../d/duration.md) of a VPFC can vary but is often set between one to five years.
 
 ## Uses of VPFCs
@@ -68,7 +68,7 @@ Variable Prepaid [Forward Contracts](../f/forward_contracts.md) are valuable too
 
 For more detailed information and case studies on VPFCs, you can visit specialized financial and legal advisory firms or consult with professional advisors.
 
-- [EY Global](https://www.ey.com/en_gl)
-- [PwC](https://www.pwc.com)
-- [KPMG](https://home.kpmg/xx/en/home.html)
-- [Deloitte](https://www2.deloitte.com)
+- EY Global
+- PwC
+- KPMG
+- Deloitte

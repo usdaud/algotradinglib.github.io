@@ -65,9 +65,9 @@ Once established, the plan requires ongoing administration and record-keeping. E
 
 ## Examples of Companies Offering Money Purchase Pension Plans
 
-Many companies [offer](../o/offer.md) [Money](../m/money.md) Purchase Pension Plans as part of their retirement benefits package. Information on specific companies that [offer](../o/offer.md) such plans might be found on their corporate websites or through their benefits administration portals. 
+Many companies [offer](../o/offer.md) [Money](../m/money.md) Purchase Pension Plans as part of their retirement benefits package. Information on specific companies that [offer](../o/offer.md) such plans might be found on their corporate websites or through their benefits administration portals.
 
-For more detailed information on setting up a [Money](../m/money.md) Purchase [Pension Plan](../p/pension_plan.md), you can visit the Internal [Revenue](../r/revenue.md) Service's official page: [IRS Retirement Plans](https://www.irs.gov/retirement-plans).
+For more detailed information on setting up a [Money](../m/money.md) Purchase [Pension Plan](../p/pension_plan.md), you can visit the Internal [Revenue](../r/revenue.md) Service's public materials: IRS Retirement Plans.
 
 ## Conclusion
 

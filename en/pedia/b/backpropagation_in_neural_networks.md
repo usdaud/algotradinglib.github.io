@@ -19,15 +19,15 @@ In forward propagation, the initial step entails passing the input data through 
 
 **Mathematical Representation**:
 1. Compute \( z \) for each neuron:
-   \[
-   z_i = \sum_{j=1}^{m} w_{ij}x_j + b_i
-   \]
-   where \( w_{ij} \) are weights, \( x_j \) is the input, and \( b_i \) is the bias.
+ \[
+ z_i = \sum_{j=1}^{m} w_{ij}x_j + b_i
+ \]
+ where \( w_{ij} \) are weights, \( x_j \) is the input, and \( b_i \) is the bias.
 
 2. Apply the activation function \( \sigma \):
-   \[
-   \text{output} = \sigma(z)
-   \]
+ \[
+ \text{output} = \sigma(z)
+ \]
 
 ### Loss Function
 
@@ -51,23 +51,23 @@ After obtaining the output and computing the loss, the network needs to learn by
 **Mathematical Details**:
 
 1. Compute the error signal for the output layer:
-   \[
-   \[delta](../d/delta.md)^{(L)} = \nabla_a L \circ \sigma'(z^{(L)})
-   \]
-   where \( \nabla_a L \) is the gradient of the loss function with respect to the activation, \( \sigma' \) is the [derivative](../d/derivative.md) of the activation function, and \( \circ \) denotes element-wise multiplication.
+ \[
+ \[delta](../d/delta.md)^{(L)} = \nabla_a L \circ \sigma'(z^{(L)})
+ \]
+ where \( \nabla_a L \) is the gradient of the loss function with respect to the activation, \( \sigma' \) is the [derivative](../d/derivative.md) of the activation function, and \( \circ \) denotes element-wise multiplication.
 
 2. For each hidden layer \( l \):
-   \[
-   \[delta](../d/delta.md)^{(l)} = ((W^{(l+1)})^T \[delta](../d/delta.md)^{(l+1)}) \circ \sigma'(z^{(l)})
-   \]
-   where \( W^{(l+1)} \) is the weight matrix of the subsequent layer.
+ \[
+ \[delta](../d/delta.md)^{(l)} = ((W^{(l+1)})^T \[delta](../d/delta.md)^{(l+1)}) \circ \sigma'(z^{(l)})
+ \]
+ where \( W^{(l+1)} \) is the weight matrix of the subsequent layer.
 
 3. Update the weights:
-   \[
-   \[Delta](../d/delta.md) W^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \cdot (a^{(l-1)})^T
-   \]
-   \( \[Delta](../d/delta.md) b^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \)
-   where \( \eta \) is the learning rate.
+ \[
+ \[Delta](../d/delta.md) W^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \cdot (a^{(l-1)})^T
+ \]
+ \( \[Delta](../d/delta.md) b^{(l)} = \eta \cdot \[delta](../d/delta.md)^{(l)} \)
+ where \( \eta \) is the learning rate.
 
 ### Practical Implementation
 
@@ -168,10 +168,10 @@ Gradient Descent is the most straightforward [optimization](../o/optimization.md
 
 Backpropagation, and by extension [neural networks](../n/neural_networks_in_trading.md), have found applications across various domains:
 
-- **[Finance](../f/finance.md)**: For [algorithmic trading](../a/algorithmic_trading.md), [credit](../c/credit.md) scoring, and [fraud](../f/fraud.md) detection. Companies like [Two Sigma](https://www.twosigma.com/) and [Jane Street](https://www.janestreet.com/) [leverage](../l/leverage.md) [deep learning](../d/deep_learning.md) in their [trading strategies](../t/trading_strategies.md).
+- **[Finance](../f/finance.md)**: For [algorithmic trading](../a/algorithmic_trading.md), [credit](../c/credit.md) scoring, and [fraud](../f/fraud.md) detection. Companies like Two Sigma and Jane Street [leverage](../l/leverage.md) [deep learning](../d/deep_learning.md) in their [trading strategies](../t/trading_strategies.md).
 - **Healthcare**: For medical image analysis, genomics, and personalized treatment plans.
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: For machine translation, [sentiment analysis](../s/sentiment_analysis.md), and chatbots.
-- **[Computer Vision](../c/computer_vision.md)**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like [DeepMind](https://deepmind.com/) (a subsidiary of Alphabet) and [OpenAI](https://openai.com/) are at the forefront of AI research in these fields.
+- **[Computer Vision](../c/computer_vision.md)**: For image and video recognition, self-driving cars, and facial recognition systems. Companies like DeepMind (a subsidiary of Alphabet) and OpenAI are at the forefront of AI research in these fields.
 - **Gaming**: For AI opponents, game strategy development, and real-time decision-making.
 
 ## Challenges and Considerations

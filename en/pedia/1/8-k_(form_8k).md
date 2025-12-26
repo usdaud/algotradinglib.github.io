@@ -25,7 +25,7 @@ The SEC mandates that companies file Form 8-K for a wide [range](../r/range.md) 
 - **Item 2.04 – Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-[Balance Sheet](../b/balance_sheet.md) Arrangement**: Events that accelerate [debt](../d/debt.md) [repayment](../r/repayment.md) schedules must be noted.
 - **Item 2.05 – Costs Associated with Exit or Disposal Activities**: Companies report on the costs, such as severance or [restructuring](../r/restructuring.md) costs, of major disposals.
 - **Item 2.06 – Material Impairments**: Notable impairments of assets, like [goodwill](../g/goodwill.md), need [disclosure](../d/disclosure.md).
-  
+
 ### 3. Securities and Trading Markets
 
 - **Item 3.01 – Notice of [Delisting](../d/delisting.md) or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing**: Issues regarding stock [exchange](../e/exchange.md) listings are detailed here.
@@ -91,4 +91,3 @@ In the ever-evolving landscape of [financial markets](../f/financial_market.md),
 
 Form 8-K is an essential tool for maintaining [market](../m/market.md) [transparency](../t/transparency.md) and enabling investors to make informed decisions. It ensures that significant corporate events, which could impact a company’s [financial health](../f/financial_health.md) or stock price, are promptly disclosed. This continuous [disclosure](../d/disclosure.md) practice is fundamental to the principles of the SEC and the broader framework of the U.S. [financial markets](../f/financial_market.md).
 
-For further details, you can refer to the official SEC page on Form 8-K [here](https://www.sec.gov/forms).

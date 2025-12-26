@@ -50,9 +50,9 @@ Several techniques are used in the field of [anomaly](../a/anomaly.md) detection
 
 Several companies specialize in providing [anomaly](../a/anomaly.md) detection solutions tailored for [financial markets](../f/financial_market.md):
 
-1. **Kensho Technologies**: Kensho provides tools for real-time [market](../m/market.md) event detection and analysis. More information can be found on their [website](https://www.kensho.com/).
-2. **AIQLabs**: AIQLabs offers advanced [machine learning](../m/machine_learning.md) solutions for [market](../m/market.md) [anomaly](../a/anomaly.md) detection and [predictive analytics](../p/predictive_analytics.md). Visit their [website](https://aiqlabs.com/).
-3. **HawkEye by TradeIdeas**: This tool helps traders identify unusual [market](../m/market.md) behavior through advanced scanning and analytics. Details can be accessed on their [website](https://www.trade-ideas.com/).
+1. **Kensho Technologies**: Kensho provides tools for real-time [market](../m/market.md) event detection and analysis.
+2. **AIQLabs**: AIQLabs offers advanced [machine learning](../m/machine_learning.md) solutions for [market](../m/market.md) [anomaly](../a/anomaly.md) detection and [predictive analytics](../p/predictive_analytics.md).
+3. **HawkEye by TradeIdeas**: This tool helps traders identify unusual [market](../m/market.md) behavior through advanced scanning and analytics.
 
 ## Challenges and Future Directions
 
@@ -70,4 +70,4 @@ Future advancements in [anomaly](../a/anomaly.md) detection might focus on:
 3. **Real-Time Analytics**: Improving speed and [efficiency](../e/efficiency.md) for real-time decision making.
 4. **Interdisciplinary Approaches**: Combining [finance](../f/finance.md), [statistics](../s/statistics.md), and computer science for holistic solutions.
 
-Overall, [anomaly](../a/anomaly.md) detection remains a critical area in [algorithmic trading](../a/algorithmic_trading.md), continually evolving to meet the sophisticated demands of modern [financial markets](../f/financial_market.md).
+Overall, [anomaly](../a/anomaly.md) detection remains a critical area in [algorithmic trading](../a/algorithmic_trading.md), continually evolving to meet the sophisticated demands of modern [financial markets](../f/financial_market.md).

@@ -46,5 +46,3 @@ XTB is regulated by several top-tier financial authorities, ensuring a secure an
 - International Financial Services [Commission](../c/commission.md) (IFSC) in Belize
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 
-## Website
-For more information and to start trading, visit the official XTB website: [XTB](https://www.xtb.com)

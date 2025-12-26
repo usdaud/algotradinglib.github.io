@@ -8,8 +8,8 @@ Effective [duration](../d/duration.md), also known as "option-adjusted [duration
 
 **Formula for Effective [Duration](../d/duration.md):**
 
-\[ 
-\text{Effective [Duration](../d/duration.md)} = \frac{P_{-} - P_{+}}{2 \times P_{0} \times \[Delta](../d/delta.md) y} 
+\[
+\text{Effective [Duration](../d/duration.md)} = \frac{P_{-} - P_{+}}{2 \times P_{0} \times \[Delta](../d/delta.md) y}
 \]
 
 Where:
@@ -23,17 +23,17 @@ Where:
 ### Step-by-Step Guide
 
 1. **Identify the Current Price (P0):**
-   Obtain the current [market price](../m/market_price.md) of the [bond](../b/bond.md) (P0).
+ Obtain the current [market price](../m/market_price.md) of the [bond](../b/bond.md) (P0).
 
 2. **Determine the Change in [Yield](../y/yield.md) (Δy):**
-   Decide on a small change in [yield](../y/yield.md) (Δy), commonly ±50 [basis](../b/basis.md) points (0.50%).
+ Decide on a small change in [yield](../y/yield.md) (Δy), commonly ±50 [basis](../b/basis.md) points (0.50%).
 
 3. **Calculate the [Bond](../b/bond.md) Prices for Increased and Decreased Yields (P+ and P-):**
-   - **\( P_{+} \)**: The [bond](../b/bond.md) price if the [yield](../y/yield.md) increases by Δy.
-   - **\( P_{-} \)**: The [bond](../b/bond.md) price if the [yield](../y/yield.md) decreases by Δy.
+ - **\( P_{+} \)**: The [bond](../b/bond.md) price if the [yield](../y/yield.md) increases by Δy.
+ - **\( P_{-} \)**: The [bond](../b/bond.md) price if the [yield](../y/yield.md) decreases by Δy.
 
 4. **Apply the Effective [Duration](../d/duration.md) Formula:**
-   [Substitute](../s/substitute.md) the obtained values into the formula to calculate the effective [duration](../d/duration.md).
+ [Substitute](../s/substitute.md) the obtained values into the formula to calculate the effective [duration](../d/duration.md).
 
 ### Example Calculation
 
@@ -44,8 +44,8 @@ Where:
 - Change in [yield](../y/yield.md) (Δy): 0.005 (0.5%)
 
 #### Calculation:
-\[ 
-\text{Effective [Duration](../d/duration.md)} = \frac{1050 - 950}{2 \times 1000 \times 0.005} = \frac{100}{10} = 10 
+\[
+\text{Effective [Duration](../d/duration.md)} = \frac{1050 - 950}{2 \times 1000 \times 0.005} = \frac{100}{10} = 10
 \]
 
 Thus, the effective [duration](../d/duration.md) of this [bond](../b/bond.md) is 10 years.
@@ -101,4 +101,4 @@ Effective [duration](../d/duration.md) is a vital tool for managing and assessin
 
 ## Reference
 
-- [Investopedia: Effective Duration](https://www.investopedia.com/terms/e/effectiveduration.asp)
+- Investopedia: Effective Duration

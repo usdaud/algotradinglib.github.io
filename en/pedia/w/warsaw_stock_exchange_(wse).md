@@ -140,4 +140,4 @@ In addition to its regional significance, the Warsaw Stock [Exchange](../e/excha
 
 The Warsaw Stock [Exchange](../e/exchange.md) has evolved from a modest beginning in 1991 to become a key financial institution in Poland and a prominent stock [exchange](../e/exchange.md) in Central and Eastern Europe. Its diverse [market](../m/market.md) segments, advanced trading mechanisms, and [robust](../r/robust.md) [market](../m/market.md) [infrastructure](../i/infrastructure.md) make it an attractive platform for issuers and investors alike. As the WSE continues to grow and innovate, it remains a vital component of the regional and global financial landscape, supporting [economic growth](../e/economic_growth.md) and development in Poland and beyond.
 
-For more information on the Warsaw Stock [Exchange](../e/exchange.md), its [market](../m/market.md) segments, trading mechanisms, and key indices, visit the official website: [WSE Official Site](https://www.gpw.pl/).
+For more information on the Warsaw Stock [Exchange](../e/exchange.md), its [market](../m/market.md) segments, trading mechanisms, and key indices,

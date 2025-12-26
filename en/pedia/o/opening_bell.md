@@ -24,7 +24,7 @@ With the advent of electronic trading, the need for a physical bell might seem d
 
 ### Algotrading
 
-In [algorithmic trading](../a/accountability.md) (algotrading), the opening bell has significant implications. Algorithms are often designed to execute trades based on [pre-market](../p/pre-market.md) data, which includes news, overnight developments, and more. The moments right after the opening bell can be particularly volatile, and managing this effectively is a critical component of algo strategies.
+In [algorithmic trading](../a/algorithmic_trading.md) (algotrading), the opening bell has significant implications. Algorithms are often designed to execute trades based on [pre-market](../p/pre-market.md) data, which includes news, overnight developments, and more. The moments right after the opening bell can be particularly volatile, and managing this effectively is a critical component of algo strategies.
 
 ## Impact of News and Events
 
@@ -62,7 +62,5 @@ Traders often develop specific strategies for the period immediately following t
 
 ## Conclusion
 
-The opening bell holds a blend of historical significance, contemporary relevance, and ceremonial splendor in the [financial markets](../f/financial_market.md). It marks the beginning of a [trading session](../t/trading_session.md) and sets the stage for the day's activity, impacting traders, investors, and algorithms alike. The symbolism and technical functionality combined make it an intriguing and crucial aspect of the financial world. 
-
-For more information on the events and significance of the opening bell, you can visit the [New York Stock Exchange website](https://www.nyse.com/about/tradingschedule).
+The opening bell holds a blend of historical significance, contemporary relevance, and ceremonial splendor in the [financial markets](../f/financial_market.md). It marks the beginning of a [trading session](../t/trading_session.md) and sets the stage for the day's activity, impacting traders, investors, and algorithms alike. The symbolism and technical functionality combined make it an intriguing and crucial aspect of the financial world.
 

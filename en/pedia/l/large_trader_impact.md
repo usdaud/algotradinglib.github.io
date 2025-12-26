@@ -138,15 +138,15 @@ The reliance on technology makes large traders vulnerable to cybersecurity threa
 
 ### Renaissance Technologies (Rentech)
 
-Renaissance Technologies, founded by Jim Simons, is a renowned [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), managed by elite mathematicians and scientists, has consistently delivered exceptional returns. Renaissance Technologies is known for its use of advanced algorithms and data-driven decision-making [Website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is a renowned [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), managed by elite mathematicians and scientists, has consistently delivered exceptional returns. Renaissance Technologies is known for its
 
 ### Citadel Securities
 
-Citadel Securities, founded by Ken Griffin, is one of the leading [market](../m/market.md) makers and [proprietary trading](../p/proprietary_trading.md) firms globally. The [firm](../f/firm.md) leverages cutting-edge technology to execute trades across various [asset](../a/asset.md) classes, providing [liquidity](../l/liquidity.md) to the [market](../m/market.md). Citadel's high-frequency [trading strategies](../t/trading_strategies.md) have a significant impact on [market dynamics](../m/market_dynamics.md) [Website](https://www.citadelsecurities.com).
+Citadel Securities, founded by Ken Griffin, is one of the leading [market](../m/market.md) makers and [proprietary trading](../p/proprietary_trading.md) firms globally. The [firm](../f/firm.md) leverages cutting-edge technology to execute trades across various [asset](../a/asset.md) classes, providing [liquidity](../l/liquidity.md) to the [market](../m/market.md). Citadel's high-frequency [trading strategies](../t/trading_strategies.md) have a significant impact on [market dynamics](../m/market_dynamics.md) online platform.
 
 ### Two Sigma
 
-Two Sigma, founded by John Overdeck and David Siegel, is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md) and AI to analyze vast amounts of data and identify trading opportunities. Two Sigma's approach to [algorithmic trading](../a/algorithmic_trading.md) exemplifies the integration of technology and [finance](../f/finance.md) [Website](https://www.twosigma.com).
+Two Sigma, founded by John Overdeck and David Siegel, is a quantitative [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs [machine learning](../m/machine_learning.md) and AI to analyze vast amounts of data and identify trading opportunities. Two Sigma's approach to [algorithmic trading](../a/algorithmic_trading.md) exemplifies the integration of technology and [finance](../f/finance.md) online platform.
 
 ## Conclusion
 

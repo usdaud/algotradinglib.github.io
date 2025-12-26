@@ -100,7 +100,7 @@ Options traded over-the-counter (OTC) carry [counterparty risk](../c/counterpart
 
 ### Automated Market Making
 
-[Algorithmic trading](../a/accountability.md) systems can use options to provide [liquidity](../l/liquidity.md) to markets through automated [market](../m/market.md)-making strategies. These algorithms continuously [quote](../q/quote.md) both [bid and ask](../b/bid_and_ask.md) prices for options, earning premiums from the [bid-ask spread](../b/bid-ask_spread.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems can use options to provide [liquidity](../l/liquidity.md) to markets through automated [market](../m/market.md)-making strategies. These algorithms continuously [quote](../q/quote.md) both [bid and ask](../b/bid_and_ask.md) prices for options, earning premiums from the [bid-ask spread](../b/bid-ask_spread.md).
 
 ### Statistical Arbitrage
 
@@ -134,7 +134,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies exploit pricing inefficien
 
 ### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street (https://www.janestreet.com/) and Citadel Securities (https://www.citadelsecurities.com/) utilize cutting-edge technology and advanced [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) options and other financial instruments. These firms employ teams of quantitative analysts, developers, and traders who [leverage](../l/leverage.md) data and algorithms to [gain](../g/gain.md) a competitive edge.
+[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street ( and Citadel Securities ( utilize cutting-edge technology and advanced [quantitative models](../q/quantitative_models.md) to [trade](../t/trade.md) options and other financial instruments. These firms employ teams of quantitative analysts, developers, and traders who [leverage](../l/leverage.md) data and algorithms to [gain](../g/gain.md) a competitive edge.
 
 ## Regulatory Environment
 

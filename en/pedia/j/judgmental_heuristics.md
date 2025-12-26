@@ -48,9 +48,9 @@ Traders often operate under high-pressure conditions, and stress can exacerbate 
 
 ## Practical Applications
 
-Several financial institutions [leverage](../l/leverage.md) knowledge of judgmental [heuristics](../h/heuristics.md) to refine their [algorithmic trading](../a/algorithmic_trading.md) practices. Firms like Renaissance Technologies [https://www.rentec.com/], known for their data-driven approach, incorporate extensive [backtesting](../b/backtesting.md) and [machine learning](../m/machine_learning.md) to minimize human biases in their algorithms.
+Several financial institutions [leverage](../l/leverage.md) knowledge of judgmental [heuristics](../h/heuristics.md) to refine their [algorithmic trading](../a/algorithmic_trading.md) practices. Firms like Renaissance Technologies [ known for their data-driven approach, incorporate extensive [backtesting](../b/backtesting.md) and [machine learning](../m/machine_learning.md) to minimize human biases in their algorithms.
 
-Another example is Two Sigma [https://www.twosigma.com/], which employs advanced data science techniques to mitigate heuristic-driven errors and enhance [algorithmic trading](../a/algorithmic_trading.md) strategies.
+Another example is Two Sigma [ which employs advanced data science techniques to mitigate heuristic-driven errors and enhance [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 Understanding judgmental [heuristics](../h/heuristics.md) provides valuable insights that help firms develop more [robust](../r/robust.md) [trading systems](../t/trading_systems.md), manage [risk](../r/risk.md) effectively, and ensure regulatory compliance. This knowledge also informs [trader](../t/trader.md) education and training programs, fostering awareness of [cognitive biases](../c/cognitive_biases_in_trading.md) and improving decision-making processes.
 

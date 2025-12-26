@@ -1,6 +1,6 @@
 # Over-Line
 
-In the context of trading and [finance](../f/finance.md), the term "Over-Line" may not be universally recognized by this exact phrasing. However, it can be closely related to certain financial expressions or [trading strategies](../t/trading_strategies.md). For the sake of this piece, I [will](../w/will.md) cover various pertinent topics, including [Over-The-Counter (OTC) trading](../o/over-the-counter_(otc)_trading.md), [margin](../m/margin.md) and borrowing lines, limit orders, and their relevance to [algorithmic trading](../a/accountability.md) and fintech.
+In the context of trading and [finance](../f/finance.md), the term "Over-Line" may not be universally recognized by this exact phrasing. However, it can be closely related to certain financial expressions or [trading strategies](../t/trading_strategies.md). For the sake of this piece, I [will](../w/will.md) cover various pertinent topics, including [Over-The-Counter (OTC) trading](../o/over-the-counter_(otc)_trading.md), [margin](../m/margin.md) and borrowing lines, limit orders, and their relevance to [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## Over-The-Counter (OTC) Trading
 
@@ -50,18 +50,18 @@ A [limit order](../l/limit_order.md) is an [order](../o/order.md) to buy or sell
 ### Pros and Cons of Limit Orders
 
 1. **Advantages:**
-   - Price Control: Traders have greater control over the prices at which they enter or exit positions.
-   - Reduced [Slippage](../s/slippage.md): Limit orders help reduce the [risk](../r/risk.md) of [slippage](../s/slippage.md), which occurs when actual [execution](../e/execution.md) prices differ from expected prices.
+ - Price Control: Traders have greater control over the prices at which they enter or exit positions.
+ - Reduced [Slippage](../s/slippage.md): Limit orders help reduce the [risk](../r/risk.md) of [slippage](../s/slippage.md), which occurs when actual [execution](../e/execution.md) prices differ from expected prices.
 
 2. **Disadvantages:**
-   - Non-Fill [Risk](../r/risk.md): There is a [risk](../r/risk.md) that limit orders may not be filled if the [market](../m/market.md) does not reach the specified price.
-   - Partial Fills: In some scenarios, limit orders may be partially filled, leading to incomplete positions.
+ - Non-Fill [Risk](../r/risk.md): There is a [risk](../r/risk.md) that limit orders may not be filled if the [market](../m/market.md) does not reach the specified price.
+ - Partial Fills: In some scenarios, limit orders may be partially filled, leading to incomplete positions.
 
 ## Relevance to Algorithmic Trading and Fintech
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) refers to the use of computer algorithms to automate trading decisions, based on predefined criteria such as price, [volume](../v/volume.md), and time. It allows for high-speed, high-frequency [trading strategies](../t/trading_strategies.md) that are impossible to execute manually.
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to automate trading decisions, based on predefined criteria such as price, [volume](../v/volume.md), and time. It allows for high-speed, high-frequency [trading strategies](../t/trading_strategies.md) that are impossible to execute manually.
 
 1. **[Execution Algorithms](../e/execution_algorithms.md):** These algorithms aim to execute large orders with minimal [market](../m/market.md) impact, optimizing the timing and splitting of orders.
 2. **[Arbitrage](../a/arbitrage.md) Algorithms:** These exploit price differences between related financial instruments across different markets or exchanges.
@@ -76,6 +76,6 @@ Fintech, short for financial technology, involves the use of technology to enhan
 3. **[Blockchain](../b/blockchain_in_trading.md):** [Blockchain](../b/blockchain_in_trading.md) technology enables secure and transparent trading of digital assets, reducing [fraud](../f/fraud.md) and improving traceability.
 
 For information on actual companies employing these concepts, visit:
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Robinhood](https://www.robinhood.com/)
-- [Coinbase](https://www.coinbase.com/)
+- Citadel Securities
+- Robinhood
+- Coinbase

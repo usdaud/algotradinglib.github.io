@@ -1,6 +1,6 @@
 # Qualified Opinion
 
-A qualified opinion is a statement issued in an [auditor's report](../a/auditor's_report.md) accompanying a company's [financial statements](../f/financial_statements.md). This type of opinion suggests that the information provided was mostly free of material misstatements, except for a specific, isolated area. Unlike an [unqualified opinion](../u/unqualified_opinion.md), which indicates that the [financial statements](../f/financial_statements.md) present a true and fair view without any reservations, a qualified opinion signals that the auditor encountered an [issue](../i/issue.md) that couldn't be resolved but does not necessarily affect the entire financial document. 
+A qualified opinion is a statement issued in an [auditor's report](../a/auditor's_report.md) accompanying a company's [financial statements](../f/financial_statements.md). This type of opinion suggests that the information provided was mostly free of material misstatements, except for a specific, isolated area. Unlike an [unqualified opinion](../u/unqualified_opinion.md), which indicates that the [financial statements](../f/financial_statements.md) present a true and fair view without any reservations, a qualified opinion signals that the auditor encountered an [issue](../i/issue.md) that couldn't be resolved but does not necessarily affect the entire financial document.
 
 This concept is key in the realm of financial reporting and auditing, because it provides stakeholders like investors, regulators, and management with critical insights into the [financial health](../f/financial_health.md) and compliance status of a company.
 
@@ -32,9 +32,9 @@ When issuing a qualified opinion, auditors follow a structured approach to ensur
 3. **Management's Responsibility**: A statement that management is responsible for the preparation and fair presentation of the [financial statements](../f/financial_statements.md).
 4. **Auditor's Responsibility**: Highlights the auditor's duty to express an opinion on the [financial statements](../f/financial_statements.md) based on the audit.
 5. **[Basis](../b/basis.md) for Qualified Opinion**: A detailed section explaining the grounds for issuing a qualified opinion. This section includes:
-    - Description of the [issue](../i/issue.md) or [scope](../s/scope.md) limitation
-    - Quantitative information if applicable
-    - The potential impact on specific financial statement items
+ - Description of the [issue](../i/issue.md) or [scope](../s/scope.md) limitation
+ - Quantitative information if applicable
+ - The potential impact on specific financial statement items
 6. **Qualified Opinion**: Clearly states that except for the matter mentioned in the '[Basis](../b/basis.md) for Qualified Opinion' section, the [financial statements](../f/financial_statements.md) present a true and fair view or are presented fairly, in all material respects, in accordance with the financial reporting framework.
 7. **Signature of the Auditor**: Typically includes the name of the audit [firm](../f/firm.md), the engagement partner's name, and the [firm](../f/firm.md)’s location.
 8. **Date of the Report**: The date when the auditor signs off the report, indicating the completion of the audit.
@@ -89,7 +89,7 @@ Several notable companies have received qualified opinions from auditors, sheddi
 
 For more detailed information about auditors and their roles in [corporate governance](../c/corporate_governance.md) and financial auditing, you can refer to their official pages:
 
-- [PwC](https://www.pwc.com)
-- [KPMG](https://home.kpmg)
+- PwC
+- KPMG
 
 In summary, a qualified opinion serves as an essential [indicator](../i/indicator.md) in the field of auditing and financial reporting. It draws attention to specific areas of concern while still acknowledging the overall reliability of [financial statements](../f/financial_statements.md). Understanding the nuances of qualified opinions helps stakeholders make informed decisions and fosters greater [transparency](../t/transparency.md) in financial reporting.

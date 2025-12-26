@@ -8,7 +8,7 @@ The Gas Guzzler Tax was introduced in response to the oil crises of the 1970s, w
 
 ## Calculation and Rates
 
-The Gas Guzzler Tax is calculated based on the fuel [efficiency](../e/efficiency.md) of a vehicle, measured in miles per gallon (mpg). The EPA conducts fuel [economy](../e/economy.md) testing for new vehicle models, and the results determine whether a vehicle falls below the specified fuel [efficiency](../e/efficiency.md) threshold and is subject to the tax. 
+The Gas Guzzler Tax is calculated based on the fuel [efficiency](../e/efficiency.md) of a vehicle, measured in miles per gallon (mpg). The EPA conducts fuel [economy](../e/economy.md) testing for new vehicle models, and the results determine whether a vehicle falls below the specified fuel [efficiency](../e/efficiency.md) threshold and is subject to the tax.
 
 ### Tax Rates
 

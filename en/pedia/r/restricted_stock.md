@@ -63,15 +63,15 @@ The use of restricted stock is often outlined in the company’s [proxy](../p/pr
 - **[Equity Compensation](../e/equity_compensation.md) Plans**: Shareholders must approve the plan authorizing the restricted stock.
 - **Executive Compensation**: Restricted stock awards to top executives are disclosed for [transparency](../t/transparency.md) and accountability.
 
-For instance, companies must file [proxy](../p/proxy.md) statements (Form DEF 14A) with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), providing comprehensive information on restricted stock awards. Websites like https://www.sec.gov/edgar/searchedgar/companysearch.html [offer](../o/offer.md) access to such filings.
+For instance, companies must file [proxy](../p/proxy.md) statements (Form DEF 14A) with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), providing comprehensive information on restricted stock awards. Websites like [offer](../o/offer.md) access to such filings.
 
 ## Case Studies and Examples
 
 ### Amazon (AMZN)
-Amazon extensively uses restricted stock as part of its employee compensation. Amazon's compensation plan aligns employee interests with long-term company performance, enhancing retention and motivation. More details on their approach can be found on their [official site](https://www.aboutamazon.com/).
+Amazon extensively uses restricted stock as part of its employee compensation. Amazon's compensation plan aligns employee interests with long-term company performance, enhancing retention and motivation.
 
 ### Google (GOOGL)
-Google has structured its compensation in a way that blends RSUs with [performance metrics](../p/performance_metrics.md), rewarding employees for achieving specific milestones that drive [shareholder value](../s/shareholder_value.md). This strategic mix has helped Google retain top talent while maintaining a strong focus on their long-term goals. For more information, visit Google's [investor relations page](https://abc.xyz/investor/).
+Google has structured its compensation in a way that blends RSUs with [performance metrics](../p/performance_metrics.md), rewarding employees for achieving specific milestones that drive [shareholder value](../s/shareholder_value.md). This strategic mix has helped Google retain top talent while maintaining a strong focus on their long-term goals.
 
 ## Final Thoughts
 

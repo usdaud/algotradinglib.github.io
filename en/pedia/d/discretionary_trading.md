@@ -63,8 +63,8 @@ Discretionary trading remains a popular approach for many traders because of its
 
 For more information on [trading strategies](../t/trading_strategies.md) and educational resources, you can visit the following companies:
 
-- [Investopedia](https://www.investopedia.com/)
-- [Trading Academy](https://www.tradingacademy.com/)
-- [CME Group](https://www.cmegroup.com/)
+- Investopedia
+- Trading Academy
+- CME Group
 
-Discretionary trading [will](../w/will.md) always [hold](../h/hold.md) a place in the [financial markets](../f/financial_market.md) due to the unique advantages of human [judgment](../j/judgment.md). However, its effectiveness greatly depends on the [trader](../t/trader.md)’s skills, experience, and psychological resilience.
+Discretionary trading [will](../w/will.md) always [hold](../h/hold.md) a place in the [financial markets](../f/financial_market.md) due to the unique advantages of human [judgment](../j/judgment.md). However, its effectiveness greatly depends on the [trader](../t/trader.md)’s skills, experience, and psychological resilience.

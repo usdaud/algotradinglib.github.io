@@ -21,7 +21,7 @@ Probable Reserves, often referred to as **2P reserves** when combined with 1P, a
 
 Possible Reserves, the least certain category, also known as **3P reserves** when combined with 1P and 2P, represent those additional reserves that have a reasonable but less assured chance—at least a 10% probability—of being technically and economically recoverable under existing conditions.
 
-## How 3P Oil Reserves are Calculated 
+## How 3P Oil Reserves are Calculated
 
 The calculation and categorization of 3P reserves involve complex geological, technical, and economic evaluations. Key methodologies include:
 
@@ -29,7 +29,7 @@ The calculation and categorization of 3P reserves involve complex geological, te
 
 Geophysical surveys, including seismic reflection and refraction techniques, help delineate subsurface formations and potential [hydrocarbon](../h/hydrocarbon.md) traps. This data is invaluable for assessing and categorizing reserves.
 
-### Core Samples 
+### Core Samples
 
 Drilling for core samples provides direct evidence of existing hydrocarbons, their quality, and the geology of the reserve. Insights from core samples play a vital role in estimating the [volume](../v/volume.md) and recoverability of the reserves.
 
@@ -71,11 +71,11 @@ Governments mandate precise reporting standards for reserves. Companies must adh
 
 ### ExxonMobil
 
-ExxonMobil, one of the world's largest publicly traded oil companies, meticulously reports its 3P reserves. For detailed information on how ExxonMobil manages and reports its reserves, [check](../c/check.md) the [ExxonMobil Reserves page](https://corporate.exxonmobil.com/).
+ExxonMobil, one of the world's largest publicly traded oil companies, meticulously reports its 3P reserves.
 
 ### BP (British Petroleum)
 
-Similarly, BP's approach to reserve categorization highlights the importance of 3P reserves. BP’s annual reports provide insights into their reserve estimations and future production prospects. Visit BP's [Reserves and Resources page](https://www.bp.com/) for further details.
+Similarly, BP's approach to reserve categorization highlights the importance of 3P reserves. BP’s annual reports provide insights into their reserve estimations and future production prospects.
 
 ## Conclusion
 

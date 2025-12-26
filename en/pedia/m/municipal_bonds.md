@@ -7,16 +7,16 @@ Municipal bonds, often referred to as "munis," are [debt](../d/debt.md) securiti
 **Types of Municipal Bonds**
 
 1. **General Obligation Bonds (GOs):**
-   General Obligation bonds are not backed by [revenue](../r/revenue.md) from a specific project. Instead, they are secured by the full faith and [credit](../c/credit.md) of the issuing municipality, which often has the power to tax residents to pay bondholders. These types of bonds are considered lower [risk](../r/risk.md) because they are backed by the [issuer](../i/issuer.md)'s overall taxing power.
-   
+ General Obligation bonds are not backed by [revenue](../r/revenue.md) from a specific project. Instead, they are secured by the full faith and [credit](../c/credit.md) of the issuing municipality, which often has the power to tax residents to pay bondholders. These types of bonds are considered lower [risk](../r/risk.md) because they are backed by the [issuer](../i/issuer.md)'s overall taxing power.
+
 2. **[Revenue](../r/revenue.md) Bonds:**
-   [Revenue](../r/revenue.md) bonds are supported by the [income](../i/income.md) generated from a specific project or source, such as tolls from a toll road or fees from a municipal [utility](../u/utility.md). These bonds carry more [risk](../r/risk.md) than GOs because their [repayment](../r/repayment.md) is dependent on the [revenue](../r/revenue.md)-generating capability of the project funded by the bonds.
+ [Revenue](../r/revenue.md) bonds are supported by the [income](../i/income.md) generated from a specific project or source, such as tolls from a toll road or fees from a municipal [utility](../u/utility.md). These bonds carry more [risk](../r/risk.md) than GOs because their [repayment](../r/repayment.md) is dependent on the [revenue](../r/revenue.md)-generating capability of the project funded by the bonds.
 
 3. **Assessment Bonds:**
-   These are secured by property [taxes](../t/taxes.md) from properties that benefit from the improvement funded by the bonds, such as street lighting or sewer systems. Property owners within the benefited area are assessed a [fee](../f/fee.md) to repay the bonds.
+ These are secured by property [taxes](../t/taxes.md) from properties that benefit from the improvement funded by the bonds, such as street lighting or sewer systems. Property owners within the benefited area are assessed a [fee](../f/fee.md) to repay the bonds.
 
 4. **Tax Anticipation Notes (TANs) & [Revenue](../r/revenue.md) Anticipation Notes (RANs):**
-   These are short-term municipal notes issued in anticipation of future tax collections or [revenue](../r/revenue.md) [receipts](../r/receipt.md). They are used to [finance](../f/finance.md) immediate needs in anticipation of [revenue](../r/revenue.md) that [will](../w/will.md) be received in the near future.
+ These are short-term municipal notes issued in anticipation of future tax collections or [revenue](../r/revenue.md) [receipts](../r/receipt.md). They are used to [finance](../f/finance.md) immediate needs in anticipation of [revenue](../r/revenue.md) that [will](../w/will.md) be received in the near future.
 
 **Benefits of Municipal Bonds**
 
@@ -36,21 +36,18 @@ Municipal bonds, often referred to as "munis," are [debt](../d/debt.md) securiti
 
 Municipal bonds are predominantly traded over-the-counter (OTC) rather than on exchanges. Key platforms supporting [municipal bond trading](../m/municipal_bond_trading.md) and pricing include:
 - **Electronic Municipal [Market](../m/market.md) Access (EMMA):** Managed by the Municipal Securities Rulemaking Board (MSRB), EMMA provides [market](../m/market.md) [transparency](../t/transparency.md) by [offering](../o/offering.md) free public access to municipal securities trading data, official disclosures, and educational materials.
-  
-  [EMMA](https://emma.msrb.org/)
+
 
 **[Rating](../r/rating.md) Agencies and Their Role**
 
 [Credit rating](../c/credit_rating.md) agencies play a vital role in assessing the [creditworthiness](../c/creditworthiness.md) of [municipal bond](../m/municipal_bond.md) issuers. The major [rating](../r/rating.md) agencies include Moody’s Investors Service, Standard & Poor’s (S&P), and [Fitch Ratings](../f/fitch_ratings.md). They evaluate the [issuer](../i/issuer.md)'s [financial health](../f/financial_health.md) and the specific project linked to the [bond](../b/bond.md). These ratings help investors understand the [risk](../r/risk.md) level associated with the bonds.
 
-- **Moody’s Investors Service:**  
-  [Moody’s](https://www.moodys.com)
+- **Moody’s Investors Service:**
+ Moody’s
 
-- **Standard & Poor’s:**  
-  [S&P](https://www.standardandpoors.com)
+- **Standard & Poor’s:**
 
-- **[Fitch Ratings](../f/fitch_ratings.md):**  
-  [Fitch Ratings](https://www.fitchratings.com)
+- **[Fitch Ratings](../f/fitch_ratings.md):**
 
 **Important Considerations for Investors**
 

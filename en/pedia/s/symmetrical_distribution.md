@@ -1,12 +1,12 @@
 # Symmetrical Distribution
 
-In the context of [finance](../f/finance.md) and trading, **symmetrical [distribution](../d/distribution.md)** refers to a type of [probability distribution](../p/probability_distribution.md) in which the left and right sides of the [distribution](../d/distribution.md) are mirror images of each other. This concept is crucial for financial analysts, traders, and quantitative researchers, especially in areas such as [risk management](../r/risk_management.md), option pricing, and [algorithmic trading](../a/accountability.md).
+In the context of [finance](../f/finance.md) and trading, **symmetrical [distribution](../d/distribution.md)** refers to a type of [probability distribution](../p/probability_distribution.md) in which the left and right sides of the [distribution](../d/distribution.md) are mirror images of each other. This concept is crucial for financial analysts, traders, and quantitative researchers, especially in areas such as [risk management](../r/risk_management.md), option pricing, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Understanding Symmetrical Distribution
 
 ### Definition
 
-A [distribution](../d/distribution.md) is said to be symmetrical if the series of data points it represents are evenly distributed around the mean. This essentially means that for any [value](../v/value.md) on the left side of the mean, there is a mirror image [value](../v/value.md) at an equal distance on the right side of the mean. 
+A [distribution](../d/distribution.md) is said to be symmetrical if the series of data points it represents are evenly distributed around the mean. This essentially means that for any [value](../v/value.md) on the left side of the mean, there is a mirror image [value](../v/value.md) at an equal distance on the right side of the mean.
 
 Mathematically, a [distribution](../d/distribution.md) \( f(x) \) is symmetrical around a point \( \mu \) if:
 \[ f(\mu - x) = f(\mu + x) \]
@@ -79,5 +79,3 @@ Key [risk metrics](../r/risk_metrics.md), such as [Sharpe ratio](../s/sharpe_rat
 Symmetrical distributions are essential in the fields of [finance](../f/finance.md) and trading, providing a foundation for many statistical and [mathematical models](../m/mathematical_models_in_trading.md). Understanding this concept and its implications can enhance [risk management](../r/risk_management.md), [portfolio optimization](../p/portfolio_optimization.md), and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). While real-world data often deviate from perfect symmetry, the assumption of symmetrical [distribution](../d/distribution.md) remains a powerful tool for [financial analysis](../f/financial_analysis.md).
 
 For more details on these assumptions and their practical applications, consider referring to authoritative sources in financial literature or specific company resources, such as:
-[QuantConnect](https://www.quantconnect.com)
-[GMO LLC](https://www.gmo.com)

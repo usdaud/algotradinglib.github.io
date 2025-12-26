@@ -1,6 +1,6 @@
 # Longitudinal Data
 
-Longitudinal data, sometimes referred to as panel data, is a dataset that consists of [multiple](../m/multiple.md) observations of the same subjects, measured repeatedly over time. This type of data is extensively used in various fields such as [economics](../e/economics.md), medicine, [social sciences](../s/social_sciences.md), and [finance](../f/finance.md), where researchers are interested in studying changes over time at the individual level. 
+Longitudinal data, sometimes referred to as panel data, is a dataset that consists of [multiple](../m/multiple.md) observations of the same subjects, measured repeatedly over time. This type of data is extensively used in various fields such as [economics](../e/economics.md), medicine, [social sciences](../s/social_sciences.md), and [finance](../f/finance.md), where researchers are interested in studying changes over time at the individual level.
 
 ## Characteristics of Longitudinal Data
 - **Repeated Measurements**: Observations are collected at [multiple](../m/multiple.md) time points for the same subjects.
@@ -18,7 +18,7 @@ Longitudinal data, sometimes referred to as panel data, is a dataset that consis
 - **Longitudinal Data**: Observations are collected [multiple](../m/multiple.md) times over the intervening period.
 
 ## Importance in Finance and Trading
-Longitudinal data is particularly valuable in the [finance](../f/finance.md) and trading sector as it allows for the analysis of temporal dynamics and the development of [predictive models](../p/predictive_models_in_trading.md). 
+Longitudinal data is particularly valuable in the [finance](../f/finance.md) and trading sector as it allows for the analysis of temporal dynamics and the development of [predictive models](../p/predictive_models_in_trading.md).
 
 ### Use Cases
 1. **[Stock Market](../s/stock_market.md) Analysis**: Analyzing the price movements of a stock over time.
@@ -62,5 +62,4 @@ Handling covariates that change over time requires advanced modeling approaches.
 ## Conclusion
 Longitudinal data provides a rich framework for analyzing changes over time at the individual level. In the realm of [finance](../f/finance.md) and trading, its applications are vast and pivotal for developing [robust](../r/robust.md) [predictive models](../p/predictive_models_in_trading.md), optimizing portfolios, and enhancing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
-For more information, you may refer to financial data platform providers like [Morningstar](../m/morningstar.md) (https://www.[morningstar](../m/morningstar.md).com) and quant research firms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com).
-
+For more information, you may refer to financial data platform providers like [Morningstar](../m/morningstar.md) ( and quant research firms like [StockSharp](../s/stocksharp.md).

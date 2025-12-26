@@ -4,7 +4,7 @@ OKX is a globally renowned cryptocurrency [exchange](../e/exchange.md) and [trad
 
 ## Company Overview
 
-Headquartered in Seychelles, OKX stands out with its innovative approach to the cryptocurrency [industry](../i/industry.md), providing [robust](../r/robust.md) trading tools, extensive educational resources, and a secure environment for trading digital assets. More information about the company and its offerings can be found on their [official website](https://www.okx.com).
+Headquartered in Seychelles, OKX stands out with its innovative approach to the cryptocurrency [industry](../i/industry.md), providing [robust](../r/robust.md) trading tools, extensive educational resources, and a secure environment for trading digital assets.
 
 ## Trading Features
 
@@ -80,12 +80,12 @@ OKX provides extensive documentation and sample code to help users get started w
 
 ## Conclusion
 
-OKX is a versatile and secure cryptocurrency [trading platform](../t/trading_platform.md) that offers a wide [range](../r/range.md) of services to cater to the needs of different traders and investors. With its comprehensive trading features, [robust](../r/robust.md) [security](../s/security.md) measures, educational resources, and earning opportunities, OKX continues to be a leader in the digital [asset](../a/asset.md) [industry](../i/industry.md). For more detailed information, visit [OKX](https://www.okx.com).
+OKX is a versatile and secure cryptocurrency [trading platform](../t/trading_platform.md) that offers a wide [range](../r/range.md) of services to cater to the needs of different traders and investors. With its comprehensive trading features, [robust](../r/robust.md) [security](../s/security.md) measures, educational resources, and earning opportunities, OKX continues to be a leader in the digital [asset](../a/asset.md) [industry](../i/industry.md). For more detailed information, visit OKX.
 
 ```
 {
-  "apiUrl": "https://www.okx.com/api/v5/",
-  "apiDocumentation": "https://www.okx.com/docs/",
+ "apiUrl": "
+ "apiDocumentation": "
   "supportEmail": "support@okx.com"
 }
 ```

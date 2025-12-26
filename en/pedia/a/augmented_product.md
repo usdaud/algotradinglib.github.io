@@ -48,17 +48,14 @@ High-quality, attractive packaging can be a part of the augmented product, makin
 ### Apple Inc.
 Apple’s products are a textbook example of extremely well-executed augmented products. Beyond the core function of their devices, Apple adds considerable [value](../v/value.md) through features like iCloud storage, regular software updates, integration within their ecosystem, and extensive [customer](../c/customer.md) support through AppleCare. These augmented features contribute to the higher price point of Apple products and the brand’s strong [customer](../c/customer.md) loyalty.
 
-Website: [Apple Inc.](https://www.apple.com)
 
 ### Amazon
-Amazon goes beyond [offering](../o/offering.md) a platform for buying and selling products by adding [value](../v/value.md) through services like Amazon Prime, which includes benefits such as free two-day shipping, streaming services, and exclusive deals. Their exceptional [customer service](../c/customer_service.md), comprehensive [return](../r/return.md) policy, and easy-to-navigate website further enhance the augmented product experience.
+Amazon goes beyond [offering](../o/offering.md) a platform for buying and selling products by adding [value](../v/value.md) through services like Amazon Prime, which includes benefits such as free two-day shipping, streaming services, and exclusive deals. Their exceptional [customer service](../c/customer_service.md), comprehensive [return](../r/return.md) policy, and easy-to-navigate online experience further enhance the augmented product experience.
 
-Website: [Amazon](https://www.amazon.com)
 
 ### Tesla
 Tesla doesn’t just sell electric vehicles; they sell a futuristic driving experience complete with over-the-air software updates, a [robust](../r/robust.md) network of Superchargers for convenient long-distance travel, and a dedicated [customer service](../c/customer_service.md) team. These features turn the simple core product—an electric car—into an augmented product that stands out in the automotive [industry](../i/industry.md).
 
-Website: [Tesla](https://www.tesla.com)
 
 ## Conclusion
 

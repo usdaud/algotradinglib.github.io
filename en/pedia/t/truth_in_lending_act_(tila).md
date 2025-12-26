@@ -78,6 +78,6 @@ TILA, while beneficial in many respects, is not without its critics and challeng
 
 The Truth in Lending Act is a cornerstone of consumer financial protection, aiming to establish a transparent and fair [credit](../c/credit.md) marketplace. By mandating comprehensive disclosures and setting strict guidelines for lending practices, TILA promotes consumer awareness and informed financial decisions. While it poses significant compliance requirements for lenders and folds into an evolving regulatory landscape, its role remains crucial in the continual effort to protect consumer interests in the [financial system](../f/financial_system.md).
 
-For further information on the Truth in Lending Act, please visit the Consumer Financial Protection Bureau website: [CFPB - Truth in Lending Act](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/learn-about/).
+
 
 ```

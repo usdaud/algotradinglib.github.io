@@ -13,7 +13,7 @@ Prime brokerage refers to a bundle of services offered by [investment banks](../
 Prime brokers [offer](../o/offer.md) sophisticated [trade](../t/trade.md) [execution](../e/execution.md) services, enabling clients to execute orders efficiently and at the best possible prices. This includes:
 
 - **Access to [Multiple](../m/multiple.md) Trading Venues:** Providing clients with access to various stock exchanges, [dark pools](../d/dark_pools.md), and electronic communication networks (ECNs).
-- **[Algorithmic Trading](../a/accountability.md):** [Offering](../o/offering.md) advanced algorithms that help in automating [trading strategies](../t/trading_strategies.md) to achieve optimal [execution](../e/execution.md).
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** [Offering](../o/offering.md) advanced algorithms that help in automating [trading strategies](../t/trading_strategies.md) to achieve optimal [execution](../e/execution.md).
 
 ### 2. Custody Services
 
@@ -55,7 +55,7 @@ State-of-the-art technology and [infrastructure](../i/infrastructure.md) are ess
 Prime brokers often help connect [hedge](../h/hedge.md) funds with potential investors, assisting in raising [capital](../c/capital.md).
 
 - **[Investor](../i/investor.md) Network:** Leveraging extensive networks to facilitate introductions between [hedge](../h/hedge.md) funds and institutional investors.
-- **[Marketing](../m/marketing.md) Support:** Providing support in [marketing](../m/marketing.md) and [investor relations](../i/investor_relations.md) efforts.
+- **[Marketing](../m/marketing.md) Support:** Providing support in [marketing](../m/marketing.md) and [company filings](../i/investor_relations.md) efforts.
 
 ## Benefits of Prime Brokerage
 
@@ -111,31 +111,27 @@ Failures in systems, processes, or controls can lead to significant losses or di
 
 Goldman Sachs is a global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) that offers a wide [range](../r/range.md) of prime [brokerage services](../b/brokerage_services.md).
 
-[Goldman Sachs Prime Brokerage](https://www.goldmansachs.com)
 
 ### Morgan Stanley
 
 Morgan Stanley provides comprehensive prime [brokerage services](../b/brokerage_services.md), leveraging its extensive resources and global presence.
 
-[Morgan Stanley Prime Brokerage](https://www.morganstanley.com/private-wealth-management/prime-brokerage)
 
 ### Credit Suisse
 
 [Credit](../c/credit.md) Suisse offers a suite of prime [brokerage services](../b/brokerage_services.md) designed to address the specific needs of its clients.
 
-[Credit Suisse Prime Services](https://www.credit-suisse.com/us/en/investment-banking/prime-consulting-and-capital-introduction.html)
 
 ### Citigroup
 
 Citigroup provides prime brokerage solutions that include [trade](../t/trade.md) [execution](../e/execution.md), [securities lending](../s/securities_lending.md), and [risk management](../r/risk_management.md) services.
 
-[Citigroup Prime Services](https://www.citibank.com/icg/prime-finance/)
 
 ### J.P. Morgan
 
 J.P. Morgan's prime [brokerage services](../b/brokerage_services.md) are known for their [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) and technology solutions.
 
-[J.P. Morgan Prime Brokerage](https://www.jpmorgan.com/global/prime-brokerage)
+J.P. Morgan Prime Brokerage
 
 ## Conclusion
 

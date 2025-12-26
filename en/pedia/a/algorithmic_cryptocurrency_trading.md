@@ -29,8 +29,8 @@ The [software tools](../s/software_tools_for_trading.md) for algorithmic cryptoc
 
 Examples of popular libraries and tools include:
 
-- **CCXT (CryptoCurrency [eXchange](../e/exchange.md) Trading Library)**: A JavaScript / Python / PHP cryptocurrency trading API with support for many exchanges [CCXT](https://github.com/ccxt/ccxt).
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md) [QuantConnect](https://www.quantconnect.com/).
+- **CCXT (CryptoCurrency [eXchange](../e/exchange.md) Trading Library)**: A JavaScript / Python / PHP cryptocurrency trading API with support for many exchanges CCXT.
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for developing, [backtesting](../b/backtesting.md), and deploying [trading algorithms](../t/trading_algorithms.md) QuantConnect.
 
 ### Hardware
 
@@ -48,9 +48,9 @@ Many [algorithmic trading](../a/algorithmic_trading.md) infrastructures now empl
 
 [Algorithmic trading](../a/algorithmic_trading.md) can be conducted on numerous cryptocurrency exchanges like:
 
-- **[Binance](../b/binance.md)**: One of the world's largest and most versatile cryptocurrency exchanges [Binance](https://www.binance.com/).
-- **[Coinbase](../c/coinbase.md) Pro**: An [exchange](../e/exchange.md) tailored for professional traders with enhanced features for [algorithmic trading](../a/algorithmic_trading.md) [Coinbase Pro](https://pro.coinbase.com/).
-- **[Kraken](../k/kraken.md)**: Known for its advanced trading features and extensive [range](../r/range.md) of cryptocurrencies [Kraken](https://www.kraken.com/).
+- **[Binance](../b/binance.md)**: One of the world's largest and most versatile cryptocurrency exchanges Binance.
+- **[Coinbase](../c/coinbase.md) Pro**: An [exchange](../e/exchange.md) tailored for professional traders with enhanced features for [algorithmic trading](../a/algorithmic_trading.md) Coinbase Pro.
+- **[Kraken](../k/kraken.md)**: Known for its advanced trading features and extensive [range](../r/range.md) of cryptocurrencies Kraken.
 
 ## Security and Regulation
 

@@ -1,6 +1,6 @@
 # Algorithm Efficiency
 
-Algorithm [efficiency](../e/efficiency.md) refers to a measure of the amount of computational resources an algorithm uses to complete a task. In [algorithmic trading](../a/algorithmic_trading.md), the [efficiency](../e/efficiency.md) of algorithms is crucial as it directly impacts the performance of [trading strategies](../t/trading_strategies.md). Efficient algorithms can [handle](../h/handle.md) more data, execute trades faster, and make better decisions in real-time, thus providing a competitive edge in [financial markets](../f/financial_market.md). The [efficiency](../e/efficiency.md) of an algorithm is often evaluated based on its time complexity, space complexity, and in some cases, other metrics such as energy consumption. 
+Algorithm [efficiency](../e/efficiency.md) refers to a measure of the amount of computational resources an algorithm uses to complete a task. In [algorithmic trading](../a/algorithmic_trading.md), the [efficiency](../e/efficiency.md) of algorithms is crucial as it directly impacts the performance of [trading strategies](../t/trading_strategies.md). Efficient algorithms can [handle](../h/handle.md) more data, execute trades faster, and make better decisions in real-time, thus providing a competitive edge in [financial markets](../f/financial_market.md). The [efficiency](../e/efficiency.md) of an algorithm is often evaluated based on its time complexity, space complexity, and in some cases, other metrics such as energy consumption.
 
 ### Time Complexity
 
@@ -30,7 +30,7 @@ Latency is the delay between a user's action and the response from a system. In 
 
 #### Data Throughput
 
-Data [throughput](../t/throughput.md) measures the amount of data that can be processed by a system in a given period. High [throughput](../t/throughput.md) is essential in [algorithmic trading](../a/algorithmic_trading.md) to [handle](../h/handle.md) large volumes of [market](../m/market.md) data and [order](../o/order.md) flow efficiently. 
+Data [throughput](../t/throughput.md) measures the amount of data that can be processed by a system in a given period. High [throughput](../t/throughput.md) is essential in [algorithmic trading](../a/algorithmic_trading.md) to [handle](../h/handle.md) large volumes of [market](../m/market.md) data and [order](../o/order.md) flow efficiently.
 
 #### Execution Time
 
@@ -80,9 +80,9 @@ Statistical [arbitrage](../a/arbitrage.md) involves identifying and exploiting p
 
 ### Key Industry Players
 
-- **Jane Street** [Jane Street](https://www.janestreet.com): Known for their advanced [trading algorithms](../t/trading_algorithms.md) and [quantitative research](../q/quantitative_research.md), Jane Street places a strong emphasis on the [efficiency](../e/efficiency.md) and performance of their [trading systems](../t/trading_systems.md).
-- **DRW** [DRW](https://drw.com): DRW is a [principal](../p/principal.md) trading [firm](../f/firm.md) that leverages efficient algorithms to operate in various markets, including [fixed income](../f/fixed_income.md), energy, and commodities.
-- **Two Sigma** [Two Sigma](https://www.twosigma.com): A technology-driven investment [firm](../f/firm.md) that develops sophisticated algorithms to explore vast amounts of data for investment opportunities, placing a [premium](../p/premium.md) on [efficiency](../e/efficiency.md) to [handle](../h/handle.md) their massive data intake.
+- **Jane Street** Jane Street: Known for their advanced [trading algorithms](../t/trading_algorithms.md) and [quantitative research](../q/quantitative_research.md), Jane Street places a strong emphasis on the [efficiency](../e/efficiency.md) and performance of their [trading systems](../t/trading_systems.md).
+- **DRW** DRW: DRW is a [principal](../p/principal.md) trading [firm](../f/firm.md) that leverages efficient algorithms to operate in various markets, including [fixed income](../f/fixed_income.md), energy, and commodities.
+- **Two Sigma** Two Sigma: A technology-driven investment [firm](../f/firm.md) that develops sophisticated algorithms to explore vast amounts of data for investment opportunities, placing a [premium](../p/premium.md) on [efficiency](../e/efficiency.md) to [handle](../h/handle.md) their massive data intake.
 
 ### Conclusion
 

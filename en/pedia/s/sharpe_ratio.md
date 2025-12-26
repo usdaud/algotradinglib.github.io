@@ -20,9 +20,9 @@ The ratio essentially represents the amount of [excess return](../e/excess_retur
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on quantitative metrics to make decisions. The Sharpe Ratio is particularly important in this field for several reasons:
 
 1. **Strategy Evaluation**: Traders can use the Sharpe Ratio to rank and evaluate the performance of different [trading algorithms](../t/trading_algorithms.md) or strategies in a consistent manner.
-  
+
 2. **[Risk Management](../r/risk_management.md)**: It provides a clear understanding of the [trade](../t/trade.md)-off between [risk](../r/risk.md) and [return](../r/return.md), which is crucial for developing [robust](../r/robust.md) [trading systems](../t/trading_systems.md).
-  
+
 3. **[Optimization](../o/optimization.md)**: [Trading algorithms](../t/trading_algorithms.md) can be optimized to maximize the Sharpe Ratio, ensuring that returns are not only high but also stable and sustainable.
 
 ## Calculation Example
@@ -53,9 +53,9 @@ A Sharpe Ratio above 1 is generally considered good, indicating that the investm
 While the Sharpe Ratio is a powerful tool, it does have its limitations:
 
 1. **Assumption of Normality**: The ratio assumes that returns are normally distributed, which might not always be the case in [financial markets](../f/financial_market.md).
-  
+
 2. **Time Dependency**: The Sharpe Ratio can vary significantly over different time periods. A strategy that performs well in one [market](../m/market.md) condition may not do so in another.
-  
+
 3. **[Risk](../r/risk.md)-free Rate Changes**: The [risk](../r/risk.md)-free rate is not static and can change due to macroeconomic policies, impacting the Sharpe Ratio.
 
 4. **Neglects Extreme Events**: It does not account for tail risks or extreme events, which can significantly affect an investment's stability.
@@ -65,7 +65,7 @@ While the Sharpe Ratio is a powerful tool, it does have its limitations:
 There are several variations of the Sharpe Ratio that aim to address some of its limitations:
 
 - **[Sortino Ratio](../s/sortino_ratio.md)**: This variation adjusts the Sharpe Ratio by focusing only on downside [volatility](../v/volatility.md), thus providing a more accurate [risk](../r/risk.md) measure by considering negative deviations from the mean.
-  
+
 - **[Treynor Ratio](../t/treynor_ratio.md)**: Unlike the Sharpe Ratio, which uses total [risk](../r/risk.md) ([standard deviation](../s/standard_deviation.md)), the [Treynor Ratio](../t/treynor_ratio.md) uses [systematic risk](../s/systematic_risk.md) ([beta](../b/beta.md)) to evaluate performance.
 
 ## Practical Application in Algo Trading
@@ -86,10 +86,10 @@ In live trading, the Sharpe Ratio can be monitored in real-time to assess ongoin
 
 Several platforms and tools help traders calculate and use the Sharpe Ratio:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and deploy strategies. [QuantConnect](../q/quantconnect.md) provides tools for calculating the Sharpe Ratio. [Visit QuantConnect](https://www.quantconnect.com/)
-  
-- **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library for Python that includes functions to calculate the Sharpe Ratio. [Visit Zipline](https://www.zipline.io/)
-  
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform where traders can backtest and deploy strategies. [QuantConnect](../q/quantconnect.md) provides tools for calculating the Sharpe Ratio. Visit QuantConnect
+
+- **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library for Python that includes functions to calculate the Sharpe Ratio. Visit Zipline
+
 - **Quantopian**: Though no longer operational, Quantopian was a popular platform for [backtesting](../b/backtesting.md) and [trading algorithms](../t/trading_algorithms.md) and provided comprehensive utilities to compute [performance metrics](../p/performance_metrics.md) like the Sharpe Ratio.
 
 ## Conclusion

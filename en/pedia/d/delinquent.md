@@ -18,9 +18,9 @@ Delinquency occurs when a borrower fails to make required payments on a [debt](.
 ### Types of Delinquencies
 
 1. **[Consumer Credit](../c/consumer_credit.md) Delinquencies**:
-   - **[Credit](../c/credit.md) Cards**: Missed payments on [credit card](../c/credit_card.md) accounts.
-   - **Personal Loans**: Failure to repay personal loans on time.
-   - **Auto Loans**: Delinquency in car [loan](../l/loan.md) repayments.
+ - **[Credit](../c/credit.md) Cards**: Missed payments on [credit card](../c/credit_card.md) accounts.
+ - **Personal Loans**: Failure to repay personal loans on time.
+ - **Auto Loans**: Delinquency in car [loan](../l/loan.md) repayments.
 
 2. **[Mortgage](../m/mortgage.md) Delinquencies**: Overdue payments on [home](../h/home.md) loans.
 
@@ -81,19 +81,19 @@ Institutions managing [loan](../l/loan.md) and [credit](../c/credit.md) portfoli
 
 ### FICO
 
-Fair Isaac [Corporation](../c/corporation.md) (FICO) is a leading analytics software company that provides [credit](../c/credit.md) scoring services. FICO scores, which are influenced by delinquency data, are widely used by financial institutions to assess [credit risk](../c/credit_risk.md). More information can be found on their [website](https://www.fico.com/).
+Fair Isaac [Corporation](../c/corporation.md) (FICO) is a leading analytics software company that provides [credit](../c/credit.md) scoring services. FICO scores, which are influenced by delinquency data, are widely used by financial institutions to assess [credit risk](../c/credit_risk.md).
 
 ### Equifax
 
-Equifax is a global data, analytics, and technology company that assists financial institutions in making informed [credit](../c/credit.md) decisions. Equifax provides detailed reports on consumer and [business](../b/business.md) [credit](../c/credit.md) delinquencies. For more details, visit their [website](https://www.equifax.com/).
+Equifax is a global data, analytics, and technology company that assists financial institutions in making informed [credit](../c/credit.md) decisions. Equifax provides detailed reports on consumer and [business](../b/business.md) [credit](../c/credit.md) delinquencies.
 
 ### Experian
 
-Experian is another major [credit](../c/credit.md) reporting agency [offering](../o/offering.md) comprehensive insights into [credit](../c/credit.md) histories, including delinquency information. They support financial institutions with [risk management](../r/risk_management.md) solutions. Their official website is [here](https://www.experian.com/).
+Experian is another major [credit](../c/credit.md) reporting agency [offering](../o/offering.md) comprehensive insights into [credit](../c/credit.md) histories, including delinquency information. They support financial institutions with [risk management](../r/risk_management.md) solutions. Their public materials is here.
 
 ### TransUnion
 
-TransUnion is a [consumer credit](../c/consumer_credit.md) reporting agency that offers [credit](../c/credit.md) information and [risk management](../r/risk_management.md) services. They provide delinquency data that helps institutions in making [credit](../c/credit.md)-related decisions. Additional information is available on their [website](https://www.transunion.com/).
+TransUnion is a [consumer credit](../c/consumer_credit.md) reporting agency that offers [credit](../c/credit.md) information and [risk management](../r/risk_management.md) services. They provide delinquency data that helps institutions in making [credit](../c/credit.md)-related decisions.
 
 ## Conclusion
 

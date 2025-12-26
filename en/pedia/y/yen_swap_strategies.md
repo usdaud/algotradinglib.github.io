@@ -2,6 +2,8 @@
 
 In the dynamic world of [financial markets](../f/financial_market.md), [derivatives](../d/derivatives.md) play an indispensable role in the efficient management of risks and the facilitation of investment strategies. Among these [derivatives](../d/derivatives.md), [interest rate swaps](../i/interest_rate_swaps.md) [hold](../h/hold.md) a prominent place, and when dealing with the yen (JPY), Yen [Swap](../s/swap.md) strategies become particularly pertinent.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ### Understanding Interest Rate Swaps
 
 An [interest rate swap](../i/interest_rate_swap.md) (IRS) is a financial [derivative](../d/derivative.md) contract in which two parties agree to [exchange](../e/exchange.md) [interest](../i/interest.md) [payment](../p/payment.md) [obligations](../o/obligation.md) on a predetermined notional amount. Typically, one party exchanges a [fixed interest rate](../f/fixed_interest_rate.md) for a [floating interest rate](../f/floating_interest_rate.md) from the other party (or vice versa). The primary objective is to manage exposure to fluctuations in [interest](../i/interest.md) rates, match [financing](../f/financing.md) costs with [revenue](../r/revenue.md) streams, or speculate on changes in [interest rate](../i/interest_rate.md) environments.
@@ -42,7 +44,7 @@ Traders may use yen swaps to speculate on changes in the Japanese [interest rate
 The BoJ’s [monetary policy](../m/monetary_policy.md) significantly influences yen [swap](../s/swap.md) markets. For decades, Japan has maintained low-[interest](../i/interest.md) rates to combat [deflation](../d/deflation.md) and stimulate [economic growth](../e/economic_growth.md). More recently, the BoJ has adopted unconventional measures like [negative interest rate](../n/negative_interest_rate.md) policy (NIRP) and [yield curve](../y/yield_curve.md) control (YCC).
 
 1. **[Negative Interest Rate](../n/negative_interest_rate.md) Policy (NIRP)**: Introduced in 2016, it has resulted in negative yields on many short-term yen instruments, complicating the [valuation](../v/valuation.md) and attractiveness of yen swaps.
-   
+
 2. **[Yield Curve](../y/yield_curve.md) Control (YCC)**: Since 2016, the BoJ has targeted a [zero percent](../z/zero_percent.md) [yield](../y/yield.md) on 10-year Japanese Government Bonds (JGBs), affecting long-term [swap](../s/swap.md) rates and their [spreads](../s/spreads.md) relative to government bonds.
 
 ### Yen Swap Curve
@@ -85,6 +87,6 @@ Yen [Swap](../s/swap.md) strategies are integral tools in modern [financial mark
 
 ### Reference Links
 
-- [Tokyo Financial Exchange](https://www.tfx.co.jp/en/)
-- [Bank of Japan](https://www.boj.or.jp/en/)
-- [Japan Securities Clearing Corporation](https://www.jpx.co.jp/english/)
+- Tokyo Financial Exchange
+- Bank of Japan
+- Japan Securities Clearing Corporation

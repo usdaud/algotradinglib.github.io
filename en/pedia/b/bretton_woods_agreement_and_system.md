@@ -75,10 +75,8 @@ The Bretton Woods Agreement and System left a lasting legacy on the internationa
 ### Continued Relevance of the IMF and World Bank
 
 - **IMF**: The IMF continues to monitor the global [economy](../e/economy.md), provide financial assistance to member countries, and [offer](../o/offer.md) policy advice to promote stability and growth.
-  - Website: [IMF](https://www.imf.org)
-  
+
 - **[World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) remains a vital source of funding for development projects worldwide, supporting efforts to reduce [poverty](../p/poverty.md) and promote sustainable development.
-  - Website: [World Bank](https://www.worldbank.org)
 
 ## Conclusion
 

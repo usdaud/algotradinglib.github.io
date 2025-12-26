@@ -73,7 +73,7 @@ With the advent of FinTech, quasi-contracts are increasingly relevant in digital
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), quasi-contract principles can mitigate instances where algorithms execute trades erroneously, ensuring no party is unjustly enriched due to technological errors.
+In [algorithmic trading](../a/algorithmic_trading.md), quasi-contract principles can mitigate instances where algorithms execute trades erroneously, ensuring no party is unjustly enriched due to technological errors.
 
 ## Conclusion
 

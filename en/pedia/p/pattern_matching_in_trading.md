@@ -81,11 +81,11 @@ To understand the real-world application of pattern matching in trading, let's l
 
 #### Case Study 1: Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is one of the most successful [hedge](../h/hedge.md) funds using [algorithmic trading](../a/algorithmic_trading.md). They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md) techniques to identify trading opportunities. By leveraging quantitative techniques and [machine learning](../m/machine_learning.md), Renaissance Technologies has consistently outperformed the [market](../m/market.md). More information can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, founded by James Simons, is one of the most successful [hedge](../h/hedge.md) funds using [algorithmic trading](../a/algorithmic_trading.md). They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and [pattern recognition](../p/pattern_recognition.md) techniques to identify trading opportunities. By leveraging quantitative techniques and [machine learning](../m/machine_learning.md), Renaissance Technologies has consistently outperformed the [market](../m/market.md).
 
 #### Case Study 2: Two Sigma
 
-Two Sigma, another leading [hedge fund](../h/hedge_fund.md), relies heavily on [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). They use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to uncover complex patterns in financial data. Two Sigma's approach to pattern matching and data analysis has enabled them to develop [predictive models](../p/predictive_models_in_trading.md) that inform their trading decisions. Visit their [website](https://www.twosigma.com) for further details.
+Two Sigma, another leading [hedge fund](../h/hedge_fund.md), relies heavily on [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). They use [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to uncover complex patterns in financial data. Two Sigma's approach to pattern matching and data analysis has enabled them to develop [predictive models](../p/predictive_models_in_trading.md) that inform their trading decisions.
 
 ### Challenges and Limitations
 
@@ -109,4 +109,3 @@ The future of pattern matching in trading looks promising, with advancements in 
 Pattern matching in trading is a powerful technique that leverages historical price data to predict future [market](../m/market.md) movements. By incorporating statistical methods, [machine learning](../m/machine_learning.md), and AI, traders can identify complex patterns and execute trades with high precision. Despite its challenges, the benefits of pattern matching make it an indispensable tool in the arsenal of modern [algorithmic trading](../a/algorithmic_trading.md) strategies. As technology continues to evolve, pattern matching [will](../w/will.md) play an even more significant role in shaping the future of trading.
 
 For further reading on [algorithmic trading](../a/algorithmic_trading.md) and financial [market](../m/market.md) techniques, consider exploring resources provided by Renaissance Technologies and Two Sigma, both pioneers in the field of [quantitative trading](../q/quantitative_trading.md).
-

@@ -21,7 +21,7 @@ Understanding the cost structures and production processes is crucial for busine
 
 - **Production Functions:** Models that describe the relationship between the quantity of inputs used and the quantity of output produced.
 - **Cost Functions:** Represent the cost of producing different quantities of output, showing how costs change with the level of production.
-  
+
 ### 3. **Market Structures**
 
 [Business](../b/business.md) economists analyze different [market](../m/market.md) structures to understand how firms behave and compete. [Market](../m/market.md) structures include:
@@ -86,23 +86,23 @@ Firms must navigate various regulatory environments. [Business](../b/business.md
 
 ### 1. **McKinsey & Company**
 
-McKinsey & Company is a global management consulting [firm](../f/firm.md) that provides solutions to enhance the performance of organizations. They apply [business](../b/business.md) [economics](../e/economics.md) principles to address practical challenges companies face. More information can be found on their official website [McKinsey & Company](https://www.mckinsey.com).
+McKinsey & Company is a global management consulting [firm](../f/firm.md) that provides solutions to enhance the performance of organizations. They apply [business](../b/business.md) [economics](../e/economics.md) principles to address practical challenges companies face.
 
 ### 2. **Boston Consulting Group (BCG)**
 
-BCG is a global management consulting [firm](../f/firm.md) that partners with clients to solve complex [business](../b/business.md) problems. They utilize economic theories and models to provide strategic insights and drive [business](../b/business.md) performance. More details are available on their official website [Boston Consulting Group (BCG)](https://www.bcg.com).
+BCG is a global management consulting [firm](../f/firm.md) that partners with clients to solve complex [business](../b/business.md) problems. They utilize economic theories and models to provide strategic insights and drive [business](../b/business.md) performance. More
 
 ### 3. **Deloitte**
 
-Deloitte, a prominent professional services [firm](../f/firm.md), offers consulting services that include economic analysis for businesses. They assist organizations in making informed decisions by leveraging economic insights. Visit the [Deloitte](https://www2.deloitte.com) website for more information.
+Deloitte, a prominent professional services [firm](../f/firm.md), offers consulting services that include economic analysis for businesses. They assist organizations in making informed decisions by leveraging economic insights.
 
 ### 4. **PricewaterhouseCoopers (PwC)**
 
-PwC is a multinational professional services network that provides advisory services, including [business](../b/business.md) [economics](../e/economics.md) analysis. They help firms enhance their economic performance and navigate [market](../m/market.md) challenges. More information is available on their official website [PwC](https://www.pwc.com).
+PwC is a multinational professional services network that provides advisory services, including [business](../b/business.md) [economics](../e/economics.md) analysis. They help firms enhance their economic performance and navigate [market](../m/market.md) challenges.
 
 ### 5. **Ernst & Young (EY)**
 
-EY offers consulting services that encompass [business](../b/business.md) [economics](../e/economics.md) to help organizations improve their operations and strategies. Their experts use economic principles to provide actionable insights. Further details can be found on the [Ernst & Young (EY)](https://www.ey.com) website.
+EY offers consulting services that encompass [business](../b/business.md) [economics](../e/economics.md) to help organizations improve their operations and strategies. Their experts use economic principles to provide actionable insights.
 
 ## Conclusion
 

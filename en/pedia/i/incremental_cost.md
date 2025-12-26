@@ -96,16 +96,16 @@ A company may use incremental cost to decide whether to [upgrade](../u/upgrade.m
 
 ## Software Tools for Incremental Cost Analysis
 
-Various [software tools](../s/software_tools_for_trading.md) and platforms assist businesses in conducting incremental cost analysis. These tools [range](../r/range.md) from sophisticated enterprise resource planning (ERP) systems to specialized cost management software. 
+Various [software tools](../s/software_tools_for_trading.md) and platforms assist businesses in conducting incremental cost analysis. These tools [range](../r/range.md) from sophisticated enterprise resource planning (ERP) systems to specialized cost management software.
 
 ### Examples of Software Tools
 
 1. **SAP ERP**: Provides comprehensive cost management features and supports detailed incremental cost analysis.
-   - [SAP](https://www.sap.com/)
+ - SAP
 2. **Oracle Cost Management Cloud**: Offers [robust](../r/robust.md) tools for analyzing incremental and marginal costs.
-   - [Oracle](https://www.oracle.com/)
+ - Oracle
 3. **Costimator**: Specialized in cost analysis for [manufacturing](../m/manufacturing.md) processes.
-   - [MTI Systems](https://www.mtisystems.com/)
+ - MTI Systems
 
 ## Conclusion
 

@@ -12,13 +12,13 @@ Explicit costs are direct costs associated with trading. They are usually clear 
 
 Commissions are fees paid to brokers for executing trades. These fees can be either a fixed amount per [trade](../t/trade.md) or a percentage of the [trade](../t/trade.md) [value](../v/value.md). The structure and level of commissions can vary significantly between brokers and trading platforms.
 
-- **Example:** [Interactive Brokers](../i/interactive_brokers.md) [website](https://www.interactivebrokers.com)
+- **Example:** [Interactive Brokers](../i/interactive_brokers.md) online platform
 
 #### b. Exchange Fees
 
 Exchanges charge fees for executing trades on their platforms. These fees may vary depending on the type of [asset](../a/asset.md) being traded ([stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), etc.) and the specific [exchange](../e/exchange.md).
 
-- **Example:** New York Stock [Exchange](../e/exchange.md) [website](https://www.nyse.com)
+- **Example:** New York Stock [Exchange](../e/exchange.md) online platform
 
 #### c. Taxes
 
@@ -46,25 +46,25 @@ The [bid-ask spread](../b/bid-ask_spread.md) is the difference between the highe
 
 Smart [Order Routing](../o/order_routing.md) (SOR) technology can help traders minimize costs by routing orders through [multiple](../m/multiple.md) exchanges and [liquidity](../l/liquidity.md) providers to find the best available prices.
 
-- **Example:** Virtu Financial [website](https://www.virtu.com)
+- **Example:**
 
 ### 2. Execution Algorithms
 
 Using sophisticated [execution algorithms](../e/execution_algorithms.md) can help in breaking down large orders into smaller parts and executing them in a way that minimizes [market](../m/market.md) impact and [slippage](../s/slippage.md).
 
-- **Example:** Citadel Securities [website](https://www.citadelsecurities.com)
+- **Example:**
 
 ### 3. Use of Dark Pools
 
 [Dark pools](../d/dark_pools.md) are private exchanges where large orders can be executed anonymously, reducing the [risk](../r/risk.md) of [market](../m/market.md) impact.
 
-- **Example:** Liquidnet [website](https://www.liquidnet.com)
+- **Example:**
 
 ### 4. Transaction Cost Analysis (TCA)
 
 TCA involves [analyzing trading costs](../a/analyzing_trading_costs.md) to identify areas for improvement. By understanding where costs are higher than expected, traders can adjust their strategies accordingly.
 
-- **Example:** ITG (now part of Virtu Financial) [website](https://www.virtu.com)
+- **Example:**
 
 ## The Role of Technology
 
@@ -74,19 +74,19 @@ Advancements in technology have played a pivotal role in understanding and manag
 
 HFT involves using powerful computers to execute a large number of orders at extremely fast speeds. This can help in capitalizing on small price discrepancies and reducing certain types of costs, such as [slippage](../s/slippage.md).
 
-- **Example:** [Jump Trading](../j/jump_trading.md) [website](https://www.jumptrading.com)
+- **Example:** [Jump Trading](../j/jump_trading.md) online platform
 
 ### 2. Machine Learning and AI
 
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can analyze vast amounts of data to predict [market](../m/market.md) movements and optimize [order](../o/order.md) [execution](../e/execution.md) strategies. These algorithms can adapt to changing [market](../m/market.md) conditions and continuously improve their performance.
 
-- **Example:** Two Sigma [website](https://www.twosigma.com)
+- **Example:**
 
 ### 3. Big Data Analytics
 
 [Big data analytics](../b/big_data_analytics_in_trading.md) involves analyzing large datasets to uncover patterns and insights that can be used to optimize [trading strategies](../t/trading_strategies.md). This can help in identifying the best times to [trade](../t/trade.md) and the most cost-effective ways to execute orders.
 
-- **Example:** Palantir Technologies [website](https://www.palantir.com)
+- **Example:**
 
 ## Regulatory Considerations
 
@@ -96,13 +96,13 @@ The regulatory environment can also influence trading and [execution](../e/execu
 
 The Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md)) is a regulatory framework implemented in the [European Union](../e/european_union_(eu).md) to increase [transparency](../t/transparency.md) and reduce costs for investors. It mandates detailed reporting on [execution](../e/execution.md) quality and costs.
 
-- **Example:** European Securities and Markets Authority (ESMA) [website](https://www.esma.europa.eu)
+- **Example:**
 
 ### 2. Regulation NMS
 
 In the United States, Regulation National [Market](../m/market.md) System (NMS) aims to ensure fair and efficient markets by promoting competition among trading venues. This regulation impacts how orders are routed and executed, influencing [trading costs](../t/trading_costs.md).
 
-- **Example:** US Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) [website](https://www.sec.gov)
+- **Example:** US Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) online platform
 
 ## Measuring and Monitoring Costs
 
@@ -120,7 +120,7 @@ Key metrics used to measure [trading costs](../t/trading_costs.md) include:
 
 Various tools and platforms provide detailed reporting on [trading costs](../t/trading_costs.md). These can include pre-[trade](../t/trade.md) analytics, real-time monitoring, and [post-trade analysis](../p/post-trade_analysis.md).
 
-- **Example:** [Bloomberg](../b/bloomberg.md) Terminal [website](https://www.bloomberg.com/professional/solution/bloomberg-terminal)
+- **Example:** [Bloomberg](../b/bloomberg.md)
 
 ## Conclusion
 

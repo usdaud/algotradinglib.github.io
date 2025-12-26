@@ -40,7 +40,7 @@ Convertible bonds have a [maturity date](../m/maturity_date.md), at which point 
 ## Pricing and Valuation
 
 ### Convertible Bond Pricing
-The pricing of a convertible [bond](../b/bond.md) involves the [valuation](../v/valuation.md) of its [debt](../d/debt.md)-like and [equity](../e/equity.md)-like components. The price typically includes an "embedded [option premium](../o/option_premium.md)," reflecting the [value](../v/value.md) of the conversion option. 
+The pricing of a convertible [bond](../b/bond.md) involves the [valuation](../v/valuation.md) of its [debt](../d/debt.md)-like and [equity](../e/equity.md)-like components. The price typically includes an "embedded [option premium](../o/option_premium.md)," reflecting the [value](../v/value.md) of the conversion option.
 
 - **Straight [Bond](../b/bond.md) [Value](../v/value.md)**: The [value](../v/value.md) of the [bond](../b/bond.md) if it did not have the conversion option. This is calculated using the [present value](../p/present_value.md) of the [bond](../b/bond.md)'s future cash flows (coupon payments and [principal](../p/principal.md) [repayment](../r/repayment.md)).
 - **Conversion [Value](../v/value.md)**: The [market value](../m/market_value.md) of the [shares](../s/shares.md) that the [bond](../b/bond.md) can be converted into, calculated as the current stock price multiplied by the conversion ratio.

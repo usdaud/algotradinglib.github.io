@@ -27,7 +27,7 @@ In [accrual accounting](../a/accrual_accounting.md) and for tax purposes, OID ne
 The IRS typically requires the use of the Constant [Yield](../y/yield.md) Method to amortize OID. The steps involved are:
 
 1. **Determine the [Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: The YTM is the [discount rate](../d/discount_rate.md) that equates the [present value](../p/present_value.md) of all future cash flows from the [bond](../b/bond.md) to its [issue](../i/issue.md) price.
-   
+
 2. **Calculate the Accrued OID for Each Period**: Using the [yield](../y/yield.md), the OID earned in each period is calculated based on the initial price of the [bond](../b/bond.md) and its [accruals](../a/accruals.md).
 
 The formula for the constant [yield](../y/yield.md) method is:
@@ -53,7 +53,7 @@ Several types of bonds may be issued with an OID, including but not limited to:
 
 ### Zero-Coupon Bonds
 
-Zero-coupon bonds are the most common type of OID bonds. These bonds do not make periodic [interest](../i/interest.md) payments. Instead, they are sold at a deep [discount](../d/discount.md) from their [face value](../f/face_value.md), and they pay the full [face value](../f/face_value.md) at [maturity](../m/maturity.md). 
+Zero-coupon bonds are the most common type of OID bonds. These bonds do not make periodic [interest](../i/interest.md) payments. Instead, they are sold at a deep [discount](../d/discount.md) from their [face value](../f/face_value.md), and they pay the full [face value](../f/face_value.md) at [maturity](../m/maturity.md).
 
 ### Municipal Bonds
 

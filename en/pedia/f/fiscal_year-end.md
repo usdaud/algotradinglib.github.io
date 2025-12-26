@@ -51,10 +51,10 @@ Aligning the fiscal year-end with [business](../b/business.md) cycles can facili
 ## Examples and Case Studies
 
 ### Retail Giant - Walmart
-Walmart, one of the largest retailers globally, ends its fiscal year on January 31. This post-holiday season fiscal year-end allows Walmart to incorporate the significant [revenue](../r/revenue.md) generated during the holiday shopping period into its annual [financial statements](../f/financial_statements.md) without the year-end [accounting](../a/accounting.md) conflicts common in traditional December year-ends. [Walmart Fiscal Year](https://corporate.walmart.com)
+Walmart, one of the largest retailers globally, ends its fiscal year on January 31. This post-holiday season fiscal year-end allows Walmart to incorporate the significant [revenue](../r/revenue.md) generated during the holiday shopping period into its annual [financial statements](../f/financial_statements.md) without the year-end [accounting](../a/accounting.md) conflicts common in traditional December year-ends. Walmart Fiscal Year
 
 ### Tech Industry Leader - Microsoft
-Microsoft ends its fiscal year on June 30. This choice allows Microsoft to conclude its fiscal operations well after the end of the calendar year, avoiding potential disruptions during peak product release periods and aligning better with their [revenue](../r/revenue.md) cycles. [Microsoft Fiscal Year](https://www.microsoft.com/en-us/investor/sec-filings.aspx)
+Microsoft ends its fiscal year on June 30. This choice allows Microsoft to conclude its fiscal operations well after the end of the calendar year, avoiding potential disruptions during peak product release periods and aligning better with their [revenue](../r/revenue.md) cycles. Microsoft Fiscal Year
 
 ## Conclusion
 The fiscal year-end is a pivotal date for businesses and government entities, marking the closure of an [accounting](../a/accounting.md) period and facilitating comprehensive financial reporting, compliance activities, strategic planning, and tax [obligations](../o/obligation.md). Selecting the proper fiscal year-end, aligned with [business](../b/business.md) cycles, can improve financial management and strategic planning, [offering](../o/offering.md) distinct advantages in performance measurement and [tax planning](../t/tax_planning.md).

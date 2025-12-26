@@ -1,10 +1,10 @@
 # Interest Rate Convexity
 
-[Interest rate](../i/interest_rate.md) [convexity](../c/convexity.md) is a key concept in [fixed income](../f/fixed_income.md) and [bond](../b/bond.md) trading, critical for understanding the [price sensitivity](../p/price_sensitivity.md) of bonds and other fixed-[income](../i/income.md) securities to changes in [interest](../i/interest.md) rates. This concept becomes especially important in the context of algo trading ([algorithmic trading](../a/algorithmic_trading.md)), where precise modeling of [interest rate](../i/interest_rate.md) movements and [bond](../b/bond.md) price reactions can significantly impact [trading strategies](../t/trading_strategies.md) and outcomes. 
+[Interest rate](../i/interest_rate.md) [convexity](../c/convexity.md) is a key concept in [fixed income](../f/fixed_income.md) and [bond](../b/bond.md) trading, critical for understanding the [price sensitivity](../p/price_sensitivity.md) of bonds and other fixed-[income](../i/income.md) securities to changes in [interest](../i/interest.md) rates. This concept becomes especially important in the context of algo trading ([algorithmic trading](../a/algorithmic_trading.md)), where precise modeling of [interest rate](../i/interest_rate.md) movements and [bond](../b/bond.md) price reactions can significantly impact [trading strategies](../t/trading_strategies.md) and outcomes.
 
 #### Definition and Basic Concept
 
-[Convexity](../c/convexity.md) is the second [derivative](../d/derivative.md) of a [bond](../b/bond.md)'s price with respect to [interest](../i/interest.md) rates, effectively measuring the curvature of the price-[yield](../y/yield.md) relationship. While [duration](../d/duration.md) measures the first-[order](../o/order.md) sensitivity of a [bond](../b/bond.md)'s price to [interest rate](../i/interest_rate.md) changes (that is, the approximate [percentage change](../p/percentage_change.md) in the [bond](../b/bond.md)'s price for a one percentage point change in [interest](../i/interest.md) rates), [convexity](../c/convexity.md) adds a layer of precision by [accounting](../a/accounting.md) for the fact that the [duration](../d/duration.md) itself changes as [interest](../i/interest.md) rates change. 
+[Convexity](../c/convexity.md) is the second [derivative](../d/derivative.md) of a [bond](../b/bond.md)'s price with respect to [interest](../i/interest.md) rates, effectively measuring the curvature of the price-[yield](../y/yield.md) relationship. While [duration](../d/duration.md) measures the first-[order](../o/order.md) sensitivity of a [bond](../b/bond.md)'s price to [interest rate](../i/interest_rate.md) changes (that is, the approximate [percentage change](../p/percentage_change.md) in the [bond](../b/bond.md)'s price for a one percentage point change in [interest](../i/interest.md) rates), [convexity](../c/convexity.md) adds a layer of precision by [accounting](../a/accounting.md) for the fact that the [duration](../d/duration.md) itself changes as [interest](../i/interest.md) rates change.
 
 Mathematically, [convexity](../c/convexity.md) is expressed as:
 \[ \text{[Convexity](../c/convexity.md)} = \frac{1}{P} \sum_{t=1}^{n} \left( \frac{C_t \cdot t (t+1)}{(1 + y)^{t+2}} \right) \]
@@ -41,10 +41,9 @@ where:
 
 Several companies and financial institutions are known for their advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities, particularly in the fixed-[income](../i/income.md) domain:
 
-- [Citadel Securities](https://www.citadelsecurities.com/): A leading [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that employs sophisticated algorithms across various [asset](../a/asset.md) classes, including [fixed income](../f/fixed_income.md).
-- [Two Sigma](https://www.twosigma.com/): A [hedge fund](../h/hedge_fund.md) and trading [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
-- [DE Shaw & Co](https://www.deshaw.com/): Known for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. 
-
+- Citadel Securities: A leading [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that employs sophisticated algorithms across various [asset](../a/asset.md) classes, including [fixed income](../f/fixed_income.md).
+- Two Sigma: A [hedge fund](../h/hedge_fund.md) and trading [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and technology to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
+- DE Shaw & Co: Known for its use of complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading.
 #### Challenges and Considerations
 
 While incorporating [convexity](../c/convexity.md) into [trading algorithms](../t/trading_algorithms.md) offers many advantages, there are also challenges:

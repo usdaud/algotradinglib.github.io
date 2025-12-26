@@ -16,47 +16,46 @@ The mean \(\[lambda](../l/lambda.md)\) is typically modeled as an exponential fu
 
 \[ \[lambda](../l/lambda.md) = e^{\beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_k X_k} \]
 
-or
 
 \[ \log(\[lambda](../l/lambda.md)) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_k X_k \]
 
-where \(\beta_0, \beta_1, ...,\beta_k\) are the coefficients to be estimated.
+where \(\beta_0, \beta_1,...,\beta_k\) are the coefficients to be estimated.
 
 **Application in Trading**
 
 Poisson regression can be applied in trading to model the number of events, such as trades or price movements, that occur over a given period. Some practical applications in trading include:
 
 1. **[Trade](../t/trade.md) [Volume](../v/volume.md) Prediction**:
-   - **Example**: Predicting the number of trades executed for a particular stock in a 5-minute interval.
-   
+ - **Example**: Predicting the number of trades executed for a particular stock in a 5-minute interval.
+
 2. **Price Movement Events**:
-   - **Example**: Estimating the number of times a price movement exceeds a certain threshold within a trading day.
+ - **Example**: Estimating the number of times a price movement exceeds a certain threshold within a trading day.
 
 3. **[Order Book](../o/order_book.md) Events**:
-   - **Example**: Predicting the number of [order book](../o/order_book.md) changes (e.g., new orders, cancellations) during certain periods.
+ - **Example**: Predicting the number of [order book](../o/order_book.md) changes (e.g., new orders, cancellations) during certain periods.
 
 **Steps to Implement Poisson Regression in Trading**
 
 1. **Data Collection**:
-   - Collect relevant trading data, such as [tick](../t/tick.md) data, [order book](../o/order_book.md) snapshots, and [trade](../t/trade.md) [volume](../v/volume.md) information.
-   
+ - Collect relevant trading data, such as [tick](../t/tick.md) data, [order book](../o/order_book.md) snapshots, and [trade](../t/trade.md) [volume](../v/volume.md) information.
+
 2. **Preprocessing**:
-   - Aggregate the data into specified intervals (e.g., 1-minute, 5-minute).
-   - Generate the count of events for each interval (e.g., number of trades, price movements).
+ - Aggregate the data into specified intervals (e.g., 1-minute, 5-minute).
+ - Generate the count of events for each interval (e.g., number of trades, price movements).
 
 3. **Feature Selection**:
-   - Identify relevant features that might influence the count variable (e.g., historical price, [volume](../v/volume.md) data, [volatility](../v/volatility.md) measures).
+ - Identify relevant features that might influence the count variable (e.g., historical price, [volume](../v/volume.md) data, [volatility](../v/volatility.md) measures).
 
 4. **Model Training**:
-   - Split the data into training and testing sets.
-   - Fit a Poisson regression model on the training data to estimate the coefficients.
+ - Split the data into training and testing sets.
+ - Fit a Poisson regression model on the training data to estimate the coefficients.
 
 5. **Model Evaluation**:
-   - Evaluate the model performance using appropriate metrics such as Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE).
+ - Evaluate the model performance using appropriate metrics such as Mean Absolute Error (MAE), [Mean Squared Error](../m/mean_squared_error.md) (MSE).
 
 6. **Prediction and Application**:
-   - Use the trained model to make predictions on the test data or new data points.
-   - Apply these predictions to make trading decisions or build automated [trading strategies](../t/trading_strategies.md).
+ - Use the trained model to make predictions on the test data or new data points.
+ - Apply these predictions to make trading decisions or build automated [trading strategies](../t/trading_strategies.md).
 
 **Code Example**
 
@@ -105,7 +104,7 @@ print(poisson_model.summary())
 
 **Case Study: [Bloomberg](../b/bloomberg.md)'s Use of Poisson Regression**
 
-Leading financial information provider [Bloomberg](../b/bloomberg.md) offers various [predictive analytics](../p/predictive_analytics.md) tools that can be applied to trading and [market](../m/market.md) data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, [Bloomberg](../b/bloomberg.md) Professional Services provide the necessary data and tools. Learn more about their offerings on their official site: [Bloomberg Professional Services](https://www.bloomberg.com/professional/).
+Leading financial information provider [Bloomberg](../b/bloomberg.md) offers various [predictive analytics](../p/predictive_analytics.md) tools that can be applied to trading and [market](../m/market.md) data analysis. For financial professionals interested in taking their analyses further with Poisson regression and other advanced statistical models, [Bloomberg](../b/bloomberg.md) Professional Services provide the necessary data and tools. Learn more about their offerings on their public materials: Bloomberg Professional Services.
 
 **Conclusion**
 

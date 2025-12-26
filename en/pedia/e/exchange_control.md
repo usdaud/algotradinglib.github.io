@@ -82,19 +82,19 @@ Argentina has intermittently imposed [capital](../c/capital.md) controls to stab
 
 ### Forex.com
 
-[Forex.com](https://www.forex.com/) is a prominent online forex [trading platform](../t/trading_platform.md) that provides access to a wide [range](../r/range.md) of [currency](../c/currency.md) pairs. The platform is designed to navigate [currency](../c/currency.md) controls and provides tools and resources for managing [currency](../c/currency.md) risks.
+Forex.com is a prominent online forex [trading platform](../t/trading_platform.md) that provides access to a wide [range](../r/range.md) of [currency](../c/currency.md) pairs. The platform is designed to navigate [currency](../c/currency.md) controls and provides tools and resources for managing [currency](../c/currency.md) risks.
 
 ### Interactive Brokers
 
-[Interactive Brokers](https://www.interactivebrokers.com/) offers a comprehensive [trading platform](../t/trading_platform.md) that includes forex trading. [Interactive Brokers](../i/interactive_brokers.md) provides solutions to comply with various [exchange](../e/exchange.md) control regulations and offers tools for [risk management](../r/risk_management.md) and [algorithmic trading](../a/accountability.md).
+Interactive Brokers offers a comprehensive [trading platform](../t/trading_platform.md) that includes forex trading. [Interactive Brokers](../i/interactive_brokers.md) provides solutions to comply with various [exchange](../e/exchange.md) control regulations and offers tools for [risk management](../r/risk_management.md) and [algorithmic trading](../a/accountability.md).
 
 ### MetaTrader
 
-[MetaTrader](https://www.metatrader4.com/en) is a popular electronic [trading platform](../t/trading_platform.md) widely used in forex and contract for differences (CFD) trading. MetaTrader supports [automated trading systems](../a/automated_trading_systems.md) and can adapt to the regulatory environment influenced by [exchange](../e/exchange.md) controls.
+MetaTrader is a popular electronic [trading platform](../t/trading_platform.md) widely used in forex and contract for differences (CFD) trading. MetaTrader supports [automated trading systems](../a/automated_trading_systems.md) and can adapt to the regulatory environment influenced by [exchange](../e/exchange.md) controls.
 
 ### Bloomberg Terminal
 
-The [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is an advanced [trading platform](../t/trading_platform.md) that provides [real-time market data](../r/real-time_market_data.md), news, and analytics. It includes features to track regulatory changes, including [exchange](../e/exchange.md) control measures, and is essential for professional trading and [risk management](../r/risk_management.md).
+The Bloomberg Terminal is an advanced [trading platform](../t/trading_platform.md) that provides [real-time market data](../r/real-time_market_data.md), news, and analytics. It includes features to track regulatory changes, including [exchange](../e/exchange.md) control measures, and is essential for professional trading and [risk management](../r/risk_management.md).
 
 ## Conclusion
 

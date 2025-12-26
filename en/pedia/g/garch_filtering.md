@@ -85,7 +85,7 @@ TGARCH, also known as GARCH with threshold effects, is another model that allows
 APARCH models, introduced by Ding, Granger, and Engle, allow for both asymmetry and a flexible power parameter, [offering](../o/offering.md) more flexibility in capturing the dynamics of [volatility](../v/volatility.md).
 
 \[
-\sigma_t^\[delta](../d/delta.md) = \alpha_0 + \sum_{i=1}^{q} [\alpha_i (|\epsilon_{t-i}| + \gamma_i \epsilon_{t-i})^\[delta](../d/delta.md)] + \sum_{j=1}^{p} \beta_j \sigma_{t-j}^\[delta](../d/delta.md)
+\sigma_t^\delta = \alpha_0 + \sum_{i=1}^{q} [\alpha_i (|\epsilon_{t-i}| + \gamma_i \epsilon_{t-i})^\delta] + \sum_{j=1}^{p} \beta_j \sigma_{t-j}^\delta
 \]
 
 ## Case Studies and Practical Examples
@@ -94,7 +94,7 @@ APARCH models, introduced by Ding, Granger, and Engle, allow for both asymmetry 
 
 Consider a case where a quant team develops a [trading strategy](../t/trading_strategy.md) based on [volatility](../v/volatility.md) forecasts of the S&P 500 [index](../i/index_instrument.md). They use a GARCH(1,1) model to estimate the daily [volatility](../v/volatility.md) and derive [trading signals](../t/trading_signals.md) based on deviations from a two-week rolling average. The strategy involves taking long positions when [volatility](../v/volatility.md) is expected to rise and short positions when it is expected to fall.
 
-In this scenario, the team uses historical S&P 500 [index](../i/index_instrument.md) prices to estimate the parameters of the GARCH(1,1) model. They then generate one-step-ahead [volatility](../v/volatility.md) forecasts and back-test the [trading strategy](../t/trading_strategy.md) to evaluate its performance. 
+In this scenario, the team uses historical S&P 500 [index](../i/index_instrument.md) prices to estimate the parameters of the GARCH(1,1) model. They then generate one-step-ahead [volatility](../v/volatility.md) forecasts and back-test the [trading strategy](../t/trading_strategy.md) to evaluate its performance.
 
 ### Case Study 2: FX Market Risk Management
 
@@ -107,20 +107,16 @@ The EGARCH model helps the institution accurately estimate [risk](../r/risk.md) 
 Several software packages and tools are available for implementing [GARCH models](../g/garch_models.md):
 
 - **R**: The `rugarch` package in R provides a comprehensive suite for GARCH model estimation, diagnostic checking, and [forecasting](../f/forecasting.md).
-  
-  [rugarch package](https://cran.r-project.org/web/packages/rugarch/index.html)
+
 
 - **Python**: The `arch` package in Python offers similar functionality for GARCH model estimation and [simulation](../s/simulation_in_trading.md).
 
-  [arch package](https://pypi.org/project/arch)
 
 - **EViews**: EViews is a popular econometric software that offers extensive support for GARCH modeling and [forecasting](../f/forecasting.md).
 
-  [EViews](https://www.eviews.com)
 
 - **Stata**: Stata also provides [robust](../r/robust.md) tools for estimating and applying [GARCH models](../g/garch_models.md).
-  
-  [Stata](https://www.stata.com)
+
 
 ## Conclusion
 

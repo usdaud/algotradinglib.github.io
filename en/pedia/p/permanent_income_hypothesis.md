@@ -7,7 +7,7 @@ The Permanent [Income](../i/income.md) Hypothesis (PIH) is a theory of consumer 
 ### Permanent vs. Transitory Income
 
 - **Permanent [Income](../i/income.md):** This represents an individual’s long-term average [income](../i/income.md) or an estimate of their lifelong expected [earnings](../e/earnings.md). Permanent [income](../i/income.md) is considered to be more stable and is the [basis](../b/basis.md) upon which individuals plan their consumption.
-  
+
 - **Transitory [Income](../i/income.md):** This refers to short-term deviations from the permanent [income](../i/income.md), caused by one-off events such as bonuses or temporary redundancies. Transitory [income](../i/income.md) can be either positive or negative and tends to be more volatile and unpredictable.
 
 ### Consumption Smoothing
@@ -48,11 +48,11 @@ Empirical tests of the Permanent [Income](../i/income.md) Hypothesis have produc
 
 ## Applications in Algorithmic Trading and Fintech
 
-The Permanent [Income](../i/income.md) Hypothesis can also have interesting applications in the fields of [algorithmic trading](../a/accountability.md) and financial technology (fintech). 
+The Permanent [Income](../i/income.md) Hypothesis can also have interesting applications in the fields of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech).
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), understanding consumer behavior in response to changes in [income](../i/income.md) can be valuable for predicting [market](../m/market.md) trends. Algorithms can incorporate aspects of the PIH to forecast future consumption patterns based on long-term [income](../i/income.md) trends rather than short-term fluctuations. For example, [trading strategies](../t/trading_strategies.md) could be developed to [capitalize](../c/capitalize.md) on expected changes in consumption trends following sustained changes in [economic indicators](../e/economic_indicators.md) that affect permanent [income](../i/income.md).
+In [algorithmic trading](../a/algorithmic_trading.md), understanding consumer behavior in response to changes in [income](../i/income.md) can be valuable for predicting [market](../m/market.md) trends. Algorithms can incorporate aspects of the PIH to forecast future consumption patterns based on long-term [income](../i/income.md) trends rather than short-term fluctuations. For example, [trading strategies](../t/trading_strategies.md) could be developed to [capitalize](../c/capitalize.md) on expected changes in consumption trends following sustained changes in [economic indicators](../e/economic_indicators.md) that affect permanent [income](../i/income.md).
 
 ### Financial Planning and Robo-Advisors
 
@@ -62,4 +62,4 @@ Fintech companies, particularly those involved in [financial planning](../f/fina
 
 The Permanent [Income](../i/income.md) Hypothesis provides a foundational framework for understanding consumer behavior in relation to [income](../i/income.md) changes. By distinguishing between permanent and transitory [income](../i/income.md), the PIH suggests that consumers aim to smooth their consumption over time to maximize [utility](../u/utility.md). While there is empirical support for the theory, it is also evident that real-world deviations exist, necessitating a blended understanding of both rational planning and behavioral factors. As such, the PIH remains a critical yet continually evolving component of economic and [financial analysis](../f/financial_analysis.md).
 
-For more information on robo-advisors and fintech applications, you can visit the following link: [Wealthfront](https://www.wealthfront.com)
+For more information on robo-advisors and fintech applications, you can visit the following link: Wealthfront

@@ -10,7 +10,7 @@ Historically, centrally planned economies have been most commonly associated wit
 ### Government Control
 
 1. **Production Decisions**: In a centrally planned [economy](../e/economy.md), the government decides which goods and services are needed. This decision is often based on national priorities and social goals rather than [market](../m/market.md) [demand](../d/demand.md).
-   
+
 2. **Resource Allocation**: The allocation of resources, including labor, [capital](../c/capital.md), and natural resources, is centrally coordinated. This aims to ensure efficient utilization of resources to meet national objectives.
 
 3. **Pricing**: The prices of goods and services are determined by the government. This is intended to stabilize the [economy](../e/economy.md) and avoid the [volatility](../v/volatility.md) found in free markets.

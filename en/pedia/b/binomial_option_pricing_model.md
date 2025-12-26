@@ -129,11 +129,11 @@ Let's go through an example to see how the [Binomial Option Pricing](../b/binomi
 ### Step 5: Discount Back to Present Value
 
 - For node \( (2,2) \):
-  \[ V(2,2) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 65.79 + 0.4777 \cdot 18.32) = 42.41 \]
+ \[ V(2,2) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 65.79 + 0.4777 \cdot 18.32) = 42.41 \]
 - For node \( (2,1) \):
-  \[ V(2,1) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 18.32 + 0.4777 \cdot 0) = 9.23 \]
+ \[ V(2,1) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 18.32 + 0.4777 \cdot 0) = 9.23 \]
 - For node \( (2,0) \):
-  \[ V(2,0) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 0 + 0.4777 \cdot 0) = 0 \]
+ \[ V(2,0) = e^{-0.05 \cdot 0.3333} (0.5223 \cdot 0 + 0.4777 \cdot 0) = 0 \]
 
 Continue [discounting](../d/discounting.md) back to today’s [value](../v/value.md) for nodes (1,1), (1,0), and finally (0,0).
 
@@ -166,7 +166,7 @@ The [Binomial Option Pricing](../b/binomial_option_pricing.md) Model is widely u
 
 ### Example Companies Utilizing Binomial Model
 
-- **Goldman Sachs:** [Goldman Sachs](https://www.goldmansachs.com/) employs advanced financial models, including binomial models, for [asset](../a/asset.md) pricing and [risk management](../r/risk_management.md).
-- **Morgan Stanley:** [Morgan Stanley](https://www.morganstanley.com/) uses the [Binomial Option Pricing](../b/binomial_option_pricing.md) Model for assessing option pricing and financial [derivatives](../d/derivatives.md).
+- **Goldman Sachs:** Goldman Sachs employs advanced financial models, including binomial models, for [asset](../a/asset.md) pricing and [risk management](../r/risk_management.md).
+- **Morgan Stanley:** Morgan Stanley uses the [Binomial Option Pricing](../b/binomial_option_pricing.md) Model for assessing option pricing and financial [derivatives](../d/derivatives.md).
 
-The [Binomial Option Pricing](../b/binomial_option_pricing.md) Model remains a cornerstone of [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) a [robust](../r/robust.md) method for option [valuation](../v/valuation.md) that balances computational feasibility with pricing accuracy.
+The [Binomial Option Pricing](../b/binomial_option_pricing.md) Model remains a cornerstone of [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) a [robust](../r/robust.md) method for option [valuation](../v/valuation.md) that balances computational feasibility with pricing accuracy.

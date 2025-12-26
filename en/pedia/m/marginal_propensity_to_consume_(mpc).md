@@ -102,4 +102,4 @@ This implies that every dollar increase in spending could potentially increase t
 
 The Marginal Propensity to Consume (MPC) remains a cornerstone of macroeconomic theory and practical policy-making. By understanding the nuances and implications of MPC, economists, policymakers, and businesses can better predict consumer behavior and its impacts on [economic growth](../e/economic_growth.md). Whether applied to fiscal policies, corporate strategies, or financial [market](../m/market.md) forecasts, MPC offers critical insights into the dynamics of [income](../i/income.md) and consumption.
 
-For further information, relevant resources and research can be found at [OECD](https://www.oecd.org/), [World Bank](https://www.worldbank.org/), or through academic journals accessible via institutions like [Harvard University](https://www.harvard.edu/).
+For further information, relevant resources and research can be found at OECD, World Bank, or through academic journals accessible via institutions like Harvard University.

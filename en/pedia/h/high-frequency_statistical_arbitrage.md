@@ -96,6 +96,6 @@ High-frequency statistical [arbitrage](../a/arbitrage.md) represents the interse
 
 For more insights into companies utilizing HFSA, you may visit their official websites:
 
-- [Renaissance Technologies](https://www.rentec.com)
-- [Two Sigma](https://www.twosigma.com)
-- [Citadel Securities](https://www.citadelsecurities.com)
+- Renaissance Technologies
+- Two Sigma
+- Citadel Securities

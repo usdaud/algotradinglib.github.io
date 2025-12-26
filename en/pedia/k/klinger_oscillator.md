@@ -17,11 +17,11 @@ The [Volume](../v/volume.md) Force (VF) incorporates price and [volume](../v/vol
 - **[Trend](../t/trend.md) Direction (TD)**: If today's closing price is greater than the previous close, the [trend](../t/trend.md) is positive (+1). If today's close is less than the previous close, the [trend](../t/trend.md) is negative (-1). If today's close is equal to yesterday's, the [trend](../t/trend.md) is [neutral](../n/neutral.md) (0).
 
 - **[Volume](../v/volume.md) Force Equation**:
-  ```
-  VF = [Volume](../v/volume.md) * [2 * ((High - Low) / (High + Low)) - [Trend](../t/trend.md)]
-  ```
+ ```
+ VF = [Volume](../v/volume.md) * [2 * ((High - Low) / (High + Low)) - [Trend](../t/trend.md)]
+ ```
 
-  Here, [Volume](../v/volume.md) is the traded [volume](../v/volume.md) of the [asset](../a/asset.md), High and Low are the highest and lowest prices for the current period, respectively, and [Trend](../t/trend.md) is the [trend](../t/trend.md) direction.
+ Here, [Volume](../v/volume.md) is the traded [volume](../v/volume.md) of the [asset](../a/asset.md), High and Low are the highest and lowest prices for the current period, respectively, and [Trend](../t/trend.md) is the [trend](../t/trend.md) direction.
 
 ### Klinger Oscillator (KO)
 
@@ -37,14 +37,14 @@ KO = Short Period EMA - Long Period EMA
 
 ### Signal Line
 
-The Signal Line is a moving average of the KO, commonly using a 13-period moving average. 
+The Signal Line is a moving average of the KO, commonly using a 13-period moving average.
 ```
 Signal Line = EMA(KO, 13)
 ```
 
 ## Usage in Trading
 
-The primary use of the Klinger [Oscillator](../o/oscillator.md) in [algorithmic trading](../a/algorithmic_trading.md) is to identify divergences and confirm the strength and direction of trends. 
+The primary use of the Klinger [Oscillator](../o/oscillator.md) in [algorithmic trading](../a/algorithmic_trading.md) is to identify divergences and confirm the strength and direction of trends.
 
 ### Identifying Divergences
 
@@ -138,15 +138,15 @@ print(df)
 
 ### Educational and Training Resources
 
-Institutions like [QuantInsti](https://www.quantinsti.com/) provide comprehensive courses on [algorithmic trading](../a/algorithmic_trading.md), including the use of [technical indicators](../t/technical_indicators.md) like the Klinger [Oscillator](../o/oscillator.md).
+Institutions like QuantInsti provide comprehensive courses on [algorithmic trading](../a/algorithmic_trading.md), including the use of [technical indicators](../t/technical_indicators.md) like the Klinger [Oscillator](../o/oscillator.md).
 
 ### Application in Trading Platforms
 
 Trading platforms such as MetaTrader, [TradingView](../t/tradingview.md), and [ThinkorSwim](../t/thinkorswim.md) [offer](../o/offer.md) built-in functionalities or plugins to implement and visualize the Klinger [Oscillator](../o/oscillator.md).
 
-1. [MetaTrader](https://www.metatrader4.com/)
-2. [TradingView](https://www.tradingview.com/)
-3. [ThinkorSwim](https://platform.thinkorswim.com/)
+1. MetaTrader
+2. TradingView
+3. ThinkorSwim
 
 ## Conclusion
 

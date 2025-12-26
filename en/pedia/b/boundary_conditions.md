@@ -140,19 +140,14 @@ print(portfolio_manager.update_equity(equity_change))
 Several prominent companies in the fintech and trading sectors develop algorithms with [robust](../r/robust.md) boundary conditions to ensure optimal performance and minimal [risk](../r/risk.md). Here are a few:
 
 - **[Quanthouse](../q/quanthouse.md)**: Provider of end-to-end [systematic trading](../s/systematic_trading.md) solutions including [market](../m/market.md) data services, trading [infrastructure](../i/infrastructure.md), and algo trading frameworks.
-  [Visit Quanthouse](https://www.quanthouse.com/)
-  
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides a flexible framework for defining and implementing boundary conditions in [trading algorithms](../t/trading_algorithms.md).
-  [Visit QuantConnect](https://www.quantconnect.com/)
-  
+
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides a flexible framework for defining and implementing boundary conditions in [trading algorithms](../t/trading_algorithms.md).
+
 - **AlgoTrader**: A comprehensive [algorithmic trading software](../a/algorithmic_trading_software.md) suite that allows traders to create, test, and deploy strategies incorporating sophisticated boundary conditions.
-  [Visit AlgoTrader](https://www.algotrader.com/)
 
 - **[Alpha](../a/alpha.md) Trading Labs**: Provides a platform where traders can develop and implement [trading strategies](../t/trading_strategies.md) with predefined boundary conditions for effective performance.
-  [Visit Alpha Trading Labs](https://alphatradinglabs.com/)
 
 - **Trading Technologies**: Offers advanced trading software and solutions that enable the creation of [trading algorithms](../t/trading_algorithms.md) with customizable boundary conditions.
-  [Visit Trading Technologies](https://www.tradingtechnologies.com/)
 
 ## Conclusion
 

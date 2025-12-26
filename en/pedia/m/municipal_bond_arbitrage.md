@@ -28,9 +28,9 @@ The [interest](../i/interest.md) [income](../i/income.md) from [municipal bonds]
 
 Several [hedge](../h/hedge.md) funds and financial institutions specialize in [municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md). These entities often employ complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify opportunities. Notable firms that engage in this practice include:
 
-- **Citadel LLC:** A renowned global [hedge fund](../h/hedge_fund.md) with a significant focus on various [arbitrage](../a/arbitrage.md) strategies, including [municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md). [Citadel](https://www.citadel.com/)
+- **Citadel LLC:** A renowned global [hedge fund](../h/hedge_fund.md) with a significant focus on various [arbitrage](../a/arbitrage.md) strategies, including [municipal bond](../m/municipal_bond.md) [arbitrage](../a/arbitrage.md). Citadel
 
-- **Millennium Management LLC:** Another major [hedge fund](../h/hedge_fund.md) known for its diverse [arbitrage](../a/arbitrage.md) strategies. [Millennium Management](https://www.mlp.com/)
+- **Millennium Management LLC:** Another major [hedge fund](../h/hedge_fund.md) known for its diverse [arbitrage](../a/arbitrage.md) strategies. Millennium Management
 
 ## Arbitrage Techniques and Tools
 

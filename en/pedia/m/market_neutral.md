@@ -6,7 +6,7 @@
 
 ### Long and Short Positions
 
-A [market](../m/market.md) [neutral](../n/neutral.md) strategy typically involves establishing long and short positions in equal proportions. 
+A [market](../m/market.md) [neutral](../n/neutral.md) strategy typically involves establishing long and short positions in equal proportions.
 - **Long positions:** Involves buying [stocks](../s/stock.md) or other securities that are expected to increase in [value](../v/value.md).
 - **Short positions:** Involves selling borrowed [stocks](../s/stock.md) or securities expected to decrease in [value](../v/value.md), with the aim of buying them back at a lower price.
 
@@ -20,7 +20,7 @@ The balancing act of these positions is designed to net out the effects of [mark
 
 ### Beta Neutrality
 
-[Market](../m/market.md) neutrality is often achieved by balancing the portfolio's [beta](../b/beta.md). [Beta](../b/beta.md) measures a [security](../s/security.md)'s [volatility](../v/volatility.md) relative to the overall [market](../m/market.md). A [neutral](../n/neutral.md) [beta](../b/beta.md) portfolio typically has a combined [beta](../b/beta.md) close to zero, indicating minimal [correlation](../c/correlation.md) with [market](../m/market.md) movements. 
+[Market](../m/market.md) neutrality is often achieved by balancing the portfolio's [beta](../b/beta.md). [Beta](../b/beta.md) measures a [security](../s/security.md)'s [volatility](../v/volatility.md) relative to the overall [market](../m/market.md). A [neutral](../n/neutral.md) [beta](../b/beta.md) portfolio typically has a combined [beta](../b/beta.md) close to zero, indicating minimal [correlation](../c/correlation.md) with [market](../m/market.md) movements.
 
 ### Leverage and Risk Management
 
@@ -66,9 +66,9 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [quantitative models](
 
 Several [investment management](../i/investment_management.md) firms specialize in [market neutral strategies](../m/market_neutral_strategies.md):
 
-- **Bridgewater Associates:** A [global macro](../g/global_macro.md) [investing](../i/investing.md) [firm](../f/firm.md) that employs diversified [risk](../r/risk.md) considerations, including [market](../m/market.md)-[neutral](../n/neutral.md) strategies. [Bridgewater](https://www.bridgewater.com/)
-- **AQR [Capital](../c/capital.md) Management:** A quantitative investment [firm](../f/firm.md) that offers [market](../m/market.md) [neutral](../n/neutral.md) funds among other products. [AQR](https://www.aqr.com/)
-- **Two Sigma Investments:** Utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [market](../m/market.md) [neutral](../n/neutral.md) and statistical [arbitrage](../a/arbitrage.md) trading. [Two Sigma](https://www.twosigma.com/)
+- **Bridgewater Associates:** A [global macro](../g/global_macro.md) [investing](../i/investing.md) [firm](../f/firm.md) that employs diversified [risk](../r/risk.md) considerations, including [market](../m/market.md)-[neutral](../n/neutral.md) strategies. Bridgewater
+- **AQR [Capital](../c/capital.md) Management:** A quantitative investment [firm](../f/firm.md) that offers [market](../m/market.md) [neutral](../n/neutral.md) funds among other products. AQR
+- **Two Sigma Investments:** Utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) for [market](../m/market.md) [neutral](../n/neutral.md) and statistical [arbitrage](../a/arbitrage.md) trading. Two Sigma
 
 ## Advantages and Disadvantages
 

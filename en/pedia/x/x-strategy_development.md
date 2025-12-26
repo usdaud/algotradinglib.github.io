@@ -46,10 +46,10 @@ High-frequency trading involves making thousands of trades in a fraction of a se
 ## Tools and Technologies
 
 ### 1. **QuantConnect**
-[QuantConnect](https://www.quantconnect.com) offers an [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where quants can create, backtest, and deploy strategies in [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+QuantConnect offers an [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform where quants can create, backtest, and deploy strategies in [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
 ### 2. **AlgoTrader**
-[AlgoTrader](https://www.algotrader.com) provides software for [quantitative research](../q/quantitative_research.md), [trading strategy](../t/trading_strategy.md) development, and [automated trade execution](../a/automated_trade_execution.md).
+AlgoTrader provides software for [quantitative research](../q/quantitative_research.md), [trading strategy](../t/trading_strategy.md) development, and [automated trade execution](../a/automated_trade_execution.md).
 
 ### 3. **MetaTrader 4 & 5**
 MetaTrader is another widely-used platform supporting [algorithmic trading](../a/algorithmic_trading.md) through its MQL4 and MQL5 programming languages.
@@ -80,13 +80,13 @@ Regulatory scrutiny in algo-trading is intensifying. Compliance with laws and re
 ## Success Stories
 
 ### 1. **Two Sigma Investments**
-[Two Sigma Investments](https://www.twosigma.com) uses [machine learning](../m/machine_learning.md), distributed computing, and data analysis to drive its trading decisions. Their use of sophisticated algorithms has made them a giant in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md).
+Two Sigma Investments uses [machine learning](../m/machine_learning.md), distributed computing, and data analysis to drive its trading decisions. Their use of sophisticated algorithms has made them a giant in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md).
 
 ### 2. **Renaissance Technologies**
 Renaissance's Medallion [Fund](../f/fund.md) is famed for its astronomical returns driven by highly secretive and advanced algorithmic strategies.
 
 ### 3. **Citadel**
-[Citadel](https://www.citadel.com) employs various [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [trade](../t/trade.md) in markets worldwide. Their technology and analytics [offer](../o/offer.md) a significant competitive edge.
+Citadel employs various [quantitative strategies](../q/quantitative_strategies_in_trading.md) to [trade](../t/trade.md) in markets worldwide. Their technology and analytics [offer](../o/offer.md) a significant competitive edge.
 
 ## Future Trends
 

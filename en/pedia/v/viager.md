@@ -9,7 +9,7 @@ In a typical viager [transaction](../t/transaction.md), the property seller (ref
 The [value](../v/value.md) of the annuity payments is calculated based on several factors including:
 
 1. **The [Market Value](../m/market_value.md) of the Property**: The current [market](../m/market.md) [appraisal](../a/appraisal.md) of the property is crucial in determining the terms of the viager.
-  
+
 2. **The Seller’s Age and [Life Expectancy](../l/life_expectancy.md)**: The older the seller, the higher the annuity payments might be, given the actuarial calculations that predict [life expectancy](../l/life_expectancy.md).
 
 3. **The Initial Lump Sum (Bouquet)**: This is a [negotiable](../n/negotiable.md) sum and reduces the [principal](../p/principal.md) amount upon which subsequent annuities are calculated.
@@ -65,9 +65,9 @@ The viager [market](../m/market.md) is influenced by broader economic trends, de
 
 Technological advancements, especially in the realm of Fintech, have started to influence the viager [market](../m/market.md). Platforms that facilitate [real estate](../r/real_estate.md) transactions, including viager, are becoming more prevalent. These digital platforms [offer](../o/offer.md) tools for property [valuation](../v/valuation.md), contract management, and matching buyers with sellers. Examples of such platforms include:
 
-- **Le Comptoir Immobilier**: A French platform specializing in viager transactions, [offering](../o/offering.md) property listings and detailed information for potential buyers and sellers. [Le Comptoir Immobilier](https://www.lecomptoirimmobilier.com)
+- **Le Comptoir Immobilier**: A French platform specializing in viager transactions, [offering](../o/offering.md) property listings and detailed information for potential buyers and sellers. Le Comptoir Immobilier
 
-- **Viager Europe**: A comprehensive service provider that supports the legal and financial aspects of viager transactions across Europe. [Viager Europe](https://www.viagereurope.com)
+- **Viager Europe**: A comprehensive service provider that supports the legal and financial aspects of viager transactions across Europe. Viager Europe
 
 By leveraging [data analytics](../d/data_analytics.md) and algorithmic decision-making, these platforms enhance [transparency](../t/transparency.md), [efficiency](../e/efficiency.md), and accessibility in the viager [market](../m/market.md).
 

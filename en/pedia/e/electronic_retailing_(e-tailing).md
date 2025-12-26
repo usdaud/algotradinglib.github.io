@@ -8,25 +8,24 @@ Electronic Retailing, commonly known as e-tailing, is the selling of goods and s
 
 E-[commerce](../c/commerce.md) platforms are the backbone of e-tailing, providing a marketplace where buyers and sellers interact. These platforms can vary in complexity, ranging from simple online storefronts to comprehensive systems that manage inventories, payments, shipping, and [customer service](../c/customer_service.md). Popular e-[commerce](../c/commerce.md) platforms include:
 
-- **Shopify**: An accessible platform for small to medium-sized businesses, providing tools to create online stores and manage sales (https://www.shopify.com/).
-- **Magento**: A [robust](../r/robust.md), [open](../o/open.md)-source platform favored by larger enterprises for its flexibility and extensive customizability (https://magento.com/).
-- **WooCommerce**: A WordPress plugin that transforms websites into fully functional e-[commerce](../c/commerce.md) stores, known for its simplicity and ease of integration (https://woocommerce.com/).
+- **Shopify**: An accessible platform for small to medium-sized businesses, providing tools to create online stores and manage sales - **Magento**: A [robust](../r/robust.md), [open](../o/open.md)-source platform favored by larger enterprises for its flexibility and extensive customizability (
+- **WooCommerce**: A WordPress plugin that transforms websites into fully functional e-[commerce](../c/commerce.md) stores, known for its simplicity and ease of integration (
 
 ### Payment Gateways
 
 To facilitate transactions, e-tailing relies heavily on [payment](../p/payment.md) gateways, which securely process and authorize payments between customers and e-tailers. Prominent [payment](../p/payment.md) gateways include:
 
-- **[PayPal](../p/paypal.md)**: A globally recognized online [payment](../p/payment.md) system that supports [multiple](../m/multiple.md) currencies and provides buyer protection (https://www.[paypal](../p/paypal.md).com/).
-- **Stripe**: A developer-friendly [payment](../p/payment.md) processing platform that offers a suite of APIs for seamless integration into e-[commerce](../c/commerce.md) sites (https://stripe.com/).
-- **Square**: Known for its ease of use and comprehensive ecosystem that includes point-of-[sale](../s/sale.md) hardware and software solutions (https://squareup.com/).
+- **[PayPal](../p/paypal.md)**: A globally recognized online [payment](../p/payment.md) system that supports [multiple](../m/multiple.md) currencies and provides buyer protection (
+- **Stripe**: A developer-friendly [payment](../p/payment.md) processing platform that offers a suite of APIs for seamless integration into e-[commerce](../c/commerce.md) sites (
+- **Square**: Known for its ease of use and comprehensive ecosystem that includes point-of-[sale](../s/sale.md) hardware and software solutions (
 
-### Logistics and Fulfillment 
+### Logistics and Fulfillment
 
 [Logistics](../l/logistics.md) plays a crucial role in e-tailing, ensuring that products are efficiently stored, packed, and delivered to customers. Effective [logistics](../l/logistics.md) and fulfillment strategies include:
 
-- **Amazon FBA (Fulfillment by Amazon)**: Allows sellers to store products in Amazon’s warehouses, where Amazon takes care of storage, packing, and shipping (https://services.amazon.com/fulfillment-by-amazon/).
-- **ShipBob**: A third-party [logistics](../l/logistics.md) provider that offers [order](../o/order.md) fulfillment and [inventory management](../i/inventory_management.md) services for direct-to-consumer brands (https://www.shipbob.com/).
-- **DHL eCommerce**: Provides end-to-end e-[commerce](../c/commerce.md) [logistics](../l/logistics.md) services, including [warehousing](../w/warehousing.md), [order](../o/order.md) fulfillment, and international delivery (https://www.dhl.com/global-en/[home](../h/home.md)/our-divisions/ecommerce.html).
+- **Amazon FBA (Fulfillment by Amazon)**: Allows sellers to store products in Amazon’s warehouses, where Amazon takes care of storage, packing, and shipping (
+- **ShipBob**: A third-party [logistics](../l/logistics.md) provider that offers [order](../o/order.md) fulfillment and [inventory management](../i/inventory_management.md) services for direct-to-consumer brands (
+- **DHL eCommerce**: Provides end-to-end e-[commerce](../c/commerce.md) [logistics](../l/logistics.md) services, including [warehousing](../w/warehousing.md), [order](../o/order.md) fulfillment, and international delivery (
 
 ## Marketing Strategies in E-tailing
 
@@ -34,7 +33,7 @@ To facilitate transactions, e-tailing relies heavily on [payment](../p/payment.m
 
 ### Search Engine Optimization (SEO)
 
-SEO involves optimizing website content to rank higher in search engines like Google to attract organic traffic. This includes keyword research, on-page [optimization](../o/optimization.md), and building high-quality backlinks.
+SEO involves optimizing online platform content to rank higher in search engines like Google to attract organic traffic. This includes keyword research, on-page [optimization](../o/optimization.md), and building high-quality backlinks.
 
 ### Pay-Per-Click (PPC) Advertising
 
@@ -42,7 +41,7 @@ PPC campaigns entail paying for advertisements that appear in search engine resu
 
 ### Email Marketing
 
-Email [marketing](../m/marketing.md) remains a powerful tool, allowing e-tailers to send personalized and targeted messages directly to customers. Services like Mailchimp (https://mailchimp.com/) and Constant Contact (https://www.constantcontact.com/) enable businesses to manage and automate email campaigns effectively.
+Email [marketing](../m/marketing.md) remains a powerful tool, allowing e-tailers to send personalized and targeted messages directly to customers. Services like Mailchimp ( and Constant Contact ( enable businesses to manage and automate email campaigns effectively.
 
 ### Social Media Marketing
 
@@ -54,15 +53,14 @@ Utilizing platforms like Instagram, Facebook, Twitter, and TikTok, e-tailers can
 
 ### Google Analytics
 
-Google Analytics offers detailed insights into website traffic, user behavior, and conversion rates, helping e-tailers improve their online performance (https://analytics.google.com/).
-
+Google Analytics offers detailed insights into online traffic, user behavior, and conversion rates, helping e-tailers improve their online performance
 ### Customer Relationship Management (CRM) Systems
 
-CRM systems like Salesforce (https://www.salesforce.com/) and HubSpot (https://www.hubspot.com/) help businesses manage [customer](../c/customer.md) interactions, track sales, and analyze [customer](../c/customer.md) data to improve relationships and drive growth.
+CRM systems like Salesforce ( and HubSpot ( help businesses manage [customer](../c/customer.md) interactions, track sales, and analyze [customer](../c/customer.md) data to improve relationships and drive growth.
 
 ### A/B Testing
 
-A/B testing involves comparing two versions of a webpage or app to determine which one performs better. Platforms like Optimizely (https://www.optimizely.com/) provide tools for running A/B tests to optimize user experience and increase conversions.
+A/B testing involves comparing two versions of a webpage or app to determine which one performs better. Platforms like Optimizely provide tools for running A/B tests to optimize user experience and increase conversions.
 
 ## Challenges in E-tailing
 

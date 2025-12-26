@@ -112,4 +112,4 @@ Corporate bonds issued through private placements [offer](../o/offer.md) example
 
 Non-[marketable securities](../m/marketable_securities.md) [hold](../h/hold.md) a significant, but specific, place in the broader financial landscape. While they [offer](../o/offer.md) advantages such as stability and targeted investment opportunities, their lack of [liquidity](../l/liquidity.md) and restricted transferability can pose challenges and higher risks. Understanding the nature and characteristics of these securities is crucial for both issuers and investors to make informed financial decisions.
 
-For more information about government-issued non-[marketable securities](../m/marketable_securities.md) like [U.S. savings bonds](../u/u.s._savings_bonds.md), you can visit [U.S. Department of the Treasury](https://www.treasurydirect.gov).
+For more information about government-issued non-[marketable securities](../m/marketable_securities.md) like [U.S. savings bonds](../u/u.s._savings_bonds.md), you can visit U.S. Department of the Treasury.

@@ -49,22 +49,18 @@ News-based [trading algorithms](../t/trading_algorithms.md) analyze and react to
 ### 1. Renaissance Technologies
 Renaissance Technologies is a [hedge fund](../h/hedge_fund.md) management company known for its pioneering work in quantitative and [algorithmic trading](../a/accountability.md). Founded by Jim Simons, the [firm](../f/firm.md) employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to [trade](../t/trade.md) in various [asset](../a/asset.md) classes. Renaissance Technologies' Medallion [Fund](../f/fund.md) is particularly renowned for its exceptional performance and secrecy.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
 
 ### 2. Two Sigma
 Two Sigma is a technology-driven quantitative [hedge fund](../h/hedge_fund.md) that utilizes [data science](../d/data_science_in_trading.md), [machine learning](../m/machine_learning.md), and advanced engineering to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) applies [algorithmic trading](../a/accountability.md) techniques to manage assets across different [market](../m/market.md) segments.
 
-Website: [Two Sigma](https://www.twosigma.com/)
 
 ### 3. Citadel
 Citadel is a global financial institution that operates one of the world's leading [algorithmic trading platforms](../a/algorithmic_trading_platforms.md). The [firm](../f/firm.md)'s [market](../m/market.md)-making and [asset management](../a/asset_management.md) divisions rely heavily on [quantitative strategies](../q/quantitative_strategies_in_trading.md) and [automated trading systems](../a/automated_trading_systems.md) to optimize performance.
 
-Website: [Citadel](https://www.citadel.com/)
 
 ### 4. Tower Research Capital
 Tower Research [Capital](../c/capital.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) specializing in high-frequency trading. The [firm](../f/firm.md) develops and deploys highly sophisticated algorithms across various [asset](../a/asset.md) classes and trading venues to capture [market](../m/market.md) opportunities.
 
-Website: [Tower Research Capital](https://www.tower-research.com/)
 
 ## Ethical and Regulatory Considerations
 As with any technological advancement, [algorithmic trading](../a/accountability.md) raises several ethical and regulatory concerns. The potential for [market manipulation](../m/market_manipulation.md), the impact on [market](../m/market.md) stability, and the fairness of access to high-speed trading [infrastructure](../i/infrastructure.md) are some of the issues that regulators and [market](../m/market.md) participants must address.

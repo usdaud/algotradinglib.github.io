@@ -17,11 +17,13 @@ In an [interest rate swap](../i/interest_rate_swap.md), two parties [exchange](.
 - **Fixed-for-floating swaps**: One party pays a fixed rate while the other pays a floating rate tied to an [index](../i/index_instrument.md) such as LIBOR (London Interbank Offered Rate).
 - **Floating-for-floating swaps**: Both parties pay floating rates, but based on different reference indices.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 These [interest](../i/interest.md) payments are determined by applying the respective [interest](../i/interest.md) rates to the notional [principal](../p/principal.md) amount.
 
 ### Options
 
-[Options](../o/options.md) are [financial derivatives](../f/financial_derivatives.md) that [offer](../o/offer.md) the buyer the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a predetermined price. Notional [principal](../p/principal.md) amount is used in this context to define the scale of the option contract. 
+[Options](../o/options.md) are [financial derivatives](../f/financial_derivatives.md) that [offer](../o/offer.md) the buyer the right, but not the obligation, to buy or sell an [asset](../a/asset.md) at a predetermined price. Notional [principal](../p/principal.md) amount is used in this context to define the scale of the option contract.
 
 For example:
 - **[Equity options](../e/equity_options.md)**: If an option allows the purchase of 100 [shares](../s/shares.md) of a stock at a certain price, the notional amount would be 100 multiplied by the current stock price.

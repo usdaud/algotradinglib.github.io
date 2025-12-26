@@ -4,11 +4,10 @@ Phemex is a comprehensive cryptocurrency [exchange](../e/exchange.md) and [tradi
 
 Phemex aims to bridge the gap between traditional [finance](../f/finance.md) and the burgeoning cryptocurrency [market](../m/market.md), [offering](../o/offering.md) a [range](../r/range.md) of services including spot trading, contract trading, and a variety of [derivatives](../d/derivatives.md). The platform has rapidly gained popularity due to its competitive [fee](../f/fee.md) structure, high [liquidity](../l/liquidity.md), and commitment to [security](../s/security.md).
 
-For additional information, you can visit the official website: [Phemex](https://phemex.com).
 
 ## History and Founders
 
-Phemex was founded in 2019 and is based in Singapore. The [leadership](../l/leadership.md) team is composed of experienced professionals from the [finance](../f/finance.md) and technology sectors. Jack Tao, the current CEO, has over a decade of experience at Morgan Stanley, focusing on electronic and [algorithmic trading](../a/accountability.md). The founding team believed there was a significant gap in the [market](../m/market.md) for a professional-grade cryptocurrency [exchange](../e/exchange.md) that could [offer](../o/offer.md) the same level of [trust](../t/trust.md), [security](../s/security.md), and performance as traditional financial platforms.
+Phemex was founded in 2019 and is based in Singapore. The [leadership](../l/leadership.md) team is composed of experienced professionals from the [finance](../f/finance.md) and technology sectors. Jack Tao, the current CEO, has over a decade of experience at Morgan Stanley, focusing on electronic and [algorithmic trading](../a/algorithmic_trading.md). The founding team believed there was a significant gap in the [market](../m/market.md) for a professional-grade cryptocurrency [exchange](../e/exchange.md) that could [offer](../o/offer.md) the same level of [trust](../t/trust.md), [security](../s/security.md), and performance as traditional financial platforms.
 
 ## Features and Services
 
@@ -94,4 +93,4 @@ Phemex is continuously working on enhancing its platform and expanding its offer
 
 In conclusion, Phemex has rapidly established itself as a reliable and innovative cryptocurrency [exchange](../e/exchange.md) platform. With its [robust](../r/robust.md) trading features, strong [security](../s/security.md) measures, and commitment to user experience, it continues to attract a growing number of traders from around the world. For those interested in professional-grade trading with a focus on [security](../s/security.md) and [efficiency](../e/efficiency.md), Phemex is a platform worth considering.
 
-For more information and to sign up, visit [Phemex](https://phemex.com).
+For more information and to sign up, visit Phemex.

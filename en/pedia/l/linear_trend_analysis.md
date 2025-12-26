@@ -4,7 +4,7 @@ Linear [Trend Analysis](../t/trend_analysis.md) is a statistical technique used 
 
 ## Overview
 
-In [finance](../f/finance.md), a [trend](../t/trend.md) refers to the general direction in which the price of an [asset](../a/asset.md) is moving. Over time, prices can exhibit uptrends, downtrends, or horizontal (sideways) trends. Understanding and predicting these trends is crucial for traders and investors because it allows them to align their [trading strategies](../t/trading_strategies.md) with the [market](../m/market.md)'s behavior. Linear [Trend Analysis](../t/trend_analysis.md) is one of the simplest and most widely used methods to identify these trends. 
+In [finance](../f/finance.md), a [trend](../t/trend.md) refers to the general direction in which the price of an [asset](../a/asset.md) is moving. Over time, prices can exhibit uptrends, downtrends, or horizontal (sideways) trends. Understanding and predicting these trends is crucial for traders and investors because it allows them to align their [trading strategies](../t/trading_strategies.md) with the [market](../m/market.md)'s behavior. Linear [Trend Analysis](../t/trend_analysis.md) is one of the simplest and most widely used methods to identify these trends.
 
 ## Concept of Linear Trends
 
@@ -31,19 +31,19 @@ In [algorithmic trading](../a/algorithmic_trading.md), strategies are often base
 2. **[Data Visualization](../d/data_visualization.md)**: Plot the data on a graph to visually inspect for any apparent trends. This step helps in identifying any obvious patterns or anomalies.
 
 3. **Calculating the [Trend](../t/trend.md) Line**:
-   - **[Least Squares Method](../l/least_squares_method.md)**: This is the most common method to fit a [trend](../t/trend.md) line. It minimizes the sum of the squares of the vertical distances (residuals) between the observed prices and the [trend](../t/trend.md) line.
-     \[
-     S = \sum_{i=1}^{n} (y_i - (mx_i + c))^2
-     \]
-     where \( y_i \) and \( x_i \) are the actual prices and their corresponding time instances, respectively.
+ - **[Least Squares Method](../l/least_squares_method.md)**: This is the most common method to fit a [trend](../t/trend.md) line. It minimizes the sum of the squares of the vertical distances (residuals) between the observed prices and the [trend](../t/trend.md) line.
+ \[
+ S = \sum_{i=1}^{n} (y_i - (mx_i + c))^2
+ \]
+ where \( y_i \) and \( x_i \) are the actual prices and their corresponding time instances, respectively.
 
-   - **Parameter Estimation**: The slope \( m \) and the intercept \( c \) are calculated using the following formulas:
-     \[
-     m = \frac{n(\sum{xy}) - (\sum{x})(\sum{y})}{n(\sum{x^2}) - (\sum{x})^2}
-     \]
-     \[
-     c = \frac{\sum{y} - m(\sum{x})}{n}
-     \]
+ - **Parameter Estimation**: The slope \( m \) and the intercept \( c \) are calculated using the following formulas:
+ \[
+ m = \frac{n(\sum{xy}) - (\sum{x})(\sum{y})}{n(\sum{x^2}) - (\sum{x})^2}
+ \]
+ \[
+ c = \frac{\sum{y} - m(\sum{x})}{n}
+ \]
 
 4. **Analysis and Interpretation**: Once the [trend](../t/trend.md) line is established, it can be used to interpret the direction and rate of price changes. A steep slope indicates a strong [trend](../t/trend.md), while a gentle slope indicates a weak [trend](../t/trend.md).
 
@@ -66,19 +66,19 @@ In [algorithmic trading](../a/algorithmic_trading.md), strategies are often base
 Numerous tools and software packages are available for conducting Linear [Trend Analysis](../t/trend_analysis.md) in the context of [algorithmic trading](../a/algorithmic_trading.md). Some popular ones include:
 
 - **Python**: Libraries like Pandas, NumPy, and Scikit-learn [offer](../o/offer.md) [robust](../r/robust.md) functionalities for data manipulation, statistical analysis, and [machine learning](../m/machine_learning.md), making Python a popular choice for algo-trading.
-  - [Python Pandas](https://pandas.pydata.org/)
-  - [NumPy](https://numpy.org/)
-  - [Scikit-learn](https://scikit-learn.org/)
+ - Python Pandas
+ - NumPy
+ - Scikit-learn
 
 - **R**: R is another programming language widely used in statistical computing and graphics. Libraries such as TTR and quantmod provide powerful tools for [trend analysis](../t/trend_analysis.md).
-  - [R TTR](https://cran.r-project.org/web/packages/TTR/index.html)
-  - [R quantmod](https://cran.r-project.org/web/packages/quantmod/index.html)
+ - R TTR
+ - R quantmod
 
 - **MATLAB**: MATLAB offers comprehensive tools for numerical computing and algorithm development, making it suitable for complex [trend analysis](../t/trend_analysis.md).
-  - [MATLAB](https://www.mathworks.com/products/matlab.html)
+ - MATLAB
 
 - **Excel**: Excel, with its built-in functions and add-ins, is often used for simpler [trend](../t/trend.md) analyses, especially for those who might not have programming expertise.
-  - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+ - Microsoft Excel
 
 ## Challenges and Limitations
 

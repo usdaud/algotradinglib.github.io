@@ -63,11 +63,11 @@ While the record date identifies eligible shareholders, it is one part of a sequ
 
 Understanding these dates is essential for both corporate [financial planning](../f/financial_planning.md) and [investor](../i/investor.md) strategy.
 
-## Impact on Corporate Governance and Investor Relations
+## Impact on Corporate Governance and company filings
 
 ### Enhancing Shareholder Trust
 
-A clear and well-communicated record date helps in building [trust](../t/trust.md) between the company and its shareholders. By ensuring timely and accurate [dividend](../d/dividend.md) payments and enabling fair voting processes, companies enhance their credibility and foster strong [investor relations](../i/investor_relations.md).
+A clear and well-communicated record date helps in building [trust](../t/trust.md) between the company and its shareholders. By ensuring timely and accurate [dividend](../d/dividend.md) payments and enabling fair voting processes, companies enhance their credibility and foster strong [company filings](../i/investor_relations.md).
 
 ### Preventing Disputes
 
@@ -79,7 +79,7 @@ Setting a definitive record date helps prevent disputes over [dividend](../d/div
 
 In recent years, advancements in technology, particularly [blockchain](../b/blockchain_in_trading.md), and Fintech, have begun to influence how record dates and [shareholder](../s/shareholder.md) records are managed. [Blockchain](../b/blockchain_in_trading.md) can provide an immutable and transparent record of ownership, enhancing accuracy and reducing the potential for errors or disputes.
 
-For example, platforms such as [Broadridge Financial Solutions](https://www.broadridge.com/) are developing [blockchain](../b/blockchain_in_trading.md)-based solutions to improve the [efficiency](../e/efficiency.md) and reliability of [shareholder](../s/shareholder.md) record keeping.
+For example, platforms such as Broadridge Financial Solutions are developing [blockchain](../b/blockchain_in_trading.md)-based solutions to improve the [efficiency](../e/efficiency.md) and reliability of [shareholder](../s/shareholder.md) record keeping.
 
 ### Automated Systems
 

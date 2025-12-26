@@ -23,8 +23,8 @@ Monitoring growth rates also plays a crucial role in [risk management](../r/risk
 CAGR is one of the most widely used metrics for assessing the growth of investments over [multiple](../m/multiple.md) periods. It represents the geometric progression ratio that provides a constant [rate of return](../r/rate_of_return.md) over a time period.
 
 #### Formula:
-\[ 
-CAGR = \left( \frac{EV}{BV} \right)^{\frac{1}{n}} - 1 
+\[
+CAGR = \left( \frac{EV}{BV} \right)^{\frac{1}{n}} - 1
 \]
 
 - **EV**: Ending [Value](../v/value.md)
@@ -36,8 +36,8 @@ CAGR = \left( \frac{EV}{BV} \right)^{\frac{1}{n}} - 1
 EMA is used to measure the growth rate by giving more weight to recent prices and less to older prices, making it more responsive to new information.
 
 #### Formula:
-\[ 
-EMA_{t} = \[alpha](../a/alpha.md) \times Price_{t} + (1-\[alpha](../a/alpha.md)) \times EMA_{t-1} 
+\[
+EMA_{t} = \[alpha](../a/alpha.md) \times Price_{t} + (1-\[alpha](../a/alpha.md)) \times EMA_{t-1}
 \]
 
 - **Price**: Current Price
@@ -49,8 +49,8 @@ EMA_{t} = \[alpha](../a/alpha.md) \times Price_{t} + (1-\[alpha](../a/alpha.md))
 Logarithmic growth rates [offer](../o/offer.md) a way to [handle](../h/handle.md) compound growth mathematically, converting multiplicative processes into additive processes. This approach is particularly useful for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) that need to account for micro variations in [asset](../a/asset.md) prices.
 
 #### Formula:
-\[ 
-LGR = \log\left( \frac{EV}{BV} \right) 
+\[
+LGR = \log\left( \frac{EV}{BV} \right)
 \]
 
 ### Daily Growth Rate
@@ -58,8 +58,8 @@ LGR = \log\left( \frac{EV}{BV} \right)
 For shorter-term [trading strategies](../t/trading_strategies.md) such as intra-day and high-frequency trading, the daily growth rate offers a fine-grained measurement of performance.
 
 #### Formula:
-\[ 
-DGR = \left( \frac{EV}{BV} \right)^{\frac{1}{d}} - 1 
+\[
+DGR = \left( \frac{EV}{BV} \right)^{\frac{1}{d}} - 1
 \]
 
 - **d**: Number of trading days
@@ -84,19 +84,19 @@ Understanding growth rates can assist in [capital allocation](../c/capital_alloc
 
 Renaissance Technologies, founded by James Simons, is a prime example of successful [algorithmic trading](../a/algorithmic_trading.md) based on high growth rates. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has produced annual growth rates that far exceed [industry](../i/industry.md) standards, achieving an average [annual return](../a/annual_return.md) of over 66% since its inception.
 
-Visit [Renaissance Technologies](https://www.rentec.com/) for more information.
+Visit Renaissance Technologies for more information.
 
 ### Two Sigma
 
 Two Sigma uses advanced [machine learning](../m/machine_learning.md) techniques to evaluate and optimize growth rates in its [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md) emphasizes the importance of data-driven decisions to maintain superior growth rates in their trading portfolios.
 
-Visit [Two Sigma](https://www.twosigma.com/) for more information.
+Visit Two Sigma for more information.
 
 ### DE Shaw & Co.
 
 DE Shaw & Co. employs sophisticated quantitative techniques to develop [trading algorithms](../t/trading_algorithms.md) with [robust](../r/robust.md) growth rates. By leveraging high-frequency trading (HFT) strategies, the [firm](../f/firm.md) can achieve consistent and significant growth across its portfolios.
 
-Visit [DE Shaw & Co.](https://www.deshaw.com/) for more information.
+Visit DE Shaw & Co. for more information.
 
 ## Challenges in Measuring Growth Rates
 

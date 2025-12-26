@@ -4,7 +4,7 @@ A term sheet is a critical document in the world of [finance](../f/finance.md) a
 
 ## Key Components of a Term Sheet
 
-### 1. Introduction 
+### 1. Introduction
 The introduction typically includes the names of the parties involved in the [negotiation](../n/negotiation.md), the date, and a brief description of the purpose of the term sheet.
 
 ### 2. Valuation
@@ -13,8 +13,8 @@ The introduction typically includes the names of the parties involved in the [ne
 
 ### 3. Investment Amount
 - **Total Amount**: The amount of [money](../m/money.md) to be invested.
-  
-### 4. Securities to be Purchased 
+
+### 4. Securities to be Purchased
 - This section outlines the type of securities the [investor](../i/investor.md) [will](../w/will.md) purchase, such as [common stock](../c/common_stock.md), [preferred stock](../p/preferred_stock.md), convertible notes, etc.
 
 ### 5. Capitalization Table
@@ -91,10 +91,10 @@ Especially in [venture capital](../v/venture_capital.md) deals, the complexity o
 ## Real-World Examples
 
 ### Sequoia Capital
-A leading [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that often includes terms for ownership percentage, board seat allocation, and anti-[dilution](../d/dilution.md) protection in their term sheets. [Sequoia Capital](https://www.sequoiacap.com)
+A leading [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that often includes terms for ownership percentage, board seat allocation, and anti-[dilution](../d/dilution.md) protection in their term sheets. Sequoia Capital
 
 ### Y Combinator
-Well-known for their straightforward and founder-friendly term sheets, which often emphasize simple [equity](../e/equity.md) structures and limited [investor](../i/investor.md) controls. [Y Combinator](https://www.ycombinator.com)
+Well-known for their straightforward and founder-friendly term sheets, which often emphasize simple [equity](../e/equity.md) structures and limited [investor](../i/investor.md) controls. Y Combinator
 
 ## Conclusion
 

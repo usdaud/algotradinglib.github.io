@@ -12,10 +12,10 @@ The SA algorithm involves the following steps:
 
 1. **Initialization**: Start with an initial solution and an initial temperature.
 2. **Iteration**:
-    1. Generate a neighbor solution.
-    2. Calculate the energy difference (ΔE) between the current solution and the neighbor.
-    3. If the neighbor solution is better (ΔE < 0), accept it.
-    4. If the neighbor solution is worse (ΔE > 0), accept it with a certain probability P, which decreases as the algorithm progresses.
+ 1. Generate a neighbor solution.
+ 2. Calculate the energy difference (ΔE) between the current solution and the neighbor.
+ 3. If the neighbor solution is better (ΔE < 0), accept it.
+ 4. If the neighbor solution is worse (ΔE > 0), accept it with a certain probability P, which decreases as the algorithm progresses.
 3. **Cooling Schedule**: Gradually decrease the temperature according to a cooling schedule.
 4. **Termination**: Stop the algorithm after a predefined number of iterations or when the temperature reaches a certain threshold.
 
@@ -45,15 +45,15 @@ In [quantitative finance](../q/quantitative_finance.md), models are often calibr
 
 #### OptiFolio
 
-[OptiFolio](https://www.optifolio.com) is a company that offers advanced [portfolio optimization](../p/portfolio_optimization.md) services using [simulated annealing](../s/simulated_annealing.md). Their platform allows institutional investors to build and optimize portfolios through sophisticated techniques that go beyond traditional methods.
+OptiFolio is a company that offers advanced [portfolio optimization](../p/portfolio_optimization.md) services using [simulated annealing](../s/simulated_annealing.md). Their platform allows institutional investors to build and optimize portfolios through sophisticated techniques that go beyond traditional methods.
 
 #### QuantGlobal
 
-[QuantGlobal](https://www.quantglobal.com) offers various [algorithmic trading](../a/algorithmic_trading.md) solutions, including ones that [leverage](../l/leverage.md) [simulated annealing](../s/simulated_annealing.md) for parameter [optimization](../o/optimization.md). Their tools are geared towards [hedge](../h/hedge.md) funds and active traders seeking advanced [optimization](../o/optimization.md) techniques.
+QuantGlobal offers various [algorithmic trading](../a/algorithmic_trading.md) solutions, including ones that [leverage](../l/leverage.md) [simulated annealing](../s/simulated_annealing.md) for parameter [optimization](../o/optimization.md). Their tools are geared towards [hedge](../h/hedge.md) funds and active traders seeking advanced [optimization](../o/optimization.md) techniques.
 
 #### DataRobot
 
-While primarily known for automated [machine learning](../m/machine_learning.md), [DataRobot](https://www.datarobot.com) provides services that include optimizing [trading algorithms](../t/trading_algorithms.md). [Simulated annealing](../s/simulated_annealing.md) is among the many [optimization](../o/optimization.md) techniques they incorporate into their platform.
+While primarily known for automated [machine learning](../m/machine_learning.md), DataRobot provides services that include optimizing [trading algorithms](../t/trading_algorithms.md). [Simulated annealing](../s/simulated_annealing.md) is among the many [optimization](../o/optimization.md) techniques they incorporate into their platform.
 
 ### Advantages of Simulated Annealing
 
@@ -82,13 +82,13 @@ Forex trading involves buying and selling [currency](../c/currency.md) pairs and
 #### Process
 
 1. **Initialization**: Start with a random set of parameters and an initial temperature.
-2. **Iteration**: 
-    - Generate a neighboring set of parameters by tweaking one or more variables.
-    - Backtest the new parameters on historical data.
-    - Calculate the energy (negative returns).
-    - Accept or reject the new set based on the energy difference and the current temperature.
+2. **Iteration**:
+ - Generate a neighboring set of parameters by tweaking one or more variables.
+ - Backtest the new parameters on historical data.
+ - Calculate the energy (negative returns).
+ - Accept or reject the new set based on the energy difference and the current temperature.
 3. **Cooling Schedule**:
-    - Gradual decrease of temperature, allowing the system to stabilize on optimal or near-optimal parameters.
+ - Gradual decrease of temperature, allowing the system to stabilize on optimal or near-optimal parameters.
 4. **Termination**: Stop after a thousand iterations or when the temperature reaches a predefined threshold.
 
 #### Results
@@ -99,4 +99,4 @@ The [simulated annealing](../s/simulated_annealing.md) approach resulted in a se
 
 [Simulated annealing](../s/simulated_annealing.md) presents a powerful tool for [optimization](../o/optimization.md) in trading. It offers flexibility, global optimality, and ease of implementation, making it suitable for a wide [range](../r/range.md) of applications from [portfolio optimization](../p/portfolio_optimization.md) to [algorithmic trading](../a/algorithmic_trading.md). Despite certain limitations, the advantages and the potential for significant improvements in [trading strategies](../t/trading_strategies.md) make it a valuable technique for traders and financial institutions alike.
 
-For those looking to delve deeper into utilizing [simulated annealing](../s/simulated_annealing.md) for trading, services provided by companies like [OptiFolio](https://www.optifolio.com), [QuantGlobal](https://www.quantglobal.com), and [DataRobot](https://www.datarobot.com) can [offer](../o/offer.md) advanced tools and platforms to harness the full potential of this [optimization](../o/optimization.md) method.
+For those looking to delve deeper into utilizing [simulated annealing](../s/simulated_annealing.md) for trading, services provided by companies like OptiFolio, QuantGlobal, and DataRobot can [offer](../o/offer.md) advanced tools and platforms to harness the full potential of this [optimization](../o/optimization.md) method.

@@ -4,7 +4,7 @@ The Annual Percentage Rate (APR) is a measure used to quantify the yearly [inter
 
 ## Definition and Importance
 
-APR is a critical concept in the world of [finance](../f/finance.md) as it provides a standardized method for comparing the cost of loans and the [revenue](../r/revenue.md) from investments. By considering all associated costs, APR offers a more accurate picture of the true financial obligation or [gain](../g/gain.md) than the [nominal interest rate](../n/nominal_interest_rate.md) alone. 
+APR is a critical concept in the world of [finance](../f/finance.md) as it provides a standardized method for comparing the cost of loans and the [revenue](../r/revenue.md) from investments. By considering all associated costs, APR offers a more accurate picture of the true financial obligation or [gain](../g/gain.md) than the [nominal interest rate](../n/nominal_interest_rate.md) alone.
 
 ### Components of APR
 
@@ -50,7 +50,7 @@ Introductory APRs are temporarily lower rates offered at the beginning of a [loa
 
 ### Credit Cards
 
-[Credit card](../c/credit_card.md) companies frequently use APR to disclose the cost of borrowing. [Credit card](../c/credit_card.md) APRs can vary widely, and may include different rates for purchases, balance transfers, and cash advances. 
+[Credit card](../c/credit_card.md) companies frequently use APR to disclose the cost of borrowing. [Credit card](../c/credit_card.md) APRs can vary widely, and may include different rates for purchases, balance transfers, and cash advances.
 
 ### Mortgages
 
@@ -68,7 +68,7 @@ To protect consumers, several regulations are in place to ensure clear [disclosu
 
 Numerous online calculators and financial tools can compute APR, considering the [loan](../l/loan.md) [principal](../p/principal.md), [interest rate](../i/interest_rate.md), fees, and [loan](../l/loan.md) term. These calculators are beneficial for consumers, enabling them to make informed financial decisions.
 
-For instance, a variety of APR calculators can be found on financial websites such as [Bankrate](https://www.bankrate.com/calculators/mortgages/mortgage-apr-calculator.aspx).
+For instance, a variety of APR calculators can be found on financial websites such as Bankrate.
 
 ## APR vs. APY
 

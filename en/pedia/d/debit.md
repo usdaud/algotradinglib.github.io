@@ -19,23 +19,23 @@
 
 ## How Debits Work
 1. **Assets**: When a [business](../b/business.md) acquires an [asset](../a/asset.md), the [asset](../a/asset.md) account is debited to reflect the increase in assets.
-   - Example: Purchasing office equipment for $1,000. The office equipment account is debited by $1,000.
+ - Example: Purchasing office equipment for $1,000. The office equipment account is debited by $1,000.
 2. **Expenses**: When a [business](../b/business.md) incurs an [expense](../e/expense.md), the [expense](../e/expense.md) account is debited to reflect the increase in expenses.
-   - Example: Paying $500 for utilities. The utilities [expense](../e/expense.md) account is debited by $500.
+ - Example: Paying $500 for utilities. The utilities [expense](../e/expense.md) account is debited by $500.
 3. **Liabilities**: When a [business](../b/business.md) repays a [liability](../l/liability.md), the [liability](../l/liability.md) account is debited to reflect the decrease in liabilities.
-   - Example: Paying off a $2,000 [loan](../l/loan.md). The [loan](../l/loan.md) account is debited by $2,000.
+ - Example: Paying off a $2,000 [loan](../l/loan.md). The [loan](../l/loan.md) account is debited by $2,000.
 4. **[Equity](../e/equity.md)**: When a [business](../b/business.md) owner withdraws [money](../m/money.md), the [equity](../e/equity.md) account is debited to reflect the decrease in [equity](../e/equity.md).
-   - Example: An owner withdraws $1,500. The owner’s [equity](../e/equity.md) account is debited by $1,500.
+ - Example: An owner withdraws $1,500. The owner’s [equity](../e/equity.md) account is debited by $1,500.
 5. **[Revenue](../r/revenue.md)**: When [revenue](../r/revenue.md) is recorded, it is typically credited; however, if [revenue](../r/revenue.md) is refunded or reversed, it is debited.
-   - Example: Issuing a $300 refund to a [customer](../c/customer.md). The sales [revenue](../r/revenue.md) account is debited by $300.
+ - Example: Issuing a $300 refund to a [customer](../c/customer.md). The sales [revenue](../r/revenue.md) account is debited by $300.
 
 ## Example Scenarios
 1. **[Bank](../b/bank.md) Transactions**: When a [customer](../c/customer.md) uses a debit card to make a purchase, their [bank](../b/bank.md) account is debited by the purchase amount.
-   - Example: A [customer](../c/customer.md) buys groceries for $100 using a debit card. The [customer](../c/customer.md)’s [bank](../b/bank.md) account is debited by $100.
+ - Example: A [customer](../c/customer.md) buys groceries for $100 using a debit card. The [customer](../c/customer.md)’s [bank](../b/bank.md) account is debited by $100.
 2. **[Business](../b/business.md) Transactions**: When a company receives supplies and agrees to pay later, the supplies account is debited, and accounts payable is credited.
-   - Example: Receiving $500 worth of office supplies on [credit](../c/credit.md). The supplies account is debited by $500, and accounts payable is credited by $500.
+ - Example: Receiving $500 worth of office supplies on [credit](../c/credit.md). The supplies account is debited by $500, and accounts payable is credited by $500.
 3. **[Accounting](../a/accounting.md) Records**: Recording [depreciation](../d/depreciation.md) of equipment involves debiting the [depreciation](../d/depreciation.md) [expense](../e/expense.md) account.
-   - Example: Recording $200 [depreciation](../d/depreciation.md) on machinery. The [depreciation](../d/depreciation.md) [expense](../e/expense.md) account is debited by $200.
+ - Example: Recording $200 [depreciation](../d/depreciation.md) on machinery. The [depreciation](../d/depreciation.md) [expense](../e/expense.md) account is debited by $200.
 
 ## Debit vs. Credit
 1. **Debit**: Increases in assets and expenses; decreases in liabilities, [equity](../e/equity.md), and [revenue](../r/revenue.md).
@@ -43,4 +43,3 @@
 
 ## Conclusion
 Debits are a fundamental component of double-entry bookkeeping, ensuring the accuracy and completeness of financial records. Understanding how debits work and how they interact with credits is essential for maintaining balanced accounts and producing accurate [financial statements](../f/financial_statements.md). Debits play a crucial role in tracking the [financial health](../f/financial_health.md) and performance of a [business](../b/business.md).
-

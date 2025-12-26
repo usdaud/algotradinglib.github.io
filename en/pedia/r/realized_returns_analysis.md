@@ -1,6 +1,6 @@
 # Realized Returns Analysis
 
-Realized returns analysis is a crucial aspect of financial analytics that focuses on evaluating the actual gains or losses made from investments over a specific period. Unlike expected returns, which are based on predictions and modeling, realized returns provide concrete data based on historical performance. This analysis is essential for traders, investors, and financial institutions to assess the performance of their investment strategies and make informed decisions. 
+Realized returns analysis is a crucial aspect of financial analytics that focuses on evaluating the actual gains or losses made from investments over a specific period. Unlike expected returns, which are based on predictions and modeling, realized returns provide concrete data based on historical performance. This analysis is essential for traders, investors, and financial institutions to assess the performance of their investment strategies and make informed decisions.
 
 ### Definition of Realized Returns
 
@@ -47,14 +47,14 @@ Realized [Return](../r/return.md) = \frac{150 + 10 - 100 - 5}{100} = \frac{55}{1
 
 ### Tools and Software for Realized Returns Analysis
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides a comprehensive suite of tools for analyzing realized returns across different [asset](../a/asset.md) classes. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **[Reuters](../r/reuters.md) Eikon**: Offers advanced analytics for tracking and analyzing realized returns. [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. **MatLab Financial Toolbox**: Useful for custom programming and calculation of realized returns. [MatLab](https://www.mathworks.com/products/finance.html)
-4. **Python Libraries**: Libraries such as Pandas and NumPy provide functionalities to calculate and analyze realized returns. [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides a comprehensive suite of tools for analyzing realized returns across different [asset](../a/asset.md) classes. Bloomberg
+2. **[Reuters](../r/reuters.md) Eikon**: Offers advanced analytics for tracking and analyzing realized returns. Refinitiv Eikon
+3. **MatLab Financial Toolbox**: Useful for custom programming and calculation of realized returns. MatLab
+4. **Python Libraries**: Libraries such as Pandas and NumPy provide functionalities to calculate and analyze realized returns. Pandas, NumPy
 
 ### Factors Affecting Realized Returns
 
-#### Market Conditions 
+#### Market Conditions
 [Market](../m/market.md) [volatility](../v/volatility.md), [economic indicators](../e/economic_indicators.md), and political stability can significantly impact realized returns. The [rise and fall](../r/rise_fall.md) of [market](../m/market.md) indices reflect changes in the [market value](../m/market_value.md) of investments.
 
 #### Interest Rates
@@ -93,4 +93,3 @@ Realized returns are used to calculate the growth of retirement savings over tim
 ### Conclusion
 
 Realized returns analysis is a powerful tool for investors and traders to measure the actual performance of their investments. By focusing on actual gains and losses, it provides a realistic picture of investment performance. Various tools and software are available to facilitate the detailed analysis of realized returns. Despite its challenges, realized returns remain an essential metric in the financial [industry](../i/industry.md) for performance measurement, strategy evaluation, and [risk](../r/risk.md) assessment. Understanding and analyzing realized returns can significantly aid in making informed and strategic investment decisions.
-

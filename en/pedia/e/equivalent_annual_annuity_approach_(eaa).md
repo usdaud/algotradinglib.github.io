@@ -81,7 +81,7 @@ EAA relies on certain assumptions, such as constant [discount](../d/discount.md)
 
 ### Complexity
 
-Although the EAA method simplifies comparisons, the calculations involved can be complex, especially for firms unfamiliar with financial mathematics. 
+Although the EAA method simplifies comparisons, the calculations involved can be complex, especially for firms unfamiliar with financial mathematics.
 
 ### Not Always Appropriate
 
@@ -101,7 +101,7 @@ Companies also employ EAA for replacement analysis. For example, a [manufacturin
 
 In project [financing](../f/financing.md), lenders and investors often require a thorough evaluation of potential returns. The EAA approach can provide a standardized metric to assess the viability of different projects, making it easier to secure [financing](../f/financing.md).
 
-One example of a company that might use EAA in its [capital budgeting](../c/capital_budgeting.md) process is [Bloomberg](../b/bloomberg.md). For more information, you can visit their official website at [Bloomberg](https://www.bloomberg.com/).
+One example of a company that might use EAA in its [capital budgeting](../c/capital_budgeting.md) process is [Bloomberg](../b/bloomberg.md).
 
 ## Conclusion
 

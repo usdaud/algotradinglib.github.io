@@ -6,7 +6,7 @@ The De Minimis tax rule is a principle under the U.S. tax code that pertains to 
 
 ## Importance in Financial Markets
 
-Understanding the De Minimis rule is critical for both individual and institutional investors. For [bond](../b/bond.md) investors, it helps in determining the tax implications of buying and selling bonds at various prices. Compliance with the De Minimis tax rule ensures that investors pay the appropriate amount of tax on their [bond](../b/bond.md) investments, potentially optimizing after-tax returns. 
+Understanding the De Minimis rule is critical for both individual and institutional investors. For [bond](../b/bond.md) investors, it helps in determining the tax implications of buying and selling bonds at various prices. Compliance with the De Minimis tax rule ensures that investors pay the appropriate amount of tax on their [bond](../b/bond.md) investments, potentially optimizing after-tax returns.
 
 ## Calculation
 
@@ -78,12 +78,12 @@ For Alice's [bond](../b/bond.md) purchase:
 ### Implementation
 
 1. **[Algorithm Design](../a/algorithm_design.md):**
-   - Algorithms can be designed to automatically calculate the De Minimis threshold for various bonds.
-   - This ensures that the Tax [Optimization](../o/optimization.md) Engine within the [algorithmic trading](../a/accountability.md) platform makes informed decisions when buying or selling bonds close to their thresholds.
+ - Algorithms can be designed to automatically calculate the De Minimis threshold for various bonds.
+ - This ensures that the Tax [Optimization](../o/optimization.md) Engine within the [algorithmic trading](../a/accountability.md) platform makes informed decisions when buying or selling bonds close to their thresholds.
 
 2. **Tax [Optimization](../o/optimization.md):**
-   - Algorithms script tests to determine the best purchase and sales points for bonds, emphasizing De Minimis qualifications.
-   - This minimizes [ordinary income](../o/ordinary_income.md) tax, converting taxable events into [capital](../c/capital.md) gains when possible.
+ - Algorithms script tests to determine the best purchase and sales points for bonds, emphasizing De Minimis qualifications.
+ - This minimizes [ordinary income](../o/ordinary_income.md) tax, converting taxable events into [capital](../c/capital.md) gains when possible.
 
 ### Practical Example in Code
 
@@ -116,7 +116,7 @@ trade_bond(face_value, purchase_price, years_to_maturity)
 
 ### Company Implementations
 
-Several financial companies that specialize in [algorithmic trading](../a/accountability.md) provide tailored solutions for their clients that include tax [optimization](../o/optimization.md) features. For instance, companies like [QuantConnect](../q/quantconnect.md) ([QuantConnect](https://www.quantconnect.com/)) and Numerai ([Numerai](https://numer.ai/)) might feature tax [optimization](../o/optimization.md) tools in their [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), helping traders maximize their after-tax profits by leveraging rules like De Minimis.
+Several financial companies that specialize in [algorithmic trading](../a/accountability.md) provide tailored solutions for their clients that include tax [optimization](../o/optimization.md) features. For instance, companies like [QuantConnect](../q/quantconnect.md) (QuantConnect) and Numerai (Numerai) might feature tax [optimization](../o/optimization.md) tools in their [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), helping traders maximize their after-tax profits by leveraging rules like De Minimis.
 
 ## Summary
 

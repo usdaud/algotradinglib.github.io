@@ -1,6 +1,6 @@
 # Harmless Warrant
 
-A "harmless [warrant](../w/warrant.md)" in the context of [algorithmic trading](../a/accountability.md) is a term that is less commonly referenced in mainstream financial trading but can be defined by dissecting the two words: "harmless" and "[warrant](../w/warrant.md)." In [financial markets](../f/financial_market.md), a [warrant](../w/warrant.md) provides the holder the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a specific price before the [expiration date](../e/expiration_date.md). When referred to as "harmless," it implies that the [warrant](../w/warrant.md)'s impact on the [trader](../t/trader.md)'s portfolio or the [market](../m/market.md) is minimal or negligible, typically due to low [volatility](../v/volatility.md), low notional impact, or some form of hedging mechanism.
+A "harmless [warrant](../w/warrant.md)" in the context of [algorithmic trading](../a/algorithmic_trading.md) is a term that is less commonly referenced in mainstream financial trading but can be defined by dissecting the two words: "harmless" and "[warrant](../w/warrant.md)." In [financial markets](../f/financial_market.md), a [warrant](../w/warrant.md) provides the holder the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a specific price before the [expiration date](../e/expiration_date.md). When referred to as "harmless," it implies that the [warrant](../w/warrant.md)'s impact on the [trader](../t/trader.md)'s portfolio or the [market](../m/market.md) is minimal or negligible, typically due to low [volatility](../v/volatility.md), low notional impact, or some form of hedging mechanism.
 
 ## Types of Warrants
 
@@ -11,7 +11,7 @@ A "harmless [warrant](../w/warrant.md)" in the context of [algorithmic trading](
 These are tied to various stock indices like the S&P 500 or FTSE 100. [Trading algorithms](../t/trading_algorithms.md) may use [index](../i/index_instrument.md) [warrants](../w/warrants_in_trading.md) to effectively [hedge](../h/hedge.md) positions or to speculate on the future movement of the [index](../i/index_instrument.md).
 
 ### Covered Warrants
-These are issued by financial institutions rather than the companies themselves and are backed by the [issuer](../i/issuer.md). They provide a more flexible and lower-[risk](../r/risk.md) method for speculative trading. These are often the focus of [algorithmic trading](../a/accountability.md) due to their structured nature.
+These are issued by financial institutions rather than the companies themselves and are backed by the [issuer](../i/issuer.md). They provide a more flexible and lower-[risk](../r/risk.md) method for speculative trading. These are often the focus of [algorithmic trading](../a/algorithmic_trading.md) due to their structured nature.
 
 ### Naked Warrants
 Naked [warrants](../w/warrants_in_trading.md) are issued without any [underlying](../u/underlying.md) securities backing them, making them high-[risk](../r/risk.md) instruments. Algorithmic traders might deploy high-frequency trading (HFT) algorithms to take advantage of price discrepancies quickly.
@@ -21,10 +21,10 @@ Naked [warrants](../w/warrants_in_trading.md) are issued without any [underlying
 ### Benefits
 
 #### Hedging
-One of the primary uses of harmless [warrants](../w/warrants_in_trading.md) in [algorithmic trading](../a/accountability.md) is [hedge](../h/hedge.md) other positions. By carefully selecting and balancing [warrants](../w/warrants_in_trading.md) against other trading positions, algos can minimize [risk](../r/risk.md).
+One of the primary uses of harmless [warrants](../w/warrants_in_trading.md) in [algorithmic trading](../a/algorithmic_trading.md) is [hedge](../h/hedge.md) other positions. By carefully selecting and balancing [warrants](../w/warrants_in_trading.md) against other trading positions, algos can minimize [risk](../r/risk.md).
 
 #### Arbitrage Opportunities
-[Market](../m/market.md) inefficiencies create opportunities for [arbitrage](../a/arbitrage.md). [Algorithmic trading](../a/accountability.md) programs are designed to identify and exploit these inefficiencies rapidly, ensuring minimal human intervention.
+[Market](../m/market.md) inefficiencies create opportunities for [arbitrage](../a/arbitrage.md). [Algorithmic trading](../a/algorithmic_trading.md) programs are designed to identify and exploit these inefficiencies rapidly, ensuring minimal human intervention.
 
 #### Diversification
 Including [warrants](../w/warrants_in_trading.md) in a [trading strategy](../t/trading_strategy.md) adds an element of [diversification](../d/diversification.md) to the portfolio, allowing the algorithm to focus on a broader [range](../r/range.md) of instruments and opportunities.
@@ -51,16 +51,16 @@ This strategy involves complex [mathematical models](../m/mathematical_models_in
 ## Real-world Applications
 
 ### Financial Institutions
-Major financial institutions such as [Goldman Sachs](https://www.goldmansachs.com/) and [Morgan Stanley](https://www.morganstanley.com/) deploy advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) to manage a diversified portfolio that includes [equity](../e/equity.md), [index](../i/index_instrument.md), and covered [warrants](../w/warrants_in_trading.md).
+Major financial institutions such as Goldman Sachs and Morgan Stanley deploy advanced [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) to manage a diversified portfolio that includes [equity](../e/equity.md), [index](../i/index_instrument.md), and covered [warrants](../w/warrants_in_trading.md).
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds like [Renaissance Technologies](https://www.rentec.com/home) are known for using highly sophisticated, AI-driven algorithms that can incorporate harmless [warrants](../w/warrants_in_trading.md) into broader [trading strategies](../t/trading_strategies.md) to maximize returns and minimize risks.
+[Hedge](../h/hedge.md) funds like Renaissance Technologies are known for using highly sophisticated, AI-driven algorithms that can incorporate harmless [warrants](../w/warrants_in_trading.md) into broader [trading strategies](../t/trading_strategies.md) to maximize returns and minimize risks.
 
 ### Proprietary Trading Firms
-[Proprietary trading](../p/proprietary_trading.md) firms such as [Jane Street](https://www.janestreet.com/) often employ [algorithmic trading](../a/accountability.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies, including opportunities involving harmless [warrants](../w/warrants_in_trading.md).
+[Proprietary trading](../p/proprietary_trading.md) firms such as Jane Street often employ [algorithmic trading](../a/algorithmic_trading.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies, including opportunities involving harmless [warrants](../w/warrants_in_trading.md).
 
 ### Retail Algorithmic Traders
-Retail platforms such as [Interactive Brokers](https://www.interactivebrokers.com) provide tools and resources for smaller traders to develop and deploy algorithms that include trading harmless [warrants](../w/warrants_in_trading.md) as part of a diversified strategy.
+Retail platforms such as Interactive Brokers provide tools and resources for smaller traders to develop and deploy algorithms that include trading harmless [warrants](../w/warrants_in_trading.md) as part of a diversified strategy.
 
 ## Regulatory Considerations
 
@@ -68,8 +68,8 @@ Retail platforms such as [Interactive Brokers](https://www.interactivebrokers.co
 In the US, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) provides stringent regulations governing the trading of [warrants](../w/warrants_in_trading.md). [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) must comply with SEC guidelines to ensure fair and transparent trading.
 
 ### MiFID II
-In Europe, [MiFID II](../m/mifid_ii.md) regulations mandate [transparency](../t/transparency.md) and rigorous reporting standards for financial instruments, including [warrants](../w/warrants_in_trading.md). [Algorithmic trading](../a/accountability.md) systems must be built to comply with these regulations to operate in European markets.
+In Europe, [MiFID II](../m/mifid_ii.md) regulations mandate [transparency](../t/transparency.md) and rigorous reporting standards for financial instruments, including [warrants](../w/warrants_in_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) systems must be built to comply with these regulations to operate in European markets.
 
 ## Conclusion
 
-The concept of a "harmless [warrant](../w/warrant.md)" in [algorithmic trading](../a/accountability.md) encapsulates a niche but important area of the [financial markets](../f/financial_market.md). By [offering](../o/offering.md) [diversification](../d/diversification.md), hedging, and [arbitrage opportunities](../a/arbitrage_opportunities.md), harmless [warrants](../w/warrants_in_trading.md) can be a useful tool in the algorithmic [trader](../t/trader.md)'s arsenal. However, they come with their own set of risks, including [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) challenges. Institutions and individual traders alike must carefully consider these factors when developing algorithms to [trade](../t/trade.md) harmless [warrants](../w/warrants_in_trading.md). With the right strategies and regulatory compliance, harmless [warrants](../w/warrants_in_trading.md) can contribute to profitable and balanced [algorithmic trading](../a/accountability.md) portfolios.
+The concept of a "harmless [warrant](../w/warrant.md)" in [algorithmic trading](../a/algorithmic_trading.md) encapsulates a niche but important area of the [financial markets](../f/financial_market.md). By [offering](../o/offering.md) [diversification](../d/diversification.md), hedging, and [arbitrage opportunities](../a/arbitrage_opportunities.md), harmless [warrants](../w/warrants_in_trading.md) can be a useful tool in the algorithmic [trader](../t/trader.md)'s arsenal. However, they come with their own set of risks, including [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) challenges. Institutions and individual traders alike must carefully consider these factors when developing algorithms to [trade](../t/trade.md) harmless [warrants](../w/warrants_in_trading.md). With the right strategies and regulatory compliance, harmless [warrants](../w/warrants_in_trading.md) can contribute to profitable and balanced [algorithmic trading](../a/algorithmic_trading.md) portfolios.

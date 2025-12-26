@@ -6,13 +6,13 @@ The Book-to-[Market](../m/market.md) (B/M) ratio is a financial [valuation](../v
 
 ## Components
 
-1. **[Book Value](../b/book_value.md)**: 
-    - Represents the net [asset](../a/asset.md) [value](../v/value.md) of a company as recorded on its [balance sheet](../b/balance_sheet.md). It is calculated by subtracting [total liabilities](../t/total_liabilities.md) from total assets.
-    - [Book Value](../b/book_value.md) per Share (BVPS): To get a more granular look, the [book value](../b/book_value.md) can be divided by the number of outstanding [shares](../s/shares.md) to get BVPS. This indicates how much a [shareholder](../s/shareholder.md) would theoretically receive if the company were liquidated at its [book value](../b/book_value.md).
+1. **[Book Value](../b/book_value.md)**:
+ - Represents the net [asset](../a/asset.md) [value](../v/value.md) of a company as recorded on its [balance sheet](../b/balance_sheet.md). It is calculated by subtracting [total liabilities](../t/total_liabilities.md) from total assets.
+ - [Book Value](../b/book_value.md) per Share (BVPS): To get a more granular look, the [book value](../b/book_value.md) can be divided by the number of outstanding [shares](../s/shares.md) to get BVPS. This indicates how much a [shareholder](../s/shareholder.md) would theoretically receive if the company were liquidated at its [book value](../b/book_value.md).
 
 2. **[Market Value](../m/market_value.md)**:
-    - Represents the total [market capitalization](../m/market_capitalization.md) of a company, which is the stock price multiplied by the number of outstanding [shares](../s/shares.md).
-    - It reflects what investors are willing to pay for the company's stock and may be influenced by factors such as growth prospects, [market](../m/market.md) conditions, and [investor](../i/investor.md) sentiment.
+ - Represents the total [market capitalization](../m/market_capitalization.md) of a company, which is the stock price multiplied by the number of outstanding [shares](../s/shares.md).
+ - It reflects what investors are willing to pay for the company's stock and may be influenced by factors such as growth prospects, [market](../m/market.md) conditions, and [investor](../i/investor.md) sentiment.
 
 ## Importance and Uses
 
@@ -58,10 +58,10 @@ While the B/M ratio is a helpful metric, it has significant limitations:
 ## Real-World Application
 
 Several financial institutions use the B/M ratio as part of their stock-picking strategies. For example:
-- **The Vanguard Group** employs [value](../v/value.md)-oriented strategies focusing on [stocks](../s/stock.md) with high B/M ratios within some of their [index](../i/index_instrument.md) funds. [The Vanguard Group](https://investor.vanguard.com)
-- **T. Rowe Price** uses the B/M ratio in conjunction with other financial metrics to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) in its mutual funds. [T. Rowe Price](https://www.troweprice.com)
-- **Dimensional [Fund](../f/fund.md) Advisors** integrates the B/M ratio in their multi-[factor](../f/factor.md) investment models to capture [value](../v/value.md) premiums. [Dimensional Fund Advisors](https://us.dimensional.com)
+- **The Vanguard Group** employs [value](../v/value.md)-oriented strategies focusing on [stocks](../s/stock.md) with high B/M ratios within some of their [index](../i/index_instrument.md) funds. The Vanguard Group
+- **T. Rowe Price** uses the B/M ratio in conjunction with other financial metrics to identify [undervalued](../u/undervalued.md) [stocks](../s/stock.md) in its mutual funds. T. Rowe Price
+- **Dimensional [Fund](../f/fund.md) Advisors** integrates the B/M ratio in their multi-[factor](../f/factor.md) investment models to capture [value](../v/value.md) premiums. Dimensional Fund Advisors
 
 ## Conclusion
 
-The Book-to-[Market](../m/market.md) ratio is a powerful yet straightforward tool for investors, providing insights into stock [valuation](../v/valuation.md). It serves [multiple](../m/multiple.md) roles, from being a fundamental aspect of [value investing](../v/value_investing.md) to aiding in comprehensive academic research and [risk](../r/risk.md) assessment. However, it is crucial to understand its limitations and use it in conjunction with other financial analyses to make informed investment decisions.
+The Book-to-[Market](../m/market.md) ratio is a powerful yet straightforward tool for investors, providing insights into stock [valuation](../v/valuation.md). It serves [multiple](../m/multiple.md) roles, from being a fundamental aspect of [value investing](../v/value_investing.md) to aiding in comprehensive academic research and [risk](../r/risk.md) assessment. However, it is crucial to understand its limitations and use it in conjunction with other financial analyses to make informed investment decisions.

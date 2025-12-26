@@ -21,19 +21,19 @@ A [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategy involves combining [o
 ### Common Vega-Neutral Strategies
 
 1. **[Straddle](../s/straddle.md) and [Strangle](../s/strangle.md) Combinations**
-    - **[Long Straddle](../l/long_straddle.md)**: Buying a call and a [put option](../p/put.md) with the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md). To neutralize [Vega](../v/vega.md), combine this with an offsetting position in an [asset](../a/asset.md) with opposite [Vega](../v/vega.md) characteristics.
-    - **[Long Strangle](../l/long_strangle.md)**: Buying a call and a [put option](../p/put.md) with different strike prices but the same [expiration date](../e/expiration_date.md). Similar to the [straddle](../s/straddle.md), this can be combined with an offsetting position.
+ - **[Long Straddle](../l/long_straddle.md)**: Buying a call and a [put option](../p/put.md) with the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md). To neutralize [Vega](../v/vega.md), combine this with an offsetting position in an [asset](../a/asset.md) with opposite [Vega](../v/vega.md) characteristics.
+ - **[Long Strangle](../l/long_strangle.md)**: Buying a call and a [put option](../p/put.md) with different strike prices but the same [expiration date](../e/expiration_date.md). Similar to the [straddle](../s/straddle.md), this can be combined with an offsetting position.
 
 2. **Ratio Spread**
-    - **Call Ratio Spread**: Buying calls at different strike prices in such proportions that the [Vega](../v/vega.md) exposure of purchased calls is [offset](../o/offset.md) by the sold calls.
-    - **Put Ratio Spread**: Structured similarly to the call ratio spread but using [put options](../p/put_options.md).
+ - **Call Ratio Spread**: Buying calls at different strike prices in such proportions that the [Vega](../v/vega.md) exposure of purchased calls is [offset](../o/offset.md) by the sold calls.
+ - **Put Ratio Spread**: Structured similarly to the call ratio spread but using [put options](../p/put_options.md).
 
 3. **[Butterfly Spread](../b/butterfly_spread.md)**
-    - **Call [Butterfly Spread](../b/butterfly_spread.md)**: Combining long and [short call](../s/short_call.md) [options](../o/options.md) at different strikes. This involves buying one call at a lower strike, shorting two calls at the middle strike, and buying one call at a higher strike.
-    - **Put [Butterfly Spread](../b/butterfly_spread.md)**: The same structure but with [put options](../p/put_options.md).
+ - **Call [Butterfly Spread](../b/butterfly_spread.md)**: Combining long and [short call](../s/short_call.md) [options](../o/options.md) at different strikes. This involves buying one call at a lower strike, shorting two calls at the middle strike, and buying one call at a higher strike.
+ - **Put [Butterfly Spread](../b/butterfly_spread.md)**: The same structure but with [put options](../p/put_options.md).
 
 4. **[Delta](../d/delta.md)-Hedged [Vega](../v/vega.md)-[Neutral](../n/neutral.md) Portfolio**
-    - Combining [options](../o/options.md) with [underlying](../u/underlying.md) [stocks](../s/stock.md) to [hedge](../h/hedge.md) [Delta](../d/delta.md) while maintaining a [Vega](../v/vega.md)-[neutral](../n/neutral.md) position.
+ - Combining [options](../o/options.md) with [underlying](../u/underlying.md) [stocks](../s/stock.md) to [hedge](../h/hedge.md) [Delta](../d/delta.md) while maintaining a [Vega](../v/vega.md)-[neutral](../n/neutral.md) position.
 
 ### Practical Considerations
 
@@ -60,20 +60,14 @@ A [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategy involves combining [o
 ### Trading Platforms
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Offers advanced tools for constructing and analyzing [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategies.
-  [Interactive Brokers](https://www.interactivebrokers.com/)
 - **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Provides sophisticated [options](../o/options.md) analysis tools.
-  [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 - **[TradeStation](../t/tradestation.md)**: Known for its [robust](../r/robust.md) [options](../o/options.md) trading capabilities and advanced analytics.
-  [TradeStation](https://www.tradestation.com/)
 
 ### Analytical Tools
 
 - **OptionVue**: A comprehensive analytics platform tailored for [options](../o/options.md) traders, [offering](../o/offering.md) detailed Greek analysis including [Vega](../v/vega.md).
-  [OptionVue](https://www.optionvue.com/)
 - **ORATS ([Options](../o/options.md) Research and Technology Services)**: Provides tools specifically designed to help traders analyze and construct [options](../o/options.md) strategies with precise Greek calculations.
-  [ORATS](https://www.orats.com/)
 - **[Volatility](../v/volatility.md) Lab (V-Lab)** from NYU Stern: Offers detailed [volatility](../v/volatility.md) modeling tools which can assist in planning [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategies.
-  [V-Lab at NYU Stern](https://vlab.stern.nyu.edu/)
 
 ## Case Studies and Practical Examples
 
@@ -103,4 +97,3 @@ A [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategy involves combining [o
 [Vega](../v/vega.md)-[neutral](../n/neutral.md) strategies represent a sophisticated approach to [options](../o/options.md) trading that can provide stability and predictability by mitigating [volatility risk](../v/volatility_risk.md). While implementing these strategies requires a deep understanding of [options](../o/options.md) [Greeks](../g/greeks.md) and [market](../m/market.md) conditions, along with sophisticated tools for analysis and [execution](../e/execution.md), the benefits can be substantial for those who master them.
 
 By understanding the intricacies of [Vega](../v/vega.md) and employing thoughtful, well-executed strategies, traders can better navigate the uncertainties of the [market](../m/market.md), focusing on price movements and [time decay](../t/time_decay.md) while largely insulating themselves from [volatility](../v/volatility.md) shocks.
-

@@ -72,15 +72,15 @@ Alice Johnson, a [beneficial owner](../b/beneficial_owner.md) of more than 10% o
 
 Failure to file Form 4 in a timely manner can result in civil penalties. The SEC actively monitors Form 4 filings and has the authority to take enforcement action against individuals who [fail](../f/fail.md) to comply with the requirements. Common enforcement actions include fines and penalties, which can be severe depending on the nature and extent of the violations.
 
-The SEC has an Office of [Investor](../i/investor.md) Education and Advocacy, which provides resources and information for investors about Form 4 and other filings. Investors can access Form 4 filings through the SEC’s EDGAR database: [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/webusers.htm).
+The SEC has an Office of [Investor](../i/investor.md) Education and Advocacy, which provides resources and information for investors about Form 4 and other filings. Investors can access Form 4 filings through the SEC’s EDGAR database: SEC EDGAR Database.
 
 ## Technological Integration and Automation
 
 In today’s age, the process of filing Form 4 has been significantly streamlined due to technological advancements. Many companies integrate automated systems for tracking insider transactions and ensuring timely and accurate filings. Some notable companies that [offer](../o/offer.md) services related to Form 4 filings include:
 
-- **Broadridge Financial Solutions**: A global fintech leader that provides advanced, integrated solutions to streamline SEC filings including Form 4. More information can be found at [Broadridge](https://www.broadridge.com).
-- **Certent [Disclosure](../d/disclosure.md) Management**: Offers comprehensive solutions for managing complex filings and audits which include Form 4 and is designed to enhance accuracy and compliance. Visit their page at [Certent](https://www.certent.com).
-- **Donnelley Financial Solutions (DFIN)**: A leading provider of [risk](../r/risk.md) and compliance solutions that facilitate efficient and timely SEC filings, including Form 4. More information available at [DFIN](https://www.dfinsolutions.com).
+- **Broadridge Financial Solutions**: A global fintech leader that provides advanced, integrated solutions to streamline SEC filings including Form 4. More information can be found at Broadridge.
+- **Certent [Disclosure](../d/disclosure.md) Management**: Offers comprehensive solutions for managing complex filings and audits which include Form 4 and is designed to enhance accuracy and compliance.
+- **Donnelley Financial Solutions (DFIN)**: A leading provider of [risk](../r/risk.md) and compliance solutions that facilitate efficient and timely SEC filings, including Form 4. More information available at DFIN.
 
 ## Conclusion
 

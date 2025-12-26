@@ -21,7 +21,7 @@ There are several specific forms that quanto swaps can take, each designed to ad
 ## Key Features and Benefits
 
 - **Elimination of [Currency](../c/currency.md) [Risk](../r/risk.md)**: One of the primary benefits of quanto swaps is the elimination of [currency](../c/currency.md) [risk](../r/risk.md). By predefining the [exchange rate](../e/exchange_rate.md), investors can be assured that their returns [will](../w/will.md) not be eroded due to unfavorable [currency](../c/currency.md) fluctuations.
-  
+
 - **Access to Foreign Markets**: Quanto swaps provide a mechanism for investors to [gain](../g/gain.md) exposure to foreign markets. This can be especially attractive for investors looking to diversify their portfolios with international assets without incurring significant [exchange rate](../e/exchange_rate.md) risks.
 
 - **Customizability**: Quanto swaps are highly customizable financial instruments. They can be tailored to meet specific needs, which may involve a variety of [underlying](../u/underlying.md) assets, settlement currencies, and [maturity](../m/maturity.md) terms.
@@ -31,12 +31,12 @@ There are several specific forms that quanto swaps can take, each designed to ad
 Valuating a quanto [swap](../s/swap.md) involves several factors that must be considered:
 
 - **[Interest Rate](../i/interest_rate.md) Differential**: The comparative [interest](../i/interest.md) rates between the two currencies involved play a significant role.
-  
+
 - **[Volatility](../v/volatility.md)**: The [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md) whose performance the [swap](../s/swap.md) is based on must be considered. For example, in a quanto [equity swap](../e/equity_swap.md), the [volatility](../v/volatility.md) of the [equity](../e/equity.md) [index](../i/index_instrument.md) [will](../w/will.md) be key to the overall [valuation](../v/valuation.md).
 
 - **[Correlation](../c/correlation.md)**: The level of [correlation](../c/correlation.md) between the [underlying asset](../u/underlying_asset.md) and the [exchange rate](../e/exchange_rate.md) should be analyzed. Lower [correlation](../c/correlation.md) typically implies a greater benefit from isolating [currency](../c/currency.md) [risk](../r/risk.md).
 
-[Quantitative models](../q/quantitative_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), are often extended and adapted to cater to the specific nuance of quanto swaps. The main adjustment in these models addresses the changes in the measure due to the pre-agreed [exchange rate](../e/exchange_rate.md). 
+[Quantitative models](../q/quantitative_models.md), such as the [Black-Scholes model](../b/black-scholes_model.md), are often extended and adapted to cater to the specific nuance of quanto swaps. The main adjustment in these models addresses the changes in the measure due to the pre-agreed [exchange rate](../e/exchange_rate.md).
 
 ## Risks Involved
 
@@ -58,9 +58,9 @@ In this [swap](../s/swap.md), the [payment](../p/payment.md) [leg](../l/leg.md) 
 
 Several financial institutions [offer](../o/offer.md) quanto swaps, generally tailored to meet the needs of large-scale investors and corporations. Prominent players in the [market](../m/market.md) include major [investment banks](../i/investment_bank_(ib).md) and [derivative](../d/derivative.md)-centric financial institutions like:
 
-- **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com/)
-- **J.P. Morgan**: [J.P. Morgan](https://www.jpmorgan.com/)
-- **Barclays**: [Barclays](https://www.barclays.com/)
+- **Goldman Sachs**: Goldman Sachs
+- **J.P. Morgan**: J.P. Morgan
+- **Barclays**: Barclays
 
 ## Conclusion
 

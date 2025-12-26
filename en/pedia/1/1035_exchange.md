@@ -69,7 +69,7 @@ Legal implications also need consideration. Failure to comply with the IRC rules
 
 Financial institutions play a significant role in helping policyholders execute 1035 exchanges. Many companies have specialized departments and advisors dedicated to assisting clients in assessing their current policies and identifying suitable products to [exchange](../e/exchange.md).
 
-- **[Insurance](../i/insurance.md) Companies**: Companies like [New York Life Insurance Company](https://www.newyorklife.com) provide resources and advisors to help navigate the intricacies of policy exchanges.
+- **[Insurance](../i/insurance.md) Companies**: Companies like New York Life Insurance Company provide resources and advisors to help navigate the intricacies of policy exchanges.
 - **Financial Advisors**: Independent financial advisory firms also provide consultancy on 1035 exchanges to help clients maximize their investments and [insurance](../i/insurance.md) [holdings](../h/holdings.md).
 
 ### Case Study

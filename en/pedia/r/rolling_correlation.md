@@ -45,13 +45,13 @@ where \( \bar{x} \) and \( \bar{y} \) are the mean returns of the two assets wit
 Rolling [correlation](../c/correlation.md) helps in constructing diversified portfolios by selecting assets that exhibit low or [negative correlation](../n/negative_correlation.md) over time. Dynamic adjustments based on evolving correlations improve [risk](../r/risk.md)-adjusted returns:
 
 - **Adaptive [Asset Allocation](../a/asset_allocation.md)**: Modify portfolio weights based on recent [correlation](../c/correlation.md) changes to maintain [diversification](../d/diversification.md).
-  
+
 ### 2. **Risk Management**
 
 Time-varying correlations aid in identifying periods of increased [systemic risk](../s/systemic_risk.md) when historically low-correlated assets suddenly move together:
 
 - **[Stress Testing](../s/stress_testing_in_trading.md)**: Use rolling [correlation](../c/correlation.md) to simulate [portfolio performance](../p/portfolio_performance.md) under different [market](../m/market.md) scenarios.
-  
+
 ### 3. **Pairs Trading**
 
 [Pairs trading](../p/pairs_trading.md) strategies benefit from monitoring the rolling [correlation](../c/correlation.md) between [asset](../a/asset.md) pairs to identify trading opportunities when deviations from historical [correlation](../c/correlation.md) occur:
@@ -80,7 +80,7 @@ returns_a = np.random.randn(100)
 returns_b = np.random.randn(100)
 
 # Create DataFrame
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Stock_A': returns_a,
     'Stock_B': returns_b
 }, [index](../i/index_instrument.md)=dates)
@@ -97,19 +97,19 @@ print(rolling_corr)
 
 BlackRock, one of the world’s largest [asset](../a/asset.md) managers, uses sophisticated [quantitative models](../q/quantitative_models.md) incorporating rolling [correlation](../c/correlation.md) for portfolio construction and [risk management](../r/risk_management.md).
 
-Link: [BlackRock](https://www.blackrock.com/)
+Link: BlackRock
 
 ### 2. **Two Sigma Investments**
 
 Two Sigma, a prominent quantitative [hedge fund](../h/hedge_fund.md), leverages advanced statistical techniques, including rolling [correlation](../c/correlation.md), to develop [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-Link: [Two Sigma](https://www.twosigma.com/)
+Link: Two Sigma
 
 ### 3. **Bloomberg**
 
 [Bloomberg](../b/bloomberg.md) provides financial data services, including tools to compute and analyze rolling correlations through its [Bloomberg](../b/bloomberg.md) Terminal, aiding traders and analysts in making informed decisions.
 
-Link: [Bloomberg](https://www.bloomberg.com/)
+Link: Bloomberg
 
 ## Conclusion
 

@@ -4,7 +4,7 @@
 Direct tax is a type of tax that is paid directly by an individual or organization to the entity that imposed it. This differs from indirect [taxes](../t/taxes.md), whereby the tax is levied on a good or service, and a merchant passes this tax on to the consumer. Direct [taxes](../t/taxes.md) are based on the ability-to-pay principle, which suggests that those who can afford to pay more should contribute more to the government.
 
 ## Types of Direct Taxes
-Direct [taxes](../t/taxes.md) come in various forms, and each has its own specific rules and implications. 
+Direct [taxes](../t/taxes.md) come in various forms, and each has its own specific rules and implications.
 
 ### Income Tax
 [Income tax](../i/income_tax.md) is a tax levied on the [income](../i/income.md) of individuals or businesses. It is calculated on the net [income](../i/income.md) for the year and includes salaries, wages, dividends, [interest](../i/interest.md), and other sources. Both federal and state governments may impose this tax, and rates can vary significantly.
@@ -65,7 +65,7 @@ Similar to the [Social Security](../s/social_security.md) Tax, the Medicare tax 
 Compliance with direct tax laws is mandatory, and failure to comply can result in penalties, [interest](../i/interest.md) charges, and sometimes criminal prosecution. [Tax evasion](../t/tax_evasion.md) is the illegal act of not paying [taxes](../t/taxes.md) owed, and it can severely undermine government revenues. There are several methods used to reduce [tax evasion](../t/tax_evasion.md):
 
 ### Audits and Investigations
-Tax authorities regularly conduct audits to ensure the accuracy of tax returns and investigate suspicious activity. 
+Tax authorities regularly conduct audits to ensure the accuracy of tax returns and investigate suspicious activity.
 
 ### Whistleblower Programs
 Many governments have programs that reward individuals who report [tax evasion](../t/tax_evasion.md) or [fraud](../f/fraud.md), helping authorities identify and pursue tax cheats.

@@ -17,12 +17,12 @@ where:
 ### Types of Skewness
 
 1. **[Positive Skewness](../p/positive_skewness.md) (Right-skewed)**:
-   - A [distribution](../d/distribution.md) with [positive skewness](../p/positive_skewness.md) has a long right tail. This indicates that a greater proportion of the returns are higher, or more extreme positive returns.
-   - [Positive skewness](../p/positive_skewness.md) means that the mean is greater than the [median](../m/median.md), which is greater than the [mode](../m/mode.md).
+ - A [distribution](../d/distribution.md) with [positive skewness](../p/positive_skewness.md) has a long right tail. This indicates that a greater proportion of the returns are higher, or more extreme positive returns.
+ - [Positive skewness](../p/positive_skewness.md) means that the mean is greater than the [median](../m/median.md), which is greater than the [mode](../m/mode.md).
 
 2. **[Negative Skewness](../n/negative_skewness.md) (Left-skewed)**:
-   - A [distribution](../d/distribution.md) with [negative skewness](../n/negative_skewness.md) has a long left tail. This indicates that a greater proportion of the returns are lower, or more extreme negative returns.
-   - [Negative skewness](../n/negative_skewness.md) means that the mean is less than the [median](../m/median.md), which is less than the [mode](../m/mode.md).
+ - A [distribution](../d/distribution.md) with [negative skewness](../n/negative_skewness.md) has a long left tail. This indicates that a greater proportion of the returns are lower, or more extreme negative returns.
+ - [Negative skewness](../n/negative_skewness.md) means that the mean is less than the [median](../m/median.md), which is less than the [mode](../m/mode.md).
 
 ### Importance in Algo Trading
 
@@ -42,7 +42,7 @@ Traditional [performance metrics](../p/performance_metrics.md) like the [Sharpe 
 
 #### QuantConnect’s Algorithm Module
 
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). One of its [algorithm modules](https://www.quantconnect.com) can be used to assess the [skewness](../s/skewness.md) of a [trading strategy](../t/trading_strategy.md)'s returns, enabling traders to refine their models based on the [skewness](../s/skewness.md) parameter.
+[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md). One of its algorithm modules can be used to assess the [skewness](../s/skewness.md) of a [trading strategy](../t/trading_strategy.md)'s returns, enabling traders to refine their models based on the [skewness](../s/skewness.md) parameter.
 
 ### Mathematical Context
 

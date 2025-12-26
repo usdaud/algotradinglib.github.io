@@ -9,7 +9,7 @@
 ### Characteristics of Income Stocks
 
 1. **High [Dividend Yield](../d/dividend_yield.md):** [Income](../i/income.md) [stocks](../s/stock.md) are characterized by a [dividend yield](../d/dividend_yield.md) that exceeds the [market](../m/market.md) average. This means they [offer](../o/offer.md) a higher [return](../r/return.md) on investment through [dividend](../d/dividend.md) payments relative to the stock's price.
-  
+
 2. **Stable [Earnings](../e/earnings.md):** The companies issuing [income](../i/income.md) [stocks](../s/stock.md) typically have mature, stable [business models](../b/business_models.md). They generate consistent [revenue](../r/revenue.md) and [profit](../p/profit.md), which allows for regular [dividend](../d/dividend.md) [payout](../p/payout.md).
 
 3. **Blue-chip Companies:** Often, [income](../i/income.md) [stocks](../s/stock.md) come from well-established, reputable companies. These are frequently part of the blue-chip category, implying a certain level of reliability and less [risk](../r/risk.md).
@@ -21,9 +21,9 @@
 Several factors can influence the performance and attractiveness of [income](../i/income.md) [stocks](../s/stock.md):
 
 - **[Economic Conditions](../e/economic_conditions.md):** During economic downturns, companies might reduce or suspend [dividend](../d/dividend.md) payments, adversely affecting the attractiveness of [income](../i/income.md) [stocks](../s/stock.md).
-  
+
 - **[Interest](../i/interest.md) Rates:** Rising [interest](../i/interest.md) rates could make fixed-[income](../i/income.md) securities more attractive, potentially pulling investment away from [income](../i/income.md) [stocks](../s/stock.md).
-  
+
 - **Company Performance:** The [financial health](../f/financial_health.md) and performance of the issuing company directly affect its ability to maintain [dividend](../d/dividend.md) payments.
 
 ## Popular Sectors for Income Stocks
@@ -31,29 +31,29 @@ Several factors can influence the performance and attractiveness of [income](../
 [Income](../i/income.md) [stocks](../s/stock.md) are prevalent in specific sectors due to the stable cash flows these industries generate. Some of the popular sectors include:
 
 - **Utilities:** Known for their consistent [revenue](../r/revenue.md) streams, [utility](../u/utility.md) companies often provide high [dividend](../d/dividend.md) yields.
-  
+
 - **[Consumer Goods](../c/consumer_goods.md):** Firms producing essential [consumer goods](../c/consumer_goods.md), such as food and beverages, tend to have steady sales and sizable [dividend](../d/dividend.md) payouts.
-  
+
 - **[Real Estate](../r/real_estate.md) Investment Trusts (REITs):** REITs are required by law to distribute at least 90% of [taxable income](../t/taxable_income.md) to shareholders, making them prominent in [income](../i/income.md)-focused portfolios.
 
 ## Examples of Income Stocks and Companies
 
 Here are some prominent examples of companies known for their [income](../i/income.md) [stocks](../s/stock.md):
 
-- **The Coca-Cola Company:** A leader in the beverage [industry](../i/industry.md) with a long history of paying dividends: [Coca-Cola investors page](https://www.coca-colacompany.com/investors)
-  
-- **Procter & Gamble Co. (P&G):** Known for [consumer goods](../c/consumer_goods.md), P&G provides consistent dividends: [Procter & Gamble investors page](https://www.pginvestor.com/)
-  
-- **Duke Energy:** A significant player in the [utility](../u/utility.md) sector, Duke Energy offers high [dividend](../d/dividend.md) yields: [Duke Energy investors page](https://www.duke-energy.com/our-company/investors)
+- **The Coca-Cola Company:** A leader in the beverage [industry](../i/industry.md) with a long history of paying dividends: Coca-Cola investors page
+
+- **Procter & Gamble Co. (P&G):** Known for [consumer goods](../c/consumer_goods.md), P&G provides consistent dividends: Procter & Gamble investors page
+
+- **Duke Energy:** A significant player in the [utility](../u/utility.md) sector, Duke Energy offers high [dividend](../d/dividend.md) yields: Duke Energy investors page
 
 ## Risks Associated with Income Stocks
 
 Despite their appeal, [income](../i/income.md) [stocks](../s/stock.md) come with certain risks:
 
 1. **[Dividend](../d/dividend.md) Cuts:** If a company faces financial hardship, it may reduce or eliminate [dividend](../d/dividend.md) payments, adversely affecting investors relying on that [income](../i/income.md).
-  
+
 2. **[Inflation](../i/inflation.md) [Risk](../r/risk.md):** Over time, [inflation](../i/inflation.md) can erode the [purchasing power](../p/purchasing_power.md) of the [fixed income](../f/fixed_income.md) received through dividends.
-  
+
 3. **[Market](../m/market.md) Risks:** [Income](../i/income.md) [stocks](../s/stock.md) are not immune to [market](../m/market.md) [volatility](../v/volatility.md), and stock prices could decline, affecting the overall [value](../v/value.md) of the investment.
 
 ## Investment Strategies Using Income Stocks

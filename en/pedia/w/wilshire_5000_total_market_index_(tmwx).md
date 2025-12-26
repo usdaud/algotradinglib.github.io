@@ -69,7 +69,7 @@ Economists and policymakers may look at the Wilshire 5000 to gauge the health of
 
 ## Performance
 
-The performance of the Wilshire 5000 correlates closely with the overall U.S. [equity market](../e/equity_market.md). Historically, it has shown significant growth, particularly during [bull](../b/bull.md) markets, but also experiences declines during bear markets. 
+The performance of the Wilshire 5000 correlates closely with the overall U.S. [equity market](../e/equity_market.md). Historically, it has shown significant growth, particularly during [bull](../b/bull.md) markets, but also experiences declines during bear markets.
 
 ### Historical Performance
 
@@ -107,8 +107,8 @@ Constant maintenance, including monthly [rebalancing](../r/rebalancing.md), ensu
 
 The Wilshire 5000 can be tracked in real-time via various financial news platforms and [stock market](../s/stock_market.md) websites. Investors and analysts who wish to follow the [index](../i/index_instrument.md) closely can rely on reputable data providers such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and Wilshire Associates themselves.
 
-### Official Website
-For more detailed information on the Wilshire 5000, you can visit the official Wilshire Associates website at [Wilshire Associates](https://www.wilshire.com/indexes).
+###
+For more detailed information on the Wilshire 5000,
 
 ## Conclusion
 

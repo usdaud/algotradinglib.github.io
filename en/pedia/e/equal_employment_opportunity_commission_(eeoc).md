@@ -108,4 +108,3 @@ The agency is taking a proactive stance against workplace harassment. This inclu
 
 The Equal Employment Opportunity [Commission](../c/commission.md) plays a crucial role in advancing workplace [equity](../e/equity.md) and combating discrimination. Despite facing challenges such as limited resources and case backlogs, the EEOC remains committed to enforcing anti-discrimination laws and promoting fair treatment for all employees. Through litigation, education, and targeted initiatives, the EEOC continues to strive towards a more inclusive and equitable work environment in the United States.
 
-For more information, you can visit the EEOC’s official website: [EEOC Official Website](https://www.eeoc.gov).

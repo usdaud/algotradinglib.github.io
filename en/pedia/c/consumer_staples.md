@@ -19,10 +19,10 @@ Consumer staples are goods that people are unable or unwilling to eliminate from
 
 Some of the notable companies in the consumer staples sector include:
 
-- **Procter & Gamble (P&G)**: A multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md), known for products like Tide, Pampers, and Gillette. [Procter & Gamble Website](https://us.pg.com/)
-- **The Coca-Cola Company**: A global beverage giant known for its flagship Coca-Cola beverage and other soft drinks. [The Coca-Cola Company Website](https://www.coca-colacompany.com/)
-- **Unilever**: A multinational company [offering](../o/offering.md) products in categories like food, beverages, cleaning agents, and personal care. [Unilever Website](https://www.unilever.com/)
-- **PepsiCo**: Known for its food and beverage products including Pepsi, Quaker Oats, and Doritos. [PepsiCo Website](https://www.pepsico.com/)
+- **Procter & Gamble (P&G)**: A multinational [consumer goods](../c/consumer_goods.md) [corporation](../c/corporation.md), known for products like Tide, Pampers,
+- **The Coca-Cola Company**: A global beverage giant known for its flagship Coca-Cola
+- **Unilever**: A multinational company [offering](../o/offering.md) products in categories like food, beverages, cleaning agents,
+- **PepsiCo**: Known for its food and beverage products including Pepsi, Quaker Oats,
 
 ## Types of Consumer Staples
 

@@ -35,8 +35,8 @@ To implement [risk](../r/risk.md) [parity](../p/parity.md), the following steps 
 
 Several prominent investment firms [offer](../o/offer.md) funds that use the [risk](../r/risk.md) [parity](../p/parity.md) strategy. Here are a few examples:
 
-1. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater offers the All Weather [Fund](../f/fund.md), one of the most well-known [risk](../r/risk.md) [parity](../p/parity.md) strategies. More information can be found on their [official website](https://www.bridgewater.com).
-2. **AQR [Capital](../c/capital.md) Management**: AQR offers various [risk](../r/risk.md) [parity](../p/parity.md) funds, including the AQR [Risk](../r/risk.md) [Parity](../p/parity.md) [Fund](../f/fund.md). More details are available on the [AQR website](https://www.aqr.com).
+1. **Bridgewater Associates**: Founded by Ray Dalio, Bridgewater offers the All Weather [Fund](../f/fund.md), one of the most well-known [risk](../r/risk.md) [parity](../p/parity.md) strategies.
+2. **AQR [Capital](../c/capital.md) Management**: AQR offers various [risk](../r/risk.md) [parity](../p/parity.md) funds, including the AQR [Risk](../r/risk.md) [Parity](../p/parity.md) [Fund](../f/fund.md). More
 
 ### Applications
 

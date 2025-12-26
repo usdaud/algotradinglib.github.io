@@ -94,15 +94,13 @@ In the United States, the Securities and [Exchange](../e/exchange.md) [Commissio
 
 ### Apple Inc.
 
-For example, Apple’s MD&A can provide insights into how the company is expanding its product lines, dealing with [supply chain](../s/supply_chain.md) issues, and navigating regulatory changes. You can find Apple’s MD&A section on their [investor relations](../i/investor_relations.md) page:
+For example, Apple’s MD&A can provide insights into how the company is expanding its product lines, dealing with [supply chain](../s/supply_chain.md) issues, and navigating regulatory changes../i/investor_relations.md) page:
 
-[Apple Investor Relations](https://investor.apple.com)
 
 ### Microsoft Corporation
 
-Microsoft’s MD&A often offers a perspective on their cloud services growth, strategic acquisitions, and investment in new technologies. Visit their [investor relations](../i/investor_relations.md) page for more details:
+Microsoft’s MD&A often offers a perspective on their cloud services growth, strategic acquisitions, and investment in new technologies. More details are available in their filings.
 
-[Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
 
 ## Conclusion
 

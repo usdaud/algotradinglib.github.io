@@ -48,13 +48,13 @@ Python is a popular language in the field of [algorithmic trading](../a/algorith
 - **Mayavi**: Good for scientific [data visualization](../d/data_visualization.md), supporting complex 3D plots.
 
 ### Trading Platforms
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers 3D charting capabilities for strategy visualization. [(QuantConnect)](https://www.quantconnect.com)
-- **MetaTrader 5**: Offers some support for 3D visualizations in trading activities. [(MetaTrader 5)](https://www.metatrader5.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that offers 3D charting capabilities for strategy visualization. (QuantConnect)
+- **MetaTrader 5**: Offers some support for 3D visualizations in trading activities. (MetaTrader 5)
 
 ### Professional Tools
 Professional trading tools often incorporate advanced charting capabilities:
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers sophisticated charting tools, including 3D capabilities, for in-depth [market](../m/market.md) analysis. [(Bloomberg Terminal)](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive charting features, enabling traders to visualize complex data in 3D. [(Thomson Reuters Eikon)](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md) offers sophisticated charting tools, including 3D capabilities, for in-depth [market](../m/market.md) analysis. (Bloomberg Terminal)
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive charting features, enabling traders to visualize complex data in 3D. (Thomson Reuters Eikon)
 
 ## Advantages of 3D Charting
 
@@ -91,4 +91,4 @@ Future tools are likely to [offer](../o/offer.md) more intuitive user interfaces
 
 ## Conclusion
 
-3D charting represents a significant advancement in the visualization of [market](../m/market.md) data, providing deeper insights and more comprehensive analysis in [algorithmic trading](../a/algorithmic_trading.md). However, it is crucial for traders to understand both the advantages and challenges associated with this technology to fully [leverage](../l/leverage.md) its potential. As tools and methodologies evolve, 3D charting [will](../w/will.md) likely become an integral part of advanced [trading strategies](../t/trading_strategies.md) and [financial analysis](../f/financial_analysis.md).
+3D charting represents a significant advancement in the visualization of [market](../m/market.md) data, providing deeper insights and more comprehensive analysis in [algorithmic trading](../a/algorithmic_trading.md). However, it is crucial for traders to understand both the advantages and challenges associated with this technology to fully [leverage](../l/leverage.md) its potential. As tools and methodologies evolve, 3D charting [will](../w/will.md) likely become an integral part of advanced [trading strategies](../t/trading_strategies.md) and [financial analysis](../f/financial_analysis.md).

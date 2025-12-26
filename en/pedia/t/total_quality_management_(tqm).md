@@ -67,7 +67,7 @@ Applying TQM principles such as lean management in trading desks can streamline 
 [Quality management](../q/quality_management.md) tools like Control Charts and FMEA can enhance [risk management frameworks](../r/risk_management_frameworks.md). Financial institutions can use these tools for proactive [risk](../r/risk.md) assessment and mitigation, ensuring that trading operations conform to predefined quality standards.
 
 ### Algorithmic Trading
-In the context of [algorithmic trading](../a/accountability.md), TQM can foster the continuous improvement of [trading algorithms](../t/trading_algorithms.md). Using principles like [Six Sigma](../s/six_sigma.md), traders can systematically analyze the performance of algorithms, eliminating biases and optimizing for better outcomes. For more information on [algorithmic trading](../a/accountability.md), visit [AlgoTrader](https://www.algotrader.com/).
+In the context of [algorithmic trading](../a/algorithmic_trading.md), TQM can foster the continuous improvement of [trading algorithms](../t/trading_algorithms.md). Using principles like [Six Sigma](../s/six_sigma.md), traders can systematically analyze the performance of algorithms, eliminating biases and optimizing for better outcomes. For more information on [algorithmic trading](../a/algorithmic_trading.md), visit AlgoTrader.
 
 ### Customer Relationship Management (CRM)
 Financial institutions employing TQM can enhance their CRM systems by closely monitoring [customer](../c/customer.md) feedback and satisfaction levels. This [will](../w/will.md) allow for more tailored financial products and services, leading to improved [customer](../c/customer.md) retention and loyalty.

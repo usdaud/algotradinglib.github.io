@@ -10,39 +10,39 @@ The PATH Act was introduced to extend and make permanent many temporary tax prov
 
 1. **Permanent Extensions**
 
-   Some tax provisions that were made permanent under the PATH Act include:
-   
-   * **enhanced American Opportunity [Tax Credit](../t/tax_credit.md) (AOTC)**
-   * **[Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC)**
-   * **[Child Tax Credit](../c/child_tax_credit.md) (CTC)**
-   * **Section 179 expensing**
-   * **Research and Development (R&D) [Tax Credit](../t/tax_credit.md)**
+ Some tax provisions that were made permanent under the PATH Act include:
 
-   These permanent extensions aim to help taxpayers by ensuring long-term benefits rather than temporary relief.
+ * **enhanced American Opportunity [Tax Credit](../t/tax_credit.md) (AOTC)**
+ * **[Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC)**
+ * **[Child Tax Credit](../c/child_tax_credit.md) (CTC)**
+ * **Section 179 expensing**
+ * **Research and Development (R&D) [Tax Credit](../t/tax_credit.md)**
+
+ These permanent extensions aim to help taxpayers by ensuring long-term benefits rather than temporary relief.
 
 2. **Extensions Through 2019**
 
-   Certain provisions were extended through the year 2019, including:
-   
-   * **Exclusion from [gross income](../g/gross_income.md) of discharge of qualified [principal](../p/principal.md) residence indebtedness**
-   * **[Mortgage insurance](../m/mortgage_insurance.md) premiums treated as qualified residence [interest](../i/interest.md)**
-   * **Above-the-line [deduction](../d/deduction.md) for qualified tuition and related expenses**
-   
-   These temporary extensions provide continued [taxpayer](../t/taxpayer.md) support but were not made permanent parts of the tax code.
+ Certain provisions were extended through the year 2019, including:
+
+ * **Exclusion from [gross income](../g/gross_income.md) of discharge of qualified [principal](../p/principal.md) residence indebtedness**
+ * **[Mortgage insurance](../m/mortgage_insurance.md) premiums treated as qualified residence [interest](../i/interest.md)**
+ * **Above-the-line [deduction](../d/deduction.md) for qualified tuition and related expenses**
+
+ These temporary extensions provide continued [taxpayer](../t/taxpayer.md) support but were not made permanent parts of the tax code.
 
 3. **Provisions to Prevent [Fraud](../f/fraud.md)**
 
-   To curb instances of fraudulent and improper claims of refundable tax credits, the PATH Act introduced several measures, such as:
-   
-   * **Delaying refunds for taxpayers claiming the [Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC) and the [Additional Child Tax Credit](../a/additional_child_tax_credit.md) (ACTC) until February 15**
-   * **Requiring a valid [Social Security](../s/social_security.md) Number (SSN) for claims of the EITC**
-   * **Implementing procedures to verify individual [taxpayer](../t/taxpayer.md) identification numbers (ITINs)**
+ To curb instances of fraudulent and improper claims of refundable tax credits, the PATH Act introduced several measures, such as:
 
-   These provisions aim to reduce [tax fraud](../t/tax_fraud.md) and improve the accuracy of [tax credit](../t/tax_credit.md) claims.
+ * **Delaying refunds for taxpayers claiming the [Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md) (EITC) and the [Additional Child Tax Credit](../a/additional_child_tax_credit.md) (ACTC) until February 15**
+ * **Requiring a valid [Social Security](../s/social_security.md) Number (SSN) for claims of the EITC**
+ * **Implementing procedures to verify individual [taxpayer](../t/taxpayer.md) identification numbers (ITINs)**
+
+ These provisions aim to reduce [tax fraud](../t/tax_fraud.md) and improve the accuracy of [tax credit](../t/tax_credit.md) claims.
 
 ### Impact on Individuals and Families
 
-The PATH Act has had a notable impact on individuals and families by providing clearer guidelines and permanent benefits that aid in [financial planning](../f/financial_planning.md). 
+The PATH Act has had a notable impact on individuals and families by providing clearer guidelines and permanent benefits that aid in [financial planning](../f/financial_planning.md).
 
 #### American Opportunity Tax Credit
 

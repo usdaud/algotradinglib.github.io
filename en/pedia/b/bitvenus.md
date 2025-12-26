@@ -96,4 +96,3 @@ BitVenus is continually improving its [security](../s/security.md) measures to s
 
 BitVenus aims to be a leading cryptocurrency [exchange](../e/exchange.md) platform by [offering](../o/offering.md) a comprehensive suite of trading features, [robust](../r/robust.md) [security](../s/security.md) measures, and a user-centric approach. With a focus on innovation, regulatory compliance, and community engagement, BitVenus is well-positioned to cater to the evolving needs of the global cryptocurrency [market](../m/market.md).
 
-For more information, visit their [official website](https://bitvenus.com).

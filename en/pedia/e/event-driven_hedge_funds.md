@@ -1,6 +1,6 @@
 # Event-Driven Hedge Funds
 
-Event-driven [hedge](../h/hedge.md) funds constitute a type of [investment strategy](../i/investment_strategy.md) that attempts to exploit [market](../m/market.md) inefficiencies that arise from company-specific or macroeconomic events. These events may include mergers and acquisitions (M&A), corporate [restructuring](../r/restructuring.md), [earnings announcements](../e/earnings_announcements.md), bankruptcies, spin-offs, or any situation that can lead to a temporary mispricing of a company's securities. Event-driven [hedge](../h/hedge.md) funds play a critical role in [financial markets](../f/financial_market.md), providing [liquidity](../l/liquidity.md) and [arbitrage](../a/arbitrage.md) opportunities, and they have garnered significant [interest](../i/interest.md) and [capital](../c/capital.md) in recent years. 
+Event-driven [hedge](../h/hedge.md) funds constitute a type of [investment strategy](../i/investment_strategy.md) that attempts to exploit [market](../m/market.md) inefficiencies that arise from company-specific or macroeconomic events. These events may include mergers and acquisitions (M&A), corporate [restructuring](../r/restructuring.md), [earnings announcements](../e/earnings_announcements.md), bankruptcies, spin-offs, or any situation that can lead to a temporary mispricing of a company's securities. Event-driven [hedge](../h/hedge.md) funds play a critical role in [financial markets](../f/financial_market.md), providing [liquidity](../l/liquidity.md) and [arbitrage](../a/arbitrage.md) opportunities, and they have garnered significant [interest](../i/interest.md) and [capital](../c/capital.md) in recent years.
 
 ## Types of Event-Driven Strategies
 
@@ -28,23 +28,23 @@ Special situations encompass a broad [range](../r/range.md) of corporate actions
 
 ### Elliott Management Corporation
 
-Elliott Management [Corporation](../c/corporation.md), founded by Paul Singer in 1977, is one of the most notable event-driven [hedge](../h/hedge.md) funds. Known for its activist approach, Elliott Management focuses on identifying and influencing corporate events to unlock [shareholder value](../s/shareholder_value.md). The [firm](../f/firm.md) has been involved in numerous high-profile engagements, including the [restructuring](../r/restructuring.md) of companies like AT&T, eBay, and Twitter. [Elliott Management Corporation](https://www.elliottmgmt.com/)
+Elliott Management [Corporation](../c/corporation.md), founded by Paul Singer in 1977, is one of the most notable event-driven [hedge](../h/hedge.md) funds. Known for its activist approach, Elliott Management focuses on identifying and influencing corporate events to unlock [shareholder value](../s/shareholder_value.md). The [firm](../f/firm.md) has been involved in numerous high-profile engagements, including the [restructuring](../r/restructuring.md) of companies like AT&T, eBay, and Twitter. Elliott Management Corporation
 
 ### Pershing Square Capital Management
 
-Pershing Square [Capital](../c/capital.md) Management, led by Bill Ackman, employs an event-driven strategy with a strong activist tilt. The [fund](../f/fund.md) is known for taking substantial positions in companies and advocating for changes to unlock [value](../v/value.md) for shareholders. Pershing Square's notable investments include positions in companies like Chipotle Mexican Grill, Herbalife, and Valeant Pharmaceuticals. [Pershing Square Capital Management](https://www.pershingsquareholdings.com/)
+Pershing Square [Capital](../c/capital.md) Management, led by Bill Ackman, employs an event-driven strategy with a strong activist tilt. The [fund](../f/fund.md) is known for taking substantial positions in companies and advocating for changes to unlock [value](../v/value.md) for shareholders. Pershing Square's notable investments include positions in companies like Chipotle Mexican Grill, Herbalife, and Valeant Pharmaceuticals. Pershing Square Capital Management
 
 ### Third Point LLC
 
-Third Point LLC, founded by Daniel Loeb in 1995, is another prominent event-driven [hedge fund](../h/hedge_fund.md). The [fund](../f/fund.md) utilizes a combination of event-driven, [value](../v/value.md), and activist strategies to identify and exploit inefficiencies in the [market](../m/market.md). Third Point has been involved in significant investments and [restructuring](../r/restructuring.md) efforts in companies like Yahoo!, Sony, and Nestlé. [Third Point LLC](https://www.thirdpoint.com/)
+Third Point LLC, founded by Daniel Loeb in 1995, is another prominent event-driven [hedge fund](../h/hedge_fund.md). The [fund](../f/fund.md) utilizes a combination of event-driven, [value](../v/value.md), and activist strategies to identify and exploit inefficiencies in the [market](../m/market.md). Third Point has been involved in significant investments and [restructuring](../r/restructuring.md) efforts in companies like Yahoo!, Sony, and Nestlé. Third Point LLC
 
 ### King Street Capital Management
 
-King Street [Capital](../c/capital.md) Management, founded by Brian Higgins and O. Francis Biondi, is known for its expertise in [distressed securities](../d/distressed_securities.md) [investing](../i/investing.md). The [firm](../f/firm.md) focuses on distressed [debt](../d/debt.md), special situations, and event-driven opportunities, often taking a long-term approach to unlocking [value](../v/value.md) in distressed companies. King Street has been involved in numerous [restructuring](../r/restructuring.md) and [turnaround](../t/turnaround.md) situations worldwide. [King Street Capital Management](https://www.kingstreet.com/)
+King Street [Capital](../c/capital.md) Management, founded by Brian Higgins and O. Francis Biondi, is known for its expertise in [distressed securities](../d/distressed_securities.md) [investing](../i/investing.md). The [firm](../f/firm.md) focuses on distressed [debt](../d/debt.md), special situations, and event-driven opportunities, often taking a long-term approach to unlocking [value](../v/value.md) in distressed companies. King Street has been involved in numerous [restructuring](../r/restructuring.md) and [turnaround](../t/turnaround.md) situations worldwide. King Street Capital Management
 
 ### York Capital Management
 
-York [Capital](../c/capital.md) Management, founded by Jamie Dinan in 1991, focuses on event-driven strategies, including [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), distressed [investing](../i/investing.md), and special situations. York [Capital](../c/capital.md) is known for its disciplined investment approach and has been involved in various high-profile transactions and [restructuring](../r/restructuring.md) efforts. [York Capital Management](https://www.yorkcapital.com/)
+York [Capital](../c/capital.md) Management, founded by Jamie Dinan in 1991, focuses on event-driven strategies, including [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), distressed [investing](../i/investing.md), and special situations. York [Capital](../c/capital.md) is known for its disciplined investment approach and has been involved in various high-profile transactions and [restructuring](../r/restructuring.md) efforts. York Capital Management
 
 ## Risks Associated with Event-Driven Hedge Funds
 
@@ -70,7 +70,7 @@ Accurate and timely information is crucial for the success of event-driven strat
 
 In [distressed securities](../d/distressed_securities.md) [investing](../i/investing.md), there is a high degree of [credit risk](../c/credit_risk.md), especially if the targeted company fails to successfully restructure or [liquidate](../l/liquidate.md) its assets at expected values.
 
-## Conclusion 
+## Conclusion
 
 Event-driven [hedge](../h/hedge.md) funds constitute a dynamic and complex [investment strategy](../i/investment_strategy.md) aiming to exploit temporary [market](../m/market.md) inefficiencies caused by corporate and macroeconomic events. The strategies deployed by these funds, such as [merger](../m/merger.md) [arbitrage](../a/arbitrage.md), [distressed securities](../d/distressed_securities.md) [investing](../i/investing.md), spin-offs, and special situations, all require deep expertise, [robust](../r/robust.md) [risk management](../r/risk_management.md), and a profound understanding of [market](../m/market.md) mechanics. While the potential returns can be significant, the associated risks necessitate a careful and informed approach.
 

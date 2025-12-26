@@ -9,7 +9,7 @@ In the realm of trading, particularly in the context of brokerage accounts and [
 ## Types of Margin Requirements
 
 1. **[Initial Margin](../i/initial_margin.md) Requirement**: This is the percentage of the purchase price of securities that the [investor](../i/investor.md) must pay using their own funds when [buying on margin](../b/buying_on_margin.md). It is set by the Federal Reserve Board's Regulation T in the United States, which currently requires an [investor](../i/investor.md) to [fund](../f/fund.md) at least 50% of the purchase price.
-   
+
 2. **[Maintenance Margin](../m/maintenance_margin.md) Requirement**: This is the minimum account [equity](../e/equity.md) that must be maintained on an ongoing [basis](../b/basis.md). It is a lower percentage compared to the [initial margin](../i/initial_margin.md) requirement, usually set at 25% by FINRA, though individual brokers can impose higher requirements.
 
 ## Margin Call
@@ -17,7 +17,7 @@ In the realm of trading, particularly in the context of brokerage accounts and [
 A [margin call](../m/margin_call.md) occurs when the [equity](../e/equity.md) in a [margin account](../m/margin_account.md) falls below the [maintenance margin](../m/maintenance_margin.md) requirement. To satisfy a [margin call](../m/margin_call.md), the [trader](../t/trader.md) must either [deposit](../d/deposit.md) additional funds or securities into the account, or sell existing securities to reduce the [loan](../l/loan.md) balance. There are generally two types of [margin](../m/margin.md) calls:
 
 1. **Regulatory [Margin Call](../m/margin_call.md)**: Triggered by the [exchange](../e/exchange.md) when the account [equity](../e/equity.md) falls below the legally required [maintenance margin](../m/maintenance_margin.md).
-   
+
 2. **House Call**: Issued by the brokerage [firm](../f/firm.md) itself, based on its own, often stricter, [margin](../m/margin.md) requirements.
 
 ## House Call: Detailed Examination
@@ -27,7 +27,7 @@ A house call is an internal [margin call](../m/margin_call.md) initiated by the 
 ### Reasons for House Calls
 
 - **Brokerage-Specific Policies**: Brokerages establish their own [margin](../m/margin.md) policies to mitigate risks. These policies may require clients to maintain higher [equity](../e/equity.md) levels in their accounts than the regulatory minimum.
-  
+
 - **[Market](../m/market.md) [Volatility](../v/volatility.md)**: During periods of high [market](../m/market.md) [volatility](../v/volatility.md), brokerages may enforce stricter [margin](../m/margin.md) requirements to protect themselves from rapid [market](../m/market.md) movements that could exacerbate losses.
 
 - **Client [Risk](../r/risk.md) Profile**: Accounts with higher-[risk](../r/risk.md) [trading strategies](../t/trading_strategies.md) or lower [creditworthiness](../c/creditworthiness.md) may be subject to tighter [margin](../m/margin.md) requirements, leading to more frequent house calls.
@@ -35,9 +35,9 @@ A house call is an internal [margin call](../m/margin_call.md) initiated by the 
 ### How House Calls Work
 
 1. **Determination**: The brokerage [firm](../f/firm.md)'s [risk management](../r/risk_management.md) team monitors account balances and assesses the [risk](../r/risk.md) exposure of [margin](../m/margin.md) accounts continuously.
-   
+
 2. **Threshold Breach**: If a client's account [equity](../e/equity.md) falls below the brokerage's internal [margin](../m/margin.md) requirement, a house call is triggered.
-   
+
 3. **Notification**: The brokerage [firm](../f/firm.md) notifies the client of the house call, typically through electronic communication methods, detailing the required actions to cover the [margin](../m/margin.md) deficiency.
 
 4. **Action Required**: The client must take immediate action to restore their account [equity](../e/equity.md) to the required level. This may involve depositing additional funds, transferring in securities, or liquidating existing positions to reduce the borrowed amount.
@@ -56,7 +56,7 @@ The [equity](../e/equity.md) percentage is:
 
 \[ \text{[Equity](../e/equity.md) Percentage} = \left( \frac{\text{[Equity](../e/equity.md)}}{\text{Current [Value](../v/value.md) of Securities}} \right) \times 100 = \left( \frac{\$20,000}{\$70,000} \right) \times 100 \approx 28.57\% \]
 
-Since the [equity](../e/equity.md) percentage (28.57%) is below the brokerage's house [maintenance margin](../m/maintenance_margin.md) requirement of 35%, a house call is triggered. The brokerage [firm](../f/firm.md) requires Alex to increase their [equity](../e/equity.md) percentage back to at least 35%. 
+Since the [equity](../e/equity.md) percentage (28.57%) is below the brokerage's house [maintenance margin](../m/maintenance_margin.md) requirement of 35%, a house call is triggered. The brokerage [firm](../f/firm.md) requires Alex to increase their [equity](../e/equity.md) percentage back to at least 35%.
 
 The required [equity](../e/equity.md) to meet the house call is:
 
@@ -85,10 +85,10 @@ Alternatively, Alex could reduce the [loan](../l/loan.md) amount by selling some
 
 Several well-known brokerage firms have their own house [margin call](../m/margin_call.md) policies. Some examples include:
 
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab Margin Handbook](https://www.schwab.com/legal/margin-handbook)
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade Margin Handbook](https://www.tdameritrade.com/investment-products/margin-trading.page)
-- **[Fidelity Investments](../f/fidelity_investments.md)**: [Fidelity Margin Handbook](https://www.fidelity.com/trading/margin-loans/margin-handbook)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers Margin Requirements](https://www.interactivebrokers.com/en/software/am/am/margin/margin_requirements.htm)
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab Margin Handbook
+- **TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade Margin Handbook
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity Margin Handbook
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers Margin Requirements
 
 Each of these firms provides detailed information about their [margin](../m/margin.md) requirements, including initial and maintenance margins, and the procedures followed when a house call is triggered.
 

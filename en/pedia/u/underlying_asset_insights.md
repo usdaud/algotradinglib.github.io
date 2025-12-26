@@ -22,7 +22,7 @@ Bonds are [debt](../d/debt.md) securities issued by governments or corporations.
 Commodities include physical goods like gold, oil, wheat, and natural gas. [Commodity futures](../c/commodity_futures.md) and [options](../o/options.md) are based on these [tangible assets](../t/tangible_asset.md). The prices of [commodity](../c/commodity.md) [derivatives](../d/derivatives.md) are influenced by [supply](../s/supply.md) and [demand](../d/demand.md) dynamics, [geopolitical events](../g/geopolitical_events.md), and economic factors.
 
 ### 4. **Currencies**
-Currencies serve as [underlying](../u/underlying.md) assets for forex [derivatives](../d/derivatives.md) like [currency](../c/currency.md) [futures](../f/futures.md) and [options](../o/options.md). These [derivatives](../d/derivatives.md) are used for hedging against forex [risk](../r/risk.md) or speculating on [currency](../c/currency.md) movements. 
+Currencies serve as [underlying](../u/underlying.md) assets for forex [derivatives](../d/derivatives.md) like [currency](../c/currency.md) [futures](../f/futures.md) and [options](../o/options.md). These [derivatives](../d/derivatives.md) are used for hedging against forex [risk](../r/risk.md) or speculating on [currency](../c/currency.md) movements.
 
 ### 5. **Indices**
 [Stock market](../s/stock_market.md) indices, such as the S&P 500 or the [NASDAQ](../n/nasdaq.md), are used as [underlying](../u/underlying.md) assets for [index futures](../i/index_futures.md) and [options](../o/options.md). These [derivatives](../d/derivatives.md) allow investors to [gain](../g/gain.md) exposure to the broader [market](../m/market.md) without buying all the constituent [stocks](../s/stock.md).
@@ -107,11 +107,11 @@ Example: A [corporation](../c/corporation.md) with variable-rate [debt](../d/deb
 
 Several key players provide platforms and tools for trading [derivatives](../d/derivatives.md) with [underlying](../u/underlying.md) assets. Here are a few notable companies:
 
-1. **CME Group**: [CME Group](https://www.cmegroup.com/) provides a global marketplace for [derivatives](../d/derivatives.md) trading, including [futures](../f/futures.md) and [options](../o/options.md) on a wide [range](../r/range.md) of [underlying](../u/underlying.md) assets.
-2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [ICE](https://www.theice.com/) offers trading and [clearing](../c/clearing.md) services for [commodity](../c/commodity.md) and financial [derivatives](../d/derivatives.md).
-3. **[NASDAQ](../n/nasdaq.md)**: [NASDAQ](https://www.nasdaq.com/) operates a leading global [exchange](../e/exchange.md) for trading [stocks](../s/stock.md), [options](../o/options.md), and other securities.
-4. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/) provides financial [software tools](../s/software_tools_for_trading.md), analytics, and data services for trading and [investing](../i/investing.md).
-5. **Goldman Sachs**: [Goldman Sachs](https://www.goldmansachs.com/) offers a wide array of financial services, including [derivatives](../d/derivatives.md) trading and [risk management](../r/risk_management.md) solutions.
+1. **CME Group**: CME Group provides a global marketplace for [derivatives](../d/derivatives.md) trading, including [futures](../f/futures.md) and [options](../o/options.md) on a wide [range](../r/range.md) of [underlying](../u/underlying.md) assets.
+2. **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE offers trading and [clearing](../c/clearing.md) services for [commodity](../c/commodity.md) and financial [derivatives](../d/derivatives.md).
+3. **[NASDAQ](../n/nasdaq.md)**: NASDAQ operates a leading global [exchange](../e/exchange.md) for trading [stocks](../s/stock.md), [options](../o/options.md), and other securities.
+4. **[Bloomberg](../b/bloomberg.md)**: Bloomberg provides financial [software tools](../s/software_tools_for_trading.md), analytics, and data services for trading and [investing](../i/investing.md).
+5. **Goldman Sachs**: Goldman Sachs offers a wide array of financial services, including [derivatives](../d/derivatives.md) trading and [risk management](../r/risk_management.md) solutions.
 
 ## Conclusion
 

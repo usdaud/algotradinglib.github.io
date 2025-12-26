@@ -60,13 +60,13 @@ Investors with international [holdings](../h/holdings.md) might engage in [curre
 
 ## Companies Specializing in Hedging Solutions
 ### AQR Capital Management
-[AQR Capital Management](https://www.aqr.com/) offers a variety of [hedge](../h/hedge.md) funds and [risk management](../r/risk_management.md) tools specializing in [quantitative investment strategies](../q/quantitative_investment_strategies.md).
+AQR Capital Management offers a variety of [hedge](../h/hedge.md) funds and [risk management](../r/risk_management.md) tools specializing in [quantitative investment strategies](../q/quantitative_investment_strategies.md).
 
 ### BlackRock
-[BlackRock](https://www.blackrock.com/) provides extensive [risk management](../r/risk_management.md) solutions along with its [investment management](../i/investment_management.md) services.
+BlackRock provides extensive [risk management](../r/risk_management.md) solutions along with its [investment management](../i/investment_management.md) services.
 
 ### CME Group
-[CME Group](https://www.cmegroup.com/) is a major global [derivatives](../d/derivatives.md) marketplace that offers [futures](../f/futures.md) and [options](../o/options.md) contracts for hedging purposes.
+CME Group is a major global [derivatives](../d/derivatives.md) marketplace that offers [futures](../f/futures.md) and [options](../o/options.md) contracts for hedging purposes.
 
 ## Conclusion
 Hedging portfolio [risk](../r/risk.md) is an essential component of [robust](../r/robust.md) [investment management](../i/investment_management.md). By employing various [hedging strategies](../h/hedging_strategies.md) and utilizing financial instruments effectively, investors can manage and mitigate the risks that come with [market](../m/market.md) [volatility](../v/volatility.md) and [uncertainty](../u/uncertainty_in_trading.md). While hedging may reduce potential [upside](../u/upside.md), its primary goal of protecting against significant losses makes it an indispensable tool in maintaining the longevity and stability of investment portfolios.

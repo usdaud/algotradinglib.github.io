@@ -43,7 +43,7 @@ The practice of gunning for stops sits in a grey area, as it skirts the line bet
 Retail traders, often the targets of gunning for stops, can suffer significant losses due to the sudden and seemingly unwarranted movements in prices. This practice can:
 
 1. **Erode Confidence**: Unexplained [volatility](../v/volatility.md) can erode confidence in the fairness and stability of markets.
-  
+
 2. **Increase [Volatility](../v/volatility.md)**: Consistent stop gunning can lead to heightened [volatility](../v/volatility.md), affecting the overall [market](../m/market.md) stability.
 
 #### Mitigation Strategies
@@ -51,7 +51,7 @@ Retail traders, often the targets of gunning for stops, can suffer significant l
 Traders, especially retail participants, can employ several tactics to mitigate the risks posed by gunning for stops:
 
 1. **Wider Stops**: Placing [stop-loss orders](../s/stop-loss_orders.md) further away from current price levels reduces the likelihood of being caught in a stop run.
-  
+
 2. **Mental Stops**: Instead of automated [stop-loss orders](../s/stop-loss_orders.md), traders can use mental stops where they manually execute trades, retaining control over the decision.
 
 3. **[Volume Analysis](../v/volume_analysis.md)**: Monitoring trading [volume](../v/volume.md) can help identify unusual activity that might indicate gunning for stops, allowing traders to adjust their positions accordingly.

@@ -67,7 +67,7 @@ Employers sometimes use unilateral contracts in job recruitment and retention st
 Unilateral contracts play a significant role in various financial and commercial contexts. They [offer](../o/offer.md) flexibility as they involve binding [obligations](../o/obligation.md) only upon the completion of a specified act, allowing for a [range](../r/range.md) of creative and strategic uses in trading, [marketing](../m/marketing.md), and contractual agreements. Understanding the characteristics, legal implications, and practical applications of unilateral contracts enables businesses and individuals to effectively use and navigate these agreements within the financial landscape.
 
 For more details on specific applications or companies utilizing unilateral contracts in their [business models](../b/business_models.md), you can visit the following links:
-- [CME Group](https://www.cmegroup.com)
-- [NASDAQ](https://www.nasdaq.com)
+- CME Group
+- NASDAQ
 
 These resources [offer](../o/offer.md) comprehensive information on [options](../o/options.md) trading and other contract-based financial instruments, elucidating the principles of unilateral contracts in modern [finance](../f/finance.md).

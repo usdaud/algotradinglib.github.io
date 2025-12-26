@@ -55,19 +55,19 @@ Many [machine learning](../m/machine_learning.md) tasks involve [optimization](.
 ## Companies and Research Organizations
 
 ### IBM Quantum
-IBM Quantum is a leader in the field of [quantum computing](../q/quantum_computing_in_trading.md) and has made significant contributions to QML. IBM offers cloud-based access to quantum computers through the IBM Quantum Experience. More information can be found on their [website](https://www.ibm.com/quantum-computing/).
+IBM Quantum is a leader in the field of [quantum computing](../q/quantum_computing_in_trading.md) and has made significant contributions to QML. IBM offers cloud-based access to quantum computers through the IBM Quantum Experience.
 
 ### Google Quantum AI
-Google's Quantum AI lab focuses on developing quantum processors and algorithms. Google achieved a milestone with their Sycamore processor, demonstrating quantum supremacy. They are also working on QML applications. For more information, visit their [website](https://quantumai.google/).
+Google's Quantum AI lab focuses on developing quantum processors and algorithms. Google achieved a milestone with their Sycamore processor, demonstrating quantum supremacy. They are also working on QML applications.
 
 ### D-Wave Systems
-D-Wave Systems specializes in quantum annealing and offers quantum cloud services. They have been exploring quantum [machine learning](../m/machine_learning.md) applications and provide tools for developing QML algorithms. More information can be found on their [website](https://www.dwavesys.com/).
+D-Wave Systems specializes in quantum annealing and offers quantum cloud services. They have been exploring quantum [machine learning](../m/machine_learning.md) applications and provide tools for developing QML algorithms.
 
 ### Rigetti Computing
-Rigetti Computing builds quantum computers and offers hybrid classical-quantum cloud platforms. They are actively involved in QML research and development. For more information, visit their [website](https://www.rigetti.com/).
+Rigetti Computing builds quantum computers and offers hybrid classical-quantum cloud platforms. They are actively involved in QML research and development.
 
 ### Microsoft Quantum
-Microsoft Quantum focuses on developing scalable quantum systems and quantum development tools. They are also researching [quantum algorithms](../q/quantum_algorithms_in_trading.md) for [machine learning](../m/machine_learning.md). More information is available on their [website](https://www.microsoft.com/en-us/quantum/).
+Microsoft Quantum focuses on developing scalable quantum systems and quantum development tools. They are also researching [quantum algorithms](../q/quantum_algorithms_in_trading.md) for [machine learning](../m/machine_learning.md).
 
 ## Challenges and Future Directions
 
@@ -85,4 +85,3 @@ QML is inherently interdisciplinary, requiring expertise in quantum physics, com
 
 ## Conclusion
 Quantum [Machine Learning](../m/machine_learning.md) represents a transformative approach that combines the power of [quantum computing](../q/quantum_computing_in_trading.md) with the versatility of [machine learning](../m/machine_learning.md). While the field is still in its nascent stages, the potential benefits are enormous, including faster processing times and the ability to solve problems that are currently intractable. With ongoing advancements in quantum hardware, algorithms, and interdisciplinary collaboration, QML has the potential to revolutionize numerous industries and scientific fields.
-

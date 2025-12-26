@@ -35,20 +35,20 @@ This method uses a specified percentage of the accounts [receivable](../r/receiv
 The recording process involves two primary [journal](../j/journal.md) entries:
 
 1. **Estimation Recording**
-   - When estimating bad debts, companies [debit](../d/debit.md) [Bad Debt Expense](../b/bad_debt_expense.md) and [credit](../c/credit.md) Allowance for Doubtful Accounts.
-   - Example:
-     ```plaintext
-     [Debit](../d/debit.md): [Bad Debt Expense](../b/bad_debt_expense.md) $5,000
-     [Credit](../c/credit.md): Allowance for Doubtful Accounts $5,000
-     ```
+ - When estimating bad debts, companies [debit](../d/debit.md) [Bad Debt Expense](../b/bad_debt_expense.md) and [credit](../c/credit.md) Allowance for Doubtful Accounts.
+ - Example:
+ ```plaintext
+ [Debit](../d/debit.md): [Bad Debt Expense](../b/bad_debt_expense.md) $5,000
+ [Credit](../c/credit.md): Allowance for Doubtful Accounts $5,000
+ ```
 
 2. **Actual [Write-Off](../w/write-off.md)**
-   - When an account is determined to be uncollectible, the company debits Allowance for Doubtful Accounts and credits Accounts [Receivable](../r/receivable.md).
-   - Example:
-     ```plaintext
-     [Debit](../d/debit.md): Allowance for Doubtful Accounts $1,000
-     [Credit](../c/credit.md): Accounts [Receivable](../r/receivable.md) $1,000
-     ```
+ - When an account is determined to be uncollectible, the company debits Allowance for Doubtful Accounts and credits Accounts [Receivable](../r/receivable.md).
+ - Example:
+ ```plaintext
+ [Debit](../d/debit.md): Allowance for Doubtful Accounts $1,000
+ [Credit](../c/credit.md): Accounts [Receivable](../r/receivable.md) $1,000
+ ```
 
 ### Adjusting the Allowance
 
@@ -58,7 +58,7 @@ At the end of each [accounting](../a/accounting.md) period, companies reassess t
 
 Investors and analysts scrutinize the allowance for doubtful accounts to understand the quality of a company's [earnings](../e/earnings.md) and receivables management. A significant increase in the allowance might indicate worsening [credit](../c/credit.md) conditions or a more conservative [accounting](../a/accounting.md) approach. Conversely, a decrease might suggest improved collections or an aggressive [earnings management](../e/earnings_management.md) strategy.
 
-Companies like **Apple Inc.** (https://www.apple.com/) include detailed notes in their [financial statements](../f/financial_statements.md) explaining their policies and assumptions related to [bad debt](../b/bad_debt.md) reserves, [offering](../o/offering.md) [transparency](../t/transparency.md) and confidence to investors.
+Companies like **Apple Inc.** ( include detailed notes in their [financial statements](../f/financial_statements.md) explaining their policies and assumptions related to [bad debt](../b/bad_debt.md) reserves, [offering](../o/offering.md) [transparency](../t/transparency.md) and confidence to investors.
 
 ## Regulatory and Compliance Considerations
 

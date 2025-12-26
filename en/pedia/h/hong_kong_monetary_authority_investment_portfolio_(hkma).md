@@ -57,5 +57,3 @@ The returns generated from the Investment Portfolio can be used to support the d
 ## Conclusion
 
 The Hong Kong Monetary Authority Investment Portfolio is a vital component of HKMA's responsibilities in managing Hong Kong's monetary and financial stability. Through a diversified and prudently managed portfolio, HKMA seeks to achieve reasonable returns on reserves while mitigating risks. The [robust](../r/robust.md) investment strategies, transparent reporting, and commitment to financial stability ensure that the HKMA Investment Portfolio continues to support Hong Kong's economic and financial well-being.
-
-For more information on the Hong Kong Monetary Authority Investment Portfolio, you can visit the official HKMA website at [https://www.hkma.gov.hk/](https://www.hkma.gov.hk/).

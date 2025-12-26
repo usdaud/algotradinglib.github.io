@@ -16,7 +16,7 @@ In today's complex financial ecosystems, the invisible hand still functions thro
 
 ### Algorithmic Trading: A Modern Manifestation
 
-[Algorithmic trading](../a/accountability.md), or algo trading, involves the use of computer algorithms to execute trades at high speed and [volume](../v/volume.md), often without direct human intervention. These algorithms are designed to follow pre-set rules and instructions, exploiting [market](../m/market.md) conditions to maximize [profit](../p/profit.md) and minimize [risk](../r/risk.md).
+[Algorithmic trading](../a/algorithmic_trading.md), or algo trading, involves the use of computer algorithms to execute trades at high speed and [volume](../v/volume.md), often without direct human intervention. These algorithms are designed to follow pre-set rules and instructions, exploiting [market](../m/market.md) conditions to maximize [profit](../p/profit.md) and minimize [risk](../r/risk.md).
 
 The invisible hand in algo trading manifests through:
 
@@ -26,9 +26,9 @@ The invisible hand in algo trading manifests through:
 
 ### Companies Leading in Algorithmic Trading
 
-- **Two Sigma** ([link](https://www.twosigma.com)): Founded in 2001, Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses advanced [data science](../d/data_science_in_trading.md) and technology to drive investment strategies. Algorithms play a central role in their approach to trading.
-- **Citadel Securities** ([link](https://www.citadelsecurities.com)): Citadel Securities is a [market maker](../m/market_maker.md) that uses algo trading to provide [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md)’s technology-driven approach has made it one of the largest participants in global [financial markets](../f/financial_market.md).
-- **Virtu Financial** ([link](https://www.virtu.com)): Virtu Financial specializes in high-frequency trading and [market](../m/market.md) making, using complex algorithms to [trade](../t/trade.md) various financial instruments. The company claims a technological edge in maintaining high [liquidity](../l/liquidity.md) and minimal [spreads](../s/spreads.md).
+- **Two Sigma** (link): Founded in 2001, Two Sigma is a [hedge fund](../h/hedge_fund.md) that uses advanced [data science](../d/data_science_in_trading.md) and technology to drive investment strategies. Algorithms play a central role in their approach to trading.
+- **Citadel Securities** (link): Citadel Securities is a [market maker](../m/market_maker.md) that uses algo trading to provide [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes. The [firm](../f/firm.md)’s technology-driven approach has made it one of the largest participants in global [financial markets](../f/financial_market.md).
+- **Virtu Financial** (link): Virtu Financial specializes in high-frequency trading and [market](../m/market.md) making, using complex algorithms to [trade](../t/trade.md) various financial instruments. The company claims a technological edge in maintaining high [liquidity](../l/liquidity.md) and minimal [spreads](../s/spreads.md).
 
 ## Behavioral Economics and The Invisible Hand
 
@@ -49,14 +49,14 @@ While algo trading offers numerous benefits, it also presents several challenges
 
 ### Flash Crashes
 
-One notable downside of [algorithmic trading](../a/accountability.md) is the phenomenon of [flash crashes](../f/flash_crashes.md)—extremely rapid and deep [market](../m/market.md) plunges, followed by a quick recovery. These events can be triggered by [algorithmic trading](../a/accountability.md) errors or [feedback loops](../f/feedback_loops_in_trading.md). A famous example is the May 6, 2010, Flash Crash, where the Dow Jones Industrial Average plunged about 1,000 points in minutes.
+One notable downside of [algorithmic trading](../a/algorithmic_trading.md) is the phenomenon of [flash crashes](../f/flash_crashes.md)—extremely rapid and deep [market](../m/market.md) plunges, followed by a quick recovery. These events can be triggered by [algorithmic trading](../a/algorithmic_trading.md) errors or [feedback loops](../f/feedback_loops_in_trading.md). A famous example is the May 6, 2010, Flash Crash, where the Dow Jones Industrial Average plunged about 1,000 points in minutes.
 
 ### Regulatory Scrutiny
 
-Regulators are increasingly scrutinizing [algorithmic trading](../a/accountability.md) to protect [market](../m/market.md) integrity. They aim to ensure that algo trading practices do not lead to unfair advantages or systemic risks.
+Regulators are increasingly scrutinizing [algorithmic trading](../a/algorithmic_trading.md) to protect [market](../m/market.md) integrity. They aim to ensure that algo trading practices do not lead to unfair advantages or systemic risks.
 
 **Key Regulatory Bodies**:
-- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Imposes regulations for [algorithmic trading](../a/accountability.md) to ensure [transparency](../t/transparency.md) and prevent [market manipulation](../m/market_manipulation.md).
+- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: Imposes regulations for [algorithmic trading](../a/algorithmic_trading.md) to ensure [transparency](../t/transparency.md) and prevent [market manipulation](../m/market_manipulation.md).
 - **Financial Conduct Authority (FCA)**: The UK regulator monitors algo trading activities to maintain [market](../m/market.md) stability and integrity.
 
 ### Ethical Considerations
@@ -77,8 +77,8 @@ The integration of [artificial intelligence](../a/artificial_intelligence_in_tra
 
 ### Quantum Computing
 
-[Quantum computing](../q/quantum_computing_in_trading.md) promises unparalleled computational power, which can significantly enhance the speed and [efficiency](../e/efficiency.md) of [algorithmic trading](../a/accountability.md).
+[Quantum computing](../q/quantum_computing_in_trading.md) promises unparalleled computational power, which can significantly enhance the speed and [efficiency](../e/efficiency.md) of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Conclusion
 
-The invisible hand remains a powerful metaphor in understanding how markets self-regulate through decentralized decision-making. In the age of [algorithmic trading](../a/accountability.md), the invisible hand is further augmented by sophisticated technologies that drive [market efficiency](../m/market_efficiency.md), [price discovery](../p/price_discovery.md), and resource allocation. However, as algo trading continues to evolve, it is essential to address the associated challenges and ethical considerations to ensure fairness and stability in [financial markets](../f/financial_market.md).
+The invisible hand remains a powerful metaphor in understanding how markets self-regulate through decentralized decision-making. In the age of [algorithmic trading](../a/algorithmic_trading.md), the invisible hand is further augmented by sophisticated technologies that drive [market efficiency](../m/market_efficiency.md), [price discovery](../p/price_discovery.md), and resource allocation. However, as algo trading continues to evolve, it is essential to address the associated challenges and ethical considerations to ensure fairness and stability in [financial markets](../f/financial_market.md).

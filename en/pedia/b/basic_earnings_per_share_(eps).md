@@ -48,9 +48,9 @@ Thus, the Basic EPS is $1.60.
 
 Various companies [leverage](../l/leverage.md) EPS as a key performance [indicator](../i/indicator.md) in their financial reports. Here are a few examples:
 
-- **Apple Inc.**: [Apple IR](https://investor.apple.com)
-- **Microsoft Corp.**: [Microsoft IR](https://www.microsoft.com/en-us/investor)
-- **Amazon.com Inc.**: [Amazon IR](https://www.amazon.com/ir)
+- **Apple Inc.**: Apple IR
+- **Microsoft Corp.**: Microsoft IR
+- **Amazon.com Inc.**: Amazon IR
 
 These companies regularly publish their EPS in quarterly and annual financial reports, providing [transparency](../t/transparency.md) and aiding investors in making informed decisions.
 

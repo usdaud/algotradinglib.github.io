@@ -54,7 +54,7 @@ When it comes to investment accounts funded with after-tax contributions like br
 ## Taxes and After-Tax Contributions
 
 ### Capital Gains
-Investments in after-tax accounts require careful management of [capital gains tax](../c/capital_gains_tax.md). Long-term [capital](../c/capital.md) gains (for assets held longer than a year) are generally taxed at lower rates compared to short-term gains. 
+Investments in after-tax accounts require careful management of [capital gains tax](../c/capital_gains_tax.md). Long-term [capital](../c/capital.md) gains (for assets held longer than a year) are generally taxed at lower rates compared to short-term gains.
 
 ### Dividends
 Qualified dividends from investments held in after-tax accounts are taxed at the [capital](../c/capital.md) gains rates, which are lower than [ordinary income](../o/ordinary_income.md) tax rates. Non-qualified dividends, however, are taxed at your [ordinary income](../o/ordinary_income.md) [tax rate](../t/tax_rate.md).

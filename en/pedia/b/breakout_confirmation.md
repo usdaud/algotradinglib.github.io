@@ -100,10 +100,10 @@ Statistical models such as:
 
 Several platforms and tools assist in automated [breakout trading](../b/breakout_trading.md):
 
-- **MetaTrader**: (https://www.[metatrader4](../m/metatrader4.md).com/) A popular platform for creating and testing automated [trading strategies](../t/trading_strategies.md).
-- **[QuantConnect](../q/quantconnect.md)**: (https://www.[quantconnect](../q/quantconnect.md).com/) Provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to equities, [futures](../f/futures.md), forex, and crypto.
-- **[TradingView](../t/tradingview.md)**: (https://www.[tradingview](../t/tradingview.md).com/) Useful for charting and developing custom indicators and strategies.
-- **[Interactive Brokers](../i/interactive_brokers.md) API**: (https://www.interactivebrokers.com/) Allows integration with custom-built algorithms for trading.
+- **MetaTrader**: ( A popular platform for creating and testing automated [trading strategies](../t/trading_strategies.md).
+- **[StockSharp](../s/stocksharp.md)**: Provides an [algorithmic trading](../a/algorithmic_trading.md) platform with access to equities, [futures](../f/futures.md), forex, and crypto.
+- **[TradingView](../t/tradingview.md)**: ( Useful for charting and developing custom indicators and strategies.
+- **[Interactive Brokers](../i/interactive_brokers.md) API**: ( Allows integration with custom-built algorithms for trading.
 
 ## Risk Management
 
@@ -137,4 +137,4 @@ In 2017, [Bitcoin](../b/bitcoin.md) experienced [multiple](../m/multiple.md) [br
 
 ## Conclusion
 
-[Breakout](../b/breakout.md) confirmation is a nuanced aspect of trading that combines [technical analysis](../t/technical_analysis.md), [volume analysis](../v/volume_analysis.md), and often, algorithmic strategies. Traders who master [breakout](../b/breakout.md) confirmation can better predict [market](../m/market.md) movements and enhance their trading success. By integrating various tools and techniques, automating with algorithms, and applying rigorous [risk management](../r/risk_management.md), traders can navigate the complexities of [breakout trading](../b/breakout_trading.md) effectively.
+[Breakout](../b/breakout.md) confirmation is a nuanced aspect of trading that combines [technical analysis](../t/technical_analysis.md), [volume analysis](../v/volume_analysis.md), and often, algorithmic strategies. Traders who master [breakout](../b/breakout.md) confirmation can better predict [market](../m/market.md) movements and enhance their trading success. By integrating various tools and techniques, automating with algorithms, and applying rigorous [risk management](../r/risk_management.md), traders can navigate the complexities of [breakout trading](../b/breakout_trading.md) effectively.

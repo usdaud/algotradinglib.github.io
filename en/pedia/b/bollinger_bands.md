@@ -25,7 +25,7 @@ The formulae are given below:
 ### Identifying Overbought and Oversold Conditions
 
 - **[Overbought](../o/overbought.md) Condition**: When the price touches or exceeds the upper band, it is considered [overbought](../o/overbought.md). This signifies that the instrument may be overpriced and due for a [correction](../c/correction.md).
-  
+
 - **[Oversold](../o/oversold.md) Condition**: When the price touches or falls below the lower band, it is considered [oversold](../o/oversold.md). This indicates that the instrument may be underpriced and primed for an upward movement.
 
 ### Trend Following
@@ -90,4 +90,4 @@ Bollinger Bands serve as an essential tool in a [trader](../t/trader.md)'s arsen
 
 Traders can adapt the parameters of Bollinger Bands to fit different assets and [market](../m/market.md) conditions, making them a versatile instrument in various [financial markets](../f/financial_market.md). Whether used alone or in conjunction with other technical tools, Bollinger Bands remain a staple in [technical analysis](../t/technical_analysis.md), benefiting both novice and experienced traders.
 
-For more detailed information about Bollinger Bands, one can visit [Bollinger's official website](https://www.bollingerbands.com).
+For more detailed information about Bollinger Bands, one can

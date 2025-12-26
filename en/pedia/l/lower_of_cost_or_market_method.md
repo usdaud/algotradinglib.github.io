@@ -56,7 +56,7 @@ Under International Financial Reporting Standards (IFRS), a similar but slightly
 
 ## Application in Algotrading and Fintech
 
-In the context of [algorithmic trading](../a/accountability.md) (algotrading) and financial technology (fintech), accurate [inventory](../i/inventory.md) [valuation](../v/valuation.md) using methods like LCM is crucial for:
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading) and financial technology (fintech), accurate [inventory](../i/inventory.md) [valuation](../v/valuation.md) using methods like LCM is crucial for:
 
 ### Risk Management:
 

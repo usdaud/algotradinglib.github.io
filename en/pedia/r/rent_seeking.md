@@ -71,15 +71,15 @@ The financial bailouts during the 2008 [financial crisis](../f/financial_crisis.
 
 #### **PhRMA (Pharmaceutical Research and Manufacturers of America)**
 PhRMA is a lobbying organization representing pharmaceutical companies in the United States. The organization has been involved in extensive lobbying activities to influence drug [patent](../p/patent.md) laws and regulations.
-Website: [PhRMA](https://phrma.org/)
+online platform: PhRMA
 
 #### **Monsanto (now part of Bayer)**
-Monsanto, before its [merger](../m/merger.md) with Bayer, was often cited for its use of [patent](../p/patent.md) laws to maintain its [monopoly](../m/monopoly.md) on genetically modified seeds and related agricultural products. 
-Website: [Bayer](https://www.bayer.com/)
+Monsanto, before its [merger](../m/merger.md) with Bayer, was often cited for its use of [patent](../p/patent.md) laws to maintain its [monopoly](../m/monopoly.md) on genetically modified seeds and related agricultural products.
+online platform: Bayer
 
 #### **Goldman Sachs**
-During the 2008 [financial crisis](../f/financial_crisis.md), Goldman Sachs and several other major financial institutions were central figures in lobbying efforts for [bailout](../b/bailout.md) packages from the U.S. government. 
-Website: [Goldman Sachs](https://www.goldmansachs.com/)
+During the 2008 [financial crisis](../f/financial_crisis.md), Goldman Sachs and several other major financial institutions were central figures in lobbying efforts for [bailout](../b/bailout.md) packages from the U.S. government.
+online platform: Goldman Sachs
 
 ### Conclusion
 

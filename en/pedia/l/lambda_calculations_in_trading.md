@@ -14,9 +14,9 @@ The term "[lambda](../l/lambda.md)" originates from [lambda](../l/lambda.md) cal
 
 ### Notable Algo Trading Companies
 
-1. **DE Shaw & Co.**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its strong emphasis on quantitative and [algorithmic trading](../a/algorithmic_trading.md) strategies. [Website](https://www.deshaw.com/)
-2. **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive investment decisions. [Website](https://www.twosigma.com/)
-3. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which employs complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md) inefficiencies. [Website](https://www.rentec.com/)
+1. **DE Shaw & Co.**: A global [investment management](../i/investment_management.md) [firm](../f/firm.md) known for its strong emphasis on quantitative and [algorithmic trading](../a/algorithmic_trading.md)
+2. **Two Sigma Investments**: A [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md)
+3. **Renaissance Technologies**: Known for its Medallion [Fund](../f/fund.md), which employs complex [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md)
 
 ## Core Components of Lambda Calculations in Trading
 

@@ -9,9 +9,9 @@ An [index](../i/index_instrument.md) is a statistical measure that incorporates 
 ### Key Types of Indices
 
 1. **Broad [Market](../m/market.md) Indices**: These indices aim to represent the entire [market](../m/market.md) rather than a specific subset. Examples include the S&P 500, which represents large-cap U.S. [stocks](../s/stock.md), and the Russell 3000, which includes a broader [range](../r/range.md) of U.S. [stocks](../s/stock.md).
-   
+
 2. **[Sector Indices](../s/sector_indices.md)**: These indices focus on specific sectors or industries like technology, healthcare, or utilities. Examples include the [NASDAQ](../n/nasdaq.md)-100 [Technology Sector](../t/technology_sector.md) [Index](../i/index_instrument.md) and the S&P 500 Financials [Index](../i/index_instrument.md).
-   
+
 3. **Thematic Indices**: These focus on specific investment themes such as ESG (Environmental, Social, Governance), [blockchain](../b/blockchain_in_trading.md), or [artificial intelligence](../a/artificial_intelligence_in_trading.md). An example is the MSCI ACWI ESG Leaders [Index](../i/index_instrument.md).
 
 4. **Style Indices**: These indices separate [stocks](../s/stock.md) into categories like growth or [value](../v/value.md), based on specific stock characteristics. Examples are the Russell 1000 Growth [Index](../i/index_instrument.md) and the Russell 1000 [Value](../v/value.md) [Index](../i/index_instrument.md).
@@ -116,11 +116,11 @@ Investment managers frequently use indices as benchmarks to measure the performa
 ETFs, mutual funds, and [index](../i/index_instrument.md) funds often aim to replicate the performance of an [index](../i/index_instrument.md). Examples include the SPDR S&P 500 ETF (tracking the S&P 500) and the [iShares](../i/ishares.md) MSCI Emerging Markets ETF (tracking the MSCI Emerging Markets [Index](../i/index_instrument.md)).
 
 Links to some major companies utilizing indices:
-- [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/)
-- [FTSE Russell](https://www.ftserussell.com/)
-- [MSCI](https://www.msci.com/)
-- [Bloomberg Indices](https://www.bloomberg.com/professional/product/indices/)
-- [NASDAQ Global Indexes](https://indexes.nasdaqomx.com/)
+- S&P Dow Jones Indices
+- FTSE Russell
+- MSCI
+- Bloomberg Indices
+- NASDAQ Global Indexes
 
 ### Derivatives and Structured Products
 

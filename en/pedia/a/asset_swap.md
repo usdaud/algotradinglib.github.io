@@ -11,10 +11,10 @@ An [asset](../a/asset.md) [swap](../s/swap.md) is a financial [derivative](../d/
 ### 2. Components of a Typical Asset Swap
 - **[Underlying Asset](../u/underlying_asset.md)**: Often a [bond](../b/bond.md) or other financial [security](../s/security.md).
 - **Fixed [Leg](../l/leg.md)**: Typically consists of fixed [interest](../i/interest.md) payments derived from the [bond](../b/bond.md)'s coupon.
-- **Floating [Leg](../l/leg.md)**: Usually pegged to a [market](../m/market.md) [reference rate](../r/reference_rate.md) like LIBOR.
+- **Floating [Leg](../l/leg.md)**: Usually pegged to a [market](../m/market.md) [reference rate](../r/reference_rate.md) like SOFR (which replaced LIBOR in June 2023).
 
 ### 3. Pricing Structure
-Pricing an [asset](../a/asset.md) [swap](../s/swap.md) involves considering the [value](../v/value.md) of both the [bond](../b/bond.md) and the [swap](../s/swap.md) component. 
+Pricing an [asset](../a/asset.md) [swap](../s/swap.md) involves considering the [value](../v/value.md) of both the [bond](../b/bond.md) and the [swap](../s/swap.md) component.
 
 ## Motivations for Asset Swaps
 
@@ -30,7 +30,7 @@ Financial institutions might use [asset](../a/asset.md) swaps as a tool to compl
 ## Types of Asset Swaps
 
 ### 1. Par Asset Swap
-In a par [asset](../a/asset.md) [swap](../s/swap.md), the [bond](../b/bond.md) is swapped at its [nominal value](../n/nominal_value.md). The vanilla structure involves the buyer paying a fixed rate (equal to the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md)) and receiving a floating rate indexed to a [benchmark](../b/benchmark.md) like Libor.
+In a par [asset](../a/asset.md) [swap](../s/swap.md), the [bond](../b/bond.md) is swapped at its [nominal value](../n/nominal_value.md). The vanilla structure involves the buyer paying a fixed rate (equal to the [bond](../b/bond.md)'s [coupon rate](../c/coupon_rate.md)) and receiving a floating rate indexed to a [benchmark](../b/benchmark.md) like SOFR.
 
 ### 2. Market Asset Swap
 In a [market](../m/market.md) [asset](../a/asset.md) [swap](../s/swap.md), the [bond](../b/bond.md) is traded at its current [market value](../m/market_value.md). This helps reflect the real [market](../m/market.md) prices in the [cash flow](../c/cash_flow.md) [exchange](../e/exchange.md), and the [swap](../s/swap.md) is designed accordingly.
@@ -51,21 +51,18 @@ Corporations and banks might use [asset](../a/asset.md) swaps to align their [de
 
 ## Example
 
-Suppose Company A holds a fixed-rate [bond](../b/bond.md) and expects [interest](../i/interest.md) rates to rise. It can enter into an [asset](../a/asset.md) [swap](../s/swap.md) agreement to receive fixed [interest](../i/interest.md) payments while paying floating [interest](../i/interest.md) rates pegged to LIBOR. This allows Company A to benefit if LIBOR rates increase, enhancing their overall [yield](../y/yield.md).
+Suppose Company A holds a fixed-rate [bond](../b/bond.md) and expects [interest](../i/interest.md) rates to rise. It can enter into an [asset](../a/asset.md) [swap](../s/swap.md) agreement to receive fixed [interest](../i/interest.md) payments while paying floating [interest](../i/interest.md) rates pegged to SOFR. This allows Company A to benefit if SOFR rates increase, enhancing their overall [yield](../y/yield.md).
 
 ## Major Players and Platforms
 
-### Markit (IHS Markit)
-A major provider of information, analytics, and solutions for the [financial markets](../f/financial_market.md). Their platform includes comprehensive [swap](../s/swap.md) data services, facilitating seamless [execution](../e/execution.md) and management of [asset](../a/asset.md) swaps.
-[Markit Website](https://ihsmarkit.com)
+### S&P Global Market Intelligence (formerly IHS Markit)
+A major provider of information, analytics, and solutions for the [financial markets](../f/financial_market.md). IHS Markit merged with S&P Global in February 2022. Their platform includes comprehensive [swap](../s/swap.md) data services, facilitating seamless [execution](../e/execution.md) and management of [asset](../a/asset.md) swaps.
 
 ### Bloomberg L.P.
 Offers extensive tools and analytics for [asset](../a/asset.md) swaps. The [Bloomberg Terminal](../b/bloomberg_terminal.md) provides users with real-time data and the capability to construct and [value](../v/value.md) [asset](../a/asset.md) swaps.
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Tradeweb
 A leading global marketplace for electronic trading in various financial instruments, including [asset](../a/asset.md) swaps. Their platform supports efficient [trade](../t/trade.md) [execution](../e/execution.md) and management for institutional investors.
-[Tradeweb Website](https://www.tradeweb.com)
 
 ## Conclusion
 

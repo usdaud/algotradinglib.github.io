@@ -55,5 +55,3 @@ CoinGecko ensures the [security](../s/security.md) and integrity of its platform
 - **Data Accuracy**: Implementing rigorous data collection and validation processes to ensure the accuracy of the information provided.
 - **Privacy Protection**: Safeguarding user data and ensuring compliance with relevant data protection regulations.
 
-## Website
-For more information about CoinGecko and their services, visit the official website: [CoinGecko](https://www.coingecko.com/)

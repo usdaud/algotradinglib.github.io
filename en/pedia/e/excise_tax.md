@@ -61,13 +61,13 @@ High excise [taxes](../t/taxes.md) can lead to [market](../m/market.md) distorti
 ## International Comparisons
 
 ### United States
-In the United States, excise [taxes](../t/taxes.md) are a critical component of federal and state [revenue](../r/revenue.md) streams. The IRS (Internal [Revenue](../r/revenue.md) Service) and the TTB oversee the collection and enforcement of these [taxes](../t/taxes.md). More details can be found on their official website [TTB](https://www.ttb.gov).
+In the United States, excise [taxes](../t/taxes.md) are a critical component of federal and state [revenue](../r/revenue.md) streams. The IRS (Internal [Revenue](../r/revenue.md) Service) and the TTB oversee the collection and enforcement of these [taxes](../t/taxes.md). More
 
 ### European Union
-The [European Union](../e/european_union_(eu).md) has a harmonized system of excise [taxation](../t/taxation.md) on alcohol, tobacco, and energy products. The goal is to ensure a level playing field within the internal [market](../m/market.md). The European [Commission](../c/commission.md)'s Directorate-General for [Taxation](../t/taxation.md) and Customs Union manages these [taxes](../t/taxes.md). For more details, visit [European Commission - Taxation](https://ec.europa.eu/taxation_customs).
+The [European Union](../e/european_union_(eu).md) has a harmonized system of excise [taxation](../t/taxation.md) on alcohol, tobacco, and energy products. The goal is to ensure a level playing field within the internal [market](../m/market.md). The European [Commission](../c/commission.md)'s Directorate-General for [Taxation](../t/taxation.md) and Customs Union manages these [taxes](../t/taxes.md). For more details, visit European Commission - Taxation.
 
 ### Australia
-In Australia, excise [taxes](../t/taxes.md) on alcohol, tobacco, and fuel are significant [revenue](../r/revenue.md) sources. The Australian [Taxation](../t/taxation.md) Office (ATO) administers these [taxes](../t/taxes.md). More information is available on their official website [ATO](https://www.ato.gov.au).
+In Australia, excise [taxes](../t/taxes.md) on alcohol, tobacco, and fuel are significant [revenue](../r/revenue.md) sources. The Australian [Taxation](../t/taxation.md) Office (ATO) administers these [taxes](../t/taxes.md).
 
 ## Policy Considerations and Reforms
 

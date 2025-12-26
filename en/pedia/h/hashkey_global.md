@@ -4,7 +4,7 @@
 
 HashKey Global is a leading digital [asset management](../a/asset_management.md) and [blockchain](../b/blockchain_in_trading.md) solutions provider committed to delivering high-quality services for institutional and retail clients. HashKey Group offers a comprehensive suite of products and services that span across various [blockchain](../b/blockchain_in_trading.md) verticals, including [asset management](../a/asset_management.md), trading, [custodian](../c/custodian.md) services, and [blockchain](../b/blockchain_in_trading.md) [infrastructure](../i/infrastructure.md) development. This holistic approach positions HashKey as a pivotal player in the rapidly evolving digital [economy](../e/economy.md).
 
-**[Visit HashKey Global](https://www.hashkey.com/)**
+**Visit HashKey Global**
 
 ## Digital Asset Management
 
@@ -27,7 +27,7 @@ HashKey's trading solutions are designed to accommodate a broad array of [tradin
 HashKey offers a [robust](../r/robust.md) OTC [trading desk](../t/trading_desk.md) that provides high [liquidity](../l/liquidity.md) and competitive pricing for large trades. The desk is equipped to [handle](../h/handle.md) transactions in a wide [range](../r/range.md) of digital assets, ensuring seamless [execution](../e/execution.md) and settlement.
 
 ### Automated Trading Platforms
-HashKey provides access to advanced trading platforms equipped with a [range](../r/range.md) of automated trading tools. These platforms [offer](../o/offer.md) features such as [algorithmic trading](../a/accountability.md), high-frequency trading (HFT) capabilities, and sophisticated [risk management](../r/risk_management.md) tools.
+HashKey provides access to advanced trading platforms equipped with a [range](../r/range.md) of automated trading tools. These platforms [offer](../o/offer.md) features such as [algorithmic trading](../a/algorithmic_trading.md), high-frequency trading (HFT) capabilities, and sophisticated [risk management](../r/risk_management.md) tools.
 
 ### Market Making
 HashKey acts as a [market maker](../m/market_maker.md), providing [liquidity](../l/liquidity.md) to various trading pairs and helping to stabilize markets. Their [market](../m/market.md) making services facilitate tighter [spreads](../s/spreads.md) and enhanced trading [efficiency](../e/efficiency.md).
@@ -86,4 +86,4 @@ HashKey is actively involved in the [blockchain](../b/blockchain_in_trading.md) 
 
 ## Conclusion
 
-HashKey Global is a comprehensive digital [asset management](../a/asset_management.md) and [blockchain](../b/blockchain_in_trading.md) solutions provider, [offering](../o/offering.md) a wide [range](../r/range.md) of products and services that cater to both institutional and retail clients. Through their dedication to innovation, [security](../s/security.md), and regulatory compliance, HashKey is playing a pivotal role in shaping the future of the digital [economy](../e/economy.md). For more information about HashKey Global and their offerings, visit their [official website](https://www.hashkey.com/).
+HashKey Global is a comprehensive digital [asset management](../a/asset_management.md) and [blockchain](../b/blockchain_in_trading.md) solutions provider, [offering](../o/offering.md) a wide [range](../r/range.md) of products and services that cater to both institutional and retail clients. Through their dedication to innovation, [security](../s/security.md), and regulatory compliance, HashKey is playing a pivotal role in shaping the future of the digital [economy](../e/economy.md).

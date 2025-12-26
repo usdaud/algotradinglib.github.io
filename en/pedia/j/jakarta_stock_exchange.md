@@ -43,7 +43,7 @@ The Jakarta Stock [Exchange](../e/exchange.md) utilizes a sophisticated trading 
 
 ### Automated Trading System (ATS)
 
-The ATS introduced in 1995 laid the foundation for [algorithmic trading](../a/accountability.md) by enabling electronic [order](../o/order.md) matching and [execution](../e/execution.md). The features include:
+The ATS introduced in 1995 laid the foundation for [algorithmic trading](../a/algorithmic_trading.md) by enabling electronic [order](../o/order.md) matching and [execution](../e/execution.md). The features include:
 
 - **[Order](../o/order.md) Matching:** Orders are matched based on price and time priority, ensuring fair and efficient [trade](../t/trade.md) [execution](../e/execution.md).
 - **Continuous [Trading Session](../t/trading_session.md):** The [trading session](../t/trading_session.md) is divided into pre-opening, regular trading, and pre-closing phases, facilitating continuous [price discovery](../p/price_discovery.md) and [liquidity](../l/liquidity.md).
@@ -73,14 +73,14 @@ The JCI, or IDX Composite, is the [benchmark](../b/benchmark.md) [index](../i/in
 
 ### LQ45 Index
 
-The LQ45 [Index](../i/index_instrument.md) comprises the top 45 most [liquid](../l/liquid.md) and fundamentally strong [stocks](../s/stock.md). It serves as a vital tool for [algorithmic trading](../a/accountability.md) due to its attributes:
+The LQ45 [Index](../i/index_instrument.md) comprises the top 45 most [liquid](../l/liquid.md) and fundamentally strong [stocks](../s/stock.md). It serves as a vital tool for [algorithmic trading](../a/algorithmic_trading.md) due to its attributes:
 
 - **[Liquidity](../l/liquidity.md):** High [liquidity](../l/liquidity.md) ensures seamless [trade](../t/trade.md) [execution](../e/execution.md) for algorithmic strategies.
 - **[Volatility](../v/volatility.md):** Intraday price movements [offer](../o/offer.md) opportunities for [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md).
 
 ## Role of JSX in Algotrading
 
-The Jakarta Stock [Exchange](../e/exchange.md), through its advanced [trading systems](../t/trading_systems.md), regulatory framework, and diverse [market](../m/market.md) instruments, plays a pivotal role in the realm of [algorithmic trading](../a/accountability.md). Key aspects include:
+The Jakarta Stock [Exchange](../e/exchange.md), through its advanced [trading systems](../t/trading_systems.md), regulatory framework, and diverse [market](../m/market.md) instruments, plays a pivotal role in the realm of [algorithmic trading](../a/algorithmic_trading.md). Key aspects include:
 
 ### Technological Infrastructure
 
@@ -98,9 +98,9 @@ Regulatory bodies like OJK and BEI [offer](../o/offer.md) a [robust](../r/robust
 
 ### Educational and Research Initiatives
 
-IDX fosters [algorithmic trading](../a/accountability.md) through various educational and research initiatives such as:
+IDX fosters [algorithmic trading](../a/algorithmic_trading.md) through various educational and research initiatives such as:
 
-- **Workshops and Seminars:** Conducting sessions to educate [market](../m/market.md) participants on [algorithmic trading](../a/accountability.md) methodologies and [best practices](../b/best_practices.md).
+- **Workshops and Seminars:** Conducting sessions to educate [market](../m/market.md) participants on [algorithmic trading](../a/algorithmic_trading.md) methodologies and [best practices](../b/best_practices.md).
 - **Collaborations with Universities:** Partnering with academic institutions to promote research in [financial engineering](../f/financial_engineering.md) and algorithm development.
 
 ### Institutional Participation
@@ -112,6 +112,6 @@ The participation of institutional investors employing sophisticated algorithmic
 
 ## Conclusion
 
-The Jakarta Stock [Exchange](../e/exchange.md), now operating as the Indonesia Stock [Exchange](../e/exchange.md), has evolved into a dynamic and sophisticated marketplace, pivotal for both conventional and [algorithmic trading](../a/accountability.md). Its historical progression, structural framework, regulatory oversight, and advanced technological [infrastructure](../i/infrastructure.md) collectively foster an environment conducive to efficient and transparent trading. By embracing innovation and maintaining stringent regulatory standards, IDX continues to play a significant role in shaping the future of algotrading in Indonesia and beyond.
+The Jakarta Stock [Exchange](../e/exchange.md), now operating as the Indonesia Stock [Exchange](../e/exchange.md), has evolved into a dynamic and sophisticated marketplace, pivotal for both conventional and [algorithmic trading](../a/algorithmic_trading.md). Its historical progression, structural framework, regulatory oversight, and advanced technological [infrastructure](../i/infrastructure.md) collectively foster an environment conducive to efficient and transparent trading. By embracing innovation and maintaining stringent regulatory standards, IDX continues to play a significant role in shaping the future of algotrading in Indonesia and beyond.
 
-For more information on the Indonesia Stock [Exchange](../e/exchange.md), visit their [official website](https://www.idx.co.id).
+For more information on the Indonesia Stock [Exchange](../e/exchange.md),

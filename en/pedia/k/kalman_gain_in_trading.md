@@ -4,7 +4,7 @@
 The [Kalman Filter](../k/kalman_filter_in_trading.md) is an algorithm that uses a series of measurements observed over time, containing statistical [noise](../n/noise.md) and other inaccuracies, and produces estimates of unknown variables that tend to be more accurate than those based on a single measurement alone. The algorithm works in a two-step process: **predict** and **update**.
 
 ## Kalman Gain
-Kalman [Gain](../g/gain.md), a fundamental part of the [Kalman Filter](../k/kalman_filter_in_trading.md) algorithm, helps in adjusting the weights of the predicted and observed values. The Kalman [Gain](../g/gain.md) determines how much of the new measurement should be incorporated into the updated estimate. Essentially, it balances the [trust](../t/trust.md) between predicted values and measured values. 
+Kalman [Gain](../g/gain.md), a fundamental part of the [Kalman Filter](../k/kalman_filter_in_trading.md) algorithm, helps in adjusting the weights of the predicted and observed values. The Kalman [Gain](../g/gain.md) determines how much of the new measurement should be incorporated into the updated estimate. Essentially, it balances the [trust](../t/trust.md) between predicted values and measured values.
 
 The formula for Kalman [Gain](../g/gain.md) \( K_t \) is:
 \[ K_t = \frac{P_{t|t-1} H_t^T}{H_t P_{t|t-1} H_t^T + R_t} \]
@@ -41,8 +41,8 @@ process_noise = 0.1
 measurement_noise = 0.1
 
 # Define prediction and measurement matrices
-A = 1  # Transition matrix
-H = 1  # Measurement matrix
+A = 1 # Transition matrix
+H = 1 # Measurement matrix
 
 # Function for Kalman Filter
 

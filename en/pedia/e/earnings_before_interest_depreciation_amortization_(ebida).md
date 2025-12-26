@@ -44,9 +44,9 @@ EBIDA is a valuable metric in [financial analysis](../f/financial_analysis.md) f
 EBIDA is often compared with other financial metrics to [gain](../g/gain.md) a comprehensive understanding of a company's performance. Some common comparisons include:
 
 1. **EBITDA**: [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization is similar to EBIDA but includes [taxes](../t/taxes.md). EBITDA provides a broader view of profitability by incorporating tax impacts.
-   
+
 2. **EBIT**: [Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) excludes [depreciation](../d/depreciation.md) and amortization but includes tax expenses. EBIT focuses on operational performance but still considers tax impacts.
-   
+
 3. **Net [Income](../i/income.md)**: Net [income](../i/income.md) is the bottom-line [profit](../p/profit.md) after [accounting](../a/accounting.md) for all expenses, including [interest](../i/interest.md), [depreciation](../d/depreciation.md), amortization, and [taxes](../t/taxes.md). While net [income](../i/income.md) gives a complete picture of profitability, it can be influenced by non-operational factors.
 
 ## Advantages of EBIDA
@@ -97,8 +97,7 @@ Some companies may choose to report EBIDA in their financial disclosures to prov
 - **Acme Inc.**: Uses EBIDA in its quarterly [investor](../i/investor.md) presentations to emphasize operational [cash flow](../c/cash_flow.md) generation, particularly in sectors with significant non-cash charges.
 - **Tech Solutions Ltd.**: Reports EBIDA in its [annual report](../a/annual_report.md) to showcase profitability from core operations without the impact of its [debt](../d/debt.md)-[financing](../f/financing.md) strategy.
 
-For more information on how companies use EBIDA in their financial disclosures, you can refer to their [investor relations](../i/investor_relations.md) pages or [financial statements](../f/financial_statements.md): 
-- [Acme Inc. Investor Relations](https://www.acmeinc.com/investors)
-- [Tech Solutions Ltd. Financial Reports](https://www.techsolutions.com/financials)
+./i/investor_relations.md) pages or [financial statements](../f/financial_statements.md):
+- Tech Solutions Ltd. Financial Reports
 
 In conclusion, EBIDA is a valuable financial metric that provides a clear picture of a company's operational performance by excluding the effects of [interest](../i/interest.md), [depreciation](../d/depreciation.md), and amortization. While it has its advantages and disadvantages, EBIDA plays a crucial role in [financial analysis](../f/financial_analysis.md), enabling investors, analysts, and other stakeholders to make informed decisions based on a company's core [business](../b/business.md) performance.

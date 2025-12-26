@@ -77,7 +77,7 @@ HFT involves executing a large number of orders at extremely high speeds. It rel
 
 Data science assists in [risk management](../r/risk_management.md) by quantifying and analyzing the potential risks in [trading strategies](../t/trading_strategies.md). [Predictive models](../p/predictive_models_in_trading.md) can forecast adverse [market](../m/market.md) conditions, allowing traders to take preemptive measures. Techniques like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and Monte Carlo simulations are common in [risk](../r/risk.md) assessment.
 
-### Portfolio Management 
+### Portfolio Management
 
 Advanced [data analytics](../d/data_analytics.md) optimize [portfolio management](../p/portfolio_management.md) by balancing [risk](../r/risk.md) and [return](../r/return.md). [Machine learning](../m/machine_learning.md) models can identify the best [asset allocation](../a/asset_allocation.md), rebalance portfolios in response to [market](../m/market.md) changes, and assess the performance of investment strategies.
 
@@ -119,6 +119,6 @@ Data science has profoundly impacted trading, bringing advancements in [efficien
 
 For more information on companies specializing in data science for trading, refer to their official websites:
 
-- [Numerai](https://numer.ai/): A [hedge fund](../h/hedge_fund.md) that crowdsources data science and [machine learning](../m/machine_learning.md) to create [stock market](../s/stock_market.md) predictions.
-- [Kensho Technologies](https://www.kensho.com/): Develops [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
-- [QuantConnect](https://www.quantconnect.com/): An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and [cloud computing](../c/cloud_computing_in_trading.md).
+- Numerai: A [hedge fund](../h/hedge_fund.md) that crowdsources data science and [machine learning](../m/machine_learning.md) to create [stock market](../s/stock_market.md) predictions.
+- Kensho Technologies: Develops [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) solutions for [financial markets](../f/financial_market.md).
+- QuantConnect: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that integrates data science and [cloud computing](../c/cloud_computing_in_trading.md).

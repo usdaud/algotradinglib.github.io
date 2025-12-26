@@ -9,16 +9,16 @@ A payee is defined as the party to whom [money](../m/money.md) is paid or is to 
 
 ### Common Scenarios
 1. **Personal Transactions:**
-   - **Examples:** Paying for goods at a retail store, settling a dinner bill, transferring rent payments, etc.
-   - **Impact:** Provides accountability and ensures that there is a traceable record of [payment](../p/payment.md).
-  
+ - **Examples:** Paying for goods at a retail store, settling a dinner bill, transferring rent payments, etc.
+ - **Impact:** Provides accountability and ensures that there is a traceable record of [payment](../p/payment.md).
+
 2. **Corporate Transactions:**
-   - **Examples:** Paying vendors for supplies, disbursing salaries to employees, compensating contractors, etc.
-   - **Impact:** Ensures compliance with financial regulations and accurate bookkeeping.
+ - **Examples:** Paying vendors for supplies, disbursing salaries to employees, compensating contractors, etc.
+ - **Impact:** Ensures compliance with financial regulations and accurate bookkeeping.
 
 3. **Stock and Investment Transactions:**
-   - **Examples:** Receiving dividends from stock investments, [interest](../i/interest.md) payouts from bonds, distributions from mutual funds, etc.
-   - **Impact:** Enhances [investor](../i/investor.md) confidence and promotes efficient [capital markets](../c/capital_markets.md).
+ - **Examples:** Receiving dividends from stock investments, [interest](../i/interest.md) payouts from bonds, distributions from mutual funds, etc.
+ - **Impact:** Enhances [investor](../i/investor.md) confidence and promotes efficient [capital markets](../c/capital_markets.md).
 
 ## Payee in Electronic and Automated Transfers
 
@@ -62,7 +62,7 @@ AML regulations aim to prevent practices related to [money laundering](../m/mone
 ## Payee Mechanism in Trading and Fintech
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md) (algo-trading), where trades are executed via complex algorithms, the concept of the payee remains integral. It involves the automated transfer of funds resulting from trades, dividends, or profits to the respective payee's account.
+In [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), where trades are executed via complex algorithms, the concept of the payee remains integral. It involves the automated transfer of funds resulting from trades, dividends, or profits to the respective payee's account.
 
 **Example:**
 A trading algorithm executing high-frequency trades (HFT) may generate various profits throughout the trading day. The settlement system ensures these profits are credited to the identified payee, often a [brokerage account](../b/brokerage_account.md) or an [investor](../i/investor.md)'s designated account.
@@ -71,18 +71,13 @@ A trading algorithm executing high-frequency trades (HFT) may generate various p
 [Payment](../p/payment.md) gateways facilitate many ecommerce transactions, ensuring the proceeds are directed to the rightful payee, which could be an online store or an independent seller. These gateways integrate seamlessly with shopping carts, processing payments while protecting sensitive information.
 
 **Notable [Payment](../p/payment.md) Gateways:**
-- Stripe (https://stripe.com)
-- Square (https://squareup.com)
-- [PayPal](../p/paypal.md) (https://www.[paypal](../p/paypal.md).com)
+- Stripe - Square - [PayPal](../p/paypal.md) (
 
 ### Decentralized Finance (DeFi)
 In decentralized [finance](../f/finance.md), [smart contracts](../s/smart_contracts_in_trading.md) on the [blockchain](../b/blockchain_in_trading.md) autonomously enforce and execute the terms of financial agreements. Payees in DeFi are predetermined by the contract, ensuring automated [disbursement](../d/disbursement.md) of funds.
 
 **Examples of DeFi Platforms:**
-- Uniswap (https://uniswap.org)
-- Compound (https://compound.[finance](../f/finance.md))
-- Aave (https://aave.com)
-
+- Uniswap - Compound - Aave
 ## Challenges and Considerations for Payees
 
 ### Fraud and Security Concerns

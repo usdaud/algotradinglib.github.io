@@ -40,7 +40,7 @@ The [Eurocurrency](../e/eurocurrency.md) [market](../m/market.md) offers a varie
 ### Interest Rate Determination
 
 [Interest](../i/interest.md) rates in the [Eurocurrency](../e/eurocurrency.md) [market](../m/market.md) are primarily influenced by the [supply](../s/supply.md) and [demand](../d/demand.md) for different currencies. Major benchmarks include:
-- **LIBOR (London Interbank Offered Rate)**: Traditionally served as a prominent [reference rate](../r/reference_rate.md) for [Eurocurrency](../e/eurocurrency.md) loans, though it is currently being phased out in favor of alternatives like SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
+- **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: The primary [reference rate](../r/reference_rate.md) for [Eurocurrency](../e/eurocurrency.md) loans in USD, replacing LIBOR which was discontinued in June 2023.
 - **Euribor ([Euro](../e/euro.md) Interbank Offered Rate)**: Represents average interbank [interest](../i/interest.md) rates offered by European banks for EUR-denominated loans.
 
 ### Regulation and Oversight
@@ -65,7 +65,7 @@ The [Eurocurrency](../e/eurocurrency.md) [market](../m/market.md) is largely unr
 
 ### Regulatory Changes
 
-There have been ongoing efforts to bring more [transparency](../t/transparency.md) and oversight to the [Eurocurrency](../e/eurocurrency.md) [market](../m/market.md). The phasing out of LIBOR and its replacement with more [robust](../r/robust.md) [benchmark](../b/benchmark.md) rates is a significant step toward reducing [systemic risk](../s/systemic_risk.md). Regulatory bodies like the Financial Stability Board (FSB) and the Basel Committee continue to advocate for international cooperation and more stringent oversight of cross-border banking activities.
+There have been ongoing efforts to bring more [transparency](../t/transparency.md) and oversight to the [Eurocurrency](../e/eurocurrency.md) [market](../m/market.md). The discontinuation of LIBOR in June 2023 and its replacement with more [robust](../r/robust.md) [benchmark](../b/benchmark.md) rates such as SOFR (US), €STR (Europe), and SONIA (UK) is a significant step toward reducing [systemic risk](../s/systemic_risk.md). Regulatory bodies like the Financial Stability Board (FSB) and the Basel Committee continue to advocate for international cooperation and more stringent oversight of cross-border banking activities.
 
 ### Technological Advances
 

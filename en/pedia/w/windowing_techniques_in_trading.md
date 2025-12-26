@@ -6,9 +6,9 @@ Windowing techniques in trading involve analyzing subsets of data within a speci
 ## Types of Windowing Techniques
 
 ### Rolling Windows
-A rolling window continuously updates by adding new observations and dropping old ones. This technique is particularly useful for maintaining a forecast model that needs continuous updates as new data becomes available. 
+A rolling window continuously updates by adding new observations and dropping old ones. This technique is particularly useful for maintaining a forecast model that needs continuous updates as new data becomes available.
 
-**Application**: Rolling windows are often used in moving averages, where each new data point recalculates the average by including the newest data point and removing the oldest. 
+**Application**: Rolling windows are often used in moving averages, where each new data point recalculates the average by including the newest data point and removing the oldest.
 
 **Example**: A 5-day rolling average updates daily to include the last five days of trading data.
 
@@ -32,7 +32,7 @@ Sliding windows are similar to rolling windows but [offer](../o/offer.md) flexib
 Moving averages smooth out [price action](../p/price_action.md) by filtering out the "[noise](../n/noise.md)" from random price fluctuations. They are widely used in [momentum](../m/momentum.md) and [trend](../t/trend.md) [trading strategies](../t/trading_strategies.md).
 
 #### Simple Moving Average (SMA)
-The SMA calculates the mean of the closing prices over a specified period. 
+The SMA calculates the mean of the closing prices over a specified period.
 
 **Formula**:
 \[ \text{SMA} = \frac{1}{N} \sum_{i=1}^{N} P_i \]
@@ -139,15 +139,15 @@ data['Rolling Mean'] = data['Price'].rolling(window=5).mean()
 ### Online Resources and Tools
 
 #### Trading Platforms
-1. [MetaTrader](https://www.metatrader4.com/)
-2. [NinjaTrader](https://ninjatrader.com/)
-3. [QuantConnect](https://www.quantconnect.com/)
-4. [QuantLib](https://www.quantlib.org/)
+1. MetaTrader
+2. NinjaTrader
+3. QuantConnect
+4. QuantLib
 
 #### Data Providers
-1. [Quandl](https://www.quandl.com/)
-2. [Alpha Vantage](https://www.alphavantage.co/)
-3. [Yahoo Finance](https://finance.yahoo.com/)
+1. Quandl
+2. Alpha Vantage
+3. Yahoo Finance
 
 ## Conclusion
 Windowing techniques in trading [offer](../o/offer.md) powerful ways to analyze data, detect patterns, manage [volatility](../v/volatility.md), and enhance [predictive models](../p/predictive_models_in_trading.md). By leveraging these methodologies, traders can make more informed decisions and optimize their [trading strategies](../t/trading_strategies.md).

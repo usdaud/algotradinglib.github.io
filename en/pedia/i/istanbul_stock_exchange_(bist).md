@@ -24,10 +24,8 @@ The BIST 100 is the [benchmark](../b/benchmark.md) stock [index](../i/index_inst
 ### Notable Listed Companies
 
 Some of the major companies [listed](../l/listed.md) on Borsa İstanbul are:
-- Koç Holding (https://www.koc.com.tr/en-us)
-- Sabancı Holding (https://www.sabanci.com/en)
-- Türk Hava Yolları (Turkish Airlines) (https://www.turkishairlines.com/)
-- Garanti [Bank](../b/bank.md) (https://www.garantibbva.com.tr/)
+- Koç Holding - Sabancı Holding - Türk Hava Yolları (Turkish Airlines) (
+- Garanti [Bank](../b/bank.md) (
 
 These companies span various sectors, including industrials, banking, aviation, and [consumer goods](../c/consumer_goods.md), significantly influencing the [market dynamics](../m/market_dynamics.md).
 

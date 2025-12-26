@@ -69,7 +69,7 @@ Several platforms and tools can assist traders in developing and implementing [u
 - **[NinjaTrader](../n/ninjatrader.md):** A platform known for its advanced charting tools and support for automated [trading strategies](../t/trading_strategies.md).
 - **[TradeStation](../t/tradestation.md):** A popular platform with extensive [backtesting](../b/backtesting.md) capabilities and support for [algorithmic trading](../a/algorithmic_trading.md).
 
-For more information, visit [MetaTrader](https://www.metaquotes.net) or [NinjaTrader](https://www.ninjatrader.com).
+For more information, visit MetaTrader or NinjaTrader.
 
 ## Challenges and Considerations
 

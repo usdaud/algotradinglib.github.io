@@ -12,7 +12,7 @@ NYSE Arca traces its roots back to Archipelago [Holdings](../h/holdings.md), an 
 
 In 2006, the NYSE acquired Archipelago, and the platform was rebranded as NYSE Arca. This [merger](../m/merger.md) was part of the broader [trend](../t/trend.md) toward electronic trading and signified the NYSE's commitment to innovation and technological advancement. Since then, NYSE Arca has continued to [leverage](../l/leverage.md) its cutting-edge technology to [offer](../o/offer.md) efficient, transparent, and low-cost trading solutions.
 
-For more details, visit [Intercontinental Exchange - NYSE Arca](https://www.nyse.com/index).
+For more details, visit Intercontinental Exchange - NYSE Arca.
 
 ## Trading Mechanism
 
@@ -39,7 +39,7 @@ NYSE Arca provides comprehensive [market](../m/market.md) data feeds, including 
 
 ### Equities
 
-NYSE Arca offers trading in a wide [range](../r/range.md) of equities, including [stocks](../s/stock.md) [listed](../l/listed.md) on the NYSE, [Nasdaq](../n/nasdaq.md), and other major U.S. exchanges. The platform supports trading in various [market](../m/market.md) segments, from [large-cap stocks](../l/large_cap_stocks.md) to small-cap and micro-cap [stocks](../s/stock.md). 
+NYSE Arca offers trading in a wide [range](../r/range.md) of equities, including [stocks](../s/stock.md) [listed](../l/listed.md) on the NYSE, [Nasdaq](../n/nasdaq.md), and other major U.S. exchanges. The platform supports trading in various [market](../m/market.md) segments, from [large-cap stocks](../l/large_cap_stocks.md) to small-cap and micro-cap [stocks](../s/stock.md).
 
 ### ETFs
 

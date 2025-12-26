@@ -48,7 +48,7 @@ The legacy of Go-Go Funds is mixed. On one hand, they introduced innovative and 
 ### Modern-Day Equivalents
 
 1. **[Hedge](../h/hedge.md) Funds**: Modern [hedge](../h/hedge.md) funds often employ strategies similar to Go-Go Funds, such as leveraging, [short selling](../s/short_selling.md), and active trading.
-2. **Tech ETFs**: [Exchange](../e/exchange.md)-traded funds focusing on technology [stocks](../s/stock.md) mirror the sector concentration strategies of Go-Go Funds (e.g., the ARK Innovation ETF by ARK Invest, found at [ARK Invest](https://ark-funds.com)).
+2. **Tech ETFs**: [Exchange](../e/exchange.md)-traded funds focusing on technology [stocks](../s/stock.md) mirror the sector concentration strategies of Go-Go Funds (e.g., the ARK Innovation ETF by ARK Invest, found at ARK Invest).
 
 ## Risk Management
 

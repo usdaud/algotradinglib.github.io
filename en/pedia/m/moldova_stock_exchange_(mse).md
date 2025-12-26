@@ -95,4 +95,4 @@ The future outlook for the MSE is promising, with continued efforts towards mode
 
 The Moldova Stock [Exchange](../e/exchange.md) (MSE) is a critical component of Moldova's financial [infrastructure](../i/infrastructure.md), providing a platform for [capital](../c/capital.md) formation, investment opportunities, and economic development. Despite challenges, the MSE continues to evolve, leveraging technology, regulatory improvements, and [market](../m/market.md) [expansion](../e/expansion.md) strategies to enhance its role in the [financial markets](../f/financial_market.md). As Moldova's [economy](../e/economy.md) grows and integrates with the global [economy](../e/economy.md), the MSE is poised to play an increasingly significant role in shaping the country's financial landscape.
 
-For more information, you can visit the official website of the Moldova Stock [Exchange](../e/exchange.md): [Moldova Stock Exchange](http://mse.md/en/index.html).
+./e/exchange.md): Moldova Stock Exchange.

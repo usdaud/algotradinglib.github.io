@@ -99,4 +99,4 @@ Fundamental analysts may study the constituents of Russell indexes to identify [
 
 The Russell Indexes are essential tools for investors and [fund](../f/fund.md) managers, [offering](../o/offering.md) comprehensive coverage of the U.S. [equity market](../e/equity_market.md). Their broad-[market](../m/market.md) indices, such as the Russell 3000, as well as more targeted indices like the Russell 1000 and Russell 2000, provide a valuable [benchmark](../b/benchmark.md) for various investment strategies.
 
-For more detailed information about the Russell Indexes and [FTSE Russell](../f/ftse_russell.md)'s services, visit [FTSE Russell's official website](https://www.ftserussell.com/).
+For more detailed information about the Russell Indexes and [FTSE Russell](../f/ftse_russell.md)'s services,

@@ -8,18 +8,18 @@ Negative [interest](../i/interest.md) rates are a form of [monetary policy](../m
 
 Countries and regions like Japan, the [Eurozone](../e/eurozone.md), Sweden, Denmark, and Switzerland have experienced periods of negative [interest](../i/interest.md) rates. The European Central [Bank](../b/bank.md) (ECB) and the [Bank](../b/bank.md) of Japan, for example, have maintained negative [interest](../i/interest.md) rates for extended periods to counter low [inflation](../i/inflation.md) and stagnant [economic growth](../e/economic_growth.md).
 
-For more in-depth information on central [bank](../b/bank.md) policies, visit the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) and the [Bank of Japan](https://www.boj.or.jp/en/).
+For more in-depth information on central [bank](../b/bank.md) policies, visit the European Central Bank and the Bank of Japan.
 
 #### Implications for Financial Markets
 
 Negative [interest](../i/interest.md) rates profoundly impact [financial markets](../f/financial_market.md) and trading behaviors:
 
 1. **[Bond](../b/bond.md) Markets:** Bonds with negative yields [return](../r/return.md) less than the [principal](../p/principal.md) amount invested if held to [maturity](../m/maturity.md). Institutional investors may still invest in such bonds as a way to preserve [capital](../c/capital.md) or due to mandates requiring [government bond](../g/government_bond.md) [holdings](../h/holdings.md).
-  
+
 2. **Stock Markets:** Investors may turn to equities seeking higher returns as holding cash or low-[yield](../y/yield.md) bonds becomes less attractive.
-  
+
 3. **[Foreign Exchange](../f/foreign_exchange.md) Rates:** Negative [interest](../i/interest.md) rates may depreciate a nation's [currency](../c/currency.md), making exports more competitive, which can be beneficial in terms of international [trade](../t/trade.md) balance.
-  
+
 4. **[Liquidity](../l/liquidity.md) and [Credit](../c/credit.md):** Increased [liquidity](../l/liquidity.md) due to central [bank](../b/bank.md) policies may lead to more favorable [credit](../c/credit.md) conditions, affecting corporate borrowing and spending.
 
 #### Algo Trading in a Negative Interest Rate Environment
@@ -44,13 +44,13 @@ Negative [interest](../i/interest.md) rates profoundly impact [financial markets
 
 AQR [Capital](../c/capital.md) Management is well-known for employing [quantitative models](../q/quantitative_models.md) to inform trading decisions. During periods of negative [interest](../i/interest.md) rates, AQR has adjusted its strategies by focusing on diversified portfolios and leveraging [multi-asset class](../m/multi-asset_class.md) exposures. They use algorithms to dynamically rebalance portfolios in response to [market](../m/market.md) changes, embracing both [risk management](../r/risk_management.md) and [return](../r/return.md) [optimization](../o/optimization.md).
 
-For more on their strategy, visit [AQR Capital Management](https://www.aqr.com/).
+For more on their strategy, visit AQR Capital Management.
 
 **Case Study: Renaissance Technologies**
 
 Renaissance Technologies, another prominent [hedge fund](../h/hedge_fund.md), uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) for trading in various [asset](../a/asset.md) classes. Their Medallion [Fund](../f/fund.md) has been known to perform well regardless of broader [market](../m/market.md) conditions, thanks to its reliance on algorithmic adjustments to macroeconomic changes like negative [interest](../i/interest.md) rates.
 
-For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+For more information, visit Renaissance Technologies.
 
 #### Risk Management in Negative Interest Rate Strategies
 

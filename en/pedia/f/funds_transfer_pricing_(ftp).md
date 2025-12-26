@@ -1,6 +1,6 @@
 # Funds Transfer Pricing (FTP)
 
-Funds [Transfer Pricing](../t/transfer_price.md) (FTP) is a sophisticated internal management and control process widely utilized by financial institutions, particularly banks. It revolves around the idea of allocating [interest](../i/interest.md) [income](../i/income.md) and expenses among various [business](../b/business.md) units or departments within the same organization. The goal of FTP is to generate a detailed assessment of profitability at the product, service, or organizational level, [offering](../o/offering.md) crucial insights to the [bank](../b/bank.md)'s overall performance. 
+Funds [Transfer Pricing](../t/transfer_price.md) (FTP) is a sophisticated internal management and control process widely utilized by financial institutions, particularly banks. It revolves around the idea of allocating [interest](../i/interest.md) [income](../i/income.md) and expenses among various [business](../b/business.md) units or departments within the same organization. The goal of FTP is to generate a detailed assessment of profitability at the product, service, or organizational level, [offering](../o/offering.md) crucial insights to the [bank](../b/bank.md)'s overall performance.
 
 ### Overview
 
@@ -17,14 +17,14 @@ FTP serves as a critical tool for:
 
 At the core of FTP lies the [Transfer Pricing](../t/transfer_price.md) Rate (TPR), which differentiates the [interest](../i/interest.md) rates a [bank](../b/bank.md) charges on its loans (assets) from the rates it pays on its deposits (liabilities). The TPR is calculated based on:
 
-- **[Market](../m/market.md) Rates**: Often derived from [risk](../r/risk.md)-free rates such as LIBOR, EURIBOR, or [government bond](../g/government_bond.md) yields.
+- **[Market](../m/market.md) Rates**: Often derived from [risk](../r/risk.md)-free rates such as SOFR (which replaced LIBOR in June 2023), EURIBOR, or [government bond](../g/government_bond.md) yields.
 - **[Liquidity Premium](../l/liquidity_premium.md)**: An additional [margin](../m/margin.md) to compensate for the [liquidity risk](../l/liquidity_risk.md) undertaken.
 - **[Credit Risk](../c/credit_risk.md)**: Depending on the borrower’s [credit](../c/credit.md) quality, a [risk premium](../r/risk_premium.md) may be added.
 - **Operational Costs**: Administrative and operational expenses related to managing the funds.
 
 #### Pooling Method
 
-This method aggregates all the [bank](../b/bank.md)'s funds into a central pool managed by the Treasury or ALM. The central unit then allocates the cost of funds to different [business](../b/business.md) units by applying the [transfer pricing](../t/transfer_price.md) rate. 
+This method aggregates all the [bank](../b/bank.md)'s funds into a central pool managed by the Treasury or ALM. The central unit then allocates the cost of funds to different [business](../b/business.md) units by applying the [transfer pricing](../t/transfer_price.md) rate.
 
 #### Matched Maturity Method
 
@@ -44,7 +44,7 @@ WACC aggregates all funding sources' costs and weights them based on their share
 
 #### Market-Based Pricing
 
-Here, the pricing is aligned with current [market](../m/market.md) rates, often benchmarked against indices like LIBOR. This method ensures that the internal transfer prices reflect prevailing [economic conditions](../e/economic_conditions.md) and [market risk](../m/market_risk.md) appetite.
+Here, the pricing is aligned with current [market](../m/market.md) rates, often benchmarked against indices like SOFR (which replaced LIBOR in June 2023). This method ensures that the internal transfer prices reflect prevailing [economic conditions](../e/economic_conditions.md) and [market risk](../m/market_risk.md) appetite.
 
 ### Practical Applications
 

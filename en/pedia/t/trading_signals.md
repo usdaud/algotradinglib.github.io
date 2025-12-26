@@ -22,7 +22,7 @@ Trading signals are indicators that suggest a good time to buy or sell a [securi
 
 ### Sentiment Analysis
 
-[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to assess the mood of the [market](../m/market.md) from news articles, [social media](../s/social_media.md), and other textual data. Software like StockTwits or services like those offered by [MarketPsych](https://www.marketpsych.com) can provide sentiment-based trading signals.
+[Sentiment analysis](../s/sentiment_analysis.md) uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to assess the mood of the [market](../m/market.md) from news articles, [social media](../s/social_media.md), and other textual data. Software like StockTwits or services like those offered by MarketPsych can provide sentiment-based trading signals.
 
 ## Types of Trading Signals
 
@@ -40,7 +40,7 @@ Trading signals are indicators that suggest a good time to buy or sell a [securi
 
 ### Arbitrage Signals
 
-[Arbitrage](../a/arbitrage.md) signals identify price discrepancies between markets or related securities, suggesting opportunities for low-[risk](../r/risk.md), high-reward trades. These signals are prevalent in high-frequency trading (HFT) and are utilized by firms like [Citadel Securities](https://www.citadelsecurities.com).
+[Arbitrage](../a/arbitrage.md) signals identify price discrepancies between markets or related securities, suggesting opportunities for low-[risk](../r/risk.md), high-reward trades. These signals are prevalent in high-frequency trading (HFT) and are utilized by firms like Citadel Securities.
 
 ### Economic Data Signals
 
@@ -50,7 +50,7 @@ These signals are derived from economic data releases, such as employment report
 
 ### Algo Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades automatically based on pre-programmed trading signals. These systems significantly reduce human intervention and can execute complex strategies at high speeds. Firms like [Two Sigma](https://www.twosigma.com) and [DE Shaw](https://www.deshaw.com) heavily rely on [algorithmic trading](../a/algorithmic_trading.md) powered by sophisticated trading signals.
+[Algorithmic trading](../a/algorithmic_trading.md) systems execute trades automatically based on pre-programmed trading signals. These systems significantly reduce human intervention and can execute complex strategies at high speeds. Firms like Two Sigma and DE Shaw heavily rely on [algorithmic trading](../a/algorithmic_trading.md) powered by sophisticated trading signals.
 
 ### Portfolio Management
 

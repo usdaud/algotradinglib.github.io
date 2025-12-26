@@ -108,7 +108,7 @@ Coincident indicators provide real-time data reflecting the current state of the
 
 ### Demand-Side Factors
 Fluctuations in [aggregate demand](../a/aggregate_demand.md) can lead to [business](../b/business.md) cycles. Increased consumer and [business](../b/business.md) spending can spur economic [expansion](../e/expansion.md), while reductions in spending can lead to contractions.
-  
+
 ### Supply-Side Factors
 Changes in the [supply](../s/supply.md) of goods and services, such as technological advancements or resource availability, can influence [economic cycles](../e/economic_cycles.md). [Supply](../s/supply.md)-side shocks, such as oil crises, can lead to sudden economic changes.
 
@@ -141,25 +141,20 @@ Algotrading strategies must adapt to the changing economic environment. For inst
 
 Several companies specialize in [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) platforms, tools, and services to help traders and investors navigate the [business](../b/business.md) cycle. Some notable examples include:
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides users with data, tools, and an integrated development environment to create and optimize [trading algorithms](../t/trading_algorithms.md).
-Website: [QuantConnect](https://www.quantconnect.com)
+### StockSharp
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides users with data, tools, and an integrated development environment to create and optimize [trading algorithms](../t/trading_algorithms.md).
 
 ### Alpaca
 [Alpaca](../a/alpaca.md) offers an API for [commission](../c/commission.md)-free trading, allowing developers to build and run [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). The platform provides access to real-time and historical [market](../m/market.md) data.
-Website: [Alpaca](https://alpaca.markets)
 
 ### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) is a well-known brokerage [firm](../f/firm.md) that offers a comprehensive suite of tools for [algorithmic trading](../a/accountability.md), including an API for executing trades, historical data, and [risk management](../r/risk_management.md) features.
-Website: [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) provides a powerful [trading platform](../t/trading_platform.md) with advanced charting, data analysis, and algorithm development tools. The platform supports various [asset](../a/asset.md) classes and [trading strategies](../t/trading_strategies.md).
-Website: [TradeStation](https://www.tradestation.com)
 
 ### Algorithmiq
 Algorithmiq is a [firm](../f/firm.md) that specializes in developing custom [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) for institutional clients. They [offer](../o/offer.md) proprietary tools and data analysis to optimize [trading performance](../t/trading_performance.md).
-Website: [Algorithmiq](https://www.algorithmiq.co)
 
 ## Conclusion
 

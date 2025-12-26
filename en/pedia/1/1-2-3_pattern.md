@@ -112,15 +112,11 @@ print(patterns)
 
 Several platforms provide tools and environments for developing and testing [algorithmic trading](../a/algorithmic_trading.md) strategies based on patterns like the 1-2-3 pattern:
 
-1. **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform providing data and tools for developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
-   [QuantConnect](https://www.quantconnect.com/)
+1. **[StockSharp](../s/stocksharp.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform providing data and tools for developing, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
 2. **MetaTrader 5 (MT5):** A popular [trading platform](../t/trading_platform.md) [offering](../o/offering.md) [advanced technical analysis](../a/advanced_technical_analysis.md), [algorithmic trading](../a/algorithmic_trading.md) applications, and copy trading.
-   [MetaTrader](https://www.metatrader5.com/en)
 3. **[NinjaTrader](../n/ninjatrader.md):** A [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced charting, analytics, and automated strategy development.
-   [NinjaTrader](https://ninjatrader.com/)
 4. **[TradeStation](../t/tradestation.md):** A platform providing a suite of trading tools, analytics, strategy building, and [backtesting](../b/backtesting.md) capabilities.
-   [TradeStation](https://www.tradestation.com/)
 
 ### Conclusion
 
-The 1-2-3 pattern is a straightforward yet powerful tool for identifying potential [trend](../t/trend.md) reversals in [financial markets](../f/financial_market.md). Its simplicity makes it accessible, while its effectiveness makes it a staple among both manual and algorithmic traders. By understanding and implementing this pattern within an [algorithmic trading](../a/algorithmic_trading.md) strategy, traders can better exploit potential [market](../m/market.md) reversals and improve their overall [trading performance](../t/trading_performance.md).
+The 1-2-3 pattern is a straightforward yet powerful tool for identifying potential [trend](../t/trend.md) reversals in [financial markets](../f/financial_market.md). Its simplicity makes it accessible, while its effectiveness makes it a staple among both manual and algorithmic traders. By understanding and implementing this pattern within an [algorithmic trading](../a/algorithmic_trading.md) strategy, traders can better exploit potential [market](../m/market.md) reversals and improve their overall [trading performance](../t/trading_performance.md).

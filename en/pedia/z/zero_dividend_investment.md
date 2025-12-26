@@ -16,27 +16,27 @@ Zero [dividend](../d/dividend.md) investment, also commonly known as "zero-[divi
 ### Advantages of Zero Dividend Investment
 
 1. **Tax [Efficiency](../e/efficiency.md):**
-   [Capital](../c/capital.md) gains may be taxed differently than [dividend](../d/dividend.md) [income](../i/income.md). For investors in jurisdictions with favorable [capital gains tax](../c/capital_gains_tax.md) rates, ZDPs can be more tax-efficient than [stocks](../s/stock.md) paying regular dividends.
+ [Capital](../c/capital.md) gains may be taxed differently than [dividend](../d/dividend.md) [income](../i/income.md). For investors in jurisdictions with favorable [capital gains tax](../c/capital_gains_tax.md) rates, ZDPs can be more tax-efficient than [stocks](../s/stock.md) paying regular dividends.
 
 2. **Predictable Returns:**
-   ZDP [shares](../s/shares.md) can provide relatively predictable returns since their eventual [redemption](../r/redemption.md) [value](../v/value.md) is predefined. This can be particularly attractive to conservative investors looking for structured returns.
+ ZDP [shares](../s/shares.md) can provide relatively predictable returns since their eventual [redemption](../r/redemption.md) [value](../v/value.md) is predefined. This can be particularly attractive to conservative investors looking for structured returns.
 
 3. **[Investment Strategy](../i/investment_strategy.md):**
-   ZDPs can be part of a diversified [investment strategy](../i/investment_strategy.md), [offering](../o/offering.md) a different [risk](../r/risk.md)-[return](../r/return.md) profile than traditional [dividend](../d/dividend.md)-paying [stocks](../s/stock.md).
+ ZDPs can be part of a diversified [investment strategy](../i/investment_strategy.md), [offering](../o/offering.md) a different [risk](../r/risk.md)-[return](../r/return.md) profile than traditional [dividend](../d/dividend.md)-paying [stocks](../s/stock.md).
 
 4. **[Risk](../r/risk.md) Mitigation:**
-   As ZDP holders are higher up the pecking [order](../o/order.md) in the event of [liquidation](../l/liquidation.md) compared to ordinary shareholders, the investment can potentially be lower [risk](../r/risk.md).
+ As ZDP holders are higher up the pecking [order](../o/order.md) in the event of [liquidation](../l/liquidation.md) compared to ordinary shareholders, the investment can potentially be lower [risk](../r/risk.md).
 
 ### Limitations of Zero Dividend Investment
 
 1. **Lack of Regular [Income](../i/income.md):**
-   Investors do not receive periodic dividends, which might be unattractive for those who rely on regular [income](../i/income.md) from their investments.
+ Investors do not receive periodic dividends, which might be unattractive for those who rely on regular [income](../i/income.md) from their investments.
 
 2. **[Market](../m/market.md) Risks:**
-   The [value](../v/value.md) of ZDP [shares](../s/shares.md) can still be subject to [market](../m/market.md) fluctuations and other investment risks typical of equities.
+ The [value](../v/value.md) of ZDP [shares](../s/shares.md) can still be subject to [market](../m/market.md) fluctuations and other investment risks typical of equities.
 
 3. **Company Performance:**
-   The ultimate [capital](../c/capital.md) appreciation and successful [redemption](../r/redemption.md) of ZDPs depend significantly on the issuing company's performance. Poor performance can negatively impact the expected returns.
+ The ultimate [capital](../c/capital.md) appreciation and successful [redemption](../r/redemption.md) of ZDPs depend significantly on the issuing company's performance. Poor performance can negatively impact the expected returns.
 
 ### Examples of Zero Dividend Investment
 
@@ -44,18 +44,18 @@ Zero [dividend](../d/dividend.md) investment, also commonly known as "zero-[divi
 
 Investment trusts, particularly in the UK, frequently use ZDP [shares](../s/shares.md) to provide structured returns. Examples include:
 
-- **JPMorgan European Investments [Trust](../t/trust.md):** Offers ZDP [shares](../s/shares.md) which aim to provide a predetermined [capital](../c/capital.md) growth over time. [More Information](https://am.jpmorgan.com/gb/en/asset-management/institutional/investment-trusts/trusts/european/)
-- **Utilico Emerging Markets [Trust](../t/trust.md):** Issues ZDP [shares](../s/shares.md) targeted to mature at a specific [capital gain](../c/capital_gain.md). [More Information](https://www.utiem.com/)
+- **JPMorgan European Investments [Trust](../t/trust.md):** Offers ZDP [shares](../s/shares.md) which aim to provide a predetermined [capital](../c/capital.md) growth over time. More Information
+- **Utilico Emerging Markets [Trust](../t/trust.md):** Issues ZDP [shares](../s/shares.md) targeted to mature at a specific [capital gain](../c/capital_gain.md). More Information
 
 #### Case Studies
 
 1. **JPMorgan European Investments [Trust](../t/trust.md):**
-   - **Structure:** This [trust](../t/trust.md) has issued ZDP [shares](../s/shares.md) that [offer](../o/offer.md) investors a predetermined [return](../r/return.md) by a specific date.
-   - **Performance:** The performance highlights the [trust](../t/trust.md)'s ability to enhance [capital](../c/capital.md) growth while minimizing the tax impact compared to regular [dividend](../d/dividend.md) [shares](../s/shares.md).
+ - **Structure:** This [trust](../t/trust.md) has issued ZDP [shares](../s/shares.md) that [offer](../o/offer.md) investors a predetermined [return](../r/return.md) by a specific date.
+ - **Performance:** The performance highlights the [trust](../t/trust.md)'s ability to enhance [capital](../c/capital.md) growth while minimizing the tax impact compared to regular [dividend](../d/dividend.md) [shares](../s/shares.md).
 
 2. **Utilico Emerging Markets [Trust](../t/trust.md):**
-   - **Objective:** The objective of using ZDP [shares](../s/shares.md) here is to provide a steady and predictable [capital](../c/capital.md) [return](../r/return.md) over a set period.
-   - **Outcome:** Despite the lack of regular dividends, the [trust](../t/trust.md)'s strategy has been attractive to a segment of investors focused on growth.
+ - **Objective:** The objective of using ZDP [shares](../s/shares.md) here is to provide a steady and predictable [capital](../c/capital.md) [return](../r/return.md) over a set period.
+ - **Outcome:** Despite the lack of regular dividends, the [trust](../t/trust.md)'s strategy has been attractive to a segment of investors focused on growth.
 
 ### Zero Dividend Investment Strategies
 
@@ -94,6 +94,5 @@ Zero [dividend](../d/dividend.md) investment offers a unique approach to [wealth
 
 ### References
 
-- **JPMorgan European Investments [Trust](../t/trust.md):** [J.P. Morgan Asset Management](https://am.jpmorgan.com/gb/en/asset-management/institutional/investment-trusts/trusts/european/)
-- **Utilico Emerging Markets [Trust](../t/trust.md):** [UTIEM](https://www.utiem.com/)
-
+- **JPMorgan European Investments [Trust](../t/trust.md):** J.P. Morgan Asset Management
+- **Utilico Emerging Markets [Trust](../t/trust.md):** UTIEM

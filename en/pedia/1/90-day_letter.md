@@ -4,7 +4,7 @@
 A 90-Day Letter, also referred to as a Notice of Deficiency, is a significant document issued by the Internal [Revenue](../r/revenue.md) Service (IRS) in the United States. It represents a formal notification that the IRS believes you owe additional [taxes](../t/taxes.md). This letter is a crucial part of the tax assessment and dispute process, giving the [taxpayer](../t/taxpayer.md) a 90-day window to contest the IRS's determination in the U.S. Tax Court before the IRS can proceed with collecting the alleged deficiency.
 
 ## What is a 90-Day Letter?
-A 90-Day Letter is a document sent by the IRS to taxpayers indicating a deficiency in their [tax return](../t/tax_return.md). The IRS issues this letter after conducting an audit and determining that the [taxpayer](../t/taxpayer.md) owes more [money](../m/money.md) than initially reported. 
+A 90-Day Letter is a document sent by the IRS to taxpayers indicating a deficiency in their [tax return](../t/tax_return.md). The IRS issues this letter after conducting an audit and determining that the [taxpayer](../t/taxpayer.md) owes more [money](../m/money.md) than initially reported.
 
 ### Key Aspects of a 90-Day Letter
 1. **Formal Notice**: The 90-Day Letter serves as an official notice, starting a legal countdown for taxpayers to respond.

@@ -14,7 +14,6 @@ Sections:
 9. Tools and Libraries for Implementing Gaussian Copulas
 10. Conclusion
 
-Introduction to Copulas
 -----------------------
 
 A copula is a function that links univariate marginal [distribution](../d/distribution.md) functions to form a multivariate [distribution](../d/distribution.md) function. The concept was introduced by Abe Sklar in 1959. According to Sklar's theorem, for any multivariate [distribution](../d/distribution.md) function, there exists a copula that combines the marginal distributions into the [joint](../j/joint.md) [distribution](../d/distribution.md).
@@ -42,7 +41,6 @@ where \( u_i \) are the marginal CDF values of the variables.
 2. **Tail Dependence**: Gaussian copulas exhibit weak tail dependence, meaning that they may not capture extreme co-movements well compared to other copulas like t-copulas.
 3. **Elliptical Distributions**: The dependency structure is derived from elliptical distributions, making it easy to work with mathematically.
 
-Mathematical Foundations of Gaussian Copulas
 --------------------------------------------
 
 A Gaussian copula is rooted in several key mathematical concepts, including [correlation](../c/correlation.md) matrices, normal distributions, and inverse functions.
@@ -90,7 +88,6 @@ Gaussian copulas are instrumental in optimizing portfolios by considering the de
 2. **[Mean-Variance Optimization](../m/mean-variance_optimization.md)**: Incorporating copula-based dependency structures into the [mean-variance optimization](../m/mean-variance_optimization.md) framework.
 3. **Dynamic Allocation**: Adjusting portfolio weights in response to changing dependency structures modeled by the copula.
 
-Advantages and Limitations
 --------------------------
 
 ### Advantages
@@ -116,7 +113,6 @@ A [hedge fund](../h/hedge_fund.md) implemented a pair [trading strategy](../t/tr
 
 An [investment manager](../i/investment_manager.md) used Gaussian copulas to optimize a multi-[asset](../a/asset.md) portfolio. By incorporating the copula-derived dependency structure, the manager achieved better [diversification](../d/diversification.md) and improved [risk](../r/risk.md)-adjusted returns. The approach allowed for dynamic allocation adjustments in response to changing [market](../m/market.md) conditions.
 
-Tools and Libraries for Implementing Gaussian Copulas
 -----------------------------------------------------
 
 Several [software tools](../s/software_tools_for_trading.md) and libraries facilitate the implementation of Gaussian copulas in [algorithmic trading](../a/algorithmic_trading.md) strategies:
@@ -125,12 +121,11 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries facil
 2. **Python Libraries**: The `scipy.stats` library in Python offers functions to construct and manipulate Gaussian copulas, along with other statistical tools.
 3. **MATLAB**: MATLAB provides built-in functions for copula modeling, including Gaussian copulas, allowing for comprehensive analysis and [simulation](../s/simulation_in_trading.md).
 
-Conclusion
 ----------
 
 Gaussian copulas are a powerful mathematical tool for modeling dependencies between financial variables. In [algorithmic trading](../a/algorithmic_trading.md), they provide valuable insights into the co-movements of assets, enabling the development of sophisticated [trading strategies](../t/trading_strategies.md) and effective [risk management](../r/risk_management.md). While they have certain limitations, their flexibility and analytical tractability make them a valuable [asset](../a/asset.md) in the toolkit of algorithmic traders.
 
 For more information, you can explore these resources:
-- [R Copula Package](https://cran.r-project.org/web/packages/copula/index.html)
-- [SciPy Stats Library](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gaussian_kde.html)
-- [MATLAB Copula Functions](https://www.mathworks.com/help/stats/copulas.html)
+- R Copula Package
+- SciPy Stats Library
+- MATLAB Copula Functions

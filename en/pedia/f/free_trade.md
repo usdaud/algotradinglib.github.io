@@ -55,13 +55,13 @@ Free [trade](../t/trade.md) agreements can sometimes undermine national sovereig
 ## Global Organizations
 
 ### World Trade Organization (WTO)
-The WTO, established in 1995, is the [principal](../p/principal.md) international organization dealing with the global rules of [trade](../t/trade.md) between nations. Its main function is to ensure that [trade](../t/trade.md) flows as smoothly, predictably, and freely as possible. The WTO provides a forum for negotiating [trade](../t/trade.md) agreements and a dispute resolution process to enforce participants' adherence to WTO agreements. [WTO](https://www.wto.org/)
+The WTO, established in 1995, is the [principal](../p/principal.md) international organization dealing with the global rules of [trade](../t/trade.md) between nations. Its main function is to ensure that [trade](../t/trade.md) flows as smoothly, predictably, and freely as possible. The WTO provides a forum for negotiating [trade](../t/trade.md) agreements and a dispute resolution process to enforce participants' adherence to WTO agreements. WTO
 
 ### International Monetary Fund (IMF)
-The IMF works to promote international monetary cooperation, secure financial stability, facilitate international [trade](../t/trade.md), promote high employment and sustainable [economic growth](../e/economic_growth.md), and reduce [poverty](../p/poverty.md) around the world. It often supports free [trade](../t/trade.md) policies as part of its economic stabilization and adjustment programs. [IMF](https://www.imf.org/)
+The IMF works to promote international monetary cooperation, secure financial stability, facilitate international [trade](../t/trade.md), promote high employment and sustainable [economic growth](../e/economic_growth.md), and reduce [poverty](../p/poverty.md) around the world. It often supports free [trade](../t/trade.md) policies as part of its economic stabilization and adjustment programs. IMF
 
 ### World Bank
-The [World Bank](../w/world_bank.md) provides financial and technical assistance to developing countries for development programs (e.g., bridges, roads, schools, etc.) that are expected to improve the economic prospects and [quality of life](../q/quality_of_life.md) for people in those countries. The [World Bank](../w/world_bank.md) often promotes free [trade](../t/trade.md) as part of its broader economic development strategies. [World Bank](https://www.worldbank.org/)
+The [World Bank](../w/world_bank.md) provides financial and technical assistance to developing countries for development programs (e.g., bridges, roads, schools, etc.) that are expected to improve the economic prospects and [quality of life](../q/quality_of_life.md) for people in those countries. The [World Bank](../w/world_bank.md) often promotes free [trade](../t/trade.md) as part of its broader economic development strategies. World Bank
 
 ## Key Case Studies
 

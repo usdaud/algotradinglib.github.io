@@ -70,7 +70,7 @@ SOTP valuations can be highly sensitive to [market](../m/market.md) conditions a
 
 ## Practical Example of SOTP
 
-A real-world example can provide a more nuanced understanding of SOTP. Consider "General Electric (GE)" [General Electric](https://www.ge.com/), a global [conglomerate](../c/conglomerate.md) operating in [multiple](../m/multiple.md) segments including aviation, healthcare, power, and renewable energy.
+A real-world example can provide a more nuanced understanding of SOTP. Consider "General Electric (GE)" General Electric, a global [conglomerate](../c/conglomerate.md) operating in [multiple](../m/multiple.md) segments including aviation, healthcare, power, and renewable energy.
 
 ### Step-by-Step Valuation:
 

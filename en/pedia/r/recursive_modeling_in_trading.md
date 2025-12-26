@@ -57,13 +57,12 @@ Despite their advantages, recursive models come with several challenges:
 
 Several financial technology companies and trading firms have successfully implemented recursive modeling in their [trading systems](../t/trading_systems.md). Here are a few notable examples:
 
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/) is known for its use of advanced technologies and models, including recursive techniques, in [quantitative trading](../q/quantitative_trading.md) and [investment management](../i/investment_management.md).
+- **Two Sigma**: Two Sigma is known for its use of advanced technologies and models, including recursive techniques, in [quantitative trading](../q/quantitative_trading.md) and [investment management](../i/investment_management.md).
 
-- **Renaissance Technologies**: [Renaissance Technologies](https://www.rentec.com/) employs complex [mathematical models](../m/mathematical_models_in_trading.md), some of which are likely to involve recursive components, given their emphasis on adaptive and predictive algorithms.
+- **Renaissance Technologies**: Renaissance Technologies employs complex [mathematical models](../m/mathematical_models_in_trading.md), some of which are likely to involve recursive components, given their emphasis on adaptive and predictive algorithms.
 
-- **AQR [Capital](../c/capital.md) Management**: [AQR Capital Management](https://www.aqr.com/) utilizes a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), potentially incorporating recursive models to manage and predict [market](../m/market.md) movements efficiently.
+- **AQR [Capital](../c/capital.md) Management**: AQR Capital Management utilizes a variety of [quantitative strategies](../q/quantitative_strategies_in_trading.md), potentially incorporating recursive models to manage and predict [market](../m/market.md) movements efficiently.
 
 **Conclusion**
 
 Recursive modeling represents a powerful tool in the arsenal of [algorithmic trading](../a/algorithmic_trading.md), providing the ability to dynamically adapt to evolving [market](../m/market.md) conditions and improve decision-making processes. While it introduces additional complexity and computational demands, its benefits in enhancing prediction accuracy and optimizing [trading strategies](../t/trading_strategies.md) make it an invaluable [asset](../a/asset.md) for modern trading firms. As [financial markets](../f/financial_market.md) continue to evolve, the importance and application of recursive modeling in trading are likely to grow, driving further innovations and advancements in this field.
-

@@ -1,10 +1,10 @@
 # Contingent Asset
 
-A contingent [asset](../a/asset.md) is a potential economic benefit that relies on future events outside of a company's control. These are not guaranteed, hence the term "contingent." Contingent assets are conditional and typically arise from uncertain or unplanned incidents or results. Since the occurrence and the financial benefits they would bring are uncertain, they are not recorded in the company's [financial statements](../f/financial_statements.md) until it becomes virtually certain that the benefits [will](../w/will.md) be realized. 
+A contingent [asset](../a/asset.md) is a potential economic benefit that relies on future events outside of a company's control. These are not guaranteed, hence the term "contingent." Contingent assets are conditional and typically arise from uncertain or unplanned incidents or results. Since the occurrence and the financial benefits they would bring are uncertain, they are not recorded in the company's [financial statements](../f/financial_statements.md) until it becomes virtually certain that the benefits [will](../w/will.md) be realized.
 
 ## Recognition and Disclosure
 
-The recognition and [disclosure](../d/disclosure.md) of contingent assets follow specific guidelines under various [accounting](../a/accounting.md) standards such as the International Financial Reporting Standards (IFRS) and Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP). 
+The recognition and [disclosure](../d/disclosure.md) of contingent assets follow specific guidelines under various [accounting](../a/accounting.md) standards such as the International Financial Reporting Standards (IFRS) and Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP).
 
 ### IFRS Guidelines
 
@@ -53,10 +53,8 @@ In the context of [algorithmic trading](../a/accountability.md), contingent asse
 Several leading [algorithmic trading](../a/accountability.md) firms operate in compliance with rigorous financial reporting standards, ensuring prudent [disclosure](../d/disclosure.md) and management of contingent assets and liabilities. For example:
 
 - **Two Sigma**: A renowned technology and [finance](../f/finance.md) [firm](../f/firm.md), Two Sigma regularly adheres to stringent financial reporting standards, potentially including the prudent management of contingent assets.
-  - Website: [Two Sigma](https://www.twosigma.com)
 
 - **Citadel**: Another prominent [firm](../f/firm.md) in this space, Citadel, provides [robust](../r/robust.md) financial disclosures, including potential contingent assets, to maintain [transparency](../t/transparency.md) with its stakeholders.
-  - Website: [Citadel](https://www.citadel.com)
 
 By understanding the implications of contingent assets, [algorithmic trading](../a/accountability.md) firms can enhance their [valuation models](../v/valuation_models.md) and financial reporting accuracy, thus ensuring better decision-making and compliance.
 

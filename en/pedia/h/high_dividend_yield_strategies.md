@@ -7,16 +7,16 @@ High [dividend yield strategies](../d/dividend_yield_strategies.md) focus on [in
 ### Key Concepts
 
 1. **[Dividend Yield](../d/dividend_yield.md)**: This is a financial ratio that shows how much a company pays out in dividends relative to its stock price. It is calculated as:
-   \[
-   \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends Per Share}}{\text{Stock Price Per Share}}
-   \]
+ \[
+ \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends Per Share}}{\text{Stock Price Per Share}}
+ \]
 
 2. **[Dividend Growth Rate](../d/dividend_growth_rate.md)**: This measures the annualized percentage rate of growth of a company's [dividend](../d/dividend.md) payments.
 
 3. **[Payout Ratio](../p/payout_ratio.md)**: This ratio indicates the proportion of [earnings](../e/earnings.md) a company pays to shareholders in the form of dividends. It is calculated as:
-   \[
-   \text{[Payout Ratio](../p/payout_ratio.md)} = \frac{\text{Dividends Per Share}}{\text{[Earnings](../e/earnings.md) Per Share}}
-   \]
+ \[
+ \text{[Payout Ratio](../p/payout_ratio.md)} = \frac{\text{Dividends Per Share}}{\text{[Earnings](../e/earnings.md) Per Share}}
+ \]
 
 4. **[Dividend](../d/dividend.md) Aristocrats**: These are companies that have a history of consistently increasing dividends for at least 25 consecutive years. These companies are often included in high [dividend yield strategies](../d/dividend_yield_strategies.md) due to their reliability.
 
@@ -74,25 +74,25 @@ To implement a high [dividend yield](../d/dividend_yield.md) strategy algorithmi
 
 Sources for such data include financial APIs such as:
 
-- **[Alpha](../a/alpha.md) Vantage**: [Alpha Vantage](https://www.alphavantage.co/)
-- **[IEX Cloud](../i/iex_cloud.md)**: [IEX Cloud](https://iexcloud.io/)
-- **[Yahoo Finance](../y/yahoo_finance.md) API**: [Yahoo Finance](https://finance.yahoo.com/)
+- **[Alpha](../a/alpha.md) Vantage**: Alpha Vantage
+- **[IEX Cloud](../i/iex_cloud.md)**: IEX Cloud
+- **[Yahoo Finance](../y/yahoo_finance.md) API**: Yahoo Finance
 
 ### Algorithm Design
 
 The next step is to design the algorithm to identify high [dividend yield](../d/dividend_yield.md) [stocks](../s/stock.md). Key steps include:
 
 1. **Screening and Filtering**:
-   - Use filters to screen for [stocks](../s/stock.md) with [dividend](../d/dividend.md) yields above a certain threshold.
-   - Filter out [stocks](../s/stock.md) with unsustainable [payout](../p/payout.md) ratios or poor [financial health](../f/financial_health.md).
+ - Use filters to screen for [stocks](../s/stock.md) with [dividend](../d/dividend.md) yields above a certain threshold.
+ - Filter out [stocks](../s/stock.md) with unsustainable [payout](../p/payout.md) ratios or poor [financial health](../f/financial_health.md).
 
 2. **Scoring and Ranking**:
-   - Develop a scoring model that ranks [stocks](../s/stock.md) based on their [dividend yield](../d/dividend_yield.md) and other [financial health](../f/financial_health.md) metrics.
-   - Apply [machine learning](../m/machine_learning.md) techniques to improve the accuracy of the scoring model.
+ - Develop a scoring model that ranks [stocks](../s/stock.md) based on their [dividend yield](../d/dividend_yield.md) and other [financial health](../f/financial_health.md) metrics.
+ - Apply [machine learning](../m/machine_learning.md) techniques to improve the accuracy of the scoring model.
 
 3. **Portfolio Construction**:
-   - Construct a diversified portfolio from the top-ranked [stocks](../s/stock.md).
-   - Apply [risk management](../r/risk_management.md) techniques to minimize exposure to any single stock or sector.
+ - Construct a diversified portfolio from the top-ranked [stocks](../s/stock.md).
+ - Apply [risk management](../r/risk_management.md) techniques to minimize exposure to any single stock or sector.
 
 ### Backtesting
 
@@ -115,12 +115,12 @@ Once the strategy is validated, it can be deployed in a live [trading environmen
 Several firms and platforms specialize in facilitating [algorithmic trading](../a/algorithmic_trading.md), including high [dividend yield strategies](../d/dividend_yield_strategies.md):
 
 1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to write, test, and deploy [trading algorithms](../t/trading_algorithms.md) in [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 2. **[TradeStation](../t/tradestation.md)**: A [broker-dealer](../b/broker-dealer.md) and [futures](../f/futures.md) [commission](../c/commission.md) merchant [offering](../o/offering.md) advanced trading solutions, including for algorithmic strategies.
-   - [TradeStation](https://www.tradestation.com/)
+ - TradeStation
 
 3. **[Interactive Brokers](../i/interactive_brokers.md)**: A comprehensive [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced tools and APIs for automated trading.
-   - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 By leveraging these platforms and tools, traders can effectively implement and manage high [dividend yield strategies](../d/dividend_yield_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md), optimizing for both [income](../i/income.md) generation and [capital](../c/capital.md) appreciation.

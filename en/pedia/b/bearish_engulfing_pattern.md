@@ -50,8 +50,8 @@ A [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) st
 
 ### Case Studies
 - **Algorithmic Strategies by Quant Trading Firms**:
-  - [BlackRock](https://www.blackrock.com): Utilizes [advanced technical analysis](../a/advanced_technical_analysis.md) patterns, including Bearish Engulfing, in their [quantitative trading](../q/quantitative_trading.md) models.
-  - [RenTech (Renaissance Technologies)](https://www.rentec.com): Renowned for their sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that may incorporate [candlestick patterns](../c/candlestick_patterns.md) for [market](../m/market.md) predictions.
+ - BlackRock: Utilizes [advanced technical analysis](../a/advanced_technical_analysis.md) patterns, including Bearish Engulfing, in their [quantitative trading](../q/quantitative_trading.md) models.
+ - RenTech (Renaissance Technologies): Renowned for their sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that may incorporate [candlestick patterns](../c/candlestick_patterns.md) for [market](../m/market.md) predictions.
 
 ## Limitations
 
@@ -67,4 +67,3 @@ Incorporating Bearish Engulfing Patterns within an [algorithmic trading](../a/al
 ## Conclusion
 
 The Bearish Engulfing Pattern is a significant [indicator](../i/indicator.md) in [technical analysis](../t/technical_analysis.md), providing valuable insights into potential [market](../m/market.md) reversals. For algorithmic traders, integrating this pattern into their [trading strategies](../t/trading_strategies.md) involves programming precise definitions, rigorous [backtesting](../b/backtesting.md), and combining it with other [technical indicators](../t/technical_indicators.md) to enhance decision-making. Despite its limitations, when applied correctly, it can be a powerful tool in the [trader](../t/trader.md)'s arsenal, helping to predict [market](../m/market.md) movements and optimize [trading performance](../t/trading_performance.md).
-

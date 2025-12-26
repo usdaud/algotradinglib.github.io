@@ -38,9 +38,9 @@ The concept of [risk parity](../r/risk_parity.md) originated in the early 1990s,
 
 ### Case Studies and Examples
 
-1. **Bridgewater Associates**: Bridgewater Associates, under Ray Dalio, has been a notable proponent of [risk parity](../r/risk_parity.md) strategies. The [firm](../f/firm.md)'s All Weather portfolio is based on principles of [risk parity](../r/risk_parity.md) and aims to perform well across different economic environments. [Bridgewater Associates](https://www.bridgewater.com)
+1. **Bridgewater Associates**: Bridgewater Associates, under Ray Dalio, has been a notable proponent of [risk parity](../r/risk_parity.md) strategies. The [firm](../f/firm.md)'s All Weather portfolio is based on principles of [risk parity](../r/risk_parity.md) and aims to perform well across different economic environments. Bridgewater Associates
 
-2. **AQR [Capital](../c/capital.md) Management**: Another [firm](../f/firm.md) that implements [risk parity](../r/risk_parity.md) strategies is AQR [Capital](../c/capital.md) Management. They have several investment products that utilize [risk parity](../r/risk_parity.md) principles to achieve diversified and stable returns. [AQR Capital Management](https://www.aqr.com)
+2. **AQR [Capital](../c/capital.md) Management**: Another [firm](../f/firm.md) that implements [risk parity](../r/risk_parity.md) strategies is AQR [Capital](../c/capital.md) Management. They have several investment products that utilize [risk parity](../r/risk_parity.md) principles to achieve diversified and stable returns. AQR Capital Management
 
 ## Advantages and Challenges
 
@@ -78,7 +78,7 @@ The choice of [asset](../a/asset.md) classes is critical for a [risk parity](../
 
 ### Rebalancing Frequency
 
-The frequency of [rebalancing](../r/rebalancing.md) can impact the performance and cost of a [risk parity](../r/risk_parity.md) portfolio. More frequent [rebalancing](../r/rebalancing.md) ensures that the portfolio remains aligned with targeted [risk](../r/risk.md) levels but can increase [transaction costs](../t/transaction_costs.md). 
+The frequency of [rebalancing](../r/rebalancing.md) can impact the performance and cost of a [risk parity](../r/risk_parity.md) portfolio. More frequent [rebalancing](../r/rebalancing.md) ensures that the portfolio remains aligned with targeted [risk](../r/risk.md) levels but can increase [transaction costs](../t/transaction_costs.md).
 
 ### Monitoring and Adjustment
 

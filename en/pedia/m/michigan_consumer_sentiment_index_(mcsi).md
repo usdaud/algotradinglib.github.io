@@ -56,4 +56,4 @@ While the MCSI is a [robust](../r/robust.md) tool, it is not without limitations
 
 The Michigan Consumer Sentiment [Index](../i/index_instrument.md) is a crucial instrument for understanding the economic health and consumer outlook in the United States. By providing insights into consumer attitudes and expectations, the MCSI helps policymakers, investors, and economists make informed decisions. Despite its limitations, the [index](../i/index_instrument.md) remains a valuable tool in anticipating economic trends and shaping monetary and fiscal policies.
 
-For more detailed and up-to-date information, visit the University of Michigan's official page for the Surveys of Consumers: [University of Michigan Surveys of Consumers](https://data.sca.isr.umich.edu).
+For more detailed and up-to-date information,

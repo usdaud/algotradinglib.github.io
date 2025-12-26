@@ -83,11 +83,11 @@ FinTech companies are developing innovative solutions to help companies manage t
 
 ### Amazon Listing on NASDAQ
 
-Amazon, one of the largest companies globally, adheres to a stringent listing agreement with [NASDAQ](../n/nasdaq.md). This includes transparent [disclosure](../d/disclosure.md) of [financial performance](../f/financial_performance.md), adherence to [corporate governance](../c/corporate_governance.md) standards, and timely reporting of material events. More information can be found on [Amazon's Investor Relations page](https://www.amazon.com/ir).
+Amazon, one of the largest companies globally, adheres to a stringent listing agreement with [NASDAQ](../n/nasdaq.md). This includes transparent [disclosure](../d/disclosure.md) of [financial performance](../f/financial_performance.md), adherence to [corporate governance](../c/corporate_governance.md) standards, and timely reporting of material events.
 
 ### Tesla’s Compliance with NYSE
 
-Tesla, [listed](../l/listed.md) on the New York Stock [Exchange](../e/exchange.md) (NYSE), maintains rigorous compliance with its listing agreement. This involves detailed financial disclosures, adherence to ESG (Environmental, Social, and Governance) criteria, and transparent reporting of any changes in company [leadership](../l/leadership.md) or strategy. Visit [Tesla's Investor Relations page](https://ir.tesla.com/) for more information.
+Tesla, [listed](../l/listed.md) on the New York Stock [Exchange](../e/exchange.md) (NYSE), maintains rigorous compliance with its listing agreement. This involves detailed financial disclosures, adherence to ESG (Environmental, Social, and Governance) criteria, and transparent reporting of any changes in company [leadership](../l/leadership.md) or strategy.
 
 ## Conclusion
 

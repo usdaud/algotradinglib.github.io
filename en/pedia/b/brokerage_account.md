@@ -33,11 +33,6 @@ Custodial accounts are managed by an adult [custodian](../c/custodian.md) for th
 ### 1. **Choosing a Brokerage Firm**
 
 Selecting the right brokerage [firm](../f/firm.md) involves considering factors such as fees, account types, investment [options](../o/options.md), trading platforms, and [customer service](../c/customer_service.md). Notable brokerage firms include:
-- **[Charles Schwab](../c/charles_schwab.md):** [Website](https://www.schwab.com/)
-- **[Fidelity Investments](../f/fidelity_investments.md):** [Website](https://www.fidelity.com/)
-- **TD [Ameritrade](../a/ameritrade.md):** [Website](https://www.tdameritrade.com/)
-- **[E*TRADE](../e/e_trade.md):** [Website](https://us.etrade.com/home)
-- **[Robinhood](../r/robinhood.md):** [Website](https://robinhood.com/)
 
 ### 2. **Application Process**
 

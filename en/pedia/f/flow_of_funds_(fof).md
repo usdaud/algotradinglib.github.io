@@ -112,6 +112,6 @@ There’s potential for developing more sophisticated user tools for analyzing F
 
 The Flow of Funds (FOF) is an indispensable tool in the field of [economics](../e/economics.md) and [finance](../f/finance.md), providing a comprehensive view of how funds move through the [economy](../e/economy.md). While it comes with its own set of challenges, advancements in technology and increased global cooperation [hold](../h/hold.md) the promise of making FOF data even more valuable in the future. Whether you are a policymaker, [investor](../i/investor.md), or academic, understanding the flow of funds is crucial for making informed decisions and gaining deeper insights into the economic landscape.
 
-For more detailed information, you can refer to the Federal Reserve's Flow of Funds Accounts of the United States: [Federal Reserve Flow of Funds](https://www.federalreserve.gov/releases/z1/).
+For more detailed information, you can refer to the Federal Reserve's Flow of Funds Accounts of the United States: Federal Reserve Flow of Funds.
 
 Feel free to explore the possibilities and deepen your understanding of economic dynamics through the lens of FOF.

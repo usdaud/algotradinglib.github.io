@@ -62,11 +62,11 @@ Addressing hyperinflation requires decisive and often drastic measures, includin
 
 ## Case Study: The Role of Hyperinflation in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or "algotrading," involves using computer algorithms to execute high-speed, high-frequency trades in [financial markets](../f/financial_market.md). While the primary focus of [algorithmic trading](../a/accountability.md) isn't necessarily on hyperinflation, understanding such economic phenomena can be crucial for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). During periods of hyperinflation, traditional [trading models](../t/trading_models.md) might falter due to the extreme [volatility](../v/volatility.md) and unpredictability.
+[Algorithmic trading](../a/algorithmic_trading.md), or "algotrading," involves using computer algorithms to execute high-speed, high-frequency trades in [financial markets](../f/financial_market.md). While the primary focus of [algorithmic trading](../a/algorithmic_trading.md) isn't necessarily on hyperinflation, understanding such economic phenomena can be crucial for developing [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). During periods of hyperinflation, traditional [trading models](../t/trading_models.md) might falter due to the extreme [volatility](../v/volatility.md) and unpredictability.
 
 ### Algorithms Adapted for Hyperinflation
 
-Some key aspects for [algorithmic trading](../a/accountability.md) systems during hyperinflation include:
+Some key aspects for [algorithmic trading](../a/algorithmic_trading.md) systems during hyperinflation include:
 
 - **Hyper-[Volatility](../v/volatility.md) Management**: Algorithms must be adapted to [handle](../h/handle.md) drastic price fluctuations, ensuring they can respond at speeds faster than human capabilities.
 - **[Currency](../c/currency.md) [Diversification](../d/diversification.md)**: [Trading models](../t/trading_models.md) might need rules for rapid switching between currencies to preserve [capital](../c/capital.md) [value](../v/value.md).
@@ -75,12 +75,12 @@ Some key aspects for [algorithmic trading](../a/accountability.md) systems durin
 
 ### Practical Applications and Firms Involved
 
-Several firms specialize in [algorithmic trading](../a/accountability.md), and they may integrate economic alerts, including hyperinflation signals, into their systems:
+Several firms specialize in [algorithmic trading](../a/algorithmic_trading.md), and they may integrate economic alerts, including hyperinflation signals, into their systems:
 
-- [QuantConnect](https://www.quantconnect.com/): An [algorithmic trading](../a/accountability.md) platform [offering](../o/offering.md) cloud-based [backtesting](../b/backtesting.md) and live trading capabilities.
-- [Kavout](https://www.kavout.com/): Utilizing [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data](../b/big_data_in_trading.md) to create predictive [trading algorithms](../t/trading_algorithms.md), which can be customized for hyper-inflationary indicators.
-- [AlgoTrader](https://www.algotrader.com/): A comprehensive [algorithmic trading software](../a/algorithmic_trading_software.md) provider, facilitating both [market](../m/market.md) making and investment strategies adaptable to various [economic conditions](../e/economic_conditions.md), including hyperinflation.
+- QuantConnect: An [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) cloud-based [backtesting](../b/backtesting.md) and live trading capabilities.
+- Kavout: Utilizing [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [big data](../b/big_data_in_trading.md) to create predictive [trading algorithms](../t/trading_algorithms.md), which can be customized for hyper-inflationary indicators.
+- AlgoTrader: A comprehensive [algorithmic trading software](../a/algorithmic_trading_software.md) provider, facilitating both [market](../m/market.md) making and investment strategies adaptable to various [economic conditions](../e/economic_conditions.md), including hyperinflation.
 
 ## Conclusion
 
-Hyperinflation represents one of the most extreme forms of economic instability, with profound impacts on a nation's [economy](../e/economy.md) and society. Understanding its causes, historical instances, and consequences aids economists, policymakers, and investors in crafting responses and strategies to mitigate its effects. For the field of [algorithmic trading](../a/accountability.md), integrating awareness of hyperinflation into [trading models](../t/trading_models.md) is an important aspect of [risk management](../r/risk_management.md) and strategy [optimization](../o/optimization.md).
+Hyperinflation represents one of the most extreme forms of economic instability, with profound impacts on a nation's [economy](../e/economy.md) and society. Understanding its causes, historical instances, and consequences aids economists, policymakers, and investors in crafting responses and strategies to mitigate its effects. For the field of [algorithmic trading](../a/algorithmic_trading.md), integrating awareness of hyperinflation into [trading models](../t/trading_models.md) is an important aspect of [risk management](../r/risk_management.md) and strategy [optimization](../o/optimization.md).

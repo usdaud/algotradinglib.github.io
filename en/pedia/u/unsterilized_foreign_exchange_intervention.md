@@ -66,4 +66,4 @@ Different central banks adopt varying approaches to unsterilized interventions:
 
 Unsterilized [foreign exchange](../f/foreign_exchange.md) interventions are potent tools in a central [bank](../b/bank.md)’s arsenal, [offering](../o/offering.md) direct impacts on [exchange](../e/exchange.md) rates and domestic monetary conditions. While they provide powerful means to manage economic challenges, the risks and broader implications necessitate careful and strategic application. Understanding these interventions' nuanced effects is crucial for policymakers and [market](../m/market.md) participants alike.
 
-For further exploration of unsterilized forex interventions, central banks’ approaches, and their economic impacts, visit [European Central Bank’s website](https://www.ecb.europa.eu/) and the [Federal Reserve’s website](https://www.federalreserve.gov/).
+For further exploration of unsterilized forex interventions, central banks’ approaches, and their economic impacts,

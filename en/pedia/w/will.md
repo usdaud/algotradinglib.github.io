@@ -44,4 +44,3 @@ A **Will** is a legal document that outlines an individual's wishes regarding th
 
 ## Conclusion
 A will is a vital legal document that outlines an individual's wishes for the [distribution](../d/distribution.md) of their [estate](../e/estate.md) and the care of any minor children after their death. It provides legal clarity, helps manage [estate](../e/estate.md) [taxes](../t/taxes.md), and ensures that the testator's wishes are followed. Understanding the key components, types, challenges, and [best practices](../b/best_practices.md) for creating a will can help individuals effectively manage their [estate planning](../e/estate_planning.md) and provide for their loved ones.
-

@@ -21,8 +21,8 @@ Typically, the period considered is 14 days, but this can be adjusted based on [
 
 1. **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Levels**: The [Williams %R](../w/williams_%r.md) oscillates between 0 and -100. Values above -20 indicate that the [market](../m/market.md) is [overbought](../o/overbought.md), and values below -80 indicate that the [market](../m/market.md) is [oversold](../o/oversold.md).
 2. **Buy and Sell Signals**:
-   - **[Overbought](../o/overbought.md) Conditions**: When the %R reaches -20 or higher, it suggests that the [asset](../a/asset.md) might be [overbought](../o/overbought.md), and a price [correction](../c/correction.md) could be imminent. Traders might consider this an opportunity to sell or short the [asset](../a/asset.md).
-   - **[Oversold](../o/oversold.md) Conditions**: When the %R falls to -80 or lower, it indicates that the [asset](../a/asset.md) is [oversold](../o/oversold.md), and a price bounce could be forthcoming. This might be seen as a potential buying opportunity.
+ - **[Overbought](../o/overbought.md) Conditions**: When the %R reaches -20 or higher, it suggests that the [asset](../a/asset.md) might be [overbought](../o/overbought.md), and a price [correction](../c/correction.md) could be imminent. Traders might consider this an opportunity to sell or short the [asset](../a/asset.md).
+ - **[Oversold](../o/oversold.md) Conditions**: When the %R falls to -80 or lower, it indicates that the [asset](../a/asset.md) is [oversold](../o/oversold.md), and a price bounce could be forthcoming. This might be seen as a potential buying opportunity.
 3. **[Divergence](../d/divergence.md)**: When the price of an [asset](../a/asset.md) is making new highs or lows, but the [Williams %R](../w/williams_%r.md) is not, it can signal a potential [reversal](../r/reversal.md) in the [trend](../t/trend.md).
 
 #### Practical Application
@@ -40,4 +40,4 @@ Typically, the period considered is 14 days, but this can be adjusted based on [
 
 The [Williams %R](../w/williams_%r.md) [oscillator](../o/oscillator.md) is a versatile and powerful tool for traders looking to identify [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions in the [market](../m/market.md). While it is not without its limitations, when used judiciously in conjunction with other indicators and [trading strategies](../t/trading_strategies.md), it can significantly enhance a [trader](../t/trader.md)'s ability to make informed decisions.
 
-For more information on Larry Williams and his trading methodologies, visit his [official website](https://www.ireallytrade.com/). This resource provides in-depth insights and additional resources for traders looking to expand their knowledge of [technical analysis](../t/technical_analysis.md) and [market](../m/market.md) strategies.
+ This resource provides in-depth insights and additional resources for traders looking to expand their knowledge of [technical analysis](../t/technical_analysis.md) and [market](../m/market.md) strategies.

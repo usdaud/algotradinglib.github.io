@@ -9,7 +9,7 @@ Developed initially in 1999 and continuously revised, GIPS has become a globally
 The GIPS standards are built around several key principles:
 
 ### 1. Completeness and Accuracy
-Performance figures must be complete and accurate, representing all the actual returns realized by an investment portfolio. 
+Performance figures must be complete and accurate, representing all the actual returns realized by an investment portfolio.
 
 ### 2. Consistency
 Consistent methodologies should be adopted for calculation and presentation of returns, ensuring comparability between periods and across firms.

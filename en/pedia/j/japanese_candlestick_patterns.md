@@ -10,7 +10,7 @@ A [candlestick](../c/candlestick.md) consists of four primary components:
 3. **High**: The highest price reached during the specified time period.
 4. **Low**: The lowest price reached during the specified time period.
 
-![](https://s3.tradingview.com/tv/resources-pwa/static/2022.49.0-tradingview-static/images/chartsDefault/drawing/candlestick-chart-marker.svg)
+![]
 
 ### Candlestick Bodies and Shadows
 - **Body**: The rectangular area between the [open](../o/open.md) and close prices. When the close is higher than the [open](../o/open.md), the body is filled or colored green/white. When the close is lower than the [open](../o/open.md), it's filled or colored red/black.
@@ -24,84 +24,84 @@ A [candlestick](../c/candlestick.md) consists of four primary components:
 ### Bullish Patterns
 
 1. **Hammer**
-    - **Description**: A hammer is characterized by a small body near the top of the trading [range](../r/range.md) with a long lower shadow.
-    - **Interpretation**: It suggests a potential [reversal](../r/reversal.md) from a [downtrend](../d/downtrend.md) to an [uptrend](../u/uptrend.md), indicating that buyers are stepping in after a period of selling pressure.
-    - ![Hammer Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/hammer-explanation.png)
+ - **Description**: A hammer is characterized by a small body near the top of the trading [range](../r/range.md) with a long lower shadow.
+ - **Interpretation**: It suggests a potential [reversal](../r/reversal.md) from a [downtrend](../d/downtrend.md) to an [uptrend](../u/uptrend.md), indicating that buyers are stepping in after a period of selling pressure.
+ -!Hammer Pattern
 
 2. **Bullish Engulfing**
-    - **Description**: A two-candle pattern where the second candle completely engulfs the body of the first candle and closes higher.
-    - **Interpretation**: It signals strong buying [interest](../i/interest.md), suggesting a potential [reversal](../r/reversal.md) of a [downtrend](../d/downtrend.md).
-    - ![Bullish Engulfing Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/bullish-engulfing-explanation.png)
+ - **Description**: A two-candle pattern where the second candle completely engulfs the body of the first candle and closes higher.
+ - **Interpretation**: It signals strong buying [interest](../i/interest.md), suggesting a potential [reversal](../r/reversal.md) of a [downtrend](../d/downtrend.md).
+ -!Bullish Engulfing Pattern
 
 3. **[Morning Star](../m/morning_star.md)**
-    - **Description**: This is a three-candle pattern. The first is a large bearish candle, the second is a small-bodied candle (can be bearish or bullish), and the third is a large bullish candle.
-    - **Interpretation**: It indicates a strong potential [reversal](../r/reversal.md) from a downward [trend](../t/trend.md) to an upward [trend](../t/trend.md).
-    - ![Morning Star Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/morning-star-explanation.png)
+ - **Description**: This is a three-candle pattern. The first is a large bearish candle, the second is a small-bodied candle (can be bearish or bullish), and the third is a large bullish candle.
+ - **Interpretation**: It indicates a strong potential [reversal](../r/reversal.md) from a downward [trend](../t/trend.md) to an upward [trend](../t/trend.md).
+ -!Morning Star Pattern
 
 4. **Piercing Line**
-    - **Description**: A two-candle pattern where the first candle is bearish, followed by a bullish candle that opens below the previous candle’s low but closes at least halfway up into the body of the bearish candle.
-    - **Interpretation**: It suggests potential bullish [reversal](../r/reversal.md), as the buyers regain control.
-    - ![Piercing Line Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/piercing-line-explanation.png)
+ - **Description**: A two-candle pattern where the first candle is bearish, followed by a bullish candle that opens below the previous candle’s low but closes at least halfway up into the body of the bearish candle.
+ - **Interpretation**: It suggests potential bullish [reversal](../r/reversal.md), as the buyers regain control.
+ -!Piercing Line Pattern
 
 5. **Three White Soldiers**
-    - **Description**: Consists of three consecutive bullish candles with long bodies, opening within the previous candle's body and closing near the high.
-    - **Interpretation**: It indicates strong bullish [momentum](../m/momentum.md) and a potential continuation of an [uptrend](../u/uptrend.md).
-    - ![Three White Soldiers Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/three-white-soldiers-explanation.png)
+ - **Description**: Consists of three consecutive bullish candles with long bodies, opening within the previous candle's body and closing near the high.
+ - **Interpretation**: It indicates strong bullish [momentum](../m/momentum.md) and a potential continuation of an [uptrend](../u/uptrend.md).
+ -!Three White Soldiers Pattern
 
 ### Bearish Patterns
 
 1. **[Shooting Star](../s/shooting_star.md)**
-    - **Description**: A single-candle pattern with a small body near the bottom of the trading [range](../r/range.md) and a long upper shadow.
-    - **Interpretation**: Suggests a potential [reversal](../r/reversal.md) from an [uptrend](../u/uptrend.md) to a [downtrend](../d/downtrend.md), indicating that sellers are stepping in after a period of buying pressure.
-    - ![Shooting Star Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/shooting-star-explanation.png)
+ - **Description**: A single-candle pattern with a small body near the bottom of the trading [range](../r/range.md) and a long upper shadow.
+ - **Interpretation**: Suggests a potential [reversal](../r/reversal.md) from an [uptrend](../u/uptrend.md) to a [downtrend](../d/downtrend.md), indicating that sellers are stepping in after a period of buying pressure.
+ -!Shooting Star Pattern
 
 2. **Bearish Engulfing**
-    - **Description**: A two-candle pattern where the second candle completely engulfs the body of the first candle and closes lower.
-    - **Interpretation**: It signals strong selling [interest](../i/interest.md), suggesting a potential [reversal](../r/reversal.md) of an [uptrend](../u/uptrend.md).
-    - ![Bearish Engulfing Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/bearish-engulfing-explanation.png)
+ - **Description**: A two-candle pattern where the second candle completely engulfs the body of the first candle and closes lower.
+ - **Interpretation**: It signals strong selling [interest](../i/interest.md), suggesting a potential [reversal](../r/reversal.md) of an [uptrend](../u/uptrend.md).
+ -!Bearish Engulfing Pattern
 
 3. **[Evening Star](../e/evening_star.md)**
-    - **Description**: This is a three-candle pattern. The first is a large bullish candle, the second is a small-bodied candle (can be bullish or bearish), and the third is a large bearish candle.
-    - **Interpretation**: It indicates a strong potential [reversal](../r/reversal.md) from an upward [trend](../t/trend.md) to a downward [trend](../t/trend.md).
-    - ![Evening Star Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/evening-star-explanation.png)
+ - **Description**: This is a three-candle pattern. The first is a large bullish candle, the second is a small-bodied candle (can be bullish or bearish), and the third is a large bearish candle.
+ - **Interpretation**: It indicates a strong potential [reversal](../r/reversal.md) from an upward [trend](../t/trend.md) to a downward [trend](../t/trend.md).
+ -!Evening Star Pattern
 
 4. **[Dark Cloud Cover](../d/dark_cloud_cover.md)**
-    - **Description**: A two-candle pattern where the first candle is bullish, followed by a bearish candle that opens higher but closes at least halfway down into the body of the bullish candle.
-    - **Interpretation**: It suggests potential bearish [reversal](../r/reversal.md) as the sellers regain control.
-    - ![Dark Cloud Cover Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/dark-cloud-cover-explanation.png)
+ - **Description**: A two-candle pattern where the first candle is bullish, followed by a bearish candle that opens higher but closes at least halfway down into the body of the bullish candle.
+ - **Interpretation**: It suggests potential bearish [reversal](../r/reversal.md) as the sellers regain control.
+ -!Dark Cloud Cover Pattern
 
 5. **[Three Black Crows](../t/three_black_crows.md)**
-    - **Description**: Consists of three consecutive bearish candles with long bodies, opening within the previous candle's body and closing near the low.
-    - **Interpretation**: It indicates strong bearish [momentum](../m/momentum.md) and a potential continuation of a [downtrend](../d/downtrend.md).
-    - ![Three Black Crows Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/three-black-crows-explanation.png)
+ - **Description**: Consists of three consecutive bearish candles with long bodies, opening within the previous candle's body and closing near the low.
+ - **Interpretation**: It indicates strong bearish [momentum](../m/momentum.md) and a potential continuation of a [downtrend](../d/downtrend.md).
+ -!Three Black Crows Pattern
 
 ## Continuation Patterns
 
 Apart from [reversal patterns](../r/reversal_patterns.md), there are also [continuation patterns](../c/continuation_patterns.md) that indicate the ongoing [trend](../t/trend.md) [will](../w/will.md) likely continue.
 
 1. **Rising Three Methods**
-    - **Description**: This pattern has a long bullish candle followed by a series of smaller bearish or [neutral](../n/neutral.md) candles, and ending with another long bullish candle. The small candles stay within the [range](../r/range.md) of the first and last candles.
-    - **Interpretation**: It indicates a brief [consolidation](../c/consolidation.md) before the [uptrend](../u/uptrend.md) continues.
-    - ![Rising Three Methods Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/rising-three-methods-explanation.png)
+ - **Description**: This pattern has a long bullish candle followed by a series of smaller bearish or [neutral](../n/neutral.md) candles, and ending with another long bullish candle. The small candles stay within the [range](../r/range.md) of the first and last candles.
+ - **Interpretation**: It indicates a brief [consolidation](../c/consolidation.md) before the [uptrend](../u/uptrend.md) continues.
+ -!Rising Three Methods Pattern
 
 2. **Falling Three Methods**
-    - **Description**: This pattern has a long bearish candle followed by a series of smaller bullish or [neutral](../n/neutral.md) candles, and ending with another long bearish candle. The small candles stay within the [range](../r/range.md) of the first and last candles.
-    - **Interpretation**: It indicates a brief [consolidation](../c/consolidation.md) before the [downtrend](../d/downtrend.md) continues.
-    - ![Falling Three Methods Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/falling-three-methods-explanation.png)
+ - **Description**: This pattern has a long bearish candle followed by a series of smaller bullish or [neutral](../n/neutral.md) candles, and ending with another long bearish candle. The small candles stay within the [range](../r/range.md) of the first and last candles.
+ - **Interpretation**: It indicates a brief [consolidation](../c/consolidation.md) before the [downtrend](../d/downtrend.md) continues.
+ -!Falling Three Methods Pattern
 
 ## Indecision Patterns
 
 Indecision patterns usually signal that the [market](../m/market.md) [will](../w/will.md) move in one direction after a period of indecision.
 
 1. **[Doji](../d/doji.md)**
-    - **Description**: A [doji](../d/doji.md) candle has an almost invisible body with [open](../o/open.md) and close prices being virtually equal, and long shadows.
-    - **Interpretation**: It indicates indecision in the [market](../m/market.md), often signaling potential [reversal](../r/reversal.md) points when appearing after a strong [trend](../t/trend.md). 
-    - ![Doji Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/doji-explanation.png)
+ - **Description**: A [doji](../d/doji.md) candle has an almost invisible body with [open](../o/open.md) and close prices being virtually equal, and long shadows.
+ - **Interpretation**: It indicates indecision in the [market](../m/market.md), often signaling potential [reversal](../r/reversal.md) points when appearing after a strong [trend](../t/trend.md).
+ -!Doji Pattern
 
 2. **Spinning Top**
-    - **Description**: This pattern has a small body centered between long upper and lower shadows.
-    - **Interpretation**: It indicates indecision but with slightly more weight on the potential continuation of the existing [trend](../t/trend.md).
-    - ![Spinning Top Pattern](https://www.candlescanner.com/wp-content/uploads/2015/04/spinning-top-explanation.png)
+ - **Description**: This pattern has a small body centered between long upper and lower shadows.
+ - **Interpretation**: It indicates indecision but with slightly more weight on the potential continuation of the existing [trend](../t/trend.md).
+ -!Spinning Top Pattern
 
 ## Interpretation of Patterns in Context
 
@@ -115,9 +115,9 @@ While individual [candlestick patterns](../c/candlestick_patterns.md) provide in
 
 Several platforms provide tools and resources for analyzing Japanese [candlestick patterns](../c/candlestick_patterns.md). Some notable ones include:
 
-- [TradingView](https://www.tradingview.com/)
-- [Metatrader 4/5](https://www.metatrader4.com/)
-- [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- TradingView
+- Metatrader 4/5
+- Thinkorswim by TD Ameritrade
 
 ## Conclusion
 

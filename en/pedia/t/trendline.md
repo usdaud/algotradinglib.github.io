@@ -6,11 +6,11 @@ In the world of trading and [finance](../f/finance.md), [technical analysis](../
 
 A trendline is a straight line that connects two or more price points and extends into the future to act as a line of support or resistance. Essentially, it helps traders and analysts visualize the current direction of [market](../m/market.md) prices and provides insightful data points to base their strategies on.
 
-## Types of Trendlines 
+## Types of Trendlines
 
 Trendlines can be broadly categorized into three types:
 1. **[Uptrend](../u/uptrend.md) Line**: This type of trendline is drawn by connecting the successive higher lows in a price chart. It suggests that the [market](../m/market.md) is in a bullish phase, and as long as the price stays above the trendline, the [uptrend](../u/uptrend.md) is considered intact.
-   
+
 2. **[Downtrend](../d/downtrend.md) Line**: This line connects successive lower highs. It indicates that the [market](../m/market.md) is in a bearish phase. The [downtrend](../d/downtrend.md) is considered in place as long as prices stay below this trendline.
 
 3. **Horizontal or Sideways Line**: When price movements are neither showing a clear [uptrend](../u/uptrend.md) nor a [downtrend](../d/downtrend.md) but are oscillating between two price levels, a horizontal trendline can be established by connecting [multiple](../m/multiple.md) highs or lows at similar levels.
@@ -20,25 +20,25 @@ Trendlines can be broadly categorized into three types:
 Drawing trendlines accurately is an art that combines skill and practice. The steps involved are:
 
 1. **Identify Two or More Significant Points**:
-   - For an [uptrend](../u/uptrend.md) line, find at least two higher lows.
-   - For a [downtrend](../d/downtrend.md) line, identify at least two lower highs.
+ - For an [uptrend](../u/uptrend.md) line, find at least two higher lows.
+ - For a [downtrend](../d/downtrend.md) line, identify at least two lower highs.
 
 2. **Draw the Line**:
-   Use charting tools to connect these points. The line should be extended into the future to aid in identifying potential areas where price movements may be supported or resisted.
+ Use charting tools to connect these points. The line should be extended into the future to aid in identifying potential areas where price movements may be supported or resisted.
 
 3. **Adjustment**:
-   As the [market](../m/market.md) evolves, you may need to adjust the trendlines by including new significant points that better fit the general direction of the [market](../m/market.md).
+ As the [market](../m/market.md) evolves, you may need to adjust the trendlines by including new significant points that better fit the general direction of the [market](../m/market.md).
 
 ## Interpreting Trendlines
 
 1. **[Support and Resistance](../s/support_and_resistance.md)**: An [uptrend](../u/uptrend.md) line serves as a support level, while a [downtrend](../d/downtrend.md) line acts as a resistance level. When prices approach these lines, they often experience some resistance to further movement in that direction.
-   
+
 2. **Breakouts**:
-   - **[Uptrend](../u/uptrend.md) Line [Breakout](../b/breakout.md)**: A break below an [uptrend](../u/uptrend.md) line may signal the end of a bullish [trend](../t/trend.md) and the beginning of a bearish phase.
-   - **[Downtrend](../d/downtrend.md) Line [Breakout](../b/breakout.md)**: Conversely, a break above a [downtrend](../d/downtrend.md) line could indicate the end of a bearish [trend](../t/trend.md) and the start of a bullish phase.
+ - **[Uptrend](../u/uptrend.md) Line [Breakout](../b/breakout.md)**: A break below an [uptrend](../u/uptrend.md) line may signal the end of a bullish [trend](../t/trend.md) and the beginning of a bearish phase.
+ - **[Downtrend](../d/downtrend.md) Line [Breakout](../b/breakout.md)**: Conversely, a break above a [downtrend](../d/downtrend.md) line could indicate the end of a bearish [trend](../t/trend.md) and the start of a bullish phase.
 
 3. **[Trend](../t/trend.md) Strength**:
-   The steepness of a trendline can indicate the strength of the [trend](../t/trend.md). A steeper trendline reflects a stronger [trend](../t/trend.md), but such trends may also be more susceptible to sharp reversals.
+ The steepness of a trendline can indicate the strength of the [trend](../t/trend.md). A steeper trendline reflects a stronger [trend](../t/trend.md), but such trends may also be more susceptible to sharp reversals.
 
 ## Applications in Trading Strategies
 
@@ -60,23 +60,23 @@ Trendlines also contribute significantly to the identification of various techni
 
 ## Practical Example
 
-Let's consider a practical example using a hypothetical stock, ABC Inc. Suppose ABC Inc. [shares](../s/shares.md) have been forming higher lows over the past six months. 
+Let's consider a practical example using a hypothetical stock, ABC Inc. Suppose ABC Inc. [shares](../s/shares.md) have been forming higher lows over the past six months.
 
 1. **Identifying Points**:
-   Initially, two significant lows at $50 and $55 establish an [uptrend](../u/uptrend.md) line.
+ Initially, two significant lows at $50 and $55 establish an [uptrend](../u/uptrend.md) line.
 
 2. **Drawing the Line**:
-   The trendline is drawn by connecting these two points and extending it forward.
+ The trendline is drawn by connecting these two points and extending it forward.
 
 3. **Price Interaction**:
-   Over the next few months, the stock price dips [multiple](../m/multiple.md) times to touch this [uptrend](../u/uptrend.md) line at points like $58, $62, and $65 before continuing its upward trajectory. Each interaction confirms the validity of the [uptrend](../u/uptrend.md).
+ Over the next few months, the stock price dips [multiple](../m/multiple.md) times to touch this [uptrend](../u/uptrend.md) line at points like $58, $62, and $65 before continuing its upward trajectory. Each interaction confirms the validity of the [uptrend](../u/uptrend.md).
 
 4. **[Breakout](../b/breakout.md) Scenario**:
-   Suddenly, due to adverse [market](../m/market.md) conditions, the stock price falls sharply below the trendline to $60. This break below the trendline indicates a potential [reversal](../r/reversal.md), signaling traders to reconsider their long positions and possibly enter short positions, anticipating further decline.
+ Suddenly, due to adverse [market](../m/market.md) conditions, the stock price falls sharply below the trendline to $60. This break below the trendline indicates a potential [reversal](../r/reversal.md), signaling traders to reconsider their long positions and possibly enter short positions, anticipating further decline.
 
 ## Trendline Automation with Algorithms
 
-In the age of [algorithmic trading](../a/accountability.md), incorporating trendlines into automated systems has gained traction. Algorithms can be programmed to identify and draw trendlines automatically, providing several advantages.
+In the age of [algorithmic trading](../a/algorithmic_trading.md), incorporating trendlines into automated systems has gained traction. Algorithms can be programmed to identify and draw trendlines automatically, providing several advantages.
 
 ### Machine Learning Integration
 
@@ -95,11 +95,11 @@ Algorithms can be designed to incorporate [trendline analysis](../t/trendline_an
 Several financial platforms [offer](../o/offer.md) [robust](../r/robust.md) tools for drawing and analyzing trendlines:
 
 1. **[TradingView](../t/tradingview.md)**: Known for its user-friendly interface and powerful charting tools, [TradingView](../t/tradingview.md) allows users to draw and customize trendlines easily.
-   
+
 2. **MetaTrader 4/5**: Popular among forex and CFD traders, MetaTrader platforms [offer](../o/offer.md) extensive [technical analysis tools](../t/technical_analysis_tools.md), including trendline drawing.
-   
+
 3. **ThinkorSwim**: Provided by TD [Ameritrade](../a/ameritrade.md), ThinkorSwim offers advanced charting capabilities and is favored by professional traders.
-   
+
 4. **[NinjaTrader](../n/ninjatrader.md)**: Known for its powerful analytics and trading capabilities, [NinjaTrader](../n/ninjatrader.md) provides comprehensive tools for drawing and analyzing trendlines.
 
 ## Conclusion

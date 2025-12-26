@@ -2,7 +2,7 @@
 
 Green [Investing](../i/investing.md), also known as sustainable [investing](../i/investing.md) or socially responsible [investing](../i/investing.md) (SRI), refers to investment practices that prioritize environmental health, [social justice](../s/social_justice.md), and [corporate governance](../c/corporate_governance.md) (commonly abbreviated as ESG - Environmental, Social, Governance). This approach not only targets financial returns but also emphasizes the positive impact on society and the environment.
 
-## Introduction 
+## Introduction
 
 Green [investing](../i/investing.md) emerged as a response to growing evidence of the detrimental effects of traditional [business](../b/business.md) practices on the environment and society. Investors, both individual and institutional, are increasingly seeking to allocate their [capital](../c/capital.md) in a way that aligns with their values. This movement has been fueled by a greater awareness of climate change, social inequality, and the need for corporate responsibility.
 
@@ -27,19 +27,19 @@ Several financial instruments have become synonymous with green [investing](../i
 
 [Green bonds](../g/green_bonds.md) are fixed-[income](../i/income.md) securities specifically earmarked to raise [money](../m/money.md) for climate and environmental projects. They adhere to the [Green Bond](../g/green_bond.md) Principles (GBP), which ensure that the proceeds are used for environmentally sustainable activities.
 
-- **Example:** Apple Inc. issued a $1 billion [green bond](../g/green_bond.md) in 2017 to [fund](../f/fund.md) renewable energy projects and energy [efficiency](../e/efficiency.md) upgrades in its facilities ([Apple's Green Bond](https://www.apple.com/newsroom/2017/06/apple-issues-second-green-bond/)).
+- **Example:** Apple Inc. issued a $1 billion [green bond](../g/green_bond.md) in 2017 to [fund](../f/fund.md) renewable energy projects and energy [efficiency](../e/efficiency.md) upgrades in its facilities (Apple's Green Bond).
 
 ### ESG Funds
 
 ESG funds are investment funds that apply environmental, social, and governance criteria in their investment process. Rather than focusing solely on financial metrics, ESG funds consider how companies perform as stewards of nature, how they manage relationships with employees, suppliers, customers, and the communities they operate in, and the robustness of their governance structures.
 
-- **Example:** BlackRock offers a [range](../r/range.md) of ESG mutual funds and ETFs through its [iShares](../i/ishares.md) brand ([BlackRock iShares](https://www.blackrock.com/americas-offshore/en/products/category/ishares-sustainable-investing-etf)).
+- **Example:** BlackRock offers a [range](../r/range.md) of ESG mutual funds and ETFs through its [iShares](../i/ishares.md) brand (BlackRock iShares).
 
 ### Renewable Energy Stocks
 
 [Investing](../i/investing.md) directly in individual [stocks](../s/stock.md) of companies dedicated to renewable energy is another popular avenue. These companies typically specialize in solar, wind, hydropower, or bioenergy.
 
-- **Example:** NextEra Energy, a major player in renewable energy, focuses heavily on wind and solar projects ([NextEra Energy](https://www.nexteraenergy.com/)).
+- **Example:** NextEra Energy, a major player in renewable energy, focuses heavily on wind and solar projects (NextEra Energy).
 
 ## Major Entities in Green Investing
 
@@ -121,8 +121,8 @@ Green [investing](../i/investing.md) represents a paradigm shift in the world of
 The landscape is ever-evolving, with increased regulation, technological innovation, and corporate engagement likely to shape its trajectory in the coming years. As such, investors and companies alike must stay informed and adaptable to navigate this dynamic field effectively.
 
 For more information, you can explore these resources:
-- [Apple's Green Bond](https://www.apple.com/newsroom/2017/06/apple-issues-second-green-bond/)
-- [BlackRock iShares](https://www.blackrock.com/americas-offshore/en/products/category/ishares-sustainable-investing-etf)
-- [NextEra Energy](https://www.nexteraenergy.com/)
+- Apple's Green Bond
+- BlackRock iShares
+- NextEra Energy
 
 **Disclaimer:** This document is for informational purposes only and does not constitute financial advice. Always consult with a [financial advisor](../f/financial_advisor.md) before making any investment decisions.

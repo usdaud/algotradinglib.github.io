@@ -80,7 +80,7 @@ Employees can withdraw funds from their SEP-IRAs at any time. However, withdrawa
 2. **Uniform Contribution Rate**: Employers must contribute the same percentage of compensation for every eligible employee, which might be costly for businesses with many employees.
 3. **Immediate [Vesting](../v/vesting.md)**: Contributions to a SEP plan are immediately vested, meaning employees own the funds right away. This can be a drawback if the employer's aim is to use retirement benefits as a long-term employee retention tool.
 4. **Early [Withdrawal](../w/withdrawal.md) Penalties**: Withdrawals before the age of 59½ are subject to a 10% early [withdrawal penalty](../w/withdrawal_penalty.md), along with regular [income tax](../i/income_tax.md).
- 
+
 ## 408(k) Plan Employer Use Cases
 
 ### Considerations for Small Businesses and Self-Employed Individuals
@@ -95,4 +95,4 @@ For small [business](../b/business.md) owners and self-employed individuals, the
 
 The 408(k) SEP plan stands out as a [robust](../r/robust.md) and flexible retirement savings option, particularly tailored to meet the needs of small businesses and self-employed individuals. Its simplicity, ease of setup, high contribution limits, and considerable tax benefits make it a compelling choice for employers who may find the complexity and administrative burden of traditional 401(k) plans overwhelming. However, its employer-only contribution structure and the requirement for uniform percentage contributions are notable considerations that businesses must keep in mind.
 
-For more detailed information or to set up a SEP plan, consulting with a [financial advisor](../f/financial_advisor.md) or visiting the IRS page on SEP plans could provide additional insights: [IRS SEP Plan Information](https://www.irs.gov/retirement-plans/retirement-topics-sep).
+For more detailed information or to set up a SEP plan, consulting with a [financial advisor](../f/financial_advisor.md) or visiting the IRS page on SEP plans could provide additional insights: IRS SEP Plan Information.

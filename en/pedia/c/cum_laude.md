@@ -31,4 +31,3 @@
 
 ## Conclusion
 Cum laude is an academic honor that signifies above-average academic performance and dedication to studies. It is part of the Latin honors system used by many educational institutions to recognize and reward students' academic achievements. Understanding the criteria and significance of cum laude can help students strive for excellence and [leverage](../l/leverage.md) this distinction in their future academic and professional endeavors.
-

@@ -28,7 +28,7 @@ There are different types of [trade](../t/trade.md) orders, such as [market](../
 
 #### Trading Platforms
 
-Various [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) facilitate the seamless disbursement of funds for [trade](../t/trade.md) [execution](../e/execution.md). These platforms [offer](../o/offer.md) advanced features such as high-speed data processing, real-time [market](../m/market.md) analysis, and [automated trade execution](../a/automated_trade_execution.md). Examples of popular [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) include MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [QuantConnect](../q/quantconnect.md).
+Various [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) facilitate the seamless disbursement of funds for [trade](../t/trade.md) [execution](../e/execution.md). These platforms [offer](../o/offer.md) advanced features such as high-speed data processing, real-time [market](../m/market.md) analysis, and [automated trade execution](../a/automated_trade_execution.md). Examples of popular [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) include MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [StockSharp](../s/stocksharp.md).
 
 ### Profit Distribution
 
@@ -76,15 +76,15 @@ Several companies and financial institutions have successfully integrated disbur
 
 ### Two Sigma
 
-Two Sigma is a prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md) focuses on creating [predictive models](../p/predictive_models_in_trading.md) and automated [trading strategies](../t/trading_strategies.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities. For more information, visit [Two Sigma](https://www.twosigma.com).
+Two Sigma is a prominent [investment management](../i/investment_management.md) [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to build sophisticated [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md) focuses on creating [predictive models](../p/predictive_models_in_trading.md) and automated [trading strategies](../t/trading_strategies.md) to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities. For more information, visit Two Sigma.
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a [hedge fund](../h/hedge_fund.md) known for its groundbreaking work in [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to drive its [trading strategies](../t/trading_strategies.md), with a strong emphasis on disbursement processes for [capital allocation](../c/capital_allocation.md) and [profit distribution](../p/profit_distribution.md). For more information, visit [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is a [hedge fund](../h/hedge_fund.md) known for its groundbreaking work in [quantitative trading](../q/quantitative_trading.md). The [firm](../f/firm.md) employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to drive its [trading strategies](../t/trading_strategies.md), with a strong emphasis on disbursement processes for [capital allocation](../c/capital_allocation.md) and [profit distribution](../p/profit_distribution.md). For more information, visit Renaissance Technologies.
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management (AQR) is an [investment management](../i/investment_management.md) [firm](../f/firm.md) that combines quantitative and fundamental approaches to deliver high-quality investment solutions. AQR's [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) and systematic disbursement processes have enabled the [firm](../f/firm.md) to achieve consistent performance across various [market](../m/market.md) conditions. For more information, visit [AQR Capital Management](https://www.aqr.com).
+AQR [Capital](../c/capital.md) Management (AQR) is an [investment management](../i/investment_management.md) [firm](../f/firm.md) that combines quantitative and fundamental approaches to deliver high-quality investment solutions. AQR's [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) and systematic disbursement processes have enabled the [firm](../f/firm.md) to achieve consistent performance across various [market](../m/market.md) conditions. For more information, visit AQR Capital Management.
 
 ## Conclusion
 

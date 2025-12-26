@@ -8,7 +8,7 @@
 1. **[Underlying](../u/underlying.md) Stock**: The base [asset](../a/asset.md) that the [call option](../c/call_option.md) [writer](../w/writer.md) owns. It’s essential to have a sufficient quantity of the stock to cover the option contracts sold.
 2. **[Call Option](../c/call_option.md)**: A financial [derivative](../d/derivative.md) that gives the buyer the right, but not the obligation, to purchase the [underlying](../u/underlying.md) stock at a specified price ([strike price](../s/strike_price.md)) before a set [expiration date](../e/expiration_date.md).
 3. **[Strike Price](../s/strike_price.md)**: The price at which the [underlying](../u/underlying.md) stock can be bought if the [call option](../c/call_option.md) is exercised by the buyer.
-4. **[Premium](../p/premium.md)**: The [income](../i/income.md) received by the call [writer](../w/writer.md) from selling (writing) the [call option](../c/call_option.md). 
+4. **[Premium](../p/premium.md)**: The [income](../i/income.md) received by the call [writer](../w/writer.md) from selling (writing) the [call option](../c/call_option.md).
 
 ### Mechanism of Covered Call Writing
 When an [investor](../i/investor.md) holds a sufficient quantity of a stock, they can sell a [call option](../c/call_option.md) against these [shares](../s/shares.md). The option contract typically represents 100 [shares](../s/shares.md) of the stock. For instance, if an [investor](../i/investor.md) owns 300 [shares](../s/shares.md) of a company, they can sell up to three [call option](../c/call_option.md) contracts.
@@ -29,10 +29,10 @@ When an [investor](../i/investor.md) holds a sufficient quantity of a stock, the
 ## Practical Applications
 
 ### Income Generation
-[Covered call](../c/covered_call.md) writing is particularly attractive to investors looking for regular [income](../i/income.md) on their portfolios. Service companies like **The [Options](../o/options.md) [Industry](../i/industry.md) Council (OIC)** [OIC Website](https://www.optionseducation.org) provide educational resources for investors interested in [income](../i/income.md)-generating strategies such as covered calls.
+[Covered call](../c/covered_call.md) writing is particularly attractive to investors looking for regular [income](../i/income.md) on their portfolios. Service companies like **The [Options](../o/options.md) [Industry](../i/industry.md) Council (OIC)** OIC online platform provide educational resources for investors interested in [income](../i/income.md)-generating strategies such as covered calls.
 
 ### Portfolio Management
-For portfolio managers and investors seeking to enhance returns while managing [risk](../r/risk.md), [covered call](../c/covered_call.md) writing offers a balanced approach. Major brokerage firms like **[Fidelity Investments](../f/fidelity_investments.md)** [Fidelity Covered Calls](https://www.fidelity.com/viewpoints/active-investor/selling-covered-calls) and **[Charles Schwab](../c/charles_schwab.md)** [Charles Schwab Covered Calls](https://www.schwab.com/resource-center/insights/content/dynamically-write-covered-calls) [offer](../o/offer.md) platforms and tools for managing these strategies effectively.
+For portfolio managers and investors seeking to enhance returns while managing [risk](../r/risk.md), [covered call](../c/covered_call.md) writing offers a balanced approach. Major brokerage firms like **[Fidelity Investments](../f/fidelity_investments.md)** Fidelity Covered Calls and **[Charles Schwab](../c/charles_schwab.md)** Charles Schwab Covered Calls [offer](../o/offer.md) platforms and tools for managing these strategies effectively.
 
 ### Market Conditions
 [Covered call strategies](../c/covered_call_strategies.md) perform well in flat to moderately bullish markets where significant upward movement is not expected. They are less effective in strongly bullish or declining markets.
@@ -57,4 +57,4 @@ A buy-write strategy combines purchasing the [underlying](../u/underlying.md) st
 
 [Covered call](../c/covered_call.md) writing remains a versatile strategy to enhance portfolio [income](../i/income.md) and manage [risk](../r/risk.md). It aligns with various [market](../m/market.md) conditions and [investor](../i/investor.md) goals through a disciplined approach to earning premiums while maintaining [equity](../e/equity.md) investments. Familiarity with option mechanisms, [market](../m/market.md) analysis, and disciplined management are crucial to success in [covered call](../c/covered_call.md) writing.
 
-As with all investment strategies, careful consideration of goals, [risk tolerance](../r/risk_tolerance.md), and [market](../m/market.md) conditions is essential to maximize the benefits of covered calls in your portfolio.
+As with all investment strategies, careful consideration of goals, [risk tolerance](../r/risk_tolerance.md), and [market](../m/market.md) conditions is essential to maximize the benefits of covered calls in your portfolio.

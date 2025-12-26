@@ -11,9 +11,9 @@ Operating Loss (OL) is a financial metric used to describe a company's losses fr
 3. **[Gross Profit](../g/gross_profit.md)**: The difference between [revenue](../r/revenue.md) and COGS. It provides insight into how efficiently a company is producing its goods or services.
 
 4. **Operating Expenses**: These are expenses that a company incurs through its normal [business](../b/business.md) operations, excluding the costs of goods sold. Operating expenses can be subdivided into:
-  - **Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) (SG&A)**: Costs related to salaries, advertising, rent, and other overheads required to run the [business](../b/business.md).
-  - **Research and Development (R&D)**: Expenditures related to the research and development of new products or services.
-  - **[Depreciation](../d/depreciation.md) and Amortization**: The reduced [value](../v/value.md) of physical and [tangible assets](../t/tangible_asset.md) over time.
+ - **Selling, General, and [Administrative Expenses](../a/administrative_expenses.md) (SG&A)**: Costs related to salaries, advertising, rent, and other overheads required to run the [business](../b/business.md).
+ - **Research and Development (R&D)**: Expenditures related to the research and development of new products or services.
+ - **[Depreciation](../d/depreciation.md) and Amortization**: The reduced [value](../v/value.md) of physical and [tangible assets](../t/tangible_asset.md) over time.
 
 ## Calculating Operating Loss
 
@@ -57,13 +57,11 @@ So, Company ABC has an operating loss of $500,000.
 
 Tesla, Inc. experienced operating losses in several quarters during its early years despite high [revenue](../r/revenue.md) growth. The company faced high operating expenses primarily due to significant R&D investments and SG&A costs. However, Tesla's focus on innovation, improving operational efficiencies, and scaling production helped the company eventually achieve operating profitability.
 
-For more details, visit [Tesla's Investor Relations](https://ir.tesla.com/).
 
 ### Uber Technologies, Inc.
 
 Uber Technologies, Inc. also reported operating losses for numerous quarters. Uber's high operating costs, including driver incentives and global [expansion](../e/expansion.md) efforts, contributed to the sustained operating losses. The company continues to focus on achieving profitability by optimizing its operational expenditures and diversifying its [revenue](../r/revenue.md) streams.
 
-For more details, visit [Uber's Investor Relations](https://investor.uber.com/).
 
 ## Mitigating Operating Loss
 

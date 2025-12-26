@@ -47,18 +47,18 @@ Several tools and techniques are employed to clean data in [algorithmic trading]
 ### Companies Specializing in Data Cleaning
 
 1. **Trifacta**: Offers data wrangling solutions that assist in cleaning and preparing data for analysis.
-   - [Trifacta](https://www.trifacta.com)
+ - Trifacta
 
 2. **Talend**: Provides a suite of tools for [data integration](../d/data_integration.md) and [data quality management](../d/data_quality_management.md).
-   - [Talend](https://www.talend.com)
+ - Talend
 
 3. **Informatica**: Specializes in [data integration](../d/data_integration.md), quality, and governance solutions.
-   - [Informatica](https://www.informatica.com)
+ - Informatica
 
 ### Techniques in Detail
 
 - **Imputation**: Imputation techniques involve filling in missing data with [substitute](../s/substitute.md) values. Common methods include using the mean, [median](../m/median.md), [mode](../m/mode.md), or employing more sophisticated methods like K-nearest neighbors (KNN) imputation or [regression techniques](../r/regression_techniques.md).
-  
+
 - **Normalization**: Normalizing data ensures that values are within a common scale, which is especially important for algorithms sensitive to the scale of input data.
 
 - **Outlier Detection**: Statistical methods, such as [z-scores](../z/z-scores_in_trading.md) or IQR methods, help identify outliers. [Machine learning](../m/machine_learning.md) techniques like DBSCAN or Isolation Forest can also be used for this purpose.
@@ -89,4 +89,4 @@ Accurate and consistent data is vital for effective [risk management](../r/risk_
 
 Data cleaning is an indispensable process in [algorithmic trading](../a/algorithmic_trading.md), directly influencing the performance and reliability of [trading algorithms](../t/trading_algorithms.md). By ensuring the accuracy, consistency, and completeness of data, traders can make more informed decisions, minimize errors, and maximize their [trading performance](../t/trading_performance.md). Leveraging the right tools and techniques for data cleaning can significantly enhance the robustness and effectiveness of [trading strategies](../t/trading_strategies.md), contributing to better financial outcomes.
 
-LIBINTTLS: As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the importance of [robust](../r/robust.md) data cleaning practices [will](../w/will.md) only grow, underlining its critical role in the lifecycle of [trading systems](../t/trading_systems.md).
+As [algorithmic trading](../a/algorithmic_trading.md) continues to evolve, the importance of [robust](../r/robust.md) data cleaning practices [will](../w/will.md) only grow, underlining its critical role in the lifecycle of [trading systems](../t/trading_systems.md).

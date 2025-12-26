@@ -29,7 +29,7 @@ The higher the [degree of operating leverage](../d/degree_of_operating_leverage.
 ## Importance of Operating Leverage
 
 1. **Sensitivity to Sales Fluctuations**: Companies with high operating [leverage](../l/leverage.md) experience greater profitability increases with rising sales but also greater losses when sales decline. This sensitivity is due to the presence of higher fixed costs.
-   
+
 2. **[Break-Even Analysis](../b/break-even_analysis.md)**: It helps in calculating the break-even point, which is the level of sales required to cover all fixed and variable costs. Knowing this threshold can help companies make essential operational decisions.
 
 3. **[Financial Planning](../f/financial_planning.md)**: Helps financial managers in strategizing and planning for potential sales scenarios, budgeting, and [financial forecasting](../f/financial_forecasting.md).
@@ -64,7 +64,7 @@ If the airline carries 5 million passengers annually, calculate the operating [l
 1. Calculate Total [Revenue](../r/revenue.md): \( 5,000,000 \times 200 = 1,000,000,000 \)
 2. Calculate Total Variable Costs: \( 5,000,000 \times 50 = 250,000,000 \)
 
-[Contribution Margin](../c/contribution_margin.md) (CM): 
+[Contribution Margin](../c/contribution_margin.md) (CM):
 \[ CM = Total [Revenue](../r/revenue.md) - Total Variable Costs \]
 \[ CM = 1,000,000,000 - 250,000,000 = 750,000,000 \]
 
@@ -96,4 +96,4 @@ It is also important to distinguish operating [leverage](../l/leverage.md) from 
 
 Operating [leverage](../l/leverage.md) is a critical metric for understanding and managing the financial dynamics of a company. By examining the ratio of fixed to variable costs and understanding the implications for [earnings](../e/earnings.md) [volatility](../v/volatility.md), businesses can make more informed strategic decisions. Both [business](../b/business.md) managers and investors should pay close attention to operating [leverage](../l/leverage.md) to assess profitability potential and associated risks under varying [economic conditions](../e/economic_conditions.md). Responsible management of operating [leverage](../l/leverage.md) can contribute to more stable [earnings](../e/earnings.md) and a healthier financial profile.
 
-To dive deeper into a [corporation](../c/corporation.md)’s operational strategies and [leverage](../l/leverage.md) calculations, consider exploring comprehensive financial reports and analyses from reliable financial institutions or firms like [PwC](https://www.pwc.com) or [Deloitte](https://www2.deloitte.com). These resources often provide detailed case studies and [financial modeling](../f/financial_modeling.md) approaches specific to [industry](../i/industry.md) needs.
+To dive deeper into a [corporation](../c/corporation.md)’s operational strategies and [leverage](../l/leverage.md) calculations, consider exploring comprehensive financial reports and analyses from reliable financial institutions or firms like PwC or Deloitte. These resources often provide detailed case studies and [financial modeling](../f/financial_modeling.md) approaches specific to [industry](../i/industry.md) needs.

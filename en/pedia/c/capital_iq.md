@@ -109,6 +109,6 @@ Automated data feeds from [Capital](../c/capital.md) IQ ensure that [trading alg
 
 [Capital](../c/capital.md) IQ is a powerful tool for financial professionals, providing comprehensive data, advanced analytics, and [robust](../r/robust.md) research capabilities. For those involved in [algorithmic trading](../a/accountability.md), [Capital](../c/capital.md) IQ's extensive data and analytical tools play a crucial role in developing and optimizing [trading strategies](../t/trading_strategies.md). By integrating [Capital](../c/capital.md) IQ with trading platforms, users can enhance their trading operations, improve decision-making, and achieve better investment outcomes.
 
-For more information on [Capital](../c/capital.md) IQ and its services, you can visit the official website: [S&P Global Market Intelligence - Capital IQ](https://www.spglobal.com/marketintelligence/en/campaigns/capital-iq-platform).
+For more information on [Capital](../c/capital.md) IQ and its services,
 
 ---

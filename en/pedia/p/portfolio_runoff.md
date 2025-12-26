@@ -62,7 +62,7 @@ Dynamic [rebalancing](../r/rebalancing.md) involves periodically adjusting the p
 The advent of advanced technology and financial tools has significantly enhanced the ability to manage portfolio runoff.
 
 ### 1. Algorithmic Trading and AI
-[Algorithmic trading](../a/accountability.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) can optimize [reinvestment](../r/reinvestment.md) strategies and identify opportunities for enhancing portfolio returns. AI algorithms can monitor [market](../m/market.md) conditions in real-time, predict [prepayment](../p/prepayment.md) trends, and automate trading decisions to manage runoff efficiently.
+[Algorithmic trading](../a/algorithmic_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) can optimize [reinvestment](../r/reinvestment.md) strategies and identify opportunities for enhancing portfolio returns. AI algorithms can monitor [market](../m/market.md) conditions in real-time, predict [prepayment](../p/prepayment.md) trends, and automate trading decisions to manage runoff efficiently.
 
 ### 2. Risk Management Software
 [Risk management](../r/risk_management.md) software provides comprehensive tools for tracking and mitigating risks associated with portfolio runoff. These platforms [offer](../o/offer.md) features like [scenario analysis](../s/scenario_analysis.md), [stress testing](../s/stress_testing.md), and [predictive modeling](../p/predictive_modeling.md) to assess the impact of different runoff scenarios on the portfolio.
@@ -75,7 +75,7 @@ Financial analytics platforms [offer](../o/offer.md) advanced analytical capabil
 
 ## Real-World Examples and Case Studies
 
-### 1. Pension Funds 
+### 1. Pension Funds
 Pension funds often have significant exposure to fixed-[income](../i/income.md) securities and thus face substantial portfolio runoff. For instance, XYZ Pension [Fund](../f/fund.md) implemented a [laddering](../l/laddering.md) strategy to manage runoff and ensure continuous [cash flow](../c/cash_flow.md) for [beneficiary](../b/beneficiary.md) payouts. By staggering [bond](../b/bond.md) maturities, they achieved a steady stream of proceeds for [reinvestment](../r/reinvestment.md), maintaining portfolio size and [income](../i/income.md) stability.
 
 ### 2. Insurance Companies

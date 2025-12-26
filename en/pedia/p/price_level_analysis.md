@@ -31,7 +31,7 @@ Resistance levels are the opposite of [support levels](../s/support_levels.md). 
 
 ### Psychological Price Points
 
-Psychological price points, or round numbers, are price levels that traders and investors often see as significant. Examples include prices ending in .00 or .50 (e.g., $100, $50), which tend to attract a large number of buy or sell orders simply because they are easy to remember and communicate.
+Psychological price points, or round numbers, are price levels that traders and investors often see as significant. Examples include prices ending in.00 or.50 (e.g., $100, $50), which tend to attract a large number of buy or sell orders simply because they are easy to remember and communicate.
 
 ### Fibonacci Levels
 
@@ -121,7 +121,7 @@ Regularly review the performance of your [trading algorithms](../t/trading_algor
 
 Several platforms and tools can aid in the implementation of [price level](../p/price_level.md) analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
-- **[QuantConnect](../q/quantconnect.md)**: Provides cloud-based [infrastructure](../i/infrastructure.md) for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). [Visit QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: Provides cloud-based [infrastructure](../i/infrastructure.md) for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). Visit QuantConnect
 - **[QuantLib](../q/quantlib.md)**: A free/[open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), which can be utilized to build custom [trading algorithms](../t/trading_algorithms.md).
 - **[TradingView](../t/tradingview.md)**: Offers advanced charting tools and allows for the creation of custom [technical indicators](../t/technical_indicators.md).
 

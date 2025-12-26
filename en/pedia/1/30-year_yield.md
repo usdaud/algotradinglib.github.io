@@ -102,20 +102,20 @@ Policymakers and economists often analyze trends in the 30-year [yield](../y/yie
 
 ### Federal Reserve
 
-The Federal Reserve plays a crucial role in influencing long-term yields through its [monetary policy](../m/monetary_policy.md). It releases regular updates on the factors affecting [interest](../i/interest.md) rates and publishes economic projections that markets closely follow. [Federal Reserve](https://www.federalreserve.gov)
+The Federal Reserve plays a crucial role in influencing long-term yields through its [monetary policy](../m/monetary_policy.md). It releases regular updates on the factors affecting [interest](../i/interest.md) rates and publishes economic projections that markets closely follow.
 
 ### U.S. Department of the Treasury
 
-The [issuer](../i/issuer.md) of Treasury bonds, the U.S. Department of the Treasury provides detailed information about auction schedules, [bond](../b/bond.md) issuance, and [yield](../y/yield.md) data. [U.S. Department of the Treasury](https://home.treasury.gov/)
+The [issuer](../i/issuer.md) of Treasury bonds, the U.S. Department of the Treasury provides detailed information about auction schedules, [bond](../b/bond.md) issuance, and [yield](../y/yield.md) data. U.S. Department of the Treasury
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) offers a comprehensive suite of tools for monitoring and analyzing [bond](../b/bond.md) markets, including real-time data on the 30-year [yield](../y/yield.md). [Bloomberg](https://www.bloomberg.com)
+[Bloomberg](../b/bloomberg.md) offers a comprehensive suite of tools for monitoring and analyzing [bond](../b/bond.md) markets, including real-time data on the 30-year [yield](../y/yield.md).
 
 ### MarketWatch
 
-MarketWatch provides updated news, data, and analysis on the [financial markets](../f/financial_market.md), including Treasury yields. [MarketWatch](https://www.marketwatch.com/)
+MarketWatch provides updated news, data, and analysis on the [financial markets](../f/financial_market.md), including Treasury yields.
 
 ### Investing.com
 
-[Investing](../i/investing.md).com offers a [range](../r/range.md) of tools and information about global [financial markets](../f/financial_market.md), including in-depth data on Treasury yields. [Investing.com](https://www.investing.com)
+[Investing](../i/investing.md).com offers a [range](../r/range.md) of tools and information about global [financial markets](../f/financial_market.md), including in-depth data on Treasury yields.

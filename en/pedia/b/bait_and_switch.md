@@ -1,18 +1,18 @@
 # Bait and Switch
 
-Bait and switch is a deceptive [marketing](../m/marketing.md) practice where a retailer advertises a product at an exceptionally low price to attract customers but then persuades them to purchase a more expensive item once they are in the store or on the website. This tactic is often considered unethical and is illegal in many jurisdictions. It violates consumer [trust](../t/trust.md) and can lead to damaged reputations and legal penalties for businesses. In the digital age where information [spreads](../s/spreads.md) rapidly, bait and switch tactics have evolved and become more sophisticated, leveraging online platforms and advanced algorithms.
+Bait and switch is a deceptive [marketing](../m/marketing.md) practice where a retailer advertises a product at an exceptionally low price to attract customers but then persuades them to purchase a more expensive item once they are in the store or online channel. This tactic is often considered unethical and is illegal in many jurisdictions. It violates consumer [trust](../t/trust.md) and can lead to damaged reputations and legal penalties for businesses. In the digital age where information [spreads](../s/spreads.md) rapidly, bait and switch tactics have evolved and become more sophisticated, leveraging online platforms and advanced algorithms.
 
 ## The Mechanics of Bait and Switch
 
 The bait and switch strategy typically involves two stages:
 
 1. **Bait**: The retailer offers a product or service at a very low price to attract buyers. This "bait" product is often highlighted in advertisements, [social media](../s/social_media.md) posts, or prominently displayed on the retailer's homepage.
-  
+
 2. **Switch**: When customers try to purchase the bait product, they discover it is unavailable, inferior in quality, or subject to various undisclosed conditions. Retailers then attempt to "switch" the [customer](../c/customer.md) to a higher-priced product, claiming it is a better [value](../v/value.md) or superior in some way.
 
 ### Example of Bait and Switch in Retail
 
-Imagine a technology store that advertises a popular smartphone model at half its usual price. When customers visit the store or the website to purchase the smartphone, they are told that the model is out of stock. The sales staff then try to convince the customers to buy a more expensive model, claiming it has better features and a longer [warranty](../w/warranty.md). This is a classic bait and switch tactic.
+Imagine a technology store that advertises a popular smartphone model at half its usual price. When customers arrive, the sales staff then try to convince them to buy a more expensive model, claiming it has better features and a longer [warranty](../w/warranty.md). This is a classic bait and switch tactic.
 
 ### Legal Aspects
 
@@ -23,7 +23,7 @@ Many countries have strict laws regulating advertising practices to protect cons
 Bait and switch relies on psychological manipulation, exploiting various [cognitive biases](../c/cognitive_biases_in_trading.md) to sway consumers. Key psychological elements include:
 
 - **[Scarcity](../s/scarcity.md) Effect**: The perception of limited availability increases the desirability of the bait product, compelling customers to act quickly.
-- **Foot-in-the-Door Technique**: Once customers enter the store or website, they are already partly committed. This increases the likelihood they [will](../w/will.md) make a purchase, even if it's not the product they initially intended to buy.
+- **Foot-in-the-Door Technique**: Once customers enter the store or online channel, they are already partly committed. This increases the likelihood they [will](../w/will.md) make a purchase, even if it's not the product they initially intended to buy.
 - **Reciprocity Principle**: Salespeople may [offer](../o/offer.md) small concessions or "extras" to create a sense of obligation, making customers more likely to agree to the switch.
 
 ## Bait and Switch in Digital Marketing

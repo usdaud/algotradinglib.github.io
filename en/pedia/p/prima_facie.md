@@ -36,4 +36,3 @@
 
 ## Conclusion
 Prima facie is a crucial concept in both legal and financial contexts, referring to evidence or claims that appear valid at first glance and are sufficient to [warrant](../w/warrant.md) further investigation or legal action unless rebutted. Understanding the key components, importance, and challenges associated with prima facie evidence can help individuals and organizations effectively manage legal risks, ensure compliance, and make informed decisions in both legal and financial matters.
-

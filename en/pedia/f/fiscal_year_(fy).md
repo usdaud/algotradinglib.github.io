@@ -12,9 +12,9 @@ While many organizations align their fiscal year with the calendar year (January
 
 ## Implementation in Different Entities
 
-1. **Corporations**: Corporates like Apple Inc. operate their fiscal year from October 1 to September 30, allowing them to manage their product launch cycles effectively. ([Apple's IRS Document](https://www.apple.com))
+1. **Corporations**: Corporates like Apple Inc. operate their fiscal year from October 1 to September 30, allowing them to manage their product launch cycles effectively. (Apple's IRS Document)
 
-2. **Government**: Different countries have different fiscal years for governmental [accounting](../a/accounting.md). For instance, the UK government’s fiscal year runs from April 1 to March 31 ([HM Treasury](https://www.gov.uk/government/organisations/hm-treasury)).
+2. **Government**: Different countries have different fiscal years for governmental [accounting](../a/accounting.md). For instance, the UK government’s fiscal year runs from April 1 to March 31 (HM Treasury).
 
 3. **Non-[Profit](../p/profit.md) Organizations**: These entities often align their fiscal years to funding cycles or [grant](../g/grant.md) periods to streamline financial reporting.
 
@@ -64,7 +64,7 @@ Public companies disclose [earnings](../e/earnings.md) on a quarterly [basis](..
 
 ### Accounting Software
 
-Modern [accounting](../a/accounting.md) software solutions like QuickBooks and SAP allow customization of fiscal years to fit specific [business](../b/business.md) needs. These tools automate financial reporting and compliance tasks, ensuring accuracy and [efficiency](../e/efficiency.md). ([QuickBooks](https://quickbooks.intuit.com/), [SAP](https://www.sap.com))
+Modern [accounting](../a/accounting.md) software solutions like QuickBooks and SAP allow customization of fiscal years to fit specific [business](../b/business.md) needs. These tools automate financial reporting and compliance tasks, ensuring accuracy and [efficiency](../e/efficiency.md). (QuickBooks, SAP)
 
 ### Data Analytics
 

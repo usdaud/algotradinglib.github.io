@@ -23,29 +23,29 @@ To apply this method, you need to:
 
 ### Steps in the Effective Interest Rate Method
 
-1. **Initial Setup:** 
-   - Identify the [bond](../b/bond.md)'s [face value](../f/face_value.md), [coupon rate](../c/coupon_rate.md), issuance price, and [maturity date](../m/maturity_date.md).
-   - Determine the effective [interest rate](../i/interest_rate.md).
+1. **Initial Setup:**
+ - Identify the [bond](../b/bond.md)'s [face value](../f/face_value.md), [coupon rate](../c/coupon_rate.md), issuance price, and [maturity date](../m/maturity_date.md).
+ - Determine the effective [interest rate](../i/interest_rate.md).
 
-2. **Periodic [Interest Expense](../i/interest_expense.md) Calculation:** 
-   - Compute the [interest expense](../i/interest_expense.md) for each period using the following formula:
-    
-    ```
-    [Interest Expense](../i/interest_expense.md) = Carrying Amount of the [Bond](../b/bond.md) * Effective [Interest Rate](../i/interest_rate.md)
-    ```
+2. **Periodic [Interest Expense](../i/interest_expense.md) Calculation:**
+ - Compute the [interest expense](../i/interest_expense.md) for each period using the following formula:
 
-3. **Amortization of [Discount](../d/discount.md)/[Premium](../p/premium.md):** 
-   - Calculate the amortization amount as the difference between the [interest expense](../i/interest_expense.md) computed in step 2 and the actual [interest](../i/interest.md) paid (coupon [payment](../p/payment.md)):
+ ```
+ [Interest Expense](../i/interest_expense.md) = Carrying Amount of the [Bond](../b/bond.md) * Effective [Interest Rate](../i/interest_rate.md)
+ ```
 
-    ```
-    Amortization Amount = [Interest Expense](../i/interest_expense.md) - Coupon [Payment](../p/payment.md)
-    ```
+3. **Amortization of [Discount](../d/discount.md)/[Premium](../p/premium.md):**
+ - Calculate the amortization amount as the difference between the [interest expense](../i/interest_expense.md) computed in step 2 and the actual [interest](../i/interest.md) paid (coupon [payment](../p/payment.md)):
+
+ ```
+ Amortization Amount = [Interest Expense](../i/interest_expense.md) - Coupon [Payment](../p/payment.md)
+ ```
 
 4. **Adjust Carrying Amount:**
-   - Adjust the [bond](../b/bond.md)'s carrying amount by adding the amortization amount (for a [discount](../d/discount.md)) or subtracting it (for a [premium](../p/premium.md)).
+ - Adjust the [bond](../b/bond.md)'s carrying amount by adding the amortization amount (for a [discount](../d/discount.md)) or subtracting it (for a [premium](../p/premium.md)).
 
 5. **Repeat Until [Maturity](../m/maturity.md):**
-   - Repeat steps 2 to 4 for each period until the [bond](../b/bond.md) matures.
+ - Repeat steps 2 to 4 for each period until the [bond](../b/bond.md) matures.
 
 ### Example
 

@@ -1,6 +1,6 @@
 # Stock Screener
 
-A stock screener is an essential tool for investors and traders, enabling them to filter through thousands of [stocks](../s/stock.md) to find the ones that match their specific criteria. This powerful tool can save investors significant time and aid in identifying potentially [lucrative](../l/lucrative.md) investment opportunities. Below, we [will](../w/will.md) delve into the various aspects of stock screeners, their functionalities, and how they can be used effectively in both traditional and [algorithmic trading](../a/accountability.md).
+A stock screener is an essential tool for investors and traders, enabling them to filter through thousands of [stocks](../s/stock.md) to find the ones that match their specific criteria. This powerful tool can save investors significant time and aid in identifying potentially [lucrative](../l/lucrative.md) investment opportunities. Below, we [will](../w/will.md) delve into the various aspects of stock screeners, their functionalities, and how they can be used effectively in both traditional and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Introduction to Stock Screener
 A stock screener is a software tool or service that allows investors to filter [stocks](../s/stock.md) based on specific parameters they set. The idea is to narrow down a vast [universe of securities](../u/universe_of_securities.md) to a manageable list that aligns with specific investment goals. Parameters can [range](../r/range.md) from simple criteria like price and [market capitalization](../m/market_capitalization.md) to more complex metrics such as [earnings](../e/earnings.md) per share (EPS), price-to-[earnings](../e/earnings.md) (P/E) ratio, [dividend yield](../d/dividend_yield.md), and more.
@@ -37,7 +37,7 @@ A user-friendly interface makes it easy for investors to set criteria, view resu
 - **Technical Screeners**: Utilize [technical analysis](../t/technical_analysis.md) indicators such as moving averages, [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_band.md).
 
 ## Algorithmic Trading and Stock Screeners
-In [algorithmic trading](../a/accountability.md), stock screeners are integrated into [automated trading systems](../a/automated_trading_systems.md) to identify trading opportunities based on predefined criteria. The integration can be done using APIs provided by stock screener platforms or custom-built solutions that directly query financial databases. Important aspects include:
+In [algorithmic trading](../a/algorithmic_trading.md), stock screeners are integrated into [automated trading systems](../a/automated_trading_systems.md) to identify trading opportunities based on predefined criteria. The integration can be done using APIs provided by stock screener platforms or custom-built solutions that directly query financial databases. Important aspects include:
 - **[Backtesting](../b/backtesting.md)**: Ability to test [trading strategies](../t/trading_strategies.md) using historical data.
 - **Real-time data**: Essential for executing trades based on current [market](../m/market.md) conditions.
 - **Custom indicators**: Algorithms often use custom or proprietary indicators which need to be incorporated into the screener.
@@ -46,26 +46,26 @@ In [algorithmic trading](../a/accountability.md), stock screeners are integrated
 
 ### Finviz
 Finviz is a widely used stock screener [offering](../o/offering.md) both free and [premium](../p/premium.md) (Elite) versions. It provides comprehensive filtering criteria, real-time data, and advanced charting tools.
-- [Finviz](https://finviz.com)
+- Finviz
 
 ### TradingView
 Known for its advanced charting capabilities, [TradingView](../t/tradingview.md) also provides [robust](../r/robust.md) screening tools. It is popular among both individual traders and professional analysts.
-- [TradingView](https://www.tradingview.com)
+- TradingView
 
 ### Stock Rover
 Stock Rover offers deep analytical capabilities, especially useful for [fundamental analysis](../f/fundamental_analysis.md). It provides detailed financial metrics, stock ratings, and [portfolio management](../p/par.md) tools.
-- [Stock Rover](https://www.stockrover.com)
+- Stock Rover
 
 ### Zacks
 Zacks is well-regarded for its proprietary ranking and research tools. It offers a comprehensive stock screener with rich [fundamental analysis](../f/fundamental_analysis.md) features.
-- [Zacks](https://www.zacks.com/screening/stock-screener)
+- Zacks
 
 ## How to Use a Stock Screener Effectively
 
 ### Steps to Efficient Stock Screening:
 
 1. **Define Investment Objectives**: Clearly identify your investment goals, [risk tolerance](../r/risk_tolerance.md), and [time horizon](../t/time_horizon.md).
-   
+
 2. **Choose Appropriate Filters**: Select filters that align with your [investment strategy](../i/investment_strategy.md). For example, [value](../v/value.md) investors might focus on P/E ratios and [dividend](../d/dividend.md) yields, while growth investors might look at [revenue](../r/revenue.md) growth and [market capitalization](../m/market_capitalization.md).
 
 3. **Narrow Down the List**: Apply primary filters to narrow down the list of [stocks](../s/stock.md) significantly. Refine this list further using additional criteria.

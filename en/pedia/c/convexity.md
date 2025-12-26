@@ -50,15 +50,15 @@ Convexity is a key [factor](../f/factor.md) in optimizing the [risk](../r/risk.m
 
 ### PIMCO
 
-PIMCO, one of the world's leading fixed-[income](../i/income.md) investment managers, comprehensively utilizes convexity in its [bond](../b/bond.md) strategies (https://www.pimco.com/). Their investment approach considers both [duration](../d/duration.md) and convexity to optimize [portfolio performance](../p/portfolio_performance.md) and manage [interest rate risk](../i/interest_rate_risk.md).
+PIMCO, one of the world's leading fixed-[income](../i/income.md) investment managers, comprehensively utilizes convexity in its [bond](../b/bond.md) strategies ( Their investment approach considers both [duration](../d/duration.md) and convexity to optimize [portfolio performance](../p/portfolio_performance.md) and manage [interest rate risk](../i/interest_rate_risk.md).
 
 ### Vanguard
 
-Vanguard, a marquee name in [asset management](../a/asset_management.md), leverages the concept of convexity to construct fixed-[income](../i/income.md) portfolios that aim for long-term growth while managing risks. Their strategies often involve analyzing convexity metrics to ensure efficient [bond](../b/bond.md) selection (https://www.vanguard.com/).
+Vanguard, a marquee name in [asset management](../a/asset_management.md), leverages the concept of convexity to construct fixed-[income](../i/income.md) portfolios that aim for long-term growth while managing risks. Their strategies often involve analyzing convexity metrics to ensure efficient [bond](../b/bond.md) selection (
 
 ### BlackRock
 
-BlackRock, a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), integrates convexity into its [fixed income](../f/fixed_income.md) and [risk management](../r/risk_management.md) solutions. By evaluating convexity, BlackRock's traders and portfolio managers can accurately assess the impact of changing [interest](../i/interest.md) rates on their [bond](../b/bond.md) [holdings](../h/holdings.md) (https://www.blackrock.com/).
+BlackRock, a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md), integrates convexity into its [fixed income](../f/fixed_income.md) and [risk management](../r/risk_management.md) solutions. By evaluating convexity, BlackRock's traders and portfolio managers can accurately assess the impact of changing [interest](../i/interest.md) rates on their [bond](../b/bond.md) [holdings](../h/holdings.md) (
 
 ## Conclusion
 

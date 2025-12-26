@@ -22,7 +22,7 @@ Delaware provides attractive tax laws for corporations:
 - No state [income tax](../i/income_tax.md) on out-of-state [income](../i/income.md) for Delaware corporations.
 - No state [sales tax](../s/sales_tax.md).
 - Low [franchise tax](../f/franchise_tax.md), which benefits larger corporations.
-  
+
 ### 4. Confidentiality and Privacy
 
 Delaware law allows for greater privacy for corporations. Companies are not required to disclose the names of officers or directors in their filings, which can protect the identities of the individuals involved.
@@ -73,23 +73,23 @@ Corporations must obtain an Employer Identification Number (EIN) from the IRS an
 
 ### 1. Apple Inc.
 
-Apple Inc. is incorporated in Delaware, taking advantage of the state’s favorable corporate statutes [Apple](https://www.apple.com).
+Apple Inc. is incorporated in Delaware, taking advantage of the state’s favorable corporate statutes Apple.
 
 ### 2. Google LLC
 
-Google LLC is another global [corporation](../c/corporation.md) that benefits from Delaware’s legal environment [Google](https://www.google.com).
+Google LLC is another global [corporation](../c/corporation.md) that benefits from Delaware’s legal environment Google.
 
 ### 3. Amazon.com Inc.
 
-Amazon is also a Delaware [corporation](../c/corporation.md), benefiting from the state’s legal and tax advantages [Amazon](https://www.amazon.com).
+Amazon is also a Delaware [corporation](../c/corporation.md), benefiting from the state’s legal and tax advantages Amazon.
 
 ### 4. Coca-Cola Company
 
-The Coca-Cola Company has chosen Delaware for [incorporation](../i/incorporation.md) to benefit from its [business](../b/business.md)-friendly laws [Coca-Cola](https://www.coca-cola.com).
+The Coca-Cola Company has chosen Delaware for [incorporation](../i/incorporation.md) to benefit from its [business](../b/business.md)-friendly laws Coca-Cola.
 
 ### 5. Facebook, Inc. (Meta Platforms, Inc.)
 
-Facebook, now Meta Platforms, Inc., is also a Delaware [corporation](../c/corporation.md) [Meta](https://www.meta.com).
+Facebook, now Meta Platforms, Inc., is also a Delaware [corporation](../c/corporation.md) Meta.
 
 ## Conclusion
 

@@ -57,7 +57,7 @@ Several global companies utilize DAP for their international [procurement](../p/
 
 For instance, when Siemens sources components from Asia for their factories in Europe, they frequently employ DAP terms. The Asian suppliers manage the shipping and deliver the components directly to Siemens' plants in Europe, mitigating considerable logistical burdens for Siemens.
 
-Visit Siemens' official site for more insights on their [logistics](../l/logistics.md) management: [Siemens Logistics](https://new.siemens.com/global/en/products/logistics.html).
+./l/logistics.md) management: Siemens Logistics.
 
 ## Comparison with Other Incoterms
 

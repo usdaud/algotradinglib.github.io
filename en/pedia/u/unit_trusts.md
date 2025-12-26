@@ -48,9 +48,9 @@ There are several advantages to incorporating [algorithmic trading](../a/algorit
 
 Several unit trusts have successfully adopted [algorithmic trading](../a/algorithmic_trading.md) strategies. For example:
 
-- **Vanguard**: Vanguard employs sophisticated algorithms to assist in managing its ETFs and mutual funds, enhancing [efficiency](../e/efficiency.md) and ensuring optimal [trade](../t/trade.md) [execution](../e/execution.md). Learn more about their approach on their [website](https://investor.vanguard.com/etf/).
+- **Vanguard**: Vanguard employs sophisticated algorithms to assist in managing its ETFs and mutual funds, enhancing [efficiency](../e/efficiency.md) and ensuring optimal [trade](../t/trade.md) [execution](../e/execution.md).
 
-- **BlackRock**: BlackRock's Aladdin platform integrates advanced algorithms and [machine learning](../m/machine_learning.md) to manage portfolio risks and execute trades for their unit trusts and other investment products. Additional information can be found on their [website](https://www.blackrock.com/aladdin/).
+- **BlackRock**: BlackRock's Aladdin platform integrates advanced algorithms and [machine learning](../m/machine_learning.md) to manage portfolio risks and execute trades for their unit trusts and other investment products.
 
 ## Challenges and Considerations
 
@@ -69,4 +69,3 @@ While the benefits of using algorithms in unit trusts are significant, there are
 Unit trusts benefit from the integration of [algorithmic trading](../a/algorithmic_trading.md), which enhances their ability to manage portfolios efficiently and effectively. By leveraging sophisticated algorithms, unit trusts can improve [trade](../t/trade.md) [execution](../e/execution.md), manage risks proactively, and [uphold](../u/uphold.md) consistent investment strategies. However, the adoption of algo trading must be accompanied by a careful consideration of technical, regulatory, and [market](../m/market.md) risks to maximize its potential benefits.
 
 For further inquiries and detailed information, one can explore the specific approaches and technological advancements undertaken by leading investment firms like Vanguard and BlackRock, as provided in their respective links.
-

@@ -1,6 +1,6 @@
 # Indicative Net Asset Value (iNAV)
 
-The Indicative Net [Asset](../a/asset.md) [Value](../v/value.md) (iNAV), also known as Intraday Net [Asset](../a/asset.md) [Value](../v/value.md) (iNAV), is a crucial financial metric in the realm of ETF ([Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md)) trading. Unlike traditional mutual funds that calculate their Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV) only once at the end of the trading day, ETFs need to provide a real-time approximation of their [intrinsic value](../i/intrinsic_value.md) during [market](../m/market.md) hours. This is where iNAV comes into play. It offers a real-time estimate of an ETF's per-share [value](../v/value.md), giving investors an up-to-the-minute snapshot of the [fund](../f/fund.md)'s worth. 
+The Indicative Net [Asset](../a/asset.md) [Value](../v/value.md) (iNAV), also known as Intraday Net [Asset](../a/asset.md) [Value](../v/value.md) (iNAV), is a crucial financial metric in the realm of ETF ([Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md)) trading. Unlike traditional mutual funds that calculate their Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV) only once at the end of the trading day, ETFs need to provide a real-time approximation of their [intrinsic value](../i/intrinsic_value.md) during [market](../m/market.md) hours. This is where iNAV comes into play. It offers a real-time estimate of an ETF's per-share [value](../v/value.md), giving investors an up-to-the-minute snapshot of the [fund](../f/fund.md)'s worth.
 
 ## Definition
 
@@ -61,26 +61,26 @@ Additionally, the ETF has [accrued income](../a/accrued_income.md) of $500 and l
 To calculate the iNAV:
 
 1. **Total [Value](../v/value.md) of [Underlying](../u/underlying.md) Assets:**
-   
-   - Company A: 100 [shares](../s/shares.md) * $50 = $5000
-   - Company B: 200 [shares](../s/shares.md) * $30 = $6000
-   - Company C: 50 [shares](../s/shares.md) * $100 = $5000
 
-   Total = $5000 + $6000 + $5000 = $16000
+ - Company A: 100 [shares](../s/shares.md) * $50 = $5000
+ - Company B: 200 [shares](../s/shares.md) * $30 = $6000
+ - Company C: 50 [shares](../s/shares.md) * $100 = $5000
 
-2. **Add [Accrued Income](../a/accrued_income.md):** 
-   
-   Total [Value](../v/value.md) = $16000 + $500 = $16500
+ Total = $5000 + $6000 + $5000 = $16000
+
+2. **Add [Accrued Income](../a/accrued_income.md):**
+
+ Total [Value](../v/value.md) = $16000 + $500 = $16500
 
 3. **Subtract Liabilities:**
-   
-   Adjusted Total [Value](../v/value.md) = $16500 - $200 = $16300
+
+ Adjusted Total [Value](../v/value.md) = $16500 - $200 = $16300
 
 4. **Divide by [Shares](../s/shares.md) Outstanding:**
-   
-   Assume the ETF has 1000 [shares](../s/shares.md) outstanding.
 
-   iNAV = $16300 / 1000 = $16.30 per share
+ Assume the ETF has 1000 [shares](../s/shares.md) outstanding.
+
+ iNAV = $16300 / 1000 = $16.30 per share
 
 This real-[time value](../t/time_value.md) would be updated continuously throughout the trading day to reflect changes in [asset](../a/asset.md) prices, [accrued income](../a/accrued_income.md), liabilities, and [currency](../c/currency.md) conversion rates.
 

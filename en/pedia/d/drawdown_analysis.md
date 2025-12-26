@@ -49,9 +49,9 @@ This pseudocode runs through an [equity](../e/equity.md) curve ([time series](..
 
 #### Real-World Application and Case Studies
 
-1. **[Hedge](../h/hedge.md) Funds and Investment Firms**: Firms like Renaissance Technologies (https://www.rentec.com) and Two Sigma (https://www.twosigma.com) [leverage](../l/leverage.md) sophisticated [drawdown](../d/drawdown.md) analysis as part of their [risk management](../r/risk_management.md) processes. They employ [quantitative models](../q/quantitative_models.md) to predict potential drawdowns and adjust their strategies accordingly.
+1. **[Hedge](../h/hedge.md) Funds and Investment Firms**: Firms like Renaissance Technologies ( and Two Sigma ( [leverage](../l/leverage.md) sophisticated [drawdown](../d/drawdown.md) analysis as part of their [risk management](../r/risk_management.md) processes. They employ [quantitative models](../q/quantitative_models.md) to predict potential drawdowns and adjust their strategies accordingly.
 
-2. **Retail Traders**: Platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) and [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) [offer](../o/offer.md) tools for retail traders to backtest [trading strategies](../t/trading_strategies.md) and analyze drawdowns. These tools provide detailed metrics to help traders understand their strategies' [risk profiles](../r/risk_profiles.md).
+2. **Retail Traders**: Platforms like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) ( [offer](../o/offer.md) tools for retail traders to backtest [trading strategies](../t/trading_strategies.md) and analyze drawdowns. These tools provide detailed metrics to help traders understand their strategies' [risk profiles](../r/risk_profiles.md).
 
 #### Tools and Software for Drawdown Analysis
 
@@ -59,9 +59,9 @@ Several [software tools](../s/software_tools_for_trading.md) and platforms can a
 
 1. **Python Libraries**: The `pandas` and `numpy` libraries in Python are commonly used for [financial analysis](../f/financial_analysis.md), including [drawdown](../d/drawdown.md) calculations. The `[quantlib](../q/quantlib.md)` and `zipline` libraries provide more specialized features for [quantitative finance](../q/quantitative_finance.md).
 
-2. **[Backtesting](../b/backtesting.md) Platforms**: Platforms like [TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com), MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com), and [QuantConnect](../q/quantconnect.md) [offer](../o/offer.md) built-in tools to backtest strategies and analyze drawdowns.
+2. **[Backtesting](../b/backtesting.md) Platforms**: Platforms like [TradingView](../t/tradingview.md) ( MetaTrader ( and [StockSharp](../s/stocksharp.md) [offer](../o/offer.md) built-in tools to backtest strategies and analyze drawdowns.
 
-3. **[Risk Management](../r/risk_management.md) Software**: Tools like Riskalyze (https://www.riskalyze.com) and Statmetrics (https://statmetrics.io) provide comprehensive [risk](../r/risk.md) assessment, including [drawdown](../d/drawdown.md) analysis, to help traders optimize their portfolios.
+3. **[Risk Management](../r/risk_management.md) Software**: Tools like Riskalyze ( and Statmetrics ( provide comprehensive [risk](../r/risk.md) assessment, including [drawdown](../d/drawdown.md) analysis, to help traders optimize their portfolios.
 
 #### Advanced Techniques in Drawdown Analysis
 

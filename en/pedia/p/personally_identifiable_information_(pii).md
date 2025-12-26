@@ -1,6 +1,6 @@
 # Personally Identifiable Information (PII)
 
-Personally Identifiable Information (PII) refers to data that can be used to identify a specific individual, either directly or indirectly. PII encompasses a wide [range](../r/range.md) of information, from obvious identifiers like full names and [Social Security](../s/social_security.md) numbers, to less obvious data like IP addresses, biometric data, and even certain behavioral traits. Managing and protecting PII is crucial for organizations to maintain privacy, comply with laws, and build [trust](../t/trust.md) with users. 
+Personally Identifiable Information (PII) refers to data that can be used to identify a specific individual, either directly or indirectly. PII encompasses a wide [range](../r/range.md) of information, from obvious identifiers like full names and [Social Security](../s/social_security.md) numbers, to less obvious data like IP addresses, biometric data, and even certain behavioral traits. Managing and protecting PII is crucial for organizations to maintain privacy, comply with laws, and build [trust](../t/trust.md) with users.
 
 ## Types of PII
 

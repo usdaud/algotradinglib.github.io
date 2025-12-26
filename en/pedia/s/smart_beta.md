@@ -48,19 +48,19 @@ Quality-driven [Smart Beta strategies](../s/smart_beta_strategies.md) prioritize
 ## Prominent Smart Beta Providers
 
 1. **BlackRock's [iShares](../i/ishares.md)**: A leading provider of Smart [Beta](../b/beta.md) ETFs, [offering](../o/offering.md) various products focusing on different factors like quality, low [volatility](../v/volatility.md), and dividends.
-   - [iShares by BlackRock](https://www.ishares.com/us/products/etf-investments#!type=focus&style=smart-beta)
-   
-2. **Invesco**: Known for its wide [range](../r/range.md) of [factor](../f/factor.md)-based ETFs, Invesco provides numerous Smart [Beta](../b/beta.md) products targeting different investment factors.
-   - [Invesco ETFs](https://www.invesco.com/portal/site/us/investors/etfs/)
-   
-3. **State Street Global Advisors (SSGA)**: Another major provider [offering](../o/offering.md) a broad suite of Smart [Beta](../b/beta.md) ETFs under the SPDR brand, focusing on various factors like [momentum](../m/momentum.md) and quality.
-   - [State Street Global Advisors SPDR ETFs](https://www.ssga.com/us/en/institutional/etfs)
+ - iShares by BlackRock
 
-4. **WisdomTree**: Specializing in [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) and other [factor](../f/factor.md)-based strategies, WisdomTree offers a diverse [range](../r/range.md) of Smart [Beta](../b/beta.md) products. 
-   - [WisdomTree](https://www.wisdomtree.com/etfs/equity)
+2. **Invesco**: Known for its wide [range](../r/range.md) of [factor](../f/factor.md)-based ETFs, Invesco provides numerous Smart [Beta](../b/beta.md) products targeting different investment factors.
+ - Invesco ETFs
+
+3. **State Street Global Advisors (SSGA)**: Another major provider [offering](../o/offering.md) a broad suite of Smart [Beta](../b/beta.md) ETFs under the SPDR brand, focusing on various factors like [momentum](../m/momentum.md) and quality.
+ - State Street Global Advisors SPDR ETFs
+
+4. **WisdomTree**: Specializing in [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) and other [factor](../f/factor.md)-based strategies, WisdomTree offers a diverse [range](../r/range.md) of Smart [Beta](../b/beta.md) products.
+ - WisdomTree
 
 5. **[Charles Schwab](../c/charles_schwab.md)**: Provides a suite of Smart [Beta](../b/beta.md) ETFs designed to focus on specific investment factors like low [volatility](../v/volatility.md) and fundamental [indexing](../i/indexing.md).
-   - [Schwab ETFs](https://www.schwab.com/schwab-etfs)
+ - Schwab ETFs
 
 ## Conclusion
 

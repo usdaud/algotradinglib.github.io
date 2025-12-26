@@ -39,8 +39,8 @@ With the rise of digital banking, the concept of on-us items has extended into e
 ### 5.1. Example: PayPal and Venmo
 [PayPal](../p/paypal.md) and its subsidiary Venmo process many on-us transactions daily. Funds transferred between two [PayPal](../p/paypal.md) accounts or Venmo accounts held within the same platform are settled almost instantaneously compared to external transfers.
 
-- **[PayPal](../p/paypal.md)**: [PayPal Official Website](https://www.paypal.com)
-- **Venmo**: [Venmo Official Website](https://www.venmo.com)
+- **[PayPal](../p/paypal.md)**:
+- **Venmo**:
 
 ## 6. Conclusion
 

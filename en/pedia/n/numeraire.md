@@ -8,7 +8,6 @@ Numerai is a platform that leverages [data science](../d/data_science_in_trading
 
 Numerai aims to build a more resilient and predictive model by crowdsourcing the development of predictive algorithms. Data scientists compete in tournaments, where the winners are rewarded with NMR tokens. The platform operates under a principle of radical openness, sharing its financial data openly with participants while ensuring the data is anonymized to protect its proprietary nature.
 
-[Visit Numerai](https://numer.ai/)
 
 ## How Numeraire Works
 

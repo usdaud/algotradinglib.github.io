@@ -63,7 +63,7 @@ Involves buying and selling LEAPS with different expiration dates or strike pric
 Like all [options](../o/options.md), LEAPS are subject to [market risk](../m/market_risk.md). If the [underlying asset](../u/underlying_asset.md) does not move in the anticipated direction, the [investor](../i/investor.md) could lose the entire [premium](../p/premium.md) paid for the LEAPS contract.
 
 ### Volatility Risk
-Changes in [market](../m/market.md) [volatility](../v/volatility.md) can affect the price of LEAPS. For instance, an unexpected decrease in [volatility](../v/volatility.md) can reduce the [value](../v/value.md) of both LEAPS calls and puts. 
+Changes in [market](../m/market.md) [volatility](../v/volatility.md) can affect the price of LEAPS. For instance, an unexpected decrease in [volatility](../v/volatility.md) can reduce the [value](../v/value.md) of both LEAPS calls and puts.
 
 ### Interest Rate Risk
 [Interest](../i/interest.md) rates can influence the price of LEAPS, particularly those with longer durations. Rising [interest](../i/interest.md) rates tend to decrease the [value](../v/value.md) of call [options](../o/options.md) and increase the [value](../v/value.md) of [put options](../p/put_options.md).
@@ -73,10 +73,10 @@ Though less common with LEAPS compared to traditional [options](../o/options.md)
 
 ## Conclusion
 
-Long-Term [Equity](../e/equity.md) Anticipation Securities (LEAPS) [offer](../o/offer.md) a versatile tool for investors looking to [capitalize](../c/capitalize.md) on long-term [market](../m/market.md) trends, manage [risk](../r/risk.md), and amplify returns. While they present numerous advantages, including an extended [time horizon](../t/time_horizon.md), lower [theta](../t/theta.md) decay, and [leverage](../l/leverage.md), they also come with risks such as higher premiums, lower [liquidity](../l/liquidity.md), and [market](../m/market.md) [volatility](../v/volatility.md). 
+Long-Term [Equity](../e/equity.md) Anticipation Securities (LEAPS) [offer](../o/offer.md) a versatile tool for investors looking to [capitalize](../c/capitalize.md) on long-term [market](../m/market.md) trends, manage [risk](../r/risk.md), and amplify returns. While they present numerous advantages, including an extended [time horizon](../t/time_horizon.md), lower [theta](../t/theta.md) decay, and [leverage](../l/leverage.md), they also come with risks such as higher premiums, lower [liquidity](../l/liquidity.md), and [market](../m/market.md) [volatility](../v/volatility.md).
 
 Given their complexity and the potential risks involved, LEAPS are generally better suited for seasoned investors with a thorough understanding of [options](../o/options.md) trading. Proper research, [risk management](../r/risk_management.md), and strategy are crucial for successful [investing](../i/investing.md) in LEAPS.
 
 Understanding and efficiently leveraging LEAPS can be a powerful component of an [investor](../i/investor.md)'s trading arsenal, providing the potential for substantial returns and effective [risk management](../r/risk_management.md) over extended periods.
 
-For more information and updates on LEAPS, you can visit the [Chicago Board Options Exchange (CBOE)](https://www.cboe.com/), which is a primary marketplace for [options](../o/options.md) trading, including LEAPS.
+For more information and updates on LEAPS, you can visit the Chicago Board Options Exchange (CBOE), which is a primary marketplace for [options](../o/options.md) trading, including LEAPS.

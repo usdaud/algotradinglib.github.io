@@ -85,7 +85,7 @@ When Twitter went public in 2013, it was valued using a [revenue](../r/revenue.m
 
 Facebook's [acquisition](../a/acquisition.md) of WhatsApp in 2014 for $19 billion was largely influenced by WhatsApp's growth potential and user base, despite its relatively low monetization at the time. The [revenue](../r/revenue.md) [multiple](../m/multiple.md) for the [acquisition](../a/acquisition.md) was speculated to be extraordinarily high due to the strategic importance of the user base and growth opportunities.
 
-### [Shopify](https://www.shopify.com/)
+### Shopify
 
 Shopify, a leading e-[commerce](../c/commerce.md) platform, often showcases [valuation](../v/valuation.md) metrics in terms of [revenue](../r/revenue.md) [multiple](../m/multiple.md) due to its rapid growth. As of recent [financing](../f/financing.md) rounds, the company has been valued at multiples significantly higher than traditional e-[commerce](../c/commerce.md) players, reflecting [investor](../i/investor.md) expectations of future [revenue](../r/revenue.md) [expansion](../e/expansion.md).
 

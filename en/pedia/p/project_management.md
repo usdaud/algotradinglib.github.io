@@ -163,19 +163,19 @@ The field of project management is continuously evolving, with emerging trends s
 
 ### Websites
 
-- **[Project Management Institute (PMI)](https://www.pmi.org/)**: Offers resources, certifications, and standards for project management professionals.
-- **[Scrum Alliance](https://www.scrumalliance.org/)**: Provides resources and certification for Scrum practitioners.
-- **[Asana](https://asana.com/)**: Project management software that helps teams organize, track, and manage their work.
+- **Project Management Institute (PMI)**: Offers resources, certifications, and standards for project management professionals.
+- **Scrum Alliance**: Provides resources and certification for Scrum practitioners.
+- **Asana**: Project management software that helps teams organize, track, and manage their work.
 
 ### Online Courses
 
-- **[Coursera's Project Management Courses](https://www.coursera.org/courses?query=project%20management)**: Offers various courses on project management.
-- **[edX Project Management Programs](https://www.edx.org/learn/project-management)**: Provides coursework on various project management methodologies and practices.
+- **Coursera's Project Management Courses**: Offers various courses on project management.
+- **edX Project Management Programs**: Provides coursework on various project management methodologies and practices.
 
 ### Industry Bodies
 
-- **[Project Management Institute (PMI)](https://www.pmi.org/)**
-- **[Association for Project Management (APM)](https://www.apm.org.uk/)**
-- **[International Project Management Association (IPMA)](https://www.ipma.world/)**
+- **Project Management Institute (PMI)**
+- **Association for Project Management (APM)**
+- **International Project Management Association (IPMA)**
 
 By understanding and applying these principles, methodologies, and tools, project managers can effectively navigate through the complexities of project [execution](../e/execution.md), ensuring successful project outcomes that align with organizational goals and [stakeholder](../s/stakeholder.md) expectations.

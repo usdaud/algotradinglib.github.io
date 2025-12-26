@@ -106,4 +106,3 @@ MasterCard continues to focus on expanding its global footprint, innovating [pay
 
 MasterCard's enduring commitment to innovation, [security](../s/security.md), and strategic growth has solidified its position as a leader in the global payments landscape. By continually adapting to changing [market dynamics](../m/market_dynamics.md) and technological advancements, MasterCard remains poised to facilitate secure and efficient [payment](../p/payment.md) solutions for billions of consumers and businesses worldwide.
 
-For more information on MasterCard and its latest initiatives, you can visit their [official website](https://www.mastercard.com).

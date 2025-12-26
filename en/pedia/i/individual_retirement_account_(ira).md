@@ -136,10 +136,10 @@ Converting a [Traditional IRA](../t/traditional_ira.md) to a [Roth IRA](../r/rot
 
 Several financial institutions [offer](../o/offer.md) IRA accounts with different features and services. Here are links to some prominent providers:
 
-- [Vanguard](https://investor.vanguard.com/retirement-accounts/iras)
-- [Fidelity](https://www.fidelity.com/retirement-ira)
-- [Charles Schwab](https://www.schwab.com/ira)
-- [TD Ameritrade](https://www.tdameritrade.com/retirement-ira/iras.page)
+- Vanguard
+- Fidelity
+- Charles Schwab
+- TD Ameritrade
 
 These providers [offer](../o/offer.md) tools, resources, and [customer](../c/customer.md) support to help individuals manage their IRAs effectively.
 

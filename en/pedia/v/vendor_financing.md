@@ -96,19 +96,16 @@ Several well-known companies [offer](../o/offer.md) vendor [financing](../f/fina
 
 Dell Financial Services provides [financing](../f/financing.md) [options](../o/options.md) for businesses and consumers purchasing Dell products. Customers can choose from a variety of [financing](../f/financing.md) plans, including lease [options](../o/options.md), installment plans, and deferred payments.
 
-[Visit Dell Financial Services](https://www.dell.com/learn/us/en/uscorp1/campaigns/dell-business-credit)
 
 ### Amazon Business Line of Credit
 
 Amazon offers a [business](../b/business.md) line of [credit](../c/credit.md) in partnership with Synchrony [Bank](../b/bank.md). This allows businesses to purchase goods on Amazon and pay over time. The flexible [payment](../p/payment.md) [options](../o/options.md) can be particularly beneficial for small and medium enterprises.
 
-[Visit Amazon Business Line of Credit](https://www.amazon.com/b?node=16252223011)
 
 ### Cisco Capital
 
 Cisco [Capital](../c/capital.md) provides [financing](../f/financing.md) solutions to help organizations of all sizes acquire Cisco products and services. The [financing](../f/financing.md) [options](../o/options.md) include leasing, deferred payments, and installment plans, catering to various [business](../b/business.md) needs.
 
-[Visit Cisco Capital](https://www.cisco.com/c/en/us/buy/flexible-payment-solutions.html)
 
 ## Conclusion
 

@@ -34,14 +34,14 @@ Regulatory bodies may impose fees to cover the costs associated with maintaining
 Financial technology companies often provide innovative services that come with unique [fee](../f/fee.md) structures, such as:
 
 - **Platform Fees:** Charges for using a [trading platform](../t/trading_platform.md) or fintech service.
-- **API Access Fees:** Fees for accessing application programming interfaces (APIs) for [algorithmic trading](../a/accountability.md).
+- **API Access Fees:** Fees for accessing application programming interfaces (APIs) for [algorithmic trading](../a/algorithmic_trading.md).
 - **Data Subscription Fees:** For access to specialized [market](../m/market.md) data or analytics.
 
 ## Examples of Companies and Their Fees
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (IB) is a prominent brokerage [firm](../f/firm.md) known for its competitive [fee](../f/fee.md) structure. Details on their fees can be found on their [fee schedule page](https://www.interactivebrokers.com/en/accounts/fees-and-commissions.php).
+[Interactive Brokers](../i/interactive_brokers.md) (IB) is a prominent brokerage [firm](../f/firm.md) known for its competitive [fee](../f/fee.md) structure. Details on their fees can be found on their fee schedule page.
 
 Notably, IB charges:
 
@@ -51,7 +51,7 @@ Notably, IB charges:
 
 ### Coinbase
 
-[Coinbase](../c/coinbase.md) is a leading cryptocurrency [exchange](../e/exchange.md) that imposes various user fees, which are detailed on their [pricing and fees page](https://www.coinbase.com/price-and-fees).
+[Coinbase](../c/coinbase.md) is a leading cryptocurrency [exchange](../e/exchange.md) that imposes various user fees, which are detailed on their pricing and fees page.
 
 Key fees include:
 
@@ -63,7 +63,7 @@ Key fees include:
 User fees can significantly influence [trading strategies](../t/trading_strategies.md). For instance:
 
 - **High-Frequency Trading (HFT):** Traders need to account for per-[trade](../t/trade.md) fees, which can accumulate rapidly due to the high [volume](../v/volume.md) of trades.
-- **[Algorithmic Trading](../a/accountability.md):** Strategy development often considers [fee](../f/fee.md) [optimization](../o/optimization.md) to ensure net profitability after fees are deducted.
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** Strategy development often considers [fee](../f/fee.md) [optimization](../o/optimization.md) to ensure net profitability after fees are deducted.
 - **Long-Term [Investing](../i/investing.md):** Investors focus more on minimizing account maintenance and advisory fees, optimizing the cost over extended investment horizons.
 
 ## Mitigating User Fees
@@ -76,4 +76,4 @@ Traders and investors employ various tactics to mitigate the impact of user fees
 
 ## Conclusion
 
-User fees are a crucial aspect of [financial markets](../f/financial_market.md) that affect [trading costs](../t/trading_costs.md), strategies, and overall [market](../m/market.md) behavior. By understanding the different types of fees and their implications, traders and investors can make more informed decisions, ultimately enhancing their financial outcomes. The evolution of fintech and [algorithmic trading](../a/accountability.md) continues to shape the landscape of user fees, [offering](../o/offering.md) both challenges and opportunities for [market](../m/market.md) participants.
+User fees are a crucial aspect of [financial markets](../f/financial_market.md) that affect [trading costs](../t/trading_costs.md), strategies, and overall [market](../m/market.md) behavior. By understanding the different types of fees and their implications, traders and investors can make more informed decisions, ultimately enhancing their financial outcomes. The evolution of fintech and [algorithmic trading](../a/algorithmic_trading.md) continues to shape the landscape of user fees, [offering](../o/offering.md) both challenges and opportunities for [market](../m/market.md) participants.

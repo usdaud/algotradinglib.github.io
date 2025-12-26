@@ -22,7 +22,7 @@ Trading on a WI [basis](../b/basis.md) is subject to regulation to ensure fair p
 
 WI trading is prevalent in the [U.S. Treasury](../u/u.s._treasury.md) [market](../m/market.md). When the Treasury announces a [new issue](../n/new_issue.md) of bonds, notes, or bills, these instruments often begin trading on a WI [basis](../b/basis.md). This pre-issuance trading can help to gauge [market](../m/market.md) [demand](../d/demand.md) and establish a preliminary price for the securities. As a result, by the time the securities are officially issued, there might already be an established [market price](../m/market_price.md), promoting [liquidity](../l/liquidity.md) and [efficiency](../e/efficiency.md).
 
-Details on [U.S. Treasury](../u/u.s._treasury.md) securities and WI trading specifics can be found on the U.S. Department of the Treasury's [official website](https://www.treasury.gov).
+Details on [U.S. Treasury](../u/u.s._treasury.md) securities and WI trading specifics can be found on the U.S. Department of the Treasury's
 
 ### Initial Public Offerings (IPOs)
 
@@ -62,6 +62,6 @@ Investors can use WI trading for hedging purposes or to manage their portfolios 
 
 ## Conclusion
 
-When Issued trading is a crucial aspect of modern [financial markets](../f/financial_market.md). It allows for conditional trading of securities that are yet to be issued, providing key benefits such as [price discovery](../p/price_discovery.md), [liquidity](../l/liquidity.md), and [risk management](../r/risk_management.md). Despite its advantages, WI trading also carries certain risks, including [execution](../e/execution.md), [market](../m/market.md), and settlement risks. Regulatory oversight ensures fair practices and mitigates some of these inherent risks, promoting an efficient and transparent [trading environment](../t/trading_environment.md). 
+When Issued trading is a crucial aspect of modern [financial markets](../f/financial_market.md). It allows for conditional trading of securities that are yet to be issued, providing key benefits such as [price discovery](../p/price_discovery.md), [liquidity](../l/liquidity.md), and [risk management](../r/risk_management.md). Despite its advantages, WI trading also carries certain risks, including [execution](../e/execution.md), [market](../m/market.md), and settlement risks. Regulatory oversight ensures fair practices and mitigates some of these inherent risks, promoting an efficient and transparent [trading environment](../t/trading_environment.md).
 
 For more detailed information and regulatory guidelines, potential investors and participants can refer to official resources and platforms of financial regulatory bodies like FINRA or the SEC. The continued evolution and regulation of WI trading [will](../w/will.md) likely play a significant role in the fluidity and robustness of global [financial markets](../f/financial_market.md).

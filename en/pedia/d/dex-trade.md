@@ -72,4 +72,4 @@ Dex-[Trade](../t/trade.md) offers [robust](../r/robust.md) [customer](../c/custo
 ## Conclusion
 Dex-[Trade](../t/trade.md) is a comprehensive platform that serves the needs of both novice and experienced cryptocurrency traders. With its wide array of features, advanced [security](../s/security.md) measures, and community-driven governance, it stands out as a reliable option in the decentralized [exchange](../e/exchange.md) space.
 
-For more information, visit [Dex-Trade](https://dex-trade.com/).
+For more information, visit Dex-Trade.

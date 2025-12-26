@@ -72,8 +72,8 @@ Reduced-form models, like the Jarrow-Turnbull Model, do not require in-depth fin
 
 Modern QCA leverages sophisticated [software tools](../s/software_tools_for_trading.md) and platforms:
 
-- **SAS [Credit](../c/credit.md) Scoring:** Offers end-to-end capabilities for building, validating, deploying, and monitoring [credit](../c/credit.md) scoring models. [SAS Credit Scoring](https://www.sas.com/en_us/software/credit-scoring.html)
-- **Moody's Analytics**: Provides comprehensive solutions for [credit](../c/credit.md) assessment and [portfolio management](../p/portfolio_management.md). [Moody's Analytics](https://www.moodysanalytics.com/)
+- **SAS [Credit](../c/credit.md) Scoring:** Offers end-to-end capabilities for building, validating, deploying, and monitoring [credit](../c/credit.md) scoring models. SAS Credit Scoring
+- **Moody's Analytics**: Provides comprehensive solutions for [credit](../c/credit.md) assessment and [portfolio management](../p/portfolio_management.md). Moody's Analytics
 
 ## Application Areas
 

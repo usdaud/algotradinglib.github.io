@@ -104,15 +104,15 @@ Several prominent banks exemplify the effective use of Tier 1 [capital](../c/cap
 
 ### 1. JPMorgan Chase
 
-JPMorgan Chase, a leading global financial services [firm](../f/firm.md), maintains a strong [Tier 1 capital ratio](../t/tier_1_capital_ratio.md) [JPMorgan Chase](https://www.jpmorganchase.com/). The [bank](../b/bank.md)'s [robust](../r/robust.md) [capital](../c/capital.md) position enables it to navigate economic fluctuations and [market](../m/market.md) uncertainties.
+JPMorgan Chase, a leading global financial services [firm](../f/firm.md), maintains a strong [Tier 1 capital ratio](../t/tier_1_capital_ratio.md) JPMorgan Chase. The [bank](../b/bank.md)'s [robust](../r/robust.md) [capital](../c/capital.md) position enables it to navigate economic fluctuations and [market](../m/market.md) uncertainties.
 
 ### 2. HSBC
 
-HSBC, a major international [bank](../b/bank.md), emphasizes [capital](../c/capital.md) adequacy as part of its [risk management](../r/risk_management.md) strategy. By maintaining a solid [Tier 1 capital ratio](../t/tier_1_capital_ratio.md), HSBC ensures compliance with regulatory standards and enhances [investor](../i/investor.md) confidence [HSBC](https://www.hsbc.com/).
+HSBC, a major international [bank](../b/bank.md), emphasizes [capital](../c/capital.md) adequacy as part of its [risk management](../r/risk_management.md) strategy. By maintaining a solid [Tier 1 capital ratio](../t/tier_1_capital_ratio.md), HSBC ensures compliance with regulatory standards and enhances [investor](../i/investor.md) confidence HSBC.
 
 ### 3. Deutsche Bank
 
-Deutsche [Bank](../b/bank.md), a prominent player in the global banking sector, focuses on maintaining an adequate [Tier 1 capital ratio](../t/tier_1_capital_ratio.md) to bolster its resilience against financial shocks [Deutsche Bank](https://www.db.com/).
+Deutsche [Bank](../b/bank.md), a prominent player in the global banking sector, focuses on maintaining an adequate [Tier 1 capital ratio](../t/tier_1_capital_ratio.md) to bolster its resilience against financial shocks Deutsche Bank.
 
 ## Future Trends and Developments
 

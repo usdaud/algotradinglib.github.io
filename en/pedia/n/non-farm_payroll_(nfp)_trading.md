@@ -58,23 +58,23 @@ Given the high [volatility](../v/volatility.md) associated with NFP releases, ef
 
 Economic calendars provide scheduled release times and forecasts for NFP data. Reliable sources include:
 
-- **ForexFactory:** [Economic Calendar](https://www.forexfactory.com/calendar.php)
-- **[Investing](../i/investing.md).com:** [Economic Calendar](https://www.investing.com/economic-calendar/)
+- **ForexFactory:** Economic Calendar
+- **[Investing](../i/investing.md).com:** Economic Calendar
 
 ### 2. Analytical Platforms
 
 Platforms providing analytical tools and real-time data for NFP trading include:
 
 - **MetaTrader 4/5:** Widely used trading platforms [offering](../o/offering.md) [technical analysis](../t/technical_analysis.md) tools and indicators.
-- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/) provides comprehensive charting tools and a [social trading](../s/social_trading.md) community.
+- **[TradingView](../t/tradingview.md):** TradingView provides comprehensive charting tools and a [social trading](../s/social_trading.md) community.
 
 ### 3. News and Data Feeds
 
 Staying updated with real-time news and data releases is essential. Some sources are:
 
-- **[Bloomberg](../b/bloomberg.md):** [Bloomberg](https://www.bloomberg.com/)
-- **[Reuters](../r/reuters.md):** [Reuters](https://www.reuters.com/)
-- **CNBC:** [CNBC](https://www.cnbc.com/)
+- **[Bloomberg](../b/bloomberg.md):** Bloomberg
+- **[Reuters](../r/reuters.md):** Reuters
+- **CNBC:** CNBC
 
 ## Case Studies of NFP Trading
 
@@ -112,5 +112,5 @@ The January 2021 NFP report showed a decline of 140,000 jobs, missing expectatio
 
 For further information on trading platforms and tools that facilitate NFP trading, you can visit:
 
-- **MetaTrader 4/5:** [MetaTrader](https://www.metatrader4.com/en)
-- **[TradingView](../t/tradingview.md):** [TradingView](https://www.tradingview.com/)
+- **MetaTrader 4/5:** MetaTrader
+- **[TradingView](../t/tradingview.md):** TradingView

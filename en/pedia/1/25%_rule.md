@@ -42,15 +42,15 @@ Rigid adherence to the 25% Rule might not be feasible for every [trading strateg
 ## Practical Implementation
 
 ### Example of a Trading Platform
-Consider a [trading platform](../t/trading_platform.md) like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/), which offers [robust](../r/robust.md) tools for [asset allocation](../a/asset_allocation.md) and [portfolio management](../p/par.md). Traders can use these tools to set predefined allocation limits that automatically comply with the 25% Rule.
+Consider a [trading platform](../t/trading_platform.md) like [Interactive Brokers](../i/interactive_brokers.md) ( which offers [robust](../r/robust.md) tools for [asset allocation](../a/asset_allocation.md) and [portfolio management](../p/par.md). Traders can use these tools to set predefined allocation limits that automatically comply with the 25% Rule.
 
 ### Software Integration
-Algorithmic traders often integrate rule-based frameworks within their trading software. For instance, MetaTrader 5 (https://www.metatrader5.com/en), a popular platform, allows the creation of [automated trading systems](../a/automated_trading_systems.md) that can be programmed to respect the 25% Rule. By setting up parameters within the custom scripts or Expert Advisors (EAs), traders ensure their systems operate within these boundaries.
+Algorithmic traders often integrate rule-based frameworks within their trading software. For instance, MetaTrader 5 ( a popular platform, allows the creation of [automated trading systems](../a/automated_trading_systems.md) that can be programmed to respect the 25% Rule. By setting up parameters within the custom scripts or Expert Advisors (EAs), traders ensure their systems operate within these boundaries.
 
 ## Case Study
 
 ### Hedge Fund Adaptation
-A notable [hedge fund](../h/hedge_fund.md) that employs [risk management techniques](../r/risk_management_techniques.md) akin to the 25% Rule is Bridgewater Associates (https://www.bridgewater.com/). While not explicitly stating the use of the 25% Rule, Bridgewater's [risk parity](../r/risk_parity.md) approach [shares](../s/shares.md) core similarities in terms of [diversification](../d/diversification.md) and [risk](../r/risk.md) exposure limitations. They focus on maintaining balanced [risk](../r/risk.md) across various assets to achieve stable returns.
+A notable [hedge fund](../h/hedge_fund.md) that employs [risk management techniques](../r/risk_management_techniques.md) akin to the 25% Rule is Bridgewater Associates ( While not explicitly stating the use of the 25% Rule, Bridgewater's [risk parity](../r/risk_parity.md) approach [shares](../s/shares.md) core similarities in terms of [diversification](../d/diversification.md) and [risk](../r/risk.md) exposure limitations. They focus on maintaining balanced [risk](../r/risk.md) across various assets to achieve stable returns.
 
 ## Conclusion
 The 25% Rule provides a structured approach for managing [risk](../r/risk.md) and ensuring disciplined [asset allocation](../a/asset_allocation.md) in [algorithmic trading](../a/accountability.md). While it has its limitations, when appropriately implemented, it can enhance the robustness of a [trading strategy](../t/trading_strategy.md), mitigate potential losses, and promote long-term success. As with any [trading strategy](../t/trading_strategy.md), understanding the specific needs, constraints, and objectives of the portfolio is crucial for effective implementation. Overall, the 25% Rule is a foundational guideline that helps traders navigate the complexities of the [market](../m/market.md) with a more resilient and diversified portfolio.

@@ -1,6 +1,6 @@
 # Inside Day
 
-In the realm of [algorithmic trading](../a/accountability.md), the concept of an "Inside Day" plays a crucial role in the analysis and prediction of [market](../m/market.md) movements. Understanding an Inside Day and its implications in the context of [algorithmic trading](../a/accountability.md) can greatly enhance [trading strategies](../t/trading_strategies.md) and improve the precision of [market](../m/market.md) predictions.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the concept of an "Inside Day" plays a crucial role in the analysis and prediction of [market](../m/market.md) movements. Understanding an Inside Day and its implications in the context of [algorithmic trading](../a/algorithmic_trading.md) can greatly enhance [trading strategies](../t/trading_strategies.md) and improve the precision of [market](../m/market.md) predictions.
 
 ## What is an Inside Day?
 
@@ -14,7 +14,7 @@ An Inside Day occurs when the high and low prices of a given trading day are ent
 
 ## Importance in Trading Strategies
 
-Inside Days are crucial for traders as they often signal potential breakouts or reversals. [Algorithmic trading](../a/accountability.md) systems can be programmed to detect Inside Days and act upon them, leveraging this pattern to make informed trading decisions.
+Inside Days are crucial for traders as they often signal potential breakouts or reversals. [Algorithmic trading](../a/algorithmic_trading.md) systems can be programmed to detect Inside Days and act upon them, leveraging this pattern to make informed trading decisions.
 
 ### Identifying Inside Days
 
@@ -96,17 +96,17 @@ print(f'Inside Days: {inside_days}')
 
 In practice, financial institutions and trading firms utilize sophisticated algorithms to identify and [capitalize](../c/capitalize.md) on Inside Day patterns. Several platforms [offer](../o/offer.md) tools and APIs for such implementations:
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com) provides a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their [infrastructure](../i/infrastructure.md) supports the development of custom algorithms to detect and [trade](../t/trade.md) based on Inside Day patterns.
+[StockSharp](../s/stocksharp.md) provides a platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Their [infrastructure](../i/infrastructure.md) supports the development of custom algorithms to detect and [trade](../t/trade.md) based on Inside Day patterns.
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) offers APIs that allow traders to implement and automate [trading strategies](../t/trading_strategies.md), including those based on [technical analysis patterns](../t/technical_analysis_patterns.md) like Inside Days.
+[Interactive Brokers](../i/interactive_brokers.md) ( offers APIs that allow traders to implement and automate [trading strategies](../t/trading_strategies.md), including those based on [technical analysis patterns](../t/technical_analysis_patterns.md) like Inside Days.
 
 ### Alpaca
 
-[Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets) is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides APIs for automating [trading strategies](../t/trading_strategies.md). Traders can use [Alpaca](../a/alpaca.md) to develop and deploy algorithms to detect and react to Inside Day patterns.
+[Alpaca](../a/alpaca.md) ( is a [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) that provides APIs for automating [trading strategies](../t/trading_strategies.md). Traders can use [Alpaca](../a/alpaca.md) to develop and deploy algorithms to detect and react to Inside Day patterns.
 
 ## Conclusion
 

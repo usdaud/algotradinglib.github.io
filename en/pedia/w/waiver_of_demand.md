@@ -4,7 +4,7 @@ In the realm of [finance](../f/finance.md) and trading, legal terminology often 
 
 ## Definition
 
-Waiver of [Demand](../d/demand.md) refers to the voluntary relinquishment of the right to require formal [demand](../d/demand.md) for [payment](../p/payment.md) of a [debt](../d/debt.md) before taking legal action. In simpler terms, it means that the [creditor](../c/creditor.md) can take legal action to collect a [debt](../d/debt.md) without first having to present a formal [demand](../d/demand.md) for [payment](../p/payment.md) to the debtor. 
+Waiver of [Demand](../d/demand.md) refers to the voluntary relinquishment of the right to require formal [demand](../d/demand.md) for [payment](../p/payment.md) of a [debt](../d/debt.md) before taking legal action. In simpler terms, it means that the [creditor](../c/creditor.md) can take legal action to collect a [debt](../d/debt.md) without first having to present a formal [demand](../d/demand.md) for [payment](../p/payment.md) to the debtor.
 
 Typically, in financial agreements, demands for [payment](../p/payment.md) serve as formal notifications to debtors that [payment](../p/payment.md) is due. A Waiver of [Demand](../d/demand.md) clause in a contract essentially removes this notification requirement, granting creditors the freedom to pursue immediate legal [recourse](../r/recourse.md) if a [payment](../p/payment.md) obligation is not met.
 
@@ -84,5 +84,4 @@ A trading [firm](../f/firm.md) included a Waiver of [Demand](../d/demand.md) cla
 
 Waiver of [Demand](../d/demand.md) is a powerful contractual [provision](../p/provision.md) that influences the dynamics of [debt](../d/debt.md) collection and financial transactions. Its inclusion in financial agreements can provide significant advantages to creditors by allowing immediate legal action without prior formal [demand](../d/demand.md). However, it requires careful consideration, clear drafting, and mutual agreement to ensure enforceability and fairness. As [financial markets](../f/financial_market.md) and legal frameworks continue to evolve, the strategic use of Waiver of [Demand](../d/demand.md) clauses [will](../w/will.md) remain an important tool for managing [risk](../r/risk.md) and protecting [creditor](../c/creditor.md) interests.
 
-For more detailed information on financial and trading terms, visit [LexisNexis](https://www.lexisnexis.com) or [FindLaw](https://www.findlaw.com).
-
+For more detailed information on financial and trading terms, visit LexisNexis or FindLaw.

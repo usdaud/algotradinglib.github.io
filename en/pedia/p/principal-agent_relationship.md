@@ -4,9 +4,9 @@ A [principal](../p/principal.md)-agent relationship is a fundamental concept in 
 
 ## Understanding the Principal-Agent Relationship
 
-A [principal](../p/principal.md)-agent relationship arises when a [principal](../p/principal.md) (e.g., a [shareholder](../s/shareholder.md), employer, or client) engages an agent (e.g., a manager, employee, or contractor) to perform a task or service on their behalf. The [principal](../p/principal.md) delegates authority to the agent, hoping that the agent [will](../w/will.md) act in the [principal](../p/principal.md)'s best [interest](../i/interest.md). However, this delegation creates several economic and managerial challenges, primarily because the [principal](../p/principal.md) and the agent often have different goals and levels of [risk tolerance](../r/risk_tolerance.md). 
+A [principal](../p/principal.md)-agent relationship arises when a [principal](../p/principal.md) (e.g., a [shareholder](../s/shareholder.md), employer, or client) engages an agent (e.g., a manager, employee, or contractor) to perform a task or service on their behalf. The [principal](../p/principal.md) delegates authority to the agent, hoping that the agent [will](../w/will.md) act in the [principal](../p/principal.md)'s best [interest](../i/interest.md). However, this delegation creates several economic and managerial challenges, primarily because the [principal](../p/principal.md) and the agent often have different goals and levels of [risk tolerance](../r/risk_tolerance.md).
 
-### Key Concepts 
+### Key Concepts
 - **[Principal](../p/principal.md)**: The individual or entity that delegates a task or responsibility to another.
 - **Agent**: The individual or entity that performs the task or responsibility on behalf of the [principal](../p/principal.md).
 - **[Agency Problem](../a/agency_problem.md)**: A situation where the agent's self-[interest](../i/interest.md) conflicts with the [principal](../p/principal.md)'s interests.
@@ -15,7 +15,7 @@ A [principal](../p/principal.md)-agent relationship arises when a [principal](..
 
 ## The Agency Problem
 
-The [agency problem](../a/agency_problem.md) is central to the [principal](../p/principal.md)-agent relationship. This problem arises because the agent and the [principal](../p/principal.md) have different interests, and the agent may not always act in the best [interest](../i/interest.md) of the [principal](../p/principal.md). Agents might shirk their responsibilities or act opportunistically, especially if monitoring by the [principal](../p/principal.md) is difficult or costly. 
+The [agency problem](../a/agency_problem.md) is central to the [principal](../p/principal.md)-agent relationship. This problem arises because the agent and the [principal](../p/principal.md) have different interests, and the agent may not always act in the best [interest](../i/interest.md) of the [principal](../p/principal.md). Agents might shirk their responsibilities or act opportunistically, especially if monitoring by the [principal](../p/principal.md) is difficult or costly.
 
 ### Examples of Agency Problems
 - **[Corporate Governance](../c/corporate_governance.md)**: In corporations, there is a separation of ownership and control. Shareholders (principals) own the company, but managers (agents) control the day-to-day operations. Managers might pursue personal goals, such as empire-building or job [security](../s/security.md), rather than maximizing [shareholder value](../s/shareholder_value.md).
@@ -61,4 +61,4 @@ In public administration, citizens (principals) entrust elected officials and bu
 
 The [principal](../p/principal.md)-agent relationship is a critical concept with widespread implications across various sectors of the [economy](../e/economy.md). While it can create challenges such as conflicts of [interest](../i/interest.md) and information asymmetry, several mechanisms can address these issues and align the interests of both parties. By understanding and effectively managing the [principal](../p/principal.md)-agent relationship, businesses, governments, and individuals can make more informed decisions and foster relationships grounded in [trust](../t/trust.md) and mutual benefit.
 
-For more details, visit [Cornell University - Principal-Agent Relationship](https://www.law.cornell.edu/wex/principal-agent_relationship).
+For more details, visit Cornell University - Principal-Agent Relationship.

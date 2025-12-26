@@ -4,12 +4,12 @@ A parent company is a [corporation](../c/corporation.md), [limited liability](..
 
 ### Structure and Ownership
 
-The structure of a parent company and its relationship with subsidiaries can vary depending on the legal and financial nuances of their agreements. Generally, a parent company holds more than 50% of the subsidiary's voting stock, which provides it with the ability to direct or manage the subsidiary's activities. 
+The structure of a parent company and its relationship with subsidiaries can vary depending on the legal and financial nuances of their agreements. Generally, a parent company holds more than 50% of the subsidiary's voting stock, which provides it with the ability to direct or manage the subsidiary's activities.
 
 #### Fully-owned vs Partially-owned Subsidiaries
 
 - **Fully-owned Subsidiaries:** In this setup, the parent company owns 100% of the subsidiary. This full ownership grants the parent company complete control over all operational and strategic decisions of the subsidiary.
-  
+
 - **Partially-owned Subsidiaries:** If the parent company owns less than 100% but more than 50% of the subsidiary's [shares](../s/shares.md), it still has the majority voting power, giving it substantial control. However, the subsidiary might have minority shareholders who have a say in some decisions.
 
 ### Financial Implications
@@ -37,7 +37,7 @@ The parent company exercises its control over a subsidiary through its ability t
 Having a parent-subsidiary structure can [offer](../o/offer.md) several strategic advantages:
 
 1. **[Diversification](../d/diversification.md):** Parent companies can diversify their [business risk](../b/business_risk.md) by owning subsidiaries in different industries or geographic regions.
-  
+
 2. **Maximized Resources:** Parent companies can optimize resource allocation across subsidiaries, leveraging strengths and competencies where they are most needed.
 
 3. **Tax Benefits:** Parent companies can take advantage of tax benefits by offsetting profits and losses within their group of subsidiaries.
@@ -58,15 +58,15 @@ While there are several strategic benefits, operating a parent company and manag
 
 ### Examples of Parent Companies
 
-- **[Berkshire Hathaway](../b/berkshire_hathaway.md):** Led by Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) is a renowned parent company with a diverse portfolio of wholly and partially-owned subsidiaries across various industries, including [insurance](../i/insurance.md), utilities, and [manufacturing](../m/manufacturing.md) (URL: [Berkshire Hathaway](https://www.berkshirehathaway.com)).
+- **[Berkshire Hathaway](../b/berkshire_hathaway.md):** Led by Warren Buffett, [Berkshire Hathaway](../b/berkshire_hathaway.md) is a renowned parent company with a diverse portfolio of wholly and partially-owned subsidiaries across various industries, including [insurance](../i/insurance.md), utilities, and [manufacturing](../m/manufacturing.md) (URL: Berkshire Hathaway).
 
-- **Alphabet Inc.:** The [holding company](../h/holding_company.md) for Google, Alphabet Inc. oversees a wide array of subsidiaries focused on technology, life sciences, investment [capital](../c/capital.md), and research (URL: [Alphabet Inc.](https://abc.xyz)).
+- **Alphabet Inc.:** The [holding company](../h/holding_company.md) for Google, Alphabet Inc. oversees a wide array of subsidiaries focused on technology, life sciences, investment [capital](../c/capital.md), and research (URL: Alphabet Inc.).
 
-- **Unilever:** A global [consumer goods](../c/consumer_goods.md) company, Unilever operates various subsidiaries that [market](../m/market.md) and sell products in categories such as food, beverages, cleaning agents, and personal care (URL: [Unilever](https://www.unilever.com)).
+- **Unilever:** A global [consumer goods](../c/consumer_goods.md) company, Unilever operates various subsidiaries that [market](../m/market.md) and sell products in categories such as food, beverages, cleaning agents, and personal care (URL: Unilever).
 
 ### Mergers and Acquisitions
 
-Parent companies often grow and [gain](../g/gain.md) new subsidiaries through mergers and acquisitions (M&A). This growth strategy can [offer](../o/offer.md) quick entry into new markets, access to new technologies, and enhanced competitive positioning. 
+Parent companies often grow and [gain](../g/gain.md) new subsidiaries through mergers and acquisitions (M&A). This growth strategy can [offer](../o/offer.md) quick entry into new markets, access to new technologies, and enhanced competitive positioning.
 
 #### Types of M&A
 

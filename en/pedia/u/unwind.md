@@ -96,7 +96,7 @@ Using [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) t
 
 ### 1. **Algorithmic Trading**
 
-[Algorithmic trading](../a/accountability.md) systems can help in executing unwinding strategies more efficiently by breaking down large trades into smaller orders to minimize [market](../m/market.md) impact.
+[Algorithmic trading](../a/algorithmic_trading.md) systems can help in executing unwinding strategies more efficiently by breaking down large trades into smaller orders to minimize [market](../m/market.md) impact.
 
 ### 2. **Market Analytics Software**
 

@@ -9,17 +9,17 @@ A [Premium](../p/premium.md) [Bond](../b/bond.md) is a [bond](../b/bond.md) that
 ### Key Features:
 
 1. **[Face Value](../f/face_value.md) vs. [Market Price](../m/market_price.md):**
-   - The [face value](../f/face_value.md), or [par value](../p/par_value.md), is the amount the [bondholder](../b/bondholder.md) [will](../w/will.md) receive at [maturity](../m/maturity.md).
-   - The [market price](../m/market_price.md) is the current trading price of the [bond](../b/bond.md), which includes the [face value](../f/face_value.md) plus the [premium](../p/premium.md) amount.
+ - The [face value](../f/face_value.md), or [par value](../p/par_value.md), is the amount the [bondholder](../b/bondholder.md) [will](../w/will.md) receive at [maturity](../m/maturity.md).
+ - The [market price](../m/market_price.md) is the current trading price of the [bond](../b/bond.md), which includes the [face value](../f/face_value.md) plus the [premium](../p/premium.md) amount.
 
 2. **[Coupon Rate](../c/coupon_rate.md):**
-   - A [Premium](../p/premium.md) [Bond](../b/bond.md) often has a higher [coupon rate](../c/coupon_rate.md) than the prevailing [market](../m/market.md) [interest](../i/interest.md) rates. This is a critical [factor](../f/factor.md) that attracts investors willing to pay more than the [face value](../f/face_value.md).
+ - A [Premium](../p/premium.md) [Bond](../b/bond.md) often has a higher [coupon rate](../c/coupon_rate.md) than the prevailing [market](../m/market.md) [interest](../i/interest.md) rates. This is a critical [factor](../f/factor.md) that attracts investors willing to pay more than the [face value](../f/face_value.md).
 
 3. **[Duration](../d/duration.md) and [Maturity](../m/maturity.md):**
-   - [Premium](../p/premium.md) Bonds have specific [maturity](../m/maturity.md) dates, upon which the [face value](../f/face_value.md) is returned to the [bondholder](../b/bondholder.md). Despite the higher purchase price, the [face value](../f/face_value.md) does not change.
+ - [Premium](../p/premium.md) Bonds have specific [maturity](../m/maturity.md) dates, upon which the [face value](../f/face_value.md) is returned to the [bondholder](../b/bondholder.md). Despite the higher purchase price, the [face value](../f/face_value.md) does not change.
 
 4. **[Interest](../i/interest.md) Payments:**
-   - [Interest](../i/interest.md) is paid based on the [bond](../b/bond.md)’s original [coupon rate](../c/coupon_rate.md), which is typically higher for [Premium](../p/premium.md) Bonds. Investors receive periodic [interest](../i/interest.md) payments, making this an attractive option for [income](../i/income.md)-seeking investors.
+ - [Interest](../i/interest.md) is paid based on the [bond](../b/bond.md)’s original [coupon rate](../c/coupon_rate.md), which is typically higher for [Premium](../p/premium.md) Bonds. Investors receive periodic [interest](../i/interest.md) payments, making this an attractive option for [income](../i/income.md)-seeking investors.
 
 ## How Premium Bonds Work
 
@@ -28,9 +28,9 @@ The mechanics of [Premium](../p/premium.md) Bonds can be understood through thei
 ### Pricing:
 
 The price of a [Premium](../p/premium.md) [Bond](../b/bond.md) is influenced by:
-   - **[Coupon Rate](../c/coupon_rate.md):** Higher coupon rates mean higher [demand](../d/demand.md), leading to a [premium](../p/premium.md) price.
-   - **[Market](../m/market.md) [Interest](../i/interest.md) Rates:** If the current [market](../m/market.md) [interest](../i/interest.md) rates fall below the [bond](../b/bond.md)’s [coupon rate](../c/coupon_rate.md), the [bond](../b/bond.md)'s price increases.
-   - **[Credit](../c/credit.md) Quality:** Bonds from issuers with high [credit](../c/credit.md) ratings [demand](../d/demand.md) a [premium](../p/premium.md) due to the perceived lower [risk](../r/risk.md).
+ - **[Coupon Rate](../c/coupon_rate.md):** Higher coupon rates mean higher [demand](../d/demand.md), leading to a [premium](../p/premium.md) price.
+ - **[Market](../m/market.md) [Interest](../i/interest.md) Rates:** If the current [market](../m/market.md) [interest](../i/interest.md) rates fall below the [bond](../b/bond.md)’s [coupon rate](../c/coupon_rate.md), the [bond](../b/bond.md)'s price increases.
+ - **[Credit](../c/credit.md) Quality:** Bonds from issuers with high [credit](../c/credit.md) ratings [demand](../d/demand.md) a [premium](../p/premium.md) due to the perceived lower [risk](../r/risk.md).
 
 ### Reaction to Interest Rate Changes:
 
@@ -42,32 +42,32 @@ The price of a [Premium](../p/premium.md) [Bond](../b/bond.md) is influenced by:
 Possessing [Premium](../p/premium.md) Bonds offers several advantages, particularly for certain types of investors. These benefits include:
 
 1. **Higher [Interest](../i/interest.md) [Income](../i/income.md):**
-   - [Premium](../p/premium.md) Bonds often [offer](../o/offer.md) higher periodic [interest](../i/interest.md) payments compared to their counterparts. This is particularly beneficial for [income](../i/income.md)-focused investors.
+ - [Premium](../p/premium.md) Bonds often [offer](../o/offer.md) higher periodic [interest](../i/interest.md) payments compared to their counterparts. This is particularly beneficial for [income](../i/income.md)-focused investors.
 
 2. **Lower [Credit Risk](../c/credit_risk.md):**
-   - Due to their typically higher coupon rates, [Premium](../p/premium.md) Bonds are often issued by entities with higher [credit](../c/credit.md) ratings, thereby presenting a lower [credit risk](../c/credit_risk.md).
+ - Due to their typically higher coupon rates, [Premium](../p/premium.md) Bonds are often issued by entities with higher [credit](../c/credit.md) ratings, thereby presenting a lower [credit risk](../c/credit_risk.md).
 
 3. **[Diversification](../d/diversification.md):**
-   - Incorporating [Premium](../p/premium.md) Bonds into a [bond](../b/bond.md) portfolio can help diversify the [risk](../r/risk.md), as they may react differently to [interest rate](../i/interest_rate.md) changes compared to other [bond](../b/bond.md) types.
+ - Incorporating [Premium](../p/premium.md) Bonds into a [bond](../b/bond.md) portfolio can help diversify the [risk](../r/risk.md), as they may react differently to [interest rate](../i/interest_rate.md) changes compared to other [bond](../b/bond.md) types.
 
 4. **[Security](../s/security.md):**
-   - Bonds, in general, [offer](../o/offer.md) a degree of [security](../s/security.md) due to their fixed-[income](../i/income.md) nature. [Premium](../p/premium.md) Bonds, with their higher coupon payments, enhance this [security](../s/security.md).
+ - Bonds, in general, [offer](../o/offer.md) a degree of [security](../s/security.md) due to their fixed-[income](../i/income.md) nature. [Premium](../p/premium.md) Bonds, with their higher coupon payments, enhance this [security](../s/security.md).
 
 ## Drawbacks of Premium Bonds
 
 Despite the benefits, there are also inherent disadvantages to holding [Premium](../p/premium.md) Bonds:
 
 1. **Price Fluctuation:**
-   - The price of [Premium](../p/premium.md) Bonds can be more sensitive to [interest rate](../i/interest_rate.md) changes, leading to potential [capital](../c/capital.md) losses if sold before [maturity](../m/maturity.md).
+ - The price of [Premium](../p/premium.md) Bonds can be more sensitive to [interest rate](../i/interest_rate.md) changes, leading to potential [capital](../c/capital.md) losses if sold before [maturity](../m/maturity.md).
 
 2. **Higher Initial Investment:**
-   - Investors need to pay more upfront to acquire [Premium](../p/premium.md) Bonds, which may limit accessibility for some investors.
+ - Investors need to pay more upfront to acquire [Premium](../p/premium.md) Bonds, which may limit accessibility for some investors.
 
 3. **Call [Risk](../r/risk.md):**
-   - Some [Premium](../p/premium.md) Bonds may be callable, meaning the [issuer](../i/issuer.md) can redeem them before [maturity](../m/maturity.md). This could result in [reinvestment risk](../r/reinvestment_risk.md), as investors might not find similar yields in the [market](../m/market.md).
+ - Some [Premium](../p/premium.md) Bonds may be callable, meaning the [issuer](../i/issuer.md) can redeem them before [maturity](../m/maturity.md). This could result in [reinvestment risk](../r/reinvestment_risk.md), as investors might not find similar yields in the [market](../m/market.md).
 
 4. **[Yield](../y/yield.md)-to-[Maturity](../m/maturity.md) Calculation:**
-   - The [yield](../y/yield.md)-to-[maturity](../m/maturity.md) (YTM) for [Premium](../p/premium.md) Bonds is often lower than the stated [coupon rate](../c/coupon_rate.md) due to the [premium](../p/premium.md) paid. This necessitates thorough calculation to understand the actual [return](../r/return.md).
+ - The [yield](../y/yield.md)-to-[maturity](../m/maturity.md) (YTM) for [Premium](../p/premium.md) Bonds is often lower than the stated [coupon rate](../c/coupon_rate.md) due to the [premium](../p/premium.md) paid. This necessitates thorough calculation to understand the actual [return](../r/return.md).
 
 ## Premium Bonds vs. Discount Bonds
 
@@ -88,24 +88,24 @@ Understanding the distinction between [Premium](../p/premium.md) Bonds and [Disc
 ### Yield Comparison:
 
 The YTM is a vital measure for comparing bonds:
-   - **[Premium](../p/premium.md) Bonds:** Have a lower YTM compared to their [coupon rate](../c/coupon_rate.md) due to the [premium](../p/premium.md) paid.
-   - **[Discount](../d/discount.md) Bonds:** Have a higher YTM compared to their [coupon rate](../c/coupon_rate.md) since they are bought at a [discount](../d/discount.md).
+ - **[Premium](../p/premium.md) Bonds:** Have a lower YTM compared to their [coupon rate](../c/coupon_rate.md) due to the [premium](../p/premium.md) paid.
+ - **[Discount](../d/discount.md) Bonds:** Have a higher YTM compared to their [coupon rate](../c/coupon_rate.md) since they are bought at a [discount](../d/discount.md).
 
 ## Impact on Investment Portfolio
 
 [Premium](../p/premium.md) Bonds can influence an investment portfolio in several ways:
 
 1. **[Income](../i/income.md) Generation:**
-   - The higher periodic [interest](../i/interest.md) payments from [Premium](../p/premium.md) Bonds can enhance the [income](../i/income.md)-generating aspect of a portfolio.
+ - The higher periodic [interest](../i/interest.md) payments from [Premium](../p/premium.md) Bonds can enhance the [income](../i/income.md)-generating aspect of a portfolio.
 
 2. **[Risk Management](../r/risk_management.md):**
-   - By holding [Premium](../p/premium.md) Bonds, investors can potentially lower the overall [risk](../r/risk.md) due to their typically better [credit](../c/credit.md) quality.
+ - By holding [Premium](../p/premium.md) Bonds, investors can potentially lower the overall [risk](../r/risk.md) due to their typically better [credit](../c/credit.md) quality.
 
 3. **[Liquidity](../l/liquidity.md) Consideration:**
-   - [Premium](../p/premium.md) Bonds may [offer](../o/offer.md) less [liquidity](../l/liquidity.md) if [market](../m/market.md) conditions change, affecting the ease of buying or selling these assets.
+ - [Premium](../p/premium.md) Bonds may [offer](../o/offer.md) less [liquidity](../l/liquidity.md) if [market](../m/market.md) conditions change, affecting the ease of buying or selling these assets.
 
 4. **[Interest Rate Sensitivity](../i/interest_rate_sensitivity.md):**
-   - Including both [Premium](../p/premium.md) and [Discount](../d/discount.md) Bonds can provide balance, as they may react differently to [interest rate](../i/interest_rate.md) movements, thus hedging against rate risks.
+ - Including both [Premium](../p/premium.md) and [Discount](../d/discount.md) Bonds can provide balance, as they may react differently to [interest rate](../i/interest_rate.md) movements, thus hedging against rate risks.
 
 ## Conclusion
 

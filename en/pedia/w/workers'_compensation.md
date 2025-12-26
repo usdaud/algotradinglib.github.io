@@ -26,11 +26,11 @@ Workers' compensation benefits can be broadly categorized into several types:
 
 ### Medical Benefits
 
-Medical benefits cover the cost of medical treatment related to the work injury, including doctors' visits, hospital stays, medications, and rehabilitation. 
+Medical benefits cover the cost of medical treatment related to the work injury, including doctors' visits, hospital stays, medications, and rehabilitation.
 
 ### Wage Replacement
 
-Temporary Total Disability (TTD) and Temporary Partial Disability (TPD) benefits provide wage replacement while the employee is unable to work or is working with reduced capacity. Permanent Total Disability (PTD) and Permanent Partial Disability (PPD) benefits provide compensation for long-term or permanent [impairment](../i/impairment.md). 
+Temporary Total Disability (TTD) and Temporary Partial Disability (TPD) benefits provide wage replacement while the employee is unable to work or is working with reduced capacity. Permanent Total Disability (PTD) and Permanent Partial Disability (PPD) benefits provide compensation for long-term or permanent [impairment](../i/impairment.md).
 
 ### Vocational Rehabilitation
 
@@ -44,7 +44,7 @@ If an employee dies due to a work-related injury, their dependents may be entitl
 
 ### Claims Process
 
-The process for filing a workers' compensation claim typically involves notifying the employer of the injury, seeking medical treatment, and then filing a formal claim with the state's workers' compensation agency. Each state has its own procedures and timelines for filing a claim. 
+The process for filing a workers' compensation claim typically involves notifying the employer of the injury, seeking medical treatment, and then filing a formal claim with the state's workers' compensation agency. Each state has its own procedures and timelines for filing a claim.
 
 ### Dispute Resolution
 

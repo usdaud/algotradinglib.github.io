@@ -14,7 +14,7 @@ The marginal product of a [factor](../f/factor.md) of production is the addition
 where \( MP \) is the marginal product, \( \[Delta](../d/delta.md) Q \) is the change in total output, and \( \[Delta](../d/delta.md) L \) is the change in the quantity of the [factor](../f/factor.md) (e.g., labor).
 
 ### 2. Diminishing Marginal Product
-The principle of diminishing marginal [productivity](../p/productivity.md) implies that after a certain point, the marginal product of an additional unit of the [factor](../f/factor.md) begins to decline. This occurs because, beyond the optimal level of utilization, each additional unit of the [factor](../f/factor.md) [will](../w/will.md) have less and less of the other complementary factors to work with. 
+The principle of diminishing marginal [productivity](../p/productivity.md) implies that after a certain point, the marginal product of an additional unit of the [factor](../f/factor.md) begins to decline. This occurs because, beyond the optimal level of utilization, each additional unit of the [factor](../f/factor.md) [will](../w/will.md) have less and less of the other complementary factors to work with.
 
 ### 3. Production Functions
 In the context of production functions, the law is often illustrated using mathematical representations. A production function might be represented as:
@@ -82,4 +82,4 @@ In [cost-benefit analysis](../c/cost-benefit_analysis_in_trading.md), the law in
 
 The Law of Diminishing Marginal [Productivity](../p/productivity.md) is a cornerstone of economic and production theory, providing a framework for understanding the limitations of increasing [factor](../f/factor.md) inputs in production processes. Its implications span across various industries and inform crucial economic decisions, from optimal resource allocation to policy formulation. Despite its limitations, the law remains a vital tool for analyzing and enhancing [productivity](../p/productivity.md) and [efficiency](../e/efficiency.md) in both theoretical and practical contexts.
 
-For more information on [economics](../e/economics.md) and related concepts, you may refer to reputable sources like the American Economic Association (https://www.aeaweb.org/) and other [economics](../e/economics.md) literature.
+For more information on [economics](../e/economics.md) and related concepts, you may refer to reputable sources like the American Economic Association ( and other [economics](../e/economics.md) literature.

@@ -14,13 +14,13 @@ There are two main types of [futures](../f/futures.md) [options](../o/options.md
 ### 2. Mechanics of Futures Options
 When you purchase a [futures](../f/futures.md) option, you're essentially buying the right to engage in a [futures contract](../f/futures_contract.md) at a specific price ([strike price](../s/strike_price.md)) by a specific date ([expiration date](../e/expiration_date.md)). If you choose to [exercise](../e/exercise.md) your option, you'll be committing to the [futures contract](../f/futures_contract.md) at the predetermined price, regardless of the current [market price](../m/market_price.md).
 
-However, most [futures](../f/futures.md) [options](../o/options.md) are not exercised; instead, they are sold or let to expire if they aren't profitable. The real [value](../v/value.md) lies in the strategy and flexibility they [offer](../o/offer.md). 
+However, most [futures](../f/futures.md) [options](../o/options.md) are not exercised; instead, they are sold or let to expire if they aren't profitable. The real [value](../v/value.md) lies in the strategy and flexibility they [offer](../o/offer.md).
 
 ### 3. Advantages of Futures Options
 - **[Leverage](../l/leverage.md):** You can control a large position with a relatively small [capital](../c/capital.md) outlay.
 - **Flexibility:** Can be used for [speculation](../s/speculation.md), hedging, or [arbitrage](../a/arbitrage.md).
 - **Limited [Risk](../r/risk.md):** For the buyer, the [risk](../r/risk.md) is limited to the [premium](../p/premium.md) paid for the option.
-  
+
 ### 4. Disadvantages of Futures Options
 - **Complexity:** Requires an understanding of both [options](../o/options.md) and [futures](../f/futures.md) markets.
 - **[Time Decay](../t/time_decay.md):** [Options](../o/options.md) lose [value](../v/value.md) as they approach expiration.
@@ -33,7 +33,7 @@ There are numerous strategies investors and traders use to [leverage](../l/lever
 This strategy involves holding a long position in a [futures contract](../f/futures_contract.md) and selling call [options](../o/options.md) on the same contract. It's primarily used to generate additional [income](../i/income.md) from the [premium](../p/premium.md) while still holding a bullish outlook on the [underlying asset](../u/underlying_asset.md).
 
 ### 2. Protective Put
-A [protective put](../p/protective_put.md) involves holding a long position in a [futures contract](../f/futures_contract.md) and buying [put options](../p/put_options.md). This strategy is used to [hedge](../h/hedge.md) against potential [downside risk](../d/downside_risk.md) in the [futures](../f/futures.md) position. 
+A [protective put](../p/protective_put.md) involves holding a long position in a [futures contract](../f/futures_contract.md) and buying [put options](../p/put_options.md). This strategy is used to [hedge](../h/hedge.md) against potential [downside risk](../d/downside_risk.md) in the [futures](../f/futures.md) position.
 
 ### 3. Straddles and Strangles
 These strategies involve buying or selling calls and puts with the same expiration dates but different strike prices.
@@ -64,16 +64,16 @@ Arbitrageurs seek to make [risk](../r/risk.md)-free profits by exploiting price 
 Several major exchanges [offer](../o/offer.md) [futures](../f/futures.md) [options](../o/options.md) trading, ensuring ample [liquidity](../l/liquidity.md) and a structured environment for trading these versatile instruments:
 
 - **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**
-  The CME is one of the leading and most diverse [derivatives](../d/derivatives.md) marketplaces. It offers a broad [range](../r/range.md) of [futures](../f/futures.md) and [futures](../f/futures.md) [options](../o/options.md) across various [asset](../a/asset.md) classes. [CME Group](https://www.cmegroup.com/)
+ The CME is one of the leading and most diverse [derivatives](../d/derivatives.md) marketplaces. It offers a broad [range](../r/range.md) of [futures](../f/futures.md) and [futures](../f/futures.md) [options](../o/options.md) across various [asset](../a/asset.md) classes. CME Group
 
 - **Intercontinental [Exchange](../e/exchange.md) (ICE)**
-  ICE provides [futures](../f/futures.md) [options](../o/options.md) trading across commodities, financials, and global [equity](../e/equity.md) indexes. [ICE](https://www.theice.com/)
+ ICE provides [futures](../f/futures.md) [options](../o/options.md) trading across commodities, financials, and global [equity](../e/equity.md) indexes. ICE
 
 - **Eurex [Exchange](../e/exchange.md)**
-  A European-based [exchange](../e/exchange.md) [offering](../o/offering.md) [futures](../f/futures.md) [options](../o/options.md) primarily on European [equity](../e/equity.md) indexes and [interest rate](../i/interest_rate.md) products. [Eurex](https://www.eurex.com/)
+ A European-based [exchange](../e/exchange.md) [offering](../o/offering.md) [futures](../f/futures.md) [options](../o/options.md) primarily on European [equity](../e/equity.md) indexes and [interest rate](../i/interest_rate.md) products. Eurex
 
 - **New York Mercantile [Exchange](../e/exchange.md) (NYMEX)**
-  Specializes in energy [futures](../f/futures.md) [options](../o/options.md), including [crude oil](../c/crude_oil.md) and natural gas.  It is part of the CME Group. [NYMEX](https://www.cmegroup.com/markets/energy.html)
+ Specializes in energy [futures](../f/futures.md) [options](../o/options.md), including [crude oil](../c/crude_oil.md) and natural gas. It is part of the CME Group. NYMEX
 
 ## Key Metrics in Futures Options
 

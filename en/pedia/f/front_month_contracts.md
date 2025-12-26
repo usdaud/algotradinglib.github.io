@@ -11,9 +11,9 @@ A front month contract refers to the nearest [expiration date](../e/expiration_d
 The importance of front month contracts in [algorithmic trading](../a/algorithmic_trading.md) cannot be overstated. Here are several key reasons:
 
 1. **[Liquidity](../l/liquidity.md)**: Front month contracts are usually the most [liquid](../l/liquid.md), making it easier and cheaper to enter and exit positions. This high [liquidity](../l/liquidity.md) reduces the impact of [slippage](../s/slippage.md), which occurs when the [execution](../e/execution.md) of an [order](../o/order.md) causes the price to move.
-   
+
 2. **Accuracy**: Front month contracts have prices that tend to be closer to the actual [underlying asset](../u/underlying_asset.md)’s current price. This reduces the [basis risk](../b/basis_risk.md), which is the [risk](../r/risk.md) that the [futures](../f/futures.md) price might diverge from the [spot price](../s/spot_price.md).
-   
+
 3. **[Volatility](../v/volatility.md)**: These contracts often have higher [volatility](../v/volatility.md) than longer-dated contracts, presenting more opportunities for [short-term trading](../s/short-term_trading.md) strategies.
 
 ### Trading Strategies
@@ -35,18 +35,18 @@ Front month contracts are widely used in a variety of markets, including:
 Example: [Crude oil](../c/crude_oil.md) front month contracts are crucial because the commodities [market](../m/market.md) is heavily influenced by near-term [supply](../s/supply.md) and [demand](../d/demand.md) factors.
 
 - **Equities**: Stock [index futures](../i/index_futures.md), such as the S&P 500 front month [futures](../f/futures.md), help traders [gain](../g/gain.md) exposure to the overall [stock market](../s/stock_market.md) performance without having to [trade](../t/trade.md) individual [stocks](../s/stock.md).
-  
+
 - **[Interest](../i/interest.md) Rates**: Treasury bonds and [Eurodollar](../e/eurodollar.md) [futures](../f/futures.md) often focus on the front month to gauge short-term [interest rate](../i/interest_rate.md) expectations.
 
 ### Example of Companies
 
 Several companies and exchanges specialize in [offering](../o/offering.md) a [range](../r/range.md) of [futures contracts](../f/futures_contracts.md), including front month contracts. Some well-known firms include:
 
-- **CME Group**: [CME Group](https://www.cmegroup.com) offers a [wide variety](../w/wide_variety.md) of [futures contracts](../f/futures_contracts.md), including front month contracts across [multiple](../m/multiple.md) [asset](../a/asset.md) classes like equities, commodities, and [fixed income](../f/fixed_income.md).
+- **CME Group**: CME Group offers a [wide variety](../w/wide_variety.md) of [futures contracts](../f/futures_contracts.md), including front month contracts across [multiple](../m/multiple.md) [asset](../a/asset.md) classes like equities, commodities, and [fixed income](../f/fixed_income.md).
 
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [ICE](https://www.theice.com) provides markets for trading [futures](../f/futures.md) across global commodities, currencies, and financial products.
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE provides markets for trading [futures](../f/futures.md) across global commodities, currencies, and financial products.
 
-- **[Nasdaq](../n/nasdaq.md)**: [Nasdaq Futures](https://www.nasdaq.com) offers trading opportunities in [equity](../e/equity.md) [index futures](../i/index_futures.md) and [options](../o/options.md), often highlighting front month contracts.
+- **[Nasdaq](../n/nasdaq.md)**: Nasdaq Futures offers trading opportunities in [equity](../e/equity.md) [index futures](../i/index_futures.md) and [options](../o/options.md), often highlighting front month contracts.
 
 ### Risks and Management
 

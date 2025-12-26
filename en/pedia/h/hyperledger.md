@@ -5,9 +5,9 @@ Hyperledger is an [open](../o/open.md)-source collaborative effort created to ad
 ## Objectives of Hyperledger
 
 1. **[Blockchain](../b/blockchain_in_trading.md) For [Business](../b/business.md)**: Hyperledger is focused on creating [blockchain](../b/blockchain_in_trading.md) frameworks and platforms aimed specifically at [business](../b/business.md) use. It ensures that the solutions are capable of handling the performance and confidentiality essential for [business](../b/business.md) transactions.
-   
+
 2. **Modular Architecture**: One of the primary goals is to create a modular architecture, making it easy for organizations to mix and match components to overcome specific [business](../b/business.md) needs. This modularity translates to flexibility, enabling implementers to tailor [blockchain](../b/blockchain_in_trading.md) networks.
-   
+
 3. **Collaborative Development**: Hyperledger encourages collaborative development. This ecosystem approach ensures rapid innovation and shared solutions for common problems.
 
 ## Key Components

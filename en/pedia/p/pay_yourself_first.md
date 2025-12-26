@@ -11,16 +11,16 @@ The strategy of "Pay Yourself First" is widely attributed to the principles laid
 ### Step-by-Step Guide
 
 **1. Determine Your [Income](../i/income.md):**
-   - Calculate your total monthly [income](../i/income.md) from all sources such as salary, freelance work, investments, and any other [revenue](../r/revenue.md) streams.
+ - Calculate your total monthly [income](../i/income.md) from all sources such as salary, freelance work, investments, and any other [revenue](../r/revenue.md) streams.
 
 **2. Set a Savings Goal:**
-   - Decide on a specific percentage or fixed amount of your [income](../i/income.md) to save before any other expenses are addressed. Common recommendations [range](../r/range.md) from 10% to 20%.
+ - Decide on a specific percentage or fixed amount of your [income](../i/income.md) to save before any other expenses are addressed. Common recommendations [range](../r/range.md) from 10% to 20%.
 
 **3. Automate the Savings Process:**
-   - Set up automatic transfers from your [checking account](../c/checking_account.md) to your savings or investment account. This ensures consistency and makes saving effortless.
+ - Set up automatic transfers from your [checking account](../c/checking_account.md) to your savings or investment account. This ensures consistency and makes saving effortless.
 
 **4. [Budget](../b/budget.md) with the Remaining Funds:**
-   - After the pre-determined amount is allocated to savings, create a [budget](../b/budget.md) for the remaining funds to cover necessities such as rent, utilities, groceries, and discretionary expenses.
+ - After the pre-determined amount is allocated to savings, create a [budget](../b/budget.md) for the remaining funds to cover necessities such as rent, utilities, groceries, and discretionary expenses.
 
 ### Key Principles
 
@@ -60,7 +60,7 @@ Financial independence occurs when [passive income](../p/passive_income.md) from
 
 Regularly transferring a portion of [income](../i/income.md) into high-[yield](../y/yield.md) savings accounts ensures that funds grow with [interest](../i/interest.md). While returns are lower compared to other investment vehicles, the [principal](../p/principal.md) is relatively secure and [liquid](../l/liquid.md).
 
-### Retirement Accounts 
+### Retirement Accounts
 
 Contributing to retirement accounts such as 401(k), IRA, or [Roth IRA](../r/roth_ira.md) takes advantage of tax benefits and employer matching contributions, maximizing the growth potential of retirement funds.
 

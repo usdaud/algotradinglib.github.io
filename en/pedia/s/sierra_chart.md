@@ -64,12 +64,12 @@ The platform includes several features for effective [risk management](../r/risk
 
 ## Platform Compatibility and Requirements
 
-- **Operating Systems**: 
-  - Windows 7, 8, 10, 11 (32-bit and 64-bit versions)
-  - Linux (via Wine)
+- **Operating Systems**:
+ - Windows 7, 8, 10, 11 (32-bit and 64-bit versions)
+ - Linux (via Wine)
 - **Hardware Requirements**:
-  - Minimum: Dual-core processor, 4GB RAM, 1GB free disk space
-  - Recommended: Quad-core processor or better, 8GB+ RAM, SSD for improved performance
+ - Minimum: Dual-core processor, 4GB RAM, 1GB free disk space
+ - Recommended: Quad-core processor or better, 8GB+ RAM, SSD for improved performance
 
 ## Licensing and Pricing
 

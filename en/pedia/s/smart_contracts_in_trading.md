@@ -32,7 +32,7 @@ Smart contracts function based on a set of predefined rules and agreements writt
 
 #### **Decentralized Exchanges (DEXs)**
 
-Decentralized exchanges like Uniswap ([source](https://uniswap.org/)) utilize smart contracts for automated trading of cryptocurrencies without the need for a central authority. On these platforms, smart contracts enable peer-to-peer trading directly from users' wallets, ensuring [security](../s/security.md) and reducing the risks associated with centralized exchanges.
+Decentralized exchanges like Uniswap (source) utilize smart contracts for automated trading of cryptocurrencies without the need for a central authority. On these platforms, smart contracts enable peer-to-peer trading directly from users' wallets, ensuring [security](../s/security.md) and reducing the risks associated with centralized exchanges.
 
 #### **Automated Market Makers (AMMs)**
 
@@ -40,7 +40,7 @@ Automated [Market](../m/market.md) Makers, such as those used by DEXs, rely on s
 
 #### **Derivative Trading Platforms**
 
-Platforms like Synthetix ([source](https://synthetix.io/)) use smart contracts to digitize [derivatives](../d/derivatives.md) trading. They allow users to [trade](../t/trade.md) synthetic assets which mirror the [value](../v/value.md) of real-world assets. The use of smart contracts ensures transparent and automated settlement of trades.
+Platforms like Synthetix (source) use smart contracts to digitize [derivatives](../d/derivatives.md) trading. They allow users to [trade](../t/trade.md) synthetic assets which mirror the [value](../v/value.md) of real-world assets. The use of smart contracts ensures transparent and automated settlement of trades.
 
 #### **Trade Financing**
 
@@ -64,7 +64,7 @@ In [trade](../t/trade.md) [financing](../f/financing.md), smart contracts can au
 
 #### **Interoperability**
 
-Future developments may focus on improving the interoperability of smart contracts across different [blockchain](../b/blockchain_in_trading.md) networks. Platforms like Polkadot ([source](https://polkadot.network/)) are working on enabling seamless communication between diverse blockchains, which could enhance the functionality and adoption of smart contracts in trading.
+Future developments may focus on improving the interoperability of smart contracts across different [blockchain](../b/blockchain_in_trading.md) networks. Platforms like Polkadot (source) are working on enabling seamless communication between diverse blockchains, which could enhance the functionality and adoption of smart contracts in trading.
 
 #### **AI Integration**
 

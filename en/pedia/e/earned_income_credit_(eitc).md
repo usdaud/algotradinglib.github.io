@@ -105,7 +105,7 @@ Many taxpayers eligible for the EITC seek assistance from professional tax prepa
 
 ### IRS Resources
 
-The IRS provides a [range](../r/range.md) of resources to help taxpayers determine their eligibility and claim the EITC accurately. Tools like the EITC Assistant and detailed instructions on the IRS website (https://www.irs.gov/credits-deductions/individuals/earned-[income](../i/income.md)-tax-[credit](../c/credit.md)-eitc) are valuable for navigating the [credit](../c/credit.md).
+The IRS provides a [range](../r/range.md) of resources to help taxpayers determine their eligibility and claim the EITC accurately. Tools like the EITC Assistant and detailed instructions on the IRS online platform ( are valuable for navigating the [credit](../c/credit.md).
 
 ### Awareness Campaigns
 

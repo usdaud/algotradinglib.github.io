@@ -29,7 +29,7 @@ where \( i \) corresponds to the specific [key rate](../k/key_rate.md) under con
 
 The application of KRD in algo-trading revolves around creating algorithms that can dynamically adjust [bond](../b/bond.md) portfolios in response to shifts in [interest](../i/interest.md) rates:
 1. **Hedging**: One of the primary uses of KRD in algo-trading is [hedging interest rate risk](../h/hedging_interest_rate_risk.md). By understanding how different parts of the [yield curve](../y/yield_curve.md) impact the portfolio, algorithms can be designed to adjust positions that minimize losses due to unfavorable [interest rate](../i/interest_rate.md) changes.
-  
+
 2. **[Arbitrage](../a/arbitrage.md) Strategies**: Algo-traders often seek to [capitalize](../c/capitalize.md) on anomalies in the [yield curve](../y/yield_curve.md). By analyzing [key rate](../k/key_rate.md) durations, they can identify and exploit mispricings and [yield curve](../y/yield_curve.md) shifts more effectively.
 
 3. **[Optimization](../o/optimization.md)**: Algorithms can use KRD to optimize a [bond](../b/bond.md) portfolio's [risk](../r/risk.md)-[return](../r/return.md) profile. This helps in achieving a more [efficient frontier](../e/efficient_frontier.md) by understanding which key rates impact the portfolio most and adjusting [holdings](../h/holdings.md) accordingly.
@@ -49,14 +49,14 @@ To apply KRD, an algorithm could calculate the sensitivity of each [bond](../b/b
 
 Several financial institutions and fintech companies have integrated KRD into their algo-trading platforms. Notable among them are:
 
-1. **Jane Street**  
-   [Jane Street](https://www.janestreet.com/) is known for its [quantitative trading](../q/quantitative_trading.md) strategies that often involve intricate [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md) and a deep understanding of [bond market](../b/bond_market.md) mechanisms, including KRD.
+1. **Jane Street**
+ Jane Street is known for its [quantitative trading](../q/quantitative_trading.md) strategies that often involve intricate [interest rate](../i/interest_rate.md) [derivatives](../d/derivatives.md) and a deep understanding of [bond market](../b/bond_market.md) mechanisms, including KRD.
 
-2. **Two Sigma**  
-   [Two Sigma](https://www.twosigma.com/) leverages [data science](../d/data_science_in_trading.md) and engineering to drive its investment strategies. They use KRD among other tools to refine their [bond](../b/bond.md) and [derivative](../d/derivative.md) [trading algorithms](../t/trading_algorithms.md).
+2. **Two Sigma**
+ Two Sigma leverages [data science](../d/data_science_in_trading.md) and engineering to drive its investment strategies. They use KRD among other tools to refine their [bond](../b/bond.md) and [derivative](../d/derivative.md) [trading algorithms](../t/trading_algorithms.md).
 
-3. **Citadel Securities**  
-   [Citadel Securities](https://www.citadelsecurities.com/) employs sophisticated [risk management](../r/risk_management.md) techniques, and KRD is crucial for assessing and mitigating [interest rate risk](../i/interest_rate_risk.md) in their [algorithmic trading](../a/algorithmic_trading.md) operations.
+3. **Citadel Securities**
+ Citadel Securities employs sophisticated [risk management](../r/risk_management.md) techniques, and KRD is crucial for assessing and mitigating [interest rate risk](../i/interest_rate_risk.md) in their [algorithmic trading](../a/algorithmic_trading.md) operations.
 
 ### Challenges in Implementing KRD
 
@@ -78,6 +78,6 @@ To address the challenges, various advanced techniques have been developed:
 [Key Rate](../k/key_rate.md) [Duration](../d/duration.md) is a potent tool in the arsenal of algorithmic traders, providing a nuanced understanding of [interest rate](../i/interest_rate.md) risks across different key maturities. By isolating specific points along the [yield curve](../y/yield_curve.md), KRD enables more precise portfolio adjustments and [hedging strategies](../h/hedging_strategies.md). As the landscape of algo-trading continues to evolve, the integration of KRD with advanced analytics and [machine learning](../m/machine_learning.md) techniques [will](../w/will.md) likely become even more sophisticated, enhancing the ability to navigate complex [bond](../b/bond.md) markets effectively.
 
 Further Reading:
-- [Jane Street](https://www.janestreet.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Jane Street
+- Two Sigma
+- Citadel Securities

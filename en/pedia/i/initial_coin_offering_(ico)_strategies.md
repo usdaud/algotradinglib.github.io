@@ -52,12 +52,11 @@ Active communities and strong social proof are indicators of a project's potenti
 #### Prominent Platforms and Resources
 Several platforms and resources can aid in researching and [investing](../i/investing.md) in ICOs:
 
-- **ICO [Rating](../r/rating.md) Websites:** Platforms like [ICObench](https://icobench.com/), [ICOmarks](https://www.icomarks.com/), and [CoinGecko](https://www.coingecko.com/en/ico) provide ratings and reviews based on comprehensive analysis.
-  
-- **[Blockchain](../b/blockchain_in_trading.md) Forums and Communities:** Engage with platforms such as [Bitcointalk](https://bitcointalk.org/) and [Reddit](https://www.reddit.com/r/icocrypto/) for discussions and updates on various ICO projects.
+- **ICO [Rating](../r/rating.md) Websites:** Platforms like ICObench, ICOmarks, and CoinGecko provide ratings and reviews based on comprehensive analysis.
 
-- **News Aggregators:** Websites like [Cointelegraph](https://cointelegraph.com/tags/ico) and [Coindesk](https://www.coindesk.com/category/ico) [offer](../o/offer.md) the latest news and developments in the ICO space.
+- **[Blockchain](../b/blockchain_in_trading.md) Forums and Communities:** Engage with platforms such as Bitcointalk and Reddit for discussions and updates on various ICO projects.
+
+- **News Aggregators:** Websites like Cointelegraph and Coindesk [offer](../o/offer.md) the latest news and developments in the ICO space.
 
 #### Conclusion
 Strategically [investing](../i/investing.md) in ICOs requires a blend of meticulous research, understanding of tokenomics, [robust](../r/robust.md) [risk management](../r/risk_management.md), and timing. By conducting in-depth [due diligence](../d/due_diligence.md), analyzing the economic structure of tokens, diversifying investments, and staying attuned to [market sentiment](../m/market_sentiment.md), investors can potentially reap significant returns from ICO investments. Additionally, leveraging reputable platforms and engaging with active communities can provide valuable insights and enhance decision-making in the dynamic world of ICOs.
-

@@ -64,4 +64,3 @@ Despite its widespread use, the LEI is not without criticisms:
 
 The Leading Economic [Index](../i/index_instrument.md) is an invaluable tool for predicting economic activity, [offering](../o/offering.md) a synthesis of various leading [economic indicators](../e/economic_indicators.md) into a single, cohesive measure. Its broad application across [economic forecasting](../e/economic_forecasting.md), [business](../b/business.md) planning, and policy formulation underscores its significance. However, users must be cautious of its limitations and use it in conjunction with other analytical tools for the best results.
 
-For more information, visit the Conference Board’s official website: [The Conference Board](https://www.conference-board.org/).

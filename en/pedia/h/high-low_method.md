@@ -11,22 +11,22 @@ The high-low method requires historical data points concerning the total cost an
 1. **Identify the Highest and Lowest Activity Levels**: Collect cost data over a period of time and identify the periods that have the highest and lowest levels of activity.
 
 2. **Determine the [Variable Cost](../v/variable_cost.md) per Unit**: Compute the [variable cost](../v/variable_cost.md) per unit by dividing the change in total cost by the change in activity level between the highest and lowest points.
-   
-   \[
-   \text{[Variable Cost](../v/variable_cost.md) per Unit} = \frac{\text{Cost at Highest Activity Level} - \text{Cost at Lowest Activity Level}}{\text{Highest Activity Level} - \text{Lowest Activity Level}}
-   \]
+
+ \[
+ \text{[Variable Cost](../v/variable_cost.md) per Unit} = \frac{\text{Cost at Highest Activity Level} - \text{Cost at Lowest Activity Level}}{\text{Highest Activity Level} - \text{Lowest Activity Level}}
+ \]
 
 3. **Calculate the Total [Fixed Cost](../f/fixed_cost.md)**: Using the total cost at either the highest or lowest activity level, subtract the total [variable cost](../v/variable_cost.md) to determine the [fixed cost](../f/fixed_cost.md).
-   
-   \[
-   \text{[Fixed Cost](../f/fixed_cost.md)} = \text{Total Cost} - (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
-   \]
+
+ \[
+ \text{[Fixed Cost](../f/fixed_cost.md)} = \text{Total Cost} - (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
+ \]
 
 4. **Formulate the Cost Equation**: Formulate the cost equation that represents the total cost as a function of the fixed and variable costs.
-   
-   \[
-   \text{Total Cost} = \text{[Fixed Cost](../f/fixed_cost.md)} + (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
-   \]
+
+ \[
+ \text{Total Cost} = \text{[Fixed Cost](../f/fixed_cost.md)} + (\text{[Variable Cost](../v/variable_cost.md) per Unit} \times \text{Activity Level})
+ \]
 
 ### Example
 
@@ -34,12 +34,12 @@ Suppose a company is analyzing its [utility](../u/utility.md) costs over six mon
 
 | Month | [Utility](../u/utility.md) Cost | Units Produced |
 |-------|--------------|----------------|
-| Jan   | $10,000      | 2,000          |
-| Feb   | $11,500      | 3,000          |
-| Mar   | $11,000      | 2,500          |
-| Apr   | $12,500      | 4,000          |
-| May   | $13,500      | 5,000          |
-| Jun   | $12,000      | 3,500          |
+| Jan | $10,000 | 2,000 |
+| Feb | $11,500 | 3,000 |
+| Mar | $11,000 | 2,500 |
+| Apr | $12,500 | 4,000 |
+| May | $13,500 | 5,000 |
+| Jun | $12,000 | 3,500 |
 
 **Step 1: Identify highest and lowest activity levels**
 
@@ -116,11 +116,11 @@ The high-low method is often used as a teaching tool in [cost accounting](../c/c
 
 ### General Electric
 
-General Electric (GE) utilizes various cost estimation methods, including the high-low method, to manage operational costs efficiently across its diverse [business](../b/business.md) units. For more information, visit [GE](https://www.ge.com/).
+General Electric (GE) utilizes various cost estimation methods, including the high-low method, to manage operational costs efficiently across its diverse [business](../b/business.md) units. For more information, visit GE.
 
 ### Toyota
 
-Toyota employs cost management strategies to maintain its [competitive advantage](../c/competitive_advantage.md) in the automotive [industry](../i/industry.md). The high-low method aids in understanding cost behavior associated with production variations. Learn more about their practices at [Toyota](https://www.toyota-global.com/).
+Toyota employs cost management strategies to maintain its [competitive advantage](../c/competitive_advantage.md) in the automotive [industry](../i/industry.md). The high-low method aids in understanding cost behavior associated with production variations. Learn more about their practices at Toyota.
 
 ## Conclusion
 

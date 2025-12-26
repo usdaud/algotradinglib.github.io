@@ -45,5 +45,3 @@ Questrade is regulated by several top-tier financial authorities in Canada, ensu
 - Investment [Industry](../i/industry.md) Regulatory Organization of Canada (IIROC)
 - Canadian [Investor](../i/investor.md) Protection [Fund](../f/fund.md) (CIPF)
 
-## Website
-For more information and to start trading, visit the official Questrade website: [Questrade](https://www.questrade.com)

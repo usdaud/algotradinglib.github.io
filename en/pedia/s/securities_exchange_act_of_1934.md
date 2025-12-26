@@ -72,5 +72,4 @@ The principles and regulatory framework established by the Securities [Exchange]
 
 The Securities [Exchange](../e/exchange.md) Act of 1934 represents a cornerstone of U.S. financial regulation. By addressing the deficiencies illuminated by the 1929 [stock market crash](../s/stock_market_crash.md), the Act provided a [robust](../r/robust.md) foundation for maintaining [market](../m/market.md) integrity, protecting investors, and facilitating [capital](../c/capital.md) formation. Its enduring impact and adaptability continue to play a crucial role in promoting fair and efficient securities markets in the United States and beyond.
 
-For more detailed information about the Securities [Exchange](../e/exchange.md) Act of 1934 and its current applications, you can visit the official SEC website:
-[https://www.sec.gov](https://www.sec.gov)
+For more detailed information about the Securities [Exchange](../e/exchange.md) Act of 1934 and its current applications, you can

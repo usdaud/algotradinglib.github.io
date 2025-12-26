@@ -4,7 +4,7 @@ Japanese housewives, often referred to as "Shufu," play a significant and unique
 
 ## The Emergence of "Mrs. Watanabe"
 
-"Mrs. Watanabe" is a term used to describe the collective force of retail investors in Japan, primarily made up of housewives and retirees who engage in forex trading and more recently, [algorithmic trading](../a/accountability.md). The name "Mrs. Watanabe" is a generic moniker, akin to "Joe Public" in the United States, and it underscores the significant, yet often underestimated, impact of these retail investors on the [financial markets](../f/financial_market.md).
+"Mrs. Watanabe" is a term used to describe the collective force of retail investors in Japan, primarily made up of housewives and retirees who engage in forex trading and more recently, [algorithmic trading](../a/algorithmic_trading.md). The name "Mrs. Watanabe" is a generic moniker, akin to "Joe Public" in the United States, and it underscores the significant, yet often underestimated, impact of these retail investors on the [financial markets](../f/financial_market.md).
 
 ## Historical Context
 
@@ -18,7 +18,7 @@ Japanese culture traditionally emphasized distinct gender roles, with men workin
 
 ## The Rise of Algotrading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, involves the use of computer algorithms to execute trades based on pre-defined criteria. These algorithms can analyze [market](../m/market.md) data, identify trading opportunities, and execute orders at speeds and frequencies impossible for human traders. In Japan, algotrading has gained popularity among housewives for several reasons:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of computer algorithms to execute trades based on pre-defined criteria. These algorithms can analyze [market](../m/market.md) data, identify trading opportunities, and execute orders at speeds and frequencies impossible for human traders. In Japan, algotrading has gained popularity among housewives for several reasons:
 
 1. **Accessibility**: Advances in technology and the proliferation of online trading platforms have made algotrading accessible to retail investors, including housewives who may not have formal financial training.
 2. **Automation**: Algotrading allows for the automation of [trading strategies](../t/trading_strategies.md), enabling housewives to engage in the markets without constant monitoring, thus balancing their trading activities with household responsibilities.
@@ -37,8 +37,8 @@ One of the most famous examples of a successful Japanese housewife in the tradin
 
 Several companies and trading platforms have recognized the potential of this [market segment](../m/market_segment.md) and have tailored their services to meet the needs of retail investors like housewives. For instance, platforms such as SBI Securities and Monex Group [offer](../o/offer.md) user-friendly interfaces and educational resources aimed at empowering novice traders.
 
-- **SBI Securities**: [SBI Securities](https://www.sbisec.co.jp)
-- **Monex Group**: [Monex Group](https://www.monexgroup.jp/en/)
+- **SBI Securities**: SBI Securities
+- **Monex Group**: Monex Group
 
 #### Educational Resources
 
@@ -73,6 +73,6 @@ The rise of retail algotrading has also attracted regulatory scrutiny. Ensuring 
 
 ## Conclusion
 
-Japanese housewives, through the phenomenon of "Mrs. Watanabe," have carved out a unique niche in the world of [algorithmic trading](../a/accountability.md). Their involvement in algotrading highlights the evolving roles of women in Japan's economic landscape and underscores the potential for technology to empower individuals in innovative ways. While their participation brings significant benefits, it also necessitates a thoughtful approach to education, [risk management](../r/risk_management.md), and regulatory oversight to ensure their success and well-being in the [financial markets](../f/financial_market.md).
+Japanese housewives, through the phenomenon of "Mrs. Watanabe," have carved out a unique niche in the world of [algorithmic trading](../a/algorithmic_trading.md). Their involvement in algotrading highlights the evolving roles of women in Japan's economic landscape and underscores the potential for technology to empower individuals in innovative ways. While their participation brings significant benefits, it also necessitates a thoughtful approach to education, [risk management](../r/risk_management.md), and regulatory oversight to ensure their success and well-being in the [financial markets](../f/financial_market.md).
 
 By examining the journey of these housewives from managing household budgets to leveraging sophisticated algorithmic strategies, we [gain](../g/gain.md) insights into broader trends of economic transformation, gender role evolution, and the democratization of [financial markets](../f/financial_market.md) in Japan.

@@ -2,7 +2,7 @@
 
 ## Introduction to Meme Stocks
 
-Meme [stocks](../s/stock.md) represent a unique and intriguing segment of the [financial markets](../f/financial_market.md) where [social media](../s/social_media.md) influence and online communities play a significant role in driving stock prices. Unlike traditional stock [market dynamics](../m/market_dynamics.md), which are influenced by a company's [financial health](../f/financial_health.md), [industry](../i/industry.md) performance, and broader [economic indicators](../e/economic_indicators.md), meme [stocks](../s/stock.md) are driven largely by viral support on internet platforms such as Reddit, Twitter, and other [social media](../s/social_media.md) networks. 
+Meme [stocks](../s/stock.md) represent a unique and intriguing segment of the [financial markets](../f/financial_market.md) where [social media](../s/social_media.md) influence and online communities play a significant role in driving stock prices. Unlike traditional stock [market dynamics](../m/market_dynamics.md), which are influenced by a company's [financial health](../f/financial_health.md), [industry](../i/industry.md) performance, and broader [economic indicators](../e/economic_indicators.md), meme [stocks](../s/stock.md) are driven largely by viral support on internet platforms such as Reddit, Twitter, and other [social media](../s/social_media.md) networks.
 
 A meme stock is usually characterized by heightened [social media](../s/social_media.md) attention, massive [retail investor](../r/retail_investor.md) [interest](../i/interest.md), and significant [volatility](../v/volatility.md). The term gained widespread attention in early 2021 with the meteoric rise in the stock prices of companies like GameStop (GME) and AMC Entertainment (AMC), driven by collective action from retail investors, prominently on the Reddit forum r/WallStreetBets.
 
@@ -81,8 +81,7 @@ Meme [stocks](../s/stock.md) have introduced a new dynamic in the [financial mar
 
 ## References
 
-- [GameStop Corp. Investor Relations](https://news.gamestop.com/)
-- [AMC Entertainment Holdings, Inc.](https://www.amctheatres.com/stockholders)
-- [BlackBerry Limited](https://www.blackberry.com/us/en/company/investors)
-- [Bed Bath & Beyond Inc.](https://bedbathandbeyond.gcs-web.com/)
-- [Nokia Corporation](https://www.nokia.com/about-us/investors/)
+- AMC Entertainment Holdings, Inc.
+- BlackBerry Limited
+- Bed Bath & Beyond Inc.
+- Nokia Corporation

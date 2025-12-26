@@ -69,13 +69,13 @@ The traditional paper-based Ocean [Bill of Lading](../b/bill_of_lading.md) has s
 ### Notable Digital Platforms:
 
 #### Bolero
-Bolero International (https://www.bolero.net) offers a secure platform for electronic [trade](../t/trade.md) documentation, including e-Bills of Lading. Bolero integrates highly secure data transfer and compliance with international regulations.
+Bolero International ( offers a secure platform for electronic [trade](../t/trade.md) documentation, including e-Bills of Lading. Bolero integrates highly secure data transfer and compliance with international regulations.
 
 #### essDOCS
-essDOCS (https://www.essdocs.com) is another leading platform providing electronic documentation solutions. Its e-[Bill of Lading](../b/bill_of_lading.md) systems are widely adopted in the maritime [industry](../i/industry.md) for their [efficiency](../e/efficiency.md) and reliability.
+essDOCS ( is another leading platform providing electronic documentation solutions. Its e-[Bill of Lading](../b/bill_of_lading.md) systems are widely adopted in the maritime [industry](../i/industry.md) for their [efficiency](../e/efficiency.md) and reliability.
 
 #### TradeLens
-TradeLens (https://www.tradelens.com), an initiative by Maersk and IBM, uses [blockchain](../b/blockchain_in_trading.md) technology to streamline and secure the entire shipping documentation process, including electronic Bills of Lading. It aims to create a transparent and interoperable platform for the global shipping sector.
+TradeLens ( an initiative by Maersk and IBM, uses [blockchain](../b/blockchain_in_trading.md) technology to streamline and secure the entire shipping documentation process, including electronic Bills of Lading. It aims to create a transparent and interoperable platform for the global shipping sector.
 
 ## Challenges and Future Trends
 

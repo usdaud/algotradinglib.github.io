@@ -62,7 +62,7 @@ EBIT includes all [earnings](../e/earnings.md) before [interest](../i/interest.m
 
 ### Tesla Inc.
 
-To understand the application of the FCCR in a real-world scenario, let’s consider Tesla Inc. 
+To understand the application of the FCCR in a real-world scenario, let’s consider Tesla Inc.
 
 Tesla's 2022 financial data is as follows (hypothetical figures for illustration):
 
@@ -76,7 +76,7 @@ Using the FCCR formula:
 
 An FCCR of 14.86 suggests that Tesla Inc. earns nearly 15 times its fixed charges and [interest](../i/interest.md) expenses before [taxes](../t/taxes.md), reflecting [robust](../r/robust.md) [financial health](../f/financial_health.md) and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-### [Tesla's Official Financial Information](https://ir.tesla.com/financial-information)
+### Tesla's Official Financial Information
 
 ## Conclusion
 

@@ -36,16 +36,16 @@ Price movements and [candlestick](../c/candlestick.md) charts can be represented
 Recurrent [Neural Networks](../n/neural_networks_in_trading.md) (RNNs), including Long Short-Term Memory (LSTM) networks, are specifically designed for sequential data. Combining CNNs with RNNs can enhance a model's capacity to capture both spatial (through CNN) and temporal (through RNN) dependencies in trading data.
 
 ## Notable Examples of CNNs in Trading
-Several firms and platforms have integrated CNNs into their [trading systems](../t/trading_systems.md). 
+Several firms and platforms have integrated CNNs into their [trading systems](../t/trading_systems.md).
 
 ### Alpaca
-[Alpaca](https://alpaca.markets/) offers a [commission](../c/commission.md)-free trading API that can be used to execute [algorithmic trading](../a/algorithmic_trading.md) strategies, including those built using CNNs. Developers can [leverage](../l/leverage.md) their API to integrate sophisticated CNN models into their [trading systems](../t/trading_systems.md).
+Alpaca offers a [commission](../c/commission.md)-free trading API that can be used to execute [algorithmic trading](../a/algorithmic_trading.md) strategies, including those built using CNNs. Developers can [leverage](../l/leverage.md) their API to integrate sophisticated CNN models into their [trading systems](../t/trading_systems.md).
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports various [machine learning](../m/machine_learning.md) frameworks, allowing traders to implement CNN-based strategies.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a cloud-based environment for [backtesting](../b/backtesting.md) and deploying [trading algorithms](../t/trading_algorithms.md). It supports various [machine learning](../m/machine_learning.md) frameworks, allowing traders to implement CNN-based strategies.
 
 ### H2O.ai
-[H2O.ai](https://www.h2o.ai/) offers an [open](../o/open.md)-source platform for building [machine learning](../m/machine_learning.md) models, including [deep learning](../d/deep_learning.md) models like CNNs. Their tools can be utilized to develop and deploy [trading algorithms](../t/trading_algorithms.md).
+H2O.ai offers an [open](../o/open.md)-source platform for building [machine learning](../m/machine_learning.md) models, including [deep learning](../d/deep_learning.md) models like CNNs. Their tools can be utilized to develop and deploy [trading algorithms](../t/trading_algorithms.md).
 
 ## Benefits of Using CNNs in Trading
 

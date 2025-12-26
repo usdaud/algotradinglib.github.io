@@ -80,9 +80,9 @@ To manage WAM, portfolio managers might employ various strategies such as:
 
 Several financial tools and software solutions assist in calculating and managing WAM for large portfolios:
 
-1. **[Bloomberg Terminal](../b/bloomberg_terminal.md):** Provides comprehensive data analysis and calculation tools for WAM along with other financial metrics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **[Morningstar](../m/morningstar.md) Direct:** A [robust](../r/robust.md) [investment analysis](../i/investment_analysis.md) platform that helps in calculating and monitoring WAM for mutual funds and other investment portfolios. [Morningstar Direct](https://www.morningstar.com/products/direct)
-3. **[FactSet](../f/factset.md):** An integrated financial data and software solution to analyze WAM and other critical investment metrics. [FactSet](https://www.factset.com/products-data/factset-platform)
+1. **[Bloomberg Terminal](../b/bloomberg_terminal.md):** Provides comprehensive data analysis and calculation tools for WAM along with other financial metrics. Bloomberg
+2. **[Morningstar](../m/morningstar.md) Direct:** A [robust](../r/robust.md) [investment analysis](../i/investment_analysis.md) platform that helps in calculating and monitoring WAM for mutual funds and other investment portfolios. Morningstar Direct
+3. **[FactSet](../f/factset.md):** An integrated financial data and software solution to analyze WAM and other critical investment metrics. FactSet
 
 ## Regulatory Considerations
 

@@ -11,7 +11,7 @@ Treasury stock represents [shares](../s/shares.md) that a company has issued and
 ### Characteristics
 
 1. **Non-Voting**: Treasury [shares](../s/shares.md) do not have any voting rights. This means they do not participate in [shareholder](../s/shareholder.md) votes, including the election of the board of directors and other major corporate decisions.
-   
+
 2. **No Dividends**: Companies do not pay dividends on treasury stock. As these [shares](../s/shares.md) are not part of the outstanding [shares](../s/shares.md), they are excluded when calculating dividends.
 
 3. **Reissuance**: Treasury stock can be reissued to the [market](../m/market.md) through secondary offerings or used for employees' stock [options](../o/options.md) and other corporate purposes.
@@ -90,15 +90,15 @@ Repurchasing [shares](../s/shares.md) diverts funds from other potential investm
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com/) is renowned for its extensive [share repurchase](../s/share_repurchase.md) programs. Over the years, Apple has returned billions of dollars to shareholders through buybacks, significantly impacting its EPS and stock price.
+Apple Inc. ( is renowned for its extensive [share repurchase](../s/share_repurchase.md) programs. Over the years, Apple has returned billions of dollars to shareholders through buybacks, significantly impacting its EPS and stock price.
 
 ### Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com/) has also engaged in substantial [share repurchase](../s/share_repurchase.md) activities, helping to boost its EPS and provide returns to shareholders.
+Microsoft [Corporation](../c/corporation.md) ( has also engaged in substantial [share repurchase](../s/share_repurchase.md) activities, helping to boost its EPS and provide returns to shareholders.
 
 ### ExxonMobil
 
-ExxonMobil (https://corporate.exxonmobil.com/) has periodically engaged in [share buybacks](../s/share_buybacks.md), driven by its [capital allocation](../c/capital_allocation.md) strategy to [return](../r/return.md) [surplus](../s/surplus.md) cash to shareholders.
+ExxonMobil ( has periodically engaged in [share buybacks](../s/share_buybacks.md), driven by its [capital allocation](../c/capital_allocation.md) strategy to [return](../r/return.md) [surplus](../s/surplus.md) cash to shareholders.
 
 ## Conclusion
 

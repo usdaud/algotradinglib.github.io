@@ -50,19 +50,15 @@ While [wirehouse brokers](../w/wirehouse_brokers.md) [offer](../o/offer.md) many
 
 1. **[Merrill Lynch](../m/merrill_lynch.md)**: A [wealth management](../w/wealth_management.md) division of [Bank](../b/bank.md) of America, [Merrill Lynch](../m/merrill_lynch.md) is one of the oldest and most well-known [wirehouse brokers](../w/wirehouse_brokers.md) in the United States.
 
-   [Merrill Lynch](https://www.ml.com/)
 
 2. **Morgan Stanley**: Known for its strong [investment banking](../i/investment_banking.md) and [wealth management](../w/wealth_management.md) services, Morgan Stanley is another prominent [wirehouse](../w/wirehouse.md) [broker](../b/broker.md).
 
-   [Morgan Stanley](https://www.morganstanley.com/)
 
 3. **[UBS](../u/ubs.md)**: A global financial services company, [UBS](../u/ubs.md) offers a broad [range](../r/range.md) of services, including [wealth management](../w/wealth_management.md), [investment banking](../i/investment_banking.md), and [asset management](../a/asset_management.md).
 
-   [UBS](https://www.ubs.com/)
 
 4. **Wells Fargo Advisors**: This [firm](../f/firm.md) is part of Wells Fargo & Company and provides a wide [range](../r/range.md) of investment services, including [financial planning](../f/financial_planning.md) and advisory services.
 
-   [Wells Fargo Advisors](https://www.wellsfargoadvisors.com/)
 
 ## The Future of Wirehouse Brokers
 
@@ -76,6 +72,6 @@ The financial [industry](../i/industry.md) is undergoing significant changes due
 
 4. **Competition from FinTech Firms**: The rise of financial technology firms [offering](../o/offering.md) low-cost, innovative financial services is putting pressure on traditional [wirehouse brokers](../w/wirehouse_brokers.md) to adapt and stay competitive.
 
-In conclusion, while [wirehouse brokers](../w/wirehouse_brokers.md) face some challenges, their extensive resources, comprehensive service offerings, and established reputations continue to make them an important part of the financial [industry](../i/industry.md). 
+In conclusion, while [wirehouse brokers](../w/wirehouse_brokers.md) face some challenges, their extensive resources, comprehensive service offerings, and established reputations continue to make them an important part of the financial [industry](../i/industry.md).
 
 As the [industry](../i/industry.md) evolves, [wirehouse brokers](../w/wirehouse_brokers.md) [will](../w/will.md) need to adapt to new technologies and changing client expectations to continue providing [value](../v/value.md) to their clients.

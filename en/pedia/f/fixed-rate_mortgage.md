@@ -51,11 +51,11 @@ Fixed-rate mortgages are often compared to adjustable-rate mortgages (ARMs) to h
 
 ### Stability vs. Flexibility
 - **Fixed-Rate [Mortgage](../m/mortgage.md) (FRM)**:
-  - Offers rate stability and predictable payments.
-  - Higher initial rates but long-term savings in a rising rate environment.
+ - Offers rate stability and predictable payments.
+ - Higher initial rates but long-term savings in a rising rate environment.
 - **Adjustable-Rate [Mortgage](../m/mortgage.md) (ARM)**:
-  - Initially lower rates, which can adjust periodically based on [market](../m/market.md) conditions.
-  - Potential for rate increases leading to higher payments and [uncertainty](../u/uncertainty_in_trading.md).
+ - Initially lower rates, which can adjust periodically based on [market](../m/market.md) conditions.
+ - Potential for rate increases leading to higher payments and [uncertainty](../u/uncertainty_in_trading.md).
 
 ### Suitability
 - **FRM**: Suitable for [risk-averse](../r/risk-averse.md) borrowers who plan to stay in their [home](../h/home.md) for an extended period.
@@ -65,11 +65,11 @@ Fixed-rate mortgages are often compared to adjustable-rate mortgages (ARMs) to h
 
 Several financial institutions specialize in [offering](../o/offering.md) fixed-rate mortgages. Prominent lenders include:
 
-- **Quicken Loans (Rocket [Mortgage](../m/mortgage.md))**: [rocketmortgage.com](https://www.rocketmortgage.com)
-- **Wells Fargo**: [wellsfargo.com](https://www.wellsfargo.com)
-- **Chase [Bank](../b/bank.md)**: [chase.com](https://www.chase.com)
-- **[Bank](../b/bank.md) of America**: [bankofamerica.com](https://www.bankofamerica.com)
-- **USAA**: [usaa.com](https://www.usaa.com)
+- **Quicken Loans (Rocket [Mortgage](../m/mortgage.md))**: rocketmortgage.com
+- **Wells Fargo**: wellsfargo.com
+- **Chase [Bank](../b/bank.md)**: chase.com
+- **[Bank](../b/bank.md) of America**: bankofamerica.com
+- **USAA**: usaa.com
 
 These lenders provide online tools, personalized rates, and comprehensive support to help borrowers choose the right fixed-rate [mortgage](../m/mortgage.md).
 

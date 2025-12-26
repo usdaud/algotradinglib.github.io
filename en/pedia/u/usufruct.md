@@ -11,11 +11,11 @@ In modern legal systems, usufruct remains integral, albeit with variations depen
 ## Types of Usufruct
 
 1. **Perfect Usufruct**: This type allows the usufructuary to use the property without consuming or altering its core characteristics. Examples include usufructs over land, houses, and machinery.
-   
+
 2. **Imperfect Usufruct**: This type involves the consumption or transformation of the property. Usufruct over [money](../m/money.md), grains, or other consumable items typically falls into this category. The usufructuary is usually required to [return](../r/return.md) an equivalent [value](../v/value.md) at the end of the usufruct period.
 
 3. **Temporary Usufruct**: Usufructs that are granted for a specific period or until a particular event occurs.
-   
+
 4. **Lifetime Usufruct**: This type lasts for the [duration](../d/duration.md) of the usufructuary’s life. Upon their death, the property reverts to the original owner or their heirs.
 
 ## Rights and Duties of the Usufructuary
@@ -23,7 +23,7 @@ In modern legal systems, usufruct remains integral, albeit with variations depen
 ### Rights
 - **Usage**: The usufructuary has the right to use the property as if they were the owner, within the constraints defined by law or the usufruct agreement.
 - **Fruits**: The usufructuary is entitled to the fruits of the property. This includes natural fruits (e.g., apples from an apple tree), industrial fruits (e.g., [mining](../m/mining.md) output), and civil fruits (e.g., rental [income](../i/income.md)).
-  
+
 ### Duties
 - **Preservation**: The usufructuary must maintain the property's substance and cannot significantly alter or damage it. This includes conducting necessary repairs and paying for them.
 - **[Taxes](../t/taxes.md) and Expenses**: The usufructuary is generally responsible for ordinary [taxes](../t/taxes.md) and operational expenses associated with the property.

@@ -32,20 +32,20 @@ To fully grasp the concept of [Gamma Hedging](../g/gamma_hedging.md), it is esse
 ### Steps in Gamma Hedging
 
 1. **Calculate the [Gamma](../g/gamma.md)**:
-   - Review the [gamma](../g/gamma.md) of each option in the portfolio.
-   - Aggregate the total [gamma exposure](../g/gamma_exposure.md).
-   
+ - Review the [gamma](../g/gamma.md) of each option in the portfolio.
+ - Aggregate the total [gamma exposure](../g/gamma_exposure.md).
+
 2. **Assess [Delta](../d/delta.md) Changes**:
-   - Determine the initial [delta](../d/delta.md) exposure.
-   - Assess how [delta](../d/delta.md) [will](../w/will.md) change with different price moves in the [underlying asset](../u/underlying_asset.md).
-   
+ - Determine the initial [delta](../d/delta.md) exposure.
+ - Assess how [delta](../d/delta.md) [will](../w/will.md) change with different price moves in the [underlying asset](../u/underlying_asset.md).
+
 3. **Adjust Positions**:
-   - If [gamma](../g/gamma.md) is positive, consider buying more of the [underlying](../u/underlying.md) to increase [delta](../d/delta.md).
-   - If [gamma](../g/gamma.md) is negative, sell the [underlying](../u/underlying.md) or other [derivatives](../d/derivatives.md) to decrease [delta](../d/delta.md).
+ - If [gamma](../g/gamma.md) is positive, consider buying more of the [underlying](../u/underlying.md) to increase [delta](../d/delta.md).
+ - If [gamma](../g/gamma.md) is negative, sell the [underlying](../u/underlying.md) or other [derivatives](../d/derivatives.md) to decrease [delta](../d/delta.md).
 
 4. **Continuous [Rebalancing](../r/rebalancing.md)**:
-   - Regularly rebalance the portfolio as the [underlying asset](../u/underlying_asset.md)'s price changes.
-   - Use software and algorithms to monitor positions and execute trades.
+ - Regularly rebalance the portfolio as the [underlying asset](../u/underlying_asset.md)'s price changes.
+ - Use software and algorithms to monitor positions and execute trades.
 
 ### Practical Example:
 
@@ -59,7 +59,7 @@ To [hedge](../h/hedge.md) this change, the [trader](../t/trader.md) must adjust 
 
 **[Options](../o/options.md) Pricing Models**: The [Black-Scholes model](../b/black-scholes_model.md) and the Binomial model are essential tools for calculating [Greeks](../g/greeks.md) and understanding [gamma](../g/gamma.md) dynamics.
 
-**[Risk Management](../r/risk_management.md) Software**: Dedicated software solutions from financial technology firms, like Cboe Global Markets' [Risk Management](../r/risk_management.md) Suite, provide comprehensive analysis and automation tools (Cboe Global Markets: [products](https://www.cboe.com/tradable_products/)).
+**[Risk Management](../r/risk_management.md) Software**: Dedicated software solutions from financial technology firms, like Cboe Global Markets' [Risk Management](../r/risk_management.md) Suite, provide comprehensive analysis and automation tools (Cboe Global Markets: products).
 
 ### Key Considerations
 

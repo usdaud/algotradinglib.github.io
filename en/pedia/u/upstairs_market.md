@@ -66,12 +66,12 @@ The upstairs [market](../m/market.md) has evolved significantly with the advent 
 
 Electronic platforms, such as Liquidnet and ITG Posit, facilitate [institutional block trading](../i/institutional_block_trading.md) by providing a secure and anonymous environment for negotiating large trades. These platforms use advanced [matching algorithms](../m/matching_algorithms_in_trading.md) to connect buyers and sellers based on their trading preferences and requirements.
 
-- [Liquidnet](https://www.liquidnet.com/)
-- [ITG Posit](https://www.itg.com/posit/)
+- Liquidnet
+- ITG Posit
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has become an integral part of the upstairs [market](../m/market.md). Algorithms can analyze [market](../m/market.md) data in real-time, identify potential trading opportunities, and execute trades with minimal human intervention. The use of algorithms helps in achieving optimal [trade](../t/trade.md) [execution](../e/execution.md), reducing the [market](../m/market.md) impact, and enhancing the overall [trading performance](../t/trading_performance.md).
+[Algorithmic trading](../a/algorithmic_trading.md) has become an integral part of the upstairs [market](../m/market.md). Algorithms can analyze [market](../m/market.md) data in real-time, identify potential trading opportunities, and execute trades with minimal human intervention. The use of algorithms helps in achieving optimal [trade](../t/trade.md) [execution](../e/execution.md), reducing the [market](../m/market.md) impact, and enhancing the overall [trading performance](../t/trading_performance.md).
 
 ## Challenges and Criticisms
 

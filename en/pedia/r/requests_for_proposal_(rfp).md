@@ -60,10 +60,10 @@ With advancements in technology, many organizations use RFP software solutions t
 
 ### Leading RFP Software Providers
 
-- **RFP360**: A platform that offers comprehensive RFP management solutions. [RFP360](https://www.rfp360.com/)
-- **PandaDoc**: Provides RFP automation with functionalities for proposal creation and e-signatures. [PandaDoc](https://www.pandadoc.com/)
-- **Loopio**: Specializes in RFP response automation. [Loopio](https://www.loopio.com/)
-- **Proposal Software Inc. (PSI)**: Offers solutions for managing proposals from inception to completion. [PSI](https://www.proposalsoftware.com/)
+- **RFP360**: A platform that offers comprehensive RFP management solutions. RFP360
+- **PandaDoc**: Provides RFP automation with functionalities for proposal creation and e-signatures. PandaDoc
+- **Loopio**: Specializes in RFP response automation. Loopio
+- **Proposal Software Inc. (PSI)**: Offers solutions for managing proposals from inception to completion. PSI
 
 ## Challenges and Best Practices
 

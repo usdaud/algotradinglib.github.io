@@ -53,15 +53,15 @@ Several financial firms and [asset management](../a/asset_management.md) compani
 
 ### BlackRock
 
-BlackRock, one of the world's leading [asset management](../a/asset_management.md) firms, employs [Yield](../y/yield.md) [Beta](../b/beta.md) in its fixed-[income](../i/income.md) portfolio strategies to optimize returns and manage [risk](../r/risk.md). The company's advanced analytics and [quantitative models](../q/quantitative_models.md) integrate [Yield](../y/yield.md) [Beta](../b/beta.md) to enhance decision-making processes. For more information, visit [BlackRock](https://www.blackrock.com).
+BlackRock, one of the world's leading [asset management](../a/asset_management.md) firms, employs [Yield](../y/yield.md) [Beta](../b/beta.md) in its fixed-[income](../i/income.md) portfolio strategies to optimize returns and manage [risk](../r/risk.md). The company's advanced analytics and [quantitative models](../q/quantitative_models.md) integrate [Yield](../y/yield.md) [Beta](../b/beta.md) to enhance decision-making processes. For more information, visit BlackRock.
 
 ### PIMCO
 
-PIMCO, known for its expertise in fixed-[income](../i/income.md) investments, utilizes [Yield](../y/yield.md) [Beta](../b/beta.md) to assess [interest rate risk](../i/interest_rate_risk.md) and construct diversified [bond](../b/bond.md) portfolios. The [firm](../f/firm.md)'s research and investment strategies heavily rely on [Yield](../y/yield.md) [Beta](../b/beta.md) to achieve superior [risk](../r/risk.md)-adjusted returns. Learn more at [PIMCO](https://www.pimco.com).
+PIMCO, known for its expertise in fixed-[income](../i/income.md) investments, utilizes [Yield](../y/yield.md) [Beta](../b/beta.md) to assess [interest rate risk](../i/interest_rate_risk.md) and construct diversified [bond](../b/bond.md) portfolios. The [firm](../f/firm.md)'s research and investment strategies heavily rely on [Yield](../y/yield.md) [Beta](../b/beta.md) to achieve superior [risk](../r/risk.md)-adjusted returns. Learn more at PIMCO.
 
 ### JP Morgan Asset Management
 
-JP Morgan [Asset Management](../a/asset_management.md) applies [Yield](../y/yield.md) [Beta](../b/beta.md) in its [quantitative research](../q/quantitative_research.md) and [portfolio management](../p/portfolio_management.md) processes to evaluate the impact of [interest rate](../i/interest_rate.md) changes on various fixed-[income](../i/income.md) instruments. This helps the [firm](../f/firm.md) maintain [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. For additional details, visit [JP Morgan Asset Management](https://am.jpmorgan.com).
+JP Morgan [Asset Management](../a/asset_management.md) applies [Yield](../y/yield.md) [Beta](../b/beta.md) in its [quantitative research](../q/quantitative_research.md) and [portfolio management](../p/portfolio_management.md) processes to evaluate the impact of [interest rate](../i/interest_rate.md) changes on various fixed-[income](../i/income.md) instruments. This helps the [firm](../f/firm.md) maintain [robust](../r/robust.md) [risk management](../r/risk_management.md) practices. For additional details, visit JP Morgan Asset Management.
 
 ## Conclusion
 

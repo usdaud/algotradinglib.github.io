@@ -86,23 +86,23 @@ Despite the benefits, obtaining and managing government grants comes with challe
 
 ### National Institutes of Health (NIH) Grants
 
-The NIH provides a wide [range](../r/range.md) of research grants to support biomedical and health-related research. These grants are crucial for advancing medical knowledge and improving public health. Learn more at [nih.gov](https://www.nih.gov/).
+The NIH provides a wide [range](../r/range.md) of research grants to support biomedical and health-related research. These grants are crucial for advancing medical knowledge and improving public health. Learn more at nih.gov.
 
 ### Small Business Innovation Research (SBIR) Program
 
-The SBIR program offers grants to small businesses engaged in research and development projects with potential for [commercialization](../c/commercialization.md). The program aims to stimulate innovation and help small businesses bring new technologies to [market](../m/market.md). More information is available at [sbir.gov](https://www.sbir.gov/).
+The SBIR program offers grants to small businesses engaged in research and development projects with potential for [commercialization](../c/commercialization.md). The program aims to stimulate innovation and help small businesses bring new technologies to [market](../m/market.md). More information is available at sbir.gov.
 
 ### Department of Education Grants
 
-The U.S. Department of Education provides various grants to support educational institutions, teachers, and students. These grants [fund](../f/fund.md) programs that enhance educational opportunities and outcomes. Details can be found at [ed.gov](https://www.ed.gov/fund/grants-apply.html).
+The U.S. Department of Education provides various grants to support educational institutions, teachers, and students. These grants [fund](../f/fund.md) programs that enhance educational opportunities and outcomes. Details can be found at ed.gov.
 
 ### Community Development Block Grant (CDBG) Program
 
-The CDBG program administered by the U.S. Department of Housing and Urban Development (HUD) provides funding to local governments for community development projects, such as affordable housing, [infrastructure](../i/infrastructure.md) improvements, and public services. Visit [hud.gov](https://www.hud.gov/program_offices/comm_planning/communitydevelopment/programs) for more information.
+The CDBG program administered by the U.S. Department of Housing and Urban Development (HUD) provides funding to local governments for community development projects, such as affordable housing, [infrastructure](../i/infrastructure.md) improvements, and public services. Visit hud.gov for more information.
 
 ### National Science Foundation (NSF) Grants
 
-The NSF offers grants to support research and education in science, technology, engineering, and mathematics (STEM) fields. These grants are essential for advancing scientific knowledge and fostering innovation. Learn more at [nsf.gov](https://www.nsf.gov/funding/).
+The NSF offers grants to support research and education in science, technology, engineering, and mathematics (STEM) fields. These grants are essential for advancing scientific knowledge and fostering innovation. Learn more at nsf.gov.
 
 ## Conclusion
 

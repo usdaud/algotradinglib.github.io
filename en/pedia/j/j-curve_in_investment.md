@@ -35,16 +35,16 @@ Economically, the [J-curve](../j/j-curve.md) often describes the effects of [cur
 #### Private Equity Firms
 
 1. **Blackstone Group**:
-   [Blackstone Group](https://www.blackstone.com/) is a prominent [private equity](../p/private_equity.md) [firm](../f/firm.md) that frequently uses the [J-curve theory](../j/j-curve_theory.md) to explain the performance trajectory of its funds.
+ Blackstone Group is a prominent [private equity](../p/private_equity.md) [firm](../f/firm.md) that frequently uses the [J-curve theory](../j/j-curve_theory.md) to explain the performance trajectory of its funds.
 2. **The Carlyle Group**:
-   [The Carlyle Group](https://www.carlyle.com/) leverages the [J-curve](../j/j-curve.md) when portraying the expected returns to potential investors, acknowledging the initial dip and later gains.
+ The Carlyle Group leverages the [J-curve](../j/j-curve.md) when portraying the expected returns to potential investors, acknowledging the initial dip and later gains.
 
 #### Venture Capital Firms
 
 1. **Sequoia [Capital](../c/capital.md)**:
-   [Sequoia Capital](https://www.sequoiacap.com/) often elucidates the [J-curve](../j/j-curve.md) phenomenon while managing [investor](../i/investor.md) expectations about the journey from initial investment to eventual [return](../r/return.md).
+ Sequoia Capital often elucidates the [J-curve](../j/j-curve.md) phenomenon while managing [investor](../i/investor.md) expectations about the journey from initial investment to eventual [return](../r/return.md).
 2. **Andreessen Horowitz**:
-   [Andreessen Horowitz](https://a16z.com/) applies the [J-curve](../j/j-curve.md) concept in their investment model, [accounting](../a/accounting.md) for the early losses and potential high returns in their portfolio companies.
+ Andreessen Horowitz applies the [J-curve](../j/j-curve.md) concept in their investment model, [accounting](../a/accounting.md) for the early losses and potential high returns in their portfolio companies.
 
 ### Strategies to Mitigate J-Curve Effects
 
@@ -57,4 +57,3 @@ Professional investors employ several techniques to manage the [J-curve](../j/j-
 ### Conclusion
 
 The [J-curve](../j/j-curve.md) illustrates an important concept in investment and [macroeconomics](../m/macroeconomics.md), emphasizing the temporality of initial losses followed by subsequent gains. This concept aids investors and policymakers in setting expectations and developing strategies to manage the initial adversities for long-term profitability. Understanding the [J-curve](../j/j-curve.md) allows for better [risk management](../r/risk_management.md), investment planning, and policy-making.
-

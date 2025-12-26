@@ -4,7 +4,7 @@ Depreciated cost, often referred to as the [book value](../b/book_value.md) or c
 
 ### Understanding Depreciated Cost
 
-Depreciated cost is crucial in both [financial accounting](../f/financial_accounting.md) and tax reporting. The [depreciation](../d/depreciation.md) process involves spreading out the initial cost of an [asset](../a/asset.md) over the period of its expected life. This approach helps businesses match the [expense](../e/expense.md) of the [asset](../a/asset.md) with the [revenue](../r/revenue.md) it generates, thus adhering to the matching principle in [accounting](../a/accounting.md). 
+Depreciated cost is crucial in both [financial accounting](../f/financial_accounting.md) and tax reporting. The [depreciation](../d/depreciation.md) process involves spreading out the initial cost of an [asset](../a/asset.md) over the period of its expected life. This approach helps businesses match the [expense](../e/expense.md) of the [asset](../a/asset.md) with the [revenue](../r/revenue.md) it generates, thus adhering to the matching principle in [accounting](../a/accounting.md).
 
 ### Methods of Depreciation
 
@@ -65,11 +65,11 @@ Lenders and investors often use depreciated cost in [financial ratios](../f/fina
 
 Numerous tools and software solutions assist in managing [depreciation](../d/depreciation.md):
 
-- **Sage Fixed Assets**: Provides comprehensive tools for managing [asset](../a/asset.md) [depreciation](../d/depreciation.md) and [accounting](../a/accounting.md). [Link](https://www.sage.com/en-us/products/sage-fixed-assets/)
+- **Sage Fixed Assets**: Provides comprehensive tools for managing [asset](../a/asset.md) [depreciation](../d/depreciation.md) and [accounting](../a/accounting.md). Link
 
-- **QuickBooks by Intuit**: Offers small businesses [robust](../r/robust.md) tools for tracking [asset](../a/asset.md) [depreciation](../d/depreciation.md). [Link](https://quickbooks.intuit.com/)
+- **QuickBooks by Intuit**: Offers small businesses [robust](../r/robust.md) tools for tracking [asset](../a/asset.md) [depreciation](../d/depreciation.md). Link
 
-- **NetSuite**: Delivers advanced financial management capabilities, including [depreciation](../d/depreciation.md) tracking. [Link](https://www.netsuite.com/portal/products/erp/financial-management.shtml)
+- **NetSuite**: Delivers advanced financial management capabilities, including [depreciation](../d/depreciation.md) tracking. Link
 
 These solutions help automate [depreciation](../d/depreciation.md) calculations, ensuring accuracy and compliance with [accounting](../a/accounting.md) standards.
 

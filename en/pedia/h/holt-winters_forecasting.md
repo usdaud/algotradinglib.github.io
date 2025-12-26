@@ -10,7 +10,7 @@ Holt-Winters [forecasting](../f/forecasting.md) deals with decomposing a [time s
 - **[Trend](../t/trend.md) (\(b_t\))**: The slope or change in the series' [value](../v/value.md).
 - **[Seasonality](../s/seasonality.md) (\(s_t\))**: The repeating short-term cycle in the series.
 
-The method updates each of these components using [exponential smoothing](../e/exponential_smoothing.md), a technique which applies decreasing weights to past observations. 
+The method updates each of these components using [exponential smoothing](../e/exponential_smoothing.md), a technique which applies decreasing weights to past observations.
 
 ## Types of Holt-Winters Models
 
@@ -21,28 +21,28 @@ Holt-Winters models come in two main types:
 
 ### Additive Model Equations
 
-- **Level**: \(\ell_t = \[alpha](../a/alpha.md) (y_t - s_{t-L}) + (1 - \[alpha](../a/alpha.md))(\ell_{t-1} + b_{t-1})\)
-- **[Trend](../t/trend.md)**: \(b_t = \[beta](../b/beta.md) (\ell_t - \ell_{t-1}) + (1 - \[beta](../b/beta.md))b_{t-1}\)
-- **[Seasonality](../s/seasonality.md)**: \(s_t = \[gamma](../g/gamma.md) (y_t - \ell_t) + (1 - \[gamma](../g/gamma.md))s_{t-L}\)
+- **Level**: \(\ell_t = \lpha (y_t - s_{t-L}) + (1 - \lpha)(\ell_{t-1} + b_{t-1})\)
+- **[Trend](../t/trend.md)**: \(b_t = \beta (\ell_t - \ell_{t-1}) + (1 - \beta)b_{t-1}\)
+- **[Seasonality](../s/seasonality.md)**: \(s_t = \gamma (y_t - \ell_t) + (1 - \gamma)s_{t-L}\)
 - **Forecast**: \(\hat{y}_{t+h} = \ell_t + hb_t + s_{t-L+h}\)
 
 ### Multiplicative Model Equations
 
-- **Level**: \(\ell_t = \[alpha](../a/alpha.md) \frac{y_t}{s_{t-L}} + (1 - \[alpha](../a/alpha.md))(\ell_{t-1} + b_{t-1})\)
-- **[Trend](../t/trend.md)**: \(b_t = \[beta](../b/beta.md) (\ell_t - \ell_{t-1}) + (1 - \[beta](../b/beta.md))b_{t-1}\)
-- **[Seasonality](../s/seasonality.md)**: \(s_t = \[gamma](../g/gamma.md) \frac{y_t}{\ell_t} + (1 - \[gamma](../g/gamma.md))s_{t-L}\)
+- **Level**: \(\ell_t = \lpha \frac{y_t}{s_{t-L}} + (1 - \lpha)(\ell_{t-1} + b_{t-1})\)
+- **[Trend](../t/trend.md)**: \(b_t = \beta (\ell_t - \ell_{t-1}) + (1 - \beta)b_{t-1}\)
+- **[Seasonality](../s/seasonality.md)**: \(s_t = \gamma \frac{y_t}{\ell_t} + (1 - \gamma)s_{t-L}\)
 - **Forecast**: \(\hat{y}_{t+h} = (\ell_t + hb_t) s_{t-L+h}\)
 
 Where:
 
 - \(y_t\) is the observed [value](../v/value.md) at time period \(t\).
-- \(\[alpha](../a/alpha.md), \[beta](../b/beta.md), \[gamma](../g/gamma.md)\) are smoothing parameters for level, [trend](../t/trend.md), and [seasonality](../s/seasonality.md) between 0 and 1.
+- \(\lpha, \beta, \gamma\) are smoothing parameters for level, [trend](../t/trend.md), and [seasonality](../s/seasonality.md) between 0 and 1.
 - \(L\) is the length of the seasonal cycle.
 - \(h\) is the number of periods ahead for [forecasting](../f/forecasting.md).
 
 ## Parameter Selection
 
-The parameters \(\[alpha](../a/alpha.md), \[beta](../b/beta.md), \[gamma](../g/gamma.md)\) can significantly impact the model's accuracy. They are typically chosen to minimize the sum of squared errors between the forecast and actual values. This is often achieved using [optimization](../o/optimization.md) methods such as [grid search](../g/grid_search_in_trading.md) or gradient descent.
+The parameters \(\lpha, \beta, \gamma\) can significantly impact the model's accuracy. They are typically chosen to minimize the sum of squared errors between the forecast and actual values. This is often achieved using [optimization](../o/optimization.md) methods such as [grid search](../g/grid_search_in_trading.md) or gradient descent.
 
 ## Model Initialization
 
@@ -113,4 +113,4 @@ print(forecast)
 
 Holt-Winters [forecasting](../f/forecasting.md) is a powerful method for [time series analysis](../t/time_series_analysis.md), particularly when the data exhibit seasonal patterns. By capturing the level, [trend](../t/trend.md), and [seasonality](../s/seasonality.md) components, it provides more accurate and reliable forecasts. Its easy implementation and flexibility make it a valuable tool in various industries for responsible decision-making based on [time series](../t/time_series.md) data.
 
-For more information about the capabilities and services provided by companies specializing in [predictive analytics](../p/predictive_analytics.md) and [algorithmic trading](../a/algorithmic_trading.md), visit [AlgoTrader](https://www.algotrader.com/) и [Numerai](https://numer.ai/).
+For more information about the capabilities and services provided by companies specializing in [predictive analytics](../p/predictive_analytics.md) and [algorithmic trading](../a/algorithmic_trading.md), visit AlgoTrader и Numerai.

@@ -65,19 +65,19 @@ Climate change and adverse weather conditions often lead to fluctuations in the 
 
 ## Companies Specializing in Algo Trading
 
-### **Goldman Sachs [Goldman Sachs Website](https://www.goldmansachs.com)**
+### **Goldman Sachs Goldman Sachs online platform**
 Goldman Sachs is a global investment [bank](../b/bank.md) that employs sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to manage its extensive trading operations.
 
-### **Citadel Securities [Citadel Securities Website](https://www.citadelsecurities.com)**
+### **Citadel Securities Citadel Securities online platform**
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md), known for its advanced trading platforms and high-frequency trading capabilities.
 
-### **Two Sigma [Two Sigma Website](https://www.twosigma.com)**
+### **Two Sigma Two Sigma online platform**
 Two Sigma is a [hedge fund](../h/hedge_fund.md) that leverages [data science](../d/data_science_in_trading.md) and technology to inform its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to predict [market](../m/market.md) movements.
 
-### **Jane Street [Jane Street Website](https://www.janestreet.com)**
+### **Jane Street Jane Street online platform**
 Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs algorithmic strategies across various [asset](../a/asset.md) classes, including equities, commodities, and [fixed income](../f/fixed_income.md).
 
-### **DE Shaw [DE Shaw Website](https://www.deshaw.com)**
+### **DE Shaw DE Shaw online platform**
 DE Shaw is a global investment and technology development [firm](../f/firm.md) that uses [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) to manage its investments.
 
 ## Conclusion

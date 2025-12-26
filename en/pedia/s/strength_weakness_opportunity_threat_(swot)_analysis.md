@@ -1,6 +1,6 @@
 # Strength, Weakness, Opportunity, and Threat (SWOT) Analysis
 
-Strength, Weakness, Opportunity, and Threat (SWOT) Analysis is a strategic planning tool used by businesses, organizations, and traders to understand and situate their position in the [market](../m/market.md) environment. This multi-faceted framework assists in identifying internal strengths and weaknesses, as well as external opportunities and threats. 
+Strength, Weakness, Opportunity, and Threat (SWOT) Analysis is a strategic planning tool used by businesses, organizations, and traders to understand and situate their position in the [market](../m/market.md) environment. This multi-faceted framework assists in identifying internal strengths and weaknesses, as well as external opportunities and threats.
 
 A SWOT Analysis can be applied across different contexts—from corporate strategy to stock trading decisions—helping stakeholders make informed decisions by revealing the internal and external factors that could affect future performance.
 
@@ -97,12 +97,12 @@ In algo-trading, SWOT analysis allows traders to optimize their strategies by fo
 ### Threats in Algo-Trading
 
 1. **Latency Issues**: Delays in [execution](../e/execution.md) can lead to missed opportunities and losses.
-2. **Regulatory Scrutiny**: Increased monitoring and potential restrictions on [algorithmic trading](../a/accountability.md) practices.
+2. **Regulatory Scrutiny**: Increased monitoring and potential restrictions on [algorithmic trading](../a/algorithmic_trading.md) practices.
 
 ## Conclusion
 
-SWOT Analysis remains a powerful tool in both traditional financial contexts and specialized fields like [algorithmic trading](../a/accountability.md). By decoding internal strengths and weaknesses while staying vigilant about external opportunities and threats, organizations can navigate complexities with more resilience and effectiveness.
+SWOT Analysis remains a powerful tool in both traditional financial contexts and specialized fields like [algorithmic trading](../a/algorithmic_trading.md). By decoding internal strengths and weaknesses while staying vigilant about external opportunities and threats, organizations can navigate complexities with more resilience and effectiveness.
 
 For more comprehensive resources and applications of SWOT analysis within financial contexts and businesses, you may visit:
 
-- [FinBox](https://finbox.com/): A platform specializing in financial data and insights that can be instrumental in conducting SWOT analysis.
+- FinBox: A platform specializing in financial data and insights that can be instrumental in conducting SWOT analysis.

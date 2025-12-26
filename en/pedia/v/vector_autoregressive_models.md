@@ -25,7 +25,7 @@ where:
 
 #### 2. Estimation
 - **Ordinary Least Squares (OLS)**: Each equation in the VAR can be estimated using OLS since they are linear.
-  
+
 #### 3. Diagnostic Checking
 - **[Autocorrelation](../a/autocorrelation.md) [Check](../c/check.md)**: Ensure that the residuals do not exhibit significant [autocorrelation](../a/autocorrelation.md).
 - **Stability**: [Check](../c/check.md) if the VAR model is stable. A VAR model is stable if the roots of the characteristic polynomial lie outside the unit circle.
@@ -50,8 +50,8 @@ VAR models are extensively used in [finance](../f/finance.md) for various applic
 Several financial institutions and research entities utilize VAR models to inform their strategies and understand economic dynamics. Notable examples include:
 
 1. **Federal Reserve Banks**: Employ VAR models for [economic forecasting](../e/economic_forecasting.md) and policy analysis.
-2. **European Central [Bank](../b/bank.md) (ECB)**: Uses VAR models for macroeconomic [forecasting](../f/forecasting.md) and to study [monetary policy](../m/monetary_policy.md) effects. For more detailed insights, visit the ECB's [Statistical Data Warehouse](https://sdw.ecb.europa.eu).
-3. **International Monetary [Fund](../f/fund.md) (IMF)**: Applies VAR models in its World Economic Outlook projections and reports. Explore more on the [IMF Research](https://www.imf.org/en/Publications/WEO).
+2. **European Central [Bank](../b/bank.md) (ECB)**: Uses VAR models for macroeconomic [forecasting](../f/forecasting.md) and to study [monetary policy](../m/monetary_policy.md) effects. For more detailed insights, visit the ECB's Statistical Data Warehouse.
+3. **International Monetary [Fund](../f/fund.md) (IMF)**: Applies VAR models in its World Economic Outlook projections and reports. Explore more on the IMF Research.
 
 ### Mathematical Foundations
 
@@ -62,7 +62,7 @@ A VAR(p) model assumes:
 
 The structure ensures that each variable is regressed on its own lagged values and the lagged values of all other variables in the system. The [white noise](../w/white_noise_in_trading.md) errors \( \epsilon_t \) follow:
 
-\[ E(\epsilon_t) = 0 \]  
+\[ E(\epsilon_t) = 0 \]
 \[ E(\epsilon_t \epsilon_t') = \Sigma_\epsilon \]
 
 where \( \Sigma_\epsilon \) is a [covariance](../c/covariance.md) matrix.
@@ -73,8 +73,8 @@ The parameters \( c, A_1, \ldots, A_p \) can be estimated using Ordinary Least S
 #### Identification and Selection Criteria
 The identification process involves selecting the optimal lag length using the criteria mentioned earlier (AIC, BIC, HQ). Criteria calculations are as follows:
 
-\[ \text{AIC} = -2 \log(L) + 2k \]  
-\[ \text{BIC} = -2 \log(L) + k\log(T) \]  
+\[ \text{AIC} = -2 \log(L) + 2k \]
+\[ \text{BIC} = -2 \log(L) + k\log(T) \]
 \[ \text{HQ} = -2 \log(L) + 2k\log(\log(T)) \]
 
 where \( L \) is the likelihood of the model, \( k \) is the number of parameters estimated, and \( T \) is the number of observations.

@@ -87,7 +87,7 @@ The significance of ATM [options](../o/options.md) extends into the realm of aut
 
 ### Example of a Company Utilizing Algorithmic Strategies:
 
-- **Citadel Securities**: One of the premier firms in this space is Citadel Securities [citadelsecurities.com](https://www.citadelsecurities.com/). They use sophisticated algorithms to [trade](../t/trade.md) a variety of [options](../o/options.md), including ATM [options](../o/options.md), across a [range](../r/range.md) of assets. Their algorithms are designed to optimize [trading strategies](../t/trading_strategies.md), manage [risk](../r/risk.md), and maximize returns, leveraging the properties of ATM [options](../o/options.md) extensively.
+- **Citadel Securities**: One of the premier firms in this space is Citadel Securities citadelsecurities.com. They use sophisticated algorithms to [trade](../t/trade.md) a variety of [options](../o/options.md), including ATM [options](../o/options.md), across a [range](../r/range.md) of assets. Their algorithms are designed to optimize [trading strategies](../t/trading_strategies.md), manage [risk](../r/risk.md), and maximize returns, leveraging the properties of ATM [options](../o/options.md) extensively.
 
 ## Conclusion
 

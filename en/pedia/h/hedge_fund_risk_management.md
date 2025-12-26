@@ -35,18 +35,18 @@
 **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: Improves [transparency](../t/transparency.md) and accuracy in recording financial transactions, aiding in managing operational and [counterparty](../c/counterparty.md) risks.
 
 **[Risk Management](../r/risk_management.md) Software and Platforms**: Comprehensive software solutions streamline [risk](../r/risk.md) assessment and reporting. Notable examples include:
-- **BlackRock’s Aladdin**: [Aladdin](https://www.blackrock.com/aladdin)
-- **[Bloomberg](../b/bloomberg.md)’s PORT**: [PORT](https://www.bloomberg.com/professional/product/port/)
+- **BlackRock’s Aladdin**: Aladdin
+- **[Bloomberg](../b/bloomberg.md)’s PORT**: PORT
 
 ### Regulatory Landscape
 
 Regulatory changes post-2008 [financial crisis](../f/financial_crisis.md) have intensified the focus on [risk management](../r/risk_management.md). Regulations such as the Dodd-Frank Act, EMIR, AIFMD, and [MiFID II](../m/mifid_ii.md) impose stringent requirements on [risk](../r/risk.md) oversight, reporting, and governance.
 
 **Key Regulatory Bodies**:
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC](https://www.sec.gov/)
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: [CFTC](https://www.cftc.gov/)
-- **Financial Conduct Authority (FCA)**: [FCA](https://www.fca.org.uk/)
-- **European Securities and Markets Authority (ESMA)**: [ESMA](https://www.esma.europa.eu/)
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: SEC
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: CFTC
+- **Financial Conduct Authority (FCA)**: FCA
+- **European Securities and Markets Authority (ESMA)**: ESMA
 
 ### Example Case Studies
 

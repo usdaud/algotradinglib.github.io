@@ -38,14 +38,14 @@ Paribu uses a sophisticated technology stack to ensure fast, reliable, and secur
 - Advanced algorithms for price matching and [order](../o/order.md) [execution](../e/execution.md).
 - Secure APIs for integrating third-party services and trading bots.
 - Comprehensive [data analytics](../d/data_analytics.md) tools for [market](../m/market.md) analysis and reporting.
-  
+
 ## Regulatory Compliance
 
 Operating in a regulated environment, Paribu adheres to Turkish financial regulations, ensuring full compliance with KYC (Know Your [Customer](../c/customer.md)) and AML (Anti-[Money Laundering](../m/money_laundering.md)) requirements. Users are required to verify their identities before engaging in any trading activities, providing a layer of [security](../s/security.md) and [trust](../t/trust.md).
 
 ## Customer Support
 
-Paribu places a strong emphasis on [customer service](../c/customer_service.md), [offering](../o/offering.md) various support channels including a 24/7 live chat, email support, and an extensive FAQ section on their website. The platform also provides educational resources to help users better understand cryptocurrencies and the trading process.
+Paribu places a strong emphasis on [customer service](../c/customer_service.md), [offering](../o/offering.md) various support channels including a 24/7 live chat, email support, and an extensive FAQ section through its online channels. The platform also provides educational resources to help users better understand cryptocurrencies and the trading process.
 
 ## Community Engagement
 
@@ -55,7 +55,7 @@ Paribu is actively involved in community-building activities, organizing events,
 
 Paribu's future roadmap includes plans to expand its services, introduce new financial products, and further enhance its [security](../s/security.md) and technology [infrastructure](../i/infrastructure.md). The platform aims to position itself as a global player in the cryptocurrency [exchange](../e/exchange.md) [market](../m/market.md) by continually evolving and adapting to the dynamic cryptocurrency landscape.
 
-For more detailed information, you can visit Paribu's official website: [Paribu](https://www.paribu.com)
+For more detailed information, you can
 
 ## Conclusion
 

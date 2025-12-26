@@ -179,8 +179,8 @@ A [day order](../d/day_order.md) is an [order](../o/order.md) that is only valid
 Understanding the various types of orders in trading equips traders with the tools to execute their strategies effectively. Each [order](../o/order.md) type has its specific characteristics, advantages, and disadvantages, tailored to different trading styles and objectives. By selecting the appropriate [order](../o/order.md) type based on [market](../m/market.md) conditions and trading goals, traders can optimize their performance and better manage their [risk](../r/risk.md).
 
 For more in-depth information and practical usage of these [order](../o/order.md) types, one can refer to financial and trading platforms such as:
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E*TRADE](https://us.etrade.com/home)
-- [Charles Schwab](https://www.schwab.com/)
+- Interactive Brokers
+- E*TRADE
+- Charles Schwab
 
 Understanding how to [leverage](../l/leverage.md) different [order](../o/order.md) types is foundational for any [trader](../t/trader.md) looking to navigate the complexities of the [financial markets](../f/financial_market.md) efficiently.

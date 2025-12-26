@@ -1,6 +1,6 @@
 # Certificate of Deposit (CD)
 
-A Certificate of [Deposit](../d/deposit.md) (CD) is a financial product commonly offered by banks and [credit](../c/credit.md) unions. It is a type of [savings account](../s/savings_account.md) that has a [fixed interest rate](../f/fixed_interest_rate.md) and fixed date of [withdrawal](../w/withdrawal.md), known as the [maturity date](../m/maturity_date.md). A CD is protected by [insurance](../i/insurance.md), either through the Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC) for banks or the National [Credit](../c/credit.md) Union Administration (NCUA) for [credit](../c/credit.md) unions, up to the maximum allowed by law. 
+A Certificate of [Deposit](../d/deposit.md) (CD) is a financial product commonly offered by banks and [credit](../c/credit.md) unions. It is a type of [savings account](../s/savings_account.md) that has a [fixed interest rate](../f/fixed_interest_rate.md) and fixed date of [withdrawal](../w/withdrawal.md), known as the [maturity date](../m/maturity_date.md). A CD is protected by [insurance](../i/insurance.md), either through the Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC) for banks or the National [Credit](../c/credit.md) Union Administration (NCUA) for [credit](../c/credit.md) unions, up to the maximum allowed by law.
 
 ## Key Characteristics of a Certificate of Deposit
 
@@ -22,7 +22,7 @@ CDs offered by banks are usually insured by the FDIC up to $250,000 per deposito
 ## Types of Certificates of Deposit
 
 ### Traditional CD
-The traditional CD offers a [fixed interest rate](../f/fixed_interest_rate.md), fixed term, and a penalty for early [withdrawal](../w/withdrawal.md). 
+The traditional CD offers a [fixed interest rate](../f/fixed_interest_rate.md), fixed term, and a penalty for early [withdrawal](../w/withdrawal.md).
 
 ### Bump-Up CD
 A bump-up CD allows for a one-time increase in the [interest rate](../i/interest_rate.md) during its term if the [bank](../b/bank.md)'s rates on comparable CDs rise. This feature can be beneficial if you expect [interest](../i/interest.md) rates to increase during the term of your CD.
@@ -95,10 +95,10 @@ Traditional banks are one of the most common places to buy CDs. They [offer](../
 [Credit](../c/credit.md) unions also [offer](../o/offer.md) a wide [range](../r/range.md) of CDs. Membership is usually required, but they often provide competitive rates and better [customer service](../c/customer_service.md).
 
 ### Online Banks
-Online banks tend to [offer](../o/offer.md) higher [interest](../i/interest.md) rates on CDs because they have lower operating costs compared to brick-and-mortar institutions. Examples include Ally [Bank](../b/bank.md) (https://www.ally.com) and Marcus by Goldman Sachs (https://www.marcus.com).
+Online banks tend to [offer](../o/offer.md) higher [interest](../i/interest.md) rates on CDs because they have lower operating costs compared to brick-and-mortar institutions. Examples include Ally [Bank](../b/bank.md) ( and Marcus by Goldman Sachs (
 
 ### Brokerages
-Some brokerage firms [offer](../o/offer.md) brokered CDs, which can come from different banks and [offer](../o/offer.md) a variety of terms and [interest](../i/interest.md) rates. These CDs might be callable and can involve a higher level of complexity. Examples include [Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com) and Fidelity (https://www.fidelity.com).
+Some brokerage firms [offer](../o/offer.md) brokered CDs, which can come from different banks and [offer](../o/offer.md) a variety of terms and [interest](../i/interest.md) rates. These CDs might be callable and can involve a higher level of complexity. Examples include [Charles Schwab](../c/charles_schwab.md) ( and Fidelity (
 
 ## Final Thoughts
 

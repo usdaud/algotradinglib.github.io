@@ -63,7 +63,7 @@ In the domain of [algorithmic trading](../a/algorithmic_trading.md) (algotrading
 3. **[Risk Management](../r/risk_management.md):** Incorporate [Alpha](../a/alpha.md) in [risk assessment models](../r/risk_assessment_models.md) to measure and manage the [risk](../r/risk.md)-[return](../r/return.md) profile of [trading algorithms](../t/trading_algorithms.md) effectively.
 4. **Strategy Comparison:** Compare different algorithms or [trading models](../t/trading_models.md) to select the most efficient ones with higher [Alpha generation](../a/alpha_generation.md) potential.
 
-[Algorithmic trading](../a/algorithmic_trading.md) firms, such as [Two Sigma](https://www.twosigma.com/) and [Citadel Securities](https://www.citadelsecurities.com/), frequently [leverage](../l/leverage.md) [Alpha](../a/alpha.md) metrics while designing and evaluating their [proprietary trading](../p/proprietary_trading.md) systems.
+[Algorithmic trading](../a/algorithmic_trading.md) firms, such as Two Sigma and Citadel Securities, frequently [leverage](../l/leverage.md) [Alpha](../a/alpha.md) metrics while designing and evaluating their [proprietary trading](../p/proprietary_trading.md) systems.
 
 ### Case Study: Two Sigma
 Two Sigma, an influential quantitative investment [firm](../f/firm.md), employs an array of signals to craft its [trading strategies](../t/trading_strategies.md). By focusing on generating positive [Alpha](../a/alpha.md), Two Sigma utilizes vast amounts of data and sophisticated algorithms. Their approaches include:

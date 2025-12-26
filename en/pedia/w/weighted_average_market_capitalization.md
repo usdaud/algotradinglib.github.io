@@ -44,9 +44,9 @@ Suppose an [index](../i/index_instrument.md) consists of three companies with th
 
 | Company | Stock Price | Outstanding [Shares](../s/shares.md) | [Market Capitalization](../m/market_capitalization.md) |
 |---------|--------------|---------------------|-----------------------|
-| Company A | $50        | 1,000,000          | $50,000,000           |
-| Company B | $30        | 500,000            | $15,000,000           |
-| Company C | $100       | 100,000            | $10,000,000           |
+| Company A | $50 | 1,000,000 | $50,000,000 |
+| Company B | $30 | 500,000 | $15,000,000 |
+| Company C | $100 | 100,000 | $10,000,000 |
 
 Total [Market Capitalization](../m/market_capitalization.md) = $50,000,000 + $15,000,000 + $10,000,000 = $75,000,000
 
@@ -115,7 +115,7 @@ Price weighting assigns weights based on the stock price, as seen in indices lik
 
 A practical example of WAMC can be observed in the construction of the S&P 500 [index](../i/index_instrument.md). The S&P 500 includes 500 large-cap U.S. companies [weighted](../w/weighted.md) by [market capitalization](../m/market_capitalization.md). For instance, as of October 2023, a company like Apple Inc. (AAPL) exerts a more significant influence on the [index](../i/index_instrument.md)'s performance compared to a smaller company like J.B. Hunt Transport Services (JBHT).
 
-For more details on S&P 500 methodology, you can visit [S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/).
+For more details on S&P 500 methodology, you can visit S&P Dow Jones Indices.
 
 ## Conclusion
 

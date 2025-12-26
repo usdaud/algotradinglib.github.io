@@ -36,4 +36,3 @@
 
 ## Conclusion
 A GmbH is a popular and widely used corporate structure in German-speaking countries, [offering](../o/offering.md) [limited liability](../l/limited_liability.md) and a flexible management framework. While it provides significant advantages in terms of credibility and legal protection, the formation and regulatory requirements can be complex. Understanding the key characteristics, advantages, and disadvantages of a GmbH is essential for entrepreneurs and businesses considering this corporate form.
-

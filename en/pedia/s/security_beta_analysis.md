@@ -78,15 +78,15 @@ Understanding [Beta](../b/beta.md) allows traders to [hedge](../h/hedge.md) posi
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management (https://www.aqr.com/) is renowned for its quantitative approach to [investing](../i/investing.md). [Beta](../b/beta.md) analysis is a core component in their [asset](../a/asset.md) pricing and [risk models](../r/risk_models_in_trading.md), helping them to execute sophisticated [trading strategies](../t/trading_strategies.md).
+AQR [Capital](../c/capital.md) Management ( is renowned for its quantitative approach to [investing](../i/investing.md). [Beta](../b/beta.md) analysis is a core component in their [asset](../a/asset.md) pricing and [risk models](../r/risk_models_in_trading.md), helping them to execute sophisticated [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
 
-Renaissance Technologies (https://www.rentec.com/) leverages advanced statistical methods to analyze [Beta](../b/beta.md) and other [risk factors](../r/risk_factors_in_trading.md), allowing the [firm](../f/firm.md) to generate significant returns through their Medallion [Fund](../f/fund.md).
+Renaissance Technologies ( leverages advanced statistical methods to analyze [Beta](../b/beta.md) and other [risk factors](../r/risk_factors_in_trading.md), allowing the [firm](../f/firm.md) to generate significant returns through their Medallion [Fund](../f/fund.md).
 
 ### Two Sigma
 
-Two Sigma (https://www.twosigma.com/) utilizes [Beta](../b/beta.md) analysis extensively to drive its [predictive models](../p/predictive_models_in_trading.md) and automated strategies, ensuring that they understand the [risk](../r/risk.md)-reward profile of each position they take.
+Two Sigma ( utilizes [Beta](../b/beta.md) analysis extensively to drive its [predictive models](../p/predictive_models_in_trading.md) and automated strategies, ensuring that they understand the [risk](../r/risk.md)-reward profile of each position they take.
 
 ## Limitations of Beta Analysis
 

@@ -12,31 +12,31 @@ A [common size income statement](../c/common_size_income_statement.md) expresses
 
 Consider the [income statement](../i/income_statement.md) of an imaginary company, XYZ [Corporation](../c/corporation.md):
 
-| Item                     | Amount  |
+| Item | Amount |
 |--------------------------|---------|
-| Total Sales              | $1,000,000 |
+| Total Sales | $1,000,000 |
 | Cost of Goods Sold (COGS)| $400,000 |
-| [Gross Profit](../g/gross_profit.md)             | $600,000 |
-| Operating Expenses       | $200,000 |
-| [Operating Income](../o/operating_income.md)         | $400,000 |
-| [Interest Expense](../i/interest_expense.md)         | $50,000  |
-| [Income](../i/income.md) Before Tax        | $350,000 |
-| [Taxes](../t/taxes.md)                    | $105,000 |
-| Net [Income](../i/income.md)               | $245,000 |
+| [Gross Profit](../g/gross_profit.md) | $600,000 |
+| Operating Expenses | $200,000 |
+| [Operating Income](../o/operating_income.md) | $400,000 |
+| [Interest Expense](../i/interest_expense.md) | $50,000 |
+| [Income](../i/income.md) Before Tax | $350,000 |
+| [Taxes](../t/taxes.md) | $105,000 |
+| Net [Income](../i/income.md) | $245,000 |
 
 The [common size income statement](../c/common_size_income_statement.md) would be:
 
-| Item                     | Amount      | Common Size (%) |
+| Item | Amount | Common Size (%) |
 |--------------------------|-------------|------------------|
-| Total Sales              | $1,000,000  | 100%             |
-| Cost of Goods Sold (COGS)| $400,000    | 40%              |
-| [Gross Profit](../g/gross_profit.md)             | $600,000    | 60%              |
-| Operating Expenses       | $200,000    | 20%              |
-| [Operating Income](../o/operating_income.md)         | $400,000    | 40%              |
-| [Interest Expense](../i/interest_expense.md)         | $50,000     | 5%               |
-| [Income](../i/income.md) Before Tax        | $350,000    | 35%              |
-| [Taxes](../t/taxes.md)                    | $105,000    | 10.5%            |
-| Net [Income](../i/income.md)               | $245,000    | 24.5%            |
+| Total Sales | $1,000,000 | 100% |
+| Cost of Goods Sold (COGS)| $400,000 | 40% |
+| [Gross Profit](../g/gross_profit.md) | $600,000 | 60% |
+| Operating Expenses | $200,000 | 20% |
+| [Operating Income](../o/operating_income.md) | $400,000 | 40% |
+| [Interest Expense](../i/interest_expense.md) | $50,000 | 5% |
+| [Income](../i/income.md) Before Tax | $350,000 | 35% |
+| [Taxes](../t/taxes.md) | $105,000 | 10.5% |
+| Net [Income](../i/income.md) | $245,000 | 24.5% |
 
 ## Balance Sheet
 
@@ -48,41 +48,41 @@ A common size [balance sheet](../b/balance_sheet.md) expresses each item as a pe
 
 Consider the [balance sheet](../b/balance_sheet.md) of an imaginary company, XYZ [Corporation](../c/corporation.md):
 
-| [Asset](../a/asset.md)                            | Amount      |
+| [Asset](../a/asset.md) | Amount |
 |----------------------------------|-------------|
-| Cash and [Cash Equivalents](../c/cash_equivalents.md)        | $150,000    |
-| Accounts [Receivable](../r/receivable.md)              | $200,000    |
-| [Inventory](../i/inventory.md)                        | $300,000    |
-| Property, Plant, and Equipment   | $350,000    |
-| Total Assets                     | $1,000,000  |
+| Cash and [Cash Equivalents](../c/cash_equivalents.md) | $150,000 |
+| Accounts [Receivable](../r/receivable.md) | $200,000 |
+| [Inventory](../i/inventory.md) | $300,000 |
+| Property, Plant, and Equipment | $350,000 |
+| Total Assets | $1,000,000 |
 
-| Liabilities and [Equity](../e/equity.md)           | Amount      |
+| Liabilities and [Equity](../e/equity.md) | Amount |
 |----------------------------------|-------------|
-| Accounts Payable                 | $100,000    |
-| [Short-Term Debt](../s/short-term_debt.md)                  | $50,000     |
-| [Long-Term Debt](../l/long-term_debt.md)                   | $200,000    |
-| [Total Liabilities](../t/total_liabilities.md)                | $350,000    |
-| Total [Equity](../e/equity.md)                     | $650,000    |
-| [Total Liabilities](../t/total_liabilities.md) and [Equity](../e/equity.md)     | $1,000,000  |
+| Accounts Payable | $100,000 |
+| [Short-Term Debt](../s/short-term_debt.md) | $50,000 |
+| [Long-Term Debt](../l/long-term_debt.md) | $200,000 |
+| [Total Liabilities](../t/total_liabilities.md) | $350,000 |
+| Total [Equity](../e/equity.md) | $650,000 |
+| [Total Liabilities](../t/total_liabilities.md) and [Equity](../e/equity.md) | $1,000,000 |
 
 The common size [balance sheet](../b/balance_sheet.md) would be:
 
-| [Asset](../a/asset.md)                            | Amount      | Common Size (%) |
+| [Asset](../a/asset.md) | Amount | Common Size (%) |
 |----------------------------------|-------------|------------------|
-| Cash and [Cash Equivalents](../c/cash_equivalents.md)        | $150,000    | 15%              |
-| Accounts [Receivable](../r/receivable.md)              | $200,000    | 20%              |
-| [Inventory](../i/inventory.md)                        | $300,000    | 30%              |
-| Property, Plant, and Equipment   | $350,000    | 35%              |
-| Total Assets                     | $1,000,000  | 100%             |
+| Cash and [Cash Equivalents](../c/cash_equivalents.md) | $150,000 | 15% |
+| Accounts [Receivable](../r/receivable.md) | $200,000 | 20% |
+| [Inventory](../i/inventory.md) | $300,000 | 30% |
+| Property, Plant, and Equipment | $350,000 | 35% |
+| Total Assets | $1,000,000 | 100% |
 
-| Liabilities and [Equity](../e/equity.md)           | Amount      | Common Size (%) |
+| Liabilities and [Equity](../e/equity.md) | Amount | Common Size (%) |
 |----------------------------------|-------------|------------------|
-| Accounts Payable                 | $100,000    | 10%              |
-| [Short-Term Debt](../s/short-term_debt.md)                  | $50,000     | 5%               |
-| [Long-Term Debt](../l/long-term_debt.md)                   | $200,000    | 20%              |
-| [Total Liabilities](../t/total_liabilities.md)                | $350,000    | 35%              |
-| Total [Equity](../e/equity.md)                     | $650,000    | 65%              |
-| [Total Liabilities](../t/total_liabilities.md) and [Equity](../e/equity.md)     | $1,000,000  | 100%             |
+| Accounts Payable | $100,000 | 10% |
+| [Short-Term Debt](../s/short-term_debt.md) | $50,000 | 5% |
+| [Long-Term Debt](../l/long-term_debt.md) | $200,000 | 20% |
+| [Total Liabilities](../t/total_liabilities.md) | $350,000 | 35% |
+| Total [Equity](../e/equity.md) | $650,000 | 65% |
+| [Total Liabilities](../t/total_liabilities.md) and [Equity](../e/equity.md) | $1,000,000 | 100% |
 
 ## Cash Flow Statement
 
@@ -94,21 +94,21 @@ A common size [cash flow statement](../c/cash_flow_statement.md) expresses each 
 
 Consider the [cash flow statement](../c/cash_flow_statement.md) of an imaginary company, XYZ [Corporation](../c/corporation.md):
 
-| Item                            | Amount      |
+| Item | Amount |
 |---------------------------------|-------------|
 | [Net Cash](../n/net_cash.md) from [Operating Activities](../o/operating_activities.md) | $300,000 |
 | [Net Cash](../n/net_cash.md) from [Investing](../i/investing.md) Activities | -$100,000|
-| [Net Cash](../n/net_cash.md) from [Financing](../f/financing.md) Activities | $50,000  |
-| Total Cash Inflows              | $250,000    |
+| [Net Cash](../n/net_cash.md) from [Financing](../f/financing.md) Activities | $50,000 |
+| Total Cash Inflows | $250,000 |
 
 The common size [cash flow statement](../c/cash_flow_statement.md) would be:
 
-| Item                            | Amount      | Common Size (%) |
+| Item | Amount | Common Size (%) |
 |---------------------------------|-------------|------------------|
-| [Net Cash](../n/net_cash.md) from [Operating Activities](../o/operating_activities.md) | $300,000 | 120%             |
-| [Net Cash](../n/net_cash.md) from [Investing](../i/investing.md) Activities | -$100,000| -40%             |
-| [Net Cash](../n/net_cash.md) from [Financing](../f/financing.md) Activities | $50,000  | 20%              |
-| Total Cash Inflows              | $250,000    | 100%             |
+| [Net Cash](../n/net_cash.md) from [Operating Activities](../o/operating_activities.md) | $300,000 | 120% |
+| [Net Cash](../n/net_cash.md) from [Investing](../i/investing.md) Activities | -$100,000| -40% |
+| [Net Cash](../n/net_cash.md) from [Financing](../f/financing.md) Activities | $50,000 | 20% |
+| Total Cash Inflows | $250,000 | 100% |
 
 [Note](../n/note.md): The percentages here can exceed 100% or be negative due to the nature of [cash flow](../c/cash_flow.md) dynamics.
 
@@ -172,9 +172,9 @@ Excel is still one of the most commonly used tools for creating common size [fin
 
 There are numerous [financial analysis](../f/financial_analysis.md) software packages available that automate the creation of common size [financial statements](../f/financial_statements.md). Examples include:
 
-- **QuickBooks**: [QuickBooks](https://quickbooks.intuit.com/)
-- **SAP**: [SAP](https://www.sap.com/)
-- **Oracle Financials**: [Oracle Financials](https://www.oracle.com/)
+- **QuickBooks**: QuickBooks
+- **SAP**: SAP
+- **Oracle Financials**: Oracle Financials
 
 These tools often come with pre-built templates and integration capabilities that make the process seamless and efficient.
 
@@ -182,8 +182,8 @@ These tools often come with pre-built templates and integration capabilities tha
 
 Several online [financial analysis](../f/financial_analysis.md) platforms [offer](../o/offer.md) features for generating common size [financial statements](../f/financial_statements.md), including:
 
-- **Koyfin**: [Koyfin](https://www.koyfin.com/)
-- **[Yahoo Finance](../y/yahoo_finance.md)**: [Yahoo Finance](https://finance.yahoo.com/)
+- **Koyfin**: Koyfin
+- **[Yahoo Finance](../y/yahoo_finance.md)**: Yahoo Finance
 
 These platforms often include additional features like real-time data, [trend analysis](../t/trend_analysis.md), and peer comparison, making them very useful for both professional analysts and individual investors.
 

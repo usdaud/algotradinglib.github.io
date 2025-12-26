@@ -102,4 +102,3 @@ AIIB can [leverage](../l/leverage.md) technological advancements to improve proj
 ## Conclusion
 The Asian [Infrastructure](../i/infrastructure.md) Investment [Bank](../b/bank.md) has made significant strides since its establishment, providing crucial [financing](../f/financing.md) for [infrastructure](../i/infrastructure.md) projects that drive economic and social development in Asia and beyond. As it continues to grow and adapt to changing global dynamics, AIIB is well-positioned to contribute to a more connected, sustainable, and prosperous world.
 
-For more information, you can visit the official AIIB website: [AIIB](https://www.aiib.org/).

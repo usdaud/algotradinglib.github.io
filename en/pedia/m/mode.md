@@ -46,4 +46,3 @@ The mode is 100, as it occurs most frequently.
 
 ## Conclusion
 The mode is a useful statistical measure in [finance](../f/finance.md) for identifying the most frequently occurring [value](../v/value.md) in a data set. It provides insights into common trends and behaviors, aiding in [market](../m/market.md) analysis and decision making. While valuable on its own, the mode is most effective when used alongside other measures of central tendency to provide a comprehensive understanding of financial data.
-

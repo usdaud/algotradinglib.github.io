@@ -12,22 +12,22 @@ Wall Street's name is derived from the wooden wall Dutch colonists built in the 
 
 Perhaps the most iconic institution on Wall Street is the New York Stock [Exchange](../e/exchange.md) (NYSE), the largest stock [exchange](../e/exchange.md) in the world by [market capitalization](../m/market_capitalization.md). Founded in 1792 under the Buttonwood Agreement, the NYSE is headquartered at 11 Wall Street. The [exchange](../e/exchange.md) facilitates [equity trading](../e/equity_trading.md) for some of the world’s largest companies.
 
-**Website:** [NYSE](https://www.nyse.com)
+**online platform:** NYSE
 
 ### Nasdaq
 
 Another critical player in the financial sphere is [Nasdaq](../n/nasdaq.md), although its operations are electronic, its headquarters are located not far from Wall Street. [Nasdaq](../n/nasdaq.md) is known for its tech-heavy stock listings and is a significant competitor to the NYSE.
 
-**Website:** [Nasdaq](https://www.nasdaq.com)
+**online platform:** Nasdaq
 
 ### Investment Banks
 
 Wall Street is [home](../h/home.md) to numerous prestigious [investment banks](../i/investment_bank_(ib).md) such as Goldman Sachs, JPMorgan Chase, Morgan Stanley, and Citigroup. These financial institutions engage in a [range](../r/range.md) of activities including trading securities, [investment banking](../i/investment_banking.md), [asset management](../a/asset_management.md), and financial advisory services.
 
-- **Goldman Sachs**: [Website](https://www.goldmansachs.com)
-- **JPMorgan Chase**: [Website](https://www.jpmorganchase.com)
-- **Morgan Stanley**: [Website](https://www.morganstanley.com)
-- **Citigroup**: [Website](https://www.citigroup.com)
+- **Goldman Sachs**
+- **JPMorgan Chase**
+- **Morgan Stanley**
+- **Citigroup**
 
 ## Financial Markets and Instruments
 
@@ -59,7 +59,7 @@ High-frequency trading involves the use of complex algorithms and high-speed dat
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) utilizes [mathematical models](../m/mathematical_models_in_trading.md) to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies impossible for human traders. Algorithms can [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models.
+[Algorithmic trading](../a/algorithmic_trading.md) utilizes [mathematical models](../m/mathematical_models_in_trading.md) to execute [trading strategies](../t/trading_strategies.md) at speeds and frequencies impossible for human traders. Algorithms can [range](../r/range.md) from simple moving averages to complex [machine learning](../m/machine_learning.md) models.
 
 ### Blockchain and Cryptocurrencies
 
@@ -83,13 +83,13 @@ Major [stock market](../s/stock_market.md) indices such as the Dow Jones Industr
 
 The SEC is the primary regulatory body overseeing securities markets in the United States. It ensures that markets operate fairly and transparently and that investors are protected from [fraud](../f/fraud.md).
 
-**Website:** [SEC](https://www.sec.gov)
+**online platform:** SEC
 
 ### Commodity Futures Trading Commission (CFTC)
 
 The CFTC regulates [commodity futures](../c/commodity_futures.md) and [options](../o/options.md) markets in the United States, ensuring the integrity and [transparency](../t/transparency.md) of these markets.
 
-**Website:** [CFTC](https://www.cftc.gov)
+**online platform:** CFTC
 
 ### Dodd-Frank Act
 

@@ -106,10 +106,10 @@ Specialized [algorithmic trading](../a/algorithmic_trading.md) firms incorporate
 ### Institutional Brokers and Technology Providers
 
 Several key firms and technology providers specialize in cross-[trade](../t/trade.md) [execution](../e/execution.md) services and [infrastructure](../i/infrastructure.md), including:
-- [Virtu Financial](https://www.virtu.com): A leading provider of high-frequency trading and [algorithmic execution](../a/algorithmic_execution.md) services.
-- [ITG (Investment Technology Group)](https://www.itg.com): Offers comprehensive suite of trading tools and [execution](../e/execution.md) services.
-- [Liquidnet](https://www.liquidnet.com): Provides institutional marketplace for block trading and cross-[trade](../t/trade.md) matching.
-- [Instinet](https://www.instinet.com): Known for its advanced trading technologies and [execution](../e/execution.md) services.
+- Virtu Financial: A leading provider of high-frequency trading and [algorithmic execution](../a/algorithmic_execution.md) services.
+- ITG (Investment Technology Group): Offers comprehensive suite of trading tools and [execution](../e/execution.md) services.
+- Liquidnet: Provides institutional marketplace for block trading and cross-[trade](../t/trade.md) matching.
+- Instinet: Known for its advanced trading technologies and [execution](../e/execution.md) services.
 
 ## Conclusion
 

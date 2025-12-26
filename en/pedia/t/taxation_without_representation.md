@@ -6,7 +6,7 @@
 
 ### British Imperial Expansion
 
-During the late 16th and early 17th centuries, the British Empire expanded its territories through exploration, colonization, and conquest. The Thirteen Colonies in North America were among these new territories, and by the mid-18th century, they had become significant contributors to the British [economy](../e/economy.md). However, as the Empire grew, so did its administrative and military expenses. 
+During the late 16th and early 17th centuries, the British Empire expanded its territories through exploration, colonization, and conquest. The Thirteen Colonies in North America were among these new territories, and by the mid-18th century, they had become significant contributors to the British [economy](../e/economy.md). However, as the Empire grew, so did its administrative and military expenses.
 
 ### The Seven Years' War
 

@@ -53,5 +53,4 @@ Elite [Trader](../t/trader.md) employs standard online [security](../s/security.
 - **Moderation**: Active moderation to maintain the quality of discussions and prevent spam or abusive behavior.
 - **Secure Access**: Implementing secure login processes to prevent unauthorized access.
 
-## Website
-For more information and to join the community, visit the official Elite [Trader](../t/trader.md) website: [Elite Trader](https://www.elitetrader.com/)
+For more information and to join the community, visit the official Elite [Trader](../t/trader.md) online platform: Elite Trader

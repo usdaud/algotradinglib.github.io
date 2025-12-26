@@ -4,7 +4,7 @@ The concept of [market cycles](../m/market_cycles.md) refers to the natural and 
 
 ## Definition and Phases of Market Cycles
 
-[Market cycles](../m/market_cycles.md) typically consist of four main phases: accumulation, [uptrend](../u/uptrend.md) ([bull market](../b/bull_market.md)), [distribution](../d/distribution.md), and [downtrend](../d/downtrend.md) ([bear market](../b/bear_market.md)). Each phase has distinct characteristics and is driven by different [market](../m/market.md) forces and [investor](../i/investor.md) behaviors. 
+[Market cycles](../m/market_cycles.md) typically consist of four main phases: accumulation, [uptrend](../u/uptrend.md) ([bull market](../b/bull_market.md)), [distribution](../d/distribution.md), and [downtrend](../d/downtrend.md) ([bear market](../b/bear_market.md)). Each phase has distinct characteristics and is driven by different [market](../m/market.md) forces and [investor](../i/investor.md) behaviors.
 
 ### 1. Accumulation
 
@@ -74,4 +74,4 @@ Advanced techniques such as [machine learning](../m/machine_learning.md) and [pr
 
 Historical [market cycles](../m/market_cycles.md) represent the inherent ebb and flow of [financial markets](../f/financial_market.md) driven by a myriad of factors. Understanding these cycles and their phases—accumulation, [uptrend](../u/uptrend.md), [distribution](../d/distribution.md), and [downtrend](../d/downtrend.md)—provides critical insights that are invaluable for traders, investors, and economists. In the arena of [algorithmic trading](../a/algorithmic_trading.md), integrating knowledge of [market cycles](../m/market_cycles.md) into [trading strategies](../t/trading_strategies.md) can lead to more informed decision-making, optimized trades, and effective [risk management](../r/risk_management.md). By leveraging technical, fundamental, and [sentiment analysis](../s/sentiment_analysis.md), and incorporating advanced tools like [machine learning](../m/machine_learning.md), traders can better navigate the complexities of [financial markets](../f/financial_market.md) and enhance their overall performance.
 
-For more information and advanced tools in [algorithmic trading](../a/algorithmic_trading.md), you can explore companies such as [Kavout](https://www.kavout.com) and [Hudson River Trading](https://www.hudsonrivertrading.com).
+For more information and advanced tools in [algorithmic trading](../a/algorithmic_trading.md), you can explore companies such as Kavout and Hudson River Trading.

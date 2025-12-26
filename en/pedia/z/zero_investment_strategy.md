@@ -1,6 +1,6 @@
 # Zero Investment Strategy
 
-A Zero [Investment Strategy](../i/investment_strategy.md) (ZIS) refers to an investment approach where an [investor](../i/investor.md) constructs a portfolio that has a [net investment](../n/net_investment.md) of zero. This means that the amount invested in the long positions equals the amount generated from the short positions. The primary objective of a zero [investment strategy](../i/investment_strategy.md) is to exploit [arbitrage](../a/arbitrage.md) opportunities, [market](../m/market.md) inefficiencies, or to [hedge](../h/hedge.md) against [risk](../r/risk.md) without [tying](../t/tying.md) up [capital](../c/capital.md). This strategy is commonly used in the realm of [financial markets](../f/financial_market.md), particularly in the field of [algorithmic trading](../a/algorithmic_trading.md) where sophisticated techniques and computational power are employed to realize such opportunities. 
+A Zero [Investment Strategy](../i/investment_strategy.md) (ZIS) refers to an investment approach where an [investor](../i/investor.md) constructs a portfolio that has a [net investment](../n/net_investment.md) of zero. This means that the amount invested in the long positions equals the amount generated from the short positions. The primary objective of a zero [investment strategy](../i/investment_strategy.md) is to exploit [arbitrage](../a/arbitrage.md) opportunities, [market](../m/market.md) inefficiencies, or to [hedge](../h/hedge.md) against [risk](../r/risk.md) without [tying](../t/tying.md) up [capital](../c/capital.md). This strategy is commonly used in the realm of [financial markets](../f/financial_market.md), particularly in the field of [algorithmic trading](../a/algorithmic_trading.md) where sophisticated techniques and computational power are employed to realize such opportunities.
 
 ### Fundamentals of Zero Investment Strategy
 
@@ -56,15 +56,15 @@ Several financial institutions and [proprietary trading](../p/proprietary_tradin
 
 #### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is a [hedge fund](../h/hedge_fund.md) that is known for its expertise in [quantitative trading](../q/quantitative_trading.md) and zero investment strategies. The [firm](../f/firm.md)'s flagship Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities and execute trades across various markets. More information can be found on their [website](https://www.rentec.com).
+Renaissance Technologies, founded by Jim Simons, is a [hedge fund](../h/hedge_fund.md) that is known for its expertise in [quantitative trading](../q/quantitative_trading.md) and zero investment strategies. The [firm](../f/firm.md)'s flagship Medallion [Fund](../f/fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities and execute trades across various markets.
 
 #### D.E. Shaw & Co.
 
-D.E. Shaw & Co. is another prominent [hedge fund](../h/hedge_fund.md) that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including zero investment strategies. The [firm](../f/firm.md) utilizes [computational finance](../c/computational_finance.md) and [machine learning](../m/machine_learning.md) to identify [market](../m/market.md) inefficiencies and execute trades with precision. Learn more about their approach on their [website](https://www.deshaw.com).
+D.E. Shaw & Co. is another prominent [hedge fund](../h/hedge_fund.md) that employs sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, including zero investment strategies. The [firm](../f/firm.md) utilizes [computational finance](../c/computational_finance.md) and [machine learning](../m/machine_learning.md) to identify [market](../m/market.md) inefficiencies and execute trades with precision.
 
 #### Two Sigma Investments
 
-Two Sigma Investments is a quantitative [hedge fund](../h/hedge_fund.md) that leverages technology, [data science](../d/data_science_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to design and implement [trading strategies](../t/trading_strategies.md), including zero investment strategies. The [firm](../f/firm.md)'s focus on research and innovation enables it to [capitalize](../c/capitalize.md) on [arbitrage](../a/arbitrage.md) opportunities and [market](../m/market.md) dislocations. Visit their [website](https://www.twosigma.com) for more details.
+Two Sigma Investments is a quantitative [hedge fund](../h/hedge_fund.md) that leverages technology, [data science](../d/data_science_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to design and implement [trading strategies](../t/trading_strategies.md), including zero investment strategies. The [firm](../f/firm.md)'s focus on research and innovation enables it to [capitalize](../c/capitalize.md) on [arbitrage](../a/arbitrage.md) opportunities and [market](../m/market.md) dislocations.
 
 ### Challenges and Limitations
 

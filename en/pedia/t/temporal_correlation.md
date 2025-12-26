@@ -38,8 +38,8 @@ Several mathematical tools and statistical techniques are used to measure and an
 
 Several platforms and tools provide the capability to analyze temporal correlations:
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools to research, backtest, and deploy [trading strategies](../t/trading_strategies.md) using historical data to measure temporal correlations. [QuantConnect](https://www.quantconnect.com/)
-2. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for [time series analysis](../t/time_series_analysis.md), including temporal [correlation](../c/correlation.md). [Quantlib](https://www.quantlib.org/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools to research, backtest, and deploy [trading strategies](../t/trading_strategies.md) using historical data to measure temporal correlations. QuantConnect
+2. **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that includes tools for [time series analysis](../t/time_series_analysis.md), including temporal [correlation](../c/correlation.md). Quantlib
 3. **Python Libraries**: Libraries such as `statsmodels`, `pandas`, and `numpy` provide functions to compute ACF, PACF, and other relevant metrics.
 
 ## Case Studies

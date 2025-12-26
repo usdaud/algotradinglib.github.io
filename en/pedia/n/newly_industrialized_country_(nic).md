@@ -27,22 +27,14 @@ NICs also witness increased foreign direct investments (FDIs). These [capital](.
 ### South Korea
 South Korea is one of the most prominent examples of an NIC. The country has transformed from being war-torn in the 1950s to becoming one of the world's leading economies, excelling in electronics, automotive, and shipbuilding industries. South Korea continues to experience significant [economic growth](../e/economic_growth.md) and is a hub of technological innovation.
 
-Official Website: [Invest Korea](http://www.investkorea.org)
-
 ### Taiwan
 Taiwan has also transitioned rapidly, with an [economy](../e/economy.md) heavily focused on electronics, information technology, and electronics [manufacturing](../m/manufacturing.md). Companies like Taiwan Semiconductor [Manufacturing](../m/manufacturing.md) Company (TSMC) are leaders in the global [market](../m/market.md).
-
-Official Website: [TSMC](https://www.tsmc.com)
 
 ### Singapore
 Singapore's rise as an NIC is marked by its strategic location, excellent port facilities, and a [business](../b/business.md)-friendly environment. The country has diversified its [economy](../e/economy.md) to include [manufacturing](../m/manufacturing.md), financial services, and tourism.
 
-Official Website: [Economic Development Board - Singapore](https://www.edb.gov.sg)
-
 ### Mexico
 Mexico is another example, with significant progress in industries such as automobile [manufacturing](../m/manufacturing.md), consumer electronics, and aerospace. Its proximity to the United States is strategically beneficial, promoting [trade](../t/trade.md) and investment through agreements like NAFTA (now USMCA).
-
-Official Website: [ProMéxico](https://www.gob.mx/promexico)
 
 ## Economic Policies Supporting NICs
 

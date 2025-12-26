@@ -10,18 +10,18 @@ The primary objective of the Triangular Moving Average is to smooth price data t
 
 The calculation of the Triangular Moving Average involves several steps. First, you calculate the moving average over a specified period. Then, you calculate a moving average of that moving average. Let's break this down:
 
-1. **First-level Moving Average (FLMA):**  
-   The first step is to calculate a simple moving average (SMA) of the [time series](../t/time_series.md) data over a specified period, `N`. This can be denoted as:
-   \[
-   FLMA_t = \frac{1}{N} \sum_{i=0}^{N-1} P_{t-i}
-   \]
-   where \( P \) represents the price, \( t \) represents the current time period, and \( N \) represents the number of periods.
+1. **First-level Moving Average (FLMA):**
+ The first step is to calculate a simple moving average (SMA) of the [time series](../t/time_series.md) data over a specified period, `N`. This can be denoted as:
+ \[
+ FLMA_t = \frac{1}{N} \sum_{i=0}^{N-1} P_{t-i}
+ \]
+ where \( P \) represents the price, \( t \) represents the current time period, and \( N \) represents the number of periods.
 
-2. **Second-level Moving Average (SLMA):**  
-   Next, we calculate the simple moving average of the first-level moving averages over the same period. This can be expressed as:
-   \[
-   SLMA_t = \frac{1}{N} \sum_{i=0}^{N-1} FLMA_{t-i}
-   \]
+2. **Second-level Moving Average (SLMA):**
+ Next, we calculate the simple moving average of the first-level moving averages over the same period. This can be expressed as:
+ \[
+ SLMA_t = \frac{1}{N} \sum_{i=0}^{N-1} FLMA_{t-i}
+ \]
 
 This double-smoothing process ensures that the final Triangular Moving Average curve is smoother and better represents the overall [market](../m/market.md) [trend](../t/trend.md).
 

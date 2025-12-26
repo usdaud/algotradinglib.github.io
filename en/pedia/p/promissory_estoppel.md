@@ -11,32 +11,32 @@ Promissory [estoppel](../e/estoppel.md) is essential in preventing excluding [li
 For a claim of promissory [estoppel](../e/estoppel.md) to succeed in court, several elements must typically be present:
 
 1. **Clear and Definite Promise:**
-   The promise made must be clear and definite. Ambiguous promises or statements often [will](../w/will.md) not meet this requirement, as the relying party must demonstrate a specific understanding of what was promised.
+ The promise made must be clear and definite. Ambiguous promises or statements often [will](../w/will.md) not meet this requirement, as the relying party must demonstrate a specific understanding of what was promised.
 
 2. **Reasonable Reliance:**
-   The party to whom the promise was made must have relied on the promise in a way that was reasonable, meaning that an average person would have similarly relied under the same circumstances.
+ The party to whom the promise was made must have relied on the promise in a way that was reasonable, meaning that an average person would have similarly relied under the same circumstances.
 
 3. **Detrimental Reliance:**
-   The reliance on the promise must have resulted in a detriment to the promisee. This means that the party must have suffered some form of harm or loss due to their reliance on the promise.
+ The reliance on the promise must have resulted in a detriment to the promisee. This means that the party must have suffered some form of harm or loss due to their reliance on the promise.
 
 4. **Injustice Without Enforcement:**
-   The court must determine that justice can only be achieved by enforcing the promise. This often involves considering the extent of the injury or detriment suffered and the promise's impact.
+ The court must determine that justice can only be achieved by enforcing the promise. This often involves considering the extent of the injury or detriment suffered and the promise's impact.
 
 ### Legal Requirements
 
 In many jurisdictions, four main requirements must be satisfied for promissory [estoppel](../e/estoppel.md) to apply:
 
 1. **The Promisor Must Make a Promise:**
-   The doctrine of promissory [estoppel](../e/estoppel.md) revolves around a promisor making a specific promise, intending for the promisee to rely upon it.
+ The doctrine of promissory [estoppel](../e/estoppel.md) revolves around a promisor making a specific promise, intending for the promisee to rely upon it.
 
 2. **The Promisor Must Foresee Reliance:**
-   The promisor must reasonably foresee that the promisee [will](../w/will.md) rely on the promise. It must be within the promisor's knowledge that their promise could lead to action or [forbearance](../f/forbearance.md) by the promisee.
+ The promisor must reasonably foresee that the promisee [will](../w/will.md) rely on the promise. It must be within the promisor's knowledge that their promise could lead to action or [forbearance](../f/forbearance.md) by the promisee.
 
 3. **The Promisee Must Rely on the Promise to Their Detriment:**
-   Reliance upon the promise by the promisee must lead to a tangible detriment. This reliance should be substantial enough to [warrant](../w/warrant.md) the enforcement of the promise.
+ Reliance upon the promise by the promisee must lead to a tangible detriment. This reliance should be substantial enough to [warrant](../w/warrant.md) the enforcement of the promise.
 
 4. **Injustice Can Be Avoided Only by Enforcing the Promise:**
-   The enforcement of the promise must be necessary to prevent injustice. Courts assess whether imposing [estoppel](../e/estoppel.md) is equitable and just in the given situation.
+ The enforcement of the promise must be necessary to prevent injustice. Courts assess whether imposing [estoppel](../e/estoppel.md) is equitable and just in the given situation.
 
 ### Example of Promissory Estoppel
 

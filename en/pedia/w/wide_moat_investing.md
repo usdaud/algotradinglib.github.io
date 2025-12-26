@@ -43,16 +43,16 @@ To identify wide moat companies, investors look for businesses with:
 [Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, owns a diverse [range](../r/range.md) of businesses, many of which are wide moat companies in their own right. For example, GEICO enjoys cost advantages in the [insurance](../i/insurance.md) [industry](../i/industry.md) through efficient operations and scale.
 
 #### 2. **Coca-Cola**
-The Coca-Cola Company (www.coca-colacompany.com) has an extremely strong brand that allows it to maintain high-[profit margins](../p/profit_margins_in_trading.md) and [customer](../c/customer.md) loyalty. Its global [distribution network](../d/distribution_network.md) also creates a significant barrier to entry for competitors.
+The Coca-Cola Company ( has an extremely strong brand that allows it to maintain high-[profit margins](../p/profit_margins_in_trading.md) and [customer](../c/customer.md) loyalty. Its global [distribution network](../d/distribution_network.md) also creates a significant barrier to entry for competitors.
 
 #### 3. **Visa**
-Visa (www.visa.com) benefits from network effects. The more merchants that accept Visa, the more useful it becomes to cardholders, creating a virtuous cycle that strengthens its [market](../m/market.md) position.
+Visa ( benefits from network effects. The more merchants that accept Visa, the more useful it becomes to cardholders, creating a virtuous cycle that strengthens its [market](../m/market.md) position.
 
 #### 4. **Apple**
-Apple (www.apple.com) enjoys [brand recognition](../b/brand_recognition.md) and [customer](../c/customer.md) loyalty, allowing it to price its products at a [premium](../p/premium.md). Its ecosystem of products and services also creates high [switching costs](../s/switching_costs.md) for consumers.
+Apple ( enjoys [brand recognition](../b/brand_recognition.md) and [customer](../c/customer.md) loyalty, allowing it to price its products at a [premium](../p/premium.md). Its ecosystem of products and services also creates high [switching costs](../s/switching_costs.md) for consumers.
 
 #### 5. **Nike**
-Nike (www.nike.com) leverages its strong brand and extensive [distribution network](../d/distribution_network.md) to maintain its [market](../m/market.md) position. Its continuous innovation in sportswear and sponsorship of athletes further reinforce its brand.
+Nike ( leverages its strong brand and extensive [distribution network](../d/distribution_network.md) to maintain its [market](../m/market.md) position. Its continuous innovation in sportswear and sponsorship of athletes further reinforce its brand.
 
 ### Analytical Tools for Moat Evaluation
 

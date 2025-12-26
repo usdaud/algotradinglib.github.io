@@ -41,11 +41,11 @@ Different tools and strategies are employed by [price action](../p/price_action.
 ## Prominent Figures and Firms
 Several professional traders and firms signify the credibility and effectiveness of [price action trading](../p/price_action_trading.md):
 
-1. **Nial Fuller**: A renowned [price action](../p/price_action.md) [trader](../t/trader.md) who runs [Learn to Trade the Market](https://www.learntotradethemarket.com/).
+1. **Nial Fuller**: A renowned [price action](../p/price_action.md) [trader](../t/trader.md) who runs Learn to Trade the Market.
 
-2. **Al Brooks**: Experienced [trader](../t/trader.md) known for his books and courses on [price action trading](../p/price_action_trading.md) available at [Brooks Trading Course](https://www.brookstradingcourse.com/).
+2. **Al Brooks**: Experienced [trader](../t/trader.md) known for his books and courses on [price action trading](../p/price_action_trading.md) available at Brooks Trading Course.
 
-3. **Rayner Teo**: Popular for educational content on [price action trading](../p/price_action_trading.md) at [Trading with Rayner](https://www.tradingwithrayner.com/).
+3. **Rayner Teo**: Popular for educational content on [price action trading](../p/price_action_trading.md) at Trading with Rayner.
 
 ## Conclusion
 [Price action](../p/price_action.md) analysis is a powerful methodology that, when correctly applied, can [offer](../o/offer.md) significant insights into [market](../m/market.md) behavior. This approach’s focus on patterns and historical data enables traders to make informed, strategic decisions, potentially improving their [market](../m/market.md) performance considerably.

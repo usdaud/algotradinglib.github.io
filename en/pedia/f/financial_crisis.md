@@ -69,13 +69,13 @@ The ESM was established in 2012 to provide financial assistance to [Eurozone](..
 ## Companies Impacted by Financial Crises
 
 ### Lehman Brothers
-[Lehman Brothers](../l/lehman_brothers.md) was a global financial services [firm](../f/firm.md) that declared [bankruptcy](../b/bankruptcy.md) in September 2008, marking one of the most notable failures during the global financial crisis. [Lehman Brothers](https://www.britannica.com/topic/Lehman-Brothers-Bank)
+[Lehman Brothers](../l/lehman_brothers.md) was a global financial services [firm](../f/firm.md) that declared [bankruptcy](../b/bankruptcy.md) in September 2008, marking one of the most notable failures during the global financial crisis. Lehman Brothers
 
 ### Greece's Financial Institutions
-Greece experienced severe economic distress and [multiple](../m/multiple.md) bailouts during its sovereign [debt](../d/debt.md) crisis. The crisis significantly impacted its major banks like [National Bank](../n/national_bank.md) of Greece, [Alpha](../a/alpha.md) [Bank](../b/bank.md), and Piraeus [Bank](../b/bank.md). [National Bank of Greece](https://www.nbg.gr/en)
+Greece experienced severe economic distress and [multiple](../m/multiple.md) bailouts during its sovereign [debt](../d/debt.md) crisis. The crisis significantly impacted its major banks like [National Bank](../n/national_bank.md) of Greece, [Alpha](../a/alpha.md) [Bank](../b/bank.md), and Piraeus [Bank](../b/bank.md). National Bank of Greece
 
 ### Enron
-Enron [Corporation](../c/corporation.md), an American energy company, faced a major scandal and declared [bankruptcy](../b/bankruptcy.md) in 2001, highlighting corporate [fraud](../f/fraud.md) and [accounting](../a/accounting.md) malpractices. [Enron](https://www.investopedia.com/terms/e/enron.asp)
+Enron [Corporation](../c/corporation.md), an American energy company, faced a major scandal and declared [bankruptcy](../b/bankruptcy.md) in 2001, highlighting corporate [fraud](../f/fraud.md) and [accounting](../a/accounting.md) malpractices. Enron
 
 ## Conclusion
 

@@ -83,4 +83,4 @@ In the light of increasing [globalization](../g/globalization.md) and technologi
 
 The Marshall Islands Stock [Exchange](../e/exchange.md) (MISE) represents an intriguing addition to the global financial landscape. Although still in its early stages, MISE offers a distinctive blend of opportunities and challenges. The establishment of this [exchange](../e/exchange.md) underscores the Marshall Islands' commitment to economic [diversification](../d/diversification.md) and growth. With strategic planning and [execution](../e/execution.md), it holds tangible potential to grow substantially and become a significant player in the Pacific region's [financial markets](../f/financial_market.md).
 
-For more information, you can visit the official website of Marshall Islands Stock [Exchange](../e/exchange.md) at [MISE Official Website](https://mise.com).
+./e/exchange.md)

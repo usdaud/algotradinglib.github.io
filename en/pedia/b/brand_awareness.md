@@ -67,16 +67,16 @@ Tools like Google Trends can help track the frequency of searches for your brand
 # Companies Excelling in Brand Awareness
 
 ### Coca-Cola
-Coca-Cola has maintained high brand awareness for decades through consistent branding, memorable advertising campaigns, and a global presence. Their effective use of traditional media, [social media](../s/social_media.md), and experiential [marketing](../m/marketing.md) keeps them at the top of consumers' minds. [Coca-Cola](https://www.coca-colacompany.com/)
+Coca-Cola has maintained high brand awareness for decades through consistent branding, memorable advertising campaigns, and a global presence. Their effective use of traditional media, [social media](../s/social_media.md), and experiential [marketing](../m/marketing.md) keeps them at the top of consumers' minds. Coca-Cola
 
 ### Apple
-Apple’s consistent product innovation, sleek branding, and excellent [customer](../c/customer.md) experiences have contributed to unparalleled brand awareness in the tech [industry](../i/industry.md). Their event-driven [marketing strategy](../m/marketing_strategy.md), such as annual product launches, ensures that they stay relevant and top-of-mind. [Apple](https://www.apple.com/)
+Apple’s consistent product innovation, sleek branding, and excellent [customer](../c/customer.md) experiences have contributed to unparalleled brand awareness in the tech [industry](../i/industry.md). Their event-driven [marketing strategy](../m/marketing_strategy.md), such as annual product launches, ensures that they stay relevant and top-of-mind. Apple
 
 ### Nike
-Nike leverages powerful storytelling and emotional connections through their advertising campaigns and endorsements by top athletes. Their "Just Do It" slogan is recognized globally, and they use [social media](../s/social_media.md) and influencer [marketing](../m/marketing.md) to bolster their brand presence continuously. [Nike](https://www.nike.com/)
+Nike leverages powerful storytelling and emotional connections through their advertising campaigns and endorsements by top athletes. Their "Just Do It" slogan is recognized globally, and they use [social media](../s/social_media.md) and influencer [marketing](../m/marketing.md) to bolster their brand presence continuously. Nike
 
 ### McDonald’s
-McDonald’s uses a blend of traditional media, [digital marketing](../d/digital_marketing.md), and local event sponsorships to maintain its brand presence globally. Their golden arches logo and brand mascots are universally recognized symbols that help in fostering strong brand recall. [McDonald's](https://www.mcdonalds.com/)
+McDonald’s uses a blend of traditional media, [digital marketing](../d/digital_marketing.md), and local event sponsorships to maintain its brand presence globally. Their golden arches logo and brand mascots are universally recognized symbols that help in fostering strong brand recall. McDonald's
 
 # Challenges in Building Brand Awareness
 

@@ -59,14 +59,13 @@ Implementing effective [risk management systems](../r/risk_management_systems.md
 ## Case Study: JPMorgan Chase & Co.
 JPMorgan Chase & Co., a leading global financial services [firm](../f/firm.md), has demonstrated [robust](../r/robust.md) [underwriting](../u/underwriting.md) capacity across various sectors. Their diversified portfolio and strong [capital](../c/capital.md) reserves have allowed them to maintain stability and expand their [underwriting](../u/underwriting.md) activities, even in volatile markets.
 
-For more detailed insights into their [underwriting](../u/underwriting.md) practices and financial strategies, you may visit [JPMorgan Chase & Co.](https://www.jpmorganchase.com/).
+For more detailed insights into their [underwriting](../u/underwriting.md) practices and financial strategies, you may visit JPMorgan Chase & Co..
 
 ## Conclusion
 Understanding [underwriting](../u/underwriting.md) capacity is essential for stakeholders in the financial services [industry](../i/industry.md). It encompasses various factors, including [risk](../r/risk.md) assessment, [capital](../c/capital.md) reserves, [diversification](../d/diversification.md), and [economic conditions](../e/economic_conditions.md). By optimizing these factors, institutions can enhance their [underwriting](../u/underwriting.md) capacity, ensuring financial stability and growth.
 
 ## References
-- JPMorgan Chase & Co.: [https://www.jpmorganchase.com/](https://www.jpmorganchase.com/)
-
+- JPMorgan Chase & Co.
 ---
 
 The topic of [underwriting](../u/underwriting.md) capacity is vast and interconnected with numerous aspects of [finance](../f/finance.md) and [risk management](../r/risk_management.md). Effective management of [underwriting](../u/underwriting.md) capacity can lead to significant advantages for financial institutions, making it a subject worth thorough understanding and continual monitoring.

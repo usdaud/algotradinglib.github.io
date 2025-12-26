@@ -44,7 +44,7 @@ Investment [duration](../d/duration.md) can affect tax liabilities. For instance
 
 ## Algorithmic Trading and Investment Horizons
 
-In the context of [algorithmic trading](../a/accountability.md) (algo trading), the concept of investment horizon still holds a unique place. Here's how:
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo trading), the concept of investment horizon still holds a unique place. Here's how:
 
 ### High-Frequency Trading (HFT)
 High-Frequency Trading represents the epitome of short-term investment horizons. These algorithms execute trades in fractions of a second, making thousands of trades per day. They [capitalize](../c/capitalize.md) on small price discrepancies and [market](../m/market.md) inefficiencies.
@@ -57,19 +57,19 @@ Long-term algo [trading strategies](../t/trading_strategies.md) involve holding 
 
 ## Companies in Algorithmic Trading
 
-Several companies specialize in [algorithmic trading](../a/accountability.md) across different investment horizons:
+Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) across different investment horizons:
 
 ### Renaissance Technologies
-Renaissance Technologies is one of the most famous and successful [hedge](../h/hedge.md) funds that utilize high-frequency [trading strategies](../t/trading_strategies.md). More information about the company can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies is one of the most famous and successful [hedge](../h/hedge.md) funds that utilize high-frequency [trading strategies](../t/trading_strategies.md).
 
 ### Two Sigma
-Two Sigma Investments applies [data science](../d/data_science_in_trading.md) and technology to [portfolio management](../p/par.md), using a variety of trading horizons ranging from very short-term to long-term strategies. Their website offers detailed insights into their approach and methodologies [here](https://www.twosigma.com/).
+Two Sigma Investments applies [data science](../d/data_science_in_trading.md) and technology to [portfolio management](../p/par.md), using a variety of trading horizons ranging from very short-term to long-term strategies. their online platform offers detailed insights into their approach and methodologies here.
 
 ### Citadel
-Citadel operates one of the leading high-frequency trading firms globally. They employ a broad spectrum of strategies across different time horizons. More about Citadel can be learned on their [official site](https://www.citadel.com/).
+Citadel operates one of the leading high-frequency trading firms globally. They employ a broad spectrum of strategies across different time horizons. More about Citadel can be learned on their public materials.
 
 ### AQR Capital Management
-AQR [Capital](../c/capital.md) Management utilizes [quantitative strategies](../q/quantitative_strategies_in_trading.md) spanning various investment horizons. The company focuses on leveraging academic research to inform their algorithmic approaches. More on AQR is available [here](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) Management utilizes [quantitative strategies](../q/quantitative_strategies_in_trading.md) spanning various investment horizons. The company focuses on leveraging academic research to inform their algorithmic approaches. More on AQR is available here.
 
 ## Calculating an Appropriate Investment Horizon
 
@@ -87,4 +87,4 @@ Prevailing [market](../m/market.md) conditions can sometimes influence the inves
 
 ## Conclusion
 
-The investment horizon remains a cornerstone of sound [investment strategy](../i/investment_strategy.md), influencing [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and overall [portfolio performance](../p/portfolio_performance.md). From traditional investments to sophisticated [algorithmic trading](../a/accountability.md), understanding and aligning one's investment horizon with personal financial goals and circumstances is paramount.
+The investment horizon remains a cornerstone of sound [investment strategy](../i/investment_strategy.md), influencing [risk management](../r/risk_management.md), [asset allocation](../a/asset_allocation.md), and overall [portfolio performance](../p/portfolio_performance.md). From traditional investments to sophisticated [algorithmic trading](../a/algorithmic_trading.md), understanding and aligning one's investment horizon with personal financial goals and circumstances is paramount.

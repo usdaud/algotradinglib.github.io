@@ -28,23 +28,23 @@ Where `t` is the observed test statistic.
 In trading, financial analysts frequently employ [hypothesis testing](../h/hypothesis_testing.md). The process generally consists of:
 
 1. **Formulating Hypotheses**:
-    - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: No significant effect or relationship exists.
-    - **Alternative Hypothesis (Ha)**: A significant effect or relationship exists.
+ - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: No significant effect or relationship exists.
+ - **Alternative Hypothesis (Ha)**: A significant effect or relationship exists.
 
 2. **Choosing a Significance Level (α)**:
-    - Common choices include 0.05, 0.01, or 0.10, reflecting different levels of sensitivity to Type I errors (false positives).
+ - Common choices include 0.05, 0.01, or 0.10, reflecting different levels of sensitivity to Type I errors (false positives).
 
 3. **Selecting the Test**:
-    - Depending on the data and the hypothesis, various tests can be applied, e.g., t-tests, chi-square tests, or ANOVA.
+ - Depending on the data and the hypothesis, various tests can be applied, e.g., t-tests, chi-square tests, or ANOVA.
 
 4. **Computing the Test Statistic**:
-    - This statistic [will](../w/will.md) derive from the sample data and [will](../w/will.md) help in quantifying the evidence against `H0`.
+ - This statistic [will](../w/will.md) derive from the sample data and [will](../w/will.md) help in quantifying the evidence against `H0`.
 
 5. **Determining the P-[value](../v/value.md)**:
-    - This is critical for making the final decision regarding `H0`.
+ - This is critical for making the final decision regarding `H0`.
 
 6. **Making a Decision**:
-    - Compare the p-[value](../v/value.md) with the significance level. If the p-[value](../v/value.md) is less than `α`, reject `H0`.
+ - Compare the p-[value](../v/value.md) with the significance level. If the p-[value](../v/value.md) is less than `α`, reject `H0`.
 
 ## Application in Financial Contexts
 

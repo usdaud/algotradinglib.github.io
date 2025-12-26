@@ -96,15 +96,15 @@ Both Excel and Google Sheets provide built-in functions to calculate FV:
 
 Numerous websites [offer](../o/offer.md) free online FV calculators:
 
-- [Investor.gov: Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
-- [Bankrate: Investment Calculator](https://www.bankrate.com/calculators/savings/investment-calculator.aspx)
+- Investor.gov: Compound Interest Calculator
+- Bankrate: Investment Calculator
 
 ### Financial Software
 
 Careers that heavily use FV calculations, such as [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md), often rely on specialized software solutions like:
 
-- [Morningstar Direct](https://www.morningstar.com/products/direct)
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- Morningstar Direct
+- Bloomberg Terminal
 
 ## Conclusion
 

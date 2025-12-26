@@ -62,4 +62,4 @@ Trustees may seek the assistance of financial advisors or investment managers to
 
 Understanding [trust](../t/trust.md) property is crucial for anyone involved in [estate planning](../e/estate_planning.md), [asset management](../a/asset_management.md), or financial advising. Proper management and administration of [trust](../t/trust.md) assets can [offer](../o/offer.md) significant benefits, including tax advantages, [asset protection](../a/asset_protection.md), and efficient [wealth](../w/wealth.md) [distribution](../d/distribution.md). However, it requires a comprehensive understanding of legal [obligations](../o/obligation.md), fiduciary duties, and investment strategies.
 
-For more information on [trust](../t/trust.md) property and related services, you can visit reputable financial institutions such as Vanguard at [Vanguard Trust Services](https://investor.vanguard.com/trust-services/).
+For more information on [trust](../t/trust.md) property and related services, you can visit reputable financial institutions such as Vanguard at Vanguard Trust Services.

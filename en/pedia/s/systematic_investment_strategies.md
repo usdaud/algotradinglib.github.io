@@ -90,16 +90,16 @@ HFT involves executing a large number of orders at extremely high speeds, often 
 
 ### Leading Firms
 
-- **Two Sigma**: Known for their use of advanced [data science](../d/data_science_in_trading.md) and technology. [Website](https://www.twosigma.com/)
-- **DE Shaw Group**: A pioneer in the quantitative investment space. [Website](https://www.deshaw.com/)
-- **AQR [Capital](../c/capital.md) Management**: Employs a variety of systematic investment strategies. [Website](https://www.aqr.com/)
-- **Renaissance Technologies**: Often cited as the most successful quantitative [hedge fund](../h/hedge_fund.md). [Website](https://www.rentec.com/)
+- **Two Sigma**: Known for their use of advanced [data science](../d/data_science_in_trading.md)
+- **DE Shaw Group**:
+- **AQR [Capital](../c/capital.md) Management**:
+- **Renaissance Technologies**: Often cited as the most successful quantitative [hedge fund](../h/hedge_fund.md). online platform
 
 ### Technologies and Platforms
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Comprehensive data and analytics platform.
 - **Python/R**: Popular programming languages for data analysis and algorithm development.
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and [execution](../e/execution.md) capabilities.
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data and [execution](../e/execution.md) capabilities.
 - **Amazon Web Services (AWS)**: Cloud services for data storage and computational power.
 
 ## Future Trends

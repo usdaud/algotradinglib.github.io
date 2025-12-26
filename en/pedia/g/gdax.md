@@ -1,14 +1,14 @@
 # GDAX
-  
+
 GDAX, short for Global Digital [Asset](../a/asset.md) [Exchange](../e/exchange.md), was a cryptocurrency [exchange](../e/exchange.md) that allowed users to buy, sell, and [trade](../t/trade.md) cryptocurrencies. GDAX was created by [Coinbase](../c/coinbase.md) in 2015 and later rebranded as [Coinbase](../c/coinbase.md) Pro in 2018. The platform provided various features aimed at both new and experienced traders, and it supported [multiple](../m/multiple.md) digital assets. GDAX was widely known for its advanced trading features, [security](../s/security.md) measures, and integration with the larger [Coinbase](../c/coinbase.md) ecosystem.
-  
+
 ## Background and History
 
 GDAX was launched by [Coinbase](../c/coinbase.md), one of the most prominent cryptocurrency platforms in the world, to give users a more advanced trading experience. Initially designed for professionals and institutions, GDAX offered advanced trading functionalities like limit orders, stop orders, and [margin trading](../m/margin_trading.md), setting it apart from similarly focused but simpler platforms.
 
 ### Founding and Development
 
-Founded by Brian Armstrong and Fred Ehrsam in 2012, [Coinbase](../c/coinbase.md)'s mission was to make [digital currency](../d/digital_currency.md) accessible to everyone. Initially, [Coinbase](../c/coinbase.md) allowed users to buy and sell [Bitcoin](../b/bitcoin.md), but it soon expanded its portfolio to include other cryptocurrencies. Recognizing the need for a more [robust](../r/robust.md) [trading platform](../t/trading_platform.md) for advanced users, [Coinbase](../c/coinbase.md) launched GDAX in May 2015. 
+Founded by Brian Armstrong and Fred Ehrsam in 2012, [Coinbase](../c/coinbase.md)'s mission was to make [digital currency](../d/digital_currency.md) accessible to everyone. Initially, [Coinbase](../c/coinbase.md) allowed users to buy and sell [Bitcoin](../b/bitcoin.md), but it soon expanded its portfolio to include other cryptocurrencies. Recognizing the need for a more [robust](../r/robust.md) [trading platform](../t/trading_platform.md) for advanced users, [Coinbase](../c/coinbase.md) launched GDAX in May 2015.
 
 GDAX was built to meet the needs of more sophisticated traders by providing tools for in-depth [technical analysis](../t/technical_analysis.md), detailed [market](../m/market.md) data, and other advanced trading features.
 
@@ -56,10 +56,10 @@ In May 2018, [Coinbase](../c/coinbase.md) announced that GDAX would be rebranded
 
 GDAX was instrumental in establishing [Coinbase](../c/coinbase.md) as a major player in the cryptocurrency trading world. By [offering](../o/offering.md) a sophisticated [trading platform](../t/trading_platform.md), [Coinbase](../c/coinbase.md) could cater to both retail and institutional investors. The success of GDAX also paved the way for the launch of new products and services within the [Coinbase](../c/coinbase.md) ecosystem, including custody solutions and institutional services.
 
-GDAX's legacy continues under the [Coinbase](../c/coinbase.md) Pro banner, which maintains its predecessor’s focus on advanced trading features while further integrating into [Coinbase](../c/coinbase.md)'s overall mission to create an [open](../o/open.md) [financial system](../f/financial_system.md) for the world.
+GDAX's legacy continued under the [Coinbase](../c/coinbase.md) Pro banner until June 2022, when Coinbase Pro was discontinued and its functionality was merged into Coinbase Advanced Trade, the unified
 
 ## Conclusion
 
-GDAX played a crucial role in the evolution of cryptocurrency trading platforms. With its advanced features, [robust](../r/robust.md) [security](../s/security.md), and seamless integration with [Coinbase](../c/coinbase.md), it set a standard for what professional trading platforms should be. The transition to [Coinbase](../c/coinbase.md) Pro marked a new chapter in its development, ensuring that GDAX's legacy would continue to influence the cryptocurrency trading [industry](../i/industry.md). 
+GDAX played a crucial role in the evolution of cryptocurrency trading platforms. With its advanced features, [robust](../r/robust.md) [security](../s/security.md), and seamless integration with [Coinbase](../c/coinbase.md), it set a standard for what professional trading platforms should be. The transition to [Coinbase](../c/coinbase.md) Pro in 2018, and subsequently to Coinbase Advanced Trade in 2022, marked the evolution of advanced trading services within the Coinbase ecosystem.
 
-For more information, you can visit the official [Coinbase](../c/coinbase.md) Pro website: [Coinbase Pro](https://pro.coinbase.com)
+For more information, visit the official [Coinbase](../c/coinbase.md) online platform: Coinbase

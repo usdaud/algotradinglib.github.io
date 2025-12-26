@@ -19,12 +19,12 @@ Here’s a practical breakdown of the formula:
 To illustrate, consider a [hedge fund](../h/hedge_fund.md) with the following positions:
 
 - Long positions:
-  - $50 million in [stocks](../s/stock.md) of Company A.
-  - $30 million in bonds of Company B.
+ - $50 million in [stocks](../s/stock.md) of Company A.
+ - $30 million in bonds of Company B.
 
 - Short positions:
-  - $20 million in [stocks](../s/stock.md) of Company C.
-  - $10 million in bonds of Company D.
+ - $20 million in [stocks](../s/stock.md) of Company C.
+ - $10 million in bonds of Company D.
 
 The gross exposure of the [fund](../f/fund.md) would be:
 
@@ -81,15 +81,15 @@ Regulatory bodies, such as the Securities and [Exchange](../e/exchange.md) [Comm
 
 ### Bridgewater Associates
 
-Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds globally. The [firm](../f/firm.md) employs a [risk parity](../r/risk_parity.md) approach where gross exposure is meticulously monitored to ensure balanced [risk](../r/risk.md) allocation across [asset](../a/asset.md) classes. [Bridgewater Associates](https://www.bridgewater.com/)
+Bridgewater Associates, founded by Ray Dalio, is one of the largest [hedge](../h/hedge.md) funds globally. The [firm](../f/firm.md) employs a [risk parity](../r/risk_parity.md) approach where gross exposure is meticulously monitored to ensure balanced [risk](../r/risk.md) allocation across [asset](../a/asset.md) classes. Bridgewater Associates
 
 ### Two Sigma
 
-Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), uses advanced algorithms and [machine learning](../m/machine_learning.md) to manage its portfolio. The [firm](../f/firm.md) carefully tracks gross exposure to optimize its [leverage ratios](../l/leverage_ratios.md) and [market exposure](../m/market_exposure.md). [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a quantitative [hedge fund](../h/hedge_fund.md), uses advanced algorithms and [machine learning](../m/machine_learning.md) to manage its portfolio. The [firm](../f/firm.md) carefully tracks gross exposure to optimize its [leverage ratios](../l/leverage_ratios.md) and [market exposure](../m/market_exposure.md). Two Sigma
 
 ### BlackRock
 
-BlackRock, a global [investment manager](../i/investment_manager.md), applies gross exposure metrics across various funds to manage [risk](../r/risk.md) and performance effectively. Their platforms integrate gross exposure data for insightful analysis and decision-making. [BlackRock](https://www.blackrock.com/)
+BlackRock, a global [investment manager](../i/investment_manager.md), applies gross exposure metrics across various funds to manage [risk](../r/risk.md) and performance effectively. Their platforms integrate gross exposure data for insightful analysis and decision-making. BlackRock
 
 ## Conclusion
 

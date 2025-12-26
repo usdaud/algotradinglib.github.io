@@ -53,21 +53,21 @@ Identifying and mitigating financial risks is crucial. X-Technical Model Analysi
 
 Several companies are pioneers in the field of X-Technical Model Analysis. They provide tools, platforms, and services to traders and financial institutions.
 
-1. **Kx Systems** - [Kx Systems](https://kx.com/)
-   
-   Kx Systems offers a high-performance database platform for historic [market](../m/market.md) data storage, analysis, and manipulation.
-   
-2. **Numerai** - [Numerai](https://numer.ai/)
-   
-   Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced [machine learning](../m/machine_learning.md) to run [market](../m/market.md)-[neutral](../n/neutral.md) [trading models](../t/trading_models.md).
+1. **Kx Systems** - Kx Systems
 
-3. **Two Sigma** - [Two Sigma](https://www.twosigma.com/)
-   
-   Two Sigma uses advanced [machine learning](../m/machine_learning.md) techniques and large datasets to conduct [systematic trading](../s/systematic_trading.md).
+ Kx Systems offers a high-performance database platform for historic [market](../m/market.md) data storage, analysis, and manipulation.
 
-4. **Jane Street** - [Jane Street](https://www.janestreet.com/)
-   
-   Jane Street employs various [quantitative models](../q/quantitative_models.md) and cutting-edge technology to engage in trading and [market](../m/market.md)-making.
+2. **Numerai** - Numerai
+
+ Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced [machine learning](../m/machine_learning.md) to run [market](../m/market.md)-[neutral](../n/neutral.md) [trading models](../t/trading_models.md).
+
+3. **Two Sigma** - Two Sigma
+
+ Two Sigma uses advanced [machine learning](../m/machine_learning.md) techniques and large datasets to conduct [systematic trading](../s/systematic_trading.md).
+
+4. **Jane Street** - Jane Street
+
+ Jane Street employs various [quantitative models](../q/quantitative_models.md) and cutting-edge technology to engage in trading and [market](../m/market.md)-making.
 
 ### Future of X-Technical Model Analysis
 

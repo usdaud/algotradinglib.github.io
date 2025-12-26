@@ -50,6 +50,6 @@ Several investment vehicles track the performance of the S&P GSCI, [offering](..
 ## Future of S&P GSCI
 With the growing [interest](../i/interest.md) in sustainable and environmental investments, the future of the S&P GSCI might involve modifications to incorporate ESG (Environmental, Social, and Governance) criteria, ensuring the [index](../i/index_instrument.md) continues to meet the evolving demands of the investment community.
 
-For further information about S&P GSCI, you can visit the official [S&P Dow Jones Indices website](https://www.spglobal.com/spdji/en/indices/commodities/sp-gsci/).
+
 
 In summary, the S&P GSCI serves as a [robust](../r/robust.md) gauge for the global commodities [market](../m/market.md), providing investors with insight and exposure to various essential commodities. The [index](../i/index_instrument.md)'s detailed construction and diverse components ensure its continued relevance and [utility](../u/utility.md) in both [investment strategy](../i/investment_strategy.md) and [market](../m/market.md) analysis.

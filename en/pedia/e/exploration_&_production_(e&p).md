@@ -84,15 +84,15 @@ Technological advancements have significantly improved the [efficiency](../e/eff
 
 Several major companies dominate the E&P [industry](../i/industry.md), operating globally across various regions and geological settings. These companies often have extensive expertise, advanced technologies, and significant financial resources. Some notable E&P companies include:
 
-- **ExxonMobil**: One of the largest publicly traded oil and gas companies, ExxonMobil operates in [multiple](../m/multiple.md) regions and engages in various E&P activities. [ExxonMobil](https://corporate.exxonmobil.com)
+- **ExxonMobil**: One of the largest publicly traded oil and gas companies, ExxonMobil operates in [multiple](../m/multiple.md) regions and engages in various E&P activities. ExxonMobil
 
-- **Shell**: Royal Dutch Shell is a multinational energy company with extensive E&P operations. Shell is involved in both conventional and unconventional [hydrocarbon](../h/hydrocarbon.md) production. [Shell](https://www.shell.com)
+- **Shell**: Royal Dutch Shell is a multinational energy company with extensive E&P operations. Shell is involved in both conventional and unconventional [hydrocarbon](../h/hydrocarbon.md) production. Shell
 
-- **Chevron**: Chevron is a major player in the E&P sector, with operations spanning the globe. The company engages in exploration, development, and production activities in various regions. [Chevron](https://www.chevron.com)
+- **Chevron**: Chevron is a major player in the E&P sector, with operations spanning the globe. The company engages in exploration, development, and production activities in various regions. Chevron
 
-- **BP**: BP is a global energy company with a strong presence in the E&P [industry](../i/industry.md). The company explores and produces oil and gas from onshore and [offshore](../o/offshore.md) locations. [BP](https://www.bp.com)
+- **BP**: BP is a global energy company with a strong presence in the E&P [industry](../i/industry.md). The company explores and produces oil and gas from onshore and [offshore](../o/offshore.md) locations. BP
 
-- **TotalEnergies**: TotalEnergies, formerly known as Total, is an integrated energy company with significant E&P operations worldwide. The company is involved in the entire [value chain](../v/value_chain.md), from exploration to [distribution](../d/distribution.md). [TotalEnergies](https://totalenergies.com)
+- **TotalEnergies**: TotalEnergies, formerly known as Total, is an integrated energy company with significant E&P operations worldwide. The company is involved in the entire [value chain](../v/value_chain.md), from exploration to [distribution](../d/distribution.md). TotalEnergies
 
 ## Environmental and Regulatory Considerations
 

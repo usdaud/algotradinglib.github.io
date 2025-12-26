@@ -120,19 +120,19 @@ Several companies specialize in developing and utilizing ML algorithms for tradi
 
 ##### 6.1. QuantConnect
 [QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform. Users can develop, backtest, and deploy [trading algorithms](../t/trading_algorithms.md).
-**Website**: [QuantConnect](https://www.quantconnect.com)
+**online platform**: QuantConnect
 
 ##### 6.2. Two Sigma
 Two Sigma is a quantitative [investment management](../i/investment_management.md) company that leverages [machine learning](../m/machine_learning.md) to make informed trading decisions.
-**Website**: [Two Sigma](https://www.twosigma.com)
+**online platform**: Two Sigma
 
 ##### 6.3. Renaissance Technologies
 A pioneering [firm](../f/firm.md) in the field, Renaissance Technologies uses advanced [mathematical models](../m/mathematical_models_in_trading.md) and ML techniques to guide its [trading strategies](../t/trading_strategies.md).
-**Website**: [Renaissance Technologies](https://www.rentec.com)
+**online platform**: Renaissance Technologies
 
 ##### 6.4. Alpaca
 [Alpaca](../a/alpaca.md) offers [commission](../c/commission.md)-free trading API and uses machine [learning algorithms](../l/learning_algorithms_in_trading.md) to facilitate automated [trading strategies](../t/trading_strategies.md).
-**Website**: [Alpaca](https://alpaca.markets)
+**online platform**: Alpaca
 
 #### 7. Future of ML in Trading
 

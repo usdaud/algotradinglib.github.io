@@ -9,24 +9,24 @@ In the world of [business](../b/business.md), a [distribution](../d/distribution
 A direct [distribution](../d/distribution.md) channel is one where the product or service travels directly from the producer or manufacturer to the end consumer without any intermediaries. This channel is often used by businesses that sell directly to the public, either through physical stores, e-[commerce](../c/commerce.md), or direct mail.
 
 - **Examples:**
-  - **E-[commerce](../c/commerce.md) Platforms:** Companies like **Amazon** and **Zappos** sell products directly to consumers through their online stores.
-  - **Direct Sales:** Firms like **Tupperware** and **Avon** utilize direct sales strategies where representatives sell products directly to the end consumers.
+ - **E-[commerce](../c/commerce.md) Platforms:** Companies like **Amazon** and **Zappos** sell products directly to consumers through their online stores.
+ - **Direct Sales:** Firms like **Tupperware** and **Avon** utilize direct sales strategies where representatives sell products directly to the end consumers.
 
 ### Indirect Distribution Channel
 
 In an indirect [distribution](../d/distribution.md) channel, intermediaries such as wholesalers, brokers, or retailers [handle](../h/handle.md) the product before it reaches the end consumer. This allows the manufacturer to [leverage](../l/leverage.md) the expertise and networks of these intermediaries.
 
 - **Examples:**
-  - **FMCG products:** Companies like **Procter & Gamble** and **Unilever** use wholesalers and retailers to distribute their products widely.
-  - **Technology Products:** Companies like **Dell** use both direct (online) and indirect (retail partners) channels for [distribution](../d/distribution.md).
+ - **FMCG products:** Companies like **Procter & Gamble** and **Unilever** use wholesalers and retailers to distribute their products widely.
+ - **Technology Products:** Companies like **Dell** use both direct (online) and indirect (retail partners) channels for [distribution](../d/distribution.md).
 
 ### Dual Distribution
 
 Dual [distribution](../d/distribution.md) includes a combination of both direct and indirect channels. Companies using this strategy may sell directly to consumers while also using intermediaries to reach a broader [market](../m/market.md).
 
 - **Examples:**
-  - **Apple Inc.:** Apple sells products through its own retail stores and website while also partnering with other retailers like Best Buy and carrier stores.
-  
+ - **Apple Inc..
+
 ## Functions of Distribution Channels
 
 ### Transactional Functions
@@ -52,11 +52,11 @@ Dual [distribution](../d/distribution.md) includes a combination of both direct 
 ### Intermediaries
 
 1. **Wholesalers:** Buy products in bulk from manufacturers and sell them in smaller quantities to other intermediaries or retailers.
-   - Example: **Costco** operates as both a wholesaler and a retailer.
+ - Example: **Costco** operates as both a wholesaler and a retailer.
 2. **Retailers:** Sell products directly to the end customers.
-   - Examples: **Walmart** and **Target**.
+ - Examples: **Walmart** and **Target**.
 3. **Agents and Brokers:** Facilitate sales between buyers and sellers and earn a [commission](../c/commission.md) for their services.
-   - Example: **RE/MAX** in [real estate](../r/real_estate.md).
+ - Example: **RE/MAX** in [real estate](../r/real_estate.md).
 
 ### Logistics
 

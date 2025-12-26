@@ -17,7 +17,7 @@ At its core, modified [accrual accounting](../a/accrual_accounting.md) recognize
 **Concepts and Principles**
 
 - **Available**: In modified [accrual accounting](../a/accrual_accounting.md), a [revenue](../r/revenue.md) source must be available, meaning it should be collectible within the current period or soon enough thereafter to be used for liabilities of the current period, often considered as within 60 days.
-  
+
 - **Measurable**: This means the amount of [revenue](../r/revenue.md) can be reasonably estimated or quantified.
 
 - **Deferred Inflows & Outflows**: These [accounting](../a/accounting.md) entries are used to [handle](../h/handle.md) revenues that have been earned but not yet available, and expenses that have been incurred but not yet payable.

@@ -1,6 +1,6 @@
 # Turnkey Business
 
-A "turnkey [business](../b/business.md)" refers to a type of enterprise that is fully operational and ready for immediate use. This term is widely used in [finance](../f/finance.md), [real estate](../r/real_estate.md), and particularly in the field of franchising. Essentially, a turnkey [business](../b/business.md) is one that requires minimal effort to start running, meaning that the new owner simply has to "turn the key" to begin operations. 
+A "turnkey [business](../b/business.md)" refers to a type of enterprise that is fully operational and ready for immediate use. This term is widely used in [finance](../f/finance.md), [real estate](../r/real_estate.md), and particularly in the field of franchising. Essentially, a turnkey [business](../b/business.md) is one that requires minimal effort to start running, meaning that the new owner simply has to "turn the key" to begin operations.
 
 ## Key Features
 
@@ -20,8 +20,8 @@ Turnkey businesses can be categorized into several types, including:
 
 Franchises are perhaps the most common example of turnkey businesses. In this case, a [franchisee](../f/franchisee.md) buys the rights to [open](../o/open.md) a branch of an already successful [business](../b/business.md). The franchisor provides comprehensive support, including branding, training, product [supply](../s/supply.md), and [marketing](../m/marketing.md) strategies. Examples of popular franchises include:
 
-- **McDonald's**: This global fast-food chain offers extensive support to franchisees. More information can be found on their [franchise website](https://corporate.mcdonalds.com/corpmcd/franchising.html).
-- **Starbucks**: Although not traditionally franchised, Starbucks operates a similar system where licensed stores adhere to the same high standards as company-owned locations. Learn more on their [business development page](https://www.starbucks.com/business).
+- **McDonald's**: This global fast-food chain offers extensive support to franchisees.
+- **Starbucks**: Although not traditionally franchised, Starbucks operates a similar system where licensed stores adhere to the same high standards as company-owned locations. Learn more through their business development materials.
 
 ### Fully Established Small Businesses
 

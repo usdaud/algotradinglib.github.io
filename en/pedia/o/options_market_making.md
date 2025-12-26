@@ -66,23 +66,23 @@ Several firms are well-known for their expertise and dominance in [options](../o
 
 ### 1. **Optiver**
 Optiver is a global [market](../m/market.md)-making [firm](../f/firm.md) that uses cutting-edge technology to provide [liquidity](../l/liquidity.md) in [financial markets](../f/financial_market.md). They are active in various [asset](../a/asset.md) classes, including [options](../o/options.md), and are known for their sophisticated [trading strategies](../t/trading_strategies.md).
-Visit [Optiver](https://www.optiver.com/) for more information.
+Visit Optiver for more information.
 
 ### 2. **IMC Trading**
 IMC Trading is a leading [market](../m/market.md)-making [firm](../f/firm.md) with a strong presence in the [options](../o/options.md) [market](../m/market.md). They use advanced algorithms and high-frequency trading techniques to ensure efficient [market](../m/market.md)-making operations.
-Visit [IMC Trading](https://www.imc.com/) for more information.
+Visit IMC Trading for more information.
 
 ### 3. **Citadel Securities**
 Citadel Securities is a prominent [market maker](../m/market_maker.md) in various financial instruments, including [options](../o/options.md). They are known for their extensive use of data analysis and technology to optimize trading and provide [liquidity](../l/liquidity.md).
-Visit [Citadel Securities](https://www.citadelsecurities.com/) for more information.
+Visit Citadel Securities for more information.
 
 ### 4. **DRW Trading**
 DRW Trading is a diversified trading [firm](../f/firm.md) that participates in [market](../m/market.md) making across various [asset](../a/asset.md) classes, including [options](../o/options.md). They [leverage](../l/leverage.md) technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md) to manage [risk](../r/risk.md) and enhance [liquidity](../l/liquidity.md).
-Visit [DRW Trading](https://drw.com/) for more information.
+Visit DRW Trading for more information.
 
 ### 5. **Jane Street**
 Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that specializes in [market](../m/market.md) making and uses sophisticated algorithms to provide [liquidity](../l/liquidity.md) in [options](../o/options.md) markets. They are known for their data-driven approach and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices.
-Visit [Jane Street](https://www.janestreet.com/) for more information.
+Visit Jane Street for more information.
 
 ## Conclusion
 

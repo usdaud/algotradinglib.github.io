@@ -43,13 +43,13 @@ As [algorithmic trading](../a/accountability.md) relies heavily on automation, f
 
 ### Example Firms with Auditor’s Report Implementation
 
-1. [Goldman Sachs](https://www.goldmansachs.com) - A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) that releases annual reports containing detailed auditor’s opinions.
-2. [Citadel](https://www.citadel.com) - A renowned [hedge fund](../h/hedge_fund.md) and financial services provider, where auditor reports are crucial due to the complex financial products and [trading strategies](../t/trading_strategies.md) employed.
-3. [Jane Street](https://www.janestreet.com) - A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that operates with a high degree of automation and relies on rigorous financial audits to maintain [stakeholder](../s/stakeholder.md) [trust](../t/trust.md).
+1. Goldman Sachs - A leading global [investment banking](../i/investment_banking.md), securities, and [investment management](../i/investment_management.md) [firm](../f/firm.md) that releases annual reports containing detailed auditor’s opinions.
+2. Citadel - A renowned [hedge fund](../h/hedge_fund.md) and financial services provider, where auditor reports are crucial due to the complex financial products and [trading strategies](../t/trading_strategies.md) employed.
+3. Jane Street - A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that operates with a high degree of automation and relies on rigorous financial audits to maintain [stakeholder](../s/stakeholder.md) [trust](../t/trust.md).
 
 ### Challenges and Future Directions
 
-One pressing challenge in the preparation and interpretation of an Auditor's Report in [algorithmic trading](../a/accountability.md) is the complexity of financial instruments and the rapid pace at which trading occurs. Auditors must possess a deep understanding of these systems and the associated risks. 
+One pressing challenge in the preparation and interpretation of an Auditor's Report in [algorithmic trading](../a/accountability.md) is the complexity of financial instruments and the rapid pace at which trading occurs. Auditors must possess a deep understanding of these systems and the associated risks.
 
 The future of auditing in [algorithmic trading](../a/accountability.md) might see enhanced collaboration between auditors and IT experts to better understand and evaluate the automated systems in place. Advancements in [blockchain](../b/blockchain_in_trading.md) technology could also revolutionize auditing practices by providing immutable and transparent records of financial transactions.
 

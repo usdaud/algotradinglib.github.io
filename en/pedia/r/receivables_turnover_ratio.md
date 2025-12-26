@@ -86,10 +86,10 @@ This means the company turns its receivables into cash 8 times a year.
 ## Real-World Examples
 
 ### Dell Technologies Inc.
-Dell Technologies has effectively managed its receivables and maintained a strong Receivables [Turnover Ratio](../t/turnover_ratio.md), highlighting its efficient [credit](../c/credit.md) management and [robust](../r/robust.md) collection processes. More information on their [financial performance](../f/financial_performance.md) can be found on their [Investor Relations page](https://investors.delltechnologies.com/).
+Dell Technologies has effectively managed its receivables and maintained a strong Receivables [Turnover Ratio](../t/turnover_ratio.md), highlighting its efficient [credit](../c/credit.md) management and [robust](../r/robust.md) collection processes. More information on their [financial performance](../f/financial_performance.md) can be found on their company filings.
 
 ### Coca-Cola Company
-The Coca-Cola Company regularly reports its financial metrics including the Receivables [Turnover Ratio](../t/turnover_ratio.md) in their annual and quarterly reports. Their effective receivables management can be explored further through their [Financial Reports](https://investors.coca-colacompany.com/financial-reports).
+The Coca-Cola Company regularly reports its financial metrics including the Receivables [Turnover Ratio](../t/turnover_ratio.md) in their annual and quarterly reports. Their effective receivables management can be explored further through their Financial Reports.
 
 ## Conclusion
 

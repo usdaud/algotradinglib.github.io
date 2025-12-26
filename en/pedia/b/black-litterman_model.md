@@ -15,16 +15,16 @@ To appreciate the workings of the Black-Litterman model, it is essential to unde
 The core of the Black-Litterman model can be expressed through the following set of equations:
 
 1. **[Market](../m/market.md) [Equilibrium](../e/equilibrium.md) Returns**:
-   \[
-   \Pi = \tau \Sigma q
-   \]
-   where \(\Pi\) represents the [equilibrium](../e/equilibrium.md) excess returns, \(\tau\) is a scalar indicating the [uncertainty](../u/uncertainty_in_trading.md) in the [equilibrium](../e/equilibrium.md), \(\Sigma\) is the [covariance](../c/covariance.md) matrix of excess returns, and \(q\) is the vector of [market capitalization](../m/market_capitalization.md) weights.
+ \[
+ \Pi = \tau \Sigma q
+ \]
+ where \(\Pi\) represents the [equilibrium](../e/equilibrium.md) excess returns, \(\tau\) is a scalar indicating the [uncertainty](../u/uncertainty_in_trading.md) in the [equilibrium](../e/equilibrium.md), \(\Sigma\) is the [covariance](../c/covariance.md) matrix of excess returns, and \(q\) is the vector of [market capitalization](../m/market_capitalization.md) weights.
 
 2. **Incorporating Views**:
-   \[
-   E(R) = \Pi + (P^T \[Omega](../o/omega.md)^{-1} P + \tau^{-1} \Sigma^{-1})^{-1} (P^T \[Omega](../o/omega.md)^{-1} Q - \Pi)
-   \]
-   where \(E(R)\) represents the adjusted [return](../r/return.md) expectations, \(P\) is the matrix that identifies the assets in which views are expressed, \(\[Omega](../o/omega.md)\) is the [covariance](../c/covariance.md) matrix of the error terms in the views, and \(Q\) is the vector of view returns.
+ \[
+ E(R) = \Pi + (P^T \[Omega](../o/omega.md)^{-1} P + \tau^{-1} \Sigma^{-1})^{-1} (P^T \[Omega](../o/omega.md)^{-1} Q - \Pi)
+ \]
+ where \(E(R)\) represents the adjusted [return](../r/return.md) expectations, \(P\) is the matrix that identifies the assets in which views are expressed, \(\[Omega](../o/omega.md)\) is the [covariance](../c/covariance.md) matrix of the error terms in the views, and \(Q\) is the vector of view returns.
 
 ### Practical Implementation
 
@@ -60,10 +60,10 @@ The Black-Litterman model offers several benefits compared to traditional [portf
 
 ### Case Studies
 
-- **Goldman Sachs [Asset Management](../a/asset_management.md)**: As the birthplace of the Black-Litterman model, Goldman Sachs continues to refine and apply the model within its investment strategies. For more information, visit [Goldman Sachs Asset Management](https://www.gsam.com/content/gsam/global/en/market-insights/gsam-perspectives.html).
+- **Goldman Sachs [Asset Management](../a/asset_management.md)**: As the birthplace of the Black-Litterman model, Goldman Sachs continues to refine and apply the model within its investment strategies. For more information, visit Goldman Sachs Asset Management.
 
-- **BlackRock**: BlackRock employs the Black-Litterman model within its scientific active [equity](../e/equity.md) strategies, leveraging the model to enhance portfolio construction. For further details, see [BlackRock's Scientific Active Equity](https://www.blackrock.com/us/individual/products/219301/blackrock-scientific-active-equity-fund).
+- **BlackRock**: BlackRock employs the Black-Litterman model within its scientific active [equity](../e/equity.md) strategies, leveraging the model to enhance portfolio construction. For further details, see BlackRock's Scientific Active Equity.
 
 ## Conclusion
 
-The Black-Litterman model represents a sophisticated advancement in [portfolio optimization](../p/portfolio_optimization.md), providing a [robust](../r/robust.md) mechanism to integrate [market](../m/market.md) [equilibrium](../e/equilibrium.md) with [investor](../i/investor.md)-specific views. Its ability to generate stable and intuitive portfolio allocations makes it a powerful tool for algorithmic traders and [asset](../a/asset.md) managers looking to enhance performance and manage [risk](../r/risk.md) in today's complex markets.
+The Black-Litterman model represents a sophisticated advancement in [portfolio optimization](../p/portfolio_optimization.md), providing a [robust](../r/robust.md) mechanism to integrate [market](../m/market.md) [equilibrium](../e/equilibrium.md) with [investor](../i/investor.md)-specific views. Its ability to generate stable and intuitive portfolio allocations makes it a powerful tool for algorithmic traders and [asset](../a/asset.md) managers looking to enhance performance and manage [risk](../r/risk.md) in today's complex markets.

@@ -69,25 +69,22 @@ EMS are [software platforms](../s/software_platforms_for_trading.md) that allow 
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is a leading quantitative investment [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to develop sophisticated [trading strategies](../t/trading_strategies.md), including YTD [yield](../y/yield.md) strategies. 
-
+Two Sigma is a leading quantitative investment [firm](../f/firm.md) that utilizes [data science](../d/data_science_in_trading.md) and technology to develop sophisticated [trading strategies](../t/trading_strategies.md), including YTD [yield](../y/yield.md) strategies.
 ### Citadel
 
-[Citadel](https://www.citadel.com/) is a global financial institution that uses advanced algorithms and high-frequency trading to optimize returns. 
-
+Citadel is a global financial institution that uses advanced algorithms and high-frequency trading to optimize returns.
 ### AQR Capital Management
 
-[AQR Capital Management](https://www.aqr.com/) specializes in [quantitative investment strategies](../q/quantitative_investment_strategies.md), employing statistical models to develop and implement YTD [yield](../y/yield.md) strategies.
+AQR Capital Management specializes in [quantitative investment strategies](../q/quantitative_investment_strategies.md), employing statistical models to develop and implement YTD [yield](../y/yield.md) strategies.
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is renowned for its use of mathematical and statistical models in trading. It employs a variety of strategies, including those focused on maximizing YTD [yield](../y/yield.md).
+Renaissance Technologies is renowned for its use of mathematical and statistical models in trading. It employs a variety of strategies, including those focused on maximizing YTD [yield](../y/yield.md).
 
 ### Jane Street
 
-[Jane Street](https://www.janestreet.com/) uses technology and [quantitative analysis](../q/quantitative_analysis.md) to develop [trading strategies](../t/trading_strategies.md), including those aimed at maximizing YTD yields.
+Jane Street uses technology and [quantitative analysis](../q/quantitative_analysis.md) to develop [trading strategies](../t/trading_strategies.md), including those aimed at maximizing YTD yields.
 
 ## Conclusion
 
 YTD [yield](../y/yield.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) are designed to maximize returns within a calendar year. By leveraging advanced algorithms, data analysis, and technology, traders can develop and implement effective strategies. Companies like Two Sigma, Citadel, AQR [Capital](../c/capital.md) Management, Renaissance Technologies, and Jane Street continue to lead the way in employing these sophisticated methods to achieve superior performance.
-

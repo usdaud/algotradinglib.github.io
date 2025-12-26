@@ -46,7 +46,7 @@ Companies within the same [industry](../i/industry.md) can use EBITDA [margin](.
 
 ### Valuation
 
-In the realm of mergers and acquisitions, EBITDA multiples are often used for [valuation](../v/valuation.md) purposes. Investors might look at the EBITDA [margin](../m/margin.md) to justify the purchase price or assess the [value](../v/value.md)-adding potential of a deal. 
+In the realm of mergers and acquisitions, EBITDA multiples are often used for [valuation](../v/valuation.md) purposes. Investors might look at the EBITDA [margin](../m/margin.md) to justify the purchase price or assess the [value](../v/value.md)-adding potential of a deal.
 
 ### Performance Metrics
 
@@ -54,11 +54,11 @@ For management, EBITDA [margin](../m/margin.md) is a critical performance metric
 
 ## Examples of EBITDA Margin in Action
 
-- **Tech Companies**: Tech companies typically have high EBITDA margins due to low COGS (Cost of Goods Sold) and minimal [capital](../c/capital.md) expenditures. Companies like [Alphabet Inc.](https://abc.xyz) routinely exhibit high EBITDA margins.
-  
-- **Retail**: Retail has a lower EBITDA [margin](../m/margin.md) due to high competition and lower [profit margins](../p/profit_margins_in_trading.md) on goods sold. Even large retailers like [Walmart](https://www.walmart.com) may have lower EBITDA margins compared to tech companies.
+- **Tech Companies**: Tech companies typically have high EBITDA margins due to low COGS (Cost of Goods Sold) and minimal [capital](../c/capital.md) expenditures. Companies like Alphabet Inc. routinely exhibit high EBITDA margins.
 
-- **[Manufacturing](../m/manufacturing.md)**: [Manufacturing](../m/manufacturing.md) businesses can vary widely but typically have lower EBITDA margins than tech companies due to higher operating costs, though leaders in the field like [Siemens](https://www.siemens.com) often show above-average margins for their sector.
+- **Retail**: Retail has a lower EBITDA [margin](../m/margin.md) due to high competition and lower [profit margins](../p/profit_margins_in_trading.md) on goods sold. Even large retailers like Walmart may have lower EBITDA margins compared to tech companies.
+
+- **[Manufacturing](../m/manufacturing.md)**: [Manufacturing](../m/manufacturing.md) businesses can vary widely but typically have lower EBITDA margins than tech companies due to higher operating costs, though leaders in the field like Siemens often show above-average margins for their sector.
 
 ## Conclusion
 

@@ -5,8 +5,8 @@
 
 ### Key Components
 1. **Types of Default**:
-    - **Technical Default**: Occurs when a borrower violates a term or condition of the [debt](../d/debt.md) agreement, other than the failure to make payments. For example, not maintaining a required level of [collateral](../c/collateral.md).
-    - **Monetary Default**: Occurs when a borrower fails to make the scheduled payments of [interest](../i/interest.md) or [principal](../p/principal.md).
+ - **Technical Default**: Occurs when a borrower violates a term or condition of the [debt](../d/debt.md) agreement, other than the failure to make payments. For example, not maintaining a required level of [collateral](../c/collateral.md).
+ - **Monetary Default**: Occurs when a borrower fails to make the scheduled payments of [interest](../i/interest.md) or [principal](../p/principal.md).
 
 2. **Grace Period**: Some [debt](../d/debt.md) agreements include a grace period, allowing the borrower a certain amount of time to rectify the missed [payment](../p/payment.md) without being considered in default.
 

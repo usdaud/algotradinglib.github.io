@@ -53,9 +53,9 @@ IBFs are required to undergo periodic audits and submit detailed reports to regu
 
 Several major U.S. banks have established IBFs to enhance their international operations. Examples include:
 
-- **JPMorgan Chase**: One of the largest banks in the United States, JPMorgan Chase has a significant presence in international banking through its IBF operations. More information can be found on their [official website](https://www.jpmorganchase.com/).
-- **[Bank](../b/bank.md) of America**: Another leading U.S. [bank](../b/bank.md), [Bank](../b/bank.md) of America uses its IBF to expand its global footprint and [offer](../o/offer.md) competitive services to international clients. Visit their [official website](https://www.bankofamerica.com/) for more details.
-- **Citibank**: With a strong focus on international banking, Citibank leverages its IBF to provide a wide [range](../r/range.md) of services to foreign entities. Further information is available on their [official website](https://www.citigroup.com/).
+- **JPMorgan Chase**: One of the largest banks in the United States, JPMorgan Chase has a significant presence in international banking through its IBF operations.
+- **[Bank](../b/bank.md) of America**: Another leading U.S. [bank](../b/bank.md), [Bank](../b/bank.md) of America uses its IBF to expand its global footprint and [offer](../o/offer.md) competitive services to international clients.
+- **Citibank**: With a strong focus on international banking, Citibank leverages its IBF to provide a wide [range](../r/range.md) of services to foreign entities.
 
 ## Conclusion
 

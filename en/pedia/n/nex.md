@@ -1,12 +1,12 @@
 # NEX
 
-NEX, or National [Exchange](../e/exchange.md), refers to a platform that plays a significant role in the trading and [financial markets](../f/financial_market.md) by facilitating the [exchange](../e/exchange.md) of financial instruments such as equities, [derivatives](../d/derivatives.md), currencies, and more. This platform can employ sophisticated technology and advanced algorithms to allow for efficient, fast, and secure transactions. NEX is also associated with providing a fair place for [price discovery](../p/price_discovery.md) and ensuring [market](../m/market.md) [liquidity](../l/liquidity.md). 
+NEX, or National [Exchange](../e/exchange.md), refers to a platform that plays a significant role in the trading and [financial markets](../f/financial_market.md) by facilitating the [exchange](../e/exchange.md) of financial instruments such as equities, [derivatives](../d/derivatives.md), currencies, and more. This platform can employ sophisticated technology and advanced algorithms to allow for efficient, fast, and secure transactions. NEX is also associated with providing a fair place for [price discovery](../p/price_discovery.md) and ensuring [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 ## Overview
 
-NEX platforms are integral to the modern [financial system](../f/financial_system.md) and operate with the primary objective of bringing buyers and sellers together to engage in financial transactions. They can [range](../r/range.md) from traditional stock exchanges to more modern, technologically enhanced trading venues. 
+NEX platforms are integral to the modern [financial system](../f/financial_system.md) and operate with the primary objective of bringing buyers and sellers together to engage in financial transactions. They can [range](../r/range.md) from traditional stock exchanges to more modern, technologically enhanced trading venues.
 
-The platform is crucial for both retail and institutional investors, providing them seamless access to a variety of markets and instruments. By utilizing cutting-edge technology and [robust](../r/robust.md) [infrastructure](../i/infrastructure.md), NEX ensures high performance and reliability, which is vital for the fast-paced environment of trading. 
+The platform is crucial for both retail and institutional investors, providing them seamless access to a variety of markets and instruments. By utilizing cutting-edge technology and [robust](../r/robust.md) [infrastructure](../i/infrastructure.md), NEX ensures high performance and reliability, which is vital for the fast-paced environment of trading.
 
 ## Key Features of NEX Platforms
 
@@ -28,28 +28,28 @@ Compliance with regulatory bodies and adherence to standardized protocols is an 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) plays a crucial role in the operations of NEX platforms. These algorithms can execute orders at superhuman speed and precision, facilitating complex [trading strategies](../t/trading_strategies.md) that would be impossible manually. This feature not only enhances [efficiency](../e/efficiency.md) but also opens doors for innovative [trading strategies](../t/trading_strategies.md).
+[Algorithmic trading](../a/algorithmic_trading.md) plays a crucial role in the operations of NEX platforms. These algorithms can execute orders at superhuman speed and precision, facilitating complex [trading strategies](../t/trading_strategies.md) that would be impossible manually. This feature not only enhances [efficiency](../e/efficiency.md) but also opens doors for innovative [trading strategies](../t/trading_strategies.md).
 
 ## NEX's Role in Algorithmic Trading
 
-NEX platforms are particularly influential in the realm of [algorithmic trading](../a/accountability.md)—a practice where computer algorithms automatically execute trades based on predefined criteria. This requires substantial computational power, sophisticated programming, and a [robust](../r/robust.md) framework to [handle](../h/handle.md) complex algorithms efficiently.
+NEX platforms are particularly influential in the realm of [algorithmic trading](../a/algorithmic_trading.md)—a practice where computer algorithms automatically execute trades based on predefined criteria. This requires substantial computational power, sophisticated programming, and a [robust](../r/robust.md) framework to [handle](../h/handle.md) complex algorithms efficiently.
 
 ### Components of Algorithmic Trading on NEX Platforms
 
 1. **[Trading Algorithms](../t/trading_algorithms.md)**:
-    - **[Market](../m/market.md) Making**: Algorithmic strategies to provide [liquidity](../l/liquidity.md) by quoting [bid and ask](../b/bid_and_ask.md) prices.
-    - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies between related financial instruments.
-    - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using AI and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
+ - **[Market](../m/market.md) Making**: Algorithmic strategies to provide [liquidity](../l/liquidity.md) by quoting [bid and ask](../b/bid_and_ask.md) prices.
+ - **Statistical [Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies between related financial instruments.
+ - **[Sentiment Analysis](../s/sentiment_analysis.md)**: Using AI and [machine learning](../m/machine_learning.md) to gauge [market sentiment](../m/market_sentiment.md) from news articles and [social media](../s/social_media.md).
 
 2. **[Execution Algorithms](../e/execution_algorithms.md)**:
-    - **VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)**: Executes orders based on historical [volume](../v/volume.md) [distribution](../d/distribution.md).
-    - **TWAP (Time [Weighted Average](../w/weighted_average.md) Price)**: [Spreads](../s/spreads.md) the [order](../o/order.md) [execution](../e/execution.md) evenly over a specified time period.
-    - **Iceberg Orders**: Large orders split into smaller visible portions to avoid [market](../m/market.md) impact.
+ - **VWAP ([Volume](../v/volume.md) [Weighted Average](../w/weighted_average.md) Price)**: Executes orders based on historical [volume](../v/volume.md) [distribution](../d/distribution.md).
+ - **TWAP (Time [Weighted Average](../w/weighted_average.md) Price)**: [Spreads](../s/spreads.md) the [order](../o/order.md) [execution](../e/execution.md) evenly over a specified time period.
+ - **Iceberg Orders**: Large orders split into smaller visible portions to avoid [market](../m/market.md) impact.
 
 3. **High-Frequency Trading (HFT)**:
-    - Algorithms that [capitalize](../c/capitalize.md) on minute price inefficiencies, executing thousands of trades in a fraction of a second.
-    - Extremely low latency is crucial for HFT, making NEX's technological [infrastructure](../i/infrastructure.md) highly suitable.
-    
+ - Algorithms that [capitalize](../c/capitalize.md) on minute price inefficiencies, executing thousands of trades in a fraction of a second.
+ - Extremely low latency is crucial for HFT, making NEX's technological [infrastructure](../i/infrastructure.md) highly suitable.
+
 ### Technologies Enabling Algo Trading
 
 - **[Machine Learning](../m/machine_learning.md) and AI**: These are used for [predictive modeling](../p/predictive_modeling.md) and decision-making in [trading strategies](../t/trading_strategies.md).
@@ -59,7 +59,7 @@ NEX platforms are particularly influential in the realm of [algorithmic trading]
 
 ### Risk Management
 
-Effective [risk management](../r/risk_management.md) is critical when employing [algorithmic trading](../a/accountability.md) on NEX platforms. They provide [robust](../r/robust.md) [risk](../r/risk.md) analytics tools to monitor and control the [risk](../r/risk.md) exposure of [automated trading systems](../a/automated_trading_systems.md). This includes:
+Effective [risk management](../r/risk_management.md) is critical when employing [algorithmic trading](../a/algorithmic_trading.md) on NEX platforms. They provide [robust](../r/robust.md) [risk](../r/risk.md) analytics tools to monitor and control the [risk](../r/risk.md) exposure of [automated trading systems](../a/automated_trading_systems.md). This includes:
 
 - **Real-time [Risk](../r/risk.md) Assessment**: Continuous monitoring of [market](../m/market.md) conditions and the performance of [trading algorithms](../t/trading_algorithms.md).
 - **[Predictive Analytics](../p/predictive_analytics.md)**: [Machine learning](../m/machine_learning.md) models predict potential [market](../m/market.md) risks and trigger precautionary measures.
@@ -78,7 +78,7 @@ NEX platforms often collaborate with various financial institutions, technology 
 
 A concrete example of a NEX platform is NEX Group, which was a prominent financial technology company that provided electronic trading platforms and post-[trade](../t/trade.md) services around the globe.
 
-**Link: [NEX Group](https://markets.nex.com)**
+**Link: NEX Group**
 
 NEX Group specialized in [over-the-counter (OTC) markets](../o/over-the-counter_markets.md) and had a broad spectrum of products ranging from [fixed income securities](../f/fixed_income_securities.md) to [foreign exchange](../f/foreign_exchange.md) (FX). The Group's innovative platforms provided cutting-edge technology to facilitate efficient trading and [post-trade processing](../p/post-trade_processing.md).
 
@@ -86,8 +86,8 @@ NEX Group specialized in [over-the-counter (OTC) markets](../o/over-the-counter_
 
 In 2018, NEX Group was acquired by CME Group, a leading global [derivatives](../d/derivatives.md) marketplace. This [acquisition](../a/acquisition.md) expanded CME Group's offerings and solidified its position in the electronic trading space. This [merger](../m/merger.md) integrated NEX's expertise in OTC trading with CME's [futures](../f/futures.md) and [options](../o/options.md) markets, leading to a more comprehensive trading solution.
 
-**Link: [CME Group](https://www.cmegroup.com)**
+**Link: CME Group**
 
 ## Summary
 
-NEX platforms are a cornerstone of modern trading, providing sophisticated technology and [infrastructure](../i/infrastructure.md) to facilitate seamless transactions across various [financial markets](../f/financial_market.md). Their role in [algorithmic trading](../a/accountability.md) is particularly significant, empowering traders with advanced tools to execute complex strategies with [efficiency](../e/efficiency.md) and precision. As the financial landscape continues to evolve, NEX platforms remain at the forefront, driving innovation and [efficiency](../e/efficiency.md) in the trading world.
+NEX platforms are a cornerstone of modern trading, providing sophisticated technology and [infrastructure](../i/infrastructure.md) to facilitate seamless transactions across various [financial markets](../f/financial_market.md). Their role in [algorithmic trading](../a/algorithmic_trading.md) is particularly significant, empowering traders with advanced tools to execute complex strategies with [efficiency](../e/efficiency.md) and precision. As the financial landscape continues to evolve, NEX platforms remain at the forefront, driving innovation and [efficiency](../e/efficiency.md) in the trading world.

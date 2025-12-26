@@ -64,20 +64,17 @@ Regulators have expressed concerns about the systemic risks posed by black box t
 
 Renaissance Technologies is one of the most famous names in the world of black box trading. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to analyze and execute trades.
 
-[AQR Capital Management](https://www.aqr.com/)
 
 ### Two Sigma Investments
 
 Two Sigma Investments combines data analysis, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and advanced technology to make trading decisions. They are one of the leading firms in [quantitative trading](../q/quantitative_trading.md).
 
-[Two Sigma Investments](https://www.twosigma.com/)
 
 ### Citadel Securities
 
 Citadel Securities is a global [market maker](../m/market_maker.md) and one of the largest participants in various [financial markets](../f/financial_market.md). They [leverage](../l/leverage.md) highly advanced technology and [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Conclusion
 
-Black Box Trading represents a significant evolution in the realm of financial trading, leveraging technology and advanced algorithms to execute trades with minimal human input. While it offers numerous benefits such as speed, [efficiency](../e/efficiency.md), and emotionless trading, it also poses challenges in terms of [transparency](../t/transparency.md), [risk management](../r/risk_management.md), and regulatory oversight. As technology continues to advance, the role and influence of black box [trading systems](../t/trading_systems.md) in [financial markets](../f/financial_market.md) are likely to grow, making it a critical area for ongoing research and regulatory focus.
+Black Box Trading represents a significant evolution in the realm of financial trading, leveraging technology and advanced algorithms to execute trades with minimal human input. While it offers numerous benefits such as speed, [efficiency](../e/efficiency.md), and emotionless trading, it also poses challenges in terms of [transparency](../t/transparency.md), [risk management](../r/risk_management.md), and regulatory oversight. As technology continues to advance, the role and influence of black box [trading systems](../t/trading_systems.md) in [financial markets](../f/financial_market.md) are likely to grow, making it a critical area for ongoing research and regulatory focus.

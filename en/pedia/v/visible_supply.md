@@ -1,6 +1,6 @@
 # Visible Supply
 
-Visible [supply](../s/supply.md) is a key term in the [bond market](../b/bond_market.md), particularly within the [municipal bonds](../m/municipal_bonds.md) sector. It refers to the total dollar amount of [municipal bonds](../m/municipal_bonds.md) that are expected to be brought to [market](../m/market.md) within a specific time frame, usually 30 days. The term "visible" is used because this [supply](../s/supply.md) is actively disclosed to the [market](../m/market.md) and can be tracked by [market](../m/market.md) participants. A comprehensive understanding of visible [supply](../s/supply.md) is crucial for traders, investors, and financial analysts as it provides valuable insights into [market](../m/market.md) trends, [liquidity](../l/liquidity.md), and potential pricing shifts. 
+Visible [supply](../s/supply.md) is a key term in the [bond market](../b/bond_market.md), particularly within the [municipal bonds](../m/municipal_bonds.md) sector. It refers to the total dollar amount of [municipal bonds](../m/municipal_bonds.md) that are expected to be brought to [market](../m/market.md) within a specific time frame, usually 30 days. The term "visible" is used because this [supply](../s/supply.md) is actively disclosed to the [market](../m/market.md) and can be tracked by [market](../m/market.md) participants. A comprehensive understanding of visible [supply](../s/supply.md) is crucial for traders, investors, and financial analysts as it provides valuable insights into [market](../m/market.md) trends, [liquidity](../l/liquidity.md), and potential pricing shifts.
 
 ## Components of Visible Supply
 
@@ -31,16 +31,16 @@ For institutional investors like mutual funds, [insurance](../i/insurance.md) co
 
 Several financial news agencies and analyst firms publish data on visible [supply](../s/supply.md). These include:
 
-- **The [Bond](../b/bond.md) Buyer's "30-Day Visible [Supply](../s/supply.md)":** This is a widely respected source that publishes the total dollar amount of [municipal bonds](../m/municipal_bonds.md) scheduled to come to [market](../m/market.md) within 30 days. [Link to The Bond Buyer](https://www.bondbuyer.com/)
-- **[Bloomberg](../b/bloomberg.md)**: Offers a variety of financial data services that include information on visible [supply](../s/supply.md). [Link to Bloomberg](https://www.bloomberg.com/)
-- **Thomson [Reuters](../r/reuters.md)**: Also provides comprehensive data on [municipal bond](../m/municipal_bond.md) markets, including visible [supply](../s/supply.md). [Link to Thomson Reuters](https://www.thomsonreuters.com/)
+- **The [Bond](../b/bond.md) Buyer's "30-Day Visible [Supply](../s/supply.md)":** This is a widely respected source that publishes the total dollar amount of [municipal bonds](../m/municipal_bonds.md) scheduled to come to [market](../m/market.md) within 30 days. Link to The Bond Buyer
+- **[Bloomberg](../b/bloomberg.md)**: Offers a variety of financial data services that include information on visible [supply](../s/supply.md). Link to Bloomberg
+- **Thomson [Reuters](../r/reuters.md)**: Also provides comprehensive data on [municipal bond](../m/municipal_bond.md) markets, including visible [supply](../s/supply.md). Link to Thomson Reuters
 
 ### Technological Tools
 
 With the rise of fintech, various platforms and tools have emerged to help traders and analysts monitor visible [supply](../s/supply.md):
 
-- **Financial Information [eXchange](../e/exchange.md) (FIX) Protocol**: An [industry](../i/industry.md)-driven messaging standard. FIX enables real-time [exchange](../e/exchange.md) of information, including visible [supply](../s/supply.md) data, among financial institutions. 
-- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**: Platforms such as [QuantConnect](../q/quantconnect.md) or [Alpaca](../a/alpaca.md) provide tools to integrate visible [supply](../s/supply.md) data into [trading algorithms](../t/trading_algorithms.md). [Link to QuantConnect](https://www.quantconnect.com/), [Link to Alpaca](https://alpaca.markets/)
+- **Financial Information [eXchange](../e/exchange.md) (FIX) Protocol**: An [industry](../i/industry.md)-driven messaging standard. FIX enables real-time [exchange](../e/exchange.md) of information, including visible [supply](../s/supply.md) data, among financial institutions.
+- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**: Platforms such as [QuantConnect](../q/quantconnect.md) or [Alpaca](../a/alpaca.md) provide tools to integrate visible [supply](../s/supply.md) data into [trading algorithms](../t/trading_algorithms.md). Link to QuantConnect, Link to Alpaca
 
 ## Case Studies
 

@@ -80,7 +80,7 @@ print(middle_band, upper_band, lower_band)  # Bands output
 ## 4. Moving Average Convergence Divergence (MACD)
 
 The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of prices. It comprises the MACD line, the signal line, and the [histogram](../h/histogram.md).
-  
+
 - **MACD Line**: Difference between the 12-day EMA and the 26-day EMA
 - **Signal Line**: 9-day EMA of the MACD Line
 - **[Histogram](../h/histogram.md)**: Difference between the MACD Line and the Signal Line
@@ -108,7 +108,7 @@ print(macd, signal, [histogram](../h/histogram.md))  # MACD output
 
 ## 5. Stochastic Oscillator
 
-The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular closing price of a [security](../s/security.md) to its price [range](../r/range.md) over a specified period. 
+The [Stochastic Oscillator](../s/stochastic_oscillator.md) compares a particular closing price of a [security](../s/security.md) to its price [range](../r/range.md) over a specified period.
 
 - **%K Line**: The main line
 - **%D Line**: 3-day SMA of %K line

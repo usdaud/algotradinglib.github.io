@@ -24,7 +24,7 @@ Several types of treaty [reinsurance](../r/reinsurance.md) arrangements exist, e
 Proportional [reinsurance](../r/reinsurance.md) agreements require the ceding company and the reinsurer to share premiums and losses in a pre-agreed ratio. There are two main types of proportional treaty [reinsurance](../r/reinsurance.md):
 
 - **[Quota Share Treaty](../q/quota_share_treaty.md)**: The ceding company and the reinsurer share risks and premiums in a fixed percentage. For instance, if the ceding percentage is 60%, the ceding company retains 40% of the premiums and liabilities while the reinsurer assumes 60%.
-  
+
 - **[Surplus](../s/surplus.md) Share Treaty**: Here, the ceding company retains a specific amount of [risk](../r/risk.md) per policy, known as the ceding company’s "retention limit." The reinsurer assumes the remaining [risk](../r/risk.md) for any policy exceeding this retention limit up to specified levels.
 
 ### Non-Proportional Treaty Reinsurance
@@ -86,10 +86,10 @@ Evolving risks such as climate change, cyber threats, and pandemics pose new cha
 
 Several prominent companies specializing in treaty [reinsurance](../r/reinsurance.md) include:
 
-- **Munich Re**: One of the world's largest [reinsurance](../r/reinsurance.md) companies, [offering](../o/offering.md) a broad array of treaty [reinsurance](../r/reinsurance.md) solutions. [Visit Munich Re](https://www.munichre.com)
-- **Swiss Re**: Known for its global reach and comprehensive [risk management](../r/risk_management.md) services, Swiss Re is a leader in the [reinsurance](../r/reinsurance.md) sector. [Visit Swiss Re](https://www.swissre.com/)
-- **Hannover Re**: A major player in the [reinsurance](../r/reinsurance.md) [market](../m/market.md), Hannover Re provides innovative [reinsurance](../r/reinsurance.md) solutions on a global scale. [Visit Hannover Re](https://www.hannover-re.com/)
-- **SCOR**: Specializes in treaty [reinsurance](../r/reinsurance.md) with a focus on delivering tailored solutions to manage complex risks. [Visit SCOR](https://www.scor.com)
+- **Munich Re**: One of the world's largest [reinsurance](../r/reinsurance.md) companies, [offering](../o/offering.md) a broad array of treaty [reinsurance](../r/reinsurance.md) solutions. Visit Munich Re
+- **Swiss Re**: Known for its global reach and comprehensive [risk management](../r/risk_management.md) services, Swiss Re is a leader in the [reinsurance](../r/reinsurance.md) sector. Visit Swiss Re
+- **Hannover Re**: A major player in the [reinsurance](../r/reinsurance.md) [market](../m/market.md), Hannover Re provides innovative [reinsurance](../r/reinsurance.md) solutions on a global scale. Visit Hannover Re
+- **SCOR**: Specializes in treaty [reinsurance](../r/reinsurance.md) with a focus on delivering tailored solutions to manage complex risks. Visit SCOR
 
 ## Conclusion
 

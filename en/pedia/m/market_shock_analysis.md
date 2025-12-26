@@ -32,9 +32,9 @@ This involves creating hypothetical scenarios based on potential [market](../m/m
 
 #### Risk Management Software
 Various advanced [software tools](../s/software_tools_for_trading.md) are used to perform [market](../m/market.md) shock analysis, such as:
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial professionals to monitor and analyze financial data, perform [scenario analysis](../s/scenario_analysis.md), and manage [risk](../r/risk.md). [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [financial analysis](../f/financial_analysis.md) tools and content for [market](../m/market.md) researchers, including [stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) capabilities. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **RiskMetrics**: A widely used [risk management](../r/risk_management.md) and analysis tool by MSCI that provides VaR calculations and [stress testing](../s/stress_testing_in_trading.md). [MSCI RiskMetrics](https://www.msci.com/riskmetrics)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive tools for financial professionals to monitor and analyze financial data, perform [scenario analysis](../s/scenario_analysis.md), and manage [risk](../r/risk.md). Bloomberg Terminal
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers [financial analysis](../f/financial_analysis.md) tools and content for [market](../m/market.md) researchers, including [stress testing](../s/stress_testing_in_trading.md) and [scenario analysis](../s/scenario_analysis.md) capabilities. Thomson Reuters Eikon
+- **RiskMetrics**: A widely used [risk management](../r/risk_management.md) and analysis tool by MSCI that provides VaR calculations and [stress testing](../s/stress_testing_in_trading.md). MSCI RiskMetrics
 
 #### Quantitative Models
 Several [quantitative models](../q/quantitative_models.md) are employed to simulate and analyze [market](../m/market.md) shocks:

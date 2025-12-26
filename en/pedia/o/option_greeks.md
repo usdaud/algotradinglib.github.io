@@ -3,10 +3,10 @@
 In the world of [options](../o/options.md) trading, one key concept that traders must grasp is the "Option [Greeks](../g/greeks.md)." The [Greeks](../g/greeks.md) are a collection of [risk measures](../r/risk_measures.md) that describe how the price of an option changes in response to various factors. Understanding these metrics is crucial for effective [options](../o/options.md) trading and [risk management](../r/risk_management.md). The main [Greeks](../g/greeks.md) are [Delta](../d/delta.md), [Gamma](../g/gamma.md), [Theta](../t/theta.md), [Vega](../v/vega.md), and [Rho](../r/rho.md). Each of these provides insight into different aspects of an option's [risk](../r/risk.md) and potential profitability.
 
 #### Delta (Δ)
-[Delta](../d/delta.md) measures the sensitivity of an option's price to changes in the price of the [underlying asset](../u/underlying_asset.md). It represents the change in the option's price for a $1 move in the [underlying asset](../u/underlying_asset.md)'s price. 
+[Delta](../d/delta.md) measures the sensitivity of an option's price to changes in the price of the [underlying asset](../u/underlying_asset.md). It represents the change in the option's price for a $1 move in the [underlying asset](../u/underlying_asset.md)'s price.
 - For call [options](../o/options.md), [Delta](../d/delta.md) ranges from 0 to 1.
 - For [put options](../p/put_options.md), [Delta](../d/delta.md) ranges from -1 to 0.
-  
+
 A [Delta](../d/delta.md) close to 1 (or -1) indicates a deep in-the-[money](../m/money.md) option, while a [Delta](../d/delta.md) close to 0 indicates a deep out-of-the-[money](../m/money.md) option. A [Delta](../d/delta.md) of 0.5 suggests an at-the-[money](../m/money.md) option.
 
 **Practical Example:**

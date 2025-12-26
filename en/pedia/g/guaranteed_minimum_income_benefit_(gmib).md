@@ -13,9 +13,9 @@ The GMIB [rider](../r/rider.md) guarantees a minimum level of [income](../i/inco
 ### Rider Specifications
 
 1. **Guaranteed [Income](../i/income.md) Base**: The GMIB guarantees [income](../i/income.md) based on a predetermined [income](../i/income.md) base, which is usually different from the actual [account balance](../a/account_balance.md). This [income](../i/income.md) base can be calculated using various methods, such as:
-   - Initial [premium](../p/premium.md) payments adjusted for a certain rate of [interest](../i/interest.md) annually.
-   - The highest account [value](../v/value.md) on specific contract anniversaries.
-   - A combination of premiums and bonuses outlined in the policy.
+ - Initial [premium](../p/premium.md) payments adjusted for a certain rate of [interest](../i/interest.md) annually.
+ - The highest account [value](../v/value.md) on specific contract anniversaries.
+ - A combination of premiums and bonuses outlined in the policy.
 
 2. **[Waiting Period](../w/waiting_period.md)**: Most GMIB riders come with a [waiting period](../w/waiting_period.md), often ranging from 7 to 10 years, before the [annuitant](../a/annuitant.md) can begin to receive the guaranteed [income](../i/income.md). The purpose of this period is to allow the investments within the annuity time to grow.
 
@@ -81,10 +81,10 @@ Before the [waiting period](../w/waiting_period.md) ends, any withdrawals can si
 
 Many [insurance](../i/insurance.md) companies [offer](../o/offer.md) variable annuities with GMIB riders. Some of the prominent providers and their offerings include:
 
-- [Prudential](https://www.prudential.com/): Offers variable annuities with guaranteed [income](../i/income.md) riders, providing a variety of [options](../o/options.md) tailored to different [risk](../r/risk.md) tolerances and retirement goals.
-- [MetLife](https://www.metlife.com/): Features GMIB riders in its suite of annuities, emphasizing financial strength and [customer](../c/customer.md) support.
-- [AXA Equitable](https://www.equitable.com/): Known for customizable annuity products with [robust](../r/robust.md) guarantees and client education resources.
-- [Allianz](https://www.allianzlife.com/): Offers competitive variable annuities with GMIB riders, focusing on financial [security](../s/security.md) and growth potential.
+- Prudential: Offers variable annuities with guaranteed [income](../i/income.md) riders, providing a variety of [options](../o/options.md) tailored to different [risk](../r/risk.md) tolerances and retirement goals.
+- MetLife: Features GMIB riders in its suite of annuities, emphasizing financial strength and [customer](../c/customer.md) support.
+- AXA Equitable: Known for customizable annuity products with [robust](../r/robust.md) guarantees and client education resources.
+- Allianz: Offers competitive variable annuities with GMIB riders, focusing on financial [security](../s/security.md) and growth potential.
 
 ## Real-world Applications
 

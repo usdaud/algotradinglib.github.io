@@ -29,8 +29,8 @@ These metrics help in benchmarking [execution](../e/execution.md) quality agains
 Trades can be executed across various venues, and the choice of venue can significantly impact [execution](../e/execution.md) quality. Common [execution](../e/execution.md) venues include:
 
 - **Stock Exchanges**: Centralized markets where securities are bought and sold. Examples include the NYSE, [NASDAQ](../n/nasdaq.md), and LSE.
-- **[Dark Pools](../d/dark_pools.md)**: Private financial forums or exchanges for trading securities that provide anonymity and minimize [market](../m/market.md) impact. Examples include ITG POSIT (https://www.itg.com/solutions/trading/posit/) and Liquidnet (https://www.liquidnet.com/).
-- **Alternative [Trading Systems](../t/trading_systems.md) (ATS)**: Non-[exchange](../e/exchange.md) trading venues that match buyers and sellers. Examples include BATS Global Markets (https://www.cboe.com/us/equities/market_statistics/market_quality/) and Instinet (https://www.nomuraholdings.com/company/group/instinet/).
+- **[Dark Pools](../d/dark_pools.md)**: Private financial forums or exchanges for trading securities that provide anonymity and minimize [market](../m/market.md) impact. Examples include ITG POSIT ( and Liquidnet (
+- **Alternative [Trading Systems](../t/trading_systems.md) (ATS)**: Non-[exchange](../e/exchange.md) trading venues that match buyers and sellers. Examples include BATS Global Markets ( and Instinet (
 
 ## 4. Methods of Analysis
 
@@ -47,7 +47,7 @@ Trades can be executed across various venues, and the choice of venue can signif
 Modern technology plays a crucial role in [execution](../e/execution.md) quality analysis. Key tools and technologies include:
 
 - **Algo Trading Platforms**: Advanced [algorithmic trading](../a/algorithmic_trading.md) platforms provide built-in analytics for monitoring and evaluating [execution](../e/execution.md) quality.
-- **Analytics Software**: Specialized software such as [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) (https://www.[bloomberg](../b/bloomberg.md).com/professional/product/[transaction](../t/transaction.md)-cost-analysis/) and Abel Noser Solutions (https://www.abelnoser.com/) [offer](../o/offer.md) comprehensive TCA solutions.
+- **Analytics Software**: Specialized software such as [Bloomberg](../b/bloomberg.md) [Transaction Cost Analysis](../t/transaction_cost_analysis.md) (BTCA) ( and Abel Noser Solutions ( [offer](../o/offer.md) comprehensive TCA solutions.
 - **[Machine Learning](../m/machine_learning.md)**: Utilizing machine [learning algorithms](../l/learning_algorithms_in_trading.md) to predict [market](../m/market.md) movements, optimize [trade](../t/trade.md) [execution](../e/execution.md), and reduce [slippage](../s/slippage.md) and [market](../m/market.md) impact.
 - **[Data Analytics](../d/data_analytics.md)**: [Big data analytics](../b/big_data_analytics_in_trading.md) help in analyzing large volumes of [trade](../t/trade.md) data to identify patterns, trends, and anomalies that can impact [execution](../e/execution.md) quality.
 

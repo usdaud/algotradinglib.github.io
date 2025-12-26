@@ -58,7 +58,7 @@ The final step involves compiling a report that presents the consensus opinion o
 
 ## Challenges and Criticisms
 
-Despite its advantages, the Delphi Method faces several criticisms and challenges. 
+Despite its advantages, the Delphi Method faces several criticisms and challenges.
 
 ### Time-Consuming Process
 
@@ -87,7 +87,6 @@ One modern adaptation is the Real-Time Delphi, which leverages digital platforms
 There are several online platforms and software solutions designed to facilitate the Delphi Method, [offering](../o/offering.md) tools to streamline questionnaire [distribution](../d/distribution.md), data collection, and analysis. These platforms help in managing the logistical complexities and enhancing the [efficiency](../e/efficiency.md) of the process.
 
 #### Example:
-Delphi Decision Aid [Delphi Decision Aid](https://www.delftacademicpress.com/book/delphi-decision-aid)
 
 ## Conclusion
 

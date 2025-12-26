@@ -4,7 +4,7 @@ A put [warrant](../w/warrant.md) is a type of [financial instrument](../f/financ
 
 #### 1. **Protective Put Warrant (Portfolio Insurance)**
 
-A [protective put](../p/protective_put.md), also known as [portfolio insurance](../p/portfolio_insurance.md), involves purchasing a put [warrant](../w/warrant.md) to protect against potential declines in the [value](../v/value.md) of a stock or an entire portfolio. This strategy is akin to buying an [insurance](../i/insurance.md) policy against losses. 
+A [protective put](../p/protective_put.md), also known as [portfolio insurance](../p/portfolio_insurance.md), involves purchasing a put [warrant](../w/warrant.md) to protect against potential declines in the [value](../v/value.md) of a stock or an entire portfolio. This strategy is akin to buying an [insurance](../i/insurance.md) policy against losses.
 
 - **Scenario**: Assume you own 100 [shares](../s/shares.md) of Company XYZ, currently trading at $50 per share, and you are concerned about a potential decline in the stock price. You purchase a put [warrant](../w/warrant.md) with a [strike price](../s/strike_price.md) of $50, expiring in six months for a [premium](../p/premium.md) of $2 per [warrant](../w/warrant.md).
 - **Outcome**: If the stock price drops to $40, the put [warrant](../w/warrant.md) allows you to sell your [shares](../s/shares.md) at $50, thereby limiting your losses. The cost of the [premium](../p/premium.md) ($200 for 100 [shares](../s/shares.md)) is the price paid for this protection.
@@ -57,7 +57,7 @@ Put [warrants](../w/warrants_in_trading.md) [offer](../o/offer.md) versatile str
 
 For further exploration of put [warrants](../w/warrants_in_trading.md) and other [derivative strategies](../d/derivative_strategies.md), you may consider visiting the following financial institutions known for [offering](../o/offering.md) structured products and [warrants](../w/warrants_in_trading.md):
 
-- [Credit Suisse](https://www.credit-suisse.com)
-- [Goldman Sachs](https://www.goldmansachs.com)
-- [UBS](https://www.ubs.com)
-- [J.P. Morgan](https://www.jpmorgan.com)
+- Credit Suisse
+- Goldman Sachs
+- UBS
+- J.P. Morgan

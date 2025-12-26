@@ -5,9 +5,9 @@ An exit strategy is a crucial component of [algorithmic trading](../a/accountabi
 ## Importance of Exit Strategies in Algo Trading
 
 1. **[Risk Management](../r/risk_management.md)**: Effective exit strategies protect against significant losses by defining clear conditions under which positions should be closed. This helps in managing the [risk](../r/risk.md) and preserving [capital](../c/capital.md).
-   
+
 2. **Psychological Relief**: Predefined exit criteria can remove emotional biases from trading decisions, leading to more disciplined and objective trading.
-   
+
 3. **Performance [Optimization](../o/optimization.md)**: Exit strategies optimize [trade](../t/trade.md) performance by ensuring that profits are captured and losses are cut at appropriate times.
 
 ## Types of Exit Strategies
@@ -19,7 +19,7 @@ Exit strategies in [algorithmic trading](../a/accountability.md) can be broadly 
 These strategies are designed to close positions when a certain [profit](../p/profit.md) level is achieved. Some common methods include:
 
 - **Fixed Target Exit**: The position is closed when the price reaches a predefined target level.
-  
+
 - **[Trailing Stop](../t/trailing_stop.md) Exit**: The stop loss level moves upward (for long positions) or downward (for short positions) with the price, capturing profits while allowing for some fluctuation.
 
 - **[Parabolic SAR](../p/parabolic_sar.md) Exit**: Based on the [Parabolic SAR](../p/parabolic_sar.md) [indicator](../i/indicator.md), positions are closed when the [trend reversal](../t/trend_reversal.md) is indicated.
@@ -29,7 +29,7 @@ These strategies are designed to close positions when a certain [profit](../p/pr
 Stop-loss strategies are meant to limit losses by closing positions when the price moves adversely. Common methods are:
 
 - **Percentage-Based Stop-loss**: Positions are closed when the price moves by a certain percentage against the position.
-  
+
 - **ATR-Based Stop-loss**: The stop loss is set using the [Average True Range](../a/average_true_range_(atr).md) [indicator](../i/indicator.md), providing a [volatility](../v/volatility.md)-adjusted exit point.
 
 - **Time-Based Stop-loss**: Positions are closed after a predetermined time period, regardless of the price movement.
@@ -49,7 +49,7 @@ Stop-loss strategies are meant to limit losses by closing positions when the pri
 [Reversal](../r/reversal.md) strategies close positions based on indicators or conditions signaling a potential [trend reversal](../t/trend_reversal.md). Examples include:
 
 - **Moving Average Crossover**: Exiting a position when a short-term moving average crosses a long-term moving average indicating a [trend reversal](../t/trend_reversal.md).
-  
+
 - **RSI Exit**: Using the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI) to exit positions when the RSI indicates [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 ### 5. **Composite Strategies**
@@ -96,8 +96,8 @@ Once [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md)
 ## Popular Exit Strategy Tools and Platforms
 
 1. **MetaTrader 4/5**: A widely used [trading platform](../t/trading_platform.md) that supports custom indicators and automated trading through Expert Advisors (EAs).
-  
-2. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/accountability.md) platform that provides tools for designing, coding, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
+
+2. **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/accountability.md) platform that provides tools for designing, coding, [backtesting](../b/backtesting.md), and deploying [trading strategies](../t/trading_strategies.md).
 
 3. **[TradeStation](../t/tradestation.md)**: Offers a [robust](../r/robust.md) platform with extensive [backtesting](../b/backtesting.md) capabilities, real-time data, and custom strategy programming.
 

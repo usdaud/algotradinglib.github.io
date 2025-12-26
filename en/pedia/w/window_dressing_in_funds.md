@@ -20,7 +20,7 @@ Several techniques are commonly employed in [Window Dressing](../w/window_dressi
 - **Buying Winners:** Simultaneously, they may purchase [stocks](../s/stock.md) that have shown strong performance to show that their portfolio is comprised of "winners."
 - **[Sector Rotation](../s/sector_rotation.md):** Managers might also temporarily shift investments into sectors that are currently performing well, even if these sectors do not align with the [fund](../f/fund.md)’s long-term strategy.
 - **Cash Manipulation:** Sometimes, cash [holdings](../h/holdings.md) are adjusted to reflect a more favorable [asset allocation](../a/asset_allocation.md).
-  
+
 ## Impact on Investors
 
 ### Misleading Performance Metrics
@@ -54,7 +54,7 @@ Different countries have different regulations about [disclosure](../d/disclosur
 ### Case Studies
 
 - **[Mutual Fund](../m/mutual_fund.md) A:** In a year-end report, it was discovered that a leading [mutual fund](../m/mutual_fund.md) had sold off its lagging stock positions and purchased high-performing tech [stocks](../s/stock.md) just days before the reporting period ended. While initially, this boosted [investor](../i/investor.md) confidence, subsequent reviews and [performance metrics](../p/performance_metrics.md) showed a decline in returns due to the lack of alignment with the [fund](../f/fund.md)’s long-term strategy.
-  
+
 - **Pension [Fund](../f/fund.md) B:** A pension [fund](../f/fund.md) engaged in [Window Dressing](../w/window_dressing.md) by reallocating assets to government bonds and blue-chip [stocks](../s/stock.md) that had experienced recent gains. This reallocation inflated the [fund](../f/fund.md)’s [performance metrics](../p/performance_metrics.md), but when the actual [holdings](../h/holdings.md) were disclosed, it led to a significant loss of [investor](../i/investor.md) [trust](../t/trust.md) and eventual regulatory scrutiny.
 
 ## Ethical Considerations
@@ -91,6 +91,5 @@ Educating investors about the risks and signs of [Window Dressing](../w/window_d
 
 ## References
 
-- SEC’s Rules and Regulations: [SEC's Official Website](https://www.sec.gov)
-- European [Fund](../f/fund.md) and [Asset Management](../a/asset_management.md) Association (EFAMA): [EFAMA Official Website](https://www.efama.org)
-
+- SEC’s Rules and Regulations: SEC's
+- European [Fund](../f/fund.md) and [Asset Management](../a/asset_management.md) Association (EFAMA):

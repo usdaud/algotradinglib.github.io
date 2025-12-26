@@ -162,23 +162,19 @@ Longitudinal studies can involve:
 
 The luxury automotive [industry](../i/industry.md) serves as a classic example of goods with high positive [income](../i/income.md) [elasticity](../e/elasticity.md) of [demand](../d/demand.md). Companies like Ferrari, Lamborghini, and Rolls Royce see significant increases in sales correlating with economic upturns and higher consumer incomes.
 
-Website: [Ferrari](https://www.ferrari.com/)  
-Website: [Lamborghini](https://www.lamborghini.com/)  
-Website: [Rolls Royce](https://www.rolls-roycemotorcars.com/)
+online platform
 
 ### Case Study: Fast Food vs. Organic Food
 
 Fast food is often considered an inferior good in developed countries, where [demand](../d/demand.md) decreases as consumers’ incomes increase and they shift towards healthier, [premium](../p/premium.md) dining [options](../o/options.md) such as organic food, which are considered luxury goods.
 
-Website: [McDonald's](https://www.mcdonalds.com/)  
-Website: [Whole Foods Market](https://www.wholefoodsmarket.com/)
+online platform
 
 ### Case Study: The Tech Industry
 
 The tech [industry](../i/industry.md) provides interesting insights into [income](../i/income.md) [elasticity](../e/elasticity.md). While basic tech products like [budget](../b/budget.md) smartphones and laptops have lower [income](../i/income.md) [elasticity](../e/elasticity.md), high-end gadgets such as the latest iPhone or gaming laptops exhibit higher [elasticity](../e/elasticity.md).
 
-Website: [Apple](https://www.apple.com/)  
-Website: [Dell](https://www.dell.com/)
+online platform
 
 ## Conclusion
 

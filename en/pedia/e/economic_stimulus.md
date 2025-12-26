@@ -8,14 +8,14 @@ There are two primary types of economic stimulus: [fiscal policy](../f/fiscal_po
 
 ### Fiscal Policy
 
-[Fiscal policy](../f/fiscal_policy.md) involves adjustments in government spending and [taxation](../t/taxation.md). By directly influencing the amount of [money](../m/money.md) in the [economy](../e/economy.md), [fiscal policy](../f/fiscal_policy.md) can stimulate [economic growth](../e/economic_growth.md). 
+[Fiscal policy](../f/fiscal_policy.md) involves adjustments in government spending and [taxation](../t/taxation.md). By directly influencing the amount of [money](../m/money.md) in the [economy](../e/economy.md), [fiscal policy](../f/fiscal_policy.md) can stimulate [economic growth](../e/economic_growth.md).
 
 #### Government Spending
 
 Government spending can take many forms such as [infrastructure](../i/infrastructure.md) projects, public services, and direct financial support to individuals or businesses. For instance, building roads, bridges, and schools creates jobs and injects [money](../m/money.md) into the [economy](../e/economy.md), promoting further spending.
 
-- **[Infrastructure](../i/infrastructure.md) Development**: [Investing](../i/investing.md) in [infrastructure](../i/infrastructure.md) projects can improve long-term [economic efficiency](../e/economic_efficiency.md) and job creation. An example is the 2009 American Recovery and [Reinvestment](../r/reinvestment.md) Act, which allocated approximately $831 billion to various sectors including [infrastructure](../i/infrastructure.md) (source: [US Government website](https://www.recovery.gov/)).
-  
+- **[Infrastructure](../i/infrastructure.md) Development**: [Investing](../i/investing.md) in [infrastructure](../i/infrastructure.md) projects can improve long-term [economic efficiency](../e/economic_efficiency.md) and job creation. An example is the 2009 American Recovery and [Reinvestment](../r/reinvestment.md) Act, which allocated approximately $831 billion to various sectors including [infrastructure](../i/infrastructure.md).
+
 - **Public Services**: Increased spending on health, education, and social services can also provide a short-term economic boost by increasing employment and consumer spending.
 
 - **Direct Financial Support**: Programs such as [unemployment](../u/unemployment.md) benefits, direct cash transfers (stimulus checks), and tax credits (like the [Earned Income](../e/earned_income.md) [Tax Credit](../t/tax_credit.md)) directly boost [purchasing power](../p/purchasing_power.md).
@@ -24,9 +24,9 @@ Government spending can take many forms such as [infrastructure](../i/infrastruc
 
 Adjusting tax policies is another way to implement fiscal stimulus. Lowering [taxes](../t/taxes.md) puts more [money](../m/money.md) in the hands of consumers and businesses, encouraging additional spending and investment.
 
-- **Tax Cuts**: Reducing [income](../i/income.md) or corporate [taxes](../t/taxes.md) can increase [disposable income](../d/disposable_income.md) for individuals and increase [cash flow](../c/cash_flow.md) for businesses, stimulating spending and investment. An example is the 2017 Tax Cuts and Jobs Act in the United States, which significantly reduced [corporate tax](../c/corporate_tax.md) rates (source: [Government Publishing Office](https://www.congress.gov/bill/115th-congress/house-bill/1)).
+- **Tax Cuts**: Reducing [income](../i/income.md) or corporate [taxes](../t/taxes.md) can increase [disposable income](../d/disposable_income.md) for individuals and increase [cash flow](../c/cash_flow.md) for businesses, stimulating spending and investment. An example is the 2017 Tax Cuts and Jobs Act in the United States, which significantly reduced [corporate tax](../c/corporate_tax.md) rates (source: Government Publishing Office).
 
-- **Tax Rebates**: Providing tax rebates can provide immediate financial relief and increase spending. For example, the Economic Stimulus Act of 2008 included tax [rebate](../r/rebate.md) checks to households (source: [IRS.gov](https://www.irs.gov/newsroom/2008-economic-stimulus-payments-information-center)).
+- **Tax Rebates**: Providing tax rebates can provide immediate financial relief and increase spending. For example, the Economic Stimulus Act of 2008 included tax [rebate](../r/rebate.md) checks to households (source: IRS.gov).
 
 ### Monetary Policy
 
@@ -34,24 +34,24 @@ Adjusting tax policies is another way to implement fiscal stimulus. Lowering [ta
 
 #### Interest Rate Adjustments
 
-- **Lowering [Interest](../i/interest.md) Rates**: When central banks reduce [interest](../i/interest.md) rates, borrowing becomes cheaper for individuals and businesses, encouraging spending and investment. A notable example is the Federal Reserve's response to the 2008 [financial crisis](../f/financial_crisis.md), where it significantly slashed [interest](../i/interest.md) rates (source: [Federal Reserve](https://www.federalreserve.gov/)).
+- **Lowering [Interest](../i/interest.md) Rates**: When central banks reduce [interest](../i/interest.md) rates, borrowing becomes cheaper for individuals and businesses, encouraging spending and investment. A notable example is the Federal Reserve's response to the 2008 [financial crisis](../f/financial_crisis.md), where it significantly slashed [interest](../i/interest.md) rates (source: Federal Reserve).
 
-- **Negative [Interest](../i/interest.md) Rates**: In some circumstances, central banks may set [interest](../i/interest.md) rates below zero. This unconventional measure is meant to encourage banks to lend more instead of holding onto [money](../m/money.md). For instance, the European Central [Bank](../b/bank.md) implemented negative rates to tackle economic [stagnation](../s/stagnation.md) (source: [European Central Bank](https://www.ecb.europa.eu/)).
+- **Negative [Interest](../i/interest.md) Rates**: In some circumstances, central banks may set [interest](../i/interest.md) rates below zero. This unconventional measure is meant to encourage banks to lend more instead of holding onto [money](../m/money.md). For instance, the European Central [Bank](../b/bank.md) implemented negative rates to tackle economic [stagnation](../s/stagnation.md) (source: European Central Bank).
 
 #### Quantitative Easing (QE)
 
 [Quantitative Easing](../q/quantitative_easing.md) (QE) involves the central [bank](../b/bank.md) purchasing large amounts of government or other financial securities to inject [liquidity](../l/liquidity.md) into the [economy](../e/economy.md).
 
-- **[Asset](../a/asset.md) Purchases**: During QE programs, central banks buy securities to increase the [money supply](../m/money_supply.md) and lower [interest](../i/interest.md) rates. An example is the QE program by the Federal Reserve in response to the 2008 [financial crisis](../f/financial_crisis.md). The Fed purchased over $3.7 trillion in assets to support the [financial system](../f/financial_system.md) (source: [Federal Reserve](https://www.federalreserve.gov/monetarypolicy/bst_crisisresponse.htm)).
+- **[Asset](../a/asset.md) Purchases**: During QE programs, central banks buy securities to increase the [money supply](../m/money_supply.md) and lower [interest](../i/interest.md) rates. An example is the QE program by the Federal Reserve in response to the 2008 [financial crisis](../f/financial_crisis.md). The Fed purchased over $3.7 trillion in assets to support the [financial system](../f/financial_system.md) (source: Federal Reserve).
 
 ## Mechanisms of Economic Stimulus
 
 Economic stimulus aims to boost economic activity through several mechanisms:
 
 1. **Increase [Aggregate Demand](../a/aggregate_demand.md)**: By increasing [disposable income](../d/disposable_income.md) or lowering borrowing costs, economic stimulus encourages spending, thereby increasing [aggregate demand](../a/aggregate_demand.md).
-   
+
 2. **Job Creation**: Government spending on [infrastructure](../i/infrastructure.md) or public projects creates jobs, which in turn increases [income](../i/income.md) and boosts consumption.
-   
+
 3. **Boost Investment**: Lower [interest](../i/interest.md) rates or favorable tax conditions encourage businesses to invest in [capital](../c/capital.md) and [expansion](../e/expansion.md), further driving [economic growth](../e/economic_growth.md).
 
 ## Examples of Economic Stimulus Programs
@@ -59,26 +59,26 @@ Economic stimulus aims to boost economic activity through several mechanisms:
 ### United States
 
 - **The [New Deal](../n/new_deal.md)**: During the [Great Depression](../g/great_depression.md), President Franklin D. Roosevelt introduced the [New Deal](../n/new_deal.md) programs in the 1930s which included vast public works projects, financial reforms, and regulations to revive the [economy](../e/economy.md).
-  
-- **Economic Stimulus Act of 2008**: Enacted in response to the [Great Recession](../g/great_recession.md), this act provided tax rebates to individuals and incentives for [business](../b/business.md) investment (source: [IRS.gov](https://www.irs.gov/newsroom/2008-economic-stimulus-payments-information-center)).
 
-- **American Recovery and [Reinvestment](../r/reinvestment.md) Act of 2009**: This act followed the 2008 [financial crisis](../f/financial_crisis.md), allocating approximately $831 billion to various programs, including tax incentives, [expansion](../e/expansion.md) of [unemployment](../u/unemployment.md) benefits, and funding for [infrastructure](../i/infrastructure.md) and public services (source: [US Government website](https://www.recovery.gov/)).
+- **Economic Stimulus Act of 2008**: Enacted in response to the [Great Recession](../g/great_recession.md), this act provided tax rebates to individuals and incentives for [business](../b/business.md) investment (source: IRS.gov).
 
-- **Coronavirus Aid, Relief, and Economic [Security](../s/security.md) (CARES) Act**: In response to the COVID-19 pandemic, this act provided around $2.2 trillion in economic relief to individuals, businesses, and public health institutions (source: [US Department of the Treasury](https://home.treasury.gov/policy-issues/cares)).
+- **American Recovery and [Reinvestment](../r/reinvestment.md) Act of 2009**: This act followed the 2008 [financial crisis](../f/financial_crisis.md), allocating approximately $831 billion to various programs, including tax incentives, [expansion](../e/expansion.md) of [unemployment](../u/unemployment.md) benefits, and funding for [infrastructure](../i/infrastructure.md) and public services.
+
+- **Coronavirus Aid, Relief, and Economic [Security](../s/security.md) (CARES) Act**: In response to the COVID-19 pandemic, this act provided around $2.2 trillion in economic relief to individuals, businesses, and public health institutions (source: US Department of the Treasury).
 
 ### Europe
 
 Over the years, various European countries, often coordinated through the [European Union](../e/european_union_(eu).md), have introduced stimulus measures. One significant framework is the European Central [Bank](../b/bank.md)’s [monetary policy](../m/monetary_policy.md) responses, including negative [interest](../i/interest.md) rates and QE.
 
-- **European Central [Bank](../b/bank.md) QE Program**: Since 2015, the ECB has engaged in [asset](../a/asset.md) purchase programs to stimulate the [Eurozone](../e/eurozone.md) [economy](../e/economy.md) and combat [deflation](../d/deflation.md) (source: [European Central Bank](https://www.ecb.europa.eu/)).
+- **European Central [Bank](../b/bank.md) QE Program**: Since 2015, the ECB has engaged in [asset](../a/asset.md) purchase programs to stimulate the [Eurozone](../e/eurozone.md) [economy](../e/economy.md) and combat [deflation](../d/deflation.md) (source: European Central Bank).
 
-- **Next Generation EU [Fund](../f/fund.md)**: A recovery plan initiated in response to the COVID-19 pandemic, providing €750 billion to support the [economic recovery](../e/economic_recovery.md) and digital and green transitions (source: [European Commission](https://ec.europa.eu/info/strategy/recovery-plan-europe_en)).
+- **Next Generation EU [Fund](../f/fund.md)**: A recovery plan initiated in response to the COVID-19 pandemic, providing €750 billion to support the [economic recovery](../e/economic_recovery.md) and digital and green transitions (source: European Commission).
 
 ### Japan
 
 Japan has also implemented various forms of economic stimulus over the years, particularly given its prolonged periods of economic [stagnation](../s/stagnation.md) and deflationary pressures.
 
-- **[Abenomics](../a/abenomics.md)**: Launched by former Prime Minister Shinzo Abe, this economic policy involved monetary easing, fiscal stimulus, and structural reforms to revive the Japanese [economy](../e/economy.md). The [Bank](../b/bank.md) of Japan played a crucial role through aggressive QE and negative [interest](../i/interest.md) rates (source: [Bank of Japan](https://www.boj.or.jp/en/)).
+- **[Abenomics](../a/abenomics.md)**: Launched by former Prime Minister Shinzo Abe, this economic policy involved monetary easing, fiscal stimulus, and structural reforms to revive the Japanese [economy](../e/economy.md). The [Bank](../b/bank.md) of Japan played a crucial role through aggressive QE and negative [interest](../i/interest.md) rates (source: Bank of Japan).
 
 ## Criticisms and Challenges
 

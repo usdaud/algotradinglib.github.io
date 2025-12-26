@@ -84,15 +84,15 @@ Several financial institutions are known for their prudent management practices,
 
 ### 1. **JPMorgan Chase**
 
-JPMorgan Chase, a leading global financial services [firm](../f/firm.md), has a [robust](../r/robust.md) [risk management](../r/risk_management.md) framework that includes maintaining substantial voluntary reserves. This practice helps the [bank](../b/bank.md) to navigate through periods of economic [uncertainty](../u/uncertainty_in_trading.md) and maintain [liquidity](../l/liquidity.md). More details can be found on their [official site](https://www.jpmorganchase.com).
+JPMorgan Chase, a leading global financial services [firm](../f/firm.md), has a [robust](../r/robust.md) [risk management](../r/risk_management.md) framework that includes maintaining substantial voluntary reserves. This practice helps the [bank](../b/bank.md) to navigate through periods of economic [uncertainty](../u/uncertainty_in_trading.md) and maintain [liquidity](../l/liquidity.md).
 
 ### 2. **HSBC**
 
-HSBC, one of the world's largest banking and financial services organizations, maintains significant voluntary reserves as part of its [liquidity](../l/liquidity.md) management strategy. This approach is intended to support financial stability and [customer](../c/customer.md) confidence. More information can be accessed on their [official site](https://www.hsbc.com).
+HSBC, one of the world's largest banking and financial services organizations, maintains significant voluntary reserves as part of its [liquidity](../l/liquidity.md) management strategy. This approach is intended to support financial stability and [customer](../c/customer.md) confidence.
 
 ### 3. **Deutsche Bank**
 
-Deutsche [Bank](../b/bank.md) emphasizes the importance of [liquidity](../l/liquidity.md) and [risk management](../r/risk_management.md), holding voluntary reserves as part of its strategy. This allows the [bank](../b/bank.md) to ensure operational continuity and meet regulatory requirements flexibly. Further details are available on their [official site](https://www.db.com).
+Deutsche [Bank](../b/bank.md) emphasizes the importance of [liquidity](../l/liquidity.md) and [risk management](../r/risk_management.md), holding voluntary reserves as part of its strategy. This allows the [bank](../b/bank.md) to ensure operational continuity and meet regulatory requirements flexibly. Further details are available on their public materials.
 
 ## Conclusion
 

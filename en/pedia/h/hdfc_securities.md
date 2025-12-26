@@ -5,7 +5,7 @@ HDFC Securities is a leading stock broking and [distribution](../d/distribution.
 
 ## Features
 1. **Wide [Range](../r/range.md) of Instruments**: Access to [stocks](../s/stock.md), [derivatives](../d/derivatives.md), mutual funds, IPOs, bonds, and fixed deposits.
-2. **Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms including the HDFC Securities website, ProTerminal, and mobile apps with advanced charting tools and real-time data.
+2. **Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms including the HDFC Securities online platform, ProTerminal, and mobile apps with advanced charting tools and real-time data.
 3. **Investment Advisory**: Provides personalized investment advisory services to help investors build and manage their portfolios.
 4. **Educational Resources**: Comprehensive educational materials including webinars, tutorials, articles, and [market](../m/market.md) analysis to help traders improve their skills.
 5. **Mobile Trading**: Mobile app for iOS and Android devices, allowing trading on the go.
@@ -16,7 +16,7 @@ HDFC Securities is a leading stock broking and [distribution](../d/distribution.
 10. **[Customer](../c/customer.md) Support**: Dedicated [customer](../c/customer.md) support available to assist clients with their trading and investment needs.
 
 ## Key Components
-- **HDFC Securities Website**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
+- **HDFC Securities online platform**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
 - **ProTerminal**: An advanced [trading platform](../t/trading_platform.md) [offering](../o/offering.md) [robust](../r/robust.md) charting tools, [technical analysis](../t/technical_analysis.md), and customizable layouts for active traders.
 - **Mobile App**: Mobile application for trading, account management, and [market research](../m/market_research.md) on the go.
 - **Research and Analysis Tools**: Comprehensive tools for [market research](../m/market_research.md), [stock analysis](../s/stock_analysis.md), and investment insights.
@@ -44,5 +44,3 @@ HDFC Securities is regulated by several top-tier financial authorities in India,
 - Bombay Stock [Exchange](../e/exchange.md) (BSE)
 - National Stock [Exchange](../e/exchange.md) (NSE)
 
-## Website
-For more information and to start trading, visit the official HDFC Securities website: [HDFC Securities](https://www.hdfcsec.com)

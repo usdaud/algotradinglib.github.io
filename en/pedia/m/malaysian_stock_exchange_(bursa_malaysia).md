@@ -60,11 +60,11 @@ Bursa Malaysia's [financial performance](../f/financial_performance.md) can be g
 - **[Market Capitalization](../m/market_capitalization.md)**: Approximately MYR 1.7 trillion (approximately USD 420 billion)
 - **Daily Trading [Volume](../v/volume.md)**: Ranges between MYR 1 billion to MYR 2 billion
 
-For [real-time market data](../r/real-time_market_data.md), Bursa Malaysia provides comprehensive information through its official website [Bursa Malaysia](https://www.bursamalaysia.com).
+For [real-time market data](../r/real-time_market_data.md), Bursa Malaysia provides comprehensive information.
 
 ## Algorithmic Trading at Bursa Malaysia
 
-[Algorithmic trading](../a/accountability.md), commonly known as algo-trading, has gained traction in Bursa Malaysia. Algo-trading involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md). This approach leverages historical data and real-time [market](../m/market.md) information to make trading decisions.
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as algo-trading, has gained traction in Bursa Malaysia. Algo-trading involves using computer algorithms to execute trades at high speed and [volume](../v/volume.md). This approach leverages historical data and real-time [market](../m/market.md) information to make trading decisions.
 
 ### Advantages of Algorithmic Trading
 - **Speed**: Algorithms can execute trades in milliseconds, capitalizing on fleeting [market](../m/market.md) opportunities.
@@ -123,4 +123,4 @@ Bursa Malaysia places a strong emphasis on [investor](../i/investor.md) educatio
 
 ## Conclusion
 
-Bursa Malaysia is a vital component of Malaysia's financial [infrastructure](../i/infrastructure.md), [offering](../o/offering.md) a diverse [range](../r/range.md) of products and services to meet the needs of investors and issuers. With its [robust](../r/robust.md) regulatory framework, advanced trading technology, and commitment to sustainability and [corporate governance](../c/corporate_governance.md), Bursa Malaysia is well-positioned to support the growth and development of Malaysia's [capital markets](../c/capital_markets.md). For more information, visit the official website of Bursa Malaysia: [Bursa Malaysia](https://www.bursamalaysia.com).
+Bursa Malaysia is a vital component of Malaysia's financial [infrastructure](../i/infrastructure.md), [offering](../o/offering.md) a diverse [range](../r/range.md) of products and services to meet the needs of investors and issuers. With its [robust](../r/robust.md) regulatory framework, advanced trading technology, and commitment to sustainability and [corporate governance](../c/corporate_governance.md), Bursa Malaysia is well-positioned to support the growth and development of Malaysia's [capital markets](../c/capital_markets.md).

@@ -80,15 +80,15 @@ Utilizing digital platforms for [marketing](../m/marketing.md), [customer](../c/
 
 ### 1. Apple Inc.
 
-Apple Inc. is renowned for its strong brand [equity](../e/equity.md), driven by innovative products, consistent branding, and a loyal [customer](../c/customer.md) base. The brand conveys quality, innovation, and [premium](../p/premium.md) status, which allows it to command [premium](../p/premium.md) pricing. The company’s website (https://www.apple.com/) reflects its brand values and provides a holistic experience for consumers.
+Apple Inc. is renowned for its strong brand [equity](../e/equity.md), driven by innovative products, consistent branding, and a loyal [customer](../c/customer.md) base. The brand conveys quality, innovation, and [premium](../p/premium.md) status, which allows it to command [premium](../p/premium.md) pricing. The company’s branding reflects its values and provides a holistic experience for consumers.
 
 ### 2. Coca-Cola
 
-Coca-Cola has built substantial brand [equity](../e/equity.md) through effective advertising, global presence, and a strong emotional connection with consumers. The brand’s association with happiness and togetherness is consistently communicated through its campaigns. More information about Coca-Cola’s branding strategies can be found on their site (https://www.coca-colacompany.com/).
+Coca-Cola has built substantial brand [equity](../e/equity.md) through effective advertising, global presence, and a strong emotional connection with consumers. The brand’s association with happiness and togetherness is consistently communicated through its campaigns.
 
 ### 3. Nike
 
-Nike’s brand [equity](../e/equity.md) is fueled by its association with high performance, innovation, and inclusivity. The company’s strong branding, reflected in its memorable tagline “Just Do It” and partnerships with top athletes, has created a powerful sense of identity among consumers. Nike’s website (https://www.nike.com/) showcases its commitment to innovation and brand values.
+Nike’s brand [equity](../e/equity.md) is fueled by its association with high performance, innovation, and inclusivity. The company’s strong branding, reflected in its memorable tagline “Just Do It” and partnerships with top athletes, has created a powerful sense of identity among consumers. This branding showcases its commitment to innovation and brand values.
 
 ## Challenges in Managing Brand Equity
 

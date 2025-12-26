@@ -28,7 +28,7 @@ The October Effect can also be analyzed through the lens of [behavioral economic
 
 - **Availability Heuristic**: Investors may remember significant crashes that occurred in October and generalize these events, making them more salient in their minds.
 - **[Loss Aversion](../l/loss_aversion.md)**: Investors' fear of losses can lead to heightened anxiety during October, leading them to believe it is inherently more risky.
-  
+
 ## Trading Strategies
 
 Despite the lack of empirical evidence, many traders develop strategies to prepare for potential [volatility](../v/volatility.md) in October:
@@ -64,6 +64,6 @@ The October Effect serves as a fascinating case study in [market](../m/market.md
 For further in-depth research on the October Effect, traders and investors should rely on comprehensive data analysis and consider both historical events and current [market](../m/market.md) conditions.
 
 **Additional Resources**
-- [Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis: [October Effect Research](https://www.stlouisfed.org)
+- [Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis: October Effect Research
 
 Please [note](../n/note.md) that these are illustrative links and should be tailored or verified to match actual reputable resources.

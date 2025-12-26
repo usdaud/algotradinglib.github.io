@@ -86,15 +86,15 @@ Singapore is often hailed as a model of free-[market](../m/market.md) success. W
 
 ### Milton Friedman
 
-[Milton Friedman](../m/milton_friedman.md), a leading [economist](../e/economist.md) of the 20th century, was a vocal advocate for free markets. His book “[Capitalism](../c/capitalism.md) and Freedom” and his work at the University of Chicago contributed significantly to public policies that embrace free [market](../m/market.md) principles. [Milton Friedman](https://miltonfriedman.hoover.org)
+[Milton Friedman](../m/milton_friedman.md), a leading [economist](../e/economist.md) of the 20th century, was a vocal advocate for free markets. His book “[Capitalism](../c/capitalism.md) and Freedom” and his work at the University of Chicago contributed significantly to public policies that embrace free [market](../m/market.md) principles. Milton Friedman
 
 ### Ayn Rand
 
-Ayn Rand, through her novels "Atlas Shrugged" and "The Fountainhead," promoted the moral case for [capitalism](../c/capitalism.md) and the free [market](../m/market.md), influencing generations of policymakers and [business](../b/business.md) leaders. [Ayn Rand Institute](https://www.aynrand.org)
+Ayn Rand, through her novels "Atlas Shrugged" and "The Fountainhead," promoted the moral case for [capitalism](../c/capitalism.md) and the free [market](../m/market.md), influencing generations of policymakers and [business](../b/business.md) leaders. Ayn Rand Institute
 
 ### Ludwig von Mises
 
-An Austrian [economist](../e/economist.md), Ludwig von Mises was a prominent figure in the Austrian School of economic thought. His works like "Human Action" laid out a comprehensive defense of free [market](../m/market.md) [economics](../e/economics.md). [Mises Institute](https://mises.org)
+An Austrian [economist](../e/economist.md), Ludwig von Mises was a prominent figure in the Austrian School of economic thought. His works like "Human Action" laid out a comprehensive defense of free [market](../m/market.md) [economics](../e/economics.md). Mises Institute
 
 ## Conclusion
 

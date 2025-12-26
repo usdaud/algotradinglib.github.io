@@ -1,6 +1,6 @@
 # Gemini
 
-Gemini is a cryptocurrency [exchange](../e/exchange.md) and [custodian](../c/custodian.md) that allows customers to buy, sell, and store digital assets such as [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md). It was founded in 2014 by Cameron and Tyler Winklevoss, best known for their involvement in the early development of Facebook and subsequent legal battles over the ownership of the [social media](../s/social_media.md) giant. 
+Gemini is a cryptocurrency [exchange](../e/exchange.md) and [custodian](../c/custodian.md) that allows customers to buy, sell, and store digital assets such as [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md). It was founded in 2014 by Cameron and Tyler Winklevoss, best known for their involvement in the early development of Facebook and subsequent legal battles over the ownership of the [social media](../s/social_media.md) giant.
 
 Headquartered in New York City, Gemini aims to build a bridge between the traditional [financial system](../f/financial_system.md) and the new, emerging world of cryptocurrency. It is known for its rigorous regulatory compliance and focus on [security](../s/security.md), making it appealing to both individual and institutional investors.
 
@@ -67,7 +67,7 @@ Targeted at professional traders, the ActiveTrader platform offers more sophisti
 
 ## Institutional Services
 
-Gemini recognizes the growing [demand](../d/demand.md) for institutional-grade services in the cryptocurrency space and offers several solutions tailored specifically for institutional clients. 
+Gemini recognizes the growing [demand](../d/demand.md) for institutional-grade services in the cryptocurrency space and offers several solutions tailored specifically for institutional clients.
 
 ### Tailored Services
 
@@ -115,6 +115,5 @@ Gemini is continuously innovating, with future plans including expanding into ne
 
 ## Conclusion
 
-Gemini has established itself as a leading cryptocurrency [exchange](../e/exchange.md) with a strong focus on [security](../s/security.md), regulatory compliance, and [customer](../c/customer.md) experience. With a diverse [range](../r/range.md) of products and continuous innovation, Gemini aims to bridge the gap between traditional [finance](../f/finance.md) and the emerging world of digital assets. The company's commitment to [transparency](../t/transparency.md) and [security](../s/security.md) makes it a trusted platform for both individual and institutional investors. 
+Gemini has established itself as a leading cryptocurrency [exchange](../e/exchange.md) with a strong focus on [security](../s/security.md), regulatory compliance, and [customer](../c/customer.md) experience. With a diverse [range](../r/range.md) of products and continuous innovation, Gemini aims to bridge the gap between traditional [finance](../f/finance.md) and the emerging world of digital assets. The company's commitment to [transparency](../t/transparency.md) and [security](../s/security.md) makes it a trusted platform for both individual and institutional investors.
 
-For more information about Gemini and its services, you can visit their [official website](https://www.gemini.com/).

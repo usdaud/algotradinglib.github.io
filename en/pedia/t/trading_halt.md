@@ -48,7 +48,7 @@ Following the [Brexit](../b/brexit.md) referendum on June 23, 2016, there was ex
 
 ## How Trading Halts Affect Algorithms
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) systems often have built-in mechanisms to [handle](../h/handle.md) trading halts. These systems can be programmed to pause operations or adjust strategies in response to a halt. However, unexpected halts can still pose challenges, such as [rebalancing](../r/rebalancing.md) portfolios or managing [risk](../r/risk.md) during the pause.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often have built-in mechanisms to [handle](../h/handle.md) trading halts. These systems can be programmed to pause operations or adjust strategies in response to a halt. However, unexpected halts can still pose challenges, such as [rebalancing](../r/rebalancing.md) portfolios or managing [risk](../r/risk.md) during the pause.
 
 ### High-Frequency Trading (HFT)
 High-frequency trading firms might face significant challenges during trading halts. These firms rely on executing a large number of orders in a very short amount of time. A halt can disrupt these operations and require systems to be recalibrated when trading resumes.

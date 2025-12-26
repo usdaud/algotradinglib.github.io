@@ -43,17 +43,17 @@ Investors [will](../w/will.md) typically receive a [Form 1099-DIV](../f/form_109
 ### Vanguard Municipal Bond Funds
 Vanguard offers a [range](../r/range.md) of [municipal bond](../m/municipal_bond.md) funds designed to provide tax-[exempt income](../e/exempt_income.md). Among their offerings are state-specific funds that cater to investors looking for state and [local tax](../l/local_tax.md) exemptions.
 
-Website: [Vanguard Municipal Bond Funds](https://investor.vanguard.com/investment-products/mutual-funds/tax-exempt)
+online platform: Vanguard Municipal Bond Funds
 
 ### American Funds Tax-Exempt Fund of America
 Offered by American Funds, this [fund](../f/fund.md) focuses on providing investors with [tax-free](../t/tax_free.md) [income](../i/income.md) by [investing](../i/investing.md) in a diversified portfolio of [municipal bonds](../m/municipal_bonds.md).
 
-Website: [American Funds Tax-Exempt Fund of America](https://www.capitalgroup.com/individual/investments/fund/teva/overview)
+online platform: American Funds Tax-Exempt Fund of America
 
 ### Fidelity Municipal Income Fund
 Fidelity's line of municipal [income](../i/income.md) funds aims to deliver federally tax-[exempt income](../e/exempt_income.md) through investments in high-quality municipals.
 
-Website: [Fidelity Municipal Income Fund](https://www.fidelity.com/mutual-funds/investing-ideas/municipal-bond-funds)
+online platform: Fidelity Municipal Income Fund
 
 ## Concluding Thoughts
 

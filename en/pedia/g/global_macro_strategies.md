@@ -89,11 +89,11 @@ While not the primary focus, equities can be part of a diversified [global macro
 
 Several [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) companies are renowned for their [global macro](../g/global_macro.md) strategies:
 
-- **Bridgewater Associates:** Founded by Ray Dalio, Bridgewater is one of the largest and most influential [global macro](../g/global_macro.md) funds. [Bridgewater Associates](https://www.bridgewater.com)
-- **Soros [Fund](../f/fund.md) Management:** Established by [George Soros](../g/george_soros.md), known for his significant [currency](../c/currency.md) trades, notably against the British Pound. [Soros Fund Management](http://www.soros.com)
-- **Brevan Howard:** A leading [global macro hedge fund](../g/global_macro_hedge_fund.md) focusing on macroeconomic trends across various [asset](../a/asset.md) classes. [Brevan Howard](https://www.brevanhoward.com)
-- **Moore [Capital](../c/capital.md) Management:** Founded by Louis Bacon, this [fund](../f/fund.md) is known for its discretionary macro trading and diverse investment approach. [Moore Capital Management](https://www.moorecap.com)
-- **Caxton Associates:** Founded by Bruce Kovner, this [fund](../f/fund.md) focuses on macroeconomic trends and [liquid](../l/liquid.md) assets. [Caxton Associates](https://www.caxton.com)
+- **Bridgewater Associates:** Founded by Ray Dalio, Bridgewater is one of the largest and most influential [global macro](../g/global_macro.md) funds. Bridgewater Associates
+- **Soros [Fund](../f/fund.md) Management:** Established by [George Soros](../g/george_soros.md), known for his significant [currency](../c/currency.md) trades, notably against the British Pound. Soros Fund Management
+- **Brevan Howard:** A leading [global macro hedge fund](../g/global_macro_hedge_fund.md) focusing on macroeconomic trends across various [asset](../a/asset.md) classes. Brevan Howard
+- **Moore [Capital](../c/capital.md) Management:** Founded by Louis Bacon, this [fund](../f/fund.md) is known for its discretionary macro trading and diverse investment approach. Moore Capital Management
+- **Caxton Associates:** Founded by Bruce Kovner, this [fund](../f/fund.md) focuses on macroeconomic trends and [liquid](../l/liquid.md) assets. Caxton Associates
 
 ### Conclusion
 

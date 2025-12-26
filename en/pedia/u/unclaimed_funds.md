@@ -57,7 +57,7 @@ Each state has an unclaimed property database where individuals and businesses c
 
 ### 2. Submitting a Claim
 If unclaimed property is found, the claimant must submit a formal claim to the relevant state agency. This usually requires providing proof of identity and ownership, such as government IDs and original documents.
-  
+
 ### 3. Verification and Approval
 The state agency reviews the claim and verifies the submitted information. This process might take a few weeks to several months, depending on the complexity and the state's [backlog](../b/backlog.md).
 
@@ -84,9 +84,9 @@ Each state has its own rules and guidelines for reporting unclaimed property, so
 
 The [volume](../v/volume.md) of unclaimed funds is substantial. According to NAUPA, states in the U.S. [hold](../h/hold.md) nearly $50 billion in unclaimed property. Each year, millions of new properties are added, highlighting the significance and pervasiveness of unclaimed funds.
 
-**Example: California**: California's controller’s office has a dedicated website for unclaimed property (https://www.sco.ca.gov/upd_msg.html). People can use the site to search and claim their property.
+**Example.
 
-**Example: New York State**: The New York State Office of the Comptroller operates an unclaimed funds website (https://ouf.osc.state.ny.us/ouf/) and provides an online search tool for individuals to locate unclaimed property.
+**Example.
 
 ## The Role of Technology in Unclaimed Funds
 

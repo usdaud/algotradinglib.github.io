@@ -54,13 +54,13 @@ For more complex versions of GDBs like Ratchet, Roll-Up, or [Return](../r/return
 ## Companies Offering Guaranteed Death Benefits
 
 ### Prudential Financial
-Prudential Financial is a well-known provider of [insurance](../i/insurance.md) and annuity products that incorporate Guaranteed Death Benefits. More information can be found on their official website [Prudential Financial](https://www.prudential.com).
+Prudential Financial is a well-known provider of [insurance](../i/insurance.md) and annuity products that incorporate Guaranteed Death Benefits.
 
 ### MetLife
-MetLife offers various [insurance](../i/insurance.md) products with built-in GDB features, catering to different [financial planning](../f/financial_planning.md) needs. Detailed information is available on their website [MetLife](https://www.metlife.com).
+MetLife offers various [insurance](../i/insurance.md) products with built-in GDB features, catering to different [financial planning](../f/financial_planning.md) needs. Detailed information is available through its online channels MetLife.
 
 ### Allianz
-Allianz provides several annuity and [life insurance](../l/life_insurance.md) products that include various forms of Guaranteed Death Benefits. Their offerings are detailed on [Allianz's Website](https://www.allianzlife.com).
+Allianz provides several annuity and [life insurance](../l/life_insurance.md) products that include various forms of Guaranteed Death Benefits. Their offerings are detailed on Allianz's online platform.
 
 ## Conclusion
 Guaranteed Death Benefits play an essential role in financial and [estate planning](../e/estate_planning.md) by providing [security](../s/security.md) and structured legacy creation. These benefits are particularly valuable in variable annuities and certain [life insurance](../l/life_insurance.md) products. With several types of GDBs available, investors can choose the one that best fits their needs and financial goals. Understanding the associated costs and benefits is crucial to making an informed decision. By incorporating a Guaranteed [Death Benefit](../d/death_benefit.md) into their financial strategy, policyholders can ensure that their beneficiaries are protected against [market](../m/market.md) downturns and enjoy a secured financial future.

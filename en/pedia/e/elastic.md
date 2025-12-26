@@ -88,6 +88,6 @@ Beats are lightweight data shippers that send data from edge machines to Logstas
 
 The Elastic Stack is a powerful suite of tools that offers immense [value](../v/value.md) to the field of [algorithmic trading](../a/accountability.md). Each component—Elasticsearch, Logstash, Kibana, and Beats—provides critical functionalities that help traders store, process, analyze, and visualize large volumes of data in real time. By leveraging these tools, traders can [gain](../g/gain.md) deep insights into [market](../m/market.md) behavior, monitor [trading systems](../t/trading_systems.md) effectively, and refine [trading strategies](../t/trading_strategies.md) for better performance and reduced [risk](../r/risk.md).
 
-For more information, visit [Elastic](https://www.elastic.co/).
+For more information, visit Elastic.
 
 In the rapidly evolving world of [algorithmic trading](../a/accountability.md), staying ahead of the competition requires advanced tools and efficient data management solutions. Elastic Stack equips traders with the capabilities needed to [handle](../h/handle.md) the complexities of modern [financial markets](../f/financial_market.md), making it an indispensable part of the [algorithmic trading](../a/accountability.md) ecosystem.

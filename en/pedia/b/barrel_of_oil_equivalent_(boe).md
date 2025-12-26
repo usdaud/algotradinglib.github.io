@@ -30,13 +30,13 @@ For financial analysts and investors, BOE is a critical metric for evaluating th
 ## Companies and Industry Use
 
 #### BP p.l.c.
-BP, one of the world's leading integrated oil and gas companies, uses BOE as a key metric in its financial and operational reporting. Detailed information on BP's use of BOE can be found on their [official website](https://www.bp.com).
+BP, one of the world's leading integrated oil and gas companies, uses BOE as a key metric in its financial and operational reporting.
 
 #### Chevron Corporation
-Chevron, another major player in the [energy sector](../e/energy_sector.md), also incorporates BOE in its reserve reporting and [performance metrics](../p/performance_metrics.md). Information on how Chevron uses BOE is available on their [official site](https://www.chevron.com).
+Chevron, another major player in the [energy sector](../e/energy_sector.md), also incorporates BOE in its reserve reporting and [performance metrics](../p/performance_metrics.md).
 
 #### ExxonMobil
-ExxonMobil, one of the largest publicly traded oil companies, has extensive documentation on using BOE for operational and [financial analysis](../f/financial_analysis.md), which is accessible on their [corporate site](https://corporate.exxonmobil.com).
+ExxonMobil, one of the largest publicly traded oil companies, has extensive documentation on using BOE for operational and [financial analysis](../f/financial_analysis.md).
 
 ## Historical Context
 

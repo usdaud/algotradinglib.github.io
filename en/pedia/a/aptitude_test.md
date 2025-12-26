@@ -1,6 +1,6 @@
 # Algorithmic Trading
 
-Algorithmic trading, also known as algo trading or automated trading, refers to the use of computer algorithms to execute trading orders in the [financial markets](../f/financial_market.md). These algorithms are designed to [trade](../t/trade.md) financial instruments such as [stocks](../s/stock.md), bonds, commodities, and currencies in a systematic and automated manner. The primary goal of algorithmic trading is to maximize profits, reduce [trading costs](../t/trading_costs.md), and minimize the impact of human emotions and biases on trading decisions. 
+Algorithmic trading, also known as algo trading or automated trading, refers to the use of computer algorithms to execute trading orders in the [financial markets](../f/financial_market.md). These algorithms are designed to [trade](../t/trade.md) financial instruments such as [stocks](../s/stock.md), bonds, commodities, and currencies in a systematic and automated manner. The primary goal of algorithmic trading is to maximize profits, reduce [trading costs](../t/trading_costs.md), and minimize the impact of human emotions and biases on trading decisions.
 
 ## Components of Algorithmic Trading
 
@@ -68,11 +68,11 @@ Algorithmic trading is subject to regulatory oversight to ensure fair and transp
 
 Several companies and platforms provide tools and services for algorithmic trading, catering to both individual traders and institutional investors. Some prominent ones include:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform that allows traders to design, backtest, and execute [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). [QuantConnect](https://www.quantconnect.com)
-- **AlgoTrader**: A comprehensive algorithmic [trading platform](../t/trading_platform.md) that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, cryptocurrencies, and [futures](../f/futures.md). [AlgoTrader](https://www.algotrader.com)
-- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) that supports the development and [execution](../e/execution.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) through its MetaQuotes Language (MQL). [MetaTrader](https://www.metatrader5.com)
-- **Quantopian**: An online community and platform that provided tools for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) ([Note](../n/note.md): Quantopian was acquired by [Robinhood](../r/robinhood.md) in 2020 and is no longer operational).
-- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) that offers advanced charting, [market](../m/market.md) analysis, and algorithmic trading capabilities. [NinjaTrader](https://www.ninjatrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform that allows traders to design, backtest, and execute [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). QuantConnect
+- **AlgoTrader**: A comprehensive algorithmic [trading platform](../t/trading_platform.md) that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes, including equities, cryptocurrencies, and [futures](../f/futures.md). AlgoTrader
+- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) that supports the development and [execution](../e/execution.md) of [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) through its MetaQuotes Language (MQL). MetaTrader
+- **Quantopian**: An online community and platform that provided tools for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md) (Note: Quantopian closed in November 2020 after being acquired by [Robinhood](../r/robinhood.md)).
+- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) that offers advanced charting, [market](../m/market.md) analysis, and algorithmic trading capabilities. NinjaTrader
 
 ## Conclusion
 

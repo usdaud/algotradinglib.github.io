@@ -68,22 +68,22 @@ By analyzing the relative [volatility](../v/volatility.md) of assets, traders ca
 ### 1. **DE Shaw & Co.**
 
 DE Shaw leverages quantitative methods, including relative [volatility models](../v/volatility_models.md), to execute trades with precision. They use sophisticated algorithms to analyze vast amounts of data for trading opportunities.
-- [DE Shaw & Co](https://www.deshaw.com/)
+- DE Shaw & Co
 
 ### 2. **Two Sigma**
 
 Two Sigma combines [data science](../d/data_science_in_trading.md) with trading to execute complex strategies. Their models include extensive use of [volatility](../v/volatility.md) metrics to optimize [trade](../t/trade.md) [execution](../e/execution.md) and [risk management](../r/risk_management.md).
-- [Two Sigma](https://www.twosigma.com)
+- Two Sigma
 
 ### 3. **Citadel**
 
 Citadel employs relative [volatility models](../v/volatility_models.md) in its [quantitative strategies](../q/quantitative_strategies_in_trading.md), enabling the [firm](../f/firm.md) to navigate [market](../m/market.md) complexities and extract [value](../v/value.md) from various [volatility](../v/volatility.md) conditions.
-- [Citadel](https://www.citadel.com)
+- Citadel
 
 ### 4. **Renaissance Technologies**
 
 Renaissance Technologies uses high-frequency [trading strategies](../t/trading_strategies.md) that rely heavily on [volatility](../v/volatility.md) measures. Their Medallion [Fund](../f/fund.md) is known for exploiting patterns and disparities in [volatility](../v/volatility.md).
-- [Renaissance Technologies](https://www.rentec.com)
+- Renaissance Technologies
 
 ## Conclusion
 

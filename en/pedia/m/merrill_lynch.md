@@ -66,6 +66,6 @@ Merrill Lynch continues to invest in digital transformation initiatives to meet 
 ## Conclusion
 Merrill Lynch remains a cornerstone of the financial services [industry](../i/industry.md), with a legacy of innovation, client service, and [leadership](../l/leadership.md). Its history is a testament to its resilience and ability to adapt to changing [market](../m/market.md) conditions. As the [firm](../f/firm.md) moves forward, it continues to shape the future of [finance](../f/finance.md) through its commitment to excellence and its focus on technological advancement and sustainable [investing](../i/investing.md).
 
-For more information about Merrill Lynch, you can visit the official website: [Merrill Lynch](https://www.ml.com).
+
 
 ```

@@ -1,8 +1,8 @@
 # Throughput
 
-In the realm of financial trading and fintech, "throughput" is a critical concept that refers to the [volume](../v/volume.md) of transactions or data that a system can [handle](../h/handle.md) within a specific time frame. It signifies the system's [efficiency](../e/efficiency.md) in processing and executing tasks, which is essential for maintaining high performance and reliability in fast-paced [market](../m/market.md) environments. 
+In the realm of financial trading and fintech, "throughput" is a critical concept that refers to the [volume](../v/volume.md) of transactions or data that a system can [handle](../h/handle.md) within a specific time frame. It signifies the system's [efficiency](../e/efficiency.md) in processing and executing tasks, which is essential for maintaining high performance and reliability in fast-paced [market](../m/market.md) environments.
 
-Throughput is usually measured in three primary dimensions: transactions per second (TPS), data rate (bits per second), and the number of completed operations over a unit of time. These metrics help [market](../m/market.md) participants, such as traders and financial institutions, gauge the capability and reliability of their systems, ensuring minimal delays and latency. 
+Throughput is usually measured in three primary dimensions: transactions per second (TPS), data rate (bits per second), and the number of completed operations over a unit of time. These metrics help [market](../m/market.md) participants, such as traders and financial institutions, gauge the capability and reliability of their systems, ensuring minimal delays and latency.
 
 ## Importance of Throughput in Financial Trading
 
@@ -12,7 +12,7 @@ In [financial markets](../f/financial_market.md), especially in high-frequency t
 
 ### Order Management Systems (OMS)
 
-[Order Management Systems](../o/order_management_systems.md) are integral to trading platforms, allowing traders to manage orders through the various stages of the [trade](../t/trade.md) lifecycle. High throughput in an OMS means that it can [handle](../h/handle.md) numerous orders simultaneously, process them efficiently, and manage the associated data without bottlenecks. 
+[Order Management Systems](../o/order_management_systems.md) are integral to trading platforms, allowing traders to manage orders through the various stages of the [trade](../t/trade.md) lifecycle. High throughput in an OMS means that it can [handle](../h/handle.md) numerous orders simultaneously, process them efficiently, and manage the associated data without bottlenecks.
 
 ### Market Data Handling
 
@@ -93,8 +93,8 @@ In financial trading and fintech, throughput is more than just a technical metri
 
 For more information on companies focused on throughput improvement, please refer to these resources:
 
-- [NYSE](https://www.nyse.com/)
-- [NASDAQ](https://www.nasdaq.com/)
-- [Visa](https://usa.visa.com/)
-- [Mastercard](https://www.mastercard.us/en-us.html)
-- [Renaissance Technologies](https://www.rentech.com/)
+- NYSE
+- NASDAQ
+- Visa
+- Mastercard
+- Renaissance Technologies

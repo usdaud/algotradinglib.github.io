@@ -46,23 +46,23 @@ Several key players and technological innovations have shaped the landscape of q
 
 1. **Investment Firms**: Prominent quant investment firms include Renaissance Technologies, Two Sigma, AQR [Capital](../c/capital.md) Management, and DE Shaw Group. These firms rely heavily on [quantitative models](../q/quantitative_models.md) and employ teams of researchers, data scientists, and engineers.
 
-   - [Renaissance Technologies](https://www.rentec.com)
-   - [Two Sigma](https://www.twosigma.com)
-   - [AQR Capital Management](https://www.aqr.com)
-   - [DE Shaw Group](https://www.deshaw.com)
+ - Renaissance Technologies
+ - Two Sigma
+ - AQR Capital Management
+ - DE Shaw Group
 
 2. **Data Providers**: Access to high-quality data is essential for quant [investing](../i/investing.md). Firms such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Quandl](../q/quandl.md) provide comprehensive financial data feeds that quant investors utilize for their models.
 
-   - [Bloomberg](https://www.bloomberg.com)
-   - [Reuters](https://www.reuters.com)
-   - [Quandl](https://www.quandl.com)
+ - Bloomberg
+ - Reuters
+ - Quandl
 
 3. **Technological [Infrastructure](../i/infrastructure.md)**: Quant [investing](../i/investing.md) requires significant computational power and [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md). [Cloud computing](../c/cloud_computing_in_trading.md) services (e.g., AWS, Google Cloud), specialized hardware (e.g., GPUs, FPGAs), and advanced [software platforms](../s/software_platforms_for_trading.md) (e.g., Python, R) are commonly used.
 
-   - [AWS](https://aws.amazon.com)
-   - [Google Cloud](https://cloud.google.com)
-   - [Python](https://www.python.org)
-   - [R Project](https://www.r-project.org)
+ - AWS
+ - Google Cloud
+ - Python
+ - R Project
 
 ### Challenges and Future Directions
 

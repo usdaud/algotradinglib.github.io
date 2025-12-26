@@ -43,5 +43,3 @@ Lime Brokerage is regulated by several top-tier financial authorities, ensuring 
 - Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)
 - Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md))
 
-## Website
-For more information and to start trading, visit the official Lime Brokerage website: [Lime Brokerage](https://www.limebrokerage.com)

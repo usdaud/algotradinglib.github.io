@@ -1,6 +1,6 @@
 # Ascending Triangle
 
-An ascending [triangle](../t/triangle.md) is a bullish chart pattern used in [technical analysis](../t/technical_analysis.md) that is easily recognizable by its distinct shape. This pattern often indicates that a [breakout](../b/breakout.md) is likely to occur in the upward direction, and it is a signal that traders use to make informed decisions. 
+An ascending [triangle](../t/triangle.md) is a bullish chart pattern used in [technical analysis](../t/technical_analysis.md) that is easily recognizable by its distinct shape. This pattern often indicates that a [breakout](../b/breakout.md) is likely to occur in the upward direction, and it is a signal that traders use to make informed decisions.
 
 ## Components of Ascending Triangle
 
@@ -60,7 +60,7 @@ Let's say Company A's stock is exhibiting an ascending [triangle](../t/triangle.
 
 Numerous tools and platforms can assist in identifying and trading ascending triangles:
 
-- **[TradingView](../t/tradingview.md)**: This platform offers [advanced technical analysis](../a/advanced_technical_analysis.md) tools that are popular among traders. [TradingView website](https://www.tradingview.com/).
+- **[TradingView](../t/tradingview.md)**: This platform offers [advanced technical analysis](../a/advanced_technical_analysis.md)
 
 ## Conclusion
 

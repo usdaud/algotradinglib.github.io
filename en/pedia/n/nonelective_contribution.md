@@ -49,13 +49,13 @@ While elective contributions are immediately owned by employees, nonelective con
 Many companies recognize the [value](../v/value.md) of nonelective contributions and [offer](../o/offer.md) them as part of their employee benefits package. Here are a few examples:
 
 1. **Google (Alphabet Inc.)**
-    - Google offers a comprehensive benefits package that includes nonelective contributions to their employees' retirement plans. For more information, visit their [careers page](https://careers.google.com/benefits/).
+ - Google offers a comprehensive benefits package that includes nonelective contributions to their employees' retirement plans.
 
 2. **Microsoft**
-    - Microsoft also provides nonelective contributions as part of their retirement plan [options](../o/options.md). You can learn more about their benefits on their [official site](https://careers.microsoft.com/us/en/usbenefits).
+ - Microsoft also provides nonelective contributions as part of their retirement plan [options](../o/options.md). You can learn more about their benefits on their public materials.
 
 3. **Johnson & Johnson**
-    - Johnson & Johnson offers a [robust](../r/robust.md) benefits package including nonelective contributions. Detailed information can be found on their [careers website](https://www.careers.jnj.com/employee-benefits).
+ - Johnson & Johnson offers a [robust](../r/robust.md) benefits package including nonelective contributions.
 
 ## How Nonelective Contributions Work in Practice
 
@@ -81,7 +81,7 @@ While nonelective contributions [offer](../o/offer.md) significant benefits, the
 
 ### Cost to Employers
 
-For employers, the cost of providing nonelective contributions can be substantial. These contributions amount to a fixed [expense](../e/expense.md) that the company must plan for annually, regardless of its [financial performance](../f/financial_performance.md). 
+For employers, the cost of providing nonelective contributions can be substantial. These contributions amount to a fixed [expense](../e/expense.md) that the company must plan for annually, regardless of its [financial performance](../f/financial_performance.md).
 
 ### Reduced Take-Home Pay
 

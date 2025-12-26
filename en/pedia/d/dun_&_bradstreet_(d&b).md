@@ -90,4 +90,3 @@ Dun & Bradstreet's solutions have helped numerous organizations achieve signific
 
 Dun & Bradstreet is a trusted global leader in [business](../b/business.md) data and analytics, providing organizations with the insights and tools they need to drive growth, mitigate risks, and make informed decisions. With a rich history spanning over 180 years, a vast global database, advanced technology capabilities, and strategic partnerships, D&B continues to innovate and deliver [value](../v/value.md) to customers worldwide.
 
-For more information, visit the official [Dun & Bradstreet website](https://www.dnb.com).

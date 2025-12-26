@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A [distribution](../d/distribution.md) network is an interconnected group of storage facilities, transportation systems, and [inventory](../i/inventory.md) systems that are used to deliver products from producers to end consumers. In the context of [algorithmic trading](../a/accountability.md) (algotrading), a [distribution](../d/distribution.md) network is crucial for efficiently executing and disseminating [trade](../t/trade.md) orders across various markets, ensuring timely and accurate [transaction](../t/transaction.md) processing. 
+A [distribution](../d/distribution.md) network is an interconnected group of storage facilities, transportation systems, and [inventory](../i/inventory.md) systems that are used to deliver products from producers to end consumers. In the context of [algorithmic trading](../a/accountability.md) (algotrading), a [distribution](../d/distribution.md) network is crucial for efficiently executing and disseminating [trade](../t/trade.md) orders across various markets, ensuring timely and accurate [transaction](../t/transaction.md) processing.
 
 ## Key Components
 
@@ -10,8 +10,8 @@ A [distribution](../d/distribution.md) network is an interconnected group of sto
 
 Data forms the backbone of any [trading strategy](../t/trading_strategy.md). In algotrading, [real-time market data](../r/real-time_market_data.md) and historical data feed into algorithms that make trading decisions. Data providers [supply](../s/supply.md) this essential information in structured formats. Examples include:
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive source for [real-time market data](../r/real-time_market_data.md), news, and analytics [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md)**: Offers extensive financial services and real-time data [Refinitiv](https://www.refinitiv.com/en)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive source for [real-time market data](../r/real-time_market_data.md), news, and analytics Bloomberg
+- **Thomson [Reuters](../r/reuters.md)**: Offers extensive financial services and real-time data Refinitiv
 
 ### 2. Trading Algorithms
 
@@ -23,50 +23,50 @@ Algorithms are the core of algotrading, making decisions based on predefined cri
 
 High-Frequency Trading leverages low-latency networks to execute orders at extremely high speeds. HFT firms invest in [premium](../p/premium.md) [infrastructure](../i/infrastructure.md) to minimize delays.
 
-- **Citadel Securities**: Known for its low-latency trading [infrastructure](../i/infrastructure.md) [Citadel Securities](https://www.citadelsecurities.com/)
-- **Virtu Financial**: Specializes in providing [liquidity](../l/liquidity.md) and fast [execution](../e/execution.md) [Virtu Financial](https://www.virtu.com/)
+- **Citadel Securities**: Known for its low-latency trading [infrastructure](../i/infrastructure.md) Citadel Securities
+- **Virtu Financial**: Specializes in providing [liquidity](../l/liquidity.md) and fast [execution](../e/execution.md) Virtu Financial
 
 #### b. Colocation Services
 
 Colocation services place trading servers physically close to [exchange](../e/exchange.md) servers to minimize latency. This proximity allows for faster [order](../o/order.md) [execution](../e/execution.md).
 
-- **Equinix**: A leading provider of colocation services with facilities near major [financial markets](../f/financial_market.md) [Equinix](https://www.equinix.com/)
-- **Interxion**: Another key player in providing colocation solutions [Interxion](https://www.interxion.com/)
+- **Equinix**: A leading provider of colocation services with facilities near major [financial markets](../f/financial_market.md) Equinix
+- **Interxion**: Another key player in providing colocation solutions Interxion
 
 ### 4. Order Routing Systems
 
 [Order Routing](../o/order_routing.md) Systems (ORS) determine the most efficient way to execute [trade](../t/trade.md) orders. ORS employs complex algorithms to split orders, select exchanges, and manage executions across different markets.
 
-- **Fidessa**: Provides advanced [order routing](../o/order_routing.md) capabilities [Fidessa](https://iongroup.com/markets/fidessa/)
-- **FlexTrade**: Offers customizable [order routing](../o/order_routing.md) solutions [FlexTrade](https://flextrade.com/)
+- **Fidessa**: Provides advanced [order routing](../o/order_routing.md) capabilities Fidessa
+- **FlexTrade**: Offers customizable [order routing](../o/order_routing.md) solutions FlexTrade
 
 ### 5. Execution Platforms
 
 [Execution](../e/execution.md) platforms are where buy and sell orders are placed. These platforms need to support high [transaction](../t/transaction.md) volumes and manage [risk](../r/risk.md) effectively.
 
-- **MetaTrader**: Widely used for forex and [commodity](../c/commodity.md) trading [MetaTrader](https://www.metatrader5.com/en)
-- **[NinjaTrader](../n/ninjatrader.md)**: Popular for [futures](../f/futures.md) and forex trading [NinjaTrader](https://ninjatrader.com/)
+- **MetaTrader**: Widely used for forex and [commodity](../c/commodity.md) trading MetaTrader
+- **[NinjaTrader](../n/ninjatrader.md)**: Popular for [futures](../f/futures.md) and forex trading NinjaTrader
 
 ### 6. Market Makers
 
 [Market](../m/market.md) makers provide [liquidity](../l/liquidity.md) to markets by simultaneously [offering](../o/offering.md) buy and sell quotes. They [profit](../p/profit.md) from the spread between these quotes but face risks due to [market](../m/market.md) [volatility](../v/volatility.md).
 
-- **Optiver**: A global [market maker](../m/market_maker.md) [Optiver](https://www.optiver.com/)
-- **Jane Street**: Specializes in providing [liquidity](../l/liquidity.md) [Jane Street](https://www.janestreet.com/)
+- **Optiver**: A global [market maker](../m/market_maker.md) Optiver
+- **Jane Street**: Specializes in providing [liquidity](../l/liquidity.md) Jane Street
 
 ### 7. Risk Management Systems
 
 [Risk management systems](../r/risk_management_systems.md) are essential for ensuring that trading activities remain within acceptable limits. They monitor exposures, assess [counterparty](../c/counterparty.md) risks, and manage compliance requirements.
 
-- **Numerix**: Provides comprehensive [risk management](../r/risk_management.md) solutions [Numerix](https://www.numerix.com/)
-- **Algorithmics**: Offers tools for [risk](../r/risk.md) analytics and management [Algorithmics](https://www.ibm.com/software/products/en/algo-risk-service-on-cloud)
+- **Numerix**: Provides comprehensive [risk management](../r/risk_management.md) solutions Numerix
+- **Algorithmics**: Offers tools for [risk](../r/risk.md) analytics and management Algorithmics
 
 ### 8. Reporting and Analytics Systems
 
 Post-[trade](../t/trade.md) reporting and analytics provide insights into [trading performance](../t/trading_performance.md) and compliance with regulatory requirements.
 
-- **Tableau**: Famous for its [data visualization](../d/data_visualization.md) capabilities [Tableau](https://www.tableau.com/)
-- **Qlik**: Offers solutions for [data analytics](../d/data_analytics.md) and [business](../b/business.md) intelligence [Qlik](https://www.qlik.com/)
+- **Tableau**: Famous for its [data visualization](../d/data_visualization.md) capabilities Tableau
+- **Qlik**: Offers solutions for [data analytics](../d/data_analytics.md) and [business](../b/business.md) intelligence Qlik
 
 ## Challenges
 
@@ -98,7 +98,7 @@ Continued advances in [machine learning](../m/machine_learning.md) can provide m
 
 ### Blockchain
 
-[Blockchain](../b/blockchain_in_trading.md) technology could [offer](../o/offer.md) new avenues for securing [trade](../t/trade.md) transactions, ensuring data integrity, and enabling transparent, real-time settlement processes. 
+[Blockchain](../b/blockchain_in_trading.md) technology could [offer](../o/offer.md) new avenues for securing [trade](../t/trade.md) transactions, ensuring data integrity, and enabling transparent, real-time settlement processes.
 
 ### Artificial Intelligence
 

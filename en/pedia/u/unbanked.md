@@ -62,19 +62,16 @@ Fintech companies are at the forefront of providing innovative solutions to the 
 
 [M-Pesa](../m/m-pesa.md) is a mobile phone-based [money](../m/money.md) transfer, [payment](../p/payment.md), and microfinancing service launched by Vodafone for Safaricom and Vodacom. Launched in Kenya in 2007, it has become one of the most successful mobile payments systems, significantly reducing the unbanked population.
 
-[More about M-Pesa](https://www.safaricom.co.ke/personal/m-pesa)
 
 #### Grameen Bank
 
 Founded by Nobel Peace Prize laureate Muhammad Yunus, Grameen [Bank](../b/bank.md) offers microloans to the impoverished without requiring [collateral](../c/collateral.md). The [bank](../b/bank.md)'s model has been replicated worldwide and is a testament to [microfinance](../m/microfinance.md)’s potential in reducing the unbanked population.
 
-[More about Grameen Bank](http://www.grameen.com/)
 
 #### Tala
 
 Tala is a mobile technology and [data science](../d/data_science_in_trading.md) company that provides financial services in emerging markets. By using [alternative data](../a/alternative_data.md) to determine [creditworthiness](../c/creditworthiness.md), Tala offers loans to individuals often excluded from traditional banking services.
 
-[More about Tala](https://tala.co/)
 
 ## Conclusion
 

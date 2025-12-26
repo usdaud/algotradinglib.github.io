@@ -53,13 +53,13 @@ Example:
 
 2. **[Debt](../d/debt.md) Reduction**: Organizations might use [retained earnings](../r/retained_earnings.md) to pay off existing [debt](../d/debt.md), reducing [interest](../i/interest.md) expenses and improving financial [leverage](../l/leverage.md).
 
-3. **[Dividend](../d/dividend.md) Decisions**: The level of [retained earnings](../r/retained_earnings.md) impacts decisions on whether to increase, decrease, or maintain [dividend](../d/dividend.md) payouts. 
+3. **[Dividend](../d/dividend.md) Decisions**: The level of [retained earnings](../r/retained_earnings.md) impacts decisions on whether to increase, decrease, or maintain [dividend](../d/dividend.md) payouts.
 
 4. **Share [Buyback](../b/buyback.md) Programs**: Companies may also use [retained earnings](../r/retained_earnings.md) for [share repurchase](../s/share_repurchase.md) programs, reducing the number of outstanding [shares](../s/shares.md) and potentially increasing the [value](../v/value.md) of remaining [shares](../s/shares.md).
 
 ## Practical Application in Algotrading
 
-In the context of [algorithmic trading](../a/accountability.md) (algotrading), understanding the statement of [retained earnings](../r/retained_earnings.md) can be crucial. Here’s how:
+In the context of [algorithmic trading](../a/algorithmic_trading.md) (algotrading), understanding the statement of [retained earnings](../r/retained_earnings.md) can be crucial. Here’s how:
 
 1. **[Financial Health](../f/financial_health.md) Metrics**: Algotrading systems can incorporate metrics derived from [retained earnings](../r/retained_earnings.md) to assess the [financial health](../f/financial_health.md) of companies and filter [stocks](../s/stock.md) based on profitability and [earnings](../e/earnings.md) retention.
 
@@ -73,14 +73,14 @@ In the context of [algorithmic trading](../a/accountability.md) (algotrading), u
 
 ### Example Cases
 
-1. **Apple Inc. (AAPL)** 
-   - Apple Inc.'s [retained earnings](../r/retained_earnings.md) are a critical component of its [shareholder](../s/shareholder.md) [equity](../e/equity.md). The regular growth in [retained earnings](../r/retained_earnings.md) is indicative of its profitability and its strategy of reinvesting profits into innovation and [expansion](../e/expansion.md). For more information, visit [Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx).
+1. **Apple Inc. (AAPL)**
+ - Apple Inc.'s [retained earnings](../r/retained_earnings.md) are a critical component of its [shareholder](../s/shareholder.md) [equity](../e/equity.md). The regular growth in [retained earnings](../r/retained_earnings.md) is indicative of its profitability and its strategy of reinvesting profits into innovation and [expansion](../e/expansion.md).
 
 2. **Microsoft [Corporation](../c/corporation.md) (MSFT)**
-   - Microsoft’s statement of [retained earnings](../r/retained_earnings.md) demonstrates its balance between paying dividends and retaining [earnings](../e/earnings.md) for [reinvestment](../r/reinvestment.md) in technology and services. Visit [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor) for detailed financial reports.
+ - Microsoft’s statement of [retained earnings](../r/retained_earnings.md) demonstrates its balance between paying dividends and retaining [earnings](../e/earnings.md) for [reinvestment](../r/reinvestment.md) in technology and services. Visit Microsoft company filings for detailed financial reports.
 
 3. **Tesla, Inc. (TSLA)**
-   - Tesla’s [retained earnings](../r/retained_earnings.md) reflect its strategy of minimal [dividend](../d/dividend.md) payouts with significant [reinvestment](../r/reinvestment.md) in research, development, and [expansion](../e/expansion.md) of [manufacturing](../m/manufacturing.md) capabilities. For detailed financials, [check](../c/check.md) [Tesla Investor Relations](https://ir.tesla.com/).
+ - Tesla’s [retained earnings](../r/retained_earnings.md) reflect its strategy of minimal [dividend](../d/dividend.md) payouts with significant [reinvestment](../r/reinvestment.md) in research, development, and [expansion](../e/expansion.md) of [manufacturing](../m/manufacturing.md) capabilities. For detailed financials, [check](../c/check.md) Tesla company filings.
 
 ### Financial Statements
 
@@ -96,4 +96,4 @@ When accessing a company’s [financial statements](../f/financial_statements.md
 - **Sage Intacct**: A financial management solution that automates the generation of [retained earnings](../r/retained_earnings.md) reports.
 - **Xero**: Provides comprehensive financial reporting, including the statement of [retained earnings](../r/retained_earnings.md).
 
-Understanding and analyzing the Statement of [Retained Earnings](../r/retained_earnings.md) is vital for comprehending a company’s financial management practices and strategizing accordingly. Whether for traditional [investment analysis](../i/investment_analysis.md) or modern [algorithmic trading](../a/accountability.md), this document serves as a key [indicator](../i/indicator.md) of a company’s ability to generate and retain [profit](../p/profit.md) over time.
+Understanding and analyzing the Statement of [Retained Earnings](../r/retained_earnings.md) is vital for comprehending a company’s financial management practices and strategizing accordingly. Whether for traditional [investment analysis](../i/investment_analysis.md) or modern [algorithmic trading](../a/algorithmic_trading.md), this document serves as a key [indicator](../i/indicator.md) of a company’s ability to generate and retain [profit](../p/profit.md) over time.

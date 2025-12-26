@@ -10,11 +10,11 @@ if \( f \) is convex, or,
 
 \[ f(\mathbb{E}[X]) \geq \mathbb{E}[f(X)] \]
 
-if \( f \) is concave. 
+if \( f \) is concave.
 
 ## Application of Jensen's Inequality in Finance
 
-In financial contexts, Jensen's inequality is often applied to [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and various pricing models. For example, it helps in understanding why the [expected utility](../e/expected_utility.md) of a portfolio might be different from the [utility](../u/utility.md) of its [expected return](../e/expected_return.md), especially when the [utility](../u/utility.md) function is not linear, which is usually the case due to [risk](../r/risk.md) aversion. 
+In financial contexts, Jensen's inequality is often applied to [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and various pricing models. For example, it helps in understanding why the [expected utility](../e/expected_utility.md) of a portfolio might be different from the [utility](../u/utility.md) of its [expected return](../e/expected_return.md), especially when the [utility](../u/utility.md) function is not linear, which is usually the case due to [risk](../r/risk.md) aversion.
 
 ### Portfolio Optimization
 
@@ -82,8 +82,8 @@ Jensen's inequality is a versatile and powerful tool in both theoretical and pra
 
 For further exploration of [algorithmic trading](../a/algorithmic_trading.md) and the application of advanced mathematical concepts such as Jensen's inequality, you might want to visit companies like:
 
-- [Two Sigma](https://www.twosigma.com/)
-- [Jane Street](https://www.janestreet.com/)
-- [D. E. Shaw & Co.](https://www.deshaw.com/)
+- Two Sigma
+- Jane Street
+- D. E. Shaw & Co.
 
 These firms are at the forefront of leveraging mathematical and statistical insights in trading and [investment management](../i/investment_management.md).

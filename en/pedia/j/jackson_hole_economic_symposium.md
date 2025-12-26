@@ -49,4 +49,3 @@ Despite its prestige, the Jackson Hole Economic Symposium has faced criticisms:
 ## Conclusion
 The Jackson Hole Economic Symposium remains a cornerstone event in the world of [economics](../e/economics.md), providing a unique platform for the synthesis of academic, policy, and [market](../m/market.md) perspectives. It continues to influence global economic policy and foster high-level discussions on critical economic issues.
 
-For more information, you can visit the [Federal Reserve Bank of Kansas City website](https://www.kansascityfed.org/research/jackson-hole-economic-symposium/).

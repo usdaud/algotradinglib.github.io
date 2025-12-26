@@ -9,7 +9,7 @@ When a [parent company](../p/parent_company.md) owns more than 50% but less than
 ### Key Characteristics of Minority Interest:
 
 - **Non-Controlling Stake**: Minority [interest](../i/interest.md) represents shareholders with a non-controlling stake, typically less than 50%, in a subsidiary. They have limited to no influence over management decisions within the subsidiary.
-  
+
 - **Reporting in [Financial Statements](../f/financial_statements.md)**: In consolidated [financial statements](../f/financial_statements.md), the [equity](../e/equity.md) of minority shareholders is presented in the [equity](../e/equity.md) section separately from the [parent company](../p/parent_company.md)'s [equity](../e/equity.md). It also shows up in the [income statement](../i/income_statement.md) as a share of [profit](../p/profit.md) or loss attributable to minority shareholders.
 
 - **[Valuation](../v/valuation.md)**: Minority [interest](../i/interest.md) is measured at [fair value](../f/fair_value.md) or as a proportionate share of the identifiable net assets of the subsidiary at the [acquisition](../a/acquisition.md) date.
@@ -19,10 +19,10 @@ When a [parent company](../p/parent_company.md) owns more than 50% but less than
 Calculating minority [interest](../i/interest.md) involves determining the percentage of the subsidiary's net [income](../i/income.md) and net assets that are attributable to minority shareholders.
 
 1. **Net [Income](../i/income.md) Attribution**:
-   - For instance, if a subsidiary has a net [income](../i/income.md) of $1,000,000 and minority shareholders own 30%, the minority [interest](../i/interest.md)'s share of net [income](../i/income.md) is $300,000. This amount is deducted from the consolidated net [income](../i/income.md) attributed to the [parent company](../p/parent_company.md).
+ - For instance, if a subsidiary has a net [income](../i/income.md) of $1,000,000 and minority shareholders own 30%, the minority [interest](../i/interest.md)'s share of net [income](../i/income.md) is $300,000. This amount is deducted from the consolidated net [income](../i/income.md) attributed to the [parent company](../p/parent_company.md).
 
 2. **Net Assets Attribution**:
-   - If a subsidiary’s total net assets amount to $5,000,000, the minority [interest](../i/interest.md) portion would be $1,500,000 (30% of $5,000,000). This portion is recorded in the consolidated [balance sheet](../b/balance_sheet.md) under [equity](../e/equity.md).
+ - If a subsidiary’s total net assets amount to $5,000,000, the minority [interest](../i/interest.md) portion would be $1,500,000 (30% of $5,000,000). This portion is recorded in the consolidated [balance sheet](../b/balance_sheet.md) under [equity](../e/equity.md).
 
 ### Practical Example
 
@@ -84,5 +84,4 @@ Minority [Interest](../i/interest.md) is crucial for a comprehensive [financial 
 
 Companies and investors alike must understand and monitor minority interests to navigate complexities in [finance](../f/finance.md) and corporate management effectively.
 
-For further details about the governance and structural intricacies involving minority interests, you can refer to various financial resource platforms such as the [CFA Institute](https://www.cfainstitute.org/) or company-specific [investor relations](../i/investor_relations.md) pages, which often provide in-depth insights and case studies.
-
+./i/investor_relations.md) pages, which often provide in-depth insights and case studies.

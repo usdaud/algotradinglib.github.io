@@ -76,8 +76,8 @@ Zero-rated goods represent a crucial [fiscal policy](../f/fiscal_policy.md) tool
 
 For further reading and detailed country-specific guidelines, you may visit official resources like:
 
-- [UK Government - Zero-rated VAT on goods and services](https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services)
-- [Canada Revenue Agency - Zero-rated goods](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-5/zero-rated-supplies.html)
-- [Australia Taxation Office - GST-free sales](https://www.ato.gov.au/Business/GST/In-detail/Your-industry/Food/GST-food-guide/?page=12#Food_that_is_GST_free)
+- UK Government - Zero-rated VAT on goods and services
+- Canada Revenue Agency - Zero-rated goods
+- Australia Taxation Office - GST-free sales
 
 Understanding zero-rated goods can provide valuable insights into national fiscal policies and their impact on both everyday life and [business](../b/business.md) operations.

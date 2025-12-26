@@ -98,8 +98,8 @@ As the global [economy](../e/economy.md) evolves, the relevance and applicabilit
 
 For more information on monetarism and its ongoing influence in economic policy, the following sources and institutions provide in-depth perspectives:
 
-- **Hoover Institution**: The Hoover Institution engages in research on economic policy and includes prominent scholars who continue to explore and expand on the ideas of [Milton Friedman](../m/milton_friedman.md) and [monetarist theory](../m/monetarist_theory.md). [Hoover Institution](https://www.hoover.org/)
-- **[Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis**: This regional branch of the Federal Reserve maintains extensive resources on [monetary policy](../m/monetary_policy.md), including analyses of monetarist policies. [Federal Reserve Bank of St. Louis](https://www.stlouisfed.org/)
+- **Hoover Institution**: The Hoover Institution engages in research on economic policy and includes prominent scholars who continue to explore and expand on the ideas of [Milton Friedman](../m/milton_friedman.md) and [monetarist theory](../m/monetarist_theory.md). Hoover Institution
+- **[Federal Reserve Bank](../f/federal_reserve_bank.md) of St. Louis**: This regional branch of the Federal Reserve maintains extensive resources on [monetary policy](../m/monetary_policy.md), including analyses of monetarist policies. Federal Reserve Bank of St. Louis
 - **[Milton Friedman](../m/milton_friedman.md)’s Works**: Many of [Milton Friedman](../m/milton_friedman.md)’s seminal works and publications are available through academic publishers and online resources, providing foundational texts for studying monetarism in depth.
 
 Understanding monetarism and its implications provides valuable insights into the complex dynamics of economic policy and the ongoing debates surrounding the best approaches to achieving stable, long-term [economic growth](../e/economic_growth.md).

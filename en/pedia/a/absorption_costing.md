@@ -75,16 +75,16 @@ Unlike absorption costing, variable costing (or direct costing) includes only va
 ### Differences
 
 1. **Cost Inclusion**:
-   - Absorption Costing: Includes both variable and fixed [manufacturing](../m/manufacturing.md) costs.
-   - Variable Costing: Includes only variable [manufacturing](../m/manufacturing.md) costs.
+ - Absorption Costing: Includes both variable and fixed [manufacturing](../m/manufacturing.md) costs.
+ - Variable Costing: Includes only variable [manufacturing](../m/manufacturing.md) costs.
 
 2. **Fixed Overhead Treatment**:
-   - Absorption Costing: Fixed overheads are allocated to products and included in [inventory](../i/inventory.md) costs.
-   - Variable Costing: Fixed overheads are treated as period costs and expensed in the period incurred.
+ - Absorption Costing: Fixed overheads are allocated to products and included in [inventory](../i/inventory.md) costs.
+ - Variable Costing: Fixed overheads are treated as period costs and expensed in the period incurred.
 
 3. **[Profit](../p/profit.md) Reporting**:
-   - Absorption Costing: Generally shows higher profits when production exceeds sales because some fixed overheads are included in [inventory](../i/inventory.md).
-   - Variable Costing: [Profit](../p/profit.md) is more closely associated with sales [volume](../v/volume.md) rather than production [volume](../v/volume.md).
+ - Absorption Costing: Generally shows higher profits when production exceeds sales because some fixed overheads are included in [inventory](../i/inventory.md).
+ - Variable Costing: [Profit](../p/profit.md) is more closely associated with sales [volume](../v/volume.md) rather than production [volume](../v/volume.md).
 
 ### Example (Continuing with XYZ Furniture)
 
@@ -124,7 +124,7 @@ Absorption costing is widely adopted across various industries due to its compli
 
 ### Real-World Example: Caterpillar Inc.
 
-Caterpillar Inc., a leading manufacturer of construction and [mining](../m/mining.md) equipment, implements absorption costing. Detailed financial reports can be found on their official website: [Caterpillar Financial Reports](https://www.caterpillar.com/en/investors/financial-information/quarterly-results.html).
+Caterpillar Inc., a leading manufacturer of construction and [mining](../m/mining.md) equipment, implements absorption costing. Detailed financial reports are available from Caterpillar.
 
 As shown in industries such as [manufacturing](../m/manufacturing.md), absorption costing plays a pivotal role in providing a complete view of [production costs](../p/production_costs.md), facilitating better [inventory management](../i/inventory_management.md), and ensuring compliance with [accounting](../a/accounting.md) standards.
 
@@ -132,9 +132,9 @@ As shown in industries such as [manufacturing](../m/manufacturing.md), absorptio
 
 Several enterprise resource planning (ERP) software solutions feature modules that facilitate absorption costing by automating the allocation of overheads and integrating with [inventory](../i/inventory.md) and [financial statements](../f/financial_statements.md). Some notable ERP systems include:
 
-- **SAP ERP**: Supports absorption costing through its comprehensive [cost accounting](../c/cost_accounting.md) modules. More information can be found here: [SAP ERP](https://www.sap.com/products/erp.html)
-- **Oracle ERP Cloud**: Offers [robust](../r/robust.md) functionality for cost management and absorption costing. More details are available at: [Oracle ERP Cloud](https://www.oracle.com/erp/)
-- **Microsoft Dynamics 365**: Incorporates costing methods, including absorption costing, to streamline financial operations. Visit their site for more information: [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/)
+- **SAP ERP**: Supports absorption costing through its comprehensive [cost accounting](../c/cost_accounting.md) modules.
+- **Oracle ERP Cloud**: Offers [robust](../r/robust.md) functionality for cost management and absorption costing.
+- **Microsoft Dynamics 365**: Incorporates costing methods, including absorption costing, to streamline financial operations.
 
 ## Conclusion
 

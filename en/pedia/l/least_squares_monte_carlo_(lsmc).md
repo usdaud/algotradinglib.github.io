@@ -53,60 +53,60 @@ LSMC has wide applications in [financial markets](../f/financial_market.md), par
 Consider the task of pricing an American [put option](../p/put.md). The steps would include:
 
 1. **Simulating [Underlying Asset](../u/underlying_asset.md) Paths**:
-   ```python
-   [import](../i/import.md) numpy as np
-   
-   def simulate_asset_paths(S0, r, sigma, T, M, I):
-       """ Generate [asset](../a/asset.md) paths using [geometric Brownian motion](../g/geometric_brownian_motion.md). """
-       dt = T / M
-       paths = np.zeros((M + 1, I))
-       paths[0] = S0
-       for t in [range](../r/range.md)(1, M + 1):
-           z = np.random.standard_normal(I)
-           paths[t] = paths[t - 1] * np.exp((r - 0.5 * sigma**2) * dt + sigma * np.sqrt(dt) * z)
-       [return](../r/return.md) paths
-   
-   # Parameters
-   S0 = 100  # initial stock price
-   r = 0.05  # [risk](../r/risk.md)-free rate
-   sigma = 0.2  # [volatility](../v/volatility.md)
-   T = 1.0  # time-to-[maturity](../m/maturity.md) in years
-   M = 50  # number of time steps
-   I = 10000  # number of simulated paths
-   
-   np.random.seed(0)
-   paths = simulate_asset_paths(S0, r, sigma, T, M, I)
-   ```
+ ```python
+ [import](../i/import.md) numpy as np
+
+ def simulate_asset_paths(S0, r, sigma, T, M, I):
+ """ Generate [asset](../a/asset.md) paths using [geometric Brownian motion](../g/geometric_brownian_motion.md). """
+ dt = T / M
+ paths = np.zeros((M + 1, I))
+ paths[0] = S0
+ for t in [range](../r/range.md)(1, M + 1):
+ z = np.random.standard_normal(I)
+ paths[t] = paths[t - 1] * np.exp((r - 0.5 * sigma**2) * dt + sigma * np.sqrt(dt) * z)
+ [return](../r/return.md) paths
+
+ # Parameters
+ S0 = 100 # initial stock price
+ r = 0.05 # [risk](../r/risk.md)-free rate
+ sigma = 0.2 # [volatility](../v/volatility.md)
+ T = 1.0 # time-to-[maturity](../m/maturity.md) in years
+ M = 50 # number of time steps
+ I = 10000 # number of simulated paths
+
+ np.random.seed(0)
+ paths = simulate_asset_paths(S0, r, sigma, T, M, I)
+ ```
 2. **Calculating Payoffs at [Maturity](../m/maturity.md)**:
-   ```python
-   K = 100  # [strike price](../s/strike_price.md)
-   P = np.maximum(K - paths[-1], 0)
-   ```
+ ```python
+ K = 100 # [strike price](../s/strike_price.md)
+ P = np.maximum(K - paths[-1], 0)
+ ```
 3. **Backward Induction and Regression**:
-   ```python
-   from sklearn.linear_model [import](../i/import.md) LinearRegression
-   
-   h = np.maximum(K - paths, 0)
-   cash_flows = np.zeros((M + 1, I))
-   cash_flows[-1] = h[-1]
-   
-   for t in [range](../r/range.md)(M - 1, 0, -1):
-       rg = np.polyfit(paths[t], cash_flows[t + 1] * np.exp(-r * (T / M)), 5)
-       C = np.polyval(rg, paths[t])
-       [exercise](../e/exercise.md) = h[t] > C
-       cash_flows[t] = np.where([exercise](../e/exercise.md), h[t], cash_flows[t + 1] * np.exp(-r * (T / M)))
-   
-   option_value = np.mean(cash_flows[1] * np.exp(-r * (T / M)))
-   print(f"Estimated American [Put Option](../p/put.md) [Value](../v/value.md): {option_value:.2f}")
-   ```
+ ```python
+ from sklearn.linear_model [import](../i/import.md) LinearRegression
+
+ h = np.maximum(K - paths, 0)
+ cash_flows = np.zeros((M + 1, I))
+ cash_flows[-1] = h[-1]
+
+ for t in [range](../r/range.md)(M - 1, 0, -1):
+ rg = np.polyfit(paths[t], cash_flows[t + 1] * np.exp(-r * (T / M)), 5)
+ C = np.polyval(rg, paths[t])
+ [exercise](../e/exercise.md) = h[t] > C
+ cash_flows[t] = np.where([exercise](../e/exercise.md), h[t], cash_flows[t + 1] * np.exp(-r * (T / M)))
+
+ option_value = np.mean(cash_flows[1] * np.exp(-r * (T / M)))
+ print(f"Estimated American [Put Option](../p/put.md) [Value](../v/value.md): {option_value:.2f}")
+ ```
 This example provides a simplified illustration of LSMC applied to an American [put option](../p/put.md), demonstrating the blending of [simulation](../s/simulation_in_trading.md) and regression to derive an estimated option [value](../v/value.md).
 
 ### LSMC in the Industry
 
 Renowned financial institutions and [quantitative finance](../q/quantitative_finance.md) firms [leverage](../l/leverage.md) LSMC for [derivative](../d/derivative.md) pricing and [risk management](../r/risk_management.md). Companies such as Goldman Sachs, Morgan Stanley, and JPMorgan Chase often employ advanced methods like LSMC to maintain their competitive edge in trading and [risk](../r/risk.md) assessment.
 
-**Example: [QuantConnect](../q/quantconnect.md)**
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) offers an [algorithmic trading](../a/algorithmic_trading.md) platform and has extensive resources, including tutorials and libraries, that [leverage](../l/leverage.md) LSMC techniques for [derivative](../d/derivative.md) pricing and other [quantitative finance](../q/quantitative_finance.md) applications.
+**Example: [StockSharp](../s/stocksharp.md)**
+[StockSharp](../s/stocksharp.md) offers an [algorithmic trading](../a/algorithmic_trading.md) platform and has extensive resources, including tutorials and libraries, that [leverage](../l/leverage.md) LSMC techniques for [derivative](../d/derivative.md) pricing and other [quantitative finance](../q/quantitative_finance.md) applications.
 
 **Example: Financial Modelling Agencies**
 Agencies like PRMIA (Professional [Risk](../r/risk.md) Managers' International Association) provide [guidance](../g/guidance.md) and training on implementing LSMC and other advanced financial modelling techniques.

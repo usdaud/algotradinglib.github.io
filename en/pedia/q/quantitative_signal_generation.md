@@ -7,186 +7,185 @@ Quantitative signal generation is a cornerstone concept in [algorithmic trading]
 Quantitative signal generation involves various components that work in synergy to produce actionable [trading signals](../t/trading_signals.md):
 
 1. **Data Collection and Cleaning**
-   - Collecting reliable historical price data, volumes, and other [market indicators](../m/market_indicators.md).
-   - Cleaning data to remove anomalies such as outliers, missing values, and erroneous entries.
+ - Collecting reliable historical price data, volumes, and other [market indicators](../m/market_indicators.md).
+ - Cleaning data to remove anomalies such as outliers, missing values, and erroneous entries.
 
 2. **Feature Engineering**
-   - Extracting relevant features from raw data that can be used in [predictive models](../p/predictive_models_in_trading.md).
-   - Creating [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
+ - Extracting relevant features from raw data that can be used in [predictive models](../p/predictive_models_in_trading.md).
+ - Creating [technical indicators](../t/technical_indicators.md) like moving averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), etc.
 
 3. **Model Selection**
-   - Selecting appropriate models for signal generation, which may include [regression techniques](../r/regression_techniques.md), [time series](../t/time_series.md) models, [neural networks](../n/neural_networks_in_trading.md), or reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md).
-   - Evaluating model assumptions, such as stationarity, to ensure the model's correctness.
+ - Selecting appropriate models for signal generation, which may include [regression techniques](../r/regression_techniques.md), [time series](../t/time_series.md) models, [neural networks](../n/neural_networks_in_trading.md), or reinforcement [learning algorithms](../l/learning_algorithms_in_trading.md).
+ - Evaluating model assumptions, such as stationarity, to ensure the model's correctness.
 
 4. **Model Training and Validation**
-   - Splitting data into training and validation sets.
-   - Training models on historical data to learn [underlying](../u/underlying.md) patterns.
-   - Validating models on unseen data to evaluate [performance metrics](../p/performance_metrics.md) like accuracy, precision, recall, and F1-score.
+ - Splitting data into training and validation sets.
+ - Training models on historical data to learn [underlying](../u/underlying.md) patterns.
+ - Validating models on unseen data to evaluate [performance metrics](../p/performance_metrics.md) like accuracy, precision, recall, and F1-score.
 
 5. **[Backtesting](../b/backtesting.md)**
-   - Simulating the model on historical data to assess how it would have performed in the past.
-   - Adjusting model parameters to optimize backtest performance.
+ - Simulating the model on historical data to assess how it would have performed in the past.
+ - Adjusting model parameters to optimize backtest performance.
 
 6. **[Risk Management](../r/risk_management.md)**
-   - Implementing [risk management](../r/risk_management.md) strategies, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
-   - Using techniques like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and expected [shortfall](../s/shortfall.md) to quantify [risk](../r/risk.md) exposure.
+ - Implementing [risk management](../r/risk_management.md) strategies, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
+ - Using techniques like [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) and expected [shortfall](../s/shortfall.md) to quantify [risk](../r/risk.md) exposure.
 
 7. **Live [Execution](../e/execution.md)**
-   - Deploying the trained and validated model in a live [trading environment](../t/trading_environment.md).
-   - Continuously monitoring the model's performance to detect any potential drifts or inefficiencies.
+ - Deploying the trained and validated model in a live [trading environment](../t/trading_environment.md).
+ - Continuously monitoring the model's performance to detect any potential drifts or inefficiencies.
 
 ### Types of Quantitative Signals
 
 Quantitative signals can broadly be classified into several categories based on the methodologies used for their generation:
 
 1. **[Technical Analysis](../t/technical_analysis.md)-Based Signals**
-   - Signals generated using [technical analysis](../t/technical_analysis.md) indicators and patterns.
-   - Example: A moving average crossover (where a short-term moving average crosses a long-term moving average).
+ - Signals generated using [technical analysis](../t/technical_analysis.md) indicators and patterns.
+ - Example: A moving average crossover (where a short-term moving average crosses a long-term moving average).
 
 2. **Statistical [Arbitrage](../a/arbitrage.md) Signals**
-   - Signals that exploit price discrepancies between correlated assets.
-   - Example: Pair trading where the [return](../r/return.md) of one stock is [offset](../o/offset.md) by the [return](../r/return.md) of another.
+ - Signals that exploit price discrepancies between correlated assets.
+ - Example: Pair trading where the [return](../r/return.md) of one stock is [offset](../o/offset.md) by the [return](../r/return.md) of another.
 
 3. **[Machine Learning](../m/machine_learning.md)-Based Signals**
-   - Signals generated by machine [learning algorithms](../l/learning_algorithms_in_trading.md) trained on vast datasets.
-   - Example: Using a Random Forest classifier to predict the probability of next-day returns.
+ - Signals generated by machine [learning algorithms](../l/learning_algorithms_in_trading.md) trained on vast datasets.
+ - Example: Using a Random Forest classifier to predict the probability of next-day returns.
 
 4. **[Fundamental Analysis](../f/fundamental_analysis.md)-Based Signals**
-   - Signals driven by fundamental factors such as [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), and [financial ratios](../f/financial_ratios.md).
-   - Example: [Momentum trading](../m/momentum_trading.md) based on [earnings surprises](../e/earnings_surprises.md).
+ - Signals driven by fundamental factors such as [earnings](../e/earnings.md) reports, [economic indicators](../e/economic_indicators.md), and [financial ratios](../f/financial_ratios.md).
+ - Example: [Momentum trading](../m/momentum_trading.md) based on [earnings surprises](../e/earnings_surprises.md).
 
 5. **[Sentiment Analysis](../s/sentiment_analysis.md)-Based Signals**
-   - Signals derived from [sentiment analysis](../s/sentiment_analysis.md) of news articles, [social media](../s/social_media.md), and other text sources.
-   - Example: [Trading signals](../t/trading_signals.md) based on Twitter sentiment regarding a specific stock.
+ - Signals derived from [sentiment analysis](../s/sentiment_analysis.md) of news articles, [social media](../s/social_media.md), and other text sources.
+ - Example: [Trading signals](../t/trading_signals.md) based on Twitter sentiment regarding a specific stock.
 
 ### Technical Indicators for Signal Generation
 
 [Technical indicators](../t/technical_indicators.md) are tools that traders use to evaluate past price movements and forecast future price movements. Here are some commonly used [technical indicators](../t/technical_indicators.md) in quantitative signal generation:
 
 1. **Moving Averages**
-   - Simple Moving Average (SMA)
-   - Exponential Moving Average (EMA)
+ - Simple Moving Average (SMA)
+ - Exponential Moving Average (EMA)
 
 2. **[Momentum Indicators](../m/momentum_indicators.md)**
-   - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
-   - [Stochastic Oscillator](../s/stochastic_oscillator.md)
+ - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
+ - [Stochastic Oscillator](../s/stochastic_oscillator.md)
 
 3. **[Trend Indicators](../t/trend_indicators.md)**
-   - Moving Average Convergence [Divergence](../d/divergence.md) (MACD)
-   - [Average Directional Index](../a/average_directional_index_(adx).md) (ADX)
+ - Moving Average Convergence [Divergence](../d/divergence.md) (MACD)
+ - [Average Directional Index](../a/average_directional_index_(adx).md) (ADX)
 
 4. **[Volume Indicators](../v/volume_indicators.md)**
-   - On-Balance [Volume](../v/volume.md) (OBV)
-   - [Volume Rate of Change](../v/volume_rate_of_change.md) (VROC)
+ - On-Balance [Volume](../v/volume.md) (OBV)
+ - [Volume Rate of Change](../v/volume_rate_of_change.md) (VROC)
 
 5. **[Volatility](../v/volatility.md) Indicators**
-   - [Bollinger Bands](../b/bollinger_bands.md)
-   - [Average True Range](../a/average_true_range_(atr).md) (ATR)
+ - [Bollinger Bands](../b/bollinger_bands.md)
+ - [Average True Range](../a/average_true_range_(atr).md) (ATR)
 
 ### Advanced Methods in Quantitative Signal Generation
 
 Quantitative signal generation has evolved significantly over the years, incorporating advanced methods and technologies:
 
 1. **[Machine Learning](../m/machine_learning.md) and AI**
-   - Utilization of [machine learning](../m/machine_learning.md) techniques like [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
-   - [Deep learning](../d/deep_learning.md) models such as LSTM (Long Short-Term Memory) networks for [time series](../t/time_series.md) prediction.
-   - [Reinforcement learning](../r/reinforcement_learning.md) for dynamic strategy [optimization](../o/optimization.md).
+ - Utilization of [machine learning](../m/machine_learning.md) techniques like [supervised learning](../s/supervised_learning.md), [unsupervised learning](../u/unsupervised_learning.md), and [reinforcement learning](../r/reinforcement_learning.md).
+ - [Deep learning](../d/deep_learning.md) models such as LSTM (Long Short-Term Memory) networks for [time series](../t/time_series.md) prediction.
+ - [Reinforcement learning](../r/reinforcement_learning.md) for dynamic strategy [optimization](../o/optimization.md).
 
 2. **High-Frequency Trading (HFT)**
-   - Employing low-latency systems to execute trades based on microsecond-level signals.
-   - Statistically arbitraging slight price discrepancies across exchanges.
+ - Employing low-latency systems to execute trades based on microsecond-level signals.
+ - Statistically arbitraging slight price discrepancies across exchanges.
 
 3. **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**
-   - Analyzing textual data using NLP techniques to capture [market sentiment](../m/market_sentiment.md).
-   - Generating [trading signals](../t/trading_signals.md) based on linguistic cues from news feeds and [social media](../s/social_media.md).
+ - Analyzing textual data using NLP techniques to capture [market sentiment](../m/market_sentiment.md).
+ - Generating [trading signals](../t/trading_signals.md) based on linguistic cues from news feeds and [social media](../s/social_media.md).
 
 4. **[Quantum Computing](../q/quantum_computing_in_trading.md)**
-   - Exploring [quantum algorithms](../q/quantum_algorithms_in_trading.md) to solve complex [optimization](../o/optimization.md) problems in trading.
-   - Harnessing the potential of [quantum computing](../q/quantum_computing_in_trading.md) to improve model training times and accuracy.
+ - Exploring [quantum algorithms](../q/quantum_algorithms_in_trading.md) to solve complex [optimization](../o/optimization.md) problems in trading.
+ - Harnessing the potential of [quantum computing](../q/quantum_computing_in_trading.md) to improve model training times and accuracy.
 
 ### Evaluation Metrics for Quantitative Signals
 
 Evaluating the effectiveness of quantitative signals is crucial for maintaining [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Some common evaluation metrics include:
 
 1. **Accuracy**
-   - The fraction of correct predictions made by the model out of all predictions.
-   - Formula: Accuracy = (True Positives + True Negatives) / Total Predictions
+ - The fraction of correct predictions made by the model out of all predictions.
+ - Formula: Accuracy = (True Positives + True Negatives) / Total Predictions
 
 2. **Precision**
-   - The fraction of true positive predictions out of all positive predictions.
-   - Formula: Precision = True Positives / (True Positives + False Positives)
+ - The fraction of true positive predictions out of all positive predictions.
+ - Formula: Precision = True Positives / (True Positives + False Positives)
 
 3. **Recall**
-   - The fraction of true positive predictions out of all actual positives.
-   - Formula: Recall = True Positives / (True Positives + False Negatives)
+ - The fraction of true positive predictions out of all actual positives.
+ - Formula: Recall = True Positives / (True Positives + False Negatives)
 
 4. **F1-Score**
-   - The [harmonic mean](../h/harmonic_mean_in_trading.md) of precision and recall, providing a balance between the two.
-   - Formula: F1-Score = 2 * (Precision * Recall) / (Precision + Recall)
+ - The [harmonic mean](../h/harmonic_mean_in_trading.md) of precision and recall, providing a balance between the two.
+ - Formula: F1-Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 5. **[Sharpe Ratio](../s/sharpe_ratio.md)**
-   - A measure of [risk-adjusted return](../r/risk-adjusted_return.md), calculated as the ratio of [excess return](../e/excess_return.md) over the [risk](../r/risk.md)-free rate to the [standard deviation](../s/standard_deviation.md) of the [return](../r/return.md).
-   - Formula: [Sharpe Ratio](../s/sharpe_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Standard Deviation](../s/standard_deviation.md) of Portfolio [Return](../r/return.md)
+ - A measure of [risk-adjusted return](../r/risk-adjusted_return.md), calculated as the ratio of [excess return](../e/excess_return.md) over the [risk](../r/risk.md)-free rate to the [standard deviation](../s/standard_deviation.md) of the [return](../r/return.md).
+ - Formula: [Sharpe Ratio](../s/sharpe_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Standard Deviation](../s/standard_deviation.md) of Portfolio [Return](../r/return.md)
 
 6. **[Sortino Ratio](../s/sortino_ratio.md)**
-   - A variation of the [Sharpe ratio](../s/sharpe_ratio.md) that differentiates between harmful [volatility](../v/volatility.md) and total [volatility](../v/volatility.md).
-   - Formula: [Sortino Ratio](../s/sortino_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Downside Deviation](../d/downside_deviation.md)
+ - A variation of the [Sharpe ratio](../s/sharpe_ratio.md) that differentiates between harmful [volatility](../v/volatility.md) and total [volatility](../v/volatility.md).
+ - Formula: [Sortino Ratio](../s/sortino_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Downside Deviation](../d/downside_deviation.md)
 
 ### Platforms and Tools for Quantitative Signal Generation
 
 Several platforms and tools can aid in quantitative signal generation:
 
 1. **[QuantConnect](../q/quantconnect.md)**
-   - A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) languages, including Python and C#.
-   - URL: [QuantConnect](https://www.quantconnect.com/)
+ - A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) languages, including Python and C#.
+ - URL: QuantConnect
 
 2. **AlphaVantage**
-   - An API service [offering](../o/offering.md) free and [premium](../p/premium.md) access to financial data.
-   - URL: [AlphaVantage](https://www.alphavantage.co/)
+ - An API service [offering](../o/offering.md) free and [premium](../p/premium.md) access to financial data.
+ - URL: AlphaVantage
 
 3. **[QuantLib](../q/quantlib.md)**
-   - An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools for modeling, trading, and [risk management](../r/risk_management.md).
-   - URL: [QuantLib](https://www.quantlib.org/)
+ - An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md), [offering](../o/offering.md) tools for modeling, trading, and [risk management](../r/risk_management.md).
+ - URL: QuantLib
 
 4. **[Backtrader](../b/backtrader.md)**
-   - A Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md).
-   - URL: [Backtrader](https://www.backtrader.com/)
+ - A Python-based [backtesting](../b/backtesting.md) library for [trading strategies](../t/trading_strategies.md).
+ - URL: Backtrader
 
 5. **[TensorFlow](../t/tensorflow.md)**
-   - An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework useful for building [predictive models](../p/predictive_models_in_trading.md).
-   - URL: [TensorFlow](https://www.tensorflow.org/)
+ - An [open](../o/open.md)-source [machine learning](../m/machine_learning.md) framework useful for building [predictive models](../p/predictive_models_in_trading.md).
+ - URL: TensorFlow
 
 ### Case Study: Implementation of a Quantitative Trading Strategy
 
 Let's walk through a simplified case study of implementing a [quantitative trading](../q/quantitative_trading.md) strategy using moving averages:
 
 1. **Data Collection and Cleaning**
-   - Collect historical price data for the [asset](../a/asset.md) of [interest](../i/interest.md) (e.g., daily closing prices for the past 5 years).
-   - Clean the data to remove any anomalies, such as missing dates or irregular timestamps.
+ - Collect historical price data for the [asset](../a/asset.md) of [interest](../i/interest.md) (e.g., daily closing prices for the past 5 years).
+ - Clean the data to remove any anomalies, such as missing dates or irregular timestamps.
 
 2. **Feature Engineering**
-   - Calculate short-term (e.g., 50-day) and long-term (e.g., 200-day) moving averages of the closing price.
+ - Calculate short-term (e.g., 50-day) and long-term (e.g., 200-day) moving averages of the closing price.
 
 3. **Signal Generation**
-   - Generate buy signals when the short-term moving average crosses above the long-term moving average.
-   - Generate sell signals when the short-term moving average crosses below the long-term moving average.
+ - Generate buy signals when the short-term moving average crosses above the long-term moving average.
+ - Generate sell signals when the short-term moving average crosses below the long-term moving average.
 
 4. **[Backtesting](../b/backtesting.md)**
-   - Implement the strategy using a [backtesting](../b/backtesting.md) framework like [Backtrader](../b/backtrader.md).
-   - Run the backtest to simulate historical performance, adjusting parameters as needed.
+ - Implement the strategy using a [backtesting](../b/backtesting.md) framework like [Backtrader](../b/backtrader.md).
+ - Run the backtest to simulate historical performance, adjusting parameters as needed.
 
 5. **[Risk Management](../r/risk_management.md)**
-   - Implement a stop-loss strategy to minimize potential losses.
-   - Use [position sizing](../p/position_sizing.md) techniques to manage the [risk](../r/risk.md) exposure of each [trade](../t/trade.md).
+ - Implement a stop-loss strategy to minimize potential losses.
+ - Use [position sizing](../p/position_sizing.md) techniques to manage the [risk](../r/risk.md) exposure of each [trade](../t/trade.md).
 
 6. **Performance Evaluation**
-   - Evaluate the strategy using metrics like [Sharpe ratio](../s/sharpe_ratio.md), maximum [drawdown](../d/drawdown.md), and [win/loss ratio](../w/win_loss_ratio.md).
+ - Evaluate the strategy using metrics like [Sharpe ratio](../s/sharpe_ratio.md), maximum [drawdown](../d/drawdown.md), and [win/loss ratio](../w/win_loss_ratio.md).
 
 7. **Live [Execution](../e/execution.md)**
-   - Deploy the strategy on a [trading platform](../t/trading_platform.md) like [QuantConnect](../q/quantconnect.md), enabling live trading.
-   - Continuously monitor the performance and make adjustments as needed.
+ - Deploy the strategy on a [trading platform](../t/trading_platform.md) like [StockSharp](../s/stocksharp.md), enabling live trading.
+ - Continuously monitor the performance and make adjustments as needed.
 
 ### Conclusion
 
 Quantitative signal generation is a dynamic and intricate field that combines [multiple](../m/multiple.md) disciplines to create actionable [trading signals](../t/trading_signals.md). Its systematic approach eliminates emotional biases and leverages data-driven insights for consistent [trading performance](../t/trading_performance.md). As markets continuously evolve, advancements in technology and methodologies [will](../w/will.md) further enhance the capabilities of [quantitative trading](../q/quantitative_trading.md) strategies.
-

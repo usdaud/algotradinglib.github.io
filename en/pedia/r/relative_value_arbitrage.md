@@ -54,15 +54,15 @@ This involves trading related commodities like [crude oil](../c/crude_oil.md) an
 
 #### Renaissance Technologies
 
-Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) funds that employ [relative value](../r/relative_value.md) and other [quantitative trading](../q/quantitative_trading.md) strategies. Founded by James Simons, the [firm](../f/firm.md) uses highly advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is one of the most successful [hedge](../h/hedge.md) funds that employ [relative value](../r/relative_value.md) and other [quantitative trading](../q/quantitative_trading.md) strategies. Founded by James Simons, the [firm](../f/firm.md) uses highly advanced [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify trading opportunities. Renaissance Technologies
 
 #### Two Sigma
 
-Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to inform its trading decisions. [Two Sigma](https://www.twosigma.com/)
+Two Sigma is another prominent [hedge fund](../h/hedge_fund.md) that specializes in [quantitative trading](../q/quantitative_trading.md) strategies, including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) leverages [big data](../b/big_data_in_trading.md), [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to inform its trading decisions. Two Sigma
 
 #### Citadel LLC
 
-Citadel LLC, founded by Ken Griffin, is known for its use of sophisticated [trading strategies](../t/trading_strategies.md), including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) employs a vast array of financial instruments and employs a team of quantitative researchers to develop [proprietary trading](../p/proprietary_trading.md) models. [Citadel](https://www.citadel.com/)
+Citadel LLC, founded by Ken Griffin, is known for its use of sophisticated [trading strategies](../t/trading_strategies.md), including [Relative Value](../r/relative_value.md) [Arbitrage](../a/arbitrage.md). The [firm](../f/firm.md) employs a vast array of financial instruments and employs a team of quantitative researchers to develop [proprietary trading](../p/proprietary_trading.md) models. Citadel
 
 ### Conclusion
 

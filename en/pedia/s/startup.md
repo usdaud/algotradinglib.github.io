@@ -1,6 +1,6 @@
 # Startup
 
-In the modern economic landscape, startups play a crucial role in driving innovation, [economic growth](../e/economic_growth.md), and job creation. This [write-up](../w/write-up.md) aims to delve into the intricate fabric of startups, exploring their lifecycle, funding mechanisms, challenges, strategies for success, and the dynamic ecosystem in which they thrive. 
+In the modern economic landscape, startups play a crucial role in driving innovation, [economic growth](../e/economic_growth.md), and job creation. This [write-up](../w/write-up.md) aims to delve into the intricate fabric of startups, exploring their lifecycle, funding mechanisms, challenges, strategies for success, and the dynamic ecosystem in which they thrive.
 
 ## What is a Startup?
 
@@ -101,16 +101,16 @@ Governments play a pivotal role through policies, grants, and incentives that en
 Fintech startups deserve special mention due to their role in revolutionizing the financial [industry](../i/industry.md). These startups [leverage](../l/leverage.md) technology to [offer](../o/offer.md) innovative financial products and services, often bypassing traditional financial institutions. Key areas include:
 
 ### 1. Payment Solutions
-Startups like Stripe (https://stripe.com) and Square (https://squareup.com) provide seamless [payment](../p/payment.md) processing solutions for businesses of all sizes.
+Startups like Stripe ( and Square ( provide seamless [payment](../p/payment.md) processing solutions for businesses of all sizes.
 
 ### 2. Lending Platforms
-Platforms like LendingClub (https://www.lendingclub.com) and [Upstart](../u/upstart.md) (https://www.[upstart](../u/upstart.md).com) [offer](../o/offer.md) alternative lending solutions using [data analytics](../d/data_analytics.md) and AI to assess [creditworthiness](../c/creditworthiness.md).
+Platforms like LendingClub ( and [Upstart](../u/upstart.md) ( [offer](../o/offer.md) alternative lending solutions using [data analytics](../d/data_analytics.md) and AI to assess [creditworthiness](../c/creditworthiness.md).
 
 ### 3. Wealth Management
-Robo-advisors like Betterment (https://www.betterment.com) and Wealthfront (https://www.wealthfront.com) provide automated investment advisory services.
+Robo-advisors like Betterment and Wealthfront provide automated investment advisory services.
 
 ### 4. Blockchain and Cryptocurrency
-Startups like [Coinbase](../c/coinbase.md) (https://www.[coinbase](../c/coinbase.md).com) and [Binance](../b/binance.md) (https://www.[binance](../b/binance.md).com) are at the forefront of cryptocurrency trading and [blockchain](../b/blockchain_in_trading.md) technology.
+Startups like [Coinbase](../c/coinbase.md) ( and [Binance](../b/binance.md) ( are at the forefront of cryptocurrency trading and [blockchain](../b/blockchain_in_trading.md) technology.
 
 ## Conclusion
 

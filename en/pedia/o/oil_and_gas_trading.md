@@ -30,18 +30,18 @@ Financial instruments like swaps allow for the [exchange](../e/exchange.md) of f
 ## Key Market Players
 
 ### Oil Companies
-1. **ExxonMobil**: A leading global oil and gas [corporation](../c/corporation.md) involved in exploration, production, and trading. [ExxonMobil](https://corporate.exxonmobil.com/)
-2. **Royal Dutch Shell**: Engages in extensive trading and hedging activities through its Shell Trading division. [Shell](https://www.shell.com/)
-3. **Chevron**: Active in trading [crude oil](../c/crude_oil.md), refined products, and natural gas through its trading division. [Chevron](https://www.chevron.com/)
+1. **ExxonMobil**: A leading global oil and gas [corporation](../c/corporation.md) involved in exploration, production, and trading. ExxonMobil
+2. **Royal Dutch Shell**: Engages in extensive trading and hedging activities through its Shell Trading division. Shell
+3. **Chevron**: Active in trading [crude oil](../c/crude_oil.md), refined products, and natural gas through its trading division. Chevron
 
 ### Trading Houses
-1. **Vitol**: One of the world's largest independent energy traders, with a vast portfolio in oil and other commodities. [Vitol](https://www.vitol.com/)
-2. **Trafigura**: Engages in large-scale [volume](../v/volume.md) trading of oil and gas. [Trafigura](https://www.trafigura.com/)
-3. **Glencore**: Operates significant trading operations in [crude oil](../c/crude_oil.md) and refined products. [Glencore](https://www.glencore.com/)
+1. **Vitol**: One of the world's largest independent energy traders, with a vast portfolio in oil and other commodities. Vitol
+2. **Trafigura**: Engages in large-scale [volume](../v/volume.md) trading of oil and gas. Trafigura
+3. **Glencore**: Operates significant trading operations in [crude oil](../c/crude_oil.md) and refined products. Glencore
 
-### Financial Institutions 
-1. **Goldman Sachs**: A prominent player providing [market](../m/market.md) [liquidity](../l/liquidity.md) and [derivatives](../d/derivatives.md) for oil and gas trading. [Goldman Sachs](https://www.goldmansachs.com/)
-2. **Morgan Stanley**: Active in trading energy commodities to [hedge](../h/hedge.md) [risk](../r/risk.md) and provide client services. [Morgan Stanley](https://www.morganstanley.com/)
+### Financial Institutions
+1. **Goldman Sachs**: A prominent player providing [market](../m/market.md) [liquidity](../l/liquidity.md) and [derivatives](../d/derivatives.md) for oil and gas trading. Goldman Sachs
+2. **Morgan Stanley**: Active in trading energy commodities to [hedge](../h/hedge.md) [risk](../r/risk.md) and provide client services. Morgan Stanley
 
 ## Regulatory Environment
 
@@ -54,16 +54,16 @@ EMIR mandates reporting of all [derivatives](../d/derivatives.md) contracts to [
 ## Tools and Technology
 
 ### Trading Platforms
-1. **Eikon by Refinitiv**: Provides extensive [market](../m/market.md) data, news, and trading [execution](../e/execution.md) services. [Refinitiv](https://www.refinitiv.com/)
-2. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers unparalleled [data analytics](../d/data_analytics.md), news, and trading capabilities. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+1. **Eikon by Refinitiv**: Provides extensive [market](../m/market.md) data, news, and trading [execution](../e/execution.md) services. Refinitiv
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers unparalleled [data analytics](../d/data_analytics.md), news, and trading capabilities. Bloomberg
 
 ### Risk Management Software
-1. **Openlink**: A comprehensive solution for trading, [risk management](../r/risk_management.md), and operations across commodities. [Openlink](https://www.iongroup.com/openlink/)
-2. **Allegro**: Provides [robust](../r/robust.md) ETRM ([Energy Trading](../e/energy_trading.md) and [Risk Management](../r/risk_management.md)) solutions. [Allegro](https://www.allegrodev.com/)
+1. **Openlink**: A comprehensive solution for trading, [risk management](../r/risk_management.md), and operations across commodities. Openlink
+2. **Allegro**: Provides [robust](../r/robust.md) ETRM ([Energy Trading](../e/energy_trading.md) and [Risk Management](../r/risk_management.md)) solutions. Allegro
 
 ### Data Analytics Tools
-1. **Kpler**: Offers valuable insights through real-time tracking of oil, gas, and various commodities. [Kpler](https://www.kpler.com/)
-2. **Genscape**: Provides critical data about energy commodities for [market](../m/market.md) participants. [Genscape](https://www.genscape.com/)
+1. **Kpler**: Offers valuable insights through real-time tracking of oil, gas, and various commodities. Kpler
+2. **Genscape**: Provides critical data about energy commodities for [market](../m/market.md) participants. Genscape
 
 ## Market Dynamics
 

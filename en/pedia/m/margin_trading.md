@@ -17,7 +17,7 @@ The [maintenance margin](../m/maintenance_margin.md) is the minimum [account bal
 
 ### 2. Mechanics of Margin Trading
 
-[Margin](../m/margin.md) trading can be leveraged for both buying securities (long positions) and selling securities short (short positions). 
+[Margin](../m/margin.md) trading can be leveraged for both buying securities (long positions) and selling securities short (short positions).
 
 #### 2.1. Long Positions
 When taking a long position, you're betting that the price of the [security](../s/security.md) [will](../w/will.md) rise. For example, if you have $10,000 and your [broker](../b/broker.md) has a [margin](../m/margin.md) requirement of 50%, you can borrow an additional $10,000 to purchase $20,000 worth of securities.
@@ -56,7 +56,7 @@ In the United States, [margin](../m/margin.md) trading is regulated by the Finan
 Under Regulation T, the Federal Reserve Board has set [margin](../m/margin.md) requirements for securities transactions. This regulation allows investors to borrow up to 50% of the purchase price of securities.
 
 #### 5.3. Broker-Specific Rules
-Brokerage firms may have their own additional [margin](../m/margin.md) requirements and policies. For example, [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985) has specific [margin](../m/margin.md) rates and requirements.
+Brokerage firms may have their own additional [margin](../m/margin.md) requirements and policies. For example, Interactive Brokers has specific [margin](../m/margin.md) rates and requirements.
 
 ### 6. Margin Trading Strategies
 
@@ -73,9 +73,9 @@ Traders often use [margin](../m/margin.md) to take advantage of price discrepanc
 
 Several online trading platforms [offer](../o/offer.md) [margin](../m/margin.md) trading services, each with its own set of tools, resources, and [margin](../m/margin.md) requirements. Leading platforms include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [E*TRADE](https://us.etrade.com)
+- Interactive Brokers
+- TD Ameritrade
+- E*TRADE
 
 These platforms provide real-time data, advanced trading tools, and educational resources to help investors make informed decisions.
 

@@ -103,9 +103,9 @@ pf.create_returns_tear_sheet(returns)
 
 Several platforms provide comprehensive [return](../r/return.md) analysis tools for algorithmic traders:
 
-- **[QuantConnect](../q/quantconnect.md) ([www.quantconnect.com](https://www.quantconnect.com)):** Offers a cloud-based, sharable environment for running strategies and performing complex [return](../r/return.md) analysis.
+- **[QuantConnect](../q/quantconnect.md) ( Offers a cloud-based, sharable environment for running strategies and performing complex [return](../r/return.md) analysis.
 - **Quantopian:** Was one of the pioneers in providing online [backtesting](../b/backtesting.md) and analysis tools before its closure.
-- **[Interactive Brokers](../i/interactive_brokers.md) ([www.interactivebrokers.com](https://www.interactivebrokers.com)):** Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
+- **[Interactive Brokers](../i/interactive_brokers.md) ( Provides a powerful API for traders who want to integrate their algo-trading with real-time [brokerage services](../b/brokerage_services.md).
 
 ### Conclusion
 

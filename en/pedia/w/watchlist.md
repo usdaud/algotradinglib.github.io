@@ -83,7 +83,7 @@ Long-term investors can use watchlists to track potential buy-and-[hold](../h/ho
 
 ## Watchlist in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), watchlists can play a critical role. [Algorithmic trading](../a/accountability.md) involves the use of special algorithms to execute orders based on predefined criteria. These algorithms can track the watchlist in real-time to activate buy or sell orders when certain conditions are met.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), watchlists can play a critical role. [Algorithmic trading](../a/algorithmic_trading.md) involves the use of special algorithms to execute orders based on predefined criteria. These algorithms can track the watchlist in real-time to activate buy or sell orders when certain conditions are met.
 
 ### 1. Automated Screening
 
@@ -99,7 +99,7 @@ Algorithms can continuously analyze real-time data from the watchlist to calcula
 
 ### 4. High-Frequency Trading
 
-[High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) may use a watchlist to focus on a set of [stocks](../s/stock.md) that historically exhibit the kind of price [volatility](../v/volatility.md) they are built to exploit. 
+[High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) may use a watchlist to focus on a set of [stocks](../s/stock.md) that historically exhibit the kind of price [volatility](../v/volatility.md) they are built to exploit.
 
 ## Platforms and Tools
 
@@ -108,27 +108,22 @@ Several platforms and tools can aid in creating and managing watchlists:
 ### 1. **Finviz**
 
 Finviz is a popular [stock screener](../s/stock_screener.md) that offers a [robust](../r/robust.md) platform for creating and managing watchlists. Users can filter [stocks](../s/stock.md) based on [multiple](../m/multiple.md) criteria and add them to a watchlist for future tracking.
-[Finviz Website](https://finviz.com/)
 
 ### 2. **Yahoo Finance**
 
 [Yahoo Finance](../y/yahoo_finance.md) provides a comprehensive and user-friendly interface for creating watchlists. It offers real-time quotes, news updates, and [portfolio management](../p/par.md) tools, making it an excellent choice for retail investors.
-[Yahoo Finance Website](https://finance.yahoo.com/)
 
 ### 3. **TradingView**
 
 [TradingView](../t/tradingview.md) offers an advanced charting platform where traders can create watchlists, set alerts, and conduct extensive [technical analysis](../t/technical_analysis.md). It is widely used by both retail and institutional traders.
-[TradingView Website](https://www.tradingview.com/)
 
 ### 4. **Bloomberg Terminal**
 
 For institutional investors, the [Bloomberg Terminal](../b/bloomberg_terminal.md) provides state-of-the-art tools for creating watchlists, monitoring [market](../m/market.md) data, and gaining access to detailed [financial analysis](../f/financial_analysis.md) and news.
-[Bloomberg Website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### 5. **MetaTrader**
 
 MetaTrader is a widely-used [trading platform](../t/trading_platform.md) that offers the functionality to create and manage watchlists alongside numerous other trading and analytical tools, suitable for forex and CFD traders.
-[MetaTrader Website](https://www.metatrader5.com/en)
 
 ## Conclusion
 

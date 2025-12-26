@@ -51,12 +51,7 @@ During the stabilization period, book runners may employ various [trading strate
 
 Several prominent financial institutions often serve as book runners for major securities offerings. These include:
 
-- **Goldman Sachs** [https://www.goldmansachs.com](https://www.goldmansachs.com)
-- **Morgan Stanley** [https://www.morganstanley.com](https://www.morganstanley.com)
-- **JPMorgan Chase** [https://www.jpmorganchase.com](https://www.jpmorganchase.com)
-- **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md)** [https://www.bofaml.com](https://www.bofaml.com)
-- **Citigroup** [https://www.citi.com](https://www.citi.com)
-
+- **Goldman Sachs** - **Morgan Stanley** - **JPMorgan Chase** - **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md)** - **Citigroup**
 These institutions are renowned for their expertise in managing large-scale issuances, providing extensive [market](../m/market.md)-making services, and facilitating complex financial transactions.
 
 ## Technological Integration

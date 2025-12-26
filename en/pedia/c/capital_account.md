@@ -7,7 +7,7 @@ In the realm of [economics](../e/economics.md) and [finance](../f/finance.md), t
 The [capital](../c/capital.md) account is generally divided into three primary components:
 
 1. **Foreign [Direct Investment](../d/direct_investment.md) (FDI)**: This involves purchasing [tangible assets](../t/tangible_asset.md) such as buildings, factories, or machinery in another country. FDI is characterized by a long-term [interest](../i/interest.md) and a significant degree of influence or control over the management of the invested entity.
-  
+
 2. **[Portfolio Investment](../p/portfolio_investment.md)**: Unlike FDI, [portfolio investment](../p/portfolio_investment.md) includes transactions in [equity](../e/equity.md) ([stocks](../s/stock.md)) and [debt](../d/debt.md) (bonds) that do not [offer](../o/offer.md) the [investor](../i/investor.md) a controlling stake. These investments are typically more [liquid](../l/liquid.md) and can be easily bought and sold on [financial markets](../f/financial_market.md).
 
 3. **Other [Capital](../c/capital.md) Transfers**: This category covers the miscellaneous and smaller [capital](../c/capital.md) flows, such as remittances, inheritances, and gifts between countries.
@@ -71,4 +71,4 @@ Governments and central banks often face policy dilemmas when managing the [capi
 
 The [capital](../c/capital.md) account serves as a critical [indicator](../i/indicator.md) of a nation's [financial health](../f/financial_health.md) and its interaction with the global [economy](../e/economy.md). Understanding its components, implications, and the regulatory framework governing it helps in making informed decisions in both policy formulation and investment strategies. Advances in technology [offer](../o/offer.md) new tools for monitoring and managing [capital](../c/capital.md) flows, but the inherent challenges and risks necessitate a balanced approach to ensure sustainable [economic growth](../e/economic_growth.md) and stability.
 
-For more comprehensive information on specific regulations and policy measures, you can visit the [International Monetary Fund (IMF)](https://www.imf.org/) or [World Bank](https://www.worldbank.org/).
+For more comprehensive information on specific regulations and policy measures, you can visit the International Monetary Fund (IMF) or World Bank.

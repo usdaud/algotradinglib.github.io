@@ -61,19 +61,19 @@ Effective [risk management](../r/risk_management.md) requires accurate measureme
 
 ### Python Libraries
 - **scikit-learn**: Offers a variety of preprocessing tools including MinMaxScaler and StandardScaler.
-  - [scikit-learn](https://scikit-learn.org)
+ - scikit-learn
 - **pandas**: Provides powerful data manipulation and preprocessing functions.
-  - [pandas](https://pandas.pydata.org)
+ - pandas
 - **numpy**: Useful for raw numerical operations and transformations.
-  - [numpy](https://numpy.org)
+ - numpy
 
 ### R Packages
 - **caret**: Provides a comprehensive framework for creating and assessing [predictive models](../p/predictive_models_in_trading.md).
-  - [caret](https://topepo.github.io/caret/)
+ - caret
 - **dplyr**: Facilitates data manipulation and normalization.
-  - [dplyr](https://dplyr.tidyverse.org)
+ - dplyr
 - **scales**: Enables easy scaling of numeric data.
-  - [scales](https://scales.r-lib.org)
+ - scales
 
 ## Challenges and Considerations
 
@@ -92,4 +92,4 @@ Financial data is often non-stationary, meaning its statistical properties chang
 ## Conclusion
 Data normalization is an indispensable part of [algorithmic trading](../a/algorithmic_trading.md). It ensures that different types of financial data can be compared and analyzed accurately, leading to more reliable [trading strategies](../t/trading_strategies.md) and models. By understanding and applying various normalization techniques, traders and analysts can enhance their models' performance and achieve better trading outcomes.
 
----
+---

@@ -10,58 +10,58 @@ In the world of [finance](../f/finance.md) and trading, vendors play a crucial r
 
 Data providers [supply](../s/supply.md) real-time and historical [market](../m/market.md) data, news, and analytics. These vendors are essential for traders to make informed decisions. Key players in this space include:
 
-- **[Bloomberg](../b/bloomberg.md)**: Offers a comprehensive suite of tools and data through its [Bloomberg Terminal](../b/bloomberg_terminal.md). [Bloomberg](https://www.bloomberg.com)
-- **Thomson [Reuters](../r/reuters.md)**: Provides Eikon, a platform for financial data and trading tools. [Refinitiv](https://www.refinitiv.com)
-- **ICE Data Services**: Offers data services that include [market](../m/market.md) data, pricing solutions, analytics, etc. [ICE Data Services](https://www.theice.com/market-data)
-- **[Morningstar](../m/morningstar.md)**: Supplies investment research, ratings, and data services. [Morningstar](https://www.morningstar.com)
+- **[Bloomberg](../b/bloomberg.md)**: Offers a comprehensive suite of tools and data through its [Bloomberg Terminal](../b/bloomberg_terminal.md). Bloomberg
+- **Thomson [Reuters](../r/reuters.md)**: Provides Eikon, a platform for financial data and trading tools. Refinitiv
+- **ICE Data Services**: Offers data services that include [market](../m/market.md) data, pricing solutions, analytics, etc. ICE Data Services
+- **[Morningstar](../m/morningstar.md)**: Supplies investment research, ratings, and data services. Morningstar
 
 ### Trading Platforms
 
 Trading platforms facilitate the [execution](../e/execution.md) of buy and sell orders and [offer](../o/offer.md) a suite of tools for traders. Some prominent trading platforms include:
 
-- **MetaTrader 4/5**: Popular platforms used primarily in Forex trading. [MetaTrader](https://www.metatrader5.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers [Trader](../t/trader.md) Workstation (TWS) for advanced [order types](../o/order_types_in_trading.md) and trading analytics. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD [Ameritrade](../a/ameritrade.md)**: Known for its Thinkorswim platform, which is rich in tools for various [asset](../a/asset.md) classes. [TD Ameritrade](https://www.tdameritrade.com)
-- **[E*TRADE](../e/e_trade.md)**: Provides an electronic [trading platform](../t/trading_platform.md) for retail investors. [E*TRADE](https://us.etrade.com)
+- **MetaTrader 4/5**: Popular platforms used primarily in Forex trading. MetaTrader
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers [Trader](../t/trader.md) Workstation (TWS) for advanced [order types](../o/order_types_in_trading.md) and trading analytics. Interactive Brokers
+- **TD [Ameritrade](../a/ameritrade.md)**: Known for its Thinkorswim platform, which is rich in tools for various [asset](../a/asset.md) classes. TD Ameritrade
+- **[E*TRADE](../e/e_trade.md)**: Provides an electronic [trading platform](../t/trading_platform.md) for retail investors. E*TRADE
 
 ### Risk Management Systems
 
 [Risk management systems](../r/risk_management_systems.md) help financial institutions monitor and mitigate the risks associated with trading. Leading vendors in this area include:
 
-- **Moody’s Analytics**: Offers [credit](../c/credit.md) [risk management](../r/risk_management.md) software and analytics. [Moody's Analytics](https://www.moodysanalytics.com)
-- **Quantifi**: Provides [risk](../r/risk.md) analytics and pricing models for OTC markets. [Quantifi](https://www.quantifisolutions.com)
-- **Numerix**: Specializes in [risk](../r/risk.md) analytics for [derivatives](../d/derivatives.md) and structured products. [Numerix](https://www.numerix.com)
+- **Moody’s Analytics**: Offers [credit](../c/credit.md) [risk management](../r/risk_management.md) software and analytics. Moody's Analytics
+- **Quantifi**: Provides [risk](../r/risk.md) analytics and pricing models for OTC markets. Quantifi
+- **Numerix**: Specializes in [risk](../r/risk.md) analytics for [derivatives](../d/derivatives.md) and structured products. Numerix
 
 ### Compliance Tools
 
 Compliance tools ensure that trading activities adhere to regulatory requirements, preventing legal repercussions. Some noteworthy vendors include:
 
-- **ACA Compliance Group**: Provides comprehensive compliance services and technology solutions. [ACA Compliance Group](https://www.acacompliancegroup.com)
-- **RegEd**: Specializes in compliance management systems. [RegEd](https://www.reged.com)
-- **Fenergo**: Offers client lifecycle management solutions. [Fenergo](https://www.fenergo.com)
+- **ACA Compliance Group**: Provides comprehensive compliance services and technology solutions. ACA Compliance Group
+- **RegEd**: Specializes in compliance management systems. RegEd
+- **Fenergo**: Offers client lifecycle management solutions. Fenergo
 
 ### Brokerage Services
 
 [Brokerage services](../b/brokerage_services.md) [offer](../o/offer.md) [execution](../e/execution.md) of trades and other related services to individual and institutional clients. Leading brokerages include:
 
-- **[Charles Schwab](../c/charles_schwab.md)**: Provides a wide [range](../r/range.md) of brokerage and financial advisory services. [Charles Schwab](https://www.schwab.com)
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Known for its [robust](../r/robust.md) brokerage and [investment management](../i/investment_management.md) services. [Fidelity](https://www.fidelity.com)
-- **[Robinhood](../r/robinhood.md)**: [Commission](../c/commission.md)-free trading for retail clients. [Robinhood](https://www.robinhood.com)
+- **[Charles Schwab](../c/charles_schwab.md)**: Provides a wide [range](../r/range.md) of brokerage and financial advisory services. Charles Schwab
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Known for its [robust](../r/robust.md) brokerage and [investment management](../i/investment_management.md) services. Fidelity
+- **[Robinhood](../r/robinhood.md)**: [Commission](../c/commission.md)-free trading for retail clients. Robinhood
 
 ### Algorithmic Trading Solutions
 
-[Algorithmic trading](../a/accountability.md) solutions [offer](../o/offer.md) software and algorithms that facilitate automated [trading strategies](../t/trading_strategies.md). Key providers include:
+[Algorithmic trading](../a/algorithmic_trading.md) solutions [offer](../o/offer.md) software and algorithms that facilitate automated [trading strategies](../t/trading_strategies.md). Key providers include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform. [QuantConnect](https://www.quantconnect.com)
-- **QuantInsti**: Provides education and tools for creating [trading algorithms](../t/trading_algorithms.md). [QuantInsti](https://www.quantinsti.com)
-- **Kx Systems**: Known for its high-performance time-series database used in algo trading. [Kx Systems](https://kx.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform. QuantConnect
+- **QuantInsti**: Provides education and tools for creating [trading algorithms](../t/trading_algorithms.md). QuantInsti
+- **Kx Systems**: Known for its high-performance time-series database used in algo trading. Kx Systems
 
 ### Market Simulators
 
 [Market](../m/market.md) simulators allow traders to test their strategies in a [risk](../r/risk.md)-free environment. Top [market](../m/market.md) simulators include:
 
-- **AlgoTrader**: Provides an institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md). [AlgoTrader](https://www.algotrader.com)
-- **[TradeStation](../t/tradestation.md)**: Offers a simulator as part of its [trading platform](../t/trading_platform.md). [TradeStation](https://www.tradestation.com)
+- **AlgoTrader**: Provides an institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md). AlgoTrader
+- **[TradeStation](../t/tradestation.md)**: Offers a simulator as part of its [trading platform](../t/trading_platform.md). TradeStation
 - **Paper Trading**: Many platforms like [Interactive Brokers](../i/interactive_brokers.md) [offer](../o/offer.md) paper trading accounts.
 
 ## Importance of Vendors
@@ -80,7 +80,7 @@ Vendors streamline numerous processes in [finance](../f/finance.md) and trading,
 
 ### Innovation and Competition
 
-Vendors drive innovation in the [finance](../f/finance.md) and trading sectors. For example, advancements in [algorithmic trading](../a/accountability.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are largely vendor-driven. This innovation fosters competition, leading to better services and lower costs for end-users.
+Vendors drive innovation in the [finance](../f/finance.md) and trading sectors. For example, advancements in [algorithmic trading](../a/algorithmic_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) are largely vendor-driven. This innovation fosters competition, leading to better services and lower costs for end-users.
 
 ## Challenges Faced by Vendors
 

@@ -59,7 +59,7 @@ If a breach of an express [warranty](../w/warranty.md) occurs, the buyer can pur
 ### Fin-tech Companies and Express Warranties
 Several financial technology (fin-tech) companies provide express warranties as part of their service agreements:
 
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) may [warrant](../w/warrant.md) the accuracy and timeliness of its financial data and analytics (https://www.[bloomberg](../b/bloomberg.md).com/company/).
+- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](../b/bloomberg.md) may [warrant](../w/warrant.md) the accuracy and timeliness of its financial data and analytics (
 
 ### Case Study: Algorithmic Trading Platforms
 Consider an [algorithmic trading](../a/accountability.md) platform promising a 99.9% uptime guarantee. If the platform experiences downtime beyond this limit, this could constitute a breach of their express [warranty](../w/warranty.md), entitling the user to compensation or other remedies as outlined in their service agreement.

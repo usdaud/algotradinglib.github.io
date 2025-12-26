@@ -106,7 +106,6 @@ In high-frequency trading, understanding the [joint](../j/joint.md) [distributio
 
 AQR [Capital](../c/capital.md) Management is a well-known [firm](../f/firm.md) that extensively uses quantitative techniques in its [trading strategies](../t/trading_strategies.md). Their approach often involves [joint](../j/joint.md) [distribution](../d/distribution.md) analysis to understand the intricate relationships between different assets and to [model risk](../m/model_risk.md).
 
-Visit AQR [Capital](../c/capital.md) Management's [official website](https://www.aqr.com/) for more information about their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Example Strategy: Pairs Trading
 

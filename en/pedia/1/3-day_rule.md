@@ -1,6 +1,6 @@
 # 3-Day Rule
 
-In the world of trading and investment, various strategies and rules are followed by traders and investors to maximize their profits while minimizing their risks. One of these is the "3-Day Rule," a trading guideline that can influence decision-making. This rule revolves around the adjustment period following significant news or events affecting a stock's price. Below, an in-depth exploration of the 3-Day Rule is presented, covering its fundamentals, applications, advantages, disadvantages, and comparisons with other [trading strategies](../t/trading_strategies.md). 
+In the world of trading and investment, various strategies and rules are followed by traders and investors to maximize their profits while minimizing their risks. One of these is the "3-Day Rule," a trading guideline that can influence decision-making. This rule revolves around the adjustment period following significant news or events affecting a stock's price. Below, an in-depth exploration of the 3-Day Rule is presented, covering its fundamentals, applications, advantages, disadvantages, and comparisons with other [trading strategies](../t/trading_strategies.md).
 
 ## Fundamentals of the 3-Day Rule
 
@@ -94,20 +94,20 @@ Several trading platforms and tools can aid traders in applying the 3-Day Rule e
 
 ### 1. **Bloomberg Terminal**
 
-A comprehensive platform providing real-time data, news, and analytics. Traders can use it to monitor the initial reactions and ongoing developments following major news events. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+A comprehensive platform providing real-time data, news, and analytics. Traders can use it to monitor the initial reactions and ongoing developments following major news events.
 
 ### 2. **Reuters Eikon**
 
-Another leading source of [financial markets](../f/financial_market.md) data and news, enabling traders to keep track of reactions and sentiment shifts over the 3-day period. [Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)
+Another leading source of [financial markets](../f/financial_market.md) data and news, enabling traders to keep track of reactions and sentiment shifts over the 3-day period.
 
 ### 3. **Yahoo Finance**
 
-A widely used platform [offering](../o/offering.md) news, historical data, and analytical tools, useful for observing stock behavior and applying the 3-Day Rule to trades. [Yahoo Finance](https://finance.yahoo.com/)
+A widely used platform [offering](../o/offering.md) news, historical data, and analytical tools, useful for observing stock behavior and applying the 3-Day Rule to trades.
 
 ### 4. **TradingView**
 
-Provides [robust](../r/robust.md) charting tools and community insights, enabling traders to visualize price movements and patterns over the three days following significant events. [TradingView](https://www.tradingview.com/)
+Provides [robust](../r/robust.md) charting tools and community insights, enabling traders to visualize price movements and patterns over the three days following significant events.
 
 ## Conclusion
 
-The 3-Day Rule serves as a strategic guideline in the trading world, emphasizing the importance of patience and informed decision-making following significant [market](../m/market.md)-moving events. While it may not be universally applicable in all scenarios, its core principles of emotional detachment, stabilization observation, and [pattern recognition](../p/pattern_recognition.md) can provide valuable insights for traders aiming to navigate [market](../m/market.md) [volatility](../v/volatility.md) effectively. By combining this rule with other strategies and leveraging advanced tools and platforms, traders can enhance their ability to make prudent, data-driven decisions in their trading endeavors.
+The 3-Day Rule serves as a strategic guideline in the trading world, emphasizing the importance of patience and informed decision-making following significant [market](../m/market.md)-moving events. While it may not be universally applicable in all scenarios, its core principles of emotional detachment, stabilization observation, and [pattern recognition](../p/pattern_recognition.md) can provide valuable insights for traders aiming to navigate [market](../m/market.md) [volatility](../v/volatility.md) effectively. By combining this rule with other strategies and leveraging advanced tools and platforms, traders can enhance their ability to make prudent, data-driven decisions in their trading endeavors.

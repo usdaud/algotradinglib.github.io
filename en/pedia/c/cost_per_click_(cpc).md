@@ -117,7 +117,7 @@ Using advanced algorithms can enhance campaign performance:
 - **Ad Copy**: Emphasized the platform’s advanced algorithms and competitive [execution](../e/execution.md) speed.
 
 **Results**:
-- **Increased Traffic**: Achieved a 35% increase in website traffic within three months.
+- **Increased Traffic**.
 - **Higher Conversion Rate**: Conversion rate improved by 22%, with a notable increase in demo account sign-ups.
 
 ### Case Study 2: MarketDataInsights
@@ -172,8 +172,8 @@ Cost Per Click (CPC) remains a critical component of [digital marketing](../d/di
 
 For more detailed insights into the offerings and services mentioned, you can visit:
 
-- [Google Ads](https://ads.google.com/)
-- [AdEspresso by Hootsuite](https://adespresso.com/)
-- [WordStream](https://www.wordstream.com/)
-- [SEMrush](https://www.semrush.com/)
-- [KISSmetrics](https://www.kissmetrics.io/)
+- Google Ads
+- AdEspresso by Hootsuite
+- WordStream
+- SEMrush
+- KISSmetrics

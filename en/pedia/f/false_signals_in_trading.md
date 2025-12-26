@@ -62,15 +62,15 @@ In [equity](../e/equity.md) markets, news-driven price movements can generate fa
 
 **[TradingView](../t/tradingview.md)**
 
-[TradingView](https://www.tradingview.com) offers a comprehensive platform for [technical analysis](../t/technical_analysis.md) with access to various indicators and tools to help traders identify and avoid false signals.
+TradingView offers a comprehensive platform for [technical analysis](../t/technical_analysis.md) with access to various indicators and tools to help traders identify and avoid false signals.
 
 **MetaTrader**
 
-[MetaTrader](https://www.metaquotes.net/en/metatrader4) is a popular [trading platform](../t/trading_platform.md) used by forex and [equity](../e/equity.md) traders. It offers automated trading capabilities and supports the use of expert advisors (EAs) to develop and backtest [trading strategies](../t/trading_strategies.md), reducing the [risk](../r/risk.md) of false signals.
+MetaTrader is a popular [trading platform](../t/trading_platform.md) used by forex and [equity](../e/equity.md) traders. It offers automated trading capabilities and supports the use of expert advisors (EAs) to develop and backtest [trading strategies](../t/trading_strategies.md), reducing the [risk](../r/risk.md) of false signals.
 
 **[QuantConnect](../q/quantconnect.md)**
 
-[QuantConnect](https://www.quantconnect.com) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive data and research tools for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Its [backtesting](../b/backtesting.md) environment helps traders evaluate the performance of their strategies under historical [market](../m/market.md) conditions.
+QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides extensive data and research tools for developing sophisticated [trading algorithms](../t/trading_algorithms.md). Its [backtesting](../b/backtesting.md) environment helps traders evaluate the performance of their strategies under historical [market](../m/market.md) conditions.
 
 ### Conclusion
 

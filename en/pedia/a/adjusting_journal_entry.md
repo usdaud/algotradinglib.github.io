@@ -87,9 +87,9 @@ A company has a piece of equipment that costs $60,000 with a [useful life](../u/
 
 Many [accounting](../a/accounting.md) software packages, such as QuickBooks, Xero, and FreshBooks, provide features to automate the process of making adjusting [journal](../j/journal.md) entries. These tools can help accountants and bookkeepers save time, reduce errors, and ensure compliance with [accounting](../a/accounting.md) standards.
 
-- [QuickBooks](https://quickbooks.intuit.com/)
-- [Xero](https://www.xero.com/)
-- [FreshBooks](https://www.freshbooks.com/)
+- QuickBooks
+- Xero
+- FreshBooks
 
 ## Conclusion
 

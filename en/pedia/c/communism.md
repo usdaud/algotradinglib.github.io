@@ -38,4 +38,3 @@
 
 ## Conclusion
 Communism is a political and economic ideology that seeks to establish a classless, stateless society with collective ownership of resources and means of production. While it has been implemented in various forms throughout history, it remains a contentious and debated ideology with both proponents and critics highlighting its theoretical aspirations and practical challenges.
-

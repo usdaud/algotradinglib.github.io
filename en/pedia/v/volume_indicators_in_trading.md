@@ -7,11 +7,11 @@
 On-Balance [Volume](../v/volume.md) (OBV) is a straightforward yet powerful [indicator](../i/indicator.md) that measures cumulative [volume](../v/volume.md) by adding the day's [volume](../v/volume.md) when the price closes up and subtracting it when the price closes down. OBV helps traders gauge whether [volume](../v/volume.md) is increasing or decreasing relative to price movements.
 
 ### Calculation:
-\[ OBV = OBV_{\text{previous}} + \begin{cases} 
-      \text{[Volume](../v/volume.md),} & \text{if } \text{Close}_{\text{today}} > \text{Close}_{\text{yesterday}} \\
-      -\text{[Volume](../v/volume.md),} & \text{if } \text{Close}_{\text{today}} < \text{Close}_{\text{yesterday}} \\
-      0, & \text{if } \text{Close}_{\text{today}} = \text{Close}_{\text{yesterday}} 
-   \end{cases}
+\[ OBV = OBV_{\text{previous}} + \begin{cases}
+ \text{[Volume](../v/volume.md),} & \text{if } \text{Close}_{\text{today}} > \text{Close}_{\text{yesterday}} \\
+ -\text{[Volume](../v/volume.md),} & \text{if } \text{Close}_{\text{today}} < \text{Close}_{\text{yesterday}} \\
+ 0, & \text{if } \text{Close}_{\text{today}} = \text{Close}_{\text{yesterday}}
+ \end{cases}
 \]
 
 ### Interpretation:
@@ -77,10 +77,10 @@ The Negative [Volume](../v/volume.md) [Index](../i/index_instrument.md) (NVI) fo
 
 ### Calculation:
 The NVI is calculated with adjustments only on days when the [volume](../v/volume.md) drops from the previous day:
-\[ \text{NVI}_{\text{today}} = \begin{cases} 
-      \text{NVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{NVI}_{\text{previous}} \right) & \text{if [volume](../v/volume.md) decreases} \\
-      \text{NVI}_{\text{previous}} & \text{if [volume](../v/volume.md) does not decrease} 
-   \end{cases}
+\[ \text{NVI}_{\text{today}} = \begin{cases}
+ \text{NVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{NVI}_{\text{previous}} \right) & \text{if [volume](../v/volume.md) decreases} \\
+ \text{NVI}_{\text{previous}} & \text{if [volume](../v/volume.md) does not decrease}
+ \end{cases}
 \]
 
 ### Interpretation:
@@ -93,10 +93,10 @@ The Positive [Volume](../v/volume.md) [Index](../i/index_instrument.md) (PVI) is
 
 ### Calculation:
 The PVI adjust only on days when the [volume](../v/volume.md) increases:
-\[ \text{PVI}_{\text{today}} = \begin{cases} 
-      \text{PVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{PVI}_{\text{previous}} \right) & \text{if [volume](../v/volume.md) increases} \\
-      \text{PVI}_{\text{previous}} & \text{if [volume](../v/volume.md) does not increase} 
-   \end{cases}
+\[ \text{PVI}_{\text{today}} = \begin{cases}
+ \text{PVI}_{\text{previous}} + \left( \frac{\text{Close}_{\text{today}} - \text{Close}_{\text{previous}}}{\text{Close}_{\text{previous}}} \times \text{PVI}_{\text{previous}} \right) & \text{if [volume](../v/volume.md) increases} \\
+ \text{PVI}_{\text{previous}} & \text{if [volume](../v/volume.md) does not increase}
+ \end{cases}
 \]
 
 ### Interpretation:

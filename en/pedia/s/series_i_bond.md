@@ -25,7 +25,7 @@ The composite rate combines these two rates and is calculated using the followin
 
 ### 3. Purchasing Limits
 
-Individuals are limited in the amount they can invest in I Bonds each year. As of the latest guidelines, individuals can purchase up to $10,000 in electronic I Bonds through the TreasuryDirect website (https://www.treasurydirect.gov) and an additional $5,000 in paper I Bonds using their [federal income](../f/federal_income.md) [tax refund](../t/tax_refund.md).
+Individuals are limited in the amount they can invest in I Bonds each year. As of the latest guidelines, individuals can purchase up to $10,000 in electronic I Bonds../f/federal_income.md) [tax refund](../t/tax_refund.md).
 
 ### 4. Redemption Rules
 
@@ -58,8 +58,7 @@ While I Bonds are a popular choice for [inflation](../i/inflation.md) protection
 
 ### 1. TreasuryDirect
 
-The primary platform for purchasing I Bonds is through TreasuryDirect (https://www.treasurydirect.gov). This online government platform allows individuals to:
-
+The primary platform for purchasing I Bonds is through TreasuryDirect This online government platform allows individuals to
 - Buy, manage, and redeem I Bonds electronically.
 - Set up recurring purchases.
 - Convert paper bonds to electronic form.
@@ -87,4 +86,3 @@ Given the current economic environment, where [inflation](../i/inflation.md) rat
 
 Series I Bonds represent a [robust](../r/robust.md) and accessible savings tool for individuals seeking a low-[risk](../r/risk.md) investment with [inflation](../i/inflation.md) protection. Their combination of a [fixed interest rate](../f/fixed_interest_rate.md) and an [inflation](../i/inflation.md)-adjusted rate, along with tax advantages and government backing, make them a valuable component of a diversified savings strategy. Whether used for long-term savings goals, education funding, or as a [hedge](../h/hedge.md) against [inflation](../i/inflation.md), I Bonds provide a reliable and predictable investment option amidst a landscape of economic [uncertainty](../u/uncertainty_in_trading.md).
 
-For more details on purchasing and managing I Bonds, visit the TreasuryDirect website: [TreasuryDirect](https://www.treasurydirect.gov).

@@ -42,11 +42,11 @@ Algorithmic rebalancing utilizes computer algorithms to execute trades automatic
 
 ### Robo-Advisors
 
-Robo-advisors employ algorithms to manage and rebalance portfolios automatically. Companies like Betterment (https://www.betterment.com/) and Wealthfront (https://www.wealthfront.com/) [offer](../o/offer.md) such services, providing a cost-effective solution for individual investors.
+Robo-advisors employ algorithms to manage and rebalance portfolios automatically. Companies like Betterment ( and Wealthfront ( [offer](../o/offer.md) such services, providing a cost-effective solution for individual investors.
 
 ### Software and Platforms
 
-Financial software and platforms like [Morningstar](../m/morningstar.md) Direct (https://www.[morningstar](../m/morningstar.md).com/products/direct), [Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/), and others [offer](../o/offer.md) advanced rebalancing functionalities to institutional investors and financial advisors.
+Financial software and platforms like [Morningstar](../m/morningstar.md) Direct ( [Bloomberg Terminal](../b/bloomberg_terminal.md) ( and others [offer](../o/offer.md) advanced rebalancing functionalities to institutional investors and financial advisors.
 
 ## Implementation in Different Investments
 
@@ -62,7 +62,7 @@ Mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) may require re
 
 ### Cryptocurrency
 
-In the volatile world of cryptocurrency, rebalancing helps manage [risk](../r/risk.md) and capture profits. Platforms like Shrimpy (https://www.shrimpy.io/) [offer](../o/offer.md) automatic rebalancing for crypto portfolios.
+In the volatile world of cryptocurrency, rebalancing helps manage [risk](../r/risk.md) and capture profits. Platforms like Shrimpy ( [offer](../o/offer.md) automatic rebalancing for crypto portfolios.
 
 ## Tax Implications
 

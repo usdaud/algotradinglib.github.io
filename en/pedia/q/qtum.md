@@ -90,4 +90,3 @@ Qtum offers extensive educational resources, including documentation, tutorials,
 
 Qtum stands out as a unique [blockchain](../b/blockchain_in_trading.md) platform that bridges the gap between [Bitcoin](../b/bitcoin.md) and [Ethereum](../e/ethereum_.md) by combining the strengths of both. Its innovative architecture, coupled with features like the Account Abstraction Layer and Decentralized Governance Protocol, make it a versatile and scalable option for various applications. Despite facing challenges, Qtum continues to evolve and position itself as a formidable player in the [blockchain](../b/blockchain_in_trading.md) space, driven by a strong community, strategic partnerships, and a commitment to continuous innovation.
 
-For more information, you can visit the official [Qtum website](https://qtum.org/).

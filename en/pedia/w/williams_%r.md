@@ -30,15 +30,15 @@ For example, in a 14-day period, if the highest price is 150, the lowest is 130,
 Williams %R is a [leading indicator](../l/leading_indicator.md) in that it provides signals ahead of price changes, making it useful for algorithmic traders. Here’s how you can interpret the values:
 
 1. **[Overbought](../o/overbought.md) Conditions**:
-   - When %R is above -20, the [asset](../a/asset.md) is considered [overbought](../o/overbought.md). It suggests that the price might see a [correction](../c/correction.md) soon.
-   - Algorithms might trigger sell signals or [stop-loss orders](../s/stop-loss_orders.md) in this zone.
+ - When %R is above -20, the [asset](../a/asset.md) is considered [overbought](../o/overbought.md). It suggests that the price might see a [correction](../c/correction.md) soon.
+ - Algorithms might trigger sell signals or [stop-loss orders](../s/stop-loss_orders.md) in this zone.
 
 2. **[Oversold](../o/oversold.md) Conditions**:
-   - When %R is below -80, the [asset](../a/asset.md) is considered [oversold](../o/oversold.md). It indicates that the price could rebound.
-   - Algo-traders might use this as a trigger for entering long positions.
+ - When %R is below -80, the [asset](../a/asset.md) is considered [oversold](../o/oversold.md). It indicates that the price could rebound.
+ - Algo-traders might use this as a trigger for entering long positions.
 
 3. **[Divergence](../d/divergence.md)**:
-   - [Divergence](../d/divergence.md) between the Williams %R and price can indicate potential reversals. If prices are rising and %R is falling, a bearish [reversal](../r/reversal.md) could be implied, and vice versa.
+ - [Divergence](../d/divergence.md) between the Williams %R and price can indicate potential reversals. If prices are rising and %R is falling, a bearish [reversal](../r/reversal.md) could be implied, and vice versa.
 
 ---
 
@@ -165,11 +165,11 @@ print(signal)
 
 HFT firms employ strategies that require rapid decision-making and [execution](../e/execution.md). Williams %R is particularly useful in this context for its quick responsiveness to price changes.
 
-For example, firms like Citadel Securities and Virtu Financial may incorporate Williams %R into their algorithms for rapid [trade](../t/trade.md) signals. Visit [Citadel Securities](https://www.citadelsecurities.com/) or [Virtu Financial](https://ir.virtu.com/) for more details on these firms.
+For example, firms like Citadel Securities and Virtu Financial may incorporate Williams %R into their algorithms for rapid [trade](../t/trade.md) signals. Visit Citadel Securities or Virtu Financial for more details on these firms.
 
 #### Quantitative Hedge Funds
 
-[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance [predictive models](../p/predictive_models_in_trading.md). For more details, [check](../c/check.md) out [Renaissance Technologies](https://www.rentec.com).
+[Quantitative hedge funds](../q/quantitative_hedge_funds.md) often use a multitude of indicators to optimize strategies. Firms like Renaissance Technologies might integrate Williams %R with advanced statistical methods to enhance [predictive models](../p/predictive_models_in_trading.md). For more details, [check](../c/check.md) out Renaissance Technologies.
 
 #### Retail Investors
 

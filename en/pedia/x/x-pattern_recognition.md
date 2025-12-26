@@ -69,9 +69,9 @@ X-[pattern recognition](../p/pattern_recognition.md) can be used to optimize inv
 
 Several financial institutions and trading firms have successfully incorporated X-[pattern recognition](../p/pattern_recognition.md) into their [trading systems](../t/trading_systems.md). Notable examples include:
 
-- **Two Sigma Investments**: Known for its reliance on [data science](../d/data_science_in_trading.md) and advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md). (https://www.twosigma.com/)
-- **Renaissance Technologies**: This [hedge fund](../h/hedge_fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to identify patterns in [market](../m/market.md) data. (https://www.rentec.com/)
-- **AQR [Capital](../c/capital.md) Management**: Utilizes sophisticated statistical techniques and [machine learning](../m/machine_learning.md) for [trading strategies](../t/trading_strategies.md). (https://www.aqr.com/)
+- **Two Sigma Investments**: Known for its reliance on [data science](../d/data_science_in_trading.md) and advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md). (
+- **Renaissance Technologies**: This [hedge fund](../h/hedge_fund.md) uses complex [mathematical models](../m/mathematical_models_in_trading.md) to identify patterns in [market](../m/market.md) data. (
+- **AQR [Capital](../c/capital.md) Management**: Utilizes sophisticated statistical techniques and [machine learning](../m/machine_learning.md) for [trading strategies](../t/trading_strategies.md). (
 
 ## Challenges and Limitations
 

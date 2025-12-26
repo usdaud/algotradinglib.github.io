@@ -52,8 +52,8 @@ Many trading platforms and financial software [offer](../o/offer.md) custom rela
 ### Software and Platforms
 
 Several financial technology companies provide tools and software for measuring and analyzing relative strength:
-- **[TradingView](../t/tradingview.md) (https://www.[tradingview](../t/tradingview.md).com/):** Offers a wide array of [technical analysis tools](../t/technical_analysis_tools.md), including relative strength metrics.
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md) (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/):** Provides advanced [relative strength analysis](../r/relative_strength_analysis.md) tools for professional traders.
+- **[TradingView](../t/tradingview.md) ( Offers a wide array of [technical analysis tools](../t/technical_analysis_tools.md), including relative strength metrics.
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md) ( Provides advanced [relative strength analysis](../r/relative_strength_analysis.md) tools for professional traders.
 
 ## Advantages and Limitations
 

@@ -8,17 +8,17 @@ A stockbroker, also known as an investment [broker](../b/broker.md) or securitie
 
 Full-service brokers [offer](../o/offer.md) personalized investment advice, [financial planning](../f/financial_planning.md), and a wide [range](../r/range.md) of financial products and services. They typically charge higher fees compared to [discount](../d/discount.md) brokers. Examples of full-service brokerage firms include:
 
-- **[Merrill Lynch](../m/merrill_lynch.md)**: [Merrill Lynch](https://www.ml.com)
-- **Morgan Stanley**: [Morgan Stanley](https://www.morganstanley.com)
-- **[UBS](../u/ubs.md) [Wealth Management](../w/wealth_management.md)**: [UBS](https://www.ubs.com)
+- **[Merrill Lynch](../m/merrill_lynch.md)**: Merrill Lynch
+- **Morgan Stanley**: Morgan Stanley
+- **[UBS](../u/ubs.md) [Wealth Management](../w/wealth_management.md)**: UBS
 
 ### Discount Brokers
 
 [Discount](../d/discount.md) brokers execute trades on behalf of clients at reduced [commission](../c/commission.md) rates, often without providing personalized investment advice. These brokers typically operate online and rely on advanced technology to [offer](../o/offer.md) lower-cost services. Examples of [discount](../d/discount.md) brokerage firms include:
 
-- **[Robinhood](../r/robinhood.md)**: [Robinhood](https://www.robinhood.com)
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
-- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://www.etrade.com)
+- **[Robinhood](../r/robinhood.md)**: Robinhood
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab
+- **[E*TRADE](../e/e_trade.md)**: E*TRADE
 
 ## Regulatory Framework
 
@@ -66,7 +66,7 @@ Advancements in technology have significantly transformed the role of stockbroke
 
 ### Trading Platforms
 
-Online trading platforms allow stockbrokers and clients to execute trades, monitor [market](../m/market.md) activity, and access real-time data. These platforms provide various features, such as advanced charting, [algorithmic trading](../a/accountability.md), and [risk management](../r/risk_management.md) tools.
+Online trading platforms allow stockbrokers and clients to execute trades, monitor [market](../m/market.md) activity, and access real-time data. These platforms provide various features, such as advanced charting, [algorithmic trading](../a/algorithmic_trading.md), and [risk management](../r/risk_management.md) tools.
 
 ### Research Tools
 

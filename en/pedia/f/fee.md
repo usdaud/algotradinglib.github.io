@@ -82,7 +82,6 @@ Understanding fees in [algorithmic trading](../a/accountability.md) can be enric
 - **[Market](../m/market.md) Data Fees:** They [offer](../o/offer.md) various real-time and historical data packages, with monthly fees ranging from $1 to $40 depending on the data [scope](../s/scope.md).
 - **Software Fees:** No additional fees for their [trading platform](../t/trading_platform.md)—[Trader](../t/trader.md) Workstation (TWS)—but advanced tools and APIs might incur additional costs.
 
-More details can be found on their official site: [Interactive Brokers](https://www.interactivebrokers.com)
 
 ### Trading Technologies (TT)
 
@@ -92,7 +91,7 @@ Trading Technologies provides a [robust](../r/robust.md) [trading platform](../t
 - **Data Fees:** They charge for [real-time market data](../r/real-time_market_data.md) streams, with costs depending on the number and type of data feeds accessed.
 - **API Access:** Trading Technologies offers APIs for an additional fee, structured based on the level of access required.
 
-For more information, visit: [Trading Technologies](https://www.tradingtechnologies.com)
+For more information, visit: Trading Technologies
 
 ### QuantConnect
 
@@ -102,7 +101,7 @@ For more information, visit: [Trading Technologies](https://www.tradingtechnolog
 - **Data Access:** Charges for [premium](../p/premium.md) data sets, while basic historical data might be included in subscription plans.
 - **[Execution](../e/execution.md) Fees:** Through their brokerage integrations, they might pass on additional costs related to [execution](../e/execution.md) and API usage.
 
-For detailed pricing, visit: [QuantConnect](https://www.quantconnect.com)
+For detailed pricing, visit: QuantConnect
 
 ### Alpha Trading Labs
 
@@ -112,7 +111,7 @@ For detailed pricing, visit: [QuantConnect](https://www.quantconnect.com)
 - **[Profit](../p/profit.md)-Sharing Models:** Instead of fixed fees, they might employ [profit](../p/profit.md)-sharing models where traders share a percentage of their profits.
 - **Data and Software Fees:** Comprehensive packages that include data access, [trading platform](../t/trading_platform.md), and analysis tools typically incur higher costs.
 
-Learn more at: [Alpha Trading Labs](https://www.alphatradinglabs.com)
+Learn more at: Alpha Trading Labs
 
 # Conclusion
 

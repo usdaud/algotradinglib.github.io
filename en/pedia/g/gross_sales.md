@@ -42,15 +42,15 @@ Businesses must report gross sales as part of their [financial statements](../f/
 
 ### Retail Industry
 
-Retail companies rely heavily on gross sales data to make [inventory](../i/inventory.md) and [marketing](../m/marketing.md) decisions. For example, Walmart (https://www.walmart.com) reports gross sales to evaluate [product line](../p/product_line.md) performance and [operational efficiency](../o/operational_efficiency_in_trading.md) across its [multiple](../m/multiple.md) stores.
+Retail companies rely heavily on gross sales data to make [inventory](../i/inventory.md) and [marketing](../m/marketing.md) decisions. For example, Walmart ( reports gross sales to evaluate [product line](../p/product_line.md) performance and [operational efficiency](../o/operational_efficiency_in_trading.md) across its [multiple](../m/multiple.md) stores.
 
 ### Technology Sector
 
-Technology firms, such as Apple Inc. (https://www.apple.com), use gross sales metrics to assess [revenue](../r/revenue.md) streams from different product lines such as iPhones, MacBooks, and services like iCloud.
+Technology firms, such as Apple Inc. ( use gross sales metrics to assess [revenue](../r/revenue.md) streams from different product lines such as iPhones, MacBooks, and services like iCloud.
 
 ### E-commerce
 
-E-[commerce](../c/commerce.md) giants like Amazon (https://www.amazon.com) analyze gross sales to strategize [inventory](../i/inventory.md) stocking, promotional campaigns, and [supply chain](../s/supply_chain.md) [logistics](../l/logistics.md).
+E-[commerce](../c/commerce.md) giants like Amazon ( analyze gross sales to strategize [inventory](../i/inventory.md) stocking, promotional campaigns, and [supply chain](../s/supply_chain.md) [logistics](../l/logistics.md).
 
 ## Impact on Business Strategy
 
@@ -75,15 +75,15 @@ Advancements in technology have revolutionized how companies analyze gross sales
 
 ### Big Data and Analytics
 
-Utilizing [big data](../b/big_data_in_trading.md) allows companies to [gain](../g/gain.md) deeper insights into [customer](../c/customer.md) behavior, sales patterns, and [market](../m/market.md) trends. Companies like IBM (https://www.ibm.com) provide analytical tools to process large datasets and refine gross sales strategies.
+Utilizing [big data](../b/big_data_in_trading.md) allows companies to [gain](../g/gain.md) deeper insights into [customer](../c/customer.md) behavior, sales patterns, and [market](../m/market.md) trends. Companies like IBM ( provide analytical tools to process large datasets and refine gross sales strategies.
 
 ### AI and Machine Learning
 
-[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) predict sales trends, optimize pricing strategies, and improve [demand forecasting](../d/demand_forecasting.md). For instance, Salesforce (https://www.salesforce.com) uses AI-driven insights to support sales and [marketing](../m/marketing.md) efforts.
+[Artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) predict sales trends, optimize pricing strategies, and improve [demand forecasting](../d/demand_forecasting.md). For instance, Salesforce ( uses AI-driven insights to support sales and [marketing](../m/marketing.md) efforts.
 
 ### Real-Time Sales Analytics
 
-Real-time analytics enable businesses to monitor sales as they happen, allowing for dynamic decision-making and swift response to [market](../m/market.md) changes. Platforms like Microsoft Power BI (https://www.microsoft.com/powerbi) [offer](../o/offer.md) real-time dashboard capabilities.
+Real-time analytics enable businesses to monitor sales as they happen, allowing for dynamic decision-making and swift response to [market](../m/market.md) changes. Platforms like Microsoft Power BI ( [offer](../o/offer.md) real-time dashboard capabilities.
 
 ## Conclusion
 

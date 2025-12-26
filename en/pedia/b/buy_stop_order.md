@@ -50,11 +50,11 @@ While buy stop orders are effective for certain strategies, traders might also c
 
 Many online trading platforms and brokerage firms support buy stop orders, including well-known names in the financial [industry](../i/industry.md):
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com) provides comprehensive tools and resources for traders to set up and manage buy stop orders.
-- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://us.etrade.com) supports different [order types](../o/order_types_in_trading.md) to help traders automate their [trading strategies](../t/trading_strategies.md), including the use of buy stop orders.
-- **Fidelity**: [Fidelity](https://www.fidelity.com) offers buy [stop order](../s/stop_order.md) capabilities to its clients, allowing them to [leverage](../l/leverage.md) this tool as part of their [trading strategies](../t/trading_strategies.md).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers offers a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including buy stop orders, to help traders execute various [trading strategies](../t/trading_strategies.md).
+- **TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade provides comprehensive tools and resources for traders to set up and manage buy stop orders.
+- **[E*TRADE](../e/e_trade.md)**: E*TRADE supports different [order types](../o/order_types_in_trading.md) to help traders automate their [trading strategies](../t/trading_strategies.md), including the use of buy stop orders.
+- **Fidelity**: Fidelity offers buy [stop order](../s/stop_order.md) capabilities to its clients, allowing them to [leverage](../l/leverage.md) this tool as part of their [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 
-A buy [stop order](../s/stop_order.md) is a versatile tool in a [trader](../t/trader.md)'s arsenal, especially for those looking to [capitalize](../c/capitalize.md) on upward [market](../m/market.md) movements and manage their trades efficiently. By understanding the mechanics, benefits, and risks associated with buy stop orders, traders can better integrate them into their [trading strategies](../t/trading_strategies.md), ensuring they are well-prepared to take advantage of [market](../m/market.md) opportunities while managing their [risk](../r/risk.md) effectively.
+A buy [stop order](../s/stop_order.md) is a versatile tool in a [trader](../t/trader.md)'s arsenal, especially for those looking to [capitalize](../c/capitalize.md) on upward [market](../m/market.md) movements and manage their trades efficiently. By understanding the mechanics, benefits, and risks associated with buy stop orders, traders can better integrate them into their [trading strategies](../t/trading_strategies.md), ensuring they are well-prepared to take advantage of [market](../m/market.md) opportunities while managing their [risk](../r/risk.md) effectively.

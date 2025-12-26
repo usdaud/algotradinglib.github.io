@@ -39,7 +39,7 @@ While Release IA-1092 expanded the definition, it also identified specific exclu
 
 - **Lawyers, Accountants, Engineers, and Teachers (The "L.A.T.E" Exclusion)**: Provided that their advice is incidental to their profession.
 - **[Broker](../b/broker.md)-Dealers**: Provided that their advisory services are incidental to their brokerage [business](../b/business.md) and they receive no special compensation for advisory services.
-  
+
 ### Fiduciary Duty
 
 One of the critical interpretations provided by the release is the fiduciary duty owed by investment advisers to their clients. This entails acting in the best [interest](../i/interest.md) of clients and making full [disclosure](../d/disclosure.md) of any potential conflicts of [interest](../i/interest.md).
@@ -56,7 +56,7 @@ SEC Release IA-1092 stipulates that even directors and employees of a company wh
 
 ### Algotrading Defined
 
-[Algorithmic trading](../a/accountability.md), or algotrading, refers to the use of algorithms to pre-program trading instructions for executing orders in [financial markets](../f/financial_market.md). These algorithms can process large volumes of [market](../m/market.md) data and execute trades at speeds beyond human capability.
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, refers to the use of algorithms to pre-program trading instructions for executing orders in [financial markets](../f/financial_market.md). These algorithms can process large volumes of [market](../m/market.md) data and execute trades at speeds beyond human capability.
 
 ### Classification of Algotrading Entities
 
@@ -78,7 +78,7 @@ Entities and individuals involved in algotrading that qualify as investment advi
 
 To ensure adherence to the provisions of SEC Release IA-1092, entities involved in investment advisory and algotrading should:
 
-- **Consult the full text of the SEC Release IA-1092**: [SEC Release IA-1092 Full Text](https://www.sec.gov/news/press-release/2022-1092)
+- **Consult the full text of the SEC Release IA-1092**: SEC Release IA-1092 Full Text
 
 - **Seek legal and compliance advice**: Entities should work with legal experts specializing in securities law to ensure full compliance.
 

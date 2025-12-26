@@ -1,6 +1,6 @@
 # Over-The-Counter Options
 
-Over-the-counter (OTC) [options](../o/options.md) are financial [derivatives](../d/derivatives.md) that are traded directly between two parties, rather than being [listed](../l/listed.md) and traded on a formal [exchange](../e/exchange.md) such as the New York Stock [Exchange](../e/exchange.md) or the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md). They are versatile instruments used by a variety of [market](../m/market.md) participants, including [hedge](../h/hedge.md) funds, institutional investors, and corporations, to tailor financial strategies and manage risks. 
+Over-the-counter (OTC) [options](../o/options.md) are financial [derivatives](../d/derivatives.md) that are traded directly between two parties, rather than being [listed](../l/listed.md) and traded on a formal [exchange](../e/exchange.md) such as the New York Stock [Exchange](../e/exchange.md) or the Chicago Board [Options](../o/options.md) [Exchange](../e/exchange.md). They are versatile instruments used by a variety of [market](../m/market.md) participants, including [hedge](../h/hedge.md) funds, institutional investors, and corporations, to tailor financial strategies and manage risks.
 
 ## Key Characteristics of OTC Options
 
@@ -32,15 +32,15 @@ Over-the-counter (OTC) [options](../o/options.md) are financial [derivatives](..
 
 2. **[Exotic Options](../e/exotic_options.md)**: These include more complex structures such as barrier [options](../o/options.md), Asian [options](../o/options.md), and digital [options](../o/options.md). [Exotic options](../e/exotic_options.md) are typically used for more sophisticated hedging or speculative purposes and have terms that are not standard in the [exchange](../e/exchange.md)-traded markets.
 
-   - **Barrier [Options](../o/options.md)**: These [options](../o/options.md) include specific price levels, or barriers, that determine whether the option is activated or extinguished.
-   
-   - **Asian [Options](../o/options.md)**: These [options](../o/options.md) are based on the average price of the [underlying asset](../u/underlying_asset.md) over a specified period, reducing the impact of [market](../m/market.md) [volatility](../v/volatility.md) on the [payout](../p/payout.md).
-   
-   - **Digital [Options](../o/options.md)**: Also known as binary [options](../o/options.md), they pay a fixed amount if the [underlying asset](../u/underlying_asset.md) is above or below a certain level at expiration.
+ - **Barrier [Options](../o/options.md)**: These [options](../o/options.md) include specific price levels, or barriers, that determine whether the option is activated or extinguished.
+
+ - **Asian [Options](../o/options.md)**: These [options](../o/options.md) are based on the average price of the [underlying asset](../u/underlying_asset.md) over a specified period, reducing the impact of [market](../m/market.md) [volatility](../v/volatility.md) on the [payout](../p/payout.md).
+
+ - **Digital [Options](../o/options.md)**: Also known as binary [options](../o/options.md), they pay a fixed amount if the [underlying asset](../u/underlying_asset.md) is above or below a certain level at expiration.
 
 ## Mechanisms and Valuation
 
-Valuing [OTC options](../o/otc_options.md) can be complex due to their customizable nature and the bespoke terms of each contract. Various financial models are used to price these instruments, including the [Black-Scholes model](../b/black-scholes_model.md) for simpler [options](../o/options.md) and more sophisticated [numerical methods](../n/numerical_methods_in_trading.md) like Monte Carlo simulations for [exotic options](../e/exotic_options.md). 
+Valuing [OTC options](../o/otc_options.md) can be complex due to their customizable nature and the bespoke terms of each contract. Various financial models are used to price these instruments, including the [Black-Scholes model](../b/black-scholes_model.md) for simpler [options](../o/options.md) and more sophisticated [numerical methods](../n/numerical_methods_in_trading.md) like Monte Carlo simulations for [exotic options](../e/exotic_options.md).
 
 [Market](../m/market.md) participants also consider the implied [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md), [interest](../i/interest.md) rates, and other macroeconomic factors when determining the [fair value](../f/fair_value.md) of an OTC option. Additionally, the [credit risk](../c/credit_risk.md) of the [counterparty](../c/counterparty.md) is often priced into the [premium](../p/premium.md) of the option, with higher-[risk](../r/risk.md) counterparties demanding higher premiums.
 
@@ -72,17 +72,17 @@ Key regulatory changes include:
 
 Several prominent financial institutions and brokerage firms act as [market](../m/market.md) makers and brokers in the [OTC options](../o/otc_options.md) [market](../m/market.md). Some notable entities include:
 
-1. **Goldman Sachs**: One of the largest and most well-known [investment banks](../i/investment_bank_(ib).md), Goldman Sachs is a significant player in the OTC [derivatives](../d/derivatives.md) [market](../m/market.md), providing [liquidity](../l/liquidity.md) and customized solutions to clients. [Goldman Sachs](https://www.goldmansachs.com)
+1. **Goldman Sachs**: One of the largest and most well-known [investment banks](../i/investment_bank_(ib).md), Goldman Sachs is a significant player in the OTC [derivatives](../d/derivatives.md) [market](../m/market.md), providing [liquidity](../l/liquidity.md) and customized solutions to clients. Goldman Sachs
 
-2. **J.P. Morgan**: Another major investment [bank](../b/bank.md), J.P. Morgan offers a wide [range](../r/range.md) of [OTC options](../o/otc_options.md) products and is renowned for its expertise in complex financial [derivatives](../d/derivatives.md). [J.P. Morgan](https://www.jpmorgan.com)
+2. **J.P. Morgan**: Another major investment [bank](../b/bank.md), J.P. Morgan offers a wide [range](../r/range.md) of [OTC options](../o/otc_options.md) products and is renowned for its expertise in complex financial [derivatives](../d/derivatives.md). J.P. Morgan
 
-3. **Citi**: Citigroup's extensive global presence and strong capabilities in [financial engineering](../f/financial_engineering.md) make it a key provider of [OTC options](../o/otc_options.md) and other [derivatives](../d/derivatives.md). [Citi](https://www.citigroup.com)
+3. **Citi**: Citigroup's extensive global presence and strong capabilities in [financial engineering](../f/financial_engineering.md) make it a key provider of [OTC options](../o/otc_options.md) and other [derivatives](../d/derivatives.md). Citi
 
-4. **Barclays**: Barclays' [derivatives](../d/derivatives.md) [trading desk](../t/trading_desk.md) offers a comprehensive suite of [OTC options](../o/otc_options.md) across various [asset](../a/asset.md) classes, catering to the needs of institutional clients worldwide. [Barclays](https://www.barclays.com)
+4. **Barclays**: Barclays' [derivatives](../d/derivatives.md) [trading desk](../t/trading_desk.md) offers a comprehensive suite of [OTC options](../o/otc_options.md) across various [asset](../a/asset.md) classes, catering to the needs of institutional clients worldwide. Barclays
 
-5. **[UBS](../u/ubs.md)**: [UBS](../u/ubs.md) is a leading provider of [wealth management](../w/wealth_management.md) and [investment banking](../i/investment_banking.md) services, including a [robust](../r/robust.md) [offering](../o/offering.md) in the [OTC options](../o/otc_options.md) [market](../m/market.md). [UBS](https://www.ubs.com)
+5. **[UBS](../u/ubs.md)**: [UBS](../u/ubs.md) is a leading provider of [wealth management](../w/wealth_management.md) and [investment banking](../i/investment_banking.md) services, including a [robust](../r/robust.md) [offering](../o/offering.md) in the [OTC options](../o/otc_options.md) [market](../m/market.md). UBS
 
-6. **Deutsche [Bank](../b/bank.md)**: Known for its strong [derivatives](../d/derivatives.md) [business](../b/business.md), Deutsche [Bank](../b/bank.md) provides [OTC options](../o/otc_options.md) and structured products to a wide [range](../r/range.md) of clients. [Deutsche Bank](https://www.deutschebank.com)
+6. **Deutsche [Bank](../b/bank.md)**: Known for its strong [derivatives](../d/derivatives.md) [business](../b/business.md), Deutsche [Bank](../b/bank.md) provides [OTC options](../o/otc_options.md) and structured products to a wide [range](../r/range.md) of clients. Deutsche Bank
 
 ## Conclusion
 

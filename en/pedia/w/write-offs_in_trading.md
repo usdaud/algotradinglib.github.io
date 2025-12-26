@@ -7,9 +7,9 @@ A [write-off](../w/write-off.md) in financial trading refers to an [accounting](
 ### Types of Write-Offs
 
 1. **[Inventory](../i/inventory.md) Write-Offs**: This occurs when the [inventory](../i/inventory.md) a [trader](../t/trader.md) holds is deemed to have no [value](../v/value.md), either because it's obsolete, damaged, or unsellable. Companies might write off [inventory](../i/inventory.md) to accurately reflect their [current assets](../c/current_assets.md) during financial reporting.
-   
+
 2. **Receivables Write-Offs**: This applies to accounts [receivable](../r/receivable.md) that turn out to be uncollectible. For example, if a client defaults on a [payment](../p/payment.md), a company might write off the amount as a [bad debt expense](../b/bad_debt_expense.md), acknowledging that it [will](../w/will.md) not recover the [money](../m/money.md).
-   
+
 3. **Investment Write-Offs**: Traders and investors might write off investments that have lost all their [value](../v/value.md). For instance, if a [security](../s/security.md) collapses, leading to a total loss in the investment's [value](../v/value.md), it can be written off.
 
 ### Examples and Case Studies
@@ -29,14 +29,14 @@ Writing off an [asset](../a/asset.md) has significant implications. For starters
 Write-offs can affect [taxes](../t/taxes.md) in several ways:
 
 1. **Corporate [Taxes](../t/taxes.md)**: When companies write off depreciating assets or [bad debt](../b/bad_debt.md), they can often deduct these amounts from their [taxable income](../t/taxable_income.md).
-   
+
 2. **Investment Losses**: Investors can use write-offs to [offset](../o/offset.md) taxable gains. For instance, if a [trader](../t/trader.md) realizes a [capital](../c/capital.md) loss by writing off a worthless [security](../s/security.md), they can use this loss against any [capital](../c/capital.md) gains realized in the same year, thereby reducing their tax burden.
-   
+
 3. **Casualty Losses**: Sometimes, write-offs stem from sudden unexpected damages or losses (e.g., a natural disaster that destroys [inventory](../i/inventory.md)). Such write-offs can be claimed as casualty losses for tax purposes.
 
 ### Write-Offs vs. Write-Downs
 
-While write-offs and write-downs may sound similar, they serve different purposes. A [write-down](../w/write-down.md) reduces the [book value](../b/book_value.md) of an [asset](../a/asset.md), but not entirely to zero. It's a partial reduction that still leaves some recoverable [value](../v/value.md). Write-offs, on the other hand, eliminate the entire [value](../v/value.md) of an [asset](../a/asset.md). 
+While write-offs and write-downs may sound similar, they serve different purposes. A [write-down](../w/write-down.md) reduces the [book value](../b/book_value.md) of an [asset](../a/asset.md), but not entirely to zero. It's a partial reduction that still leaves some recoverable [value](../v/value.md). Write-offs, on the other hand, eliminate the entire [value](../v/value.md) of an [asset](../a/asset.md).
 
 For example, if a [trader](../t/trader.md) holds an outdated stock of goods, they might write down its [value](../v/value.md) to reflect the current [market price](../m/market_price.md). However, if the goods are completely obsolete, they would be written off entirely.
 

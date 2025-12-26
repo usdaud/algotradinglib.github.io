@@ -36,38 +36,38 @@ The first level of the GICS hierarchy, sectors, is designed to group companies w
 Each sector is divided into [industry](../i/industry.md) groups based on shared operational characteristics. For example:
 
 - The **Energy** sector is divided into:
-  - Energy Equipment & Services
-  - Oil, Gas & Consumable Fuels
-  
+ - Energy Equipment & Services
+ - Oil, Gas & Consumable Fuels
+
 - The **Information Technology** sector is divided into:
-  - Software & Services
-  - Technology Hardware & Equipment
-  - Semiconductors & Semiconductor Equipment
+ - Software & Services
+ - Technology Hardware & Equipment
+ - Semiconductors & Semiconductor Equipment
 
 ### 3. Industries
 
 The third level details the [industry](../i/industry.md) groups further into more finely tuned industries. Examples include:
 
 - Within **Health Care**, you find industries such as:
-  - Health Care Equipment & Supplies
-  - Health Care Providers & Services
-  - Biotechnology
-  - Pharmaceuticals
+ - Health Care Equipment & Supplies
+ - Health Care Providers & Services
+ - Biotechnology
+ - Pharmaceuticals
 
 ### 4. Sub-Industries
 
 At the most granular level of GICS are sub-industries. For instance:
 
 - The **Health Care Providers & Services** [industry](../i/industry.md) includes:
-  - Health Care Services
-  - Health Care Facilities
-  - Managed Health Care
+ - Health Care Services
+ - Health Care Facilities
+ - Managed Health Care
 
 Each level of classification provides increasing specificity, allowing investors to perform detailed financial analyses and make more informed investment decisions.
 
 ## Importance of GICS in Algo-Trading
 
-Algo-trading, or [algorithmic trading](../a/accountability.md), relies heavily on the ability to categorize and analyze large sets of data efficiently. The standardized format provided by GICS offers several benefits to algo-traders:
+Algo-trading, or [algorithmic trading](../a/algorithmic_trading.md), relies heavily on the ability to categorize and analyze large sets of data efficiently. The standardized format provided by GICS offers several benefits to algo-traders:
 
 1. **Data Consistency**: Using GICS ensures that data is uniformly categorized, aiding in the development of [trading models](../t/trading_models.md).
 2. **[Comparative Analysis](../c/comparative_analysis.md)**: Standardized [industry](../i/industry.md) definitions allow for more accurate comparisons of [performance metrics](../p/performance_metrics.md) across companies and sectors.
@@ -94,7 +94,6 @@ Financial analysts use GICS for in-depth research and analysis. The classificati
 GICS aids in constructing financial products such as sector-based ETFs ([Exchange](../e/exchange.md)-Traded Funds). By defining sector boundaries, GICS ensures that ETFs are accurately representative of the sectors they are meant to track.
 
 - **SPDR [Sector ETFs](../s/sector_etfs.md)**: These ETFs are designed around the GICS sectors allowing investors to target specific [industry](../i/industry.md) segments.
-  - [Website](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy)
 
 ### Benchmarking
 
@@ -108,14 +107,14 @@ GICS is continually evolving to reflect the changing landscape of global markets
 
 - **2016**: Inclusion of the [Real Estate](../r/real_estate.md) sector, separating it from the Financials sector to reflect its growing significance.
 - **2018**: Redefinition of the Telecommunication Services sector to include Communication Services, acknowledging the convergence of media and communication.
-  
+
 ### Recent Changes
 
 - **2022**: Adjustments to sub-industries within the Information [Technology sector](../t/technology_sector.md) to better categorize emerging technologies.
-  
+
 For the latest updates and methodologies, [market](../m/market.md) participants can refer to the MSCI and S&P official sites:
-- **MSCI**: [Website](https://www.msci.com/gics)
-- **Standard & Poor's**: [Website](https://www.spglobal.com/spdji/en/)
+- **MSCI**
+- **Standard & Poor's**
 
 ## Challenges and Criticisms
 

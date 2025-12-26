@@ -65,11 +65,8 @@ Implementing wavelet analysis in [algorithmic trading](../a/algorithmic_trading.
 Several libraries and software packages provide tools for wavelet analysis. Some popular ones include:
 
 - **PyWavelets:** A comprehensive [wavelet transform](../w/wavelet_transform_in_trading.md) library for Python.
-  [PyWavelets](https://pywavelets.readthedocs.io/)
 - **MATLAB Wavelet Toolbox:** Offers a [range](../r/range.md) of wavelet functions and tools for [signal processing](../s/signal_processing_in_trading.md).
-  [MATLAB](https://www.mathworks.com/products/wavelet.html)
 - **R Package ‘wavelets’:** Provides functions for computing wavelet transforms and multiresolution analyses in R.
-  [CRAN - wavelets](https://cran.r-project.org/web/packages/wavelets/index.html)
 
 ### Data Preparation
 
@@ -115,4 +112,4 @@ Wavelet analysis offers valuable tools for enhancing [algorithmic trading](../a/
 
 As [financial markets](../f/financial_market.md) become increasingly complex and data-driven, wavelet analysis can provide a competitive edge to traders and quantitative analysts who are willing to invest the time and effort to master its application. With the right tools and techniques, wavelet analysis can significantly improve the performance and robustness of [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-For further exploration and practical implementation, consider using libraries like [PyWavelets](https://pywavelets.readthedocs.io/), [MATLAB Wavelet Toolbox](https://www.mathworks.com/products/wavelet.html), or [R Package ‘wavelets’](https://cran.r-project.org/web/packages/wavelets/index.html).
+For further exploration and practical implementation, consider using libraries like PyWavelets, MATLAB Wavelet Toolbox, or R Package ‘wavelets’.

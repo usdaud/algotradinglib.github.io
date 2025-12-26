@@ -25,7 +25,7 @@ However, the Japanese [economy](../e/economy.md)'s demands for [robust](../r/rob
 ### Characteristics of Keiretsu
 
 - **Cross-Shareholding**: Member companies typically [hold](../h/hold.md) [shares](../s/shares.md) in each other, creating a web of mutual ownership that enhances stability and [trust](../t/trust.md).
-  
+
 - **Interlocking Directorates**: Executives from one company often serve on the boards of other member companies, facilitating cohesive strategic alignment and decision-making.
 
 - **Cooperative [Finance](../f/finance.md)**: A dedicated financial arm, often a [bank](../b/bank.md) or [insurance](../i/insurance.md) company associated with the Keiretsu, provides funding and financial services to member companies under more favorable conditions than external entities.
@@ -43,20 +43,20 @@ Keiretsu are broadly classified into two types based on their nature and operati
 Horizontal Keiretsu, also known as financial Keiretsu, revolve around a central [bank](../b/bank.md) and involve various companies from different industries. The linking [factor](../f/factor.md) here is the shared financial services and support provided by a common financial institution. Horizontal Keiretsu foster [diversification](../d/diversification.md) and [risk management](../r/risk_management.md) through sectoral [distribution](../d/distribution.md). Prominent examples include:
 
 - **Mitsubishi Keiretsu**: Encompasses entities such as Mitsubishi [Corporation](../c/corporation.md), Mitsubishi Heavy Industries, and Mitsubishi Motors.
-  - [Mitsubishi Corporation](https://www.mitsubishicorp.com/)
+ - Mitsubishi Corporation
 
 - **Sumitomo Keiretsu**: Encompasses Sumitomo Mitsui Banking [Corporation](../c/corporation.md), Sumitomo Chemical, and Sumitomo Electric Industries.
-  - [Sumitomo Corporation](https://www.sumitomocorp.com/)
+ - Sumitomo Corporation
 
 ### Vertical Keiretsu
 
 Vertical Keiretsu, also termed as industrial Keiretsu, focus on a specific [industry](../i/industry.md) and the entire [supply chain](../s/supply_chain.md) within that [industry](../i/industry.md). This type of Keiretsu ensures streamlined [manufacturing](../m/manufacturing.md) and operational efficiencies. Vertical Keiretsu structures typically include manufacturers, suppliers, and distributors all working in a tightly knit network around a primary company. Examples include:
 
 - **Toyota Group**: Composed of Toyota Motor [Corporation](../c/corporation.md), Denso (auto components), and Aisin Seiki (auto parts).
-  - [Toyota Motor Corporation](https://global.toyota/en/)
+ - Toyota Motor Corporation
 
 - **Sony Group**: Composed of Sony [Corporation](../c/corporation.md), Sony Interactive Entertainment (PlayStation), and Sony Pictures.
-  - [Sony Corporation](https://www.sony.com/)
+ - Sony Corporation
 
 ## Key Benefits
 

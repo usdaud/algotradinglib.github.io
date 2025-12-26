@@ -71,7 +71,7 @@ Multinational corporations [leverage](../l/leverage.md) the insights from the Po
 
 ### South Korea: A Technological Powerhouse
 
-South Korea serves as an excellent example of the Porter Diamond in action. The country has demonstrated remarkable growth and competitiveness, particularly in the technology and telecommunications sectors. 
+South Korea serves as an excellent example of the Porter Diamond in action. The country has demonstrated remarkable growth and competitiveness, particularly in the technology and telecommunications sectors.
 
 #### Factor Conditions
 - **Skilled Workforce:** South Korea has invested heavily in education, resulting in a highly skilled and technically proficient workforce.
@@ -142,5 +142,5 @@ The Porter Diamond is a powerful tool for understanding the competitive advantag
 
 For further reading and resources, you can visit:
 
-- [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=214)
-- [Michael E. Porter](https://www.isc.hbs.edu/faculty/Pages/profile.aspx?facId=6532)
+- Harvard Business School
+- Michael E. Porter

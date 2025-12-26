@@ -64,15 +64,15 @@ Governments worldwide have adopted different practices to make their [procuremen
 
 ### United States
 
-The United States follows a highly regulated [procurement](../p/procurement.md) process under the Federal [Acquisition](../a/acquisition.md) Regulation (FAR). Information is often made publicly available to ensure [transparency](../t/transparency.md). For more details, refer to the [Official U.S. Government Procurement Website](https://www.usa.gov/buying-from-government).
+The United States follows a highly regulated [procurement](../p/procurement.md) process under the Federal [Acquisition](../a/acquisition.md) Regulation (FAR). Information is often made publicly available to ensure [transparency](../t/transparency.md). For more details,
 
 ### European Union
 
-The [European Union](../e/european_union_(eu).md) operates under a set of directives that members must follow to ensure [open](../o/open.md) and competitive [procurement](../p/procurement.md) processes across all member states. For more information, visit the [European Commission Public Procurement Page](https://ec.europa.eu/growth/single-market/public-procurement_en).
+The [European Union](../e/european_union_(eu).md) operates under a set of directives that members must follow to ensure [open](../o/open.md) and competitive [procurement](../p/procurement.md) processes across all member states.
 
 ### India
 
-India’s Government e-Marketplace (GeM) has simplified the [procurement](../p/procurement.md) process, providing a one-stop-shop to facilitate online [procurement](../p/procurement.md) of common use goods and services. This platform promotes [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md). Visit [GeM](https://gem.gov.in/) for more information.
+India’s Government e-Marketplace (GeM) has simplified the [procurement](../p/procurement.md) process, providing a one-stop-shop to facilitate online [procurement](../p/procurement.md) of common use goods and services. This platform promotes [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md). Visit GeM for more information.
 
 ## Conclusion
 

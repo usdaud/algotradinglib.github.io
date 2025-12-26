@@ -58,7 +58,7 @@ Investors in [real estate](../r/real_estate.md) often use mortgages to increase 
 
 ## Comparison with Corporate Leverage
 
-In a corporate context, [leverage](../l/leverage.md) decisions are typically made at the executive level, taking into account the [firm](../f/firm.md)'s overall strategy, [industry](../i/industry.md) conditions, and [market](../m/market.md) environment. These decisions have widespread implications for all shareholders. 
+In a corporate context, [leverage](../l/leverage.md) decisions are typically made at the executive level, taking into account the [firm](../f/firm.md)'s overall strategy, [industry](../i/industry.md) conditions, and [market](../m/market.md) environment. These decisions have widespread implications for all shareholders.
 
 ### Pros of Corporate Leverage
 
@@ -72,7 +72,7 @@ In a corporate context, [leverage](../l/leverage.md) decisions are typically mad
 
 ## Real-World Examples
 
-Several prominent investors have used homemade [leverage](../l/leverage.md) to their advantage. 
+Several prominent investors have used homemade [leverage](../l/leverage.md) to their advantage.
 
 ### George Soros
 
@@ -88,7 +88,7 @@ Warren Buffett, through [Berkshire Hathaway](../b/berkshire_hathaway.md), has us
 
 ### Margin Requirements
 
-Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) regulations in the United States set minimum [margin](../m/margin.md) requirements to limit the amount borrowed against securities. 
+Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) regulations in the United States set minimum [margin](../m/margin.md) requirements to limit the amount borrowed against securities.
 
 1. **[Initial Margin](../i/initial_margin.md)**: The minimum amount of [equity](../e/equity.md) an [investor](../i/investor.md) must contribute when [buying on margin](../b/buying_on_margin.md), typically set at 50%.
 2. **[Maintenance Margin](../m/maintenance_margin.md)**: The minimum [equity](../e/equity.md) an [investor](../i/investor.md) must maintain in their [margin account](../m/margin_account.md), usually around 25%.

@@ -72,8 +72,7 @@ TreasuryDirect allows guardians to set up accounts for minors, enabling them to 
 ### Setting Up an Account
 
 To [open](../o/open.md) a TreasuryDirect account, investors must:
-1. Visit the TreasuryDirect website at [www.treasurydirect.gov](http://www.treasurydirect.gov).
-2. Provide personal information, including [Social Security](../s/social_security.md) Number (SSN) and banking details.
+1. Provide personal information, including [Social Security](../s/social_security.md) Number (SSN) and banking details.
 3. Create a username and password.
 4. Complete additional [security](../s/security.md) questions.
 
@@ -105,4 +104,4 @@ The [interest](../i/interest.md) earned on [U.S. Treasury](../u/u.s._treasury.md
 
 TreasuryDirect offers a streamlined and compelling way for investors to participate in the [market](../m/market.md) for U.S. government securities. With its ease of use, cost advantages, and [robust](../r/robust.md) [security](../s/security.md) features, it is an attractive option for those looking to invest in low-[risk](../r/risk.md), government-backed instruments. By understanding the various types of securities available and the features of the TreasuryDirect platform, investors can make informed decisions tailored to their financial goals.
 
-For more detailed information or to [open](../o/open.md) an account, visit the official TreasuryDirect website [here](http://www.treasurydirect.gov).
+For more detailed information or to [open](../o/open.md) an account,

@@ -1,6 +1,6 @@
 # Production Possibility Frontier (PPF)
 
-The Production Possibility Frontier (PPF) is a fundamental concept in [economics](../e/economics.md) that illustrates the [trade](../t/trade.md)-offs between two goods or services that an [economy](../e/economy.md) can produce, given finite resources and technology. The PPF is used to demonstrate [efficiency](../e/efficiency.md), [opportunity cost](../o/opportunity_cost.md), and [economic growth](../e/economic_growth.md), making it a crucial tool for economists and policymakers. 
+The Production Possibility Frontier (PPF) is a fundamental concept in [economics](../e/economics.md) that illustrates the [trade](../t/trade.md)-offs between two goods or services that an [economy](../e/economy.md) can produce, given finite resources and technology. The PPF is used to demonstrate [efficiency](../e/efficiency.md), [opportunity cost](../o/opportunity_cost.md), and [economic growth](../e/economic_growth.md), making it a crucial tool for economists and policymakers.
 
 ## Definition and Concept
 

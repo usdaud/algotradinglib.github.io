@@ -91,6 +91,6 @@ Despite their advantages, low-[volatility](../v/volatility.md) strategies are no
 The enduring nature of the Low [Volatility](../v/volatility.md) [Anomaly](../a/anomaly.md) suggests it is likely to persist, but ongoing research is essential for better understanding its [underlying](../u/underlying.md) causes and for refining investment strategies. Furthermore, as more investors become aware of and seek to exploit the [anomaly](../a/anomaly.md), its efficacy could diminish over time due to increased competition and [market efficiency](../m/market_efficiency.md).
 
 For more information on companies and products related to low-[volatility](../v/volatility.md) [investing](../i/investing.md), you can visit the following links:
-- [iShares Edge MSCI Minimum Volatility USA ETF (USMV)](https://www.ishares.com/us/products/239726/)
-- [Invesco S&P 500 Low Volatility ETF (SPLV)](https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&ticker=SPLV)
-- [PowerShares S&P International Developed Low Volatility Portfolio (IDLV)](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=IDLV)
+- iShares Edge MSCI Minimum Volatility USA ETF (USMV)
+- Invesco S&P 500 Low Volatility ETF (SPLV)
+- PowerShares S&P International Developed Low Volatility Portfolio (IDLV)

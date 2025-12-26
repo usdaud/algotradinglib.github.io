@@ -2,8 +2,6 @@
 
 CoinBene is a global cryptocurrency [trading platform](../t/trading_platform.md) that offers a wide [range](../r/range.md) of digital assets and trading services to users around the world. Established to provide a secure, efficient, and user-friendly environment, CoinBene has grown significantly since its inception, becoming one of the most recognized cryptocurrency exchanges in the [market](../m/market.md). Its user base ranges from novice investors to experienced traders, catering to various levels of trading expertise and investment strategies.
 
-Official Website: [CoinBene](https://www.coinbene.com/)
-
 ## Overview
 
 ### Core Services
@@ -34,7 +32,7 @@ CoinBene offers comprehensive API (Application Programming Interface) access to 
 - **[Order](../o/order.md) [Execution](../e/execution.md)**: Functionality to place, modify, and cancel orders programmatically.
 - **Account Information**: Retrieval of [account balance](../a/account_balance.md), [transaction](../t/transaction.md) history, and [open](../o/open.md) orders.
 
-Developers can find detailed API documentation on the CoinBene website, which provides examples, endpoints, and guidelines for integration.
+Developers can find detailed API documentation for CoinBene, which provides examples, endpoints, and guidelines for integration.
 
 ## Market Presence
 

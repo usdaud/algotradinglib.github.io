@@ -65,31 +65,24 @@ More advanced [quantitative trading](../q/quantitative_trading.md) firms apply [
 
 Renaissance Technologies is one of the most esteemed [quantitative trading](../q/quantitative_trading.md) firms, known for its Medallion [Fund](../f/fund.md), which has achieved extraordinary returns. The [firm](../f/firm.md) utilizes various [quantitative strategies](../q/quantitative_strategies_in_trading.md) and leverages sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) in global markets.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
-
 ### Two Sigma
 
 Two Sigma is another prominent name in the [quantitative trading](../q/quantitative_trading.md) world. The [firm](../f/firm.md) uses [data science](../d/data_science_in_trading.md) and technology to create and execute its [trading strategies](../t/trading_strategies.md). It employs techniques from fields like [machine learning](../m/machine_learning.md) and distributed computing to analyze data and make trading decisions.
 
-Website: [Two Sigma](https://www.twosigma.com/)
 
 ### Citadel Securities
 
 Citadel Securities is a leading global [market maker](../m/market_maker.md) that employs numerous [quantitative trading](../q/quantitative_trading.md) strategies. They focus on providing [liquidity](../l/liquidity.md) and [transparency](../t/transparency.md) to markets, utilizing high-frequency trading and other quantitative methods to optimize [execution](../e/execution.md) and pricing.
 
-Website: [Citadel Securities](https://www.citadelsecurities.com/)
 
 ### AQR Capital Management
-
 AQR [Capital](../c/capital.md) Management employs [quantitative models](../q/quantitative_models.md) to manage assets across a wide [range](../r/range.md) of investment strategies. They combine fundamental research, economic theory, and proprietary [data analysis techniques](../d/data_analysis_techniques.md) to inform their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
-Website: [AQR Capital Management](https://www.aqr.com/)
 
 ### D.E. Shaw Group
 
 The D.E. Shaw Group is widely known for its [quantitative investment strategies](../q/quantitative_investment_strategies.md), employing an interdisciplinary approach that includes computer science, pure mathematics, and engineering. Their [quantitative trading](../q/quantitative_trading.md) algorithms are designed to exploit [market](../m/market.md) inefficiencies and optimize [trade](../t/trade.md) [execution](../e/execution.md).
 
-Website: [D.E. Shaw Group](https://www.deshaw.com/)
 
 ## Conclusion
 

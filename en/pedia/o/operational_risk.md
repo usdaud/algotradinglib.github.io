@@ -112,8 +112,8 @@ There are specialized software solutions designed to manage operational [risk](.
 
 Some popular solutions include:
 
-- [IBM OpenPages](https://www.ibm.com/cloud/openpages-with-watson)
-- [RSA Archer](https://www.rsa.com/en-us/products/integrated-risk-management)
+- IBM OpenPages
+- RSA Archer
 
 ## Case Studies
 

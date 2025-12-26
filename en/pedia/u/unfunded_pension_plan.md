@@ -53,8 +53,8 @@ Effective oversight and governance are crucial for ensuring that companies can m
 
 Government pension plans are frequently unfunded, relying on [taxation](../t/taxation.md) or other [revenue](../r/revenue.md) sources to pay pensions as they become due. Examples include public employee pensions at the local, state, and federal levels.
 
-- **United States [Social Security](../s/social_security.md)**: [Social Security Administration](https://www.ssa.gov)
-- **Public Service Pension Plans in the UK**: [UK Government Pensions](https://www.gov.uk/government/organisations/civil-service-pensions)
+- **United States [Social Security](../s/social_security.md)**: Social Security Administration
+- **Public Service Pension Plans in the UK**: UK Government Pensions
 
 ### Corporate Unfunded Plans
 

@@ -54,14 +54,11 @@ Before its collapse, [Lehman Brothers](../l/lehman_brothers.md) used [accounting
 
 ## Software Solutions for Detection
 
-### 1. IDEA (https://www.audimation.com/software-solutions/idea-data-analysis-software/)
-IDEA is a powerful data analysis software often used by auditors to detect [fraud](../f/fraud.md), including under-reporting. It allows users to analyze massive amounts of financial data to uncover discrepancies.
+### 1. IDEA IDEA is a powerful data analysis software often used by auditors to detect [fraud](../f/fraud.md), including under-reporting. It allows users to analyze massive amounts of financial data to uncover discrepancies.
 
-### 2. ACL Analytics (https://www.diligent.com/analytics/)
-ACL Analytics helps in identifying financial anomalies and signs of under-reporting by applying various tests and algorithms on the data.
+### 2. ACL Analytics ACL Analytics helps in identifying financial anomalies and signs of under-reporting by applying various tests and algorithms on the data.
 
-### 3. MindBridge AI (https://www.mindbridge.ai/)
-MindBridge AI employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to detect unusual patterns in financial records, aimed at identifying under-reporting and other fraudulent activities.
+### 3. MindBridge AI MindBridge AI employs [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to detect unusual patterns in financial records, aimed at identifying under-reporting and other fraudulent activities.
 
 ## Conclusion
 

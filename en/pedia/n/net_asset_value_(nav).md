@@ -63,13 +63,13 @@ Several factors can influence the NAV of a [fund](../f/fund.md):
 4. **Management Fees and Expenses**: Any fees and expenses deducted from the [fund](../f/fund.md)'s assets lower its NAV.
 
 ## NAV in Automated Trading (Algo Trading)
-In the context of [algorithmic trading](../a/accountability.md), NAV can be useful for automated models that require precise and up-to-date information about the [value](../v/value.md) of funds to make informed decisions. These models can incorporate NAV calculations to:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), NAV can be useful for automated models that require precise and up-to-date information about the [value](../v/value.md) of funds to make informed decisions. These models can incorporate NAV calculations to:
 
 1. **[Arbitrage Opportunities](../a/arbitrage_opportunities.md)**: Identify [arbitrage opportunities](../a/arbitrage_opportunities.md) between the [market price](../m/market_price.md) and the NAV of ETFs and closed-end funds.
 2. **[Portfolio Optimization](../p/portfolio_optimization.md)**: Balance a portfolio by considering the NAV-based [valuation](../v/valuation.md) of different funds.
 3. **[Risk Management](../r/risk_management.md)**: Manage [risk](../r/risk.md) by monitoring NAV fluctuations and adjusting positions accordingly.
 
-For more details on innovative financial tools related to NAV and automated trading, companies like BlackRock (https://www.blackrock.com) [offer](../o/offer.md) extensive resources and solutions.
+For more details on innovative financial tools related to NAV and automated trading, companies like BlackRock ( [offer](../o/offer.md) extensive resources and solutions.
 
 ## Conclusion
 Net [Asset](../a/asset.md) [Value](../v/value.md) is a cornerstone metric in the realm of mutual funds, ETFs, and closed-end funds. Understanding NAV and its implications allows investors to make more informed investment choices, track the performance of their [holdings](../h/holdings.md), and grasp the [underlying](../u/underlying.md) [value](../v/value.md) of their investments. Whether used for basic investment assessments or sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), NAV serves as a critical [indicator](../i/indicator.md) in the financial world.

@@ -21,7 +21,7 @@ Consumer [credit](../c/credit.md) is broadly classified based on the [repayment]
 
 #### Implications
 
-[Credit](../c/credit.md) cards [offer](../o/offer.md) convenience and potential rewards but can lead to excessive [debt](../d/debt.md) due to high-[interest](../i/interest.md) rates and easy accessibility. 
+[Credit](../c/credit.md) cards [offer](../o/offer.md) convenience and potential rewards but can lead to excessive [debt](../d/debt.md) due to high-[interest](../i/interest.md) rates and easy accessibility.
 
 ### Installment Loans
 
@@ -180,13 +180,13 @@ Traditional [credit](../c/credit.md) scoring models are being complemented by al
 
 ### Green Loans
 
-An emerging [trend](../t/trend.md) is the [provision](../p/provision.md) of green loans aimed at [financing](../f/financing.md) eco-friendly purchases, such as energy-efficient appliances, electric vehicles, and [home](../h/home.md) improvements that reduce environmental impact. 
+An emerging [trend](../t/trend.md) is the [provision](../p/provision.md) of green loans aimed at [financing](../f/financing.md) eco-friendly purchases, such as energy-efficient appliances, electric vehicles, and [home](../h/home.md) improvements that reduce environmental impact.
 
-Fintech companies, like [LendingClub](https://www.lendingclub.com/) and [SoFi](https://www.sofi.com/), are at the forefront of these innovations, utilizing advanced algorithms to assess [creditworthiness](../c/creditworthiness.md) and [offer](../o/offer.md) personalized [loan](../l/loan.md) products.
+Fintech companies, like LendingClub and SoFi, are at the forefront of these innovations, utilizing advanced algorithms to assess [creditworthiness](../c/creditworthiness.md) and [offer](../o/offer.md) personalized [loan](../l/loan.md) products.
 
 ### Buy Now, Pay Later (BNPL)
 
-The Buy Now, Pay Later model allows consumers to make purchases and pay for them in installments, often without [interest](../i/interest.md). This [trend](../t/trend.md) is particularly popular in e-[commerce](../c/commerce.md) and is offered by companies such as [Klarna](https://www.klarna.com/) and [Afterpay](https://www.afterpay.com/).
+The Buy Now, Pay Later model allows consumers to make purchases and pay for them in installments, often without [interest](../i/interest.md). This [trend](../t/trend.md) is particularly popular in e-[commerce](../c/commerce.md) and is offered by companies such as Klarna and Afterpay.
 
 ## Conclusion
 

@@ -88,15 +88,15 @@ Several companies maintain [robust](../r/robust.md) stockholders' [equity](../e/
 
 ### 1. Apple Inc.
 
-Apple Inc. (https://www.apple.com) is renowned for its substantial stockholders' [equity](../e/equity.md), thanks to strong sales, innovative products, and significant [retained earnings](../r/retained_earnings.md). Apple's [financial statements](../f/financial_statements.md) consistently reveal positive growth in [equity](../e/equity.md), underpinned by effective management and strategic [reinvestment](../r/reinvestment.md) of profits.
+Apple Inc. ( is renowned for its substantial stockholders' [equity](../e/equity.md), thanks to strong sales, innovative products, and significant [retained earnings](../r/retained_earnings.md). Apple's [financial statements](../f/financial_statements.md) consistently reveal positive growth in [equity](../e/equity.md), underpinned by effective management and strategic [reinvestment](../r/reinvestment.md) of profits.
 
 ### 2. Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com) also exemplifies strong stockholders' [equity](../e/equity.md). Through diversifying its [revenue](../r/revenue.md) streams and [investing](../i/investing.md) in growth opportunities, Microsoft maintains a strong financial position, underscored by impressive [retained earnings](../r/retained_earnings.md) and [robust](../r/robust.md) [additional paid-in capital](../a/additional_paid-in_capital.md) figures.
+Microsoft [Corporation](../c/corporation.md) ( also exemplifies strong stockholders' [equity](../e/equity.md). Through diversifying its [revenue](../r/revenue.md) streams and [investing](../i/investing.md) in growth opportunities, Microsoft maintains a strong financial position, underscored by impressive [retained earnings](../r/retained_earnings.md) and [robust](../r/robust.md) [additional paid-in capital](../a/additional_paid-in_capital.md) figures.
 
 ### 3. Alphabet Inc.
 
-Alphabet Inc. (https://abc.xyz), the [parent company](../p/parent_company.md) of Google, demonstrates strength in its stockholders' [equity](../e/equity.md) through high [retained earnings](../r/retained_earnings.md) and substantial [paid-in capital](../p/paid-in_capital.md). Alphabet's ability to innovate and maintain [market](../m/market.md) [leadership](../l/leadership.md) contributes to its financial robustness.
+Alphabet Inc. ( the [parent company](../p/parent_company.md) of Google, demonstrates strength in its stockholders' [equity](../e/equity.md) through high [retained earnings](../r/retained_earnings.md) and substantial [paid-in capital](../p/paid-in_capital.md). Alphabet's ability to innovate and maintain [market](../m/market.md) [leadership](../l/leadership.md) contributes to its financial robustness.
 
 ## Conclusion
 

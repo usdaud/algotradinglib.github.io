@@ -38,7 +38,7 @@ Several statistical software packages and programming libraries facilitate parti
 - **R**: The `ppcor` package can be used for partial [correlation analysis](../c/correlation_analysis.md).
 - **MATLAB**: Has built-in functions for [correlation](../c/correlation.md) calculations.
 - **SAS**: Provides comprehensive tools for statistical analysis.
- 
+
 ### Example with Python
 
 Here’s a basic example using Python to perform partial [correlation analysis](../c/correlation_analysis.md):
@@ -57,7 +57,7 @@ def partial_corr(x, y, z):
     [return](../r/return.md) pearsonr(x_resid, y_resid)[0]
 
 # Example data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'A': np.random.normal(size=100),
     'B': np.random.normal(size=100),
     'C': np.random.normal(size=100)
@@ -109,5 +109,5 @@ Partial [correlation analysis](../c/correlation_analysis.md) is a potent tool in
 
 ### References
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Reuters](https://www.reuters.com/)
+- Bloomberg
+- Reuters

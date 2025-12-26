@@ -32,16 +32,16 @@ High-frequency trading represents a significant technological nexus in [financia
 
 #### Key Players
 Several financial firms are prominent in the HFT space:
-- **Citadel Securities** ([Link](https://www.citadelsecurities.com/))
-- **Virtu Financial** ([Link](https://www.virtu.com/))
+- **Citadel Securities** (Link)
+- **Virtu Financial** (Link)
 
 ### Blockchain and Cryptocurrencies
 
 [Blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies represent another technological nexus influencing traditional [finance](../f/finance.md). The rise of decentralized [finance](../f/finance.md) (DeFi) and [blockchain](../b/blockchain_in_trading.md)-based platforms has created new interconnections between digital assets and traditional financial instruments.
 
 #### Examples
-- **[Ethereum](../e/ethereum_.md)**: A decentralized platform that enables the creation of [smart contracts](../s/smart_contracts_in_trading.md) and dApps, serving as a bridge between [blockchain](../b/blockchain_in_trading.md) technology and traditional [finance](../f/finance.md). ([Ethereum](https://ethereum.org/))
-- **[Bitcoin](../b/bitcoin.md)**: Often considered digital gold, [Bitcoin](../b/bitcoin.md) influences both the cryptocurrency [market](../m/market.md) and traditional financial considerations as an [asset class](../a/asset_class.md). ([Bitcoin.org](https://bitcoin.org/))
+- **[Ethereum](../e/ethereum_.md)**: A decentralized platform that enables the creation of [smart contracts](../s/smart_contracts_in_trading.md) and dApps, serving as a bridge between [blockchain](../b/blockchain_in_trading.md) technology and traditional [finance](../f/finance.md). (Ethereum)
+- **[Bitcoin](../b/bitcoin.md)**: Often considered digital gold, [Bitcoin](../b/bitcoin.md) influences both the cryptocurrency [market](../m/market.md) and traditional financial considerations as an [asset class](../a/asset_class.md). (Bitcoin.org)
 
 ## Statistical and Machine Learning Models
 
@@ -49,12 +49,12 @@ Several financial firms are prominent in the HFT space:
 
 Statistical techniques are essential tools for understanding and exploiting [market](../m/market.md) nexuses. Methods such as [correlation analysis](../c/correlation_analysis.md), regression models, and time-series analysis help quantify the relationships between different [market](../m/market.md) entities.
 
-### Machine Learning 
+### Machine Learning
 
 [Machine learning](../m/machine_learning.md) models further enhance the capability to identify and [leverage](../l/leverage.md) the nexus in [financial markets](../f/financial_market.md). Techniques such as [neural networks](../n/neural_networks_in_trading.md), [clustering algorithms](../c/clustering_algorithms.md), and [predictive models](../p/predictive_models_in_trading.md) can detect complex patterns and interdependencies within large datasets.
 
 #### Applications
-- **[Algorithmic Trading](../a/accountability.md)**: [Machine learning](../m/machine_learning.md) models are extensively used in [algorithmic trading](../a/accountability.md) for decision-making processes based on historical data and real-time [market](../m/market.md) analysis.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: [Machine learning](../m/machine_learning.md) models are extensively used in [algorithmic trading](../a/algorithmic_trading.md) for decision-making processes based on historical data and real-time [market](../m/market.md) analysis.
 - **[Risk Management](../r/risk_management.md)**: [Predictive models](../p/predictive_models_in_trading.md) help in assessing and managing risks by understanding [market dynamics](../m/market_dynamics.md) and their interconnected aspects.
 
 ## Regulatory Landscape

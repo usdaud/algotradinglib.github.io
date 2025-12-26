@@ -41,8 +41,8 @@ Similar to swing highs, swing lows can be identified using various methods:
 1. **Data Collection**: Collect historical price data for the [asset](../a/asset.md).
 2. **Identify Swing Points**: Use [technical analysis](../t/technical_analysis.md) tools to identify swing highs and lows.
 3. **Set Rules for Entry and Exit**:
-    - **Entry Point**: The algorithm could be programmed to enter a buy [trade](../t/trade.md) near identified swing lows when other indicators (like RSI below 30) confirm that the [asset](../a/asset.md) is [oversold](../o/oversold.md).
-    - **Exit Point**: Exit the [trade](../t/trade.md) at a swing high or when other indicators (like RSI above 70) show the [asset](../a/asset.md) being [overbought](../o/overbought.md).
+ - **Entry Point**: The algorithm could be programmed to enter a buy [trade](../t/trade.md) near identified swing lows when other indicators (like RSI below 30) confirm that the [asset](../a/asset.md) is [oversold](../o/oversold.md).
+ - **Exit Point**: Exit the [trade](../t/trade.md) at a swing high or when other indicators (like RSI above 70) show the [asset](../a/asset.md) being [overbought](../o/overbought.md).
 4. **[Risk Management](../r/risk_management.md)**: Set [stop-loss orders](../s/stop-loss_orders.md) at recent swing lows to minimize [risk](../r/risk.md).
 
 ### Example Algorithm
@@ -115,7 +115,7 @@ plt.show()
 
 ## Case Study: Real-World Application
 
-Some trading firms specialize in algorithmic strategies based on swing highs and lows. One notable company is [Two Sigma](https://www.twosigma.com/), a [firm](../f/firm.md) that applies [machine learning](../m/machine_learning.md) and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) strategies. While specifics are proprietary, firms like Two Sigma use swing points as a component of larger, more complex [trading algorithms](../t/trading_algorithms.md).
+Some trading firms specialize in algorithmic strategies based on swing highs and lows. One notable company is Two Sigma, a [firm](../f/firm.md) that applies [machine learning](../m/machine_learning.md) and [artificial intelligence in trading](../a/artificial_intelligence_in_trading.md) strategies. While specifics are proprietary, firms like Two Sigma use swing points as a component of larger, more complex [trading algorithms](../t/trading_algorithms.md).
 
 ## Conclusion
 

@@ -45,8 +45,8 @@ Corporate philanthropy refers to charitable actions taken by businesses. This ca
 
 Foundations and trusts are structured entities established to make grants to charitable causes. Some of the most influential foundations include:
 
-- **The Bill and Melinda Gates Foundation:** Focuses on global health, education, and [poverty](../p/poverty.md). [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/)
-- **The Rockefeller Foundation:** Addresses global challenges by promoting the well-being of humanity. [The Rockefeller Foundation](https://www.rockefellerfoundation.org/)
+- **The Bill and Melinda Gates Foundation:** Focuses on global health, education, and [poverty](../p/poverty.md). Bill and Melinda Gates Foundation
+- **The Rockefeller Foundation:** Addresses global challenges by promoting the well-being of humanity. The Rockefeller Foundation
 
 ### Impact Investing
 
@@ -89,7 +89,7 @@ Warren Buffett, famed [investor](../i/investor.md) and philanthropist, pledged t
 
 ### MacKenzie Scott
 
-MacKenzie Scott, an author and former spouse of Amazon founder Jeff Bezos, has emerged as a significant philanthropic figure. Her giving approach is notable for its speed and scale, with billions distributed to a diverse [range](../r/range.md) of organizations focusing on [social justice](../s/social_justice.md), public health, and education. [MacKenzie Scott](https://mackenzie-scott.medium.com/)
+MacKenzie Scott, an author and former spouse of Amazon founder Jeff Bezos, has emerged as a significant philanthropic figure. Her giving approach is notable for its speed and scale, with billions distributed to a diverse [range](../r/range.md) of organizations focusing on [social justice](../s/social_justice.md), public health, and education. MacKenzie Scott
 
 ## Challenges in Philanthropy
 

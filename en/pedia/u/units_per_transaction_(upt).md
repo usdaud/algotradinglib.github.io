@@ -1,6 +1,6 @@
 # Units Per Transaction (UPT)
 
-Units Per [Transaction](../t/transaction.md) (UPT) is a critical metric in retail and sales analytics, crucially representing the average number of items sold in a single sales [transaction](../t/transaction.md). It is an essential measure for evaluating different facets of retail performance, [customer](../c/customer.md) shopping behavior, and the effectiveness of the sales strategy. 
+Units Per [Transaction](../t/transaction.md) (UPT) is a critical metric in retail and sales analytics, crucially representing the average number of items sold in a single sales [transaction](../t/transaction.md). It is an essential measure for evaluating different facets of retail performance, [customer](../c/customer.md) shopping behavior, and the effectiveness of the sales strategy.
 
 Below is a detailed exploration of UPT, its importance, how to calculate it, its implications in [business](../b/business.md), ways to improve it, and its relevance in the current retail and e-[commerce](../c/commerce.md) landscape.
 
@@ -54,7 +54,7 @@ Tailoring [marketing](../m/marketing.md) campaigns to highlight [value](../v/val
 ## UPT in E-commerce and Online Retail
 
 ### User Experience Optimization
-In e-[commerce](../c/commerce.md), website design and user experience play a vital role in influencing UPT. Features like "Frequently Bought Together" and "Customers Who Bought This Item Also Bought" can encourage additional purchases.
+In e-[commerce](../c/commerce.md), online experience design and user experience play a vital role in influencing UPT. Features like "Frequently Bought Together" and "Customers Who Bought This Item Also Bought" can encourage additional purchases.
 
 ### Personalized Recommendations
 Utilizing [data analytics](../d/data_analytics.md) to make personalized product recommendations can significantly increase UPT. Algorithms can analyze user behavior to suggest items that the [customer](../c/customer.md) is more likely to purchase.
@@ -73,17 +73,17 @@ Leveraging [big data](../b/big_data_in_trading.md) to understand [customer](../c
 ### Example 1: Increasing Basket Size via Promotions - Target
 Target often employs strategies to increase UPT through event-based promotions like "Buy 3, Get 1 Free." By [offering](../o/offering.md) deals on frequently purchased items such as toiletries and groceries, Target encourages customers to add more to their cart, thereby increasing the average number of units per [transaction](../t/transaction.md).
 
-Website: [Target](https://www.target.com/)
+online platform: Target
 
 ### Example 2: Product Recommendations - Amazon
 Amazon utilizes advanced algorithms to suggest additional items to customers, such as through their "Frequently Bought Together" and "Customers Who Bought This Item Also Bought" features. These recommendations are based on purchasing patterns and significantly contribute to increasing UPT.
 
-Website: [Amazon](https://www.amazon.com/)
+online platform: Amazon
 
 ### Example 3: In-Store Layout and Cross-Selling - IKEA
 IKEA's store layout is meticulously designed to maximize UPT by guiding shoppers through a maze-like path that exposes them to a wide [range](../r/range.md) of products. By placing related items together, IKEA effectively encourages customers to purchase [multiple](../m/multiple.md) items in one visit.
 
-Website: [IKEA](https://www.ikea.com/)
+online platform: IKEA
 
 ## Challenges and Limitations
 

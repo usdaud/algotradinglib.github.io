@@ -8,7 +8,7 @@
 
 **Initial [Jobless Claims](../j/jobless_claims.md)**: These are the first-time claims filed by unemployed individuals seeking [unemployment](../u/unemployment.md) [insurance](../i/insurance.md) benefits. They are reported weekly and serve as an early [indicator](../i/indicator.md) of the state of the [labor market](../l/labor_market.md).
 
-**Continued [Jobless Claims](../j/jobless_claims.md)** : These are claims filed by individuals who continue to receive [unemployment](../u/unemployment.md) benefits after their initial claim. They provide information on the persistence of [unemployment](../u/unemployment.md) and are also reported on a weekly [basis](../b/basis.md).
+**Continued [Jobless Claims](../j/jobless_claims.md)**: These are claims filed by individuals who continue to receive [unemployment](../u/unemployment.md) benefits after their initial claim. They provide information on the persistence of [unemployment](../u/unemployment.md) and are also reported on a weekly [basis](../b/basis.md).
 
 ## Significance of Jobless Claims Data
 
@@ -54,13 +54,13 @@
 
 Several companies and platforms provide tools and services for analyzing and trading based on [jobless claims](../j/jobless_claims.md) data. Here are a few notable examples:
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) offers comprehensive financial data, including [jobless claims](../j/jobless_claims.md) reports. Traders can use the terminal to access historical data, perform analysis, and execute trades.
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Bloomberg offers comprehensive financial data, including [jobless claims](../j/jobless_claims.md) reports. Traders can use the terminal to access historical data, perform analysis, and execute trades.
 
-2. **Thomson [Reuters](../r/reuters.md) Eikon**: [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides real-time [economic indicators](../e/economic_indicators.md), including [jobless claims](../j/jobless_claims.md). The platform's analytics tools can help traders incorporate this data into their strategies.
+2. **Thomson [Reuters](../r/reuters.md) Eikon**: Thomson Reuters Eikon provides real-time [economic indicators](../e/economic_indicators.md), including [jobless claims](../j/jobless_claims.md). The platform's analytics tools can help traders incorporate this data into their strategies.
 
-3. **MetaTrader 5**: [MetaTrader 5](https://www.metatrader5.com/en) is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md). Traders can use custom scripts and expert advisors to automate trades based on [jobless claims](../j/jobless_claims.md) data.
+3. **MetaTrader 5**: MetaTrader 5 is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md). Traders can use custom scripts and expert advisors to automate trades based on [jobless claims](../j/jobless_claims.md) data.
 
-4. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest strategies using various data sources, including [jobless claims](../j/jobless_claims.md). The platform supports [multiple](../m/multiple.md) programming languages, including Python.
+4. **[QuantConnect](../q/quantconnect.md)**: QuantConnect is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and backtest strategies using various data sources, including [jobless claims](../j/jobless_claims.md). The platform supports [multiple](../m/multiple.md) programming languages, including Python.
 
 ## Conclusion
 

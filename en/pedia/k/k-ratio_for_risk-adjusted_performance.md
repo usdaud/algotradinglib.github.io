@@ -55,7 +55,7 @@ By following these steps, the [trader](../t/trader.md) can derive a single metri
 
 ### Real-World Application
 
-In the real world, firms rely on [robust](../r/robust.md) [performance metrics](../p/performance_metrics.md) like the [K-Ratio](../k/k-ratio_in_trading.md) to drive investment decisions. For instance, [quantitative trading](../q/quantitative_trading.md) firms such as Renaissance Technologies (https://www.rentec.com) and DE Shaw (https://www.deshaw.com) use advanced statistical and [mathematical models](../m/mathematical_models_in_trading.md) to assess and optimize their [trading strategies](../t/trading_strategies.md), incorporating metrics like the [K-Ratio](../k/k-ratio_in_trading.md) to fine-tune algorithms for superior [risk](../r/risk.md)-adjusted returns.
+In the real world, firms rely on [robust](../r/robust.md) [performance metrics](../p/performance_metrics.md) like the [K-Ratio](../k/k-ratio_in_trading.md) to drive investment decisions. For instance, [quantitative trading](../q/quantitative_trading.md) firms such as Renaissance Technologies ( and DE Shaw ( use advanced statistical and [mathematical models](../m/mathematical_models_in_trading.md) to assess and optimize their [trading strategies](../t/trading_strategies.md), incorporating metrics like the [K-Ratio](../k/k-ratio_in_trading.md) to fine-tune algorithms for superior [risk](../r/risk.md)-adjusted returns.
 
 ### Limitations of K-Ratio
 

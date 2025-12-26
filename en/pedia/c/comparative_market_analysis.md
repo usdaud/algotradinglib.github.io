@@ -74,16 +74,16 @@ Several tools can facilitate Comparative [Market](../m/market.md) Analysis, rang
 
 ### Platforms
 
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/accountability.md) platform that supports Python and C#.
+- **[StockSharp](../s/stocksharp.md)**: An [algorithmic trading](../a/accountability.md) platform that supports C#.
 - **[Alpaca](../a/alpaca.md)**: Offers [commission](../c/commission.md)-free trading and supports [algorithmic trading](../a/accountability.md) via its API.
 - **Quantopian**: A platform for [backtesting](../b/backtesting.md) and deploying [trading strategies](../t/trading_strategies.md) (though operations ceased in 2020, its community and resources are still valuable).
 
 For more information on these tools and platforms, you can visit their respective websites:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
-- [Tableau](https://www.tableau.com/)
-- [Quantopian's Community](https://www.quantopian.com/posts)
+- QuantConnect
+- Alpaca
+- Tableau
+- QuantConnect Community (Note: Quantopian's community migrated after its 2020 closure)
 
 ## Benefits of CMA in Algorithmic Trading
 

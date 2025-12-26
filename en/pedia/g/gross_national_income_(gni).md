@@ -5,23 +5,23 @@ Gross National [Income](../i/income.md) (GNI) is a comprehensive measure of a co
 ## Components of GNI
 
 1. **Domestic Production (GDP):**
-   - **Consumption:** The total [value](../v/value.md) of goods and services consumed by households.
-   - **Investment:** [Business](../b/business.md) expenditures on [capital goods](../c/capital_goods.md).
-   - **Government Spending:** Government consumption expenditure on goods and services.
-   - **Net Exports:** Exports minus imports. 
+ - **Consumption:** The total [value](../v/value.md) of goods and services consumed by households.
+ - **Investment:** [Business](../b/business.md) expenditures on [capital goods](../c/capital_goods.md).
+ - **Government Spending:** Government consumption expenditure on goods and services.
+ - **Net Exports:** Exports minus imports.
 
 2. **Net [Income](../i/income.md) from Abroad:**
-   - **Net Compensation of Employees:** The difference between the [income](../i/income.md) residents earn from abroad and the [income](../i/income.md) non-residents earn domestically.
-   - **Net Property [Income](../i/income.md):** This includes [earnings](../e/earnings.md) from foreign investments, such as dividends, interests, and rents minus similar payments made abroad.
-   - **Net [Taxes](../t/taxes.md) on production and imports not paid abroad:** This includes [taxes](../t/taxes.md) and subsidies on products and production.
+ - **Net Compensation of Employees:** The difference between the [income](../i/income.md) residents earn from abroad and the [income](../i/income.md) non-residents earn domestically.
+ - **Net Property [Income](../i/income.md):** This includes [earnings](../e/earnings.md) from foreign investments, such as dividends, interests, and rents minus similar payments made abroad.
+ - **Net [Taxes](../t/taxes.md) on production and imports not paid abroad:** This includes [taxes](../t/taxes.md) and subsidies on products and production.
 
 ## GNI vs. GDP
 
-While GDP measures the economic output within a country's borders, GNI measures the total economic output produced by a country's residents regardless of the location of the production. Therefore, GNI equals GDP plus net [income](../i/income.md) from abroad. 
+While GDP measures the economic output within a country's borders, GNI measures the total economic output produced by a country's residents regardless of the location of the production. Therefore, GNI equals GDP plus net [income](../i/income.md) from abroad.
 
 ### Example to Explain GNI and GDP Difference
 
-Consider a country called "Country A." 
+Consider a country called "Country A."
 
 - Domestic production (GDP) of Country A is $1 trillion.
 - Country A's residents earn $200 billion from investments and work abroad.
@@ -60,4 +60,4 @@ To effectively calculate GNI, reliable national accounts and international finan
 Gross National [Income](../i/income.md) is a critical [economic indicator](../e/economic_indicator.md) representing the total [income](../i/income.md) earned by a nation, including international [income](../i/income.md). It complements GDP by providing a fuller picture of national economic health and resident's [income](../i/income.md). Understanding and accurately calculating GNI assists policymakers, economists, and international bodies in formulating strategies to improve economic well-being and sustain growth.
 
 ---
-For further information, refer to the [World Bank](../w/world_bank.md)'s overview of GNI: [World Bank GNI Overview](https://data.worldbank.org/indicator/NY.GNP.MKTP.CD).
+For further information, refer to the [World Bank](../w/world_bank.md)'s overview of GNI: World Bank GNI Overview.

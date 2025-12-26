@@ -105,6 +105,6 @@ While primarily a US-based network, there are ongoing discussions about the pote
 
 Advancements in financial technology (FinTech) continue to influence the ACH network. Innovations such as [blockchain](../b/blockchain_in_trading.md), digital currencies, and enhanced [security](../s/security.md) measures are likely to play a role in the future development of ACH services.
 
-For more detailed information and resources, you can visit the [NACHA website](https://www.nacha.org).
+For more detailed information and resources,
 
 In conclusion, the Automated [Clearing House](../c/clearing_house.md) (ACH) network is a vital component of the United States' financial [infrastructure](../i/infrastructure.md). It provides a secure, efficient, and cost-effective method for processing a wide [range](../r/range.md) of financial transactions. Though it faces challenges such as processing times and regulatory compliance, its benefits far outweigh these drawbacks, making it an indispensable tool for banks, businesses, and consumers alike.

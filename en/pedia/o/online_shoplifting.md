@@ -1,6 +1,6 @@
 # Online Shoplifting
 
-## Introduction 
+## Introduction
 Online shoplifting, also known as e-[commerce](../c/commerce.md) [fraud](../f/fraud.md), refers to a variety of deceptive practices and illegal activities aimed at gaining financial advantage or material goods through unauthorized means on e-[commerce](../c/commerce.md) platforms. This topic has gained significant attention in recent years due to the [exponential growth](../e/exponential_growth.md) of online retail and the increasing sophistication of cyber-[fraud](../f/fraud.md) techniques. It covers a broad spectrum of fraudulent activities—from classic [credit card](../c/credit_card.md) [fraud](../f/fraud.md) to more nuanced forms like account takeovers, loyalty point [fraud](../f/fraud.md), and [return](../r/return.md) [fraud](../f/fraud.md).
 
 ## Types of Online Shoplifting
@@ -88,5 +88,4 @@ Fraudsters use [social media](../s/social_media.md) platforms to carry out scams
 ## Conclusion
 Online shoplifting presents a persistent and evolving challenge for both businesses and consumers. While technological advancements [offer](../o/offer.md) new avenues for combating [fraud](../f/fraud.md), they also introduce more sophisticated methods for committing it. Hence, continuous vigilance, updated [security](../s/security.md) practices, and informed consumer behavior are crucial in mitigating the risks associated with e-[commerce](../c/commerce.md) [fraud](../f/fraud.md). Businesses must invest in advanced [security](../s/security.md) measures and stay ahead of emerging [fraud](../f/fraud.md) techniques to protect their assets and [customer](../c/customer.md) [trust](../t/trust.md).
 
-For more detailed [security](../s/security.md) measures and to get real-time updates on [fraud](../f/fraud.md) prevention, businesses and consumers can refer to leading cybersecurity firms like CrowdStrike (https://www.crowdstrike.com) and other [industry](../i/industry.md) experts.
-
+For more detailed [security](../s/security.md) measures and to get real-time updates on [fraud](../f/fraud.md) prevention, businesses and consumers can refer to leading cybersecurity firms like CrowdStrike ( and other [industry](../i/industry.md) experts.

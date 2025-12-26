@@ -1,7 +1,7 @@
 # Net Operating Loss (NOL)
 
 ## Introduction
-Net Operating Loss (NOL) is a tax term that refers to a situation where a company's allowable tax deductions exceed its [taxable income](../t/taxable_income.md) within a particular tax period. In simple terms, it occurs when a company's expenses exceed its revenues, resulting in a negative [taxable income](../t/taxable_income.md). NOL is an important concept for businesses, particularly those in volatile industries or startups that may experience periods of significant losses before achieving profitability. 
+Net Operating Loss (NOL) is a tax term that refers to a situation where a company's allowable tax deductions exceed its [taxable income](../t/taxable_income.md) within a particular tax period. In simple terms, it occurs when a company's expenses exceed its revenues, resulting in a negative [taxable income](../t/taxable_income.md). NOL is an important concept for businesses, particularly those in volatile industries or startups that may experience periods of significant losses before achieving profitability.
 
 ## Mechanics of NOL
 
@@ -53,5 +53,3 @@ When adjusting Discounted [Cash Flow](../c/cash_flow.md) (DCF) models, analysts 
 
 ## Conclusion
 Net Operating Loss (NOL) is a crucial consideration in [corporate finance](../c/corporate_finance.md), [tax planning](../t/tax_planning.md), and [investment strategy](../i/investment_strategy.md). Understanding its calculation, applicability, and implications can [offer](../o/offer.md) significant advantages in optimizing a company's [financial health](../f/financial_health.md). חוקרים, מנהלים, ומשקיעים ארגוניים צריכים להיות ערוכים לנצל NOL לטובתם או להעריך את השפעותיו על הערך הארגוני.
-
-For more information on company-specific guidelines for NOL, visit the official IRS page [here](https://www.irs.gov).

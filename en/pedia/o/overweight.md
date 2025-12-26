@@ -46,8 +46,8 @@ Implementing an overweight strategy involves careful consideration:
 
 [Investment management](../i/investment_management.md) firms often publish their [market](../m/market.md) outlook and recommendations including which sectors or [asset](../a/asset.md) classes they are overweighting. For instance:
 
-- **BlackRock**: BlackRock’s investment strategies may include overweighting equities during periods of expected [economic growth](../e/economic_growth.md). (https://www.blackrock.com)
-- **JP Morgan [Asset Management](../a/asset_management.md)**: JP Morgan often provides insights into their overweight or [underweight](../u/underweight.md) positions in various reports and [market](../m/market.md) outlook articles. (https://am.jpmorgan.com)
+- **BlackRock**: BlackRock’s investment strategies may include overweighting equities during periods of expected [economic growth](../e/economic_growth.md). (
+- **JP Morgan [Asset Management](../a/asset_management.md)**: JP Morgan often provides insights into their overweight or [underweight](../u/underweight.md) positions in various reports and [market](../m/market.md) outlook articles. (
 
 ## Conclusion
 

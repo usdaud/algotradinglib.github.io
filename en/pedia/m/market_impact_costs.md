@@ -8,7 +8,7 @@
 
 The impact can be broadly categorized into two types:
 1. **Temporary [Market](../m/market.md) Impact**: This refers to price changes that revert after the [execution](../e/execution.md) of [trade](../t/trade.md) activities. It's often associated with short-term [liquidity provision](../l/liquidity_provision.md) and removal.
-2. **Permanent [Market](../m/market.md) Impact**: This is a longer-lasting price change resulting from the [trade](../t/trade.md). It typically reflects the [market](../m/market.md)’s reassessment of the [value](../v/value.md) of the [asset](../a/asset.md) due to the new information provided by the [trader](../t/trader.md)'s [transaction](../t/transaction.md). 
+2. **Permanent [Market](../m/market.md) Impact**: This is a longer-lasting price change resulting from the [trade](../t/trade.md). It typically reflects the [market](../m/market.md)’s reassessment of the [value](../v/value.md) of the [asset](../a/asset.md) due to the new information provided by the [trader](../t/trader.md)'s [transaction](../t/transaction.md).
 
 ## Factors Influencing Market Impact Costs
 
@@ -66,16 +66,16 @@ Advanced smart [order routing](../o/order_routing.md) (SOR) techniques can optim
 Several companies specialize in creating tools and platforms to manage and mitigate [market](../m/market.md) impact costs in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **Virtu Financial Inc.**
-   [Virtu Financial](https://www.virtu.com/) offers sophisticated technology and analytics systems designed to optimize [trade](../t/trade.md) [execution](../e/execution.md) and minimize [market](../m/market.md) impact costs across global markets.
+ Virtu Financial offers sophisticated technology and analytics systems designed to optimize [trade](../t/trade.md) [execution](../e/execution.md) and minimize [market](../m/market.md) impact costs across global markets.
 
 2. **KCG [Holdings](../h/holdings.md), Inc.**
-   [KCG Holdings](https://www.kcg.com/) provides [liquidity](../l/liquidity.md) and [execution](../e/execution.md) services, leveraging advanced algorithms and analytics to reduce [market](../m/market.md) impact costs for institutional investors.
+ KCG Holdings provides [liquidity](../l/liquidity.md) and [execution](../e/execution.md) services, leveraging advanced algorithms and analytics to reduce [market](../m/market.md) impact costs for institutional investors.
 
 3. **[Trade](../t/trade.md) Informatics**
-   [Trade Informatics](https://tradeinformatics.com/) specializes in [trade](../t/trade.md) analysis and [execution](../e/execution.md) management, [offering](../o/offering.md) tools that help clients measure and mitigate [market](../m/market.md) impact costs.
+ Trade Informatics specializes in [trade](../t/trade.md) analysis and [execution](../e/execution.md) management, [offering](../o/offering.md) tools that help clients measure and mitigate [market](../m/market.md) impact costs.
 
 4. **ITG (Investment Technology Group)**
-   [ITG](https://www.itg.com/) offers pre-[trade](../t/trade.md) models and analytics platforms designed to optimize [trading strategies](../t/trading_strategies.md) and reduce [market](../m/market.md) impact costs for institutional traders.
+ ITG offers pre-[trade](../t/trade.md) models and analytics platforms designed to optimize [trading strategies](../t/trading_strategies.md) and reduce [market](../m/market.md) impact costs for institutional traders.
 
 ## Conclusion
 

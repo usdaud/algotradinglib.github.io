@@ -5,7 +5,7 @@
 ## Types of Bond Yield
 
 ### Nominal Yield
-Also known as the coupon [yield](../y/yield.md), the [nominal yield](../n/nominal_yield.md) is the simplest way to calculate the [yield](../y/yield.md) on a [bond](../b/bond.md). It is the annual [interest](../i/interest.md) [payment](../p/payment.md) divided by the [face value](../f/face_value.md) of the [bond](../b/bond.md). 
+Also known as the coupon [yield](../y/yield.md), the [nominal yield](../n/nominal_yield.md) is the simplest way to calculate the [yield](../y/yield.md) on a [bond](../b/bond.md). It is the annual [interest](../i/interest.md) [payment](../p/payment.md) divided by the [face value](../f/face_value.md) of the [bond](../b/bond.md).
 
 ```
 [Nominal Yield](../n/nominal_yield.md) = (Annual [Interest](../i/interest.md) [Payment](../p/payment.md) / [Face Value](../f/face_value.md) of [Bond](../b/bond.md)) * 100
@@ -32,7 +32,7 @@ Current Price = [Coupon Payment / (1 + YTM)^1] + [Coupon Payment / (1 + YTM)^2] 
 Given its complexity, YTM is often calculated using financial calculators or software.
 
 ### Yield to Call (YTC)
-Applicable to callable bonds, [Yield to Call](../y/yield_to_call.md) is similar to YTM but considers the [bond](../b/bond.md)'s call date. This measure is crucial for bonds that can be redeemed by the [issuer](../i/issuer.md) before their [maturity date](../m/maturity_date.md). 
+Applicable to callable bonds, [Yield to Call](../y/yield_to_call.md) is similar to YTM but considers the [bond](../b/bond.md)'s call date. This measure is crucial for bonds that can be redeemed by the [issuer](../i/issuer.md) before their [maturity date](../m/maturity_date.md).
 
 ### Yield Spread
 [Yield spread](../y/yield_spread.md) is the difference between yields on different [debt](../d/debt.md) instruments, usually of different [credit](../c/credit.md) qualities but similar maturities. It serves as an [indicator](../i/indicator.md) of relative [risk](../r/risk.md).
@@ -120,6 +120,6 @@ Algorithmic strategies can be developed based on predicting changes in [bond](..
 
 ## Conclusion
 
-[Bond](../b/bond.md) [yield](../y/yield.md) is a multifaceted concept critical to both individual investors and institutions. Advanced algorithms can [leverage](../l/leverage.md) its complexities to develop [robust](../r/robust.md) investment strategies, making a comprehensive understanding of [bond](../b/bond.md) yields essential. Links to companies specializing in algotrading and financial analytics include [QuantConnect](https://www.quantconnect.com) and [Kensho Technologies](https://www.kensho.com).
+[Bond](../b/bond.md) [yield](../y/yield.md) is a multifaceted concept critical to both individual investors and institutions. Advanced algorithms can [leverage](../l/leverage.md) its complexities to develop [robust](../r/robust.md) investment strategies, making a comprehensive understanding of [bond](../b/bond.md) yields essential. Links to companies specializing in algotrading and financial analytics include QuantConnect and Kensho Technologies.
 
 By delving into its various types, influencing factors, and applications in [algorithmic trading](../a/accountability.md), one can make more informed and strategic investment decisions.

@@ -57,14 +57,11 @@ Some of the prominent issuers of Letters of Indemnity include leading banks, [in
 ### Prominent Issuers
 
 1. **J.P. Morgan Chase & Co.**
-   <https://www.jpmorganchase.com>
-   
+
 2. **[Lloyd's of London](../l/lloyd's_of_london.md)**
-   <https://www.lloyds.com>
-   
+
 3. **[Bank](../b/bank.md) of America**
-   <https://www.bankofamerica.com>
-   
+
 ## Ethical Considerations
 
 While LOIs serve essential legal and financial purposes, they can sometimes be subject to misuse. It is crucial for issuers and recipients to ensure that LOIs are not used to bypass legal procedures, fabricate claims, or defraud other parties.

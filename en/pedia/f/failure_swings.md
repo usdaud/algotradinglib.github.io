@@ -11,10 +11,10 @@ Failure swings occur within the RSI, which is a [momentum](../m/momentum.md) [os
 Before delving deeper into failure swings, it's important to understand the workings of the RSI:
 
 - **RSI Calculation**: RSI is calculated using the formula:
-  ```
-  RSI = 100 - (100 / (1 + RS))
-  ```
-  where `RS` ([Relative Strength](../r/relative_strength.md)) is the average of 'N' days' up closes divided by the average of 'N' days' down closes.
+ ```
+ RSI = 100 - (100 / (1 + RS))
+ ```
+ where `RS` ([Relative Strength](../r/relative_strength.md)) is the average of 'N' days' up closes divided by the average of 'N' days' down closes.
 
 - **[Indicator](../i/indicator.md) Values**: RSI values [range](../r/range.md) between 0 and 100. Traditionally, values above 70 indicate an [overbought](../o/overbought.md) condition, while values below 30 indicate an [oversold](../o/oversold.md) condition.
 
@@ -23,16 +23,16 @@ Before delving deeper into failure swings, it's important to understand the work
 There are two main types of failure swings:
 
 1. **Bullish Failure Swing**: This occurs in the context of an [uptrend](../u/uptrend.md) and is composed of the following steps:
-    - The RSI moves below 30, indicating [oversold](../o/oversold.md) conditions.
-    - RSI then rebounds, often reaching around 50, but fails to reach the [overbought](../o/overbought.md) zone (above 70).
-    - RSI turns downwards again but halts before hitting 30 and then moves upwards beyond the recent high.
-    - These movements suggest that the selling pressure is weakening, and buying might [resume](../r/resume.md), indicating a potential [trend reversal](../t/trend_reversal.md) to the [upside](../u/upside.md).
+ - The RSI moves below 30, indicating [oversold](../o/oversold.md) conditions.
+ - RSI then rebounds, often reaching around 50, but fails to reach the [overbought](../o/overbought.md) zone (above 70).
+ - RSI turns downwards again but halts before hitting 30 and then moves upwards beyond the recent high.
+ - These movements suggest that the selling pressure is weakening, and buying might [resume](../r/resume.md), indicating a potential [trend reversal](../t/trend_reversal.md) to the [upside](../u/upside.md).
 
 2. **Bearish Failure Swing**: This takes place during a [downtrend](../d/downtrend.md) and involves:
-    - The RSI moves above 70, signaling [overbought](../o/overbought.md) conditions.
-    - RSI drops back, often reaching around 50, but fails to drop to the [oversold](../o/oversold.md) area (below 30).
-    - RSI then moves upwards again but doesn’t hit 70 and then reverses direction to move downwards past the recent low.
-    - These moves suggest that the buying pressure is weakening, and selling may [resume](../r/resume.md), implying a possible [trend reversal](../t/trend_reversal.md) to the downside.
+ - The RSI moves above 70, signaling [overbought](../o/overbought.md) conditions.
+ - RSI drops back, often reaching around 50, but fails to drop to the [oversold](../o/oversold.md) area (below 30).
+ - RSI then moves upwards again but doesn’t hit 70 and then reverses direction to move downwards past the recent low.
+ - These moves suggest that the buying pressure is weakening, and selling may [resume](../r/resume.md), implying a possible [trend reversal](../t/trend_reversal.md) to the downside.
 
 ## Identifying and Using Failure Swings
 

@@ -23,7 +23,7 @@ A [beta](../b/beta.md) [value](../v/value.md) can be interpreted as follows:
 1. **[Risk](../r/risk.md) Assessment**: [Beta](../b/beta.md) is a tool for assessing the [risk](../r/risk.md) of an individual [security](../s/security.md) in relation to the [market](../m/market.md). It helps investors understand how sensitive a [security](../s/security.md) is to [market](../m/market.md) movements.
 2. **Portfolio Construction**: Diversifying a portfolio involves selecting securities with varying [beta](../b/beta.md) values to achieve a desired [risk](../r/risk.md)-[return](../r/return.md) profile. High-[beta](../b/beta.md) and low-[beta](../b/beta.md) assets are mixed depending on the [investor](../i/investor.md)’s [risk tolerance](../r/risk_tolerance.md).
 3. **[Capital Asset](../c/capital_asset.md) Pricing Model (CAPM)**: [Beta](../b/beta.md) is a key component of the CAPM, which calculates the [expected return](../e/expected_return.md) of an [asset](../a/asset.md) based on its [beta](../b/beta.md) and expected [market](../m/market.md) returns. The CAPM formula is:
-   `[Expected Return](../e/expected_return.md) = [Risk](../r/risk.md)-Free Rate + [Beta](../b/beta.md) * ([Market](../m/market.md) [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate)`
+ `[Expected Return](../e/expected_return.md) = [Risk](../r/risk.md)-Free Rate + [Beta](../b/beta.md) * ([Market](../m/market.md) [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate)`
 4. **Performance Measurement**: Comparing the [beta](../b/beta.md)-adjusted performance of different securities or [fund](../f/fund.md) managers provides insights into how well they coped with the [risk](../r/risk.md)-adjusted returns.
 
 ### Practical Application in Algorithmic Trading
@@ -64,13 +64,9 @@ While [beta](../b/beta.md) is a widely used metric, it has limitations:
 Several platforms and tools provide [beta](../b/beta.md) values for securities:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive financial datasets including [beta](../b/beta.md) values of [stocks](../s/stock.md).
-  [Visit Bloomberg](https://www.bloomberg.com/professional/solution/terminal/)
 - **[Reuters](../r/reuters.md) Eikon**: Provides [financial analysis](../f/financial_analysis.md) tools including [beta](../b/beta.md) metrics.
-  [Visit Reuters](https://eikon.thomsonreuters.com/index.html)
 - **[Yahoo Finance](../y/yahoo_finance.md)**: Free resource for [beta](../b/beta.md) values of publicly traded companies.
-  [Visit Yahoo Finance](https://finance.yahoo.com/)
 - **[Morningstar](../m/morningstar.md)**: Delivers proprietary [beta](../b/beta.md) scores along with other financial metrics.
-  [Visit Morningstar](https://www.morningstar.com/)
 
 ### Conclusion
 

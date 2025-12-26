@@ -44,7 +44,7 @@ Working interests introduce significant [financial risk](../f/financial_risk.md)
 
 ### Revenue Forecasting
 
-Accurate [revenue](../r/revenue.md) [forecasting](../f/forecasting.md) is essential, as it impacts [financial planning](../f/financial_planning.md), [investor relations](../i/investor_relations.md), and stock prices. Companies use complex algorithms and [market](../m/market.md) data to predict resource output and price fluctuations to provide stakeholders with reliable financial projections.
+Accurate [revenue](../r/revenue.md) [forecasting](../f/forecasting.md) is essential, as it impacts [financial planning](../f/financial_planning.md), [company filings](../i/investor_relations.md), and stock prices. Companies use complex algorithms and [market](../m/market.md) data to predict resource output and price fluctuations to provide stakeholders with reliable financial projections.
 
 ### Financial Reporting
 
@@ -64,11 +64,11 @@ Oil and gas operations are subject to stringent regulatory oversight. Working [i
 
 ### Joint Ventures and Partnerships
 
-In practice, companies often form [joint](../j/joint.md) ventures (JVs) or partnerships to share the risks and rewards of large-scale projects. For instance, [ExxonMobil](https://corporate.exxonmobil.com) frequently collaborates with other major players in the [industry](../i/industry.md) to undertake expansive exploration and production initiatives.
+In practice, companies often form [joint](../j/joint.md) ventures (JVs) or partnerships to share the risks and rewards of large-scale projects. For instance, ExxonMobil frequently collaborates with other major players in the [industry](../i/industry.md) to undertake expansive exploration and production initiatives.
 
 ### Industry-Specific Scenarios
 
-In the United States, companies like [Chevron](https://www.chevron.com) operate numerous leases where working interests are divided among various stakeholders. Each [stakeholder](../s/stakeholder.md)'s financial responsibility and [revenue](../r/revenue.md) share are meticulously calculated to ensure fairness and [operational efficiency](../o/operational_efficiency_in_trading.md).
+In the United States, companies like Chevron operate numerous leases where working interests are divided among various stakeholders. Each [stakeholder](../s/stakeholder.md)'s financial responsibility and [revenue](../r/revenue.md) share are meticulously calculated to ensure fairness and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 ## Conclusion
 

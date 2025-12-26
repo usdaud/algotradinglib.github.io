@@ -1,6 +1,6 @@
 # Order Matching Algorithms
 
-[Order](../o/order.md) [matching algorithms](../m/matching_algorithms_in_trading.md) are a cornerstone of [financial markets](../f/financial_market.md), acting as the engines of [exchange](../e/exchange.md) platforms that pair buy and sell orders from various [market](../m/market.md) participants. These algorithms determine how trades are executed and are instrumental in ensuring efficient, fair, and orderly markets. 
+[Order](../o/order.md) [matching algorithms](../m/matching_algorithms_in_trading.md) are a cornerstone of [financial markets](../f/financial_market.md), acting as the engines of [exchange](../e/exchange.md) platforms that pair buy and sell orders from various [market](../m/market.md) participants. These algorithms determine how trades are executed and are instrumental in ensuring efficient, fair, and orderly markets.
 
 ## Basic Concepts
 
@@ -61,15 +61,15 @@ Measures the difference between the decision price and the [execution](../e/exec
 
 ### NASDAQ
 
-[NASDAQ](../n/nasdaq.md) employs the INET matching engine, which uses an advanced-iteration of the price-time priority system. More information can be found on their [website](https://www.nasdaq.com/solutions).
+[NASDAQ](../n/nasdaq.md) employs the INET matching engine, which uses an advanced-iteration of the price-time priority system.
 
 ### NYSE
 
-The New York Stock [Exchange](../e/exchange.md) (NYSE) uses a hybrid [market](../m/market.md) model combining human decision-making with electronic trading via their Universal [Trading Platform](../t/trading_platform.md). Their system incorporates complex algorithms to [handle](../h/handle.md) varied [order types](../o/order_types_in_trading.md). More details are available on their [website](https://www.nyse.com).
+The New York Stock [Exchange](../e/exchange.md) (NYSE) uses a hybrid [market](../m/market.md) model combining human decision-making with electronic trading via their Universal [Trading Platform](../t/trading_platform.md). Their system incorporates complex algorithms to [handle](../h/handle.md) varied [order types](../o/order_types_in_trading.md). More
 
 ### Cboe Global Markets
 
-Cboe offers a wide [range](../r/range.md) of [order](../o/order.md) matching services, including [proprietary algorithms](../p/proprietary_algorithms.md) and customizable solutions for different types of traders. Further details can be accessed on their [website](https://www.cboe.com).
+Cboe offers a wide [range](../r/range.md) of [order](../o/order.md) matching services, including [proprietary algorithms](../p/proprietary_algorithms.md) and customizable solutions for different types of traders.
 
 ## Algorithm Performance Metrics
 

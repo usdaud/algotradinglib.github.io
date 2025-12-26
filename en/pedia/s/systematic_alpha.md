@@ -8,7 +8,7 @@ Systematic [alpha](../a/alpha.md) is derived from the application of systematic,
 
 ## Key Components of Systematic Alpha Strategies
 
-1. **[Quantitative Models](../q/quantitative_models.md)**: These are [mathematical models](../m/mathematical_models_in_trading.md) used to identify trading opportunities. The models can vary from simple statistical [arbitrage](../a/arbitrage.md) strategies to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). 
+1. **[Quantitative Models](../q/quantitative_models.md)**: These are [mathematical models](../m/mathematical_models_in_trading.md) used to identify trading opportunities. The models can vary from simple statistical [arbitrage](../a/arbitrage.md) strategies to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 2. **Data-Driven Insights**: Systematic [alpha](../a/alpha.md) relies heavily on data - both historical and real-time. Data analysis helps in identifying patterns, correlations, and anomalies which can be exploited for [profit](../p/profit.md).
 
@@ -42,19 +42,16 @@ With advances in technology, machine [learning algorithms](../l/learning_algorit
 
 Renaissance Technologies is one of the most renowned [hedge](../h/hedge.md) funds that employ [systematic trading](../s/systematic_trading.md) strategies. Their flagship Medallion [Fund](../f/fund.md) has historically posted outstanding returns, powered by sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms.
 
-[Company Website](https://www.rentec.com/)
 
 ### Two Sigma
 
 Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and other advanced technologies to develop [systematic investment strategies](../s/systematic_investment_strategies.md). They delve deeply into [big data](../b/big_data_in_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) to drive their investment decisions.
 
-[Company Website](https://www.twosigma.com/)
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. They emphasize a disciplined, data-driven approach to trading, focusing on historical data and economic fundamentals.
 
-[Company Website](https://www.aqr.com/)
 
 ## Benefits of Systematic Alpha
 
@@ -73,4 +70,3 @@ AQR [Capital](../c/capital.md) Management employs [quantitative strategies](../q
 ## Conclusion
 
 Systematic [alpha](../a/alpha.md) represents a cutting-edge approach to trading that leverages [quantitative analysis](../q/quantitative_analysis.md), data-driven insights, and powerful algorithms to generate consistent returns. By automating trading processes and rigorously adhering to tested strategies, traders can reduce human error and emotional bias, positioning themselves to [capitalize](../c/capitalize.md) on various [market](../m/market.md) opportunities. However, the complexity, need for quality data, and dynamic nature of markets underscore the necessity for continuous improvement and diligent [risk management](../r/risk_management.md). As technology continues to advance, the potential for systematic [alpha](../a/alpha.md) through increasingly sophisticated methods [will](../w/will.md) likely expand the boundaries of what is achievable in the world of [finance](../f/finance.md).
-

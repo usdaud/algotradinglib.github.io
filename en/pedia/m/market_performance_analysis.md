@@ -26,15 +26,15 @@ The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](
 
 ### 5. Alpha and Beta
 - **[Alpha](../a/alpha.md)** measures the strategyâ€™s performance relative to a [benchmark](../b/benchmark.md) [index](../i/index_instrument.md), indicating how much better or worse the strategy performed.
-  
-  \[ \text{Alpha} = \text{Strategy Return} - (\text{Beta} \times \text{[Benchmark](../b/benchmark.md) [Return](../r/return.md)}) \]
+
+ \[ \text{Alpha} = \text{Strategy Return} - (\text{Beta} \times \text{[Benchmark](../b/benchmark.md) [Return](../r/return.md)}) \]
 
 - **[Beta](../b/beta.md)** measures the [volatility](../v/volatility.md) or [systemic risk](../s/systemic_risk.md) relative to the [market](../m/market.md) ([benchmark](../b/benchmark.md) [index](../i/index_instrument.md)).
 
-  \[ \text{Beta} = \frac{\text{[Covariance](../c/covariance.md)(Strategy, [Market](../m/market.md))}}{\text{Variance([Market](../m/market.md))}} \]
+ \[ \text{Beta} = \frac{\text{[Covariance](../c/covariance.md)(Strategy, [Market](../m/market.md))}}{\text{Variance([Market](../m/market.md))}} \]
 
 ### 6. Maximum Drawdown
-Maximum [Drawdown](../d/drawdown.md) (MDD) is the largest observed loss from a peak to a [trough](../t/trough.md) of a trading portfolio, before a new peak is attained. 
+Maximum [Drawdown](../d/drawdown.md) (MDD) is the largest observed loss from a peak to a [trough](../t/trough.md) of a trading portfolio, before a new peak is attained.
 
 \[ \text{MDD} = \max_{(t \in [0,T])} (1 - \min_{(u \in [0,t])} \frac{V(u)}{V(t)}) \]
 
@@ -74,18 +74,18 @@ Parameter [optimization](../o/optimization.md) involves adjusting the strategyâ€
 
 ### High-Frequency Trading (HFT) Firms
 High-Frequency Trading firms employ sophisticated algorithms and high-performance computing to execute a large number of orders at extremely high speeds. Examples include:
-- [Virtu Financial](https://www.virtu.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Virtu Financial
+- Citadel Securities
 
 ### Hedge Funds
 [Hedge](../h/hedge.md) funds use [algorithmic trading](../a/algorithmic_trading.md) strategies to manage large portfolios and [hedge](../h/hedge.md) against [market](../m/market.md) risks. Examples include:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 ### Retail Algorithmic Trading Platforms
 Retail traders can also [leverage](../l/leverage.md) [algorithmic trading](../a/algorithmic_trading.md) platforms to automate their strategies. Examples include:
-- [QuantConnect](https://www.quantconnect.com/)
-- [AlgoTrader](https://www.algotrader.com/)
+- QuantConnect
+- AlgoTrader
 
 ## Conclusion
 

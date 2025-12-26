@@ -14,24 +14,24 @@ LDA aims to achieve three main objectives:
 LDA assumes that the input data follows a [Gaussian distribution](../g/gaussian_distribution.md) and that the classes have similar [covariance](../c/covariance.md) matrices. Given a dataset with [multiple](../m/multiple.md) features, \(\mathbf{X}\), and corresponding class labels, \(\mathbf{y}\), the steps for LDA are as follows:
 
 1. **Compute the Mean Vectors**: Compute the mean vector for each class.
-   \[
-   \mathbf{m}_k = \frac{1}{N_k} \sum_{i=1}^{N_k} \mathbf{x}_i \quad \text{for each class} \ k
-   \]
+ \[
+ \mathbf{m}_k = \frac{1}{N_k} \sum_{i=1}^{N_k} \mathbf{x}_i \quad \text{for each class} \ k
+ \]
 
 2. **Compute the Scatter Matrices**:
-   - Within-class scatter matrix, \(S_W\):
-     \[
-     S_W = \sum_{k=1}^{c} \sum_{\mathbf{x}_i \in \mathcal{C}_k} (\mathbf{x}_i - \mathbf{m}_k)(\mathbf{x}_i - \mathbf{m}_k)^T
-     \]
-   - Between-class scatter matrix, \(S_B\):
-     \[
-     S_B = \sum_{k=1}^{c} N_k (\mathbf{m}_k - \mathbf{m})(\mathbf{m}_k - \mathbf{m})^T
-     \]
+ - Within-class scatter matrix, \(S_W\):
+ \[
+ S_W = \sum_{k=1}^{c} \sum_{\mathbf{x}_i \in \mathcal{C}_k} (\mathbf{x}_i - \mathbf{m}_k)(\mathbf{x}_i - \mathbf{m}_k)^T
+ \]
+ - Between-class scatter matrix, \(S_B\):
+ \[
+ S_B = \sum_{k=1}^{c} N_k (\mathbf{m}_k - \mathbf{m})(\mathbf{m}_k - \mathbf{m})^T
+ \]
 
 3. **Compute the Linear Discriminants**: Solve the generalized eigenvalue problem to find the transformation vector, \(\mathbf{w}\):
-   \[
-   \mathbf{w} = \arg \max_{\mathbf{w}} \frac{\mathbf{w}^T S_B \mathbf{w}}{\mathbf{w}^T S_W \mathbf{w}}
-   \]
+ \[
+ \mathbf{w} = \arg \max_{\mathbf{w}} \frac{\mathbf{w}^T S_B \mathbf{w}}{\mathbf{w}^T S_W \mathbf{w}}
+ \]
 
 4. **Transform the Dataset**: Project the dataset onto the new space to create the discriminant component(s).
 
@@ -124,4 +124,4 @@ In the above code, historical prices are loaded and features are engineered. The
 
 Linear Discriminant Analysis (LDA) is a powerful tool in the arsenal of an algorithmic [trader](../t/trader.md). It provides a straightforward approach to classification and [dimensionality reduction](../d/dimensionality_reduction_in_trading.md), which is particularly useful for detecting [trading signals](../t/trading_signals.md), identifying [market](../m/market.md) regimes, or managing portfolios. While it has certain limitations, understanding its core principles and applications can significantly enhance [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md).
 
-For further information on the implementation of LDA in [algorithmic trading](../a/algorithmic_trading.md), interested readers can refer to various financial institutions' resources like [Goldman Sachs](https://www.goldmansachs.com/), [JPMorgan Chase](https://www.jpmorganchase.com/), and [Morgan Stanley](https://www.morganstanley.com/), which often publish research and white papers on advanced quantitative methods.
+For further information on the implementation of LDA in [algorithmic trading](../a/algorithmic_trading.md), interested readers can refer to various financial institutions' resources like Goldman Sachs, JPMorgan Chase, and Morgan Stanley, which often publish research and white papers on advanced quantitative methods.

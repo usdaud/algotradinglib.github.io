@@ -99,4 +99,4 @@ NewOil Ventures' EV/2P ratio is lower than OilCorp's, potentially indicating it 
 
 The EV/2P ratio is an essential tool for analyzing and valuing companies in the oil and gas [industry](../i/industry.md). By integrating a company's enterprise [value](../v/value.md) with its proven and probable reserves, this metric offers a nuanced view of how the [market](../m/market.md) perceives the worth and potential profitability of a company's resource base. Investors and analysts utilize the EV/2P ratio to make more informed decisions, identifying potential investment opportunities and comparing peer companies within the sector.
 
-For additional information on companies that might use the EV/2P ratio in their analysis, you can visit company websites like [ExxonMobil](https://corporate.exxonmobil.com), [Chevron](https://www.chevron.com), or [Royal Dutch Shell](https://www.shell.com).
+For additional information on companies that might use the EV/2P ratio in their analysis, you can visit company websites like ExxonMobil, Chevron, or Royal Dutch Shell.

@@ -2,6 +2,8 @@
 
 Over-The-Counter (OTC) [derivatives](../d/derivatives.md) represent a segment of the financial [market](../m/market.md) where secondary securities are traded directly between two parties, outside of formal exchanges. These instruments are tailored to meet the specific needs and [risk management](../r/risk_management.md) requirements of the contracting parties. OTC [derivatives](../d/derivatives.md) encompass a wide [range](../r/range.md) of financial contracts, including swaps, forwards, [options](../o/options.md), and others. This [market](../m/market.md)'s flexibility allows for customization but also presents greater [counterparty risk](../c/counterparty_risk.md). Understanding the mechanics, types, risks, and regulatory landscape of OTC [derivatives](../d/derivatives.md) is crucial for participants involved in these complex financial instruments.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Overview of OTC Derivatives
 
 ### Definition and Nature
@@ -118,9 +120,9 @@ The evolution of electronic trading platforms has enhanced [efficiency](../e/eff
 
 Several leading institutions are actively involved in the OTC [derivatives](../d/derivatives.md) [market](../m/market.md), including:
 
-- [JPMorgan Chase](https://www.jpmorganchase.com): A powerhouse in the global financial services [industry](../i/industry.md), providing a broad [range](../r/range.md) of OTC [derivatives](../d/derivatives.md) products.
-- [Goldman Sachs](https://www.goldmansachs.com): Known for its expertise in trading, [risk management](../r/risk_management.md), and structuring of OTC [derivatives](../d/derivatives.md).
-- [Barclays](https://www.barclays.com): A major player [offering](../o/offering.md) extensive OTC [derivatives](../d/derivatives.md) solutions across various [asset](../a/asset.md) classes.
+- JPMorgan Chase: A powerhouse in the global financial services [industry](../i/industry.md), providing a broad [range](../r/range.md) of OTC [derivatives](../d/derivatives.md) products.
+- Goldman Sachs: Known for its expertise in trading, [risk management](../r/risk_management.md), and structuring of OTC [derivatives](../d/derivatives.md).
+- Barclays: A major player [offering](../o/offering.md) extensive OTC [derivatives](../d/derivatives.md) solutions across various [asset](../a/asset.md) classes.
 
 ## Conclusion
 

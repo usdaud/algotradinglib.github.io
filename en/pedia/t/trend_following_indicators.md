@@ -6,7 +6,7 @@
 
 Moving Averages are perhaps the most commonly used [trend](../t/trend.md)-following indicators. They smooth out price data to help identify the direction of the [trend](../t/trend.md) over a specific period. There are several types of moving averages used in trading, including:
 
-1. **Simple Moving Average (SMA):** It calculates the average of a selected [range](../r/range.md) of prices, typically closing prices, by the number of periods in that [range](../r/range.md). 
+1. **Simple Moving Average (SMA):** It calculates the average of a selected [range](../r/range.md) of prices, typically closing prices, by the number of periods in that [range](../r/range.md).
 2. **Exponential Moving Average (EMA):** This type of moving average places more weight on recent prices, which makes it more responsive to new information.
 3. **[Weighted](../w/weighted.md) Moving Average (WMA):** Similar to the EMA, but the weighting of each price decreases linearly.
 

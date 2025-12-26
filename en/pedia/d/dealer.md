@@ -8,7 +8,7 @@ Dealers contribute to [market efficiency](../m/market_efficiency.md) by:
 - **Providing [Liquidity](../l/liquidity.md):** Dealers ensure that there is always a buyer or seller for a [security](../s/security.md), thus facilitating continuous trading.
 - **[Price Discovery](../p/price_discovery.md):** By quoting buy and sell prices, dealers help in the determination of the [market price](../m/market_price.md) of securities.
 - **[Risk Management](../r/risk_management.md):** Dealers take on the [risk](../r/risk.md) associated with holding securities, as they buy securities from sellers even when there's no immediate buyer.
-  
+
 These activities are essential for the healthy functioning of [financial markets](../f/financial_market.md), making it easier for participants to enter and exit positions.
 
 ## Types of Dealers
@@ -37,13 +37,13 @@ Dealers, especially those in large financial institutions, often engage in [prop
 Several prominent financial institutions and technology firms are leaders in the field of [algorithmic trading](../a/accountability.md) and dealing. These companies have developed sophisticated trading platforms and algorithms to operate in global [financial markets](../f/financial_market.md).
 
 ### Citadel Securities
-[Citadel Securities](https://www.citadelsecurities.com/) is a top [market maker](../m/market_maker.md) across a [range](../r/range.md) of [asset](../a/asset.md) classes. They [leverage](../l/leverage.md) advanced algorithms and technology to provide [liquidity](../l/liquidity.md) and execute trades with speed and precision.
+Citadel Securities is a top [market maker](../m/market_maker.md) across a [range](../r/range.md) of [asset](../a/asset.md) classes. They [leverage](../l/leverage.md) advanced algorithms and technology to provide [liquidity](../l/liquidity.md) and execute trades with speed and precision.
 
 ### Virtu Financial
-[Virtu Financial](https://www.virtu.com/) combines technology and [market](../m/market.md) expertise to deliver [liquidity](../l/liquidity.md) across [financial markets](../f/financial_market.md). As a global [market maker](../m/market_maker.md), Virtu utilizes algorithms to ensure tight [spreads](../s/spreads.md) and efficient [trade](../t/trade.md) [execution](../e/execution.md).
+Virtu Financial combines technology and [market](../m/market.md) expertise to deliver [liquidity](../l/liquidity.md) across [financial markets](../f/financial_market.md). As a global [market maker](../m/market_maker.md), Virtu utilizes algorithms to ensure tight [spreads](../s/spreads.md) and efficient [trade](../t/trade.md) [execution](../e/execution.md).
 
 ### XTX Markets
-[XTX Markets](https://www.xtxmarkets.com/) is a leading [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) focused on providing [liquidity](../l/liquidity.md) in the [foreign exchange](../f/foreign_exchange.md), equities, [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) markets. Their [trading strategies](../t/trading_strategies.md) are powered by sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques.
+XTX Markets is a leading [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) focused on providing [liquidity](../l/liquidity.md) in the [foreign exchange](../f/foreign_exchange.md), equities, [fixed income](../f/fixed_income.md), and [commodity](../c/commodity.md) markets. Their [trading strategies](../t/trading_strategies.md) are powered by sophisticated algorithms and [machine learning](../m/machine_learning.md) techniques.
 
 ## Regulatory Environment
 

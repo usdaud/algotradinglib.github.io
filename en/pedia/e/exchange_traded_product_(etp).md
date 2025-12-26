@@ -8,21 +8,21 @@ An [Exchange](../e/exchange.md) Traded Product (ETP) is a type of [security](../
 ETFs are perhaps the most well-known form of ETPs. An ETF holds assets such as [stocks](../s/stock.md), bonds, or commodities and generally operates with an [arbitrage](../a/arbitrage.md) mechanism designed to keep trading close to its net [asset](../a/asset.md) [value](../v/value.md) (NAV). ETFs are designed to track the performance of specific indices or sectors, providing broad [market exposure](../m/market_exposure.md) with the ease of stock equivalence in terms of trading.
 
 Examples of popular ETFs include:
-- [SPDR S&P 500 ETF (SPY)](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy)
-- [iShares MSCI Emerging Markets ETF (EEM)](https://www.ishares.com/us/products/239637/)
+- SPDR S&P 500 ETF (SPY)
+- iShares MSCI Emerging Markets ETF (EEM)
 
 ### Exchange Traded Notes (ETNs)
 ETNs are a type of unsecured, [unsubordinated debt](../u/unsubordinated_debt.md) [security](../s/security.md) that tracks an [underlying](../u/underlying.md) [index](../i/index_instrument.md) of securities and trades on a major [exchange](../e/exchange.md) like a stock. ETNs are different from ETFs in that they are a type of [bond](../b/bond.md) but [trade](../t/trade.md) like a stock. Investors in ETNs are subject to the [creditworthiness](../c/creditworthiness.md) of the [issuer](../i/issuer.md).
 
 Example of popular ETNs include:
-- [iPath Bloomberg Commodity Index Total Return ETN (DJP)](https://www.barclays.investmentbank.com/products-and-services/investment-solutions/ipath-etns/overview.html)
+- iPath Bloomberg Commodity Index Total Return ETN (DJP)
 
 ### Exchange Traded Commodities (ETCs)
 ETCs are another category of ETPs that track the performance of an [underlying](../u/underlying.md) [commodity](../c/commodity.md), such as gold, silver, or oil. ETCs provide exposure to commodities through [derivative](../d/derivative.md) contracts rather than owning the physical [commodity](../c/commodity.md). For investors interested in commodities, ETCs [offer](../o/offer.md) a convenient way to invest without the complexities of dealing with the physical commodities themselves.
 
 Examples of popular ETCs include:
-- [SPDR Gold Shares (GLD)](https://www.spdrgoldshares.com/usa/)
-- [iShares Silver Trust (SLV)](https://www.ishares.com/us/products/239855/)
+- SPDR Gold Shares (GLD)
+- iShares Silver Trust (SLV)
 
 ## Benefits of ETPs
 

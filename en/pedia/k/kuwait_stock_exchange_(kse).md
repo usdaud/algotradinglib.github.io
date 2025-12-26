@@ -39,7 +39,7 @@ Kuwait has been taking measures to increase [foreign investment](../f/foreign_in
 
 ## Technological Advancements
 
-With rapid advancements in technology, Boursa Kuwait has continually upgraded its trading and [clearing](../c/clearing.md) systems. The [exchange](../e/exchange.md) employs state-of-the-art [infrastructure](../i/infrastructure.md) to ensure the seamless [execution](../e/execution.md) of trades and the secure transfer of securities. [Blockchain](../b/blockchain_in_trading.md) technology and [algorithmic trading](../a/accountability.md) systems are being explored to further enhance [efficiency](../e/efficiency.md) and [security](../s/security.md).
+With rapid advancements in technology, Boursa Kuwait has continually upgraded its trading and [clearing](../c/clearing.md) systems. The [exchange](../e/exchange.md) employs state-of-the-art [infrastructure](../i/infrastructure.md) to ensure the seamless [execution](../e/execution.md) of trades and the secure transfer of securities. [Blockchain](../b/blockchain_in_trading.md) technology and [algorithmic trading](../a/algorithmic_trading.md) systems are being explored to further enhance [efficiency](../e/efficiency.md) and [security](../s/security.md).
 
 ## Regulatory Framework
 
@@ -81,5 +81,3 @@ These [statistics](../s/statistics.md) highlight the significant role Boursa Kuw
 ## Conclusion
 
 The Kuwait Stock [Exchange](../e/exchange.md) is a pivotal institution in Kuwait's financial [market](../m/market.md), contributing to the nation's economic development and [diversification](../d/diversification.md). With a [robust](../r/robust.md) regulatory framework, advanced technological [infrastructure](../i/infrastructure.md), and a commitment to [transparency](../t/transparency.md), Boursa Kuwait stands as a beacon of financial stability and growth in the Gulf region. Its ongoing efforts to attract [foreign investment](../f/foreign_investment.md) and incorporate cutting-edge technologies position it well for future [expansion](../e/expansion.md) and increased global integration.
-
-For more details, visit the official website of Boursa Kuwait: [https://www.boursakuwait.com.kw/](https://www.boursakuwait.com.kw/).

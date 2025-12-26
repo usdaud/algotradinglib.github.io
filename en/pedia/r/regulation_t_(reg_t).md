@@ -10,11 +10,11 @@ Regulation T was first introduced under the [Securities Exchange Act of 1934](..
 
 Under Reg T, brokers and dealers must follow specific [margin](../m/margin.md) requirements, which dictate the minimum amount of [equity](../e/equity.md) an [investor](../i/investor.md) must have in their [margin account](../m/margin_account.md) when purchasing securities. The most prominent features of these requirements include:
 
-1. **[Initial Margin](../i/initial_margin.md) Requirement**: 
-   - This stipulates that an [investor](../i/investor.md) must [deposit](../d/deposit.md) at least 50% of the purchase price of securities with their [broker](../b/broker.md). For instance, if an [investor](../i/investor.md) wanted to purchase $10,000 worth of stock, they must have at least $5,000 in cash or fully paid securities in their [margin account](../m/margin_account.md).
+1. **[Initial Margin](../i/initial_margin.md) Requirement**:
+ - This stipulates that an [investor](../i/investor.md) must [deposit](../d/deposit.md) at least 50% of the purchase price of securities with their [broker](../b/broker.md). For instance, if an [investor](../i/investor.md) wanted to purchase $10,000 worth of stock, they must have at least $5,000 in cash or fully paid securities in their [margin account](../m/margin_account.md).
 
 2. **[Maintenance Margin](../m/maintenance_margin.md) Requirement**:
-   - After the initial [transaction](../t/transaction.md), investors must maintain a minimum level of [equity](../e/equity.md) in their [margin](../m/margin.md) accounts, generally set at 25% of the total [market value](../m/market_value.md) of the securities. If the [equity](../e/equity.md) falls below this level, the [broker](../b/broker.md) may [issue](../i/issue.md) a [margin call](../m/margin_call.md), requiring the [investor](../i/investor.md) to [deposit](../d/deposit.md) additional funds to bring the account back into compliance.
+ - After the initial [transaction](../t/transaction.md), investors must maintain a minimum level of [equity](../e/equity.md) in their [margin](../m/margin.md) accounts, generally set at 25% of the total [market value](../m/market_value.md) of the securities. If the [equity](../e/equity.md) falls below this level, the [broker](../b/broker.md) may [issue](../i/issue.md) a [margin call](../m/margin_call.md), requiring the [investor](../i/investor.md) to [deposit](../d/deposit.md) additional funds to bring the account back into compliance.
 
 ### Securities Covered
 
@@ -58,7 +58,7 @@ Regulation T plays a critical role in fostering financial [market](../m/market.m
 ### Adjustments and Flexibility
 
 Regulation T also allows for some degree of flexibility:
-- **Exceptions**: There are certain exemptions and special cases under which the Federal Reserve can modify the [margin](../m/margin.md) requirement based on [economic conditions](../e/economic_conditions.md). 
+- **Exceptions**: There are certain exemptions and special cases under which the Federal Reserve can modify the [margin](../m/margin.md) requirement based on [economic conditions](../e/economic_conditions.md).
 - **[Broker](../b/broker.md) Policies**: While brokers must comply with Reg T, they may also adopt more stringent internal policies to further manage [risk](../r/risk.md).
 
 ## Regulation T and Modern Trading
@@ -81,4 +81,4 @@ Fintech platforms often incorporate educational resources and simulations to hel
 
 Regulation T remains a cornerstone of U.S. financial regulation, aiming to balance the benefits and risks of [margin trading](../m/margin_trading.md). By establishing clear [margin](../m/margin.md) requirements and ensuring continuous compliance, Reg T helps maintain [market](../m/market.md) stability, protect individual investors, and mitigate systemic risks. As trading technology evolves, Regulation T adapts in facilitating a more secure and efficient marketplace, resonating with the evolving landscape of [financial markets](../f/financial_market.md) and technological advancements.
 
-For more detailed information regarding Reg T, you can visit various financial regulatory resources like the Federal Reserve's official page for Regulation T [here](https://www.federalreserve.gov/supervisionreg/regt.htm).
+For more detailed information regarding Reg T, you can

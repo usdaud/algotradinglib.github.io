@@ -79,7 +79,7 @@ Understanding producer [surplus](../s/surplus.md) aids policymakers in crafting 
 
 ### Cost Management in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), producer [surplus](../s/surplus.md) can be leveraged by examining [production costs](../p/production_costs.md) and [market](../m/market.md) [liquidity](../l/liquidity.md). By minimizing [transaction costs](../t/transaction_costs.md) (akin to [production costs](../p/production_costs.md)), traders can enhance their producer [surplus](../s/surplus.md), reflecting greater profitability.
+In [algorithmic trading](../a/algorithmic_trading.md), producer [surplus](../s/surplus.md) can be leveraged by examining [production costs](../p/production_costs.md) and [market](../m/market.md) [liquidity](../l/liquidity.md). By minimizing [transaction costs](../t/transaction_costs.md) (akin to [production costs](../p/production_costs.md)), traders can enhance their producer [surplus](../s/surplus.md), reflecting greater profitability.
 
 ### Regulatory Compliances and Reporting
 
@@ -93,7 +93,7 @@ For investors, companies with consistently high producer surpluses may [offer](.
 
 ### Tech Industry
 
-In the tech [industry](../i/industry.md), companies like **Apple Inc.** (https://www.apple.com) consistently exhibit high producer surpluses due to strong brand positioning, allowing them to command higher prices over relatively low variable costs.
+In the tech [industry](../i/industry.md), companies like **Apple Inc.** ( consistently exhibit high producer surpluses due to strong brand positioning, allowing them to command higher prices over relatively low variable costs.
 
 ### Agriculture
 

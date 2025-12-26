@@ -74,4 +74,4 @@ ERISA continually evolves:
 - **Fiduciary Rule:** Attempts to redefine who is considered a fiduciary, especially concerning retirement investment advisers.
 - **Healthcare Reforms:** Ongoing changes in healthcare regulations impact ERISA [welfare](../w/welfare.md) plans, such as the [Affordable Care Act](../a/affordable_care_act.md) (ACA) implementation.
 
-For more information about the Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA), you can visit the U.S. Department of Labor page at [DOL ERISA Overview](https://www.dol.gov/general/topic/health-plans/erisa).
+For more information about the Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA), consult U.S. Department of Labor materials.

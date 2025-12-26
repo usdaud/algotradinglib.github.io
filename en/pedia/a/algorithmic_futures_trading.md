@@ -1,6 +1,6 @@
 # Algorithmic Futures Trading
 
-Algorithmic [futures](../f/futures.md) trading is a form of trading that involves the use of complex algorithms to [trade](../t/trade.md) [futures contracts](../f/futures_contracts.md). This sophisticated method leverages technology to analyze [market](../m/market.md) data and execute trades at high speeds, often far surpassing human capabilities. It is widely used by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and institutional investors to [gain](../g/gain.md) a competitive edge in the markets. 
+Algorithmic [futures](../f/futures.md) trading is a form of trading that involves the use of complex algorithms to [trade](../t/trade.md) [futures contracts](../f/futures_contracts.md). This sophisticated method leverages technology to analyze [market](../m/market.md) data and execute trades at high speeds, often far surpassing human capabilities. It is widely used by [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and institutional investors to [gain](../g/gain.md) a competitive edge in the markets.
 
 ### Understanding Futures Contracts
 
@@ -22,7 +22,7 @@ In the context of [futures](../f/futures.md) trading, algorithms are utilized to
 2. **Optimize [Trade](../t/trade.md) [Execution](../e/execution.md)**: Algorithms can determine the best times and prices for executing trades, reducing [slippage](../s/slippage.md) and improving overall trading [efficiency](../e/efficiency.md).
 3. **[Risk Management](../r/risk_management.md)**: Sophisticated algorithms can manage [risk](../r/risk.md) by setting stop-loss levels, diversifying positions, and [rebalancing](../r/rebalancing.md) portfolios dynamically.
 
-### Types of Algorithmic Strategies in Futures Trading 
+### Types of Algorithmic Strategies in Futures Trading
 
 1. **[Trend Following](../t/trend_following.md)**: This strategy involves creating algorithms that identify and follow [market](../m/market.md) trends. The idea is to buy [futures contracts](../f/futures_contracts.md) when prices are rising and sell them when prices are falling. Tools like moving averages, [momentum indicators](../m/momentum_indicators.md), and [breakout](../b/breakout.md) signals are commonly used.
 2. **[Arbitrage](../a/arbitrage.md)**: [Arbitrage](../a/arbitrage.md) strategies exploit price discrepancies between different markets or instruments. An example is [index](../i/index_instrument.md) [arbitrage](../a/arbitrage.md), where an algorithm might buy constituent [stocks](../s/stock.md) and sell [futures](../f/futures.md) of a corresponding [index](../i/index_instrument.md) simultaneously.
@@ -61,8 +61,8 @@ Algorithmic [futures](../f/futures.md) trading operates within a regulated frame
 
 ### Industry Examples
 
-- **Two Sigma**: A [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and advanced technology for its [trading strategies](../t/trading_strategies.md). More information can be found on their [website](https://www.twosigma.com).
-- **Citadel Securities**: A leading global [market maker](../m/market_maker.md) that uses [algorithmic trading](../a/algorithmic_trading.md) to provide [liquidity](../l/liquidity.md). Visit their [site](https://www.citadelsecurities.com).
-- **Virtu Financial**: Known for its [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and [market](../m/market.md)-making services. Details are available on their [website](https://www.virtu.com).
+- **Two Sigma**: A [firm](../f/firm.md) that leverages [data science](../d/data_science_in_trading.md) and advanced technology for its [trading strategies](../t/trading_strategies.md).
+- **Citadel Securities**: A leading global [market maker](../m/market_maker.md) that uses [algorithmic trading](../a/algorithmic_trading.md) to provide [liquidity](../l/liquidity.md).
+- **Virtu Financial**: Known for its [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and [market](../m/market.md)-making services.
 
 In conclusion, algorithmic [futures](../f/futures.md) trading is a dynamic and rapidly evolving field that combines [finance](../f/finance.md), [statistics](../s/statistics.md), and cutting-edge technology. It offers significant advantages in terms of speed, [efficiency](../e/efficiency.md), and profitability, but also comes with a unique set of challenges and risks that traders must navigate. As the [industry](../i/industry.md) continues to innovate, the future of algorithmic [futures](../f/futures.md) trading promises to be both exciting and transformative.

@@ -2,9 +2,11 @@
 
 The London Interbank [Bid](../b/bid.md) Rate (LIBID) is a significant yet often less-discussed financial metric within the [money](../m/money.md) markets and banking sectors. While it is not as well-known as the London Interbank Offered Rate (LIBOR), it plays an essential role in interbank lending and borrowing activities.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## What is LIBID?
 
-The LIBID is the [interest rate](../i/interest_rate.md) at which banks are willing to borrow funds from other banks in the London [interbank market](../i/interbank_market.md). Essentially, it represents the [bid price](../b/bid_price.md) for short-term loans between banks. This rate is crucial for financial institutions as it helps them manage their [liquidity](../l/liquidity.md) and short-term funding requirements. 
+The LIBID is the [interest rate](../i/interest_rate.md) at which banks are willing to borrow funds from other banks in the London [interbank market](../i/interbank_market.md). Essentially, it represents the [bid price](../b/bid_price.md) for short-term loans between banks. This rate is crucial for financial institutions as it helps them manage their [liquidity](../l/liquidity.md) and short-term funding requirements.
 
 Unlike LIBOR, which is the rate at which banks lend to each other, LIBID is the rate at which they are prepared to borrow. The differential between these two rates is generally small but noteworthy, often termed the "[bid](../b/bid.md)-[offer](../o/offer.md) spread."
 

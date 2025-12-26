@@ -1,6 +1,6 @@
 # Investment Policy Statement (IPS)
 
-An Investment Policy Statement (IPS) is a critical document used by individual investors, financial advisors, and institutional investment managers to outline the rules, guidelines, and objectives that govern investment decisions and strategies. This document serves as a roadmap for managing investment portfolios, providing clear, structured direction on how investments should be handled to meet the financial goals of the [investor](../i/investor.md) or institution. 
+An Investment Policy Statement (IPS) is a critical document used by individual investors, financial advisors, and institutional investment managers to outline the rules, guidelines, and objectives that govern investment decisions and strategies. This document serves as a roadmap for managing investment portfolios, providing clear, structured direction on how investments should be handled to meet the financial goals of the [investor](../i/investor.md) or institution.
 
 ## Purpose of the IPS
 

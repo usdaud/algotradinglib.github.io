@@ -10,7 +10,7 @@ To grasp the concept of buying to cover, it’s crucial first to understand [sho
 2. **Selling [Shares](../s/shares.md)**: The [trader](../t/trader.md) sells the borrowed [shares](../s/shares.md) at the current [market price](../m/market_price.md).
 3. **Buying to Cover**: The [trader](../t/trader.md) later buys the same number of [shares](../s/shares.md) to [return](../r/return.md) to the [broker](../b/broker.md).
 
-The [profit](../p/profit.md) or loss for the [trader](../t/trader.md) is the difference between the price at which they sold the [shares](../s/shares.md) and the price at which they repurchased them. 
+The [profit](../p/profit.md) or loss for the [trader](../t/trader.md) is the difference between the price at which they sold the [shares](../s/shares.md) and the price at which they repurchased them.
 
 ### Example
 
@@ -89,9 +89,9 @@ Modern trading platforms [offer](../o/offer.md) sophisticated tools to aid in [s
 
 Several brokerage firms specialize in facilitating [short selling](../s/short_selling.md) and buy to cover transactions. Below are a few notable examples:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its advanced [trading platform](../t/trading_platform.md) and comprehensive short-selling capabilities. More info at [Interactive Brokers](https://www.interactivebrokers.com).
-- **TD [Ameritrade](../a/ameritrade.md)**: Offers [robust](../r/robust.md) tools and resources for [short selling](../s/short_selling.md), including educational materials and research reports. Visit [TD Ameritrade](https://www.tdameritrade.com).
-- **[Charles Schwab](../c/charles_schwab.md)**: Provides a variety of trading tools and lower fees, appealing to both novice and experienced traders. Learn more at [Charles Schwab](https://www.schwab.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its advanced [trading platform](../t/trading_platform.md) and comprehensive short-selling capabilities. More info at Interactive Brokers.
+- **TD [Ameritrade](../a/ameritrade.md)**: Offers [robust](../r/robust.md) tools and resources for [short selling](../s/short_selling.md), including educational materials and research reports. Visit TD Ameritrade.
+- **[Charles Schwab](../c/charles_schwab.md)**: Provides a variety of trading tools and lower fees, appealing to both novice and experienced traders. Learn more at Charles Schwab.
 
 ## Conclusion
 

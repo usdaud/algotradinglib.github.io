@@ -96,17 +96,17 @@ Several [software tools](../s/software_tools_for_trading.md) can assist individu
 
 ### For Individuals
 
-1. **TurboTax**: A popular tax preparation software that helps individuals calculate federal and state [taxes](../t/taxes.md), maximizing deductions and credits. [TurboTax](https://turbotax.intuit.com/)
-2. **H&R Block**: Offers both tax preparation software and professional services to assist in calculating after-tax [income](../i/income.md). [H&R Block](https://www.hrblock.com/)
-3. **Mint**: A [personal finance](../p/personal_finance_in_trading.md) app that tracks [income](../i/income.md), expenses, and investments, providing a comprehensive view of after-tax [income](../i/income.md) and [financial health](../f/financial_health.md). [Mint](https://www.mint.com/)
-4. **YNAB (You Need A [Budget](../b/budget.md))**: Budgeting software that helps individuals manage after-tax [income](../i/income.md) and expenses, set financial goals, and save effectively. [YNAB](https://www.youneedabudget.com/)
+1. **TurboTax**: A popular tax preparation software that helps individuals calculate federal and state [taxes](../t/taxes.md), maximizing deductions and credits. TurboTax
+2. **H&R Block**: Offers both tax preparation software and professional services to assist in calculating after-tax [income](../i/income.md). H&R Block
+3. **Mint**: A [personal finance](../p/personal_finance_in_trading.md) app that tracks [income](../i/income.md), expenses, and investments, providing a comprehensive view of after-tax [income](../i/income.md) and [financial health](../f/financial_health.md). Mint
+4. **YNAB (You Need A [Budget](../b/budget.md))**: Budgeting software that helps individuals manage after-tax [income](../i/income.md) and expenses, set financial goals, and save effectively. YNAB
 
 ### For Businesses
 
-1. **QuickBooks**: [Accounting](../a/accounting.md) software designed for small to medium-sized businesses, it helps manage [payroll](../p/payroll.md), expenses, and after-tax [income](../i/income.md). [QuickBooks](https://quickbooks.intuit.com/)
-2. **Xero**: Cloud-based [accounting](../a/accounting.md) software that provides tools for tracking [revenue](../r/revenue.md), expenses, and calculating [business](../b/business.md) after-tax [income](../i/income.md). [Xero](https://www.xero.com/)
-3. **Sage [Business](../b/business.md) Cloud [Accounting](../a/accounting.md)**: Comprehensive software for managing various [accounting](../a/accounting.md) functions, including tax calculations and after-tax [income](../i/income.md) tracking. [Sage](https://www.sage.com/en-us/)
-4. **NetSuite**: An integrated cloud [business](../b/business.md) software suite that offers financial management, CRM, and e-[commerce](../c/commerce.md), focusing on larger enterprises. [NetSuite](https://www.oracle.com/netsuite/)
+1. **QuickBooks**: [Accounting](../a/accounting.md) software designed for small to medium-sized businesses, it helps manage [payroll](../p/payroll.md), expenses, and after-tax [income](../i/income.md). QuickBooks
+2. **Xero**: Cloud-based [accounting](../a/accounting.md) software that provides tools for tracking [revenue](../r/revenue.md), expenses, and calculating [business](../b/business.md) after-tax [income](../i/income.md). Xero
+3. **Sage [Business](../b/business.md) Cloud [Accounting](../a/accounting.md)**: Comprehensive software for managing various [accounting](../a/accounting.md) functions, including tax calculations and after-tax [income](../i/income.md) tracking. Sage
+4. **NetSuite**: An integrated cloud [business](../b/business.md) software suite that offers financial management, CRM, and e-[commerce](../c/commerce.md), focusing on larger enterprises. NetSuite
 
 ## Conclusion
 

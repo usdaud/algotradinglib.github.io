@@ -45,10 +45,10 @@ Regulators like the U.S. Securities and [Exchange](../e/exchange.md) [Commission
 
 ## Examples of Non-GAAP Reporting
 ### Technology Sector
-Many technology companies frequently report non-GAAP [earnings](../e/earnings.md). For instance, [Apple Inc.](https://www.apple.com) often includes non-GAAP metrics alongside GAAP figures in their [quarterly earnings reports](../q/quarterly_earnings_reports.md) to give investors a better sense of their operational performance.
+Many technology companies frequently report non-GAAP [earnings](../e/earnings.md). For instance, Apple Inc. often includes non-GAAP metrics alongside GAAP figures in their [quarterly earnings reports](../q/quarterly_earnings_reports.md) to give investors a better sense of their operational performance.
 
 ### Healthcare Sector
-Pharmaceutical companies, like [Pfizer](https://www.pfizer.com), also rely on non-GAAP metrics to account for the impact of large, one-time expenses such as R&D [write-offs](../w/write-offs_in_trading.md), [patent](../p/patent.md) litigation costs, or acquisitions.
+Pharmaceutical companies, like Pfizer, also rely on non-GAAP metrics to account for the impact of large, one-time expenses such as R&D [write-offs](../w/write-offs_in_trading.md), [patent](../p/patent.md) litigation costs, or acquisitions.
 
 ## How Non-GAAP Earnings are Used in Valuation
 ### Multiples-Based Valuation

@@ -14,7 +14,7 @@ Trading refers to the buying and selling of financial instruments such as [stock
 ## Applications of Blockchain in Trading
 
 ### Enhanced Transparency and Trust
-Blockchain's immutable ledger increases [transparency](../t/transparency.md) in trading activities. Each [trade](../t/trade.md) is recorded on a public ledger that is visible to all participants but cannot be tampered with, thus reducing [fraud](../f/fraud.md) and errors. 
+Blockchain's immutable ledger increases [transparency](../t/transparency.md) in trading activities. Each [trade](../t/trade.md) is recorded on a public ledger that is visible to all participants but cannot be tampered with, thus reducing [fraud](../f/fraud.md) and errors.
 
 ### Efficient Settlement Processes
 Traditional trading settlement processes can take days due to the involvement of [multiple](../m/multiple.md) intermediaries and manual reconciliations. Blockchain enables real-time gross settlement by automating and streamlining these processes, thus reducing [counterparty](../c/counterparty.md) risks and freeing up [capital](../c/capital.md).
@@ -36,27 +36,19 @@ Blockchain's [transparency](../t/transparency.md) and immutability simplify regu
 ### Nasdaq
 [Nasdaq](../n/nasdaq.md) is leveraging blockchain technology to enhance the [efficiency](../e/efficiency.md) and [security](../s/security.md) of its trading services. Their blockchain service, [Nasdaq](../n/nasdaq.md) Financial Framework (NFF), provides high-performance solutions for [market](../m/market.md) [infrastructure](../i/infrastructure.md).
 
-Website: [Nasdaq Financial Framework](https://www.nasdaq.com/solutions/nasdaq-financial-framework)
 
 ### IBM Blockchain
 IBM's blockchain solutions are used in various sectors, including trading. IBM Blockchain Transparent [Supply](../s/supply.md) is designed to enhance [transparency](../t/transparency.md) in [supply](../s/supply.md) chains, which can be extended to the trading of commodities and other assets.
 
-Website: [IBM Blockchain](https://www.ibm.com/blockchain)
 
 ### Hyperledger Fabric
 [Hyperledger Fabric](../h/hyperledger_fabric.md) is an [open](../o/open.md)-source blockchain platform that provides a modular architecture with a focus on [scalability](../s/scalability.md) and [security](../s/security.md). It is used by [multiple](../m/multiple.md) companies to optimize trading and settlement processes.
 
-Website: [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
-
 ### Digital Asset Holdings
 Digital [Asset](../a/asset.md) [Holdings](../h/holdings.md) is focused on building [distributed ledger technology](../d/distributed_ledger_technology.md) (DLT) solutions for financial services. Their flagship product, the Digital [Asset](../a/asset.md) Platform, aims to simplify the settlement processes within the trading ecosystem.
 
-Website: [Digital Asset Holdings](https://www.digitalasset.com)
-
 ### Ripple
 [Ripple](../r/ripple.md)'s solutions use blockchain technology to enable instant cross-border payments. RippleNet, their global [payment](../p/payment.md) network, is increasingly being leveraged in financial trading to enhance [liquidity](../l/liquidity.md) and reduce settlement times.
-
-Website: [Ripple](https://ripple.com/ripplenet)
 
 ## Benefits of Blockchain in Trading
 
@@ -110,4 +102,4 @@ The development of Central [Bank](../b/bank.md) Digital Currencies (CBDCs) can f
 As more jurisdictions recognize the potential of blockchain, we can expect more comprehensive and supportive regulatory frameworks, which [will](../w/will.md) further encourage its adoption in trading.
 
 ## Conclusion
-Blockchain technology holds immense potential to revolutionize the trading landscape by enhancing [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md). While challenges remain, ongoing innovations and increasing regulatory clarity are likely to drive broader adoption of blockchain in trading. The integration of blockchain with other emerging technologies promises to create even more advanced and resilient trading infrastructures in the future.
+Blockchain technology holds immense potential to revolutionize the trading landscape by enhancing [transparency](../t/transparency.md), [security](../s/security.md), and [efficiency](../e/efficiency.md). While challenges remain, ongoing innovations and increasing regulatory clarity are likely to drive broader adoption of blockchain in trading. The integration of blockchain with other emerging technologies promises to create even more advanced and resilient trading infrastructures in the future.

@@ -55,7 +55,7 @@ In the United States, the [Trust](../t/trust.md) [Indenture](../i/indenture.md) 
 
 ## Real World Example: Corporate Bond Issues
 
-Corporate bonds are a common type of [bond](../b/bond.md) that utilizes [trust](../t/trust.md) indentures. For instance, [Apple Inc. (Apple Bonds)](https://investor.apple.com/bondholders/default.aspx) issues bonds that are governed by detailed indentures to provide oversight and protection for investors.
+Corporate bonds are a common type of [bond](../b/bond.md) that utilizes [trust](../t/trust.md) indentures. For instance, Apple Inc. (Apple Bonds) issues bonds that are governed by detailed indentures to provide oversight and protection for investors.
 
 ## Conclusion
 

@@ -66,4 +66,4 @@ Several financial products are designed to track the performance of the [Nasdaq]
 
 The [Nasdaq](../n/nasdaq.md) Composite [Index](../i/index_instrument.md) remains one of the most vital indicators of [stock market](../s/stock_market.md) performance, particularly in the [technology sector](../t/technology_sector.md). Its comprehensive inclusion of various securities makes it a [robust](../r/robust.md) measure of [market](../m/market.md) health, [investor](../i/investor.md) sentiment, and economic direction. Its global reach and influence continue to shape investment strategies across the world.
 
-For more detailed information about the [Nasdaq](../n/nasdaq.md) Composite [Index](../i/index_instrument.md), visit the [Nasdaq](../n/nasdaq.md) official page: [Nasdaq Composite Index](https://www.nasdaq.com/).
+For more detailed information about the [Nasdaq](../n/nasdaq.md) Composite [Index](../i/index_instrument.md), visit the [Nasdaq](../n/nasdaq.md) public materials: Nasdaq Composite Index.

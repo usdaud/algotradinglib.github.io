@@ -81,14 +81,14 @@ High [reserve requirements](../r/reserve_requirements.md) can limit the amount o
 
 ### Bank of America
 
-As one of the largest financial institutions in the United States, [Bank](../b/bank.md) of America adheres to the Federal Reserve's statutory [reserve requirements](../r/reserve_requirements.md). The [bank](../b/bank.md) is obligated to maintain this reserve to safeguard against [liquidity](../l/liquidity.md) risks and ensure depositor protection. For more details, visit [Bank of America](https://www.bankofamerica.com/).
+As one of the largest financial institutions in the United States, [Bank](../b/bank.md) of America adheres to the Federal Reserve's statutory [reserve requirements](../r/reserve_requirements.md). The [bank](../b/bank.md) is obligated to maintain this reserve to safeguard against [liquidity](../l/liquidity.md) risks and ensure depositor protection. For more details, visit Bank of America.
 
 ### Allianz
 
-Allianz, a leading global [insurance](../i/insurance.md) [firm](../f/firm.md), is required to maintain statutory reserves as mandated by various international regulatory bodies. These reserves ensure that the company can meet its claim [obligations](../o/obligation.md) in case of large-scale disasters or economic downturns. For more information, visit [Allianz](https://www.allianz.com/).
+Allianz, a leading global [insurance](../i/insurance.md) [firm](../f/firm.md), is required to maintain statutory reserves as mandated by various international regulatory bodies. These reserves ensure that the company can meet its claim [obligations](../o/obligation.md) in case of large-scale disasters or economic downturns. For more information, visit Allianz.
 
 ### HDFC Bank
 
-HDFC [Bank](../b/bank.md), one of India’s premier banking institutions, complies with the statutory [reserve requirements](../r/reserve_requirements.md) set by the Reserve [Bank](../b/bank.md) of India, including the Cash [Reserve Ratio](../r/reserve_ratio.md) (CRR) and Statutory [Liquidity Ratio](../l/liquidity_ratio.md) (SLR). This ensures that the [bank](../b/bank.md) remains solvent and [liquid](../l/liquid.md), capable of meeting [customer](../c/customer.md) demands. More details are available at [HDFC Bank](https://www.hdfcbank.com/).
+HDFC [Bank](../b/bank.md), one of India’s premier banking institutions, complies with the statutory [reserve requirements](../r/reserve_requirements.md) set by the Reserve [Bank](../b/bank.md) of India, including the Cash [Reserve Ratio](../r/reserve_ratio.md) (CRR) and Statutory [Liquidity Ratio](../l/liquidity_ratio.md) (SLR). This ensures that the [bank](../b/bank.md) remains solvent and [liquid](../l/liquid.md), capable of meeting [customer](../c/customer.md) demands. More details are available at HDFC Bank.
 
 In conclusion, statutory reserves play a vital role in maintaining financial stability, managing risks, and protecting customers. Despite their inherent limitations, these reserves are essential for ensuring the [solvency](../s/solvency.md) and [liquidity](../l/liquidity.md) of financial institutions, thereby fostering a stable economic environment.

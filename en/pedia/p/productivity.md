@@ -11,7 +11,7 @@ Time management is one of the foundational aspects of productivity. Effective ti
 - **The Pomodoro Technique**: This method involves working for a set amount of time (usually 25 minutes) followed by a short break (5 minutes). After four such cycles, a longer break is taken. This helps in maintaining focused work sessions and preventing burnout.
 - **Time Blocking**: Allocates specific time slots for tasks or activity categories. By scheduling tasks and adhering to it, distractions can be minimized, leading to enhanced productivity.
 - **Eisenhower Matrix**: This involves categorizing tasks based on their urgency and importance, thus helping individuals prioritize effectively. Tasks are divided into four quadrants: urgent and important, important but not urgent, urgent but not important, and neither urgent nor important.
-  
+
 ### Goal Setting
 
 Goals give direction and serve as a motivational tool to improve productivity. Well-defined goals often follow the SMART criteria:
@@ -82,7 +82,7 @@ Fintech innovations improve productivity in financial services by streamlining p
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) uses computer algorithms to execute trades at high speed and [volume](../v/volume.md). This can improve productivity in [financial markets](../f/financial_market.md) by making trading more efficient and reducing human error:
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to execute trades at high speed and [volume](../v/volume.md). This can improve productivity in [financial markets](../f/financial_market.md) by making trading more efficient and reducing human error:
 
 - **High-Frequency Trading (HFT)**: Involves executing a large number of orders at extremely high speeds. Firms like Virtu Financial specialize in such trading.
 - **AI in Trading**: Algorithms that analyze [market](../m/market.md) data to identify trading opportunities. AI models can adapt and improve over time, enhancing [trading strategies](../t/trading_strategies.md).
@@ -105,7 +105,7 @@ Google employs various productivity strategies including OKRs and a unique work 
 - **Performance Reviews**: Structured to align with OKRs, keeping employees focused on key objectives.
 - **Work Environment**: [Open](../o/open.md) and collaborative spaces, along with amenities like fitness centers and free meals, contribute to a productive workplace.
 
-For more insights, visit [Google's workplace culture](https://careers.google.com/lifeatgoogle/).
+For more insights, visit Google's workplace culture.
 
 ### Toyota's Lean Manufacturing
 
@@ -114,7 +114,7 @@ Toyota is renowned for its Lean [manufacturing](../m/manufacturing.md) principle
 - **Just-In-Time (JIT)**: Reduces [inventory](../i/inventory.md) costs by receiving goods only as they are needed in the production process.
 - **Jidoka**: Automation with a human touch, where machines are able to halt production if a problem is detected.
 
-For further details, you can refer to Toyota’s [global website](https://www.toyota-global.com/innovation/).
+
 
 ### Amazon's Efficiency Practices
 
@@ -123,7 +123,7 @@ Amazon focuses on [efficiency](../e/efficiency.md) to maintain its competitive e
 - **[Warehousing](../w/warehousing.md) and [Logistics](../l/logistics.md)**: Leverages robotics and automation in its warehouses to streamline operations.
 - **[Customer](../c/customer.md)-Centric Approach**: Uses [data analytics](../d/data_analytics.md) to anticipate [customer](../c/customer.md) needs and optimize [supply](../s/supply.md) chains.
 
-For additional information, visit Amazon’s [official site](https://www.aboutamazon.com/).
+For additional information,
 
 ## Conclusion
 

@@ -4,7 +4,7 @@
 
 ### Monte Carlo Simulation
 
-[Monte Carlo simulation](../m/monte_carlo_simulation.md) is one of the most widely used X-[Simulation](../s/simulation_in_trading.md) Methods in [algorithmic trading](../a/algorithmic_trading.md). It relies on random [sampling](../s/sampling.md) and statistical modeling to estimate the probabilistic outcomes of different [trading strategies](../t/trading_strategies.md). 
+[Monte Carlo simulation](../m/monte_carlo_simulation.md) is one of the most widely used X-[Simulation](../s/simulation_in_trading.md) Methods in [algorithmic trading](../a/algorithmic_trading.md). It relies on random [sampling](../s/sampling.md) and statistical modeling to estimate the probabilistic outcomes of different [trading strategies](../t/trading_strategies.md).
 
 #### Key Features:
 - **Random [Sampling](../s/sampling.md)**: Uses a large number of random samples to model the [uncertainty](../u/uncertainty_in_trading.md) in [market](../m/market.md) movements.
@@ -127,6 +127,4 @@ A [trader](../t/trader.md) might generate synthetic [market](../m/market.md) dat
 The various X-[Simulation](../s/simulation_in_trading.md) Methods discussed here illustrate the broad [range](../r/range.md) of techniques available for validating and optimizing [algorithmic trading](../a/algorithmic_trading.md) strategies. These methods help ensure that [trading algorithms](../t/trading_algorithms.md) are [robust](../r/robust.md), reliable, and capable of performing under different [market](../m/market.md) conditions. Whether through historical [backtesting](../b/backtesting.md), forward testing, Monte Carlo simulations, or advanced [machine learning](../m/machine_learning.md) models, each method has its unique advantages and applications, contributing to the sophisticated landscape of modern [algorithmic trading](../a/algorithmic_trading.md).
 
 For more information on companies specializing in [algorithmic trading](../a/algorithmic_trading.md) and [simulation](../s/simulation_in_trading.md) methods, consider visiting their official websites:
-- **Kx Systems**: [https://kx.com](https://kx.com)
-- **[QuantConnect](../q/quantconnect.md)**: [https://quantconnect.com](https://quantconnect.com)
-- **Numerai**: [https://numer.ai](https://numer.ai)
+- **Kx Systems**- **[QuantConnect](../q/quantconnect.md)**- **Numerai**

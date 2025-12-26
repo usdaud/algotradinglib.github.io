@@ -92,6 +92,6 @@ Managing Purchase APR effectively requires leveraging various tools and applicat
 
 The Purchase Annual Percentage Rate is more than just a number on your [credit card](../c/credit_card.md) statement; it's a fundamental component of [personal finance](../p/personal_finance_in_trading.md) management. By understanding how APR works, how it's calculated, and its impact on your [financial health](../f/financial_health.md), you can make wiser decisions, reduce [debt](../d/debt.md) more effectively, and ultimately achieve greater financial stability.
 
-For more details and [credit card](../c/credit_card.md) offerings, visit [American Express](https://www.americanexpress.com/), [Chase](https://www.chase.com/), or [Discover](https://www.discover.com/).
+For more details and [credit card](../c/credit_card.md) offerings, visit American Express, Chase, or Discover.
 
 Understanding and managing your Purchase APR is key to maintaining [financial health](../f/financial_health.md) and avoiding the pitfalls of high-[interest](../i/interest.md) [debt](../d/debt.md). Make informed decisions and [leverage](../l/leverage.md) available resources to ensure your finances remain on a positive trajectory.

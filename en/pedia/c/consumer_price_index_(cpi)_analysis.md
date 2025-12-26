@@ -12,11 +12,11 @@ The methodology of calculating CPI involves several key steps:
 2. **Data Collection**: Prices are collected periodically from various retail outlets, service establishments, rental units, and hospitals.
 3. **Weight [Assignment](../a/assignment.md)**: Each item in the basket is assigned a weight reflecting its share in total consumer expenditure. This weight is derived from household spending surveys.
 4. **[Index](../i/index_instrument.md) Calculation**: The current price of each item is compared to a base period price, and a [weighted average](../w/weighted_average.md) is used to produce the overall [index](../i/index_instrument.md). The formula for CPI is typically:
-   \[ \text{CPI} = \left( \frac{\sum (P_n \times Q_0)}{\sum (P_0 \times Q_0)} \right) \times 100 \]
-   Where:
-   * \( P_n \) = Price of the item in the current period
-   * \( P_0 \) = Price of the item in the base period
-   * \( Q_0 \) = Quantity of the item in the base period
+ \[ \text{CPI} = \left( \frac{\sum (P_n \times Q_0)}{\sum (P_0 \times Q_0)} \right) \times 100 \]
+ Where:
+ * \( P_n \) = Price of the item in the current period
+ * \( P_0 \) = Price of the item in the base period
+ * \( Q_0 \) = Quantity of the item in the base period
 
 ## Types of CPI
 Different types of CPI are used to focus on specific sectors or for different purposes:
@@ -50,9 +50,9 @@ The CPI influences various aspects of the [economy](../e/economy.md):
 Consider a scenario where a [hedge fund](../h/hedge_fund.md) uses [algorithmic trading](../a/algorithmic_trading.md) strategies. The [fund](../f/fund.md) incorporates CPI data into its models to predict [bond market](../b/bond_market.md) reactions. When CPI data indicates rising [inflation](../i/inflation.md), the algorithms might anticipate a hawkish stance from the central [bank](../b/bank.md), leading to higher [interest](../i/interest.md) rates. Consequently, the [fund](../f/fund.md) adjusts its [bond](../b/bond.md) positions accordingly, selling long-term bonds which are more sensitive to [interest rate](../i/interest_rate.md) changes and buying short-term bonds or other assets expected to perform better in a high-[interest](../i/interest.md)-rate environment.
 
 ## Notable Companies Utilizing CPI Data in Algo-Trading
-1. **Two Sigma Investments**: This quant-driven [firm](../f/firm.md) utilizes vast amounts of economic data, including CPI, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. Their approach combines mathematical and statistical techniques to analyze data and execute trades automatically. [Two Sigma](https://www.twosigma.com)
-2. **Citadel LLC**: Another prominent player in the [algorithmic trading](../a/algorithmic_trading.md) space, Citadel employs sophisticated models that [factor](../f/factor.md) in [economic indicators](../e/economic_indicators.md) such as CPI to predict [market](../m/market.md) movements and optimize trading decisions. [Citadel](https://www.citadel.com)
-3. **Renaissance Technologies**: Known for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies integrates a variety of economic data points, including CPI, into its [trading algorithms](../t/trading_algorithms.md) to enhance predictive accuracy and [operational efficiency](../o/operational_efficiency_in_trading.md). [Renaissance Technologies](https://www.rentec.com)
+1. **Two Sigma Investments**: This quant-driven [firm](../f/firm.md) utilizes vast amounts of economic data, including CPI, to inform its [algorithmic trading](../a/algorithmic_trading.md) strategies. Their approach combines mathematical and statistical techniques to analyze data and execute trades automatically. Two Sigma
+2. **Citadel LLC**: Another prominent player in the [algorithmic trading](../a/algorithmic_trading.md) space, Citadel employs sophisticated models that [factor](../f/factor.md) in [economic indicators](../e/economic_indicators.md) such as CPI to predict [market](../m/market.md) movements and optimize trading decisions. Citadel
+3. **Renaissance Technologies**: Known for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies integrates a variety of economic data points, including CPI, into its [trading algorithms](../t/trading_algorithms.md) to enhance predictive accuracy and [operational efficiency](../o/operational_efficiency_in_trading.md). Renaissance Technologies
 
 ## Conclusion
-The Consumer Price [Index](../i/index_instrument.md) is a critical [economic indicator](../e/economic_indicator.md) that provides valuable insights into [inflation](../i/inflation.md) and cost-of-living changes. Its comprehensive methodology ensures that it accurately reflects price changes across a broad spectrum of [consumer goods](../c/consumer_goods.md) and services. Understanding CPI's significance helps policymakers, businesses, and investors make informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), CPI data plays a pivotal role in shaping [trading strategies](../t/trading_strategies.md), managing [risk](../r/risk.md), and predicting [market](../m/market.md) movements, demonstrating its far-reaching impact across the economic landscape.
+The Consumer Price [Index](../i/index_instrument.md) is a critical [economic indicator](../e/economic_indicator.md) that provides valuable insights into [inflation](../i/inflation.md) and cost-of-living changes. Its comprehensive methodology ensures that it accurately reflects price changes across a broad spectrum of [consumer goods](../c/consumer_goods.md) and services. Understanding CPI's significance helps policymakers, businesses, and investors make informed decisions. In the realm of [algorithmic trading](../a/algorithmic_trading.md), CPI data plays a pivotal role in shaping [trading strategies](../t/trading_strategies.md), managing [risk](../r/risk.md), and predicting [market](../m/market.md) movements, demonstrating its far-reaching impact across the economic landscape.

@@ -42,25 +42,24 @@ Several major financial institutions and trading platforms use complex matching 
 
 [NASDAQ](../n/nasdaq.md) uses an advanced matching engine known as INET. INET employs a sophisticated price-time priority matching algorithm, ensuring high-speed and efficient [execution](../e/execution.md) of trades.
 
-[Read more on NASDAQ’s INET](https://business.nasdaq.com)
+Read more on NASDAQ’s INET
 
 ### 3.2. NYSE
 
 The New York Stock [Exchange](../e/exchange.md) uses the NYSE Pillar [trading platform](../t/trading_platform.md). This system integrates various matching algorithms, including price-time priority, designed to optimize [order](../o/order.md) flow and [execution](../e/execution.md) quality.
 
-[Learn more about NYSE Pillar](https://www.nyse.com/markets/pillar)
 
 ### 3.3. Binance
 
 As a leading cryptocurrency [exchange](../e/exchange.md), [Binance](../b/binance.md) utilizes its custom-built matching engine to [handle](../h/handle.md) high [volume](../v/volume.md) and high-frequency trading. It supports a complex [order](../o/order.md) matching algorithm that prioritizes price and incorporates elements to manage the vast amount of data processed in real time.
 
-[Discover Binance’s trading technology](https://www.binance.com)
+Discover Binance’s trading technology
 
 ### 3.4. CME Group
 
 The Chicago Mercantile [Exchange](../e/exchange.md) (CME) employs the world's largest [derivatives](../d/derivatives.md) marketplace matching engine. Its advanced [algorithmic trading](../a/algorithmic_trading.md) systems support diverse and high-[volume](../v/volume.md) trading activities across various [asset](../a/asset.md) classes.
 
-[Explore CME Group’s trading technology](https://www.cmegroup.com)
+Explore CME Group’s trading technology
 
 ## 4. Role of Matching Algorithms in Market Dynamics
 

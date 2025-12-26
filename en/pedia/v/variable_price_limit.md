@@ -16,7 +16,7 @@ Variable Price Limits are intended to:
 
 ## How Variable Price Limits Work
 
-Variable Price Limits operate by setting a dynamic [range](../r/range.md) within which the price of an [asset](../a/asset.md) can fluctuate. This [range](../r/range.md) is determined based on several factors including the [asset](../a/asset.md)'s [historical volatility](../h/historical_volatility.md), current [market](../m/market.md) conditions, trading [volume](../v/volume.md), and other relevant metrics. 
+Variable Price Limits operate by setting a dynamic [range](../r/range.md) within which the price of an [asset](../a/asset.md) can fluctuate. This [range](../r/range.md) is determined based on several factors including the [asset](../a/asset.md)'s [historical volatility](../h/historical_volatility.md), current [market](../m/market.md) conditions, trading [volume](../v/volume.md), and other relevant metrics.
 
 1. **Calculation of Limits:** The limits are recalculated at predefined intervals (e.g., every [trading session](../t/trading_session.md)). The formulas for these calculations vary among exchanges but often involve a combination of average price movements and recent [volatility](../v/volatility.md) indicators.
 2. **Trigger Mechanisms:** When the price of an [asset](../a/asset.md) reaches the upper or lower boundary of the dynamic [range](../r/range.md), trading may be halted, or the [asset](../a/asset.md) may enter a cooling-off period. This allows traders to reassess [market](../m/market.md) conditions and provides time for additional information to be disseminated.
@@ -26,15 +26,15 @@ Variable Price Limits operate by setting a dynamic [range](../r/range.md) within
 
 ### Equities
 
-[Equity](../e/equity.md) markets often employ VPLs to protect against sudden and dramatic shifts in stock prices. For example, the New York Stock [Exchange](../e/exchange.md) (NYSE) uses circuit breakers and price collars that can dynamically adjust based on the [market](../m/market.md)'s behavior. [NYSE Trading Information and Resources](https://www.nyse.com/markets)
+[Equity](../e/equity.md) markets often employ VPLs to protect against sudden and dramatic shifts in stock prices. For example, the New York Stock [Exchange](../e/exchange.md) (NYSE) uses circuit breakers and price collars that can dynamically adjust based on the [market](../m/market.md)'s behavior. NYSE Trading Information and Resources
 
 ### Commodities
 
-In [commodity](../c/commodity.md) trading, VPLs are essential for managing the [risk](../r/risk.md) of rapid price changes due to geopolitical events, natural disasters, or other external shocks. For instance, the Chicago Mercantile [Exchange](../e/exchange.md) (CME) implements variable limits for [futures contracts](../f/futures_contracts.md) in commodities like oil, gold, and agricultural products. [CME Group - Trading Information](https://www.cmegroup.com/)
+In [commodity](../c/commodity.md) trading, VPLs are essential for managing the [risk](../r/risk.md) of rapid price changes due to geopolitical events, natural disasters, or other external shocks. For instance, the Chicago Mercantile [Exchange](../e/exchange.md) (CME) implements variable limits for [futures contracts](../f/futures_contracts.md) in commodities like oil, gold, and agricultural products. CME Group - Trading Information
 
 ### Derivatives
 
-[Derivative](../d/derivative.md) markets utilize VPLs to control the [risk](../r/risk.md) of extreme price alterations in [options](../o/options.md), [futures](../f/futures.md), and other complex financial instruments. Exchanges like the Intercontinental [Exchange](../e/exchange.md) (ICE) use variable limits to maintain orderly markets in [derivatives](../d/derivatives.md). [Intercontinental Exchange - Trading Resources](https://www.theice.com/)
+[Derivative](../d/derivative.md) markets utilize VPLs to control the [risk](../r/risk.md) of extreme price alterations in [options](../o/options.md), [futures](../f/futures.md), and other complex financial instruments. Exchanges like the Intercontinental [Exchange](../e/exchange.md) (ICE) use variable limits to maintain orderly markets in [derivatives](../d/derivatives.md). Intercontinental Exchange - Trading Resources
 
 ## Benefits of Variable Price Limits
 
@@ -56,7 +56,7 @@ Despite their benefits, VPLs are not without criticism. Some of the common conce
 
 ### The 2010 Flash Crash
 
-On May 6, 2010, the U.S. [stock market](../s/stock_market.md) experienced what is now known as the Flash Crash. Within minutes, major stock indices plummeted and then quickly recovered. This event highlighted the need for effective [volatility](../v/volatility.md) control mechanisms, and subsequently, Variable Price Limits were reviewed and enhanced. 
+On May 6, 2010, the U.S. [stock market](../s/stock_market.md) experienced what is now known as the Flash Crash. Within minutes, major stock indices plummeted and then quickly recovered. This event highlighted the need for effective [volatility](../v/volatility.md) control mechanisms, and subsequently, Variable Price Limits were reviewed and enhanced.
 
 ### Oil Price Collapse 2020
 

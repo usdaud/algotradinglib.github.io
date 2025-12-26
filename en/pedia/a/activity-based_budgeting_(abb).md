@@ -63,15 +63,12 @@ Several tools and software can assist organizations in implementing ABB. These s
 
 ### 1. SAP
 SAP offers comprehensive solutions for enterprise resource planning (ERP) that include modules for activity-based budgeting and cost management.
-[Visit SAP Website](https://www.sap.com/)
 
 ### 2. Oracle Hyperion
 Oracle Hyperion is another [robust](../r/robust.md) tool that provides enterprise [performance management](../p/performance_management.md) and includes capabilities for activity-based budgeting.
-[Visit Oracle Hyperion Website](https://www.oracle.com/)
 
 ### 3. SAS Activity-Based Management
 SAS provides comprehensive analytics solutions, including SAS Activity-Based Management, which helps organizations implement ABB effectively.
-[Visit SAS Website](https://www.sas.com/)
 
 ## Case Studies
 

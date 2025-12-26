@@ -164,7 +164,7 @@ Sum-of-the-Parts (SOTP) [valuation](../v/valuation.md) involves valuing each [bu
 
 For further reading and resources on [equity](../e/equity.md) [valuation models](../v/valuation_models.md), consider visiting:
 
-1. [Morningstar](https://www.morningstar.com/)
-2. [Damodaran Online](http://pages.stern.nyu.edu/~adamodar/)
-3. [Bloomberg](https://www.bloomberg.com/)
-4. [McKinsey & Company](https://www.mckinsey.com/)
+1. Morningstar
+2. Damodaran Online
+3. Bloomberg
+4. McKinsey & Company

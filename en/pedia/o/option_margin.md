@@ -4,12 +4,12 @@ In the realm of [finance](../f/finance.md) and trading, the term "option [margin
 
 ## Overview of Options
 
-[Options](../o/options.md) come in two primary forms: calls and puts. 
+[Options](../o/options.md) come in two primary forms: calls and puts.
 
-- **[Call Option](../c/call_option.md)**: This gives the holder the right to buy an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before the [expiration date](../e/expiration_date.md). 
-- **[Put Option](../p/put.md)**: This provides the holder the right to sell an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before the [expiration date](../e/expiration_date.md). 
+- **[Call Option](../c/call_option.md)**: This gives the holder the right to buy an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before the [expiration date](../e/expiration_date.md).
+- **[Put Option](../p/put.md)**: This provides the holder the right to sell an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before the [expiration date](../e/expiration_date.md).
 
-[Options](../o/options.md) can either be bought, meaning the [investor](../i/investor.md) has purchased the right conveyed by the option, or sold, meaning the [investor](../i/investor.md) has undertaken the obligation to fulfill the terms of the option should the buyer choose to [exercise](../e/exercise.md) it. 
+[Options](../o/options.md) can either be bought, meaning the [investor](../i/investor.md) has purchased the right conveyed by the option, or sold, meaning the [investor](../i/investor.md) has undertaken the obligation to fulfill the terms of the option should the buyer choose to [exercise](../e/exercise.md) it.
 
 ## Margin Requirements
 
@@ -91,4 +91,4 @@ A [margin call](../m/margin_call.md) occurs when the [value](../v/value.md) of t
 
 ## Conclusion
 
-Option [margin](../m/margin.md) is an essential aspect of [options](../o/options.md) trading, designed to manage the [risk](../r/risk.md) and ensure that investors have sufficient [equity](../e/equity.md) to cover potential losses. It varies considerably depending on whether the [options](../o/options.md) are long or short, covered or uncovered. Understanding these requirements and the potential consequences of [margin](../m/margin.md) calls is crucial for any [investor](../i/investor.md) engaged in [options](../o/options.md) trading. By managing [margin](../m/margin.md) effectively, investors can mitigate risks and maximize their trading opportunities. More detailed guidelines and specifics can often be obtained from the brokerage firms, such as [Interactive Brokers](https://www.interactivebrokers.com/en/home.php) or [TD Ameritrade](https://www.tdameritrade.com/), that facilitate [options](../o/options.md) trading.
+Option [margin](../m/margin.md) is an essential aspect of [options](../o/options.md) trading, designed to manage the [risk](../r/risk.md) and ensure that investors have sufficient [equity](../e/equity.md) to cover potential losses. It varies considerably depending on whether the [options](../o/options.md) are long or short, covered or uncovered. Understanding these requirements and the potential consequences of [margin](../m/margin.md) calls is crucial for any [investor](../i/investor.md) engaged in [options](../o/options.md) trading. By managing [margin](../m/margin.md) effectively, investors can mitigate risks and maximize their trading opportunities. More detailed guidelines and specifics can often be obtained from the brokerage firms, such as Interactive Brokers or TD Ameritrade, that facilitate [options](../o/options.md) trading.

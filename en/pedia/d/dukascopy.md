@@ -58,6 +58,3 @@ Dukascopy employs [robust](../r/robust.md) [security](../s/security.md) protocol
 - **Two-[Factor](../f/factor.md) Authentication (2FA)**: Enhancing account [security](../s/security.md).
 - **Cold Storage**: Storing a majority of client funds offline to protect against hacking.
 - **Secure Data Centers**: Advanced [security](../s/security.md) measures to ensure the integrity of the [trading environment](../t/trading_environment.md).
-
-## Website
-For more information about Dukascopy and their services, visit the official website: [Dukascopy](https://www.dukascopy.com/)

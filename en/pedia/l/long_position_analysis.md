@@ -94,11 +94,11 @@ Long positions form the cornerstone of many trading and [investing](../i/investi
 
 _For further reading on long positions and [trading strategies](../t/trading_strategies.md), visit the websites of leading trading platforms and financial institutions._
 
-- [MetaTrader](https://www.metatrader4.com)
-- [TradeStation](https://www.tradestation.com)
-- [NinjaTrader](https://www.ninjatrader.com)
-- [TradingView](https://www.tradingview.com)
-- [Eikon](https://eikon.thomsonreuters.com)
-- [ThinkorSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- [RiskMetrics](https://www.msci.com/riskmetrics)
-- [Portfolio123](https://www.portfolio123.com)
+- MetaTrader
+- TradeStation
+- NinjaTrader
+- TradingView
+- Eikon
+- ThinkorSwim
+- RiskMetrics
+- Portfolio123

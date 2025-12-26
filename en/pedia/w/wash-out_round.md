@@ -8,7 +8,7 @@ A [wash](../w/wash.md)-out round refers to a funding event for a company, typica
 
 [Wash](../w/wash.md)-out rounds occur in the [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md) industries. They are more prevalent in startups that are facing severe financial difficulties or [market](../m/market.md) challenges. When a [startup](../s/startup.md) is not meeting its milestones, financial projections, or [market](../m/market.md) expectations, it may need additional funding to stay afloat. However, due to its poor performance, the company might not be able to secure funding at favorable terms. Consequently, new investors negotiate terms that lead to significant [dilution](../d/dilution.md) of existing shareholders' [equity](../e/equity.md) stakes.
 
-![Wash-Out Round](https://example.com/sampleimage.jpg)
+!Wash-Out Round
 
 ### Scenarios Leading to Wash-Out Rounds
 
@@ -54,15 +54,15 @@ While it might be challenging to avoid the necessity of a [wash](../w/wash.md)-o
 
 ## Real-World Examples of Companies That Have Undergone Wash-Out Rounds
 
-**1. [Zynga](https://www.zynga.com)**
+**1. Zynga**
 
 Zynga, a popular social game developer, faced several ups and downs since its inception. Following its IPO, Zynga faced declining user engagement and [revenue](../r/revenue.md). To navigate these adversities, Zynga's late-stage funding rounds saw significant [dilution](../d/dilution.md) of early investors' stakes. The company had to re-align its [business](../b/business.md) strategy and focus on mobile gaming to recover.
 
-**2. [Groupon](https://www.groupon.com)**
+**2. Groupon**
 
-[Groupon](../g/groupon.md), a daily deals website, also faced difficulties post its IPO. Following a rapid decline in its [business](../b/business.md) model's efficacy, [Groupon](../g/groupon.md) experienced rounds of funding at valuations lower than its peak. With new management and a revamped [business](../b/business.md) strategy, [Groupon](../g/groupon.md) aimed to recover but not without heavily diluting existing [shareholder value](../s/shareholder_value.md).
+[Groupon](../g/groupon.md), a daily deals online platform, also faced difficulties post its IPO. Following a rapid decline in its [business](../b/business.md) model's efficacy, [Groupon](../g/groupon.md) experienced rounds of funding at valuations lower than its peak. With new management and a revamped [business](../b/business.md) strategy, [Groupon](../g/groupon.md) aimed to recover but not without heavily diluting existing [shareholder value](../s/shareholder_value.md).
 
-**3. [Box](https://www.box.com)**
+**3. Box**
 
 Box, an enterprise content management platform, faced financial struggles as it navigated its way through significant competition and a challenging [market](../m/market.md) landscape. Box raised [capital](../c/capital.md) in rounds that significantly diluted early shareholders, including the founders, to continue its operations and strategic pivots.
 

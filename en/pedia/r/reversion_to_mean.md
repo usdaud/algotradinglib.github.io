@@ -11,7 +11,7 @@ Key concepts include:
 - **Mean**: The average price or [return](../r/return.md) across a defined period.
 - **Deviation**: The extent to which the current observations differ from the mean.
 - **[Volatility](../v/volatility.md)**: The degree to which prices fluctuate over time.
-  
+
 ## Applications in Algorithmic Trading
 
 In [algorithmic trading](../a/algorithmic_trading.md), the principle of reversion to the mean can be quantified and used to structure [trading strategies](../t/trading_strategies.md). Sophisticated models and algorithms detect deviations from the mean and place trades anticipating the [return](../r/return.md) to average levels. Here are some common strategies applied:
@@ -63,15 +63,15 @@ Some prominent [hedge](../h/hedge.md) funds and trading firms [leverage](../l/le
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is a highly acclaimed quantitative [hedge fund](../h/hedge_fund.md) known for employing complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. Their Medallion [Fund](../f/fund.md) has been famous for achieving stellar returns by exploiting small and predictable [market](../m/market.md) inefficiencies, possibly including RTM strategies.
+Renaissance Technologies is a highly acclaimed quantitative [hedge fund](../h/hedge_fund.md) known for employing complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. Their Medallion [Fund](../f/fund.md) has been famous for achieving stellar returns by exploiting small and predictable [market](../m/market.md) inefficiencies, possibly including RTM strategies.
 
 ### Two Sigma Investments
 
-[Two Sigma Investments](https://www.twosigma.com/) uses [data science](../d/data_science_in_trading.md) and technology to [capitalize](../c/capitalize.md) on [market anomalies](../m/market_anomalies.md). Employing [machine learning](../m/machine_learning.md) and large datasets, the [firm](../f/firm.md) remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
+Two Sigma Investments uses [data science](../d/data_science_in_trading.md) and technology to [capitalize](../c/capitalize.md) on [market anomalies](../m/market_anomalies.md). Employing [machine learning](../m/machine_learning.md) and large datasets, the [firm](../f/firm.md) remains at the forefront of statistical [arbitrage](../a/arbitrage.md) and other RTM-related strategies.
 
 ### AQR Capital Management
 
-[AQR Capital Management](https://www.aqr.com/) combines traditional [finance](../f/finance.md) principles with advanced academic research, deploying quantitative methodologies. AQR utilizes strategies rooted in financial theory, possibly incorporating RTM principles across diverse [asset](../a/asset.md) classes.
+AQR Capital Management combines traditional [finance](../f/finance.md) principles with advanced academic research, deploying quantitative methodologies. AQR utilizes strategies rooted in financial theory, possibly incorporating RTM principles across diverse [asset](../a/asset.md) classes.
 
 ## Conclusion
 

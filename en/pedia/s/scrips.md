@@ -1,6 +1,6 @@
 # Scrips in Finance
 
-In the realm of [finance](../f/finance.md) and trading, the term "scrip" holds significant historical and modern relevance. It traditionally refers to a [substitute](../s/substitute.md) for [currency](../c/currency.md) issued by a company to its shareholders for dividends or to its employees as a form of wages. In the modern context, scrip might also refer to digital forms of financial instruments or even cryptocurrencies in certain scenarios. This detailed piece aims to break down the concept of scrips, unveiling their historical background, usage in modern [finance](../f/finance.md), implications in [algorithmic trading](../a/accountability.md), and the growing relevance in financial technology (fintech).
+In the realm of [finance](../f/finance.md) and trading, the term "scrip" holds significant historical and modern relevance. It traditionally refers to a [substitute](../s/substitute.md) for [currency](../c/currency.md) issued by a company to its shareholders for dividends or to its employees as a form of wages. In the modern context, scrip might also refer to digital forms of financial instruments or even cryptocurrencies in certain scenarios. This detailed piece aims to break down the concept of scrips, unveiling their historical background, usage in modern [finance](../f/finance.md), implications in [algorithmic trading](../a/algorithmic_trading.md), and the growing relevance in financial technology (fintech).
 
 ## Historical Background
 
@@ -28,13 +28,13 @@ In the [stock market](../s/stock_market.md), scrip dividends are still utilized.
 
 ### Usage in Corporate Finance
 
-In [corporate finance](../c/corporate_finance.md), scrip can be part of strategies for managing [cash flow](../c/cash_flow.md), especially for companies that need to retain cash for operations or [expansion](../e/expansion.md). Issuing scrip instead of cash dividends allows these companies to maintain [liquidity](../l/liquidity.md) while rewarding shareholders. 
+In [corporate finance](../c/corporate_finance.md), scrip can be part of strategies for managing [cash flow](../c/cash_flow.md), especially for companies that need to retain cash for operations or [expansion](../e/expansion.md). Issuing scrip instead of cash dividends allows these companies to maintain [liquidity](../l/liquidity.md) while rewarding shareholders.
 
 ## Scrip in Algorithmic Trading
 
 ### Algorithmic Scrip Trading
 
-[Algorithmic trading](../a/accountability.md), or "algo trading," refers to the use of algorithms and software to execute trades at high speeds and volumes. In the context of scrip, algo trading can be employed to [trade](../t/trade.md) scrip dividends or other forms of scrip. For instance, if a company issues scrip dividends, algorithms can be programmed to [trade](../t/trade.md) these scrips in the most favorable way possible, optimizing for [profit](../p/profit.md) and [risk management](../r/risk_management.md).
+[Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," refers to the use of algorithms and software to execute trades at high speeds and volumes. In the context of scrip, algo trading can be employed to [trade](../t/trade.md) scrip dividends or other forms of scrip. For instance, if a company issues scrip dividends, algorithms can be programmed to [trade](../t/trade.md) these scrips in the most favorable way possible, optimizing for [profit](../p/profit.md) and [risk management](../r/risk_management.md).
 
 ### Arbitrage Opportunities
 
@@ -42,7 +42,7 @@ Scrip trading can present unique [arbitrage opportunities](../a/arbitrage_opport
 
 ### Risk Management
 
-[Algorithmic trading](../a/accountability.md) of scrips also includes significant focus on [risk management](../r/risk_management.md). Algorithms can be designed to minimize [risk](../r/risk.md) by diversifying trades across various scrips or by quickly responding to [market](../m/market.md) changes that could devalue the scrip. Modern [risk management](../r/risk_management.md) tools can integrate with [trading algorithms](../t/trading_algorithms.md) to adjust [trading strategies](../t/trading_strategies.md) in real-time, safeguarding investments from sudden [market](../m/market.md) shifts.
+[Algorithmic trading](../a/algorithmic_trading.md) of scrips also includes significant focus on [risk management](../r/risk_management.md). Algorithms can be designed to minimize [risk](../r/risk.md) by diversifying trades across various scrips or by quickly responding to [market](../m/market.md) changes that could devalue the scrip. Modern [risk management](../r/risk_management.md) tools can integrate with [trading algorithms](../t/trading_algorithms.md) to adjust [trading strategies](../t/trading_strategies.md) in real-time, safeguarding investments from sudden [market](../m/market.md) shifts.
 
 ## Scrip in Fintech
 
@@ -97,13 +97,13 @@ Starbucks has implemented one of the most successful digital scrip systems throu
 
 Amazon's gift cards act as a form of digital scrip. These cards can be purchased, gifted, and redeemed for a wide [range](../r/range.md) of products available on the platform. Amazon's extensive [distribution](../d/distribution.md) and acceptance of these cards make them a highly effective tool for increasing consumer spending and loyalty.
 
-More about their gift cards can be found at: [Amazon Gift Cards](https://www.amazon.com/gp/gift-cards)
+More about their gift cards can be found at: Amazon Gift Cards
 
 ### Square
 
 Square has been instrumental in integrating digital scrip into small businesses through its [payment](../p/payment.md) systems. By [offering](../o/offering.md) digital loyalty programs and gift cards, Square helps small businesses increase [customer](../c/customer.md) retention and streamline transactions.
 
-More details can be found at: [Square for Small Businesses](https://squareup.com/us/en/loyalty)
+More details can be found at: Square for Small Businesses
 
 ## Future Trends
 
@@ -121,6 +121,6 @@ As digital scrip becomes more prevalent, regulatory frameworks [will](../w/will.
 
 ## Conclusion
 
-Scrips have evolved significantly from their initial use in company towns to modern applications in digital [finance](../f/finance.md). They [offer](../o/offer.md) companies a versatile tool for managing [liquidity](../l/liquidity.md), engaging customers, and issuing dividends. As technology continues to advance, bridging traditional [finance](../f/finance.md) and fintech, the role of scrip in the financial ecosystem is likely to grow, [offering](../o/offering.md) exciting opportunities and challenges for companies, investors, and regulators alike. 
+Scrips have evolved significantly from their initial use in company towns to modern applications in digital [finance](../f/finance.md). They [offer](../o/offer.md) companies a versatile tool for managing [liquidity](../l/liquidity.md), engaging customers, and issuing dividends. As technology continues to advance, bridging traditional [finance](../f/finance.md) and fintech, the role of scrip in the financial ecosystem is likely to grow, [offering](../o/offering.md) exciting opportunities and challenges for companies, investors, and regulators alike.
 
 Navigating the complexities of scrip requires a deep understanding of both historical context and modern financial principles, ensuring that this [financial instrument](../f/financial_instrument.md) can be effectively and ethically utilized in various [market](../m/market.md) conditions.

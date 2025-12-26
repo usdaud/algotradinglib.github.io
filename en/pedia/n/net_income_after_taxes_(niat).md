@@ -111,8 +111,6 @@ Net [Income](../i/income.md) After [Taxes](../t/taxes.md) (NIAT) is a cornerston
 
 For further information and detailed financial insights, please refer to specific company reports and [financial statements](../f/financial_statements.md) from credible sources such as:
 
-- [Apple Inc. Investor Relations](https://investor.apple.com/)
-- [Amazon Financial Statements](https://ir.aboutamazon.com/)
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
+- Amazon Financial Statements
 
 By leveraging NIAT and its related metrics, stakeholders can [gain](../g/gain.md) a deeper understanding of a company's true profitability and long-term financial sustainability.

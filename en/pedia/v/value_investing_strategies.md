@@ -60,13 +60,13 @@ Investors [value](../v/value.md) a company based on its assets, rather than [ear
 ### Notable Value Investors
 
 #### Warren Buffett
-Arguably the most famous [value](../v/value.md) [investor](../i/investor.md), Warren Buffett, CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), follows a [value investing](../v/value_investing.md) philosophy grounded in Graham's principles but modified with a focus on quality businesses. For more about Warren Buffett and his methodologies, visit [Berkshire Hathaway](http://www.berkshirehathaway.com/).
+Arguably the most famous [value](../v/value.md) [investor](../i/investor.md), Warren Buffett, CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), follows a [value investing](../v/value_investing.md) philosophy grounded in Graham's principles but modified with a focus on quality businesses. For more about Warren Buffett and his methodologies, visit Berkshire Hathaway.
 
 #### Charlie Munger
 Vice-Chairman of [Berkshire Hathaway](../b/berkshire_hathaway.md) and Warren Buffett's long-time [business](../b/business.md) partner, Charlie Munger, is also a proponent of [value investing](../v/value_investing.md). His philosophy integrates multidisciplinary thinking and a focus on [long-term investments](../l/long-term_investments.md).
 
 #### Seth Klarman
-Seth Klarman, the founder of Baupost Group, is known for his meticulous approach to [value investing](../v/value_investing.md) and has authored the widely respected book "[Margin of Safety](../m/margin_of_safety.md)." More information about his [fund](../f/fund.md) can be found at [Baupost Group](https://www.baupost.com/).
+Seth Klarman, the founder of Baupost Group, is known for his meticulous approach to [value investing](../v/value_investing.md) and has authored the widely respected book "[Margin of Safety](../m/margin_of_safety.md)." More information about his [fund](../f/fund.md) can be found at Baupost Group.
 
 ### Role of Behavioral Finance
 

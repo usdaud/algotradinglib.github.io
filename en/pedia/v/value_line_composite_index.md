@@ -10,7 +10,7 @@ The [Value](../v/value.md) Line Composite [Index](../i/index_instrument.md) is u
 
 The [index](../i/index_instrument.md) can be calculated using two primary methods:
 1. **[Arithmetic Mean](../a/arithmetic_mean.md)**: An average of the daily percentage price changes of all [stocks](../s/stock.md).
-2. **[Geometric Mean](../g/geometric_mean_in_trading.md)**: An average that takes the product of a set of numbers and then takes the nth root (where n is the total number of values). 
+2. **[Geometric Mean](../g/geometric_mean_in_trading.md)**: An average that takes the product of a set of numbers and then takes the nth root (where n is the total number of values).
 
 In practice, the [Value](../v/value.md) Line Composite [Index](../i/index_instrument.md) uses the [arithmetic mean](../a/arithmetic_mean.md) for simplicity.
 
@@ -60,7 +60,7 @@ The [Value](../v/value.md) Line Composite [Index](../i/index_instrument.md) is u
 
 ### Online Resources
 
-For more detailed information, including daily updates and in-depth research, visit the official [Value Line, Inc. website](https://www.valueline.com/).
+For more detailed information, including daily updates and in-depth research, visit the official Value Line,
 
 ## Conclusion
 

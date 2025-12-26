@@ -92,8 +92,8 @@ Staying updated through financial news websites such as [Bloomberg](../b/bloombe
 
 ### Specialized Research Firms
 Research firms specializing in [fixed income](../f/fixed_income.md) and distressed [debt](../d/debt.md) can [offer](../o/offer.md) detailed analysis and recommendations on fallen angels. Examples include:
-- [Loomis Sayles](https://www.loomissayles.com/)
-- [Glass Lewis](https://www.glasslewis.com/)
+- Loomis Sayles
+- Glass Lewis
 
 ### Bond Market Platforms
 Platforms like [MarketAxess](../m/marketaxess.md) and Tradeweb provide access to [bond market](../b/bond_market.md) data, including pricing, [liquidity](../l/liquidity.md), and trading information on fallen angels.

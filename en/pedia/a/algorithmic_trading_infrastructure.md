@@ -38,7 +38,7 @@ Creating, testing, and optimizing [trading algorithms](../t/trading_algorithms.m
 
 - **Integrated Development Environments (IDEs)**: Tools like PyCharm, Jupyter Notebooks, and Visual Studio Code are popular among developers for writing and debugging code.
 
-- **[Backtesting](../b/backtesting.md) Frameworks**: Platforms like [QuantConnect](../q/quantconnect.md), [Backtrader](../b/backtrader.md), and zipline provide environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) on historical data.
+- **[Backtesting](../b/backtesting.md) Frameworks**: Platforms like [StockSharp](../s/stocksharp.md), [Backtrader](../b/backtrader.md), and zipline provide environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) on historical data.
 
 - **Development Libraries**: Libraries like NumPy, pandas, scikit-learn, and [TensorFlow](../t/tensorflow.md) are extensively used for data analysis, [machine learning](../m/machine_learning.md), and building [trading strategies](../t/trading_strategies.md).
 
@@ -76,18 +76,18 @@ The [underlying](../u/underlying.md) [infrastructure](../i/infrastructure.md) th
 
 Several companies specialize in providing various components of the [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md). Some of them include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md) (https://www.[quantconnect](../q/quantconnect.md).com).
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md).
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides automated trading services, APIs for direct [market](../m/market.md) access, and a comprehensive [trading platform](../t/trading_platform.md) (https://www.interactivebrokers.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides automated trading services, APIs for direct [market](../m/market.md) access, and a comprehensive [trading platform](../t/trading_platform.md) (
 
-- **[TradeStation](../t/tradestation.md)**: Offers a suite of advanced trading tools, including direct [market](../m/market.md) access, real-time data feeds, and [backtesting](../b/backtesting.md) capabilities (https://www.[tradestation](../t/tradestation.md).com).
+- **[TradeStation](../t/tradestation.md)**: Offers a suite of advanced trading tools, including direct [market](../m/market.md) access, real-time data feeds, and [backtesting](../b/backtesting.md) capabilities (
 
-- **FlexTrade**: A global leader in [execution](../e/execution.md) management and [order management systems](../o/order_management_systems.md), providing multi-[asset](../a/asset.md) [execution](../e/execution.md) solutions (https://flextrade.com).
+- **FlexTrade**: A global leader in [execution](../e/execution.md) management and [order management systems](../o/order_management_systems.md), providing multi-[asset](../a/asset.md) [execution](../e/execution.md) solutions (
 
-- **[Trading Technologies](../t/trading_technologies.md)**: Specializes in professional trading software, [offering](../o/offering.md) advanced [execution](../e/execution.md) tools, charting, and analytics (https://www.tradingtechnologies.com).
+- **[Trading Technologies](../t/trading_technologies.md)**: Specializes in professional trading software, [offering](../o/offering.md) advanced [execution](../e/execution.md) tools, charting, and analytics (
 
-- **AWS**: Amazon Web Services provides [cloud computing](../c/cloud_computing_in_trading.md) resources for data storage, processing, and running [trading algorithms](../t/trading_algorithms.md), [offering](../o/offering.md) solutions like AWS [Lambda](../l/lambda.md), Amazon EC2, and Amazon Redshift (https://aws.amazon.com).
+- **AWS**: Amazon Web Services provides [cloud computing](../c/cloud_computing_in_trading.md) resources for data storage, processing, and running [trading algorithms](../t/trading_algorithms.md), [offering](../o/offering.md) solutions like AWS [Lambda](../l/lambda.md), Amazon EC2, and Amazon Redshift (
 
 ## Conclusion
 
-[Algorithmic Trading](../a/algorithmic_trading.md) [Infrastructure](../i/infrastructure.md) is a complex ecosystem that requires a seamless integration of various components, from data [acquisition](../a/acquisition.md) to [execution](../e/execution.md). Ensuring each part of the [infrastructure](../i/infrastructure.md) is efficient, scalable, and secure is crucial for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. The proper setup can significantly enhance the performance and profitability of trading operations, making it a vital aspect of modern [financial markets](../f/financial_market.md).
+[Algorithmic Trading](../a/algorithmic_trading.md) [Infrastructure](../i/infrastructure.md) is a complex ecosystem that requires a seamless integration of various components, from data [acquisition](../a/acquisition.md) to [execution](../e/execution.md). Ensuring each part of the [infrastructure](../i/infrastructure.md) is efficient, scalable, and secure is crucial for the success of [algorithmic trading](../a/algorithmic_trading.md) strategies. The proper setup can significantly enhance the performance and profitability of trading operations, making it a vital aspect of modern [financial markets](../f/financial_market.md).

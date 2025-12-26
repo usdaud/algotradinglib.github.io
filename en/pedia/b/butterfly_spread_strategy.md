@@ -126,5 +126,4 @@ Despite their complexity, butterfly [spreads](../s/spreads.md) can serve as a to
 
 The [butterfly spread](../b/butterfly_spread.md) strategy offers an intriguing blend of limited [risk](../r/risk.md) and defined reward, making it a popular choice among seasoned [options](../o/options.md) traders. Its structure and variations—long and short [spreads](../s/spreads.md) with calls or puts—provide flexibility to customize it according to [market](../m/market.md) expectations. Despite its complexities and limited [profit](../p/profit.md) [range](../r/range.md), butterfly [spreads](../s/spreads.md) can be a valuable addition to a [trader](../t/trader.md)'s toolkit, particularly in [neutral](../n/neutral.md) or low [volatility](../v/volatility.md) [market](../m/market.md) environments.
 
-For more detailed information on [options](../o/options.md) trading and to explore butterfly [spreads](../s/spreads.md), consider visiting [industry](../i/industry.md) resources such as the [Options Industry Council](https://www.theocc.com/).
-
+For more detailed information on [options](../o/options.md) trading and to explore butterfly [spreads](../s/spreads.md), consider visiting [industry](../i/industry.md) resources such as the Options Industry Council.

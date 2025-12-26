@@ -4,7 +4,7 @@
 
 ## Introduction to Liquidity
 
-[Liquidity](../l/liquidity.md), in [financial markets](../f/financial_market.md), refers to the ease with which an [asset](../a/asset.md) can be bought or sold in the [market](../m/market.md) without affecting its price. High [liquidity](../l/liquidity.md) implies that an [asset](../a/asset.md) can be transacted with minimal impact on its price, whereas low [liquidity](../l/liquidity.md) indicates that even small transactions can lead to significant price changes. 
+[Liquidity](../l/liquidity.md), in [financial markets](../f/financial_market.md), refers to the ease with which an [asset](../a/asset.md) can be bought or sold in the [market](../m/market.md) without affecting its price. High [liquidity](../l/liquidity.md) implies that an [asset](../a/asset.md) can be transacted with minimal impact on its price, whereas low [liquidity](../l/liquidity.md) indicates that even small transactions can lead to significant price changes.
 
 ### Key Metrics of Liquidity
 
@@ -34,8 +34,8 @@ The calculation of [liquidity](../l/liquidity.md)-[weighted returns](../w/weight
 
 1. **Identify [Liquidity](../l/liquidity.md) Metrics**: Determine which [liquidity](../l/liquidity.md) metrics (e.g., [bid-ask spread](../b/bid-ask_spread.md), [market depth](../m/market_depth.md), [volume](../v/volume.md)) [will](../w/will.md) be used.
 2. **Adjust Returns for [Liquidity](../l/liquidity.md)**: Modify the traditional [return](../r/return.md) measures based on [liquidity](../l/liquidity.md). This can involve:
-   - **[Transaction](../t/transaction.md) Cost Adjustment**: Deducing estimated [transaction costs](../t/transaction_costs.md) based on [liquidity](../l/liquidity.md).
-   - **Impact Adjustment**: Adjusting returns for the price impact caused by trades.
+ - **[Transaction](../t/transaction.md) Cost Adjustment**: Deducing estimated [transaction costs](../t/transaction_costs.md) based on [liquidity](../l/liquidity.md).
+ - **Impact Adjustment**: Adjusting returns for the price impact caused by trades.
 3. **Compile [Liquidity](../l/liquidity.md)-[Weighted](../w/weighted.md) Performance**: Aggregate the adjusted returns to form a comprehensive view of performance.
 
 ### Formula Example
@@ -65,9 +65,9 @@ When creating an [algorithmic trading](../a/algorithmic_trading.md) strategy, in
 
 Several platforms and tools are available to assist with integrating [liquidity](../l/liquidity.md) considerations into [trading algorithms](../t/trading_algorithms.md). These may include:
 
-- **[QuantConnect](../q/quantconnect.md)**: Provides tools for [backtesting](../b/backtesting.md) and live trading with access to [liquidity](../l/liquidity.md) data.
-- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports [liquidity](../l/liquidity.md)-adjusted [trading strategies](../t/trading_strategies.md). [Website](https://www.algotrader.com)
-- **Kx Systems**: Known for its high-performance time-series database, kdb+, which can help manage large sets of trading and [liquidity](../l/liquidity.md) data. [Website](https://kx.com)
+- **[StockSharp](../s/stocksharp.md)**: Provides tools for [backtesting](../b/backtesting.md) and live trading with access to [liquidity](../l/liquidity.md) data.
+- **[AlgoTrader](../a/algotrader.md)**: An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports [liquidity](../l/liquidity.md)-adjusted [trading strategies](../t/trading_strategies.md). online platform
+- **Kx Systems**: Known for its high-performance time-series database, kdb+, which can help manage large sets of trading and [liquidity](../l/liquidity.md)
 
 ## Benefits and Challenges
 

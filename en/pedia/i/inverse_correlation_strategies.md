@@ -18,7 +18,7 @@
 The first step in employing an [inverse correlation](../i/inverse_correlation.md) strategy is to identify pairs or groups of assets that exhibit [negative correlation](../n/negative_correlation.md). This can involve:
 - **Statistical Analysis**: Using historical price data and statistical tools to calculate the [correlation coefficient](../c/correlation_coefficient.md) between potential [asset](../a/asset.md) pairs.
 - **[Economic Indicators](../e/economic_indicators.md)**: Reviewing [economic indicators](../e/economic_indicators.md) and sector performances that inherently push certain assets in opposite directions.
-  
+
 For example, during times of economic [uncertainty](../u/uncertainty_in_trading.md), assets like gold and [stocks](../s/stock.md) often exhibit [negative correlation](../n/negative_correlation.md). As [uncertainty](../u/uncertainty_in_trading.md) rises, investors flock to safe-haven assets like gold, while riskier assets like [stocks](../s/stock.md) may see declines.
 
 ### Portfolio Construction
@@ -90,7 +90,7 @@ ARIMA models can predict future values of a [time series](../t/time_series.md) b
 
 ## Practical Applications in Algorithmic Trading
 
-Several real-world applications of [inverse correlation](../i/inverse_correlation.md) strategies stand out in the realm of [algorithmic trading](../a/algorithmic_trading.md). Companies like [Two Sigma](https://www.twosigma.com/), [Citadel](https://www.citadel.com/), and [DE Shaw](https://www.deshaw.com/) have integrated sophisticated models to exploit these strategies.
+Several real-world applications of [inverse correlation](../i/inverse_correlation.md) strategies stand out in the realm of [algorithmic trading](../a/algorithmic_trading.md). Companies like Two Sigma, Citadel, and DE Shaw have integrated sophisticated models to exploit these strategies.
 
 ### Case Study: Gold and Equity Indices
 

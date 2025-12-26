@@ -89,5 +89,4 @@ Various regulations may impact how negative [equity](../e/equity.md) situations 
 
 Negative [equity](../e/equity.md) remains a critical concept in both personal and [corporate finance](../c/corporate_finance.md), requiring careful management and planning to navigate. Understanding its causes, implications, and management strategies is key for financial stability, especially in volatile markets. Modern financial tools and technologies can provide valuable insights and ways to manage and potentially mitigate the risks associated with negative [equity](../e/equity.md).
 
-For more detailed corporate-specific information or services related to managing negative [equity](../e/equity.md), some companies that provide these financial solutions include [BlackRock](https://www.blackrock.com) and [JP Morgan Chase](https://www.jpmorganchase.com).
-
+For more detailed corporate-specific information or services related to managing negative [equity](../e/equity.md), some companies that provide these financial solutions include BlackRock and JP Morgan Chase.

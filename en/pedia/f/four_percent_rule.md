@@ -10,7 +10,7 @@ The Four Percent Rule originates from a study by three professors from Trinity U
 
 ### Key Findings
 
-The key findings of the study revealed that a 4% [withdrawal](../w/withdrawal.md) rate, adjusted annually for [inflation](../i/inflation.md), had a high probability of preserving a portfolio through a 30-year retirement, given a diversified mix of [stocks](../s/stock.md) and bonds, typically favoring a 50-75% stock allocation. 
+The key findings of the study revealed that a 4% [withdrawal](../w/withdrawal.md) rate, adjusted annually for [inflation](../i/inflation.md), had a high probability of preserving a portfolio through a 30-year retirement, given a diversified mix of [stocks](../s/stock.md) and bonds, typically favoring a 50-75% stock allocation.
 
 ## Assumptions of the Four Percent Rule
 
@@ -63,9 +63,9 @@ Given its limitations, some financial experts recommend adjustments or alternati
 
 Several [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) firms incorporate these strategies and provide tools to help individuals plan their retirement withdrawals effectively. Some notable firms and their resources include:
 
-- **Vanguard's Retirement [Nest Egg](../n/nest_egg.md) Calculator**: [Vanguard Retirement Calculator](https://retirementplans.vanguard.com/VGApp/pe/pubeducation/calculators/Retirement NestEggCalc.jsf)
-- **Fidelity's Planning & [Guidance](../g/guidance.md) Center**: [Fidelity Planning Tools](https://www.fidelity.com/planning-and-advice/overview)
-- **Schwab's Retirement Calculator**: [Charles Schwab Retirement Calculator](https://www.schwab.com/retirement-calculator)
+- **Vanguard's Retirement [Nest Egg](../n/nest_egg.md) Calculator**: Vanguard Retirement Calculator
+- **Fidelity's Planning & [Guidance](../g/guidance.md) Center**: Fidelity Planning Tools
+- **Schwab's Retirement Calculator**: Charles Schwab Retirement Calculator
 
 ## Conclusion
 

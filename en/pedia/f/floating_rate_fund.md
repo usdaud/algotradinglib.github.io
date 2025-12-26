@@ -5,7 +5,7 @@ A floating rate [fund](../f/fund.md) is a type of [mutual fund](../m/mutual_fund
 ## Introduction to Floating Rate Instruments
 
 The primary assets in a floating rate [fund](../f/fund.md) are typically [floating rate notes](../f/floating_rate_notes.md) (FRNs) and loans. These instruments are generally issued by corporations and financial institutions and include the following characteristics:
-- **[Interest Rate](../i/interest_rate.md) Adjustment:** The [interest](../i/interest.md) rates on these instruments reset periodically, typically every 30 to 90 days. This reset is usually tied to a [reference rate](../r/reference_rate.md) such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight [Financing](../f/financing.md) Rate (SOFR).
+- **[Interest Rate](../i/interest_rate.md) Adjustment:** The [interest](../i/interest.md) rates on these instruments reset periodically, typically every 30 to 90 days. This reset is usually tied to a [reference rate](../r/reference_rate.md) such as the Secured Overnight [Financing](../f/financing.md) Rate (SOFR). Note: LIBOR was phased out in June 2023 and has been replaced by SOFR and other alternative reference rates.
 - **[Credit](../c/credit.md) Quality:** Floating rate instruments can [range](../r/range.md) from high [credit](../c/credit.md) quality loans, which pose lower [risk](../r/risk.md), to lower-quality, high-[yield](../y/yield.md) loans, which entail higher [risk](../r/risk.md) but potentially [offer](../o/offer.md) higher returns.
 - **[Income](../i/income.md) Generation:** These instruments pay [interest](../i/interest.md) to the [fund](../f/fund.md), generating [income](../i/income.md) that can be distributed to investors.
 
@@ -62,17 +62,14 @@ The [expense ratio](../e/expense_ratio.md) indicates the annual fees charged by 
 ## Examples of Floating Rate Funds
 
 ### Fidelity Advisor Floating Rate High Income Fund
-[Website](https://www.fidelity.com)
 
 This [fund](../f/fund.md) seeks high [income](../i/income.md) by [investing](../i/investing.md) primarily in high-[yield](../y/yield.md) floating rate loans and floating rate [debt](../d/debt.md) securities. It emphasizes maintaining a diversified portfolio to mitigate [risk](../r/risk.md).
 
 ### BlackRock Floating Rate Income Fund
-[Website](https://www.blackrock.com)
 
 Invests in floating rate loans and other floating rate [debt](../d/debt.md) securities. It aims to provide high current [income](../i/income.md) while maintaining a low-[duration](../d/duration.md) portfolio to minimize [interest](../i/interest.md)-rate sensitivity.
 
 ### T. Rowe Price Floating Rate Fund
-[Website](https://www.troweprice.com)
 
 Focuses on providing high current [income](../i/income.md) through investments in floating rate loans and other floating rate [debt](../d/debt.md) instruments. The [fund](../f/fund.md) emphasizes quality and active [risk management](../r/risk_management.md).
 

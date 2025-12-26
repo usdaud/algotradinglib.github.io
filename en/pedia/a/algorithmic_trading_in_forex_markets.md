@@ -31,15 +31,15 @@ Forex [algorithmic trading](../a/algorithmic_trading.md) involves the use of com
 ### 2. Algorithms and Strategies
 
 1. **[Trend Following](../t/trend_following.md)**: Identifies and trades in the direction of the current price [trend](../t/trend.md).
-   - Moving Averages
-   - [Momentum Indicators](../m/momentum_indicators.md)
+ - Moving Averages
+ - [Momentum Indicators](../m/momentum_indicators.md)
 2. **[Arbitrage](../a/arbitrage.md)**: Takes advantage of price differentials in different markets or instruments.
-   - Triangular [Arbitrage](../a/arbitrage.md)
-   - Statistical [Arbitrage](../a/arbitrage.md)
+ - Triangular [Arbitrage](../a/arbitrage.md)
+ - Statistical [Arbitrage](../a/arbitrage.md)
 3. **[Market](../m/market.md) Making**: Provides [liquidity](../l/liquidity.md) by placing buy and sell orders and profiting from the spread.
 4. **[Mean Reversion](../m/mean_reversion.md)**: Assumes that prices [will](../w/will.md) revert to their historical averages.
-   - [Bollinger Bands](../b/bollinger_bands.md)
-   - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
+ - [Bollinger Bands](../b/bollinger_bands.md)
+ - [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI)
 5. **High-Frequency Trading (HFT)**: Executes a large number of orders within very short time frames to exploit small price discrepancies.
 6. **News-Based Trading**: Uses [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze and react to news events.
 
@@ -89,8 +89,8 @@ Forex [algorithmic trading](../a/algorithmic_trading.md) involves the use of com
 
 ## Major Market Players
 
-- **Citadel LLC**: [Citadel LLC](https://www.citadel.com)
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com)
+- **Citadel LLC**: Citadel LLC
+- **Two Sigma**: Two Sigma
 
 ## Case Study
 
@@ -108,4 +108,4 @@ A case study can illustrate the practical application of forex [algorithmic trad
 
 [Algorithmic trading](../a/algorithmic_trading.md) in the Forex [market](../m/market.md) offers numerous advantages, including speed, [efficiency](../e/efficiency.md), and reduced emotional bias. However, it also comes with its own set of challenges, such as the need for [robust](../r/robust.md) [risk management](../r/risk_management.md) and adherence to regulatory requirements. As technology continues to evolve, so too [will](../w/will.md) the strategies and tools available for [algorithmic trading](../a/algorithmic_trading.md), making it an exciting and dynamic field within the world of [finance](../f/finance.md).
 
-By understanding the key components, strategies, and technologies involved, as well as the regulatory landscape, traders can better navigate the complexities of [algorithmic trading](../a/algorithmic_trading.md) in the Forex [market](../m/market.md). Whether for individual traders or large financial institutions, the future of Forex trading is undoubtedly intertwined with the rapid advancements in algorithmic and high-frequency [trading technologies](../t/trading_technologies.md).
+By understanding the key components, strategies, and technologies involved, as well as the regulatory landscape, traders can better navigate the complexities of [algorithmic trading](../a/algorithmic_trading.md) in the Forex [market](../m/market.md). Whether for individual traders or large financial institutions, the future of Forex trading is undoubtedly intertwined with the rapid advancements in algorithmic and high-frequency [trading technologies](../t/trading_technologies.md).

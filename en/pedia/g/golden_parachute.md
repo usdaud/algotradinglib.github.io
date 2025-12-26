@@ -46,17 +46,17 @@ There are ethical concerns about the fairness and justification of Golden Parach
 ### Yahoo!
 Marissa Mayer, the former CEO of Yahoo, received a substantial Golden Parachute estimated at around $23 million when the company was sold to Verizon in 2017, despite mixed reviews of her tenure at Yahoo. This package included cash payments, stock [options](../o/options.md), and other benefits.
 
-More information: [Verizon Media](https://www.verizonmedia.com/)
+More information: Verizon Media
 
 ### Time Warner
 When Time Warner merged with AT&T in 2018, several top executives received significant Golden Parachutes. Jeff Bewkes, the former CEO of Time Warner, received a package worth over $200 million, which included cash, stock [options](../o/options.md), and other long-term incentives.
 
-More information: [AT&T](https://about.att.com/)
+More information: AT&T
 
 ### American Airlines
 During American Airlines' [merger](../m/merger.md) with US Airways, CEO Tom Horton received a $20 million Golden Parachute, which was controversial given the company's financial struggles and the broader context of airline [industry](../i/industry.md) bailouts and labor disputes.
 
-More information: [American Airlines](https://www.aa.com/)
+More information: American Airlines
 
 ## Trends and Evolution
 

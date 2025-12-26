@@ -92,7 +92,7 @@ In the [stock market](../s/stock_market.md), Heikin-Ashi candles are used by swi
 
 ### TradingView
 
-[TradingView](https://www.tradingview.com) is a well-known [trading platform](../t/trading_platform.md) that offers extensive charting tools, including Heikin-Ashi candles. It provides traders with customizable chart [options](../o/options.md) and integrates with various brokers for seamless trading.
+TradingView is a well-known [trading platform](../t/trading_platform.md) that offers extensive charting tools, including Heikin-Ashi candles. It provides traders with customizable chart [options](../o/options.md) and integrates with various brokers for seamless trading.
 
 ### MetaTrader 4 and 5
 
@@ -100,7 +100,7 @@ MetaTrader platforms are extensively used in forex trading. They support Heikin-
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [asset](../a/asset.md) classes and offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities. Traders can use Python to implement strategies using Heikin-Ashi candles and test their effectiveness on historical data.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports various [asset](../a/asset.md) classes and offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities. Traders can use Python to implement strategies using Heikin-Ashi candles and test their effectiveness on historical data.
 
 ## Conclusion
 

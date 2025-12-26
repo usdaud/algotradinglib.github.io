@@ -47,22 +47,22 @@ The regulatory landscape impacts [algorithmic trading](../a/algorithmic_trading.
 ## Leading Companies in X-Trading Algorithms
 
 ### Citadel Securities
-A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md), Citadel Securities employs advanced [trading algorithms](../t/trading_algorithms.md) across various [asset](../a/asset.md) classes. More details can be found on their official page: [Citadel Securities](https://www.citadelsecurities.com/).
+A leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md), Citadel Securities employs advanced [trading algorithms](../t/trading_algorithms.md) across various [asset](../a/asset.md) classes.
 
 ### Renaissance Technologies
-Known for the Medallion [Fund](../f/fund.md), Renaissance Technologies utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve high returns. Further information is available at: [Renaissance Technologies](https://www.rentec.com/).
+Known for the Medallion [Fund](../f/fund.md), Renaissance Technologies utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to achieve high returns. Further information is available at: Renaissance Technologies.
 
 ### Two Sigma
-Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to create [trading algorithms](../t/trading_algorithms.md). They focus on [deep learning](../d/deep_learning.md), AI, and computational power. More on their strategies can be found here: [Two Sigma](https://www.twosigma.com/).
+Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to create [trading algorithms](../t/trading_algorithms.md). They focus on [deep learning](../d/deep_learning.md), AI, and computational power. More on their strategies can be found here: Two Sigma.
 
 ### DE Shaw Group
-This [firm](../f/firm.md) uses computational methodology and mathematical techniques for [trading strategies](../t/trading_strategies.md). Additional information is available at: [DE Shaw Group](https://www.deshaw.com/).
+This [firm](../f/firm.md) uses computational methodology and mathematical techniques for [trading strategies](../t/trading_strategies.md). Additional information is available at: DE Shaw Group.
 
 ## Conclusion
 X-[Trading Algorithms](../t/trading_algorithms.md) are a complex and rapidly evolving field, integrating various disciplines from [quantitative analysis](../q/quantitative_analysis.md) to high-performance computing. As markets continue to mature and data becomes more accessible, the sophistication and capability of these algorithms are likely to only grow, presenting both opportunities and challenges.
 
 ## References
-1. [Citadel Securities](https://www.citadelsecurities.com/)
-2. [Renaissance Technologies](https://www.rentec.com/)
-3. [Two Sigma](https://www.twosigma.com/)
-4. [DE Shaw Group](https://www.deshaw.com/)
+1. Citadel Securities
+2. Renaissance Technologies
+3. Two Sigma
+4. DE Shaw Group

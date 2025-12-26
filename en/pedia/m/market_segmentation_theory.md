@@ -26,7 +26,7 @@
 
 ### Applications and Implications
 
-Understanding [Market Segmentation](../m/market_segmentation.md) Theory is valuable for both policymakers and investors. 
+Understanding [Market Segmentation](../m/market_segmentation.md) Theory is valuable for both policymakers and investors.
 
 1. **Policymakers** can better comprehend how interventions in one segment of the [market](../m/market.md) might not necessarily impact other segments. For instance, if a central [bank](../b/bank.md) decides to purchase long-term bonds to inject [liquidity](../l/liquidity.md) into the [financial system](../f/financial_system.md) (a policy known as [Quantitative Easing](../q/quantitative_easing.md)), the immediate effect might be more pronounced on the long-term segment [yield](../y/yield.md) compared to short-term yields.
 

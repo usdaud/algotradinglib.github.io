@@ -90,14 +90,12 @@ Automated [risk](../r/risk.md) monitoring tools can track [portfolio performance
 
 ### Bridgewater Associates
 
-Bridgewater Associates is known for its [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, including the use of [risk parity](../r/risk_parity.md) and extensive [stress testing](../s/stress_testing_in_trading.md). 
+Bridgewater Associates is known for its [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, including the use of [risk parity](../r/risk_parity.md) and extensive [stress testing](../s/stress_testing_in_trading.md).
 
-Visit their website: [Bridgewater Associates](https://www.bridgewater.com/)
 
 ### Renaissance Technologies
 
 Renaissance Technologies employs sophisticated [quantitative models](../q/quantitative_models.md) and rigorous [risk management](../r/risk_management.md) techniques, including [diversification](../d/diversification.md) and automated [risk](../r/risk.md) monitoring.
 
-Visit their website: [Renaissance Technologies](https://www.rentec.com/)
 
 Implementing comprehensive [risk management](../r/risk_management.md) techniques in [algorithmic trading](../a/algorithmic_trading.md) can significantly enhance the stability and performance of trading portfolios, ensuring that traders can navigate various [market](../m/market.md) conditions effectively.

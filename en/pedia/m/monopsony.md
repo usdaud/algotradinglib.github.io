@@ -69,11 +69,11 @@ Encouraging collective bargaining through unions can also counteract monopsony p
 
 ### Amazon
 
-Amazon's [market](../m/market.md) practices provide an illustrative example of monopsony power. As a dominant player in online retail and [logistics](../l/logistics.md), Amazon holds significant bargaining power over suppliers and workers. Various analyses and critiques point out how the company’s [buying power](../b/buying_power.md) affects supplier margins and worker conditions. For more insights, visit [Amazon’s official website](https://www.amazon.com/).
+Amazon's [market](../m/market.md) practices provide an illustrative example of monopsony power. As a dominant player in online retail and [logistics](../l/logistics.md), Amazon holds significant bargaining power over suppliers and workers. Various analyses and critiques point out how the company’s [buying power](../b/buying_power.md) affects supplier margins and worker conditions. For more insights,
 
 ### Walmart
 
-Walmart is another example where its [purchasing power](../p/purchasing_power.md) influences supplier dynamics. The company’s significant [market share](../m/market_share.md) and focus on cost reduction enable it to dictate stringent terms to suppliers. This often includes requiring lower pricing, which can impact the profitability and sustainability of suppliers. For more information, visit [Walmart’s official website](https://www.walmart.com/).
+Walmart is another example where its [purchasing power](../p/purchasing_power.md) influences supplier dynamics. The company’s significant [market share](../m/market_share.md) and focus on cost reduction enable it to dictate stringent terms to suppliers. This often includes requiring lower pricing, which can impact the profitability and sustainability of suppliers.
 
 ## Challenges and Criticisms of Monopsony Analysis
 

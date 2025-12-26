@@ -1,6 +1,6 @@
 # Writedowns and Impairments
 
-## Introduction 
+## Introduction
 [Writedowns](../w/writedowns_in_trading.md) and impairments are crucial concepts in [financial accounting](../f/financial_accounting.md) and [corporate finance](../c/corporate_finance.md). They pertain to the reduction in the [book value](../b/book_value.md) of an [asset](../a/asset.md) when it becomes worth less than its carrying amount on the company's [balance sheet](../b/balance_sheet.md). This markdown can result from several factors, such as changes in [market](../m/market.md) conditions, technology, obsolescence, or economic downturns. Understanding these concepts is essential for investors, analysts, accountants, and financial managers, as they have a significant impact on a company's [financial statements](../f/financial_statements.md) and ratios.
 
 ## Defining Writedowns and Impairments
@@ -53,9 +53,9 @@ Different [accounting](../a/accounting.md) standards prescribe varying frequenci
 
 ### Testing Procedures
 1. **Identifying Indicators of [Impairment](../i/impairment.md):** Factors such as [market value](../m/market_value.md) declines, adverse changes in the [economy](../e/economy.md), or internal reports indicating poor performance may signal the need for an [impairment](../i/impairment.md) test.
-2. **Measuring Recoverable Amount:** The recoverable amount is the higher of [fair value](../f/fair_value.md) less costs to sell and [value](../v/value.md) in use. 
-   - **[Fair Value](../f/fair_value.md) Less Costs to Sell:** The price obtainable from the [sale](../s/sale.md) of an [asset](../a/asset.md) in an arm’s length [transaction](../t/transaction.md), minus any costs involved in selling it.
-   - **[Value](../v/value.md) in Use:** The [present value](../p/present_value.md) of the future cash flows expected to be derived from the [asset](../a/asset.md).
+2. **Measuring Recoverable Amount:** The recoverable amount is the higher of [fair value](../f/fair_value.md) less costs to sell and [value](../v/value.md) in use.
+ - **[Fair Value](../f/fair_value.md) Less Costs to Sell:** The price obtainable from the [sale](../s/sale.md) of an [asset](../a/asset.md) in an arm’s length [transaction](../t/transaction.md), minus any costs involved in selling it.
+ - **[Value](../v/value.md) in Use:** The [present value](../p/present_value.md) of the future cash flows expected to be derived from the [asset](../a/asset.md).
 3. **Comparing Carrying and Recoverable Amounts:** If the carrying amount exceeds the recoverable amount, an [impairment](../i/impairment.md) loss is recognized.
 
 ## Impact on Financial Metrics

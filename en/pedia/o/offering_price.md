@@ -70,9 +70,6 @@ Saudi Aramco's record-breaking IPO in December 2019 featured an [offering](../o/
 
 Further details can often be found on the respective page of the company which lists public investment data and documents.
 
-[Airbnb Investor Relations](https://investors.airbnb.com/)
-[Snowflake Investor Relations](https://investors.snowflake.com/)
-[Saudi Aramco Corporate](https://www.aramco.com/)
 
 ## Conclusion
 

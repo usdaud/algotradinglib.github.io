@@ -43,14 +43,14 @@ Technical [noise](../n/noise.md) is derived from the trading activity itself and
 ### Statistical Filtering Techniques
 
 1. **Moving Averages**
-   - **Simple Moving Average (SMA)**: Smoothing data by averaging prices over specific periods.
-   - **Exponential Moving Average (EMA)**: Giving more weight to recent prices to capture trends more accurately.
+ - **Simple Moving Average (SMA)**: Smoothing data by averaging prices over specific periods.
+ - **Exponential Moving Average (EMA)**: Giving more weight to recent prices to capture trends more accurately.
 
 2. **Kalman Filtering**
-   - Advanced statistical techniques that predict the next [value](../v/value.md) of a series by considering both the [noise](../n/noise.md) and the [underlying](../u/underlying.md) model of the data.
+ - Advanced statistical techniques that predict the next [value](../v/value.md) of a series by considering both the [noise](../n/noise.md) and the [underlying](../u/underlying.md) model of the data.
 
 3. **[Wavelet Transform](../w/wavelet_transform_in_trading.md)**
-   - Decomposing the price series into different frequency components and analyzing each component individually to filter out [noise](../n/noise.md).
+ - Decomposing the price series into different frequency components and analyzing each component individually to filter out [noise](../n/noise.md).
 
 ### Machine Learning Approaches
 Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can assist in distinguishing [noise](../n/noise.md) from signal:
@@ -109,13 +109,12 @@ Differentiating between [noise](../n/noise.md) and genuine signals remains a nua
 ### Renaissance Technologies
 Renaissance Technologies, a prominent [hedge fund](../h/hedge_fund.md), is known for its sophisticated [noise](../n/noise.md) analysis techniques that it employs in its [quantitative trading](../q/quantitative_trading.md) strategies. By leveraging extensive computational power and advanced [mathematical models](../m/mathematical_models_in_trading.md), the [firm](../f/firm.md) has consistently outperformed traditional [market](../m/market.md) strategies.
 
-For more details, visit: [Renaissance Technologies](https://www.rentec.com/)
+For more details, visit: Renaissance Technologies
 
 ### Citadel LLC
 Citadel LLC, operates significant algorithmic and high-frequency [trading strategies](../t/trading_strategies.md). Citadel’s use of [noise](../n/noise.md) filtering techniques helps in maintaining high accuracy and profitability in its trading operations.
 
-For more details, visit: [Citadel LLC](https://www.citadel.com/)
+For more details, visit: Citadel LLC
 
 ## Conclusion
 [Noise](../n/noise.md) analysis in trading is a critical aspect of developing [robust](../r/robust.md) and profitable [trading algorithms](../t/trading_algorithms.md). By understanding the sources and types of [noise](../n/noise.md) and implementing various statistical, [machine learning](../m/machine_learning.md), and [time series analysis](../t/time_series_analysis.md) techniques, traders can significantly enhance their signal-detection capabilities and improve overall [trading performance](../t/trading_performance.md). The dynamic nature of [financial markets](../f/financial_market.md) necessitates continual adaptation and enhancement of [noise](../n/noise.md) reduction methods to maintain their efficacy.
-

@@ -1,6 +1,6 @@
 # Maximum Drawdown (MDD)
 
-Maximum [Drawdown](../d/drawdown.md) (MDD) is a critical financial metric used particularly in the fields of [investment management](../i/investment_management.md), [quantitative finance](../q/quantitative_finance.md), and [algorithmic trading](../a/accountability.md). At its core, MDD quantifies the greatest peak-to-[trough](../t/trough.md) decline in [value](../v/value.md) that a portfolio or [financial asset](../f/financial_asset.md) has experienced over a specific period. This metric is indispensable for assessing the [risk](../r/risk.md) associated with investment strategies and correlates directly with [investor](../i/investor.md) psychology, especially in terms of [risk tolerance](../r/risk_tolerance.md) and behavioural responses to financial losses.
+Maximum [Drawdown](../d/drawdown.md) (MDD) is a critical financial metric used particularly in the fields of [investment management](../i/investment_management.md), [quantitative finance](../q/quantitative_finance.md), and [algorithmic trading](../a/algorithmic_trading.md). At its core, MDD quantifies the greatest peak-to-[trough](../t/trough.md) decline in [value](../v/value.md) that a portfolio or [financial asset](../f/financial_asset.md) has experienced over a specific period. This metric is indispensable for assessing the [risk](../r/risk.md) associated with investment strategies and correlates directly with [investor](../i/investor.md) psychology, especially in terms of [risk tolerance](../r/risk_tolerance.md) and behavioural responses to financial losses.
 
 ## Defining Maximum Drawdown (MDD)
 
@@ -38,7 +38,7 @@ Investment managers and traders use MDD to inform performance evaluation. Even i
 
 ### Strategy Development
 
-In [algorithmic trading](../a/accountability.md), [backtesting](../b/backtesting.md), and developing [trading strategies](../t/trading_strategies.md), MDD acts as a key constraint. Algorithmic traders aim to develop strategies that not only optimize returns but also minimize the MDD to ensure that portfolios remain within acceptable [risk](../r/risk.md) limits.
+In [algorithmic trading](../a/algorithmic_trading.md), [backtesting](../b/backtesting.md), and developing [trading strategies](../t/trading_strategies.md), MDD acts as a key constraint. Algorithmic traders aim to develop strategies that not only optimize returns but also minimize the MDD to ensure that portfolios remain within acceptable [risk](../r/risk.md) limits.
 
 ## Relationship With Other Metrics
 
@@ -54,7 +54,7 @@ The [Sortino Ratio](../s/sortino_ratio.md) is a variation of the [Sharpe Ratio](
 
 ### Backtesting Strategies
 
-In [algorithmic trading](../a/accountability.md), the accuracy and robustness of [backtesting](../b/backtesting.md) results are paramount. MDD is frequently calculated during [backtesting](../b/backtesting.md) to ensure strategies do not undergo unacceptable levels of [risk](../r/risk.md) during adverse [market](../m/market.md) conditions.
+In [algorithmic trading](../a/algorithmic_trading.md), the accuracy and robustness of [backtesting](../b/backtesting.md) results are paramount. MDD is frequently calculated during [backtesting](../b/backtesting.md) to ensure strategies do not undergo unacceptable levels of [risk](../r/risk.md) during adverse [market](../m/market.md) conditions.
 
 ### Optimization Algorithms
 

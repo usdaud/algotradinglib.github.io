@@ -186,7 +186,7 @@ The [Bank](../b/bank.md) of Japan’s monetary policies, including [interest rat
 
 Yen option strategies provide versatile tools for managing [currency](../c/currency.md) [risk](../r/risk.md) and capturing [profit](../p/profit.md) opportunities in the dynamic forex [market](../m/market.md). From basic strategies like long calls and puts to more advanced setups like butterfly [spreads](../s/spreads.md) and iron condors, each approach has its own set of benefits and risks. Successful implementation requires a deep understanding of [market](../m/market.md) conditions, economic influences, and individual [risk tolerance](../r/risk_tolerance.md). By leveraging the right yen option strategies, traders and investors can effectively navigate the complexities of the Japanese yen [market](../m/market.md).
 
-For more detailed information on [options](../o/options.md) trading and yen [options](../o/options.md), you can explore resources provided by [financial markets](../f/financial_market.md) like the [Chicago Mercantile Exchange](https://www.cmegroup.com).
+For more detailed information on [options](../o/options.md) trading and yen [options](../o/options.md), you can explore resources provided by [financial markets](../f/financial_market.md) like the Chicago Mercantile Exchange.
 
 ---
 This document offers a comprehensive look into yen option strategies without presuming prior knowledge, making it suitable for both novice and experienced traders. It should serve as a valuable reference in understanding, planning, and executing yen option trades.

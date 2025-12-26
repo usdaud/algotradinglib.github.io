@@ -78,10 +78,10 @@ The ODD highlights the importance of [risk management](../r/risk_management.md) 
 
 ## Accessibility of the ODD
 
-The ODD is widely accessible and is usually distributed by brokers. Traders can request a physical copy or access it online. For instance, the latest version of the ODD can be accessed [here](https://www.theocc.com/about/publications/character-risks.jsp).
+The ODD is widely accessible and is usually distributed by brokers. Traders can request a physical copy or access it online. For instance, the latest version of the ODD can be accessed here.
 
 ## Conclusion
 
 The Option [Disclosure](../d/disclosure.md) Document is an essential read for anyone considering [options](../o/options.md) trading. By providing detailed information about the nature of [options](../o/options.md), their associated risks, and [trading strategies](../t/trading_strategies.md), it equips traders with the knowledge necessary to navigate the [options](../o/options.md) [market](../m/market.md) effectively.
 
-Understanding and utilizing the ODD can significantly enhance a [trader](../t/trader.md)'s ability to manage [risk](../r/risk.md) and [capitalize](../c/capitalize.md) on opportunities within the realm of [options](../o/options.md) trading. For more information, traders are encouraged to contact their brokers or visit the official OCC website linked above.
+Understanding and utilizing the ODD can significantly enhance a [trader](../t/trader.md)'s ability to manage [risk](../r/risk.md) and [capitalize](../c/capitalize.md) on opportunities within the realm of [options](../o/options.md) trading.

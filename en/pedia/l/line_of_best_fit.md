@@ -24,24 +24,24 @@ The slope (\( m \)) indicates the steepness of the line and the direction of the
 
 There are several methods to construct the Line of Best Fit, but the most common one is the **[least squares method](../l/least_squares_method.md)**. This method ensures that the sum of the squares of the vertical distances between the data points and the line is minimized. Let's break down the steps involved:
 
-1. **Calculate the Means**: 
-   Compute the mean of the independent variable (\( x \)) and the dependent variable (\( y \)).
+1. **Calculate the Means**:
+ Compute the mean of the independent variable (\( x \)) and the dependent variable (\( y \)).
 
-   \[ \bar{x} = \frac{\sum x_i}{n} \]
-   \[ \bar{y} = \frac{\sum y_i}{n} \]
+ \[ \bar{x} = \frac{\sum x_i}{n} \]
+ \[ \bar{y} = \frac{\sum y_i}{n} \]
 
 2. **Calculate the Slope (\( m \))**:
-   Use the following formula to calculate the slope of the line:
+ Use the following formula to calculate the slope of the line:
 
-   \[ m = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2} \]
+ \[ m = \frac{\sum (x_i - \bar{x})(y_i - \bar{y})}{\sum (x_i - \bar{x})^2} \]
 
 3. **Calculate the Y-Intercept (\( b \))**:
-   [Substitute](../s/substitute.md) the means and the slope into the equation for the y-intercept:
+ [Substitute](../s/substitute.md) the means and the slope into the equation for the y-intercept:
 
-   \[ b = \bar{y} - m\bar{x} \]
+ \[ b = \bar{y} - m\bar{x} \]
 
-4. **Construct the Equation**: 
-   Combine the slope and y-intercept to form the [linear regression](../l/linear_regression.md) equation.
+4. **Construct the Equation**:
+ Combine the slope and y-intercept to form the [linear regression](../l/linear_regression.md) equation.
 
 ## Significance in Trading and Finance
 
@@ -75,7 +75,7 @@ Where \( n \) is the degree of the polynomial, and \( a_i \) are the coefficient
 Polynomial regression is particularly useful in modeling complex, non-linear relationships in [financial markets](../f/financial_market.md). For instance:
 - **[Volatility](../v/volatility.md) Modeling**: Financial instruments often exhibit varying [volatility](../v/volatility.md) over time. Polynomial regression can model these fluctuations more accurately than a straight line.
 - **[Seasonality](../s/seasonality.md) and Cyclic Patterns**: Many assets show seasonal or cyclic [price patterns](../p/price_patterns.md) that a linear model cannot capture. A polynomial model can fit such data more effectively.
-  
+
 ## Software Tools for Regression Analysis
 
 Several [software tools](../s/software_tools_for_trading.md) and programming languages are available for constructing the Line of Best Fit and conducting [regression analysis](../r/regression_analysis.md). Some popular ones include:

@@ -86,8 +86,8 @@ Here, \( N(\cdot) \) is the [cumulative distribution function](../c/cumulative_d
 
 Statistical [arbitrage](../a/arbitrage.md) strategies rely heavily on the statistical properties of financial data. PDFs help in creating models to find and exploit small inefficiencies in the [market](../m/market.md). [Hedge](../h/hedge.md) funds and trading firms, like Renaissance Technologies and Two Sigma, develop sophisticated statistical models based on PDFs to identify [arbitrage](../a/arbitrage.md) opportunities.
 
-**Renaissance Technologies:** [Renaissance Technologies](https://www.rentec.com/)
-**Two Sigma:** [Two Sigma](https://www.twosigma.com/)
+**Renaissance Technologies:** Renaissance Technologies
+**Two Sigma:** Two Sigma
 
 ### Backtesting Strategies
 
@@ -96,4 +96,3 @@ PDFs are used in [backtesting](../b/backtesting.md) to model the historical perf
 ## Conclusion
 
 The Probability Density Function is a foundational concept in [statistics](../s/statistics.md) that finds extensive application in the world of algo-trading. Whether it's for [risk management](../r/risk_management.md), pricing [derivatives](../d/derivatives.md), or developing [trading strategies](../t/trading_strategies.md), understanding and leveraging PDFs allows traders to build more accurate and sophisticated models. As [financial markets](../f/financial_market.md) continue to evolve, the role of PDFs in driving innovations within algo-trading [will](../w/will.md) only grow.
-

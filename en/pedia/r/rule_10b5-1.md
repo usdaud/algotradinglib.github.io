@@ -16,14 +16,14 @@ Several key components define Rule 10b5-1, making it critical for anyone involve
 
 ### 1. **Trading Plan Provisions**
 The centerpiece of Rule 10b5-1 is the trading plan, which can be formalized in three specific scenarios:
-  - **Specific Date:** The plan specifies the date or dates on which the trades [will](../w/will.md) take place.
-  - **Specific Price:** The plan specifies the price at which the trades [will](../w/will.md) be executed.
-  - **Specific Amount/[Volume](../v/volume.md):** The plan specifies the amount or [volume](../v/volume.md) of stock to be traded.
+ - **Specific Date:** The plan specifies the date or dates on which the trades [will](../w/will.md) take place.
+ - **Specific Price:** The plan specifies the price at which the trades [will](../w/will.md) be executed.
+ - **Specific Amount/[Volume](../v/volume.md):** The plan specifies the amount or [volume](../v/volume.md) of stock to be traded.
 
 ### 2. **Good Faith and Formulation**
 A trading plan must be established:
-  - **In Good Faith:** Created without any intention to evade [insider trading](../i/insider.md) prohibitions.
-  - **Not Operating During MNPI Possession:** The individual must not be in possession of material non-public information when establishing the plan.
+ - **In Good Faith:** Created without any intention to evade [insider trading](../i/insider.md) prohibitions.
+ - **Not Operating During MNPI Possession:** The individual must not be in possession of material non-public information when establishing the plan.
 
 ### 3. **Non-manipulation Clause**
 Once a plan is enacted, the individual must not manipulate or engage in other transactions that would lead to the alteration or influence of the specified trading plan, thereby shielded from potential allegations of [insider trading](../i/insider.md) so long as the actions follow the pre-specified plan.
@@ -47,7 +47,7 @@ Executives and employees have the flexibility to plan their financial transactio
 
 ## Criticisms and Challenges
 
-Despite the clear benefits, Rule 10b5-1 has faced criticisms and posed challenges. 
+Despite the clear benefits, Rule 10b5-1 has faced criticisms and posed challenges.
 
 ### **Potential for Abuse**
 Critics argue that insiders might still find ways to misuse these plans. For instance, timing the creation or amendment of the plan just before MNPI is made public, or manipulating the timing of disclosures to coincide beneficially with their trading plan.
@@ -77,4 +77,4 @@ Investors should remain vigilant and critically analyze trades under 10b5-1 plan
 
 Rule 10b5-1 remains a significant regulatory measure, balancing the need to prevent [insider trading](../i/insider.md) with granting corporate insiders the ability to [trade](../t/trade.md) their own [stocks](../s/stock.md) without undue legal [risk](../r/risk.md). While subject to ongoing scrutiny and potential adjustment to plug [gaps](../g/gap.md) or misuse, it essentially aims at creating a fairer [trading environment](../t/trading_environment.md). [Market](../m/market.md) participants must continually stay abreast of developments around Rule 10b5-1 to ensure all activities fall under its protective veil while adhering to its guiding principles. For more specific details on compliance and guidelines, companies and individuals should refer directly to the SEC’s resources and publications.
 
-For reference, further information can be found on the official SEC website: [SEC Rule 10b5-1](https://www.sec.gov/rules/final/33-7881.htm).
+For reference,

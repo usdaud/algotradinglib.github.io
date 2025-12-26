@@ -4,7 +4,7 @@
 
 ## The Basics of Options
 
-Before delving deep into [naked option](../n/naked_option.md) writing, it is essential to understand the basic concepts of [options](../o/options.md). An option is a financial [derivative](../d/derivative.md) that gives the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a specified price on or before a specific date. 
+Before delving deep into [naked option](../n/naked_option.md) writing, it is essential to understand the basic concepts of [options](../o/options.md). An option is a financial [derivative](../d/derivative.md) that gives the buyer the right, but not the obligation, to buy or sell an [underlying asset](../u/underlying_asset.md) at a specified price on or before a specific date.
 
 There are two main types of [options](../o/options.md):
 
@@ -51,21 +51,21 @@ While [naked option](../n/naked_option.md) writing can be [lucrative](../l/lucra
 
 During the 2008 [financial crisis](../f/financial_crisis.md), many traders who were involved in [naked option](../n/naked_option.md) writing faced catastrophic losses. As [market](../m/market.md) [volatility](../v/volatility.md) skyrocketed, the prices of many [underlying](../u/underlying.md) assets moved sharply against the positions of these traders, resulting in massive [margin](../m/margin.md) calls and liquidations. This event serves as a stark reminder of the potential hazards associated with [naked option](../n/naked_option.md) writing.
 
-## Software and Platforms 
+## Software and Platforms
 
 ### Trading Platforms
 
 Various platforms facilitate trading and [risk](../r/risk.md) assessment for [options](../o/options.md), including the possibility for [naked option](../n/naked_option.md) writing, providing tools for analysis, [risk management](../r/risk_management.md), and more:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for sophisticated trading tools and global reach, it caters to experienced traders and professionals. [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md)**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). [TD Ameritrade](https://www.tdameritrade.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for sophisticated trading tools and global reach, it caters to experienced traders and professionals. Interactive Brokers
+- **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md)**: Offers advanced charting, screening tools, and educational content suitable for high-level [trading strategies](../t/trading_strategies.md). TD Ameritrade
 
 ### Algorithmic Trading and Risk Management
 
 Advancements in [algorithmic trading](../a/algorithmic_trading.md) have also intersected with the world of [options](../o/options.md) trading. These algorithms can help manage and mitigate risks associated with [naked option](../n/naked_option.md) writing by automating [trade](../t/trade.md) [execution](../e/execution.md) based on predefined criteria. [Algorithmic trading](../a/algorithmic_trading.md) platforms and libraries [offering](../o/offering.md) such functionalities include:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), live trading, and various [asset](../a/asset.md) classes, including [options](../o/options.md). [QuantConnect](https://www.quantconnect.com)
-- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds, [asset](../a/asset.md) managers, and [proprietary trading](../p/proprietary_trading.md) firms. [AlgoTrader](https://www.algotrader.com)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), live trading, and various [asset](../a/asset.md) classes, including [options](../o/options.md). QuantConnect
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software for [hedge](../h/hedge.md) funds, [asset](../a/asset.md) managers, and [proprietary trading](../p/proprietary_trading.md) firms. AlgoTrader
 
 ## Alternatives to Naked Option Writing
 

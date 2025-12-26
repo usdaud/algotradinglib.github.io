@@ -25,7 +25,7 @@ OTC markets provide a platform for trading [unlisted securities](../u/unlisted_s
 - **OTC Bulletin Board (OTCBB)**: An electronic trading service [offering](../o/offering.md) real-time quotes, last-[sale](../s/sale.md) prices, and [volume](../v/volume.md) information for [unlisted securities](../u/unlisted_securities.md).
 - **OTC Markets Group**: A financial [market](../m/market.md) providing data for over 11,000 securities through its [OTCQX](../o/otcqx.md), OTCQB, and Pink markets.
 
-For more information on OTC Markets Group, visit their [website](https://www.otcmarkets.com).
+
 
 ### OTCQX
 
@@ -79,7 +79,7 @@ The regulation of [unlisted securities](../u/unlisted_securities.md) varies by j
 - **Anti-[Fraud](../f/fraud.md) Laws**: Regulations to protect investors from fraudulent activities.
 - **Compliance Monitoring**: Various bodies monitor compliance and [market](../m/market.md) activities.
 
-For instance, in the United States, OTC securities and trading practices are overseen by the Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) and must comply with relevant Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) regulations. 
+For instance, in the United States, OTC securities and trading practices are overseen by the Financial [Industry](../i/industry.md) Regulatory Authority (FINRA) and must comply with relevant Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) regulations.
 
 ## Evaluating Unlisted Investments
 
@@ -103,6 +103,6 @@ Some firms deliberately choose not to list on major exchanges to maintain contro
 
 ## Conclusion
 
-[Unlisted securities](../u/unlisted_securities.md) serve a critical function in the financial ecosystem. They enable [capital](../c/capital.md) access for smaller or nascent firms, provide investment opportunities beyond standardized products, and [offer](../o/offer.md) a flexible [trading environment](../t/trading_environment.md). However, they come with significant risks including [liquidity](../l/liquidity.md) issues, reduced [transparency](../t/transparency.md), and higher [credit risk](../c/credit_risk.md), necessitating comprehensive [due diligence](../d/due_diligence.md) by investors. As [financial markets](../f/financial_market.md) evolve and electronic platforms enhance OTC markets' [efficiency](../e/efficiency.md), the landscape for [unlisted securities](../u/unlisted_securities.md) continues to grow and adapt, presenting both opportunities and challenges to [market](../m/market.md) participants. 
+[Unlisted securities](../u/unlisted_securities.md) serve a critical function in the financial ecosystem. They enable [capital](../c/capital.md) access for smaller or nascent firms, provide investment opportunities beyond standardized products, and [offer](../o/offer.md) a flexible [trading environment](../t/trading_environment.md). However, they come with significant risks including [liquidity](../l/liquidity.md) issues, reduced [transparency](../t/transparency.md), and higher [credit risk](../c/credit_risk.md), necessitating comprehensive [due diligence](../d/due_diligence.md) by investors. As [financial markets](../f/financial_market.md) evolve and electronic platforms enhance OTC markets' [efficiency](../e/efficiency.md), the landscape for [unlisted securities](../u/unlisted_securities.md) continues to grow and adapt, presenting both opportunities and challenges to [market](../m/market.md) participants.
 
-For further understanding and real-time data, refer to reputable OTC markets platforms such as the [OTC Markets Group](https://www.otcmarkets.com).
+For further understanding and real-time data, refer to reputable OTC markets platforms such as the OTC Markets Group.

@@ -56,7 +56,7 @@ where:
 - \(C\) represents private consumption expenditure,
 - \(I\) represents private investment expenditure,
 - \(G\) represents government expenditure,
-- \(X\) represents exports, and 
+- \(X\) represents exports, and
 - \(M\) represents imports.
 
 ### Importance of National Income Accounting

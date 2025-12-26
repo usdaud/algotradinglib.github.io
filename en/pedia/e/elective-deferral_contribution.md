@@ -8,17 +8,17 @@ Elective-deferral contributions are pre-tax contributions made by employees from
 
 ### Mechanism of Elective-Deferral Contributions
 
-1. **Employee Enrollment**: 
-   The process begins with the employee enrolling in the retirement plan offered by their employer. Organizations often provide new employees with a period of orientation during which information about elective-deferral plans is shared.
+1. **Employee Enrollment**:
+ The process begins with the employee enrolling in the retirement plan offered by their employer. Organizations often provide new employees with a period of orientation during which information about elective-deferral plans is shared.
 
-2. **Selecting Contribution Amount**: 
-   The employee decides how much of their pre-tax [earnings](../e/earnings.md) they want to defer into their plan account. This decision typically involves a fixed dollar amount per pay period or a percentage of their salary. Employees may also choose to adjust their contribution amounts periodically based on personal financial considerations.
+2. **Selecting Contribution Amount**:
+ The employee decides how much of their pre-tax [earnings](../e/earnings.md) they want to defer into their plan account. This decision typically involves a fixed dollar amount per pay period or a percentage of their salary. Employees may also choose to adjust their contribution amounts periodically based on personal financial considerations.
 
-3. **Salary Reduction Agreement**: 
-   The employee formally agrees to a salary reduction corresponding to the elective-deferral contribution amount. The employer then withholds the chosen portion from the employee's paycheck and deposits it into the designated retirement plan account.
+3. **Salary Reduction Agreement**:
+ The employee formally agrees to a salary reduction corresponding to the elective-deferral contribution amount. The employer then withholds the chosen portion from the employee's paycheck and deposits it into the designated retirement plan account.
 
-4. **Plan Administration**: 
-   Employers generally work with plan administrators to manage and administer these retirement plans, ensuring that employee contributions are properly allocated, invested, and recorded.
+4. **Plan Administration**:
+ Employers generally work with plan administrators to manage and administer these retirement plans, ensuring that employee contributions are properly allocated, invested, and recorded.
 
 ### Example of Elective-Deferral Contribution Calculation
 
@@ -36,17 +36,17 @@ John's [taxable income](../t/taxable_income.md) for the year is then reduced by 
 
 There are several types of elective-deferral contributions that employees may encounter. Each offers unique features and benefits:
 
-1. **Traditional Pre-Tax Elective-Deferral Contributions**: 
-   These are the standard elective contributions where the deferred salary is contributed to the retirement plan on a pre-tax [basis](../b/basis.md). The deferral reduces the employee's current [taxable income](../t/taxable_income.md). [Taxes](../t/taxes.md) on the contributions and any [earnings](../e/earnings.md) generated within the retirement account are deferred until the employee takes a [distribution](../d/distribution.md), often in retirement.
+1. **Traditional Pre-Tax Elective-Deferral Contributions**:
+ These are the standard elective contributions where the deferred salary is contributed to the retirement plan on a pre-tax [basis](../b/basis.md). The deferral reduces the employee's current [taxable income](../t/taxable_income.md). [Taxes](../t/taxes.md) on the contributions and any [earnings](../e/earnings.md) generated within the retirement account are deferred until the employee takes a [distribution](../d/distribution.md), often in retirement.
 
-2. **Roth Elective-Deferral Contributions**: 
-   Roth elective-deferral contributions, named after Senator William Roth, differ from traditional contributions because they are made after-tax. While this means the contributions do not reduce the employee's current [taxable income](../t/taxable_income.md), any qualified distributions taken in retirement are entirely [tax-free](../t/tax_free.md), including any investment [earnings](../e/earnings.md), provided certain conditions are met.
+2. **Roth Elective-Deferral Contributions**:
+ Roth elective-deferral contributions, named after Senator William Roth, differ from traditional contributions because they are made after-tax. While this means the contributions do not reduce the employee's current [taxable income](../t/taxable_income.md), any qualified distributions taken in retirement are entirely [tax-free](../t/tax_free.md), including any investment [earnings](../e/earnings.md), provided certain conditions are met.
 
-3. **Catch-Up Contributions**: 
-   Employees aged 50 or older are permitted to make additional elective-deferral contributions beyond the standard contribution limits. These "catch-up" contributions are designed to help older workers accelerate their savings as they approach retirement.
+3. **Catch-Up Contributions**:
+ Employees aged 50 or older are permitted to make additional elective-deferral contributions beyond the standard contribution limits. These "catch-up" contributions are designed to help older workers accelerate their savings as they approach retirement.
 
-4. **After-Tax Contributions**: 
-   Some retirement plans allow for additional non-Roth after-tax contributions. The [principal](../p/principal.md) amount is contributed after-tax (not reducing current [taxable income](../t/taxable_income.md)), but any investment gains [will](../w/will.md) be taxed at the time of [distribution](../d/distribution.md).
+4. **After-Tax Contributions**:
+ Some retirement plans allow for additional non-Roth after-tax contributions. The [principal](../p/principal.md) amount is contributed after-tax (not reducing current [taxable income](../t/taxable_income.md)), but any investment gains [will](../w/will.md) be taxed at the time of [distribution](../d/distribution.md).
 
 ## Contribution Limits and Regulations
 
@@ -61,29 +61,29 @@ Specific rules and limits may apply depending on the type of retirement plan. Em
 
 One of the primary benefits of elective-deferral contributions is their favorable tax treatment. Here's how the tax implications vary based on the type of contribution:
 
-1. **Traditional Pre-Tax Contributions**: 
-   - **Tax Deferral**: The portion of the salary deferred into the retirement plan is not included in the employee's [gross income](../g/gross_income.md) for the year of contribution, reducing current [tax liability](../t/tax_liability.md).
-   - **Taxable Distributions**: At retirement, distributions are taxed as [ordinary income](../o/ordinary_income.md).
+1. **Traditional Pre-Tax Contributions**:
+ - **Tax Deferral**: The portion of the salary deferred into the retirement plan is not included in the employee's [gross income](../g/gross_income.md) for the year of contribution, reducing current [tax liability](../t/tax_liability.md).
+ - **Taxable Distributions**: At retirement, distributions are taxed as [ordinary income](../o/ordinary_income.md).
 
-2. **Roth Contributions**: 
-   - **After-Tax Contributions**: Roth contributions do not reduce current [taxable income](../t/taxable_income.md) since they are made with after-tax dollars.
-   - **[Tax-Free](../t/tax_free.md) Qualified Distributions**: When distributed (if the account has been held for at least five years and the employee is at least 59½ years old), both the contributions and any [investment income](../i/investment_income.md) are [tax-free](../t/tax_free.md).
+2. **Roth Contributions**:
+ - **After-Tax Contributions**: Roth contributions do not reduce current [taxable income](../t/taxable_income.md) since they are made with after-tax dollars.
+ - **[Tax-Free](../t/tax_free.md) Qualified Distributions**: When distributed (if the account has been held for at least five years and the employee is at least 59½ years old), both the contributions and any [investment income](../i/investment_income.md) are [tax-free](../t/tax_free.md).
 
-3. **Catch-Up Contributions**: 
-   Catch-up contributions follow the same tax treatment rules as either traditional or Roth contributions, depending on how they are categorized.
+3. **Catch-Up Contributions**:
+ Catch-up contributions follow the same tax treatment rules as either traditional or Roth contributions, depending on how they are categorized.
 
 ## Legal Considerations
 
 Implementing and managing elective-deferral contributions involve several legal considerations:
 
-1. **Plan Document Compliance**: 
-   Employers must ensure that their retirement plan documents align with IRS regulations and Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) requirements, outlining rules for elective-deferral contributions, limits, and tests.
+1. **Plan Document Compliance**:
+ Employers must ensure that their retirement plan documents align with IRS regulations and Employee Retirement [Income](../i/income.md) [Security](../s/security.md) Act (ERISA) requirements, outlining rules for elective-deferral contributions, limits, and tests.
 
-2. **Non-Discrimination Testing**: 
-   Qualified retirement plans must pass IRS non-discrimination testing, such as the Actual Deferral Percentage (ADP) test, to ensure that the plan does not favor highly compensated employees over non-highly compensated employees.
+2. **Non-Discrimination Testing**:
+ Qualified retirement plans must pass IRS non-discrimination testing, such as the Actual Deferral Percentage (ADP) test, to ensure that the plan does not favor highly compensated employees over non-highly compensated employees.
 
-3. **401(k) Safe Harbor Plan Design**: 
-   Employers looking to avoid the complexity of standard non-discrimination testing may adopt a safe harbor [401(k) plan](../1/401(k)_plan.md), featuring specific contribution matches or non-elective contributions, combined with immediate [vesting](../v/vesting.md).
+3. **401(k) Safe Harbor Plan Design**:
+ Employers looking to avoid the complexity of standard non-discrimination testing may adopt a safe harbor [401(k) plan](../1/401(k)_plan.md), featuring specific contribution matches or non-elective contributions, combined with immediate [vesting](../v/vesting.md).
 
 ## Advantages of Elective-Deferral Contributions
 
@@ -91,21 +91,21 @@ Elective-deferral contributions [offer](../o/offer.md) several advantages to emp
 
 ### For Employees
 
-1. **Tax Benefits**: 
-   Employees benefit from immediate tax savings with traditional contributions or future [tax-free](../t/tax_free.md) [income](../i/income.md) with Roth contributions.
-2. **Retirement Savings**: 
-   These contributions provide a structured and disciplined approach to saving for retirement, fostering financial stability in later years.
-3. **Employer Matching**: 
-   Many retirement plans include employer matching contributions, which effectively provide "free [money](../m/money.md)" to employees, enhancing their retirement savings exponentially.
+1. **Tax Benefits**:
+ Employees benefit from immediate tax savings with traditional contributions or future [tax-free](../t/tax_free.md) [income](../i/income.md) with Roth contributions.
+2. **Retirement Savings**:
+ These contributions provide a structured and disciplined approach to saving for retirement, fostering financial stability in later years.
+3. **Employer Matching**:
+ Many retirement plans include employer matching contributions, which effectively provide "free [money](../m/money.md)" to employees, enhancing their retirement savings exponentially.
 
 ### For Employers
 
-1. **Attractive Employee Benefits**: 
-   [Offering](../o/offering.md) elective-deferral contributions can be an attractive component of a comprehensive employee benefits package, aiding in talent attraction and retention.
-2. **Tax Deductions**: 
-   Employers can deduct their contributions to employees' retirement plans from their corporate [taxes](../t/taxes.md).
-3. **Promoting Financial Wellness**: 
-   Employers that promote and facilitate retirement savings contribute to the financial well-being of their workforce, potentially resulting in increased [productivity](../p/productivity.md) and job satisfaction.
+1. **Attractive Employee Benefits**:
+ [Offering](../o/offering.md) elective-deferral contributions can be an attractive component of a comprehensive employee benefits package, aiding in talent attraction and retention.
+2. **Tax Deductions**:
+ Employers can deduct their contributions to employees' retirement plans from their corporate [taxes](../t/taxes.md).
+3. **Promoting Financial Wellness**:
+ Employers that promote and facilitate retirement savings contribute to the financial well-being of their workforce, potentially resulting in increased [productivity](../p/productivity.md) and job satisfaction.
 
 ## Case Study: Company Implementation
 
@@ -140,10 +140,10 @@ Retirement plan providers are leveraging technology to [offer](../o/offer.md) co
 
 ## Useful Links
 
-- [Fidelity Investments](https://www.fidelity.com)
-- [IRS: Retirement Topics - 401(k) and Profit-Sharing Plan Contribution Limits](https://www.irs.gov/retirement-plans/401k-and-profit-sharing-plan-contribution-limits)
-- [Vanguard](https://investor.vanguard.com)
-- [Employee Benefits Security Administration (EBSA)](https://www.dol.gov/agencies/ebsa)
+- Fidelity Investments
+- IRS: Retirement Topics - 401(k) and Profit-Sharing Plan Contribution Limits
+- Vanguard
+- Employee Benefits Security Administration (EBSA)
 
 ## Conclusion
 

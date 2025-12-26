@@ -69,10 +69,10 @@ The Cost Approach, also known as the [asset-based approach](../a/asset-based_app
 ### Fintech Applications
 Fintech companies [leverage](../l/leverage.md) advanced algorithms and real-time [data analytics](../d/data_analytics.md) to provide instantaneous valuations, thereby enhancing the accuracy and speed of financial transactions. Examples include automated [valuation models](../v/valuation_models.md) (AVMs) in [real estate](../r/real_estate.md) and robo-advisors for investment portfolios.
 
-For more detailed insights into fintech-enabled [valuation](../v/valuation.md) services, consider exploring platforms like [Better Mortgage](https://better.com/) and robo-advisors like [Wealthfront](https://www.wealthfront.com/).
+For more detailed insights into fintech-enabled [valuation](../v/valuation.md) services, consider exploring platforms like Better Mortgage and robo-advisors like Wealthfront.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), the [Valuation](../v/valuation.md) Clause ensures that the [value](../v/value.md) of assets under management is accurately tracked, facilitating precise and automated [trading strategies](../t/trading_strategies.md). Algorithms rely on accurate [asset](../a/asset.md) valuations to make buy/sell decisions swiftly, thereby optimizing [portfolio performance](../p/portfolio_performance.md) and reducing [risk](../r/risk.md) exposure.
+In [algorithmic trading](../a/algorithmic_trading.md), the [Valuation](../v/valuation.md) Clause ensures that the [value](../v/value.md) of assets under management is accurately tracked, facilitating precise and automated [trading strategies](../t/trading_strategies.md). Algorithms rely on accurate [asset](../a/asset.md) valuations to make buy/sell decisions swiftly, thereby optimizing [portfolio performance](../p/portfolio_performance.md) and reducing [risk](../r/risk.md) exposure.
 
 ## Conclusion
 

@@ -126,7 +126,7 @@ These models assume that [yield](../y/yield.md) curves are influenced by a few [
 - Data-hungry: Requires large amounts of data to train effectively.
 - Interpretability: Models can be black boxes, making it hard to understand exactly how predictions are made.
 
-**Company Reference**: [DeepMind](https://deepmind.com/) specializes in [machine learning](../m/machine_learning.md) and AI research, which can be applied in financial domains like [yield](../y/yield.md)-curve analysis.
+**Company Reference**: DeepMind specializes in [machine learning](../m/machine_learning.md) and AI research, which can be applied in financial domains like [yield](../y/yield.md)-curve analysis.
 
 ##### Support Vector Machines (SVM)
 
@@ -144,7 +144,7 @@ SVMs are effective for classification and regression tasks in [yield](../y/yield
 - Parameter tuning: Requires careful tuning of the hyperparameters.
 - Complexity: Can be computationally intensive for large datasets.
 
-**Company Reference**: [Palantir Technologies](https://www.palantir.com/) integrates [machine learning](../m/machine_learning.md) techniques for complex data analysis, including financial applications.
+**Company Reference**: Palantir Technologies integrates [machine learning](../m/machine_learning.md) techniques for complex data analysis, including financial applications.
 
 ### 6. Practical Applications of Yield-Curve Analysis
 

@@ -9,9 +9,9 @@ Level 3 assets are financial instruments that are valued using significant unobs
 ## Characteristics of Level 3 Assets
 
 1. **Lack of Observable [Market](../m/market.md) Data**: Unlike Level 1 and [Level 2 assets](../l/level_2_assets.md), Level 3 assets do not have readily available [market](../m/market.md) prices. This absence of observable [market](../m/market.md) data makes it challenging to ascertain their [fair value](../f/fair_value.md).
-  
+
 2. **Complex [Valuation Models](../v/valuation_models.md)**: The [valuation](../v/valuation.md) of these assets often involves sophisticated financial models that take into account various assumptions about future [market](../m/market.md) conditions, cash flows, and other factors. These models are necessary due to the lack of [market](../m/market.md) comparables.
-  
+
 3. **High Subjectivity**: Given the reliance on complex models and unobservable inputs, the [valuation](../v/valuation.md) process is highly subjective. This subjectivity can lead to significant differences in [valuation](../v/valuation.md) between different investors or traders.
 
 4. **[Illiquidity](../i/illiquid.md)**: Level 3 assets are often illiquid, meaning they cannot be easily sold or exchanged for cash without a significant loss in [value](../v/value.md). Examples could include certain types of [private equity](../p/private_equity.md) investments, [real estate](../r/real_estate.md) [holdings](../h/holdings.md), or complex [financial derivatives](../f/financial_derivatives.md).
@@ -40,7 +40,7 @@ Given the absence of [market](../m/market.md) data, several methods are used to 
 
 ## Challenges of Level 3 Asset Valuation
 
-1. **[Model Risk](../m/model_risk.md)**: The use of complex models introduces the [risk](../r/risk.md) that the models are incorrect or based on erroneous assumptions. 
+1. **[Model Risk](../m/model_risk.md)**: The use of complex models introduces the [risk](../r/risk.md) that the models are incorrect or based on erroneous assumptions.
 
 2. **Data Quality**: Poor or speculative data inputs can lead to significant inaccuracies in [asset valuation](../a/asset_valuation.md).
 
@@ -52,7 +52,7 @@ Given the absence of [market](../m/market.md) data, several methods are used to 
 
 Regulators globally are keenly aware of the complexities and risks posed by Level 3 assets. Agencies such as the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) have issued guidelines and standards for the [valuation](../v/valuation.md) and [disclosure](../d/disclosure.md) of these assets. The FASB’s [Accounting](../a/accounting.md) Standards Codification (ASC) 820 provides a framework for measuring [fair value](../f/fair_value.md) and requires disclosures that help investors understand the [valuation techniques](../v/valuation_techniques.md) and inputs used for Level 3 measurements.
 
-For more information, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board at [FASB](https://www.fasb.org/).
+For more information, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board at FASB.
 
 ## Case Studies
 
@@ -88,4 +88,4 @@ While Level 3 assets come with inherent risks and challenges, they can also prov
 
 Level 3 assets represent a complex but potentially rewarding segment of the [financial markets](../f/financial_market.md). Their [valuation](../v/valuation.md) requires sophisticated models and significant expertise, given the absence of readily available [market](../m/market.md) data. With the right approach, including rigorous [due diligence](../d/due_diligence.md) and [robust](../r/robust.md) [risk management](../r/risk_management.md), these assets can [offer](../o/offer.md) substantial benefits to an investment portfolio. However, the inherent risks mean they should be handled with care, and continuous advancements in technology and regulatory oversight [will](../w/will.md) play a crucial role in shaping the future landscape for Level 3 [asset valuation](../a/asset_valuation.md) and trading.
 
-For more in-depth information on the [valuation](../v/valuation.md) of Level 3 assets, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board’s official [website](https://www.fasb.org/).
+For more in-depth information on the [valuation](../v/valuation.md) of Level 3 assets, you can visit the [Financial Accounting](../f/financial_accounting.md) Standards Board’s

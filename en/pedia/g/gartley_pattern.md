@@ -37,7 +37,7 @@ Conversely, a bearish Gartley pattern indicates a bearish [reversal](../r/revers
 
 ## The Role of Technology in Identifying Gartley Patterns
 
-The advent of advanced trading platforms and technologies has significantly improved the identification and analysis of Gartley patterns. Various software solutions and [algorithmic trading](../a/accountability.md) systems embed the recognition of Gartley and other [harmonic patterns](../h/harmonic_patterns.md), allowing traders to automate the detection process and reduce human errors.
+The advent of advanced trading platforms and technologies has significantly improved the identification and analysis of Gartley patterns. Various software solutions and [algorithmic trading](../a/algorithmic_trading.md) systems embed the recognition of Gartley and other [harmonic patterns](../h/harmonic_patterns.md), allowing traders to automate the detection process and reduce human errors.
 
 ## Software and Tools for Gartley Pattern
 
@@ -49,9 +49,9 @@ Several trading platforms and tools provide features to detect and [trade](../t/
 
 ### Example Providers
 
-- **MetaTrader Platforms**: [MetaTrader](https://www.metatrader4.com)
-- **[TradingView](../t/tradingview.md)**: [TradingView](https://www.tradingview.com)
-- **Harmonic Pattern Scanner**: [Harmonic Pattern](https://harmonicpattern.com)
+- **MetaTrader Platforms**: MetaTrader
+- **[TradingView](../t/tradingview.md)**: TradingView
+- **Harmonic Pattern Scanner**: Harmonic Pattern
 
 ## Advantages and Limitations of the Gartley Pattern
 

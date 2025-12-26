@@ -62,7 +62,6 @@ The rise of fintech and technological advancements have introduced digital comfo
 **Glencore International**: In the [Annual Report](../a/annual_report.md) of 2022, Glencore Plc issued letters of comfort to guarantee certain financial commitments of its subsidiaries.
 
 For more detailed insights, please refer to their official documentation at:
-[Glencore Annual Report 2022](https://www.glencore.com/dam/jcr:4da4e9a8-9cb3-4b9f-b9a5-f7a697f573d9/GLEN_2022_Financial_Report.pdf)
 
 ## Conclusion
 

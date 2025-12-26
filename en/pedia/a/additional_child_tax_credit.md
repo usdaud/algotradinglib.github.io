@@ -16,7 +16,7 @@ To be eligible for the ACTC, the child must meet the following requirements:
 ### Income Requirements
 
 The ACTC is aimed at low- to moderate-[income](../i/income.md) families. Specific [income](../i/income.md)-related criteria include:
-- **[Earned Income](../e/earned_income.md) Threshold:** For 2022, taxpayers must have [earned income](../e/earned_income.md) of more than $2,500 to qualify. 
+- **[Earned Income](../e/earned_income.md) Threshold:** For 2022, taxpayers must have [earned income](../e/earned_income.md) of more than $2,500 to qualify.
 - **Phase-out Limits:** The [credit](../c/credit.md) begins to phase out for taxpayers with a higher [income](../i/income.md), specifically $200,000 for single filers and $400,000 for married couples filing jointly.
 
 ### Filing Status
@@ -34,14 +34,14 @@ The ACTC is calculated based on the nonrefundable portion of the [Child Tax Cred
 ### Step-by-Step Calculation
 
 1. **Initial Calculation of the [Child Tax Credit](../c/child_tax_credit.md) (CTC):**
-   - Determine the amount of [Child Tax Credit](../c/child_tax_credit.md) the [taxpayer](../t/taxpayer.md) is eligible for ($2,000 per qualifying child for the 2022 tax year).
-   
+ - Determine the amount of [Child Tax Credit](../c/child_tax_credit.md) the [taxpayer](../t/taxpayer.md) is eligible for ($2,000 per qualifying child for the 2022 tax year).
+
 2. **Non-Refundable Portion:**
-   - Subtract the [tax liability](../t/tax_liability.md) from the [Child Tax Credit](../c/child_tax_credit.md) to find the nonrefundable portion.
-   
+ - Subtract the [tax liability](../t/tax_liability.md) from the [Child Tax Credit](../c/child_tax_credit.md) to find the nonrefundable portion.
+
 3. **Refundable Portion (ACTC):**
-   - Calculate 15% of the [taxpayer](../t/taxpayer.md)'s [earned income](../e/earned_income.md) over $2,500.
-   - The refundable portion cannot exceed $1,400 per qualifying child.
+ - Calculate 15% of the [taxpayer](../t/taxpayer.md)'s [earned income](../e/earned_income.md) over $2,500.
+ - The refundable portion cannot exceed $1,400 per qualifying child.
 
 ### Example
 
@@ -116,4 +116,4 @@ The periodic changes in tax laws related to the ACTC can create [uncertainty](..
 
 The Additional [Child Tax Credit](../c/child_tax_credit.md) plays a vital role in providing financial assistance to low- and moderate-[income](../i/income.md) families in the United States. By [offering](../o/offering.md) a refundable [credit](../c/credit.md), the ACTC helps mitigate the financial burdens faced by many families, supports the well-being of children, and stimulates the [economy](../e/economy.md). While there are areas for potential improvement, the ACTC remains a crucial tool in the fight against childhood [poverty](../p/poverty.md) and financial instability.
 
-For more detailed information and resources, taxpayers can visit the official IRS website at [IRS - Additional Child Tax Credit](https://www.irs.gov/credits-deductions/individuals/additional-child-tax-credit).
+For more detailed information and resources, taxpayers can

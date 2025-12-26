@@ -50,10 +50,10 @@ Passive [bond](../b/bond.md) funds, or [index](../i/index_instrument.md) funds, 
 
 ### Notable Bond Fund Companies
 
-1. **Vanguard:** Known for a wide [range](../r/range.md) of [bond](../b/bond.md) funds, including [index](../i/index_instrument.md) and actively managed [options](../o/options.md). [Vanguard Bond Funds](https://investor.vanguard.com/mutual-funds/bond/#/)
-2. **BlackRock:** Offers a variety of [bond](../b/bond.md) funds through its [iShares](../i/ishares.md) brand, encompassing government, corporate, and [municipal bonds](../m/municipal_bonds.md). [BlackRock Bond Funds](https://www.blackrock.com/us/individual/products/etf-investments#!type=ishares&style=ishares&view=keyFacts&categoryId=431791)
-3. **Fidelity:** Provides a broad array of [bond](../b/bond.md) mutual funds, focusing on various [bond](../b/bond.md) sectors and [credit](../c/credit.md) qualities. [Fidelity Bond Funds](https://www.fidelity.com/mutual-funds/bond-funds/overview)
-4. **PIMCO:** A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in active fixed-[income](../i/income.md) management. [PIMCO Bond Funds](https://www.pimco.com/en-us/investments/mutual-funds)
+1. **Vanguard:** Known for a wide [range](../r/range.md) of [bond](../b/bond.md) funds, including [index](../i/index_instrument.md) and actively managed [options](../o/options.md). Vanguard Bond Funds
+2. **BlackRock:** Offers a variety of [bond](../b/bond.md) funds through its [iShares](../i/ishares.md) brand, encompassing government, corporate, and [municipal bonds](../m/municipal_bonds.md). BlackRock Bond Funds
+3. **Fidelity:** Provides a broad array of [bond](../b/bond.md) mutual funds, focusing on various [bond](../b/bond.md) sectors and [credit](../c/credit.md) qualities. Fidelity Bond Funds
+4. **PIMCO:** A leading global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in active fixed-[income](../i/income.md) management. PIMCO Bond Funds
 
 ### How to Evaluate Bond Funds
 
@@ -69,9 +69,9 @@ Passive [bond](../b/bond.md) funds, or [index](../i/index_instrument.md) funds, 
 
 For further information on how to invest in [bond](../b/bond.md) funds and the types available, prospective investors can visit:
 
-1. **Vanguard's [Bond](../b/bond.md) Investment [Options](../o/options.md):** [Vanguard Bond Funds](https://investor.vanguard.com/mutual-funds/bond/#/)
-2. **BlackRock's [Bond ETF](../b/bond_etf.md) Products:** [BlackRock Bond Funds](https://www.blackrock.com/us/individual/products/etf-investments#!type=ishares&style=ishares&view=keyFacts&categoryId=431791)
-3. **Fidelity's [Fixed Income](../f/fixed_income.md) Mutual Funds:** [Fidelity Bond Funds](https://www.fidelity.com/mutual-funds/bond-funds/overview)
-4. **PIMCO's [Fixed Income](../f/fixed_income.md) Investments:** [PIMCO Bond Funds](https://www.pimco.com/en-us/investments/mutual-funds)
+1. **Vanguard's [Bond](../b/bond.md) Investment [Options](../o/options.md):** Vanguard Bond Funds
+2. **BlackRock's [Bond ETF](../b/bond_etf.md) Products:** BlackRock Bond Funds
+3. **Fidelity's [Fixed Income](../f/fixed_income.md) Mutual Funds:** Fidelity Bond Funds
+4. **PIMCO's [Fixed Income](../f/fixed_income.md) Investments:** PIMCO Bond Funds
 
 Understanding [bond](../b/bond.md) funds and their characteristics enables informed investment decisions, promoting better financial outcomes and portfolio stability.

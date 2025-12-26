@@ -72,11 +72,11 @@ The career outlook for Registered Representatives is promising, with several gro
 
 ### Industry Trends
 The [industry](../i/industry.md) is evolving with several notable trends that impact RRs:
-- **Technology and Automation**: The rise of robo-advisors and [algorithmic trading](../a/accountability.md) is transforming traditional [broker](../b/broker.md) roles, requiring RRs to adapt by leveraging technology for better client service.
+- **Technology and Automation**: The rise of robo-advisors and [algorithmic trading](../a/algorithmic_trading.md) is transforming traditional [broker](../b/broker.md) roles, requiring RRs to adapt by leveraging technology for better client service.
 - **Regulatory Changes**: Ongoing regulatory changes necessitate continuous learning and adaptation to ensure compliance.
 - **Client Expectations**: Today's clients [demand](../d/demand.md) more personalized and transparent services, driving RRs to enhance their client engagement and advisory skills.
 
 ## Conclusion
 A career as a Registered Representative offers dynamic opportunities and substantial earning potential. It requires a blend of [market](../m/market.md) knowledge, analytical skills, and strong client management abilities. While the path to becoming an RR involves rigorous exams and ongoing education, the rewards in terms of job satisfaction and financial compensation can be significant.
 
-For those interested in exploring this career, further information can be obtained from [industry](../i/industry.md) resources such as the [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/) and brokerage firms similarly [offer](../o/offer.md) insights and job postings tailored to aspiring Registered Representatives.
+For those interested in exploring this career, further information can be obtained from [industry](../i/industry.md) resources such as the Financial Industry Regulatory Authority (FINRA) and brokerage firms similarly [offer](../o/offer.md) insights and job postings tailored to aspiring Registered Representatives.

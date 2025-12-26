@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Support Vector Classifier (SVC) is a [supervised learning](../s/supervised_learning.md) algorithm commonly used in the field of [machine learning](../m/machine_learning.md) and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting [market](../m/market.md) directions, identifying [trading signals](../t/trading_signals.md), and building [predictive models](../p/predictive_models_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md). 
+A Support Vector Classifier (SVC) is a [supervised learning](../s/supervised_learning.md) algorithm commonly used in the field of [machine learning](../m/machine_learning.md) and [pattern recognition](../p/pattern_recognition.md). It is based on the principles of the Support Vector Machine (SVM) and aims to classify data points by finding an optimal hyperplane that separates the various classes. In the context of [algorithmic trading](../a/algorithmic_trading.md), SVC can play a crucial role in predicting [market](../m/market.md) directions, identifying [trading signals](../t/trading_signals.md), and building [predictive models](../p/predictive_models_in_trading.md) to optimize [trading strategies](../t/trading_strategies.md).
 
 ## Basic Concept of Support Vector Classifier
 
@@ -39,15 +39,15 @@ Here, \(y_i\) are the labels indicating the class of \(x_i\) (either +1 or -1).
 One of the powerful features of SVC is its ability to [handle](../h/handle.md) non-linearly separable data using kernel functions. Kernels implicitly map the input features into higher-dimensional spaces where a linear separation is possible. Commonly used kernel functions include:
 
 - **Linear Kernel**:
-  \[ K(x_i, x_j) = x_i \cdot x_j \]
+ \[ K(x_i, x_j) = x_i \cdot x_j \]
 
 - **Polynomial Kernel**:
-  \[ K(x_i, x_j) = (\[gamma](../g/gamma.md) x_i \cdot x_j + r)^d \]
-  where \(\[gamma](../g/gamma.md)\), \(r\), and \(d\) are parameters.
+ \[ K(x_i, x_j) = (\[gamma](../g/gamma.md) x_i \cdot x_j + r)^d \]
+ where \(\[gamma](../g/gamma.md)\), \(r\), and \(d\) are parameters.
 
 - **Radial [Basis](../b/basis.md) Function (RBF) Kernel**:
-  \[ K(x_i, x_j) = \exp(-\[gamma](../g/gamma.md) \| x_i - x_j \|^2) \]
-  where \(\[gamma](../g/gamma.md)\) is a parameter.
+ \[ K(x_i, x_j) = \exp(-\[gamma](../g/gamma.md) \| x_i - x_j \|^2) \]
+ where \(\[gamma](../g/gamma.md)\) is a parameter.
 
 ## SVC in Algorithmic Trading
 
@@ -122,16 +122,12 @@ Training an SVC can be computationally expensive, especially with large datasets
 Several tools and libraries facilitate the implementation of SVC for [algorithmic trading](../a/algorithmic_trading.md):
 
 - **scikit-learn**: A popular Python library that offers a [robust](../r/robust.md) implementation of SVC with various kernel [options](../o/options.md) and utilities for model evaluation.
-  [scikit-learn](https://scikit-learn.org/stable/modules/svm.html#svm-classification)
 
 - **[TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md)**: Although primarily used for [neural networks](../n/neural_networks_in_trading.md), [TensorFlow](../t/tensorflow.md) and [Keras](../k/keras.md) can also implement SVC models through their [machine learning](../m/machine_learning.md) APIs.
-  [TensorFlow](https://www.tensorflow.org/)
 
 - **libsvm**: A library dedicated to SVM and SVC with support for various kernels and [optimization](../o/optimization.md) algorithms.
-  [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other [machine learning](../m/machine_learning.md) models.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: A platform [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) tools, including support for SVC and other [machine learning](../m/machine_learning.md) models.
 
 ## Conclusion
 

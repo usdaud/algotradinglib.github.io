@@ -1,6 +1,6 @@
 # Unusual Market Activity
 
-Unusual [Market](../m/market.md) Activity, often abbreviated as UMA, refers to patterns or behaviors in [financial markets](../f/financial_market.md) that deviate significantly from normal or expected trading activities. This phenomenon can include sudden spikes or drops in trading [volume](../v/volume.md), unexpected price changes, or other atypical movements that cannot be immediately explained by common factors such as news releases or scheduled economic reports. UMA is a critical area of focus for regulators, traders, and [automated trading systems](../a/automated_trading_systems.md), as it can often signal [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), or other forms of illicit activities. 
+Unusual [Market](../m/market.md) Activity, often abbreviated as UMA, refers to patterns or behaviors in [financial markets](../f/financial_market.md) that deviate significantly from normal or expected trading activities. This phenomenon can include sudden spikes or drops in trading [volume](../v/volume.md), unexpected price changes, or other atypical movements that cannot be immediately explained by common factors such as news releases or scheduled economic reports. UMA is a critical area of focus for regulators, traders, and [automated trading systems](../a/automated_trading_systems.md), as it can often signal [market manipulation](../m/market_manipulation.md), [insider trading](../i/insider.md), or other forms of illicit activities.
 
 UMA can be driven by a variety of factors, including but not limited to, the dissemination of false or misleading information, coordinated trading efforts by [multiple](../m/multiple.md) parties, or the exploitation of low [liquidity](../l/liquidity.md) during off-peak hours. Given the potential implications for [market](../m/market.md) integrity and [investor](../i/investor.md) confidence, both regulatory bodies and financial institutions invest substantial resources in monitoring and managing UMA.
 
@@ -66,19 +66,16 @@ In 2012, [hedge fund manager](../h/hedge_fund_manager.md) Bill Ackman publicly a
 
 [Nasdaq](../n/nasdaq.md) offers a [range](../r/range.md) of [market](../m/market.md) surveillance tools designed to detect UMA. Their SMARTS [Trade](../t/trade.md) Surveillance platform uses advanced algorithms to monitor trading activity across [multiple](../m/multiple.md) markets in real-time, detecting irregular patterns and potential [market](../m/market.md) abuse.
 
-[Learn more about Nasdaq Market Surveillance](https://business.nasdaq.com/intel/smarts-surveillance/index.html)
 
 ### 2. NYSE Pillar
 
 The New York Stock [Exchange](../e/exchange.md)'s Pillar [trading platform](../t/trading_platform.md) includes built-in surveillance capabilities to monitor for UMA. It provides exchanges and [market](../m/market.md) participants with a comprehensive set of tools to identify and manage unusual trading activity.
 
-[Learn more about NYSE Pillar](https://www.nyse.com/pillar)
 
 ### 3. FINRA's Automated Surveillance
 
 The Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)) employs an array of automated surveillance systems to monitor trading activity and detect instances of UMA. These systems use data analysis and [pattern recognition](../p/pattern_recognition.md) to identify anomalous trading behaviors.
 
-[Learn more about FINRA Surveillance](https://www.finra.org/rules-guidance/key-topics/market-surveillance)
 
 ## Conclusion
 

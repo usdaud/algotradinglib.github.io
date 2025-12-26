@@ -63,19 +63,19 @@ X-System Testing is a series of rigorous tests designed to evaluate [trading alg
 Several tools and platforms are available to conduct X-System Testing, each [offering](../o/offering.md) unique features and capabilities. Some of the popular tools include:
 
 ### 1. QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive suite of [backtesting](../b/backtesting.md), forward testing, and deployment tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers a vast library of historical [market](../m/market.md) data.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive suite of [backtesting](../b/backtesting.md), forward testing, and deployment tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers a vast library of historical [market](../m/market.md) data.
 
 ### 2. MetaTrader 5
-[MetaTrader 5](https://www.metatrader5.com/) is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) through its Expert Advisor (EA) framework. It offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) tools, as well as [real-time market data](../r/real-time_market_data.md).
+MetaTrader 5 is a popular [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) through its Expert Advisor (EA) framework. It offers [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [optimization](../o/optimization.md) tools, as well as [real-time market data](../r/real-time_market_data.md).
 
 ### 3. NinjaTrader
-[NinjaTrader](https://ninjatrader.com/) is a [trading platform](../t/trading_platform.md) that provides advanced charting, [backtesting](../b/backtesting.md), and [trade](../t/trade.md) [simulation](../s/simulation_in_trading.md) capabilities. It supports custom strategy development using C# and offers access to a wide [range](../r/range.md) of [market](../m/market.md) data.
+NinjaTrader is a [trading platform](../t/trading_platform.md) that provides advanced charting, [backtesting](../b/backtesting.md), and [trade](../t/trade.md) [simulation](../s/simulation_in_trading.md) capabilities. It supports custom strategy development using C# and offers access to a wide [range](../r/range.md) of [market](../m/market.md) data.
 
 ### 4. AlgoTrader
-[AlgoTrader](https://www.algotrader.com/) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), forward testing, and live trading. It offers extensive [data integration](../d/data_integration.md) [options](../o/options.md) and advanced [risk management](../r/risk_management.md) tools.
+AlgoTrader is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md), forward testing, and live trading. It offers extensive [data integration](../d/data_integration.md) [options](../o/options.md) and advanced [risk management](../r/risk_management.md) tools.
 
 ### 5. TradeStation
-[TradeStation](https://www.tradestation.com/) is a [trading platform](../t/trading_platform.md) that provides powerful [backtesting](../b/backtesting.md) and strategy [optimization](../o/optimization.md) tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive historical and [real-time market data](../r/real-time_market_data.md).
+TradeStation is a [trading platform](../t/trading_platform.md) that provides powerful [backtesting](../b/backtesting.md) and strategy [optimization](../o/optimization.md) tools. It supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive historical and [real-time market data](../r/real-time_market_data.md).
 
 ## Steps to Conduct X-System Testing
 

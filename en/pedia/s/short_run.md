@@ -40,7 +40,7 @@ Firms operate within the constraints of fixed and variable inputs to determine o
 
 ### Short-Term Trading Strategies
 
-[Short-term trading](../s/short-term_trading.md) strategies, such as [day trading](../d/day_trading.md) or [swing trading](../s/swing_trading.md), focus on capitalizing on short-run [market](../m/market.md) movements. These strategies rely on [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md), and [market sentiment indicators](../m/market_sentiment_indicators.md), aiming to exploit price discrepancies and [momentum](../m/momentum.md). Tools and platforms dedicated to [short-term trading](../s/short-term_trading.md) include [algorithmic trading](../a/accountability.md) systems and high-frequency trading (HFT) technologies.
+[Short-term trading](../s/short-term_trading.md) strategies, such as [day trading](../d/day_trading.md) or [swing trading](../s/swing_trading.md), focus on capitalizing on short-run [market](../m/market.md) movements. These strategies rely on [technical analysis](../t/technical_analysis.md), [chart patterns](../c/chart_patterns.md), and [market sentiment indicators](../m/market_sentiment_indicators.md), aiming to exploit price discrepancies and [momentum](../m/momentum.md). Tools and platforms dedicated to [short-term trading](../s/short-term_trading.md) include [algorithmic trading](../a/algorithmic_trading.md) systems and high-frequency trading (HFT) technologies.
 
 ### Financial Instruments
 
@@ -78,7 +78,7 @@ Technological advancements can alter the short-run production capabilities of fi
 
 ### Fintech and Financial Innovation
 
-In the realm of [finance](../f/finance.md), fintech innovations are reshaping short-run [market dynamics](../m/market_dynamics.md) by providing new channels for trading, investment, and payments. Companies like Square (https://squareup.com/), [PayPal](../p/paypal.md) (https://www.[paypal](../p/paypal.md).com/), and [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) are at the forefront of this revolution, [offering](../o/offering.md) platforms that facilitate faster, more efficient financial transactions and data-driven investment decisions.
+In the realm of [finance](../f/finance.md), fintech innovations are reshaping short-run [market dynamics](../m/market_dynamics.md) by providing new channels for trading, investment, and payments. Companies like Square ( [PayPal](../p/paypal.md) ( and [Robinhood](../r/robinhood.md) ( are at the forefront of this revolution, [offering](../o/offering.md) platforms that facilitate faster, more efficient financial transactions and data-driven investment decisions.
 
 ## Conclusion
 

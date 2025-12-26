@@ -1,6 +1,6 @@
 # Oracle of Omaha
 
-Warren Buffett, often referred to as the "Oracle of Omaha," is one of the most influential and successful investors in the world. His investment philosophy, which emphasizes [value investing](../v/value_investing.md), has shaped the strategies of countless investors and financial professionals. Buffett's approach combines thorough [financial analysis](../f/financial_analysis.md), disciplined management, and a long-term perspective, making him a beacon for both traditional and modern financial practices, including [algorithmic trading](../a/accountability.md).
+Warren Buffett, often referred to as the "Oracle of Omaha," is one of the most influential and successful investors in the world. His investment philosophy, which emphasizes [value investing](../v/value_investing.md), has shaped the strategies of countless investors and financial professionals. Buffett's approach combines thorough [financial analysis](../f/financial_analysis.md), disciplined management, and a long-term perspective, making him a beacon for both traditional and modern financial practices, including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Early Life and Education
 
@@ -47,15 +47,15 @@ One of Buffett's most significant achievements is turning [Berkshire Hathaway](.
 
 ### Data-Driven Approach
 
-Buffett's investment decisions are heavily data-driven, a principle that aligns well with the foundations of [algorithmic trading](../a/accountability.md) and fintech. While Buffett himself is a proponent of [fundamental analysis](../f/fundamental_analysis.md), his emphasis on data integrity and accuracy is vital for developing effective financial algorithms.
+Buffett's investment decisions are heavily data-driven, a principle that aligns well with the foundations of [algorithmic trading](../a/algorithmic_trading.md) and fintech. While Buffett himself is a proponent of [fundamental analysis](../f/fundamental_analysis.md), his emphasis on data integrity and accuracy is vital for developing effective financial algorithms.
 
 ### Risk Management
 
-Buffett's strategies have strong [risk management](../r/risk_management.md) principles, another crucial aspect of successful [algorithmic trading](../a/accountability.md) systems. His focus on a [margin of safety](../m/margin_of_safety.md) aligns well with the [risk management](../r/risk_management.md) protocols that quantitative traders use to prevent significant losses.
+Buffett's strategies have strong [risk management](../r/risk_management.md) principles, another crucial aspect of successful [algorithmic trading](../a/algorithmic_trading.md) systems. His focus on a [margin of safety](../m/margin_of_safety.md) aligns well with the [risk management](../r/risk_management.md) protocols that quantitative traders use to prevent significant losses.
 
 ### Long-Term Value Creation
 
-Fintech platforms and [algorithmic trading](../a/accountability.md) systems can benefit from incorporating Buffett's long-term investment philosophy. Algorithms designed to identify long-term [value](../v/value.md) and maintain positions can be highly profitable, especially when designed to minimize [transaction costs](../t/transaction_costs.md) and [capitalize](../c/capitalize.md) on [compounding](../c/compounding.md) growth.
+Fintech platforms and [algorithmic trading](../a/algorithmic_trading.md) systems can benefit from incorporating Buffett's long-term investment philosophy. Algorithms designed to identify long-term [value](../v/value.md) and maintain positions can be highly profitable, especially when designed to minimize [transaction costs](../t/transaction_costs.md) and [capitalize](../c/capitalize.md) on [compounding](../c/compounding.md) growth.
 
 ## Philanthropy and Social Impact
 
@@ -68,8 +68,8 @@ Warren Buffett's influence extends far beyond his financial success. He is known
 ## Resources
 
 For more information on Warren Buffett and [Berkshire Hathaway](../b/berkshire_hathaway.md), you can visit:
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
-- [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/)
-- [Giving Pledge](https://givingpledge.org/)
+- Berkshire Hathaway
+- Bill & Melinda Gates Foundation
+- Giving Pledge
 
 Buffett's principles are well-documented through various annual letters, speeches, and writings. He remains an essential figure for anyone interested in [business](../b/business.md), [investing](../i/investing.md), or [finance](../f/finance.md).

@@ -9,21 +9,21 @@ An Alternative Trading System (ATS) is a non-[exchange](../e/exchange.md) tradin
 ECNs are computerized systems that automatically match buy and sell orders for securities in the [market](../m/market.md). These networks allow traders to bypass brokers and interact directly with the [market](../m/market.md), thus reducing [transaction costs](../t/transaction_costs.md). Notable examples include:
 
 - #### [NASDAQ](../n/nasdaq.md)
-  [NASDAQ](https://www.nasdaq.com/) operates [multiple](../m/multiple.md) ECNs that facilitate trading in securities.
+ NASDAQ operates [multiple](../m/multiple.md) ECNs that facilitate trading in securities.
 
 ### Dark Pools
 
 [Dark pools](../d/dark_pools.md) are private financial forums or exchanges for trading securities. Unlike public exchanges, the orders placed in [dark pools](../d/dark_pools.md) are not visible to the public, hence the term "dark." These systems are typically used by larger institutional investors to execute large trades without affecting the [market price](../m/market_price.md). Notable examples include:
 
 - #### Liquidnet
-  [Liquidnet](https://www.liquidnet.com/) is a global institutional trading network, [offering](../o/offering.md) services in [dark pool](../d/dark_pool.md) trading.
+ Liquidnet is a global institutional trading network, [offering](../o/offering.md) services in [dark pool](../d/dark_pool.md) trading.
 
 ### Crossing Networks
 
 Crossing networks are a type of ATS that matches buy and sell orders electronically without routing the [order](../o/order.md) to a public [exchange](../e/exchange.md). These networks often execute orders at predetermined times and prices. Notable examples include:
 
 - #### ITG POSIT
-  [ITG POSIT](https://www.itg.com/products-technology/trading-networks/posit/) is one such crossing network that provides anonymous, automated trading solutions.
+ ITG POSIT is one such crossing network that provides anonymous, automated trading solutions.
 
 ## How ATS Works
 
@@ -76,35 +76,34 @@ With advanced technological [infrastructure](../i/infrastructure.md), ATS provid
 In the U.S., ATSs are regulated by the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) under Regulation ATS. They are usually required to register as [broker](../b/broker.md)-dealers and comply with specific standards related to [transparency](../t/transparency.md), [fraud](../f/fraud.md) prevention, and trading practices.
 
 - #### Finra
-  [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/) oversees the quality and fairness of ATS operations in the U.S.
+ Financial Industry Regulatory Authority (FINRA) oversees the quality and fairness of ATS operations in the U.S.
 
 ### Europe
 
 In Europe, ATSs are governed under the Markets in Financial Instruments Directive ([MiFID II](../m/mifid_ii.md)), which sets out rules to increase [transparency](../t/transparency.md) and protect investors.
 
 - #### ESMA
-  [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu/) regulates [financial markets](../f/financial_market.md) in the [European Union](../e/european_union_(eu).md), including ATS.
+ European Securities and Markets Authority (ESMA) regulates [financial markets](../f/financial_market.md) in the [European Union](../e/european_union_(eu).md), including ATS.
 
 ### Asia
 
 Different Asian countries have their own regulatory bodies overseeing ATS operations. For example, Japan has the Financial Services Agency (FSA), while Hong Kong has the Securities and [Futures](../f/futures.md) [Commission](../c/commission.md) (SFC).
 
 - #### FSA Japan
-  [Financial Services Agency (FSA)](https://www.fsa.go.jp/en/) is Japan’s regulatory authority overseeing ATS.
+ Financial Services Agency (FSA) is Japan’s regulatory authority overseeing ATS.
 
 ## Notable Examples
 
 ### Instinet
 
-[Instinet](https://www.instinet.com/) is one of the pioneers in electronic trading and operates one of the oldest and most established ATS. It offers a suite of services including agency [execution](../e/execution.md) and trading technologies.
+Instinet is one of the pioneers in electronic trading and operates one of the oldest and most established ATS. It offers a suite of services including agency [execution](../e/execution.md) and trading technologies.
 
 ### BATS Global Markets
 
-[BATS Global Markets](http://www.batstrading.com/) operates as both an [exchange](../e/exchange.md) and an ATS, providing [multiple](../m/multiple.md) venues for trading equities and [options](../o/options.md). 
-
+BATS Global Markets operates as both an [exchange](../e/exchange.md) and an ATS, providing [multiple](../m/multiple.md) venues for trading equities and [options](../o/options.md).
 ### Chi-X
 
-[Chi-X](https://www.chi-x.com/) operates in [multiple](../m/multiple.md) countries and offers a [range](../r/range.md) of trading solutions. It is known for its technology-driven approach to improve [market efficiency](../m/market_efficiency.md).
+Chi-X operates in [multiple](../m/multiple.md) countries and offers a [range](../r/range.md) of trading solutions. It is known for its technology-driven approach to improve [market efficiency](../m/market_efficiency.md).
 
 ## Conclusion
 

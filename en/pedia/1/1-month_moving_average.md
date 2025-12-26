@@ -15,16 +15,16 @@ A **1-Month Moving Average** typically refers to the average price of a [securit
 To compute a 1-Month Moving Average, one typically follows these steps:
 
 1. **Choose the Type of Moving Average:**
-   - **Simple Moving Average (SMA):** The average of the selected data points.
-   - **Exponential Moving Average (EMA):** A [weighted average](../w/weighted_average.md) that gives more importance to recent data points.
+ - **Simple Moving Average (SMA):** The average of the selected data points.
+ - **Exponential Moving Average (EMA):** A [weighted average](../w/weighted_average.md) that gives more importance to recent data points.
 
 2. **Select the Data Points:**
-   - For a 1-month period, consider the last 20 to 22 closing prices.
+ - For a 1-month period, consider the last 20 to 22 closing prices.
 
 3. **Apply the Formula:**
-   - **SMA Calculation:** \( \text{SMA} = \frac{(P_1 + P_2 + ... + P_{N})}{N} \)
-     - Where \( P \) is the closing price for each day, and \( N \) is the number of days.
-   - **EMA Calculation:** Includes a smoothing [factor](../f/factor.md) \( \[alpha](../a/alpha.md) = \frac{2}{N+1} \) and is recursively defined.
+ - **SMA Calculation:** \( \text{SMA} = \frac{(P_1 + P_2 +... + P_{N})}{N} \)
+ - Where \( P \) is the closing price for each day, and \( N \) is the number of days.
+ - **EMA Calculation:** Includes a smoothing [factor](../f/factor.md) \( \[alpha](../a/alpha.md) = \frac{2}{N+1} \) and is recursively defined.
 
 ### Example:
 Let's say we are calculating a 1-month SMA for a stock over the past 22 days. First, sum the closing prices, then divide by 22.
@@ -56,10 +56,10 @@ Combining moving averages with other analytical tools provides a holistic view o
 Several [algorithmic trading](../a/algorithmic_trading.md) platforms facilitate the integration of moving averages, [offering](../o/offering.md) extensive features for automation, [backtesting](../b/backtesting.md), and [execution](../e/execution.md). Some notable ones include:
 
 - **MetaTrader 4/5:** Widely used for forex and [futures](../f/futures.md) trading, [offering](../o/offering.md) customizable indicators.
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and programming languages. [QuantConnect](https://www.quantconnect.com/)
-- **[TradeStation](../t/tradestation.md):** Known for its powerful strategy-building and [backtesting](../b/backtesting.md) tools. [TradeStation](https://www.tradestation.com/)
-- **[NinjaTrader](../n/ninjatrader.md):** Provides advanced charting and [market](../m/market.md) analysis tools. [NinjaTrader](https://ninjatrader.com/)
-- **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free API for [algorithmic trading](../a/algorithmic_trading.md) in [stocks](../s/stock.md). [Alpaca](https://alpaca.markets/)
+- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform supporting [multiple](../m/multiple.md) [asset](../a/asset.md) classes and programming languages. QuantConnect
+- **[TradeStation](../t/tradestation.md):** Known for its powerful strategy-building and [backtesting](../b/backtesting.md) tools. TradeStation
+- **[NinjaTrader](../n/ninjatrader.md):** Provides advanced charting and [market](../m/market.md) analysis tools. NinjaTrader
+- **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free API for [algorithmic trading](../a/algorithmic_trading.md) in [stocks](../s/stock.md). Alpaca
 
 ## Conclusion
 

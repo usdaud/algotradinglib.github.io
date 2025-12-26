@@ -1,8 +1,8 @@
 # Issued Shares
 
-Issued [shares](../s/shares.md) represent the total number of [shares](../s/shares.md) that a company has ever issued (allocated) to its shareholders. This quantity includes [shares](../s/shares.md) held by shareholders and restricted [shares](../s/shares.md) held by the company’s officers and insiders. The number of issued [shares](../s/shares.md) is a crucial metric in the world of [finance](../f/finance.md) and [investing](../i/investing.md), often contrasted with outstanding [shares](../s/shares.md) and treasury [shares](../s/shares.md). Understanding issued [shares](../s/shares.md) is integral to comprehending the [capitalization](../c/capitalization.md) structure of a company and making informed investment decisions. 
+Issued [shares](../s/shares.md) represent the total number of [shares](../s/shares.md) that a company has ever issued (allocated) to its shareholders. This quantity includes [shares](../s/shares.md) held by shareholders and restricted [shares](../s/shares.md) held by the company’s officers and insiders. The number of issued [shares](../s/shares.md) is a crucial metric in the world of [finance](../f/finance.md) and [investing](../i/investing.md), often contrasted with outstanding [shares](../s/shares.md) and treasury [shares](../s/shares.md). Understanding issued [shares](../s/shares.md) is integral to comprehending the [capitalization](../c/capitalization.md) structure of a company and making informed investment decisions.
 
-## Concept of Issued Shares 
+## Concept of Issued Shares
 
 Issued [shares](../s/shares.md) are the portions of company ownership that have been distributed to shareholders. These [shares](../s/shares.md) can be either common or preferred [shares](../s/shares.md):
 
@@ -25,7 +25,7 @@ The number of issued [shares](../s/shares.md) is essential information for sever
 ### Initial Public Offering (IPO)
 
 - **Initial [Distribution](../d/distribution.md)**: When a company goes public, it performs an Initial Public [Offering](../o/offering.md) (IPO). During an IPO, the company determines the [volume](../v/volume.md) of issued [shares](../s/shares.md) and sets a price per share.
-  
+
 - **Allocation**: These [shares](../s/shares.md) are then sold to institutional and retail investors. The [money](../m/money.md) raised from this process is used for various corporate purposes, such as expanding operations or paying off [debt](../d/debt.md).
 
 ### Post-IPO
@@ -48,12 +48,10 @@ Several laws and regulations govern the issuance and number of [shares](../s/sha
 
 ## Case Studies
 
-### Tesla, Inc. (https://www.tesla.com/)
-
+### Tesla, Inc.
 Tesla, Inc. provides an insightful case study about issued [shares](../s/shares.md). Tesla ran an IPO on June 29, 2010, [offering](../o/offering.md) 13.3 million [shares](../s/shares.md) at $17 each. Since then, Tesla has issued more [shares](../s/shares.md) several times, both through direct offerings and employee stock [options](../o/options.md), significantly increasing its total issued [shares](../s/shares.md) [volume](../v/volume.md) over the years. These strategic moves raised [capital](../c/capital.md) for their aggressive growth and [expansion](../e/expansion.md) plans.
 
-### Apple Inc. (https://www.apple.com/)
-
+### Apple Inc.
 Apple Inc. is another prime example. The tech giant has performed several stock splits throughout its history, notably a 7-for-1 [stock split](../s/stock_split.md) in June 2014 and a 4-for-1 [stock split](../s/stock_split.md) in August 2020. These actions increased issued [shares](../s/shares.md), democratizing investment by making [shares](../s/shares.md) more affordable to the average [investor](../i/investor.md) while preserving the company’s [market](../m/market.md) cap.
 
 ## Conclusion

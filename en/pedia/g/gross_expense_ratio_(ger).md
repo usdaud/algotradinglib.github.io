@@ -1,6 +1,6 @@
 # Gross Expense Ratio (GER)
 
-In the world of [finance](../f/finance.md), particularly within the context of mutual funds, ETFs, and other investment vehicles, understanding the costs associated with investments is crucial. One of the most important cost metrics investors need to be aware of is the **Gross [Expense Ratio](../e/expense_ratio.md) (GER)**. 
+In the world of [finance](../f/finance.md), particularly within the context of mutual funds, ETFs, and other investment vehicles, understanding the costs associated with investments is crucial. One of the most important cost metrics investors need to be aware of is the **Gross [Expense Ratio](../e/expense_ratio.md) (GER)**.
 
 **Gross [Expense Ratio](../e/expense_ratio.md) (GER)** is a measure of the total percentage of a [fund](../f/fund.md)'s assets that are used to cover the [fund](../f/fund.md)'s operating expenses. This ratio is critically important because it affects the net returns earned by investors. In essence, the GER represents the cost of owning a [fund](../f/fund.md) on an annual [basis](../b/basis.md), and it can significantly impact the long-term performance of an investment.
 
@@ -62,21 +62,21 @@ ETFs, such as those offered by **BlackRock's [iShares](../i/ishares.md)** and **
 
 ### Case Study: Vanguard
 
-Vanguard is renowned for its low-cost investment [options](../o/options.md). The company's website ([Vanguard](https://investor.vanguard.com/)) provides extensive information on the GER for each of its funds. For instance, the Vanguard S&P 500 ETF (VOO) has a GER of just 0.03%, making it one of the most cost-effective [options](../o/options.md) for investors seeking exposure to the S&P 500 [index](../i/index_instrument.md).
+Vanguard is renowned for its low-cost investment [options](../o/options.md). the company's online platform (Vanguard) provides extensive information on the GER for each of its funds. For instance, the Vanguard S&P 500 ETF (VOO) has a GER of just 0.03%, making it one of the most cost-effective [options](../o/options.md) for investors seeking exposure to the S&P 500 [index](../i/index_instrument.md).
 
 ### Case Study: BlackRock's iShares
 
-BlackRock’s [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETFs with varying GERs. The [iShares](../i/ishares.md) Core S&P 500 ETF (IVV) is another example of a [fund](../f/fund.md) with a low GER, currently at 0.03%. Information can be found directly on their website ([iShares by BlackRock](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf)).
+BlackRock’s [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of ETFs with varying GERs. The [iShares](../i/ishares.md) Core S&P 500 ETF (IVV) is another example of a [fund](../f/fund.md) with a low GER, currently at 0.03%. Information can be found directly through its online channels (iShares by BlackRock).
 
 ### Case Study: SPDR ETFs
 
-State Street Global Advisors' SPDR ETFs also provide transparent information about their GER. The SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) is an [industry](../i/industry.md) giant and has a GER of 0.09%. Detailed information about their [expense](../e/expense.md) ratios can be viewed on their official page ([SPDR ETFs](https://www.ssga.com/us/en/individual/etfs)).
+State Street Global Advisors' SPDR ETFs also provide transparent information about their GER. The SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) is an [industry](../i/industry.md) giant and has a GER of 0.09%. Detailed information about their [expense](../e/expense.md) ratios can be viewed on their public materials (SPDR ETFs).
 
 ## Trends and Developments
 
 ### Declining Expense Ratios
 
-Over the past decade, there has been a significant downward [trend](../t/trend.md) in GERs across the investment [industry](../i/industry.md). This decline can be attributed to increased competition, the rise of [passive investment strategies](../p/passive_investment_strategies.md), and pressure from investors seeking lower-cost [options](../o/options.md). 
+Over the past decade, there has been a significant downward [trend](../t/trend.md) in GERs across the investment [industry](../i/industry.md). This decline can be attributed to increased competition, the rise of [passive investment strategies](../p/passive_investment_strategies.md), and pressure from investors seeking lower-cost [options](../o/options.md).
 
 ### Competitive Landscape
 

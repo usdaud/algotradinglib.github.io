@@ -38,7 +38,7 @@ Enforcement actions can involve several steps, including investigations, consent
 
 ### Notable Actions and Cases
 
-The CFPB has been actively involved in enforcing UDAAP standards. For example, in 2020, the CFPB fined Wells Fargo $3 billion for its highly publicized account [fraud](../f/fraud.md) scandal, which included creating millions of fake accounts without [customer](../c/customer.md) consent. 
+The CFPB has been actively involved in enforcing UDAAP standards. For example, in 2020, the CFPB fined Wells Fargo $3 billion for its highly publicized account [fraud](../f/fraud.md) scandal, which included creating millions of fake accounts without [customer](../c/customer.md) consent.
 
 ## Compliance Strategies
 
@@ -58,4 +58,3 @@ For example, a robo-advisor must be programmed to present clear investment [opti
 
 UDAAP regulations are critical for maintaining the integrity and fairness of consumer [financial markets](../f/financial_market.md). Compliance with these regulations not only helps in avoiding penalties but also builds consumer [trust](../t/trust.md) and loyalty. Financial institutions, FinTech companies, and algo trading platforms must prioritize UDAAP compliance to ensure sustainable and ethical growth in their operations.
 
-For more information, you can visit the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/) official website.

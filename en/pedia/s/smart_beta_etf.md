@@ -55,11 +55,11 @@ The fundamental difference between [Smart Beta](../s/smart_beta.md) ETFs and tra
 ## Major Players and Examples
 There are several prominent players in the [Smart Beta](../s/smart_beta.md) ETF space. These companies have been pioneers in developing and [offering](../o/offering.md) [Smart Beta strategies](../s/smart_beta_strategies.md):
 
-- **Invesco**: [Invesco](https://www.invesco.com/us/financial-products/etfs/) offers a [range](../r/range.md) of [Smart Beta](../s/smart_beta.md) ETFs, including sector-specific and [factor](../f/factor.md)-based products.
-- **BlackRock's [iShares](../i/ishares.md)**: [iShares](https://www.ishares.com/us/products/etf-investments#!type=ishares&style=factor) provides various [Smart Beta](../s/smart_beta.md) ETFs that focus on factors like [value](../v/value.md), quality, and [momentum](../m/momentum.md).
-- **State Street Global Advisors (SSGA)**: [State Street](https://www.ssga.com/us/en/intermediary/etfs/fund-finder) has [Smart Beta](../s/smart_beta.md) ETFs under its SPDR brand, including multifactor and [sector ETFs](../s/sector_etfs.md).
-- **Vanguard**: [Vanguard](https://advisors.vanguard.com/investments/products?us-all=true&cid=all&intcmp=global-advisor-vanguardproductsview-all) offers [factor](../f/factor.md)-based ETFs such as [value](../v/value.md), [momentum](../m/momentum.md), and low [volatility](../v/volatility.md).
-- **Schwab**: [Schwab](https://www.schwab.com/etfs/schwab-etfs) provides [Smart Beta](../s/smart_beta.md) ETFs that focus on fundamentally [weighted](../w/weighted.md) strategies.
+- **Invesco**: Invesco offers a [range](../r/range.md) of [Smart Beta](../s/smart_beta.md) ETFs, including sector-specific and [factor](../f/factor.md)-based products.
+- **BlackRock's [iShares](../i/ishares.md)**: iShares provides various [Smart Beta](../s/smart_beta.md) ETFs that focus on factors like [value](../v/value.md), quality, and [momentum](../m/momentum.md).
+- **State Street Global Advisors (SSGA)**: State Street has [Smart Beta](../s/smart_beta.md) ETFs under its SPDR brand, including multifactor and [sector ETFs](../s/sector_etfs.md).
+- **Vanguard**: Vanguard offers [factor](../f/factor.md)-based ETFs such as [value](../v/value.md), [momentum](../m/momentum.md), and low [volatility](../v/volatility.md).
+- **Schwab**: Schwab provides [Smart Beta](../s/smart_beta.md) ETFs that focus on fundamentally [weighted](../w/weighted.md) strategies.
 
 Each of these firms has a [robust](../r/robust.md) lineup of [Smart Beta](../s/smart_beta.md) products catering to various investment needs and [risk profiles](../r/risk_profiles.md).
 

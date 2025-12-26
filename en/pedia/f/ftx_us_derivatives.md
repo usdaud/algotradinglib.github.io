@@ -1,5 +1,7 @@
 # FTX US Derivatives
 
+**Historical Note:** FTX and its U.S. subsidiary FTX US Derivatives filed for bankruptcy in November 2022 following a liquidity crisis and allegations of misuse of customer funds. The platform ceased operations and is undergoing bankruptcy proceedings. This article is maintained for historical reference only.
+
 FTX US [Derivatives](../d/derivatives.md) was a regulated cryptocurrency [exchange](../e/exchange.md) platform that specialized in [offering](../o/offering.md) a [range](../r/range.md) of [derivative](../d/derivative.md) products in the digital [asset](../a/asset.md) space. [Derivatives](../d/derivatives.md) are financial contracts whose [value](../v/value.md) is derived from an [underlying asset](../u/underlying_asset.md), such as a cryptocurrency. The platform aimed to provide institutional and retail investors with a secure and efficient venue for trading bespoke [derivative](../d/derivative.md) products. This comprehensive examination delves into the intricacies of FTX US [Derivatives](../d/derivatives.md), exploring its offerings, regulatory framework, technological stack, [market](../m/market.md) impact, and future prospects.
 
 ## Background and Introduction
@@ -28,7 +30,7 @@ FTX US [Derivatives](../d/derivatives.md) differentiated itself by [offering](..
 
 ## Regulatory Compliance
 
-Navigating the regulatory landscape in the United States posed challenges for any crypto-related venture. FTX US [Derivatives](../d/derivatives.md) was committed to complying with all applicable regulations to [offer](../o/offer.md) a secure [trading environment](../t/trading_environment.md). 
+Navigating the regulatory landscape in the United States posed challenges for any crypto-related venture. FTX US [Derivatives](../d/derivatives.md) was committed to complying with all applicable regulations to [offer](../o/offer.md) a secure [trading environment](../t/trading_environment.md).
 
 ### Commodity Futures Trading Commission (CFTC)
 
@@ -40,7 +42,7 @@ In states like New York, the BitLicense framework, enforced by the New York Stat
 
 ## Technological Stack
 
-The technological [infrastructure](../i/infrastructure.md) of FTX US [Derivatives](../d/derivatives.md) was designed to [handle](../h/handle.md) high-frequency trading with minimal latency, ensuring a seamless trading experience. 
+The technological [infrastructure](../i/infrastructure.md) of FTX US [Derivatives](../d/derivatives.md) was designed to [handle](../h/handle.md) high-frequency trading with minimal latency, ensuring a seamless trading experience.
 
 ### Matching Engine
 
@@ -80,7 +82,7 @@ FTX US [Derivatives](../d/derivatives.md) provided various educational resources
 
 ## Future Prospects
 
-Given the rapidly evolving nature of the cryptocurrency [market](../m/market.md) and regulatory landscape, FTX US [Derivatives](../d/derivatives.md) had to continuously innovate and adapt. 
+Given the rapidly evolving nature of the cryptocurrency [market](../m/market.md) and regulatory landscape, FTX US [Derivatives](../d/derivatives.md) had to continuously innovate and adapt.
 
 ### Expansion of Product Offerings
 
@@ -98,4 +100,4 @@ Continued investment in technology was crucial. Enhancements to the trading engi
 
 FTX US [Derivatives](../d/derivatives.md) carved out a crucial niche in the burgeoning field of cryptocurrency [derivatives](../d/derivatives.md), combining innovative product offerings with [robust](../r/robust.md) regulatory compliance and technological prowess. Its impact on [market](../m/market.md) [liquidity](../l/liquidity.md), innovation, and user experience positioned it as a formidable player in the crypto trading ecosystem. The platform's future hinged on its ability to adapt and evolve in response to regulatory and [market dynamics](../m/market_dynamics.md), paving the way for sustained growth and influence in the [financial markets](../f/financial_market.md).
 
-For more information, you can visit the [FTX website](https://ftx.us).
+Note.

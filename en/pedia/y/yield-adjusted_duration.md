@@ -7,8 +7,8 @@
 Before delving into the specifics of [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md), it's necessary to understand some fundamental concepts in [bond](../b/bond.md) [duration](../d/duration.md) metrics:
 
 - **[Macaulay Duration](../m/macaulay_duration.md)**: The [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)'s cash flows are received, measured in years. It helps in understanding the time at which the [value](../v/value.md) of cash flows from a [bond](../b/bond.md) [will](../w/will.md) repay the initial investment.
-  
-- **[Modified Duration](../m/modified_duration.md)**: A measure obtained by dividing the [Macaulay Duration](../m/macaulay_duration.md) by one plus the [yield](../y/yield.md) per period. It provides a better estimate of [price sensitivity](../p/price_sensitivity.md) by adjusting for the [bond](../b/bond.md)'s [yield](../y/yield.md). 
+
+- **[Modified Duration](../m/modified_duration.md)**: A measure obtained by dividing the [Macaulay Duration](../m/macaulay_duration.md) by one plus the [yield](../y/yield.md) per period. It provides a better estimate of [price sensitivity](../p/price_sensitivity.md) by adjusting for the [bond](../b/bond.md)'s [yield](../y/yield.md).
 
 [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) expands upon these metrics by taking into account the [yield curve](../y/yield_curve.md) and varying [interest rate](../i/interest_rate.md) scenarios more explicitly.
 
@@ -44,8 +44,7 @@ For portfolio managers, especially those who employ [algorithmic trading](../a/a
 
 Implementing [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) in [algorithmic trading](../a/algorithmic_trading.md) systems involves several steps:
 
-1. **Data [Acquisition](../a/acquisition.md)**: Acquire real-time and historical [bond](../b/bond.md) data, including prices, yields, and [yield](../y/yield.md) curves. It's advisable to source this data from reputable providers like [Bloomberg](https://www.bloomberg.com) or [Thomson Reuters](https://www.refinitiv.com). 
-
+1. **Data [Acquisition](../a/acquisition.md)**: Acquire real-time and historical [bond](../b/bond.md) data, including prices, yields, and [yield](../y/yield.md) curves. It's advisable to source this data from reputable providers like Bloomberg or Thomson Reuters.
 2. **Calculation Engine**: Develop a calculation engine capable of computing [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md). This engine should incorporate advanced financial libraries and algorithms to ensure precision and speed. Python libraries like [QuantLib](../q/quantlib.md) or PyAlgo can be useful.
 
 3. **Integration into [Trading Systems](../t/trading_systems.md)**: Integrate the calculation engine into the broader trading system. Ensure that the [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) metrics are accessible by the algorithms responsible for executing trades, [portfolio rebalancing](../p/portfolio_rebalancing.md), and [risk](../r/risk.md) assessment.
@@ -60,7 +59,7 @@ Implementing [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) in [al
 
 #### Data Quality and Latency
 
-High-quality, low-latency data is essential for accurate [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) calculations. Poor data can lead to erroneous metrics and suboptimal trading decisions. 
+High-quality, low-latency data is essential for accurate [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) calculations. Poor data can lead to erroneous metrics and suboptimal trading decisions.
 
 #### Computational Complexity
 
@@ -80,7 +79,7 @@ Use [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) metrics to dyna
 
 #### Spread Trading
 
-Implement [spread trading](../s/spread_trading.md) strategies that exploit differences in [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) between different bonds or [bond](../b/bond.md) markets. 
+Implement [spread trading](../s/spread_trading.md) strategies that exploit differences in [Yield](../y/yield.md)-Adjusted [Duration](../d/duration.md) between different bonds or [bond](../b/bond.md) markets.
 
 ### Conclusion
 

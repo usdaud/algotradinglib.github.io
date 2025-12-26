@@ -71,7 +71,7 @@ def vector_moving_average(data, q):
     [return](../r/return.md) vma
 
 # Example Usage
-data = pd.DataFrame({
+data = pd.DataFrame{
     'asset1': np.random.randn(100),
     'asset2': np.random.randn(100),
     'asset3': np.random.randn(100)
@@ -86,11 +86,11 @@ print(vma_df.head(10))
 
 ### Renaissance Technologies
 
-One of the pioneers in the use of such sophisticated techniques is Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. Renaissance Technologies employs a variety of advanced statistical methods, including VMAs, to analyze vast amounts of data and execute trades at high frequencies. You can learn more about their approach [here](https://www.rentec.com/).
+One of the pioneers in the use of such sophisticated techniques is Renaissance Technologies, a [hedge fund](../h/hedge_fund.md) known for its [quantitative trading](../q/quantitative_trading.md) strategies. Renaissance Technologies employs a variety of advanced statistical methods, including VMAs, to analyze vast amounts of data and execute trades at high frequencies. You can learn more about their approach here.
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management is another renowned [firm](../f/firm.md) that relies heavily on quantitative methods. They employ VMAs in their multi-[asset](../a/asset.md) investment strategies to capture trends and correlations across diverse [asset](../a/asset.md) classes. For more insights into their strategies, visit [AQR Capital Management](https://www.aqr.com/).
+AQR [Capital](../c/capital.md) Management is another renowned [firm](../f/firm.md) that relies heavily on quantitative methods. They employ VMAs in their multi-[asset](../a/asset.md) investment strategies to capture trends and correlations across diverse [asset](../a/asset.md) classes. For more insights into their strategies, visit AQR Capital Management.
 
 ## Challenges and Considerations
 
@@ -127,4 +127,3 @@ The integration of [big data analytics](../b/big_data_analytics_in_trading.md) w
 ## Conclusion
 
 The Vector Moving Average is an advanced and powerful tool in the arsenal of quantitative traders. By extending the traditional moving average to a vector space, VMAs allow for more sophisticated analysis of multi-dimensional data. Despite their complexity, the benefits of using VMAs in multi-[asset](../a/asset.md) strategies, [risk management](../r/risk_management.md), and high-frequency trading are substantial. As computational power and data availability continue to grow, the application of VMAs [will](../w/will.md) likely expand further, [offering](../o/offering.md) new opportunities and challenges in [algorithmic trading](../a/algorithmic_trading.md).
-

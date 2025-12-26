@@ -2,7 +2,7 @@
 
 Non-Directional [Options](../o/options.md) Strategies refer to a set of [options](../o/options.md) trading techniques that aim to [profit](../p/profit.md) from the movement of an [asset](../a/asset.md) without the need to predict the direction of its price. This is particularly useful in markets that are expected to exhibit less [volatility](../v/volatility.md) or are perceived to be [neutral](../n/neutral.md). Unlike directional strategies, which rely on price movement in a specific direction (up or down), non-directional strategies benefit from the characteristics of [options](../o/options.md) contracts such as decay, [volatility](../v/volatility.md), and price [range](../r/range.md).
 
-## Key Concepts 
+## Key Concepts
 
 ### Options Basics
 An [options contract](../o/options_contract.md) is a financial [derivative](../d/derivative.md) that gives the holder the right, but not the obligation, to buy ([call option](../c/call_option.md)) or sell ([put option](../p/put.md)) an [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md) before or at expiration. Traders use [options](../o/options.md) for various strategies that either anticipate price movement (directional) or do not require [forecasting](../f/forecasting.md) a specific price [trend](../t/trend.md) (non-directional).
@@ -57,18 +57,18 @@ Diagonal [Spreads](../s/spreads.md) are similar to Calendar [Spreads](../s/sprea
 [Gamma Scalping](../g/gamma_scalping.md) involves dynamically trading the [underlying asset](../u/underlying_asset.md) in response to changes in the [delta](../d/delta.md) of the [options](../o/options.md) portfolio. This is comprehensive and requires real-time position adjustments, aiming to capture profits from [volatility](../v/volatility.md) and [time decay](../t/time_decay.md).
 
 ### Box Spread
-A [Box Spread](../b/box_spread.md) is a [risk](../r/risk.md)-free [arbitrage](../a/arbitrage.md) strategy often used by advanced traders. It involves constructing a “synthetic long stock” by buying a call and selling a put (with the same strike and expiration), combined with constructing a “synthetic short stock” by selling a call and buying a put (at a different strike but the same expiration). 
+A [Box Spread](../b/box_spread.md) is a [risk](../r/risk.md)-free [arbitrage](../a/arbitrage.md) strategy often used by advanced traders. It involves constructing a “synthetic long stock” by buying a call and selling a put (with the same strike and expiration), combined with constructing a “synthetic short stock” by selling a call and buying a put (at a different strike but the same expiration).
 
 ## Tools and Software for Non-Directional Trading
 
 ### Trading Platforms
-Platforms like [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) ([TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)) and [Interactive Brokers](../i/interactive_brokers.md)’ [Trader](../t/trader.md) Workstation ([Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4985)) [offer](../o/offer.md) advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional [options](../o/options.md) trades.
+Platforms like [Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md) (TD Ameritrade) and [Interactive Brokers](../i/interactive_brokers.md)’ [Trader](../t/trader.md) Workstation (Interactive Brokers) [offer](../o/offer.md) advanced tools for [backtesting](../b/backtesting.md), analyzing, and executing non-directional [options](../o/options.md) trades.
 
 ### Options Analytics Software
-Software such as OptionVue ([OptionVue](https://www.optionvue.com/)) and OptionsPlay ([OptionsPlay](https://www.optionsplay.com/)) provides sophisticated analytics, [Greeks](../g/greeks.md) calculations, and strategy simulations to help traders plan and manage their [options](../o/options.md) positions.
+Software such as OptionVue (OptionVue) and OptionsPlay (OptionsPlay) provides sophisticated analytics, [Greeks](../g/greeks.md) calculations, and strategy simulations to help traders plan and manage their [options](../o/options.md) positions.
 
 ### Risk Management Tools
-[Risk management](../r/risk_management.md) tools are crucial for [non-directional trading](../n/non-directional_trading.md). Platforms like Orats ([Orats](https://orats.com/)) [offer](../o/offer.md) high-level analytics for [option Greeks](../o/option_greeks.md), [backtesting](../b/backtesting.md), and optimizing strategies with [robust](../r/robust.md) [risk management](../r/risk_management.md) features.
+[Risk management](../r/risk_management.md) tools are crucial for [non-directional trading](../n/non-directional_trading.md). Platforms like Orats (Orats) [offer](../o/offer.md) high-level analytics for [option Greeks](../o/option_greeks.md), [backtesting](../b/backtesting.md), and optimizing strategies with [robust](../r/robust.md) [risk management](../r/risk_management.md) features.
 
 ## Conclusion
 Non-Directional [Options](../o/options.md) Strategies are versatile trading techniques that [offer](../o/offer.md) unique opportunities to [profit](../p/profit.md) from the [market](../m/market.md) without needing to predict price direction. Although they can be complex, with proper understanding and application of key concepts like [time decay](../t/time_decay.md), implied [volatility](../v/volatility.md), and strategic adjustments, traders can effectively manage risks and exploit [market](../m/market.md) conditions. Utilizing advanced trading platforms and analytics software further empowers traders to execute these strategies efficiently.

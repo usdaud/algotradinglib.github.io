@@ -82,16 +82,16 @@ For actively managed funds, understanding the experience and track record of the
 ## Leading Growth and Income Funds
 
 ### 1. **Vanguard Wellesley Income Fund (VWINX)**
-The Vanguard Wellesley [Income Fund](../i/income_fund.md) is one of the most well-known Growth and [Income](../i/income.md) Funds, focusing on high-quality bonds and [income](../i/income.md)-producing [stocks](../s/stock.md). The [fund](../f/fund.md) aims to provide long-term growth of [capital](../c/capital.md) and a moderate level of [income](../i/income.md). [Visit Vanguard](https://investor.vanguard.com/mutual-funds/profile/VWINX)
+The Vanguard Wellesley [Income Fund](../i/income_fund.md) is one of the most well-known Growth and [Income](../i/income.md) Funds, focusing on high-quality bonds and [income](../i/income.md)-producing [stocks](../s/stock.md). The [fund](../f/fund.md) aims to provide long-term growth of [capital](../c/capital.md) and a moderate level of [income](../i/income.md). Visit Vanguard
 
 ### 2. **American Funds Capital Income Builder (CAIBX)**
-This [fund](../f/fund.md) seeks to provide a level of current [income](../i/income.md) that exceeds the average [yield](../y/yield.md) on U.S. [stocks](../s/stock.md). It also focuses on increasing the [value](../v/value.md) of [capital](../c/capital.md). The portfolio includes a mix of U.S. and non-U.S. [stocks](../s/stock.md) and bonds. [Visit American Funds](https://www.americanfunds.com/funds/details/CIB)
+This [fund](../f/fund.md) seeks to provide a level of current [income](../i/income.md) that exceeds the average [yield](../y/yield.md) on U.S. [stocks](../s/stock.md). It also focuses on increasing the [value](../v/value.md) of [capital](../c/capital.md). The portfolio includes a mix of U.S. and non-U.S. [stocks](../s/stock.md) and bonds. Visit American Funds
 
 ### 3. **BlackRock Global Allocation Fund (MDLOX)**
-The BlackRock Global Allocation [Fund](../f/fund.md) aims to provide high total investment [return](../r/return.md). The [fund](../f/fund.md) invests globally in various [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), and cash. This diverse exposure helps in achieving both growth and [income](../i/income.md). [Visit BlackRock](https://www.blackrock.com/us/individual/products/239726/)
+The BlackRock Global Allocation [Fund](../f/fund.md) aims to provide high total investment [return](../r/return.md). The [fund](../f/fund.md) invests globally in various [asset](../a/asset.md) classes, including equities, [fixed income](../f/fixed_income.md), and cash. This diverse exposure helps in achieving both growth and [income](../i/income.md). Visit BlackRock
 
 ### 4. **T. Rowe Price Capital Appreciation Fund (PRWCX)**
-This [fund](../f/fund.md) targets long-term [capital](../c/capital.md) growth by [investing](../i/investing.md) in a diversified portfolio of [stocks](../s/stock.md) and bonds. It seeks to [offer](../o/offer.md) [income](../i/income.md) and potential for [capital](../c/capital.md) appreciation through strategic [asset allocation](../a/asset_allocation.md). [Visit T. Rowe Price](https://www.troweprice.com/personal-investing/tools/fund-research/PRWCX)
+This [fund](../f/fund.md) targets long-term [capital](../c/capital.md) growth by [investing](../i/investing.md) in a diversified portfolio of [stocks](../s/stock.md) and bonds. It seeks to [offer](../o/offer.md) [income](../i/income.md) and potential for [capital](../c/capital.md) appreciation through strategic [asset allocation](../a/asset_allocation.md). Visit T. Rowe Price
 
 ## Conclusion
 

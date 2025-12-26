@@ -42,7 +42,7 @@ Several factors can influence the movement of the twist spread, including:
 - **Economic Data**: Indicators like GDP growth, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) can impact [investor](../i/investor.md) expectations and [bond](../b/bond.md) yields.
 - **[Market Sentiment](../m/market_sentiment.md)**: Investors' [risk](../r/risk.md) appetite and expectations about future [interest](../i/interest.md) rates and [economic conditions](../e/economic_conditions.md) can lead to movements in the twist spread.
 
-## Applications in Algorithmic Trading 
+## Applications in Algorithmic Trading
 
 ### Automated Strategies
 
@@ -94,11 +94,11 @@ The COVID-19 pandemic had significant impacts on the global [economy](../e/econo
 
 Several companies and financial institutions specialize in [algorithmic trading](../a/algorithmic_trading.md), many of which have developed sophisticated models for trading twist [spreads](../s/spreads.md) and other fixed-[income](../i/income.md) strategies. These include:
 
-- **Hudson River Trading**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs advanced algorithms to [trade](../t/trade.md) across various [asset](../a/asset.md) classes, including fixed-[income](../i/income.md) securities. [Hudson River Trading](https://www.hudsontrading.com/)
-- **Jane Street**: A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses [quantitative analysis](../q/quantitative_analysis.md) and advanced technology to [trade](../t/trade.md) a wide [range](../r/range.md) of financial instruments. [Jane Street](https://www.janestreet.com/)
-- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md), distributed computing, and massive datasets to develop [trading strategies](../t/trading_strategies.md), including fixed-[income](../i/income.md) and twist [spreads](../s/spreads.md). [Two Sigma](https://www.twosigma.com/)
-- **Citadel Securities**: A leading [market maker](../m/market_maker.md) with expertise in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. [Citadel Securities](https://www.citadelsecurities.com/)
-- **Virtu Financial**: A global financial technology [firm](../f/firm.md) that provides [liquidity](../l/liquidity.md) and [execution](../e/execution.md) services, utilizing advanced algorithms to [trade](../t/trade.md) equities, [fixed income](../f/fixed_income.md), and other [asset](../a/asset.md) classes. [Virtu Financial](https://www.virtu.com/)
+- **Hudson River Trading**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that employs advanced algorithms to [trade](../t/trade.md) across various [asset](../a/asset.md) classes, including fixed-[income](../i/income.md) securities. Hudson River Trading
+- **Jane Street**: A global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that uses [quantitative analysis](../q/quantitative_analysis.md) and advanced technology to [trade](../t/trade.md) a wide [range](../r/range.md) of financial instruments. Jane Street
+- **Two Sigma**: A technology-driven [hedge fund](../h/hedge_fund.md) that utilizes [machine learning](../m/machine_learning.md), distributed computing, and massive datasets to develop [trading strategies](../t/trading_strategies.md), including fixed-[income](../i/income.md) and twist [spreads](../s/spreads.md). Two Sigma
+- **Citadel Securities**: A leading [market maker](../m/market_maker.md) with expertise in [algorithmic trading](../a/algorithmic_trading.md) and [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. Citadel Securities
+- **Virtu Financial**: A global financial technology [firm](../f/firm.md) that provides [liquidity](../l/liquidity.md) and [execution](../e/execution.md) services, utilizing advanced algorithms to [trade](../t/trade.md) equities, [fixed income](../f/fixed_income.md), and other [asset](../a/asset.md) classes. Virtu Financial
 
 ## Conclusion
 

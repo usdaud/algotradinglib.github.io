@@ -71,10 +71,9 @@ The implementation of multi-period [optimization](../o/optimization.md) offers v
 
 Several platforms and companies provide tools and solutions for multi-period [optimization](../o/optimization.md). For example:
 
-- **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) and research platform, catering to multi-period [optimization](../o/optimization.md) needs. [QuantConnect](https://www.quantconnect.com)
-- **Quantitative Brokers**: Specializes in [execution algorithms](../e/execution_algorithms.md) using multi-period [optimization](../o/optimization.md) techniques to enhance [trading performance](../t/trading_performance.md). [Quantitative Brokers](https://www.quantitativebrokers.com)
+- **[QuantConnect](../q/quantconnect.md)**: Offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) and research platform, catering to multi-period [optimization](../o/optimization.md) needs. QuantConnect
+- **Quantitative Brokers**: Specializes in [execution algorithms](../e/execution_algorithms.md) using multi-period [optimization](../o/optimization.md) techniques to enhance [trading performance](../t/trading_performance.md). Quantitative Brokers
 
 ## Summary
 
 Multi-period [optimization](../o/optimization.md) is an advanced framework that enhances the decision-making process in investment and trading. It incorporates dynamics and intertemporality, providing [robust](../r/robust.md) solutions to balance [risk](../r/risk.md) and [return](../r/return.md) over extended horizons. This method is crucial for sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies and practical [portfolio management](../p/portfolio_management.md).
-

@@ -26,25 +26,21 @@ Several firms dominate the [wirehouse](../w/wirehouse.md) brokerage space, and t
 
 [Merrill Lynch](../m/merrill_lynch.md), now a division of [Bank](../b/bank.md) of America, is one of the most well-known [wirehouse](../w/wirehouse.md) brokers. Founded in 1914, it has become a major player in [wealth management](../w/wealth_management.md) and financial advisory services.
 
-- Website: [Merrill Lynch](https://www.ml.com/)
 
 ### Morgan Stanley
 
 Morgan Stanley is another significant player, [offering](../o/offering.md) a wide array of [investment banking](../i/investment_banking.md), securities, [wealth management](../w/wealth_management.md), and [investment management](../i/investment_management.md) services. The [firm](../f/firm.md) has a [robust](../r/robust.md) presence in both institutional and retail financial services.
 
-- Website: [Morgan Stanley](https://www.morganstanley.com/)
 
 ### UBS Financial Services
 
 [UBS](../u/ubs.md) Financial Services is the U.S. based arm of the Swiss multinational investment [bank](../b/bank.md) and financial services company [UBS](../u/ubs.md) Group AG. It offers [wealth management](../w/wealth_management.md), [asset management](../a/asset_management.md), and [investment banking](../i/investment_banking.md) services.
 
-- Website: [UBS](https://www.ubs.com/)
 
 ### Wells Fargo Advisors
 
 Wells Fargo Advisors is the investment and brokerage unit of Wells Fargo & Company. It offers a full [range](../r/range.md) of financial advisory services, investment products, and banking services.
 
-- Website: [Wells Fargo Advisors](https://www.wellsfargoadvisors.com/)
 
 ## Services Offered
 

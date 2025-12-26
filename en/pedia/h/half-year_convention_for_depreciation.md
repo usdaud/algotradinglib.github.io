@@ -5,13 +5,13 @@ The Half-Year Convention for [Depreciation](../d/depreciation.md) is a specific 
 ### Key Concepts of Half-Year Convention:
 
 1. **[Depreciation](../d/depreciation.md) Context**:
-   [Depreciation](../d/depreciation.md) is an [accounting method](../a/accounting_method.md) of allocating the cost of a tangible or physical [asset](../a/asset.md) over its [useful life](../u/useful_life.md). Companies use [depreciation](../d/depreciation.md) for [accounting](../a/accounting.md) purposes to match the [expense](../e/expense.md) of an [asset](../a/asset.md) to the revenues that the [asset](../a/asset.md) helps the company earn. [Depreciation](../d/depreciation.md) affects the [balance sheet](../b/balance_sheet.md), [income statement](../i/income_statement.md), and even tax liabilities.
+ [Depreciation](../d/depreciation.md) is an [accounting method](../a/accounting_method.md) of allocating the cost of a tangible or physical [asset](../a/asset.md) over its [useful life](../u/useful_life.md). Companies use [depreciation](../d/depreciation.md) for [accounting](../a/accounting.md) purposes to match the [expense](../e/expense.md) of an [asset](../a/asset.md) to the revenues that the [asset](../a/asset.md) helps the company earn. [Depreciation](../d/depreciation.md) affects the [balance sheet](../b/balance_sheet.md), [income statement](../i/income_statement.md), and even tax liabilities.
 
 2. **Modified Accelerated Cost Recovery System (MACRS)**:
-   MACRS is the primary method of [depreciation](../d/depreciation.md) for [federal income](../f/federal_income.md) tax purposes in the United States. Under MACRS, the IRS defined different classes for various types of property, which determine the period over which an [asset](../a/asset.md) is depreciated. There are generally 3, 5, 7, 10, 15, and 20-year property classes, among others.
+ MACRS is the primary method of [depreciation](../d/depreciation.md) for [federal income](../f/federal_income.md) tax purposes in the United States. Under MACRS, the IRS defined different classes for various types of property, which determine the period over which an [asset](../a/asset.md) is depreciated. There are generally 3, 5, 7, 10, 15, and 20-year property classes, among others.
 
 3. **Half-Year Convention**:
-   Under the Half-Year Convention, any [asset](../a/asset.md) placed in service or disposed of during a given tax year is considered to have been placed in service or disposed of at the midpoint of that tax year. This way, regardless of the exact [acquisition](../a/acquisition.md) or disposal date, the [depreciation](../d/depreciation.md) [expense](../e/expense.md) for the first and last year of service is half of what it otherwise would be if a full year of [depreciation](../d/depreciation.md) were allowed.
+ Under the Half-Year Convention, any [asset](../a/asset.md) placed in service or disposed of during a given tax year is considered to have been placed in service or disposed of at the midpoint of that tax year. This way, regardless of the exact [acquisition](../a/acquisition.md) or disposal date, the [depreciation](../d/depreciation.md) [expense](../e/expense.md) for the first and last year of service is half of what it otherwise would be if a full year of [depreciation](../d/depreciation.md) were allowed.
 
 ### Application of Half-Year Convention in Depreciation Calculation:
 
@@ -25,27 +25,26 @@ When using the Half-Year Convention, the calculation for the [depreciation](../d
 Assume a company acquires a piece of equipment costing $10,000, with a [useful life](../u/useful_life.md) of 5 years, and it falls under the 5-year property class under MACRS. Under the Half-Year Convention, the [depreciation](../d/depreciation.md) [expense](../e/expense.md) would be calculated as follows:
 
 - **Year 1:**
-  - Annual [Depreciation](../d/depreciation.md) = (Cost of [Asset](../a/asset.md) / [Useful Life](../u/useful_life.md))
-  - = $10,000 / 5
-  - = $2,000
-  - Half-Year [Depreciation](../d/depreciation.md) = $2,000 * 0.5
-  - = $1,000
+ - Annual [Depreciation](../d/depreciation.md) = (Cost of [Asset](../a/asset.md) / [Useful Life](../u/useful_life.md))
+ - = $10,000 / 5
+ - = $2,000
+ - Half-Year [Depreciation](../d/depreciation.md) = $2,000 * 0.5
+ - = $1,000
 
 - **Years 2 to 4:**
-  - Full Annual [Depreciation](../d/depreciation.md) = $2,000
+ - Full Annual [Depreciation](../d/depreciation.md) = $2,000
 
 - **Year 5:**
-  - Full Annual [Depreciation](../d/depreciation.md) = $2,000
-  - Half-Year [Depreciation](../d/depreciation.md) = $2,000 * 0.5
-  - = $1,000
+ - Full Annual [Depreciation](../d/depreciation.md) = $2,000
+ - Half-Year [Depreciation](../d/depreciation.md) = $2,000 * 0.5
+ - = $1,000
 
 ### Regulatory and Compliance
 
 #### Internal Revenue Service (IRS):
 
 The IRS sets forth the guidelines and regulations for the use of [depreciation](../d/depreciation.md) methods, including the Half-Year Convention, within the context of MACRS. The following IRS publications can be particularly useful:
-- **Publication 946, How to Depreciate Property** (https://www.irs.gov/forms-pubs/about-publication-946)
-
+- **Publication 946, How to Depreciate Property**
 ### Advantages of the Half-Year Convention:
 
 1. **Simplification**: It simplifies the calculation process by standardizing the period over which [depreciation](../d/depreciation.md) is calculated, eliminating the complexities that arise from calculating exact partial year [depreciation](../d/depreciation.md).
@@ -63,10 +62,7 @@ The IRS sets forth the guidelines and regulations for the use of [depreciation](
 #### Accounting Software:
 
 Modern [accounting](../a/accounting.md) software often includes features that automate the calculation of [depreciation](../d/depreciation.md), including support for the Half-Year Convention. Examples include:
-- **QuickBooks** (https://quickbooks.intuit.com)
-- **Sage Intacct** (https://www.sageintacct.com)
-- **Xero** (https://www.xero.com)
-
+- **QuickBooks** - **Sage Intacct** - **Xero**
 These programs are designed to [handle](../h/handle.md) various [depreciation](../d/depreciation.md) methods, including straight-line, declining balance, and MACRS, simplifying compliance and reporting.
 
 #### Integration with Financial Planning:

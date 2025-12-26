@@ -39,17 +39,17 @@ This includes disclosures about the effectiveness of the company’s [internal c
 Updates on any significant ongoing legal proceedings or new legal challenges faced by the company.
 
 ### 6. Risk Factors
-A review of [risk factors](../r/risk_factors_in_trading.md) that could potentially impact the company’s [business](../b/business.md) operations, financial condition, and future performance. 
+A review of [risk factors](../r/risk_factors_in_trading.md) that could potentially impact the company’s [business](../b/business.md) operations, financial condition, and future performance.
 
 ## Example Companies
 
-### Apple Inc. [Apple SEC Filings](https://investor.apple.com/sec-filings/default.aspx)
+### Apple Inc. Apple SEC Filings
 Apple Inc., a multinational technology company, aligns with SEC rules by submitting its 10-Q each quarter. Their 10-Q provides a close examination of sales from hardware (iPhones, MacBooks, etc.), software and services (iCloud, Apple Music), and geographical [revenue](../r/revenue.md) [distribution](../d/distribution.md). The MD&A section offers Apple's insights on product innovation, [market](../m/market.md) competitiveness, and [supply chain](../s/supply_chain.md) challenges.
 
-### Microsoft Corporation [Microsoft SEC Filings](https://www.microsoft.com/investor/reports/ar22/index.html)
+### Microsoft Corporation Microsoft SEC Filings
 Microsoft [Corporation](../c/corporation.md), a leader in software, services, devices, and solutions, provides detailed 10-Q filings. These include breakdowns of [revenue](../r/revenue.md) by product segment (e.g., Office products, LinkedIn, Azure) and geographical regions. Their MD&A section often explores trends in [cloud computing](../c/cloud_computing_in_trading.md), AI advancements, and the impact of global [economic conditions](../e/economic_conditions.md) on [business](../b/business.md) operations.
 
-### Amazon.com, Inc. [Amazon SEC Filings](https://ir.aboutamazon.com/sec-filings/default.aspx)
+### Amazon.com, Inc. Amazon SEC Filings
 Amazon.com, Inc., as a global e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) giant, uses its 10-Q to report extensive details about its diverse [business](../b/business.md) segments, such as online retail, AWS, and subscription services. The MD&A sections delve into extensive analysis on factors influencing sales, [infrastructure](../i/infrastructure.md) investments, and competitive pressures.
 
 ## Importance for AlgoTrading

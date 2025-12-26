@@ -86,13 +86,13 @@ Regulation W may influence the strategic decisions of banks, particularly in ter
 
 JPMorgan Chase, one of the largest banks in the United States, provides a notable example of compliance with Regulation W. The [bank](../b/bank.md) has established comprehensive [internal controls](../i/internal_controls.md) and governance frameworks to manage affiliate transactions. This includes regular audits, detailed documentation, and active board oversight. By adhering to Regulation W, JPMorgan Chase mitigates risks associated with affiliate transactions and maintains regulatory compliance.
 
-For more information on JPMorgan Chase's [corporate governance](../c/corporate_governance.md) and compliance practices, visit their [official website](https://www.jpmorganchase.com/).
+For more information on JPMorgan Chase's [corporate governance](../c/corporate_governance.md) and compliance practices,
 
 ### Example: Citibank
 
 Citibank, another prominent financial institution, has developed [robust](../r/robust.md) systems to comply with Regulation W. The [bank](../b/bank.md) employs advanced monitoring tools to track affiliate transactions and ensure adherence to quantitative limits and [collateral](../c/collateral.md) requirements. Citibank's compliance efforts are overseen by a dedicated compliance team and reviewed by the board of directors.
 
-For more information on Citibank's compliance and governance initiatives, visit their [official website](https://www.citigroup.com/citi/).
+
 
 ## Conclusion
 

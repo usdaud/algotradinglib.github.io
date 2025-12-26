@@ -58,7 +58,7 @@ Jackknifing is a resampling technique where subsets of the data are systematical
 
 ### Example
 
-Suppose we want to estimate the bias and variance of the mean [return](../r/return.md) of a stock using jackknifing. 
+Suppose we want to estimate the bias and variance of the mean [return](../r/return.md) of a stock using jackknifing.
 
 ```python
 [import](../i/import.md) numpy as np
@@ -165,5 +165,4 @@ While resampling techniques are excellent for model validation and improvement, 
 
 Resampling techniques are indispensable tools in the arsenal of modern traders and quantitative analysts. They provide [robust](../r/robust.md) frameworks for model validation, [risk management](../r/risk_management.md), and parameter estimation. By understanding and appropriately applying these techniques, traders can enhance the reliability and performance of their [trading strategies](../t/trading_strategies.md), ultimately leading to better decision-making and improved financial outcomes.
 
-For more information and practical resources regarding trading and [quantitative analysis](../q/quantitative_analysis.md), you can visit the websites of leading financial technology companies like [QuantConnect](https://www.quantconnect.com/) and [Kaggle](https://www.kaggle.com/learn/overview).
-
+For more information and practical resources regarding trading and [quantitative analysis](../q/quantitative_analysis.md), you can visit the websites of leading financial technology companies like QuantConnect and Kaggle.

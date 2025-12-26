@@ -7,19 +7,19 @@
 [Yield](../y/yield.md) typically refers to the [earnings](../e/earnings.md) generated and realized on an investment over a particular period, expressed as a percentage. Different types of [yield](../y/yield.md) can be considered, such as [current yield](../c/current_yield.md), [yield to maturity](../y/yield_to_maturity.md) (YTM), and [dividend yield](../d/dividend_yield.md). The [yield](../y/yield.md) is calculated through various methods depending on the type of investment:
 
 - **[Current Yield](../c/current_yield.md)**: Often used for bonds, it is the annual [income](../i/income.md) ([interest](../i/interest.md) or dividends) divided by the current price of the investment.
-    ```markdown
-    [Current Yield](../c/current_yield.md) = (Annual [Income](../i/income.md) / Current Price) * 100
-    ```
+ ```markdown
+ [Current Yield](../c/current_yield.md) = (Annual [Income](../i/income.md) / Current Price) * 100
+ ```
 
 - **[Yield to Maturity](../y/yield_to_maturity.md) (YTM)**: This measures the [annual return](../a/annual_return.md) an [investor](../i/investor.md) can expect if a [bond](../b/bond.md) is held until it matures. It considers the [bond](../b/bond.md)’s current [market price](../m/market_price.md), [par value](../p/par_value.md), coupon [interest rate](../i/interest_rate.md), and the time to [maturity](../m/maturity.md).
-    ```markdown
-    [Yield to Maturity](../y/yield_to_maturity.md) = [(Coupon Payment) + (([Face Value](../f/face_value.md) - Current Price)/ Years to [Maturity](../m/maturity.md))] / [(Current Price + [Face Value](../f/face_value.md))/2]
-    ```
+ ```markdown
+ [Yield to Maturity](../y/yield_to_maturity.md) = [(Coupon Payment) + (([Face Value](../f/face_value.md) - Current Price)/ Years to [Maturity](../m/maturity.md))] / [(Current Price + [Face Value](../f/face_value.md))/2]
+ ```
 
 - **[Dividend Yield](../d/dividend_yield.md)**: Used for [stocks](../s/stock.md), it is the annual dividends per share divided by the price per share.
-    ```markdown
-    [Dividend Yield](../d/dividend_yield.md) = (Annual Dividends per Share / Price per Share) * 100
-    ```
+ ```markdown
+ [Dividend Yield](../d/dividend_yield.md) = (Annual Dividends per Share / Price per Share) * 100
+ ```
 
 ## Risk Analysis
 
@@ -34,28 +34,28 @@
 Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quantify [risk](../r/risk.md):
 
 - **[Standard Deviation](../s/standard_deviation.md)**: Measures the [dispersion](../d/dispersion.md) of a set of data points from their mean. In [finance](../f/finance.md), it represents the investment's [volatility](../v/volatility.md).
-    ```markdown
-    [Standard Deviation](../s/standard_deviation.md) (σ) = sqrt[(Σ(xi - μ)²) / N]
-    ```
+ ```markdown
+ [Standard Deviation](../s/standard_deviation.md) (σ) = sqrt[(Σ(xi - μ)²) / N]
+ ```
 
 - **[Beta Coefficient](../b/beta_coefficient.md)**: Used in the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM), this measures a stock's [volatility](../v/volatility.md) relative to the overall [market](../m/market.md).
-    ```markdown
-    [Beta](../b/beta.md) (β) = [Covariance](../c/covariance.md) (stock, [market](../m/market.md)) / Variance ([market](../m/market.md))
-    ```
+ ```markdown
+ [Beta](../b/beta.md) (β) = [Covariance](../c/covariance.md) (stock, [market](../m/market.md)) / Variance ([market](../m/market.md))
+ ```
 
 - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: Measures the potential loss in [value](../v/value.md) of an [asset](../a/asset.md) or portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
-    ```markdown
-    [Value](../v/value.md) at [Risk](../r/risk.md) = Initial Investment * Portfolio Deviation * [Z-Score](../z/z-score.md)
-    ```
+ ```markdown
+ [Value](../v/value.md) at [Risk](../r/risk.md) = Initial Investment * Portfolio Deviation * [Z-Score](../z/z-score.md)
+ ```
 
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: This measures the performance of an investment compared to a [risk-free asset](../r/risk-free_asset.md), after adjusting for [risk](../r/risk.md).
-    ```markdown
-    [Sharpe Ratio](../s/sharpe_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Standard Deviation](../s/standard_deviation.md) of Portfolio [Return](../r/return.md)
-    ```
+ ```markdown
+ [Sharpe Ratio](../s/sharpe_ratio.md) = (Mean Portfolio [Return](../r/return.md) - [Risk](../r/risk.md)-Free Rate) / [Standard Deviation](../s/standard_deviation.md) of Portfolio [Return](../r/return.md)
+ ```
 
 ## Applying Yield-Risk Analysis in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages computer programs to automate the process of trading financial instruments. In this domain, [yield](../y/yield.md)-[risk analysis](../r/risk_analysis.md) becomes a part of the broader strategy, focusing on optimizing returns while keeping risks within acceptable limits. 
+[Algorithmic trading](../a/algorithmic_trading.md) leverages computer programs to automate the process of trading financial instruments. In this domain, [yield](../y/yield.md)-[risk analysis](../r/risk_analysis.md) becomes a part of the broader strategy, focusing on optimizing returns while keeping risks within acceptable limits.
 
 ### Key Elements
 
@@ -73,23 +73,23 @@ Several metrics are employed in [risk analysis](../r/risk_analysis.md) to quanti
 
 - **Python/R**: These programming languages are widely used in [algorithmic trading](../a/algorithmic_trading.md) for data analysis and model development. Libraries such as NumPy, pandas, and scikit-learn are particularly useful.
 - **Trading Platforms**: [Interactive Brokers](../i/interactive_brokers.md), MetaTrader, and [QuantConnect](../q/quantconnect.md) provide environments for executing algorithmic strategies.
-    - [Interactive Brokers](https://www.interactivebrokers.com)
-    - [QuantConnect](https://www.quantconnect.com)
+ - Interactive Brokers
+ - QuantConnect
 - **[Risk Management](../r/risk_management.md) Software**: Tools like RiskMetrics, Barra, and [Bloomberg](../b/bloomberg.md) Terminal [offer](../o/offer.md) advanced [risk](../r/risk.md) analytics.
-    - [RiskMetrics](https://www.msci.com/riskmetrics)
-    - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - RiskMetrics
+ - Bloomberg Terminal
 
 ## Case Studies and Real-World Examples
 
 ### Renaissance Technologies
 
 Renaissance Technologies, one of the most famous [hedge](../h/hedge.md) funds, applies sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price changes in financial instruments. Their flagship Medallion [Fund](../f/fund.md) has achieved phenomenal returns by balancing [yield](../y/yield.md) against associated risks through advanced [quantitative models](../q/quantitative_models.md).
-- [Renaissance Technologies](https://www.rentec.com)
+- Renaissance Technologies
 
 ### Bridgewater Associates
 
 Bridgewater Associates, another leading [hedge fund](../h/hedge_fund.md), employs a diversified approach to [yield](../y/yield.md)-[risk analysis](../r/risk_analysis.md), integrating macroeconomic data with their systematic strategies to optimize returns while managing risks effectively.
-- [Bridgewater Associates](https://www.bridgewater.com)
+- Bridgewater Associates
 
 ## Conclusion
 

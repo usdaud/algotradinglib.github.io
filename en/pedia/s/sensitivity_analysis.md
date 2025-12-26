@@ -12,10 +12,10 @@ Sensitivity analysis is indispensable in [financial modeling](../f/financial_mod
 ### Types of Sensitivity Analysis
 
 1. **Local Sensitivity Analysis**:
-   Local sensitivity analysis examines the effect of small changes in input parameters on the output. This is usually performed by varying one parameter at a time while keeping others constant. It’s particularly useful for [linear models](../l/linear_models_in_trading.md) where parameters individually impact the output.
+ Local sensitivity analysis examines the effect of small changes in input parameters on the output. This is usually performed by varying one parameter at a time while keeping others constant. It’s particularly useful for [linear models](../l/linear_models_in_trading.md) where parameters individually impact the output.
 
 2. **Global Sensitivity Analysis**:
-   Global sensitivity analysis, on the other hand, evaluates the impact of varying all inputs simultaneously and over their entire [range](../r/range.md). Techniques used may include Monte Carlo simulations and other statistical [sampling](../s/sampling.md) methods. This approach is more comprehensive and is suitable for [non-linear models](../n/non-linear_models_in_trading.md) where interactions between inputs are complex.
+ Global sensitivity analysis, on the other hand, evaluates the impact of varying all inputs simultaneously and over their entire [range](../r/range.md). Techniques used may include Monte Carlo simulations and other statistical [sampling](../s/sampling.md) methods. This approach is more comprehensive and is suitable for [non-linear models](../n/non-linear_models_in_trading.md) where interactions between inputs are complex.
 
 ## Key Techniques in Sensitivity Analysis
 
@@ -39,7 +39,7 @@ Methods like ANOVA (Analysis of Variance) can be employed to attribute the varia
 
 ## Sensitivity Analysis in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), sensitivity analysis plays a vital role in model robustness and strategy [optimization](../o/optimization.md). Here's a closer look at its application:
+In [algorithmic trading](../a/algorithmic_trading.md), sensitivity analysis plays a vital role in model robustness and strategy [optimization](../o/optimization.md). Here's a closer look at its application:
 
 ### Risk Management
 - **[Value](../v/value.md)-at-[Risk](../r/risk.md) (VaR):** Sensitivity analysis can be used to determine how changes in [market](../m/market.md) [volatility](../v/volatility.md) or [asset](../a/asset.md) correlations can impact the [Value](../v/value.md)-at-[Risk](../r/risk.md) of a portfolio.
@@ -95,4 +95,4 @@ Despite its many advantages, sensitivity analysis comes with limitations and imp
 
 ## Conclusion
 
-Sensitivity analysis is a cornerstone technique in [financial modeling](../f/financial_modeling.md), [algorithmic trading](../a/accountability.md), and [risk management](../r/risk_management.md). By systematically analyzing how different factors impact financial outcomes, it equips traders, investors, and decision-makers with the insights necessary to navigate [uncertainty](../u/uncertainty_in_trading.md) and optimize performance. While it has its challenges, ongoing advancements in computational power and [software tools](../s/software_tools_for_trading.md) continue to enhance its applicability and robustness in various domains. For individuals and organizations looking to refine their financial strategies, understanding and effectively using sensitivity analysis is a critical competency.
+Sensitivity analysis is a cornerstone technique in [financial modeling](../f/financial_modeling.md), [algorithmic trading](../a/algorithmic_trading.md), and [risk management](../r/risk_management.md). By systematically analyzing how different factors impact financial outcomes, it equips traders, investors, and decision-makers with the insights necessary to navigate [uncertainty](../u/uncertainty_in_trading.md) and optimize performance. While it has its challenges, ongoing advancements in computational power and [software tools](../s/software_tools_for_trading.md) continue to enhance its applicability and robustness in various domains. For individuals and organizations looking to refine their financial strategies, understanding and effectively using sensitivity analysis is a critical competency.

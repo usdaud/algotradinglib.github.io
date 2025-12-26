@@ -77,6 +77,6 @@ Robo-advisors like Betterment and Wealthfront implement sophisticated algorithms
 The Sortino Ratio is an invaluable tool in the domain of [algorithmic trading](../a/algorithmic_trading.md), providing a more refined view of [risk](../r/risk.md)-adjusted performance by focusing exclusively on [downside risk](../d/downside_risk.md). It serves not only as a metric for evaluating and comparing [trading strategies](../t/trading_strategies.md) but also as a core component of [risk management](../r/risk_management.md) frameworks in sophisticated trading environments.
 
 For further exploration:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Betterment](https://www.betterment.com/)
-- [Wealthfront](https://www.wealthfront.com/)
+- Renaissance Technologies
+- Betterment
+- Wealthfront

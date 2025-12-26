@@ -36,17 +36,17 @@ Social sciences are a group of academic disciplines that examine society and the
 ## Research Methods
 
 1. **Quantitative Methods**
-   - Surveys and questionnaires
-   - Statistical analysis
-   - Experimental designs
+ - Surveys and questionnaires
+ - Statistical analysis
+ - Experimental designs
 
 2. **Qualitative Methods**
-   - Interviews
-   - Participant observation
-   - Case studies
+ - Interviews
+ - Participant observation
+ - Case studies
 
 3. **Mixed Methods**
-   - Combining quantitative and qualitative approaches
+ - Combining quantitative and qualitative approaches
 
 ## Key Concepts
 
@@ -60,39 +60,39 @@ Social sciences are a group of academic disciplines that examine society and the
 ## Applications
 
 1. **Policy Making**
-   - Informing government decisions and public policy
+ - Informing government decisions and public policy
 
 2. **[Business](../b/business.md) and Management**
-   - Understanding consumer behavior and organizational dynamics
+ - Understanding consumer behavior and organizational dynamics
 
 3. **Education**
-   - Developing teaching methods and curriculum design
+ - Developing teaching methods and curriculum design
 
 4. **Healthcare**
-   - Addressing public health issues and healthcare delivery
+ - Addressing public health issues and healthcare delivery
 
 5. **Social Work**
-   - Developing interventions for social problems
+ - Developing interventions for social problems
 
 6. **Urban Planning**
-   - Designing and managing urban spaces
+ - Designing and managing urban spaces
 
 ## Challenges and Debates
 
 1. **Objectivity vs. Subjectivity**
-   - Balancing scientific rigor with interpretive approaches
+ - Balancing scientific rigor with interpretive approaches
 
 2. **Ethical Considerations**
-   - Ensuring research respects human rights and privacy
+ - Ensuring research respects human rights and privacy
 
 3. **Replication Crisis**
-   - Addressing issues of reproducibility in research findings
+ - Addressing issues of reproducibility in research findings
 
 4. **Interdisciplinary Integration**
-   - Bridging [gaps](../g/gap.md) between different social science disciplines
+ - Bridging [gaps](../g/gap.md) between different social science disciplines
 
 5. **Cultural Bias**
-   - Recognizing and mitigating cultural biases in research
+ - Recognizing and mitigating cultural biases in research
 
 ## Impact on Society
 

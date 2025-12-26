@@ -48,17 +48,17 @@ In statistical [arbitrage](../a/arbitrage.md), [Z-Value](../z/z-value_in_trading
 ### QuantConnect
 [QuantConnect](../q/quantconnect.md) offers a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform where [Z-Value](../z/z-value_in_trading.md) analysis can be seamlessly integrated. The platform supports [multiple](../m/multiple.md) programming languages, such as Python and C#, facilitating the development and [backtesting](../b/backtesting.md) of sophisticated [trading algorithms](../t/trading_algorithms.md).
 
-Visit [QuantConnect](https://www.quantconnect.com/) for more details.
+Visit QuantConnect for more details.
 
 ### TradeStation
 [TradeStation](../t/tradestation.md) provides a [robust](../r/robust.md) suite of tools for traders, including advanced statistical analysis capabilities that encompass [Z-Value](../z/z-value_in_trading.md) computation. Traders can utilize these tools to enhance their strategic planning and [execution](../e/execution.md) processes.
 
-Explore more at [TradeStation](https://www.tradestation.com/).
+Explore more at TradeStation.
 
 ### MetaTrader
 MetaTrader, a widely used [trading platform](../t/trading_platform.md), incorporates various technical and statistical analysis tools. Traders can script custom indicators and strategies that [leverage](../l/leverage.md) [Z-Value](../z/z-value_in_trading.md) analysis to optimize their trading decisions.
 
-For more, [check](../c/check.md) [MetaTrader](https://www.metatrader4.com/).
+For more, [check](../c/check.md) MetaTrader.
 
 ## Challenges and Considerations
 

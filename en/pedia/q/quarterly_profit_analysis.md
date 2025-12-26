@@ -84,9 +84,8 @@ To illustrate how quarterly [profit](../p/profit.md) analysis can be applied, le
 Quarterly [profit](../p/profit.md) analysis is indispensable for understanding a company's [financial health](../f/financial_health.md) and making informed trading decisions. In the realm of algotrading, integrating quarterly [profit](../p/profit.md) data can substantively enhance the accuracy, [efficiency](../e/efficiency.md), and profitability of [trading algorithms](../t/trading_algorithms.md). Leveraging advanced tools and platforms to perform this analysis ensures that traders and investors remain well-equipped to navigate the complexities of the [financial markets](../f/financial_market.md).
 
 For further details and collaboration, visiting companies' official [finance](../f/finance.md) pages and integrating their data feeds can provide more granular insights:
-- **Apple Inc.** - [Apple Investor Relations](https://investor.apple.com/)
-- **[Yahoo Finance](../y/yahoo_finance.md)** - [Yahoo Finance](https://finance.yahoo.com/)
-- **[Bloomberg](../b/bloomberg.md) Terminal** - [Bloomberg Professional](https://www.bloomberg.com/professional/)
-- **Thomson [Reuters](../r/reuters.md) Eikon** - [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+- **[Yahoo Finance](../y/yahoo_finance.md)** - Yahoo Finance
+- **[Bloomberg](../b/bloomberg.md) Terminal** - Bloomberg Professional
+- **Thomson [Reuters](../r/reuters.md) Eikon** - Thomson Reuters Eikon
 
 By diligently applying quarterly [profit](../p/profit.md) analysis, traders can better position themselves to [capitalize](../c/capitalize.md) on [market](../m/market.md) opportunities and mitigate risks.

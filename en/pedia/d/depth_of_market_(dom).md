@@ -4,7 +4,7 @@ Depth of [Market](../m/market.md) (DOM), also referred to as the [order book](..
 
 ## The Basics of DOM
 
-DOM is structured as a table, typically divided into two sections: one for buy orders (bids) and the other for sell orders (asks or offers). 
+DOM is structured as a table, typically divided into two sections: one for buy orders (bids) and the other for sell orders (asks or offers).
 
 ### Bids
 - **Price**: The price at which buyers are willing to purchase the [security](../s/security.md).
@@ -20,9 +20,9 @@ DOM is structured as a table, typically divided into two sections: one for buy o
 ## Components of DOM
 
 1. **[Order Types](../o/order_types_in_trading.md)**:
-    - **Limit Orders**: Orders to buy or sell at a specific price or better. These orders stay in the [market](../m/market.md) until they are filled or canceled.
-    - **[Market](../m/market.md) Orders**: Orders to buy or sell immediately at the best available price. These do not show up in the DOM as they are executed instantaneously.
-    - **Stop Orders**: Orders that turn into [market](../m/market.md) orders when a specific [price level](../p/price_level.md) is reached.
+ - **Limit Orders**: Orders to buy or sell at a specific price or better. These orders stay in the [market](../m/market.md) until they are filled or canceled.
+ - **[Market](../m/market.md) Orders**: Orders to buy or sell immediately at the best available price. These do not show up in the DOM as they are executed instantaneously.
+ - **Stop Orders**: Orders that turn into [market](../m/market.md) orders when a specific [price level](../p/price_level.md) is reached.
 
 2. **Depth Levels**: This refers to the number of price levels displayed in the DOM. Most DOM displays show the top 5–20 levels on each side of the [market](../m/market.md), but some advanced systems may show deeper levels.
 
@@ -54,10 +54,10 @@ DOM is structured as a table, typically divided into two sections: one for buy o
 
 Various trading platforms and software provide detailed DOM information. Some of the most well-known tools include:
 
-- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced trading functionalities, including a detailed DOM interface. [NinjaTrader](https://ninjatrader.com)
-- **MetaTrader**: Primarily known for forex trading, MetaTrader offers [order book](../o/order_book.md) features through plugins. [MetaTrader](https://www.metatrader4.com)
-- **BookMap**: A visualization tool focused on DOM and [order flow analysis](../o/order_flow_analysis.md). [BookMap](https://bookmap.com)
-- **[CQG](../c/cqg.md)**: A professional-grade [trading platform](../t/trading_platform.md) with advanced DOM capabilities. [CQG](https://www.cqg.com)
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced trading functionalities, including a detailed DOM interface. NinjaTrader
+- **MetaTrader**: Primarily known for forex trading, MetaTrader offers [order book](../o/order_book.md) features through plugins. MetaTrader
+- **BookMap**: A visualization tool focused on DOM and [order flow analysis](../o/order_flow_analysis.md). BookMap
+- **[CQG](../c/cqg.md)**: A professional-grade [trading platform](../t/trading_platform.md) with advanced DOM capabilities. CQG
 
 ## How to Interpret DOM Data
 

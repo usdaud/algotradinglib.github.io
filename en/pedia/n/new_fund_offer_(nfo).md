@@ -111,8 +111,8 @@ ARK Invest, known for its innovative investment strategies, introduced the ARK S
 A New [Fund](../f/fund.md) [Offer](../o/offer.md) (NFO) offers investors a unique opportunity to participate in a new [mutual fund](../m/mutual_fund.md) scheme at its inception, often at a lower price per unit. While NFOs come with potential advantages like lower initial costs, new investment ideas, and professional management, they also carry certain risks such as uncertain performance and [market](../m/market.md) [volatility](../v/volatility.md). Therefore, investors should thoroughly review the [prospectus](../p/prospectus.md) and consider their [risk tolerance](../r/risk_tolerance.md) and investment objectives before participating in an NFO.
 
 For more information on specific NFOs, investors can visit the websites of prominent AMCs:
-- [Vanguard](https://investor.vanguard.com)
-- [SBI Mutual Fund](https://www.sbimf.com)
-- [ARK Invest](https://ark-invest.com)
+- Vanguard
+- SBI Mutual Fund
+- ARK Invest
 
 [Investing](../i/investing.md) in NFOs can be a rewarding experience if approached with informed decision-making and adequate knowledge of the associated risks and benefits.

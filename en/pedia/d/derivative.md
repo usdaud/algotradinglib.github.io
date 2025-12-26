@@ -67,18 +67,14 @@ Regulation of [derivatives](../d/derivatives.md) varies significantly by jurisdi
 
 ### 1. **CME Group**
 CME Group is the world's largest [financial derivatives](../f/financial_derivatives.md) [exchange](../e/exchange.md), [offering](../o/offering.md) a wide [range](../r/range.md) of derivative products for trading, including [futures](../f/futures.md) and [options](../o/options.md).
-[Visit CME Group](https://www.cmegroup.com/)
 
 ### 2. **International Swaps and Derivatives Association (ISDA)**
 ISDA is a [trade](../t/trade.md) organization of participants in the [market](../m/market.md) for [over-the-counter derivatives](../o/over-the-counter_derivatives.md).
-[Visit ISDA](https://www.isda.org/)
 
 ### 3. **Chicago Board Options Exchange (CBOE)**
 CBOE is the largest U.S. [options](../o/options.md) [exchange](../e/exchange.md) [offering](../o/offering.md) [options](../o/options.md) on various single [stocks](../s/stock.md), indexes, and [interest](../i/interest.md) rates.
-[Visit CBOE](https://www.cboe.com/)
 
 ### 4. **Intercontinental Exchange (ICE)**
 ICE operates global financial exchanges, [clearing](../c/clearing.md) houses, and data services across various markets, including [derivatives](../d/derivatives.md).
-[Visit Intercontinental Exchange](https://www.theice.com/)
 
 Understanding how [derivatives](../d/derivatives.md) work and the risks they involve is crucial for anyone involved in [financial markets](../f/financial_market.md). These instruments are powerful tools for both hedging and [speculation](../s/speculation.md), but they come with complexities and risks that require careful management.

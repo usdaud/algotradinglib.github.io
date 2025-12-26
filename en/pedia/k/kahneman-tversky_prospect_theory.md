@@ -43,12 +43,12 @@ Human behavior is dynamic; [stock market](../s/stock_market.md) participants' [h
 Several trading platforms and financial software companies have begun integrating [behavioral finance](../b/behavioral_finance.md) principles, including [Prospect Theory](../p/prospect_theory_in_trading.md), to enhance their [trading algorithms](../t/trading_algorithms.md):
 
 **Betterment:**
-[https://www.betterment.com](https://www.betterment.com)
+
 
 Betterment uses [behavioral finance](../b/behavioral_finance.md) principles to construct and manage personalized investment portfolios for clients. By understanding the psychological traits influencing human behavior, Betterment aims to mitigate irrational trading decisions clients might otherwise make instinctively.
 
 **Wealthfront:**
-[https://www.wealthfront.com](https://www.wealthfront.com)
+
 
 Wealthfront integrates behavioral insights to [offer](../o/offer.md) automated investment services that align more closely with how people perceive gains and losses, aiming to improve clients' investment experiences and outcomes.
 

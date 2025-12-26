@@ -25,14 +25,14 @@ In countries with high PDI, the hierarchical system is deep-rooted and accepted 
 #### Implications in Business and Organizations
 
 1. **Decision Making**:
-   - Centralized: Decisions are made by top management without much consultation with lower levels.
-   - Acceptance of directives: Employees accept decisions made by higher levels without questioning.
+ - Centralized: Decisions are made by top management without much consultation with lower levels.
+ - Acceptance of directives: Employees accept decisions made by higher levels without questioning.
 
 2. **[Leadership](../l/leadership.md) Styles**:
-   - Autocratic or paternalistic [leadership](../l/leadership.md): Leaders are expected to make decisions and subordinates comply without much input.
+ - Autocratic or paternalistic [leadership](../l/leadership.md): Leaders are expected to make decisions and subordinates comply without much input.
 
 3. **Communication**:
-   - Top-down communication: Information flows from the top down, and there is little [open](../o/open.md) and honest communication upwards.
+ - Top-down communication: Information flows from the top down, and there is little [open](../o/open.md) and honest communication upwards.
 
 ### Low PDI
 
@@ -41,14 +41,14 @@ In countries with low PDI, inequalities in power and [wealth](../w/wealth.md) ar
 #### Implications in Business and Organizations
 
 1. **Decision Making**:
-   - Decentralized: Decisions are made with input from [multiple](../m/multiple.md) levels within the organization.
-   - Collaborative: Employees at all levels participate in decision-making processes.
+ - Decentralized: Decisions are made with input from [multiple](../m/multiple.md) levels within the organization.
+ - Collaborative: Employees at all levels participate in decision-making processes.
 
 2. **[Leadership](../l/leadership.md) Styles**:
-   - Democratic or participative [leadership](../l/leadership.md): Leaders encourage input and feedback from subordinates and make decisions based on collective agreement.
+ - Democratic or participative [leadership](../l/leadership.md): Leaders encourage input and feedback from subordinates and make decisions based on collective agreement.
 
 3. **Communication**:
-   - [Open](../o/open.md) and horizontal communication: Information flows freely across all levels of the organization.
+ - [Open](../o/open.md) and horizontal communication: Information flows freely across all levels of the organization.
 
 ## Power Distance in Different Industries
 
@@ -58,9 +58,9 @@ The impact of PDI can vary significantly across different industries. For exampl
 
 The [technology sector](../t/technology_sector.md) often requires a low PDI culture to foster innovation and rapid problem-solving. Companies like Google and Apple, headquartered in low PDI countries like the USA, encourage a flat [organizational structure](../o/organizational_structure.md) where employees are empowered to make decisions, voice opinions, and contribute to the company's vision.
 
-- **Google's Work Culture**: Emphasizes a low PDI approach with [open](../o/open.md) communication channels, collaborative decision-making, and a relatively flat hierarchy. Employees are encouraged to challenge ideas and contribute creatively. (Source: [Google Careers](https://careers.google.com/))
+- **Google's Work Culture**: Emphasizes a low PDI approach with [open](../o/open.md) communication channels, collaborative decision-making, and a relatively flat hierarchy. Employees are encouraged to challenge ideas and contribute creatively. (Source: Google Careers)
 
-- **Apple's [Organizational Structure](../o/organizational_structure.md)**: While Apple maintains a more traditional hierarchy compared to Google, it still fosters an environment where innovation is encouraged and employees across levels are expected to provide input. (Source: [Apple](https://www.apple.com/jobs/us/))
+- **Apple's [Organizational Structure](../o/organizational_structure.md)**: While Apple maintains a more traditional hierarchy compared to Google, it still fosters an environment where innovation is encouraged and employees across levels are expected to provide input. (Source: Apple)
 
 ## Power Distance and National Culture
 
@@ -69,7 +69,7 @@ Hofstede’s PDI scores also show a fascinating [correlation](../c/correlation.m
 ### High PDI Countries
 
 1. **Malaysia**: In Malaysia's highly hierarchical society, respect for authority and elders is pervasive. In [business](../b/business.md), decision-making is centralized, and junior employees are expected to follow decisions without question.
-   
+
 2. **India**: India has a high PDI, reflecting its historical caste system and social stratification. Hierarchical structures are prevalent, and [business](../b/business.md) operations often involve significant deference to managerial positions.
 
 ### Low PDI Countries
@@ -91,7 +91,7 @@ PDI has profound implications on organizational behavior and [leadership](../l/l
 ### Organizational Behavior
 
 - **High PDI**: Employees may exhibit high loyalty to the organization and its [leadership](../l/leadership.md) but may be less innovative due to the fear of challenging the status quo.
-  
+
 - **Low PDI**: Employees are typically more willing to voice ideas and innovations but may require a more nuanced approach to conflict resolution due to the higher expectations of participative management.
 
 ## Limitations and Criticisms

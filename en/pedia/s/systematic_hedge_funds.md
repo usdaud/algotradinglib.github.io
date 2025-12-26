@@ -8,7 +8,7 @@ Systematic [hedge](../h/hedge.md) funds operate by employing algorithmic, or rul
 
 ### Technology and Infrastructure
 
-The core of a systematic [hedge fund](../h/hedge_fund.md) is its technological [infrastructure](../i/infrastructure.md). This includes high-speed computers, data storage solutions, and network systems that support the rapid processing of large datasets and the [execution](../e/execution.md) of trades. 
+The core of a systematic [hedge fund](../h/hedge_fund.md) is its technological [infrastructure](../i/infrastructure.md). This includes high-speed computers, data storage solutions, and network systems that support the rapid processing of large datasets and the [execution](../e/execution.md) of trades.
 
 Key components:
 1. **High-Frequency Trading (HFT) Systems**: These systems execute orders at extremely high speeds, often in milliseconds or microseconds.
@@ -27,22 +27,22 @@ Systematic [hedge](../h/hedge.md) funds rely on various data sources beyond conv
 
 Several firms have established themselves as leaders in the [systematic trading](../s/systematic_trading.md) space. The following companies are some of the most notable:
 
-1. **Two Sigma Investments**: [Official Website](https://www.twosigma.com/)
-   - Two Sigma uses a combination of [data science](../d/data_science_in_trading.md), technology, and systematic research to generate [trading strategies](../t/trading_strategies.md).
-2. **RenTech (Renaissance Technologies)**: [Official Website](https://www.rentec.com/)
-   - RenTech is famous for its Medallion [Fund](../f/fund.md), which has achieved remarkable returns through sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md).
-3. **DE Shaw & Co.**: [Official Website](https://www.deshaw.com/)
-   - This [firm](../f/firm.md) employs a multidisciplinary approach combining mathematics, computer science, and financial theory.
-4. **AQR [Capital](../c/capital.md) Management**: [Official Website](https://www.aqr.com/)
-   - AQR focuses on using empirical research across a wide array of investment strategies.
-5. **Millennium Management**: [Official Website](https://www.mlp.com/)
-   - Millennium utilizes a decentralized approach where autonomous teams implement their strategies within a quantitative framework.
-6. **Bridgewater Associates**: [Official Website](https://www.bridgewater.com/)
-   - Known for its macroeconomic and systematic strategies, founded by Ray Dalio.
+1. **Two Sigma Investments**:
+ - Two Sigma uses a combination of [data science](../d/data_science_in_trading.md), technology, and systematic research to generate [trading strategies](../t/trading_strategies.md).
+2. **RenTech (Renaissance Technologies)**:
+ - RenTech is famous for its Medallion [Fund](../f/fund.md), which has achieved remarkable returns through sophisticated [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+3. **DE Shaw & Co.**:
+ - This [firm](../f/firm.md) employs a multidisciplinary approach combining mathematics, computer science, and financial theory.
+4. **AQR [Capital](../c/capital.md) Management**:
+ - AQR focuses on using empirical research across a wide array of investment strategies.
+5. **Millennium Management**:
+ - Millennium utilizes a decentralized approach where autonomous teams implement their strategies within a quantitative framework.
+6. **Bridgewater Associates**:
+ - Known for its macroeconomic and systematic strategies, founded by Ray Dalio.
 
 ### Strategies Employed by Systematic Hedge Funds
 
-Systematic [hedge](../h/hedge.md) funds use various strategies differing in complexity and objectives. 
+Systematic [hedge](../h/hedge.md) funds use various strategies differing in complexity and objectives.
 
 #### Trend Following
 
@@ -70,7 +70,7 @@ Systematic [hedge](../h/hedge.md) funds use various strategies differing in comp
 
 #### Statistical Models and AI-Based Strategies
 
-Advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) [leverage](../l/leverage.md) statistical models and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) movements. 
+Advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) [leverage](../l/leverage.md) statistical models and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to predict [market](../m/market.md) movements.
 
 1. **[Machine Learning](../m/machine_learning.md) Models**: Utilizing supervised and unsupervised [learning algorithms](../l/learning_algorithms_in_trading.md) to identify patterns and make predictions.
 2. **[Neural Networks](../n/neural_networks_in_trading.md)**: Employing [deep learning](../d/deep_learning.md) techniques for complex [pattern recognition](../p/pattern_recognition.md).
@@ -78,7 +78,7 @@ Advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) [
 
 ## Regulatory and Ethical Considerations
 
-Systematic [hedge](../h/hedge.md) funds operate within regulatory frameworks that ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection. 
+Systematic [hedge](../h/hedge.md) funds operate within regulatory frameworks that ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection.
 
 ### Regulation
 

@@ -1,6 +1,6 @@
 # Identifiable Asset
 
-In the world of [finance](../f/finance.md), especially within sectors such as [accounting](../a/accounting.md), investment, and [trade](../t/trade.md), the term "identifiable [asset](../a/asset.md)" holds considerable importance. It represents an [asset](../a/asset.md) that can be clearly distinguished and separated from other assets, retaining an identifiable nature that makes it unique. These assets can be tangible or intangible and have significant relevance in mergers and acquisitions, financial reporting, and specific investment strategies, including [algorithmic trading](../a/accountability.md).
+In the world of [finance](../f/finance.md), especially within sectors such as [accounting](../a/accounting.md), investment, and [trade](../t/trade.md), the term "identifiable [asset](../a/asset.md)" holds considerable importance. It represents an [asset](../a/asset.md) that can be clearly distinguished and separated from other assets, retaining an identifiable nature that makes it unique. These assets can be tangible or intangible and have significant relevance in mergers and acquisitions, financial reporting, and specific investment strategies, including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Types of Identifiable Assets
 
@@ -44,11 +44,11 @@ Post-[merger](../m/merger.md), the integration of identifiable assets into the a
 
 ## Applicability in Algorithmic Trading
 
-Identifiable assets play an integral role in data-driven investment strategies such as [algorithmic trading](../a/accountability.md). Understanding the [valuation](../v/valuation.md) and movements of these assets allows for more accurate and efficient algorithm development.
+Identifiable assets play an integral role in data-driven investment strategies such as [algorithmic trading](../a/algorithmic_trading.md). Understanding the [valuation](../v/valuation.md) and movements of these assets allows for more accurate and efficient algorithm development.
 
 ### Data Utilization
 
-Algorithms [leverage](../l/leverage.md) data on identifiable assets like stock tickers (representing ownership in identifiable companies), [patent](../p/patent.md) filings (for intellectual property investments), and property valuations ([real estate](../r/real_estate.md) investments). 
+Algorithms [leverage](../l/leverage.md) data on identifiable assets like stock tickers (representing ownership in identifiable companies), [patent](../p/patent.md) filings (for intellectual property investments), and property valuations ([real estate](../r/real_estate.md) investments).
 
 ### Predictive Analytics
 
@@ -56,10 +56,10 @@ Algorithms [leverage](../l/leverage.md) data on identifiable assets like stock t
 
 ## Companies Specializing in Asset Identification
 
-1. **IBM**: [IBM Blockchain](https://www.ibm.com/blockchain) - IBM uses [blockchain](../b/blockchain_in_trading.md) to enhance the traceability and authentication of assets.
-2. **SAP**: [SAP Asset Intelligence Network](https://www.sap.com/products/asset-intelligence-network.html) - Offers solutions for [asset management](../a/asset_management.md) and tracking.
-3. **Oracle**: [Oracle Asset Tracking](https://www.oracle.com/applications/primavera/products/project-portfolio-management/asset-tracking/) - Provides technologies to manage and track assets across their lifecycle.
-4. **Deloitte**: [Deloitte Asset Management](https://www2.deloitte.com/global/en/pages/about-deloitte/articles/asset-management.html) - Consultancy services for managing and optimizing identifiable assets.
+1. **IBM**: IBM Blockchain - IBM uses [blockchain](../b/blockchain_in_trading.md) to enhance the traceability and authentication of assets.
+2. **SAP**: SAP Asset Intelligence Network - Offers solutions for [asset management](../a/asset_management.md) and tracking.
+3. **Oracle**: Oracle Asset Tracking - Provides technologies to manage and track assets across their lifecycle.
+4. **Deloitte**: Deloitte Asset Management - Consultancy services for managing and optimizing identifiable assets.
 
 ## Conclusion
 

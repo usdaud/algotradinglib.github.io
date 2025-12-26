@@ -16,7 +16,7 @@ A testamentary [trust](../t/trust.md) is distinct from living trusts (inter vivo
 
 The [genesis](../g/genesis.md) of a testamentary [trust](../t/trust.md) begins with the drafting of a [will](../w/will.md). The [will](../w/will.md) must explicitly state the intention to create a [trust](../t/trust.md) upon the testator’s death, delineating the particulars of the [trust](../t/trust.md)’s operation, including:
 
-- Selection of the [trustee](../t/trustee.md). 
+- Selection of the [trustee](../t/trustee.md).
 - Identification of beneficiaries.
 - Description of the [trust](../t/trust.md)’s assets.
 - The [distribution](../d/distribution.md) schedule and any conditions for beneficiaries.
@@ -31,7 +31,7 @@ The testamentary [trust](../t/trust.md) serves various purposes, [offering](../o
 - **Customized [Distribution](../d/distribution.md)**: Testamentary trusts can stipulate specific conditions, such as distributing assets upon reaching a certain age, achieving educational milestones, or other life events.
 - **Tax [Optimization](../o/optimization.md)**: Depending on the jurisdiction, testamentary trusts may provide tax benefits, including the deferral of [capital](../c/capital.md) gains and [income tax](../i/income_tax.md) splitting among beneficiaries.
 - **Protection from Creditors**: Assets placed in a testamentary [trust](../t/trust.md) may [offer](../o/offer.md) some protection against [creditor](../c/creditor.md) claims against the beneficiaries.
-  
+
 ## Legal Considerations
 
 Understanding the legal framework surrounding testamentary trusts is essential:
@@ -72,7 +72,7 @@ Upon the testator’s death, the [executor](../e/executor.md) of the [estate](..
 
 ## Professional Services and Resources
 
-Many financial and legal firms [offer](../o/offer.md) services to help individuals create testamentary trusts. Firms like [Fidelity](https://www.fidelity.com/), [Vanguard](https://investor.vanguard.com/), or legal advisory services like [LegalZoom](https://www.legalzoom.com/) and [Trust & Will](https://trustandwill.com/) provide tools and [guidance](../g/guidance.md) to draft bespoke [trust](../t/trust.md) documents.
+Many financial and legal firms [offer](../o/offer.md) services to help individuals create testamentary trusts. Firms like Fidelity, Vanguard, or legal advisory services like LegalZoom and Trust & Will provide tools and [guidance](../g/guidance.md) to draft bespoke [trust](../t/trust.md) documents.
 
 ## Conclusion
 

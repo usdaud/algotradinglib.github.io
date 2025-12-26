@@ -11,7 +11,7 @@ In this comprehensive guide, we'll explore several aspects of Wild Card Play in 
 3. **Key Elements**: Components that make a strategy a Wild Card Play.
 4. **Examples in [Stock Market](../s/stock_market.md)**: Real-life instances where Wild Card plays impacted the [market](../m/market.md).
 5. **[Options](../o/options.md) and [Futures](../f/futures.md) Markets**: Specific strategies within [derivatives](../d/derivatives.md).
-6. **[Algorithmic Trading](../a/accountability.md)**: Application of Wild Card strategies in [automated trading systems](../a/automated_trading_systems.md).
+6. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Application of Wild Card strategies in [automated trading systems](../a/automated_trading_systems.md).
 7. **[Risk Management](../r/risk_management.md)**: Managing the risks associated with Wild Card plays.
 8. **Regulatory and Ethical Concerns**: Compliance and ethical ramifications.
 9. **Technological Influence**: How technology has shaped and enabled Wild Card strategies.
@@ -60,7 +60,7 @@ In [futures](../f/futures.md) and [options](../o/options.md) markets, the expira
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has provided a fertile ground for Wild Card Plays, allowing rapid and complex strategies to be executed with precise timing. Algorithms can detect and exploit inefficiencies, react instantaneously to news, and implement sophisticated Wild Card Plays.
+[Algorithmic trading](../a/algorithmic_trading.md) has provided a fertile ground for Wild Card Plays, allowing rapid and complex strategies to be executed with precise timing. Algorithms can detect and exploit inefficiencies, react instantaneously to news, and implement sophisticated Wild Card Plays.
 
 ### Examples
 - **High-Frequency Trading (HFT)**: Utilizing algorithms to execute trades in microseconds, able to [capitalize](../c/capitalize.md) on fleeting [market anomalies](../m/market_anomalies.md).

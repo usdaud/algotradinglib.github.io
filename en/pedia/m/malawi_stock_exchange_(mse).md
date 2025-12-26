@@ -75,6 +75,6 @@ Despite the challenges, there are several opportunities for growth:
 
 ## Conclusion
 
-The Malawi Stock [Exchange](../e/exchange.md) plays a crucial role in the economic development of Malawi by providing a platform for [capital](../c/capital.md) mobilization and investment. While it faces challenges such as low [liquidity](../l/liquidity.md) and regulatory hurdles, there are ample opportunities for growth through [market](../m/market.md) modernization, regional integration, and product [diversification](../d/diversification.md). As the MSE continues to evolve, it has the potential to contribute significantly to Malawi's financial [market](../m/market.md) development and economic prosperity. 
+The Malawi Stock [Exchange](../e/exchange.md) plays a crucial role in the economic development of Malawi by providing a platform for [capital](../c/capital.md) mobilization and investment. While it faces challenges such as low [liquidity](../l/liquidity.md) and regulatory hurdles, there are ample opportunities for growth through [market](../m/market.md) modernization, regional integration, and product [diversification](../d/diversification.md). As the MSE continues to evolve, it has the potential to contribute significantly to Malawi's financial [market](../m/market.md) development and economic prosperity.
 
-For further details on the Malawi Stock [Exchange](../e/exchange.md), you can visit their official website: [Malawi Stock Exchange](https://www.mse.co.mw/).
+For further details on the Malawi Stock [Exchange](../e/exchange.md),

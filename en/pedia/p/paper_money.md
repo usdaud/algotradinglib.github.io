@@ -35,9 +35,9 @@ The design of paper [money](../m/money.md) also includes artistic elements that 
 ### Central Banks
 The issuance of paper [money](../m/money.md) is usually the responsibility of a country's central [bank](../b/bank.md). Institutions like the Federal Reserve in the United States, the European Central [Bank](../b/bank.md), and the [Bank](../b/bank.md) of Japan play pivotal roles in controlling the [supply](../s/supply.md) of [money](../m/money.md) and maintaining economic stability.
 
-- **Federal Reserve**: [Federal Reserve](https://www.federalreserve.gov/)
-- **European Central [Bank](../b/bank.md)**: [European Central Bank](https://www.ecb.europa.eu/)
-- **[Bank](../b/bank.md) of Japan**: [Bank of Japan](https://www.boj.or.jp/)
+- **Federal Reserve**: Federal Reserve
+- **European Central [Bank](../b/bank.md)**: European Central Bank
+- **[Bank](../b/bank.md) of Japan**: Bank of Japan
 
 ### Monetary Policy
 Central banks utilize various [monetary policy](../m/monetary_policy.md) instruments to regulate the [money supply](../m/money_supply.md). [Open market operations](../o/open_market_operations.md), adjusting [reserve requirements](../r/reserve_requirements.md), and setting [interest](../i/interest.md) rates are some of the tools used to ensure economic stability and control [inflation](../i/inflation.md).

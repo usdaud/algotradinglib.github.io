@@ -54,21 +54,21 @@ Floating [exchange](../e/exchange.md) rates can make currencies vulnerable to sp
 
 ### United States
 
-The United States operates under a freely floating [exchange rate](../e/exchange_rate.md) system. The [value](../v/value.md) of the US dollar is determined by forex markets and is influenced by [interest](../i/interest.md) rates, economic performance, and [market sentiment](../m/market_sentiment.md). More information can be found on [Federal Reserve's website](https://www.federalreserve.gov).
+The United States operates under a freely floating [exchange rate](../e/exchange_rate.md) system. The [value](../v/value.md) of the US dollar is determined by forex markets and is influenced by [interest](../i/interest.md) rates, economic performance, and [market sentiment](../m/market_sentiment.md).
 
 ### European Union
 
-The [Euro](../e/euro.md), which is used by 19 of the 27 [European Union](../e/european_union_(eu).md) countries, also operates under a floating [exchange rate](../e/exchange_rate.md) system. The European Central [Bank](../b/bank.md) influences its [value](../v/value.md) through [monetary policy](../m/monetary_policy.md) but does not peg it to any other [currency](../c/currency.md). Details can be found on the [European Central Bank's website](https://www.ecb.europa.eu).
+The [Euro](../e/euro.md), which is used by 19 of the 27 [European Union](../e/european_union_(eu).md) countries, also operates under a floating [exchange rate](../e/exchange_rate.md) system. The European Central [Bank](../b/bank.md) influences its [value](../v/value.md) through [monetary policy](../m/monetary_policy.md) but does not peg it to any other [currency](../c/currency.md).
 
 ### Japan
 
-Japan's Yen is another example of a [currency](../c/currency.md) under a floating [exchange rate](../e/exchange_rate.md) regime. The [Bank](../b/bank.md) of Japan occasionally intervenes in the forex [market](../m/market.md) to stabilize the yen, but it generally lets [market](../m/market.md) forces dictate its [value](../v/value.md). For further details, you can visit the [Bank of Japan's website](https://www.boj.or.jp).
+Japan's Yen is another example of a [currency](../c/currency.md) under a floating [exchange rate](../e/exchange_rate.md) regime. The [Bank](../b/bank.md) of Japan occasionally intervenes in the forex [market](../m/market.md) to stabilize the yen, but it generally lets [market](../m/market.md) forces dictate its [value](../v/value.md).
 
 ## Comparison with Fixed Exchange Rate
 
 ### Stability vs. Flexibility
 
-- **[Fixed Exchange Rate](../f/fixed_exchange_rate.md)**: Offers more stability as the government or central [bank](../b/bank.md) commits to maintaining a certain [value](../v/value.md) relative to another [currency](../c/currency.md) or a basket of currencies. 
+- **[Fixed Exchange Rate](../f/fixed_exchange_rate.md)**: Offers more stability as the government or central [bank](../b/bank.md) commits to maintaining a certain [value](../v/value.md) relative to another [currency](../c/currency.md) or a basket of currencies.
 - **Floating [Exchange Rate](../e/exchange_rate.md)**: Offers more flexibility and can adjust to economic changes, but at the cost of increased [volatility](../v/volatility.md).
 
 ### Monetary Policy Independence

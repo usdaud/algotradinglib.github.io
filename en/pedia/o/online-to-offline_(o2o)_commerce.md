@@ -78,19 +78,19 @@ Efficient [logistics](../l/logistics.md) and delivery services are critical for 
 
 Starbucks is a prime example of a successful O2O strategy. The Starbucks mobile app allows customers to place orders, earn rewards, and locate nearby stores. The app integrates seamlessly with in-store experiences, providing personalized offers and facilitating quick in-store pickups.
 
-For more information, visit [Starbucks](https://www.starbucks.com/).
+For more information, visit Starbucks.
 
 ### Alibaba
 
 Alibaba’s “New Retail” strategy exemplifies the O2O model by merging online and offline retailing. Hema supermarkets, part of Alibaba, allow customers to use the Hema app to shop, pay, and have products delivered within 30 minutes if they live within three kilometers of a store. This integration enriches the [customer](../c/customer.md) experience and maximizes [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-For more details, [check](../c/check.md) [Alibaba - New Retail](https://www.alibabagroup.com/en/global/home).
+For more details, [check](../c/check.md) Alibaba - New Retail.
 
 ### Walmart
 
 Walmart has embraced O2O [commerce](../c/commerce.md) through its "Walmart Pay" system, which allows customers to shop online and pick up their orders at local stores. The retailer also uses [data analytics](../d/data_analytics.md) to personalize in-store offers and loyalty programs, enhancing the omnichannel shopping experience.
 
-For further information, visit [Walmart](https://www.walmart.com/).
+For further information, visit Walmart.
 
 ## Future Outlook
 

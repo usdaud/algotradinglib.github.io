@@ -73,10 +73,9 @@ A significant outcome of the Sarbanes-Oxley Act is the creation of the [Public C
 - **Establishing Audit Standards**: The board sets auditing and related attestation, [quality control](../q/quality_control.md), ethics, and independence standards.
 - **Enforcement**: The PCAOB has the authority to conduct investigations and disciplinary proceedings concerning registered public [accounting](../a/accounting.md) firms and their associated persons.
 
-Visit the PCAOB's official website for more information on their activities and standards: [PCAOB](https://www.pcaobus.org/)
 
 ## Conclusion
 
 The Sarbanes-Oxley Act of 2002 represents one of the most significant reforms in [corporate governance](../c/corporate_governance.md) and financial practices. Its stringent requirements for [transparency](../t/transparency.md), accountability, and [internal controls](../i/internal_controls.md) have sought to restore [investor](../i/investor.md) confidence and protect the public from [accounting](../a/accounting.md) and corporate frauds. While the act has presented challenges, especially concerning compliance costs and complexity, the overarching benefits in terms of safeguarding investors and enhancing corporate integrity are profound. As the [business](../b/business.md) environment continues to evolve, ongoing assessment and adaptation of SOX provisions [will](../w/will.md) be crucial to maintaining its effectiveness and relevance.
 
-For more information related to the Sarbanes-Oxley Act, you can visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) official page: [SEC Sarbanes-Oxley Act](https://www.sec.gov/spotlight/sarbanes-oxley.htm)
+For more information related to the Sarbanes-Oxley Act, you can visit the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) public materials: SEC Sarbanes-Oxley Act

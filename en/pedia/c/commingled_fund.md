@@ -54,15 +54,15 @@ Commingled funds are subject to various levels of regulation, depending on their
 
 ### Vanguard Mutual Funds
 
-One of the most well-known providers of mutual funds is Vanguard. They [offer](../o/offer.md) a vast array of commingled funds aimed at different investment strategies, ranging from [index](../i/index_instrument.md) funds to actively managed funds. Investors can browse through their offerings on their [official site](https://investor.vanguard.com/mutual-funds/).
+One of the most well-known providers of mutual funds is Vanguard. They [offer](../o/offer.md) a vast array of commingled funds aimed at different investment strategies, ranging from [index](../i/index_instrument.md) funds to actively managed funds.
 
 ### BlackRock Hedge Funds
 
-BlackRock is a leading global [asset management](../a/asset_management.md) [firm](../f/firm.md) that offers various [hedge](../h/hedge.md) funds and [alternative investment](../a/alternative_investment.md) solutions. Their strategies often involve sophisticated trading techniques and [risk management](../r/risk_management.md) principles. More information can be found on their [website](https://www.blackrock.com/us/individual/products/239726/).
+BlackRock is a leading global [asset management](../a/asset_management.md) [firm](../f/firm.md) that offers various [hedge](../h/hedge.md) funds and [alternative investment](../a/alternative_investment.md) solutions. Their strategies often involve sophisticated trading techniques and [risk management](../r/risk_management.md) principles.
 
 ### CalPERS Pension Fund
 
-The California Public Employees' Retirement System (CalPERS) manages pensions for California public sector employees through commingled pension funds. They invest in a diversified portfolio aiming for long-term growth and sustainability. Detailed information is available on their [official page](https://www.calpers.ca.gov/page/investments).
+The California Public Employees' Retirement System (CalPERS) manages pensions for California public sector employees through commingled pension funds. They invest in a diversified portfolio aiming for long-term growth and sustainability.
 
 ## Case Study: The Rise and Fall of Long-Term Capital Management
 
@@ -74,7 +74,7 @@ Initially, LTCM recorded extraordinary returns by employing [arbitrage](../a/arb
 
 ### The Downfall
 
-However, their strategies came with inherent risks. The 1998 Russian [financial crisis](../f/financial_crisis.md) triggered massive losses that LTCM's models had not anticipated. The [fund](../f/fund.md)'s downfall was so impactful that it required intervention from the Federal Reserve to avoid a broader financial meltdown. 
+However, their strategies came with inherent risks. The 1998 Russian [financial crisis](../f/financial_crisis.md) triggered massive losses that LTCM's models had not anticipated. The [fund](../f/fund.md)'s downfall was so impactful that it required intervention from the Federal Reserve to avoid a broader financial meltdown.
 
 ## Risk Management in Commingled Funds
 

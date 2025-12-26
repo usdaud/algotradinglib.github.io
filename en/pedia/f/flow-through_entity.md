@@ -1,6 +1,6 @@
 # Flow-Through Entity
 
-A Flow-Through Entity (FTE) is a legal [business](../b/business.md) structure where the [income](../i/income.md) of the company is passed directly to its owners or investors, thus avoiding the incidence of [double taxation](../d/double_taxation.md). This is because the [income](../i/income.md) is not subject to corporate [taxes](../t/taxes.md), but instead, owners or investors report the [income](../i/income.md) on their individual tax returns, where it is taxed at [personal income](../p/personal_income.md) tax rates. 
+A Flow-Through Entity (FTE) is a legal [business](../b/business.md) structure where the [income](../i/income.md) of the company is passed directly to its owners or investors, thus avoiding the incidence of [double taxation](../d/double_taxation.md). This is because the [income](../i/income.md) is not subject to corporate [taxes](../t/taxes.md), but instead, owners or investors report the [income](../i/income.md) on their individual tax returns, where it is taxed at [personal income](../p/personal_income.md) tax rates.
 
 ## Types of Flow-Through Entities
 
@@ -68,15 +68,15 @@ Several companies adopt flow-through entity structures, particularly in [real es
 
 ### Blackstone Group (Partnership)
 
-[Blackstone Group](https://www.blackstone.com) operates as a limited partnership. This structure enables it to pass through [income](../i/income.md) to its investors, avoiding [corporate tax](../c/corporate_tax.md) layers which is particularly beneficial for large [private equity](../p/private_equity.md) operations.
+Blackstone Group operates as a limited partnership. This structure enables it to pass through [income](../i/income.md) to its investors, avoiding [corporate tax](../c/corporate_tax.md) layers which is particularly beneficial for large [private equity](../p/private_equity.md) operations.
 
 ### Baker Tilly US, LLP (Limited Liability Partnership)
 
-[Baker Tilly US, LLP](https://www.bakertilly.com) is a global [accounting](../a/accounting.md) and advisory [firm](../f/firm.md) structured as a [limited liability](../l/limited_liability.md) partnership. This structure allows partners to benefit from flow-through [taxation](../t/taxation.md) while limiting their legal liabilities.
+Baker Tilly US, LLP is a global [accounting](../a/accounting.md) and advisory [firm](../f/firm.md) structured as a [limited liability](../l/limited_liability.md) partnership. This structure allows partners to benefit from flow-through [taxation](../t/taxation.md) while limiting their legal liabilities.
 
 ### Venture Capital and Real Estate Investment Firms (Limited Partnerships)
 
-Many [venture capital](../v/venture_capital.md) and [real estate](../r/real_estate.md) investment firms operate as limited partnerships. These include firms such as [Sequoia Capital](https://www.sequoiacap.com) and [Cushman & Wakefield](https://www.cushmanwakefield.com).
+Many [venture capital](../v/venture_capital.md) and [real estate](../r/real_estate.md) investment firms operate as limited partnerships. These include firms such as Sequoia Capital and Cushman & Wakefield.
 
 ## Regulations and Compliance
 

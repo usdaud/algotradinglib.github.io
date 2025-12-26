@@ -21,7 +21,7 @@ Developing an effective trading program involves several steps, starting with st
 Before deploying a trading program in a live [market](../m/market.md) environment, it is crucial to backtest the strategy against historical data to evaluate its performance. [Optimization](../o/optimization.md) techniques such as Monte Carlo simulations and parameter fine-tuning can be implemented to enhance the strategy's robustness.
 
 ### Real-World Applications
-Firms such as Renaissance Technologies and Two Sigma are examples of [industry](../i/industry.md) leaders that have built sophisticated trading programs to consistently [outperform](../o/outperform.md) the [market](../m/market.md) [Renaissance Technologies](https://www.rentech.com/), [Two Sigma](https://www.twosigma.com/).
+Firms such as Renaissance Technologies and Two Sigma are examples of [industry](../i/industry.md) leaders that have built sophisticated trading programs to consistently [outperform](../o/outperform.md) the [market](../m/market.md) Renaissance Technologies, Two Sigma.
 
 ## Position Management
 
@@ -30,7 +30,7 @@ Firms such as Renaissance Technologies and Two Sigma are examples of [industry](
 
 ### Techniques
 1. **[Position Sizing](../p/position_sizing.md)**: Determines the number of units of an [asset](../a/asset.md) to be bought or sold, often based on [risk management frameworks](../r/risk_management_frameworks.md) such as the [Kelly Criterion](../k/kelly_criterion.md) or [Value](../v/value.md) at [Risk](../r/risk.md) (VaR).
-2. **[Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: Adjusts the composition of the portfolio periodically to maintain desired levels of [risk](../r/risk.md) and [return](../r/return.md). 
+2. **[Portfolio Rebalancing](../p/portfolio_rebalancing.md)**: Adjusts the composition of the portfolio periodically to maintain desired levels of [risk](../r/risk.md) and [return](../r/return.md).
 3. **Stop-Loss and Take-[Profit](../p/profit.md) Orders**: Automatically close positions at predefined price levels to limit losses or lock in gains.
 
 ### Dynamic Allocation
@@ -68,7 +68,7 @@ Incorporating principles from [behavioral finance](../b/behavioral_finance.md), 
 Perception also involves understanding the [market](../m/market.md) impact of trades. Large orders can move markets, and sophisticated [trading algorithms](../t/trading_algorithms.md) analyze [market depth](../m/market_depth.md) and [order book dynamics](../o/order_book_dynamics.md) to implement trades in a manner that minimizes [market](../m/market.md) impact.
 
 ### Examples
-Firms like AQR [Capital](../c/capital.md) Management use [sentiment analysis](../s/sentiment_analysis.md) and [behavioral finance](../b/behavioral_finance.md) principles to inform their [trading strategies](../t/trading_strategies.md) and enhance [portfolio performance](../p/portfolio_performance.md) [AQR Capital Management](https://www.aqr.com/).
+Firms like AQR [Capital](../c/capital.md) Management use [sentiment analysis](../s/sentiment_analysis.md) and [behavioral finance](../b/behavioral_finance.md) principles to inform their [trading strategies](../t/trading_strategies.md) and enhance [portfolio performance](../p/portfolio_performance.md) AQR Capital Management.
 
 ## Conclusion
 The Four Ps framework—Program, [Position Management](../p/position_management.md), Performance Analysis, and Perception—provides a comprehensive structure for developing and executing successful [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Each component plays a crucial role in ensuring that [trading algorithms](../t/trading_algorithms.md) are effective, adaptive, and capable of delivering long-term [value](../v/value.md). By integrating these principles, traders and firms can navigate the complexities of [financial markets](../f/financial_market.md) with increased precision and confidence.

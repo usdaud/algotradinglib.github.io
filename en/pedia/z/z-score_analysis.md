@@ -107,4 +107,4 @@ Incorporating [Z-Score](../z/z-score.md) analysis into a broader trading algorit
 
 [Z-Score](../z/z-score.md) analysis is a powerful tool in the arsenal of algorithmic traders, providing a [robust](../r/robust.md) framework for identifying trading opportunities, detecting anomalies, and implementing [mean reversion](../m/mean_reversion.md) and pair [trading strategies](../t/trading_strategies.md). By understanding and effectively applying [Z-Score](../z/z-score.md) analysis, traders can enhance their decision-making processes, optimize their [trading strategies](../t/trading_strategies.md), and ultimately achieve better trading outcomes.
 
-For more insights and advanced [trading strategies](../t/trading_strategies.md), refer to specialized platforms and companies like [QuantConnect](https://www.quantconnect.com) and [QuantInsti](https://www.quantinsti.com).
+For more insights and advanced [trading strategies](../t/trading_strategies.md), refer to specialized platforms and companies like QuantConnect and QuantInsti.

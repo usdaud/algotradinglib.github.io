@@ -1,6 +1,6 @@
 # Granular Portfolio
 
-A granular portfolio in the context of [algorithmic trading](../a/accountability.md) refers to an investment portfolio that is designed and managed with a high level of detail, often involving a diversified array of assets with varying degrees of [risk](../r/risk.md), [return](../r/return.md), and [correlation](../c/correlation.md). This approach contrasts with traditional [portfolio management](../p/par.md), which may not consider such fine-grained levels of analysis. The objective of a granular portfolio is to maximize returns while minimizing risks through meticulous scrutiny of individual [asset](../a/asset.md) properties, sector exposures, and other critical factors.
+A granular portfolio in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to an investment portfolio that is designed and managed with a high level of detail, often involving a diversified array of assets with varying degrees of [risk](../r/risk.md), [return](../r/return.md), and [correlation](../c/correlation.md). This approach contrasts with traditional [portfolio management](../p/par.md), which may not consider such fine-grained levels of analysis. The objective of a granular portfolio is to maximize returns while minimizing risks through meticulous scrutiny of individual [asset](../a/asset.md) properties, sector exposures, and other critical factors.
 
 ## Components of Granular Portfolio
 
@@ -54,13 +54,13 @@ To evaluate the performance of a granular portfolio, several metrics are used:
 ## Real-World Examples
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is a leading [algorithmic trading](../a/accountability.md) platform that allows users to build and test [trading strategies](../t/trading_strategies.md) in a granular way. The platform provides access to financial data, computational resources, and community support, enabling the creation of highly detailed and diversified portfolios.
+QuantConnect is a leading [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to build and test [trading strategies](../t/trading_strategies.md) in a granular way. The platform provides access to financial data, computational resources, and community support, enabling the creation of highly detailed and diversified portfolios.
 
 ### Numerai
-[Numerai](https://numer.ai/) offers a unique [hedge fund](../h/hedge_fund.md) model where data scientists from around the world submit their [trading algorithms](../t/trading_algorithms.md) based on encrypted data. This collaborative approach results in a granular portfolio that leverages diverse strategies and insights.
+Numerai offers a unique [hedge fund](../h/hedge_fund.md) model where data scientists from around the world submit their [trading algorithms](../t/trading_algorithms.md) based on encrypted data. This collaborative approach results in a granular portfolio that leverages diverse strategies and insights.
 
 ### AlphaSimplex Group
-[AlphaSimplex](http://www.alphasimplex.com/) is an [investment management](../i/investment_management.md) [firm](../f/firm.md) that focuses on quantitative and [systematic investment strategies](../s/systematic_investment_strategies.md). They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and a granular approach to portfolio construction and [risk management](../r/risk_management.md).
+AlphaSimplex is an [investment management](../i/investment_management.md) [firm](../f/firm.md) that focuses on quantitative and [systematic investment strategies](../s/systematic_investment_strategies.md). They employ advanced [mathematical models](../m/mathematical_models_in_trading.md) and a granular approach to portfolio construction and [risk management](../r/risk_management.md).
 
 ## Challenges
 
@@ -87,4 +87,4 @@ The use of [big data](../b/big_data_in_trading.md) [will](../w/will.md) enhance 
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology could improve [transparency](../t/transparency.md) and [security](../s/security.md) in [portfolio management](../p/par.md), providing a more reliable [infrastructure](../i/infrastructure.md) for managing assets.
 
-In conclusion, a granular portfolio in [algorithmic trading](../a/accountability.md) is a sophisticated approach that involves detailed analysis and management of various assets to optimize returns and minimize risks. Leveraging advanced algorithms, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md) techniques, this method requires continuous monitoring and adaptation to [market dynamics](../m/market_dynamics.md), presenting both challenges and opportunities for investors and managers alike.
+In conclusion, a granular portfolio in [algorithmic trading](../a/algorithmic_trading.md) is a sophisticated approach that involves detailed analysis and management of various assets to optimize returns and minimize risks. Leveraging advanced algorithms, [machine learning](../m/machine_learning.md), and [optimization](../o/optimization.md) techniques, this method requires continuous monitoring and adaptation to [market dynamics](../m/market_dynamics.md), presenting both challenges and opportunities for investors and managers alike.

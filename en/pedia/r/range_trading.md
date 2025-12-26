@@ -90,9 +90,6 @@ MetaTrader is a widely used [trading platform](../t/trading_platform.md) that su
 
 [NinjaTrader](../n/ninjatrader.md) provides advanced charting, [backtesting](../b/backtesting.md), and automated trading capabilities. Its extensive library of indicators and strategies makes it a popular choice for [range](../r/range.md) traders.
 
-[MetaTrader](https://www.metatrader5.com/)
-[TradeStation](https://www.tradestation.com/)
-[NinjaTrader](https://www.ninjatrader.com/)
 
 ## Conclusion
 

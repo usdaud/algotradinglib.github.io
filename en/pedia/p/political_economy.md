@@ -39,7 +39,7 @@ Another significant concern is economic inequality and mechanisms for redistribu
 
 ### Globalization and Trade
 
-[Globalization](../g/globalization.md) has brought international [trade](../t/trade.md) and cross-border financial flows to the forefront of political [economy](../e/economy.md). This area studies how global [trade](../t/trade.md) agreements, multinational corporations, and international financial institutions (like the IMF and [World Bank](../w/world_bank.md)) influence national economies and political agendas. 
+[Globalization](../g/globalization.md) has brought international [trade](../t/trade.md) and cross-border financial flows to the forefront of political [economy](../e/economy.md). This area studies how global [trade](../t/trade.md) agreements, multinational corporations, and international financial institutions (like the IMF and [World Bank](../w/world_bank.md)) influence national economies and political agendas.
 
 ### Ideologies and Economic Policies
 

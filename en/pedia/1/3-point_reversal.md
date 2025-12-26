@@ -43,7 +43,7 @@ Let's consider a simplified example of an algorithm that uses a 3-point [reversa
 
 #### Case Study: Company Implementing 3-Point Reversal Algorithm
 
-XYZ AlgoTrade Solutions ([note](../n/note.md): this is a fictional name for illustrative purposes) is a company specializing in the development of sophisticated [trading algorithms](../t/trading_algorithms.md). The company has developed an algorithm that uses the 3-point [reversal](../r/reversal.md) pattern to [trade](../t/trade.md) in the Forex [market](../m/market.md). 
+XYZ AlgoTrade Solutions ([note](../n/note.md): this is a fictional name for illustrative purposes) is a company specializing in the development of sophisticated [trading algorithms](../t/trading_algorithms.md). The company has developed an algorithm that uses the 3-point [reversal](../r/reversal.md) pattern to [trade](../t/trade.md) in the Forex [market](../m/market.md).
 
 **Key Features of XYZ AlgoTrade Solutions' Algorithm**:
 
@@ -51,8 +51,8 @@ XYZ AlgoTrade Solutions ([note](../n/note.md): this is a fictional name for illu
 - **[Risk Management](../r/risk_management.md)**: Built-in [risk management](../r/risk_management.md) systems ensure positions are sized appropriately, and [stop-loss orders](../s/stop-loss_orders.md) are placed to protect against adverse price movements.
 - **Continuous Improvement**: The algorithm is designed to learn from past trades, refining its parameters and improving its performance over time.
 
-For more information about their offerings and services, you can visit their website: [XYZ AlgoTrade Solutions](https://www.xyzalgotrade.com) (again, this is a fictional link for the purpose of this example).
+
 
 #### Conclusion
 
-The 3-point [reversal](../r/reversal.md) is a valuable tool in the arsenal of an algorithmic [trader](../t/trader.md). By accurately identifying key [reversal](../r/reversal.md) points in the [market](../m/market.md), traders can devise algorithms that can automate the trading process, potentially increasing profitability while managing [risk](../r/risk.md) effectively. As with any [trading strategy](../t/trading_strategy.md), it’s essential to implement [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [risk management](../r/risk_management.md) practices to ensure its success in various [market](../m/market.md) conditions.
+The 3-point [reversal](../r/reversal.md) is a valuable tool in the arsenal of an algorithmic [trader](../t/trader.md). By accurately identifying key [reversal](../r/reversal.md) points in the [market](../m/market.md), traders can devise algorithms that can automate the trading process, potentially increasing profitability while managing [risk](../r/risk.md) effectively. As with any [trading strategy](../t/trading_strategy.md), it’s essential to implement [robust](../r/robust.md) [backtesting](../b/backtesting.md) and [risk management](../r/risk_management.md) practices to ensure its success in various [market](../m/market.md) conditions.

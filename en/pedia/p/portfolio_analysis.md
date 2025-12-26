@@ -84,21 +84,17 @@ Portfolio analysis in algo trading must adhere to various regulatory standards a
 
 Several companies specialize in providing tools and services for portfolio analysis in algo trading. Some notable ones include:
 
-**1. [QuantConnect](../q/quantconnect.md)**
-[QuantConnect](../q/quantconnect.md) offers a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) platform that supports [quantitative finance](../q/quantitative_finance.md) and [backtesting](../b/backtesting.md) research.
-[QuantConnect](https://www.quantconnect.com/)
+**1. [StockSharp](../s/stocksharp.md)**
+[StockSharp](../s/stocksharp.md) offers a [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) platform that supports [quantitative finance](../q/quantitative_finance.md) and [backtesting](../b/backtesting.md) research.
 
 **2. Portfolio123**
 Portfolio123 provides tools for [portfolio management](../p/portfolio_management.md), [offering](../o/offering.md) advanced screening, ranking, and [backtesting](../b/backtesting.md) capabilities.
-[Portfolio123](https://www.portfolio123.com/)
 
 **3. Aladdin by BlackRock**
 Aladdin is BlackRock's end-to-end [portfolio management](../p/portfolio_management.md) software, integrating [risk](../r/risk.md) analytics, trading, operations, and compliance.
-[Aladdin by BlackRock](https://www.blackrock.com/aladdin)
 
 **4. Wealthfront**
 Wealthfront uses advanced algorithms for [automated portfolio management](../a/automated_portfolio_management.md), aiming to optimize investment strategies for individual clients.
-[Wealthfront](https://www.wealthfront.com/)
 
 ### Conclusion
 

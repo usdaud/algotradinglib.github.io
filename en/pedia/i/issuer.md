@@ -1,6 +1,6 @@
 # Issuer
 
-An issuer is a legal entity that develops, registers, and sells securities to [finance](../f/finance.md) its operations. Issuers can be corporations, investment trusts, or government bodies. In the context of [algorithmic trading](../a/accountability.md) (also known as algotrading), understanding the role and nature of issuers is essential as it impacts the securities available for [trade](../t/trade.md) and the strategies implemented by [trading algorithms](../t/trading_algorithms.md). This detailed guide [will](../w/will.md) explore issuers in the context of [financial markets](../f/financial_market.md), their importance to [algorithmic trading](../a/accountability.md), key participants in the [market](../m/market.md), and how [algorithmic trading](../a/accountability.md) systems interact with them.
+An issuer is a legal entity that develops, registers, and sells securities to [finance](../f/finance.md) its operations. Issuers can be corporations, investment trusts, or government bodies. In the context of [algorithmic trading](../a/algorithmic_trading.md) (also known as algotrading), understanding the role and nature of issuers is essential as it impacts the securities available for [trade](../t/trade.md) and the strategies implemented by [trading algorithms](../t/trading_algorithms.md). This detailed guide [will](../w/will.md) explore issuers in the context of [financial markets](../f/financial_market.md), their importance to [algorithmic trading](../a/algorithmic_trading.md), key participants in the [market](../m/market.md), and how [algorithmic trading](../a/algorithmic_trading.md) systems interact with them.
 
 ---
 
@@ -11,15 +11,15 @@ Issuers are integral to the financial [market](../m/market.md) ecosystem because
 ### Types of Issuers
 
 1. **Corporate Issuers**
-    - **Public Corporations**: These companies [issue](../i/issue.md) [equity](../e/equity.md) ([stocks](../s/stock.md)) and [debt](../d/debt.md) (bonds) to the public through various platforms, including stock exchanges. For example, Apple Inc. (AAPL) and Microsoft [Corporation](../c/corporation.md) (MSFT) are renowned public corporations that [issue](../i/issue.md) [common stock](../c/common_stock.md).
-    - **Private Corporations**: These are smaller companies that might [issue](../i/issue.md) private bonds or [equity](../e/equity.md) [shares](../s/shares.md), often to a limited number of investors rather than the general public.
+ - **Public Corporations**: These companies [issue](../i/issue.md) [equity](../e/equity.md) ([stocks](../s/stock.md)) and [debt](../d/debt.md) (bonds) to the public through various platforms, including stock exchanges. For example, Apple Inc. (AAPL) and Microsoft [Corporation](../c/corporation.md) (MSFT) are renowned public corporations that [issue](../i/issue.md) [common stock](../c/common_stock.md).
+ - **Private Corporations**: These are smaller companies that might [issue](../i/issue.md) private bonds or [equity](../e/equity.md) [shares](../s/shares.md), often to a limited number of investors rather than the general public.
 
 2. **Government Issuers**
-    - **Federal Government**: Issues treasury securities, such as Treasury bonds, notes, and bills, which are considered some of the safest investments.
-    - **State and Local Governments**: These entities [issue](../i/issue.md) [municipal bonds](../m/municipal_bonds.md) to [fund](../f/fund.md) public projects like schools, highways, and hospitals.
+ - **Federal Government**: Issues treasury securities, such as Treasury bonds, notes, and bills, which are considered some of the safest investments.
+ - **State and Local Governments**: These entities [issue](../i/issue.md) [municipal bonds](../m/municipal_bonds.md) to [fund](../f/fund.md) public projects like schools, highways, and hospitals.
 
 3. **Financial Intermediaries**
-    - **Investment Trusts and Funds**: Including [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds, these entities pool resources from [multiple](../m/multiple.md) investors to buy a diversified portfolio of securities.
+ - **Investment Trusts and Funds**: Including [exchange](../e/exchange.md)-traded funds (ETFs) and mutual funds, these entities pool resources from [multiple](../m/multiple.md) investors to buy a diversified portfolio of securities.
 
 ### Importance to Algorithmic Trading
 
@@ -29,11 +29,11 @@ In algotrading, the decisions made by issuers can significantly influence [marke
 
 ## Key Interactions Between Issuers and Algorithmic Trading Systems
 
-[Algorithmic trading](../a/accountability.md) systems often need to consider several factors when dealing with securities issued by different entities. Here are some critical areas of interaction:
+[Algorithmic trading](../a/algorithmic_trading.md) systems often need to consider several factors when dealing with securities issued by different entities. Here are some critical areas of interaction:
 
 ### Corporate Actions
 
-Corporate actions include dividends, stock splits, mergers, and acquisitions. These events can lead to sudden price changes, affecting the performance of [trading algorithms](../t/trading_algorithms.md). 
+Corporate actions include dividends, stock splits, mergers, and acquisitions. These events can lead to sudden price changes, affecting the performance of [trading algorithms](../t/trading_algorithms.md).
 
 - **Dividends**: An algorithm might be designed to buy or sell [stocks](../s/stock.md) based on the expected [payout](../p/payout.md) dates and amounts.
 - **Stock Splits**: For instance, if a company like Tesla Inc. (TSLA) announces a [stock split](../s/stock_split.md), algorithms might need to adjust their calculations and strategies to account for the split.
@@ -48,7 +48,7 @@ Financial stability is crucial for traders relying on algorithmic systems. Algor
 
 ### Regulatory Filings and Disclosures
 
-Issuers are required to file regular reports and disclosures with regulatory bodies such as the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). [Algorithmic trading](../a/accountability.md) systems can parse through these filings to obtain information that might influence [market](../m/market.md) behavior.
+Issuers are required to file regular reports and disclosures with regulatory bodies such as the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). [Algorithmic trading](../a/algorithmic_trading.md) systems can parse through these filings to obtain information that might influence [market](../m/market.md) behavior.
 
 ---
 
@@ -57,22 +57,18 @@ Issuers are required to file regular reports and disclosures with regulatory bod
 ### Apple Inc. (AAPL)
 Apple Inc. is a major issuer of both [equity](../e/equity.md) and [debt](../d/debt.md) securities. Traders often develop algorithms specifically to [trade](../t/trade.md) Apple stock due to its high [liquidity](../l/liquidity.md) and significant [market](../m/market.md) cap.
 
-- **Website**: [Apple Inc.](https://www.apple.com)
 
 ### U.S. Department of the Treasury
 The U.S. Department of the Treasury issues a variety of [debt](../d/debt.md) instruments, which are vital for the global fixed-[income](../i/income.md) [market](../m/market.md).
 
-- **Website**: [U.S. Department of the Treasury](https://home.treasury.gov)
 
 ### Vanguard Group
-Vanguard is a significant issuer of mutual funds and ETFs. These funds are often included in portfolios managed by [algorithmic trading](../a/accountability.md) systems.
+Vanguard is a significant issuer of mutual funds and ETFs. These funds are often included in portfolios managed by [algorithmic trading](../a/algorithmic_trading.md) systems.
 
-- **Website**: [Vanguard Group](https://www.vanguard.com)
 
 ### BlackRock Inc.
 BlackRock is another leading issuer of investment products and is particularly well-known for its [iShares](../i/ishares.md) ETF series.
 
-- **Website**: [BlackRock Inc.](https://www.blackrock.com)
 
 ---
 
@@ -106,18 +102,18 @@ Quality and timely data from issuers are imperative for the optimal performance 
 
 ### Regulatory Compliance
 
-[Algorithmic trading](../a/accountability.md) involving securities from various issuers must comply with regulations. Traders need to ensure that their algorithms adhere to legal requirements to avoid penalties.
+[Algorithmic trading](../a/algorithmic_trading.md) involving securities from various issuers must comply with regulations. Traders need to ensure that their algorithms adhere to legal requirements to avoid penalties.
 
 ### Market Impact
 
-Large trades influenced by [algorithmic trading](../a/accountability.md) systems can significantly affect the [market](../m/market.md). Understanding the issuer's [market](../m/market.md) cap and [liquidity](../l/liquidity.md) helps to mitigate the [risk](../r/risk.md) of [slippage](../s/slippage.md) and adverse [market](../m/market.md) impacts.
+Large trades influenced by [algorithmic trading](../a/algorithmic_trading.md) systems can significantly affect the [market](../m/market.md). Understanding the issuer's [market](../m/market.md) cap and [liquidity](../l/liquidity.md) helps to mitigate the [risk](../r/risk.md) of [slippage](../s/slippage.md) and adverse [market](../m/market.md) impacts.
 
 ### Ethical Issues
 
-[Algorithmic trading](../a/accountability.md) can have ethical implications, such as front running or exploiting [market](../m/market.md) inefficiencies in ways that might be considered unfair. Being mindful of these issues is crucial for maintaining a fair and [orderly market](../o/orderly_market.md).
+[Algorithmic trading](../a/algorithmic_trading.md) can have ethical implications, such as front running or exploiting [market](../m/market.md) inefficiencies in ways that might be considered unfair. Being mindful of these issues is crucial for maintaining a fair and [orderly market](../o/orderly_market.md).
 
 ---
 
 ## Conclusion
 
-In the complex world of [financial markets](../f/financial_market.md), issuers play a foundational role by [offering](../o/offering.md) the securities that form the [basis](../b/basis.md) of investment and [trading strategies](../t/trading_strategies.md). For algorithmic traders, understanding issuers is not just about analyzing [financial statements](../f/financial_statements.md) or staying updated with corporate actions. It encompasses a comprehensive approach that includes event-driven strategies, [quantitative models](../q/quantitative_models.md), and advanced technologies like [machine learning](../m/machine_learning.md). By maintaining high data quality, adhering to regulatory frameworks, and considering [market](../m/market.md) ethics, [algorithmic trading](../a/accountability.md) can efficiently [capitalize](../c/capitalize.md) on opportunities presented by diverse issuers, thus generating substantial returns while minimizing risks.
+In the complex world of [financial markets](../f/financial_market.md), issuers play a foundational role by [offering](../o/offering.md) the securities that form the [basis](../b/basis.md) of investment and [trading strategies](../t/trading_strategies.md). For algorithmic traders, understanding issuers is not just about analyzing [financial statements](../f/financial_statements.md) or staying updated with corporate actions. It encompasses a comprehensive approach that includes event-driven strategies, [quantitative models](../q/quantitative_models.md), and advanced technologies like [machine learning](../m/machine_learning.md). By maintaining high data quality, adhering to regulatory frameworks, and considering [market](../m/market.md) ethics, [algorithmic trading](../a/algorithmic_trading.md) can efficiently [capitalize](../c/capitalize.md) on opportunities presented by diverse issuers, thus generating substantial returns while minimizing risks.

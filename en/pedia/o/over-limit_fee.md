@@ -16,7 +16,7 @@ Regulation of over-limit fees has evolved over time. The [Credit CARD](../c/cred
 
 ### Determining the Fee
 
-Over-limit fees are typically calculated as a flat [fee](../f/fee.md) or a percentage of the amount by which the cardholder exceeds their [credit limit](../c/credit_limit.md). For example, if a cardholder's [credit limit](../c/credit_limit.md) is $1,000 and they spend $1,050, the over-limit [fee](../f/fee.md) might be a fixed amount of $35 or a percentage (e.g., 5%) of the excess amount. 
+Over-limit fees are typically calculated as a flat [fee](../f/fee.md) or a percentage of the amount by which the cardholder exceeds their [credit limit](../c/credit_limit.md). For example, if a cardholder's [credit limit](../c/credit_limit.md) is $1,000 and they spend $1,050, the over-limit [fee](../f/fee.md) might be a fixed amount of $35 or a percentage (e.g., 5%) of the excess amount.
 
 ### Impact on Credit Score
 
@@ -56,4 +56,4 @@ Some [credit card](../c/credit_card.md) issuers [offer](../o/offer.md) flexible 
 
 Over-limit fees are a notable aspect of the [credit card](../c/credit_card.md) [industry](../i/industry.md)'s efforts to balance profitability with [risk management](../r/risk_management.md). While these fees can provide a significant [revenue](../r/revenue.md) stream for lenders, they also pose challenges for consumers, particularly those who may already be struggling financially. Through regulatory oversight and consumer education, the landscape of over-limit fees continues to evolve, aiming to create a fairer and more transparent [credit](../c/credit.md) environment.
 
-For more detailed information, you can explore resources from [credit card](../c/credit_card.md) companies such as [Visa](https://usa.visa.com) and [Mastercard](https://www.mastercard.us).
+For more detailed information, you can explore resources from [credit card](../c/credit_card.md) companies such as Visa and Mastercard.

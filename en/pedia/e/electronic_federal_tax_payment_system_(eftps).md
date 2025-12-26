@@ -31,7 +31,7 @@ EFTPS is a reliable, fast, and easy method for managing tax payments. Since its 
 
 ### For Individuals
 
-Individuals can enroll by visiting the EFTPS website and filling out the required information. Once registered, users [will](../w/will.md) receive a Personal Identification Number (PIN) by mail and can create an online profile to manage payments.
+Individuals can enroll by visiting the EFTPS online platform and filling out the required information. Once registered, users [will](../w/will.md) receive a Personal Identification Number (PIN) by mail and can create an online profile to manage payments.
 
 ### For Businesses
 
@@ -78,7 +78,6 @@ You can schedule payments up to a year in advance. This feature is particularly 
 
 ### Technical Issues
 
-- **Website Downtime**: Access the site during off-peak hours if you experience slowdowns.
 - **Browser Compatibility**: Ensure your web browser is up-to-date to avoid compatibility issues.
 
 ## Key Takeaways
@@ -87,4 +86,4 @@ You can schedule payments up to a year in advance. This feature is particularly 
 - It offers various benefits such as accessibility, [security](../s/security.md), and ease of use.
 - Proper registration and cautious [payment](../p/payment.md) submission are crucial for leveraging the system’s benefits effectively.
 
-For more information, you can visit the official EFTPS website: [https://www.eftps.gov](https://www.eftps.gov).
+For more information,

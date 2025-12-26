@@ -56,7 +56,7 @@ When the [supply](../s/supply.md) of [money](../m/money.md) outstrips [demand](.
 
 Conversely, if there is a shortage of [money](../m/money.md), [deflation](../d/deflation.md) can occur. This increases the [value](../v/value.md) of [money](../m/money.md) but can reduce economic activity, as people [hold](../h/hold.md) on to their [money](../m/money.md) rather than spending it.
 
-## Technological Evolution 
+## Technological Evolution
 
 ### Digital Payment Systems
 
@@ -70,7 +70,7 @@ Digital [payment](../p/payment.md) systems like [PayPal](../p/paypal.md), Apple 
 
 [Bitcoin](../b/bitcoin.md), created by an unknown individual or group under the pseudonym Satoshi Nakamoto, was the first decentralized cryptocurrency. Since its inception, numerous other cryptocurrencies have been developed. They operate independently of central banks, relying on cryptographic techniques for [security](../s/security.md).
 
-**Official Site of [Bitcoin](../b/bitcoin.md)**: [Bitcoin](https://bitcoin.org)
+**public materials of [Bitcoin](../b/bitcoin.md)**: Bitcoin
 
 ### Smart Contracts
 

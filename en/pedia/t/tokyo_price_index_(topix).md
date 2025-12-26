@@ -1,9 +1,9 @@
 # Tokyo Price Index (TOPIX)
 
-The Tokyo Price [Index](../i/index_instrument.md), commonly referred to as TOPIX, is one of Japan's premier [stock market](../s/stock_market.md) indices. It tracks all domestic companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md)'s (TSE) First Section. Introduced in 1968, TOPIX is a free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that serves as a barometer for the Japanese [equity market](../e/equity_market.md) as well as an important gauge for investors and [fund](../f/fund.md) managers both within Japan and internationally. 
+The Tokyo Price [Index](../i/index_instrument.md), commonly referred to as TOPIX, is one of Japan's premier [stock market](../s/stock_market.md) indices. It tracks all domestic companies [listed](../l/listed.md) on the Tokyo Stock [Exchange](../e/exchange.md)'s (TSE) First Section. Introduced in 1968, TOPIX is a free-[float](../f/float.md) adjusted [market capitalization](../m/market_capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md) that serves as a barometer for the Japanese [equity market](../e/equity_market.md) as well as an important gauge for investors and [fund](../f/fund.md) managers both within Japan and internationally.
 
 ## History and Development
-TOPIX was established on July 1, 1968. While the [Nikkei](../n/nikkei.md) 225, another well-known Japanese stock [market index](../m/market_index.md), is a [price-weighted index](../p/price-weighted_index.md) similar to the Dow Jones Industrial Average, TOPIX offers a broader and arguably more comprehensive overview of the Japanese [stock market](../s/stock_market.md) since it includes all companies [listed](../l/listed.md) in the TSE First Section. 
+TOPIX was established on July 1, 1968. While the [Nikkei](../n/nikkei.md) 225, another well-known Japanese stock [market index](../m/market_index.md), is a [price-weighted index](../p/price-weighted_index.md) similar to the Dow Jones Industrial Average, TOPIX offers a broader and arguably more comprehensive overview of the Japanese [stock market](../s/stock_market.md) since it includes all companies [listed](../l/listed.md) in the TSE First Section.
 
 ## Index Calculation
 TOPIX is a free-[float](../f/float.md) adjusted [capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) [index](../i/index_instrument.md). This means that the [index](../i/index_instrument.md) calculation takes into account only the readily available [shares](../s/shares.md) in the [market](../m/market.md), excluding those not available for trading such as [shares](../s/shares.md) held by governments, strategic investors, and closely held [shares](../s/shares.md). The formula for calculating TOPIX is as follows:
@@ -33,13 +33,13 @@ Reviews and [rebalancing](../r/rebalancing.md) of TOPIX constituents occur perio
 TOPIX serves [multiple](../m/multiple.md) purposes within the financial ecosystem:
 
 1. **[Benchmark](../b/benchmark.md) for [Fund](../f/fund.md) Managers:**
-   [Fund](../f/fund.md) managers use TOPIX as a [benchmark](../b/benchmark.md) to gauge the performance of mutual funds, ETFs, and other investment portfolios.
+ [Fund](../f/fund.md) managers use TOPIX as a [benchmark](../b/benchmark.md) to gauge the performance of mutual funds, ETFs, and other investment portfolios.
 
 2. **[Economic Indicator](../e/economic_indicator.md):**
-   Given its wide coverage of Japanese companies, TOPIX is a significant [indicator](../i/indicator.md) of the health of Japan’s [economy](../e/economy.md).
+ Given its wide coverage of Japanese companies, TOPIX is a significant [indicator](../i/indicator.md) of the health of Japan’s [economy](../e/economy.md).
 
 3. **Investment Products:**
-   TOPIX is utilized as a base for various financial products including [index](../i/index_instrument.md) funds, ETFs, and [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and [options](../o/options.md).
+ TOPIX is utilized as a base for various financial products including [index](../i/index_instrument.md) funds, ETFs, and [derivatives](../d/derivatives.md) like [futures](../f/futures.md) and [options](../o/options.md).
 
 ## Performance and Volatility
 Over the decades, TOPIX has shown significant variance reflective of Japan's [economic conditions](../e/economic_conditions.md). Notably, the [index](../i/index_instrument.md) soared during Japan's [asset](../a/asset.md) price bubble in the late 1980s but plunged significantly during the [market](../m/market.md) crash of the early 1990s. It has since experienced [multiple](../m/multiple.md) periods of growth and decline, affected by both domestic and international economic factors.
@@ -75,4 +75,4 @@ These sub-indices provide investors with targeted exposure within various segmen
 Fintech platforms [leverage](../l/leverage.md) the comprehensive data of TOPIX to [offer](../o/offer.md) new services, including robo-advisory, real-time analytics, and retail investment solutions. These developments have democratized access to high-quality investment opportunities and diversified [risk management](../r/risk_management.md).
 
 ## Conclusion
-As one of Japan’s key stock indices, TOPIX plays an essential role in the global financial [market](../m/market.md). Its broad coverage of Japanese companies presents investors with a comprehensive look at the Japanese [economy](../e/economy.md), making it an invaluable tool for [fund](../f/fund.md) managers, individual investors, and algorithmic traders alike. By continuously evolving and accommodating [market dynamics](../m/market_dynamics.md), TOPIX remains at the forefront of Japan's financial landscape. For more information, you can visit the Tokyo Stock [Exchange](../e/exchange.md)'s TOPIX page: [Tokyo Stock Exchange - TOPIX](https://www.jpx.co.jp/english/markets/indices/topix/index.html).
+As one of Japan’s key stock indices, TOPIX plays an essential role in the global financial [market](../m/market.md). Its broad coverage of Japanese companies presents investors with a comprehensive look at the Japanese [economy](../e/economy.md), making it an invaluable tool for [fund](../f/fund.md) managers, individual investors, and algorithmic traders alike. By continuously evolving and accommodating [market dynamics](../m/market_dynamics.md), TOPIX remains at the forefront of Japan's financial landscape. For more information, consult Tokyo Stock [Exchange](../e/exchange.md) materials on TOPIX.

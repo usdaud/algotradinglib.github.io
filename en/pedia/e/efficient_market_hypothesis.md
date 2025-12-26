@@ -10,7 +10,7 @@ The roots of EMH can be traced back to the early 20th century, but it was formal
 EMH is generally categorized into three forms, each varying by the level of information considered to be reflected in [asset](../a/asset.md) prices:
 
 - **Weak Form EMH:** This form asserts that all past trading information is fully incorporated into current [asset](../a/asset.md) prices. [Technical analysis](../t/technical_analysis.md), which relies on historical price and [volume](../v/volume.md) data, is thus ineffective.
-  
+
 - **Semi-Strong Form EMH:** This form posits that all publicly available information—such as [financial statements](../f/financial_statements.md), news, and [economic indicators](../e/economic_indicators.md)—is already factored into [asset](../a/asset.md) prices. Thus, [fundamental analysis](../f/fundamental_analysis.md), which seeks to identify [undervalued](../u/undervalued.md) or [overvalued](../o/overvalued.md) [stocks](../s/stock.md), cannot provide consistent excess returns.
 
 - **Strong Form EMH:** The most stringent form, claiming that all information, public and private (insider information), is fully reflected in [asset](../a/asset.md) prices. According to this form, even insiders cannot achieve superior returns consistently.
@@ -20,32 +20,32 @@ The implications of EMH for [trading strategies](../t/trading_strategies.md) are
 
 ### Active vs. Passive Management
 - **[Active Management](../a/active_management.md):** Involves selecting [stocks](../s/stock.md) or other securities in an attempt to [outperform](../o/outperform.md) the [market](../m/market.md). Given EMH, the likelihood of consistently achieving substantial returns through [active management](../a/active_management.md) is low.
-  
+
 - **Passive Management:** Focuses on replicating [market](../m/market.md) indices and minimizing costs. The rationale is that, in efficient markets, passive management is more cost-effective and yields returns comparable to the [market](../m/market.md) average.
 
 ## Empirical Evidence
 The empirical evidence for and against EMH is mixed. Numerous studies have tested the hypothesis, leading to varied conclusions:
 
 - **Supporting Evidence:** Some studies have shown that stock prices follow a random walk, implying that past price movements are not indicative of future performance. Additionally, the success of [passive index funds](../p/passive_index_funds.md) over extended periods provides support for EMH.
-  
+
 - **Contrary Evidence:** Instances of [market anomalies](../m/market_anomalies.md), such as [momentum](../m/momentum.md) effects and [value](../v/value.md) premiums, suggest that certain strategies can [yield](../y/yield.md) excess returns. [Behavioral finance](../b/behavioral_finance.md) also highlights that psychological factors can cause mispricings.
 
 ## Behavioral Finance Challenges
 [Behavioral finance](../b/behavioral_finance.md) poses significant challenges to EMH by demonstrating that [cognitive biases](../c/cognitive_biases_in_trading.md), emotions, and social factors can lead to irrational investment decisions and [market](../m/market.md) inefficiencies. Common biases include:
 
 - **Overconfidence:** Investors overestimate their ability to predict [market](../m/market.md) movements.
-  
+
 - **[Anchoring](../a/anchoring.md):** Relying too heavily on initial information when making decisions.
-  
+
 - **[Herd Behavior](../h/herd_behavior_in_trading.md):** Following the majority, leading to [bubbles](../b/bubble.md) and crashes.
 
 ### Market Anomalies
 [Market anomalies](../m/market_anomalies.md) that challenge EMH include:
 
 - **[January Effect](../j/january_effect.md):** [Stocks](../s/stock.md) tend to perform better in January compared to other months.
-  
+
 - **Small [Firm](../f/firm.md) Effect:** Smaller companies often [yield](../y/yield.md) higher returns than larger ones.
-  
+
 - **Post-[Earnings Announcement](../e/earnings_announcement.md) Drift:** [Stocks](../s/stock.md) can continue to drift in the direction of an [earnings](../e/earnings.md) surprise for an extended period.
 
 ## Technological Impact
@@ -69,6 +69,5 @@ The Efficient [Market](../m/market.md) Hypothesis remains a cornerstone of [fina
 
 For further learning and current resources, visit:
 
-- [Eugene Fama's Profile at Chicago Booth](https://www.chicagobooth.edu/faculty/directory/f/eugene-f-fama)
-- [Dimensional Fund Advisors](https://www.dimensional.com/)
-
+- Eugene Fama's Profile at Chicago Booth
+- Dimensional Fund Advisors

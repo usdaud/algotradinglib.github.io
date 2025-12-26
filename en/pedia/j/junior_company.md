@@ -33,4 +33,3 @@ A **Junior Company** is a small to medium-sized enterprise, often in the early s
 
 ## Conclusion
 Junior companies are vital players in the natural resource sector, driving exploration and the discovery of new resources. While they present significant risks, they also [offer](../o/offer.md) substantial rewards for successful discoveries. Understanding the dynamics, challenges, and [best practices](../b/best_practices.md) of junior companies can help investors and stakeholders make informed decisions and support the growth and development of these enterprises.
-

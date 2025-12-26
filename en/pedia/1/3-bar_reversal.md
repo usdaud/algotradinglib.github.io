@@ -88,7 +88,7 @@ def identify_3_bar_reversal(data):
     [return](../r/return.md) signals
 
 # Sample Data
-data = pd.DataFrame({
+data = pd.DataFrame{
     '[Open](../o/open.md)': [100, 94, 93, 100, 104, 106],
     'Close': [95, 92, 97, 105, 107, 102],
     'High': [101, 96, 98, 106, 108, 107],
@@ -106,7 +106,7 @@ Although effective, the 3-bar [reversal](../r/reversal.md) pattern has its limit
 3. **[Lagging Indicator](../l/lagging_indicator.md)**: Being a [reversal](../r/reversal.md) pattern, it lags behind the current [price action](../p/price_action.md) and may miss the optimal entry or exit points.
 
 ## Case Study: QuantConnect Integration
-[QuantConnect](../q/quantconnect.md) is a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) capable of implementing various [trading strategies](../t/trading_strategies.md), including the 3-bar [reversal](../r/reversal.md) pattern. Users can write code in Python, C#, or F# to backtest and deploy their strategies. For more details, visit their website: [QuantConnect](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) [infrastructure](../i/infrastructure.md) capable of implementing various [trading strategies](../t/trading_strategies.md), including the 3-bar [reversal](../r/reversal.md) pattern. Users can write code in Python, C#, or F# to backtest and deploy their strategies.
 
 ### Implementation Example:
 ```python
@@ -148,4 +148,4 @@ class ThreeBarReversalAlgorithm(QCAlgorithm):
 ## Conclusion
 The 3-Bar [Reversal](../r/reversal.md) is a powerful pattern for detecting potential [trend](../t/trend.md) reversals in [financial markets](../f/financial_market.md). Its structured nature facilitates easy integration into [algorithmic trading](../a/algorithmic_trading.md) systems, where it can be used to trigger buy and sell signals based on predefined criteria. However, it's essential to consider its limitations and backtest thoroughly to ensure its effectiveness in different [market](../m/market.md) conditions.
 
-By leveraging platforms like [QuantConnect](../q/quantconnect.md), traders can develop, backtest, and deploy sophisticated strategies that incorporate the 3-bar [reversal](../r/reversal.md) pattern, aligning automated decisions with their trading goals.
+By leveraging platforms like [QuantConnect](../q/quantconnect.md), traders can develop, backtest, and deploy sophisticated strategies that incorporate the 3-bar [reversal](../r/reversal.md) pattern, aligning automated decisions with their trading goals.

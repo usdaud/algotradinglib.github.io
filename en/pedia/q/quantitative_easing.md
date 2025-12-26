@@ -32,7 +32,6 @@ The Federal Reserve implemented QE in several phases:
 - **QE2** (2010-2011): The Fed bought $600 billion in long-term Treasury securities to lower long-term [interest](../i/interest.md) rates.
 - **QE3** (2012-2014): An [open](../o/open.md)-ended program that involved monthly purchases of $40 billion in [mortgage](../m/mortgage.md)-backed securities and $45 billion in Treasury securities until substantial economic improvement was seen.
 
-For more information, visit the Federal Reserve's official page: [Federal Reserve](https://www.federalreserve.gov/)
 
 #### European Central Bank (ECB)
 
@@ -41,7 +40,6 @@ The ECB's QE program, known as the Public Sector Purchase Programme (PSPP), bega
 - In 2016, the ECB expanded this to €80 billion per month and included corporate bonds.
 - The focus was on promoting [economic recovery](../e/economic_recovery.md) and raising [inflation](../i/inflation.md) rates closer to the target levels.
 
-More details can be found on the ECB's site: [European Central Bank](https://www.ecb.europa.eu)
 
 #### Japan - Bank of Japan (BOJ)
 
@@ -49,7 +47,7 @@ The BOJ embarked on quantitative and qualitative monetary easing (QQE) in 2013 t
 - The BOJ's purchases included Japanese government bonds (JGBs), [exchange](../e/exchange.md)-traded funds (ETFs), and Japan [real estate](../r/real_estate.md) investment trusts (REITs).
 - The [bank](../b/bank.md) committed to doubling the [monetary base](../m/monetary_base.md) within two years to stimulate [inflation](../i/inflation.md) and economic activity.
 
-Further information is accessible here: [Bank of Japan](https://www.boj.or.jp/en/)
+Further information is accessible here: Bank of Japan
 
 ### Criticisms and Challenges
 
@@ -75,6 +73,6 @@ With the experience gained from past implementations, central banks have refined
 As global economies navigate post-pandemic recovery, QE remains an essential tool in the [monetary policy](../m/monetary_policy.md) arsenal. Policymakers continue to explore its limits, effectiveness, and long-term implications for sustainable [economic growth](../e/economic_growth.md).
 
 For further details on guidelines and research related to Quantitative Easing, consider visiting the major central banks' websites:
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu)
-- [Bank of Japan](https://www.boj.or.jp/en/)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan

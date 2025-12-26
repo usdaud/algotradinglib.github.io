@@ -56,6 +56,3 @@ MetaStock employs [robust](../r/robust.md) [security](../s/security.md) protocol
 - **Data Encryption**: Protecting sensitive information with advanced encryption technologies.
 - **Secure Data Transmission**: Ensuring the secure transmission of data between the software and data providers.
 - **Regular Updates**: Continuously updating the software to address [security](../s/security.md) vulnerabilities and enhance functionality.
-
-## Website
-For more information about MetaStock and their services, visit the official website: [MetaStock](https://www.metastock.com/)

@@ -90,13 +90,13 @@ Wal-Mart employs a [robust](../r/robust.md) working [capital](../c/capital.md) m
 Several software solutions assist in automating and optimizing working [capital](../c/capital.md) management processes. These include:
 
 ### 8.1 SAP S/4HANA
-SAP S/4HANA provides comprehensive tools for managing working [capital](../c/capital.md), including [cash management](../c/cash_management.md), [liquidity](../l/liquidity.md) planning, and [financial risk management](../f/financial_risk_management.md). [SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html)
+SAP S/4HANA provides comprehensive tools for managing working [capital](../c/capital.md), including [cash management](../c/cash_management.md), [liquidity](../l/liquidity.md) planning, and [financial risk management](../f/financial_risk_management.md). SAP S/4HANA
 
 ### 8.2 Oracle ERP Cloud
-Oracle ERP Cloud offers solutions for managing receivables, payables, cash, and [inventory](../i/inventory.md), providing real-time insights and analytics for better working [capital](../c/capital.md) management. [Oracle ERP Cloud](https://www.oracle.com/erp/financials/)
+Oracle ERP Cloud offers solutions for managing receivables, payables, cash, and [inventory](../i/inventory.md), providing real-time insights and analytics for better working [capital](../c/capital.md) management. Oracle ERP Cloud
 
 ### 8.3 Microsoft Dynamics 365
-Microsoft Dynamics 365 includes financial management tools that assist in managing accounts payable, accounts [receivable](../r/receivable.md), [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md), and [inventory management](../i/inventory_management.md). [Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/finance/)
+Microsoft Dynamics 365 includes financial management tools that assist in managing accounts payable, accounts [receivable](../r/receivable.md), [cash flow](../c/cash_flow.md) [forecasting](../f/forecasting.md), and [inventory management](../i/inventory_management.md). Microsoft Dynamics 365
 
 ## 9. Conclusion
 Working [capital](../c/capital.md) management is a critical aspect of financial management that ensures the company has sufficient [liquidity](../l/liquidity.md) to meet its short-term [obligations](../o/obligation.md) while optimizing [operational efficiency](../o/operational_efficiency_in_trading.md) and profitability. Through effective management of [inventory](../i/inventory.md), receivables, payables, and cash, businesses can achieve financial stability and support long-term growth objectives.

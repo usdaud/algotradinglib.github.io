@@ -64,7 +64,7 @@ Understanding the implications of identifying a weak sister is crucial for trade
 
 At the peak of its success, BlackBerry (formerly known as Research In Motion) was a strong player in the smartphone [industry](../i/industry.md) with a significant [market share](../m/market_share.md). However, as Apple Inc. introduced the iPhone, BlackBerry started to lag behind due to its inability to innovate at the same pace, eventually becoming a weak sister in the tech sector.
 
-Link to BlackBerry Ltd: [BlackBerry Ltd](https://www.blackberry.com)
+Link to BlackBerry Ltd: BlackBerry Ltd
 
 ### Automobile Sector
 
@@ -72,10 +72,10 @@ Link to BlackBerry Ltd: [BlackBerry Ltd](https://www.blackberry.com)
 
 In the auto sector, traditional automakers like Ford have recently struggled to keep up with rapidly innovating firms like Tesla. Ford, grappling with the challenges of transitioning to electric vehicles and modernizing its [business](../b/business.md) model, could be seen as a weak sister relative to Tesla.
 
-Link to Ford Motor Company: [Ford Motor Company](https://www.ford.com)
+Link to Ford Motor Company: Ford Motor Company
 
 ## Conclusion
 
-Recognizing and understanding weak sisters within [financial markets](../f/financial_market.md) offers traders and investors unique insights and opportunities. By employing [relative performance metrics](../r/relative_performance_metrics.md), [technical analysis](../t/technical_analysis.md), and various [trading strategies](../t/trading_strategies.md), one can effectively navigate the risks and potentials these underperformers present. Despite the inherent challenges, weak sisters can be leveraged for [value](../v/value.md) investments, strategic hedging, and advanced [algorithmic trading](../a/accountability.md).
+Recognizing and understanding weak sisters within [financial markets](../f/financial_market.md) offers traders and investors unique insights and opportunities. By employing [relative performance metrics](../r/relative_performance_metrics.md), [technical analysis](../t/technical_analysis.md), and various [trading strategies](../t/trading_strategies.md), one can effectively navigate the risks and potentials these underperformers present. Despite the inherent challenges, weak sisters can be leveraged for [value](../v/value.md) investments, strategic hedging, and advanced [algorithmic trading](../a/algorithmic_trading.md).
 
 As markets evolve, the role and importance of identifying weak sisters [will](../w/will.md) continue to be pivotal, serving as both a cautionary marker and a beacon for strategic opportunities.

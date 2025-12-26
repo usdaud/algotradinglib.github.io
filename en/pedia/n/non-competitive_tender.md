@@ -55,7 +55,7 @@ Similar practices are observed in various countries, though specific terms and c
 
 The use of non-competitive tenders continues to be an essential mechanism in modern [financial markets](../f/financial_market.md). Advances in financial technology (fintech) have further streamlined the bidding process, making it more accessible and efficient. Online platforms and electronic submission of bids have minimized paperwork and expedited the allocation process.
 
-For example, platforms like [TreasuryDirect](https://www.treasurydirect.gov) in the United States allow individual investors to participate in non-competitive tenders directly online, enhancing accessibility and convenience.
+For example, platforms like TreasuryDirect in the United States allow individual investors to participate in non-competitive tenders directly online, enhancing accessibility and convenience.
 
 ### 9. Conclusion
 

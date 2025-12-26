@@ -86,23 +86,23 @@ Several tools and resources are available to help traders analyze NYSE [market d
 
 Advanced trading platforms provide real-time [market depth](../m/market_depth.md) data and tools for analyzing [order book dynamics](../o/order_book_dynamics.md). Examples include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform [offering](../o/offering.md) real-time data, news, and analytics. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **[Reuters](../r/reuters.md) Eikon**: A powerful platform for accessing [real-time market data](../r/real-time_market_data.md) and executing trades. [Refinitiv Eikon](https://eikon.thomsonreuters.com/index.html)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [range](../r/range.md) of tools and data feeds for algorithmic traders. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: A comprehensive platform [offering](../o/offering.md) real-time data, news, and analytics. Bloomberg
+- **[Reuters](../r/reuters.md) Eikon**: A powerful platform for accessing [real-time market data](../r/real-time_market_data.md) and executing trades. Refinitiv Eikon
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [range](../r/range.md) of tools and data feeds for algorithmic traders. Interactive Brokers
 
 ### 2. Data Feeds
 
 Real-time and historical [market depth](../m/market_depth.md) data feeds are essential for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies. Providers include:
 
-- **NYFIX**: Offers a [range](../r/range.md) of data feeds and trading solutions. [NYFIX](https://www.broadridge.com/nyfix)
-- **[QuantConnect](../q/quantconnect.md)**: Provides data feeds and an integrated [algorithmic trading](../a/algorithmic_trading.md) platform. [QuantConnect](https://www.quantconnect.com/)
-- **[AlgoSeek](../a/algoseek.md)**: Specializes in high-frequency [market](../m/market.md) data for [backtesting](../b/backtesting.md). [AlgoSeek](https://www.algoseek.com/)
+- **NYFIX**: Offers a [range](../r/range.md) of data feeds and trading solutions. NYFIX
+- **[QuantConnect](../q/quantconnect.md)**: Provides data feeds and an integrated [algorithmic trading](../a/algorithmic_trading.md) platform. QuantConnect
+- **[AlgoSeek](../a/algoseek.md)**: Specializes in high-frequency [market](../m/market.md) data for [backtesting](../b/backtesting.md). AlgoSeek
 
 ### 3. Analytical Tools
 
 Analytical tools help traders process and visualize [market depth](../m/market_depth.md) data to identify trading opportunities. Examples include:
 
-- **Bookmap**: Visualizes [market depth](../m/market_depth.md) and [order](../o/order.md) flow. [Bookmap](https://bookmap.com/)
+- **Bookmap**: Visualizes [market depth](../m/market_depth.md) and [order](../o/order.md) flow. Bookmap
 - **[Heatmap](../h/heatmap.md)**: Displays the intensity of buy and sell orders at different price levels.
 
 ## Conclusion

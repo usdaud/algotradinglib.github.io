@@ -46,20 +46,20 @@ Several factors can influence a company's ROA, and understanding these can help 
 
 Tech Innovators Inc. is a leading company in the [technology sector](../t/technology_sector.md). Let’s analyze its ROA over the past three years:
 
-- **Year 1**: 
-  - Net [Income](../i/income.md): $50 million
-  - Total Assets: $200 million
-  - ROA: \( \frac{50,000,000}{200,000,000} = 0.25 \, \text{or} \, 25\% \)
+- **Year 1**:
+ - Net [Income](../i/income.md): $50 million
+ - Total Assets: $200 million
+ - ROA: \( \frac{50,000,000}{200,000,000} = 0.25 \, \text{or} \, 25\% \)
 
-- **Year 2**: 
-  - Net [Income](../i/income.md): $60 million
-  - Total Assets: $220 million
-  - ROA: \( \frac{60,000,000}{220,000,000} \approx 0.273 \, \text{or} \, 27.3\% \)
+- **Year 2**:
+ - Net [Income](../i/income.md): $60 million
+ - Total Assets: $220 million
+ - ROA: \( \frac{60,000,000}{220,000,000} \approx 0.273 \, \text{or} \, 27.3\% \)
 
-- **Year 3**: 
-  - Net [Income](../i/income.md): $70 million
-  - Total Assets: $250 million
-  - ROA: \( \frac{70,000,000}{250,000,000} = 0.28 \, \text{or} \, 28\% \)
+- **Year 3**:
+ - Net [Income](../i/income.md): $70 million
+ - Total Assets: $250 million
+ - ROA: \( \frac{70,000,000}{250,000,000} = 0.28 \, \text{or} \, 28\% \)
 
 Tech Innovators Inc. demonstrates an increasing ROA over the years, indicative of efficient [asset management](../a/asset_management.md) and growing profitability.
 
@@ -67,20 +67,20 @@ Tech Innovators Inc. demonstrates an increasing ROA over the years, indicative o
 
 Financial Services Inc. operates in the banking sector, featuring different [asset](../a/asset.md) structures and profitability margins:
 
-- **Year 1**: 
-  - Net [Income](../i/income.md): $80 million
-  - Total Assets: $1 billion
-  - ROA: \( \frac{80,000,000}{1,000,000,000} = 0.08 \, \text{or} \, 8\% \)
+- **Year 1**:
+ - Net [Income](../i/income.md): $80 million
+ - Total Assets: $1 billion
+ - ROA: \( \frac{80,000,000}{1,000,000,000} = 0.08 \, \text{or} \, 8\% \)
 
-- **Year 2**: 
-  - Net [Income](../i/income.md): $90 million
-  - Total Assets: $1.1 billion
-  - ROA: \( \frac{90,000,000}{1,100,000,000} \approx 0.082 \, \text{or} \, 8.2\% \)
+- **Year 2**:
+ - Net [Income](../i/income.md): $90 million
+ - Total Assets: $1.1 billion
+ - ROA: \( \frac{90,000,000}{1,100,000,000} \approx 0.082 \, \text{or} \, 8.2\% \)
 
-- **Year 3**: 
-  - Net [Income](../i/income.md): $85 million
-  - Total Assets: $1.2 billion
-  - ROA: \( \frac{85,000,000}{1,200,000,000} = 0.0708 \, \text{or} \, 7.08\% \)
+- **Year 3**:
+ - Net [Income](../i/income.md): $85 million
+ - Total Assets: $1.2 billion
+ - ROA: \( \frac{85,000,000}{1,200,000,000} = 0.0708 \, \text{or} \, 7.08\% \)
 
 Financial Services Inc. illustrates how ROA can fluctuate due to changes in net [income](../i/income.md) and [asset](../a/asset.md) [acquisition](../a/acquisition.md), [offering](../o/offering.md) insights into the company's operational dynamics.
 
@@ -97,6 +97,6 @@ Incorporating ROA into [algorithmic trading](../a/algorithmic_trading.md) strate
 
 [Return](../r/return.md) on Assets (ROA) is an essential metric in [algorithmic trading](../a/algorithmic_trading.md), providing valuable insights into a company's [efficiency](../e/efficiency.md) in using its assets to generate [profit](../p/profit.md). By understanding and leveraging ROA, traders and algorithms can make more informed and strategic investment decisions. As the financial landscape continues to evolve, the integration of such fundamental metrics into [algorithmic trading](../a/algorithmic_trading.md) strategies [will](../w/will.md) remain pivotal in achieving optimal trading outcomes.
 
-For a practical implementation of ROA-focused [algorithmic trading](../a/algorithmic_trading.md), you can visit the [Alpaca](https://alpaca.markets/) platform, which offers [robust](../r/robust.md) APIs for automated trading.
+For a practical implementation of ROA-focused [algorithmic trading](../a/algorithmic_trading.md), you can visit the Alpaca platform, which offers [robust](../r/robust.md) APIs for automated trading.
 
 By incorporating ROA and other financial metrics, [algorithmic trading](../a/algorithmic_trading.md) systems can achieve a more nuanced and effective approach to [market](../m/market.md) analysis, [risk](../r/risk.md) assessment, and [portfolio management](../p/portfolio_management.md).

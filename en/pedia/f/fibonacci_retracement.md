@@ -24,8 +24,7 @@ To apply Fibonacci [retracement](../r/retracement.md), traders identify a major 
 
 ### Drawing the Fibonacci Retracement
 
-Using charting software or platforms like Thinkorswim (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page), traders can easily draw Fibonacci [retracement](../r/retracement.md) levels. The tool plots horizontal lines at each of the key Fibonacci levels between the high and low points. 
-
+Using charting software or platforms like Thinkorswim ( traders can easily draw Fibonacci [retracement](../r/retracement.md) levels. The tool plots horizontal lines at each of the key Fibonacci levels between the high and low points.
 ### Interpreting the Levels
 
 These levels help traders predict where an [asset](../a/asset.md)’s price might revisit support or resistance zones before continuing its original [trend](../t/trend.md). It allows for better timing of entries and exits in trades, aiding in effective [risk management](../r/risk_management.md).
@@ -66,9 +65,9 @@ Just as useful in [equity](../e/equity.md) markets, Fibonacci [retracement](../r
 Several trading platforms incorporate Fibonacci [retracement](../r/retracement.md) tools. Some prominent platforms include:
 
 - **MetaTrader 4 and 5**: [Offering](../o/offering.md) comprehensive tools for Fibonacci analysis.
-- **[TradingView](../t/tradingview.md)**: Widely used for its user-friendly interface and extensive charting capabilities. (https://www.[tradingview](../t/tradingview.md).com/)
-- **Thinkorswim**: Powered by TD [Ameritrade](../a/ameritrade.md), known for [robust](../r/robust.md) analytical tools. (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **Chandelier TPS**: A newer platform that also integrates Fibonacci tools along with proprietary indicators. 
+- **[TradingView](../t/tradingview.md)**: Widely used for its user-friendly interface and extensive charting capabilities. (
+- **Thinkorswim**: Powered by TD [Ameritrade](../a/ameritrade.md), known for [robust](../r/robust.md) analytical tools. (
+- **Chandelier TPS**: A newer platform that also integrates Fibonacci tools along with proprietary indicators.
 
 ## Limitations
 

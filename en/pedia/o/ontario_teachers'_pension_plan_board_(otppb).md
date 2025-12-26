@@ -2,7 +2,7 @@
 
 The Ontario Teachers' [Pension Plan](../p/pension_plan.md) Board (OTPPB) is one of the world's largest and most sophisticated institutional investors. It was founded in 1990 and is responsible for managing the investment, administration, and funding of the Ontario Teachers' [Pension Plan](../p/pension_plan.md), which serves approximately 330,000 active and retired teachers in Ontario, Canada. This deep dive [will](../w/will.md) cover various facets of OTPPB, including its history, investment strategies, governance structure, and its significance in the financial world.
 
-## History and Background 
+## History and Background
 
 Founded in 1990, OTPPB was created to manage the pension assets of Ontario teachers independently from the provincial government. Before its establishment, pension funds were traditionally managed by government entities, often leading to perceived inefficiencies and lack of [robust](../r/robust.md) investment strategies. The creation of OTPPB aimed to establish a more agile and [market](../m/market.md)-oriented approach to pension [fund](../f/fund.md) management.
 
@@ -23,20 +23,20 @@ OTPPB is known for its sophisticated approach to [investment management](../i/in
 OTPPB employs a [dynamic asset allocation](../d/dynamic_asset_allocation.md) strategy, [investing](../i/investing.md) in private and public equities, [fixed income](../f/fixed_income.md), real assets (including [real estate](../r/real_estate.md) and [infrastructure](../i/infrastructure.md)), and alternative investments like [hedge](../h/hedge.md) funds and [private equity](../p/private_equity.md). The allocation is periodically adjusted based on [market](../m/market.md) conditions, [risk tolerance](../r/risk_tolerance.md), and the long-term nature of the pension liabilities.
 
 - **Public Equities**: OTPPB invests in equities [listed](../l/listed.md) on stock exchanges globally. These investments are diversified across sectors and geographies to mitigate risks.
-  
+
 - **[Fixed Income](../f/fixed_income.md)**: This includes government and corporate bonds. OTPPB strategically invests in [fixed income](../f/fixed_income.md) to provide a stable [return](../r/return.md) and act as a counterbalance to more volatile [asset](../a/asset.md) classes.
-  
+
 - **Real Assets**: OTPPB has substantial investments in [real estate](../r/real_estate.md) and [infrastructure](../i/infrastructure.md). [Real estate](../r/real_estate.md) investments include commercial properties, residential units, and industrial complexes. [Infrastructure](../i/infrastructure.md) investments cover utilities, transport networks, and natural resources.
-  
+
 - **[Private Equity](../p/private_equity.md)**: OTPPB has a [robust](../r/robust.md) [private equity](../p/private_equity.md) portfolio consisting of direct investments and partnerships with leading [private equity](../p/private_equity.md) firms. These investments provide higher returns and diversify [risk](../r/risk.md).
-  
+
 - **[Hedge](../h/hedge.md) Funds and Alternatives**: OTPPB also invests in [hedge](../h/hedge.md) funds and other alternative strategies to achieve non-correlated returns and additional [diversification](../d/diversification.md).
 
 ### Active Management
 
 Unlike many pension funds that rely heavily on [passive investment strategies](../p/passive_investment_strategies.md), OTPPB actively manages a significant portion of its portfolio. The organization uses internal teams and external managers to identify opportunities, perform [due diligence](../d/due_diligence.md), and execute investment decisions. [Active management](../a/active_management.md) allows OTPPB to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies and generate [alpha](../a/alpha.md).
 
-### Risk Management 
+### Risk Management
 
 [Risk management](../r/risk_management.md) at OTPPB is a sophisticated, multi-layered process. They employ various tools and techniques including [risk](../r/risk.md) modeling, [stress testing](../s/stress_testing.md), and [scenario analysis](../s/scenario_analysis.md) to ensure the portfolio is resilient under different [economic conditions](../e/economic_conditions.md). The [risk management](../r/risk_management.md) framework is integrated into the investment decision-making process, ensuring that all strategies align with the overall [risk tolerance](../r/risk_tolerance.md) of the plan.
 
@@ -84,4 +84,3 @@ Strong [corporate governance](../c/corporate_governance.md) is a pillar of OTPPB
 
 The Ontario Teachers' [Pension Plan](../p/pension_plan.md) Board (OTPPB) stands as a beacon of excellence in the world of pension [fund](../f/fund.md) management. Its sophisticated investment strategies, strong governance, technological innovation, and commitment to sustainability have positioned it as a leader in the financial [industry](../i/industry.md). With a focus on generating long-term [value](../v/value.md) and managing [risk](../r/risk.md), OTPPB continues to secure the financial [futures](../f/futures.md) of Ontario’s teachers and set benchmarks for institutional investors globally.
 
-For more information, you can visit the official website of [Ontario Teachers' Pension Plan Board (OTPPB)](https://www.otpp.com).

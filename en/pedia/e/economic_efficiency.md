@@ -59,11 +59,11 @@ Effective [risk management](../r/risk_management.md) is another dimension of eco
 
 ## High-Frequency Trading (HFT)
 
-HFT is a subset of [algorithmic trading](../a/accountability.md) characterized by extremely high speeds and massive trading volumes. Firms like Citadel Securities (https://www.citadelsecurities.com/) and Virtu Financial (https://www.virtu.com/) exemplify [market](../m/market.md) players leveraging technological advancements to capture minuscule [arbitrage opportunities](../a/arbitrage_opportunities.md), providing [liquidity](../l/liquidity.md) and enhancing [market efficiency](../m/market_efficiency.md). However, HFT also raises concerns about [market manipulation](../m/market_manipulation.md) and [systemic risk](../s/systemic_risk.md), leading to ongoing regulatory scrutiny.
+HFT is a subset of [algorithmic trading](../a/accountability.md) characterized by extremely high speeds and massive trading volumes. Firms like Citadel Securities ( and Virtu Financial ( exemplify [market](../m/market.md) players leveraging technological advancements to capture minuscule [arbitrage opportunities](../a/arbitrage_opportunities.md), providing [liquidity](../l/liquidity.md) and enhancing [market efficiency](../m/market_efficiency.md). However, HFT also raises concerns about [market manipulation](../m/market_manipulation.md) and [systemic risk](../s/systemic_risk.md), leading to ongoing regulatory scrutiny.
 
 ## Artificial Intelligence and Machine Learning
 
-AI and ML algorithms are transforming the landscape of [algorithmic trading](../a/accountability.md) by improving prediction accuracy and uncovering hidden patterns. Techniques such as [deep learning](../d/deep_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are being integrated to enhance model sophistication. Firms like Two Sigma (https://www.twosigma.com/) are at the forefront of employing such advanced techniques.
+AI and ML algorithms are transforming the landscape of [algorithmic trading](../a/accountability.md) by improving prediction accuracy and uncovering hidden patterns. Techniques such as [deep learning](../d/deep_learning.md), [reinforcement learning](../r/reinforcement_learning.md), and [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) are being integrated to enhance model sophistication. Firms like Two Sigma ( are at the forefront of employing such advanced techniques.
 
 ### Reinforcement Learning
 

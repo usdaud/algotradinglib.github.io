@@ -27,7 +27,7 @@ A [pip](../p/pip.md), or "percentage in point," is the smallest price movement i
 - Standard Lot: 100,000 units of the base [currency](../c/currency.md).
 - Mini Lot: 10,000 units of the base [currency](../c/currency.md).
 - Micro Lot: 1,000 units of the base [currency](../c/currency.md).
-  
+
 The monetary [value](../v/value.md) of one [pip](../p/pip.md) can be calculated depending on the lot size and the [quote](../q/quote.md) [currency](../c/currency.md).
 
 ### Leverage and Margin

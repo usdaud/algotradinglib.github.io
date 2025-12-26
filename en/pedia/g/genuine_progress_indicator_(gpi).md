@@ -37,17 +37,17 @@ The calculation of GPI involves several steps, often starting with GDP as a base
 1. **Starting Point**: Personal Consumption Expenditures (similar to GDP)
 2. **Adjustment**: Adjust for [income](../i/income.md) [distribution](../d/distribution.md) using an inequality weighting [index](../i/index_instrument.md).
 3. **Additions**:
-   - [Value](../v/value.md) of household work and volunteer work
-   - Public [infrastructure](../i/infrastructure.md) investments
-   - Benefits of higher education levels
-   - [Value](../v/value.md) of leisure time
+ - [Value](../v/value.md) of household work and volunteer work
+ - Public [infrastructure](../i/infrastructure.md) investments
+ - Benefits of higher education levels
+ - [Value](../v/value.md) of leisure time
 4. **Subtractions**:
-   - Cost of environmental degradation and resource [depletion](../d/depletion.md)
-   - Cost of climate change
-   - Cost of crime and family breakdown
-   - Health costs
-   - Cost of commuting
-   - Loss of leisure time due to increased working hours
+ - Cost of environmental degradation and resource [depletion](../d/depletion.md)
+ - Cost of climate change
+ - Cost of crime and family breakdown
+ - Health costs
+ - Cost of commuting
+ - Loss of leisure time due to increased working hours
 
 ## Advantages of GPI
 
@@ -74,11 +74,8 @@ Several countries and regions have adopted or experimented with GPI as an altern
 
 ## Conclusion
 
-The Genuine Progress [Indicator](../i/indicator.md) (GPI) offers a valuable alternative to GDP by providing a more comprehensive measure of economic, social, and environmental well-being. While it has its limitations and challenges, GPI represents an important step towards more holistic assessments of societal progress and offers valuable insights for policymakers aiming to enhance the [quality of life](../q/quality_of_life.md) in a sustainable manner. As data availability and methodologies improve, GPI has the potential to play an increasingly significant role in shaping future economic and social policies around the world. 
+The Genuine Progress [Indicator](../i/indicator.md) (GPI) offers a valuable alternative to GDP by providing a more comprehensive measure of economic, social, and environmental well-being. While it has its limitations and challenges, GPI represents an important step towards more holistic assessments of societal progress and offers valuable insights for policymakers aiming to enhance the [quality of life](../q/quality_of_life.md) in a sustainable manner. As data availability and methodologies improve, GPI has the potential to play an increasingly significant role in shaping future economic and social policies around the world.
 
 For more information, you can refer to the following links:
 
-- GPI Atlantic (Canada): [https://gpiatlantic.org/](https://gpiatlantic.org/)
-- Vermont GPI (USA): [https://legislature.vermont.gov/statutes/section/10/015/00607](https://legislature.vermont.gov/statutes/section/10/015/00607)
-- Maryland GPI (USA): [https://dnr.maryland.gov/mdgpi/Pages/default.aspx](https://dnr.maryland.gov/mdgpi/Pages/default.aspx)
-
+- GPI Atlantic (Canada)- Vermont GPI (USA)- Maryland GPI (USA)

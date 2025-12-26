@@ -67,7 +67,6 @@ While revocable trusts [offer](../o/offer.md) flexibility, the alternative, irre
 - **State Laws**: Regulations governing trusts can vary by state, so it is essential to consult with a legal professional familiar with local laws.
 - **Professional [Guidance](../g/guidance.md)**: Given the complexities involved in setting up a [trust](../t/trust.md), including tax implications and legal considerations, working with an attorney and [financial advisor](../f/financial_advisor.md) is often advisable.
 
-For more detailed information on establishing and managing revocable trusts, you can visit specialized [financial planning](../f/financial_planning.md) resources, like financial institutions and law [firm](../f/firm.md) websites. For instance, www.legalzoom.com and www.fidelity.com [offer](../o/offer.md) comprehensive [guidance](../g/guidance.md) on revocable trusts.
+For more detailed information on establishing and managing revocable trusts, you can visit specialized [financial planning](../f/financial_planning.md) resources, like financial institutions and law [firm](../f/firm.md) websites. For instance, and [offer](../o/offer.md) comprehensive [guidance](../g/guidance.md) on revocable trusts.
 
 In conclusion, a revocable [trust](../t/trust.md) is a versatile and powerful tool for individuals seeking a flexible [estate planning](../e/estate_planning.md) solution. By understanding its benefits, limitations, and the process of creating and managing a revocable [trust](../t/trust.md), grantors can make informed decisions that ensure their assets are protected and their wishes are honored.
-

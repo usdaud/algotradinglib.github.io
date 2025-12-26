@@ -69,10 +69,10 @@ Dividends paid by the [underlying](../u/underlying.md) stock can impact the [war
 ### Financial Institutions and Brokers
 Many financial institutions and brokers [offer](../o/offer.md) platforms for trading [warrants](../w/warrants_in_trading.md). They provide the necessary tools, [market](../m/market.md) data, and analytical resources to help traders make informed decisions.
 
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [E*TRADE](https://us.etrade.com/home)
-- [Charles Schwab](https://www.schwab.com/)
-- [TD Ameritrade](https://www.tdameritrade.com/)
+- Interactive Brokers
+- E*TRADE
+- Charles Schwab
+- TD Ameritrade
 
 ### Analytical Software
 Advanced analytical software can help traders model various scenarios and assess the potential profitability of [warrant](../w/warrant.md) trades. These tools typically [offer](../o/offer.md) real-time data, historical price charts, [volatility](../v/volatility.md) metrics, and [option pricing models](../o/option_pricing_models.md).

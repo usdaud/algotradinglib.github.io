@@ -19,9 +19,9 @@ Multi-[asset](../a/asset.md) trading platforms facilitate the [execution](../e/e
 - [Risk management](../r/risk_management.md) tools
 
 Examples of multi-[asset](../a/asset.md) trading platforms include:
-- **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg L.P.](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Refinitiv Eikon**: [Refinitiv](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **MetaTrader 5**: [MetaQuotes](https://www.metatrader5.com/en)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Bloomberg L.P.
+- **Refinitiv Eikon**: Refinitiv
+- **MetaTrader 5**: MetaQuotes
 
 ### Benefits of Multi-Asset Trading
 
@@ -66,12 +66,11 @@ Hedging involves taking positions in [multiple](../m/multiple.md) [asset](../a/a
 
 Several firms specialize in multi-[asset](../a/asset.md) trading, [offering](../o/offering.md) platforms and services designed to facilitate trading across various [asset](../a/asset.md) classes. Some notable firms include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **[Saxo Bank](../s/saxo_bank.md)**: [Saxo Bank](https://www.home.saxo/en-gb)
-- **[IG Group](../i/ig_group.md)**: [IG Group](https://www.ig.com)
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **[Saxo Bank](../s/saxo_bank.md)**: Saxo Bank
+- **[IG Group](../i/ig_group.md)**: IG Group
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab
 
 ### Conclusion
 
 Multi-[asset](../a/asset.md) trading offers a comprehensive approach to [investing](../i/investing.md) that leverages the strengths of various [asset](../a/asset.md) classes. By diversifying investments, managing [risk](../r/risk.md), and exploiting [arbitrage](../a/arbitrage.md) opportunities, traders can enhance their portfolios and improve their overall performance. However, this approach requires significant expertise, advanced technology, and a keen awareness of regulatory requirements. As [financial markets](../f/financial_market.md) continue to evolve, multi-[asset](../a/asset.md) trading is likely to become increasingly important for investors seeking to optimize their strategies and achieve long-term success.
-

@@ -83,7 +83,7 @@ Central banks manage reserves to facilitate these interventions. Generally, rese
 
 ## Algorithmic Trading and Exchange Rates
 
-In the realm of [algorithmic trading](../a/accountability.md), [exchange](../e/exchange.md) rates play a pivotal role. Algorithms analyze massive datasets to forecast [exchange](../e/exchange.md) rate movements and execute forex trades based on pre-set criteria. Companies like ThreeBrainFx (https://www.threebrainfx.com) specialize in creating algorithms for forex trading.
+In the realm of [algorithmic trading](../a/accountability.md), [exchange](../e/exchange.md) rates play a pivotal role. Algorithms analyze massive datasets to forecast [exchange](../e/exchange.md) rate movements and execute forex trades based on pre-set criteria. Companies like ThreeBrainFx ( specialize in creating algorithms for forex trading.
 
 ### Data Utilization
 Algorithms process a variety of data types, including [market](../m/market.md) trends, geopolitical events, and even social sentiment, to predict [currency](../c/currency.md) movements accurately. [Machine learning](../m/machine_learning.md) models refine these predictions over time, adjusting for errors and improving accuracy.

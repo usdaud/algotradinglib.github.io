@@ -43,14 +43,14 @@ While the Warehouse-to-Warehouse Clause offers extensive coverage, certain exclu
 
 ### 4. Geographic Limits
 
-The clause specifies geographic limits within which the coverage is valid. These limits are often defined by the trading terms and routes agreed upon in the sales contract. 
+The clause specifies geographic limits within which the coverage is valid. These limits are often defined by the trading terms and routes agreed upon in the sales contract.
 
 ## Practical Applications
 
 ### A. Legal and Contractual Considerations
 
 - **Sales Contracts:** The Warehouse-to-Warehouse Clause should align with the terms and conditions specified in sales contracts, particularly the [Incoterms](../i/incoterms.md) (International Commercial Terms) that define the responsibilities of buyers and sellers in international [trade](../t/trade.md).
-  
+
 - **[Bill of Lading](../b/bill_of_lading.md):** The [bill of lading](../b/bill_of_lading.md), a crucial document in shipping, should reference the [insurance](../i/insurance.md) coverage provided by the Warehouse-to-Warehouse Clause to avoid disputes and ensure clarity.
 
 ### B. Integration with Supply Chain Management

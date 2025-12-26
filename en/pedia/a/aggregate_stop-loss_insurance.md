@@ -79,25 +79,21 @@ Several companies provide aggregate stop-loss [insurance](../i/insurance.md), ea
 
 Sun Life Financial offers a comprehensive suite of stop-loss [insurance](../i/insurance.md) products designed to protect self-funded employers. They have tailored solutions based on the unique needs of businesses, emphasizing [customer service](../c/customer_service.md) and claims management expertise.
 
-[Sun Life Financial Stop-Loss Insurance](https://www.sunlife.com/us/en/solutions/stop-loss-insurance/)
 
 ### UnitedHealthcare
 
 UnitedHealthcare offers aggregate stop-loss [insurance](../i/insurance.md) that integrates seamlessly with their administrative services, providing [robust](../r/robust.md) protection for self-funded employers. Their offerings include proactive [risk management](../r/risk_management.md) tools and detailed reporting.
 
-[UnitedHealthcare Stop Loss](https://www.uhc.com/employer/large-organizations/stop-loss)
 
 ### Symetra
 
 Symetra’s aggregate stop-loss [insurance](../i/insurance.md) helps mitigate the financial risks of self-funded health plans through straightforward and responsive coverage [options](../o/options.md), focusing on flexibility and service.
 
-[Symetra Stop Loss](https://www.symetra.com/employee-benefits/stop-loss/)
 
 ### Voya Financial
 
 Voya Financial provides various stop-loss [insurance](../i/insurance.md) products, focusing on innovation and strategic [risk](../r/risk.md) mitigation. They [offer](../o/offer.md) tailored coverage solutions adjusted to an organization's specific [risk](../r/risk.md) profile and claims history.
 
-[Voya Financial Stop-Loss Insurance](https://www.voya.com/stop-loss)
 
 ## Conclusion
 

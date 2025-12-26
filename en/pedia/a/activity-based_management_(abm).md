@@ -8,7 +8,7 @@ Activity-Based Management (ABM) expands the principles of Activity-Based Costing
 
 ### Key Components of ABM
 
-1. **Activity Analysis:** The foundation of ABM is the analysis of activities. Activities are identified, described, and grouped based on their contribution to the organizational outputs. 
+1. **Activity Analysis:** The foundation of ABM is the analysis of activities. Activities are identified, described, and grouped based on their contribution to the organizational outputs.
 2. **Cost Drivers:** These are the factors that cause activities to incur costs. Understanding cost drivers is crucial for accurately assigning costs and for identifying areas where efficiencies can be improved.
 3. **Performance Measures:** ABM utilizes various [performance metrics](../p/performance_metrics.md) to evaluate the [efficiency](../e/efficiency.md) and effectiveness of activities. These can include financial metrics, such as cost variances, and non-financial metrics, such as time and quality indicators.
 
@@ -114,25 +114,21 @@ Several companies specialize in providing Activity-Based Management solutions an
 
 SAS offers activity-based management solutions that help organizations manage costs, optimize resources, and improve decision-making. Their ABM solutions provide detailed insights into cost drivers and activity performance, enabling organizations to enhance [efficiency](../e/efficiency.md) and effectiveness.
 
-**Website:** [SAS Activity-Based Management](https://www.sas.com/en_us/software/activity-based-management.html)
 
 ### SAP
 
 SAP provides comprehensive ABM solutions as part of its suite of enterprise software products. SAP's ABM solutions help organizations to analyze and manage costs, improve resource utilization, and align activities with strategic goals.
 
-**Website:** [SAP Activity-Based Management](https://www.sap.com/products/activity-based-costing.html)
 
 ### Oracle
 
 Oracle offers advanced activity-based management solutions that enable organizations to [gain](../g/gain.md) detailed insights into their cost structures and improve [operational efficiency](../o/operational_efficiency_in_trading.md). Oracle's ABM solutions support strategic decision-making and performance improvement.
 
-**Website:** [Oracle Activity-Based Management](https://www.oracle.com/industries/financial-services/activity-based-costing.html)
 
 ### Accenture
 
 Accenture provides consulting services for implementing activity-based management systems. Their expertise helps organizations to design, implement, and optimize ABM solutions tailored to their specific needs and [industry](../i/industry.md) requirements.
 
-**Website:** [Accenture Activity-Based Management](https://www.accenture.com/us-en/services/management-consulting/activity-based-costing)
 
 ## Conclusion
 

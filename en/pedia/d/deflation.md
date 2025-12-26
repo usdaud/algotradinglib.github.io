@@ -56,7 +56,7 @@ The advent of technology has brought new dynamics to the [issue](../i/issue.md) 
 
 #### E-Commerce and Price Transparency
 
-E-[commerce](../c/commerce.md) platforms, such as Amazon [Amazon](https://www.amazon.com/) and Alibaba [Alibaba](https://www.alibaba.com/), have heightened competition by making it easier for consumers to compare prices from different sellers. This increased price [transparency](../t/transparency.md) can contribute to downward pressure on prices, impacting overall [inflation](../i/inflation.md) or deflation trends in the [economy](../e/economy.md).
+E-[commerce](../c/commerce.md) platforms, such as Amazon Amazon and Alibaba Alibaba, have heightened competition by making it easier for consumers to compare prices from different sellers. This increased price [transparency](../t/transparency.md) can contribute to downward pressure on prices, impacting overall [inflation](../i/inflation.md) or deflation trends in the [economy](../e/economy.md).
 
 ### Globalization
 
@@ -66,7 +66,7 @@ E-[commerce](../c/commerce.md) platforms, such as Amazon [Amazon](https://www.am
 
 Japan is often cited as a classic example of a modern [economy](../e/economy.md) grappling with deflation. Since the early 1990s, Japan has experienced prolonged periods of deflation, affecting its [economic growth](../e/economic_growth.md). The Japanese government and the [Bank](../b/bank.md) of Japan have implemented various measures, including aggressive monetary easing, to combat this [trend](../t/trend.md) but with mixed results.
 
-For more information on the [Bank](../b/bank.md) of Japan's efforts, you can visit their website: [Bank of Japan](https://www.boj.or.jp/en/)
+For more information on the [Bank](../b/bank.md) of Japan's efforts, you can
 
 ## Conclusion
 

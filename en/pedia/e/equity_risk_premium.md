@@ -15,7 +15,7 @@ The [Equity](../e/equity.md) [Risk Premium](../r/risk_premium.md) (ERP) is the d
 ERP can be calculated using historical or predictive approaches:
 
 1. **Historical Approaches:** Calculating ERP based on [historical returns](../h/historical_returns.md) involves analyzing the historical performance of [stocks](../s/stock.md) and government bonds over a specific period. The ERP is then determined by taking the [average return](../a/average_return.md) on [stocks](../s/stock.md) and subtracting the [average return](../a/average_return.md) on [risk](../r/risk.md)-free assets.
-  
+
 2. **Predictive Approaches:** These approaches use models and forecasts rather than historical data. Predictive approaches incorporate expectations about future returns, [economic conditions](../e/economic_conditions.md), and other relevant factors.
 
 ### Importance of ERP
@@ -55,12 +55,12 @@ Surveys provide real-time insights into [market](../m/market.md) expectations, b
 Implied methods estimate ERP based on current [market](../m/market.md) prices and dividends rather than historical data or surveys. Common implied approaches include:
 
 1. **[Dividend](../d/dividend.md) [Discount](../d/discount.md) Model (DDM):** The DDM calculates the ERP by solving for the [discount rate](../d/discount_rate.md) that equates the [present value](../p/present_value.md) of expected future dividends to the current stock price. The formula typically used is:
-   
-   \[
-   ERP = \left( \frac{D_1}{P_0} + g \right) - r_f
-   \]
-   
-   where \( D_1 \) is the expected [dividend](../d/dividend.md) in the next period, \( P_0 \) is the current stock price, \( g \) is the growth rate of dividends, and \( r_f \) is the [risk](../r/risk.md)-free rate.
+
+ \[
+ ERP = \left( \frac{D_1}{P_0} + g \right) - r_f
+ \]
+
+ where \( D_1 \) is the expected [dividend](../d/dividend.md) in the next period, \( P_0 \) is the current stock price, \( g \) is the growth rate of dividends, and \( r_f \) is the [risk](../r/risk.md)-free rate.
 
 2. **Forward-Looking Models:** These models use analysts' forecasts of [earnings](../e/earnings.md), [dividend](../d/dividend.md) yields, and [risk](../r/risk.md)-free rates to estimate ERP. This approach assumes that current [market](../m/market.md) conditions and expectations provide a more accurate reflection of future returns.
 
@@ -124,8 +124,8 @@ Global [diversification strategies](../d/diversification_strategies.md) take adv
 Several influential studies and research papers have contributed to the understanding and evolution of ERP:
 
 1. **Ibbotson and Sinquefield (1976):** Their pioneering work on [historical returns](../h/historical_returns.md) of various [asset](../a/asset.md) classes provided foundational insights into the calculation and interpretation of ERP.
-  
-2. **Damodaran (2020):** Aswath Damodaran's extensive research and publications on ERP provide valuable perspectives on estimating ERP using different approaches and its impact on [corporate finance](../c/corporate_finance.md) and [valuation](../v/valuation.md). [Aswath Damodaran’s Resource](http://pages.stern.nyu.edu/~adamodar/)
+
+2. **Damodaran (2020):** Aswath Damodaran's extensive research and publications on ERP provide valuable perspectives on estimating ERP using different approaches and its impact on [corporate finance](../c/corporate_finance.md) and [valuation](../v/valuation.md). Aswath Damodaran’s Resource
 
 3. **Mehra and Prescott (1985):** The [equity](../e/equity.md) [premium](../p/premium.md) puzzle raised fundamental questions about why historical ERPs appear larger than what could be explained by standard economic models.
 

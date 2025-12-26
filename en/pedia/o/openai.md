@@ -4,23 +4,23 @@
 
 ### Core Areas of Work
 
-1. **Language Model Development:**  
-   Building state-of-the-art generative models that can produce human-like text, support complex conversations, and assist with creative tasks.
+1. **Language Model Development:**
+ Building state-of-the-art generative models that can produce human-like text, support complex conversations, and assist with creative tasks.
 
-2. **Safety and Alignment Research:**  
-   [Investing](../i/investing.md) in research to ensure that AI systems are aligned with human values and operate safely in diverse applications.
+2. **Safety and Alignment Research:**
+ [Investing](../i/investing.md) in research to ensure that AI systems are aligned with human values and operate safely in diverse applications.
 
-3. **Product Integration:**  
-   Bringing AI technology to [market](../m/market.md) through APIs, chatbots, and enterprise solutions that empower businesses and consumers alike.
+3. **Product Integration:**
+ Bringing AI technology to [market](../m/market.md) through APIs, chatbots, and enterprise solutions that empower businesses and consumers alike.
 
 ### Applications
 
-- **Chatbots & Virtual Assistants:**  
-  Enhancing interactive dialogue systems with advanced natural language understanding.
-- **Content Creation:**  
-  Generating high-quality written content, code, and creative outputs.
-- **Scientific & [Business](../b/business.md) Analytics:**  
-  Assisting with data analysis, research, and decision-making processes.
+- **Chatbots & Virtual Assistants:**
+ Enhancing interactive dialogue systems with advanced natural language understanding.
+- **Content Creation:**
+ Generating high-quality written content, code, and creative outputs.
+- **Scientific & [Business](../b/business.md) Analytics:**
+ Assisting with data analysis, research, and decision-making processes.
 
 ### Advantages
 

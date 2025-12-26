@@ -11,11 +11,11 @@ Accounting plays a crucial part in maintaining precise financial records for [al
 - Tracking the [cost basis](../c/cost_basis.md) of investments.
 - Ensuring accurate calculations of [capital](../c/capital.md) gains and losses.
 - Simplifying the auditing process.
-  
+
 ### Performance Measurement
 
 With [algorithmic trading](../a/accountability.md), quantifying performance includes computing various metrics:
- 
+
 - **[Return](../r/return.md) on Investment (ROI)**: Evaluates the profitability of trades.
 - **[Sharpe Ratio](../s/sharpe_ratio.md)**: Measures the [risk-adjusted return](../r/risk-adjusted_return.md).
 - **[Alpha](../a/alpha.md) and [Beta](../b/beta.md)**: Bind returns to the [market](../m/market.md)'s movements.
@@ -111,14 +111,14 @@ Proficiency in [accounting principles](../a/accounting_principles.md) and tradin
 
 [Multiple](../m/multiple.md) software solutions and consultancies specialize in [algorithmic trading](../a/accountability.md) accounting:
 
-- **Addepar**: https://addepar.com - A [wealth management](../w/wealth_management.md) platform focused on providing insights and data management for complex financial portfolios.
-- **BlackLine**: https://www.blackline.com - Offers solutions for automating and optimizing financial close and accounting operations.
-- **Numerix**: https://www.numerix.com - Delivers advanced [risk](../r/risk.md) analytics and [derivatives](../d/derivatives.md) pricing solutions.
+- **Addepar**: - A [wealth management](../w/wealth_management.md) platform focused on providing insights and data management for complex financial portfolios.
+- **BlackLine**: - Offers solutions for automating and optimizing financial close and accounting operations.
+- **Numerix**: - Delivers advanced [risk](../r/risk.md) analytics and [derivatives](../d/derivatives.md) pricing solutions.
 
 Firms also often turn to specialized auditors and advisors for compliance and [optimization](../o/optimization.md):
 
-- **KPMG**: https://[home](../h/home.md).kpmg - Offers extensive advisory services for [algorithmic trading](../a/accountability.md), including regulatory compliance, [risk management](../r/risk_management.md), and financial reporting.
-- **Deloitte**: https://www2.deloitte.com - Provides audit, consulting, and [risk](../r/risk.md) advisory services with a focus on integrating AI for enhanced financial management.
+- **KPMG**: - Offers extensive advisory services for [algorithmic trading](../a/accountability.md), including regulatory compliance, [risk management](../r/risk_management.md), and financial reporting.
+- **Deloitte**: - Provides audit, consulting, and [risk](../r/risk.md) advisory services with a focus on integrating AI for enhanced financial management.
 
 ## Conclusion
 

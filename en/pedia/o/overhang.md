@@ -46,12 +46,12 @@ Overhang can lead to increased [volatility](../v/volatility.md) in the [stock ma
 ### 1. **Block Trades**
 A common strategy to manage overhang is executing block trades. These are large transactions arranged privately rather than through the [open market](../o/open_market.md), often facilitated by [investment banks](../i/investment_bank_(ib).md), to prevent [market](../m/market.md) disruption.
 
-**Institution**: Goldman Sachs offers block trading services to help manage large share sales. More information can be found on their [official website](https://www.goldmansachs.com/).
+**Institution**: Goldman Sachs offers block trading services to help manage large share sales.
 
 ### 2. **Share Buybacks**
 Companies might initiate share [buyback](../b/buyback.md) programs to absorb excess [shares](../s/shares.md) from the [market](../m/market.md), reducing the [supply](../s/supply.md) and helping to stabilize or increase the stock price.
 
-**Policy**: Microsoft has a history of [share buybacks](../s/share_buybacks.md) to manage its stock price and [return](../r/return.md) [value](../v/value.md) to shareholders. Details are available on their [investor relations page](https://www.microsoft.com/en-us/Investor/).
+**Policy**: Microsoft has a history of [share buybacks](../s/share_buybacks.md) to manage its stock price and [return](../r/return.md) [value](../v/value.md) to shareholders. Details are available on their company filings.
 
 ### 3. **Gradual Selling**
 Large shareholders might opt for a gradual selling strategy rather than liquidating their [holdings](../h/holdings.md) all at once. This approach minimizes the impact on the stock price and mitigates overhang.
@@ -61,7 +61,7 @@ Large shareholders might opt for a gradual selling strategy rather than liquidat
 ### 4. **Dilution Management**
 Companies can carefully plan secondary offerings or conversions of convertible securities to manage the impact on share [supply](../s/supply.md), often [tying](../t/tying.md) these actions to positive news or growth milestones to buffer potential price drops.
 
-**Example**: Tesla strategically times its secondary offerings with announcements of new projects or strong quarterly results to maintain [investor](../i/investor.md) confidence and reduce overhang effects. More details can be found on their [investor relations page](https://ir.tesla.com/).
+**Example**: Tesla strategically times its secondary offerings with announcements of new projects or strong quarterly results to maintain [investor](../i/investor.md) confidence and reduce overhang effects.
 
 ## Case Studies
 

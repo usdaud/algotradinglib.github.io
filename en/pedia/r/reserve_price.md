@@ -80,7 +80,7 @@ The reserve price can influence the psychological dynamics of an auction. A hidd
 Modern auction platforms often incorporate advanced algorithms and AI to help set reserve prices. These technologies analyze [market](../m/market.md) trends, historical pricing, and [demand](../d/demand.md) forecasts to suggest optimal reserve prices. This integration can help sellers maximize their profits and ensure fair [market](../m/market.md) pricing.
 
 ### Example: eBay
-eBay's Reserve Price feature allows sellers to set a minimum price invisible to buyers. If bids don't meet this reserve price, the item isn't sold, providing a safeguard to the seller. For more details, you can visit their [website](https://www.ebay.com/help/selling/listings/setting-reserve-price?id=4060).
+eBay's Reserve Price feature allows sellers to set a minimum price invisible to buyers. If bids don't meet this reserve price, the item isn't sold, providing a safeguard to the seller.
 
 ## Conclusion
 

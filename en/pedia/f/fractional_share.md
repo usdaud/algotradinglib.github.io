@@ -37,23 +37,22 @@ While the benefits are numerous, there are some potential downsides to consider 
 ## Popular Platforms Offering Fractional Shares
 
 ### Robinhood
-[Robinhood](https://robinhood.com) is a fintech platform that has popularized [commission](../c/commission.md)-free trading among retail investors. [Robinhood](../r/robinhood.md) offers fractional share trading, allowing investors to purchase slices of thousands of [stocks](../s/stock.md) and ETFs starting from as little as $1.
+Robinhood is a fintech platform that has popularized [commission](../c/commission.md)-free trading among retail investors. [Robinhood](../r/robinhood.md) offers fractional share trading, allowing investors to purchase slices of thousands of [stocks](../s/stock.md) and ETFs starting from as little as $1.
 
 ### M1 Finance
-[M1 Finance](https://www.m1finance.com) is a financial services company that combines the features of a robo-advisor and a brokerage. [M1](../m/m1.md) [Finance](../f/finance.md) allows investors to build a customized portfolio and purchase fractional [shares](../s/shares.md), providing a sophisticated way to execute diversified investment strategies with any amount of [money](../m/money.md).
+M1 Finance is a financial services company that combines the features of a robo-advisor and a brokerage. [M1](../m/m1.md) [Finance](../f/finance.md) allows investors to build a customized portfolio and purchase fractional [shares](../s/shares.md), providing a sophisticated way to execute diversified investment strategies with any amount of [money](../m/money.md).
 
 ### Fidelity
-[Fidelity](https://www.fidelity.com) is one of the largest and most established brokerage firms in the world. Fidelity has embraced the [trend](../t/trend.md) of fractional share trading, [offering](../o/offering.md) its customers the ability to buy fractional [shares](../s/shares.md) through its “[Stocks](../s/stock.md) by the Slice” program, enabling investors to own portions of [stocks](../s/stock.md) and ETFs with just $1.
+Fidelity is one of the largest and most established brokerage firms in the world. Fidelity has embraced the [trend](../t/trend.md) of fractional share trading, [offering](../o/offering.md) its customers the ability to buy fractional [shares](../s/shares.md) through its “[Stocks](../s/stock.md) by the Slice” program, enabling investors to own portions of [stocks](../s/stock.md) and ETFs with just $1.
 
 ### Charles Schwab
-[Charles Schwab](https://www.schwab.com) provides a wide [range](../r/range.md) of investment services, including fractional share trading under its “Schwab Stock Slices” program. This program allows investors to purchase fractions of S&P 500 companies, enabling more people to participate in the growth of major corporations without the need for large amounts of [capital](../c/capital.md).
+Charles Schwab provides a wide [range](../r/range.md) of investment services, including fractional share trading under its “Schwab Stock Slices” program. This program allows investors to purchase fractions of S&P 500 companies, enabling more people to participate in the growth of major corporations without the need for large amounts of [capital](../c/capital.md).
 
 ### Interactive Brokers
-[Interactive Brokers](https://www.interactivebrokers.com) offers advanced trading capabilities for professional investors and institutions. The brokerage has also introduced fractional share trading as part of its services, catering to a broad spectrum of clients from retail investors to high-net-worth individuals.
+Interactive Brokers offers advanced trading capabilities for professional investors and institutions. The brokerage has also introduced fractional share trading as part of its services, catering to a broad spectrum of clients from retail investors to high-net-worth individuals.
 
 ## Tax Implications
 [Investing](../i/investing.md) in fractional [shares](../s/shares.md) has similar tax implications to [investing](../i/investing.md) in full [shares](../s/shares.md). Investors may face [capital](../c/capital.md) gains [taxes](../t/taxes.md) when they sell their fractional [shares](../s/shares.md) for a [profit](../p/profit.md). Dividends received from fractional [shares](../s/shares.md) are also [taxable income](../t/taxable_income.md). It is essential for investors to keep accurate records of their transactions to report gains and losses accurately for tax purposes.
 
 ## Conclusion
 Fractional [shares](../s/shares.md) represent an innovative shift in the investment landscape, democratizing access to the [stock market](../s/stock_market.md). By lowering the [barriers to entry](../b/barriers_to_entry.md) and enabling more precise [diversification](../d/diversification.md), fractional [shares](../s/shares.md) empower a broader [range](../r/range.md) of individuals to participate in [wealth](../w/wealth.md)-building activities. However, investors should remain mindful of the potential drawbacks and ensure that they understand the policies of their brokerage [firm](../f/firm.md) to make informed decisions. Overall, fractional [shares](../s/shares.md) are a valuable tool for modern investors looking to enhance their investment strategies.
-

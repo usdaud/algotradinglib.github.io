@@ -18,7 +18,7 @@ Traders and investors often act on whisper numbers due to a psychological phenom
 
 ### Trading Strategy
 
-For some traders, leveraging whisper numbers becomes a strategy to [gain](../g/gain.md) an edge. They might subscribe to specialist services that collect and analyze whisper numbers or conduct their own informal surveys and analysis. Additionally, [algorithmic trading](../a/accountability.md) systems and high-frequency trading methodologies are also built around the disparity between official [earnings estimates](../e/earnings_estimate.md) and whisper numbers. These systems can process vast amounts of data and, consequently, are adept at rapidly reacting to the whispered information.
+For some traders, leveraging whisper numbers becomes a strategy to [gain](../g/gain.md) an edge. They might subscribe to specialist services that collect and analyze whisper numbers or conduct their own informal surveys and analysis. Additionally, [algorithmic trading](../a/algorithmic_trading.md) systems and high-frequency trading methodologies are also built around the disparity between official [earnings estimates](../e/earnings_estimate.md) and whisper numbers. These systems can process vast amounts of data and, consequently, are adept at rapidly reacting to the whispered information.
 
 ## Reliability and Risks
 
@@ -30,7 +30,7 @@ The quality of a whisper number often depends on its source. While some whisper 
 
 ## Technology and Whisper Numbers
 
-Advancements in technology have significantly transformed the collection and dissemination of whisper numbers. Trading platforms, blogs, and [social media](../s/social_media.md) play a considerable role in spreading these whispers more widely and quickly than ever before. Furthermore, fintech firms and data analysis companies specialize in scraping public and private sources for [earnings](../e/earnings.md) expectations that can be classified as whisper numbers. Companies like [Estimize](../e/estimize.md) [offer](../o/offer.md) crowd-sourced [earnings estimates](../e/earnings_estimate.md) that often reflect whisper trends. For more information about crowd-sourced [earnings estimates](../e/earnings_estimate.md), you can visit [Estimize's website](https://www.estimize.com).
+Advancements in technology have significantly transformed the collection and dissemination of whisper numbers. Trading platforms, blogs, and [social media](../s/social_media.md) play a considerable role in spreading these whispers more widely and quickly than ever before. Furthermore, fintech firms and data analysis companies specialize in scraping public and private sources for [earnings](../e/earnings.md) expectations that can be classified as whisper numbers. Companies like [Estimize](../e/estimize.md) [offer](../o/offer.md) crowd-sourced [earnings estimates](../e/earnings_estimate.md) that often reflect whisper trends. For more information about crowd-sourced [earnings estimates](../e/earnings_estimate.md),
 
 ### Data Analytics and Machine Learning
 

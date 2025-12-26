@@ -62,8 +62,8 @@ In [algorithmic trading](../a/algorithmic_trading.md), 1PMA itself may not [offe
 
 For more thorough algorithmic implementations and comparisons, professional platforms such as [QuantConnect](../q/quantconnect.md) or [AlgoTrader](../a/algotrader.md) can be explored:
 
-- [QuantConnect](https://www.quantconnect.com)
-- [AlgoTrader](https://www.algotrader.com)
+- QuantConnect
+- AlgoTrader
 
 ### Strategies and Considerations
 [Algorithmic trading](../a/algorithmic_trading.md) strategies that rely on moving averages typically avoid using just the 1PMA as it doesn't smooth data. Instead, strategies often involve MAs that span [multiple](../m/multiple.md) periods to derive signals. For example:
@@ -74,4 +74,4 @@ For more thorough algorithmic implementations and comparisons, professional plat
 ## Conclusion
 While a 1-Period Moving Average offers limited practical application on its own, it serves as an essential foundational concept in financial data analysis and [algorithmic trading](../a/algorithmic_trading.md). Understanding 1PMA allows traders and algorithmic strategists to delve deeper into more complex methodologies like SMA, EMA, and WMA, which indeed have profound implications in [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) analysis.
 
-For advanced [trading models](../t/trading_models.md) and thorough exploration, traders and developers should explore [robust](../r/robust.md) platforms, utilize sophisticated [backtesting](../b/backtesting.md) tools, and [benchmark](../b/benchmark.md) against raw price data (1PMA) to validate their models' effectiveness and reliability.
+For advanced [trading models](../t/trading_models.md) and thorough exploration, traders and developers should explore [robust](../r/robust.md) platforms, utilize sophisticated [backtesting](../b/backtesting.md) tools, and [benchmark](../b/benchmark.md) against raw price data (1PMA) to validate their models' effectiveness and reliability.

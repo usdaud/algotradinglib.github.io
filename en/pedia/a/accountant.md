@@ -60,7 +60,7 @@ Certifications can enhance an accountant’s qualifications and job prospects. C
 3. **Certified Internal Auditor (CIA)**: This certification is aimed at accountants specializing in internal auditing.
 4. **Enrolled Agent (EA)**: This certification is issued by the IRS and is geared towards tax accountants.
 
-Organizations that [offer](../o/offer.md) these certifications include the American Institute of Certified Public Accountants (AICPA) [link](https://www.aicpa.org/), the Institute of Management Accountants (IMA) [link](https://www.imanet.org/), and the Institute of Internal Auditors (IIA) [link](https://www.theiia.org/).
+Organizations that [offer](../o/offer.md) these certifications include the American Institute of Certified Public Accountants (AICPA) link, the Institute of Management Accountants (IMA) link, and the Institute of Internal Auditors (IIA) link.
 
 ## Technology in Accounting
 

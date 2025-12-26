@@ -52,7 +52,7 @@ Software such as MATLAB, R, and Python, combined with libraries like Pandas, Num
 
 ### Risk Management Systems
 
-Systems like RiskMetrics and [QuantConnect](../q/quantconnect.md) provide comprehensive solutions for [risk](../r/risk.md) evaluation and management of [open](../o/open.md) positions in real-time.
+Systems like RiskMetrics and [StockSharp](../s/stocksharp.md) provide comprehensive solutions for [risk](../r/risk.md) evaluation and management of [open](../o/open.md) positions in real-time.
 
 ### APIs and Data Feeds
 
@@ -60,15 +60,15 @@ APIs from financial data providers such as [Bloomberg](../b/bloomberg.md), [Reut
 
 ## Companies Specializing in Open Position Analysis
 
-### [QuantConnect](https://www.quantconnect.com/)
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) offers a cloud-based platform that provides [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) tools for both individual and institutional traders. Their platform includes comprehensive [open position](../o/open_position.md) analysis tools and [risk management](../r/risk_management.md) systems.
+[StockSharp](../s/stocksharp.md) offers a platform that provides [algorithmic trading](../a/algorithmic_trading.md) and [quantitative analysis](../q/quantitative_analysis.md) tools for both individual and institutional traders. Their platform includes comprehensive [open position](../o/open_position.md) analysis tools and [risk management](../r/risk_management.md) systems.
 
-### [TradeStation](https://www.tradestation.com/)
+### TradeStation
 
 [TradeStation](../t/tradestation.md) provides advanced trading technology that allows traders to execute and monitor [open](../o/open.md) positions in real-time, employing various analytical tools and [risk management](../r/risk_management.md) features.
 
-### [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+### Bloomberg Terminal
 
 [Bloomberg](../b/bloomberg.md) Terminal is a sophisticated platform providing extensive financial data, analytics, and monitoring tools, crucial for [open position](../o/open_position.md) analysis in high-frequency and [algorithmic trading](../a/algorithmic_trading.md) environments.
 

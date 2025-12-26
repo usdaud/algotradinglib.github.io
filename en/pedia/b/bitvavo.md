@@ -4,7 +4,7 @@ Bitvavo is a European cryptocurrency [exchange](../e/exchange.md) platform, head
 
 ## Company Overview
 
-[Bitvavo](https://bitvavo.com) began its operations in 2018 with the mission to make digital assets accessible to everyone, but especially to the European [market](../m/market.md) which was undersaturated with [robust](../r/robust.md), easy-to-use cryptocurrency [exchange](../e/exchange.md) platforms at the time. By providing a reliable, easy-to-use platform, Bitvavo aimed to capture a significant share of the growing cryptocurrency [market](../m/market.md) in Europe.
+Bitvavo began its operations in 2018 with the mission to make digital assets accessible to everyone, but especially to the European [market](../m/market.md) which was undersaturated with [robust](../r/robust.md), easy-to-use cryptocurrency [exchange](../e/exchange.md) platforms at the time. By providing a reliable, easy-to-use platform, Bitvavo aimed to capture a significant share of the growing cryptocurrency [market](../m/market.md) in Europe.
 
 ### Key Offerings
 
@@ -84,14 +84,14 @@ Bitvavo's [fee](../f/fee.md) structure is designed to be competitive and is base
 
 | [30-Day Trading Volume](../1/30-day_trading_volume.md) (EUR) | Maker [Fee](../f/fee.md) | Taker [Fee](../f/fee.md) |
 |-----------------------------|-----------|-----------|
-| 0 – 100,000                 | 0.25%     | 0.25%     |
-| 100,000 – 250,000           | 0.20%     | 0.20%     |
-| 250,000 – 500,000           | 0.16%     | 0.16%     |
-| 500,000 – 1,000,000         | 0.12%     | 0.12%     |
-| 1,000,000 – 2,500,000       | 0.08%     | 0.08%     |
-| 2,500,000 – 5,000,000       | 0.06%     | 0.06%     |
-| 5,000,000 – 10,000,000      | 0.04%     | 0.04%     |
-| 10,000,000+                 | 0.03%     | 0.03%     |
+| 0 – 100,000 | 0.25% | 0.25% |
+| 100,000 – 250,000 | 0.20% | 0.20% |
+| 250,000 – 500,000 | 0.16% | 0.16% |
+| 500,000 – 1,000,000 | 0.12% | 0.12% |
+| 1,000,000 – 2,500,000 | 0.08% | 0.08% |
+| 2,500,000 – 5,000,000 | 0.06% | 0.06% |
+| 5,000,000 – 10,000,000 | 0.04% | 0.04% |
+| 10,000,000+ | 0.03% | 0.03% |
 
 ### Supported Assets
 
@@ -127,4 +127,4 @@ Bitvavo is committed to adhering to all regulatory requirements. As a Dutch cryp
 
 Bitvavo has quickly established itself as a leading cryptocurrency [exchange](../e/exchange.md) in Europe. By focusing on user experience, [security](../s/security.md), and competitive pricing, the platform continues to attract a growing user base. Whether you are a novice looking to buy your first cryptocurrency or an experienced [trader](../t/trader.md) seeking a reliable platform for your activities, Bitvavo provides a well-rounded service that meets a variety of needs.
 
-For more detailed information, you can visit their official website at [Bitvavo](https://bitvavo.com).
+For more detailed information,

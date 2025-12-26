@@ -71,7 +71,7 @@ Several tools and platforms facilitate the implementation of efficient [trading 
 
 ### 2. **Backtesting Tools**
 
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers a cloud-based [backtesting](../b/backtesting.md) environment for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers a [backtesting](../b/backtesting.md) environment for [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 - **[Amibroker](../a/amibroker.md):** A powerful tool for developing and [backtesting](../b/backtesting.md) [trading systems](../t/trading_systems.md) with advanced statistical analysis capabilities.
 
 ### 3. **Market Data Providers**
@@ -83,15 +83,15 @@ Several tools and platforms facilitate the implementation of efficient [trading 
 
 ### 1. **Renaissance Technologies**
 
-Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which has consistently outperformed the [market](../m/market.md) using [quantitative strategies](../q/quantitative_strategies_in_trading.md). The [firm](../f/firm.md) employs mathematicians, physicists, and computer scientists to develop sophisticated [trading algorithms](../t/trading_algorithms.md). [Renaissance Technologies](https://www.rentec.com)
+Renaissance Technologies, founded by Jim Simons, is renowned for its Medallion [Fund](../f/fund.md), which has consistently outperformed the [market](../m/market.md) using [quantitative strategies](../q/quantitative_strategies_in_trading.md). The [firm](../f/firm.md) employs mathematicians, physicists, and computer scientists to develop sophisticated [trading algorithms](../t/trading_algorithms.md). Renaissance Technologies
 
 ### 2. **Two Sigma**
 
-Founded in 2001, Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to elucidate trading insights. The [firm](../f/firm.md) has successfully applied these technologies to manage billions in assets. [Two Sigma](https://www.twosigma.com)
+Founded in 2001, Two Sigma uses [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to elucidate trading insights. The [firm](../f/firm.md) has successfully applied these technologies to manage billions in assets. Two Sigma
 
 ### 3. **D. E. Shaw Group**
 
-D. E. Shaw Group is a global investment [firm](../f/firm.md) that employs a variety of [trading strategies](../t/trading_strategies.md), including discretionary and systematic trades. The [firm](../f/firm.md) leverages [proprietary algorithms](../p/proprietary_algorithms.md), AI, and extensive research to drive its trading activities. [D. E. Shaw Group](https://www.deshaw.com)
+D. E. Shaw Group is a global investment [firm](../f/firm.md) that employs a variety of [trading strategies](../t/trading_strategies.md), including discretionary and systematic trades. The [firm](../f/firm.md) leverages [proprietary algorithms](../p/proprietary_algorithms.md), AI, and extensive research to drive its trading activities. D. E. Shaw Group
 
 ## Conclusion
 

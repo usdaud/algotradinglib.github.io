@@ -26,15 +26,15 @@ One of the most common sources of low-frequency data is historical price data. T
 
 Macroeconomic indicators like GDP, [unemployment](../u/unemployment.md) rates, and [inflation](../i/inflation.md) are typically published monthly or quarterly and can significantly impact [financial markets](../f/financial_market.md). These are crucial for [fundamental analysis](../f/fundamental_analysis.md) and can provide valuable insights for [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-- **Bureau of Economic Analysis**: [bea.gov](https://www.bea.gov/)
-- **Federal Reserve Economic Data (FRED)**: [fred.stlouisfed.org](https://fred.stlouisfed.org/)
+- **Bureau of Economic Analysis**: bea.gov
+- **Federal Reserve Economic Data (FRED)**: fred.stlouisfed.org
 
 ### Corporate Financial Statements
 
 Quarterly and annual reports from companies provide low-frequency data about [financial performance](../f/financial_performance.md), including metrics like [earnings](../e/earnings.md) per share (EPS), [revenue](../r/revenue.md), and net [income](../i/income.md). This data is vital for [fundamental analysis](../f/fundamental_analysis.md)-based [trading strategies](../t/trading_strategies.md).
 
-- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) EDGAR Database**: [sec.gov/edgar](https://www.sec.gov/edgar.shtml)
-  
+- **U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) EDGAR Database**: sec.gov/edgar
+
 ### Sentiment Data
 
 [Investor](../i/investor.md) [sentiment indicators](../s/sentiment_indicators.md), such as surveys, indices, and news analytics, are published at various intervals and can be crucial for gauging [market sentiment](../m/market_sentiment.md) over a longer period.
@@ -81,20 +81,20 @@ Ensuring adequate [market](../m/market.md) [liquidity](../l/liquidity.md) is cru
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive [backtesting](../b/backtesting.md) capabilities, making it suitable for [low-frequency trading](../l/low-frequency_trading.md) strategies.
+[QuantConnect](../q/quantconnect.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and offers extensive [backtesting](../b/backtesting.md) capabilities, making it suitable for [low-frequency trading](../l/low-frequency_trading.md) strategies.
 
-- **[QuantConnect](../q/quantconnect.md)**: [quantconnect.com](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: quantconnect.com
 
 ### Algorithmic Trading Platforms
 
-Apart from [QuantConnect](../q/quantconnect.md), there are other platforms like MetaTrader (MT4 and MT5), [TradeStation](../t/tradestation.md), and [Interactive Brokers](../i/interactive_brokers.md), which [offer](../o/offer.md) tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
+Apart from [StockSharp](../s/stocksharp.md), there are other platforms like MetaTrader (MT4 and MT5), [TradeStation](../t/tradestation.md), and [Interactive Brokers](../i/interactive_brokers.md), which [offer](../o/offer.md) tools and features useful for [low-frequency trading](../l/low-frequency_trading.md) strategies.
 
 ### MetaTrader
 
 MetaTrader provides [robust](../r/robust.md) data analysis, [backtesting](../b/backtesting.md), and automated trading capabilities suitable for [low-frequency trading](../l/low-frequency_trading.md).
 
-- **MetaTrader**: [metaquotes.net](https://www.metaquotes.net/)
-  
+- **MetaTrader**: metaquotes.net
+
 ## Challenges in Low-Frequency Data Analysis
 
 ### Data Quality
@@ -112,4 +112,3 @@ Ensuring the accuracy and completeness of low-frequency data can be challenging.
 ## Conclusion
 
 Low-frequency data analysis in [algorithmic trading](../a/algorithmic_trading.md) offers a [range](../r/range.md) of opportunities and challenges. By focusing on longer time horizons and leveraging fundamental and [time series analysis](../t/time_series_analysis.md), traders can develop [robust](../r/robust.md) strategies that are less susceptible to short-term [market](../m/market.md) [volatility](../v/volatility.md). Although computationally less intensive than high-frequency trading, [low-frequency trading](../l/low-frequency_trading.md) requires meticulous planning, a deep understanding of [market](../m/market.md) fundamentals, and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices to succeed.
-

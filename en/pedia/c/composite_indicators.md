@@ -67,15 +67,14 @@ Once the composite [indicator](../i/indicator.md) is live, continue to monitor i
 ## Real-World Examples
 
 ### JP Morgan Advanced Momentum Oscillator
-JP Morgan employs proprietary composite indicators in their [trading algorithms](../t/trading_algorithms.md). One such example is the Advanced [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md), which combines RSI, MACD, and [volume indicators](../v/volume_indicators.md) to gauge [market](../m/market.md) [momentum](../m/momentum.md). More about their [quantitative research](../q/quantitative_research.md) can be found on their [official website](https://www.jpmorgan.com).
+JP Morgan employs proprietary composite indicators in their [trading algorithms](../t/trading_algorithms.md). One such example is the Advanced [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md), which combines RSI, MACD, and [volume indicators](../v/volume_indicators.md) to gauge [market](../m/market.md) [momentum](../m/momentum.md). More about their [quantitative research](../q/quantitative_research.md)
 
 ### Goldman Sachs Composite Trend Indicator
-Goldman Sachs uses a Composite [Trend](../t/trend.md) [Indicator](../i/indicator.md) that incorporates various moving averages, direction indices, and [volume](../v/volume.md) metrics to provide a single, coherent [trend](../t/trend.md) assessment. For more information, visit their [AI-driven trading solutions page](https://www.goldmansachs.com).
+Goldman Sachs uses a Composite [Trend](../t/trend.md) [Indicator](../i/indicator.md) that incorporates various moving averages, direction indices, and [volume](../v/volume.md) metrics to provide a single, coherent [trend](../t/trend.md) assessment. For more information, review their AI-driven trading solutions.
 
 ### Renaissance Technologies' Medallion Fund
-Renaissance Technologies' flagship Medallion [Fund](../f/fund.md) employs highly sophisticated composite indicators built from [proprietary algorithms](../p/proprietary_algorithms.md) and [big data analytics](../b/big_data_analytics_in_trading.md). You can read more about their advanced quantitative methods on their [research page](https://www.rentec.com/).
+Renaissance Technologies' flagship Medallion [Fund](../f/fund.md) employs highly sophisticated composite indicators built from [proprietary algorithms](../p/proprietary_algorithms.md) and [big data analytics](../b/big_data_analytics_in_trading.md). You can read more about their advanced quantitative methods on their research page.
 
 ## Conclusion
 
 Composite indicators are invaluable tools in [algorithmic trading](../a/algorithmic_trading.md). By aggregating [multiple](../m/multiple.md) signals into a single, cohesive metric, they [offer](../o/offer.md) traders a comprehensive view of [market](../m/market.md) conditions, helping them make more informed trading decisions. As markets continue to evolve, the role of advanced composite indicators is likely to become even more prominent, making them a key component in the toolkit of any serious algorithmic [trader](../t/trader.md).
-

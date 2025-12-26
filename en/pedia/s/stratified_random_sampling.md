@@ -10,8 +10,8 @@ Stratified random [sampling](../s/sampling.md) is often used in [statistics](../
 
 The criteria used for stratification depend on the objectives of the study and the essential characteristics of the population. Common criteria include:
 
-- **Demographic parameters**: age, gender, [income](../i/income.md) level, education level 
-- **Behavioral factors**: purchasing patterns, website usage frequencies
+- **Demographic parameters**: age, gender, [income](../i/income.md) level, education level
+- **Behavioral factors**
 - **Geographical factors**: country, region, urban vs. rural areas
 
 Stratification is a crucial step: choosing the wrong criteria can lead to biased results, whereas well-chosen criteria allow for more accurate and meaningful conclusions.
@@ -52,7 +52,7 @@ Financial institutions often use stratified [sampling](../s/sampling.md) in [mar
 
 ## Case Study: Vanguard Group
 
-[Vanguard Group](https://www.vanguard.com) is known for using stratified random [sampling](../s/sampling.md) techniques to manage its [index](../i/index_instrument.md) funds. By ensuring that each sector and [market segment](../m/market_segment.md) is appropriately represented, Vanguard can closely track the performance of the [underlying](../u/underlying.md) indexes, providing investors with returns that mirror the [market](../m/market.md).
+Vanguard Group is known for using stratified random [sampling](../s/sampling.md) techniques to manage its [index](../i/index_instrument.md) funds. By ensuring that each sector and [market segment](../m/market_segment.md) is appropriately represented, Vanguard can closely track the performance of the [underlying](../u/underlying.md) indexes, providing investors with returns that mirror the [market](../m/market.md).
 
 ## Conclusion
 

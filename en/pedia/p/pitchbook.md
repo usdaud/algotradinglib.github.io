@@ -8,7 +8,6 @@ PitchBook was founded in 2007 by John Gabbert. The company's aim from its incept
 
 In 2016, PitchBook was acquired by [Morningstar](../m/morningstar.md), Inc., a leading provider of independent investment research, which enabled it to enhance its data quality and expand its offerings. This [acquisition](../a/acquisition.md) has also provided substantial backing and resources, ensuring continual innovation and improvement.
 
-[PitchBook Website](https://pitchbook.com/)
 
 ## Key Features
 

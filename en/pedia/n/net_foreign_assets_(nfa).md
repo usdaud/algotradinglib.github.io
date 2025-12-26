@@ -79,7 +79,7 @@ NFA data is closely monitored by central banks, [financial markets](../f/financi
 
 In [financial markets](../f/financial_market.md), traders and analysts often scrutinize a country's NFA to inform their investment decisions. A strong NFA position can signal [robust](../r/robust.md) economic health and stability, making the country an attractive destination for investment. Conversely, a weak NFA might raise concerns about fiscal sustainability and [financial risk](../f/financial_risk.md).
 
-In the realm of [algorithmic trading](../a/accountability.md), NFA data can be incorporated into models that forecast [currency](../c/currency.md) movements, sovereign [bond](../b/bond.md) yields, or [equity market](../e/equity_market.md) performance. Algorithms can use historical NFA data, combined with other macroeconomic indicators, to generate [trading signals](../t/trading_signals.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), NFA data can be incorporated into models that forecast [currency](../c/currency.md) movements, sovereign [bond](../b/bond.md) yields, or [equity market](../e/equity_market.md) performance. Algorithms can use historical NFA data, combined with other macroeconomic indicators, to generate [trading signals](../t/trading_signals.md).
 
 ## Conclusion
 
@@ -87,6 +87,6 @@ Net Foreign Assets (NFA) serve as a crucial [indicator](../i/indicator.md) of a 
 
 For more detailed information, you can refer to the following link:
 
-- [International Monetary Fund (IMF)](https://www.imf.org/external/index.htm)
-- [World Bank](https://www.worldbank.org/)
-- [Bank of Japan](https://www.boj.or.jp/en/)
+- International Monetary Fund (IMF)
+- World Bank
+- Bank of Japan

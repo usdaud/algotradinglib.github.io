@@ -44,8 +44,8 @@ IAS 37 mandates entities to disclose information about:
 
 Major companies often report on onerous contracts in their [financial statements](../f/financial_statements.md). For example:
 
-- **BP (British [Petroleum](../p/petroleum.md))**: As part of their financial disclosures, energy companies like BP frequently report on provisions related to onerous contracts due to the volatile nature of energy markets ([BP Annual Report](https://www.bp.com/en/global/corporate/investors/results-and-reporting/annual-reporting.html)).
-- **Airline [Industry](../i/industry.md):** Airlines like [Delta](../d/delta.md) Air Lines might recognize provisions for onerous contracts in their [financial statements](../f/financial_statements.md) due to fluctuations in fuel costs or sudden changes in travel [demand](../d/demand.md) ([Delta Air Lines Financials](https://ir.delta.com/financials/quarterly-results-and-statistics)).
+- **BP (British [Petroleum](../p/petroleum.md))**: As part of their financial disclosures, energy companies like BP frequently report on provisions related to onerous contracts due to the volatile nature of energy markets (BP Annual Report).
+- **Airline [Industry](../i/industry.md):** Airlines like [Delta](../d/delta.md) Air Lines might recognize provisions for onerous contracts in their [financial statements](../f/financial_statements.md) due to fluctuations in fuel costs or sudden changes in travel [demand](../d/demand.md) (Delta Air Lines Financials).
 
 ## Risk Management and Mitigation
 

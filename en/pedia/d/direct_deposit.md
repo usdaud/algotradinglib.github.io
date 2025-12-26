@@ -68,10 +68,10 @@ Direct [deposit](../d/deposit.md) transactions are governed by regulations to en
 
 Several prominent companies [offer](../o/offer.md) solutions and systems to facilitate direct deposits:
 
-1. **ADP**: A global leader in [payroll](../p/payroll.md) and [human capital](../h/human_capital.md) management solutions. [ADP](https://www.adp.com)
-2. **Paychex**: Offers [payroll](../p/payroll.md), HR, and [human capital](../h/human_capital.md) management solutions. [Paychex](https://www.paychex.com)
-3. **Intuit QuickBooks [Payroll](../p/payroll.md)**: Integrated [payroll](../p/payroll.md) and [accounting](../a/accounting.md) software. [Intuit QuickBooks](https://quickbooks.intuit.com/payroll)
-4. **Square [Payroll](../p/payroll.md)**: Provides [payroll](../p/payroll.md) services for small-to-medium-sized businesses. [Square](https://squareup.com/us/en/payroll)
+1. **ADP**: A global leader in [payroll](../p/payroll.md) and [human capital](../h/human_capital.md) management solutions. ADP
+2. **Paychex**: Offers [payroll](../p/payroll.md), HR, and [human capital](../h/human_capital.md) management solutions. Paychex
+3. **Intuit QuickBooks [Payroll](../p/payroll.md)**: Integrated [payroll](../p/payroll.md) and [accounting](../a/accounting.md) software. Intuit QuickBooks
+4. **Square [Payroll](../p/payroll.md)**: Provides [payroll](../p/payroll.md) services for small-to-medium-sized businesses. Square
 
 ## Conclusion
 

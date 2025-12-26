@@ -40,8 +40,8 @@ For individual traders and firms, compliance with [wash sale](../w/wash_sale.md)
 
 Many modern brokerage firms and trading platforms provide tools to help traders identify and manage [wash](../w/wash.md) sales. These tools can be particularly useful for algorithmic traders who execute a high [volume](../v/volume.md) of transactions. Examples of brokers [offering](../o/offering.md) such tools include [Interactive Brokers](../i/interactive_brokers.md) and [Charles Schwab](../c/charles_schwab.md).
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [Charles Schwab](https://www.schwab.com)
+- Interactive Brokers
+- Charles Schwab
 
 ## Mitigation Strategies
 

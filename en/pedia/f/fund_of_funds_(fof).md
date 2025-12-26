@@ -8,22 +8,22 @@ A [Fund](../f/fund.md) of Funds (FOF) is a pooled [investment vehicle](../i/inve
 
 [Hedge Fund](../h/hedge_fund.md) of Funds (HFOFs) invest in a variety of [hedge](../h/hedge.md) funds, aiming to diversify the investment across different [hedge fund strategies](../h/hedge_fund_strategies.md) such as [long/short equity](../l/long_short_equity.md), [market neutral](../m/market_neutral.md), [managed futures](../m/managed_futures.md), and [global macro](../g/global_macro.md). The goal here is to balance the potential high returns of [hedge](../h/hedge.md) funds with the reduced [risk](../r/risk.md) that comes from [diversification](../d/diversification.md). Some notable HFOFs include:
 
-- **Blackstone Alternative [Asset Management](../a/asset_management.md)**: [Blackstone Group](https://www.blackstone.com)
-- **Grosvenor [Capital](../c/capital.md) Management**: [Grosvenor Capital](https://www.gcmlp.com)
+- **Blackstone Alternative [Asset Management](../a/asset_management.md)**: Blackstone Group
+- **Grosvenor [Capital](../c/capital.md) Management**: Grosvenor Capital
 
 ### 2. Mutual Fund of Funds
 
 [Mutual Fund](../m/mutual_fund.md) of Funds invest in a portfolio of mutual funds. This approach allows investors to [gain](../g/gain.md) exposure to a diversified selection of mutual funds managed by different professional managers. These funds may focus on different regions, sectors, or investment strategies to mitigate [risk](../r/risk.md). Examples include:
 
-- **Vanguard Star [Fund](../f/fund.md)**: [Vanguard](https://investor.vanguard.com/mutual-funds/profile/STARX)
-- **Fidelity Four-in-One [Index Fund](../i/index_fund.md)**: [Fidelity](https://www.fidelity.com)
+- **Vanguard Star [Fund](../f/fund.md)**: Vanguard
+- **Fidelity Four-in-One [Index Fund](../i/index_fund.md)**: Fidelity
 
 ### 3. Private Equity Fund of Funds
 
 [Private Equity](../p/private_equity.md) [Fund](../f/fund.md) of Funds allocate their assets to various [private equity](../p/private_equity.md) funds, including [venture capital](../v/venture_capital.md), buyouts, and mezzanine funds. These investments are typically less [liquid](../l/liquid.md) and are suitable for long-term investment horizons. Examples include:
 
-- **HarbourVest Partners**: [HarbourVest](https://www.harbourvest.com)
-- **Pantheon Ventures**: [Pantheon](https://www.pantheon.com)
+- **HarbourVest Partners**: HarbourVest
+- **Pantheon Ventures**: Pantheon
 
 ## Benefits of FOFs
 

@@ -1,6 +1,6 @@
 # Margin Loan Availability
 
-[Margin](../m/margin.md) [loan](../l/loan.md) availability is a critical concept in the world of trading and [finance](../f/finance.md), particularly for people involved in leveraged investments. It's an essential tool for both retail and institutional investors, allowing them greater flexibility and potentially higher returns on their investments. This comprehensive guide examines the facets of [margin](../m/margin.md) [loan](../l/loan.md) availability, including its advantages, risks, regulatory considerations, and its application in [algorithmic trading](../a/accountability.md) and fintech.
+[Margin](../m/margin.md) [loan](../l/loan.md) availability is a critical concept in the world of trading and [finance](../f/finance.md), particularly for people involved in leveraged investments. It's an essential tool for both retail and institutional investors, allowing them greater flexibility and potentially higher returns on their investments. This comprehensive guide examines the facets of [margin](../m/margin.md) [loan](../l/loan.md) availability, including its advantages, risks, regulatory considerations, and its application in [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## What is Margin Loan Availability?
 
@@ -79,10 +79,10 @@ For example, if an [investor](../i/investor.md) has $10,000 worth of securities 
 ### 4. **Margin Loan Platforms**
 - There are several fintech platforms that [offer](../o/offer.md) easy access to [margin](../m/margin.md) loans, democratizing the availability of [leverage](../l/leverage.md) to retail investors. Examples include:
 
-#### [Interactive Brokers](https://www.interactivebrokers.com/)
+#### Interactive Brokers
 - [Interactive Brokers](../i/interactive_brokers.md) offers [margin](../m/margin.md) accounts and provides detailed information on initial and [maintenance margin](../m/maintenance_margin.md) requirements.
 
-#### [Robinhood](https://www.robinhood.com/)
+#### Robinhood
 - [Robinhood](../r/robinhood.md) provides [margin trading](../m/margin_trading.md) with straightforward, user-friendly interfaces, making [margin](../m/margin.md) loans accessible to a broader audience.
 
 ### 5. **Blockchain and Smart Contracts**

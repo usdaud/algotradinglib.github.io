@@ -117,13 +117,13 @@ The [Sharpe Ratio](../s/sharpe_ratio.md) might not be consistent over different 
 
 Renaissance Technologies boasts some of the highest Sharpe Ratios in the [industry](../i/industry.md), largely due to their Medallion [Fund](../f/fund.md). The [fund](../f/fund.md) leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) equities, [derivatives](../d/derivatives.md), and other financial instruments.
 
-- **Renaissance Technologies**: [RenTech](https://www.rentec.com/)
+- **Renaissance Technologies**: RenTech
 
 ### Two Sigma
 
 Two Sigma utilizes [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to develop [trading algorithms](../t/trading_algorithms.md), with their strategies often achieving considerable Sharpe Ratios over diverse timeframes and [market](../m/market.md) conditions.
 
-- **Two Sigma**: [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Two Sigma
 
 ## Conclusion
 

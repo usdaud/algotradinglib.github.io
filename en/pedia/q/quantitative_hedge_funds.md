@@ -10,7 +10,7 @@ Quantitative [hedge](../h/hedge.md) funds differ from traditional [hedge](../h/h
 
 ### Mathematical Models
 
-Quant funds use diverse [mathematical models](../m/mathematical_models_in_trading.md) to forecast [market](../m/market.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models may be based on various theories, including 
+Quant funds use diverse [mathematical models](../m/mathematical_models_in_trading.md) to forecast [market](../m/market.md) movements and optimize [trading strategies](../t/trading_strategies.md). These models may be based on various theories, including
 
 - **Statistical [Arbitrage](../a/arbitrage.md)**: Identifies price discrepancies between related securities.
 - **[Machine Learning](../m/machine_learning.md)**: Employs [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to analyze patterns in financial data.
@@ -38,31 +38,31 @@ Advanced computing technology and [infrastructure](../i/infrastructure.md) are e
 
 Renaissance Technologies is one of the most famous quant funds, founded by Jim Simons. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is known for its astronomical performance, yielding annual returns exceeding 60% before fees. Renaissance uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and employs renowned mathematicians and scientists.
 
-[https://www.rentec.com/](https://www.rentec.com/)
+
 
 ### Two Sigma
 
 Two Sigma, co-founded by David Siegel and John Overdeck, operates at the intersection of technology, data, and [finance](../f/finance.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md), distributed computing, and other cutting-edge technologies to develop [trading strategies](../t/trading_strategies.md).
 
-[https://www.twosigma.com/](https://www.twosigma.com/)
+
 
 ### DE Shaw
 
 Founded by David Shaw, DE Shaw is a prominent player in the quant trading space. The [firm](../f/firm.md) uses a multidisciplinary approach, combining insights from [finance](../f/finance.md), science, and engineering to develop its [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
-[https://www.deshaw.com/](https://www.deshaw.com/)
+
 
 ### Citadel
 
 Citadel, managed by Ken Griffin, is one of the largest and most influential [hedge](../h/hedge.md) funds globally. The [firm](../f/firm.md) employs a [range](../r/range.md) of [quantitative strategies](../q/quantitative_strategies_in_trading.md) to exploit [market](../m/market.md) inefficiencies and delivers high-speed trading through its advanced technological [infrastructure](../i/infrastructure.md).
 
-[https://www.citadel.com/](https://www.citadel.com/)
+
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md), founded by Cliff Asness, focuses on [factor](../f/factor.md)-based [investing](../i/investing.md), utilizing quantitative techniques to capture [risk](../r/risk.md) premia across different [asset](../a/asset.md) classes. The [firm](../f/firm.md) uses [robust](../r/robust.md) data analysis and empirical research to guide its investment decisions.
 
-[https://www.aqr.com/](https://www.aqr.com/)
+
 
 ## Strategies
 

@@ -55,7 +55,7 @@ For most interbank rates, a panel of contributor banks provides data based on th
 3. Averaging: The remaining rates are averaged to produce the daily rate.
 
 ## Historical Evolution
-- The concept of interbank rates has evolved with [financial markets](../f/financial_market.md). 
+- The concept of interbank rates has evolved with [financial markets](../f/financial_market.md).
 - LIBOR began in the 1980s and became the predominant [benchmark](../b/benchmark.md).
 - Post-Global [Financial Crisis](../f/financial_crisis.md) reforms emphasized creating more transparent and reliable benchmarks, leading to new rates like SONIA and SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
 
@@ -115,8 +115,4 @@ Interbank rates are essential for the functioning of the global [financial syste
 
 
 Sources:
-- [Bank](../b/bank.md) of England, SONIA: https://www.bankofengland.co.uk/markets/sonia-[benchmark](../b/benchmark.md)
-- Federal Reserve, [Federal Funds Rate](../f/federal_funds_rate.md): https://www.federalreserve.gov/monetarypolicy/openmarket.htm
-- European Central [Bank](../b/bank.md), EONIA: https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index_instrument.md).en.html
-- ICE [Benchmark](../b/benchmark.md) Administration, LIBOR: https://www.theice.com/iba/libor
-- European [Money](../m/money.md) Markets Institute, Euribor: https://www.emmi-benchmarks.eu/euribor-org/euribor-rates.html
+- [Bank](../b/bank.md) of England, SONIA- Federal Reserve, [Federal Funds Rate](../f/federal_funds_rate.md)- European Central [Bank](../b/bank.md), EONIA- ICE [Benchmark](../b/benchmark.md) Administration, LIBOR- European [Money](../m/money.md) Markets Institute, Euribor

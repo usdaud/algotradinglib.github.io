@@ -28,8 +28,8 @@ Decision Trees are a non-parametric [supervised learning](../s/supervised_learni
 ### Training the Model
 
 1. **Splitting Criteria**: The tree is built by recursively splitting the data at each node based on a certain criterion.
-   - For classification: Gini impurity, entropy, information [gain](../g/gain.md).
-   - For regression: [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE).
+ - For classification: Gini impurity, entropy, information [gain](../g/gain.md).
+ - For regression: [Mean Squared Error](../m/mean_squared_error.md) (MSE), Mean Absolute Error (MAE).
 2. **Tree Depth**: Determining the depth of the tree to avoid [overfitting](../o/overfitting.md). This can include hyperparameters like maximum depth, minimum samples per leaf, etc.
 3. **Pruning**: Removing parts of the tree that do not provide additional predictive power to improve generalization.
 
@@ -56,15 +56,15 @@ Enhance [risk management](../r/risk_management.md) practices by predicting poten
 
 #### JPMorgan Chase
 
-JPMorgan Chase, one of the largest financial institutions worldwide, employs [machine learning](../m/machine_learning.md) techniques, including decision trees, in their electronic [trading algorithms](../t/trading_algorithms.md) for equities and FX trades. These models help in making strategic decisions to maximize gains and minimize risks. More about their initiatives can be found [here](https://www.jpmorgan.com/global).
+JPMorgan Chase, one of the largest financial institutions worldwide, employs [machine learning](../m/machine_learning.md) techniques, including decision trees, in their electronic [trading algorithms](../t/trading_algorithms.md) for equities and FX trades. These models help in making strategic decisions to maximize gains and minimize risks. More about their initiatives can be found here.
 
 #### Citadel
 
-Citadel, a leading global financial institution, utilizes sophisticated quant models for trading. They employ various [machine learning](../m/machine_learning.md) techniques, including decision trees, for optimal [trading strategies](../t/trading_strategies.md). Visit their website for more information [here](https://www.citadel.com).
+Citadel, a leading global financial institution, utilizes sophisticated quant models for trading. They employ various [machine learning](../m/machine_learning.md) techniques, including decision trees, for optimal [trading strategies](../t/trading_strategies.md).
 
 #### Renaissance Technologies
 
-Famous for its Medallion [Fund](../f/fund.md), Renaissance Technologies integrates decision trees among many other algorithmic strategies for high-frequency trading and long-term [trend](../t/trend.md) predictions. Learn more about their technology-driven approach [here](https://www.rentec.com).
+Famous for its Medallion [Fund](../f/fund.md), Renaissance Technologies integrates decision trees among many other algorithmic strategies for high-frequency trading and long-term [trend](../t/trend.md) predictions. Learn more about their technology-driven approach here.
 
 ## Advantages and Challenges
 
@@ -86,4 +86,4 @@ Famous for its Medallion [Fund](../f/fund.md), Renaissance Technologies integrat
 
 Decision Trees, when combined with other [machine learning](../m/machine_learning.md) techniques, can [offer](../o/offer.md) [robust](../r/robust.md) solutions for various challenges in [algorithmic trading](../a/algorithmic_trading.md). Their ability to break down complex decision processes into understandable steps makes them highly valuable. However, care must be taken to manage their limitations, such as [overfitting](../o/overfitting.md) and instability, to harness their full potential.
 
-Incorporating Decision Trees into an [algorithmic trading](../a/algorithmic_trading.md) strategy can provide significant insights and added [efficiency](../e/efficiency.md), making them an integral component of modern [quantitative trading](../q/quantitative_trading.md) frameworks.
+Incorporating Decision Trees into an [algorithmic trading](../a/algorithmic_trading.md) strategy can provide significant insights and added [efficiency](../e/efficiency.md), making them an integral component of modern [quantitative trading](../q/quantitative_trading.md) frameworks.

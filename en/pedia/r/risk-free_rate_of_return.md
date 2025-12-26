@@ -60,6 +60,6 @@ These securities are chosen because they are considered to be the safest investm
 
 ## Conclusion
 
-The [risk](../r/risk.md)-free [rate of return](../r/rate_of_return.md) serves as a critical [benchmark](../b/benchmark.md) in [finance](../f/finance.md), helping investors and analysts evaluate investment performance, manage portfolios, and make informed financial decisions. Despite some challenges and criticisms, it remains an indispensable tool in financial theory and practice. For more information on the concept, references to financial institutions that provide [yield](../y/yield.md) data on government securities can be beneficial, such as the U.S. Department of the Treasury ([www.treasury.gov](https://www.treasury.gov)) or financial [market](../m/market.md) platforms like [Bloomberg](../b/bloomberg.md).
+The [risk](../r/risk.md)-free [rate of return](../r/rate_of_return.md) serves as a critical [benchmark](../b/benchmark.md) in [finance](../f/finance.md), helping investors and analysts evaluate investment performance, manage portfolios, and make informed financial decisions. Despite some challenges and criticisms, it remains an indispensable tool in financial theory and practice. For more information on the concept, references to financial institutions that provide [yield](../y/yield.md) data on government securities can be beneficial, such as the U.S. Department of the Treasury ( or financial [market](../m/market.md) platforms like [Bloomberg](../b/bloomberg.md).
 
 ---

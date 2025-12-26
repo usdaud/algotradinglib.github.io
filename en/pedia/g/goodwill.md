@@ -92,9 +92,9 @@ Several companies recognize and manage goodwill within their financials, includi
 - **Apple, Inc.**: Acquisitions like those of Beats Electronics contribute to Apple’s goodwill, [accounting](../a/accounting.md) for brand [value](../v/value.md) and [customer](../c/customer.md) loyalty.
 - **Facebook, Inc. (Meta Platforms, Inc.)**: Facebook’s acquisitions like Instagram and WhatsApp have added billions in goodwill, reflecting high expectations of future growth and synergies.
 
-For further details, you can explore their respective [financial statements](../f/financial_statements.md) and [investor relations](../i/investor_relations.md) sections:
+For further details, you can explore their respective [financial statements](../f/financial_statements.md) and [company filings](../i/investor_relations.md) sections:
 
-- [Apple Inc.](https://investor.apple.com/)
-- [Meta Platforms, Inc.](https://investor.fb.com/)
+- Apple Inc.
+- Meta Platforms, Inc.
 
 By understanding goodwill's nature, impacts, and regulatory environment, businesses and investors can better navigate the complexities of mergers, acquisitions, and financial reporting.

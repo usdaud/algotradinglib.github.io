@@ -16,9 +16,9 @@ Historical data serves as the foundation for [market](../m/market.md) [forecasti
 
 Reliable data sources are crucial for accurate [market](../m/market.md) [forecasting](../f/forecasting.md). These sources can include stock exchanges, financial news providers, and specialized data vendors. Some well-known data providers include:
 
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com/)
-- **Thomson [Reuters](../r/reuters.md)**: [Thomson Reuters](https://www.thomsonreuters.com/)
-- **[Quandl](../q/quandl.md) (now part of [Nasdaq](../n/nasdaq.md))**: [Quandl](https://www.quandl.com/)
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg
+- **Thomson [Reuters](../r/reuters.md)**: Thomson Reuters
+- **[Quandl](../q/quandl.md) (now part of [Nasdaq](../n/nasdaq.md))**: Quandl
 
 ### 2.3. Data Cleaning and Preprocessing
 
@@ -91,8 +91,8 @@ NLP techniques are employed to analyze and interpret textual data. Key methods i
 
 Companies like **StockTwits** and **Sentdex** provide [sentiment analysis](../s/sentiment_analysis.md) tools and insights for traders:
 
-- **StockTwits**: [StockTwits](https://stocktwits.com/)
-- **Sentdex**: [Sentdex](https://sentdex.com/)
+- **StockTwits**: StockTwits
+- **Sentdex**: Sentdex
 
 ## 6. Backtesting and Model Validation
 
@@ -127,8 +127,8 @@ Real-time data processing is crucial for [algorithmic trading](../a/algorithmic_
 
 Trading platforms, such as **[Interactive Brokers](../i/interactive_brokers.md)** and **MetaTrader**, [offer](../o/offer.md) APIs for integrating custom algorithms, enabling automated trading:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/)
-- **MetaTrader**: [MetaTrader](https://www.metatrader5.com/)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **MetaTrader**: MetaTrader
 
 ## 8. Challenges and Risks
 

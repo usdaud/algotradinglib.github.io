@@ -6,7 +6,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), the predicti
 
 ### Definition
 
-X-Lagged Models are [time series](../t/time_series.md) prediction models that use lagged observations to make future predictions. A lagged observation is essentially a previous [value](../v/value.md) in a [time series](../t/time_series.md). If you were to predict the stock price for day `t`, you might use prices from days `t-1`, `t-2`, ..., `t-n` as inputs to the predictive model.
+X-Lagged Models are [time series](../t/time_series.md) prediction models that use lagged observations to make future predictions. A lagged observation is essentially a previous [value](../v/value.md) in a [time series](../t/time_series.md). If you were to predict the stock price for day `t`, you might use prices from days `t-1`, `t-2`,..., `t-n` as inputs to the predictive model.
 
 ### Conceptual Framework
 
@@ -30,7 +30,7 @@ X-Lagged Models are used extensively in [algorithmic trading](../a/algorithmic_t
 
 To understand the mathematical underpinnings of X-Lagged Models, consider the following general form of an autoregressive model:
 
-\[ Y_t = \[alpha](../a/alpha.md) + \beta_1 Y_{t-1} + \beta_2 Y_{t-2} + ... + \beta_p Y_{t-p} + \epsilon_t \]
+\[ Y_t = \[alpha](../a/alpha.md) + \beta_1 Y_{t-1} + \beta_2 Y_{t-2} +... + \beta_p Y_{t-p} + \epsilon_t \]
 
 Where:
 - \( Y_t \) is the [value](../v/value.md) at time `t`
@@ -137,7 +137,6 @@ For further study, you can explore more advanced topics like regime-switching mo
 
 ## Further Reading and Resources
 
-- [AlgoTrader](https://www.algotrader.com/) - A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform.
-- [QuantConnect](https://www.quantconnect.com/) - An [open](../o/open.md) platform for writing [trading algorithms](../t/trading_algorithms.md).
-- [QuantInsti](https://www.quantinsti.com/) - Educational resources on [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md).
-
+- AlgoTrader - A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software platform.
+- QuantConnect - An [open](../o/open.md) platform for writing [trading algorithms](../t/trading_algorithms.md).
+- QuantInsti - Educational resources on [algorithmic trading](../a/algorithmic_trading.md) and [quantitative finance](../q/quantitative_finance.md).

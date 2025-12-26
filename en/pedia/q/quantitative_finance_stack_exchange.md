@@ -52,5 +52,3 @@ While [Quantitative Finance](../q/quantitative_finance.md) Stack [Exchange](../e
 - **Secure Access**: Implementing secure login processes and user authentication to prevent unauthorized access.
 - **Community Moderation**: Active moderation by community members to maintain the quality of discussions and prevent spam or abusive behavior.
 
-## Website
-For more information and to join the community, visit the [Quantitative Finance](../q/quantitative_finance.md) Stack [Exchange](../e/exchange.md) website: [Quantitative Finance Stack Exchange](https://quant.stackexchange.com/)

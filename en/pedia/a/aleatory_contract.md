@@ -7,7 +7,7 @@ An aleatory contract is a legally binding contractual agreement in which the iss
 Aleatory contracts possess distinct characteristics that differentiate them from other types of contracts:
 
 1. **[Uncertainty](../u/uncertainty_in_trading.md)**: The primary feature is that the [execution](../e/execution.md) of the contract depends on an uncertain event. Neither party has control over the occurrence of this event.
-  
+
 2. **Mutual [Obligations](../o/obligation.md)**: Both parties must make commitments that hinge on the same uncertain event. For example, in an [insurance](../i/insurance.md) contract, the insurer promises to pay out in case of a particular event (e.g., damage, accident), while the insured pays premiums regardless of whether the event occurs.
 
 3. **Equitable [Risk](../r/risk.md) [Distribution](../d/distribution.md)**: The risks and benefits are distributed equitably, although not necessarily equally, among the parties involved.
@@ -57,11 +57,11 @@ HFT strategies involve rapid [execution](../e/execution.md) of large volumes of 
 Aleatory contracts must comply with legal principles to be enforceable. These principles often involve:
 
 1. **[Offer](../o/offer.md) and Acceptance**: There must be a clear [offer](../o/offer.md) by one party and acceptance by another.
-  
+
 2. **Consideration**: Each party must provide something of [value](../v/value.md). For instance, an [insurance premium](../i/insurance_premium.md) is considered as the insured's consideration for the insurer's promise to cover risks.
-  
+
 3. **Intention to Create Legal Relations**: Both parties must intend for the contract to be legally binding.
-  
+
 4. **Lawful Purpose**: The contract must be for a lawful purpose—not involving illegal activities.
 
 ## Regulatory Framework
@@ -85,13 +85,13 @@ IOSCO sets global standards for securities and [futures](../f/futures.md) market
 Considering the inherent [uncertainty](../u/uncertainty_in_trading.md) in aleatory contracts, [risk management](../r/risk_management.md) is crucial for both parties involved. Effective [risk management](../r/risk_management.md) practices include:
 
 1. **[Quantitative Risk Analysis](../q/quantitative_risk_analysis.md)**: Using statistical and probabilistic models to assess potential outcomes and measure [risk](../r/risk.md) exposure.
-  
+
 2. **[Hedging Strategies](../h/hedging_strategies.md)**: Implementing hedges to [offset](../o/offset.md) [risk](../r/risk.md) exposure, particularly in [financial derivatives](../f/financial_derivatives.md).
-  
+
 3. **[Diversification](../d/diversification.md)**: Spreading [risk](../r/risk.md) by diversifying portfolios or the types of aleatory contracts.
-  
+
 4. **[Reinsurance](../r/reinsurance.md)**: In the [insurance](../i/insurance.md) [industry](../i/industry.md), insurers often use [reinsurance](../r/reinsurance.md) to transfer portions of their [risk](../r/risk.md) to other [insurance](../i/insurance.md) companies.
-  
+
 5. **Regulatory Compliance**: Ensuring adherence to regulatory standards to mitigate legal and compliance risks.
 
 ## Conclusion
@@ -100,7 +100,7 @@ Aleatory contracts represent a fascinating intersection of legal, financial, and
 
 ## Key Resources
 
-- [Chicago Mercantile Exchange (CME)](https://www.cmegroup.com) - A leading [derivatives](../d/derivatives.md) marketplace.
-- [International Swaps and Derivatives Association (ISDA)](https://www.isda.org) - Focused on advancing [derivatives](../d/derivatives.md) markets.
-- [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov) - U.S. regulatory authority for [derivatives](../d/derivatives.md) markets.
-- [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu) - Regulates securities markets in the EU.
+- Chicago Mercantile Exchange (CME) - A leading [derivatives](../d/derivatives.md) marketplace.
+- International Swaps and Derivatives Association (ISDA) - Focused on advancing [derivatives](../d/derivatives.md) markets.
+- Commodity Futures Trading Commission (CFTC) - U.S. regulatory authority for [derivatives](../d/derivatives.md) markets.
+- European Securities and Markets Authority (ESMA) - Regulates securities markets in the EU.

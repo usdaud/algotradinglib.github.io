@@ -55,7 +55,7 @@ The outbreak of COVID-19 in early 2020 led to a rapid, unprecedented [liquidity]
 ## Mitigation Strategies
 
 ### Central Bank Interventions
-Central banks play a crucial role in mitigating [liquidity](../l/liquidity.md) crises by acting as lenders of last resort. They can inject [liquidity](../l/liquidity.md) into the [financial system](../f/financial_system.md) through various mechanisms such as [open market operations](../o/open_market_operations.md), [discount](../d/discount.md) window lending, and emergency funding facilities. 
+Central banks play a crucial role in mitigating [liquidity](../l/liquidity.md) crises by acting as lenders of last resort. They can inject [liquidity](../l/liquidity.md) into the [financial system](../f/financial_system.md) through various mechanisms such as [open market operations](../o/open_market_operations.md), [discount](../d/discount.md) window lending, and emergency funding facilities.
 
 ### Regulatory Flexibility
 During times of [liquidity](../l/liquidity.md) stress, regulatory bodies may [offer](../o/offer.md) temporary relief or adjustments to certain regulatory requirements—such as [capital](../c/capital.md) and [liquidity ratios](../l/liquidity_ratios.md)—to allow financial institutions more flexibility in managing [liquidity](../l/liquidity.md) pressures.
@@ -73,4 +73,4 @@ Developing better [market](../m/market.md) infrastructures, such as improved [cl
 
 A [liquidity](../l/liquidity.md) crisis represents an acute challenge for financial institutions, corporations, and the broader [economy](../e/economy.md). Understanding the causes, effects, and mitigation strategies is essential for financial stability. Through coordinated efforts by central banks, regulatory bodies, and [market](../m/market.md) participants, it is possible to manage and mitigate the adverse impacts of [liquidity](../l/liquidity.md) crises effectively.
 
-For more information on managing [liquidity risk](../l/liquidity_risk.md), you can visit the [Federal Reserve](https://www.federalreserve.gov/) or the [European Central Bank](https://www.ecb.europa.eu/).
+For more information on managing [liquidity risk](../l/liquidity_risk.md), you can visit the Federal Reserve or the European Central Bank.

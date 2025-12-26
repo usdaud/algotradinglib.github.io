@@ -1,105 +1,78 @@
 # Depression
 
-Depression is one of the most common mental health disorders, affecting millions of people worldwide. It's a mood disorder that causes a persistent feeling of sadness and loss of [interest](../i/interest.md). It can interfere with a person's daily functioning and lead to a variety of emotional and physical problems. In this article, we [will](../w/will.md) explore what depression is, its symptoms, causes, diagnosis, treatment [options](../o/options.md), and ways to cope.
+An economic depression is a severe and prolonged downturn in economic activity. It is characterized by a significant decline in economic output, employment, trade, and economic growth that lasts for an extended period, typically several years. Depressions are more severe than recessions in terms of both depth and duration, representing the most extreme form of economic contraction in the business cycle.
 
-## What is Depression?
+## Defining Characteristics
 
-Depression, also known as major depressive disorder (MDD), is a medical condition that negatively affects how you feel, think, and act. Unlike regular sadness or grief, depression is a prolonged state that does not simply go away with time. It's essential to recognize that depression is not a sign of weakness, and it's not something you can "snap out" of by trying harder. It is a serious condition that requires professional treatment.
+### Duration and Severity
 
-## Symptoms of Depression
+A depression is generally defined by:
 
-Depression symptoms can vary from person to person, but there are some common emotional and physical signs to watch for:
+1. **GDP Decline**: A sustained decline in real Gross Domestic Product (GDP) of more than 10%, or a recession lasting more than two to three years.
+2. **High [Unemployment](../u/unemployment.md)**: [Unemployment](../u/unemployment.md) rates often exceed 20% during depressions.
+3. **Deflation**: Prices for goods and services typically fall, leading to a deflationary spiral.
+4. **[Business](../b/business.md) Failures**: Widespread [business](../b/business.md) bankruptcies and closures.
+5. **[Financial System](../f/financial_system.md) Collapse**: Banking crises and [credit](../c/credit.md) [market](../m/market.md) freezes are common.
 
-### Emotional Symptoms
-- Persistent sad or “empty” mood
-- Feelings of hopelessness or pessimism
-- Irritability or frustration, even over small matters
-- Feelings of guilt, worthlessness, or helplessness
-- Loss of [interest](../i/interest.md) or pleasure in hobbies and activities
-- Difficulty concentrating, remembering, or making decisions
-- Thoughts of death or suicide, or suicide attempts
+### Distinction from Recession
 
-### Physical Symptoms
-- Fatigue or decreased energy
-- Insomnia, early-morning awakening, or sleeping too much
-- Changes in appetite – weight loss or [gain](../g/gain.md) unrelated to dieting
-- Aches, pains, headaches, cramps, or digestive problems without a clear physical cause that do not ease even with treatment
+While both depressions and recessions involve economic contractions, depressions are:
+- Longer in [duration](../d/duration.md) (years vs. months)
+- More severe in impact (GDP decline >10% vs. <10%)
+- More widespread in their effects across sectors
+- More difficult to recover from
 
-## Causes of Depression
+## Historical Examples
 
-Depression can result from a combination of genetic, biological, environmental, and psychological factors. Common causes include:
+### The Great Depression (1929-1939)
 
-### Genetic Factors
-Depression can run in families, indicating a hereditary component. If you have family members with depression, you may be at higher [risk](../r/risk.md).
+The most famous example of an economic depression occurred in the 1930s:
 
-### Biological Factors
-Changes in brain chemistry, structure, and function can contribute to depression. Neurotransmitters like serotonin, norepinephrine, and dopamine play a significant role in mood regulation.
+- **Trigger**: The stock [market](../m/market.md) crash of October 1929 (Black Tuesday)
+- **GDP Decline**: U.S. GDP fell by approximately 30% between 1929 and 1933
+- **[Unemployment](../u/unemployment.md)**: Peaked at approximately 25% in the United States
+- **Global Impact**: Affected virtually all industrialized nations
+- **[Duration](../d/duration.md)**: Lasted approximately a decade, with recovery accelerated by World War II
+- **Banking Crisis**: Thousands of banks failed, wiping out savings
 
-### Environmental Factors
-Life events such as trauma, loss of a loved one, a difficult relationship, or any stressful situation can trigger depression. Economic factors like [unemployment](../u/unemployment.md) or [poverty](../p/poverty.md) can also contribute.
+### Other Notable Depressions
 
-### Psychological Factors
-People with low self-esteem, who are easily overwhelmed by stress, or who have a generally pessimistic outlook on life may be more prone to depression.
+1. **The Long Depression (1873-1896)**: A period of economic stagnation and deflation in Europe and North America.
+2. **The Depression of 1920-21**: A short but severe depression following World War I.
+3. **Various National Depressions**: Argentina (1998-2002), Russia (1990s), and others have experienced localized depressions.
 
-## Diagnosis of Depression
+## Causes of Economic Depressions
 
-To diagnose depression, a healthcare professional, typically a psychologist or psychiatrist, [will](../w/will.md) conduct a thorough evaluation. This may include:
+### Financial Market Collapse
 
-- **Clinical Interview:** Discussing your symptoms, medical history, and family history.
-- **Questionnaires:** Utilizing standardized questionnaires to assess the severity of your depression.
-- **Physical Exam:** Conducting a physical exam to rule out other medical conditions that might be causing depressive symptoms.
-- **Diagnostic Criteria:** Comparing symptoms against the criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) published by the American Psychiatric Association.
+- [Asset](../a/asset.md) price [bubbles](../b/bubble.md) bursting ([stocks](../s/stock.md), [real estate](../r/real_estate.md))
+- Banking system failures
+- [Credit](../c/credit.md) [market](../m/market.md) freezes
+- Loss of confidence in financial institutions
 
-## Treatment Options for Depression
+### Monetary Factors
 
-Effective treatment for depression can include medication, therapy, lifestyle changes, or a combination thereof. Treatment plans are individualized, based on the severity of symptoms and other personal health factors.
+- Excessive monetary contraction
+- Deflation spirals
+- [Gold standard](../g/gold_standard.md) constraints (historically)
+- Central [bank](../b/bank.md) policy errors
 
-### Medications
+### Structural Factors
 
-- **Antidepressants:** Selective serotonin reuptake inhibitors (SSRIs), serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants, and others are effective in balancing brain chemicals.
-- **Antipsychotics:** Sometimes used in conjunction with antidepressants for better management of symptoms.
-- **Mood Stabilizers:** Can help if depression is part of a bipolar disorder.
+- Overproduction and underconsumption
+- [Income inequality](../i/income_inequality.md)
+- [Trade](../t/trade.md) imbalances
+- Technological disruptions
 
-### Psychotherapy
+### External Shocks
 
-- **Cognitive Behavioral Therapy (CBT):** Helps identify and change negative thought patterns and behaviors.
-- **Interpersonal Therapy (IPT):** Focuses on improving personal relationships that may contribute to depressive symptoms.
-- **Psychodynamic Therapy:** Explores past events and feelings to understand current mood and behavior.
-
-### Lifestyle and Home Remedies
-
-- **[Exercise](../e/exercise.md):** Regular physical activity can help reduce symptoms by releasing endorphins and improving mood.
-- **Healthy Diet:** Eating a balanced diet can impact your energy levels and overall mood.
-- **Sleep Hygiene:** Establishing a regular sleep routine can improve mood and overall health.
-- **Mindfulness and Meditation:** These practices can help manage stress and improve emotional well-being.
-
-### Alternative Treatments
-
-- **Electroconvulsive Therapy (ECT):** Used for severe depression unresponsive to other treatments.
-- **Transcranial Magnetic Stimulation (TMS):** Uses magnetic fields to stimulate nerve cells in the brain.
-- **Light Therapy:** Particularly useful for depression with a seasonal pattern.
-
-## Coping with Depression
-
-Living with depression can be challenging, but there are strategies that can help manage symptoms and support recovery:
-
-### Professional Support
-
-- **Therapists and Counselors:** Regular sessions with a mental health professional can provide coping strategies and emotional support.
-- **Support Groups:** Sharing experiences with others who understand can be therapeutic and reduce feelings of isolation.
-
-### Self-Care Strategies
-
-- **Set Realistic Goals:** Break tasks into smaller steps and set achievable goals.
-- **Stay Connected:** Maintain relationships and socialize with family and friends.
-- **Educate Yourself:** Learning about depression can empower you to manage your condition better.
-
-### Emergency Resources
-
-- **Crisis Hotlines and Emergency Services:** If you or someone you know is in immediate danger or having suicidal thoughts, seek help immediately by calling emergency services or a crisis hotline.
+- Wars and conflicts
+- Natural disasters
+- Pandemics
+- [Commodity](../c/commodity.md) price shocks
 
 ## Conclusion
 
-Depression is a complex and multifaceted disorder that requires a comprehensive and personalized approach to treatment. Understanding the symptoms, causes, and available treatments can empower individuals to seek help and manage their condition effectively. Remember, depression is treatable, and with the right support and resources, those affected can lead fulfilling lives.
+Economic depressions represent the most severe form of economic crisis, with devastating impacts on employment, output, and social welfare. The Great Depression of the 1930s fundamentally changed economic policy, leading to the development of modern macroeconomic theory, central banking practices, and financial regulation. While significant safeguards now exist to prevent and mitigate depressions, understanding their causes, characteristics, and policy responses remains crucial for economists, policymakers, and financial [market](../m/market.md) participants.
 
-If you or someone you know is struggling with depression, don't hesitate to reach out for professional help. Early intervention can make a significant difference in outcomes and overall [quality of life](../q/quality_of_life.md).
+The lessons learned from historical depressions continue to inform policy responses to economic crises, as demonstrated by the aggressive interventions during the 2008 [financial crisis](../f/financial_crisis.md) and the 2020 COVID-19 pandemic recession. Vigilance, appropriate policy frameworks, and the willingness to act decisively remain essential to preventing future depressions and ensuring economic stability.

@@ -6,35 +6,35 @@ The 2-Period Exponential Moving Average (EMA) is a type of moving average used i
 The formula for calculating the 2-Period EMA is relatively straightforward but requires an initial setup.
 
 ### Step-by-Step Calculation
-1. **Calculate the Simple Moving Average (SMA)** for the first two data points. This serves as the starting EMA [value](../v/value.md). 
-   \[
-   SMA = \frac{P_1 + P_2}{2}
-   \]
-   where \(P_1\) and \(P_2\) are the closing prices of the first two periods.
+1. **Calculate the Simple Moving Average (SMA)** for the first two data points. This serves as the starting EMA [value](../v/value.md).
+ \[
+ SMA = \frac{P_1 + P_2}{2}
+ \]
+ where \(P_1\) and \(P_2\) are the closing prices of the first two periods.
 
 2. **Calculate the [Multiplier](../m/multiplier.md)**: The weighting [multiplier](../m/multiplier.md) for the 2-Period EMA is calculated as follows:
-   \[
-   \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1}
-   \]
-   For a 2-Period EMA:
-   \[
-   \text{[Multiplier](../m/multiplier.md)} = \frac{2}{2 + 1} = \frac{2}{3} \approx 0.6667
-   \]
+ \[
+ \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1}
+ \]
+ For a 2-Period EMA:
+ \[
+ \text{[Multiplier](../m/multiplier.md)} = \frac{2}{2 + 1} = \frac{2}{3} \approx 0.6667
+ \]
 
 3. **Calculate Subsequent EMA Values**: Using the [multiplier](../m/multiplier.md) and the most recent closing price, the subsequent EMA values can be calculated:
-   \[
-   \text{EMA}_t = (\text{Close}_t - \text{EMA}_{t-1}) \times \text{[Multiplier](../m/multiplier.md)} + \text{EMA}_{t-1}
-   \]
-   Where:
-   \[
-   \text{EMA}_t \text{ is the current period's EMA}
-   \]
-   \[
-   \text{Close}_t \text{ is the current period's closing price}
-   \]
-   \[
-   \text{EMA}_{t-1} \text{ is the previous period's EMA}
-   \]
+ \[
+ \text{EMA}_t = (\text{Close}_t - \text{EMA}_{t-1}) \times \text{[Multiplier](../m/multiplier.md)} + \text{EMA}_{t-1}
+ \]
+ Where:
+ \[
+ \text{EMA}_t \text{ is the current period's EMA}
+ \]
+ \[
+ \text{Close}_t \text{ is the current period's closing price}
+ \]
+ \[
+ \text{EMA}_{t-1} \text{ is the previous period's EMA}
+ \]
 
 ### Example Calculation
 Consider the closing prices over five days: 1, 2, 3, 4, and 5.
@@ -71,8 +71,8 @@ Whenever the 2-Period EMA crosses above the [10-Period EMA](../1/10-period_ema.m
 Another strategy involves using the 2-Period EMA in conjunction with the RSI:
 1. **RSI Calculation**: Calculate the [2-Period RSI](../1/2-period_rsi.md).
 2. **[Trade](../t/trade.md) Signals**:
-   - Buy when the RSI is below 30 (indicating an [oversold](../o/oversold.md) condition) and the price crosses above the 2-Period EMA.
-   - Sell when the RSI is above 70 (indicating an [overbought](../o/overbought.md) condition) and the price crosses below the 2-Period EMA.
+ - Buy when the RSI is below 30 (indicating an [oversold](../o/oversold.md) condition) and the price crosses above the 2-Period EMA.
+ - Sell when the RSI is above 70 (indicating an [overbought](../o/overbought.md) condition) and the price crosses below the 2-Period EMA.
 
 ## Advantages and Limitations
 While the 2-Period EMA offers several benefits, it also has its limitations.
@@ -91,10 +91,10 @@ While the 2-Period EMA offers several benefits, it also has its limitations.
 Many trading platforms and financial institutions utilize the 2-Period EMA in their [algorithmic trading](../a/algorithmic_trading.md) models and [automated trading systems](../a/automated_trading_systems.md) due to its ability to provide timely signals.
 
 ### Example Platform: TradingView
-[TradingView](https://www.tradingview.com/) is a popular platform where traders can plot the 2-Period EMA on any [financial instrument](../f/financial_instrument.md)'s chart. It offers customizable tools that allow traders to integrate the 2-Period EMA with other indicators easily.
+TradingView is a popular platform where traders can plot the 2-Period EMA on any [financial instrument](../f/financial_instrument.md)'s chart. It offers customizable tools that allow traders to integrate the 2-Period EMA with other indicators easily.
 
 ### Example Company: MetaTrader
-[MetaTrader](https://www.metatrader4.com/) is another example where the 2-Period EMA can be used in creating custom [trading algorithms](../t/trading_algorithms.md) and Expert Advisors (EAs).
+MetaTrader is another example where the 2-Period EMA can be used in creating custom [trading algorithms](../t/trading_algorithms.md) and Expert Advisors (EAs).
 
 ## Conclusion
-The 2-Period EMA is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its ability to react quickly to recent changes makes it ideal for fast-paced trading environments. Whether used alone or in combination with other indicators, the 2-Period EMA can significantly enhance one's [trading strategy](../t/trading_strategy.md) when applied correctly.
+The 2-Period EMA is a powerful tool for traders seeking to [capitalize](../c/capitalize.md) on short-term price movements. Its ability to react quickly to recent changes makes it ideal for fast-paced trading environments. Whether used alone or in combination with other indicators, the 2-Period EMA can significantly enhance one's [trading strategy](../t/trading_strategy.md) when applied correctly.

@@ -35,7 +35,7 @@ A formal notice must be issued to shareholders to inform them about the AGM. Thi
 The agenda of an AGM generally includes several critical points:
 - Welcome and Introductions
 - Chairman’s Statement
-- CEO’s Report 
+- CEO’s Report
 - Presentation of [Annual Report](../a/annual_report.md) and [Financial Statements](../f/financial_statements.md)
 - Questions and Answers
 - Election of Directors
@@ -88,15 +88,15 @@ Critical decisions regarding the company's future are made during the AGM. These
 
 ### Apple Inc.
 
-Apple Inc. conducts its AGM to provide shareholders with an overview of the company’s performance, including its [financial health](../f/financial_health.md), product innovations, and future strategies. The AGM is typically held at their headquarters in Cupertino, California. More information can be found on their [investor relations page](https://investor.apple.com).
+Apple Inc. conducts its AGM to provide shareholders with an overview of the company’s performance, including its [financial health](../f/financial_health.md), product innovations, and future strategies. The AGM is typically held at their headquarters in Cupertino, California.
 
 ### Microsoft Corporation
 
-Microsoft's AGMs are notable for their detailed presentations on [business](../b/business.md) segments, new technologies, and corporate [social responsibility](../s/social_responsibility.md) initiatives. They also provide a platform for discussing their [financial performance](../f/financial_performance.md) and strategic direction. More details can be found on their [investor relations page](https://www.microsoft.com/investor).
+Microsoft's AGMs are notable for their detailed presentations on [business](../b/business.md) segments, new technologies, and corporate [social responsibility](../s/social_responsibility.md) initiatives. They also provide a platform for discussing their [financial performance](../f/financial_performance.md) and strategic direction.
 
 ### Berkshire Hathaway
 
-The AGM of [Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is famous for its extensive Q&A session, where shareholders get the opportunity to ask Buffett and Vice Chairman Charlie Munger questions on a wide [range](../r/range.md) of topics. This session is a key highlight and attracts a global audience. [More information](https://www.berkshirehathaway.com/shareholders.html).
+The AGM of [Berkshire Hathaway](../b/berkshire_hathaway.md), led by Warren Buffett, is famous for its extensive Q&A session, where shareholders get the opportunity to ask Buffett and Vice Chairman Charlie Munger questions on a wide [range](../r/range.md) of topics. This session is a key highlight and attracts a global audience.
 
 ## Technological Advances in AGMs
 

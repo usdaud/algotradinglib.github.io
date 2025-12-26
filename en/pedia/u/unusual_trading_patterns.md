@@ -17,7 +17,7 @@ Conversely, a bearish abandoned baby involves:
 Since the pattern in itself shows extensive [gaps](../g/gap.md) indicating a sudden change in the [market](../m/market.md) [momentum](../m/momentum.md), algorithms can be programmed to identify such [gaps](../g/gap.md) and execute trades accordingly.
 
 Web Resources:
-- **[TradingView](../t/tradingview.md)** [Abandoned Baby Guide](https://www.tradingview.com/chart-patterns/abandoned-baby/)
+- **[TradingView](../t/tradingview.md)** Abandoned Baby Guide
 
 ## 2. **Waterfall Decline Pattern**
 
@@ -29,7 +29,7 @@ The 'Waterfall Decline' pattern occurs when an [asset](../a/asset.md) experience
 - Often followed by a short-term bounce or a steep decline continuation.
 
 ### Algorithmic Detection:
-Using Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [trading algorithms](../t/trading_algorithms.md) can detect the sharp downward movements and trigger short-selling strategies. 
+Using Moving Averages and [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), [trading algorithms](../t/trading_algorithms.md) can detect the sharp downward movements and trigger short-selling strategies.
 
 ## 3. **Diamond Top/Bottom Patterns**
 
@@ -113,7 +113,6 @@ The '[Wolfe Wave](../w/wolfe_wave.md)' pattern is a natural, harmonically balanc
 ### Execution:
 [Pattern recognition](../p/pattern_recognition.md) algorithms plot these waves, ensuring accuracy, especially in dynamic markets. Wolfe Waves often provide precise entry and exit points.
 
-[AlgoTrading Company](https://www.algotradingcompany.com)
 
 ## 10. **Gartley Pattern**
 
@@ -127,7 +126,7 @@ The '[Gartley Pattern](../g/gartley_pattern.md)' is a complex harmonic pattern i
 ### Detection:
 Algorithmic systems, leveraging Fibonacci algorithms, scan for these retracements and extensions, executing trades at the 'D' point where the likelihood of [reversal](../r/reversal.md) is high.
 
-[H.M. Gartley's Book](https://www.bookstore.com/hm-gartley-profits-stock-market)
+H.M. Gartley's Book
 
 ## Conclusion
 

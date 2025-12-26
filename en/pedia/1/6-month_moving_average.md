@@ -68,15 +68,15 @@ In volatile and sideways markets, the 6-month moving average can generate [false
 
 ## Integration in Algotrading Platforms
 
-Major trading platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) tools to easily integrate 6-month moving averages into [trading algorithms](../t/trading_algorithms.md).
+Major trading platforms like MetaTrader, [StockSharp](../s/stocksharp.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) tools to easily integrate 6-month moving averages into [trading algorithms](../t/trading_algorithms.md).
 
 ### MetaTrader
 
 MetaTrader is a widely-used [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) capabilities for custom scripting using MQL4/MQL5. Traders can write custom Expert Advisors (EAs) to automate buying and selling actions based on 6-month [moving average strategies](../m/moving_average_strategies.md).
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) provides a cloud-based environment for building [algorithmic trading](../a/algorithmic_trading.md) strategies using Python and C#. Its extensive library and historical data functionality make it ideal for [backtesting](../b/backtesting.md) and deploying strategies that utilize the 6-month moving average.
+[StockSharp](../s/stocksharp.md) provides an environment for building [algorithmic trading](../a/algorithmic_trading.md) strategies using C#. Its extensive library and historical data functionality make it ideal for [backtesting](../b/backtesting.md) and deploying strategies that utilize the 6-month moving average.
 
 ### NinjaTrader
 
@@ -94,4 +94,4 @@ Retail traders also frequently use moving averages in their trading routines. Ma
 
 ## Conclusion
 
-The 6-month moving average is a versatile tool in the arsenal of both manual and algorithmic traders. While it has its limitations as a [lagging indicator](../l/lagging_indicator.md), its simplicity and ability to smooth out price data make it invaluable for identifying trends and making informed trading decisions. By integrating this [indicator](../i/indicator.md) into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can automate and potentially enhance the efficacy of their strategies.
+The 6-month moving average is a versatile tool in the arsenal of both manual and algorithmic traders. While it has its limitations as a [lagging indicator](../l/lagging_indicator.md), its simplicity and ability to smooth out price data make it invaluable for identifying trends and making informed trading decisions. By integrating this [indicator](../i/indicator.md) into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can automate and potentially enhance the efficacy of their strategies.

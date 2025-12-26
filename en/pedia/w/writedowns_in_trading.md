@@ -4,7 +4,7 @@ Writedowns in trading are significant [accounting](../a/accounting.md) and finan
 
 ### What is a Writedown?
 
-A writedown is an [accounting](../a/accounting.md) term that refers to the reduction in the [book value](../b/book_value.md) of an [asset](../a/asset.md) when its fair [market value](../m/market_value.md) has fallen below its carrying amount on the [balance sheet](../b/balance_sheet.md). This adjustment typically happens when there is a tangible decline in the [value](../v/value.md) of an [asset](../a/asset.md), prompting the company to reflect the decreased [valuation](../v/valuation.md) in its financial records. 
+A writedown is an [accounting](../a/accounting.md) term that refers to the reduction in the [book value](../b/book_value.md) of an [asset](../a/asset.md) when its fair [market value](../m/market_value.md) has fallen below its carrying amount on the [balance sheet](../b/balance_sheet.md). This adjustment typically happens when there is a tangible decline in the [value](../v/value.md) of an [asset](../a/asset.md), prompting the company to reflect the decreased [valuation](../v/valuation.md) in its financial records.
 
 Unlike a [write-off](../w/write-off.md), which completely removes the [asset](../a/asset.md) from the books, a writedown only reduces the [asset](../a/asset.md)'s [value](../v/value.md). Writedowns are crucial because they ensure that the [financial statements](../f/financial_statements.md) reflect a realistic [valuation](../v/valuation.md) of assets, aligning the records with the current [market](../m/market.md) conditions.
 
@@ -59,4 +59,4 @@ Companies can take several proactive measures to manage and potentially avoid wr
 
 Writedowns are an essential aspect of [financial accounting](../f/financial_accounting.md) and [asset management](../a/asset_management.md) in trading. They ensure that a company’s financial records accurately reflect the current [value](../v/value.md) of its assets, even though the short-term impact on [financial statements](../f/financial_statements.md) can be negative. By understanding the causes, types, and effects of writedowns, and implementing effective management strategies, companies can navigate these adjustments more strategically, maintaining [financial health](../f/financial_health.md) and [investor](../i/investor.md) confidence.
 
-For more information on how writedowns impact financial practices and to explore specific case studies, you can refer to resources provided by financial services companies like [Deloitte](https://www2.deloitte.com/) or [PwC](https://www.pwc.com/).
+For more information on how writedowns impact financial practices and to explore specific case studies, you can refer to resources provided by financial services companies like Deloitte or PwC.

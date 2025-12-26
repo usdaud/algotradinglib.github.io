@@ -75,14 +75,14 @@ The reverse [collar](../c/collar.md) strategy can be particularly effective in c
 
 ## 6. Conclusion
 
-The reverse [collar](../c/collar.md) strategy is a sophisticated [options](../o/options.md) trading approach providing traders with a balanced method to seek potential [profit](../p/profit.md) while managing risks. By combining long call [options](../o/options.md) and short [put options](../p/put_options.md), traders can capture upward movements in the [underlying asset](../u/underlying_asset.md)'s price while limiting their downside exposure. However, it comes with inherent risks, such as the obligation to buy the [asset](../a/asset.md) and the potential for early [assignment](../a/assignment.md). 
+The reverse [collar](../c/collar.md) strategy is a sophisticated [options](../o/options.md) trading approach providing traders with a balanced method to seek potential [profit](../p/profit.md) while managing risks. By combining long call [options](../o/options.md) and short [put options](../p/put_options.md), traders can capture upward movements in the [underlying asset](../u/underlying_asset.md)'s price while limiting their downside exposure. However, it comes with inherent risks, such as the obligation to buy the [asset](../a/asset.md) and the potential for early [assignment](../a/assignment.md).
 
 For those interested in implementing the reverse [collar](../c/collar.md) strategy, it's crucial to analyze the [underlying](../u/underlying.md) [market](../m/market.md) conditions, understand the [volatility](../v/volatility.md), and utilize proper [risk management](../r/risk_management.md) techniques. With these considerations in mind, traders can effectively utilize the reverse [collar](../c/collar.md) strategy to achieve their investment objectives.
 
 ---
 ### References
-- [Options Trading Strategies](https://www.optionseducation.org/)
-- [Chicago Board Options Exchange (CBOE)](https://www.cboe.com/)
-- [Investopedia on Reverse Collar](https://www.investopedia.com/)
+- Options Trading Strategies
+- Chicago Board Options Exchange (CBOE)
+- Investopedia on Reverse Collar
 
 To explore and learn more about this strategy, one may visit the educational resources and [options](../o/options.md) trading platforms provided by the links above.

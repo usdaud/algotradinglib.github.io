@@ -60,7 +60,7 @@ The Santiago Stock [Exchange](../e/exchange.md) plays a vital role in funding ec
 
 Like all [financial markets](../f/financial_market.md), BCS is subject to [volatility](../v/volatility.md) driven by global [economic conditions](../e/economic_conditions.md), political developments, and shifts in [investor](../i/investor.md) sentiment. The [exchange](../e/exchange.md) continually seeks to mitigate these risks through regulatory enhancements and technological advancements.
 
-### Environmental, Social, and Governance (ESG) 
+### Environmental, Social, and Governance (ESG)
 
 BCS has placed a growing emphasis on ESG principles, encouraging [listed](../l/listed.md) companies to adopt sustainable practices. This not only aligns with global trends but also caters to the rising [demand](../d/demand.md) for responsible [investing](../i/investing.md).
 
@@ -72,4 +72,4 @@ The rise of fintech presents both opportunities and challenges for the Santiago 
 
 The Santiago Stock [Exchange](../e/exchange.md) remains a pivotal institution in Chile's [financial sector](../f/financial_sector.md), providing essential services that facilitate [capital](../c/capital.md) formation and [economic growth](../e/economic_growth.md). Through continuous innovation, [robust](../r/robust.md) regulation, and international collaboration, BCS is well-positioned to navigate the evolving landscape of global [finance](../f/finance.md).
 
-For more detailed information, you can visit the official Santiago Stock [Exchange](../e/exchange.md) website at [BCS](https://www.bolsadesantiago.com/).
+For more detailed information, you can visit the official Santiago Stock [Exchange](../e/exchange.md) online platform at BCS.

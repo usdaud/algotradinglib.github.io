@@ -1,6 +1,6 @@
 # Welfare Loss of Taxation
 
-The [welfare](../w/welfare.md) loss of [taxation](../t/taxation.md), also known as the [deadweight loss of taxation](../d/deadweight_loss_of_taxation.md), refers to the loss of [economic efficiency](../e/economic_efficiency.md) that occurs when the [equilibrium](../e/equilibrium.md) for a good or a service is not achieved or is not achievable. In the context of public [finance](../f/finance.md), it is an important concept that quantifies the cost imposed on society by the [market](../m/market.md) distortions created through [taxation](../t/taxation.md). 
+The [welfare](../w/welfare.md) loss of [taxation](../t/taxation.md), also known as the [deadweight loss of taxation](../d/deadweight_loss_of_taxation.md), refers to the loss of [economic efficiency](../e/economic_efficiency.md) that occurs when the [equilibrium](../e/equilibrium.md) for a good or a service is not achieved or is not achievable. In the context of public [finance](../f/finance.md), it is an important concept that quantifies the cost imposed on society by the [market](../m/market.md) distortions created through [taxation](../t/taxation.md).
 
 Economic theory suggests that any tax imposed causes a deviation from the free-[market](../m/market.md) [equilibrium](../e/equilibrium.md). In a perfectly competitive [market](../m/market.md) without [taxes](../t/taxes.md), the price and quantity of goods or services produced and consumed would be at their social optimal levels. [Taxes](../t/taxes.md), however, drive a [wedge](../w/wedge.md) between what consumers pay and what producers receive, creating inefficiencies where the [market](../m/market.md) cannot clear, leading to a loss in overall economic [welfare](../w/welfare.md).
 
@@ -8,7 +8,7 @@ Economic theory suggests that any tax imposed causes a deviation from the free-[
 
 ### Market Equilibrium
 
-In a simplified [economy](../e/economy.md), [market](../m/market.md) [equilibrium](../e/equilibrium.md) is reached when the [quantity supplied](../q/quantity_supplied.md) of a good matches the [quantity demanded](../q/quantity_demanded.md), resulting in an [equilibrium](../e/equilibrium.md) price. At this point, the sum of consumer and [producer surplus](../p/producer_surplus.md) is maximized. 
+In a simplified [economy](../e/economy.md), [market](../m/market.md) [equilibrium](../e/equilibrium.md) is reached when the [quantity supplied](../q/quantity_supplied.md) of a good matches the [quantity demanded](../q/quantity_demanded.md), resulting in an [equilibrium](../e/equilibrium.md) price. At this point, the sum of consumer and [producer surplus](../p/producer_surplus.md) is maximized.
 
 [Consumer surplus](../c/consumer_surplus.md) is the difference between what consumers are willing to pay for a good and what they actually pay, while [producer surplus](../p/producer_surplus.md) is the difference between the price at which producers are willing to sell a good and the price they actually receive. The sum of these surpluses is considered the total [welfare](../w/welfare.md) in the [market](../m/market.md).
 
@@ -60,7 +60,7 @@ The UK tax system comprises various types of [taxes](../t/taxes.md) that illustr
 - **[Value](../v/value.md)-Added Tax (VAT)**: A consumption tax imposed at each production stage, VAT is broad-based, affecting a wide array of goods and services, but set at a moderate rate to minimize distortions.
 - **[Income Tax](../i/income_tax.md)**: Progressive [income](../i/income.md) [tax brackets](../t/tax_brackets.md) aim to achieve [equity](../e/equity.md) in [income](../i/income.md) [distribution](../d/distribution.md) while considering the minimal impact on labor [supply](../s/supply.md) decisions.
 
-For more details, you can explore the official website of the UK government on [taxation](../t/taxation.md): [UK Government Taxation](https://www.gov.uk/topic/personal-tax/income-tax)
+./t/taxation.md): UK Government Taxation
 
 #### The United States
 
@@ -68,7 +68,7 @@ The U.S. tax system also attempts to balance [efficiency](../e/efficiency.md) an
 - **[Federal Income](../f/federal_income.md) Tax**: Progressive [income](../i/income.md) [taxation](../t/taxation.md) with various deductions and credits designed to redistribute [income](../i/income.md).
 - **State Sales [Taxes](../t/taxes.md)**: Sales [taxes](../t/taxes.md), though potentially regressive, are simpler to administer and can be designed to exclude necessities to reduce the impact on low-[income](../i/income.md) households.
 
-Additional information about U.S. tax policy can be found here: [IRS Official Site](https://www.irs.gov/)
+Additional information about U.S. tax policy can be found here
 
 ## Criticisms and Alternatives
 
@@ -77,10 +77,10 @@ Additional information about U.S. tax policy can be found here: [IRS Official Si
 Several alternative systems have been proposed to minimize the [welfare](../w/welfare.md) loss of [taxation](../t/taxation.md):
 - **[Flat Tax](../f/flat_tax.md)**: A single [tax rate](../t/tax_rate.md) applied to all [income](../i/income.md) levels can simplify the tax system and reduce administration costs, though it may lack progressivity.
 - **Consumption Tax**: Shifting the [tax base](../t/tax_base.md) to consumption rather than [income](../i/income.md) could potentially reduce [tax avoidance](../t/tax_avoidance.md) and encourage saving.
-  
+
 ### Behavioral Economics Insights
 
-Recent advancements in [behavioral economics](../b/behavioral_economics.md) have criticized traditional views of [taxation](../t/taxation.md) concerning [welfare](../w/welfare.md) loss. Insights into human behavior suggest that people's responses to [taxes](../t/taxes.md) can be more complex than simple [supply](../s/supply.md) and [demand elasticity](../d/demand_elasticity.md), incorporating factors like [mental accounting](../m/mental_accounting.md) and perceived fairness into the [welfare](../w/welfare.md) analysis. 
+Recent advancements in [behavioral economics](../b/behavioral_economics.md) have criticized traditional views of [taxation](../t/taxation.md) concerning [welfare](../w/welfare.md) loss. Insights into human behavior suggest that people's responses to [taxes](../t/taxes.md) can be more complex than simple [supply](../s/supply.md) and [demand elasticity](../d/demand_elasticity.md), incorporating factors like [mental accounting](../m/mental_accounting.md) and perceived fairness into the [welfare](../w/welfare.md) analysis.
 
 Behavioral nudges and carefully designed tax rules can sometimes mitigate [efficiency](../e/efficiency.md) losses by aligning tax policies more closely with real-world behavioral patterns.
 

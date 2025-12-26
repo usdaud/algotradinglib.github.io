@@ -104,7 +104,7 @@ Procter & Gamble faced a major activist campaign in 2017 from [Nelson Peltz](../
 [Shareholder](../s/shareholder.md) activism is a dynamic and influential force in the corporate world, capable of driving significant changes within companies. While it can bring about positive transformation and enhance [shareholder value](../s/shareholder_value.md), it also carries risks and challenges. Understanding the motivations, strategies, and impacts of [shareholder](../s/shareholder.md) activism is crucial for investors, company management, and policy-makers navigating this complex landscape.
 
 For more information on organizations involved in [shareholder](../s/shareholder.md) activism, you can visit:
-- [Icahn Enterprises L.P.](https://www.ielp.com/)
-- [Pershing Square Capital Management](https://www.pershingsquareholdings.com/)
-- [Elliott Management Corporation](https://www.elliottmgmt.com/)
-- [Trian Partners](http://www.trianpartners.com/)
+- Icahn Enterprises L.P.
+- Pershing Square Capital Management
+- Elliott Management Corporation
+- Trian Partners

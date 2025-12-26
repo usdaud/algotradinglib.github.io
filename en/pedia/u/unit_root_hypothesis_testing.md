@@ -10,7 +10,7 @@ Mathematically, a [time series](../t/time_series.md) \( y_t \) is said to have a
 
 \[ y_t = y_{t-1} + \epsilon_t \]
 
-where \( \epsilon_t \) is a [white noise](../w/white_noise_in_trading.md) [error term](../e/error_term.md) with mean zero and constant variance. 
+where \( \epsilon_t \) is a [white noise](../w/white_noise_in_trading.md) [error term](../e/error_term.md) with mean zero and constant variance.
 
 In a more general form, an autoregressive process of [order](../o/order.md) one, AR(1), is given by:
 
@@ -92,23 +92,23 @@ Several companies and platforms [offer](../o/offer.md) tools and frameworks for 
 ### Python and R Libraries
 
 - **statsmodels**: A Python library providing classes and functions for the estimation of many different statistical models, including unit root tests such as ADF and KPSS.
-  - [statsmodels.org](https://www.statsmodels.org/stable/index.html)
+ - statsmodels.org
 - **tseries**: Part of the R language's base of [time series analysis](../t/time_series_analysis.md) tools, tseries includes functions for ADF, PP, and KPSS tests.
-  - [CRAN - tseries](https://cran.r-project.org/web/packages/tseries/index.html)
+ - CRAN - tseries
 
 ### Financial Data Providers
 
 - **[Bloomberg](../b/bloomberg.md)**: Offers comprehensive [time series](../t/time_series.md) data and advanced econometric analysis tools, including [unit root testing](../u/unit_root_testing.md) functionalities.
-  - [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - Bloomberg Terminal
 - **Thomson [Reuters](../r/reuters.md)**: Provides extensive financial data and analytics services, incorporating [time series analysis](../t/time_series_analysis.md) tools useful for [unit root testing](../u/unit_root_testing.md).
-  - [Thomson Reuters](https://www.refinitiv.com/en)
+ - Thomson Reuters
 
 ### Algorithmic Trading Platforms
 
 - **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that integrates with Python, allowing for extensive data analysis, including [unit root testing](../u/unit_root_testing.md).
-  - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 - **[QuantLib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md) in C++ that can be used along with [time series](../t/time_series.md) testing methods.
-  - [QuantLib](https://www.quantlib.org/)
+ - QuantLib
 
 ## Conclusion
 

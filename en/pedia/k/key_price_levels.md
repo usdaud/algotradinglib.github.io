@@ -10,7 +10,7 @@ Key price levels are specific points on a [financial instrument](../f/financial_
 - **Resistance Levels:** In contrast, resistance levels are price points where selling [interest](../i/interest.md) emerges as the [asset](../a/asset.md)'s price rises. The price often struggles to break above these levels.
 - **[Pivot Points](../p/pivot_points.md):** These are calculated price levels that indicate potential turning points in the [market](../m/market.md) based on the previous day's high, low, and closing prices.
 - **[Psychological Levels](../p/psychological_levels_in_trading.md):** Often round numbers, such as $50, $100, or $1,000, that tend to influence [trader](../t/trader.md) behavior.
-  
+
 Key price levels are instrumental in defining areas where the price is likely to behave in a predictable manner, thus providing a foundation for reliable [trading strategies](../t/trading_strategies.md).
 
 ## Identification of Key Price Levels
@@ -31,7 +31,7 @@ Certain [technical indicators](../t/technical_indicators.md) can help identify k
 
 ### Advanced Algorithms
 
-Modern quantitative firms like [Two Sigma](https://www.twosigma.com/) and [Citadel](https://www.citadel.com/) employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as [market](../m/market.md) conditions change.
+Modern quantitative firms like Two Sigma and Citadel employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to develop advanced algorithms for pinpointing key price levels. These algorithms are capable of learning from vast datasets and can adapt as [market](../m/market.md) conditions change.
 
 ## Utilizing Key Price Levels in Trading Strategies
 

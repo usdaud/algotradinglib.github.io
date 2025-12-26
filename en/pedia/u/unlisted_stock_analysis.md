@@ -4,7 +4,7 @@ Unlisted [stock analysis](../s/stock_analysis.md) refers to the detailed examina
 
 ## Overview
 
-**Unlisted [Stocks](../s/stock.md)**: These are [shares](../s/shares.md) of private or public companies that are not traded on formal stock exchanges. Instead, they are traded through Over-the-Counter (OTC) networks, brokers, or private transactions. 
+**Unlisted [Stocks](../s/stock.md)**: These are [shares](../s/shares.md) of private or public companies that are not traded on formal stock exchanges. Instead, they are traded through Over-the-Counter (OTC) networks, brokers, or private transactions.
 
 **[Algorithmic Trading](../a/algorithmic_trading.md) (algotrading)**: This is a method of executing a large [order](../o/order.md) using automated pre-programmed trading instructions [accounting](../a/accounting.md) for variables such as time, price, and [volume](../v/volume.md). Algotrading uses complex algorithms, making it faster and more efficient compared to traditional trading.
 
@@ -24,10 +24,10 @@ Unlisted [stock analysis](../s/stock_analysis.md) refers to the detailed examina
 
 ## Data Sources for Unlisted Stocks
 
-- **[FINRA](../f/finra.md) OTC Bulletin Board**: Provides a platform for trading OTC securities. [FINRA OTCBB](https://www.finra.org/filing-reporting/otcbb)
-- **[Pink Sheets](../p/pink_sheets.md)**: Information on a [range](../r/range.md) of unlisted [stocks](../s/stock.md), often those that don’t meet the standards of major exchanges. 
+- **[FINRA](../f/finra.md) OTC Bulletin Board**: Provides a platform for trading OTC securities. FINRA OTCBB
+- **[Pink Sheets](../p/pink_sheets.md)**: Information on a [range](../r/range.md) of unlisted [stocks](../s/stock.md), often those that don’t meet the standards of major exchanges.
 - **Company Websites and Press Releases**: Direct information from the companies themselves.
-- **Private Marketplaces**: Platforms like EquityZen and SharesPost [offer](../o/offer.md) data and trading for [stocks](../s/stock.md) in private companies. [EquityZen](https://www.equityzen.com), [SharesPost](https://sharespost.com)
+- **Private Marketplaces**: Platforms like EquityZen and SharesPost [offer](../o/offer.md) data and trading for [stocks](../s/stock.md) in private companies. EquityZen, SharesPost
 
 ## Analytical Approaches
 
@@ -75,9 +75,9 @@ Unlisted [stock analysis](../s/stock_analysis.md) refers to the detailed examina
 ## Tools for Algotrading
 
 - **Python and R**: Popular programming languages for developing [trading algorithms](../t/trading_algorithms.md).
-- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide [range](../r/range.md) of [asset](../a/asset.md) classes. [QuantConnect](https://www.quantconnect.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [robust](../r/robust.md) API for implementing and executing [trading algorithms](../t/trading_algorithms.md). [Interactive Brokers](https://www.interactivebrokers.com)
-- **[Alpha](../a/alpha.md) Vantage**: Provides APIs for accessing financial data and [performance metrics](../p/performance_metrics.md). [Alpha Vantage](https://www.alphavantage.co)
+- **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports a wide [range](../r/range.md) of [asset](../a/asset.md) classes. QuantConnect
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a [robust](../r/robust.md) API for implementing and executing [trading algorithms](../t/trading_algorithms.md). Interactive Brokers
+- **[Alpha](../a/alpha.md) Vantage**: Provides APIs for accessing financial data and [performance metrics](../p/performance_metrics.md). Alpha Vantage
 
 ## Case Study
 

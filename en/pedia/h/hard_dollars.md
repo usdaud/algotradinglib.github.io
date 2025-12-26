@@ -1,6 +1,6 @@
 # Hard Dollars
 
-In the realm of electronic trading and [algorithmic trading](../a/accountability.md), "hard dollars" refer to direct payments made by investment firms to brokers in [exchange](../e/exchange.md) for the [provision](../p/provision.md) of [execution](../e/execution.md) services. These payments are transparent, explicit, and are generally for services such as [trade](../t/trade.md) [execution](../e/execution.md), research, and data [provision](../p/provision.md). This is in contrast to "soft dollars", which involve non-cash benefits provided by brokers to investment firms, often in the form of research and other bundled services.
+In the realm of electronic trading and [algorithmic trading](../a/algorithmic_trading.md), "hard dollars" refer to direct payments made by investment firms to brokers in [exchange](../e/exchange.md) for the [provision](../p/provision.md) of [execution](../e/execution.md) services. These payments are transparent, explicit, and are generally for services such as [trade](../t/trade.md) [execution](../e/execution.md), research, and data [provision](../p/provision.md). This is in contrast to "soft dollars", which involve non-cash benefits provided by brokers to investment firms, often in the form of research and other bundled services.
 
 ## Concept and Definition
 
@@ -10,23 +10,23 @@ In a hard dollar arrangement, investment managers know exactly how much they are
 
 ## Hard Dollars vs. Soft Dollars
 
-Hard dollars differ significantly from soft dollars in terms of [transparency](../t/transparency.md) and regulatory scrutiny. 
+Hard dollars differ significantly from soft dollars in terms of [transparency](../t/transparency.md) and regulatory scrutiny.
 
-- **Hard Dollars:** 
-  - Direct cash payments made to brokers.
-  - Explicit and transparent transactions.
-  - Clearly recorded in [financial statements](../f/financial_statements.md).
-  - Provide a clearer view of the cost associated with trading.
+- **Hard Dollars:**
+ - Direct cash payments made to brokers.
+ - Explicit and transparent transactions.
+ - Clearly recorded in [financial statements](../f/financial_statements.md).
+ - Provide a clearer view of the cost associated with trading.
 
 - **Soft Dollars:**
-  - Indirect compensation where brokers provide research or other services in [exchange](../e/exchange.md) for [order](../o/order.md) flow.
-  - Costs are often bundled with trading commissions.
-  - May obscure the true cost of research and [execution](../e/execution.md) services.
-  - Subject to more regulatory oversight due to potential conflicts of [interest](../i/interest.md).
+ - Indirect compensation where brokers provide research or other services in [exchange](../e/exchange.md) for [order](../o/order.md) flow.
+ - Costs are often bundled with trading commissions.
+ - May obscure the true cost of research and [execution](../e/execution.md) services.
+ - Subject to more regulatory oversight due to potential conflicts of [interest](../i/interest.md).
 
 ## Importance in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the use of hard dollars is especially significant due to the precision required in cost management and [execution](../e/execution.md) quality. [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often involve a high [volume](../v/volume.md) of trades executed at high speeds, making [cost control](../c/cost_control.md) a critical [factor](../f/factor.md) in the overall profitability of the strategy.
+In [algorithmic trading](../a/algorithmic_trading.md), the use of hard dollars is especially significant due to the precision required in cost management and [execution](../e/execution.md) quality. [Algorithmic trading strategies](../a/algorithmic_trading_strategies.md) often involve a high [volume](../v/volume.md) of trades executed at high speeds, making [cost control](../c/cost_control.md) a critical [factor](../f/factor.md) in the overall profitability of the strategy.
 
 1. **[Execution](../e/execution.md) Costs:** Paying for [trade](../t/trade.md) executions with hard dollars ensures that investment managers can closely monitor and control [execution](../e/execution.md) costs, which is crucial for strategies that rely heavily on timing and precision.
 2. **[Transparency](../t/transparency.md):** The explicit nature of hard dollar payments helps in maintaining [transparency](../t/transparency.md) in [trading costs](../t/trading_costs.md). This [transparency](../t/transparency.md) is essential for maintaining the [trust](../t/trust.md) of clients and adhering to regulatory standards.
@@ -78,4 +78,4 @@ To optimize costs, investment firms might:
 
 ## Conclusion
 
-Hard dollars play a crucial role in the landscape of modern [algorithmic trading](../a/accountability.md), [offering](../o/offering.md) [transparency](../t/transparency.md) and control over trading-related expenses. As the [industry](../i/industry.md) continues to evolve, the emphasis on hard dollar payments is likely to increase, driven by regulatory requirements and the growing need for clear, accountable financial practices. By understanding and leveraging hard dollar arrangements, investment firms can enhance their [operational efficiency](../o/operational_efficiency_in_trading.md), ensure compliance, and build more transparent and [trust](../t/trust.md)-based relationships with their brokers.
+Hard dollars play a crucial role in the landscape of modern [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) [transparency](../t/transparency.md) and control over trading-related expenses. As the [industry](../i/industry.md) continues to evolve, the emphasis on hard dollar payments is likely to increase, driven by regulatory requirements and the growing need for clear, accountable financial practices. By understanding and leveraging hard dollar arrangements, investment firms can enhance their [operational efficiency](../o/operational_efficiency_in_trading.md), ensure compliance, and build more transparent and [trust](../t/trust.md)-based relationships with their brokers.

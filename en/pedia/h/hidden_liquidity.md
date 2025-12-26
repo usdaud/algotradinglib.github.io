@@ -14,8 +14,8 @@ There are several key mechanisms and platforms through which traders can access 
 
 [Dark pools](../d/dark_pools.md) are private trading venues where large blocks of securities are traded anonymously. These pools do not display orders to the public until after the trades are executed, thereby minimizing [market](../m/market.md) impact. Examples of prominent [dark pools](../d/dark_pools.md) include:
 
-- [Liquidnet](https://www.liquidnet.com): Provides a global institutional trading network.
-- [ITG's POSIT](https://www.itg.com/solutions/liquidity/posit/): Offers various crossing networks to access hidden [liquidity](../l/liquidity.md).
+- Liquidnet: Provides a global institutional trading network.
+- ITG's POSIT: Offers various crossing networks to access hidden [liquidity](../l/liquidity.md).
 
 ### 2. **Hidden Orders**
 

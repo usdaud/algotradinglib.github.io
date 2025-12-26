@@ -2,7 +2,7 @@
 
 A Waiver of Coinsurance Clause is a [provision](../p/provision.md) found in some [insurance](../i/insurance.md) policies that eliminates the requirement for the insured to share in the cost of the loss beyond a certain limit. This clause can be particularly beneficial to policyholders, as it essentially ensures that the insurer [will](../w/will.md) cover the entire amount of the claim once a certain threshold has been met. This is significant because coinsurance agreements typically require the insured to bear a proportionate share of the loss, which can be financially burdensome.
 
-## Understanding Coinsurance 
+## Understanding Coinsurance
 
 In the realm of [insurance](../i/insurance.md), particularly [property insurance](../p/property_insurance.md), coinsurance is a clause that requires the policyholder to carry [insurance](../i/insurance.md) coverage that is equal to a specific percentage (usually 80%, 90%, or 100%) of the property's total [value](../v/value.md). If the insured does not meet this coinsurance requirement, they are subject to a penalty which reduces the [payout](../p/payout.md) in the event of a claim. This approach is designed to encourage policyholders to purchase adequate coverage.
 
@@ -26,12 +26,12 @@ The Waiver of Coinsurance Clause negates the necessity of coinsurance once the i
 ### Key Aspects of the Waiver of Coinsurance Clause
 
 1. **Threshold Level**: The waiver often applies after the insured reaches a specific amount of insured loss or after a certain percentage of [value](../v/value.md) is insured. For example, an insurer could waive coinsurance once the insured has covered at least 90% of the property's [value](../v/value.md).
-   
+
 2. **Specific Events**: This clause may be applicable only under certain conditions or for specific events, such as natural disasters or catastrophic losses, where the financial burden on the insured would otherwise be monumental.
-   
+
 3. **Policy Conditions**: The clause might stipulate that it only applies under particular policy conditions, like adherence to maintenance and safety standards set by the [insurance](../i/insurance.md) provider.
 
-### Example of a Waiver of Coinsurance Clause 
+### Example of a Waiver of Coinsurance Clause
 
 Consider a policy with a waiver of coinsurance clause that becomes effective if the insured maintains coverage of at least 90% of their property's [value](../v/value.md). Using the same $1,000,000 property example, if the insured maintains $900,000 in coverage and suffers a $200,000 loss, the waiver would activate, and they would receive the full $200,000 [payout](../p/payout.md) without a coinsurance penalty.
 
@@ -44,9 +44,9 @@ The waiver of coinsurance clause also has applications in [business](../b/busine
 The waiver of coinsurance clause offers several benefits to policyholders:
 
 1. **Financial Relief**: It provides full financial recovery for covered losses without penalizing the insured for not meeting coinsurance requirements.
-   
+
 2. **Simplicity**: Simplifies the [insurance](../i/insurance.md) process, as policyholders do not need to constantly evaluate and adjust coverage to meet coinsurance thresholds.
-   
+
 3. **Predictability**: Offers more predictable financial protection, reducing the [risk](../r/risk.md) of unexpected [out-of-pocket expenses](../o/out-of-pocket_expenses.md) during claims.
 
 ## Considerations for Insurers
@@ -54,9 +54,9 @@ The waiver of coinsurance clause offers several benefits to policyholders:
 While beneficial for policyholders, insurers must consider the [risk](../r/risk.md) implications of [offering](../o/offering.md) a waiver of coinsurance clause:
 
 1. **Higher [Risk](../r/risk.md)**: Potentially higher [risk](../r/risk.md) exposure, as insurers may need to cover full losses without proportionate sharing from the insured.
-   
+
 2. **[Underinsurance](../u/underinsurance.md) Incentive**: It might inadvertently encourage [underinsurance](../u/underinsurance.md), as policyholders may feel less compelled to maintain coverage levels accurately.
-   
+
 3. **[Risk](../r/risk.md) Mitigation Requirements**: Insurers might need to enforce stricter [risk](../r/risk.md) mitigation and property [valuation](../v/valuation.md) requirements to safeguard against potential losses.
 
 ## Integration in Policy Documents

@@ -12,7 +12,7 @@ An Enrolled Agent is a person who has earned the privilege of representing taxpa
 
 To become an EA, candidates must either:
 
-1. **Pass the Special Enrollment Examination (SEE):** This is a three-part comprehensive IRS test that covers individual and [business](../b/business.md) tax returns. 
+1. **Pass the Special Enrollment Examination (SEE):** This is a three-part comprehensive IRS test that covers individual and [business](../b/business.md) tax returns.
 2. **Have relevant work experience:** Specifically, individuals who have worked at the IRS for at least five years in a position that requires the interpretation and application of the tax code are eligible for the EA credential without taking the SEE.
 
 Once they meet one of these requirements, individuals must apply for enrollment and pass a background [check](../c/check.md). Enrolled Agents must also complete 72 hours of continuing education every three years, which includes six hours of ethics training.
@@ -53,11 +53,11 @@ EAs must complete a minimum of 72 hours of continuing education every three year
 
 ### How Can I Verify an EA’s Credentials?
 
-The IRS maintains a searchable directory of [tax return](../t/tax_return.md) preparers who have valid PTINs and are recognized as CPAs, attorneys, enrolled agents, enrolled retirement plan agents, and enrolled actuaries. The directory is available [here](https://irs.treasury.gov/rpo/rpo.jsf).
+The IRS maintains a searchable directory of [tax return](../t/tax_return.md) preparers who have valid PTINs and are recognized as CPAs, attorneys, enrolled agents, enrolled retirement plan agents, and enrolled actuaries. The directory is available here.
 
 ### Where Can I Find More Information?
 
-For more detailed information about Enrolled Agents, one can visit the National Association of Enrolled Agents (NAEA) at [https://www.naea.org](https://www.naea.org). This website provides resources for both prospective and current EAs, including [guidance](../g/guidance.md) on licensing, continuing education, and professional development.
+For more detailed information about Enrolled Agents, one can./g/guidance.md) on licensing, continuing education, and professional development.
 
 ---
 

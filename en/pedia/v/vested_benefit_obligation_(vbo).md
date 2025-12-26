@@ -16,9 +16,9 @@ Calculating the [Vested Benefit](../v/vested_benefit.md) Obligation involves sev
 
 2. **Benefits Formula**: Pension plans are designed with specific formulas that define how benefits are accrued. These formulas can be based on factors such as salary levels and years of service.
 
-3. **[Vesting](../v/vesting.md) Schedule**: This indicates when employees are entitled to their benefits. [Vesting](../v/vesting.md) can be immediate, cliff (full [vesting](../v/vesting.md) after a specific period), or graded (partial [vesting](../v/vesting.md) over time). 
+3. **[Vesting](../v/vesting.md) Schedule**: This indicates when employees are entitled to their benefits. [Vesting](../v/vesting.md) can be immediate, cliff (full [vesting](../v/vesting.md) after a specific period), or graded (partial [vesting](../v/vesting.md) over time).
 
-4. **Actuarial Assumptions**: Assumptions about mortality rates, [discount](../d/discount.md) rates, and employee [turnover](../t/turnover.md) rates must be considered to estimate the [present value](../p/present_value.md) of future benefits. 
+4. **Actuarial Assumptions**: Assumptions about mortality rates, [discount](../d/discount.md) rates, and employee [turnover](../t/turnover.md) rates must be considered to estimate the [present value](../p/present_value.md) of future benefits.
 
 ### Example Calculation
 
@@ -80,4 +80,4 @@ As global [demographics](../d/demographics.md) shift and workforce patterns chan
 
 The [Vested Benefit](../v/vested_benefit.md) Obligation serves as a fundamental metric in understanding the immediate liabilities of pension plans. Accurate calculation and transparent reporting of the VBO are essential for stakeholders ranging from employees to investors and regulatory authorities. As the global pension landscape evolves, ongoing assessment and management of VBO [will](../w/will.md) continue to be integral to the financial stability of pension plans and the retirement [security](../s/security.md) of employees.
 
-For further details on pension [accounting](../a/accounting.md) standards and practices, refer to the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) website: [FASB](https://www.fasb.org).
+For further details on pension [accounting](../a/accounting.md) standards and practices, refer to the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) online platform: FASB.

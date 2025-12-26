@@ -4,7 +4,7 @@
 
 ## Definition of Discount Margin
 
-The [Discount](../d/discount.md) [Margin](../m/margin.md) is essentially the [yield spread](../y/yield_spread.md) that investors require over a reference [interest rate](../i/interest_rate.md) (such as LIBOR or EURIBOR) to compensate for the risks associated with holding a floating-rate [note](../n/note.md) (FRN). It is expressed in [basis](../b/basis.md) points (bps) and reflects the extra [yield](../y/yield.md) investors [demand](../d/demand.md), beyond the floating component, to account for [credit risk](../c/credit_risk.md), [liquidity risk](../l/liquidity_risk.md), and other factors.
+The [Discount](../d/discount.md) [Margin](../m/margin.md) is essentially the [yield spread](../y/yield_spread.md) that investors require over a reference [interest rate](../i/interest_rate.md) (such as SOFR, EURIBOR, or other risk-free rates) to compensate for the risks associated with holding a floating-rate [note](../n/note.md) (FRN). Note: LIBOR was phased out in June 2023 and has been replaced by alternative reference rates like SOFR (Secured Overnight Financing Rate) for USD-denominated instruments. It is expressed in [basis](../b/basis.md) points (bps) and reflects the extra [yield](../y/yield.md) investors [demand](../d/demand.md), beyond the floating component, to account for [credit risk](../c/credit_risk.md), [liquidity risk](../l/liquidity_risk.md), and other factors.
 
 ## Calculation of Discount Margin
 

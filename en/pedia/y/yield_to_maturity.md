@@ -53,7 +53,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), YTM is a pivotal metric f
 
 #### Real-World Applications of YTM
 
-In the real world, financial institutions such as Goldman Sachs (https://www.goldmansachs.com/), and trading firms deploy YTM calculations in their fixed-[income](../i/income.md) analysis. These applications [range](../r/range.md) from assessing the attractiveness of new [bond](../b/bond.md) issues to managing the [risk profiles](../r/risk_profiles.md) of [bond](../b/bond.md) portfolios.
+In the real world, financial institutions such as Goldman Sachs ( and trading firms deploy YTM calculations in their fixed-[income](../i/income.md) analysis. These applications [range](../r/range.md) from assessing the attractiveness of new [bond](../b/bond.md) issues to managing the [risk profiles](../r/risk_profiles.md) of [bond](../b/bond.md) portfolios.
 
 For instance, a [hedge fund](../h/hedge_fund.md) may use algorithms to scan the [bond market](../b/bond_market.md), compute the YTM for various corporate bonds, and identify those [offering](../o/offering.md) higher yields relative to their [credit risk](../c/credit_risk.md). This systematic approach allows the [fund](../f/fund.md) to exploit inefficiencies and achieve better returns than traditional investment methods.
 
@@ -61,4 +61,4 @@ For instance, a [hedge fund](../h/hedge_fund.md) may use algorithms to scan the 
 
 [Yield](../y/yield.md) to [Maturity](../m/maturity.md) is an indispensable concept in [bond](../b/bond.md) [investing](../i/investing.md) and [algorithmic trading](../a/algorithmic_trading.md). Its comprehensive approach to measuring a [bond](../b/bond.md)'s potential [return](../r/return.md) makes it a valuable tool for investors and traders aiming to optimize their portfolios. Although the calculation of YTM can be complex, its ability to provide insight into the true [yield](../y/yield.md) of a [bond](../b/bond.md) outweighs the challenges, making it a fundamental aspect of fixed-[income](../i/income.md) analysis.
 
-For more detailed information and examples of how YTM is used in practice, you can explore resources provided by major financial institutions and trading platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/).
+For more detailed information and examples of how YTM is used in practice, you can explore resources provided by major financial institutions and trading platforms like [Interactive Brokers](../i/interactive_brokers.md) (

@@ -64,11 +64,11 @@ Initially, trading on the IMM was conducted through [open outcry](../o/open_outc
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), employing [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to execute trades, has become increasingly prevalent in the IMM. Algorithms can analyze vast amounts of [market](../m/market.md) data and execute trades at speeds and efficiencies beyond human capability, further enhancing [market](../m/market.md) [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md).
+[Algorithmic trading](../a/algorithmic_trading.md), employing [mathematical models](../m/mathematical_models_in_trading.md) and automated systems to execute trades, has become increasingly prevalent in the IMM. Algorithms can analyze vast amounts of [market](../m/market.md) data and execute trades at speeds and efficiencies beyond human capability, further enhancing [market](../m/market.md) [liquidity](../l/liquidity.md) and [price discovery](../p/price_discovery.md).
 
 ### High-Frequency Trading (HFT)
 
-HFT is a subset of [algorithmic trading](../a/accountability.md) characterized by extremely high speeds and the [execution](../e/execution.md) of large numbers of orders within fractions of a second. HFT firms make use of sophisticated algorithms, high-speed data feeds, and co-location services to [trade](../t/trade.md) on tiny price discrepancies, contributing significantly to the trading volumes on the IMM.
+HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md) characterized by extremely high speeds and the [execution](../e/execution.md) of large numbers of orders within fractions of a second. HFT firms make use of sophisticated algorithms, high-speed data feeds, and co-location services to [trade](../t/trade.md) on tiny price discrepancies, contributing significantly to the trading volumes on the IMM.
 
 ## Regulatory Environment
 
@@ -100,4 +100,4 @@ The ongoing advancements in technology [will](../w/will.md) likely lead to furth
 
 The International Monetary [Market](../m/market.md) (IMM) has been instrumental in modernizing the way financial [futures](../f/futures.md) are traded, providing essential tools for managing [currency](../c/currency.md) and [interest rate](../i/interest_rate.md) risks. Through continuous innovation, technological advancements, and adherence to a [robust](../r/robust.md) regulatory framework, the IMM continues to play a critical role in the global [financial system](../f/financial_system.md), meeting the complex needs of a diverse [range](../r/range.md) of [market](../m/market.md) participants.
 
-For more information on the International Monetary [Market](../m/market.md), you can visit the official CME Group website: [CME Group - IMM](https://www.cmegroup.com/trading/fx/g10.html).
+For more information on the International Monetary [Market](../m/market.md),

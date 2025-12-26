@@ -71,4 +71,4 @@ Voting Trusts are powerful tools in [corporate finance](../c/corporate_finance.m
 
 Understanding the framework, benefits, and potential pitfalls of Voting Trusts is essential for both corporate managers and investors who aim to [leverage](../l/leverage.md) this tool for strategic advantage.
 
-For further reading or specific examples, consider visiting [the Allegheny Corporation's website](http://www.alleghany.com) or exploring [corporate governance](../c/corporate_governance.md) resources offered by financial legal advisors.
+For further reading or specific examples, consider visiting the Allegheny Corporation's online platform or exploring [corporate governance](../c/corporate_governance.md) resources offered by financial legal advisors.

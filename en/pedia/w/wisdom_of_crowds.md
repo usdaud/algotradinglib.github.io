@@ -1,6 +1,6 @@
 # Wisdom of Crowds
 
-The "Wisdom of Crowds" is a concept that suggests large groups of people collectively make better decisions compared to individual experts. This phenomenon operates under the premise that the aggregated input of diverse individuals can result in more accurate predictions, innovative solutions, and healthier decision-making processes. 
+The "Wisdom of Crowds" is a concept that suggests large groups of people collectively make better decisions compared to individual experts. This phenomenon operates under the premise that the aggregated input of diverse individuals can result in more accurate predictions, innovative solutions, and healthier decision-making processes.
 
 ## Key Principles
 
@@ -20,22 +20,22 @@ The power of crowds has been leveraged across various domains:
 Prediction markets are [exchange](../e/exchange.md)-traded markets created for the purpose of trading the outcome of events. The prices of these markets are interpreted as probabilities, which serve as predictors of the event outcomes.
 
 **Examples**:
-- **PredictIt**: An online prediction [market](../m/market.md) where users can [trade](../t/trade.md) [shares](../s/shares.md) on the outcomes of a variety of events. [PredictIt](https://www.predictit.org)
-- **Kalshi**: A federally regulated [exchange](../e/exchange.md) [offering](../o/offering.md) a diverse array of prediction markets. [Kalshi](https://www.kalshi.com)
+- **PredictIt**: An online prediction [market](../m/market.md) where users can [trade](../t/trade.md) [shares](../s/shares.md) on the outcomes of a variety of events. PredictIt
+- **Kalshi**: A federally regulated [exchange](../e/exchange.md) [offering](../o/offering.md) a diverse array of prediction markets. Kalshi
 
 ### Crowdsourcing
 
 Crowdsourcing involves enlisting a large number of people to contribute to a project or solve a problem.
 
 **Example**:
-- **Amazon Mechanical Turk**: A marketplace for crowdsourcing where people can complete small tasks. [Amazon Mechanical Turk](https://www.mturk.com)
+- **Amazon Mechanical Turk**: A marketplace for crowdsourcing where people can complete small tasks. Amazon Mechanical Turk
 
 ### Collective Intelligence Platforms
 
 These platforms [leverage](../l/leverage.md) the collective intelligence of a large group to solve complex problems, innovate, and make decisions.
 
 **Example**:
-- **InnoCentive**: A platform where companies post problems and [offer](../o/offer.md) financial rewards for the best solutions. [InnoCentive](https://www.innocentive.com)
+- **InnoCentive**: A platform where companies post problems and [offer](../o/offer.md) financial rewards for the best solutions. InnoCentive
 
 ## Financial Markets
 
@@ -49,14 +49,14 @@ The EMH asserts that [asset](../a/asset.md) prices fully reflect all available i
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), also known as algo-trading or black-box trading, can use the principles of the Wisdom of Crowds to enhance [trading strategies](../t/trading_strategies.md). Incorporating diverse data sources and ensuring independent data points can improve the robustness of algorithms.
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading or black-box trading, can use the principles of the Wisdom of Crowds to enhance [trading strategies](../t/trading_strategies.md). Incorporating diverse data sources and ensuring independent data points can improve the robustness of algorithms.
 
 ### Sentiment Analysis
 
 Analyzing [social media](../s/social_media.md), news, and other sources can provide insights into [market sentiment](../m/market_sentiment.md).
 
 **Example**:
-- **[RavenPack](../r/ravenpack.md)**: A provider of [big data analytics](../b/big_data_analytics_in_trading.md) to measure [market sentiment](../m/market_sentiment.md). [RavenPack](https://www.ravenpack.com)
+- **[RavenPack](../r/ravenpack.md)**: A provider of [big data analytics](../b/big_data_analytics_in_trading.md) to measure [market sentiment](../m/market_sentiment.md). RavenPack
 
 ### Data Aggregation
 
@@ -78,4 +78,4 @@ Algorithmic traders can use techniques like [machine learning](../m/machine_lear
 
 ## Conclusion
 
-The Wisdom of Crowds is a powerful concept with wide-ranging applications across various fields, including [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). By leveraging diversity, decentralization, independence, and effective [aggregation](../a/aggregation.md) mechanisms, collective intelligence can drive more accurate and [robust](../r/robust.md) decision-making processes. Understanding its principles and limitations can help in designing better systems and strategies for harnessing the collective wisdom of groups.
+The Wisdom of Crowds is a powerful concept with wide-ranging applications across various fields, including [finance](../f/finance.md) and [algorithmic trading](../a/algorithmic_trading.md). By leveraging diversity, decentralization, independence, and effective [aggregation](../a/aggregation.md) mechanisms, collective intelligence can drive more accurate and [robust](../r/robust.md) decision-making processes. Understanding its principles and limitations can help in designing better systems and strategies for harnessing the collective wisdom of groups.

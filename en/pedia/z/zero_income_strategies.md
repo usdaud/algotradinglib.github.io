@@ -9,49 +9,49 @@ Zero [Income](../i/income.md) Strategies in algo trading emphasize price movemen
 ## Key Components
 
 1. **Algorithm Development**
-   - **[Machine Learning](../m/machine_learning.md) Models**: Algorithms rely on [machine learning](../m/machine_learning.md) models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are commonplace.
-   - **[Backtesting](../b/backtesting.md)**: Ensuring historical performance measurements to validate the [efficiency](../e/efficiency.md) of the algorithm.
-   - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning model parameters to maximize [performance metrics](../p/performance_metrics.md) like [Sharpe Ratio](../s/sharpe_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md).
+ - **[Machine Learning](../m/machine_learning.md) Models**: Algorithms rely on [machine learning](../m/machine_learning.md) models to predict price movements. Techniques such as [regression analysis](../r/regression_analysis.md), [decision trees](../d/decision_trees.md), and [neural networks](../n/neural_networks_in_trading.md) are commonplace.
+ - **[Backtesting](../b/backtesting.md)**: Ensuring historical performance measurements to validate the [efficiency](../e/efficiency.md) of the algorithm.
+ - **Parameter [Optimization](../o/optimization.md)**: Fine-tuning model parameters to maximize [performance metrics](../p/performance_metrics.md) like [Sharpe Ratio](../s/sharpe_ratio.md) or [Sortino Ratio](../s/sortino_ratio.md).
 
 2. **[Market](../m/market.md) Scanning and Signal Generation**
-   - **[Technical Indicators](../t/technical_indicators.md)**: Utilizing indicators such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others.
-   - **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms identify trading opportunities based on [market](../m/market.md) patterns like head and shoulders, flag, and [pennant](../p/pennant.md) patterns.
+ - **[Technical Indicators](../t/technical_indicators.md)**: Utilizing indicators such as Moving Averages, RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)), MACD (Moving Average Convergence [Divergence](../d/divergence.md)), and others.
+ - **[Pattern Recognition](../p/pattern_recognition.md)**: Algorithms identify trading opportunities based on [market](../m/market.md) patterns like head and shoulders, flag, and [pennant](../p/pennant.md) patterns.
 
 3. **[Execution](../e/execution.md) Strategies**
-   - **[Order Types](../o/order_types_in_trading.md)**: Use of [market](../m/market.md) orders, limit orders, stop orders, etc., to optimize entry and exit points.
-   - **Latency [Arbitrage](../a/arbitrage.md)**: Taking advantage of brief price discrepancies across different markets.
+ - **[Order Types](../o/order_types_in_trading.md)**: Use of [market](../m/market.md) orders, limit orders, stop orders, etc., to optimize entry and exit points.
+ - **Latency [Arbitrage](../a/arbitrage.md)**: Taking advantage of brief price discrepancies across different markets.
 
 4. **[Risk Management](../r/risk_management.md)**
-   - **Stop Loss and Take [Profit](../p/profit.md) Levels**: Predetermined levels to exit trades to control potential losses and secure gains.
-   - **[Position Sizing](../p/position_sizing.md)**: Determining the amount of [capital](../c/capital.md) allocated per [trade](../t/trade.md) to balance [risk](../r/risk.md) exposure.
+ - **Stop Loss and Take [Profit](../p/profit.md) Levels**: Predetermined levels to exit trades to control potential losses and secure gains.
+ - **[Position Sizing](../p/position_sizing.md)**: Determining the amount of [capital](../c/capital.md) allocated per [trade](../t/trade.md) to balance [risk](../r/risk.md) exposure.
 
 ## Types of Zero Income Strategies
 
 1. **[Trend Following](../t/trend_following.md)**
-   - Algorithms detect and follow [market](../m/market.md) trends. Common techniques include [moving average crossovers](../m/moving_average_crossovers.md) and [momentum](../m/momentum.md)-based strategies.
+ - Algorithms detect and follow [market](../m/market.md) trends. Common techniques include [moving average crossovers](../m/moving_average_crossovers.md) and [momentum](../m/momentum.md)-based strategies.
 
 2. **[Mean Reversion](../m/mean_reversion.md)**
-   - Based on the assumption that prices [will](../w/will.md) revert to their mean over time, these strategies exploit deviations from historical average prices.
+ - Based on the assumption that prices [will](../w/will.md) revert to their mean over time, these strategies exploit deviations from historical average prices.
 
 3. **Statistical [Arbitrage](../a/arbitrage.md)**
-   - Implies the use of statistical methods to identify and exploit short-term price anomalies between related financial instruments.
+ - Implies the use of statistical methods to identify and exploit short-term price anomalies between related financial instruments.
 
 4. **Quantitative Factors**
-   - Factors like P/E ratio, [earnings](../e/earnings.md) anticipation, and other fundamental indicators are quantitatively analyzed for trading decisions.
+ - Factors like P/E ratio, [earnings](../e/earnings.md) anticipation, and other fundamental indicators are quantitatively analyzed for trading decisions.
 
 5. **[Volatility](../v/volatility.md) [Arbitrage](../a/arbitrage.md)**
-   - Involves trading on the expected versus actual [volatility](../v/volatility.md) of an [asset](../a/asset.md).
+ - Involves trading on the expected versus actual [volatility](../v/volatility.md) of an [asset](../a/asset.md).
 
 ## Examples
 
 1. **[Momentum Trading](../m/momentum_trading.md) by Renaissance Technologies**
-   - Renaissance Technologies is renowned for using sophisticated data algorithms that focus on capturing [momentum](../m/momentum.md) across various [asset](../a/asset.md) classes. [Renaissance Technologies](https://www.rentec.com)
+ - Renaissance Technologies is renowned for using sophisticated data algorithms that focus on capturing [momentum](../m/momentum.md) across various [asset](../a/asset.md) classes. Renaissance Technologies
 
 2. **High-Frequency Trading by Citadel Securities**
-   - Citadel Securities employs [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), focusing on [liquidity provision](../l/liquidity_provision.md) and [market](../m/market.md)-making without relying on regular [income](../i/income.md) from held positions. [Citadel Securities](https://www.citadelsecurities.com)
+ - Citadel Securities employs [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md), focusing on [liquidity provision](../l/liquidity_provision.md) and [market](../m/market.md)-making without relying on regular [income](../i/income.md) from held positions. Citadel Securities
 
 3. **[Arbitrage](../a/arbitrage.md) Strategies by Two Sigma**
-   - Two Sigma uses quantitative methods to identify [arbitrage](../a/arbitrage.md) opportunities, thereby capitalizing on price discrepancies in real-time. [Two Sigma](https://www.twosigma.com)
+ - Two Sigma uses quantitative methods to identify [arbitrage](../a/arbitrage.md) opportunities, thereby capitalizing on price discrepancies in real-time. Two Sigma
 
 ## Advantages
 

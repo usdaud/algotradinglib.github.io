@@ -90,4 +90,4 @@ Changes in [market](../m/market.md) conditions could affect the [value](../v/val
 
 A Subscription Agreement is a foundational document in various [equity](../e/equity.md) transactions, ensuring clarity, legal protection, and [investor](../i/investor.md) confidence. Customization of the agreement to fit specific [transaction](../t/transaction.md) terms and regulatory landscapes is crucial for its efficacy. Understanding and meticulously drafting a Subscription Agreement can mitigate potential risks and facilitate smooth investment transactions.
 
-For further information, you can visit [Clark Hill’s explanation of Subscription Agreement](https://www.clarkhill.com/contents/subscription-agreements) or refer to the [SEC guidelines on Subscription Agreement](https://www.sec.gov/answers/subscription.htm).
+For further information, you can visit Clark Hill’s explanation of Subscription Agreement or refer to the SEC guidelines on Subscription Agreement.

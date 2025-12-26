@@ -4,7 +4,7 @@ In the modern landscape of [corporate finance](../c/corporate_finance.md) and [m
 
 ## Origins and Concept
 
-The Pac-Man Defense strategy can be traced back to the aggressive [takeover](../t/takeover.md) battles of the 1980s. During this period, hostile takeovers became more prevalent as corporate raiders and aggressive firms sought to acquire other companies, often against the [will](../w/will.md) of the target's management and board of directors. 
+The Pac-Man Defense strategy can be traced back to the aggressive [takeover](../t/takeover.md) battles of the 1980s. During this period, hostile takeovers became more prevalent as corporate raiders and aggressive firms sought to acquire other companies, often against the [will](../w/will.md) of the target's management and board of directors.
 
 The core concept of the Pac-Man Defense is relatively straightforward: the targeted company, instead of passively resisting the [takeover](../t/takeover.md), mounts an aggressive counter-[offer](../o/offer.md) to acquire the hostile bidder. This not only disrupts the original [takeover](../t/takeover.md) attempt but also creates significant strategic and financial complications for the would-be acquirer.
 
@@ -74,4 +74,4 @@ In 2015, Perrigo, a pharmaceutical [firm](../f/firm.md), was the target of a [ho
 
 The Pac-Man Defense is a bold and complex strategy that exemplifies the high-stakes nature of corporate M&A battles. By turning the tables on a hostile bidder, the target company not only defends itself but also reshapes the competitive landscape. While challenging to execute and fraught with risks, the Pac-Man Defense remains an intriguing aspect of [corporate finance](../c/corporate_finance.md) and [strategic management](../s/strategic_management.md), reflecting the ongoing evolution and dynamism of global markets.
 
-For more information on corporate defensive strategies and examples related to modern M&A battles, you may refer to resources from financial advisory firms and corporate law specialists such as [Goldman Sachs](https://www.goldmansachs.com/) and [McKinsey & Company](https://www.mckinsey.com/).
+For more information on corporate defensive strategies and examples related to modern M&A battles, you may refer to resources from financial advisory firms and corporate law specialists such as Goldman Sachs and McKinsey & Company.

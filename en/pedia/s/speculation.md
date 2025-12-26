@@ -26,32 +26,32 @@ Speculators can engage in a [wide variety](../w/wide_variety.md) of [financial m
 Although both speculation and investment aim to [profit](../p/profit.md) from [capital markets](../c/capital_markets.md), they differ significantly in terms of approach, [risk](../r/risk.md), and [time horizon](../t/time_horizon.md).
 
 1. **[Time Horizon](../t/time_horizon.md)**:
-   - **Investors** usually have a long-term horizon and may [hold](../h/hold.md) onto investments for years or even decades.
-   - **Speculators** often seek to [profit](../p/profit.md) from short-term price movements and may [hold](../h/hold.md) positions for a much shorter [duration](../d/duration.md).
+ - **Investors** usually have a long-term horizon and may [hold](../h/hold.md) onto investments for years or even decades.
+ - **Speculators** often seek to [profit](../p/profit.md) from short-term price movements and may [hold](../h/hold.md) positions for a much shorter [duration](../d/duration.md).
 
 2. **[Risk](../r/risk.md)**:
-   - **Investment** typically involves a lower [risk](../r/risk.md) because it focuses on assets' [underlying](../u/underlying.md) fundamentals and [value](../v/value.md).
-   - **Speculation** involves higher [risk](../r/risk.md) since it focuses on price movements, which can be volatile and unpredictable.
+ - **Investment** typically involves a lower [risk](../r/risk.md) because it focuses on assets' [underlying](../u/underlying.md) fundamentals and [value](../v/value.md).
+ - **Speculation** involves higher [risk](../r/risk.md) since it focuses on price movements, which can be volatile and unpredictable.
 
 3. **Strategy**:
-   - **Investors** perform extensive research into the [financial health](../f/financial_health.md), [business](../b/business.md) model, and [market](../m/market.md) position of the entity in which they are [investing](../i/investing.md).
-   - **Speculators** may rely on [technical analysis](../t/technical_analysis.md), [market sentiment](../m/market_sentiment.md), and other shorter-term metrics.
+ - **Investors** perform extensive research into the [financial health](../f/financial_health.md), [business](../b/business.md) model, and [market](../m/market.md) position of the entity in which they are [investing](../i/investing.md).
+ - **Speculators** may rely on [technical analysis](../t/technical_analysis.md), [market sentiment](../m/market_sentiment.md), and other shorter-term metrics.
 
 ## Techniques and Analysis
 
 Speculators often use various techniques and forms of analysis to make informed decisions:
 
-1. **[Technical Analysis](../t/technical_analysis.md)**: 
-   - Utilizes historical price and [volume](../v/volume.md) data to identify trends, patterns, and signals. Common tools include moving averages, [Bollinger Bands](../b/bollinger_band.md), and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
-   
+1. **[Technical Analysis](../t/technical_analysis.md)**:
+ - Utilizes historical price and [volume](../v/volume.md) data to identify trends, patterns, and signals. Common tools include moving averages, [Bollinger Bands](../b/bollinger_band.md), and [relative strength](../r/relative_strength.md) [index](../i/index_instrument.md) (RSI).
+
 2. **[Fundamental Analysis](../f/fundamental_analysis.md)**:
-   - Although less common among speculators, some may still look at macroeconomic indicators, [earnings](../e/earnings.md) reports, and other fundamental metrics to make predictions about price movements.
-   
+ - Although less common among speculators, some may still look at macroeconomic indicators, [earnings](../e/earnings.md) reports, and other fundamental metrics to make predictions about price movements.
+
 3. **[Sentiment Analysis](../s/sentiment_analysis.md)**:
-   - Gauges the mood or attitude of the [market](../m/market.md) participants. Speculators may look at indicators like the VIX ([volatility](../v/volatility.md) [index](../i/index_instrument.md)) or conduct [social media](../s/social_media.md) analysis.
-   
+ - Gauges the mood or attitude of the [market](../m/market.md) participants. Speculators may look at indicators like the VIX ([volatility](../v/volatility.md) [index](../i/index_instrument.md)) or conduct [social media](../s/social_media.md) analysis.
+
 4. **[Quantitative Analysis](../q/quantitative_analysis.md)**:
-   - Involves the use of mathematical and statistical models to identify trading opportunities. This is particularly common in algo-trading and fintech applications.
+ - Involves the use of mathematical and statistical models to identify trading opportunities. This is particularly common in algo-trading and fintech applications.
 
 ## Regulatory Aspect
 
@@ -66,17 +66,17 @@ Speculation, due to its high [risk](../r/risk.md) and potential for [market mani
 ### Benefits
 
 1. **[Liquidity](../l/liquidity.md)**: Speculators increase the trading [volume](../v/volume.md), which in turn provides [liquidity](../l/liquidity.md) to the markets. This makes it easier for other participants to buy and sell assets.
-   
+
 2. **[Price Discovery](../p/price_discovery.md)**: Through continuous trading, speculators contribute to more efficient [price discovery](../p/price_discovery.md), aiding in the smooth functioning of [financial markets](../f/financial_market.md).
-   
+
 3. **[Risk](../r/risk.md) Transfer**: Speculators often take on [risk](../r/risk.md) that other [market](../m/market.md) participants (e.g., hedgers) are unwilling to bear.
 
 ### Drawbacks
 
 1. **[Volatility](../v/volatility.md)**: High levels of speculation can lead to increased [market](../m/market.md) [volatility](../v/volatility.md), which can be disruptive.
-   
+
 2. **Financial [Bubbles](../b/bubble.md)**: Unsustainable price increases driven by speculative activity can create [bubbles](../b/bubble.md) that can burst disastrously.
-   
+
 3. **[Moral Hazard](../m/moral_hazard.md)**: Excessive speculation might encourage reckless behavior, especially if participants expect bailouts or other forms of financial rescue.
 
 ## Case Studies
@@ -93,7 +93,7 @@ Speculation in [real estate](../r/real_estate.md) and [mortgage](../m/mortgage.m
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) (algo-trading) has revolutionized speculation. Algorithms can process massive amounts of data to identify trading opportunities, execute orders, and manage positions, all at speeds unattainable by human traders.
+[Algorithmic trading](../a/algorithmic_trading.md) (algo-trading) has revolutionized speculation. Algorithms can process massive amounts of data to identify trading opportunities, execute orders, and manage positions, all at speeds unattainable by human traders.
 
 #### High-Frequency Trading (HFT)
 
@@ -104,10 +104,10 @@ A subset of algo-trading, High-Frequency Trading involves executing a large numb
 Fintech companies have introduced several innovations that aid speculation:
 
 1. **Robo-Advisors**: These automated platforms [offer](../o/offer.md) investment advice and management with minimal human intervention.
-   
+
 2. **[Blockchain](../b/blockchain_in_trading.md) and Cryptocurrencies**: The introduction of decentralized financial instruments has opened up new avenues for speculation.
-   
-3. **[Social Trading](../s/social_trading.md) Platforms**: Platforms like [eToro](../e/etoro.md) (https://www.[etoro](../e/etoro.md).com/) allow users to follow and copy the trades of successful speculators.
+
+3. **[Social Trading](../s/social_trading.md) Platforms**: Platforms like [eToro](../e/etoro.md) ( allow users to follow and copy the trades of successful speculators.
 
 ## Ethical Considerations
 

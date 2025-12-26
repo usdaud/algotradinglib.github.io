@@ -1,6 +1,6 @@
 # Z-Score
 
-In the realms of trading and [finance](../f/finance.md), the Z-Score stands as a fundamental statistical measure that quantifies the deviation or distance of a data point from the mean or average of a dataset. It is expressed in terms of standard deviations, which allows traders and financial analysts to understand the position of a [value](../v/value.md) within the context of a [normal distribution](../n/normal_distribution_in_trading.md). The Z-Score, also known as the standard score, is particularly significant in the fields of [algorithmic trading](../a/accountability.md) and financial technology (fintech) due to its ability to standardize data, facilitate comparisons, and support [predictive analytics](../p/predictive_analytics.md).
+In the realms of trading and [finance](../f/finance.md), the Z-Score stands as a fundamental statistical measure that quantifies the deviation or distance of a data point from the mean or average of a dataset. It is expressed in terms of standard deviations, which allows traders and financial analysts to understand the position of a [value](../v/value.md) within the context of a [normal distribution](../n/normal_distribution_in_trading.md). The Z-Score, also known as the standard score, is particularly significant in the fields of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (fintech) due to its ability to standardize data, facilitate comparisons, and support [predictive analytics](../p/predictive_analytics.md).
 
 ## Definition and Formula
 
@@ -39,7 +39,7 @@ Statistical [arbitrage](../a/arbitrage.md) (StatArb) involves detecting and expl
 
 ## Calculation in Python
 
-Below is an example of how to compute [Z-Scores](../z/z-scores_in_trading.md) using Python, a common language in fintech and [algorithmic trading](../a/accountability.md):
+Below is an example of how to compute [Z-Scores](../z/z-scores_in_trading.md) using Python, a common language in fintech and [algorithmic trading](../a/algorithmic_trading.md):
 
 ```python
 [import](../i/import.md) numpy as np
@@ -74,7 +74,7 @@ High-frequency trading firms utilize [Z-Scores](../z/z-scores_in_trading.md) for
 Fintech companies such as [credit](../c/credit.md) scoring firms (e.g., FICO), employ [Z-Scores](../z/z-scores_in_trading.md) to measure the relative [risk](../r/risk.md) of individual clients. By evaluating how a client�s [credit](../c/credit.md) characteristics deviate from the mean profile of other clients, firms can make more informed lending decisions.
 
 For further details on companies employing such technologies, visit:
-[https://www.fico.com](https://www.fico.com)
+
 
 ### Portfolio Management
 

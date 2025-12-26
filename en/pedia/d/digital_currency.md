@@ -42,16 +42,16 @@ Algorithms analyze [social media](../s/social_media.md), news, and other forms o
 ## Prominent Digital Currency Trading Platforms and Companies
 
 ### Binance
-[Binance](https://www.binance.com/) is one of the largest cryptocurrency exchanges in the world by trading [volume](../v/volume.md). [Binance](../b/binance.md) provides a variety of trading [options](../o/options.md), including spot trading, [futures](../f/futures.md) trading, and [margin trading](../m/margin_trading.md). It also offers APIs for [algorithmic trading](../a/accountability.md).
+Binance is one of the largest cryptocurrency exchanges in the world by trading [volume](../v/volume.md). [Binance](../b/binance.md) provides a variety of trading [options](../o/options.md), including spot trading, [futures](../f/futures.md) trading, and [margin trading](../m/margin_trading.md). It also offers APIs for [algorithmic trading](../a/accountability.md).
 
 ### Coinbase
-[Coinbase](https://www.coinbase.com/) is a popular digital [currency exchange](../c/currency_exchange.md) platform that is known for its user-friendly interface. It provides APIs and data feeds for algorithmic traders and has a strong focus on [security](../s/security.md) and regulatory compliance.
+Coinbase is a popular digital [currency exchange](../c/currency_exchange.md) platform that is known for its user-friendly interface. It provides APIs and data feeds for algorithmic traders and has a strong focus on [security](../s/security.md) and regulatory compliance.
 
 ### Kraken
-[Kraken](https://www.kraken.com/) is another well-known digital [currency exchange](../c/currency_exchange.md). It offers a wide [range](../r/range.md) of cryptocurrencies for trading and provides various tools and APIs to facilitate [algorithmic trading](../a/accountability.md).
+Kraken is another well-known digital [currency exchange](../c/currency_exchange.md). It offers a wide [range](../r/range.md) of cryptocurrencies for trading and provides various tools and APIs to facilitate [algorithmic trading](../a/accountability.md).
 
 ### Bitfinex
-[Bitfinex](https://www.bitfinex.com/) is a major cryptocurrency [exchange](../e/exchange.md) that offers advanced trading features and APIs suitable for [algorithmic trading](../a/accountability.md). It provides a high level of [liquidity](../l/liquidity.md) and supports a wide [range](../r/range.md) of digital currencies.
+Bitfinex is a major cryptocurrency [exchange](../e/exchange.md) that offers advanced trading features and APIs suitable for [algorithmic trading](../a/accountability.md). It provides a high level of [liquidity](../l/liquidity.md) and supports a wide [range](../r/range.md) of digital currencies.
 
 ## Regulatory Aspects
 

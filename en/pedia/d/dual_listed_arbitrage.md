@@ -32,9 +32,11 @@ The [execution](../e/execution.md) of dual [listed](../l/listed.md) [arbitrage](
 ## Examples of Dual Listed Companies
 
 Several high-profile companies have their [stocks](../s/stock.md) [listed](../l/listed.md) on [multiple](../m/multiple.md) exchanges. Some examples include:
-- **Royal Dutch Shell**: [Listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) (LSE) and [Euronext Amsterdam](../e/euronext_amsterdam.md).
-- **Unilever**: [Listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) (LSE) and [Euronext Amsterdam](../e/euronext_amsterdam.md).
 - **Alibaba Group**: [Listed](../l/listed.md) on the New York Stock [Exchange](../e/exchange.md) (NYSE) and the Hong Kong Stock [Exchange](../e/exchange.md) (HKEX).
+- **BHP Group**: [Listed](../l/listed.md) on the Australian Securities [Exchange](../e/exchange.md) (ASX) and the London Stock [Exchange](../e/exchange.md) (LSE).
+- **Rio Tinto**: [Listed](../l/listed.md) on the London Stock [Exchange](../e/exchange.md) (LSE) and the Australian Securities [Exchange](../e/exchange.md) (ASX).
+
+Note: Some formerly dual-listed companies have unified their structures. Royal Dutch Shell became Shell plc in January 2022, consolidating to a single London listing. Unilever unified its dual-listed structure in November 2020, now trading only on the LSE.
 
 ## Benefits of Dual Listed Arbitrage
 
@@ -72,11 +74,10 @@ The reliance on sophisticated technology means that any technical glitches or sy
 
 Several companies specialize in [algorithmic trading](../a/algorithmic_trading.md) and [arbitrage](../a/arbitrage.md) strategies. Some notable firms include:
 
-1. **Jane Street**: A renowned trading [firm](../f/firm.md) specializing in [arbitrage](../a/arbitrage.md) and [algorithmic trading](../a/algorithmic_trading.md) [Jane Street](https://www.janestreet.com/)
-2. **Virtu Financial**: A leading electronic trading [firm](../f/firm.md) known for high-frequency [trading strategies](../t/trading_strategies.md) [Virtu Financial](https://www.virtu.com/)
-3. **Citadel Securities**: A global [market maker](../m/market_maker.md) that utilizes advanced technology for trading and [arbitrage](../a/arbitrage.md) [Citadel Securities](https://www.citadelsecurities.com/)
+1. **Jane Street**: A renowned trading [firm](../f/firm.md) specializing in [arbitrage](../a/arbitrage.md) and [algorithmic trading](../a/algorithmic_trading.md) Jane Street
+2. **Virtu Financial**: A leading electronic trading [firm](../f/firm.md) known for high-frequency [trading strategies](../t/trading_strategies.md) Virtu Financial
+3. **Citadel Securities**: A global [market maker](../m/market_maker.md) that utilizes advanced technology for trading and [arbitrage](../a/arbitrage.md) Citadel Securities
 
 ## Conclusion
 
 Dual [listed](../l/listed.md) [arbitrage](../a/arbitrage.md) is a compelling [trading strategy](../t/trading_strategy.md) that capitalizes on price discrepancies of the same [financial instrument](../f/financial_instrument.md) across different exchanges. It combines financial acumen with technological prowess to identify and execute [lucrative](../l/lucrative.md) trades. While the potential for [profit](../p/profit.md) is significant, challenges such as latency, regulatory compliance, and [transaction costs](../t/transaction_costs.md) must be carefully managed. This strategy contributes to the overall [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md), promoting a more balanced financial ecosystem.
-

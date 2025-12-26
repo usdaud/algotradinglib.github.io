@@ -59,11 +59,11 @@ One of the most significant events in the history of the interbank [market](../m
 
 Several prominent banks and financial institutions actively participate in the interbank [market](../m/market.md), managing [liquidity](../l/liquidity.md) and executing [trading strategies](../t/trading_strategies.md). Some examples include:
 
-- **JPMorgan Chase & Co.**: One of the largest banks in the United States, JPMorgan Chase is a key player in the interbank [market](../m/market.md). It engages in various interbank transactions to manage its [balance sheet](../b/balance_sheet.md) and meet regulatory requirements. [JPMorgan Chase](https://www.jpmorganchase.com/)
-- **Deutsche [Bank](../b/bank.md)**: As one of the leading global banks, Deutsche [Bank](../b/bank.md) participates actively in the interbank [market](../m/market.md) to manage [liquidity](../l/liquidity.md) and support its clients' needs. [Deutsche Bank](https://www.db.com/)
-- **HSBC**: HSBC operates in [multiple](../m/multiple.md) countries and engages in interbank transactions to optimize its funding and manage risks across different currencies. [HSBC](https://www.hsbc.com/)
-- **Citibank**: Citibank, a subsidiary of Citigroup, is a major participant in the interbank [market](../m/market.md), leveraging its global presence to manage [liquidity](../l/liquidity.md) and provide financial services. [Citi](https://www.citigroup.com/)
-- **Barclays**: Barclays [Bank](../b/bank.md) participates in the interbank [market](../m/market.md) to manage its [liquidity](../l/liquidity.md) needs and support its trading and investment activities. [Barclays](https://www.barclays.com/)
+- **JPMorgan Chase & Co.**: One of the largest banks in the United States, JPMorgan Chase is a key player in the interbank [market](../m/market.md). It engages in various interbank transactions to manage its [balance sheet](../b/balance_sheet.md) and meet regulatory requirements. JPMorgan Chase
+- **Deutsche [Bank](../b/bank.md)**: As one of the leading global banks, Deutsche [Bank](../b/bank.md) participates actively in the interbank [market](../m/market.md) to manage [liquidity](../l/liquidity.md) and support its clients' needs. Deutsche Bank
+- **HSBC**: HSBC operates in [multiple](../m/multiple.md) countries and engages in interbank transactions to optimize its funding and manage risks across different currencies. HSBC
+- **Citibank**: Citibank, a subsidiary of Citigroup, is a major participant in the interbank [market](../m/market.md), leveraging its global presence to manage [liquidity](../l/liquidity.md) and provide financial services. Citi
+- **Barclays**: Barclays [Bank](../b/bank.md) participates in the interbank [market](../m/market.md) to manage its [liquidity](../l/liquidity.md) needs and support its trading and investment activities. Barclays
 
 ## Conclusion
 

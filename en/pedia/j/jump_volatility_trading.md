@@ -90,19 +90,19 @@ Several firms specialize in jump [volatility](../v/volatility.md) trading, lever
 
 ### Citadel Securities
 
-Citadel Securities is a leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) known for its expertise in high-frequency trading and [volatility](../v/volatility.md) strategies. The [firm](../f/firm.md) uses cutting-edge technology and [quantitative research](../q/quantitative_research.md) to execute trades across various [asset](../a/asset.md) classes. For more information, visit [Citadel Securities](https://www.citadelsecurities.com/).
+Citadel Securities is a leading [market maker](../m/market_maker.md) and trading [firm](../f/firm.md) known for its expertise in high-frequency trading and [volatility](../v/volatility.md) strategies. The [firm](../f/firm.md) uses cutting-edge technology and [quantitative research](../q/quantitative_research.md) to execute trades across various [asset](../a/asset.md) classes. For more information, visit Citadel Securities.
 
 ### Two Sigma
 
-Two Sigma is a quantitative investment [firm](../f/firm.md) that applies advanced [data science](../d/data_science_in_trading.md) and technology to [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on research-driven approaches, including those related to jump [volatility](../v/volatility.md). Learn more at [Two Sigma](https://www.twosigma.com/).
+Two Sigma is a quantitative investment [firm](../f/firm.md) that applies advanced [data science](../d/data_science_in_trading.md) and technology to [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) focuses on research-driven approaches, including those related to jump [volatility](../v/volatility.md). Learn more at Two Sigma.
 
 ### Jump Trading
 
-[Jump Trading](../j/jump_trading.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that utilizes high-frequency and [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) has a strong emphasis on technology and innovation in trading, making it a significant player in the jump [volatility](../v/volatility.md) space. Visit their website at [Jump Trading](https://www.jumptrading.com/).
+[Jump Trading](../j/jump_trading.md) is a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that utilizes high-frequency and [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md) has a strong emphasis on technology and innovation in trading, making it a significant player in the jump [volatility](../v/volatility.md) space.
 
 ### DRW Trading
 
-DRW Trading is a diversified [principal](../p/principal.md) trading [firm](../f/firm.md) that engages in various [trading strategies](../t/trading_strategies.md), including those focused on [volatility](../v/volatility.md). The [firm](../f/firm.md)'s expertise in [financial markets](../f/financial_market.md) and technology positions it well for jump [volatility](../v/volatility.md) trading. For additional information, visit [DRW Trading](https://www.drw.com/).
+DRW Trading is a diversified [principal](../p/principal.md) trading [firm](../f/firm.md) that engages in various [trading strategies](../t/trading_strategies.md), including those focused on [volatility](../v/volatility.md). The [firm](../f/firm.md)'s expertise in [financial markets](../f/financial_market.md) and technology positions it well for jump [volatility](../v/volatility.md) trading. For additional information, visit DRW Trading.
 
 ## Conclusion
 

@@ -79,15 +79,15 @@ Despite its advantages, the expenditure method faces certain challenges:
 
 ### United States
 
-In the United States, the Bureau of Economic Analysis (BEA) provides quarterly and annual GDP estimates using the expenditure method. Their reports can be found on their [official website](https://www.bea.gov/).
+In the United States, the Bureau of Economic Analysis (BEA) provides quarterly and annual GDP estimates using
 
-### European Union 
+### European Union
 
-Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), calculates GDP for EU member countries using similar methods. Their data and methodology are accessible on the [Eurostat website](https://ec.europa.eu/eurostat).
+Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), calculates GDP for EU member countries using similar methods.
 
 ### India
 
-The Ministry of [Statistics](../s/statistics.md) and Programme Implementation (MOSPI) in India utilizes the expenditure method to calculate GDP. More information is available on the [MOSPI website](http://www.mospi.gov.in/).
+The Ministry of [Statistics](../s/statistics.md) and Programme Implementation (MOSPI) in India utilizes the expenditure method to calculate GDP.
 
 ## Conclusion
 

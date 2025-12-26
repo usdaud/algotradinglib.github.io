@@ -37,7 +37,7 @@ Below is a Python example that shows how to calculate and use the [median](../m/
 [import](../i/import.md) pandas as pd
 
 # Sample data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'High': [120, 125, 130, 128],
     'Low': [115, 118, 123, 122]
 })
@@ -117,15 +117,15 @@ print(data)
 
 [Hedge](../h/hedge.md) funds frequently use [median](../m/median.md) price analysis to develop their [proprietary trading](../p/proprietary_trading.md) strategies. By employing advanced statistical methods alongside [median](../m/median.md) price calculations, these funds can efficiently manage risks and enhance returns. For instance, Renaissance Technologies and Two Sigma extensively utilize [algorithmic trading](../a/algorithmic_trading.md) models incorporating [median](../m/median.md) price analysis.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
+- Renaissance Technologies
+- Two Sigma
 
 #### High-Frequency Trading Firms
 
 High-frequency trading (HFT) firms [capitalize](../c/capitalize.md) on tiny price discrepancies at extremely high speeds. [Median](../m/median.md) price analysis aids in creating algorithms that are less sensitive to [noise](../n/noise.md) and more consistent in identifying genuine [trading signals](../t/trading_signals.md). Firms like Citadel Securities and DRW benefit from integrating [median](../m/median.md) price [statistics](../s/statistics.md) into their [trading models](../t/trading_models.md).
 
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [DRW Trading](https://drw.com/)
+- Citadel Securities
+- DRW Trading
 
 ### Challenges and Considerations
 

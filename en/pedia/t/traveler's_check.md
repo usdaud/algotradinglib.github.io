@@ -53,20 +53,20 @@ The usage of traveler's checks has significantly declined due to the introductio
 
 ### Traveler's Checks vs. Credit/Debit Cards
 
-| Feature               | Traveler's Checks                                                    | [Credit](../c/credit.md)/[Debit](../d/debit.md) Cards                                            |
+| Feature | Traveler's Checks | [Credit](../c/credit.md)/[Debit](../d/debit.md) Cards |
 |-----------------------|----------------------------------------------------------------------|---------------------------------------------------------------|
-| **[Security](../s/security.md)**          | Requires dual signatures; can be replaced if lost or stolen          | Encrypted transactions; Zero-[liability](../l/liability.md) policies for [fraud](../f/fraud.md)     |
-| **Acceptance**        | Limited to specific locations                                        | Widely accepted globally                                      |
-| **Convenience**       | Requires purchase and careful handling                              | Immediate and ongoing access to funds                         |
-| **Fees**              | Purchase fees and possible [exchange](../e/exchange.md) fees                             | Foreign [transaction fees](../t/transaction_fees.md) and potential ATM [withdrawal](../w/withdrawal.md) fees    |
+| **[Security](../s/security.md)** | Requires dual signatures; can be replaced if lost or stolen | Encrypted transactions; Zero-[liability](../l/liability.md) policies for [fraud](../f/fraud.md) |
+| **Acceptance** | Limited to specific locations | Widely accepted globally |
+| **Convenience** | Requires purchase and careful handling | Immediate and ongoing access to funds |
+| **Fees** | Purchase fees and possible [exchange](../e/exchange.md) fees | Foreign [transaction fees](../t/transaction_fees.md) and potential ATM [withdrawal](../w/withdrawal.md) fees |
 
 ### Traveler's Checks vs. Prepaid Travel Cards
 
-| Feature               | Traveler's Checks                                                    | Prepaid Travel Cards                                          |
+| Feature | Traveler's Checks | Prepaid Travel Cards |
 |-----------------------|----------------------------------------------------------------------|---------------------------------------------------------------|
-| **Reloadability**     | Fixed amounts; need to purchase additional checks                    | Can be reloaded as needed                                     |
-| **Exposure to Loss**  | Must keep physical checks secure                                     | Can be locked or replaced easily                              |
-| **[Exchange](../e/exchange.md) Rates**    | Often includes unfavorable rates and fees                           | Typically offers competitive [exchange](../e/exchange.md) rates                   |
+| **Reloadability** | Fixed amounts; need to purchase additional checks | Can be reloaded as needed |
+| **Exposure to Loss** | Must keep physical checks secure | Can be locked or replaced easily |
+| **[Exchange](../e/exchange.md) Rates** | Often includes unfavorable rates and fees | Typically offers competitive [exchange](../e/exchange.md) rates |
 
 ## Modern Relevance and Use Cases
 

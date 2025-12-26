@@ -2,7 +2,7 @@
 
 ### Introduction to Copulae
 
-A copula is a statistical tool that allows us to understand and model the dependence structure between different [random variables](../r/random_variables.md). Essentially, it helps in understanding how different variables co-move. This is particularly useful in [finance](../f/finance.md) and trading, where understanding the relationships between various assets can provide deeper insights into [risk](../r/risk.md) and [portfolio management](../p/portfolio_management.md). 
+A copula is a statistical tool that allows us to understand and model the dependence structure between different [random variables](../r/random_variables.md). Essentially, it helps in understanding how different variables co-move. This is particularly useful in [finance](../f/finance.md) and trading, where understanding the relationships between various assets can provide deeper insights into [risk](../r/risk.md) and [portfolio management](../p/portfolio_management.md).
 
 The word 'copula' comes from the Latin word for 'link' or 'tie'. In the context of [statistics](../s/statistics.md) and [probability theory](../p/probability_theory_in_trading.md), a copula links marginal distributions to form a [joint](../j/joint.md) [distribution](../d/distribution.md). The most notable property of a copula is that it can describe the dependence structure between [random variables](../r/random_variables.md), independent of their marginal distributions.
 

@@ -47,7 +47,7 @@ Periodic [portfolio rebalancing](../p/portfolio_rebalancing.md) helps in maintai
 
 ## Case Study: EPAM Systems, Inc.
 
-[EPAM Systems](https://www.epam.com/) is a global provider of digital platform engineering and software development services. They frequently engage in projects that involve complex [trading systems](../t/trading_systems.md) and [risk management](../r/risk_management.md) solutions which naturally encompass [variance reduction](../v/variance_reduction.md) techniques.
+EPAM Systems is a global provider of digital platform engineering and software development services. They frequently engage in projects that involve complex [trading systems](../t/trading_systems.md) and [risk management](../r/risk_management.md) solutions which naturally encompass [variance reduction](../v/variance_reduction.md) techniques.
 
 - **[Diversification](../d/diversification.md) in Software Solutions**: EPAM assists financial institutions in creating diversified trading platforms that include various [asset](../a/asset.md) classes and [market](../m/market.md) access points.
 - **Algorithm Development**: The company has expertise in developing advanced [trading algorithms](../t/trading_algorithms.md) that are capable of real-time learning and dynamic adjustment to changing [market](../m/market.md) conditions.
@@ -56,4 +56,3 @@ Periodic [portfolio rebalancing](../p/portfolio_rebalancing.md) helps in maintai
 ## Conclusion
 
 In summary, X-[Variance Reduction](../v/variance_reduction.md) (XVR) in [algorithmic trading](../a/algorithmic_trading.md) involves an array of methods and techniques aimed at minimizing the unpredictability of [trading performance](../t/trading_performance.md). By incorporating strategies like [diversification](../d/diversification.md), hedging, sophisticated algorithms, [risk parity](../r/risk_parity.md), and periodic [rebalancing](../r/rebalancing.md), traders can achieve more stable and reliable returns. As [financial markets](../f/financial_market.md) continue to evolve, the significance of XVR [will](../w/will.md) only grow, making it a focal point for traders and financial engineers alike.
-

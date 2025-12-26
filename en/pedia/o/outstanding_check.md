@@ -42,11 +42,11 @@ In the modern financial landscape, technology plays a pivotal role in managing o
 
 - **[Accounting](../a/accounting.md) Software Integration**: Many [accounting](../a/accounting.md) and financial management software solutions [offer](../o/offer.md) built-in [bank reconciliation](../b/bank_reconciliation.md) features that automatically track outstanding checks and other uncashed payments.
 - **Automated Alerts**: Systems can be configured to send automated alerts when checks remain outstanding beyond a certain timeframe, prompting timely follow-up actions.
-  
+
 #### Examples of Companies Providing Such Solutions:
 
-- **QuickBooks** - [QuickBooks Bank Reconciliation](https://quickbooks.intuit.com/)
-- **Xero** - [Xero Bank Reconciliation](https://www.xero.com/)
+- **QuickBooks** - QuickBooks Bank Reconciliation
+- **Xero** - Xero Bank Reconciliation
 
 ### 8. Case Studies
 

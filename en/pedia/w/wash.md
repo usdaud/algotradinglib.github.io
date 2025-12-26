@@ -36,4 +36,3 @@ In the financial context, a **Wash** refers to a [wash sale](../w/wash_sale.md),
 
 ## Conclusion
 A [wash sale](../w/wash_sale.md) in the financial context refers to the [sale](../s/sale.md) of a [security](../s/security.md) at a loss followed by the repurchase of the same or substantially identical [security](../s/security.md) within a short period. The [wash sale rule](../w/wash_sale_rule.md) prevents investors from claiming tax deductions for these losses while maintaining ownership of the [security](../s/security.md). Understanding the key components, importance, challenges, and [best practices](../b/best_practices.md) associated with wash sales can help investors comply with tax regulations and optimize their investment strategies.
-

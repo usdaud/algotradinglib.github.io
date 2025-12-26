@@ -11,16 +11,16 @@ In [finance](../f/finance.md), the [principal-agent relationship](../p/principal
 Agency costs can be classified into three broad categories:
 
 1. **Monitoring Costs:**
-    - **Definition:** These are expenses incurred by the [principal](../p/principal.md) to monitor and ensure that the agent performs tasks in the best [interest](../i/interest.md) of the [principal](../p/principal.md).
-    - **Examples:** Audits, performance reviews, compliance checks, and the implementation of surveillance using sophisticated [software in trading](../s/software_in_trading.md) environments.
+ - **Definition:** These are expenses incurred by the [principal](../p/principal.md) to monitor and ensure that the agent performs tasks in the best [interest](../i/interest.md) of the [principal](../p/principal.md).
+ - **Examples:** Audits, performance reviews, compliance checks, and the implementation of surveillance using sophisticated [software in trading](../s/software_in_trading.md) environments.
 
 2. **Bonding Costs:**
-    - **Definition:** Costs incurred by the agent to signal their commitment to the [principal](../p/principal.md)'s interests.
-    - **Examples:** Financial guarantees, reputation investments, and implementation of fidelity bonds.
+ - **Definition:** Costs incurred by the agent to signal their commitment to the [principal](../p/principal.md)'s interests.
+ - **Examples:** Financial guarantees, reputation investments, and implementation of fidelity bonds.
 
 3. **Residual Loss:**
-    - **Definition:** The financial loss suffered by the [principal](../p/principal.md) due to the inability to fully align the agent’s actions with the [principal](../p/principal.md)’s interests, even after incurring monitoring and bonding costs.
-    - **Examples:** Suboptimal investment decisions by managers, unauthorized [risk](../r/risk.md)-taking by traders.
+ - **Definition:** The financial loss suffered by the [principal](../p/principal.md) due to the inability to fully align the agent’s actions with the [principal](../p/principal.md)’s interests, even after incurring monitoring and bonding costs.
+ - **Examples:** Suboptimal investment decisions by managers, unauthorized [risk](../r/risk.md)-taking by traders.
 
 ### Causes of Agency Costs
 Agency costs typically arise from:
@@ -62,11 +62,11 @@ Organizations typically implement various governance structures and managerial p
 Several institutions [offer](../o/offer.md) tools and frameworks to address and manage agency costs in the context of [algorithmic trading](../a/accountability.md):
 
 - **Apex [Clearing](../c/clearing.md) [Corporation](../c/corporation.md):** Specializes in brokerage solutions with [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md) to address agency costs associated with trading activities.
-  - [Apex Clearing Corporation](https://www.apexclearing.com)
+ - Apex Clearing Corporation
 - **[Fidelity Investments](../f/fidelity_investments.md):** Offers comprehensive financial services, including governance services that help manage agency costs within trading operations.
-  - [Fidelity Investments](https://www.fidelity.com)
+ - Fidelity Investments
 - **[Charles Schwab](../c/charles_schwab.md):** Provides oversight mechanisms and governance practices designed to align interests between shareholders and those managing [algorithmic trading](../a/accountability.md) systems.
-  - [Charles Schwab](https://www.schwab.com)
+ - Charles Schwab
 
 ## Conclusion
 Agency costs represent a significant [factor](../f/factor.md) impacting the [efficiency](../e/efficiency.md) and governance of organizations, especially in complex environments such as [algorithmic trading](../a/accountability.md). By understanding and effectively managing these costs through incentive alignment, [robust](../r/robust.md) monitoring mechanisms, and transparent communication, firms can ensure that their interests are well-aligned with those managing their assets. As [algorithmic trading](../a/accountability.md) continues to evolve, so too must the strategies to mitigate the associated agency costs, ensuring stability, reliability, and optimal performance in [financial markets](../f/financial_market.md).

@@ -48,11 +48,11 @@ For traders, this phenomenon underscores the importance of [robust](../r/robust.
 For long-term investors, recognizing the Wall of Worry can reinforce the importance of a buying strategy that takes advantage of [market](../m/market.md) dips. Such a strategy can include dollar-cost averaging and maintaining a long-term focus despite short-term [market](../m/market.md) fluctuations.
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), systems can be designed to monitor and react to [market sentiment](../m/market_sentiment.md) and news dynamically. [Sentiment analysis tools](../s/sentiment_analysis_tools.md) can assess the impact of news events, and [machine learning](../m/machine_learning.md) models can predict [market](../m/market.md) movements amidst rising fears. For example, AI-based [sentiment analysis tools](../s/sentiment_analysis_tools.md) can parse news headlines to gauge [market sentiment](../m/market_sentiment.md) and adjust [trading strategies](../t/trading_strategies.md) accordingly.
+In [algorithmic trading](../a/algorithmic_trading.md), systems can be designed to monitor and react to [market sentiment](../m/market_sentiment.md) and news dynamically. [Sentiment analysis tools](../s/sentiment_analysis_tools.md) can assess the impact of news events, and [machine learning](../m/machine_learning.md) models can predict [market](../m/market.md) movements amidst rising fears. For example, AI-based [sentiment analysis tools](../s/sentiment_analysis_tools.md) can parse news headlines to gauge [market sentiment](../m/market_sentiment.md) and adjust [trading strategies](../t/trading_strategies.md) accordingly.
 
 Several companies are at the forefront of developing these kinds of tools:
-- **Kavout** offers AI-driven trading and investment platforms that provide [sentiment analysis](../s/sentiment_analysis.md) (https://www.kavout.com/)
-- **Sentifi** uses crowd insights and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) trends and sentiment (https://www.sentifi.com/)
+- **Kavout** offers AI-driven trading and investment platforms that provide [sentiment analysis](../s/sentiment_analysis.md) (
+- **Sentifi** uses crowd insights and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to identify [market](../m/market.md) trends and sentiment (
 
 ## Conclusion
 

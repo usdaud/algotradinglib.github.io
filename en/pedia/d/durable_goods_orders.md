@@ -56,7 +56,7 @@ Durable Goods Orders are critical for several reasons:
 
 Several data providers and platforms allow traders to access Durable Goods Orders data for [algorithmic trading](../a/accountability.md):
 
-1. **U.S. Census Bureau**: [census.gov](https://www.census.gov/)
+1. **U.S. Census Bureau**: census.gov
 2. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A popular platform for real-time economic data and trading.
 3. **[Reuters](../r/reuters.md) Eikon**: Another major provider of financial [market](../m/market.md) data and news.
 4. **[Quandl](../q/quandl.md)**: Offers a wide array of economic data, including durable goods orders.

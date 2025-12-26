@@ -48,7 +48,6 @@ In recent years, the PCAOB has also placed greater emphasis on improving the tim
 
 ### More Information
 
-For ongoing updates, inspection reports, standards, and other resources, visit the PCAOB's official website: [PCAOB Official Website](https://pcaobus.org)
 
 ### Conclusion
 

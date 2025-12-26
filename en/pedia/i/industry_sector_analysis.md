@@ -32,11 +32,11 @@ Financial reports, including balance sheets, [income](../i/income.md) statements
 
 ### Market Data Providers
 
-Several companies specialize in providing comprehensive [market](../m/market.md) data and analytics. These include [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (https://www.thomsonreuters.com/), and [FactSet](../f/factset.md) (https://www.[factset](../f/factset.md).com/). They [offer](../o/offer.md) access to real-time and historical data, news, and analysis tools tailored for [financial markets](../f/financial_market.md).
+Several companies specialize in providing comprehensive [market](../m/market.md) data and analytics. These include [Bloomberg](../b/bloomberg.md) ( Thomson [Reuters](../r/reuters.md) ( and [FactSet](../f/factset.md) ( They [offer](../o/offer.md) access to real-time and historical data, news, and analysis tools tailored for [financial markets](../f/financial_market.md).
 
 ### Economic Indicators
 
-[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, and consumer price indices are pivotal in understanding the broader economic context that impacts various sectors. Government agencies and institutions like the U.S. Bureau of Economic Analysis (https://www.bea.gov/) and the European Central [Bank](../b/bank.md) (https://www.ecb.europa.eu/[home](../h/home.md)/html/[index](../i/index_instrument.md).en.html) provide these indicators.
+[Economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) rates, and consumer price indices are pivotal in understanding the broader economic context that impacts various sectors. Government agencies and institutions like the U.S. Bureau of Economic Analysis ( and the European Central [Bank](../b/bank.md) ( provide these indicators.
 
 ### Machine Learning and AI
 
@@ -50,7 +50,7 @@ Advanced technologies like [machine learning](../m/machine_learning.md) and [art
 
 ### Quantitative Models
 
-[Quantitative models](../q/quantitative_models.md) use mathematical and statistical methods to analyze sector data and create [trading strategies](../t/trading_strategies.md). Factors such as sector [momentum](../m/momentum.md), [volatility](../v/volatility.md), and [relative strength](../r/relative_strength.md) are incorporated into these models. [Quantitative trading](../q/quantitative_trading.md) firms, like Renaissance Technologies (https://www.rentec.com/), use these models extensively to drive their trading decisions.
+[Quantitative models](../q/quantitative_models.md) use mathematical and statistical methods to analyze sector data and create [trading strategies](../t/trading_strategies.md). Factors such as sector [momentum](../m/momentum.md), [volatility](../v/volatility.md), and [relative strength](../r/relative_strength.md) are incorporated into these models. [Quantitative trading](../q/quantitative_trading.md) firms, like Renaissance Technologies ( use these models extensively to drive their trading decisions.
 
 ### Factor Analysis
 

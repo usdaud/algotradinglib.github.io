@@ -72,7 +72,7 @@ This method compares a company's quarterly performance against its peers in the 
 
 ## Case Study Example
 
-Consider the quarterly growth analysis of [Amazon](https://www.amazon.com).
+Consider the quarterly growth analysis of Amazon.
 
 **Amazon's Q2 2023 Report Highlights**:
 - **[Revenue](../r/revenue.md)**: $134.4 billion in Q2 2023, compared to $113.1 billion in Q2 2022 (18.9% YoY growth).

@@ -39,9 +39,8 @@ The API uses API keys for authentication. Users can generate their API keys thro
 To ensure fair use and avoid overloading the system, Indodax implements rate limiting on API requests. Users are advised to consult the API documentation for specific rate limits and make sure their applications adhere to them.
 
 ### Documentation
-Comprehensive API documentation is available on the Indodax website to assist developers in integrating the API with their applications. The documentation includes detailed descriptions of all available endpoints, parameters, and example code snippets.
+Comprehensive API documentation is available on the Indodax online platform to assist developers in integrating the API with their applications. The documentation includes detailed descriptions of all available endpoints, parameters, and example code snippets.
 
-For more information, visit the official Indodax API documentation page: [Indodax API Documentation](https://indodax.com/api/v1).
 
 ## Payment Methods
 
@@ -77,9 +76,9 @@ To help both new and experienced traders, Indodax provides a [wealth](../w/wealt
 ## Community Engagement
 
 Indodax maintains an active presence in various online communities and [social media](../s/social_media.md) platforms. The [exchange](../e/exchange.md) operates official channels where users can find updates, participate in discussions, and seek support. Some of the platforms where Indodax is active include:
-- **Facebook:** [Indodax Facebook](https://www.facebook.com/Indodax/)
-- **Instagram:** [Indodax Instagram](https://www.instagram.com/indodax/)
-- **Twitter:** [Indodax Twitter](https://twitter.com/indodax)
+- **Facebook:** Indodax Facebook
+- **Instagram:** Indodax Instagram
+- **Twitter:** Indodax Twitter
 - **Telegram:** Official groups for community discussions and announcements.
 
 ## Indodax Academy
@@ -91,7 +90,7 @@ Indodax Academy is an educational initiative by Indodax aimed at increasing the 
 - **Advanced Strategies:** [Technical analysis](../t/technical_analysis.md), [trading strategies](../t/trading_strategies.md), [risk management](../r/risk_management.md), and [portfolio diversification](../p/portfolio_diversification.md).
 - **[Security](../s/security.md) Tips:** [Best practices](../b/best_practices.md) for securing digital assets, avoiding scams, and understanding [security](../s/security.md) features.
 
-For more information, visit the Indodax Academy website: [Indodax Academy](https://indodax.academy).
+
 
 ## Future Prospects
 

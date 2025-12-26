@@ -10,9 +10,9 @@ Personal Consumption Expenditures (PCE) data presents insights into the economic
 
 PCE consists of two main categories:
 - **Goods:** This includes durable and non-durable goods.
-  - *Durable Goods*: Items with a longer life span such as automobiles, appliances, and electronics.
-  - *Non-Durable Goods*: Consumables like food, beverages, clothing, and gasoline.
-- **Services:** Encompasses expenditures on housing, healthcare, transportation, recreation, and financial services. 
+ - *Durable Goods*: Items with a longer life span such as automobiles, appliances, and electronics.
+ - *Non-Durable Goods*: Consumables like food, beverages, clothing, and gasoline.
+- **Services:** Encompasses expenditures on housing, healthcare, transportation, recreation, and financial services.
 
 ### Durable Goods
 
@@ -63,4 +63,4 @@ Recent trends in PCE often reflect broader [economic conditions](../e/economic_c
 Personal Consumption Expenditures (PCE) are a crucial [economic indicator](../e/economic_indicator.md), [offering](../o/offering.md) valuable insights into consumer spending behavior, [inflation](../i/inflation.md), and overall economic health. Understanding PCE components, their impact on the [economy](../e/economy.md), and how they are measured can provide significant advantages for economic analysis, policy-making, and [business](../b/business.md) strategy development.
 
 ### External links
-- [Bureau of Economic Analysis (BEA) Personal Consumption Expenditures](https://www.bea.gov/data/consumer-spending/main)
+- Bureau of Economic Analysis (BEA) Personal Consumption Expenditures

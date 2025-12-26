@@ -62,17 +62,17 @@ In the contemporary financial landscape, the concept of Liar Loans has largely r
 ### Citigroup
 
 Citigroup was among the major financial institutions significantly affected during the 2007-2008 [financial crisis](../f/financial_crisis.md) due to its involvement in [mortgage](../m/mortgage.md)-backed securities that included a substantial amount of Liar Loans. Although the company has since restructured and improved its lending standards, it remains a pertinent example of how the financial giants participated in the dynamics that Liar Loans represented.
-Official website: [Citigroup](https://www.citigroup.com/)
+public materials: Citigroup
 
 ### Countrywide Financial
 
 Countrywide Financial, once a dominant player in the [mortgage](../m/mortgage.md) [market](../m/market.md), became infamous for its aggressive lending practices, which included a significant number of Liar Loans. Its exposure to unsustainable [mortgage](../m/mortgage.md) debts led to its [acquisition](../a/acquisition.md) by [Bank](../b/bank.md) of America in 2008.
-Official website: Now part of [Bank of America](https://www.bankofamerica.com/)
+public materials: Now part of Bank of America
 
 ### Lehman Brothers
 
 [Lehman Brothers](../l/lehman_brothers.md) is now a historical example, as its [bankruptcy](../b/bankruptcy.md) in 2008 represented one of the largest failures in U.S. financial history. The investment [bank](../b/bank.md) heavily invested in [mortgage](../m/mortgage.md)-backed securities filled with Liar Loans, leading to its downfall and playing a critical role in the [financial crisis](../f/financial_crisis.md).
-Information resource: [Lehman Brothers Holdings - Dissolution](http://www.lehman-docket.com)
+Information resource: Lehman Brothers Holdings - Dissolution
 
 ## Conclusion
 

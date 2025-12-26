@@ -1,6 +1,6 @@
 # Alternative Investment
 
-Alternative investments encompass a wide [range](../r/range.md) of [asset](../a/asset.md) classes that fall outside traditional investments in [stocks](../s/stock.md), bonds, and cash. These include [private equity](../p/private_equity.md), [hedge](../h/hedge.md) funds, [real estate](../r/real_estate.md), commodities, [infrastructure](../i/infrastructure.md), and more. Initially embraced predominantly by high-net-worth individuals and institutional investors, alternative investments are gaining traction among retail investors due to their potential for high returns and [portfolio diversification](../p/portfolio_diversification.md). 
+Alternative investments encompass a wide [range](../r/range.md) of [asset](../a/asset.md) classes that fall outside traditional investments in [stocks](../s/stock.md), bonds, and cash. These include [private equity](../p/private_equity.md), [hedge](../h/hedge.md) funds, [real estate](../r/real_estate.md), commodities, [infrastructure](../i/infrastructure.md), and more. Initially embraced predominantly by high-net-worth individuals and institutional investors, alternative investments are gaining traction among retail investors due to their potential for high returns and [portfolio diversification](../p/portfolio_diversification.md).
 
 ## Types of Alternative Investments
 
@@ -8,8 +8,8 @@ Alternative investments encompass a wide [range](../r/range.md) of [asset](../a/
 
 [Private equity](../p/private_equity.md) involves [investing](../i/investing.md) in private companies or buyouts of public companies, leading them to be delisted from public stock exchanges. [Private equity](../p/private_equity.md) firms raise funds from institutional and accredited investors to directly invest in companies, often taking a long-term view to transform and eventually sell or go public. Prominent [private equity](../p/private_equity.md) firms include:
 
-- **Blackstone Group** [website](https://www.blackstone.com/)
-- **Kohlberg Kravis Roberts (KKR)** [website](https://www.kkr.com/)
+- **Blackstone Group**
+- **Kohlberg Kravis Roberts (KKR)**
 
 These firms participate in various strategies such as [venture capital](../v/venture_capital.md), growth [capital](../c/capital.md), [mezzanine financing](../m/mezzanine_financing.md), and leveraged buyouts (LBOs).
 
@@ -24,8 +24,8 @@ These firms participate in various strategies such as [venture capital](../v/ven
 
 Famous [hedge fund](../h/hedge_fund.md) managers include:
 
-- **Bridgewater Associates (Ray Dalio)** [website](https://www.bridgewater.com/)
-- **Renaissance Technologies (James Simons)** [website](https://www.rentec.com/)
+- **Bridgewater Associates (Ray Dalio)**
+- **Renaissance Technologies (James Simons)**
 
 ### 3. Real Estate
 
@@ -37,8 +37,8 @@ Famous [hedge fund](../h/hedge_fund.md) managers include:
 
 Notable [real estate](../r/real_estate.md) investment platforms:
 
-- **Zillow** [website](https://www.zillow.com/)
-- **Redfin** [website](https://www.redfin.com/)
+- **Zillow**
+- **Redfin**
 
 ### 4. Commodities
 
@@ -46,8 +46,8 @@ Commodities are [tangible assets](../t/tangible_asset.md) such as precious metal
 
 Key [commodity](../c/commodity.md) exchanges include:
 
-- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)** [website](https://www.cmegroup.com/)
-- **London Metal [Exchange](../e/exchange.md) (LME)** [website](https://www.lme.com/)
+- **Chicago Mercantile [Exchange](../e/exchange.md) (CME)**
+- **London Metal [Exchange](../e/exchange.md) (LME)**
 
 ### 5. Infrastructure
 
@@ -55,8 +55,8 @@ Key [commodity](../c/commodity.md) exchanges include:
 
 Important players in [infrastructure](../i/infrastructure.md) investment:
 
-- **Macquarie Group** [website](https://www.macquarie.com/)
-- **Brookfield [Asset Management](../a/asset_management.md)** [website](https://www.brookfield.com/)
+- **Macquarie Group**
+- **Brookfield [Asset Management](../a/asset_management.md)**
 
 ## Benefits of Alternative Investments
 
@@ -78,7 +78,7 @@ Investments in [private equity](../p/private_equity.md) and [hedge](../h/hedge.m
 
 ## Risks and Challenges
 
-Despite the benefits, alternative investments come with their own set of risks and challenges. 
+Despite the benefits, alternative investments come with their own set of risks and challenges.
 
 ### 1. Illiquidity
 

@@ -18,14 +18,14 @@ The OsMA essentially quantifies the spread between these two components (the MAC
 
 To compute the OsMA, follow these steps:
 
-1. **Calculate the MACD Line**: 
-    \[ \text{MACD Line} = \text{EMA}_{12} - \text{EMA}_{26} \]
+1. **Calculate the MACD Line**:
+ \[ \text{MACD Line} = \text{EMA}_{12} - \text{EMA}_{26} \]
 
 2. **Calculate the Signal Line**:
-    \[ \text{Signal Line} = \text{EMA}_{9} \text{ of the MACD Line} \]
+ \[ \text{Signal Line} = \text{EMA}_{9} \text{ of the MACD Line} \]
 
 3. **Calculate the OsMA**:
-    \[ \text{OsMA} = \text{MACD Line} - \text{Signal Line} \]
+ \[ \text{OsMA} = \text{MACD Line} - \text{Signal Line} \]
 
 These calculations require understanding of Exponential Moving Averages (EMA). An EMA is calculated as:
 
@@ -46,9 +46,9 @@ The OsMA can be a valuable tool for identifying trends and potential [market](..
 
 2. **Below the Zero Line**: Conversely, when the OsMA is below the zero line, it means the MACD is below the Signal Line, indicating a bearish [trend](../t/trend.md) or [momentum](../m/momentum.md). The [market](../m/market.md) is experiencing downward [momentum](../m/momentum.md).
 
-3. **Convergence/[Divergence](../d/divergence.md)**: 
-    - **Bullish Convergence**: When the OsMA begins to rise while being in negative territory, it suggests a potential bullish [reversal](../r/reversal.md).
-    - **[Bearish Divergence](../b/bearish_divergence.md)**: When the OsMA starts to fall while being in positive territory, it hints at a potential bearish [reversal](../r/reversal.md).
+3. **Convergence/[Divergence](../d/divergence.md)**:
+ - **Bullish Convergence**: When the OsMA begins to rise while being in negative territory, it suggests a potential bullish [reversal](../r/reversal.md).
+ - **[Bearish Divergence](../b/bearish_divergence.md)**: When the OsMA starts to fall while being in positive territory, it hints at a potential bearish [reversal](../r/reversal.md).
 
 4. **[Overbought](../o/overbought.md)/[Oversold](../o/oversold.md) Conditions**: Extreme values of OsMA, whether positive or negative, may indicate [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, signaling potential points for entering or exiting trades.
 
@@ -84,17 +84,17 @@ By analyzing the OsMA in conjunction with other indicators, traders can enhance 
 Consider a [trader](../t/trader.md) analyzing the EUR/USD [currency](../c/currency.md) pair:
 
 1. **Calculate EMAs**:
-    - 12-period EMA
-    - 26-period EMA
-    - MACD Line (12 EMA - 26 EMA)
-    - Signal Line (9-period EMA of MACD Line)
+ - 12-period EMA
+ - 26-period EMA
+ - MACD Line (12 EMA - 26 EMA)
+ - Signal Line (9-period EMA of MACD Line)
 
 2. **Compute OsMA**:
-    - Subtract the Signal Line from the MACD Line to get the OsMA.
+ - Subtract the Signal Line from the MACD Line to get the OsMA.
 
 3. **Interpretation**:
-    - If the OsMA is consistently positive, it suggests a strong bullish [momentum](../m/momentum.md).
-    - If the OsMA crosses below the zero line, it may signal a potential bearish [trend](../t/trend.md).
+ - If the OsMA is consistently positive, it suggests a strong bullish [momentum](../m/momentum.md).
+ - If the OsMA crosses below the zero line, it may signal a potential bearish [trend](../t/trend.md).
 
 The [trader](../t/trader.md) might combine this analysis with support/resistance levels and other [technical indicators](../t/technical_indicator.md) to make an informed trading decision.
 

@@ -6,7 +6,7 @@ The troy ounce is a unit of measure commonly used to quantify the weight of prec
 
 A troy ounce, abbreviated as "oz t" or "ozt," is defined as precisely 31.1034768 grams. This is approximately 10% heavier than the more familiar avoirdupois ounce, which weighs 28.3495231 grams. Through centuries of established usage, the troy ounce remains the standard measurement in the precious metals [industry](../i/industry.md), from [mining](../m/mining.md) and refining to trading and investment.
 
-![Troy Ounce](https://www.usmint.gov/wordpress/wp-content/uploads/2017/06/american-eagle-silver-one-ounce-bullion-coin-obverse.jpg)
+!Troy Ounce
 
 ## History
 
@@ -28,12 +28,12 @@ Understanding the differences between the troy ounce and other weight measuremen
 
 Here’s a quick conversion table for reference:
 
-| Measurement                  | Troy System   | Avoirdupois System |
+| Measurement | Troy System | Avoirdupois System |
 |------------------------------|---------------|--------------------|
-| 1 Ounce                      | 31.1034768 g  | 28.3495231 g       |
-| 1 Troy Pound (12 Troy Oz)    | 373.242 g     | Not Applicable     |
-| 1 Avoirdupois Pound (16 Oz)  | Not Applicable| 453.59237 g        |
-| 1 Gram                       | 0.0321507 oz t| 0.03527396 oz      |
+| 1 Ounce | 31.1034768 g | 28.3495231 g |
+| 1 Troy Pound (12 Troy Oz) | 373.242 g | Not Applicable |
+| 1 Avoirdupois Pound (16 Oz) | Not Applicable| 453.59237 g |
+| 1 Gram | 0.0321507 oz t| 0.03527396 oz |
 
 ## Practical Applications
 
@@ -58,8 +58,8 @@ While jewelers may weigh [raw materials](../r/raw_materials.md) in grams or cara
 
 For those in need of precision when converting between troy ounces and other units, numerous online tools and software applications are available. Examples include:
 
-- **[Goldprice.org](https://www.goldprice.org/gold-price-converter.html)**
-- **[Kitco](https://www.kitco.com)**
+- **Goldprice.org**
+- **Kitco**
 
 These tools provide real-time conversions and [market](../m/market.md) prices, enabling more accurate trading decisions.
 

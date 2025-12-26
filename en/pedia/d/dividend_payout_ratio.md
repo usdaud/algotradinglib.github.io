@@ -35,11 +35,11 @@ Alternatively, it can be represented as:
 
 ### Vanguard
 
-Vanguard, one of the world’s largest [investment management](../i/investment_management.md) companies, integrates [dividend](../d/dividend.md) metrics including the [Dividend](../d/dividend.md) [Payout Ratio](../p/payout_ratio.md) into its [fund](../f/fund.md) management strategies. Learn more about their approach on the official [Vanguard website](https://www.vanguard.com).
+Vanguard, one of the world’s largest [investment management](../i/investment_management.md) companies, integrates [dividend](../d/dividend.md) metrics including the [Dividend](../d/dividend.md) [Payout Ratio](../p/payout_ratio.md) into its [fund](../f/fund.md) management strategies.
 
 ### BlackRock
 
-The BlackRock Investment Institute leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [dividend](../d/dividend.md) analysis, to drive its investment decisions in [asset management](../a/asset_management.md). Detailed information can be found on their [website](https://www.blackrock.com).
+The BlackRock Investment Institute leverages [quantitative strategies](../q/quantitative_strategies_in_trading.md), including [dividend](../d/dividend.md) analysis, to drive its investment decisions in [asset management](../a/asset_management.md).
 
 ## Factors Affecting Dividend Payout Ratio
 

@@ -75,29 +75,28 @@ Subsequent funding rounds can come with their own set of pressures, including ma
 ### Sequoia Capital
 Sequoia [Capital](../c/capital.md) is one of the most prominent [venture capital](../v/venture_capital.md) firms, known for early investments in companies like Apple, Google, and Airbnb. The [firm](../f/firm.md) focuses on technology, healthcare, and energy sectors.
 
-**Website:** [Sequoia Capital](https://www.sequoiacap.com/)
+**online platform:** Sequoia Capital
 
 ### Andreessen Horowitz
 Andreessen Horowitz or "a16z" is a [venture capital](../v/venture_capital.md) [firm](../f/firm.md) known for its investments in Silicon Valley companies, including Facebook, Twitter, and [Coinbase](../c/coinbase.md). The [firm](../f/firm.md) emphasizes backing bold entrepreneurs who [leverage](../l/leverage.md) technology to disrupt existing markets.
 
-**Website:** [Andreessen Horowitz](https://a16z.com/)
+**online platform:** Andreessen Horowitz
 
 ### Benchmark Capital
 [Benchmark](../b/benchmark.md) [Capital](../c/capital.md) is known for its early-stage investments and a relatively small team of partners with equal stakes. Notable investments include eBay, Uber, and Snapchat.
 
-**Website:** [Benchmark Capital](https://www.benchmark.com/)
+**online platform:** Benchmark Capital
 
 ### Accel Partners
 Accel Partners is a global [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that has invested in companies like Dropbox, Slack, and Flipkart. The [firm](../f/firm.md) has a strong presence in both the US and international markets.
 
-**Website:** [Accel Partners](https://www.accel.com/)
+**online platform:** Accel Partners
 
 ### Kleiner Perkins
 Kleiner Perkins is one of the oldest and most respected VC firms, with significant investments in technology and life sciences. Its portfolio includes companies like Amazon, Google, and Genentech.
 
-**Website:** [Kleiner Perkins](https://www.kleinerperkins.com/)
+**online platform:** Kleiner Perkins
 
 ## Conclusion
 
 [Venture capital](../v/venture_capital.md) funds play a critical role in driving innovation and [economic growth](../e/economic_growth.md) by providing the necessary financial resources and strategic support to high-potential startups. While the path of [venture capital](../v/venture_capital.md) is laden with risks, the potential rewards—in terms of both financial returns for investors and societal impact—make it a cornerstone of the modern entrepreneurial ecosystem. Whether you are an aspiring [entrepreneur](../e/entrepreneur.md) or an [investor](../i/investor.md) looking to [capitalize](../c/capitalize.md) on groundbreaking ventures, understanding the dynamics of [venture capital](../v/venture_capital.md) is essential.
-

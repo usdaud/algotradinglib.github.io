@@ -5,10 +5,10 @@ The LIFO Reserve is an [accounting](../a/accounting.md) term used primarily in t
 ## Overview
 
 ### What is LIFO?
-LIFO (Last-In, First-Out) is an [inventory](../i/inventory.md) [valuation](../v/valuation.md) method where the most recently acquired items are considered sold first. This method is often used during inflationary periods as it matches recent costs with current revenues, potentially resulting in higher cost of goods sold (COGS) and lower [taxable income](../t/taxable_income.md). 
+LIFO (Last-In, First-Out) is an [inventory](../i/inventory.md) [valuation](../v/valuation.md) method where the most recently acquired items are considered sold first. This method is often used during inflationary periods as it matches recent costs with current revenues, potentially resulting in higher cost of goods sold (COGS) and lower [taxable income](../t/taxable_income.md).
 
 ### What is FIFO?
-FIFO (First-In, First-Out) is the opposite of LIFO, where the oldest [inventory](../i/inventory.md) items are recorded as sold first. It usually results in lower COGS and higher [taxable income](../t/taxable_income.md) during periods of rising prices. 
+FIFO (First-In, First-Out) is the opposite of LIFO, where the oldest [inventory](../i/inventory.md) items are recorded as sold first. It usually results in lower COGS and higher [taxable income](../t/taxable_income.md) during periods of rising prices.
 
 ### Importance of LIFO Reserve
 The LIFO Reserve is important because it provides insight into the impact of using the LIFO method. Analysts, investors, and financial managers utilize this reserve to adjust [financial statements](../f/financial_statements.md) for better comparability, make informed tax decisions, and understand the true [economic value](../e/economic_value.md) of [inventory](../i/inventory.md).
@@ -37,7 +37,7 @@ LIFO can result in lower [taxes](../t/taxes.md) when prices are rising, thereby 
 ## Tax Implications
 
 ### Tax Savings
-One of the [principal](../p/principal.md) reasons companies opt for LIFO is tax savings. During [inflation](../i/inflation.md), LIFO shows higher COGS, reducing [taxable income](../t/taxable_income.md) and thus [tax liability](../t/tax_liability.md). 
+One of the [principal](../p/principal.md) reasons companies opt for LIFO is tax savings. During [inflation](../i/inflation.md), LIFO shows higher COGS, reducing [taxable income](../t/taxable_income.md) and thus [tax liability](../t/tax_liability.md).
 
 ### IRS Regulations
 The Internal [Revenue](../r/revenue.md) Service (IRS) in the United States allows LIFO for tax purposes, but the company must use LIFO for financial reporting as well. The LIFO Reserve is pivotal in this context as it ensures compliance and provides [basis](../b/basis.md) adjustments.
@@ -64,7 +64,7 @@ Inflationary environments benefit the LIFO method, but the economic context can 
 ## Practical Applications
 
 ### Company Examples
-Several major corporations, especially in [manufacturing](../m/manufacturing.md) and retail, use LIFO for [inventory](../i/inventory.md) [valuation](../v/valuation.md). For example, pharmaceutical companies like Pfizer [Pfizer Inc.](https://www.pfizer.com) and significant retailers like Walmart [Walmart Inc.](https://www.walmart.com) have historically utilized LIFO to [capitalize](../c/capitalize.md) on tax benefits.
+Several major corporations, especially in [manufacturing](../m/manufacturing.md) and retail, use LIFO for [inventory](../i/inventory.md) [valuation](../v/valuation.md). For example, pharmaceutical companies like Pfizer Pfizer Inc. and significant retailers like Walmart Walmart Inc. have historically utilized LIFO to [capitalize](../c/capitalize.md) on tax benefits.
 
 ### Software and Tools
 Modern [accounting](../a/accounting.md) software often includes features to [handle](../h/handle.md) LIFO calculations and manage the LIFO Reserve. Tools like QuickBooks, SAP, and Oracle NetSuite are designed to ease the complexities involved.
@@ -78,5 +78,5 @@ Understanding the LIFO Reserve is crucial for anyone involved in financial manag
 - "[Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) Codification" for authoritative [guidance](../g/guidance.md).
 - "IRS Publication 538" for tax implications and compliance.
 - "[Managerial Accounting](../m/managerial_accounting.md)" by James Jiambalvo for academic insight into [inventory management](../i/inventory_management.md) methods.
-  
+
 By grasping the intricacies of the LIFO Reserve, stakeholders can make more informed decisions and achieve better financial outcomes.

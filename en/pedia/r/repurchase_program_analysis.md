@@ -57,7 +57,7 @@ Apple Inc. has been one of the most prominent players in leveraging [buyback](..
 - By 2021, Apple had repurchased over $400 billion worth of its [shares](../s/shares.md).
 - The [buyback](../b/buyback.md) program helped increase EPS and support the stock price, contributing to its [market capitalization](../m/market_capitalization.md) growth.
 
-For more details, visit: [Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
+For more details, visit
 
 ### Microsoft Corp. (MSFT)
 
@@ -67,7 +67,7 @@ Microsoft has also effectively utilized stock buybacks as part of its [capital a
 - In 2019, Microsoft announced a new $40 billion [share repurchase](../s/share_repurchase.md) authorization.
 - Historically, buybacks have helped in managing [capital structure](../c/capital_structure.md) and supporting stock price.
 
-For more details, visit: [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor)
+For more details, visit
 
 ## Analytical Models and Tools in Repurchase Program Analysis
 

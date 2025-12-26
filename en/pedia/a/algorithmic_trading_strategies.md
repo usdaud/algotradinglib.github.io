@@ -64,14 +64,14 @@ A **VWAP** strategy aims to execute orders around the [Volume](../v/volume.md) [
 
 ## Prominent Companies Using Algorithmic Trading Strategies
 
-1. **Two Sigma**: Two Sigma is a New York-based [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology to drive investment decisions. For more information, visit [Two Sigma](https://www.twosigma.com/).
+1. **Two Sigma**: Two Sigma is a New York-based [hedge fund](../h/hedge_fund.md) that extensively uses [data science](../d/data_science_in_trading.md) and technology to drive investment decisions. For more information, visit Two Sigma.
 
-2. **Jane Street**: Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that leverages [quantitative trading](../q/quantitative_trading.md) and sophisticated technology. For more information, visit [Jane Street](https://www.janestreet.com/).
+2. **Jane Street**: Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that leverages [quantitative trading](../q/quantitative_trading.md) and sophisticated technology. For more information, visit Jane Street.
 
-3. **Citadel**: Citadel is a multinational [hedge fund](../h/hedge_fund.md) and financial services company headquartered in Chicago, known for its high-frequency [trading strategies](../t/trading_strategies.md). For more information, visit [Citadel](https://www.citadel.com/).
+3. **Citadel**: Citadel is a multinational [hedge fund](../h/hedge_fund.md) and financial services company headquartered in Chicago, known for its high-frequency [trading strategies](../t/trading_strategies.md). For more information, visit Citadel.
 
-4. **Renaissance Technologies**: Renaissance Technologies is a quantitative [hedge fund](../h/hedge_fund.md) specializing in [systematic trading](../s/systematic_trading.md) using mathematical and statistical methods. For more information, visit [Renaissance Technologies](https://www.rentec.com/).
+4. **Renaissance Technologies**: Renaissance Technologies is a quantitative [hedge fund](../h/hedge_fund.md) specializing in [systematic trading](../s/systematic_trading.md) using mathematical and statistical methods. For more information, visit Renaissance Technologies.
 
-5. **DRW Trading**: DRW Trading is based in Chicago and focuses on using technology, data, and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for [proprietary trading](../p/proprietary_trading.md). For more information, visit [DRW Trading](https://drw.com/).
+5. **DRW Trading**: DRW Trading is based in Chicago and focuses on using technology, data, and [quantitative strategies](../q/quantitative_strategies_in_trading.md) for [proprietary trading](../p/proprietary_trading.md). For more information, visit DRW Trading.
 
 In conclusion, the world of [algorithmic trading](../a/algorithmic_trading.md) is vast and continually evolving. As [financial markets](../f/financial_market.md) become more sophisticated, [algorithmic trading](../a/algorithmic_trading.md) strategies represent the forefront of innovation, harnessing computational power and [data analytics](../d/data_analytics.md) to make quicker, more precise trading decisions.

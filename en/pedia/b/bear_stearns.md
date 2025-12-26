@@ -26,7 +26,7 @@ However, the [firm](../f/firm.md)'s substantial exposure to subprime mortgages â
 
 ## The 2008 Financial Crisis
 
-The early signs of trouble for Bear Stearns emerged in mid-2007, when two of its [hedge](../h/hedge.md) funds heavily invested in subprime mortgages collapsed. This loss of confidence led to a [liquidity crisis](../l/liquidity_crisis.md) for the [firm](../f/firm.md). As fears about its [solvency](../s/solvency.md) spread, investors and clients started to pull out their funds. 
+The early signs of trouble for Bear Stearns emerged in mid-2007, when two of its [hedge](../h/hedge.md) funds heavily invested in subprime mortgages collapsed. This loss of confidence led to a [liquidity crisis](../l/liquidity_crisis.md) for the [firm](../f/firm.md). As fears about its [solvency](../s/solvency.md) spread, investors and clients started to pull out their funds.
 
 In March 2008, Bear Stearns faced a full-blown [liquidity crisis](../l/liquidity_crisis.md). Unable to secure funding from other financial institutions, the [firm](../f/firm.md) turned to the Federal Reserve for assistance. The Fed arranged a [bailout](../b/bailout.md), facilitating an emergency [sale](../s/sale.md) to JPMorgan Chase at a fire-[sale](../s/sale.md) price of $2 per share, later raised to $10 to appease angry shareholders.
 
@@ -43,6 +43,5 @@ Bear Stearns' collapse had far-reaching implications for the financial [industry
 
 ## Conclusion
 
-The story of Bear Stearns is a cautionary tale about the vulnerabilities in the [financial system](../f/financial_system.md) and the systemic risks posed by interconnected financial institutions. The [firm](../f/firm.md)'s aggressive investment strategies, particularly in [mortgage](../m/mortgage.md)-backed securities, and its inability to manage [liquidity](../l/liquidity.md) risks led to its ultimate downfall. Bear Stearns' collapse not only marked an end of an era for the venerable investment [bank](../b/bank.md) but also served as a significant turning point in the 2008 [financial crisis](../f/financial_crisis.md), triggering debates on financial regulation and the need for reforms to safeguard the [financial system](../f/financial_system.md). 
+The story of Bear Stearns is a cautionary tale about the vulnerabilities in the [financial system](../f/financial_system.md) and the systemic risks posed by interconnected financial institutions. The [firm](../f/firm.md)'s aggressive investment strategies, particularly in [mortgage](../m/mortgage.md)-backed securities, and its inability to manage [liquidity](../l/liquidity.md) risks led to its ultimate downfall. Bear Stearns' collapse not only marked an end of an era for the venerable investment [bank](../b/bank.md) but also served as a significant turning point in the 2008 [financial crisis](../f/financial_crisis.md), triggering debates on financial regulation and the need for reforms to safeguard the [financial system](../f/financial_system.md).
 
-For more information, you can visit [JPMorgan Chase's page on Bear Stearns](https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/JPMC-Bear-Stearns.pdf).

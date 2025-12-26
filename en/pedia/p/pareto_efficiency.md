@@ -29,7 +29,7 @@ Pareto [Efficiency](../e/efficiency.md) forms the [basis](../b/basis.md) for [we
 
 ## Pareto Efficiency in Trading and Financial Instruments
 
-In the context of trading and financial instruments, Pareto [Efficiency](../e/efficiency.md) can be used to evaluate the optimal portfolio allocation. 
+In the context of trading and financial instruments, Pareto [Efficiency](../e/efficiency.md) can be used to evaluate the optimal portfolio allocation.
 
 ### Portfolio Optimization
 

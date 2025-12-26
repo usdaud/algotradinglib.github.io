@@ -74,11 +74,7 @@ X-[Value](../v/value.md) Models aid in constructing and managing diversified por
 
 Several technology companies and financial institutions utilize X-[Value](../v/value.md) Models to enhance their [algorithmic trading](../a/algorithmic_trading.md) operations. Below are some examples of companies leveraging these models:
 
-1. **Jane Street:** Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including X-[Value](../v/value.md) Models, to make data-driven trading decisions. [https://www.janestreet.com/](https://www.janestreet.com/)
-2. **Two Sigma:** Two Sigma employs advanced statistical techniques and [machine learning](../m/machine_learning.md) models for [algorithmic trading](../a/algorithmic_trading.md). [https://www.twosigma.com/](https://www.twosigma.com/)
-3. **AQR [Capital](../c/capital.md) Management:** AQR integrates [quantitative models](../q/quantitative_models.md) with fundamental data to drive its investment strategies. [https://www.aqr.com/](https://www.aqr.com/)
-4. **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies uses intricate [mathematical models](../m/mathematical_models_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md). [https://www.rentec.com/](https://www.rentec.com/)
-
+1. **Jane Street:** Jane Street is a [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) that uses sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including X-[Value](../v/value.md) Models, to make data-driven trading decisions. 2. **Two Sigma:** Two Sigma employs advanced statistical techniques and [machine learning](../m/machine_learning.md) models for [algorithmic trading](../a/algorithmic_trading.md). 3. **AQR [Capital](../c/capital.md) Management:** AQR integrates [quantitative models](../q/quantitative_models.md) with fundamental data to drive its investment strategies. 4. **Renaissance Technologies:** Known for its Medallion [Fund](../f/fund.md), Renaissance Technologies uses intricate [mathematical models](../m/mathematical_models_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md).
 ## Challenges and Limitations
 
 While X-[Value](../v/value.md) Models [offer](../o/offer.md) numerous benefits, they also come with inherent challenges and limitations.

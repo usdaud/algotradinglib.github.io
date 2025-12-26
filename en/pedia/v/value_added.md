@@ -58,7 +58,7 @@ In [manufacturing](../m/manufacturing.md), [value](../v/value.md) added enhances
 In the services sector, [value](../v/value.md) is added by transforming inputs like labor and information into valuable service outputs. For example, a [financial advisor](../f/financial_advisor.md) adds [value](../v/value.md) by providing expert investment advice based on current [market](../m/market.md) conditions.
 
 ### Software & Technology
-In technology and software development, [value](../v/value.md) is added through the creation of proprietary technologies, [customer](../c/customer.md) data, and enhanced user experiences. Companies like [Microsoft](https://www.microsoft.com) and [Google](https://www.google.com) exemplify [value](../v/value.md) addition through continuous innovation.
+In technology and software development, [value](../v/value.md) is added through the creation of proprietary technologies, [customer](../c/customer.md) data, and enhanced user experiences. Companies like Microsoft and Google exemplify [value](../v/value.md) addition through continuous innovation.
 
 ## Measuring Value Added
 
@@ -100,8 +100,7 @@ Building a strong brand and ensuring a high-quality [customer](../c/customer.md)
 
 ## Case Study: Amazon
 
-[Amazon](https://www.amazon.com) exemplifies the concept of [value](../v/value.md) added. The company takes raw input data from numerous vendors and adds [value](../v/value.md) through:
-
+Amazon exemplifies the concept of [value](../v/value.md) added. The company takes raw input data from numerous vendors and adds [value](../v/value.md) through
 1. **[Logistics](../l/logistics.md) and [Distribution](../d/distribution.md)**: By effectively managing a complex [supply chain](../s/supply_chain.md), ensuring products are available to consumers quickly and reliably.
 2. **Technology Integration**: Utilizing advanced algorithms and AI to recommend products, thus enhancing the shopping experience.
 3. **[Customer Service](../c/customer_service.md)**: [Offering](../o/offering.md) exceptional [customer](../c/customer.md) support and services like easy returns and swift refunds.

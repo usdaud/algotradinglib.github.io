@@ -38,7 +38,7 @@ The marginal [profit](../p/profit.md) for producing one more unit would then be:
 
 ### Optimizing Production
 
-Understanding and analyzing marginal [profit](../p/profit.md) helps businesses optimize their production levels. Companies aim to produce additional units as long as marginal [profit](../p/profit.md) remains positive. When marginal [profit](../p/profit.md) turns negative, producing further units would result in a loss, indicating that it is time to cut back production. 
+Understanding and analyzing marginal [profit](../p/profit.md) helps businesses optimize their production levels. Companies aim to produce additional units as long as marginal [profit](../p/profit.md) remains positive. When marginal [profit](../p/profit.md) turns negative, producing further units would result in a loss, indicating that it is time to cut back production.
 
 ### Pricing Strategies
 
@@ -76,15 +76,15 @@ Distinguishing between variable and fixed costs can complicate the calculation o
 
 ### Apple Inc.
 
-Apple Inc. is known for its [premium](../p/premium.md) pricing strategy and high [profit margins](../p/profit_margins_in_trading.md). The company's approach to marginal [profit](../p/profit.md) plays a crucial role in its product pricing and production decisions. By targeting a high marginal [profit](../p/profit.md), Apple ensures that each additional unit sold significantly contributes to overall profitability. For more information, visit their [official website](https://www.apple.com).
+Apple Inc. is known for its [premium](../p/premium.md) pricing strategy and high [profit margins](../p/profit_margins_in_trading.md). The company's approach to marginal [profit](../p/profit.md) plays a crucial role in its product pricing and production decisions. By targeting a high marginal [profit](../p/profit.md), Apple ensures that each additional unit sold significantly contributes to overall profitability.
 
 ### Tesla, Inc.
 
-Tesla employs cutting-edge technology and innovative production techniques to manage its marginal costs. By focusing on reducing the marginal cost of producing each additional electric vehicle, Tesla aims to enhance its marginal [profit](../p/profit.md) and overall profitability. For more insights, visit [Tesla’s official webpage](https://www.tesla.com).
+Tesla employs cutting-edge technology and innovative production techniques to manage its marginal costs. By focusing on reducing the marginal cost of producing each additional electric vehicle, Tesla aims to enhance its marginal [profit](../p/profit.md) and overall profitability. For more insights, visit Tesla’s official webpage.
 
 ### Amazon.com, Inc.
 
-Amazon utilizes [economies of scale](../e/economies_of_scale.md) to reduce its marginal costs. With a vast [distribution network](../d/distribution_network.md) and a massive product [offering](../o/offering.md), Amazon can achieve lower marginal costs, thereby increasing its marginal [profit](../p/profit.md) as sales [volume](../v/volume.md) grows. More details can be found on [Amazon's official site](https://www.amazon.com).
+Amazon utilizes [economies of scale](../e/economies_of_scale.md) to reduce its marginal costs. With a vast [distribution network](../d/distribution_network.md) and a massive product [offering](../o/offering.md), Amazon can achieve lower marginal costs, thereby increasing its marginal [profit](../p/profit.md) as sales [volume](../v/volume.md) grows.
 
 ## Conclusion
 

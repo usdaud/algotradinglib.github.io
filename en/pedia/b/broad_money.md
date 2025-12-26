@@ -21,7 +21,7 @@ Broad [money](../m/money.md) can be broken down into different components which 
 Broad [money](../m/money.md) is essential for several reasons:
 
 - **Economic Health [Indicator](../i/indicator.md):** The amount of broad [money](../m/money.md) in an [economy](../e/economy.md) can be an important [indicator](../i/indicator.md) of its economic health. An increasing [supply](../s/supply.md) of broad [money](../m/money.md) may suggest more economic activity, whereas a declining [supply](../s/supply.md) might indicate economic slowdowns.
-  
+
 - **[Monetary Policy](../m/monetary_policy.md):** Central banks, such as the Federal Reserve in the United States or the European Central [Bank](../b/bank.md) (ECB), often use measures of broad [money](../m/money.md) to formulate and implement [monetary policy](../m/monetary_policy.md). By controlling the [supply](../s/supply.md) of broad [money](../m/money.md), they aim to influence [inflation](../i/inflation.md), [interest](../i/interest.md) rates, and [economic growth](../e/economic_growth.md).
 
 - **[Inflation](../i/inflation.md) Control:** A rapid increase in the [supply](../s/supply.md) of broad [money](../m/money.md) can be a precursor to [inflation](../i/inflation.md). Central banks monitor broad [money](../m/money.md) closely to prevent [hyperinflation](../h/hyperinflation.md), which can devalue [currency](../c/currency.md) and erode savings.
@@ -33,10 +33,10 @@ Broad [money](../m/money.md) is essential for several reasons:
 Measurement of broad [money](../m/money.md) is usually performed by national central banks and statistical agencies. Data on broad [money supply](../m/money_supply.md) is regularly published in financial reports by various central banks worldwide. For instance:
 
 - **The Federal Reserve:**
-  The Federal Reserve provides comprehensive data on [money supply](../m/money_supply.md), including various measures of broad [money](../m/money.md) such as [M2](../m/m2.md) and [M3](../m/m3.md). This data can be accessed on their website: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/).
+ The Federal Reserve provides comprehensive data on [money supply](../m/money_supply.md), including various measures of broad [money](../m/money.md) such as [M2](../m/m2.md) and [M3](../m/m3.md). This data is available via Federal Reserve Economic Data (FRED).
 
 - **The European Central [Bank](../b/bank.md) (ECB):**
-  The ECB publishes extensive data on the various components of broad [money](../m/money.md) within the [Eurozone](../e/eurozone.md). This information is key for formulating [monetary policy](../m/monetary_policy.md) within the EU. The relevant data can be found on the ECB's website: [European Central Bank Statistics](https://www.ecb.europa.eu/stats/html/index.en.html).
+ The ECB publishes extensive data on the various components of broad [money](../m/money.md) within the [Eurozone](../e/eurozone.md). This information is key for formulating [monetary policy](../m/monetary_policy.md) within the EU. The relevant data is available through European Central Bank Statistics.
 
 ## Historical Context and Trends
 

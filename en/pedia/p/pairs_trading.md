@@ -48,11 +48,11 @@ Pairs trading is a [market](../m/market.md)-[neutral](../n/neutral.md) [trading 
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative trading](../q/quantitative_trading.md) firms and is known for employing pairs [trading strategies](../t/trading_strategies.md) among other sophisticated methods. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has consistently delivered high returns by leveraging complex algorithms and statistical techniques. More information about Renaissance Technologies can be found [here](https://www.rentec.com/).
+Renaissance Technologies, founded by James Simons, is one of the most successful [quantitative trading](../q/quantitative_trading.md) firms and is known for employing pairs [trading strategies](../t/trading_strategies.md) among other sophisticated methods. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has consistently delivered high returns by leveraging complex algorithms and statistical techniques. More information about Renaissance Technologies can be found here.
 
 ### Two Sigma
 
-Another notable example is Two Sigma, a [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to drive its [trading strategies](../t/trading_strategies.md), including pairs trading. Two Sigma's systematic approach has made it one of the leaders in the [quantitative trading](../q/quantitative_trading.md) space. More information about Two Sigma can be found [here](https://www.twosigma.com/).
+Another notable example is Two Sigma, a [firm](../f/firm.md) that uses [machine learning](../m/machine_learning.md), distributed computing, and vast amounts of data to drive its [trading strategies](../t/trading_strategies.md), including pairs trading. Two Sigma's systematic approach has made it one of the leaders in the [quantitative trading](../q/quantitative_trading.md) space. More information about Two Sigma can be found here.
 
 ## Future of Pairs Trading
 

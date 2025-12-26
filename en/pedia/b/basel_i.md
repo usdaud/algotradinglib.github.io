@@ -9,13 +9,13 @@ The Basel I Accord focused mainly on the [credit risk](../c/credit_risk.md) face
 ### Key Components of Basel I
 
 1. **[Capital](../c/capital.md) Adequacy Ratio (CAR)**:
-    - Basel I established a minimum CAR of 8%. This ratio is calculated by dividing a [bank](../b/bank.md)'s [capital](../c/capital.md) by its [risk-weighted assets](../r/risk-weighted_assets.md) (RWAs).
+ - Basel I established a minimum CAR of 8%. This ratio is calculated by dividing a [bank](../b/bank.md)'s [capital](../c/capital.md) by its [risk-weighted assets](../r/risk-weighted_assets.md) (RWAs).
 2. **[Risk](../r/risk.md) Weighting of Assets**:
-    - Assets are categorized into different classes based on their [risk](../r/risk.md) profile. Each [asset class](../a/asset_class.md) is assigned a [risk](../r/risk.md) weight, and the total [risk-weighted assets](../r/risk-weighted_assets.md) (RWAs) are calculated by summing the [weighted](../w/weighted.md) values of each [asset class](../a/asset_class.md).
+ - Assets are categorized into different classes based on their [risk](../r/risk.md) profile. Each [asset class](../a/asset_class.md) is assigned a [risk](../r/risk.md) weight, and the total [risk-weighted assets](../r/risk-weighted_assets.md) (RWAs) are calculated by summing the [weighted](../w/weighted.md) values of each [asset class](../a/asset_class.md).
 3. **Tier 1 and [Tier 2 Capital](../t/tier_2_capital.md)**:
-    - [Capital](../c/capital.md) is divided into two tiers:
-        - **[Tier 1 Capital](../t/tier_1_capital.md)**: Core [capital](../c/capital.md), including [equity](../e/equity.md) [capital](../c/capital.md) and disclosed reserves.
-        - **[Tier 2 Capital](../t/tier_2_capital.md)**: Supplementary [capital](../c/capital.md), consisting of items such as [undisclosed reserves](../u/undisclosed_reserves.md), [revaluation](../r/revaluation.md) reserves, [subordinated debt](../s/subordinated_debt.md), and hybrid instruments.
+ - [Capital](../c/capital.md) is divided into two tiers:
+ - **[Tier 1 Capital](../t/tier_1_capital.md)**: Core [capital](../c/capital.md), including [equity](../e/equity.md) [capital](../c/capital.md) and disclosed reserves.
+ - **[Tier 2 Capital](../t/tier_2_capital.md)**: Supplementary [capital](../c/capital.md), consisting of items such as [undisclosed reserves](../u/undisclosed_reserves.md), [revaluation](../r/revaluation.md) reserves, [subordinated debt](../s/subordinated_debt.md), and hybrid instruments.
 
 ## Risk Weight Categories
 
@@ -62,4 +62,4 @@ The 2008 [financial crisis](../f/financial_crisis.md) exposed further shortcomin
 
 Basel I laid the groundwork for international banking regulation by introducing the first standardized framework for [capital](../c/capital.md) adequacy. Its implementation significantly enhanced the stability and resilience of the global banking system. However, the limitations of Basel I led to the evolution of more sophisticated accords like [Basel II](../b/basel_ii.md) and [Basel III](../b/basel_iii.md), which responded to changing financial landscapes and the complexities of modern banking.
 
-Basel I remains a seminal document in the history of banking regulation, marking the beginning of a collaborative approach towards global financial stability and prudence, a mission that subsequent accords continue to [uphold](../u/uphold.md) and advance. For more information about Basel I and the activities of the BCBS, visit the official website of the [Bank](../b/bank.md) for International Settlements (BIS): [https://www.bis.org](https://www.bis.org).
+Basel I remains a seminal document in the history of banking regulation, marking the beginning of a collaborative approach towards global financial stability and prudence, a mission that subsequent accords continue to [uphold](../u/uphold.md) and advance../b/bank.md) for International Settlements (BIS)

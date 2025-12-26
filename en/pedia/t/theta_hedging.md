@@ -63,7 +63,6 @@ The maximum [profit](../p/profit.md) occurs if the [underlying asset](../u/under
 Companies and financial institutions use [theta](../t/theta.md) hedging techniques to minimize the risks associated with their [options](../o/options.md) portfolios. One notable application is by [market](../m/market.md)-making firms who provide [liquidity](../l/liquidity.md) in the [options](../o/options.md) markets.
 
 ### Case Study: Chicago Trading Company (CTC)
-[Chicago Trading Company](https://www.chicagotrading.com/)
 
 Chicago Trading Company, a [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md), employs various [risk management](../r/risk_management.md) strategies, including [theta](../t/theta.md) hedging. Their traders actively manage the [time decay](../t/time_decay.md) [risk](../r/risk.md) in their portfolios by implementing sophisticated [hedging strategies](../h/hedging_strategies.md) such as calendar [spreads](../s/spreads.md) and iron condors. This allows them to provide consistent [liquidity](../l/liquidity.md) in the markets while minimizing exposure to unfavorable [time decay](../t/time_decay.md).
 
@@ -77,4 +76,3 @@ Chicago Trading Company, a [proprietary trading](../p/proprietary_trading.md) [f
 ## Conclusion
 
 [Theta](../t/theta.md) hedging is a vital component of [options](../o/options.md) trading, [offering](../o/offering.md) strategies to protect against the inevitable decay in [options](../o/options.md) [value](../v/value.md) as expiration approaches. Understanding and effectively applying these techniques can significantly enhance a [trader](../t/trader.md)’s ability to manage [risk](../r/risk.md) and optimize the performance of their [options](../o/options.md) portfolio. Through the use of various [spreads](../s/spreads.md) and sophisticated [risk management](../r/risk_management.md) tactics, traders can mitigate the adverse effects of [time decay](../t/time_decay.md) and achieve more stable returns.
-

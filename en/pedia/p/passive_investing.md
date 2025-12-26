@@ -16,7 +16,7 @@
 
 #### Index Funds
 
-**[Index](../i/index_instrument.md) funds** are mutual funds designed to track the performance of a specific [index](../i/index_instrument.md). For example, an [index fund](../i/index_fund.md) might track the S&P 500, mirroring the performance of that [index](../i/index_instrument.md) by holding all (or a [representative sample](../r/representative_sample.md)) of the [stocks](../s/stock.md) in that [index](../i/index_instrument.md). 
+**[Index](../i/index_instrument.md) funds** are mutual funds designed to track the performance of a specific [index](../i/index_instrument.md). For example, an [index fund](../i/index_fund.md) might track the S&P 500, mirroring the performance of that [index](../i/index_instrument.md) by holding all (or a [representative sample](../r/representative_sample.md)) of the [stocks](../s/stock.md) in that [index](../i/index_instrument.md).
 
 **Advantages**:
 - **Low Fees**: [Index](../i/index_instrument.md) funds generally have lower management fees compared to actively managed funds.
@@ -65,9 +65,9 @@ Passive [investing](../i/investing.md) is generally more cost-effective:
 Robo-advisors are automated platforms that provide [financial planning](../f/financial_planning.md) and [investment management](../i/investment_management.md) with minimal human intervention. They often use [passive investment strategies](../p/passive_investment_strategies.md), employing algorithms to optimize portfolios and maintain [asset](../a/asset.md) allocations.
 
 **Examples**:
-- **Betterment** ([betterment.com](https://www.betterment.com/))
-- **Wealthfront** ([wealthfront.com](https://www.wealthfront.com/))
-- **Ellevest** ([ellevest.com](https://www.ellevest.com/))
+- **Betterment** (betterment.com)
+- **Wealthfront** (wealthfront.com)
+- **Ellevest** (ellevest.com)
 
 **Advantages**:
 - **Low Fees**: Generally, charge lower fees compared to traditional financial advisors.

@@ -83,11 +83,11 @@ In 2012, JP Morgan Chase experienced significant losses due to [trading strategi
 
 ### Investment Banks and Hedge Funds
 
-[Investment banks](../i/investment_bank_(ib).md) and [hedge](../h/hedge.md) funds heavily rely on sophisticated algorithms to manage [volatility](../v/volatility.md) [risk](../r/risk.md). Firms like [Goldman Sachs](https://www.goldmansachs.com/) and [Bridgewater Associates](https://www.bridgewater.com/) use advanced models and strategies to [trade](../t/trade.md) and [hedge](../h/hedge.md) against [volatility](../v/volatility.md).
+[Investment banks](../i/investment_bank_(ib).md) and [hedge](../h/hedge.md) funds heavily rely on sophisticated algorithms to manage [volatility](../v/volatility.md) [risk](../r/risk.md). Firms like Goldman Sachs and Bridgewater Associates use advanced models and strategies to [trade](../t/trade.md) and [hedge](../h/hedge.md) against [volatility](../v/volatility.md).
 
 ### High-Frequency Trading Firms
 
-High-frequency trading firms such as [Virtu Financial](https://www.virtu.com/) and [Citadel Securities](https://www.citadelsecurities.com/) are particularly attentive to [volatility](../v/volatility.md) [risk](../r/risk.md) due to the nature of their rapid [trading strategies](../t/trading_strategies.md). These firms implement real-time [risk management](../r/risk_management.md) systems to monitor and adapt to changing [volatility](../v/volatility.md) conditions.
+High-frequency trading firms such as Virtu Financial and Citadel Securities are particularly attentive to [volatility](../v/volatility.md) [risk](../r/risk.md) due to the nature of their rapid [trading strategies](../t/trading_strategies.md). These firms implement real-time [risk management](../r/risk_management.md) systems to monitor and adapt to changing [volatility](../v/volatility.md) conditions.
 
 ## Conclusion
 

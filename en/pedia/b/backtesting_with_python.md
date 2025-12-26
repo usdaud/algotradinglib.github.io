@@ -21,43 +21,43 @@ Several Python libraries [offer](../o/offer.md) comprehensive tools for [backtes
 
 [Backtrader](../b/backtrader.md) is a versatile framework for [backtesting](../b/backtesting.md) and trading. It supports [multiple](../m/multiple.md) data feeds, indicators, and more, making it a highly [robust](../r/robust.md) solution.
 
-- Documentation: [Backtrader](https://www.backtrader.com/docu/)
+- Documentation: Backtrader
 
 ### 2. Zipline
 
-Developed by Quantopian, Zipline is an [open](../o/open.md)-source [backtesting](../b/backtesting.md) library that integrates various data sources and financial analytics libraries.
+Originally developed by Quantopian (which ceased operations in November 2020), Zipline is an [open](../o/open.md)-source [backtesting](../b/backtesting.md) library that integrates various data sources and financial analytics libraries. The library is now community-maintained as zipline-reloaded.
 
-- Documentation: [Zipline](https://www.zipline.io/)
+- Documentation: Zipline
 
 ### 3. PyAlgoTrade
 
 PyAlgoTrade is a fully [open](../o/open.md)-source [backtesting](../b/backtesting.md) library designed to work with high-frequency [trading strategies](../t/trading_strategies.md).
 
-- Documentation: [PyAlgoTrade](https://github.com/gbeced/pyalgotrade)
+- Documentation: PyAlgoTrade
 
 ### 4. BT (Backtesting.py)
 
 BT is a flexible Python [backtesting](../b/backtesting.md) library that focuses on simple strategy evaluation and [optimization](../o/optimization.md).
 
-- Documentation: [BT](https://pmorissette.github.io/bt/)
+- Documentation: BT
 
 ### 5. QuantConnect
 
-[QuantConnect](../q/quantconnect.md) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) capabilities built-in. It’s not purely a Python library but offers integrations.
+[QuantConnect](../q/quantconnect.md) provides a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform with extensive [backtesting](../b/backtesting.md) capabilities built-in. It’s not purely a C# library but offers integrations.
 
-- Documentation: [QuantConnect](https://www.quantconnect.com/)
+- Documentation: QuantConnect
 
 ### 6. Forex-Python
 
 A library for monetary indications and [exchange](../e/exchange.md) rates that can be assimilated into [backtesting](../b/backtesting.md) strategies.
 
-- Documentation: [Forex-Python](https://forex-python.readthedocs.io/en/latest/)
+- Documentation: Forex-Python
 
 ### 7. TA-Lib (Technical Analysis Library)
 
 TA-Lib provides common [financial market indicators](../f/financial_market_indicators.md) that can be used in your strategy logic.
 
-- Documentation: [TA-Lib](https://mrjbq7.github.io/ta-lib/)
+- Documentation: TA-Lib
 
 ## Basic Steps to Implement a Backtesting Strategy
 
@@ -90,7 +90,7 @@ cerebro = bt.Cerebro()
 cerebro.addstrategy(SmaCross)
 
 # Data Feed
-data = bt.feeds.YahooFinanceData(dataname='AAPL',
+data = bt.feeds.YahooFinanceDatadataname='AAPL',
                                  fromdate=datetime.datetime(2015, 1, 1),
                                  todate=datetime.datetime(2020, 12, 31))
 cerebro.adddata(data)
@@ -199,4 +199,4 @@ Walk-forward analysis involves partitioning your data into training and testing 
 
 [Backtesting](../b/backtesting.md) is an indispensable tool in the arsenal of any algorithmic [trader](../t/trader.md). Python offers a variety of libraries and tools that simplify the process of developing, testing, and optimizing [trading strategies](../t/trading_strategies.md). While [backtesting](../b/backtesting.md) provides valuable insights, it is crucial to be aware of common pitfalls and limitations to make the most of this practice.
 
-To explore further, consider diving into the documentation of libraries mentioned above and experiment with different strategies, data sources, and [performance metrics](../p/performance_metrics.md).
+To explore further, consider diving into the documentation of libraries mentioned above and experiment with different strategies, data sources, and [performance metrics](../p/performance_metrics.md).

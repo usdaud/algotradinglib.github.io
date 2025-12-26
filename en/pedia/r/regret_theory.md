@@ -3,7 +3,7 @@
 Regret Theory is a behavioral economic theory that delves into how individuals anticipate and deal with regret associated with uncertain decision-making. Unlike classical economic theories that assume agents are rational and always strive to maximize [expected utility](../e/expected_utility.md), Regret Theory posits that emotional factors, like regret, significantly influence decision-making.
 
 ## Historical Background
-Regret Theory was introduced in the mid-1980s by economists Graham Loomes and Robert Sugden. Their research provided a framework for understanding how regret and its anticipation affect people’s choices, challenging the [Expected Utility](../e/expected_utility.md) Theory, which had long dominated economic thought. 
+Regret Theory was introduced in the mid-1980s by economists Graham Loomes and Robert Sugden. Their research provided a framework for understanding how regret and its anticipation affect people’s choices, challenging the [Expected Utility](../e/expected_utility.md) Theory, which had long dominated economic thought.
 
 ## Key Components of Regret Theory
 
@@ -11,7 +11,7 @@ Regret Theory was introduced in the mid-1980s by economists Graham Loomes and Ro
 In Regret Theory, there are two primary emotional responses driving decision-making: regret and rejoice. Regret occurs when a realized outcome of a decision is worse than the outcome of an alternative choice that could have been made. Conversely, rejoice happens when the outcome is better than the alternative choice.
 
 ### Comparative Nature
-A fundamental aspect of Regret Theory is its comparative nature. Regret or rejoice is not experienced in isolation but always in a relational context with other possible outcomes. 
+A fundamental aspect of Regret Theory is its comparative nature. Regret or rejoice is not experienced in isolation but always in a relational context with other possible outcomes.
 
 ### Utility Function Modification
 In [Expected Utility](../e/expected_utility.md) Theory, individuals aim to maximize their [utility](../u/utility.md). However, in Regret Theory, the [utility](../u/utility.md) function is modified to incorporate regret or rejoice. Therefore, the anticipated regret or rejoice affects the overall [utility](../u/utility.md) derived from a particular choice.
@@ -46,7 +46,7 @@ Regret Theory can explain why individuals may suffer from choice overload. The m
 ## Applications in Finance and Trading
 
 ### Asset Allocation
-In [asset allocation](../a/asset_allocation.md), investors may prefer diversified portfolios not just to optimize returns but to spread the regret associated with any single underperforming [asset](../a/asset.md). 
+In [asset allocation](../a/asset_allocation.md), investors may prefer diversified portfolios not just to optimize returns but to spread the regret associated with any single underperforming [asset](../a/asset.md).
 
 ### Financial Product Design
 Financial products can be designed to minimize regret. For example, [insurance](../i/insurance.md) products or structured products with some [capital](../c/capital.md) guarantee can appeal to an [investor](../i/investor.md)'s aversion to potential regret.
@@ -66,8 +66,8 @@ Regret minimization algorithms are a crucial part of [reinforcement learning](..
 
 ### Regret Minimization Algorithms
 Several [open](../o/open.md)-source libraries, such as the following, implement regret minimization algorithms:
-- **libact**:  [libact](https://libact.readthedocs.io/en/latest/)
-- **OpenAI Baselines**: [OpenAI Baselines](https://github.com/openai/baselines)
+- **libact**: libact
+- **OpenAI Baselines**: OpenAI Baselines
 
 ### Decision Support Tools
 Decision support tools that incorporate Regret Theory are also prevalent. These tools use past data to help forecast potential regret and make suggestions accordingly.
@@ -82,21 +82,21 @@ Imagine an [investor](../i/investor.md) choosing between two [stocks](../s/stock
 
 ### Calculation
 1. **[Expected Utility](../e/expected_utility.md) Without Regret**:
-    - Stock A: \(0.6 \times 1000 + 0.4 \times (-500) = 600 - 200 = 400\)
-    - Stock B: \(0.6 \times 800 + 0.4 \times (-200) = 480 - 80 = 400\)
+ - Stock A: \(0.6 \times 1000 + 0.4 \times (-500) = 600 - 200 = 400\)
+ - Stock B: \(0.6 \times 800 + 0.4 \times (-200) = 480 - 80 = 400\)
 
 Without regret, both [stocks](../s/stock.md) have the same [expected utility](../e/expected_utility.md).
 
 2. **Regret Calculation**:
-    - If choosing Stock A and the [market](../m/market.md) is unfavorable, the regret is \(| -500 - (-200) | = 300\)
-    - If choosing Stock B and the [market](../m/market.md) is favorable, the regret is \(| 800 - 1000 | = 200\)
+ - If choosing Stock A and the [market](../m/market.md) is unfavorable, the regret is \(| -500 - (-200) | = 300\)
+ - If choosing Stock B and the [market](../m/market.md) is favorable, the regret is \(| 800 - 1000 | = 200\)
 
 3. **Including Regret in [Utility](../u/utility.md)**:
-    Implement a regret weight, \( R_w \), of 0.5 for simplification:
-    - Stock A: \(0.6 \times 1000 + 0.4 \times (-500) - 0.4 \times 300 = 400 - 120 = 280\)
-    - Stock B: \(0.6 \times 800 + 0.4 \times (-200) - 0.6 \times 200 = 400 - 120 = 280\)
+ Implement a regret weight, \( R_w \), of 0.5 for simplification:
+ - Stock A: \(0.6 \times 1000 + 0.4 \times (-500) - 0.4 \times 300 = 400 - 120 = 280\)
+ - Stock B: \(0.6 \times 800 + 0.4 \times (-200) - 0.6 \times 200 = 400 - 120 = 280\)
 
-While both seem equal again, the decision shifts subtly as probabilities and regret weights change. 
+While both seem equal again, the decision shifts subtly as probabilities and regret weights change.
 
 ## Empirical Studies
 

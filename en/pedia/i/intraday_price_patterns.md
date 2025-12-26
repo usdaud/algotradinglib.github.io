@@ -51,8 +51,8 @@ Numerous providers [offer](../o/offer.md) high-quality intraday data, such as [B
 
 ### Notable Companies in Intraday Algo-Trading
 
-#### 1. **QuantConnect**
-[QuantConnect](../q/quantconnect.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) engine that allows traders to design, backtest, and deploy strategies across [multiple](../m/multiple.md) markets. They [offer](../o/offer.md) extensive documentation and data for developing intraday price pattern strategies.
+#### 1. **StockSharp**
+[StockSharp](../s/stocksharp.md) provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) engine that allows traders to design, backtest, and deploy strategies across [multiple](../m/multiple.md) markets. They [offer](../o/offer.md) extensive documentation and data for developing intraday price pattern strategies.
 
 #### 2. **AlgoTrader**
 [AlgoTrader](../a/algotrader.md) is a comprehensive [algorithmic trading](../a/algorithmic_trading.md) platform that supports both [backtesting](../b/backtesting.md) and live trading. Designed for professional traders, it offers real-time data feeds and can execute complex [intraday trading](../i/intraday_trading.md) strategies.

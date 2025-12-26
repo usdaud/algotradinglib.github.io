@@ -103,7 +103,7 @@ Changes in [dividend](../d/dividend.md) yields or [risk](../r/risk.md)-free [int
 
 ### Transaction Costs
 
-High [transaction costs](../t/transaction_costs.md), including brokerage fees, [market impact costs](../m/market_impact_costs.md), and [taxes](../t/taxes.md), can significantly reduce the profitability of [arbitrage](../a/arbitrage.md) strategies. 
+High [transaction costs](../t/transaction_costs.md), including brokerage fees, [market impact costs](../m/market_impact_costs.md), and [taxes](../t/taxes.md), can significantly reduce the profitability of [arbitrage](../a/arbitrage.md) strategies.
 
 ### Model Risk
 
@@ -131,16 +131,16 @@ Several [proprietary trading](../p/proprietary_trading.md) firms and [hedge](../
 
 ### Jane Street
 
-Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its expertise in [arbitrage](../a/arbitrage.md) and [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md) actively trades in various [asset](../a/asset.md) classes, including [index futures](../i/index_futures.md). For more information, visit [Jane Street's website](https://www.janestreet.com).
+Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) known for its expertise in [arbitrage](../a/arbitrage.md) and [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md) actively trades in various [asset](../a/asset.md) classes, including [index futures](../i/index_futures.md).
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that employs [quantitative models](../q/quantitative_models.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, including [arbitrage](../a/arbitrage.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is particularly famous for its exceptional returns. More details can be found on [Renaissance Technologies' website](https://www.rentec.com).
+Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) that employs [quantitative models](../q/quantitative_models.md) and [algorithmic trading](../a/algorithmic_trading.md) strategies, including [arbitrage](../a/arbitrage.md). The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is particularly famous for its exceptional returns. More
 
 ### Citadel Securities
 
-Citadel Securities is a leading [market maker](../m/market_maker.md) and high-frequency trading [firm](../f/firm.md) that engages in [arbitrage](../a/arbitrage.md) trading across [multiple](../m/multiple.md) markets. The [firm](../f/firm.md) combines advanced technology with [quantitative research](../q/quantitative_research.md) to [capitalize](../c/capitalize.md) on [arbitrage](../a/arbitrage.md) opportunities. Visit [Citadel Securities' website](https://www.citadelsecurities.com) for more information.
+Citadel Securities is a leading [market maker](../m/market_maker.md) and high-frequency trading [firm](../f/firm.md) that engages in [arbitrage](../a/arbitrage.md) trading across [multiple](../m/multiple.md) markets. The [firm](../f/firm.md) combines advanced technology with [quantitative research](../q/quantitative_research.md) to [capitalize](../c/capitalize.md) on [arbitrage](../a/arbitrage.md) opportunities.
 
 ## Conclusion
 
-[Arbitrage](../a/arbitrage.md) in [index futures](../i/index_futures.md) is a sophisticated [trading strategy](../t/trading_strategy.md) that leverages price discrepancies between [futures](../f/futures.md) and their [underlying](../u/underlying.md) indices. While inherently low-[risk](../r/risk.md), [arbitrage](../a/arbitrage.md) involves careful consideration of [execution](../e/execution.md), funding, [dividend](../d/dividend.md), [interest rate](../i/interest_rate.md) risks, and [transaction costs](../t/transaction_costs.md). Regulatory requirements ensure [market](../m/market.md) integrity and profitability constraints. Notwithstanding these challenges, firms specializing in [arbitrage](../a/arbitrage.md) continue to play a vital role in enhancing [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md). By understanding the principles and intricacies of [index futures](../i/index_futures.md) [arbitrage](../a/arbitrage.md), traders and investors can better navigate and exploit these opportunities in the [financial markets](../f/financial_market.md).
+[Arbitrage](../a/arbitrage.md) in [index futures](../i/index_futures.md) is a sophisticated [trading strategy](../t/trading_strategy.md) that leverages price discrepancies between [futures](../f/futures.md) and their [underlying](../u/underlying.md) indices. While inherently low-[risk](../r/risk.md), [arbitrage](../a/arbitrage.md) involves careful consideration of [execution](../e/execution.md), funding, [dividend](../d/dividend.md), [interest rate](../i/interest_rate.md) risks, and [transaction costs](../t/transaction_costs.md). Regulatory requirements ensure [market](../m/market.md) integrity and profitability constraints. Notwithstanding these challenges, firms specializing in [arbitrage](../a/arbitrage.md) continue to play a vital role in enhancing [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md). By understanding the principles and intricacies of [index futures](../i/index_futures.md) [arbitrage](../a/arbitrage.md), traders and investors can better navigate and exploit these opportunities in the [financial markets](../f/financial_market.md).

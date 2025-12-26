@@ -33,7 +33,7 @@ Indicators are statistical measurements used to predict future price movements. 
 
 ### Volume Analysis
 
-The [volume](../v/volume.md) of trades is a crucial element in [technical analysis](../t/technical_analysis.md). High trading [volume](../v/volume.md) often accompanies significant price movements, thereby confirming trends. 
+The [volume](../v/volume.md) of trades is a crucial element in [technical analysis](../t/technical_analysis.md). High trading [volume](../v/volume.md) often accompanies significant price movements, thereby confirming trends.
 
 ### Patterns
 
@@ -43,9 +43,9 @@ Patterns can be continuation or [reversal](../r/reversal.md) types like head and
 
 Modern technical analysts [leverage](../l/leverage.md) sophisticated software and trading platforms to perform their analysis:
 
-- **[TradingView](../t/tradingview.md):** A highly popular charting tool [offering](../o/offering.md) real-time data, customizable charts, and a community of traders. [TradingView](https://www.tradingview.com/)
-- **MetaTrader:** Widely used for Forex trading, [offering](../o/offering.md) advanced charting and automated trading capabilities. [MetaTrader](https://www.metatrader4.com/)
-- **[NinjaTrader](../n/ninjatrader.md):** Specializes in [futures](../f/futures.md) and [options](../o/options.md) markets with a focus on advanced analytics. [NinjaTrader](https://ninjatrader.com/)
+- **[TradingView](../t/tradingview.md):** A highly popular charting tool [offering](../o/offering.md) real-time data, customizable charts, and a community of traders. TradingView
+- **MetaTrader:** Widely used for Forex trading, [offering](../o/offering.md) advanced charting and automated trading capabilities. MetaTrader
+- **[NinjaTrader](../n/ninjatrader.md):** Specializes in [futures](../f/futures.md) and [options](../o/options.md) markets with a focus on advanced analytics. NinjaTrader
 
 ## Risk Management
 
@@ -81,4 +81,4 @@ While [technical analysis](../t/technical_analysis.md) is a powerful tool, it is
 
 A technical analyst relies on an array of charts, indicators, and patterns to forecast future price movements. With advancements in technology, modern trading platforms have made [technical analysis](../t/technical_analysis.md) accessible to both professional and amateur traders. Whether applied to [stocks](../s/stock.md), forex, commodities, or cryptocurrencies, understanding [price action](../p/price_action.md) and [market](../m/market.md) trends remains at the core of successful [trading strategies](../t/trading_strategies.md).
 
-For further professional insights and resources, many analysts turn to organizations such as the [Market Technicians Association](https://www.mta.org/) and platforms like [StockCharts](https://www.stockcharts.com/).
+For further professional insights and resources, many analysts turn to organizations such as the Market Technicians Association and platforms like StockCharts.

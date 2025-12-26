@@ -54,12 +54,12 @@ Certain [municipal bonds](../m/municipal_bonds.md) issued by local-government en
 ### 1. U.S. Treasury Securities
 [U.S. Treasury](../u/u.s._treasury.md) securities, especially those with longer maturities, are prime examples of non-callable bonds. They are backed by the full faith and [credit](../c/credit.md) of the U.S. government, making them one of the safest investment [options](../o/options.md) available.
 
-Website: [U.S. Department of the Treasury](https://www.treasury.gov/)
+online platform: U.S. Department of the Treasury
 
 ### 2. IBM Corporate Bonds
 IBM has issued various non-callable bonds over the years, providing a secure investment option for those looking to invest in corporate [debt](../d/debt.md).
 
-Website: [IBM Investor Relations](https://www.ibm.com/investor/)
+online platform
 
 ## Conclusion
 

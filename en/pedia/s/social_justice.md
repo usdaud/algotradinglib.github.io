@@ -26,7 +26,7 @@ Social justice is built on several key principles that guide efforts to create e
 
 Fairness involves ensuring that all individuals have equal access to opportunities and resources. This principle opposes discrimination based on race, gender, socioeconomic status, and other factors.
 
-### Equity 
+### Equity
 
 [Equity](../e/equity.md) goes beyond equality by acknowledging that different individuals and communities may need varying levels of support to achieve equal outcomes. It involves distributing resources and opportunities in a manner that addresses these disparities.
 
@@ -96,19 +96,19 @@ Founded in 2013, Black Lives Matter is a contemporary movement addressing system
 
 ### Amnesty International
 
-Amnesty International is a global organization dedicated to human rights. It conducts research and advocacy to combat human rights abuses and promote social justice. [Amnesty International](https://www.amnesty.org)
+Amnesty International is a global organization dedicated to human rights. It conducts research and advocacy to combat human rights abuses and promote social justice. Amnesty International
 
 ### Human Rights Watch
 
-Human Rights Watch is an international organization that investigates and reports on human rights violations. It advocates for policies to promote justice and accountability. [Human Rights Watch](https://www.hrw.org)
+Human Rights Watch is an international organization that investigates and reports on human rights violations. It advocates for policies to promote justice and accountability. Human Rights Watch
 
 ### NAACP
 
-The National Association for the Advancement of Colored People (NAACP) is one of the oldest civil rights organizations in the United States. It works to eliminate racial discrimination and promote social justice. [NAACP](https://www.naacp.org)
+The National Association for the Advancement of Colored People (NAACP) is one of the oldest civil rights organizations in the United States. It works to eliminate racial discrimination and promote social justice. NAACP
 
 ### ACLU
 
-The American Civil Liberties Union (ACLU) defends individual rights and liberties guaranteed by the U.S. Constitution. It addresses various social justice issues, including racial justice, LGBTQ+ rights, and immigrant rights. [ACLU](https://www.aclu.org)
+The American Civil Liberties Union (ACLU) defends individual rights and liberties guaranteed by the U.S. Constitution. It addresses various social justice issues, including racial justice, LGBTQ+ rights, and immigrant rights. ACLU
 
 ## Conclusion
 

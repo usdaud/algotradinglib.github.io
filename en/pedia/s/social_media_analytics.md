@@ -97,15 +97,15 @@ Using [social media](../s/social_media.md) data for trading must adhere to regul
 
 ### RavenPack
 
-[RavenPack](https://www.ravenpack.com/) is a leading provider of [big data analytics](../b/big_data_analytics_in_trading.md) for financial institutions. It offers [sentiment analysis](../s/sentiment_analysis.md) tools that allow traders to gauge [market sentiment](../m/market_sentiment.md) from news and [social media](../s/social_media.md) sources.
+RavenPack is a leading provider of [big data analytics](../b/big_data_analytics_in_trading.md) for financial institutions. It offers [sentiment analysis](../s/sentiment_analysis.md) tools that allow traders to gauge [market sentiment](../m/market_sentiment.md) from news and [social media](../s/social_media.md) sources.
 
 ### Dataminr
 
-[Dataminr](https://www.dataminr.com/) uses AI to analyze real-time data from [social media](../s/social_media.md) and other sources to provide actionable alerts to traders. It specializes in identifying [market](../m/market.md)-moving news and events.
+Dataminr uses AI to analyze real-time data from [social media](../s/social_media.md) and other sources to provide actionable alerts to traders. It specializes in identifying [market](../m/market.md)-moving news and events.
 
 ### StockTwits
 
-[StockTwits](https://stocktwits.com/) is a [social media](../s/social_media.md) platform for investors and traders to share ideas and [market](../m/market.md) insights. It aggregates user-generated content to provide sentiment data and trending [stocks](../s/stock.md).
+StockTwits is a [social media](../s/social_media.md) platform for investors and traders to share ideas and [market](../m/market.md) insights. It aggregates user-generated content to provide sentiment data and trending [stocks](../s/stock.md).
 
 ## Conclusion
 

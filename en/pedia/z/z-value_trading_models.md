@@ -86,10 +86,9 @@ Advanced retail trading platforms like MetaTrader and [TradingView](../t/trading
 [Z-value](../z/z-value_in_trading.md) [trading models](../t/trading_models.md) provide a valuable framework for identifying statistically significant price movements in [financial markets](../f/financial_market.md). By leveraging these tools, traders can improve their decision-making process, enhance [risk management](../r/risk_management.md), and [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Whether used in [mean reversion](../m/mean_reversion.md) strategies, pair trading, or [risk management](../r/risk_management.md), the [Z-value](../z/z-value_in_trading.md) is a versatile and powerful statistical metric that can enhance an algorithmic [trader](../t/trader.md)’s toolkit.
 
 **References**
-- [Renaissance Technologies](https://www.rentec.com/)
-- [AQR Capital Management](https://www.aqr.com/)
-- [Jane Street](https://www.janestreet.com/)
-- [Virtu Financial](https://www.virtu.com/)
-- [MetaTrader](https://www.metatrader4.com/)
-- [TradingView](https://www.tradingview.com/)
-
+- Renaissance Technologies
+- AQR Capital Management
+- Jane Street
+- Virtu Financial
+- MetaTrader
+- TradingView

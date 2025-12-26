@@ -67,13 +67,13 @@ Regularly monitoring [portfolio performance](../p/portfolio_performance.md) and 
 ## 6. Real-World Applications
 
 ### 6.1 Algorithmic Trading Firms
-[Algorithmic trading](../a/algorithmic_trading.md) firms like [Renaissance Technologies](https://www.rentec.com/) rely heavily on [drawdown analysis](../d/drawdown_analysis.md) to fine-tune their strategies, ensuring minimal [risk](../r/risk.md) over extended periods.
+[Algorithmic trading](../a/algorithmic_trading.md) firms like Renaissance Technologies rely heavily on [drawdown analysis](../d/drawdown_analysis.md) to fine-tune their strategies, ensuring minimal [risk](../r/risk.md) over extended periods.
 
 ### 6.2 Hedge Funds
-[Hedge](../h/hedge.md) funds, such as [Bridgewater Associates](https://www.bridgewater.com/), use [drawdown analysis](../d/drawdown_analysis.md) to balance their portfolios, aiming to maintain steady returns while managing risks effectively.
+[Hedge](../h/hedge.md) funds, such as Bridgewater Associates, use [drawdown analysis](../d/drawdown_analysis.md) to balance their portfolios, aiming to maintain steady returns while managing risks effectively.
 
 ### 6.3 Robo-Advisors
-Robo-advisors like [Wealthfront](https://www.wealthfront.com/) utilize algorithms that incorporate [drawdown analysis](../d/drawdown_analysis.md), providing clients with optimized portfolios tailored to their [risk tolerance](../r/risk_tolerance.md) levels.
+Robo-advisors like Wealthfront utilize algorithms that incorporate [drawdown analysis](../d/drawdown_analysis.md), providing clients with optimized portfolios tailored to their [risk tolerance](../r/risk_tolerance.md) levels.
 
 ### 6.4 Individual Investors
 Individual investors also benefit from understanding drawdowns, enabling them to make informed decisions about their portfolio allocations and [risk management](../r/risk_management.md) strategies.
@@ -83,13 +83,13 @@ Individual investors also benefit from understanding drawdowns, enabling them to
 Several tools and software solutions assist in performing [drawdown analysis](../d/drawdown_analysis.md):
 
 ### 7.1 Portfolio Management Software
-Software like [Morningstar Direct](https://www.morningstar.com/products/direct) and [Portfolio123](https://www.portfolio123.com/) provide extensive analytics, including [drawdown](../d/drawdown.md) calculations.
+Software like Morningstar Direct and Portfolio123 provide extensive analytics, including [drawdown](../d/drawdown.md) calculations.
 
 ### 7.2 Trading Platforms
-Trading platforms such as [MetaTrader](https://www.metatrader4.com/) and [NinjaTrader](https://ninjatrader.com/) [offer](../o/offer.md) built-in functionalities to perform [drawdown analysis](../d/drawdown_analysis.md) for various [trading strategies](../t/trading_strategies.md).
+Trading platforms such as MetaTrader and NinjaTrader [offer](../o/offer.md) built-in functionalities to perform [drawdown analysis](../d/drawdown_analysis.md) for various [trading strategies](../t/trading_strategies.md).
 
 ### 7.3 Risk Management Tools
-[Risk management](../r/risk_management.md) tools like [Riskalyze](https://www.riskalyze.com/) help advisors and investors analyze and visualize the [risk](../r/risk.md), including drawdowns, associated with their investment portfolios.
+[Risk management](../r/risk_management.md) tools like Riskalyze help advisors and investors analyze and visualize the [risk](../r/risk.md), including drawdowns, associated with their investment portfolios.
 
 ### 7.4 Excel and Custom Scripts
 Using Excel or custom scripts in programming languages like Python and R, traders can perform bespoke [drawdown analysis](../d/drawdown_analysis.md) tailored to their specific needs.

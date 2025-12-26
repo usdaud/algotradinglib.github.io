@@ -20,29 +20,29 @@ In the realm of [algorithmic trading](../a/accountability.md), force majeure eve
 ### Impact on Algorithmic Trading
 
 1. **[Market](../m/market.md) [Volatility](../v/volatility.md):**
-   Force majeure events can create extreme [market](../m/market.md) [volatility](../v/volatility.md), places traders and their algorithms at high [risk](../r/risk.md). For example, a sudden [market](../m/market.md) crash due to geopolitical tension can lead to massive sell-off strategies triggering and further amplifying the [market](../m/market.md) chaos.
+ Force majeure events can create extreme [market](../m/market.md) [volatility](../v/volatility.md), places traders and their algorithms at high [risk](../r/risk.md). For example, a sudden [market](../m/market.md) crash due to geopolitical tension can lead to massive sell-off strategies triggering and further amplifying the [market](../m/market.md) chaos.
 
 2. **Operational Disruptions:**
-    Technical infrastructures such as data centers, communications networks, and trading platforms might be compromised due to natural disasters, cyber-attacks, or power failures. This can impede the ability to execute trades, access markets accurately, or analyze [market](../m/market.md) data.
+ Technical infrastructures such as data centers, communications networks, and trading platforms might be compromised due to natural disasters, cyber-attacks, or power failures. This can impede the ability to execute trades, access markets accurately, or analyze [market](../m/market.md) data.
 
 3. **Regulatory Responses:**
-    Regulatory bodies may implement emergency measures, such as halting trading activities to stabilize markets during a crisis. This regulatory intervention can be termed as a force majeure event thereby impacting the trading schedule and strategies.
+ Regulatory bodies may implement emergency measures, such as halting trading activities to stabilize markets during a crisis. This regulatory intervention can be termed as a force majeure event thereby impacting the trading schedule and strategies.
 
 ### Risk Management
 
 Given the potential impact of force majeure events in the field of [algorithmic trading](../a/accountability.md), [robust](../r/robust.md) [risk management frameworks](../r/risk_management_frameworks.md) need to be in place. Several strategies can be used to mitigate risks associated with force majeure:
 
 1. **[Diversification](../d/diversification.md):**
-   Diversifying [trading algorithms](../t/trading_algorithms.md) across different [asset](../a/asset.md) classes and geographical locations can help in spreading the [risk](../r/risk.md). If one [market](../m/market.md) is impacted by force majeure, other markets might remain stable, thus cushioning the overall impact on the trading portfolio.
+ Diversifying [trading algorithms](../t/trading_algorithms.md) across different [asset](../a/asset.md) classes and geographical locations can help in spreading the [risk](../r/risk.md). If one [market](../m/market.md) is impacted by force majeure, other markets might remain stable, thus cushioning the overall impact on the trading portfolio.
 
 2. **Redundancy:**
-    Ensuring redundancy in technological [infrastructure](../i/infrastructure.md) is crucial. This includes backup data centers, alternative communication networks, and failover [trading systems](../t/trading_systems.md). In the event of a primary system failure, the redundancy setup can take over and continue operations.
+ Ensuring redundancy in technological [infrastructure](../i/infrastructure.md) is crucial. This includes backup data centers, alternative communication networks, and failover [trading systems](../t/trading_systems.md). In the event of a primary system failure, the redundancy setup can take over and continue operations.
 
 3. **[Insurance](../i/insurance.md):**
-    Financial instruments like [insurance](../i/insurance.md) can cover losses due to specific force majeure events. For example, acquiring cyber [insurance](../i/insurance.md) can mitigate potential financial damage resulting from cyber attacks.
+ Financial instruments like [insurance](../i/insurance.md) can cover losses due to specific force majeure events. For example, acquiring cyber [insurance](../i/insurance.md) can mitigate potential financial damage resulting from cyber attacks.
 
 4. **Contract Clauses:**
-   Including detailed force majeure clauses in contracts with brokers, data providers, and service partners to ensure a clear understanding of liabilities and responsibilities during such events.
+ Including detailed force majeure clauses in contracts with brokers, data providers, and service partners to ensure a clear understanding of liabilities and responsibilities during such events.
 
 ## Real-World Examples and Case Studies
 
@@ -76,15 +76,15 @@ Regulators globally are becoming more vigilant in ensuring that [financial marke
 
 ### BlackRock
 
-BlackRock, one of the world's leading investment firms, has comprehensive [business](../b/business.md) continuity plans in place that include force majeure clauses to [handle](../h/handle.md) unexpected events. Their policies address the [scalability](../s/scalability.md) of operations and the necessary [risk management frameworks](../r/risk_management_frameworks.md). More details can be found on their official webpage: [BlackRock](https://www.blackrock.com/corporate).
+BlackRock, one of the world's leading investment firms, has comprehensive [business](../b/business.md) continuity plans in place that include force majeure clauses to [handle](../h/handle.md) unexpected events. Their policies address the [scalability](../s/scalability.md) of operations and the necessary [risk management frameworks](../r/risk_management_frameworks.md). More details can be found on their official webpage: BlackRock.
 
 ### JP Morgan Chase
 
-JP Morgan Chase has detailed guidelines for force majeure in their operational contracts with clients and service providers. The [firm](../f/firm.md) places emphasis on resilience, having [multiple](../m/multiple.md) data centers worldwide to manage [risk](../r/risk.md) effectively. For more specifics, refer to their official site: [JP Morgan Chase](https://www.jpmorganchase.com/).
+JP Morgan Chase has detailed guidelines for force majeure in their operational contracts with clients and service providers. The [firm](../f/firm.md) places emphasis on resilience, having [multiple](../m/multiple.md) data centers worldwide to manage [risk](../r/risk.md) effectively. For more specifics, refer to their public materials: JP Morgan Chase.
 
 ### NASDAQ
 
-[NASDAQ](../n/nasdaq.md) has implemented rigorous protocols to deal with force majeure events, ensuring [market](../m/market.md) stability and continuity. Their policies include technological redundancy and collaboration with regulatory bodies to swiftly respond to crises. Additional information is available here: [NASDAQ](https://www.nasdaq.com/).
+[NASDAQ](../n/nasdaq.md) has implemented rigorous protocols to deal with force majeure events, ensuring [market](../m/market.md) stability and continuity. Their policies include technological redundancy and collaboration with regulatory bodies to swiftly respond to crises. Additional information is available here: NASDAQ.
 
 ## Conclusion
 

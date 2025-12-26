@@ -34,13 +34,13 @@ Kalman filters are sophisticated recursive algorithms that estimate the state of
 
 Key Equations:
 1. **Prediction Step:**
-   \[ \hat{x}_{k|k-1} = A \hat{x}_{k-1|k-1} + B u_{k-1} \]
-   \[ P_{k|k-1} = A P_{k-1|k-1} A^T + Q \]
-   
+ \[ \hat{x}_{k|k-1} = A \hat{x}_{k-1|k-1} + B u_{k-1} \]
+ \[ P_{k|k-1} = A P_{k-1|k-1} A^T + Q \]
+
 2. **Update Step:**
-   \[ K_k = P_{k|k-1} H^T (H P_{k|k-1} H^T + R)^{-1} \]
-   \[ \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H \hat{x}_{k|k-1}) \]
-   \[ P_{k|k} = (I - K_k H) P_{k|k-1} \]
+ \[ K_k = P_{k|k-1} H^T (H P_{k|k-1} H^T + R)^{-1} \]
+ \[ \hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H \hat{x}_{k|k-1}) \]
+ \[ P_{k|k} = (I - K_k H) P_{k|k-1} \]
 
 Where:
 - \( \hat{x} \) is the state estimate.
@@ -100,4 +100,4 @@ For event-driven strategies that rely on news and other external data, [noise](.
 
 [Noise](../n/noise.md) reduction filters are indispensable tools in [algorithmic trading](../a/algorithmic_trading.md), providing essential capabilities for cleaning financial data and extracting valuable signals. While this article discussed several popular techniques, the choice of filter and its parameters should be tailored to the specific [trading strategy](../t/trading_strategy.md) and [market](../m/market.md) conditions. With the rapid advancement in quantitative methods and computational technology, the use of sophisticated filters like Kalman filters and wavelet transforms is likely to become increasingly prevalent in the quest for [alpha](../a/alpha.md).
 
-For more information on sophisticated [noise reduction techniques](../n/noise_reduction_techniques.md), please refer to companies specializing in [algorithmic trading](../a/algorithmic_trading.md) solutions such as [Numerai](https://numer.ai/) and [QuantConnect](https://www.quantconnect.com/).
+For more information on sophisticated [noise reduction techniques](../n/noise_reduction_techniques.md), please refer to companies specializing in [algorithmic trading](../a/algorithmic_trading.md) solutions such as Numerai and QuantConnect.

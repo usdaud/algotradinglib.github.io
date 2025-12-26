@@ -71,6 +71,6 @@ Dynamic hedging has numerous applications in the [financial markets](../f/financ
 Dynamic hedging is a powerful tool for managing [financial risk](../f/financial_risk.md) in a constantly changing [market](../m/market.md) environment. By continuously monitoring [market](../m/market.md) conditions and adjusting positions in real-time, traders and investors can protect their portfolios and enhance returns. While the strategy involves complexity and costs, the benefits of effective [risk management](../r/risk_management.md) and [market](../m/market.md) responsiveness make dynamic hedging an essential component of modern trading and investment practices.
 
 **Useful Links**
-- [Morgan Stanley](https://www.morganstanley.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [J.P. Morgan](https://www.jpmorgan.com/)
+- Morgan Stanley
+- Goldman Sachs
+- J.P. Morgan

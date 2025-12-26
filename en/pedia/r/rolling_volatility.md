@@ -4,7 +4,7 @@
 Rolling [volatility](../v/volatility.md) is a statistical measure used in [financial markets](../f/financial_market.md) to assess the change in the level of price variation for a given [security](../s/security.md) or [market](../m/market.md) over time. Unlike static [volatility](../v/volatility.md) measurements, which analyze data over a fixed period, rolling [volatility](../v/volatility.md) provides a dynamic picture by continually updating the period under review. This makes it an invaluable tool for [algorithmic trading](../a/algorithmic_trading.md) strategies where adapting to [market](../m/market.md) conditions in real-time is crucial.
 
 ### Definition and Calculation
-At its core, rolling [volatility](../v/volatility.md) is the [standard deviation](../s/standard_deviation.md) of returns calculated over a rolling window. This window can [range](../r/range.md) from several days to months, depending on the strategy and the [asset](../a/asset.md)'s nature. 
+At its core, rolling [volatility](../v/volatility.md) is the [standard deviation](../s/standard_deviation.md) of returns calculated over a rolling window. This window can [range](../r/range.md) from several days to months, depending on the strategy and the [asset](../a/asset.md)'s nature.
 
 #### Formula:
 The rolling [volatility](../v/volatility.md) \( \sigma_t \) at time \( t \) can be expressed as:
@@ -47,7 +47,7 @@ print(data[['price', 'returns', 'rolling_volatility']].tail())
 ```
 
 #### Integration in Trading Bots:
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow for easy implementation of rolling [volatility](../v/volatility.md). For instance, [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Zipline (https://www.zipline.io/) provide APIs that simplify the [incorporation](../i/incorporation.md) of such metrics into [trading strategies](../t/trading_strategies.md).
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms allow for easy implementation of rolling [volatility](../v/volatility.md). For instance, [QuantConnect](../q/quantconnect.md) ( and Zipline ( provide APIs that simplify the [incorporation](../i/incorporation.md) of such metrics into [trading strategies](../t/trading_strategies.md).
 
 ### Practical Applications
 

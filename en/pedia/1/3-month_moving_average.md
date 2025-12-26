@@ -66,4 +66,4 @@ The 3MMA can sometimes be too slow to react in highly volatile markets. Rapid pr
 
 The 3-Month Moving Average is a vital analytical tool for traders and investors across various markets. Its ability to smooth out price data and reveal [underlying](../u/underlying.md) trends makes it invaluable for [trend](../t/trend.md) detection, signal generation, and automating [trading strategies](../t/trading_strategies.md) in [algorithmic trading](../a/algorithmic_trading.md). Despite its limitations, when used effectively, the 3MMA can significantly enhance trading decisions and contribute to trading success.
 
-For more information or to explore its implementation within existing trading platforms, you can visit [AlgoTrader](https://www.algotrader.com/), a company specializing in [algorithmic trading](../a/algorithmic_trading.md) solutions.
+For more information or to explore its implementation within existing trading platforms, you can visit AlgoTrader, a company specializing in [algorithmic trading](../a/algorithmic_trading.md) solutions.

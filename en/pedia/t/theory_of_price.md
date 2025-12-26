@@ -22,7 +22,7 @@ The foundational principles of the theory of price are the laws of [supply](../s
 
 1. **[Price Elasticity of Demand](../p/price_elasticity_of_demand.md)**: Measures how much the [quantity demanded](../q/quantity_demanded.md) of a good responds to a change in its price. High [elasticity](../e/elasticity.md) indicates that consumers are sensitive to price changes, while low [elasticity](../e/elasticity.md) suggests that they are less responsive.
 
-2. **Price [Elasticity](../e/elasticity.md) of [Supply](../s/supply.md)**: Measures the responsiveness of the [quantity supplied](../q/quantity_supplied.md) to a change in price. 
+2. **Price [Elasticity](../e/elasticity.md) of [Supply](../s/supply.md)**: Measures the responsiveness of the [quantity supplied](../q/quantity_supplied.md) to a change in price.
 
 3. **[Income Elasticity of Demand](../i/income_elasticity_of_demand.md)**: Measures how the [quantity demanded](../q/quantity_demanded.md) changes as consumer [income](../i/income.md) changes.
 
@@ -84,7 +84,7 @@ In [financial markets](../f/financial_market.md), the theory of price explains t
 
 ## Algorithmic Trading and Fintech
 
-In the context of [algorithmic trading](../a/accountability.md) and fintech, the theory of price forms the [basis](../b/basis.md) for developing sophisticated [trading algorithms](../t/trading_algorithms.md). These algorithms analyze vast amounts of [market](../m/market.md) data to predict price movements and execute trades at optimal times.
+In the context of [algorithmic trading](../a/algorithmic_trading.md) and fintech, the theory of price forms the [basis](../b/basis.md) for developing sophisticated [trading algorithms](../t/trading_algorithms.md). These algorithms analyze vast amounts of [market](../m/market.md) data to predict price movements and execute trades at optimal times.
 
 ### High-Frequency Trading (HFT)
 

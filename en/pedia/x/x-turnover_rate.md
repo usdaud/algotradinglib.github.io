@@ -59,7 +59,7 @@ The X-[Turnover](../t/turnover.md) Rate serves as a [benchmark](../b/benchmark.m
 
 ## Case Study: High-Frequency Trading Firm – Citadel Securities
 
-Citadel Securities is a leading [market](../m/market.md)-making [firm](../f/firm.md) that employs sophisticated algorithms for high-frequency trading. For more details, visit their [website](https://www.citadelsecurities.com).
+Citadel Securities is a leading [market](../m/market.md)-making [firm](../f/firm.md) that employs sophisticated algorithms for high-frequency trading.
 
 **High [Turnover](../t/turnover.md) Example:**
 Citadel Securities' [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) showcase high X-[Turnover](../t/turnover.md) Rates due to the nature of their operations, involving rapid [execution](../e/execution.md) and high volumes of trades. The [turnover](../t/turnover.md) rate is a critical metric for their performance evaluation and strategy [optimization](../o/optimization.md).

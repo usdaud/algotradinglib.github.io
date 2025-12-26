@@ -17,23 +17,23 @@ Rolling [Beta](../b/beta.md) involves recalculating the [beta](../b/beta.md) of 
 
 ### Steps to Calculate Rolling Beta
 1. **Data Collection**:
-   - Obtain historical price data for the [asset](../a/asset.md) and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
-   - Ensure the price data is synchronized and contains enough points for the rolling windows.
+ - Obtain historical price data for the [asset](../a/asset.md) and the [benchmark](../b/benchmark.md) [index](../i/index_instrument.md).
+ - Ensure the price data is synchronized and contains enough points for the rolling windows.
 
 2. **[Return](../r/return.md) Calculation**:
-   - Convert the price data to returns, usually logarithmic or simple returns.
-   - Example for simple returns: \( R_t = \frac{P_t}{P_{t-1}} - 1 \)
+ - Convert the price data to returns, usually logarithmic or simple returns.
+ - Example for simple returns: \( R_t = \frac{P_t}{P_{t-1}} - 1 \)
 
 3. **Window Specification**:
-   - Define the rolling window size and the step size.
+ - Define the rolling window size and the step size.
 
 4. **[Beta](../b/beta.md) Calculation within Each Window**:
-   - For each rolling window, fit a [linear regression](../l/linear_regression.md) model: \( R_{[asset](../a/asset.md)} = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) \cdot R_{[benchmark](../b/benchmark.md)} + \epsilon \)
-   - Extract the [beta coefficient](../b/beta_coefficient.md) (β) from the regression output.
+ - For each rolling window, fit a [linear regression](../l/linear_regression.md) model: \( R_{[asset](../a/asset.md)} = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) \cdot R_{[benchmark](../b/benchmark.md)} + \epsilon \)
+ - Extract the [beta coefficient](../b/beta_coefficient.md) (β) from the regression output.
 
 5. **Store and Plot Rolling Betas**:
-   - Store the calculated betas for each rolling window end point.
-   - Plot the series of rolling betas to visualize changes over time.
+ - Store the calculated betas for each rolling window end point.
+ - Plot the series of rolling betas to visualize changes over time.
 
 ### Tools and Libraries
 Various financial and data analysis libraries can be employed to perform rolling [beta](../b/beta.md) analysis:
@@ -103,8 +103,8 @@ Rolling [Beta](../b/beta.md) Analysis is a [robust](../r/robust.md) tool that pr
 
 For further information or to utilize sophisticated rolling [beta](../b/beta.md) tools and services, you can explore financial data providers and analytical platforms:
 
-1. [Bloomberg Terminal](https://www.bloomberg.com/professional/)
-2. [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-3. [QuantConnect](https://www.quantconnect.com/)
-4. [Alpaca Markets](https://alpaca.markets/)
-5. [Quandl](https://www.quandl.com/)
+1. Bloomberg Terminal
+2. Thomson Reuters Eikon
+3. QuantConnect
+4. Alpaca Markets
+5. Quandl

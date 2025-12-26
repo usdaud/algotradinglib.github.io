@@ -81,12 +81,8 @@ Portfolio managers oversee investment portfolios, making decisions about [asset 
 
 Several leading organizations employ FRMs, underscoring the [value](../v/value.md) of the certification in the [industry](../i/industry.md). These include:
 
-- JPMorgan Chase & Co. (https://www.jpmorganchase.com)
-- Goldman Sachs (https://www.goldmansachs.com)
-- Citigroup (https://www.citigroup.com)
-- [Bank](../b/bank.md) of America (https://www.bankofamerica.com)
-- HSBC (https://www.hsbc.com)
-
+- JPMorgan Chase & Co. - Goldman Sachs - Citigroup - [Bank](../b/bank.md) of America (
+- HSBC
 # Conclusion
 
 The [Financial Risk](../f/financial_risk.md) Manager (FRM) designation is a prestigious and valuable certification for professionals in the financial [industry](../i/industry.md). It provides a comprehensive understanding of [financial risk management](../f/financial_risk_management.md) and equips individuals with the skills necessary to address the complex risks faced by financial institutions. By obtaining the FRM certification, professionals can enhance their career prospects, [gain](../g/gain.md) global recognition, and contribute to the stability and success of their organizations.

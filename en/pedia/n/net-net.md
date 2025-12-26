@@ -43,7 +43,7 @@ Investors can use various screening tools to identify potential Net-Net [stocks]
 **Step-by-Step Process**:
 
 1. **Collect [Financial Statements](../f/financial_statements.md)**: Obtain the company's latest financial reports, including the [balance sheet](../b/balance_sheet.md), [income statement](../i/income_statement.md), and [cash flow statement](../c/cash_flow_statement.md).
-  
+
 2. **Calculate [Current Assets](../c/current_assets.md)**: Sum the company's cash, [cash equivalents](../c/cash_equivalents.md), accounts [receivable](../r/receivable.md), and [inventory](../i/inventory.md).
 
 3. **Calculate [Total Liabilities](../t/total_liabilities.md)**: Sum both current and [long-term liabilities](../l/long-term_liabilities.md) from the [balance sheet](../b/balance_sheet.md).
@@ -57,7 +57,7 @@ Investors can use various screening tools to identify potential Net-Net [stocks]
 Although Net-Net [stocks](../s/stock.md) can [offer](../o/offer.md) significant [upside potential](../u/upside_potential_in_trading.md), they come with a variety of risks:
 
 1. **[Financial Distress](../f/financial_distress.md)**: Many Net-Net [stocks](../s/stock.md) are in poor [financial health](../f/financial_health.md) and may face [bankruptcy](../b/bankruptcy.md) or severe operational challenges.
-  
+
 2. **[Liquidity](../l/liquidity.md) Issues**: Small-cap [stocks](../s/stock.md) often have lower [liquidity](../l/liquidity.md), making it difficult to buy or sell large positions without affecting the stock price.
 
 3. **Limited Information**: Smaller and distressed companies may provide less [transparency](../t/transparency.md) and have less analyst coverage, making it harder to assess their true financial condition.
@@ -104,7 +104,7 @@ Since Company Y's stock price ($8) is above its NCAV per share ($4), it does not
 
 ## Modern Applications
 
-While traditional Net-Net [investing](../i/investing.md) focused on manual analysis of [financial statements](../f/financial_statements.md), modern algorithms and fintech solutions have streamlined the process. Platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) allow investors to build and backtest [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those based on Net-Net criteria.
+While traditional Net-Net [investing](../i/investing.md) focused on manual analysis of [financial statements](../f/financial_statements.md), modern algorithms and fintech solutions have streamlined the process. Platforms like [StockSharp](../s/stocksharp.md) and [Alpaca](../a/alpaca.md) allow investors to build and backtest [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those based on Net-Net criteria.
 
 ### Algorithmic Trading
 
@@ -135,5 +135,5 @@ def net_net_strategy(stock_list):
 The Net-Net [investment strategy](../i/investment_strategy.md) remains a cornerstone of [value investing](../v/value_investing.md), [offering](../o/offering.md) significant [upside](../u/upside.md) by uncovering deeply [undervalued](../u/undervalued.md) [stocks](../s/stock.md). While it does come with inherent risks, modern tools and [algorithmic trading platforms](../a/algorithmic_trading_platforms.md) have made the strategy more accessible and efficient. Whether through manual analysis or automated algorithms, the core principles of Net-Net [investing](../i/investing.md) continue to provide valuable insights for discerning investors.
 
 For more information about [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), you can visit:
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
+- QuantConnect
+- Alpaca

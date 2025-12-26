@@ -26,7 +26,7 @@ Post-[trade](../t/trade.md) settlement refers to the series of processes that fi
 
 In [algorithmic trading](../a/algorithmic_trading.md), confirmation and matching processes are highly automated to [handle](../h/handle.md) the [volume](../v/volume.md) and velocity of trades. Systems like the FIX (Financial Information [Exchange](../e/exchange.md)) protocol are used to standardize electronic communication of [trade](../t/trade.md) details between parties, facilitating faster and more accurate matching.
 
-1. **FIX Protocol**: Widely used in trading, the FIX protocol standardizes the electronic [exchange](../e/exchange.md) of information, enabling quicker confirmation and matching. More information about the FIX protocol can be found [here](https://www.fixtrading.org).
+1. **FIX Protocol**: Widely used in trading, the FIX protocol standardizes the electronic [exchange](../e/exchange.md) of information, enabling quicker confirmation and matching. More information about the FIX protocol can be found here.
 
 ### Risk Management
 
@@ -40,7 +40,7 @@ Accurate [trade](../t/trade.md) matching is also a critical [risk management](..
 
 ### Role of Central Counterparties (CCPs)
 
-CCPs act as intermediaries between buyers and sellers in a [trade](../t/trade.md). They effectively become the buyer to every seller and the seller to every buyer, thus mitigating [counterparty risk](../c/counterparty_risk.md). Notable CCPs include [The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com) in the U.S. and [LCH](https://www.lch.com) in Europe.
+CCPs act as intermediaries between buyers and sellers in a [trade](../t/trade.md). They effectively become the buyer to every seller and the seller to every buyer, thus mitigating [counterparty risk](../c/counterparty_risk.md). Notable CCPs include The Depository Trust & Clearing Corporation (DTCC) in the U.S. and LCH in Europe.
 
 1. **[Risk](../r/risk.md) Mitigation**: By interposing themselves in trades, CCPs reduce the [risk](../r/risk.md) of one party defaulting. They also [margin](../m/margin.md) trades to ensure that both parties have sufficient [collateral](../c/collateral.md) to cover their [obligations](../o/obligation.md).
 2. **[Netting](../n/netting.md)**: CCPs net off transactions between parties, reducing the [volume](../v/volume.md) of churn and stabilizing the [financial system](../f/financial_system.md).
@@ -56,7 +56,7 @@ Settlement is the actual transfer of securities from the seller to the buyer and
 Different [asset](../a/asset.md) classes have varied settlement processes and timelines:
 
 1. **Equities**: Typically settle on a T+2 [basis](../b/basis.md), which means the [trade](../t/trade.md) date plus two [business](../b/business.md) days.
-2. **[Derivatives](../d/derivatives.md)**: The settlement process for [derivatives](../d/derivatives.md) can be more complex due to the variety of [underlying](../u/underlying.md) assets and the nature of the contracts. 
+2. **[Derivatives](../d/derivatives.md)**: The settlement process for [derivatives](../d/derivatives.md) can be more complex due to the variety of [underlying](../u/underlying.md) assets and the nature of the contracts.
 
 For both [asset](../a/asset.md) classes, the key objectives are to ensure timely delivery of securities and payments and to manage the [risk](../r/risk.md) associated with delayed or failed settlements.
 
@@ -71,7 +71,7 @@ For both [asset](../a/asset.md) classes, the key objectives are to ensure timely
 
 Technology and innovation are addressing these challenges in several ways:
 
-1. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: These technologies can potentially streamline settlement processes by providing a secure and transparent ledger for recording trades and settlements. Notable examples include the [SETL project](https://www.setl.io/home).
+1. **[Blockchain](../b/blockchain_in_trading.md) and [Distributed Ledger Technology](../d/distributed_ledger_technology.md) (DLT)**: These technologies can potentially streamline settlement processes by providing a secure and transparent ledger for recording trades and settlements. Notable examples include the SETL project.
 2. **Real-Time Gross Settlement (RTGS)**: Some securities are moving towards real-time gross settlement to reduce settlement [risk](../r/risk.md) and enhance [liquidity](../l/liquidity.md).
 
 ### Case Study: DTCC
@@ -81,7 +81,7 @@ The DTCC is one of the world's largest post-[trade](../t/trade.md) financial ser
 1. **National Securities [Clearing](../c/clearing.md) [Corporation](../c/corporation.md) (NSCC)**: Provides [clearing](../c/clearing.md), settlement, [risk management](../r/risk_management.md), and central [counterparty](../c/counterparty.md) services for trades in the US securities [market](../m/market.md).
 2. **[Depository](../d/depository.md) [Trust Company](../t/trust_company.md) (DTC)**: Provides custody and settlement services for equities, bonds, and other securities.
 
-The DTCC has been at the forefront of adopting new technologies to enhance post-[trade](../t/trade.md) processes, including [blockchain](../b/blockchain_in_trading.md) and DLT, to make settlement more efficient and secure. More information about DTCC can be found [here](http://www.dtcc.com).
+The DTCC has been at the forefront of adopting new technologies to enhance post-[trade](../t/trade.md) processes, including [blockchain](../b/blockchain_in_trading.md) and DLT, to make settlement more efficient and secure. More information about DTCC can be found here.
 
 ## Regulatory Framework
 
@@ -92,7 +92,7 @@ The post-[trade](../t/trade.md) settlement process is highly regulated to ensure
 ### Key Regulations
 
 1. **Regulation T (Reg T)**: Overseen by the Federal Reserve Board in the United States, Reg T governs the extension of [credit](../c/credit.md) by brokers and dealers to customers for the purchase of securities and the [margin](../m/margin.md) requirements for those transactions.
-2. **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR)**: Introduced to increase [transparency](../t/transparency.md) and reduce the risks associated with the [derivatives](../d/derivatives.md) markets. More details can be found [here](https://www.esma.europa.eu/regulation/post-trading/EMIR).
+2. **European [Market](../m/market.md) [Infrastructure](../i/infrastructure.md) Regulation (EMIR)**: Introduced to increase [transparency](../t/transparency.md) and reduce the risks associated with the [derivatives](../d/derivatives.md) markets. More details can be found here.
 
 ### Impact of Regulations on Algorithmic Trading
 

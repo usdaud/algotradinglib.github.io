@@ -6,7 +6,7 @@ Royalty arrangements are prevalent across various industries such as pharmaceuti
 
 ## Types of Royalties
 
-1. **[Patent](../p/patent.md) Royalties**: These are payments made for the use of patented technology or inventions. When an inventor or a company patents a technology, they can license it to others who pay royalties in [exchange](../e/exchange.md) for the right to use the [patent](../p/patent.md). This is common in the pharmaceutical and tech industries. 
+1. **[Patent](../p/patent.md) Royalties**: These are payments made for the use of patented technology or inventions. When an inventor or a company patents a technology, they can license it to others who pay royalties in [exchange](../e/exchange.md) for the right to use the [patent](../p/patent.md). This is common in the pharmaceutical and tech industries.
 
 2. **[Copyright](../c/copyright.md) Royalties**: These apply to creative works like books, music, films, and software. Authors, composers, and filmmakers receive royalty payments from publishers, record labels, and [distribution](../d/distribution.md) platforms. For instance, musicians might get royalties each time their song is played on the radio or streamed online.
 
@@ -53,8 +53,8 @@ Royalty [financing](../f/financing.md) can be appealing to businesses because it
 
 ### Examples of Royalty Finance Companies
 
-- **Royalty Pharma**: A company specializing in acquiring pharmaceutical royalties. They provide funding to biopharmaceutical companies and research institutions in [exchange](../e/exchange.md) for rights to future royalty payments. Website: [Royalty Pharma](https://www.royaltypharma.com/)
-- **Sprott Resource Lending**: Provides royalty [financing](../f/financing.md) in the natural resource sector, supporting [mining](../m/mining.md) and energy companies. Website: [Sprott Resources](https://www.sprott.com/)
+- **Royalty Pharma**: A company specializing in acquiring pharmaceutical royalties. They provide funding to biopharmaceutical companies and research institutions in [exchange](../e/exchange.md) for rights to future royalty payments. online platform: Royalty Pharma
+- **Sprott Resource Lending**: Provides royalty [financing](../f/financing.md) in the natural resource sector, supporting [mining](../m/mining.md) and energy companies. online platform: Sprott Resources
 
 ## Legal Considerations
 

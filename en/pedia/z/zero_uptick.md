@@ -35,7 +35,7 @@ Zero upticks play a role in the broader analysis of [market](../m/market.md) mec
 
 3. **[Liquidity](../l/liquidity.md) and [Volume](../v/volume.md)**: Zero upticks can also provide insights into [liquidity](../l/liquidity.md) and trading [volume](../v/volume.md). In a highly [liquid market](../l/liquid_market.md), zero upticks may occur frequently as many trades happen at the same price. Conversely, in a less [liquid market](../l/liquid_market.md), zero upticks might be less common, and price changes could be more pronounced.
 
-4. **[Algorithmic Trading](../a/accountability.md)**: Zero upticks are relevant in [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), particularly those that focus on exploiting small price movements. High-frequency trading (HFT) algorithms, for instance, may incorporate zero [uptick](../u/uptick.md) rules to optimize [execution](../e/execution.md) strategies and adhere to regulatory requirements.
+4. **[Algorithmic Trading](../a/algorithmic_trading.md)**: Zero upticks are relevant in [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), particularly those that focus on exploiting small price movements. High-frequency trading (HFT) algorithms, for instance, may incorporate zero [uptick](../u/uptick.md) rules to optimize [execution](../e/execution.md) strategies and adhere to regulatory requirements.
 
 ## Modern Trading Platforms and Data Analysis
 

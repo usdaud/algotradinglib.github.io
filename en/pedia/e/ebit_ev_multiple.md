@@ -4,7 +4,7 @@ The EBIT/EV [multiple](../m/multiple.md) is a financial metric used to measure a
 
 ## Definition
 
-The EBIT/EV [multiple](../m/multiple.md) is a [valuation](../v/valuation.md) metric that provides a normalized measure of a company's [earnings](../e/earnings.md) relative to its overall [value](../v/value.md), incorporating both [equity](../e/equity.md) and [debt](../d/debt.md). It is particularly useful in comparing the [earnings yield](../e/earnings_yield.md) of different companies, especially when they are of different sizes or have different [capital](../c/capital.md) structures. 
+The EBIT/EV [multiple](../m/multiple.md) is a [valuation](../v/valuation.md) metric that provides a normalized measure of a company's [earnings](../e/earnings.md) relative to its overall [value](../v/value.md), incorporating both [equity](../e/equity.md) and [debt](../d/debt.md). It is particularly useful in comparing the [earnings yield](../e/earnings_yield.md) of different companies, especially when they are of different sizes or have different [capital](../c/capital.md) structures.
 
 - **EBIT ([Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md))**: This is a measure of a [firm](../f/firm.md)'s profitability that excludes [interest](../i/interest.md) and [income tax](../i/income_tax.md) expenses. EBIT is an [indicator](../i/indicator.md) of a company's operational profitability before the impact of [capital structure](../c/capital_structure.md) and tax regimes.
 
@@ -37,16 +37,16 @@ Where:
 Consider two companies, Company A and Company B:
 
 - Company A:
-  - EBIT: $500,000
-  - [Market Capitalization](../m/market_capitalization.md): $2,000,000
-  - Total [Debt](../d/debt.md): $1,000,000
-  - Cash and [Cash Equivalents](../c/cash_equivalents.md): $200,000
+ - EBIT: $500,000
+ - [Market Capitalization](../m/market_capitalization.md): $2,000,000
+ - Total [Debt](../d/debt.md): $1,000,000
+ - Cash and [Cash Equivalents](../c/cash_equivalents.md): $200,000
 
 - Company B:
-  - EBIT: $800,000
-  - [Market Capitalization](../m/market_capitalization.md): $3,500,000
-  - Total [Debt](../d/debt.md): $2,000,000
-  - Cash and [Cash Equivalents](../c/cash_equivalents.md): $300,000
+ - EBIT: $800,000
+ - [Market Capitalization](../m/market_capitalization.md): $3,500,000
+ - Total [Debt](../d/debt.md): $2,000,000
+ - Cash and [Cash Equivalents](../c/cash_equivalents.md): $300,000
 
 First, we calculate the Enterprise [Value](../v/value.md) for each company.
 

@@ -12,7 +12,7 @@ Consignment involves the transfer of goods from a consignor to a consignee. It i
 - **Consignee**: The agent or entity responsible for selling the consigned goods.
 - **Consignment Agreement**: The formal contract outlining the terms and conditions of the consignment relationship.
 - **[Commission](../c/commission.md)**: The [fee](../f/fee.md) taken by the consignee for selling the consignor's goods.
-  
+
 ## Applications of Consignment
 
 ### Retail Industry
@@ -54,9 +54,9 @@ Let's consider a real-world example involving a hypothetical [firm](../f/firm.md
 
 Several prominent firms in the trading [industry](../i/industry.md) adopt consignment strategies within their algo-trading frameworks. These companies have integrated consignment into their automated systems to enhance trading [efficiency](../e/efficiency.md) and reduce [risk](../r/risk.md) exposure.
 
-- **Virtu Financial**: A global leader in [market](../m/market.md) making and high-frequency trading, Virtu Financial employs sophisticated algorithms leveraging consigned assets to execute trades with remarkable speed and precision. [Virtu Financial](https://www.virtu.com/)
-- **Citadel Securities**: Known for its critical role in [liquidity provision](../l/liquidity_provision.md), Citadel Securities uses advanced algorithms that integrate consignment strategies to optimize [trade](../t/trade.md) [execution](../e/execution.md) across various financial instruments. [Citadel Securities](https://www.citadelsecurities.com/)
-- **Tower Research [Capital](../c/capital.md)**: This [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) specializes in using cutting-edge technology and algorithmic strategies for trading, often operating under consignment agreements to maximize profits and minimize risks. [Tower Research Capital](https://www.tower-research.com/)
+- **Virtu Financial**: A global leader in [market](../m/market.md) making and high-frequency trading, Virtu Financial employs sophisticated algorithms leveraging consigned assets to execute trades with remarkable speed and precision. Virtu Financial
+- **Citadel Securities**: Known for its critical role in [liquidity provision](../l/liquidity_provision.md), Citadel Securities uses advanced algorithms that integrate consignment strategies to optimize [trade](../t/trade.md) [execution](../e/execution.md) across various financial instruments. Citadel Securities
+- **Tower Research [Capital](../c/capital.md)**: This [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) specializes in using cutting-edge technology and algorithmic strategies for trading, often operating under consignment agreements to maximize profits and minimize risks. Tower Research Capital
 
 ### Benefits of Consignment in Algo-Trading
 

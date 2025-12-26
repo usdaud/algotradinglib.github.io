@@ -4,7 +4,7 @@ Convertible [preferred stock](../p/preferred_stock.md) is a type of [preferred s
 
 ## Key Characteristics of Convertible Preferred Stock
 
-### 1. **Fixed Dividend Payments** 
+### 1. **Fixed Dividend Payments**
 
 Holders of convertible [preferred stock](../p/preferred_stock.md) receive fixed [dividend](../d/dividend.md) payments, typically on a quarterly [basis](../b/basis.md). These dividends are usually higher than those paid on [common stock](../c/common_stock.md) and are declared as a percentage of the [par value](../p/par_value.md) of the [preferred stock](../p/preferred_stock.md). This feature provides a reliable [income](../i/income.md) stream for investors.
 
@@ -59,19 +59,16 @@ Convertible [preferred stock](../p/preferred_stock.md) can be structured to alig
 ### 1. **Berkshire Hathaway**
 [Berkshire Hathaway](../b/berkshire_hathaway.md), the [conglomerate](../c/conglomerate.md) led by Warren Buffett, utilizes convertible [preferred stock](../p/preferred_stock.md) in some of its investments. For instance, its $5 billion investment in [Bank](../b/bank.md) of America was initially in the form of [preferred stock](../p/preferred_stock.md), which was later converted into common [shares](../s/shares.md). This strategy allowed [Berkshire Hathaway](../b/berkshire_hathaway.md) to earn stable returns and later benefit from the appreciation in [Bank](../b/bank.md) of America’s stock.
 
-[Visit Berkshire Hathaway](https://www.berkshirehathaway.com)
 
 ### 2. **Tesla Inc.**
 
 Tesla issued convertible [preferred stock](../p/preferred_stock.md) as part of its [financing](../f/financing.md) strategy during its early growth stages. These instruments allowed Tesla to raise necessary [capital](../c/capital.md) while delaying [dilution](../d/dilution.md) of its common [equity](../e/equity.md) and maintaining control in the hands of its core shareholders.
 
-[Visit Tesla](https://www.tesla.com)
 
 ### 3. **Goldman Sachs**
 
 Goldman Sachs has used convertible [preferred stock](../p/preferred_stock.md) as a [financing](../f/financing.md) instrument, particularly during the [financial crisis](../f/financial_crisis.md) in 2008, to strengthen its [capital](../c/capital.md) base. The [firm](../f/firm.md) issued these [stocks](../s/stock.md) to investors including Warren Buffett’s [Berkshire Hathaway](../b/berkshire_hathaway.md), which invested $5 billion in Goldman Sachs through [preferred stock](../p/preferred_stock.md) that later got converted into common [shares](../s/shares.md), reflecting flexibility and confidence in the [firm](../f/firm.md).
 
-[Visit Goldman Sachs](https://www.goldmansachs.com)
 
 ## Historical Context and Trends
 

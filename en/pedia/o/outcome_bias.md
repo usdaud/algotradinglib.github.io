@@ -30,7 +30,7 @@ In the realm of [venture capital](../v/venture_capital.md), investors may fall p
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), where automated systems execute trades based on pre-defined criteria and models, outcome bias can cloud the evaluation of these models. A model that happens to perform well in specific [market](../m/market.md) conditions might be favored, even if its [underlying](../u/underlying.md) logic is unsound. Conversely, a [robust](../r/robust.md) model might be discarded if it produces losses under certain [market](../m/market.md) conditions. As a result, algorithmic traders might end up optimizing their systems for past performance rather than future robustness.
+In [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on pre-defined criteria and models, outcome bias can cloud the evaluation of these models. A model that happens to perform well in specific [market](../m/market.md) conditions might be favored, even if its [underlying](../u/underlying.md) logic is unsound. Conversely, a [robust](../r/robust.md) model might be discarded if it produces losses under certain [market](../m/market.md) conditions. As a result, algorithmic traders might end up optimizing their systems for past performance rather than future robustness.
 
 ## Mitigating Outcome Bias
 

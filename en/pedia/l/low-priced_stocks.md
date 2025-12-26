@@ -30,13 +30,11 @@ OTC markets provide a platform for trading low-priced [stocks](../s/stock.md) wi
 
 The OTCBB does have some regulatory oversight and requires companies to file financial reports with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC). However, the [disclosure](../d/disclosure.md) requirements are less stringent than those for companies [listed](../l/listed.md) on major exchanges.
 
-[OTCBB Website](https://www.finra.org)
 
 #### Pink Sheets
 
 [Pink Sheets](../p/pink_sheets.md), on the other hand, have minimal regulatory requirements, allowing even less-established companies to list their [shares](../s/shares.md). As a result, [Pink Sheets](../p/pink_sheets.md) have a reputation for being riskier than other marketplaces.
 
-[OTC Markets Website](https://www.otcmarkets.com)
 
 ### Major Exchanges
 
@@ -66,13 +64,11 @@ Though less common, some low-priced [stocks](../s/stock.md) do [trade](../t/trad
 
 The SEC regulates the U.S. securities markets and has rules designed to protect investors from [fraud](../f/fraud.md) and ensure fair dealings. Companies that [trade](../t/trade.md) on OTC markets are required to file annual and quarterly reports, including audited [financial statements](../f/financial_statements.md), to provide [transparency](../t/transparency.md).
 
-[SEC Website](https://www.sec.gov)
 
 ### FINRA
 
 [FINRA](../f/finra.md) oversees [broker](../b/broker.md)-dealers and enforces rules to ensure [market](../m/market.md) integrity and [investor](../i/investor.md) protection. They have specific rules for trading low-priced [stocks](../s/stock.md) to mitigate [fraud](../f/fraud.md) and protect investors.
 
-[FINRA Website](https://www.finra.org)
 
 ### Sarbanes-Oxley Act (SOX)
 

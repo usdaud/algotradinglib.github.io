@@ -72,15 +72,14 @@ The reliance on technology means that failures in [trading systems](../t/trading
 
 Several well-known firms are recognized for their expertise in quantitative [arbitrage](../a/arbitrage.md). These firms [leverage](../l/leverage.md) advanced technology and quantitative techniques to execute their strategies.
 
-- **Renaissance Technologies**: One of the most famous firms in the [quantitative trading](../q/quantitative_trading.md) space, Renaissance Technologies, employs highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. [Renaissance Technologies](https://www.rentec.com/)
+- **Renaissance Technologies**: One of the most famous firms in the [quantitative trading](../q/quantitative_trading.md) space, Renaissance Technologies, employs highly sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and computational techniques. Renaissance Technologies
 
-- **Two Sigma**: Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) relies heavily on [data science](../d/data_science_in_trading.md) and advanced analytics. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: Two Sigma uses [machine learning](../m/machine_learning.md) and distributed computing to develop its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) relies heavily on [data science](../d/data_science_in_trading.md) and advanced analytics. Two Sigma
 
-- **Citadel Securities**: Citadel is a leading [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel Securities**: Citadel is a leading [market maker](../m/market_maker.md) and [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that employs [quantitative strategies](../q/quantitative_strategies_in_trading.md) across various [asset](../a/asset.md) classes. Citadel Securities
 
-- **D. E. Shaw & Co.**: D. E. Shaw is known for its quantitative approach to trading and [investment management](../i/investment_management.md), using a combination of fundamental and [quantitative analysis](../q/quantitative_analysis.md). [D. E. Shaw & Co.](https://www.deshaw.com/)
+- **D. E. Shaw & Co.**: D. E. Shaw is known for its quantitative approach to trading and [investment management](../i/investment_management.md), using a combination of fundamental and [quantitative analysis](../q/quantitative_analysis.md). D. E. Shaw & Co.
 
 ## Conclusion
 
 Quantitative [arbitrage](../a/arbitrage.md) represents a sophisticated approach to trading that combines advanced [mathematical models](../m/mathematical_models_in_trading.md), computational techniques, and [real-time data analysis](../r/real-time_data_analysis.md) to exploit [market](../m/market.md) inefficiencies. While the strategies and methodologies can be complex, the fundamental goal is to achieve consistent, [risk](../r/risk.md)-adjusted returns. As technology and [data science](../d/data_science_in_trading.md) continue to evolve, quantitative [arbitrage](../a/arbitrage.md) [will](../w/will.md) likely remain at the forefront of innovation within the [financial markets](../f/financial_market.md).
-

@@ -9,37 +9,37 @@ The Klinger [Volume Oscillator](../v/volume_oscillator.md) (KVO) is a technical 
 The Klinger [Volume Oscillator](../v/volume_oscillator.md) involves a series of calculations based on [volume](../v/volume.md) and price movements. Here's a step-by-step breakdown of the process:
 
 1. **[Volume](../v/volume.md) Force (VF):**
-   - Calculate the [Volume](../v/volume.md) Force using the formula:
-     \[
-     VF_t = \[Delta](../d/delta.md) P_t \times V_t \times temp_t
-     \]
-     Where:
-     - \(\[Delta](../d/delta.md) P_t\) = Today's close price - Yesterday's close price
-     - \(V_t\) = Today's [volume](../v/volume.md)
-     - \(temp_t\) = A [factor](../f/factor.md) determined by comparing close prices of today and yesterday
-       - If today’s close is higher, \(temp_t\) is +1
-       - Otherwise, \(temp_t\) is -1
+ - Calculate the [Volume](../v/volume.md) Force using the formula:
+ \[
+ VF_t = \[Delta](../d/delta.md) P_t \times V_t \times temp_t
+ \]
+ Where:
+ - \(\[Delta](../d/delta.md) P_t\) = Today's close price - Yesterday's close price
+ - \(V_t\) = Today's [volume](../v/volume.md)
+ - \(temp_t\) = A [factor](../f/factor.md) determined by comparing close prices of today and yesterday
+ - If today’s close is higher, \(temp_t\) is +1
+ - Otherwise, \(temp_t\) is -1
 
 2. **Cumulative [Volume](../v/volume.md) Force (CVF):**
-   - Calculate the Cumulative [Volume](../v/volume.md) Force by summing up the [volume](../v/volume.md) force over a period (typically, 34 periods):
-     \[
-     CVF_t = \sum_{i=0}^{34} VF_i
-     \]
+ - Calculate the Cumulative [Volume](../v/volume.md) Force by summing up the [volume](../v/volume.md) force over a period (typically, 34 periods):
+ \[
+ CVF_t = \sum_{i=0}^{34} VF_i
+ \]
 
 3. **Short-term and Long-term Moving Averages:**
-   - Apply short-term (typically 34-period) and long-term (typically 55-period) exponential moving averages (EMAs) on the cumulative [volume](../v/volume.md) force:
-     \[
-     EMA_{short} = EMA(CVF, 34)
-     \]
-     \[
-     EMA_{long} = EMA(CVF, 55)
-     \]
+ - Apply short-term (typically 34-period) and long-term (typically 55-period) exponential moving averages (EMAs) on the cumulative [volume](../v/volume.md) force:
+ \[
+ EMA_{short} = EMA(CVF, 34)
+ \]
+ \[
+ EMA_{long} = EMA(CVF, 55)
+ \]
 
 4. **Klinger [Volume Oscillator](../v/volume_oscillator.md):**
-   - Calculate the KVO by subtracting the long-term EMA from the short-term EMA:
-     \[
-     KVO = EMA_{short} - EMA_{long}
-     \]
+ - Calculate the KVO by subtracting the long-term EMA from the short-term EMA:
+ \[
+ KVO = EMA_{short} - EMA_{long}
+ \]
 
 The KVO can also be smoothed by applying an additional 13-period moving average to reduce [noise](../n/noise.md) and make it more readable.
 
@@ -60,13 +60,13 @@ The primary aim of the KVO is to identify potential price reversals through the 
 The Klinger [Volume Oscillator](../v/volume_oscillator.md) is used by a variety of [market](../m/market.md) participants, including day traders, swing traders, and long-term investors, to make more informed trading decisions. Here are some practical applications:
 
 1. **Entry and Exit Points:**
-   - Traders use the KVO to identify potential entry and exit points based on the signals mentioned above.
-   
+ - Traders use the KVO to identify potential entry and exit points based on the signals mentioned above.
+
 2. **Confirming Trends:**
-   - The KVO can be used alongside other [technical indicators](../t/technical_indicators.md), such as moving averages and [momentum indicators](../m/momentum_indicators.md), to confirm the strength and direction of trends.
+ - The KVO can be used alongside other [technical indicators](../t/technical_indicators.md), such as moving averages and [momentum indicators](../m/momentum_indicators.md), to confirm the strength and direction of trends.
 
 3. **[Divergence](../d/divergence.md) Analysis:**
-   - By analyzing the [divergence](../d/divergence.md) between the KVO and price movements, traders can identify potential reversals and adjust their strategies accordingly.
+ - By analyzing the [divergence](../d/divergence.md) between the KVO and price movements, traders can identify potential reversals and adjust their strategies accordingly.
 
 ## Example - Practical Use Case
 
@@ -94,19 +94,15 @@ Several trading platforms and software [offer](../o/offer.md) the Klinger [Volum
 
 ### TradingView
 [TradingView](../t/tradingview.md) is a widely used charting platform that offers a comprehensive suite of [technical analysis](../t/technical_analysis.md) tools, including the KVO. Users can customize the [indicator](../i/indicator.md) settings to fit their [trading strategies](../t/trading_strategies.md).
-Visit [TradingView](https://www.tradingview.com)
 
 ### MetaTrader 4 (MT4)
 MetaTrader 4 is a popular [trading platform](../t/trading_platform.md) used by forex traders worldwide. The KVO can be added as a custom [indicator](../i/indicator.md), allowing traders to analyze [volume](../v/volume.md) trends in forex markets.
-Visit [MetaTrader 4](https://www.metatrader4.com)
 
 ### Thinkorswim by TD Ameritrade
 [Thinkorswim](../t/thinkorswim.md) is a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) provided by TD [Ameritrade](../a/ameritrade.md), [offering](../o/offering.md) extensive charting capabilities and [technical analysis](../t/technical_analysis.md) tools, including the Klinger [Volume Oscillator](../v/volume_oscillator.md).
-Visit [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html)
 
 ### NinjaTrader
 [NinjaTrader](../n/ninjatrader.md) is a [trading platform](../t/trading_platform.md) focused on [futures](../f/futures.md) and forex trading, providing a variety of advanced charting and analysis tools. The KVO is available for traders looking to enhance their [volume analysis](../v/volume_analysis.md).
-Visit [NinjaTrader](https://ninjatrader.com)
 
 ## Conclusion
 

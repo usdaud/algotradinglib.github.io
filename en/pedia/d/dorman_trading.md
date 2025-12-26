@@ -55,6 +55,3 @@ Dorman Trading employs [robust](../r/robust.md) [security](../s/security.md) pro
 - **Data Encryption**: Advanced encryption technologies to protect sensitive information.
 - **Secure Data Centers**: Physical and cyber [security](../s/security.md) measures to ensure the integrity of trading [infrastructure](../i/infrastructure.md).
 - **Regular Audits**: Compliance with regulatory requirements through regular internal and external audits.
-
-## Website
-For more information about Dorman Trading and their services, visit the official website: [Dorman Trading](https://www.dormantrading.com/)

@@ -68,19 +68,19 @@ Several tools and platforms [offer](../o/offer.md) functionalities for unusual [
 
 ### 1. Bloomberg Terminal
 
-[Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [volume analysis](../v/volume_analysis.md) tools, providing historical and real-time [volume](../v/volume.md) data, [volume](../v/volume.md) spikes, and alerts. (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/)
+[Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [volume analysis](../v/volume_analysis.md) tools, providing historical and real-time [volume](../v/volume.md) data, [volume](../v/volume.md) spikes, and alerts. (
 
 ### 2. Thomson Reuters Eikon
 
-Thomson [Reuters](../r/reuters.md) Eikon provides [volume analysis](../v/volume_analysis.md) capabilities, including [volume](../v/volume.md) [heatmaps](../h/heatmaps_in_trading.md), historical comparisons, and [volume](../v/volume.md) [trend indicators](../t/trend_indicators.md). (https://www.refinitiv.com/en/products/eikon-trading-software)
+Thomson [Reuters](../r/reuters.md) Eikon provides [volume analysis](../v/volume_analysis.md) capabilities, including [volume](../v/volume.md) [heatmaps](../h/heatmaps_in_trading.md), historical comparisons, and [volume](../v/volume.md) [trend indicators](../t/trend_indicators.md). (
 
 ### 3. TradeStation
 
-[TradeStation](../t/tradestation.md) offers [volume analysis](../v/volume_analysis.md) tools with customizable indicators, real-time [volume](../v/volume.md) spikes detection, and automated [trading strategies](../t/trading_strategies.md) based on [volume](../v/volume.md) metrics. (https://www.[tradestation](../t/tradestation.md).com/)
+[TradeStation](../t/tradestation.md) offers [volume analysis](../v/volume_analysis.md) tools with customizable indicators, real-time [volume](../v/volume.md) spikes detection, and automated [trading strategies](../t/trading_strategies.md) based on [volume](../v/volume.md) metrics. (
 
 ### 4. TradingView
 
-[TradingView](../t/tradingview.md) features a [robust](../r/robust.md) [volume analysis](../v/volume_analysis.md) suite, including VMAs, RVOL, VWAP, and custom [volume indicators](../v/volume_indicators.md). It also allows for community-shared scripts and indicators. (https://www.[tradingview](../t/tradingview.md).com/)
+[TradingView](../t/tradingview.md) features a [robust](../r/robust.md) [volume analysis](../v/volume_analysis.md) suite, including VMAs, RVOL, VWAP, and custom [volume indicators](../v/volume_indicators.md). It also allows for community-shared scripts and indicators. (
 
 ## Challenges in Unusual Trading Volume Analysis
 

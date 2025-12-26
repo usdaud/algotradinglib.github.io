@@ -96,22 +96,18 @@ ETFs and mutual funds use NAV tracking strategies to maintain alignment with the
 ### BlackRock
 
 BlackRock is a leading [investment management](../i/investment_management.md) company known for its [iShares](../i/ishares.md) ETFs, which heavily rely on sophisticated NAV tracking strategies.
-[BlackRock iShares](https://www.blackrock.com/us/individual/products/etf-investments)
 
 ### Vanguard
 
 Vanguard offers a [range](../r/range.md) of [index](../i/index_instrument.md) funds and ETFs, utilizing advanced [index](../i/index_instrument.md) replication and NAV tracking methodologies.
-[Vanguard](https://investor.vanguard.com/etf/)
 
 ### MSCI
 
 MSCI provides critical indices and analytical tools for NAV tracking, helping funds to align closely with [market](../m/market.md) indices.
-[MSCI](https://www.msci.com)
 
 ### FactSet
 
 [FactSet](../f/factset.md) offers financial data and analytics, including real-time NAV computation tools essential for [fund](../f/fund.md) managers.
-[FactSet](https://www.factset.com/)
 
 ## Challenges in NAV Tracking
 
@@ -130,4 +126,3 @@ Developing and maintaining complex algorithmic models require significant expert
 ## Conclusion
 
 NAV tracking strategies are an essential aspect of [algorithmic trading](../a/algorithmic_trading.md), providing traders and [fund](../f/fund.md) managers with the tools needed for fair [valuation](../v/valuation.md), performance measurement, and efficient [market](../m/market.md) operations. Leveraging advanced technologies and methodologies, these strategies help maintain the alignment between [market](../m/market.md) prices and the true [value](../v/value.md) of [underlying](../u/underlying.md) assets, fostering [trust](../t/trust.md) and confidence among investors. As technology evolves, NAV tracking strategies [will](../w/will.md) continue to play a critical role in the landscape of modern trading and [fund](../f/fund.md) management.
-

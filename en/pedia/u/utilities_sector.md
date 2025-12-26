@@ -68,19 +68,17 @@ Key financial metrics for analyzing [utility](../u/utility.md) companies include
 
 NextEra Energy is one of the largest electric [utility](../u/utility.md) companies in North America, known for its significant investments in renewable energy projects.
 
-[NextEra Energy, Inc.](https://www.nexteraenergy.com/)
+NextEra Energy, Inc.
 
 #### Duke Energy Corporation (NYSE: DUK)
 
 Duke Energy provides electricity to millions of customers across several states in the U.S. and has extensive natural gas operations.
 
-[Duke Energy Corporation](https://www.duke-energy.com/)
 
 #### American Water Works Company, Inc. (NYSE: AWK)
 
 American Water Works is the largest publicly traded U.S. water and wastewater [utility](../u/utility.md) company.
 
-[American Water Works](https://amwater.com/)
 
 ### Challenges and Risks
 

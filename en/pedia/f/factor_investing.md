@@ -1,10 +1,10 @@
 # Factor Investing
 
-[Factor](../f/factor.md) [investing](../i/investing.md) is an [investment strategy](../i/investment_strategy.md) that involves targeting specific drivers of [return](../r/return.md) across [asset](../a/asset.md) classes. It has become an increasingly popular approach among both institutional and individual investors because it provides a systematic way to capture excess returns while potentially reducing [risk](../r/risk.md). 
+[Factor](../f/factor.md) [investing](../i/investing.md) is an [investment strategy](../i/investment_strategy.md) that involves targeting specific drivers of [return](../r/return.md) across [asset](../a/asset.md) classes. It has become an increasingly popular approach among both institutional and individual investors because it provides a systematic way to capture excess returns while potentially reducing [risk](../r/risk.md).
 
 ## What is Factor Investing?
 
-[Factor](../f/factor.md) [investing](../i/investing.md) focuses on identifying and capitalizing on specific factors that explain differences in stock returns. These factors can be broken down into two primary categories: 
+[Factor](../f/factor.md) [investing](../i/investing.md) focuses on identifying and capitalizing on specific factors that explain differences in stock returns. These factors can be broken down into two primary categories:
 1. **Macro Factors** - These are economic and demographic conditions that affect all [asset](../a/asset.md) classes, such as [inflation](../i/inflation.md), [interest](../i/interest.md) rates, and GDP growth.
 2. **Style Factors** - These are characteristics of individual securities that can drive performance, such as [value](../v/value.md), size, [momentum](../m/momentum.md), quality, and [volatility](../v/volatility.md).
 
@@ -84,15 +84,15 @@ By systematically targeting sources of [excess return](../e/excess_return.md), [
 
 ### BlackRock
 
-BlackRock, one of the world’s largest [asset](../a/asset.md) managers, employs [factor](../f/factor.md) [investing](../i/investing.md) strategies through its [iShares](../i/ishares.md) [Smart Beta](../s/smart_beta.md) ETFs. BlackRock provides broad exposure to various factors such as [value](../v/value.md), quality, size, [momentum](../m/momentum.md), and minimum [volatility](../v/volatility.md). For more information, visit [BlackRock Factor Investing](https://www.blackrock.com/us/individual/investment-ideas/factor-investing).
+BlackRock, one of the world’s largest [asset](../a/asset.md) managers, employs [factor](../f/factor.md) [investing](../i/investing.md) strategies through its [iShares](../i/ishares.md) [Smart Beta](../s/smart_beta.md) ETFs. BlackRock provides broad exposure to various factors such as [value](../v/value.md), quality, size, [momentum](../m/momentum.md), and minimum [volatility](../v/volatility.md). For more information, visit BlackRock Factor Investing.
 
 ### AQR Capital Management
 
-AQR [Capital](../c/capital.md) Management is a prominent [hedge fund](../h/hedge_fund.md) known for its systematic and [factor](../f/factor.md)-based investment strategies. They [offer](../o/offer.md) several funds that focus on capturing [value](../v/value.md), [momentum](../m/momentum.md), and other style premia. For more information, visit [AQR Factor Investing](https://www.aqr.com/What-We-Do/Strategies/Factor).
+AQR [Capital](../c/capital.md) Management is a prominent [hedge fund](../h/hedge_fund.md) known for its systematic and [factor](../f/factor.md)-based investment strategies. They [offer](../o/offer.md) several funds that focus on capturing [value](../v/value.md), [momentum](../m/momentum.md), and other style premia. For more information, visit AQR Factor Investing.
 
 ### MSCI Factor Indexes
 
-MSCI offers a [range](../r/range.md) of [factor](../f/factor.md) indexes that allow investors to [gain](../g/gain.md) targeted exposure to specific factors within their portfolios. These indexes are designed to reflect the performance of securities exhibiting certain [factor](../f/factor.md) characteristics. For more information, visit [MSCI Factors](https://www.msci.com/factors).
+MSCI offers a [range](../r/range.md) of [factor](../f/factor.md) indexes that allow investors to [gain](../g/gain.md) targeted exposure to specific factors within their portfolios. These indexes are designed to reflect the performance of securities exhibiting certain [factor](../f/factor.md) characteristics. For more information, visit MSCI Factors.
 
 ## Potential Drawbacks and Challenges
 

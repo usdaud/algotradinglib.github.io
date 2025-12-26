@@ -2,7 +2,7 @@
 
 The Uniform Prudent [Investor](../i/investor.md) Act (UPIA) is a statutory framework in the United States designed to guide trustees and fiduciaries in managing investment portfolios with a focus on prudence and duty of care. Adopted in 1994 by the National Conference of Commissioners on Uniform State Laws, the UPIA modernizes prior regulations concerning fiduciary responsibilities, aligning with contemporary financial and investment practices. The act addresses the core principles of diversified investments, [risk tolerance](../r/risk_tolerance.md), duty of loyalty, and appropriate delegation.
 
-## Historical Context 
+## Historical Context
 
 ### Background
 Before the UPIA, trustees were largely governed by the "Prudent Man Rule," which was articulated in the 1830 case Harvard College v. Amory. This rule emphasized that trustees should make investment decisions with the care and intelligence that a prudent person would [exercise](../e/exercise.md) in managing their own assets. However, the Prudent Man Rule lacked specificity regarding modern investment practices, particularly in the context of diversified portfolios and [risk management](../r/risk_management.md).
@@ -65,7 +65,7 @@ While UPIA promotes a balanced approach to [risk](../r/risk.md) and [return](../
 ## Future Prospects
 
 ### Technological Integration
-As technology evolves, the management principles under UPIA are likely to integrate more advanced tools, such as [algorithmic trading](../a/accountability.md), robo-advisors, and [blockchain](../b/blockchain_in_trading.md)-based portfolio tracking. These innovations promise to enhance compliance, [efficiency](../e/efficiency.md), and performance monitoring.
+As technology evolves, the management principles under UPIA are likely to integrate more advanced tools, such as [algorithmic trading](../a/algorithmic_trading.md), robo-advisors, and [blockchain](../b/blockchain_in_trading.md)-based portfolio tracking. These innovations promise to enhance compliance, [efficiency](../e/efficiency.md), and performance monitoring.
 
 ### Regulatory Developments
 Future regulatory changes may further refine UPIA guidelines, incorporating new financial instruments, updating [risk](../r/risk.md) assessment methodologies, and addressing emerging trends in global markets.
@@ -75,6 +75,5 @@ The growing focus on sustainability and [Environmental, Social, and Governance (
 
 ## Conclusion
 
-The Uniform Prudent [Investor](../i/investor.md) Act represents a significant advancement in fiduciary governance, providing comprehensive guidelines for modern [investment management](../i/investment_management.md). By embracing [diversification](../d/diversification.md), balanced [risk](../r/risk.md) and [return](../r/return.md), and responsible delegation, UPIA ensures that trustees can effectively serve the best interests of beneficiaries while navigating the complexities of contemporary [financial markets](../f/financial_market.md). Despite its challenges, the act remains a pivotal framework in the evolving landscape of fiduciary responsibility and [investment strategy](../i/investment_strategy.md). 
+The Uniform Prudent [Investor](../i/investor.md) Act represents a significant advancement in fiduciary governance, providing comprehensive guidelines for modern [investment management](../i/investment_management.md). By embracing [diversification](../d/diversification.md), balanced [risk](../r/risk.md) and [return](../r/return.md), and responsible delegation, UPIA ensures that trustees can effectively serve the best interests of beneficiaries while navigating the complexities of contemporary [financial markets](../f/financial_market.md). Despite its challenges, the act remains a pivotal framework in the evolving landscape of fiduciary responsibility and [investment strategy](../i/investment_strategy.md).
 
-For more information, visit the National Conference of Commissioners on Uniform State Laws website.

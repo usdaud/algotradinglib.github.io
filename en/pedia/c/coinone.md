@@ -29,14 +29,14 @@ In compliance with South Korea's regulatory requirements, Coinone mandates Know 
 Coinone provides several API endpoints that can be used for [algorithmic trading](../a/accountability.md). Here are some of the key endpoints:
 
 - **Public Endpoints**: These endpoints provide access to [market](../m/market.md) data without requiring authentication.
-  - `/ticker`: Returns current ticker information.
-  - `/orderbook`: Provides [order book](../o/order_book.md) data.
-  - `/trades`: Returns recent trades.
+ - `/ticker`: Returns current ticker information.
+ - `/orderbook`: Provides [order book](../o/order_book.md) data.
+ - `/trades`: Returns recent trades.
 
 - **Private Endpoints**: These endpoints require API key authentication and provide access to account-specific data.
-  - `/balance`: Returns the user's balance information.
-  - `/[order](../o/order.md)`: Allows for placing, canceling, and checking the status of orders.
-  - `/ledger`: Provides [transaction](../t/transaction.md) history for the account.
+ - `/balance`: Returns the user's balance information.
+ - `/[order](../o/order.md)`: Allows for placing, canceling, and checking the status of orders.
+ - `/ledger`: Provides [transaction](../t/transaction.md) history for the account.
 
 ### Authentication
 Coinone uses API keys for authentication, which must be generated from the user's account settings. When making a request to a private endpoint, the API key must be included in the request headers.
@@ -67,4 +67,4 @@ As one of the leading exchanges in South Korea, Coinone often features among the
 Coinone supports a wide [range](../r/range.md) of [market](../m/market.md) pairs, with BTC/KRW, ETH/KRW, and XRP/KRW being some of the most traded pairs. The platform continuously adds new tokens, depending on [market](../m/market.md) [demand](../d/demand.md) and regulatory approvals.
 
 ## Conclusion
-Coinone is a comprehensive cryptocurrency [exchange](../e/exchange.md) platform that caters to different types of traders, from beginners to advanced algorithmic traders. Its [robust](../r/robust.md) [security](../s/security.md) measures, regulatory compliance, and extensive feature set make it a reliable choice for trading digital assets. For more detailed information, you can visit their official website: [Coinone](https://coinone.co.kr).
+Coinone is a comprehensive cryptocurrency [exchange](../e/exchange.md) platform that caters to different types of traders, from beginners to advanced algorithmic traders. Its [robust](../r/robust.md) [security](../s/security.md) measures, regulatory compliance, and extensive feature set make it a reliable choice for trading digital assets. For more detailed information,

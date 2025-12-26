@@ -46,7 +46,7 @@ In proprietary software, users pay a licensing [fee](../f/fee.md) to use the sof
 ### SaaS (Software as a Service)
 In the SaaS model, software is licensed on a subscription [basis](../b/basis.md) and hosted centrally. Users access the software via the internet, eliminating the need for traditional installation. Fees are typically recurring and based on user count or usage metrics.
 
-For more detailed information on SaaS and proprietary software licensing, you can visit Microsoft’s licensing webpage [here](https://www.microsoft.com/en-us/licensing).
+For more detailed information on SaaS and proprietary software licensing, you can visit Microsoft’s licensing webpage here.
 
 ## Licensing in Pharmaceuticals
 

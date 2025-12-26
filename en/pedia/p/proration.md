@@ -78,11 +78,11 @@ In certain cases, [insurance](../i/insurance.md) claims may be prorated based on
 
 ## Technical Proration in Algorithms and Automation
 
-Proration plays a critical role in [algorithmic trading](../a/accountability.md) and automated financial systems. These applications require precise and fair calculations to implement financial strategies, allocate resources, and make informed trading decisions.
+Proration plays a critical role in [algorithmic trading](../a/algorithmic_trading.md) and automated financial systems. These applications require precise and fair calculations to implement financial strategies, allocate resources, and make informed trading decisions.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems use proration to adjust [trading models](../t/trading_models.md) and strategies according to varying [market](../m/market.md) conditions, ensuring proportional and balanced investments. This is essential when dealing with partial fills, [order](../o/order.md) cancellations, or adjusting portfolios based on [market](../m/market.md) data.
+[Algorithmic trading](../a/algorithmic_trading.md) systems use proration to adjust [trading models](../t/trading_models.md) and strategies according to varying [market](../m/market.md) conditions, ensuring proportional and balanced investments. This is essential when dealing with partial fills, [order](../o/order.md) cancellations, or adjusting portfolios based on [market](../m/market.md) data.
 
 ### Automated Financial Systems
 

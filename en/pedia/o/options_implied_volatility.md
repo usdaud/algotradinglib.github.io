@@ -55,7 +55,7 @@ Understanding the VIX can help traders:
 - Gauge [investor](../i/investor.md) sentiment
 - Strategize [market](../m/market.md) entry and exit points
 
-For more details on the VIX, you can visit the [CBOE website](https://www.cboe.com/tradable_products/vix/).
+
 
 ## Factors Affecting Implied Volatility
 
@@ -110,19 +110,19 @@ Several financial platforms and tools assist traders in analyzing implied [volat
 
 [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive access to detailed IV data, [options](../o/options.md) chains, and analytical tools. It helps traders visualize and analyze implied [volatility](../v/volatility.md) while [offering](../o/offering.md) advanced charting capabilities.
 
-For more information, visit the [Bloomberg website](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+
 
 ### 2. **Thinkorswim**
 
 [Thinkorswim](../t/thinkorswim.md), a [trading platform](../t/trading_platform.md) by TD [Ameritrade](../a/ameritrade.md), provides powerful tools for [options](../o/options.md) traders. It includes features to analyze implied [volatility](../v/volatility.md), strategies, and [greeks](../g/greeks.md), helping traders make informed decisions.
 
-Learn more at [Thinkorswim](https://www.thinkorswim.com/).
+Learn more at Thinkorswim.
 
 ### 3. **TradeStation**
 
 [TradeStation](../t/tradestation.md) offers a suite of tools for analyzing implied [volatility](../v/volatility.md), including advanced [options](../o/options.md) charting and customizable analytical tools. It supports both novice and professional traders in their trading endeavors.
 
-Explore more on the [TradeStation website](https://www.tradestation.com/).
+
 
 ## Risks Associated with Implied Volatility
 

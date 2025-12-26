@@ -18,7 +18,7 @@ To [open](../o/open.md) a [margin](../m/margin.md) account, investors must meet 
 Two critical concepts in [margin trading](../m/margin_trading.md) are the [initial margin](../i/initial_margin.md) and [maintenance margin](../m/maintenance_margin.md):
 
 - **[Initial Margin](../i/initial_margin.md)**: This is the amount of the [investor](../i/investor.md)'s own [money](../m/money.md) that must be deposited when making a [margin](../m/margin.md) purchase. According to Regulation T of the Federal Reserve, the [initial margin](../i/initial_margin.md) requirement is typically 50% of the purchase price for [stocks](../s/stock.md).
-  
+
 - **[Maintenance Margin](../m/maintenance_margin.md)**: This is the minimum [equity](../e/equity.md) an [investor](../i/investor.md) must maintain in their [margin](../m/margin.md) account after the initial [transaction](../t/transaction.md). FINRA requires a [maintenance margin](../m/maintenance_margin.md) of at least 25%, although individual brokers may enforce higher requirements.
 
 ## Benefits of Margin Trading
@@ -56,4 +56,4 @@ Investors use various strategies when trading on [margin](../m/margin.md):
 
 ## Conclusion
 
-A [margin](../m/margin.md) account can significantly enhance an [investor](../i/investor.md)’s ability to amplify returns by leveraging borrowed funds. However, it also introduces an increased level of [risk](../r/risk.md), including the possibility of substantial losses and the obligation to meet [margin](../m/margin.md) calls. Understanding the mechanics, benefits, and risks of [margin trading](../m/margin_trading.md) is essential for any [investor](../i/investor.md) considering this strategy. For those who can master it, [margin trading](../m/margin_trading.md) can be a powerful tool within a diversified investment portfolio. For further information on [margin](../m/margin.md) account offerings and specific brokerage requirements, consult the website of major brokerage firms such as [E*TRADE](https://us.etrade.com/home) or [TD Ameritrade](https://www.tdameritrade.com/).
+A [margin](../m/margin.md) account can significantly enhance an [investor](../i/investor.md)’s ability to amplify returns by leveraging borrowed funds. However, it also introduces an increased level of [risk](../r/risk.md), including the possibility of substantial losses and the obligation to meet [margin](../m/margin.md) calls. Understanding the mechanics, benefits, and risks of [margin trading](../m/margin_trading.md) is essential for any [investor](../i/investor.md) considering this strategy. For those who can master it, [margin trading](../m/margin_trading.md) can be a powerful tool within a diversified investment portfolio. For further information on [margin](../m/margin.md) account offerings and specific brokerage requirements, consult the online platform of major brokerage firms such as E*TRADE or TD Ameritrade.

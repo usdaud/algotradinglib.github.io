@@ -1,6 +1,6 @@
 # Special Purpose Vehicle (SPV)
 
-A Special Purpose Vehicle (SPV), also known as a Special Purpose Entity (SPE), is a legal entity created to fulfill narrow, specific, or temporary objectives. SPVs are often used by companies to isolate [financial risk](../f/financial_risk.md). Their legal status as a separate company makes its [obligations](../o/obligation.md) secure even if the [parent company](../p/parent_company.md) goes bankrupt. This document delves deeply into the concept, utilization, and implications of SPVs in the realm of [finance](../f/finance.md) and trading. 
+A Special Purpose Vehicle (SPV), also known as a Special Purpose Entity (SPE), is a legal entity created to fulfill narrow, specific, or temporary objectives. SPVs are often used by companies to isolate [financial risk](../f/financial_risk.md). Their legal status as a separate company makes its [obligations](../o/obligation.md) secure even if the [parent company](../p/parent_company.md) goes bankrupt. This document delves deeply into the concept, utilization, and implications of SPVs in the realm of [finance](../f/finance.md) and trading.
 
 ### Definition and Purpose
 An SPV is a subsidiary entity created for a single, well-defined purpose, commonly to isolate [risk](../r/risk.md) when structuring financial transactions or to achieve other specific [business](../b/business.md) objectives. SPVs are legally distinct from the [parent company](../p/parent_company.md), providing a layer of protection. The main reasons businesses create SPVs include [risk](../r/risk.md) isolation, [asset](../a/asset.md) [securitization](../s/securitization.md), and [structured finance](../s/structured_finance.md).
@@ -57,5 +57,4 @@ Special Purpose Vehicles are powerful tools in the arsenal of modern financial m
 
 For more detailed information, you can visit resources directly from financial regulatory bodies or professional service firms that specialize in financial structuring and regulatory compliance.
 
-Example link: [Deloitte - Special Purpose Entities](https://www2.deloitte.com/global/en/pages/risk/articles/special-purpose-entities.html)
-
+Example link: Deloitte - Special Purpose Entities

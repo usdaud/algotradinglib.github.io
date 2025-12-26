@@ -52,9 +52,9 @@ The process of arriving at an auditor’s opinion involves several steps:
 
 ## Real-World Examples
 
-- **Apple Inc.**: Consistently receiving unqualified opinions, Apple Inc. showcases financial stability and strong [internal controls](../i/internal_controls.md) ([Apple Inc.](https://www.apple.com)).
-- **Enron [Corporation](../c/corporation.md)**: Infamous for misleading [financial statements](../f/financial_statements.md), leading to an eventual adverse opinion and the company's collapse ([Enron Corporation](https://www.sec.gov/news/press/2001-143.htm)).
-- **Wirecard AG**: The 2020 scandal where auditors eventually issued a disclaimer of opinion due to missing €1.9 billion, leading to [insolvency](../i/insolvency.md) ([Wirecard AG](https://www.wirecard.com)).
+- **Apple Inc.**: Consistently receiving unqualified opinions, Apple Inc. showcases financial stability and strong [internal controls](../i/internal_controls.md) (Apple Inc.).
+- **Enron [Corporation](../c/corporation.md)**: Infamous for misleading [financial statements](../f/financial_statements.md), leading to an eventual adverse opinion and the company's collapse (Enron Corporation).
+- **Wirecard AG**: The 2020 scandal where auditors eventually issued a disclaimer of opinion due to missing €1.9 billion, leading to [insolvency](../i/insolvency.md) (Wirecard AG).
 
 ## Conclusion
 

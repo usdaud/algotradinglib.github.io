@@ -84,17 +84,16 @@ Recent advancements in [machine learning](../m/machine_learning.md) have led to 
 
 ### IVolatility
 
-[IVolatility](https://www.ivolatility.com) provides a comprehensive suite of tools and data services for [options](../o/options.md) traders. Their offerings include implied [volatility](../v/volatility.md) data, skew graphs, and term structure charts that help traders construct and analyze [volatility](../v/volatility.md) surfaces.
+IVolatility provides a comprehensive suite of tools and data services for [options](../o/options.md) traders. Their offerings include implied [volatility](../v/volatility.md) data, skew graphs, and term structure charts that help traders construct and analyze [volatility](../v/volatility.md) surfaces.
 
 ### OptionMetrics
 
-[OptionMetrics](https://optionmetrics.com) is another leading provider of [options](../o/options.md) data and analytics. They [offer](../o/offer.md) historical and real-time data on implied [volatility](../v/volatility.md), which traders can use to build and analyze their [volatility](../v/volatility.md) surfaces.
+OptionMetrics is another leading provider of [options](../o/options.md) data and analytics. They [offer](../o/offer.md) historical and real-time data on implied [volatility](../v/volatility.md), which traders can use to build and analyze their [volatility](../v/volatility.md) surfaces.
 
 ### OptionVue
 
-[OptionVue](https://www.optionvue.com) offers advanced [options](../o/options.md) analytics software that includes [volatility](../v/volatility.md) surface modeling. Their tools allow traders to visualize and analyze implied volatilities across different strike prices and expiration dates.
+OptionVue offers advanced [options](../o/options.md) analytics software that includes [volatility](../v/volatility.md) surface modeling. Their tools allow traders to visualize and analyze implied volatilities across different strike prices and expiration dates.
 
 ## Conclusion
 
 Understanding and accurately modeling the [volatility](../v/volatility.md) surface is critical for [options](../o/options.md) trading, [risk management](../r/risk_management.md), and [financial modeling](../f/financial_modeling.md). It provides a detailed picture of [market](../m/market.md) expectations and helps traders make more informed decisions. By leveraging advanced techniques and comprehensive data, traders and [risk](../r/risk.md) managers can construct [robust](../r/robust.md) [volatility](../v/volatility.md) surfaces that enhance their strategies and improve their understanding of [market dynamics](../m/market_dynamics.md).
-

@@ -29,21 +29,21 @@ Paper trading platforms typically include [robust](../r/robust.md) performance t
 ## Platforms and Tools
 
 ### TD Ameritrade's Thinkorswim
-TD [Ameritrade](../a/ameritrade.md) is one of the leading brokers [offering](../o/offering.md) a comprehensive paper [trading platform](../t/trading_platform.md) through its thinkorswim desktop software. [Thinkorswim PaperMoney](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) offers real-time data and extensive tools for running simulated trades.
+TD [Ameritrade](../a/ameritrade.md) is one of the leading brokers [offering](../o/offering.md) a comprehensive paper [trading platform](../t/trading_platform.md) through its thinkorswim desktop software. Thinkorswim PaperMoney offers real-time data and extensive tools for running simulated trades.
 
 ### Interactive Brokers' PaperTrader
-[Interactive Brokers](../i/interactive_brokers.md) also provides a paper trading service that mirrors their real [trading platform](../t/trading_platform.md). It includes access to actual [market](../m/market.md) prices and allows the testing of more sophisticated [trading systems](../t/trading_systems.md). [Interactive Brokers PaperTrader](https://www.interactivebrokers.com/en/index.php?f=769).
+[Interactive Brokers](../i/interactive_brokers.md) also provides a paper trading service that mirrors their real [trading platform](../t/trading_platform.md). It includes access to actual [market](../m/market.md) prices and allows the testing of more sophisticated [trading systems](../t/trading_systems.md). Interactive Brokers PaperTrader.
 
 ### TradingView Paper Trading
-[TradingView](../t/tradingview.md) offers a web-based paper trading interface integrated into its charting platform. It’s particularly popular for [technical analysis](../t/technical_analysis.md) and strategy testing. [TradingView Paper Trading](https://www.tradingview.com/paper-trading/).
+[TradingView](../t/tradingview.md) offers a web-based paper trading interface integrated into its charting platform. It’s particularly popular for [technical analysis](../t/technical_analysis.md) and strategy testing. TradingView Paper Trading.
 
 ### NinjaTrader Simulation
-[NinjaTrader](../n/ninjatrader.md)’s [simulation](../s/simulation_in_trading.md) feature allows traders to test custom-built [trading strategies](../t/trading_strategies.md) and assess [market](../m/market.md) conditions and [trade](../t/trade.md) outcomes without risking actual investments. [NinjaTrader Simulation](https://ninjatrader.com/Simulate-Futures-Trading).
+[NinjaTrader](../n/ninjatrader.md)’s [simulation](../s/simulation_in_trading.md) feature allows traders to test custom-built [trading strategies](../t/trading_strategies.md) and assess [market](../m/market.md) conditions and [trade](../t/trade.md) outcomes without risking actual investments. NinjaTrader Simulation.
 
 ## Step-by-Step Guide to Paper Trading
 
 ### 1. Choose a Platform
-The first step is to select a paper [trading platform](../t/trading_platform.md) that suits your needs. Factors to consider include the types of assets you wish to [trade](../t/trade.md) ([stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), forex, cryptocurrencies), the level of data and analytical tools provided, and whether the platform supports custom [algorithmic trading](../a/accountability.md).
+The first step is to select a paper [trading platform](../t/trading_platform.md) that suits your needs. Factors to consider include the types of assets you wish to [trade](../t/trade.md) ([stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), forex, cryptocurrencies), the level of data and analytical tools provided, and whether the platform supports custom [algorithmic trading](../a/algorithmic_trading.md).
 
 ### 2. Account Setup
 After selecting a platform, you generally need to sign up for an account. Most platforms provide a seamless process for this and may also [offer](../o/offer.md) walkthroughs or tutorials.

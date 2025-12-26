@@ -1,10 +1,10 @@
 # Median Price Oscillator
 
-The [Median](../m/median.md) Price [Oscillator](../o/oscillator.md) (MPO) is a [momentum](../m/momentum.md)-based [technical analysis](../t/technical_analysis.md) tool used primarily in the realm of [algorithmic trading](../a/algorithmic_trading.md). The MPO helps traders visualize and analyze the [momentum](../m/momentum.md) of securities by tracing the variation between the [median](../m/median.md) price of an [asset](../a/asset.md) and its smoothed exponential moving average (EMA). This [indicator](../i/indicator.md) belongs to the oscillatory category, providing cues on [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, the overall strength of a [trend](../t/trend.md), and potential [reversal](../r/reversal.md) points. 
+The [Median](../m/median.md) Price [Oscillator](../o/oscillator.md) (MPO) is a [momentum](../m/momentum.md)-based [technical analysis](../t/technical_analysis.md) tool used primarily in the realm of [algorithmic trading](../a/algorithmic_trading.md). The MPO helps traders visualize and analyze the [momentum](../m/momentum.md) of securities by tracing the variation between the [median](../m/median.md) price of an [asset](../a/asset.md) and its smoothed exponential moving average (EMA). This [indicator](../i/indicator.md) belongs to the oscillatory category, providing cues on [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions, the overall strength of a [trend](../t/trend.md), and potential [reversal](../r/reversal.md) points.
 
 ## Understanding the Median Price
 
-The [median](../m/median.md) price is calculated by averaging the highest and the lowest prices of a [security](../s/security.md) within a specific period. The formula for the [median](../m/median.md) price is: 
+The [median](../m/median.md) price is calculated by averaging the highest and the lowest prices of a [security](../s/security.md) within a specific period. The formula for the [median](../m/median.md) price is:
 
 \[ \text{[Median](../m/median.md) Price} = \frac{(\text{High} + \text{Low})}{2} \]
 
@@ -17,31 +17,31 @@ Here:
 The [Median](../m/median.md) Price [Oscillator](../o/oscillator.md) is considered a two-step process involving the calculation of the [median](../m/median.md) price and comparing it to an EMA. Here is a step-by-step breakdown:
 
 1. **Calculate [Median](../m/median.md) Price:**
-   
-   As mentioned, the [median](../m/median.md) price is calculated by taking the sum of the highest and lowest price and dividing it by 2.
+
+ As mentioned, the [median](../m/median.md) price is calculated by taking the sum of the highest and lowest price and dividing it by 2.
 
 2. **Calculate EMA of [Median](../m/median.md) Price:**
 
-   An exponentially smoothed moving average of the [median](../m/median.md) price is then calculated. The EMA is a type of moving average that gives greater weight to the most recent prices, hence it reacts more quickly to recent price changes.
+ An exponentially smoothed moving average of the [median](../m/median.md) price is then calculated. The EMA is a type of moving average that gives greater weight to the most recent prices, hence it reacts more quickly to recent price changes.
 
-   The EMA formula for a series of prices is:
+ The EMA formula for a series of prices is:
 
-   \[
-   \text{EMA} = \left[ \text{Price}_{\text{current}} - \text{EMA}_{\text{previous}} \right] \times \left( \frac{2}{n+1} \right) + \text{EMA}_{\text{previous}}
-   \]
+ \[
+ \text{EMA} = \left[ \text{Price}_{\text{current}} - \text{EMA}_{\text{previous}} \right] \times \left( \frac{2}{n+1} \right) + \text{EMA}_{\text{previous}}
+ \]
 
-   Here:
-   - `Price_current` is the [median](../m/median.md) price of the current period.
-   - `EMA_previous` is the EMA [value](../v/value.md) of the previous period.
-   - `n` is the number of periods used to calculate the EMA.
+ Here:
+ - `Price_current` is the [median](../m/median.md) price of the current period.
+ - `EMA_previous` is the EMA [value](../v/value.md) of the previous period.
+ - `n` is the number of periods used to calculate the EMA.
 
 3. **Calculate MPO:**
-   
-   Finally, the MPO can be found by subtracting the EMA of the [median](../m/median.md) price from the current [median](../m/median.md) price.
 
-   \[
-   \text{MPO} = \text{[Median](../m/median.md) Price} - \text{EMA}_{\text{[Median](../m/median.md) Price}}
-   \]
+ Finally, the MPO can be found by subtracting the EMA of the [median](../m/median.md) price from the current [median](../m/median.md) price.
+
+ \[
+ \text{MPO} = \text{[Median](../m/median.md) Price} - \text{EMA}_{\text{[Median](../m/median.md) Price}}
+ \]
 
 ## Interpreting the Median Price Oscillator
 
@@ -66,10 +66,10 @@ Consider an algorithm that utilizes the [Median](../m/median.md) Price [Oscillat
 1. **Data Collection:** Gather historical price data including highest and lowest daily prices.
 2. **[Indicator](../i/indicator.md) Calculation:** Calculate the [median](../m/median.md) prices and their EMAs over a chosen period, and then derive the MPO.
 3. **Decision Making:**
-    - If MPO > 0.01, go long (buy).
-    - If MPO < -0.01, go short (sell).
-    - If MPO crosses the zero line from below, initiate a long position.
-    - If MPO crosses the zero line from above, initiate a short position.
+ - If MPO > 0.01, go long (buy).
+ - If MPO < -0.01, go short (sell).
+ - If MPO crosses the zero line from below, initiate a long position.
+ - If MPO crosses the zero line from above, initiate a short position.
 4. **[Execution](../e/execution.md):** Automatically place buy or sell orders based on the MPO readings.
 5. **Monitoring and Adjustment:** Continuously monitor MPO values to adjust positions as needed.
 
@@ -93,4 +93,4 @@ Several trading platforms and [software tools](../s/software_tools_for_trading.m
 
 The [Median](../m/median.md) Price [Oscillator](../o/oscillator.md) is a versatile and insightful tool in the toolkit of algorithmic traders. With its ability to gauge [momentum](../m/momentum.md) and signal potential [trend](../t/trend.md) reversals, it aids in making more informed trading decisions. However, like all [technical indicators](../t/technical_indicators.md), it should be used in conjunction with other tools and methods to maximize its effectiveness. Understanding its calculation, interpretation, and application can significantly enhance [trading algorithms](../t/trading_algorithms.md), enabling traders to navigate [financial markets](../f/financial_market.md) with greater precision.
 
-For those looking to dive deeper into MPO and develop customized [trading strategies](../t/trading_strategies.md) around it, exploring comprehensive trading platforms like [MetaTrader](https://www.metatrader4.com) or [NinjaTrader](https://www.ninjatrader.com/) is highly recommended.
+For those looking to dive deeper into MPO and develop customized [trading strategies](../t/trading_strategies.md) around it, exploring comprehensive trading platforms like MetaTrader or NinjaTrader is highly recommended.

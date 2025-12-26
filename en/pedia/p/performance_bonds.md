@@ -90,8 +90,8 @@ Digital platforms streamline the application, issuance, and claims processes, pr
 
 #### Example Platforms
 
-- [SuretyBonds.com](https://www.suretybonds.com)
-- [BondExchange](https://www.bondexchange.com)
+- SuretyBonds.com
+- BondExchange
 
 ## Conclusion
 

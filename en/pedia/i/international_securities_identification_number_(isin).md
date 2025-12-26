@@ -6,7 +6,7 @@ The International Securities Identification Number (ISIN) plays a critical role 
 
 An ISIN is a 12-character alphanumeric code that is divided into three parts:
 
-1. **Country Code**: The first two characters represent the country of the [issuer](../i/issuer.md) as defined by the ISO 3166-1 [alpha](../a/alpha.md)-2 standard. For example, "US" for the United States or "AU" for Australia.
+1. **Country Code**: The first two characters represent the country of the [issuer](../i/issuer.md) as defined by the ISO 3166-1 alpha-2 standard. For example, "US" for the United States or "AU" for Australia.
 2. **National [Security](../s/security.md) Identifier**: The next nine characters are the unique identifier for the specific [security](../s/security.md). This section is often derived from a local identifier, such as a [ticker symbol](../t/ticker_symbol.md) or CUSIP in the United States.
 3. **[Check](../c/check.md) Digit**: The final character is a checksum that is calculated using the [Luhn algorithm](../l/luhn_algorithm.md), which helps validate the ISIN.
 
@@ -29,11 +29,11 @@ Having a unique identifier for each [security](../s/security.md) ensures that tr
 
 ## ISIN and Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), ISIN codes are incredibly important. Algorithms rely on precise, unambiguous data to execute trades efficiently and effectively. Incorrect or ambiguous [security](../s/security.md) identifiers can result in erroneous trades, which could be costly. 
+In the context of [algorithmic trading](../a/algorithmic_trading.md), ISIN codes are incredibly important. Algorithms rely on precise, unambiguous data to execute trades efficiently and effectively. Incorrect or ambiguous [security](../s/security.md) identifiers can result in erroneous trades, which could be costly.
 
 ### Data Integration
 
-[Algorithmic trading](../a/accountability.md) systems often integrate [multiple](../m/multiple.md) data sources, including [market](../m/market.md) data, [economic indicators](../e/economic_indicators.md), and news feeds. ISIN codes serve as a common reference point, enabling these systems to correctly associate all relevant data with the appropriate securities.
+[Algorithmic trading](../a/algorithmic_trading.md) systems often integrate [multiple](../m/multiple.md) data sources, including [market](../m/market.md) data, [economic indicators](../e/economic_indicators.md), and news feeds. ISIN codes serve as a common reference point, enabling these systems to correctly associate all relevant data with the appropriate securities.
 
 ### Risk Management
 
@@ -44,10 +44,8 @@ Accurate identification of securities through ISIN codes supports better [risk m
 ### National Numbering Agencies (NNAs)
 
 ISIN codes are issued by National Numbering Agencies (NNAs). Each country has a designated NNA responsible for allocating ISINs to securities issued within its jurisdiction. For example:
-- **US**: The CUSIP Global Services (https://www.cusip.com/cusip/[index](../i/index_instrument.md).htm)
-- **UK**: London Stock [Exchange](../e/exchange.md) (https://www.lseg.com)
-- **Germany**: Wertpapier-Mitteilungen (https://www.wmdaten.com)
-
+- **US**: The CUSIP Global Services - **UK**: London Stock [Exchange](../e/exchange.md) (
+- **Germany**: Wertpapier-Mitteilungen
 ### The Role of ANNA
 
 The Association of National Numbering Agencies (ANNA) oversees the issuance of ISIN codes globally by coordinating the efforts of NNAs. ANNA ensures that the allocation of ISIN codes adheres to the ISO 6166 standard.
@@ -98,4 +96,4 @@ Ongoing advancements in data management, including [artificial intelligence](../
 
 ## Conclusion
 
-The International Securities Identification Number (ISIN) is an essential component of the [financial markets](../f/financial_market.md), providing a standardized method for identifying and trading securities globally. In the realm of [algorithmic trading](../a/accountability.md), ISIN codes are indispensable, ensuring the accuracy and [efficiency](../e/efficiency.md) of [trading algorithms](../t/trading_algorithms.md). As technology and regulations evolve, the role of ISIN codes [will](../w/will.md) continue to expand, further solidifying their importance in the world's [financial system](../f/financial_system.md).
+The International Securities Identification Number (ISIN) is an essential component of the [financial markets](../f/financial_market.md), providing a standardized method for identifying and trading securities globally. In the realm of [algorithmic trading](../a/algorithmic_trading.md), ISIN codes are indispensable, ensuring the accuracy and [efficiency](../e/efficiency.md) of [trading algorithms](../t/trading_algorithms.md). As technology and regulations evolve, the role of ISIN codes [will](../w/will.md) continue to expand, further solidifying their importance in the world's [financial system](../f/financial_system.md).

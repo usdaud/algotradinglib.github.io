@@ -20,7 +20,7 @@ Entanglement is a property that allows quantum bits to be interconnected such th
 
 Several [quantum algorithms](../q/quantum_algorithms_in_trading.md) [hold](../h/hold.md) promise for financial applications. Among the most notable are:
 
-- **Quantum [Optimization](../o/optimization.md) Algorithms**: Used for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and [arbitrage](../a/arbitrage.md) strategies. 
+- **Quantum [Optimization](../o/optimization.md) Algorithms**: Used for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and [arbitrage](../a/arbitrage.md) strategies.
 - **[Quantum Machine Learning](../q/quantum_machine_learning.md) Algorithms**: Enhance [predictive modeling](../p/predictive_modeling.md) and data analysis capabilities.
 - **Quantum [Monte Carlo Methods](../m/monte_carlo_methods.md)**: Improve the accuracy and speed of simulations for pricing [derivatives](../d/derivatives.md) and assessing [market](../m/market.md) risks.
 
@@ -51,17 +51,14 @@ Pricing complex financial [derivatives](../d/derivatives.md) requires significan
 ### IBM Quantum
 
 IBM offers one of the most advanced [quantum computing](../q/quantum_computing_in_trading.md) platforms, IBM Quantum Experience, which allows access to quantum computers for research and commercial purposes, including [finance](../f/finance.md).
-[IBM Quantum](https://www.ibm.com/quantum-computing/)
 
 ### D-Wave Systems
 
 D-Wave specializes in quantum annealing, a form of [quantum computing](../q/quantum_computing_in_trading.md) optimized for combinatorial [optimization](../o/optimization.md) problems, which are common in financial applications such as [portfolio management](../p/portfolio_management.md) and [risk](../r/risk.md) assessment.
-[D-Wave Systems](https://www.dwavesys.com/)
 
 ### Xanadu
 
 Xanadu is a company that focuses on photonic [quantum computing](../q/quantum_computing_in_trading.md) and develops tools for [quantum machine learning](../q/quantum_machine_learning.md), which can be used in [quantitative finance](../q/quantitative_finance.md) for better [predictive modeling](../p/predictive_modeling.md) and data analysis.
-[Xanadu](https://www.xanadu.ai/)
 
 ## Advantages of Quantum Finance Models
 

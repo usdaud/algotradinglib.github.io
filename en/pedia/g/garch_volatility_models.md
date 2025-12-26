@@ -8,7 +8,7 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 
 ## The Genesis of ARCH and GARCH Models
 
-The ARCH model was introduced by Robert Engle in 1982, and it led to a paradigm shift in the way economists and analysts model time-varying [volatility](../v/volatility.md). The basic idea behind the ARCH model is that today's variance (or [volatility](../v/volatility.md)) of the error terms can be explained by past values of the error terms. While the ARCH model was a significant advancement, it required high-[order](../o/order.md) models (many lag terms) to capture long memories in [volatility](../v/volatility.md), which made it cumbersome and often impractical. 
+The ARCH model was introduced by Robert Engle in 1982, and it led to a paradigm shift in the way economists and analysts model time-varying [volatility](../v/volatility.md). The basic idea behind the ARCH model is that today's variance (or [volatility](../v/volatility.md)) of the error terms can be explained by past values of the error terms. While the ARCH model was a significant advancement, it required high-[order](../o/order.md) models (many lag terms) to capture long memories in [volatility](../v/volatility.md), which made it cumbersome and often impractical.
 
 To address these shortcomings, Tim Bollerslev introduced the GARCH model in 1986, which combines both lagged values of the squared returns (from the ARCH model) and lagged values of past variances, making the model more parsimonious and better suited for [financial time series](../f/financial_time_series.md) data.
 
@@ -36,23 +36,23 @@ The simplest and most commonly used version is the GARCH(1,1) model:
 
 This indicates that today’s variance is a function of a constant, yesterday’s squared [return](../r/return.md) (shock), and yesterday’s variance.
 
-### Extensions of GARCH Models 
+### Extensions of GARCH Models
 
 1. **EGARCH (Exponential GARCH)**: Models the logarithm of the conditional variance, capturing asymmetry in [volatility](../v/volatility.md).
-   
-   \[ \ln(\sigma_t^2) = \omega + \beta \ln(\sigma_{t-1}^2) + \[alpha](../a/alpha.md) \left( \frac{\epsilon_{t-1}}{\sigma_{t-1}} \right) + \[gamma](../g/gamma.md) \left( \left| \frac{\epsilon_{t-1}}{\sigma_{t-1}} \right| - \sqrt{\frac{2}{\pi}} \right) \]
+
+ \[ \ln(\sigma_t^2) = \omega + \beta \ln(\sigma_{t-1}^2) + \lpha \left( \frac{\epsilon_{t-1}}{\sigma_{t-1}} \right) + \gamma \left( \left| \frac{\epsilon_{t-1}}{\sigma_{t-1}} \right| - \sqrt{\frac{2}{\pi}} \right) \]
 
 2. **TGARCH (Threshold GARCH)**: Captures [leverage](../l/leverage.md) effects in financial data through threshold effects.
-   
-   \[ \sigma_t^2 = \omega + \[alpha](../a/alpha.md) \epsilon_{t-1}^2 + \[gamma](../g/gamma.md) \epsilon_{t-1}^2 I(\epsilon_{t-1} < 0) + \[beta](../b/beta.md) \sigma_{t-1}^2 \]
+
+ \[ \sigma_t^2 = \omega + \lpha \epsilon_{t-1}^2 + \gamma \epsilon_{t-1}^2 I(\epsilon_{t-1} < 0) + \beta \sigma_{t-1}^2 \]
 
 3. **GJR-GARCH**: Extends the TGARCH model by adding a [leverage](../l/leverage.md) term.
-   
-   \[ \sigma_t^2 = \omega + (\[alpha](../a/alpha.md) + \[gamma](../g/gamma.md) I(\epsilon_{t-1} < 0)) \epsilon_{t-1}^2 + \[beta](../b/beta.md) \sigma_{t-1}^2 \]
+
+ \[ \sigma_t^2 = \omega + (\lpha + \gamma I(\epsilon_{t-1} < 0)) \epsilon_{t-1}^2 + \beta \sigma_{t-1}^2 \]
 
 4. **CARR (Conditional Autoregressive [Range](../r/range.md))**: Focuses on the [range](../r/range.md) (high - low) of [asset](../a/asset.md) prices.
-   
-   \[ r_t = \sigma_t v_t, \quad \sigma_t^2 = \omega + \beta \sigma_{t-1}^2 + \[alpha](../a/alpha.md) r_{t-1}^2 \]
+
+ \[ r_t = \sigma_t v_t, \quad \sigma_t^2 = \omega + \beta \sigma_{t-1}^2 + \lpha r_{t-1}^2 \]
 
 ## Why GARCH Models are Important in Algotrading
 
@@ -80,8 +80,8 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries suppo
 
 - **R**: The `rugarch` package in R offers comprehensive functionalities for specifying, estimating, and simulating [GARCH models](../g/garch_models.md).
 - **Python**: The `arch` package in Python, developed by Kevin Sheppard, provides a wide array of tools to fit different kinds of [GARCH models](../g/garch_models.md).
-  
-  - Visit [arch package](https://github.com/bashtage/arch) for more details.
+
+ - Visit arch package for more details.
 
 - **Matlab**: The [Econometrics](../e/econometrics_in_trading.md) Toolbox in Matlab includes built-in functions for estimating [GARCH models](../g/garch_models.md).
 - **EViews**: A statistical package that provides user-friendly interfaces to estimate ARCH/[GARCH models](../g/garch_models.md).
@@ -89,11 +89,11 @@ Several [software tools](../s/software_tools_for_trading.md) and libraries suppo
 ### Steps in Model Estimation
 
 1. **Model Specification**: Decide on the appropriate GARCH model. This involves selecting the [order](../o/order.md) p and q, and any extensions like EGARCH or TGARCH.
-   
+
 2. **Parameter Estimation**: Use statistical techniques such as [Maximum Likelihood Estimation](../m/maximum_likelihood_estimation.md) (MLE) to estimate the model parameters.
-   
+
 3. **Model Diagnostics**: Diagnose the model fit by checking for ARCH effects in the residuals, examining if the standardized residuals are normally distributed, and other statistical tests.
-   
+
 4. **[Forecasting](../f/forecasting.md)**: Use the fitted model to forecast future [volatility](../v/volatility.md) and returns. This can be done for one-step-ahead or multi-step-ahead forecasts.
 
 ### Example in Python Using `arch` Package
@@ -158,6 +158,6 @@ Estimation of [GARCH models](../g/garch_models.md) can be computationally intens
 
 For further reading and implementation, you may refer to:
 
-- [`arch` package documentation](https://github.com/bashtage/arch)
-- [Matlab Econometrics Toolbox](https://mathworks.com/products/econometrics.html)
-- [rugarch package in R](https://cran.r-project.org/web/packages/rugarch/index.html)
+- `arch` package documentation
+- Matlab Econometrics Toolbox
+- rugarch package in R

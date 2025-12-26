@@ -59,4 +59,4 @@ TechInnovate's [shares](../s/shares.md) begin trading on the [NASDAQ](../n/nasda
 
 New issues are essential mechanisms for companies seeking to raise [capital](../c/capital.md) while [offering](../o/offering.md) opportunities for investors to participate in the growth of these enterprises. Whether it's an initial public [offering](../o/offering.md), a [follow-on offering](../f/follow-on_offering.md), or a [debt](../d/debt.md) issuance, the process of bringing new securities to [market](../m/market.md) involves meticulous planning, regulatory compliance, and significant collaboration between the issuing company and [underwriting](../u/underwriting.md) firms. Understanding how new issues work provides a valuable lens through which to view the broader financial landscape.
 
-For more detailed information, you can visit the website of Goldman Sachs [here](https://www.goldmansachs.com/) and Morgan Stanley [here](https://www.morganstanley.com/), both of which are major players in the [underwriting](../u/underwriting.md) of new issues.
+For more detailed information,./u/underwriting.md) of new issues.

@@ -54,7 +54,7 @@ Portfolio managers also deal with opportunity costs when deciding on the composi
 
 ### Algorithmic Trading
 
-In the context of [algorithmic trading](../a/accountability.md), opportunity cost considerations can influence decisions related to [trade](../t/trade.md) [execution](../e/execution.md) timing and strategy [optimization](../o/optimization.md). For example, a [trader](../t/trader.md) using algorithms may analyze opportunity costs associated with different [trading signals](../t/trading_signals.md) or executing trades on various exchanges.
+In the context of [algorithmic trading](../a/algorithmic_trading.md), opportunity cost considerations can influence decisions related to [trade](../t/trade.md) [execution](../e/execution.md) timing and strategy [optimization](../o/optimization.md). For example, a [trader](../t/trader.md) using algorithms may analyze opportunity costs associated with different [trading signals](../t/trading_signals.md) or executing trades on various exchanges.
 
 ## Fintech and Opportunity Cost
 
@@ -64,19 +64,19 @@ The Fintech [industry](../i/industry.md) leverages technological advancements to
 
 Robo-advisors utilize algorithms to provide investment advice and manage portfolios. They analyze [market](../m/market.md) trends, user [risk profiles](../r/risk_profiles.md), and opportunity costs associated with different investment choices, thereby helping investors optimize returns.
 
-**Example**: [Betterment](https://www.betterment.com/) and [Wealthfront](https://www.wealthfront.com/) are examples of robo-advisors that consider opportunity cost in their automated investment strategies.
+**Example**: Betterment and Wealthfront are examples of robo-advisors that consider opportunity cost in their automated investment strategies.
 
 ### Financial Planning Apps
 
 [Financial planning](../f/financial_planning.md) apps help users manage their finances by considering opportunity costs. These applications analyze spending patterns, suggest saving opportunities, and evaluate potential investments to optimize users' [financial health](../f/financial_health.md).
 
-**Example**: [Mint](https://www.mint.com/) helps users [budget](../b/budget.md) their [money](../m/money.md) and consider opportunity costs when making spending decisions.
+**Example**: Mint helps users [budget](../b/budget.md) their [money](../m/money.md) and consider opportunity costs when making spending decisions.
 
 ### Automated Trading Systems
 
 [Automated trading systems](../a/automated_trading_systems.md), also known as [algorithmic trading platforms](../a/algorithmic_trading_platforms.md), use sophisticated algorithms to make trading decisions at high speeds. These systems consider various factors, including opportunity costs, to maximize [profit](../p/profit.md) and minimize [risk](../r/risk.md).
 
-**Example**: [Quantopian](https://www.quantopian.com/) provides a platform for [algorithmic trading](../a/accountability.md) and quantitative [financial analysis](../f/financial_analysis.md), taking opportunity costs into account.
+**Example**: Quantopian provides a platform for [algorithmic trading](../a/algorithmic_trading.md) and quantitative [financial analysis](../f/financial_analysis.md), taking opportunity costs into account.
 
 ## Measuring Opportunity Cost
 

@@ -41,13 +41,13 @@ While fire [insurance](../i/insurance.md) provides extensive coverage, there are
 
 Several companies across the globe specialize in fire [insurance](../i/insurance.md), [offering](../o/offering.md) various types of policies tailored to different needs.
 
-- **State Farm**: [statefarm.com](https://www.statefarm.com/)
-- **Allstate**: [allstate.com](https://www.allstate.com/)
-- **Liberty Mutual**: [libertymutual.com](https://www.libertymutual.com/)
-- **AIG**: [aig.com](https://www.aig.com/)
-- **Nationwide**: [nationwide.com](https://www.nationwide.com/)
-- **AXA**: [axa.com](https://www.axa.com/)
-- **Zurich [Insurance](../i/insurance.md) Group**: [zurich.com](https://www.zurich.com/)
+- **State Farm**: statefarm.com
+- **Allstate**: allstate.com
+- **Liberty Mutual**: libertymutual.com
+- **AIG**: aig.com
+- **Nationwide**: nationwide.com
+- **AXA**: axa.com
+- **Zurich [Insurance](../i/insurance.md) Group**: zurich.com
 
 ### Claims Process
 

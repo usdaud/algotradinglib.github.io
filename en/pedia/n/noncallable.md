@@ -56,7 +56,7 @@ When deciding between noncallable and callable bonds, investors should consider:
 
 ## Real-World Application
 
-Companies such as [Apple Inc.](https://www.apple.com) and [Microsoft Corporation](https://www.microsoft.com) may [issue](../i/issue.md) noncallable bonds to raise long-term [financing](../f/financing.md) without the obligation to redeem the bonds early.
+Companies such as Apple Inc. and Microsoft Corporation may [issue](../i/issue.md) noncallable bonds to raise long-term [financing](../f/financing.md) without the obligation to redeem the bonds early.
 
 ## Conclusion
 

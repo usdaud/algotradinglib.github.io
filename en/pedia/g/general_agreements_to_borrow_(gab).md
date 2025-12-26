@@ -75,4 +75,3 @@ As the global [financial system](../f/financial_system.md) continues to evolve, 
 
 The General Arrangements to Borrow remain an essential part of the IMF’s financial safety net, designed to ensure that it can fulfil its mandate of maintaining global economic stability. Though their relative importance has evolved over the years, largely due to the creation of new arrangements and mechanisms, the GAB continues to provide vital supplementary resources. The arrangements exemplify international financial cooperation and the collective efforts of participating countries to support global economic health.
 
-For further details about the IMF and the GAB, you can visit the [IMF official website](https://www.imf.org).

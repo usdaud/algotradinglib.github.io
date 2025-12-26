@@ -52,13 +52,13 @@ Businesses must avoid engaging in bribery and corruption, which can distort [mar
 ## Case Studies of Ethical Practices in Business
 
 ### Patagonia
-[Patagonia](https://www.patagonia.com/home/) is renowned for its strong commitment to ethical [business](../b/business.md) practices, particularly in environmental sustainability. The company donates a portion of its profits to environmental causes, uses sustainable materials in its products, and encourages consumers to reduce consumption through campaigns like "Don't Buy This Jacket."
+Patagonia is renowned for its strong commitment to ethical [business](../b/business.md) practices, particularly in environmental sustainability. The company donates a portion of its profits to environmental causes, uses sustainable materials in its products, and encourages consumers to reduce consumption through campaigns like "Don't Buy This Jacket."
 
 ### Ben & Jerry's
-[Ben & Jerry's](https://www.benjerry.com/) has integrated social and environmental missions into its [business](../b/business.md) model. The company sources Fairtrade-certified ingredients, supports climate change actions, and engages in various [social justice](../s/social_justice.md) campaigns, demonstrating a commitment to ethical principles beyond mere profitability.
+Ben & Jerry's has integrated social and environmental missions into its [business](../b/business.md) model. The company sources Fairtrade-certified ingredients, supports climate change actions, and engages in various [social justice](../s/social_justice.md) campaigns, demonstrating a commitment to ethical principles beyond mere profitability.
 
 ### The Body Shop
-[The Body Shop](https://www.thebodyshop.com/) focuses on ethical sourcing, animal [welfare](../w/welfare.md), and activism. The company has a commitment to cruelty-free product testing, sustainable ingredient sourcing, and community [trade](../t/trade.md) programs, which support disadvantaged communities worldwide.
+The Body Shop focuses on ethical sourcing, animal [welfare](../w/welfare.md), and activism. The company has a commitment to cruelty-free product testing, sustainable ingredient sourcing, and community [trade](../t/trade.md) programs, which support disadvantaged communities worldwide.
 
 ## Navigating Ethical Challenges in a Globalized World
 

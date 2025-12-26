@@ -141,11 +141,11 @@ After tests, drills, and actual events, document lessons learned and use them to
 
 There are various software solutions and tools available to assist organizations in developing and maintaining their BCPs. These tools [offer](../o/offer.md) features such as [risk](../r/risk.md) assessment, [business](../b/business.md) impact analysis, and plan documentation. Some popular BCP software solutions include:
 
-- **Fusion Framework System by Fusion [Risk Management](../r/risk_management.md)**: Provides a comprehensive platform for [risk management](../r/risk_management.md) and [business](../b/business.md) continuity planning. [Fusion Risk Management](https://www.fusionrm.com)
-- **Quantivate**: Offers tools for [risk management](../r/risk_management.md), [business](../b/business.md) continuity, and disaster recovery planning. [Quantivate](https://www.quantivate.com/)
-- **Archer [Business](../b/business.md) Resiliency by RSA**: Integrates [risk management](../r/risk_management.md) and [business](../b/business.md) continuity planning. [RSA](https://www.rsa.com/en-us/products/integrated-risk-management/business-resiliency)
-- **Continuity Logic**: Helps organizations manage [risk](../r/risk.md), [business](../b/business.md) continuity, and IT disaster recovery. [Continuity Logic](https://www.continuitylogic.com/)
-- **Onspring**: Provides a configurable platform for [business](../b/business.md) continuity planning and management. [Onspring](https://onspring.com/solutions/business-continuity-software/)
+- **Fusion Framework System by Fusion [Risk Management](../r/risk_management.md)**: Provides a comprehensive platform for [risk management](../r/risk_management.md) and [business](../b/business.md) continuity planning. Fusion Risk Management
+- **Quantivate**: Offers tools for [risk management](../r/risk_management.md), [business](../b/business.md) continuity, and disaster recovery planning. Quantivate
+- **Archer [Business](../b/business.md) Resiliency by RSA**: Integrates [risk management](../r/risk_management.md) and [business](../b/business.md) continuity planning. RSA
+- **Continuity Logic**: Helps organizations manage [risk](../r/risk.md), [business](../b/business.md) continuity, and IT disaster recovery. Continuity Logic
+- **Onspring**: Provides a configurable platform for [business](../b/business.md) continuity planning and management. Onspring
 
 These tools [offer](../o/offer.md) features such as automated [risk](../r/risk.md) assessments, plan documentation, and testing and training capabilities, making it easier for organizations to develop and maintain effective BCPs.
 

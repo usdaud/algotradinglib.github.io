@@ -6,7 +6,7 @@
 ## Common Types of Valuation Multiples
 
 ### Price-to-Earnings (P/E) Ratio
-The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is one of the most widely used [valuation](../v/valuation.md) multiples. It is calculated as the [market price](../m/market_price.md) per share divided by the [earnings](../e/earnings.md) per share (EPS). The P/E ratio reflects how much investors are willing to pay for a dollar of [earnings](../e/earnings.md). 
+The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is one of the most widely used [valuation](../v/valuation.md) multiples. It is calculated as the [market price](../m/market_price.md) per share divided by the [earnings](../e/earnings.md) per share (EPS). The P/E ratio reflects how much investors are willing to pay for a dollar of [earnings](../e/earnings.md).
 
 **Formula:**
 \[ \text{P/E Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Earnings](../e/earnings.md) per Share (EPS)}} \]
@@ -113,10 +113,10 @@ A retail company shows a P/S ratio of 0.5, a P/B ratio of 1.2, and a [dividend y
 Investors use [valuation](../v/valuation.md) multiples to make informed decisions about buying, holding, or selling [stocks](../s/stock.md). These metrics help in identifying [undervalued](../u/undervalued.md) [stocks](../s/stock.md) that may provide higher returns.
 
 ### Equity Research
-Financial analysts employ these multiples to provide stock recommendations, perform sector analyses, and prepare research reports. For instance, companies like [Morningstar](https://www.morningstar.com) and [Moody’s Investors Service](https://www.moodys.com) extensively use [valuation](../v/valuation.md) multiples in their [equity research](../e/equity_research.md) and ratings.
+Financial analysts employ these multiples to provide stock recommendations, perform sector analyses, and prepare research reports. For instance, companies like Morningstar and Moody’s Investors Service extensively use [valuation](../v/valuation.md) multiples in their [equity research](../e/equity_research.md) and ratings.
 
 ### Mergers and Acquisitions (M&A)
-During M&A activities, [valuation](../v/valuation.md) multiples are used to assess the [fair value](../f/fair_value.md) of target companies. They aid in determining [offering](../o/offering.md) prices and negotiating transactions. [Investment banks](../i/investment_bank_(ib).md) like [Goldman Sachs](https://www.goldmansachs.com) and [J.P. Morgan](https://www.jpmorgan.com) utilize these multiples in their financial advisory services.
+During M&A activities, [valuation](../v/valuation.md) multiples are used to assess the [fair value](../f/fair_value.md) of target companies. They aid in determining [offering](../o/offering.md) prices and negotiating transactions. [Investment banks](../i/investment_bank_(ib).md) like Goldman Sachs and J.P. Morgan utilize these multiples in their financial advisory services.
 
 ### Corporate Finance
 [Corporate finance](../c/corporate_finance.md) professionals apply [valuation](../v/valuation.md) multiples for internal assessments, budgeting, and strategic planning. They help in [capital allocation](../c/capital_allocation.md) decisions, performance evaluation, and financial reporting.

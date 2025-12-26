@@ -23,7 +23,7 @@ The GDP itself can be decomposed into [multiple](../m/multiple.md) components: c
 - **Consumption**: This includes all private expenditures by households and non-[profit](../p/profit.md) institutions on goods and services.
 - **Investment**: This pertains to private domestic spending on [capital goods](../c/capital_goods.md), residential building, and changes in inventories.
 - **Government Purchases**: These are expenditures on goods and services by the government.
-- **Net Exports**: This is calculated as exports minus imports. 
+- **Net Exports**: This is calculated as exports minus imports.
 
 Since the GDP deflator includes the [value](../v/value.md) of exports but excludes imports, it can provide a different perspective on the domestic [price level](../p/price_level.md) compared to other measures like the CPI.
 
@@ -48,13 +48,13 @@ Each [indicator](../i/indicator.md) has its own unique weighting scheme, and the
 
 ## Real-World Examples and Applications
 ### The United States
-In the United States, the Bureau of Economic Analysis (BEA) publishes data on the GDP deflator as part of its national accounts [statistics](../s/statistics.md). Policymakers, including those at the Federal Reserve, rely on this data to make informed decisions about [monetary policy](../m/monetary_policy.md). For more information, you can visit the [Bureau of Economic Analysis](https://www.bea.gov/).
+In the United States, the Bureau of Economic Analysis (BEA) publishes data on the GDP deflator as part of its national accounts [statistics](../s/statistics.md). Policymakers, including those at the Federal Reserve, rely on this data to make informed decisions about [monetary policy](../m/monetary_policy.md). For more information, you can visit the Bureau of Economic Analysis.
 
 ### The European Union
-Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), provides GDP deflator data for member countries. This data is crucial for the European Central [Bank](../b/bank.md) when setting [interest](../i/interest.md) rates and other [monetary policy](../m/monetary_policy.md) measures within the [Eurozone](../e/eurozone.md). More information can be found at [Eurostat](https://ec.europa.eu/eurostat).
+Eurostat, the statistical office of the [European Union](../e/european_union_(eu).md), provides GDP deflator data for member countries. This data is crucial for the European Central [Bank](../b/bank.md) when setting [interest](../i/interest.md) rates and other [monetary policy](../m/monetary_policy.md) measures within the [Eurozone](../e/eurozone.md). More information can be found at Eurostat.
 
 ### Japan
-In Japan, the Cabinet Office is responsible for compiling and publishing GDP deflator data. Japan’s central [bank](../b/bank.md) and government agencies use this data to track [inflation](../i/inflation.md) and guide economic policy. Visit the [Cabinet Office of Japan](https://www.cao.go.jp/) for more details.
+In Japan, the Cabinet Office is responsible for compiling and publishing GDP deflator data. Japan’s central [bank](../b/bank.md) and government agencies use this data to track [inflation](../i/inflation.md) and guide economic policy. Visit the Cabinet Office of Japan for more details.
 
 ## Limitations and Criticisms
 While the GDP deflator is a useful measure, it is not without its limitations:

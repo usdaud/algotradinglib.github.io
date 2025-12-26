@@ -1,6 +1,6 @@
 # Johannesburg Interbank Average Rate (JIBAR)
 
-The Johannesburg Interbank Average Rate (JIBAR) is the [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) at which banks in South Africa borrow and lend funds among themselves. It serves as a critical [indicator](../i/indicator.md) of the cost of borrowing in the South African financial [market](../m/market.md) and is used as a [reference rate](../r/reference_rate.md) for various financial instruments, including loans, mortgages, and [derivatives](../d/derivatives.md). JIBAR is similar to other global interbank rates such as LIBOR (London Interbank Offered Rate) and EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate) but is specifically tailored to the South African banking environment.
+The Johannesburg Interbank Average Rate (JIBAR) is the [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) at which banks in South Africa borrow and lend funds among themselves. It serves as a critical [indicator](../i/indicator.md) of the cost of borrowing in the South African financial [market](../m/market.md) and is used as a [reference rate](../r/reference_rate.md) for various financial instruments, including loans, mortgages, and [derivatives](../d/derivatives.md). JIBAR is similar to other global interbank rates such as LIBOR (London Interbank Offered Rate, discontinued in 2023) and EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate) but is specifically tailored to the South African banking environment.
 
 ## History and Development
 
@@ -64,7 +64,7 @@ While JIBAR serves the South African [market](../m/market.md), it [shares](../s/
 
 ### LIBOR
 
-LIBOR, once the most widely used [benchmark](../b/benchmark.md), represents the average rate at which major global banks lend to each other. While similar in function to JIBAR, LIBOR covers various currencies and maturities. However, due to various manipulation scandals, LIBOR is being phased out and replaced by alternative rates like SOFR (Secured Overnight [Financing](../f/financing.md) Rate).
+LIBOR, once the most widely used [benchmark](../b/benchmark.md), represented the average rate at which major global banks lend to each other. While similar in function to JIBAR, LIBOR covered various currencies and maturities. Following manipulation scandals and structural weaknesses, LIBOR was discontinued in 2023 and replaced by risk-free reference rates such as SOFR (USD), SONIA (GBP), and €STR (EUR).
 
 ### EURIBOR
 
@@ -96,4 +96,4 @@ As the [financial markets](../f/financial_market.md) evolve, there is growing [i
 
 ## Conclusion
 
-The Johannesburg Interbank Average Rate (JIBAR) is a cornerstone of the South African [financial system](../f/financial_system.md), providing a [benchmark](../b/benchmark.md) for a myriad of financial instruments. Governed by the South African Reserve [Bank](../b/bank.md), JIBAR's [transparency](../t/transparency.md) and reliability are crucial for maintaining confidence in South Africa’s [financial markets](../f/financial_market.md). Despite facing similar challenges as other interbank rates, JIBAR continues to be a pivotal element in South Africa's economic framework, evolving alongside global and technological developments. For further information, one can visit the South African Reserve [Bank](../b/bank.md)’s official website: [SARB](https://www.resbank.co.za).
+The Johannesburg Interbank Average Rate (JIBAR) is a cornerstone of the South African [financial system](../f/financial_system.md), providing a [benchmark](../b/benchmark.md) for a myriad of financial instruments. Governed by the South African Reserve [Bank](../b/bank.md), JIBAR's [transparency](../t/transparency.md) and reliability are crucial for maintaining confidence in South Africa’s [financial markets](../f/financial_market.md). Despite facing similar challenges as other interbank rates, JIBAR continues to be a pivotal element in South Africa's economic framework, evolving alongside global and technological developments. For further information, one can visit the South African Reserve [Bank](../b/bank.md)’s public materials: SARB.

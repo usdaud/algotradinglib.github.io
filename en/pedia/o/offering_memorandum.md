@@ -76,9 +76,9 @@ An [offering](../o/offering.md) memorandum is similar to a [prospectus](../p/pro
 
 Many [investment management](../i/investment_management.md) firms and boutique banks utilize [offering](../o/offering.md) memorandums for their private placements. Some examples of companies that frequently [issue](../i/issue.md) [offering](../o/offering.md) memorandums include:
 
-- **Blackstone Private [Wealth](../w/wealth.md) Solutions** - [Blackstone](https://www.blackstone.com/)
-- **Goldman Sachs [Private Equity](../p/private_equity.md)** - [Goldman Sachs](https://www.goldmansachs.com/)
-- **Bain [Capital](../c/capital.md) [Private Equity](../p/private_equity.md)** - [Bain Capital](https://www.baincapital.com/)
+- **Blackstone Private [Wealth](../w/wealth.md) Solutions** - Blackstone
+- **Goldman Sachs [Private Equity](../p/private_equity.md)** - Goldman Sachs
+- **Bain [Capital](../c/capital.md) [Private Equity](../p/private_equity.md)** - Bain Capital
 
 ## Conclusion
 

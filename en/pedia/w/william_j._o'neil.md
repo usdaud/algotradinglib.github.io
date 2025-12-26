@@ -62,7 +62,7 @@ William J. O'Neil's impact on the investment community is immeasurable. His meth
 
 ## Online Resources
 
-For more detailed information, his company can be found at [William O'Neil & Co. Incorporated](https://www.williamoneil.com/).
+For more detailed information, his company can be found at William O'Neil & Co. Incorporated.
 
 ---
 

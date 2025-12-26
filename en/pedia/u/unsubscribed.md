@@ -32,4 +32,3 @@
 
 ## Conclusion
 Unsubscribed portions of a securities [offering](../o/offering.md) indicate that the [demand](../d/demand.md) from investors did not meet the [supply](../s/supply.md) of the offered securities. This can impact the issuing company's ability to raise [capital](../c/capital.md) and affect [market](../m/market.md) perception. Understanding the key components, importance, and challenges of unsubscribed securities can help companies and underwriters effectively manage offerings and mitigate risks associated with weak [investor](../i/investor.md) [demand](../d/demand.md).
-

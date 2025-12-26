@@ -48,7 +48,7 @@ While wildcatting has contributed significantly to the energy [industry](../i/in
 
 Apache [Corporation](../c/corporation.md) is an example of a modern company involved in wildcatting activities. Established in 1954, Apache has a history of exploring high-[risk](../r/risk.md), high-reward prospects. The company has made notable discoveries in regions such as the North Sea, Egypt's Western Desert, and the Permian Basin in West Texas.
 
-For more information, visit: [Apache Corporation](https://www.apachecorp.com)
+For more information, visit: Apache Corporation
 
 ## Conclusion
 

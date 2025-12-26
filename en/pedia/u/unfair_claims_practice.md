@@ -53,7 +53,6 @@ During the recovery phase post-Hurricane Sandy, there were numerous allegations 
 
 ### Case Study 2: Unum Provident Corporation
 In the early 2000s, UnumProvident (now Unum Group) faced [multiple](../m/multiple.md) lawsuits and regulatory actions due to their unfair denial and underpayment of disability claims. The company faced significant penalties and was required to reevaluate their handling of claims.
-[Unum Group](https://www.unum.com)
 
 ## Conclusion
 

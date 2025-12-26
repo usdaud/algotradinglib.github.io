@@ -1,4 +1,4 @@
-# Deposit Multiplier 
+# Deposit Multiplier
 
 The [deposit](../d/deposit.md) [multiplier](../m/multiplier.md), also known as the [money](../m/money.md) [multiplier](../m/multiplier.md), is a fundamental concept in [macroeconomics](../m/macroeconomics.md) and [finance](../f/finance.md) that describes the maximum amount of [commercial bank](../c/commercial_bank.md) [money](../m/money.md) that can be created by banks for a given quantity of reserves. The essence of this concept lies in the relationship between the reserves held by a central [bank](../b/bank.md) and the deposits that can be created through the banking system's [loan](../l/loan.md)-making activities.
 
@@ -65,4 +65,4 @@ Consider a scenario where the Federal Reserve decides to lower the [reserve rati
 
 The [deposit](../d/deposit.md) [multiplier](../m/multiplier.md) is a pivotal concept in both traditional banking and modern financial systems. For algorithmic traders, leveraging an understanding of the [deposit](../d/deposit.md) [multiplier](../m/multiplier.md) can [offer](../o/offer.md) a strategic edge, helping to anticipate [market](../m/market.md) movements and enhance [trading strategies](../t/trading_strategies.md). Understanding how central [bank](../b/bank.md) policies and [economic conditions](../e/economic_conditions.md) influence the [multiplier](../m/multiplier.md) is crucial for effective algo trading.
 
-For further readings, visiting central [bank](../b/bank.md) websites such as the [Federal Reserve](https://www.federalreserve.gov) or the [European Central Bank](https://www.ecb.europa.eu) can provide insights and up-to-date information on [reserve requirements](../r/reserve_requirements.md) and [monetary policy](../m/monetary_policy.md) adjustments.
+For further readings, visiting central [bank](../b/bank.md) websites such as the Federal Reserve or the European Central Bank can provide insights and up-to-date information on [reserve requirements](../r/reserve_requirements.md) and [monetary policy](../m/monetary_policy.md) adjustments.

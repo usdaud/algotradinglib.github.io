@@ -31,10 +31,10 @@ The MRS plays a vital role in the theory of consumer choice, which is concerned 
 
 1. **[Budget](../b/budget.md) Constraint**: A consumer’s [budget](../b/budget.md) constraint represents the combination of goods they can afford given their [income](../i/income.md) and the prices of goods. It is represented by a straight line with a slope equal to the negative of the price ratio of the two goods.
 2. **[Optimization](../o/optimization.md) Condition**: [Utility maximization](../u/utility_maximization.md) occurs where the MRS equals the price ratio of the two goods. Mathematically, this condition is given by:
-   
-   \[ \frac{MU_x}{MU_y} = \frac{P_x}{P_y} \]
-   
-   where \(P_x\) and \(P_y\) are the prices of goods \(x\) and \(y\), respectively. At this point, the consumer has no incentive to reallocate their spending because they are achieving the maximum possible [utility](../u/utility.md) given their [budget](../b/budget.md).
+
+ \[ \frac{MU_x}{MU_y} = \frac{P_x}{P_y} \]
+
+ where \(P_x\) and \(P_y\) are the prices of goods \(x\) and \(y\), respectively. At this point, the consumer has no incentive to reallocate their spending because they are achieving the maximum possible [utility](../u/utility.md) given their [budget](../b/budget.md).
 
 ## Applications of MRS
 

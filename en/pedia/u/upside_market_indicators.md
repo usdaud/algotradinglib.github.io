@@ -71,7 +71,7 @@ The [Parabolic SAR](../p/parabolic_sar.md) is used to find potential points of [
 The formula uses the prior period’s SAR, adding the acceleration [factor](../f/factor.md) multiplied by the difference between the highest high and the prior period's SAR.
 
 **Application:**
-When the price crosses above the SAR, a buy signal is generated indicating the start of a bullish [trend](../t/trend.md). 
+When the price crosses above the SAR, a buy signal is generated indicating the start of a bullish [trend](../t/trend.md).
 
 #### Algotrading Implementation
 
@@ -85,10 +85,9 @@ Using platforms such as MetaTrader or custom-built Python scripts to simulate [t
 Combining [multiple](../m/multiple.md) indicators into a single trading algorithm to authenticate bullish signals, reducing false positives.
 
 **[Execution](../e/execution.md):**
-Automated trading platforms like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com) enable seamless [execution](../e/execution.md) of trades based on coded strategies.
+Automated trading platforms like [Interactive Brokers](../i/interactive_brokers.md) ( enable seamless [execution](../e/execution.md) of trades based on coded strategies.
 
 **[Risk Management](../r/risk_management.md):**
 Implementing [stop-loss orders](../s/stop-loss_orders.md) and [risk management](../r/risk_management.md) rules within the algorithm to minimize potential losses.
 
 [Upside](../u/upside.md) [market indicators](../m/market_indicators.md) are valuable tools in the arsenal of both manual and algorithmic traders. By combining [multiple](../m/multiple.md) indicators and confirming signals, traders can increase the chances of identifying and capitalizing on bullish [market](../m/market.md) trends effectively.
-

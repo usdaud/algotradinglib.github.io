@@ -1,6 +1,6 @@
 # EBITDA-to-Sales Ratio
 
-The [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization (EBITDA)-to-Sales Ratio is a key financial metric that measures a company's [operational efficiency](../o/operational_efficiency_in_trading.md) relative to its total sales, indicating the company's ability to generate operating [cash flow](../c/cash_flow.md). 
+The [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization (EBITDA)-to-Sales Ratio is a key financial metric that measures a company's [operational efficiency](../o/operational_efficiency_in_trading.md) relative to its total sales, indicating the company's ability to generate operating [cash flow](../c/cash_flow.md).
 
 ## Overview
 
@@ -53,17 +53,17 @@ This ratio is often used in conjunction with other [profitability ratios](../p/p
 ### Amazon (Amazon.com, Inc.)
 
 Amazon is an e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) giant. Its impressive scale and [efficiency](../e/efficiency.md) are often reflected in a strong EBITDA-to-Sales Ratio.
-\[ \text{Financial Information}: [Amazon Investor Relations](https://www.amazon.com/ir) \]
+\ \text{Financial Information}
 
 ### Apple Inc.
 
 Apple is renowned for its high margins due to its brand strength, innovation, and [efficiency](../e/efficiency.md), usually displaying a healthy EBITDA-to-Sales Ratio.
-\[ \text{Financial Information}: [Apple Investor Relations](https://investor.apple.com/investor-relations/default.aspx) \]
+\ \text{Financial Information}
 
 ### Procter & Gamble (P&G)
 
 Procter & Gamble, a multinational [consumer goods](../c/consumer_goods.md) company, can have varying EBITDA-to-Sales Ratios depending on the performance of its various segments and geographies.
-\[ \text{Financial Information}: [P&G Investor Relations](https://www.pginvestor.com/) \]
+\ \text{Financial Information}
 
 ## Limitations
 

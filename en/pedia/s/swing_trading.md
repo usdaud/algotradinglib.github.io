@@ -56,7 +56,7 @@ Several platforms and tools aid in algorithmic swing trading. Notable platforms 
 - **MetaTrader:** Widely used for forex trading, [offering](../o/offering.md) [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 - **[TradeStation](../t/tradestation.md):** Known for its EasyLanguage programming feature to create customized [trading strategies](../t/trading_strategies.md).
 - **[NinjaTrader](../n/ninjatrader.md):** Popular for [futures](../f/futures.md) and forex trading, [offering](../o/offering.md) advanced charting and strategy development tools.
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and coding languages.
+- **[StockSharp](../s/stocksharp.md):** An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and C#.
 
 ### Execution and Monitoring
 Once the algorithm is deployed, real-time monitoring is critical. This ensures that the strategy is performing as expected and allows for adjustments in response to unforeseen [market](../m/market.md) conditions.
@@ -65,11 +65,11 @@ Once the algorithm is deployed, real-time monitoring is critical. This ensures t
 
 Several firms specialize in creating and deploying algorithmic swing [trading strategies](../t/trading_strategies.md). Some prominent players include:
 
-- **Quantitative [Investment Management](../i/investment_management.md) (QIM):** A renowned [firm](../f/firm.md) that uses [quantitative analysis](../q/quantitative_analysis.md) to develop automated [trading strategies](../t/trading_strategies.md). For more information, visit [QIM's Website](https://www.qim.com/).
+- **Quantitative [Investment Management](../i/investment_management.md) (QIM):** A renowned [firm](../f/firm.md) that uses [quantitative analysis](../q/quantitative_analysis.md) to develop automated [trading strategies](../t/trading_strategies.md).
 
-- **Two Sigma:** A [hedge fund](../h/hedge_fund.md) that heavily relies on [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md), including swing trading. For more information, visit [Two Sigma's Website](https://www.twosigma.com/).
+- **Two Sigma:** A [hedge fund](../h/hedge_fund.md) that heavily relies on [data science](../d/data_science_in_trading.md) and technology to develop [trading strategies](../t/trading_strategies.md), including swing trading.
 
-- **AQR [Capital](../c/capital.md) Management:** Known for [systematic trading](../s/systematic_trading.md) approaches, AQR employs advanced statistical techniques to create and manage [trading strategies](../t/trading_strategies.md). For more information, visit [AQR's Website](https://www.aqr.com/).
+- **AQR [Capital](../c/capital.md) Management:** Known for [systematic trading](../s/systematic_trading.md) approaches, AQR employs advanced statistical techniques to create and manage [trading strategies](../t/trading_strategies.md).
 
 ## The Future of Swing Trading in Algorithmic Trading
 

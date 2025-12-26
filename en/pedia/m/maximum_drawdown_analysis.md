@@ -56,7 +56,7 @@ Consider a trading algorithm developed by a [quantitative trading](../q/quantita
 - [Investor](../i/investor.md) communication: Clear presentation of [risk metrics](../r/risk_metrics.md) to potential investors.
 - Strategy improvement: Identifying weaknesses and making adjustments to reduce drawdowns.
 
-A case study can be seen with **AQR [Capital](../c/capital.md) Management** [AQR Capital Management](https://www.aqr.com/), a global investment [firm](../f/firm.md) that utilizes [quantitative research](../q/quantitative_research.md) and analysis. By meticulously analyzing Maximum [Drawdown](../d/drawdown.md) in their strategies, AQR ensures that their algorithms maintain acceptable [risk](../r/risk.md) levels, providing consistent returns to their clients.
+A case study can be seen with **AQR [Capital](../c/capital.md) Management** AQR Capital Management, a global investment [firm](../f/firm.md) that utilizes [quantitative research](../q/quantitative_research.md) and analysis. By meticulously analyzing Maximum [Drawdown](../d/drawdown.md) in their strategies, AQR ensures that their algorithms maintain acceptable [risk](../r/risk.md) levels, providing consistent returns to their clients.
 
 ### Conclusion
 

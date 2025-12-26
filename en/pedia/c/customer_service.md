@@ -129,15 +129,15 @@ These insights can inform strategies for improvement.
 
 ### Zappos
 
-Zappos, an online shoe and clothing retailer, is renowned for its exceptional [customer](../c/customer.md) service. The company’s ethos centers around going above and beyond for customers, fostering loyalty and [trust](../t/trust.md). Zappos offers a 365-day [return](../r/return.md) policy, free shipping both ways, and a [customer](../c/customer.md) service team available 24/7. For more information, visit [Zappos](https://www.zappos.com/).
+Zappos, an online shoe and clothing retailer, is renowned for its exceptional [customer](../c/customer.md) service. The company’s ethos centers around going above and beyond for customers, fostering loyalty and [trust](../t/trust.md). Zappos offers a 365-day [return](../r/return.md) policy, free shipping both ways, and a [customer](../c/customer.md) service team available 24/7. For more information, visit Zappos.
 
 ### Ritz-Carlton
 
-The Ritz-Carlton Hotel Company is another example of superior [customer](../c/customer.md) service. Their “Gold Standards” emphasize personalized service, anticipating needs, and creating memorable experiences. Employees are empowered to spend up to $2,000 to solve guest issues without needing managerial approval. For more information, visit [Ritz-Carlton](https://www.ritzcarlton.com/).
+The Ritz-Carlton Hotel Company is another example of superior [customer](../c/customer.md) service. Their “Gold Standards” emphasize personalized service, anticipating needs, and creating memorable experiences. Employees are empowered to spend up to $2,000 to solve guest issues without needing managerial approval. For more information, visit Ritz-Carlton.
 
 ### Amazon
 
-Amazon’s [customer](../c/customer.md) service is known for its [efficiency](../e/efficiency.md) and responsiveness. The company offers [multiple](../m/multiple.md) channels for support, including live chat, phone support, and a comprehensive help section on its website. Amazon’s focus on [customer](../c/customer.md) feedback and fast resolution of issues has helped it maintain high [customer](../c/customer.md) satisfaction. For more information, visit [Amazon](https://www.amazon.com/).
+Amazon’s [customer](../c/customer.md) service is known for its [efficiency](../e/efficiency.md) and responsiveness. The company offers [multiple](../m/multiple.md) channels for support, including live chat, phone support, and a comprehensive help section through its online channels. Amazon’s focus on [customer](../c/customer.md) feedback and fast resolution of issues has helped it maintain high [customer](../c/customer.md) satisfaction. For more information, visit Amazon.
 
 # Challenges in Customer Service
 

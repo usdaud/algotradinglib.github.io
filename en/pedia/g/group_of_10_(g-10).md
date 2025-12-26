@@ -73,7 +73,7 @@ As the global [economy](../e/economy.md) continues to evolve, the G-10 may need 
 The Group of Ten (G-10) plays an indispensable role in the landscape of international [finance](../f/finance.md). Through its initiatives in policy coordination, monetary cooperation, financial stability, and support for international institutions, the G-10 significantly contributes to the stability and functionality of the global [financial system](../f/financial_system.md). As the world faces new economic, technological, and environmental challenges, the G-10's role [will](../w/will.md) continue to be crucial in shaping a resilient and inclusive global [economy](../e/economy.md).
 
 For more information, you can visit:
-- [Bank for International Settlements (BIS)](https://www.bis.org)
-- [International Monetary Fund (IMF)](https://www.imf.org)
+- Bank for International Settlements (BIS)
+- International Monetary Fund (IMF)
 
 The G-10 remains a vital entity in the collaborative efforts to tackle global financial challenges, promoting a more stable and prosperous world [economy](../e/economy.md) for all.

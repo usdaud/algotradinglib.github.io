@@ -83,7 +83,7 @@ A [robust](../r/robust.md) intellectual [capital](../c/capital.md) base can sign
 
 ## Intellectual Capital in Algo Trading
 
-In the context of [algorithmic trading](../a/accountability.md), intellectual [capital](../c/capital.md) is especially critical. Algo trading relies heavily on advanced technologies and skilled professionals who can design, implement, and manage [trading algorithms](../t/trading_algorithms.md). The following components of intellectual [capital](../c/capital.md) are particularly relevant:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), intellectual [capital](../c/capital.md) is especially critical. Algo trading relies heavily on advanced technologies and skilled professionals who can design, implement, and manage [trading algorithms](../t/trading_algorithms.md). The following components of intellectual [capital](../c/capital.md) are particularly relevant:
 
 ### 1. Human Capital in Algo Trading
 
@@ -121,7 +121,7 @@ The [firm](../f/firm.md) has developed [proprietary trading](../p/proprietary_tr
 
 Renaissance Technologies maintains strong relationships with various financial institutions and exchanges, ensuring seamless operations and access to valuable [market](../m/market.md) data.
 
-For more information about Renaissance Technologies, visit their [official website](https://www.rentec.com/).
+
 
 ## Conclusion
 

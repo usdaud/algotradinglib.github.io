@@ -33,19 +33,19 @@ Several major financial institutions [offer](../o/offer.md) NTF mutual funds, ma
 
 ### Fidelity
 
-Fidelity [website](https://www.fidelity.com) is well-known for its wide [range](../r/range.md) of mutual funds, including many NTF [options](../o/options.md). Fidelity's NTF mutual funds typically come with no minimum investment requirements, making them ideal for small investors.
+Fidelity online platform is well-known for its wide [range](../r/range.md) of mutual funds, including many NTF [options](../o/options.md). Fidelity's NTF mutual funds typically come with no minimum investment requirements, making them ideal for small investors.
 
 ### Charles Schwab
 
-[Charles Schwab](../c/charles_schwab.md) [website](https://www.schwab.com) offers a substantial selection of NTF mutual funds with no [load](../l/load.md) or [transaction fees](../t/transaction_fees.md). Schwab's platform is user-friendly and provides access to extensive research tools and resources.
+[Charles Schwab](../c/charles_schwab.md) online platform offers a substantial selection of NTF mutual funds with no [load](../l/load.md) or [transaction fees](../t/transaction_fees.md). Schwab's platform is user-friendly and provides access to extensive research tools and resources.
 
 ### TD Ameritrade
 
-TD [Ameritrade](../a/ameritrade.md) [website](https://www.tdameritrade.com) stands out for its [robust](../r/robust.md) platform that supports a variety of NTF mutual funds. Their extensive educational resources help investors make informed decisions.
+TD [Ameritrade](../a/ameritrade.md) online platform stands out for its [robust](../r/robust.md) platform that supports a variety of NTF mutual funds. Their extensive educational resources help investors make informed decisions.
 
 ### Vanguard
 
-Vanguard [website](https://www.vanguard.com) is known for its low-cost mutual funds and offers several NTF [options](../o/options.md). Vanguard's focus on low fees and broad [diversification](../d/diversification.md) aligns well with the philosophy behind NTF mutual funds.
+Vanguard online platform is known for its low-cost mutual funds and offers several NTF [options](../o/options.md). Vanguard's focus on low fees and broad [diversification](../d/diversification.md) aligns well with the philosophy behind NTF mutual funds.
 
 ## Advantages and Disadvantages
 

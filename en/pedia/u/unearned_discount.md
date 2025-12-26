@@ -42,7 +42,7 @@ Imagine a supplier, XYZ Corp, offers a 5% [discount](../d/discount.md) on a $20,
 
 1. **[Invoice](../i/invoice.md) Amount:** $20,000
 2. **[Discount Rate](../d/discount_rate.md):** 5%
-3. **[Discount](../d/discount.md) Amount:** 
+3. **[Discount](../d/discount.md) Amount:**
 
 \[ 20,000 \times \left( \frac{5}{100} \right) = \$1,000 \]
 
@@ -91,7 +91,7 @@ For businesses [offering](../o/offering.md) discounts, the primary benefit is an
 1. **[Income Statement](../i/income_statement.md):** [Discount](../d/discount.md) expenses reduce the recognized [revenue](../r/revenue.md).
 2. **[Balance Sheet](../b/balance_sheet.md):** Unearned discounts appear as liabilities until earned.
 
-### Impact on Profitability 
+### Impact on Profitability
 
 While unearned discounts aim to incentivize early [payment](../p/payment.md), excessive [discounting](../d/discounting.md) can result in reduced profitability if not managed correctly. Businesses should analyze whether the [cash flow](../c/cash_flow.md) benefits outweigh the [cost of revenue](../c/cost_of_revenue.md) reduction.
 

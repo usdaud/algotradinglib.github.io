@@ -15,7 +15,7 @@ A [portfolio manager](../p/portfolio_manager.md) is responsible for the [active 
 - **[Beta](../b/beta.md)** indicates the sensitivity of the portfolio returns to [market](../m/market.md) movements. A high [beta](../b/beta.md) suggests more [volatility](../v/volatility.md) compared to the [market](../m/market.md).
 
 ### Risk Management
-Managing [risk](../r/risk.md) is a cornerstone of active [portfolio management](../p/portfolio_management.md). Portfolio managers use various techniques like [diversification](../d/diversification.md), hedging, and allocation to manage and mitigate [risk](../r/risk.md). 
+Managing [risk](../r/risk.md) is a cornerstone of active [portfolio management](../p/portfolio_management.md). Portfolio managers use various techniques like [diversification](../d/diversification.md), hedging, and allocation to manage and mitigate [risk](../r/risk.md).
 
 ### Fundamental and Technical Analysis
 [Fundamental analysis](../f/fundamental_analysis.md) involves evaluating a company's [financial statements](../f/financial_statements.md), management, and competitive advantages to determine its [intrinsic value](../i/intrinsic_value.md). [Technical analysis](../t/technical_analysis.md), on the other hand, involves analyzing statistical trends from trading activity such as price movement and [volume](../v/volume.md).
@@ -66,7 +66,7 @@ Performance evaluation in active [portfolio management](../p/portfolio_managemen
 
 ### Success Stories
 
-- **Fidelity Magellan [Fund](../f/fund.md)**: Managed by Peter Lynch from 1977 to 1990, the [fund](../f/fund.md) achieved an average [annual return](../a/annual_return.md) of 29% during his tenure. More information can be found [here](https://fundresearch.fidelity.com/mutual-funds/fundperformance/316184100).
+- **Fidelity Magellan [Fund](../f/fund.md)**: Managed by Peter Lynch from 1977 to 1990, the [fund](../f/fund.md) achieved an average [annual return](../a/annual_return.md) of 29% during his tenure. More information can be found here.
 
 ### Lessons from Failures
 

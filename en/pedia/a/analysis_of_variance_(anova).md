@@ -4,7 +4,7 @@ Analysis of Variance (ANOVA) is a statistical method used to test differences be
 
 ## The Basics of ANOVA
 
-ANOVA allows researchers to determine if the differences observed between groups are more than just random [variability](../v/variability.md). If we find that there are statistically significant differences, we can explore these differences further with post hoc tests or other methodologies. 
+ANOVA allows researchers to determine if the differences observed between groups are more than just random [variability](../v/variability.md). If we find that there are statistically significant differences, we can explore these differences further with post hoc tests or other methodologies.
 
 ### Assumptions of ANOVA
 
@@ -28,25 +28,25 @@ There are several types of ANOVA, the most common of which are:
 #### Hypothesis Testing in One-Way ANOVA
 
 The hypotheses for a one-way ANOVA are typically:
-   - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: All group means are equal.
-   - **Alternative Hypothesis (H1)**: At least one group mean is different.
+ - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: All group means are equal.
+ - **Alternative Hypothesis (H1)**: At least one group mean is different.
 
 The test statistic for ANOVA is the F-ratio:
-   \[
-   F = \frac{\text{Between-Groups Variance}}{\text{Within-Group Variance}}
-   \]
+ \[
+ F = \frac{\text{Between-Groups Variance}}{\text{Within-Group Variance}}
+ \]
 
 If the [null hypothesis](../n/null_hypothesis.md) is true, the F-ratio should be close to 1. A large F-ratio indicates that the variation among group means is more than would be expected by chance.
 
 #### ANOVA Table
 
 The results of an ANOVA are typically presented in an ANOVA table, which includes:
-   - **Source of Variation**: Between-groups and within-group variations.
-   - **[Sum of Squares](../s/sum_of_squares.md) (SS)**: Measures the total variation for each source.
-   - **[Degrees of Freedom](../d/degrees_of_freedom.md) (df)**: Reflects the number of independent values that can vary.
-   - **Mean Square (MS)**: Equal to SS divided by df.
-   - **F**: The F-ratio.
-   - **p-[value](../v/value.md)**: Indicates the probability that the observed F-[value](../v/value.md) would occur if the [null hypothesis](../n/null_hypothesis.md) were true.
+ - **Source of Variation**: Between-groups and within-group variations.
+ - **[Sum of Squares](../s/sum_of_squares.md) (SS)**: Measures the total variation for each source.
+ - **[Degrees of Freedom](../d/degrees_of_freedom.md) (df)**: Reflects the number of independent values that can vary.
+ - **Mean Square (MS)**: Equal to SS divided by df.
+ - **F**: The F-ratio.
+ - **p-[value](../v/value.md)**: Indicates the probability that the observed F-[value](../v/value.md) would occur if the [null hypothesis](../n/null_hypothesis.md) were true.
 
 ### Two-Way ANOVA
 
@@ -55,9 +55,9 @@ The results of an ANOVA are typically presented in an ANOVA table, which include
 #### Hypothesis Testing in Two-Way ANOVA
 
 The hypotheses for a [two-way ANOVA](../t/two-way_anova.md) are typically:
-   - **Main Effects Null Hypotheses (H0)**: Each [factor](../f/factor.md) independently has no effect.
-   - **Interaction Effect [Null Hypothesis](../n/null_hypothesis.md) (H0)**: There is no interaction effect between the factors.
-   
+ - **Main Effects Null Hypotheses (H0)**: Each [factor](../f/factor.md) independently has no effect.
+ - **Interaction Effect [Null Hypothesis](../n/null_hypothesis.md) (H0)**: There is no interaction effect between the factors.
+
 #### Two-Way ANOVA Table
 
 The ANOVA table in a [two-way ANOVA](../t/two-way_anova.md) includes additional terms for the interaction effect, in addition to the main effects and error terms.
@@ -69,8 +69,8 @@ This form of ANOVA is used when measurements are taken on the same subjects unde
 #### Hypothesis Testing in Repeated Measures ANOVA
 
 The hypotheses are analogous to those in one-way ANOVA, adapted to the repeated measures context:
-   - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: The means at different conditions/times are equal.
-   - **Alternative Hypothesis (H1)**: At least one mean is different.
+ - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: The means at different conditions/times are equal.
+ - **Alternative Hypothesis (H1)**: At least one mean is different.
 
 ### MANOVA
 
@@ -79,15 +79,15 @@ MANOVA extends ANOVA techniques to situations where there are [multiple](../m/mu
 #### Hypothesis Testing in MANOVA
 
 The hypotheses for MANOVA are:
-   - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: The centroid of the means for all dependent variables is the same across groups.
-   - **Alternative Hypothesis (H1)**: The centroids are not the same.
+ - **[Null Hypothesis](../n/null_hypothesis.md) (H0)**: The centroid of the means for all dependent variables is the same across groups.
+ - **Alternative Hypothesis (H1)**: The centroids are not the same.
 
 ### Post Hoc Tests
 
 When ANOVA indicates significant differences, post hoc tests help determine exactly which means are different. Common post hoc tests include:
-   - **Tukey’s HSD**
-   - **Bonferroni [Correction](../c/correction.md)**
-   - **Scheffé's Test**
+ - **Tukey’s HSD**
+ - **Bonferroni [Correction](../c/correction.md)**
+ - **Scheffé's Test**
 
 ### Examples of ANOVA Applications
 
@@ -109,7 +109,7 @@ Here's an example of how you might conduct a one-way ANOVA in R:
 
 ```R
 # Example data
-data <- data.frame(
+data <- data.frame
   group = rep(c("A", "B", "C"), each = 10),
   score = c(rnorm(10, mean = 5), rnorm(10, mean = 7), rnorm(10, mean = 6))
 )
@@ -143,4 +143,4 @@ Both examples [will](../w/will.md) conduct a one-way ANOVA to determine if there
 
 ANOVA is a [robust](../r/robust.md) and widely used technique for comparing means across [multiple](../m/multiple.md) groups. Its adaptability to different experimental designs makes it an essential tool in various scientific disciplines, including [finance](../f/finance.md) and [algorithmic trading](../a/accountability.md). The insights gained from ANOVA can inform more detailed analyses and decision-making processes. Post hoc tests play a significant role in identifying where the differences lie when the ANOVA indicates significant results.
 
-For more information and resources, visit the official websites of statistical software packages such as [R](https://www.r-project.org/), [SciPy](https://www.scipy.org/), and [SPSS](https://www.ibm.com/products/spss-statistics).
+For more information and resources, visit the official websites of statistical software packages such as R, SciPy, and SPSS.

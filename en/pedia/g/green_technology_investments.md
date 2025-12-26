@@ -18,48 +18,48 @@ Green technology encompasses a broad [range](../r/range.md) of sectors and innov
 
 ### Renewable Energy
 
-1. **Solar Power**: Solar energy harnesses sunlight to generate electricity. Investments in solar power technologies include photovoltaic (PV) panels, solar thermal systems, and solar [infrastructure](../i/infrastructure.md). Companies such as SunPower [https://us.sunpower.com/] and First Solar [https://www.firstsolar.com/] are leaders in this sector.
-2. **Wind Energy**: Wind energy utilizes wind turbines to produce electricity. [Investing](../i/investing.md) in wind farms, [offshore](../o/offshore.md) wind projects, and wind turbine manufacturers are common practices. Vestas [https://www.vestas.com/] and Siemens Gamesa [https://www.siemensgamesa.com/] are prominent companies in the wind [energy sector](../e/energy_sector.md).
-3. **Hydropower**: Hydropower generates electricity using the flow of water. While traditional large-scale hydroelectric projects have environmental concerns, small-scale and run-of-river hydropower systems are gaining traction among investors. Brookfield Renewable Partners [https://bep.brookfield.com/] is a key player in hydropower investments.
-4. **Geothermal Energy**: Geothermal energy taps into the Earth's heat to produce electricity and provide heating. Investments in geothermal energy include geothermal power plants, heat pumps, and related [infrastructure](../i/infrastructure.md). Ormat Technologies [https://www.ormat.com/] is a leading company in this area.
+1. **Solar Power**: Solar energy harnesses sunlight to generate electricity. Investments in solar power technologies include photovoltaic (PV) panels, solar thermal systems, and solar [infrastructure](../i/infrastructure.md). Companies such as SunPower [ and First Solar [ are leaders in this sector.
+2. **Wind Energy**: Wind energy utilizes wind turbines to produce electricity. [Investing](../i/investing.md) in wind farms, [offshore](../o/offshore.md) wind projects, and wind turbine manufacturers are common practices. Vestas [ and Siemens Gamesa [ are prominent companies in the wind [energy sector](../e/energy_sector.md).
+3. **Hydropower**: Hydropower generates electricity using the flow of water. While traditional large-scale hydroelectric projects have environmental concerns, small-scale and run-of-river hydropower systems are gaining traction among investors. Brookfield Renewable Partners [ is a key player in hydropower investments.
+4. **Geothermal Energy**: Geothermal energy taps into the Earth's heat to produce electricity and provide heating. Investments in geothermal energy include geothermal power plants, heat pumps, and related [infrastructure](../i/infrastructure.md). Ormat Technologies [ is a leading company in this area.
 
 ### Energy Efficiency
 
-1. **Energy Storage**: Energy storage technologies, such as batteries and pumped hydro storage, are essential for stabilizing renewable energy sources and ensuring a reliable power [supply](../s/supply.md). Tesla [https://www.tesla.com/] and LG Chem [https://www.lgchem.com/] are major players in energy storage solutions.
-2. **Smart Grids**: Smart grids use digital technology to enhance the [efficiency](../e/efficiency.md), reliability, and sustainability of electricity transmission and [distribution](../d/distribution.md) networks. Companies like Siemens [https://new.siemens.com/] and Schneider Electric [https://www.se.com/] are at the forefront of smart grid technologies.
-3. **Building [Efficiency](../e/efficiency.md)**: Investments in energy-efficient buildings focus on technologies and practices that reduce energy consumption in residential, commercial, and industrial structures. This includes smart HVAC systems, LED lighting, and energy management solutions. Johnson Controls [https://www.johnsoncontrols.com/] and Honeywell [https://www.honeywell.com/] are key companies in this field.
+1. **Energy Storage**: Energy storage technologies, such as batteries and pumped hydro storage, are essential for stabilizing renewable energy sources and ensuring a reliable power [supply](../s/supply.md). Tesla [ and LG Chem [ are major players in energy storage solutions.
+2. **Smart Grids**: Smart grids use digital technology to enhance the [efficiency](../e/efficiency.md), reliability, and sustainability of electricity transmission and [distribution](../d/distribution.md) networks. Companies like Siemens [ and Schneider Electric [ are at the forefront of smart grid technologies.
+3. **Building [Efficiency](../e/efficiency.md)**: Investments in energy-efficient buildings focus on technologies and practices that reduce energy consumption in residential, commercial, and industrial structures. This includes smart HVAC systems, LED lighting, and energy management solutions. Johnson Controls [ and Honeywell [ are key companies in this field.
 
 ### Sustainable Transportation
 
-1. **Electric Vehicles (EVs)**: The electric vehicle [market](../m/market.md) is rapidly growing, with investments pouring into EV manufacturers, battery production, and charging [infrastructure](../i/infrastructure.md). Tesla [https://www.tesla.com/], NIO [https://www.nio.com/], and ChargePoint [https://www.chargepoint.com/] are significant players in the EV sector.
-2. **Public Transit**: Sustainable public transportation [options](../o/options.md), such as electric buses, light rail systems, and bike-sharing programs, [offer](../o/offer.md) eco-friendly alternatives to traditional transportation. Companies like BYD [https://www.byd.com/] and Proterra [https://www.proterra.com/] are [investing](../i/investing.md) in electric public transit solutions.
-3. **Hydrogen Fuel Cells**: Hydrogen fuel cell technology provides a clean energy source for various transportation applications, from cars to buses to trucks. Ballard Power Systems [https://www.ballard.com/] and Plug Power [https://www.plugpower.com/] are leading companies in hydrogen fuel cell technology.
+1. **Electric Vehicles (EVs)**: The electric vehicle [market](../m/market.md) is rapidly growing, with investments pouring into EV manufacturers, battery production, and charging [infrastructure](../i/infrastructure.md). Tesla [ NIO [ and ChargePoint [ are significant players in the EV sector.
+2. **Public Transit**: Sustainable public transportation [options](../o/options.md), such as electric buses, light rail systems, and bike-sharing programs, [offer](../o/offer.md) eco-friendly alternatives to traditional transportation. Companies like BYD [ and Proterra [ are [investing](../i/investing.md) in electric public transit solutions.
+3. **Hydrogen Fuel Cells**: Hydrogen fuel cell technology provides a clean energy source for various transportation applications, from cars to buses to trucks. Ballard Power Systems [ and Plug Power [ are leading companies in hydrogen fuel cell technology.
 
 ### Waste Management and Recycling
 
-1. **Recycling Technologies**: Investments in advanced recycling technologies aim to improve the [efficiency](../e/efficiency.md) and effectiveness of recycling processes for materials such as plastics, metals, and electronics. Companies like Waste Management [https://www.wm.com/] and Veolia [https://www.veolia.com/] are leaders in this sector.
-2. **Waste-to-Energy**: Waste-to-energy technologies convert waste materials into usable energy, reducing landfill waste and providing an alternative energy source. Covanta [https://www.covanta.com/] and Babcock & Wilcox [https://www.babcock.com/] are notable companies in the waste-to-energy [industry](../i/industry.md).
-3. **Circular [Economy](../e/economy.md) Solutions**: The circular [economy](../e/economy.md) focuses on creating closed-loop systems where products and materials are continuously reused and recycled. This approach reduces waste and conserves resources. Loop Industries [https://www.loopindustries.com/] is a key player in the circular [economy](../e/economy.md) movement.
+1. **Recycling Technologies**: Investments in advanced recycling technologies aim to improve the [efficiency](../e/efficiency.md) and effectiveness of recycling processes for materials such as plastics, metals, and electronics. Companies like Waste Management [ and Veolia [ are leaders in this sector.
+2. **Waste-to-Energy**: Waste-to-energy technologies convert waste materials into usable energy, reducing landfill waste and providing an alternative energy source. Covanta [ and Babcock & Wilcox [ are notable companies in the waste-to-energy [industry](../i/industry.md).
+3. **Circular [Economy](../e/economy.md) Solutions**: The circular [economy](../e/economy.md) focuses on creating closed-loop systems where products and materials are continuously reused and recycled. This approach reduces waste and conserves resources. Loop Industries [ is a key player in the circular [economy](../e/economy.md) movement.
 
 ### Water Management
 
-1. **Water Purification**: Investments in water purification technologies aim to provide clean and safe drinking water by removing contaminants from water sources. Xylem [https://www.xylem.com/] and Danaher [https://www.danaher.com/] are prominent companies in this field.
-2. **Desalination**: Desalination technologies convert seawater into freshwater, addressing water [scarcity](../s/scarcity.md) issues in arid regions. Companies like IDE Technologies [https://www.ide-tech.com/] and SUEZ [https://www.suez.com/] are leaders in desalination solutions.
-3. **Water Conservation**: Water conservation technologies and practices focus on reducing water usage in agriculture, [industry](../i/industry.md), and residential areas. Toro [https://www.thetorocompany.com/] and Rain Bird [https://www.rainbird.com/] are key companies developing water-saving solutions.
+1. **Water Purification**: Investments in water purification technologies aim to provide clean and safe drinking water by removing contaminants from water sources. Xylem [ and Danaher [ are prominent companies in this field.
+2. **Desalination**: Desalination technologies convert seawater into freshwater, addressing water [scarcity](../s/scarcity.md) issues in arid regions. Companies like IDE Technologies [ and SUEZ [ are leaders in desalination solutions.
+3. **Water Conservation**: Water conservation technologies and practices focus on reducing water usage in agriculture, [industry](../i/industry.md), and residential areas. Toro [ and Rain Bird [ are key companies developing water-saving solutions.
 
 ## Prominent Green Technology Investment Companies
 
 Several companies are at the forefront of green technology investments, leading the way in innovative solutions and sustainability practices. Here are some notable companies in the [green tech](../g/green_tech.md) investment landscape:
 
-1. **NextEra Energy** [https://www.nexteraenergy.com/]: NextEra Energy is a leading renewable energy company with a focus on wind and solar power. They are one of the largest producers of renewable energy in the world.
-2. **Brookfield Renewable Partners** [https://bep.brookfield.com/]: Brookfield Renewable Partners is a global leader in renewable energy investments, with a diverse portfolio that includes hydropower, wind, solar, and energy storage assets.
-3. **First Solar** [https://www.firstsolar.com/]: First Solar specializes in the production of solar panels and [utility](../u/utility.md)-scale PV power plants. They are known for their advanced thin-film solar technology.
-4. **Orsted** [https://orsted.com/]: Orsted is a Danish company that leads the world in [offshore](../o/offshore.md) wind energy development and operation. They are committed to creating a world that runs entirely on green energy.
-5. **Vestas** [https://www.vestas.com/]: Vestas is a global leader in wind turbine [manufacturing](../m/manufacturing.md) and wind energy solutions. They have installed more wind turbines globally than any other company.
-6. **Tesla** [https://www.tesla.com/]: Tesla is not only known for its electric vehicles but also for its energy storage solutions and solar energy products. They aim to accelerate the world's transition to sustainable energy.
-7. **Siemens Gamesa** [https://www.siemensgamesa.com/]: Siemens Gamesa is a major player in the wind [energy sector](../e/energy_sector.md), providing wind turbine technologies and expertise in wind farm development.
-8. **Plug Power** [https://www.plugpower.com/]: Plug Power specializes in hydrogen fuel cell technology for various applications, including transportation and energy storage.
-9. **Xylem** [https://www.xylem.com/]: Xylem is a leading water technology company that focuses on solving water challenges through innovative solutions in water purification, treatment, and conservation.
+1. **NextEra Energy** [ NextEra Energy is a leading renewable energy company with a focus on wind and solar power. They are one of the largest producers of renewable energy in the world.
+2. **Brookfield Renewable Partners** [ Brookfield Renewable Partners is a global leader in renewable energy investments, with a diverse portfolio that includes hydropower, wind, solar, and energy storage assets.
+3. **First Solar** [ First Solar specializes in the production of solar panels and [utility](../u/utility.md)-scale PV power plants. They are known for their advanced thin-film solar technology.
+4. **Orsted** [ Orsted is a Danish company that leads the world in [offshore](../o/offshore.md) wind energy development and operation. They are committed to creating a world that runs entirely on green energy.
+5. **Vestas** [ Vestas is a global leader in wind turbine [manufacturing](../m/manufacturing.md) and wind energy solutions. They have installed more wind turbines globally than any other company.
+6. **Tesla** [ Tesla is not only known for its electric vehicles but also for its energy storage solutions and solar energy products. They aim to accelerate the world's transition to sustainable energy.
+7. **Siemens Gamesa** [ Siemens Gamesa is a major player in the wind [energy sector](../e/energy_sector.md), providing wind turbine technologies and expertise in wind farm development.
+8. **Plug Power** [ Plug Power specializes in hydrogen fuel cell technology for various applications, including transportation and energy storage.
+9. **Xylem** [ Xylem is a leading water technology company that focuses on solving water challenges through innovative solutions in water purification, treatment, and conservation.
 
 ## Investment Strategies in Green Technology
 
@@ -71,7 +71,7 @@ Several companies are at the forefront of green technology investments, leading 
 
 ### Exchange-Traded Funds (ETFs)
 
-Green technology ETFs pool investments in a diversified portfolio of [green tech](../g/green_tech.md) companies. They [offer](../o/offer.md) a convenient way to invest in the sector without selecting individual [stocks](../s/stock.md). Popular [green tech](../g/green_tech.md) ETFs include the [iShares](../i/ishares.md) Global Clean Energy ETF [https://www.[ishares](../i/ishares.md).com/us/products/239726/[ishares](../i/ishares.md)-global-clean-energy-etf] and the Invesco Solar ETF [https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=financial-advisor&productId=3].
+Green technology ETFs pool investments in a diversified portfolio of [green tech](../g/green_tech.md) companies. They [offer](../o/offer.md) a convenient way to invest in the sector without selecting individual [stocks](../s/stock.md). Popular [green tech](../g/green_tech.md) ETFs include the [iShares](../i/ishares.md) Global Clean Energy ETF [ and the Invesco Solar ETF [
 
 ### Mutual Funds
 

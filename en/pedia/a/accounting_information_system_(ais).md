@@ -103,16 +103,16 @@ While AIS offers [robust](../r/robust.md) [security](../s/security.md) features,
 # Leading Vendors
 
 ## SAP
-[SAP](https://www.sap.com) offers ERP solutions that integrate with AIS to provide comprehensive [business](../b/business.md) management functionalities.
+SAP offers ERP solutions that integrate with AIS to provide comprehensive [business](../b/business.md) management functionalities.
 
 ## Oracle Financials
-[Oracle](https://www.oracle.com) provides advanced [accounting](../a/accounting.md) software that caters to the needs of various industries.
+Oracle provides advanced [accounting](../a/accounting.md) software that caters to the needs of various industries.
 
 ## QuickBooks
-[QuickBooks](https://quickbooks.intuit.com) by Intuit is widely used by small to medium-sized businesses for its user-friendly interface and extensive features.
+QuickBooks by Intuit is widely used by small to medium-sized businesses for its user-friendly interface and extensive features.
 
 ## Microsoft Dynamics
-[Microsoft Dynamics](https://dynamics.microsoft.com) offers a [range](../r/range.md) of [business](../b/business.md) applications including [robust](../r/robust.md) [accounting](../a/accounting.md) software.
+Microsoft Dynamics offers a [range](../r/range.md) of [business](../b/business.md) applications including [robust](../r/robust.md) [accounting](../a/accounting.md) software.
 
 # Future Trends
 

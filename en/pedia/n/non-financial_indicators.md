@@ -8,8 +8,8 @@ Social [sentiment indicators](../s/sentiment_indicators.md) assess the mood of t
 
 ### Key Players in Social Sentiment Analytics
 
-1. **Sentifi**: A company that leverages AI and [Big Data](../b/big_data_in_trading.md) to [offer](../o/offer.md) real-time financial [market sentiment](../m/market_sentiment.md). More information about Sentifi can be accessed [here](https://www.sentifi.com).
-2. **Finomial**: Focuses on delivering sentiment analytics to drive investment decisions. Visit their services [here](https://www.finomial.com).
+1. **Sentifi**: A company that leverages AI and [Big Data](../b/big_data_in_trading.md) to [offer](../o/offer.md) real-time financial [market sentiment](../m/market_sentiment.md). More information about Sentifi can be accessed here.
+2. **Finomial**: Focuses on delivering sentiment analytics to drive investment decisions. Visit their services here.
 
 ### Application in Trading
 
@@ -25,8 +25,8 @@ News analytics involves monitoring news articles, press releases, and other publ
 
 ### Leading Providers of News Analytics
 
-1. **Thomson [Reuters](../r/reuters.md) News Analytics**: This [firm](../f/firm.md) offers news [sentiment analysis](../s/sentiment_analysis.md), enabling traders to make informed decisions. More information can be found [here](https://www.refinitiv.com/en).
-2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s service offers extensive news analytics that can provide real-time insights into [market](../m/market.md) movements. Explore [Bloomberg](../b/bloomberg.md) Terminal [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+1. **Thomson [Reuters](../r/reuters.md) News Analytics**: This [firm](../f/firm.md) offers news [sentiment analysis](../s/sentiment_analysis.md), enabling traders to make informed decisions. More information can be found here.
+2. **[Bloomberg](../b/bloomberg.md) Terminal**: [Bloomberg](../b/bloomberg.md)’s service offers extensive news analytics that can provide real-time insights into [market](../m/market.md) movements. Explore [Bloomberg](../b/bloomberg.md) Terminal here.
 
 ### Application in Trading
 
@@ -42,8 +42,8 @@ ESG factors are increasingly being recognized for their potential to impact a co
 
 ### Companies Specializing in ESG Data
 
-1. **MSCI ESG Research**: Provides in-depth research, ratings and analysis of the ESG-related [business](../b/business.md) practices of thousands of companies. More information can be found [here](https://www.msci.com/esg-investing).
-2. **Sustainalytics**: Offers ESG and [corporate governance](../c/corporate_governance.md) research and ratings. Detailed information is available [here](https://www.sustainalytics.com).
+1. **MSCI ESG Research**: Provides in-depth research, ratings and analysis of the ESG-related [business](../b/business.md) practices of thousands of companies. More information can be found here.
+2. **Sustainalytics**: Offers ESG and [corporate governance](../c/corporate_governance.md) research and ratings. Detailed information is available here.
 
 ### Application in Trading
 
@@ -59,10 +59,10 @@ Natural disasters (earthquakes, floods) and man-made events (terrorist attacks, 
 
 ### Applying Disaster Indicators
 
-Algorithms that integrate information from early warning systems, government announcements, and historical impacts of similar incidents can adjust trades in real-time. 
+Algorithms that integrate information from early warning systems, government announcements, and historical impacts of similar incidents can adjust trades in real-time.
 
-1. **Riskpulse**: Provides [predictive analytics](../p/predictive_analytics.md) focusing on weather and climate [risk](../r/risk.md). More information [here](https://www.riskpulse.com).
-2. **Athenium Analytics**: Specializes in [risk](../r/risk.md) assessment and [predictive analytics](../p/predictive_analytics.md) for natural catastrophes. Learn more [here](https://www.athenium.com).
+1. **Riskpulse**: Provides [predictive analytics](../p/predictive_analytics.md) focusing on weather and climate [risk](../r/risk.md). More information here.
+2. **Athenium Analytics**: Specializes in [risk](../r/risk.md) assessment and [predictive analytics](../p/predictive_analytics.md) for natural catastrophes. Learn more here.
 
 ### Application in Trading
 
@@ -74,12 +74,12 @@ Predicting the scale and impact of a disaster accurately remains a significant c
 
 ## Geopolitical Indicators
 
-Geopolitical factors like [government policies](../g/government_policies_in_trading.md), international relations, and political stability can greatly influence [market](../m/market.md) behavior. 
+Geopolitical factors like [government policies](../g/government_policies_in_trading.md), international relations, and political stability can greatly influence [market](../m/market.md) behavior.
 
 ### Providers of Geopolitical Analysis
 
-1. **Stratfor**: Offers geopolitical intelligence and analysis. Learn more [here](https://worldview.stratfor.com).
-2. **Geopolitical [Futures](../f/futures.md)**: Specializes in geopolitics [forecasting](../f/forecasting.md). Visit their site [here](https://geopoliticalfutures.com).
+1. **Stratfor**: Offers geopolitical intelligence and analysis. Learn more here.
+2. **Geopolitical [Futures](../f/futures.md)**: Specializes in geopolitics [forecasting](../f/forecasting.md).
 
 ### Application in Trading
 
@@ -95,8 +95,8 @@ Technology advancements and disruptions, such as the advent of AI, [blockchain](
 
 ### Companies Leading in Tech Analysis
 
-1. **CB Insights**: Provides [market](../m/market.md) intelligence for technology trends. More information can be found [here](https://www.cbinsights.com).
-2. **Gartner**: Offers research and analysis on technological advancements. Visit their services [here](https://www.gartner.com).
+1. **CB Insights**: Provides [market](../m/market.md) intelligence for technology trends. More information can be found here.
+2. **Gartner**: Offers research and analysis on technological advancements. Visit their services here.
 
 ### Application in Trading
 

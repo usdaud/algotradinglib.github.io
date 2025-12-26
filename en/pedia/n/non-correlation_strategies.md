@@ -42,9 +42,9 @@ Advanced [machine learning](../m/machine_learning.md) techniques enable the disc
 
 ### Examples of Firms Utilizing Non-Correlative Strategies
 
-1. **Two Sigma** - [Two Sigma](https://www.twosigma.com): Two Sigma employs a variety of algorithmic strategies, including those based on low [correlation](../c/correlation.md), to manage risks and drive returns. They [leverage](../l/leverage.md) [data science](../d/data_science_in_trading.md) and advanced technology to develop quantitatively-driven investment strategies.
+1. **Two Sigma** - Two Sigma: Two Sigma employs a variety of algorithmic strategies, including those based on low [correlation](../c/correlation.md), to manage risks and drive returns. They [leverage](../l/leverage.md) [data science](../d/data_science_in_trading.md) and advanced technology to develop quantitatively-driven investment strategies.
 
-2. **AQR [Capital](../c/capital.md) Management** - [AQR](https://www.aqr.com): AQR is known for its [market](../m/market.md)-[neutral](../n/neutral.md) and diversified [hedge fund strategies](../h/hedge_fund_strategies.md). The [firm](../f/firm.md) uses purely [quantitative models](../q/quantitative_models.md) to identify non-correlational relationships across various [asset](../a/asset.md) classes, aiming for consistent [alpha generation](../a/alpha_generation.md).
+2. **AQR [Capital](../c/capital.md) Management** - AQR: AQR is known for its [market](../m/market.md)-[neutral](../n/neutral.md) and diversified [hedge fund strategies](../h/hedge_fund_strategies.md). The [firm](../f/firm.md) uses purely [quantitative models](../q/quantitative_models.md) to identify non-correlational relationships across various [asset](../a/asset.md) classes, aiming for consistent [alpha generation](../a/alpha_generation.md).
 
 3. **Renaissance Technologies** - Renaissance Technologies operates under the philosophy that markets are chaotic and exhibit nonlinear dynamics. They use sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to detect inefficiencies and develop non-correlated strategies, maximizing returns while minimizing [risk](../r/risk.md).
 
@@ -58,7 +58,7 @@ Advanced [machine learning](../m/machine_learning.md) techniques enable the disc
 
 #### Algorithmic Tools
 
-- **[Backtesting](../b/backtesting.md) Software:** Platforms like [QuantConnect](../q/quantconnect.md) and MetaTrader provide [robust](../r/robust.md) environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
+- **[Backtesting](../b/backtesting.md) Software:** Platforms like [StockSharp](../s/stocksharp.md) and MetaTrader provide [robust](../r/robust.md) environments for [backtesting](../b/backtesting.md) non-correlational strategies using historical data.
 - **[Machine Learning](../m/machine_learning.md) Frameworks:** Libraries such as [TensorFlow](../t/tensorflow.md) and scikit-learn [offer](../o/offer.md) tools for building [predictive models](../p/predictive_models_in_trading.md) that can identify non-correlated [asset](../a/asset.md) relationships.
 - **API Access to [Market](../m/market.md) Data:** Real-time and historical data providers, such as [Bloomberg](../b/bloomberg.md) and [Quandl](../q/quandl.md), [supply](../s/supply.md) comprehensive datasets necessary for [backtesting](../b/backtesting.md) and implementing non-correlational strategies.
 
@@ -83,4 +83,3 @@ Algo trading operates under stringent regulatory environments. Compliance with r
 ### Conclusion
 
 Non-[correlation](../c/correlation.md) strategies in [algorithmic trading](../a/algorithmic_trading.md) provide a sophisticated approach to [portfolio diversification](../p/portfolio_diversification.md), [risk management](../r/risk_management.md), and [return](../r/return.md) [optimization](../o/optimization.md). By leveraging statistical [arbitrage](../a/arbitrage.md), [market](../m/market.md)-[neutral](../n/neutral.md) positioning, multi-[asset](../a/asset.md) [diversification](../d/diversification.md), and [machine learning](../m/machine_learning.md) techniques, traders can construct portfolios resilient to [market](../m/market.md) [volatility](../v/volatility.md) and systemic risks. However, successful implementation requires careful consideration of data quality, model robustness, [transaction costs](../t/transaction_costs.md), and regulatory compliance. As [financial markets](../f/financial_market.md) evolve, non-[correlation](../c/correlation.md) strategies [will](../w/will.md) continue to play a crucial role in the toolkit of sophisticated algo traders and institutional investors.
-

@@ -34,11 +34,11 @@ The 5-year [yield](../y/yield.md) is calculated based on the [bond](../b/bond.md
 #### Real-World Data
 
 For current data on the 5-year [Treasury yield](../t/treasury_yield.md), investors can refer to:
-- [U.S. Department of the Treasury](https://www.treasury.gov)
+- U.S. Department of the Treasury
 
 Similarly, for [corporate bond](../c/corporate_bond.md) yields, investors can [check](../c/check.md) financial news websites and brokerage firms that track [bond](../b/bond.md) markets:
-- [Bloomberg](https://www.bloomberg.com)
-- [Yahoo Finance](https://finance.yahoo.com)
+- Bloomberg
+- Yahoo Finance
 
 #### Historical Trends
 
@@ -46,4 +46,4 @@ Historical trends in the 5-year [yield](../y/yield.md) can reveal periods of eco
 
 #### Conclusion
 
-The 5-year [yield](../y/yield.md) is a fundamental financial [indicator](../i/indicator.md) that provides insights into the intermediate-term economic outlook and investment climate. It is instrumental for various stakeholders including investors, economists, and policymakers. Understanding how and why this [yield](../y/yield.md) fluctuates is key to making informed financial decisions and anticipating [market](../m/market.md) movements.
+The 5-year [yield](../y/yield.md) is a fundamental financial [indicator](../i/indicator.md) that provides insights into the intermediate-term economic outlook and investment climate. It is instrumental for various stakeholders including investors, economists, and policymakers. Understanding how and why this [yield](../y/yield.md) fluctuates is key to making informed financial decisions and anticipating [market](../m/market.md) movements.

@@ -59,13 +59,13 @@ While [liquidity](../l/liquidity.md) [aggregation](../a/aggregation.md) offers s
 Several technology providers and financial firms [offer](../o/offer.md) [liquidity](../l/liquidity.md) [aggregation](../a/aggregation.md) solutions. These solutions vary in terms of features, connectivity [options](../o/options.md), and [target markets](../t/target_markets.md). Some notable players include:
 
 1. **FlexTrade**: A global leader in multi-[asset](../a/asset.md) [execution](../e/execution.md) and [order management systems](../o/order_management_systems.md), [offering](../o/offering.md) comprehensive [liquidity](../l/liquidity.md) [aggregation](../a/aggregation.md) solutions.
-   - [FlexTrade](https://flextrade.com/)
+ - FlexTrade
 2. **XTX Markets**: A leading electronic [liquidity](../l/liquidity.md) provider that uses advanced technology to aggregate and provide [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
-   - [XTX Markets](https://www.xtxmarkets.com/)
+ - XTX Markets
 3. **SmartTrade Technologies**: Provides a sophisticated [liquidity](../l/liquidity.md) [aggregation](../a/aggregation.md) and smart [order routing](../o/order_routing.md) platform for banks and trading firms.
-   - [SmartTrade Technologies](https://www.smart-trade.net/)
+ - SmartTrade Technologies
 4. **Thomson [Reuters](../r/reuters.md)** (Refinitiv): Offers the FXall platform, which aggregates [liquidity](../l/liquidity.md) from over 200 [liquidity](../l/liquidity.md) providers for [foreign exchange](../f/foreign_exchange.md) trading.
-   - [Refinitiv FXall](https://www.refinitiv.com/en/products/fxall-foreign-exchange-trading)
+ - Refinitiv FXall
 
 ## Conclusion
 

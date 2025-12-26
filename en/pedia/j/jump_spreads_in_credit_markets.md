@@ -41,9 +41,8 @@ Various key players are deeply involved in managing and trading around jump [spr
 
 ### Example: BlackRock
 
-BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, and it utilizes sophisticated [risk management](../r/risk_management.md) techniques to [handle](../h/handle.md) jump [risk](../r/risk.md) in [credit](../c/credit.md) markets. More about their [credit](../c/credit.md) [market](../m/market.md) strategies can be found on their [official page](https://www.blackrock.com).
+BlackRock is one of the largest [asset management](../a/asset_management.md) firms globally, and it utilizes sophisticated [risk management](../r/risk_management.md) techniques to [handle](../h/handle.md) jump [risk](../r/risk.md) in [credit](../c/credit.md) markets. More about their [credit](../c/credit.md) [market](../m/market.md) strategies can be found on their public materials.
 
 ## Conclusion
 
 Jump [spreads](../s/spreads.md) in [credit](../c/credit.md) markets present significant challenges and opportunities for traders and [risk](../r/risk.md) managers. Understanding the causes, implications, and advanced strategies to mitigate risks associated with jump [spreads](../s/spreads.md) is crucial for successful navigation of the fixed-[income](../i/income.md) landscape. Employing state-of-the-art models and real-time [trading algorithms](../t/trading_algorithms.md) allows [market](../m/market.md) participants to respond effectively to these sudden [market](../m/market.md) movements.
-

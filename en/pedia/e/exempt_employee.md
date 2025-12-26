@@ -1,10 +1,10 @@
 # Exempt Employee
 
-In the realm of employment classifications, the term "exempt employee" holds significant importance, particularly in the United States. This classification stems from the [Fair Labor Standards Act](../f/fair_labor_standards_act.md) (FLSA), a pivotal piece of legislation that delineates the distinction between exempt and non-exempt workers. Understanding what it means to be an exempt employee is crucial for both employers and employees, as it affects [payroll](../p/payroll.md) practices, overtime compensation, and job expectations. 
+In the realm of employment classifications, the term "exempt employee" holds significant importance, particularly in the United States. This classification stems from the [Fair Labor Standards Act](../f/fair_labor_standards_act.md) (FLSA), a pivotal piece of legislation that delineates the distinction between exempt and non-exempt workers. Understanding what it means to be an exempt employee is crucial for both employers and employees, as it affects [payroll](../p/payroll.md) practices, overtime compensation, and job expectations.
 
 ## Definition and Legal Framework
 
-An exempt employee is a worker who is not entitled to overtime pay under the FLSA. This means that exempt employees do not receive additional compensation for working more than 40 hours in a week. Instead, they are paid a salary and are expected to fulfill their job duties regardless of the number of hours worked. This [exemption](../e/exemption.md) is primarily applicable to white-[collar](../c/collar.md) jobs, including executive, administrative, and professional roles, as well as certain computer-related positions and outside salespersons. 
+An exempt employee is a worker who is not entitled to overtime pay under the FLSA. This means that exempt employees do not receive additional compensation for working more than 40 hours in a week. Instead, they are paid a salary and are expected to fulfill their job duties regardless of the number of hours worked. This [exemption](../e/exemption.md) is primarily applicable to white-[collar](../c/collar.md) jobs, including executive, administrative, and professional roles, as well as certain computer-related positions and outside salespersons.
 
 The FLSA sets forth specific criteria that an employee must meet to be classified as exempt. These criteria include salary [basis](../b/basis.md), salary threshold, and job duties. Let's explore each of these in detail:
 
@@ -68,4 +68,4 @@ Ensuring compliance with FLSA regulations is paramount for employers to avoid le
 
 Understanding the exempt employee classification is critical for both employers and employees to navigate the complexities of wage and hour laws. By adhering to the criteria set forth by the FLSA and implementing [best practices](../b/best_practices.md), employers can create a compliant and fair work environment, while employees can make informed decisions regarding their employment status and expectations.
 
-For further details, employers may refer to the [U.S. Department of Labor's official website](https://www.dol.gov/) for comprehensive information and resources related to the FLSA and exempt classifications.
+For further details, employers may refer to the U.S. Department of Labor's public materials for comprehensive information and resources related to the FLSA and exempt classifications.

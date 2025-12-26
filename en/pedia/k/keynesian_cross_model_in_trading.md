@@ -69,9 +69,9 @@ Markets are influenced by a plethora of factors, not just [economic indicators](
 When applying [machine learning](../m/machine_learning.md) models, there's a [risk](../r/risk.md) of [overfitting](../o/overfitting.md), where the model becomes too tailored to historical data and fails to generalize to new data.
 
 ## Conclusion
-The Keynesian Cross Model provides valuable insights into [market](../m/market.md) [equilibrium](../e/equilibrium.md) through aggregate variables. By drawing parallels between macroeconomic principles and [market](../m/market.md) behavior, traders, particularly those leveraging [algorithmic trading](../a/algorithmic_trading.md), can develop more [robust](../r/robust.md) and [data-driven trading strategies](../d/data-driven_trading_strategies.md). However, the challenges of data accuracy, [market anomalies](../m/market_anomalies.md), and model [overfitting](../o/overfitting.md) must be carefully managed to realize the full potential of applying Keynesian insights to trading. 
+The Keynesian Cross Model provides valuable insights into [market](../m/market.md) [equilibrium](../e/equilibrium.md) through aggregate variables. By drawing parallels between macroeconomic principles and [market](../m/market.md) behavior, traders, particularly those leveraging [algorithmic trading](../a/algorithmic_trading.md), can develop more [robust](../r/robust.md) and [data-driven trading strategies](../d/data-driven_trading_strategies.md). However, the challenges of data accuracy, [market anomalies](../m/market_anomalies.md), and model [overfitting](../o/overfitting.md) must be carefully managed to realize the full potential of applying Keynesian insights to trading.
 
 For further reading or practical implementation guides, visit financial and trading institutions such as:
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Citadel Securities](https://www.citadelsecurities.com/)
+- Renaissance Technologies
+- Two Sigma
+- Citadel Securities

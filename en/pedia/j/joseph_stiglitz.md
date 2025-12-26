@@ -37,7 +37,7 @@ Stiglitz is a strong advocate for [government intervention in markets](../g/gove
 Stiglitz has authored several influential books and articles. Some of his most notable works include:
 
 1. "The Theory of Screening, Education, and the [Distribution](../d/distribution.md) of [Income](../i/income.md)" (1975) - Stiglitz explores how education serves as a screening mechanism in the [labor market](../l/labor_market.md).
-   
+
 2. "Whither [Socialism](../s/socialism.md)?" (1994) - In this book, Stiglitz critiques traditional economic models and advocates for a more comprehensive approach to economic policy.
 
 3. "[Globalization](../g/globalization.md) and Its Discontents" (2002) - Stiglitz critiques the policies of international financial institutions such as the International Monetary [Fund](../f/fund.md) (IMF) and the [World Bank](../w/world_bank.md), arguing that their interventions often harm developing countries.

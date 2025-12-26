@@ -49,7 +49,7 @@ Technological advancements have played a significant role in shaping modern cons
 
 ### E-commerce
 
-Platforms like Amazon (https://www.amazon.com) have redefined consumer habits by providing a convenient, almost instantaneous purchasing process for a vast array of products.
+Platforms like Amazon have redefined consumer habits by providing a convenient, almost instantaneous purchasing process for a vast array of products.
 
 ### Social Media and Influencer Marketing
 
@@ -69,7 +69,7 @@ The concept of ethical consumption encourages consumers to make purchasing decis
 
 ### Corporate Responsibility
 
-Corporations are increasingly held accountable for their social and environmental impacts. Companies like Patagonia (https://www.patagonia.com) lead by example through their commitments to sustainable practices and transparent [supply](../s/supply.md) chains.
+Corporations are increasingly held accountable for their social and environmental impacts. Companies like Patagonia ( lead by example through their commitments to sustainable practices and transparent [supply](../s/supply.md) chains.
 
 ## Global Consumerism
 

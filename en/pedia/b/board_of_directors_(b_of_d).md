@@ -4,7 +4,7 @@ A **Board of Directors (B of D)** is a body of elected or appointed members who 
 
 ## Definition and Purpose
 
-The **Board of Directors** represents the apex of the [corporate hierarchy](../c/corporate_hierarchy.md), where crucial decisions guiding the company's strategy and operations are made. The board acts as a fiduciary for shareholders, ensuring the company's prosperity by collectively directing its affairs while meeting appropriate interests of its shareholders and stakeholders. 
+The **Board of Directors** represents the apex of the [corporate hierarchy](../c/corporate_hierarchy.md), where crucial decisions guiding the company's strategy and operations are made. The board acts as a fiduciary for shareholders, ensuring the company's prosperity by collectively directing its affairs while meeting appropriate interests of its shareholders and stakeholders.
 
 ## Structure of a Board
 
@@ -16,7 +16,7 @@ The Chairman is the leader of the board, responsible for setting the agenda, fac
 
 ### Vice-Chairman
 
-Aiding the Chairman, the Vice-Chairman steps in during absences or when delegated with specific responsibilities. 
+Aiding the Chairman, the Vice-Chairman steps in during absences or when delegated with specific responsibilities.
 
 ### Executive Directors
 

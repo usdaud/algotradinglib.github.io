@@ -143,4 +143,3 @@ The Federal Reserve is also focused on addressing economic inequality and promot
 
 The Federal Reserve System plays a central role in shaping the U.S. [economy](../e/economy.md) and influencing global [financial markets](../f/financial_market.md). Through its [monetary policy](../m/monetary_policy.md) tools, regulatory oversight, and financial services, the Fed aims to achieve its dual mandate of maximum employment and price stability. While it has faced criticisms and controversies, the Federal Reserve remains a vital institution in maintaining economic stability and promoting sustainable growth. As the economic landscape evolves, the Fed continues to adapt and innovate, ensuring its relevance and effectiveness in the years to come.
 
-For more information, you can visit the [Federal Reserve's official website](https://www.federalreserve.gov/).

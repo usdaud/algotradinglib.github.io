@@ -26,7 +26,7 @@ In a [zero-sum game](../z/zero-sum_game.md), the [profit](../p/profit.md) of eac
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) leverages [zero-sum models](../z/zero-sum_models.md) to design strategies that [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Algorithms can quickly identify and react to pricing discrepancies, effectively engaging in zero-sum transactions. 
+[Algorithmic trading](../a/algorithmic_trading.md) leverages [zero-sum models](../z/zero-sum_models.md) to design strategies that [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies. Algorithms can quickly identify and react to pricing discrepancies, effectively engaging in zero-sum transactions.
 
 ### Market Making
 
@@ -52,9 +52,9 @@ Understanding zero-sum dynamics is essential for effective [risk management](../
 
 Several prominent financial firms utilize [zero-sum models](../z/zero-sum_models.md) in their [trading strategies](../t/trading_strategies.md):
 
-- **Jane Street** (https://www.janestreet.com/): A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) specializing in [arbitrage](../a/arbitrage.md) and [market](../m/market.md) making where zero-sum strategies are frequently employed.
-- **DRW Trading** (https://drw.com/): Another significant player in [algorithmic trading](../a/algorithmic_trading.md) employing [zero-sum models](../z/zero-sum_models.md) to optimize [trading strategies](../t/trading_strategies.md).
-- **Renaissance Technologies** (https://www.rentec.com/): Known for their Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including zero-sum principles, to achieve [market](../m/market.md)-beating returns.
+- **Jane Street** ( A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) specializing in [arbitrage](../a/arbitrage.md) and [market](../m/market.md) making where zero-sum strategies are frequently employed.
+- **DRW Trading** ( Another significant player in [algorithmic trading](../a/algorithmic_trading.md) employing [zero-sum models](../z/zero-sum_models.md) to optimize [trading strategies](../t/trading_strategies.md).
+- **Renaissance Technologies** ( Known for their Medallion [Fund](../f/fund.md), which employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md), including zero-sum principles, to achieve [market](../m/market.md)-beating returns.
 
 ## Conclusion
 

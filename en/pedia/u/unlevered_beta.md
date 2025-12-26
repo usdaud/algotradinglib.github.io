@@ -1,6 +1,6 @@
 # Unlevered Beta
 
-In the realms of [finance](../f/finance.md) and investment, particularly when considering the [valuation](../v/valuation.md) and [risk](../r/risk.md) assessment of companies, the concept of '[beta](../b/beta.md)' is frequently utilized. [Beta](../b/beta.md) represents a measure of a stock's [volatility](../v/volatility.md) in relation to the overall [market](../m/market.md). More specifically, it helps in understanding how much the price of a given [asset](../a/asset.md) [will](../w/will.md) move relative to the [market](../m/market.md). Within this framework, the concept of Unlevered [Beta](../b/beta.md), also known as [Asset](../a/asset.md) [Beta](../b/beta.md), holds notable significance. 
+In the realms of [finance](../f/finance.md) and investment, particularly when considering the [valuation](../v/valuation.md) and [risk](../r/risk.md) assessment of companies, the concept of '[beta](../b/beta.md)' is frequently utilized. [Beta](../b/beta.md) represents a measure of a stock's [volatility](../v/volatility.md) in relation to the overall [market](../m/market.md). More specifically, it helps in understanding how much the price of a given [asset](../a/asset.md) [will](../w/will.md) move relative to the [market](../m/market.md). Within this framework, the concept of Unlevered [Beta](../b/beta.md), also known as [Asset](../a/asset.md) [Beta](../b/beta.md), holds notable significance.
 
 ## Understanding Unlevered Beta
 
@@ -26,7 +26,7 @@ This formula effectively strips out the impact of [debt](../d/debt.md) from the 
 Unlevered [Beta](../b/beta.md) is particularly useful in various financial models, such as the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM) and the [Weighted Average](../w/weighted_average.md) [Cost of Capital](../c/cost_of_capital.md) (WACC). It allows investors and analysts to:
 
 1. **Assess Pure [Business Risk](../b/business_risk.md)**: By removing the effects of [leverage](../l/leverage.md), Unlevered [Beta](../b/beta.md) provides a clearer indication of the [business risk](../b/business_risk.md) associated with a company's operational activities alone.
-  
+
 2. **Benchmarking Against Peers**: Investors can compare companies across the same [industry](../i/industry.md) without the distortion effects introduced by different [capital](../c/capital.md) structures.
 
 3. **Releveraging**: Once the Unlevered [Beta](../b/beta.md) is known, it can be used to estimate the Levered [Beta](../b/beta.md) under a different [capital structure](../c/capital_structure.md), providing flexibility in [financial analysis](../f/financial_analysis.md).
@@ -89,10 +89,10 @@ Consider a tech company, TechInnovate Inc., exploring ways to optimize its [capi
 
 1. **Current Levered [Beta](../b/beta.md) Assessment**: TechInnovate's current Levered [Beta](../b/beta.md) is calculated to be 1.5, indicating it is more volatile than the overall [market](../m/market.md).
 
-2. **[Capital Structure](../c/capital_structure.md) Analysis**: 
-   - [Debt](../d/debt.md) (D): $500 million
-   - [Equity](../e/equity.md) (E): $1 billion
-   - [Tax Rate](../t/tax_rate.md) (T): 25%
+2. **[Capital Structure](../c/capital_structure.md) Analysis**:
+ - [Debt](../d/debt.md) (D): $500 million
+ - [Equity](../e/equity.md) (E): $1 billion
+ - [Tax Rate](../t/tax_rate.md) (T): 25%
 
 Given these inputs, the Unlevered [Beta](../b/beta.md) is calculated:
 
@@ -107,9 +107,9 @@ Given these inputs, the Unlevered [Beta](../b/beta.md) is calculated:
 This Unlevered [Beta](../b/beta.md) of approximately 1.091 illustrates the [business risk](../b/business_risk.md) of TechInnovate's operations without the influence of its current [debt](../d/debt.md) level.
 
 3. **Strategic Decision-Making**:
-   - Assessing [risk](../r/risk.md)-adjusted returns on potential new projects.
-   - Determining an [optimal capital structure](../o/optimal_capital_structure.md) to balance growth and [risk](../r/risk.md).
-   - Benchmarking its [operational risk](../o/operational_risk.md) against other tech firms to identify competitive positioning.
+ - Assessing [risk](../r/risk.md)-adjusted returns on potential new projects.
+ - Determining an [optimal capital structure](../o/optimal_capital_structure.md) to balance growth and [risk](../r/risk.md).
+ - Benchmarking its [operational risk](../o/operational_risk.md) against other tech firms to identify competitive positioning.
 
 Overall, through understanding and applying Unlevered [Beta](../b/beta.md), TechInnovate’s financial managers can make more informed, strategic decisions that enhance [shareholder value](../s/shareholder_value.md) while managing [risk](../r/risk.md) effectively.
 

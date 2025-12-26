@@ -24,7 +24,7 @@ The outside sales strategy is usually associated with high-involvement sales pro
 
 ### CRM Systems
 
-[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) systems have become indispensable tools for outside sales representatives. CRMs help manage client information, track interactions, schedule follow-ups, and analyze sales data. Salesforce ([www.salesforce.com](https://www.salesforce.com)) is a leading CRM provider that delivers [robust](../r/robust.md) solutions for outside sales teams.
+[Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) systems have become indispensable tools for outside sales representatives. CRMs help manage client information, track interactions, schedule follow-ups, and analyze sales data. Salesforce ( is a leading CRM provider that delivers [robust](../r/robust.md) solutions for outside sales teams.
 
 ### Mobile Apps
 
@@ -32,7 +32,7 @@ Advancements in mobile technology have significantly impacted outside sales. Mob
 
 ### Virtual Meetings
 
-While face-to-face meetings are the cornerstone of outside sales, virtual meeting tools have provided alternatives when physical meetings are impossible. Tools such as Zoom ([www.zoom.us](https://www.zoom.us)), Microsoft Teams ([www.microsoft.com](https://www.microsoft.com)), and Google Meet ([meet.google.com](https://meet.google.com)) [offer](../o/offer.md) [robust](../r/robust.md) platforms for [video conferencing](../v/video_conferencing.md) and virtual demonstrations.
+While face-to-face meetings are the cornerstone of outside sales, virtual meeting tools have provided alternatives when physical meetings are impossible. Tools such as Zoom ( Microsoft Teams ( and Google Meet (meet.google.com) [offer](../o/offer.md) [robust](../r/robust.md) platforms for [video conferencing](../v/video_conferencing.md) and virtual demonstrations.
 
 ## Techniques for Effective Outside Sales
 

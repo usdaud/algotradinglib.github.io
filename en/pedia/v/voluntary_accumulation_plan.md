@@ -32,7 +32,7 @@ The Voluntary Accumulation Plan is designed to encourage disciplined [investing]
 
 ### Mutual Funds
 
-Many mutual funds [offer](../o/offer.md) SIP (Systematic Investment Plan) [options](../o/options.md) that operate much like VAPs. Investors can choose to invest a fixed sum of [money](../m/money.md) at regular intervals in a [mutual fund](../m/mutual_fund.md) of their choice. 
+Many mutual funds [offer](../o/offer.md) SIP (Systematic Investment Plan) [options](../o/options.md) that operate much like VAPs. Investors can choose to invest a fixed sum of [money](../m/money.md) at regular intervals in a [mutual fund](../m/mutual_fund.md) of their choice.
 
 ### Employee Stock Purchase Plans (ESPPs)
 

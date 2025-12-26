@@ -32,7 +32,7 @@ This [multiplier](../m/multiplier.md) reflects the effect of a change in investm
 
 ### Money Multiplier
 
-In the context of banking and [monetary policy](../m/monetary_policy.md), the [money](../m/money.md) [multiplier](../m/multiplier.md) measures the potential maximum amount of [commercial bank](../c/commercial_bank.md) [money](../m/money.md) that can be created by a given unit of central [bank](../b/bank.md) [money](../m/money.md), under the [fractional reserve banking](../f/fractional_reserve_banking.md) system. 
+In the context of banking and [monetary policy](../m/monetary_policy.md), the [money](../m/money.md) [multiplier](../m/multiplier.md) measures the potential maximum amount of [commercial bank](../c/commercial_bank.md) [money](../m/money.md) that can be created by a given unit of central [bank](../b/bank.md) [money](../m/money.md), under the [fractional reserve banking](../f/fractional_reserve_banking.md) system.
 
 \[ \text{Money Multiplier} = \frac{1}{\text{[Reserve Ratio](../r/reserve_ratio.md)}} \]
 

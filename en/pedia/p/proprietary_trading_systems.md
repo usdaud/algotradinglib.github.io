@@ -35,24 +35,19 @@
 ## Leading Companies & Platforms
 
 1. **Jane Street**:
-   - **Website**: [Jane Street](https://www.janestreet.com/)
-   - Known for its [quantitative trading](../q/quantitative_trading.md) and [market](../m/market.md)-making strategies. Jane Street uses proprietary systems to [trade](../t/trade.md) equities, bonds, and other financial products across global markets.
+ - Known for its [quantitative trading](../q/quantitative_trading.md) and [market](../m/market.md)-making strategies. Jane Street uses proprietary systems to [trade](../t/trade.md) equities, bonds, and other financial products across global markets.
 
 2. **Virtu Financial**:
-   - **Website**: [Virtu Financial](https://www.virtu.com/)
-   - Operates a global [multi-asset class](../m/multi-asset_class.md) [trading platform](../t/trading_platform.md). Virtu is renowned for its high-frequency trading capabilities and sophisticated [risk management](../r/risk_management.md) systems.
+ - Operates a global [multi-asset class](../m/multi-asset_class.md) [trading platform](../t/trading_platform.md). Virtu is renowned for its high-frequency trading capabilities and sophisticated [risk management](../r/risk_management.md) systems.
 
 3. **Two Sigma**:
-   - **Website**: [Two Sigma](https://www.twosigma.com/)
-   - Utilizes [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Their [proprietary trading](../p/proprietary_trading.md) systems are capable of analyzing vast datasets to identify trading opportunities across various [market](../m/market.md) sectors.
+ - Utilizes [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to develop [trading strategies](../t/trading_strategies.md). Their [proprietary trading](../p/proprietary_trading.md) systems are capable of analyzing vast datasets to identify trading opportunities across various [market](../m/market.md) sectors.
 
 4. **Citadel Securities**:
-   - **Website**: [Citadel Securities](https://www.citadelsecurities.com/)
-   - One of the largest [market](../m/market.md) makers in the world. Citadel Securities uses advanced [trading algorithms](../t/trading_algorithms.md) and systems to provide [liquidity](../l/liquidity.md) and execute trades in a wide [range](../r/range.md) of financial instruments.
+ - One of the largest [market](../m/market.md) makers in the world. Citadel Securities uses advanced [trading algorithms](../t/trading_algorithms.md) and systems to provide [liquidity](../l/liquidity.md) and execute trades in a wide [range](../r/range.md) of financial instruments.
 
 5. **DRW Trading**:
-   - **Website**: [DRW Trading](https://drw.com/)
-   - Engages in high-frequency trading across many [asset](../a/asset.md) classes. DRW’s proprietary systems are designed to implement their quantitative and event-driven strategies efficiently.
+ - Engages in high-frequency trading across many [asset](../a/asset.md) classes. DRW’s proprietary systems are designed to implement their quantitative and event-driven strategies efficiently.
 
 ## Technologies and Innovations
 
@@ -97,4 +92,3 @@
 ## Conclusion
 
 [Proprietary trading](../p/proprietary_trading.md) systems represent the convergence of [finance](../f/finance.md) and technology, enabling some of the most sophisticated and high-performance [trading strategies](../t/trading_strategies.md) in the world. As technology continues to evolve, these systems [will](../w/will.md) likely become even more advanced, harnessing the power of [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), [quantum computing](../q/quantum_computing_in_trading.md), and other cutting-edge technologies to navigate an increasingly complex and dynamic [market](../m/market.md) landscape.
-

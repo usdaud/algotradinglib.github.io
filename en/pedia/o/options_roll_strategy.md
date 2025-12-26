@@ -32,16 +32,16 @@ Traders roll [options](../o/options.md) for various reasons:
 A common example of rolling strategy involves rolling a [covered call](../c/covered_call.md):
 1. **Initial Position**: [Writer](../w/writer.md) sells a [call option](../c/call_option.md) on a stock they own ([covered call](../c/covered_call.md)).
 2. **[Roll Forward](../r/roll_forward.md) Process**:
-   - **Buy Back the Existing Call**: Close the existing [short call](../s/short_call.md) position.
-   - **Sell a New Call**: Simultaneously [open](../o/open.md) a new [short call](../s/short_call.md) at the same or different [strike price](../s/strike_price.md) with a later expiration.
+ - **Buy Back the Existing Call**: Close the existing [short call](../s/short_call.md) position.
+ - **Sell a New Call**: Simultaneously [open](../o/open.md) a new [short call](../s/short_call.md) at the same or different [strike price](../s/strike_price.md) with a later expiration.
 
 ### Rolling a Put Option
 
 Similarly, traders might roll [put options](../p/put_options.md):
 1. **Initial Position**: A [trader](../t/trader.md) buys a [put option](../p/put.md).
 2. **Roll Process**:
-   - **Sell the Existing Put**: Close the current [long put](../l/long_put.md) position.
-   - **Buy a New Put**: [Open](../o/open.md) a new [long put](../l/long_put.md) at the same or different [strike price](../s/strike_price.md) with a later [expiration date](../e/expiration_date.md).
+ - **Sell the Existing Put**: Close the current [long put](../l/long_put.md) position.
+ - **Buy a New Put**: [Open](../o/open.md) a new [long put](../l/long_put.md) at the same or different [strike price](../s/strike_price.md) with a later [expiration date](../e/expiration_date.md).
 
 ## Example of a Rolling Strategy
 
@@ -78,8 +78,8 @@ Rolling [options](../o/options.md) involves specific risks and considerations wh
 ## Practical Applications and Tools
 
 Several financial tools and platforms can facilitate the implementation of rolling strategies:
-- **Brokerage Platforms**: Many online brokerage platforms, such as [Interactive Brokers](https://www.interactivebrokers.com), provide advanced tools for [options](../o/options.md) trading and rolling.
-- **Option Analytics Software**: Tools such as [OptionsAI](https://www.optionsai.com) provide analytics and visualizations to help traders plan and execute rolling strategies.
+- **Brokerage Platforms**: Many online brokerage platforms, such as Interactive Brokers, provide advanced tools for [options](../o/options.md) trading and rolling.
+- **Option Analytics Software**: Tools such as OptionsAI provide analytics and visualizations to help traders plan and execute rolling strategies.
 - **[Risk Management](../r/risk_management.md) Tools**: Software that can simulate various rolling scenarios to help traders understand potential outcomes and manage [risk](../r/risk.md) effectively.
 
 ### Case Study: Rolling Strategy During Earnings Season
@@ -88,8 +88,8 @@ During [earnings](../e/earnings.md) season, [options](../o/options.md) [volatili
 1. **Initial Position**: A [trader](../t/trader.md) holds a [call option](../c/call_option.md) on Company XYZ, expiring the week before the [earnings](../e/earnings.md) release.
 2. **Anticipating [Volatility](../v/volatility.md)**: Expecting significant price movement, the [trader](../t/trader.md) decides to roll the call position forward to the week after [earnings](../e/earnings.md).
 3. **Executing the Roll**:
-   - Close the existing call position expiring pre-[earnings](../e/earnings.md).
-   - [Open](../o/open.md) a new call position expiring post-[earnings](../e/earnings.md), potentially at a different [strike price](../s/strike_price.md).
+ - Close the existing call position expiring pre-[earnings](../e/earnings.md).
+ - [Open](../o/open.md) a new call position expiring post-[earnings](../e/earnings.md), potentially at a different [strike price](../s/strike_price.md).
 
 This strategic adjustment allows the [trader](../t/trader.md) to maintain exposure through a period of anticipated [volatility](../v/volatility.md), aligning the [options](../o/options.md) position with the expected [market](../m/market.md) event.
 

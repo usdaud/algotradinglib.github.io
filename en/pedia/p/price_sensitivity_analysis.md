@@ -69,7 +69,7 @@ High-frequency trading (HFT) relies on analyzing price data in very short interv
 ## Case Studies and Practical Examples
 
 ### Case Study: Renaissance Technologies
-Renaissance Technologies, a pioneering [firm](../f/firm.md) in [algorithmic trading](../a/algorithmic_trading.md), employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and [data analysis techniques](../d/data_analysis_techniques.md) to develop [trading algorithms](../t/trading_algorithms.md). Price [sensitivity analysis](../s/sensitivity_analysis.md) is a core component of their strategies, enabling them to predict [market](../m/market.md) movements and execute high-frequency trades. More information about their approach can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies, a pioneering [firm](../f/firm.md) in [algorithmic trading](../a/algorithmic_trading.md), employs advanced [mathematical models](../m/mathematical_models_in_trading.md) and [data analysis techniques](../d/data_analysis_techniques.md) to develop [trading algorithms](../t/trading_algorithms.md). Price [sensitivity analysis](../s/sensitivity_analysis.md) is a core component of their strategies, enabling them to predict [market](../m/market.md) movements and execute high-frequency trades.
 
 ### Practical Example: Pairs Trading
 [Pairs trading](../p/pairs_trading.md) is a [market](../m/market.md)-[neutral](../n/neutral.md) strategy that involves trading two correlated assets by taking a long position in one and a short position in the other. Price [sensitivity analysis](../s/sensitivity_analysis.md) is crucial for identifying the [correlation](../c/correlation.md) between the two assets and determining the optimal entry and exit points for the trades.

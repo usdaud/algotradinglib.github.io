@@ -35,7 +35,7 @@ The [industry](../i/industry.md) [life cycle](../l/life_cycle.md) is typically d
 - **Rapid [Market](../m/market.md) Acceptance**: The product or service gains rapid [market](../m/market.md) acceptance, leading to a surge in sales.
 - **Increasing Competition**: The success of the initial product attracts competitors, leading to increased competition.
 - **[Economies of Scale](../e/economies_of_scale.md)**: Companies benefit from [economies of scale](../e/economies_of_scale.md) as production volumes increase. This results in lower costs per unit.
-- **Profitability**: Companies start to achieve profitability as sales volumes increase and costs decrease. 
+- **Profitability**: Companies start to achieve profitability as sales volumes increase and costs decrease.
 
 #### Strategic Implications
 

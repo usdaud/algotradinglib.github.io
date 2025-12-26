@@ -7,22 +7,22 @@ The Series 3 exam, also known as the National [Commodity Futures](../c/commodity
 The Series 3 exam is divided into two distinct parts:
 
 1. **Part 1 – [Market](../m/market.md) Knowledge (85 questions)**:
-   - This section covers the fundamentals of [futures](../f/futures.md) and [options](../o/options.md) markets, including contract specifications, trading mechanics, and [market](../m/market.md) participants. Topics include but are not limited to:
-     - Types of orders and [trading strategies](../t/trading_strategies.md)
-     - Hedging and [speculation](../s/speculation.md)
-     - Pricing and [valuation](../v/valuation.md) of [futures](../f/futures.md) and [options](../o/options.md)
-     - [Margin](../m/margin.md) requirements and [leverage](../l/leverage.md)
-     - The role of intermediaries like brokers and clearinghouses
-   - Exam takers must demonstrate a [robust](../r/robust.md) understanding of [market dynamics](../m/market_dynamics.md) and regulatory environments.
+ - This section covers the fundamentals of [futures](../f/futures.md) and [options](../o/options.md) markets, including contract specifications, trading mechanics, and [market](../m/market.md) participants. Topics include but are not limited to:
+ - Types of orders and [trading strategies](../t/trading_strategies.md)
+ - Hedging and [speculation](../s/speculation.md)
+ - Pricing and [valuation](../v/valuation.md) of [futures](../f/futures.md) and [options](../o/options.md)
+ - [Margin](../m/margin.md) requirements and [leverage](../l/leverage.md)
+ - The role of intermediaries like brokers and clearinghouses
+ - Exam takers must demonstrate a [robust](../r/robust.md) understanding of [market dynamics](../m/market_dynamics.md) and regulatory environments.
 
 2. **Part 2 – Rules and Regulations (35 questions)**:
-   - This part focuses on the regulatory environment governing [futures](../f/futures.md) and [options](../o/options.md) markets. Topics include:
-     - NFA rules and compliance
-     - [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) Act requirements
-     - Anti-[money laundering](../m/money_laundering.md) procedures
-     - Advertising standards and promotional activities
-     - [Customer](../c/customer.md) protection measures and complaint handling
-   - Understanding legal frameworks and ethical conduct is critical for compliance and adherence to [industry](../i/industry.md) standards.
+ - This part focuses on the regulatory environment governing [futures](../f/futures.md) and [options](../o/options.md) markets. Topics include:
+ - NFA rules and compliance
+ - [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) Act requirements
+ - Anti-[money laundering](../m/money_laundering.md) procedures
+ - Advertising standards and promotional activities
+ - [Customer](../c/customer.md) protection measures and complaint handling
+ - Understanding legal frameworks and ethical conduct is critical for compliance and adherence to [industry](../i/industry.md) standards.
 
 The total exam consists of 120 [multiple](../m/multiple.md)-choice questions, and candidates are required to achieve a minimum passing score of 70% on both sections of the exam.
 
@@ -94,7 +94,7 @@ Passing the Series 3 exam is just the beginning of a career in commodities and [
 - **Series 30:** The [Branch Manager](../b/branch_manager.md) Examination for those supervising branch offices.
 - **Series 31:** The [Futures](../f/futures.md) Managed Funds Examination for those involved with [managed futures](../m/managed_futures.md) funds.
 - **Series 32:** The Limited [Futures](../f/futures.md) Examination for non-U.S. applicants who wish to engage in [futures](../f/futures.md) trading within the U.S.
-  
+
 ### Industry Conferences and Seminars
 
 Participating in events organized by [industry](../i/industry.md) bodies, financial associations, and educational institutions helps professionals stay updated on the latest [market](../m/market.md) insights and [best practices](../b/best_practices.md).
@@ -107,4 +107,4 @@ Subscribing to [industry](../i/industry.md) publications, research reports, and 
 
 The Series 3 exam is a crucial certification for individuals looking to pursue careers in the commodities and [futures](../f/futures.md) markets. It tests an individual's knowledge of [market](../m/market.md) operations, [trading strategies](../t/trading_strategies.md), and regulatory requirements. Successful candidates can unlock rewarding career opportunities in various roles such as APs, FCMs, IBs, CTAs, and CPOs. With thorough preparation, continuous learning, and adherence to [ethical standards](../e/ethical_standards_in_trading.md), professionals can thrive in the dynamic and challenging world of [futures](../f/futures.md) trading.
 
-For more detailed information about the Series 3 exam and related career paths, please visit the official National [Futures](../f/futures.md) Association website at [NFA](https://www.nfa.futures.org/).
+For more detailed information about the Series 3 exam and related career paths, please visit the official National [Futures](../f/futures.md) Association online platform at NFA.

@@ -119,7 +119,7 @@ Amazon manages its working [capital](../c/capital.md) by efficiently turning ove
 
 Apple’s high [inventory turnover](../i/inventory_turnover.md) and efficient receivables management contribute to [robust](../r/robust.md) working [capital](../c/capital.md). Their large cash reserves and low [debt](../d/debt.md) levels are strategic choices that bolster [liquidity](../l/liquidity.md).
 
-For a deeper dive into their financial practices, you can visit [Amazon's Investor Relations](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx) and [Apple's Investor Relations](https://investor.apple.com/).
+For a deeper dive into their financial practices, you can visit Amazon's company filings and Apple's company filings.
 
 ## Conclusion
 

@@ -5,7 +5,7 @@ The Gordon Growth Model, also known as the [Dividend](../d/dividend.md) [Discoun
 ## Key Assumptions
 
 The Gordon Growth Model relies on a few crucial assumptions:
-1. **Dividends are expected to grow at a constant rate**. 
+1. **Dividends are expected to grow at a constant rate**.
 2. **The growth rate (g) of dividends is less than the required [rate of return](../r/rate_of_return.md) (r)**.
 3. **The required [rate of return](../r/rate_of_return.md) remains constant over time**.
 4. **The [investor](../i/investor.md)'s horizon is infinite**, which simplifies the [valuation](../v/valuation.md) under the assumption of constant growth.
@@ -71,7 +71,7 @@ The Gordon Growth Model is particularly relevant for valuing companies that have
 
 1. **Constant Growth Rate**: The assumption of a constant growth rate may not [hold](../h/hold.md) true in real-world scenarios where companies experience varying [growth rates](../g/growth_rates_in_trading.md).
 2. **Applicability**: It's less suitable for companies that do not pay dividends or have unpredictable [dividend](../d/dividend.md) patterns.
-3. **Sensitivity to Inputs**: Small changes in the growth rate (\( g \)) or required [rate of return](../r/rate_of_return.md) (\( r \)) can result in significant changes in the stock price [valuation](../v/valuation.md). 
+3. **Sensitivity to Inputs**: Small changes in the growth rate (\( g \)) or required [rate of return](../r/rate_of_return.md) (\( r \)) can result in significant changes in the stock price [valuation](../v/valuation.md).
 
 For example, if \( g \) approaches \( r \), the denominator \( r - g \) becomes very small, leading to potentially unrealistic valuations.
 

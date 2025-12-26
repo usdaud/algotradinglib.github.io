@@ -50,19 +50,14 @@ Consider a scenario where a trading [firm](../f/firm.md) uses [yield](../y/yield
 Several companies and tools specialize in providing advanced solutions for [yield](../y/yield.md) map analysis:
 
 - **[Bloomberg](../b/bloomberg.md) Terminal:** A widely used tool providing comprehensive financial data, analytics, and trading capabilities.
-  [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-  
+
 - **Refinitiv Eikon:** Offers a suite of financial data and insights for in-depth analysis and [trading strategies](../t/trading_strategies.md).
-  [Refinitiv Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
-  
+
 - **[Morningstar](../m/morningstar.md) Direct:** Provides [investment analysis](../i/investment_analysis.md) tools and comprehensive financial data for professional [asset](../a/asset.md) managers.
-  [Morningstar Direct](https://www.morningstar.com/products/direct)
-  
-- **[QuantConnect](../q/quantconnect.md):** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
-  [QuantConnect](https://www.quantconnect.com/)
-  
+
+- **[StockSharp](../s/stocksharp.md):** Platform for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies using data-driven methods.
+
 - **Numerai:** A [hedge fund](../h/hedge_fund.md) leveraging [data science](../d/data_science_in_trading.md) and [machine learning](../m/machine_learning.md) to drive trading decisions.
-  [Numerai](https://numer.ai/)
 
 ### Conclusion
 

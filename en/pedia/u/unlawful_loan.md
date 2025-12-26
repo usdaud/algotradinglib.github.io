@@ -15,13 +15,13 @@ An unlawful [loan](../l/loan.md) typically refers to any lending practice that f
 
 ### Predatory Lending
 
-Predatory lending involves unfair, deceptive, or fraudulent practices during the [loan](../l/loan.md) [origination](../o/origination.md) process, harming the borrower. 
+Predatory lending involves unfair, deceptive, or fraudulent practices during the [loan](../l/loan.md) [origination](../o/origination.md) process, harming the borrower.
 
 - **Examples:** Excessive fees, high [interest](../i/interest.md) rates, balloon payments, and [equity](../e/equity.md) stripping.
 
 ### Unlicensed Lending
 
-Operating a lending [business](../b/business.md) without a proper license is illegal. License requirements can vary by jurisdiction and type of [loan](../l/loan.md) offered. 
+Operating a lending [business](../b/business.md) without a proper license is illegal. License requirements can vary by jurisdiction and type of [loan](../l/loan.md) offered.
 
 ### Non-Disclosure
 
@@ -70,9 +70,9 @@ Unlawful lending can severely damage the reputation of a lending institution, re
 
 ### Wells Fargo
 
-In 2016, Wells Fargo faced significant legal repercussions for fraudulent loans and accounts, which ultimately led to billions in fines. 
+In 2016, Wells Fargo faced significant legal repercussions for fraudulent loans and accounts, which ultimately led to billions in fines.
 
-**Source:** [Wells Fargo](https://www.wellsfargo.com)
+**Source:** Wells Fargo
 
 ### PayDay Loans
 

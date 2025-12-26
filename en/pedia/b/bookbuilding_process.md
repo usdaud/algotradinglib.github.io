@@ -4,7 +4,7 @@ The bookbuilding process is a critical methodology commonly used in initial publ
 
 ## Introduction to Bookbuilding
 
-Bookbuilding is a modern approach to [price discovery](../p/price_discovery.md) in the context of an IPO. It contrasts with the fixed-price method, where the price is set before knowing the exact [demand](../d/demand.md). The process serves both issuers and investors by aligning [market](../m/market.md) [demand](../d/demand.md) with the [supply](../s/supply.md) of [shares](../s/shares.md). 
+Bookbuilding is a modern approach to [price discovery](../p/price_discovery.md) in the context of an IPO. It contrasts with the fixed-price method, where the price is set before knowing the exact [demand](../d/demand.md). The process serves both issuers and investors by aligning [market](../m/market.md) [demand](../d/demand.md) with the [supply](../s/supply.md) of [shares](../s/shares.md).
 
 ### Key Participants
 - **Issuers:** Companies looking to go public and raise [capital](../c/capital.md).
@@ -114,15 +114,15 @@ Regulatory frameworks like the Securities Act aim to prevent price manipulation 
 
 ### Goldman Sachs
 
-One of the top global [investment banks](../i/investment_bank_(ib).md), Goldman Sachs frequently acts as an [underwriter](../u/underwriter.md) in numerous high-profile IPOs. More details can be found on their [website](https://www.goldmansachs.com).
+One of the top global [investment banks](../i/investment_bank_(ib).md), Goldman Sachs frequently acts as an [underwriter](../u/underwriter.md) in numerous high-profile IPOs. More
 
 ### Morgan Stanley
 
-Morgan Stanley is another leading investment [bank](../b/bank.md) known for its deep involvement in the bookbuilding and [underwriting](../u/underwriting.md) processes. Their substantial institutional reach ensures [robust](../r/robust.md) participation in bookbuilds. Visit [Morgan Stanley](https://www.morganstanley.com) for additional information.
+Morgan Stanley is another leading investment [bank](../b/bank.md) known for its deep involvement in the bookbuilding and [underwriting](../u/underwriting.md) processes. Their substantial institutional reach ensures [robust](../r/robust.md) participation in bookbuilds. Visit Morgan Stanley for additional information.
 
 ### JPMorgan Chase & Co.
 
-JPMorgan Chase often spearheads bookbuilding processes, leveraging its extensive global network and [capital markets](../c/capital_markets.md) expertise to facilitate successful IPOs. More information is available on their [website](https://www.jpmorganchase.com).
+JPMorgan Chase often spearheads bookbuilding processes, leveraging its extensive global network and [capital markets](../c/capital_markets.md) expertise to facilitate successful IPOs.
 
 ## Recent Trends in Bookbuilding
 

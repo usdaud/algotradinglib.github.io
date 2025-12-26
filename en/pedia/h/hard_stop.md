@@ -1,8 +1,8 @@
 # Hard Stop
 
-In the realm of [algorithmic trading](../a/accountability.md), the term "Hard Stop" refers to a predefined point at which a [trader](../t/trader.md) or an automated trading system [will](../w/will.md) exit a [trade](../t/trade.md) to prevent further losses. This concept is essential for managing [risk](../r/risk.md), preserving [capital](../c/capital.md), and maintaining discipline in the trading process. It is a fundamental tool for traders who wish to implement stringent [risk management](../r/risk_management.md) strategies. 
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the term "Hard Stop" refers to a predefined point at which a [trader](../t/trader.md) or an automated trading system [will](../w/will.md) exit a [trade](../t/trade.md) to prevent further losses. This concept is essential for managing [risk](../r/risk.md), preserving [capital](../c/capital.md), and maintaining discipline in the trading process. It is a fundamental tool for traders who wish to implement stringent [risk management](../r/risk_management.md) strategies.
 
-Hard stops are especially crucial in [algorithmic trading](../a/accountability.md) because they ensure that the [trading algorithms](../t/trading_algorithms.md) operate within defined [risk](../r/risk.md) parameters. Let's delve deeper into the various facets of hard stops, their implementation, advantages, and potential risks.
+Hard stops are especially crucial in [algorithmic trading](../a/algorithmic_trading.md) because they ensure that the [trading algorithms](../t/trading_algorithms.md) operate within defined [risk](../r/risk.md) parameters. Let's delve deeper into the various facets of hard stops, their implementation, advantages, and potential risks.
 
 ## Definition and Concept
 
@@ -24,7 +24,7 @@ Advanced trading platforms provide features to set hard stops. These platforms a
 
 ### Custom Algorithms
 
-For more tailored [risk management](../r/risk_management.md) strategies, traders can code their own algorithms to implement hard stops. Languages like Python, R, and specialized [algorithmic trading](../a/accountability.md) languages can be used to custom program stop-loss logic. These algorithms can be designed to adjust stops dynamically based on [market](../m/market.md) conditions or other predetermined criteria.
+For more tailored [risk management](../r/risk_management.md) strategies, traders can code their own algorithms to implement hard stops. Languages like Python, R, and specialized [algorithmic trading](../a/algorithmic_trading.md) languages can be used to custom program stop-loss logic. These algorithms can be designed to adjust stops dynamically based on [market](../m/market.md) conditions or other predetermined criteria.
 
 ## Advantages
 
@@ -38,7 +38,7 @@ Hard stops enforce discipline by removing emotional decision-making from the tra
 
 ### Automation
 
-In [algorithmic trading](../a/accountability.md), hard stops can be seamlessly integrated into the [trading algorithms](../t/trading_algorithms.md), ensuring that [risk management](../r/risk_management.md) is systematic and consistent. This automation reduces the need for constant monitoring and allows the [trader](../t/trader.md) to focus on strategic aspects of their [trading systems](../t/trading_systems.md).
+In [algorithmic trading](../a/algorithmic_trading.md), hard stops can be seamlessly integrated into the [trading algorithms](../t/trading_algorithms.md), ensuring that [risk management](../r/risk_management.md) is systematic and consistent. This automation reduces the need for constant monitoring and allows the [trader](../t/trader.md) to focus on strategic aspects of their [trading systems](../t/trading_systems.md).
 
 ### Backtesting
 

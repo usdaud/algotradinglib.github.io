@@ -47,10 +47,10 @@ Several factors can influence the residual [value](../v/value.md) of an [asset](
 ## Real-World Examples
 
 ### Tesla's Automotive Leasing
-Tesla Motors incorporates residual [value](../v/value.md) in its automotive leasing agreements where the residual values are set considering the vehicle's [depreciation](../d/depreciation.md) and the expected [market value](../m/market_value.md) at the end of the lease term. More information can be found on their [official page](https://www.tesla.com/).
+Tesla Motors incorporates residual [value](../v/value.md) in its automotive leasing agreements where the residual values are set considering the vehicle's [depreciation](../d/depreciation.md) and the expected [market value](../m/market_value.md) at the end of the lease term.
 
 ### Heavy Machinery
-Caterpillar Inc., which deals in heavy machinery, uses residual [value](../v/value.md) to strategize the buying and leasing of its equipment. The company's planning includes estimating the long-term worth of equipment post-usage. Refer to their [residual value management](https://www.caterpillar.com/) for an in-depth understanding.
+Caterpillar Inc., which deals in heavy machinery, uses residual [value](../v/value.md) to strategize the buying and leasing of its equipment. The company's planning includes estimating the long-term worth of equipment post-usage. Refer to their residual value management for an in-depth understanding.
 
 ### Real Estate
 Residual [value](../v/value.md) plays a crucial role in [real estate](../r/real_estate.md) investments and leases. For example, [real estate](../r/real_estate.md) investment trusts (REITs) calculate residual [value](../v/value.md) to estimate future returns on property investments.

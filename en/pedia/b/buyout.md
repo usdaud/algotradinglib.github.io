@@ -15,8 +15,6 @@ A Leveraged Buyout is a buyout where the [acquisition](../a/acquisition.md) is s
 **Example:**
 The $25 billion [acquisition](../a/acquisition.md) of RJR Nabisco by Kohlberg Kravis Roberts & Co. (KKR) in 1989 is one of the most famous LBOs.
 
-Visit KKR's site for more information: [KKR](https://www.kkr.com/)
-
 ### Management Buyout (MBO)
 A Management Buyout occurs when a company's management team purchases the assets and operations of the [business](../b/business.md) they manage. This type typically involves borrowing and often includes [equity](../e/equity.md) funding.
 
@@ -28,8 +26,6 @@ A Management Buyout occurs when a company's management team purchases the assets
 **Example:**
 The buyout of Dell Inc. in 2013 by its founder Michael Dell and Silver Lake Partners is one of the notable MBOs.
 
-Visit Silver Lake's site: [Silver Lake](https://www.silverlake.com/)
-
 ### Secondary Buyout
 A Secondary Buyout occurs when a [private equity](../p/private_equity.md) [firm](../f/firm.md) sells its stake in a company to another [private equity](../p/private_equity.md) [firm](../f/firm.md) rather than to a strategic buyer or through an initial public [offering](../o/offering.md) (IPO).
 
@@ -40,8 +36,6 @@ A Secondary Buyout occurs when a [private equity](../p/private_equity.md) [firm]
 
 **Example:**
 The [sale](../s/sale.md) of Springer Science+[Business](../b/business.md) Media by Cinven and Candover Investments to EQT Partners in 2013 is a notable secondary buyout.
-
-Visit EQT Partners' site: [EQT Partners](https://www.eqtgroup.com/)
 
 ## Strategic Objectives of Buyouts
 
@@ -56,10 +50,8 @@ Buyouts aim for significant [value](../v/value.md) creation through [restructuri
 **Example:**
 The transformation of Burger King by 3G [Capital](../c/capital.md) which included cost-cutting measures and strategic rebranding.
 
-Visit 3G [Capital](../c/capital.md)'s site: [3G Capital](https://www.3g-capital.com/)
-
 ### Financial Engineering
-Often central to buyouts, [financial engineering](../f/financial_engineering.md) involves complex financial instruments and [leverage](../l/leverage.md) to optimize the [capital structure](../c/capital_structure.md) and boost returns. 
+Often central to buyouts, [financial engineering](../f/financial_engineering.md) involves complex financial instruments and [leverage](../l/leverage.md) to optimize the [capital structure](../c/capital_structure.md) and boost returns.
 
 **Components:**
 - [Debt](../d/debt.md) Structuring: Utilizing various [debt](../d/debt.md) [tranches](../t/tranches.md) to balance [risk](../r/risk.md) and reward.
@@ -67,8 +59,6 @@ Often central to buyouts, [financial engineering](../f/financial_engineering.md)
 
 **Example:**
 The intricate financial structuring in the $44 billion buyout of TXU Energy by KKR, TPG [Capital](../c/capital.md), and Goldman Sachs.
-
-Visit TPG [Capital](../c/capital.md)'s site: [TPG Capital](https://www.tpg.com/)
 
 ### Risk Management
 Buyouts inherently carry significant [risk](../r/risk.md), from financial [leverage](../l/leverage.md) to organizational change. Effective [risk management](../r/risk_management.md) entails identifying, assessing, and mitigating potential risks throughout the lifecycle of the buyout.
@@ -80,8 +70,6 @@ Buyouts inherently carry significant [risk](../r/risk.md), from financial [lever
 
 **Example:**
 The [risk](../r/risk.md) mitigation strategies employed by Apollo Global Management in [multiple](../m/multiple.md) buyouts.
-
-Visit Apollo Global Management's site: [Apollo](https://www.apollo.com/)
 
 ## Stages of a Buyout
 
@@ -119,8 +107,6 @@ Formulating an [exit strategy](../e/exit_strategy.md) is crucial to realize the 
 
 **Example:**
 The IPO exit of Blackstone Group's investment in Hilton Worldwide [Holdings](../h/holdings.md) Inc.
-
-Visit Blackstone Group's site: [Blackstone](https://www.blackstone.com/)
 
 ## Notable Buyouts in History
 

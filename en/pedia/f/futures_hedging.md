@@ -76,6 +76,6 @@ A U.S.-based company with future [euro](../e/euro.md)-denominated receivables mi
 [Futures](../f/futures.md) hedging is an indispensable [risk management](../r/risk_management.md) tool that offers various strategies to safeguard against price [volatility](../v/volatility.md) in diverse markets. Whether it involves commodities, financial instruments, [interest](../i/interest.md) rates, or [equity](../e/equity.md) indices, the ability to lock in prices and manage exposure is invaluable for businesses and investors. By understanding the [underlying](../u/underlying.md) principles and strategies of [futures](../f/futures.md) hedging, [market](../m/market.md) participants can better navigate the complexities of [financial markets](../f/financial_market.md) and protect their assets.
 
 For more information on [futures contracts](../f/futures_contracts.md) and [hedging strategies](../h/hedging_strategies.md), refer to the following resources:
-- [CME Group](https://www.cmegroup.com/)
-- [Intercontinental Exchange (ICE)](https://www.theice.com/)
-- [Chicago Board Options Exchange (CBOE)](https://www.cboe.com/)
+- CME Group
+- Intercontinental Exchange (ICE)
+- Chicago Board Options Exchange (CBOE)

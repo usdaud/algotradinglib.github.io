@@ -9,7 +9,7 @@ A flat [yield curve](../y/yard.md) occurs when short-term and long-term [interes
 To comprehend what a flat [yield curve](../y/yard.md) signifies, it's essential to have a basic understanding of what the [yield curve](../y/yard.md) generally represents:
 
 - **[Normal Yield Curve](../n/normal_yield_curve.md):** Typically upward-sloping, indicating that longer-term [interest](../i/interest.md) rates are higher than shorter-term rates. This is often interpreted as investors requiring a [premium](../p/premium.md) for longer-term investments due to the higher [risk](../r/risk.md) and [uncertainty](../u/uncertainty_in_trading.md) over a more extended period.
-  
+
 - **[Inverted Yield Curve](../i/inverted_yield_curve.md):** Slopes downwards, signaling that short-term [interest](../i/interest.md) rates are higher than long-term rates. This is often seen as a warning sign of an impending economic slowdown or [recession](../r/recession.md).
 
 - **Flat [Yield Curve](../y/yard.md):** Indicates that short-term and long-term rates are nearly identical. This can be an interim phase between a normal and an [inverted yield curve](../i/inverted_yield_curve.md) or can indicate specific [market](../m/market.md) conditions.

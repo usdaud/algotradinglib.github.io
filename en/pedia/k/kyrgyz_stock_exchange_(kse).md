@@ -102,4 +102,4 @@ Ongoing regulatory reforms are anticipated to further align KSE with internation
 
 The Kyrgyz Stock [Exchange](../e/exchange.md) is a cornerstone of the Kyrgyz Republic's financial [market](../m/market.md), providing a platform for [capital](../c/capital.md) formation and investment. While it faces several challenges, including limited [market depth](../m/market_depth.md) and [liquidity](../l/liquidity.md), ongoing developments in technology, regulation, and [market](../m/market.md) participation [hold](../h/hold.md) promise for a vibrant and dynamic future. The [exchange](../e/exchange.md) continues to play a pivotal role in the economic development of Kyrgyzstan, fostering growth and innovation in the [financial sector](../f/financial_sector.md).
 
-For more information, you can visit the official website of the Kyrgyz Stock [Exchange](../e/exchange.md): [Kyrgyz Stock Exchange](http://kse.kg/).
+./e/exchange.md): Kyrgyz Stock Exchange.

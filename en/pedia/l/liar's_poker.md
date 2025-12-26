@@ -79,8 +79,8 @@ The insights from "Liar's Poker" have been incorporated into financial education
 ### Further Reading and Resources
 
 - Michael Lewis, "Liar's Poker: Rising Through the Wreckage on [Wall Street](../w/wall_street.md)"
-- [Michael Lewis's Official Website](https://michaellewismedia.com/)
-- [Salomon Brothers Historical Information](https://www.series65examtutor.com/salomon-brothers-history-of-the-prestigious-wall-street-firm/)
-- [Wall Street Culture and Ethics Resources](https://www.wallstreetmojo.com/wall-street-culture/)
+- Michael Lewis's
+- Salomon Brothers Historical Information
+- Wall Street Culture and Ethics Resources
 
 This exploration into "Liar's Poker" not only provides a framework for understanding a unique aspect of financial culture but also serves as a catalyst for deeper discussions on [risk](../r/risk.md), ethics, and strategy in the world of [finance](../f/finance.md).

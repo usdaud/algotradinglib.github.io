@@ -57,8 +57,8 @@ Given their [leverage](../l/leverage.md), [warrants](../w/warrants_in_trading.md
 #### 3. **Arbitrage Opportunities**
 [Warrants](../w/warrants_in_trading.md) can be involved in [arbitrage](../a/arbitrage.md) strategies, where traders exploit price discrepancies in different markets or forms of the [underlying asset](../u/underlying_asset.md) to achieve [risk](../r/risk.md)-free profits.
 
-By [offering](../o/offering.md) a mix of [risk](../r/risk.md) and opportunity, [warrants](../w/warrants_in_trading.md) serve as versatile instruments in the [financial markets](../f/financial_market.md), allowing companies to attract investment while providing various opportunities for investors to achieve different financial objectives. 
+By [offering](../o/offering.md) a mix of [risk](../r/risk.md) and opportunity, [warrants](../w/warrants_in_trading.md) serve as versatile instruments in the [financial markets](../f/financial_market.md), allowing companies to attract investment while providing various opportunities for investors to achieve different financial objectives.
 
-For more detailed information on financial strategies and instruments involving [warrants](../w/warrants_in_trading.md), you may visit the website of a financial institution or a [trading platform](../t/trading_platform.md) specializing in [derivatives](../d/derivatives.md) and [equity](../e/equity.md)-linked securities.
+For more detailed information on financial strategies and instruments involving [warrants](../w/warrants_in_trading.md), you may./t/trading_platform.md) specializing in [derivatives](../d/derivatives.md) and [equity](../e/equity.md)-linked securities.
 
-*Example link related to [warrants](../w/warrants_in_trading.md)*: [Goldman Sachs Warrants](https://www.goldmansachs.com/what-we-do/securities/products-and-business-groups/equity/convertible-bond-and-warrant.html)
+*Example link related to [warrants](../w/warrants_in_trading.md)*: Goldman Sachs Warrants

@@ -123,7 +123,7 @@ Although less common, some non-governmental and non-educational employers, such 
 
 ### Innovative Solutions
 
-Modern technology plays a crucial role in the administration of 403(b) plans. Platforms such as [TIAA](https://www.tiaa.org/public/why-tiaa), [Voya Financial](https://www.voya.com/), and [Fidelity](https://www.fidelity.com/) [offer](../o/offer.md) comprehensive solutions for plan management, record-keeping, and investment [options](../o/options.md). These platforms provide tools for both employers and employees, enhancing the administration and engagement with retirement savings.
+Modern technology plays a crucial role in the administration of 403(b) plans. Platforms such as TIAA, Voya Financial, and Fidelity [offer](../o/offer.md) comprehensive solutions for plan management, record-keeping, and investment [options](../o/options.md). These platforms provide tools for both employers and employees, enhancing the administration and engagement with retirement savings.
 
 ### Cybersecurity
 

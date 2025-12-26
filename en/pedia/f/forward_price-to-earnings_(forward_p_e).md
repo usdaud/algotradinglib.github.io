@@ -41,14 +41,14 @@ Unlike the P/E ratio, which uses historical EPS, the Forward P/E uses projected 
 Consider two competing companies in the [technology sector](../t/technology_sector.md): Company A and Company B. Both companies are trading at $100 per share, and their respective Forward P/E ratios are calculated as follows:
 
 * Company A:
-  * Current Share Price: $100
-  * Estimated EPS for Next Year: $8
-  * Forward P/E = \( \frac{100}{8} = 12.5 \)
+ * Current Share Price: $100
+ * Estimated EPS for Next Year: $8
+ * Forward P/E = \( \frac{100}{8} = 12.5 \)
 
 * Company B:
-  * Current Share Price: $100
-  * Estimated EPS for Next Year: $5
-  * Forward P/E = \( \frac{100}{5} = 20 \)
+ * Current Share Price: $100
+ * Estimated EPS for Next Year: $5
+ * Forward P/E = \( \frac{100}{5} = 20 \)
 
 In this scenario, Company A has a lower Forward P/E than Company B, indicating that investors expect Company A to generate higher [earnings](../e/earnings.md) relative to its current stock price. This might make Company A appear [undervalued](../u/undervalued.md) compared to Company B, assuming other factors like growth potential, [risk](../r/risk.md), and [market](../m/market.md) conditions are similar.
 
@@ -78,7 +78,7 @@ A quant system might use the following logic:
 
 ### Real-Life Example: Wealthfront
 
-Wealthfront, an automated investment service [Wealthfront](https://www.wealthfront.com/), employs algorithmic strategies potentially incorporating [valuation](../v/valuation.md) metrics like Forward P/E in their investment models. Their algorithms create personalized portfolios that aim to optimize returns while considering factors such as [valuation](../v/valuation.md), growth potential, and [risk](../r/risk.md).
+Wealthfront, an automated investment service Wealthfront, employs algorithmic strategies potentially incorporating [valuation](../v/valuation.md) metrics like Forward P/E in their investment models. Their algorithms create personalized portfolios that aim to optimize returns while considering factors such as [valuation](../v/valuation.md), growth potential, and [risk](../r/risk.md).
 
 ## Conclusion
 

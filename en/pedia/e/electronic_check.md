@@ -84,19 +84,16 @@ Many government agencies and [utility](../u/utility.md) companies accept e-check
 
 [PayPal](../p/paypal.md) offers an e-[check](../c/check.md) service that allows users to pay directly from their [bank](../b/bank.md) accounts. This service is particularly popular for online purchases and is integrated into many e-[commerce](../c/commerce.md) platforms.
 
-[PayPal](https://www.paypal.com/)
 
 ### Intuit
 
 Intuit, the maker of QuickBooks, offers e-[check](../c/check.md) services as part of its suite of [accounting](../a/accounting.md) and [payment](../p/payment.md) solutions for businesses.
 
-[Intuit](https://www.intuit.com/)
 
 ### ACH Payments
 
 ACH Payments specializes in providing e-[check](../c/check.md) processing through the ACH network, catering to various industries including healthcare, [real estate](../r/real_estate.md), and education.
 
-[ACH Payments](https://www.achpayments.com/)
 
 ## Future Trends
 

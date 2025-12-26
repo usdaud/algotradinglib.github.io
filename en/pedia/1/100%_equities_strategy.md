@@ -43,6 +43,21 @@ High-frequency trading is a subdomain of [algorithmic trading](../a/accountabili
 
 4. **Adaptability and [Efficiency](../e/efficiency.md)**: Algorithms can quickly adapt to changing [market](../m/market.md) conditions, ensuring that the strategy remains relevant and effective. The ability to process and analyze large datasets allows for swift [execution](../e/execution.md) of trades.
 
+## Historical Performance Comparison
+
+### 100% Equities vs 60/40 Portfolio
+
+The classic 60/40 portfolio (60% stocks, 40% bonds) has been a benchmark for balanced investing. Historical comparisons show:
+
+| Metric | 100% Equities | 60/40 Portfolio |
+|--------|---------------|-----------------|
+| Average Annual Return (1926-2023) | ~10.3% | ~8.7% |
+| Standard Deviation | ~19.8% | ~12.1% |
+| Maximum Drawdown | ~-50% (2008-2009) | ~-30% |
+| Sharpe Ratio | ~0.40 | ~0.45 |
+
+The 100% equities approach offers higher absolute returns but with greater volatility and deeper drawdowns during market crises. For algorithmic traders, this higher volatility can create more trading opportunities for mean-reversion and momentum strategies.
+
 ## Potential Drawbacks and Risks
 
 1. **[Market](../m/market.md) [Volatility](../v/volatility.md)**: Equities are naturally more volatile compared to bonds or other [asset](../a/asset.md) classes. In times of [market](../m/market.md) turbulence, the portfolio could experience significant drawdowns.
@@ -59,19 +74,13 @@ High-frequency trading is a subdomain of [algorithmic trading](../a/accountabili
 
 One of the most successful [hedge](../h/hedge.md) funds employing quantitative and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) is Renaissance Technologies. Their Medallion [Fund](../f/fund.md), known for its exclusivity and high returns, leverages complex [mathematical models](../m/mathematical_models_in_trading.md) to [trade](../t/trade.md) equities among other [asset](../a/asset.md) classes.
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
-
 ### Two Sigma
 
 Two Sigma is a [hedge fund](../h/hedge_fund.md) that harnesses the power of [data science](../d/data_science_in_trading.md) and technology to drive investment strategies. Their approach includes deploying [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to [trade](../t/trade.md) equities effectively.
 
-Website: [Two Sigma](https://www.twosigma.com/)
-
 ### Citadel Securities
 
 Citadel Securities, a major player in high-frequency trading, utilizes advanced algorithms and [quantitative models](../q/quantitative_models.md) to execute rapid trades across various [equity](../e/equity.md) markets. Their [infrastructure](../i/infrastructure.md) supports low-latency [trading strategies](../t/trading_strategies.md) essential for HFT.
-
-Website: [Citadel Securities](https://www.citadelsecurities.com/)
 
 ## Implementing the 100% Equities Strategy
 

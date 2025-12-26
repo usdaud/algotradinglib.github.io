@@ -1,6 +1,6 @@
 # Historical Correlation Analysis
 
-Historical [correlation analysis](../c/correlation_analysis.md) is a fundamental technique used in various fields, including [finance](../f/finance.md), [economics](../e/economics.md), and natural sciences, to understand the relationships between different variables over time. This method is particularly significant in [algorithmic trading](../a/algorithmic_trading.md), where analyzing the historical correlations between assets helps in constructing effective [trading strategies](../t/trading_strategies.md) and managing risks. 
+Historical [correlation analysis](../c/correlation_analysis.md) is a fundamental technique used in various fields, including [finance](../f/finance.md), [economics](../e/economics.md), and natural sciences, to understand the relationships between different variables over time. This method is particularly significant in [algorithmic trading](../a/algorithmic_trading.md), where analyzing the historical correlations between assets helps in constructing effective [trading strategies](../t/trading_strategies.md) and managing risks.
 
 ## What is Correlation?
 
@@ -56,10 +56,10 @@ Consider a practical scenario where an algorithmic [trader](../t/trader.md) uses
 
 Reliable historical data is crucial for effective [correlation analysis](../c/correlation_analysis.md). Traders often rely on data providers such as:
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Reuters](https://www.reuters.com/)
-- [Quandl](https://www.quandl.com/)
-- [Yahoo Finance](https://finance.yahoo.com/)
+- Bloomberg
+- Reuters
+- Quandl
+- Yahoo Finance
 
 ### Tools and Libraries
 
@@ -91,7 +91,7 @@ The accuracy of historical [correlation analysis](../c/correlation_analysis.md) 
 
 ### Overfitting
 
-Relying too heavily on historical correlations can lead to [overfitting](../o/overfitting.md), where a [trading strategy](../t/trading_strategy.md) performs well on historical data but poorly in live trading conditions. 
+Relying too heavily on historical correlations can lead to [overfitting](../o/overfitting.md), where a [trading strategy](../t/trading_strategy.md) performs well on historical data but poorly in live trading conditions.
 
 ### External Factors
 

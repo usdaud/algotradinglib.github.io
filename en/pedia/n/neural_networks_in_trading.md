@@ -65,23 +65,18 @@ Training neural networks, especially [deep learning](../d/deep_learning.md) mode
 
 ### Two Sigma
 Two Sigma is a financial technology company that leverages [machine learning](../m/machine_learning.md), including neural networks, to develop [trading strategies](../t/trading_strategies.md) and manage portfolios. Their approach combines vast amounts of data with advanced algorithms to [gain](../g/gain.md) a competitive edge in the [market](../m/market.md).
-- Website: [Two Sigma](https://www.twosigma.com)
 
 ### Renaissance Technologies
 Renaissance Technologies is renowned for its use of quantitative methods and neural networks in trading. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) has achieved extraordinary returns by employing sophisticated algorithms and high-frequency [trading strategies](../t/trading_strategies.md).
-- Website: [Renaissance Technologies](https://www.rentec.com)
 
 ### Citadel
 Citadel is a leading global financial institution that utilizes [artificial intelligence](../a/artificial_intelligence_in_trading.md) and neural networks to drive its [trading strategies](../t/trading_strategies.md) across various [asset](../a/asset.md) classes. Citadel's technology-driven approach allows it to process [market](../m/market.md) data in real-time and execute trades with high precision.
-- Website: [Citadel](https://www.citadel.com)
 
 ### DE Shaw
 DE Shaw uses a multidisciplinary approach, incorporating neural networks and [machine learning](../m/machine_learning.md) to develop [proprietary trading](../p/proprietary_trading.md) models. Their strategies are based on rigorous research and data analysis to optimize [trading performance](../t/trading_performance.md).
-- Website: [DE Shaw](https://www.deshaw.com)
 
 ### AQR Capital Management
 AQR [Capital](../c/capital.md) Management integrates neural networks into their [quantitative investment strategies](../q/quantitative_investment_strategies.md). By leveraging advanced [machine learning](../m/machine_learning.md) techniques, AQR aims to enhance portfolio returns and manage [risk](../r/risk.md) effectively.
-- Website: [AQR Capital Management](https://www.aqr.com)
 
 ## Implementing Neural Networks in Trading
 

@@ -50,10 +50,10 @@ Building a reliable model to time factors requires extensive [backtesting](../b/
 ## Case Studies and Real-World Applications
 
 ### AQR Capital Management
-AQR [Capital](../c/capital.md) Management is a leading investment [firm](../f/firm.md) known for its quantitative approach to [investing](../i/investing.md). The [firm](../f/firm.md) employs [factor](../f/factor.md) timing strategies to enhance returns. AQR's research papers and resources provide valuable insights into their methodologies. [AQR Capital Management](https://www.aqr.com/)
+AQR [Capital](../c/capital.md) Management is a leading investment [firm](../f/firm.md) known for its quantitative approach to [investing](../i/investing.md). The [firm](../f/firm.md) employs [factor](../f/factor.md) timing strategies to enhance returns. AQR's research papers and resources provide valuable insights into their methodologies. AQR Capital Management
 
 ### BlackRock
-BlackRock, one of the largest [asset management](../a/asset_management.md) firms globally, uses [factor](../f/factor.md)-based strategies for many of its investment products. Their [factor](../f/factor.md) [timing models](../t/timing_models.md) focus on understanding economic regimes and adjusting [factor](../f/factor.md) exposures accordingly. [BlackRock](https://www.blackrock.com/)
+BlackRock, one of the largest [asset management](../a/asset_management.md) firms globally, uses [factor](../f/factor.md)-based strategies for many of its investment products. Their [factor](../f/factor.md) [timing models](../t/timing_models.md) focus on understanding economic regimes and adjusting [factor](../f/factor.md) exposures accordingly. BlackRock
 
 ## Challenges and Considerations
 

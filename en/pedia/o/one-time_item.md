@@ -12,7 +12,7 @@ A one-time item is an infrequent or unusual [gain](../g/gain.md) or loss that is
 - Impairments of [goodwill](../g/goodwill.md) or assets
 - Legal settlements
 - Extraordinary [restructuring](../r/restructuring.md) charges
-- [Insurance](../i/insurance.md) claims 
+- [Insurance](../i/insurance.md) claims
 
 ### Importance for Financial Analysis
 
@@ -47,7 +47,7 @@ Negative one-time items are non-recurring expenses or losses that can include:
 
 ### GAAP vs. IFRS
 
-The [accounting](../a/accounting.md) treatment and reporting requirements for one-time items can differ between Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP) and International Financial Reporting Standards (IFRS). 
+The [accounting](../a/accounting.md) treatment and reporting requirements for one-time items can differ between Generally Accepted [Accounting Principles](../a/accounting_principles.md) (GAAP) and International Financial Reporting Standards (IFRS).
 
 - **GAAP**: Under U.S. GAAP, one-time items are reported separately in the [income statement](../i/income_statement.md) to provide greater clarity. This facilitates a clearer understanding of ongoing operational performance.
 - **IFRS**: One-time items must be disclosed, but the specific treatment can vary. IFRS tends to focus on materiality and [disclosure](../d/disclosure.md) in the notes to the [financial statements](../f/financial_statements.md).
@@ -105,8 +105,8 @@ Analysts often scrutinize both reported and adjusted figures to fully understand
 
 Modern financial reporting software can help in identifying one-time items automatically. These tools use various algorithms to detect anomalies in financial transactions.
 
-- **Example**: Xero (https://www.xero.com) offers capabilities to tag non-recurring transactions for smaller enterprises.
-- **Example**: Oracle Financial Services Analytical Applications (https://www.oracle.com/industries/financial-services) provide more comprehensive solutions aimed at larger organizations.
+- **Example**: Xero offers capabilities to tag non-recurring transactions for smaller enterprises.
+- **Example**: Oracle Financial Services Analytical Applications provide more comprehensive solutions aimed at larger organizations.
 
 ### Data Analytics and AI
 

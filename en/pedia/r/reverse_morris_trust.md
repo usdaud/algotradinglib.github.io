@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Reverse Morris [Trust](../t/trust.md) (RMT) is a sophisticated financial strategy commonly used in mergers and acquisitions, and corporate [restructuring](../r/restructuring.md). It is primarily a tax-efficient means of transferring assets or spinning off a subsidiary. The technique is named after a U.S. court case, Commissioner of Internal [Revenue](../r/revenue.md) v. Morris [Trust](../t/trust.md), which established legal precedence for this type of [transaction](../t/transaction.md). An RMT allows a [parent company](../p/parent_company.md) to spin off a subsidiary and subsequently merge it with another company, often structured to minimize tax liabilities. 
+A Reverse Morris [Trust](../t/trust.md) (RMT) is a sophisticated financial strategy commonly used in mergers and acquisitions, and corporate [restructuring](../r/restructuring.md). It is primarily a tax-efficient means of transferring assets or spinning off a subsidiary. The technique is named after a U.S. court case, Commissioner of Internal [Revenue](../r/revenue.md) v. Morris [Trust](../t/trust.md), which established legal precedence for this type of [transaction](../t/transaction.md). An RMT allows a [parent company](../p/parent_company.md) to spin off a subsidiary and subsequently merge it with another company, often structured to minimize tax liabilities.
 
 Here's a detailed look into the mechanics, advantages, limitations, and real-world applications of the Reverse Morris [Trust](../t/trust.md) strategy.
 
@@ -28,7 +28,7 @@ Here's a detailed look into the mechanics, advantages, limitations, and real-wor
 
 Let's assume a [parent company](../p/parent_company.md), Tech Giant Corp, wants to offload its non-core but still profitable software division, Software Solutions Inc. They find a smaller target company, Innovative Software Ltd, willing to merge with Software Solutions Inc.
 
-Tech Giant Corp spins off Software Solutions Inc as an independent company. Upon this separation, Software Solutions Inc merges with Innovative Software Ltd. The shareholders of Tech Giant Corp now own 60% of the combined entity, while the shareholders of Innovative Software Ltd [hold](../h/hold.md) the remaining 40%. 
+Tech Giant Corp spins off Software Solutions Inc as an independent company. Upon this separation, Software Solutions Inc merges with Innovative Software Ltd. The shareholders of Tech Giant Corp now own 60% of the combined entity, while the shareholders of Innovative Software Ltd [hold](../h/hold.md) the remaining 40%.
 
 This arrangement allows Tech Giant Corp to effectively divest from Software Solutions Inc without incurring significant tax liabilities.
 
@@ -112,7 +112,7 @@ While traditionally more common in the U.S., the RMT structure is also gaining t
 A Reverse Morris [Trust](../t/trust.md) offers a [robust](../r/robust.md), tax-efficient strategy for companies looking to divest assets or restructure. Its complexity demands meticulous planning and expertise, but the potential benefits, particularly in terms of tax savings and [shareholder value](../s/shareholder_value.md), are substantial. As [market](../m/market.md) conditions and regulatory landscapes evolve, the RMT strategy is poised to remain a valuable tool in the [corporate finance](../c/corporate_finance.md) and [restructuring](../r/restructuring.md) toolkit.
 
 For more information about recent RMT transactions, you can visit official company pages such as:
-- [AT&T](https://www.att.com)
-- [Comcast](https://corporate.comcast.com)
-- [HP](https://www.hp.com)
-- [Time Warner](https://www.warnermediagroup.com)
+- AT&T
+- Comcast
+- HP
+- Time Warner

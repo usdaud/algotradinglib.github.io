@@ -48,7 +48,7 @@ In the digital age, e-[commerce](../c/commerce.md) relies heavily on accurate an
 
 ### Payment Gateways
 
-E-[commerce](../c/commerce.md) platforms use [payment](../p/payment.md) gateways that [leverage](../l/leverage.md) BINs to route transactions to the appropriate issuing banks. Companies like **[PayPal](../p/paypal.md)** ([link](https://www.paypal.com/)), **Stripe** ([link](https://stripe.com/)), and **Square** ([link](https://squareup.com/)) integrate BIN identification in their [payment](../p/payment.md) processing systems.
+E-[commerce](../c/commerce.md) platforms use [payment](../p/payment.md) gateways that [leverage](../l/leverage.md) BINs to route transactions to the appropriate issuing banks. Companies like **[PayPal](../p/paypal.md)** (link), **Stripe** (link), and **Square** (link) integrate BIN identification in their [payment](../p/payment.md) processing systems.
 
 ### Fraud Prevention Measures
 
@@ -68,7 +68,7 @@ The International Organization for Standardization (ISO) and the International E
 
 ### Industry Bodies and Networks
 
-Organizations such as the PCI [Security](../s/security.md) Standards Council ([link](https://www.pcisecuritystandards.org/)) provide guidelines and frameworks for ensuring that BINs, along with other card data, are handled securely throughout the [transaction](../t/transaction.md) process.
+Organizations such as the PCI [Security](../s/security.md) Standards Council (link) provide guidelines and frameworks for ensuring that BINs, along with other card data, are handled securely throughout the [transaction](../t/transaction.md) process.
 
 ## Future Trends and Developments
 

@@ -76,12 +76,10 @@ As of 2023, the following 27 states have Right-to-Work laws:
 Several organizations and advocacy groups play significant roles in the debate over Right-to-Work laws.
 
 ### National Right to Work Committee (NRTWC)
-[National Right to Work Committee](https://www.nrtw.org):
-A prominent advocacy group supporting Right-to-Work laws, arguing for individual worker freedom and against compulsory union membership and fees.
+National Right to Work CommitteeA prominent advocacy group supporting Right-to-Work laws, arguing for individual worker freedom and against compulsory union membership and fees.
 
 ### American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)
-[AFL-CIO](https://www.aflcio.org):
-A major [labor union](../l/labor_union.md) federation strongly opposing Right-to-Work laws, advocating for [robust](../r/robust.md) union influence and collective bargaining rights.
+AFL-CIOA major [labor union](../l/labor_union.md) federation strongly opposing Right-to-Work laws, advocating for [robust](../r/robust.md) union influence and collective bargaining rights.
 
 ## Case Studies
 
@@ -99,4 +97,4 @@ The future of Right-to-Work laws remains contentious. Political shifts, economic
 
 Right-to-Work laws have a profound impact on the American [labor market](../l/labor_market.md), shaping the interaction between employers, employees, and unions. The debate over their efficacy and fairness continues, reflecting broader ideological conflicts over economic policy, individual rights, and labor relations. As policymakers, businesses, and workers navigate this complex landscape, the future of Right-to-Work laws [will](../w/will.md) remain a pivotal [issue](../i/issue.md) in American labor law and economic policy.
 
-For further information and engagement, visiting the websites of advocacy groups like [NRTWC](https://www.nrtw.org) and [AFL-CIO](https://www.aflcio.org) can provide more resources and updates on ongoing legislative efforts and court cases.
+For further information and engagement, visiting the websites of advocacy groups like NRTWC and AFL-CIO can provide more resources and updates on ongoing legislative efforts and court cases.

@@ -12,7 +12,7 @@ A [Weighted](../w/weighted.md) Moving Average (WMA) is calculated by assigning a
 
 \[ \text{WMA} = \frac{\sum_{i=1}^{n} (Price_i \times Weight_i)}{\sum_{i=1}^{n} Weight_i} \]
 
-where \( Price_i \) is the price at the ith time period, and \( Weight_i \) represents the weight assigned to the ith time period. For a period of \( n \), the most recent price has the weight \( n \), the second most recent price has the weight \( n-1 \), and so on, until the oldest price has the weight 1. 
+where \( Price_i \) is the price at the ith time period, and \( Weight_i \) represents the weight assigned to the ith time period. For a period of \( n \), the most recent price has the weight \( n \), the second most recent price has the weight \( n-1 \), and so on, until the oldest price has the weight 1.
 
 ### Importance in Algorithmic Trading
 
@@ -32,11 +32,11 @@ This strategy involves using [multiple](../m/multiple.md) WMAs of different peri
 
 1. **Calculate WMAs**: Compute WMAs for two different periods.
 2. **Identify Crossovers**:
-   - **Bullish Signal**: Occurs when the short-term WMA crosses above the long-term WMA.
-   - **Bearish Signal**: Occurs when the short-term WMA crosses below the long-term WMA.
+ - **Bullish Signal**: Occurs when the short-term WMA crosses above the long-term WMA.
+ - **Bearish Signal**: Occurs when the short-term WMA crosses below the long-term WMA.
 3. **Execute Trades**:
-   - **Buy**: When a bullish crossover is identified.
-   - **Sell**: When a bearish crossover is identified.
+ - **Buy**: When a bullish crossover is identified.
+ - **Sell**: When a bearish crossover is identified.
 
 ### 2. WMA and Relative Strength Index (RSI) Strategy
 
@@ -47,8 +47,8 @@ Combining WMA with [Relative Strength](../r/relative_strength.md) [Index](../i/i
 1. **Calculate WMA**: Compute the WMA for the selected period.
 2. **Calculate RSI**: Compute RSI for the same or different time period (commonly 14 days).
 3. **Generate Signals**:
-   - **Confirm Buy**: When WMA indicates an upward [trend](../t/trend.md) and RSI is below the [overbought](../o/overbought.md) level (usually 70).
-   - **Confirm Sell**: When WMA indicates a downward [trend](../t/trend.md) and RSI is above the [oversold](../o/oversold.md) level (usually 30).
+ - **Confirm Buy**: When WMA indicates an upward [trend](../t/trend.md) and RSI is below the [overbought](../o/overbought.md) level (usually 70).
+ - **Confirm Sell**: When WMA indicates a downward [trend](../t/trend.md) and RSI is above the [oversold](../o/oversold.md) level (usually 30).
 
 ### 3. Dual WMA Scalp Strategy
 
@@ -58,10 +58,10 @@ Combining WMA with [Relative Strength](../r/relative_strength.md) [Index](../i/i
 
 1. **Apply WMAs**: Use very short-term WMAs like the 3-period and 8-period.
 2. **Signal Identification**:
-   - **Buy Signal**: When the 3-period WMA crosses above the 8-period WMA.
-   - **Sell Signal**: When the 3-period WMA crosses below the 8-period WMA.
+ - **Buy Signal**: When the 3-period WMA crosses above the 8-period WMA.
+ - **Sell Signal**: When the 3-period WMA crosses below the 8-period WMA.
 3. **[Trade](../t/trade.md) [Execution](../e/execution.md)**:
-   - Enter trades on identified signals and exit quickly based on predefined [profit](../p/profit.md) brackets or stop losses.
+ - Enter trades on identified signals and exit quickly based on predefined [profit](../p/profit.md) brackets or stop losses.
 
 ### 4. WMA and Bollinger Bands Strategy
 
@@ -71,11 +71,11 @@ Combining WMA with [Relative Strength](../r/relative_strength.md) [Index](../i/i
 
 1. **Calculate WMA**: Compute WMA for a chosen period.
 2. **Construct [Bollinger Bands](../b/bollinger_bands.md)**:
-   - Use a standard [20-period moving average](../1/20-period_moving_average.md) to center the bands.
-   - Bands are plotted at 2 standard deviations above and below this moving average.
+ - Use a standard [20-period moving average](../1/20-period_moving_average.md) to center the bands.
+ - Bands are plotted at 2 standard deviations above and below this moving average.
 3. **Strategy**:
-   - **Buy Signal**: When the price is close to the lower Bollinger Band and above the WMA.
-   - **Sell Signal**: When the price is near the upper Bollinger Band and below the WMA.
+ - **Buy Signal**: When the price is close to the lower Bollinger Band and above the WMA.
+ - **Sell Signal**: When the price is near the upper Bollinger Band and below the WMA.
 
 ### 5. WMA Pullback Strategy
 
@@ -85,10 +85,10 @@ A [pullback](../p/pullback.md) strategy aims to buy during a temporary price dip
 
 1. **Define [Trend](../t/trend.md)**: Identify the primary [trend](../t/trend.md) using a long-term WMA.
 2. **Monitor [Pullback](../p/pullback.md)**:
-   - **[Uptrend](../u/uptrend.md)**: Wait for the price to pull back to or below a shorter-term WMA.
-   - **[Downtrend](../d/downtrend.md)**: Wait for the price to [rally](../r/rally.md) to or above a shorter-term WMA.
+ - **[Uptrend](../u/uptrend.md)**: Wait for the price to pull back to or below a shorter-term WMA.
+ - **[Downtrend](../d/downtrend.md)**: Wait for the price to [rally](../r/rally.md) to or above a shorter-term WMA.
 3. **Set Entry Points**:
-   - Enter the [trade](../t/trade.md) when price resumes its movement in the direction of the main [trend](../t/trend.md).
+ - Enter the [trade](../t/trade.md) when price resumes its movement in the direction of the main [trend](../t/trend.md).
 
 ## Practical Considerations
 
@@ -105,7 +105,7 @@ Before deploying any WMA-based strategy, thorough [backtesting](../b/backtesting
 For real-time trading, careful implementation is necessary to manage risks and ensure reliability.
 
 - **Latency**: Choose a platform and [broker](../b/broker.md) with low latency to execute trades promptly.
-- **Automation**: Use [robust](../r/robust.md) automation tools. Popular platforms include MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/), [NinjaTrader](../n/ninjatrader.md) (https://[ninjatrader](../n/ninjatrader.md).com/), and [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+- **Automation**: Use [robust](../r/robust.md) automation tools. Popular platforms include MetaTrader ( [NinjaTrader](../n/ninjatrader.md) ( and [QuantConnect](../q/quantconnect.md) (
 - **[Risk Management](../r/risk_management.md)**: Implement rigorous [risk management](../r/risk_management.md) protocols, including [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md).
 
 ### Continuous Monitoring and Adjustment

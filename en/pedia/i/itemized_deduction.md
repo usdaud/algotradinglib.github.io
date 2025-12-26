@@ -42,14 +42,13 @@ Prior to the Tax Cuts and Jobs Act, taxpayers could also deduct unreimbursed emp
 
 ## Deduction Strategy
 
-When deciding whether to itemize deductions or take the [standard deduction](../s/standard_deduction.md), taxpayers should compare the total of all allowable itemized deductions to the [standard deduction](../s/standard_deduction.md) for their [filing status](../f/filing_status.md). For tax years 2019 through 2025, the [standard deduction](../s/standard_deduction.md) amounts are significantly increased, making it beneficial for many taxpayers to opt for the [standard deduction](../s/standard_deduction.md). 
+When deciding whether to itemize deductions or take the [standard deduction](../s/standard_deduction.md), taxpayers should compare the total of all allowable itemized deductions to the [standard deduction](../s/standard_deduction.md) for their [filing status](../f/filing_status.md). For tax years 2019 through 2025, the [standard deduction](../s/standard_deduction.md) amounts are significantly increased, making it beneficial for many taxpayers to opt for the [standard deduction](../s/standard_deduction.md).
 
 However, for those with high expenses in deductible categories, itemizing can still result in lower [taxable income](../t/taxable_income.md) and [tax liability](../t/tax_liability.md). Carefully maintaining records and documentation for all potential deductions is essential in this process.
 
 ## Tax Software and Professional Help
 
-Given the complexity of itemized deductions, many taxpayers find it helpful to [use tax](../u/use_tax.md) preparation software or seek the assistance of a tax professional. Software products, like those from companies such as TurboTax (https://turbotax.intuit.com) or H&R Block (https://www.hrblock.com), provide user-friendly interfaces and detailed [guidance](../g/guidance.md) on claiming deductions. 
-
+Given the complexity of itemized deductions, many taxpayers find it helpful to [use tax](../u/use_tax.md) preparation software or seek the assistance of a tax professional. Software products, like those from companies such as TurboTax ( or H&R Block ( provide user-friendly interfaces and detailed [guidance](../g/guidance.md) on claiming deductions.
 Tax professionals, including certified public accountants (CPAs) and enrolled agents (EAs), bring expertise and personalized advice that can be particularly valuable for complex tax situations.
 
 ## Conclusion

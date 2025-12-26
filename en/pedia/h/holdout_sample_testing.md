@@ -7,14 +7,14 @@ Holdout Sample Testing is a critical method used in the evaluation and validatio
 Holdout Sample Testing involves partitioning a dataset into two distinct subsets: the training set and the test (or holdout) set. The trading model is developed on the training set and then evaluated on the test set, which has not been used during the model-building phase. This approach helps to ensure that the model’s performance is not simply a result of [overfitting](../o/overfitting.md) to the specifics of the training data.
 
 ### Process Overview
-1. **Dataset Split:** 
-   - The entire dataset is divided into two parts: typically, 70-80% for training and 20-30% for testing.
-   
-2. **Model Training:** 
-   - The algorithm is trained on the training dataset, meaning the model parameters are adjusted to minimize error within this subset.
-   
-3. **Model Evaluation:** 
-   - The model is then tested on the holdout dataset. The evaluation metrics (like accuracy, precision, recall, F1 score, etc.) are calculated to determine the model's performance.
+1. **Dataset Split:**
+ - The entire dataset is divided into two parts: typically, 70-80% for training and 20-30% for testing.
+
+2. **Model Training:**
+ - The algorithm is trained on the training dataset, meaning the model parameters are adjusted to minimize error within this subset.
+
+3. **Model Evaluation:**
+ - The model is then tested on the holdout dataset. The evaluation metrics (like accuracy, precision, recall, F1 score, etc.) are calculated to determine the model's performance.
 
 ## Importance in Algorithmic Trading
 
@@ -77,16 +77,16 @@ For HFT strategies where milliseconds can make a difference, holdout sample test
 Libraries like Scikit-learn in Python [offer](../o/offer.md) built-in functions to split datasets and perform holdout sample testing efficiently.
 
 ### Commercial Platforms
-- **[QuantConnect](https://www.quantconnect.com/):** Provides a cloud-based platform for [backtesting](../b/backtesting.md) and validating [trading algorithms](../t/trading_algorithms.md) with extensive data libraries and computational resources.
-- **[AlgoTrader](https://www.algotrader.com/):** An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports holdout sample testing among other advanced features.
+- **QuantConnect:** Provides a cloud-based platform for [backtesting](../b/backtesting.md) and validating [trading algorithms](../t/trading_algorithms.md) with extensive data libraries and computational resources.
+- **AlgoTrader:** An institutional-grade [algorithmic trading](../a/algorithmic_trading.md) software that supports holdout sample testing among other advanced features.
 
 ### Implementation Steps
 1. **Data Collection and Preprocessing:** Gather historical [market](../m/market.md) data and perform necessary preprocessing steps like normalization, cleaning, and feature engineering.
-   
+
 2. **Dataset Splitting:** Apply your preferred method (random, time-based, k-fold) to partition the data.
-   
+
 3. **Model Training:** Develop and train the algorithm on the training subset.
-   
+
 4. **Model Validation:** Evaluate the model's performance on the holdout set, ensuring [robust](../r/robust.md) validation methods.
 
 5. **Analysis and Adjustment:** Analyze the results, adjust parameters or strategies as needed while avoiding peeking into the validation set too frequently.

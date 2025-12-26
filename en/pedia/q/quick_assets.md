@@ -80,7 +80,7 @@ The importance and composition of quick assets can vary widely by [industry](../
 
 ## Quick Assets in Financial Strategy
 
-Companies use quick assets as part of their broader financial strategy to manage [liquidity](../l/liquidity.md), [financing](../f/financing.md), and investment activities. 
+Companies use quick assets as part of their broader financial strategy to manage [liquidity](../l/liquidity.md), [financing](../f/financing.md), and investment activities.
 
 ### Liquidity Management
 

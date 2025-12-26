@@ -54,9 +54,9 @@ In [corporate finance](../c/corporate_finance.md), OTR yields serve as the [disc
 ## Tools and Resources for Analysis
 Several tools and resources are available for conducting on-the-run [yield analysis](../y/yield_analysis.md):
 
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data, including real-time OTR [yield](../y/yield.md) curves, [economic indicators](../e/economic_indicators.md), and analytical tools. [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-2. **Federal Reserve Economic Data (FRED)**: Offers historical and current data on Treasury yields, facilitating detailed analysis. [FRED](https://fred.stlouisfed.org/)
-3. **TreasuryDirect**: Managed by the U.S. Department of the Treasury, [offering](../o/offering.md) direct access to auction results, [yield](../y/yield.md) curves, and other pertinent data. [TreasuryDirect](https://www.treasurydirect.gov/)
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive financial data, including real-time OTR [yield](../y/yield.md) curves, [economic indicators](../e/economic_indicators.md), and analytical tools. Bloomberg
+2. **Federal Reserve Economic Data (FRED)**: Offers historical and current data on Treasury yields, facilitating detailed analysis. FRED
+3. **TreasuryDirect**: Managed by the U.S. Department of the Treasury, [offering](../o/offering.md) direct access to auction results, [yield](../y/yield.md) curves, and other pertinent data. TreasuryDirect
 
 ## Case Study
 To illustrate the application of OTR [yield analysis](../y/yield_analysis.md), consider a scenario where an investment [firm](../f/firm.md) uses this analysis to gauge [market sentiment](../m/market_sentiment.md) and adjust their strategies:

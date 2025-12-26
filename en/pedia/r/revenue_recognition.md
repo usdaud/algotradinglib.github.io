@@ -1,10 +1,10 @@
 # Revenue Recognition
 
-[Revenue](../r/revenue.md) recognition is a generally accepted [accounting](../a/accounting.md) principle (GAAP) that stipulates how and when [revenue](../r/revenue.md) is to be recognized. This principle ensures that there is consistency in financial reporting, which is crucial for the comparison of [financial statements](../f/financial_statements.md) across different reporting periods and entities. Proper [revenue](../r/revenue.md) recognition is especially important in industries with complex transactions and long-term projects such as software, construction, or subscription-based businesses. 
+[Revenue](../r/revenue.md) recognition is a generally accepted [accounting](../a/accounting.md) principle (GAAP) that stipulates how and when [revenue](../r/revenue.md) is to be recognized. This principle ensures that there is consistency in financial reporting, which is crucial for the comparison of [financial statements](../f/financial_statements.md) across different reporting periods and entities. Proper [revenue](../r/revenue.md) recognition is especially important in industries with complex transactions and long-term projects such as software, construction, or subscription-based businesses.
 
 ## Core Concept
 
-The basic idea behind [revenue](../r/revenue.md) recognition is to recognize [revenue](../r/revenue.md) when it is realized and earned, regardless of when the cash is received. Under this principle, [revenue](../r/revenue.md) is recorded in the [accounting](../a/accounting.md) period in which the services or goods are provided, not necessarily when the [payment](../p/payment.md) is collected. 
+The basic idea behind [revenue](../r/revenue.md) recognition is to recognize [revenue](../r/revenue.md) when it is realized and earned, regardless of when the cash is received. Under this principle, [revenue](../r/revenue.md) is recorded in the [accounting](../a/accounting.md) period in which the services or goods are provided, not necessarily when the [payment](../p/payment.md) is collected.
 
 ### Realization Principle
 
@@ -61,7 +61,7 @@ For industries such as construction and aerospace where projects might last year
 
 ### Subscription Services
 
-In subscription-based models, companies often receive payments in advance. [Revenue](../r/revenue.md) is recognized over the subscription period as the service is rendered rather than when [payment](../p/payment.md) is received. 
+In subscription-based models, companies often receive payments in advance. [Revenue](../r/revenue.md) is recognized over the subscription period as the service is rendered rather than when [payment](../p/payment.md) is received.
 
 ### Multiple Elements Arrangements
 
@@ -115,6 +115,6 @@ Effective [revenue](../r/revenue.md) recognition often requires collaboration be
 
 ## Conclusion
 
-[Revenue](../r/revenue.md) recognition is a critical aspect of financial reporting that ensures companies recognize [revenue](../r/revenue.md) in accordance with the services or goods provided. With the introduction of ASC 606 and IFRS 15, companies now have a more consistent and principle-based framework for [revenue](../r/revenue.md) recognition. 
+[Revenue](../r/revenue.md) recognition is a critical aspect of financial reporting that ensures companies recognize [revenue](../r/revenue.md) in accordance with the services or goods provided. With the introduction of ASC 606 and IFRS 15, companies now have a more consistent and principle-based framework for [revenue](../r/revenue.md) recognition.
 
 The implementation of these standards, while challenging, offers significant benefits in terms of [transparency](../t/transparency.md), consistency, and comparability of [financial statements](../f/financial_statements.md). By adopting [best practices](../b/best_practices.md), leveraging technological solutions, and fostering collaboration across departments, companies can effectively navigate the complexities of [revenue](../r/revenue.md) recognition and ensure compliance with the latest standards.

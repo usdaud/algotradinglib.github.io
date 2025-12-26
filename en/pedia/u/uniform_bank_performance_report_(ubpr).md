@@ -4,7 +4,7 @@ The Uniform [Bank](../b/bank.md) Performance Report (UBPR) is an analytical tool
 
 ## Overview
 
-The UBPR is a comprehensive report that includes a wide array of data elements such as [asset](../a/asset.md) quality, [earnings](../e/earnings.md), [liquidity](../l/liquidity.md), and [capital](../c/capital.md) adequacy. Each report provides a [comparative analysis](../c/comparative_analysis.md) of a [bank](../b/bank.md)'s performance against its peers and national standards, [offering](../o/offering.md) a thorough examination of its [financial health](../f/financial_health.md). 
+The UBPR is a comprehensive report that includes a wide array of data elements such as [asset](../a/asset.md) quality, [earnings](../e/earnings.md), [liquidity](../l/liquidity.md), and [capital](../c/capital.md) adequacy. Each report provides a [comparative analysis](../c/comparative_analysis.md) of a [bank](../b/bank.md)'s performance against its peers and national standards, [offering](../o/offering.md) a thorough examination of its [financial health](../f/financial_health.md).
 
 UBPRs are produced quarterly and made available to the public, ensuring [transparency](../t/transparency.md) and allowing stakeholders to make informed decisions.
 
@@ -67,7 +67,7 @@ Financial analysts and potential investors use UBPRs to assess the [financial he
 
 ## How to Access UBPRs
 
-UBPRs can be accessed through the FFIEC's official website – [FFIEC UBPR](https://www.ffiec.gov/UBPR.htm).
+UBPRs can be accessed.
 
 ## Conclusion
 

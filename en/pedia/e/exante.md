@@ -44,5 +44,3 @@ Exante is regulated by several top-tier financial authorities, ensuring a secure
 - Cyprus Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (CySEC)
 - UK Financial Conduct Authority (FCA)
 
-## Website
-For more information and to start trading, visit the official Exante website: [Exante](https://exante.eu)

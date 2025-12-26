@@ -72,11 +72,11 @@ Numerous trading firms and individual traders utilize straddles as part of their
 
 Several trading platforms and financial service providers [offer](../o/offer.md) tools and features to facilitate [straddle](../s/straddle.md) trading. These include:
 
-1. **[Interactive Brokers](../i/interactive_brokers.md):** Renowned for its comprehensive and sophisticated trading tools, [Interactive Brokers](../i/interactive_brokers.md) provides a variety of [options](../o/options.md) trading capabilities, including [straddle](../s/straddle.md) setups. [Interactive Brokers](https://www.interactivebrokers.com/)
+1. **[Interactive Brokers](../i/interactive_brokers.md):** Renowned for its comprehensive and sophisticated trading tools, [Interactive Brokers](../i/interactive_brokers.md) provides a variety of [options](../o/options.md) trading capabilities, including [straddle](../s/straddle.md) setups. Interactive Brokers
 
-2. **TD [Ameritrade](../a/ameritrade.md):** Offers the [thinkorswim](../t/thinkorswim.md) [trading platform](../t/trading_platform.md), which is known for its advanced [options](../o/options.md) trading features, enabling traders to easily create [straddle](../s/straddle.md) positions. [TD Ameritrade](https://www.tdameritrade.com/)
+2. **TD [Ameritrade](../a/ameritrade.md):** Offers the [thinkorswim](../t/thinkorswim.md) [trading platform](../t/trading_platform.md), which is known for its advanced [options](../o/options.md) trading features, enabling traders to easily create [straddle](../s/straddle.md) positions. TD Ameritrade
 
-3. **[E*TRADE](../e/e_trade.md):** Provides a user-friendly platform with an array of [options](../o/options.md) trading tools, suitable for executing [straddle](../s/straddle.md) strategies. [E*TRADE](https://us.etrade.com/home)
+3. **[E*TRADE](../e/e_trade.md):** Provides a user-friendly platform with an array of [options](../o/options.md) trading tools, suitable for executing [straddle](../s/straddle.md) strategies. E*TRADE
 
 ## Conclusion
 

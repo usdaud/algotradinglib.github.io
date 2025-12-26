@@ -51,15 +51,15 @@ Using advanced X-MA like AMA, traders can dynamically adjust their strategies ba
 Traders and developers can integrate X-MA into their [trading algorithms](../t/trading_algorithms.md) by using available libraries such as `ta-lib` for Python, which includes a variety of [technical analysis](../t/technical_analysis.md) functions. This includes custom scripts to adapt X-MA for specific trading needs.
 
 ### Brokerage Integration
-Many modern brokerages [offer](../o/offer.md) API access to integrate advanced moving averages directly into trading platforms. [Interactive Brokers](../i/interactive_brokers.md) [Website](https://www.interactivebrokers.com/) and TD [Ameritrade](../a/ameritrade.md) [Website](https://www.tdameritrade.com/) are examples where traders can use API to build custom X-MA based indicators.
+Many modern brokerages [offer](../o/offer.md) API access to integrate advanced moving averages directly into trading platforms. [Interactive Brokers](../i/interactive_brokers.md) online platform and TD [Ameritrade](../a/ameritrade.md) online platform are examples where traders can use API to build custom X-MA based indicators.
 
 ## Case Studies
 
 ### High-Frequency Trading Firms
-High-frequency trading firms [leverage](../l/leverage.md) X-MA to execute large volumes of trades with small profits per [trade](../t/trade.md). The reduced lag and increased accuracy of X-MA compared to traditional moving averages [offer](../o/offer.md) significant advantages. For instance, Virtu Financial [Website](https://www.virtu.com/) is known for using advanced quantitative algorithms to achieve their trading objectives.
+High-frequency trading firms [leverage](../l/leverage.md) X-MA to execute large volumes of trades with small profits per [trade](../t/trade.md). The reduced lag and increased accuracy of X-MA compared to traditional moving averages [offer](../o/offer.md) significant advantages. For instance, Virtu Financial online platform is known for using advanced quantitative algorithms to achieve their trading objectives.
 
 ### Proprietary Trading Firms
-[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street [Website](https://www.janestreet.com/) use complex moving average algorithms, including X-MA, to manage large portfolios and execute sophisticated [trading strategies](../t/trading_strategies.md). These firms often maintain a strong emphasis on research and continuous algorithm improvement to ensure high performance.
+[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street online platform use complex moving average algorithms, including X-MA, to manage large portfolios and execute sophisticated [trading strategies](../t/trading_strategies.md). These firms often maintain a strong emphasis on research and continuous algorithm improvement to ensure high performance.
 
 ## Implementing X-MA in Python
 
@@ -97,8 +97,7 @@ print(x_ma)
 
 ### Library Support
 
-- **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) library for Python that provides a wide [range](../r/range.md) of functionalities, including moving averages. Website: [https://www.ta-lib.org/](https://www.ta-lib.org/)
-
+- **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) library for Python that provides a wide [range](../r/range.md) of functionalities,
 ## Conclusion
 
 X-Moving Averages represent a significant advancement in the realm of [technical analysis](../t/technical_analysis.md). By integrating several moving average calculations, this tool provides enhanced accuracy and adaptiveness. It is particularly beneficial in [algorithmic trading](../a/algorithmic_trading.md), where precision and responsiveness are crucial. Moving forward, we can expect continuous innovations and integrations within trading platforms to make such advanced tools more accessible to individual traders and institutions alike.

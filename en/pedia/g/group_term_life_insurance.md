@@ -38,4 +38,3 @@ An employer provides group [term life insurance](../t/term_life_insurance.md) co
 
 ## Conclusion
 Group [Term Life Insurance](../t/term_life_insurance.md) is a valuable benefit that provides financial protection to employees and their families. It offers simplified enrollment, cost-effective premiums, and peace of mind. Employers benefit from enhanced employee satisfaction and loyalty by including [life insurance](../l/life_insurance.md) in their benefits packages. However, employees should evaluate their coverage needs and consider supplemental [insurance](../i/insurance.md) if necessary to ensure adequate protection.
-

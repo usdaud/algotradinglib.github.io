@@ -14,7 +14,7 @@ The NRF aims to safeguard and advance the interests of the retail [industry](../
 - **[Networking](../n/networking.md) and Events:** Organizing [industry](../i/industry.md)-leading events, conferences, and expos that facilitate [networking](../n/networking.md), knowledge-sharing, and professional development.
 - **Promotion of Careers:** Promoting retail as a career destination and advancing workforce development programs.
 
-The NRF's efforts ensure that the retail [industry](../i/industry.md) remains a dynamic and influential component of the global [economy](../e/economy.md). 
+The NRF's efforts ensure that the retail [industry](../i/industry.md) remains a dynamic and influential component of the global [economy](../e/economy.md).
 
 ## Key Programs and Services
 
@@ -35,7 +35,7 @@ The NRF provides extensive research and insights through a variety of reports an
 To support the professional development of individuals within the retail [industry](../i/industry.md), the NRF offers a multitude of educational programs:
 - **NRF Foundation:** A philanthropic arm providing scholarships, certifications, and training programs to individuals pursuing retail careers.
 - **Conferences and Workshops:** Regularly hosting events that feature [industry](../i/industry.md) thought leaders, skill-building workshops, and [networking](../n/networking.md) sessions.
-  
+
 ### Key Events and Conferences
 The NRF organizes several high-profile events that draw participants from around the globe, including:
 - **NRF Big Show:** The retail [industry](../i/industry.md)'s largest annual conference and expo, showcasing cutting-edge technology, groundbreaking ideas, and the most innovative retail solutions.
@@ -43,9 +43,8 @@ The NRF organizes several high-profile events that draw participants from around
 - **NRF NXT:** A digital-focused event examining the latest trends and innovations in e-[commerce](../c/commerce.md) and digital retailing.
 
 ## Impact on the Retail Industry
-The NRF's influence on the retail [industry](../i/industry.md) is multifaceted, [offering](../o/offering.md) members and stakeholders unparalleled support and resources. Its research and advocacy efforts have resulted in significant policy changes benefiting retailers, while its educational initiatives have empowered a new generation of retail professionals. 
+The NRF's influence on the retail [industry](../i/industry.md) is multifaceted, [offering](../o/offering.md) members and stakeholders unparalleled support and resources. Its research and advocacy efforts have resulted in significant policy changes benefiting retailers, while its educational initiatives have empowered a new generation of retail professionals.
 
 ## Conclusion
 The National Retail Federation (NRF) plays a pivotal role in shaping the retail landscape through its comprehensive advocacy work, incisive research, [robust](../r/robust.md) educational programs, and premier [industry](../i/industry.md) events. By championing the interests of retailers globally, the NRF ensures that the [industry](../i/industry.md) remains vibrant, innovative, and economically impactful.
 
-For more information, visit the [National Retail Federation's official website](https://nrf.com/).

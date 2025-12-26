@@ -81,23 +81,23 @@ With rapid advancements in technology, UTS providers must continuously innovate 
 ## Notable Unified Trading Systems Providers
 
 ### Bloomberg Terminal
-[https://www.bloomberg.com/professional/solution/bloomberg-terminal/](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+
 The [Bloomberg](../b/bloomberg.md) Terminal is a leading UTS [offering](../o/offering.md) a wide [range](../r/range.md) of functionalities, including [market](../m/market.md) data, news, analytics, and trading capabilities. It is widely used by financial professionals around the world.
 
 ### Thomson Reuters Eikon
-[https://solutions.refinitiv.com/eikon-trading-software/](https://solutions.refinitiv.com/eikon-trading-software/)
+
 Eikon by Thomson [Reuters](../r/reuters.md) provides comprehensive trading solutions with [robust](../r/robust.md) [data analytics](../d/data_analytics.md), news, and trading tools. It is designed to cater to the needs of traders, portfolio managers, and analysts.
 
 ### Fidessa
-[https://iongroup.com/](https://iongroup.com/)
+
 Fidessa, part of ION Group, offers advanced trading solutions with extensive [order management](../o/order_management_in_trading.md) and [execution](../e/execution.md) management capabilities. It serves brokers, [investment banks](../i/investment_bank_(ib).md), and [asset](../a/asset.md) managers.
 
 ### CQG
-[https://www.cqg.com/](https://www.cqg.com/)
+
 [CQG](../c/cqg.md) provides high-performance trading, [market](../m/market.md) data, and [technical analysis](../t/technical_analysis.md) tools. Its platforms are designed for professional traders and institutions, [offering](../o/offering.md) real-time data and advanced charting functionalities.
 
 ### MetaTrader 5
-[https://www.metaquotes.net/en/metatrader5](https://www.metaquotes.net/en/metatrader5)
+
 MetaTrader 5 (MT5) is a widely used platform for forex and [exchange](../e/exchange.md) trading. It offers comprehensive trading tools, [technical analysis](../t/technical_analysis.md), automated trading, and [market](../m/market.md) data services.
 
 ## Conclusion

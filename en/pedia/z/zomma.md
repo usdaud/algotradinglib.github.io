@@ -32,14 +32,14 @@ In the world of [finance](../f/finance.md) and trading, particularly in the real
 
 ### Calculation and Interpretation
 - Zomma can be represented mathematically as:
-  \[
-  \text{Zomma} = \frac{\partial \[Gamma](../g/gamma.md)}{\partial \sigma}
-  \]
-  where \(\[Gamma](../g/gamma.md)\) is [Gamma](../g/gamma.md) and \(\sigma\) is the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md).
+ \[
+ \text{Zomma} = \frac{\partial \[Gamma](../g/gamma.md)}{\partial \sigma}
+ \]
+ where \(\[Gamma](../g/gamma.md)\) is [Gamma](../g/gamma.md) and \(\sigma\) is the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md).
 - Positive Zomma indicates that an increase in [volatility](../v/volatility.md) [will](../w/will.md) increase [Gamma](../g/gamma.md), while negative Zomma suggests that an increase in [volatility](../v/volatility.md) [will](../w/will.md) decrease [Gamma](../g/gamma.md).
 
 ### Practical Implications
-- Traders who are heavily involved in [options](../o/options.md), particularly those managing large or complex portfolios, use Zomma to understand how [volatility](../v/volatility.md) changes can impact the curvature ([Gamma](../g/gamma.md)) of their positions. 
+- Traders who are heavily involved in [options](../o/options.md), particularly those managing large or complex portfolios, use Zomma to understand how [volatility](../v/volatility.md) changes can impact the curvature ([Gamma](../g/gamma.md)) of their positions.
 - For instance, if a [trader](../t/trader.md) has a portfolio with high [Gamma](../g/gamma.md) and positive Zomma, they might expect larger swings in their positions' [Delta](../d/delta.md) as [volatility](../v/volatility.md) increases. Conversely, with negative Zomma, the [Gamma](../g/gamma.md) might decrease as [volatility](../v/volatility.md) rises, potentially reducing the [Delta](../d/delta.md) [risk](../r/risk.md).
 
 ## Zomma in Risk Management
@@ -49,7 +49,7 @@ In the world of [finance](../f/finance.md) and trading, particularly in the real
 - For example, a [trader](../t/trader.md) might adjust their positions in other [options](../o/options.md) to counterbalance the effects of Zomma, thereby stabilizing their overall portfolio [Gamma](../g/gamma.md) regardless of [volatility](../v/volatility.md) changes.
 
 ### Volatility Trading
-- Traders who specialize in [volatility](../v/volatility.md) trading pay close attention to Zomma, as changes in [Gamma](../g/gamma.md) driven by [volatility](../v/volatility.md) shifts can [offer](../o/offer.md) trading opportunities. 
+- Traders who specialize in [volatility](../v/volatility.md) trading pay close attention to Zomma, as changes in [Gamma](../g/gamma.md) driven by [volatility](../v/volatility.md) shifts can [offer](../o/offer.md) trading opportunities.
 - Typically, these traders might engage in strategies that benefit from expected changes in [volatility](../v/volatility.md), using Zomma to fine-tune their approaches and enhance profitability.
 
 ## Real-World Example: Options on a Tech Stock
@@ -57,15 +57,15 @@ In the world of [finance](../f/finance.md) and trading, particularly in the real
 Consider a scenario where an [options](../o/options.md) [trader](../t/trader.md) holds a significant position in call [options](../o/options.md) on a highly volatile tech stock like Tesla ([NASDAQ](../n/nasdaq.md): TSLA). The following aspects highlight how Zomma comes into play:
 
 1. **Assessing [Gamma](../g/gamma.md) [Risk](../r/risk.md)**:
-   - The [trader](../t/trader.md) starts by evaluating the [Gamma](../g/gamma.md) of their portfolio to understand the sensitivity of [Delta](../d/delta.md) to changes in Tesla's stock price.
-   - Given Tesla's known [volatility](../v/volatility.md), the [trader](../t/trader.md) then looks at Zomma to determine how changing [volatility](../v/volatility.md) might affect [Gamma](../g/gamma.md).
+ - The [trader](../t/trader.md) starts by evaluating the [Gamma](../g/gamma.md) of their portfolio to understand the sensitivity of [Delta](../d/delta.md) to changes in Tesla's stock price.
+ - Given Tesla's known [volatility](../v/volatility.md), the [trader](../t/trader.md) then looks at Zomma to determine how changing [volatility](../v/volatility.md) might affect [Gamma](../g/gamma.md).
 
 2. **[Volatility](../v/volatility.md) Surge**:
-   - Suppose the [trader](../t/trader.md) anticipates a [volatility](../v/volatility.md) surge due to an upcoming product launch or [earnings report](../e/earnings_report.md). Positive Zomma indicates that this increase in [volatility](../v/volatility.md) [will](../w/will.md) amplify [Gamma](../g/gamma.md), meaning the portfolio [Delta](../d/delta.md) becomes more sensitive to price changes in Tesla stock.
-   - The [trader](../t/trader.md) might decide to [hedge](../h/hedge.md) against this increased sensitivity by taking offsetting positions in [options](../o/options.md) with negative Zomma.
+ - Suppose the [trader](../t/trader.md) anticipates a [volatility](../v/volatility.md) surge due to an upcoming product launch or [earnings report](../e/earnings_report.md). Positive Zomma indicates that this increase in [volatility](../v/volatility.md) [will](../w/will.md) amplify [Gamma](../g/gamma.md), meaning the portfolio [Delta](../d/delta.md) becomes more sensitive to price changes in Tesla stock.
+ - The [trader](../t/trader.md) might decide to [hedge](../h/hedge.md) against this increased sensitivity by taking offsetting positions in [options](../o/options.md) with negative Zomma.
 
 3. **[Risk](../r/risk.md) Mitigation**:
-   - By adjusting their [options](../o/options.md) positions to manage Zomma, the [trader](../t/trader.md) can better stabilize their portfolio's [Gamma](../g/gamma.md). This reduces the [risk](../r/risk.md) of unexpected [Delta](../d/delta.md) swings, ensuring a more predictable response to stock price movements and [volatility](../v/volatility.md) changes.
+ - By adjusting their [options](../o/options.md) positions to manage Zomma, the [trader](../t/trader.md) can better stabilize their portfolio's [Gamma](../g/gamma.md). This reduces the [risk](../r/risk.md) of unexpected [Delta](../d/delta.md) swings, ensuring a more predictable response to stock price movements and [volatility](../v/volatility.md) changes.
 
 ## Advanced Trading Strategies Involving Zomma
 
@@ -84,7 +84,7 @@ Consider a scenario where an [options](../o/options.md) [trader](../t/trader.md)
 - These platforms provide real-time data and advanced modeling capabilities, enabling traders to assess and respond to changes in Zomma effectively.
 
 ### Specialized Options Analysis Software
-- Dedicated [options](../o/options.md) analysis software, such as OptionVue or ThinkOrSwim by TD [Ameritrade](../a/ameritrade.md) (https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page), allows for in-depth examination of higher-[order](../o/order.md) [Greeks](../g/greeks.md).
+- Dedicated [options](../o/options.md) analysis software, such as OptionVue or ThinkOrSwim by TD [Ameritrade](../a/ameritrade.md) ( allows for in-depth examination of higher-[order](../o/order.md) [Greeks](../g/greeks.md).
 - These tools often feature customizable analytical models and [simulation](../s/simulation_in_trading.md) capabilities, making them invaluable for traders focused on complex strategies involving Zomma.
 
 ## Conclusion

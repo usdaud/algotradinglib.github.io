@@ -34,7 +34,7 @@ A [trader](../t/trader.md) writes a [put option](../p/put.md) with a [strike pri
 #### Tools and Technologies:
 1. **Trading Platforms:** Platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and [Interactive Brokers](../i/interactive_brokers.md) provide the necessary [infrastructure](../i/infrastructure.md) for executing automated strategies.
 2. **Programming Languages:** Using languages like Python, R, and C++ to develop algorithms that analyze [market](../m/market.md) data and execute trades.
-3. **APIs:** APIs from brokers and data providers (e.g., [Alpaca](../a/alpaca.md) Markets, [Alpaca](../a/alpaca.md): https://[alpaca](../a/alpaca.md).markets/) enable seamless integration and real-time data access.
+3. **APIs:** APIs from brokers and data providers (e.g., [Alpaca](../a/alpaca.md) Markets, [Alpaca](../a/alpaca.md): enable seamless integration and real-time data access.
 
 ### Strategy Optimization
 

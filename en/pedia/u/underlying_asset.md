@@ -1,18 +1,20 @@
-# Underlying Asset 
+# Underlying Asset
 
 In the world of [finance](../f/finance.md) and investments, the term "[underlying](../u/underlying.md) [asset](../a/asset.md)" is crucial to understanding various financial instruments, including [derivatives](../d/derivatives.md), bonds, and [options](../o/options.md). An [underlying](../u/underlying.md) [asset](../a/asset.md) is a fundamental concept that serves as the [basis](../b/basis.md) without which these financial products would not exist.
+
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
 
 ## Definition and Importance
 
 - **Definition**: An [underlying](../u/underlying.md) [asset](../a/asset.md) is a tangible or [intangible asset](../i/intangible_asset.md) upon which a [derivative](../d/derivative.md)'s price is based. It is the fundamental component that dictates the [value](../v/value.md) of the [derivative](../d/derivative.md) contract.
-  
+
 - **Importance**: The price and [value](../v/value.md) of [derivatives](../d/derivatives.md) like [options](../o/options.md), [futures](../f/futures.md), and swaps are directly influenced by the performance and [value](../v/value.md) of their [underlying](../u/underlying.md) assets. These assets provide the 'foundation' for the price movements in these financial instruments.
 
 ## Types of Underlying Assets
 
 [Underlying](../u/underlying.md) assets can be classified into various categories, reflecting the breadth and variety of the [financial markets](../f/financial_market.md). The primary types of [underlying](../u/underlying.md) assets are:
 
-1. **Equities**: These include [stocks](../s/stock.md) or [shares](../s/shares.md) of companies. For instance, the [underlying](../u/underlying.md) [asset](../a/asset.md) for an [equity](../e/equity.md) option could be the stock of a company like Apple Inc. (https://www.apple.com/[investor](../i/investor.md)/).
+1. **Equities**: These include [stocks](../s/stock.md) or [shares](../s/shares.md) of companies. For instance, the [underlying](../u/underlying.md) [asset](../a/asset.md) for an [equity](../e/equity.md) option could be the stock of a company like Apple Inc. (
 
 2. **Bonds**: These are fixed-[income](../i/income.md) securities issued by corporations or governments. For example, Treasury bonds or corporate bonds serve as [underlying](../u/underlying.md) assets for [bond](../b/bond.md) [options](../o/options.md) or [bond futures](../b/bond_futures.md).
 
@@ -54,7 +56,7 @@ The pricing models for [derivatives](../d/derivatives.md), such as the [Black-Sc
 [Investing](../i/investing.md) in [derivatives](../d/derivatives.md) involves understanding the risks and behaviors of the [underlying](../u/underlying.md) [asset](../a/asset.md). Key considerations include:
 
 - **[Volatility](../v/volatility.md)**: Higher [volatility](../v/volatility.md) in the [underlying](../u/underlying.md) [asset](../a/asset.md) can lead to higher potential returns but also greater [risk](../r/risk.md).
-  
+
 - **[Liquidity](../l/liquidity.md)**: The [liquidity](../l/liquidity.md) of the [underlying](../u/underlying.md) [asset](../a/asset.md) affects the ease with which [derivatives](../d/derivatives.md) can be traded.
 
 - **[Market](../m/market.md) Conditions**: [Economic indicators](../e/economic_indicators.md), [market](../m/market.md) trends, and geopolitical events can significantly impact the [underlying](../u/underlying.md) [asset](../a/asset.md)'s price.
@@ -83,7 +85,7 @@ Arbitrageurs exploit price discrepancies between the [derivative](../d/derivativ
 
 ### Equities: Tesla (TSLA)
 
-Tesla's stock serves as the [underlying](../u/underlying.md) [asset](../a/asset.md) for various [derivatives](../d/derivatives.md), including stock [options](../o/options.md). Investors can buy call [options](../o/options.md) on TSLA stock if they believe the price [will](../w/will.md) go up or [put options](../p/put_options.md) if they expect it to decline. For more details, visit Tesla's official page: [Tesla Investors](https://www.tesla.com/investor-relations).
+Tesla's stock serves as the [underlying](../u/underlying.md) [asset](../a/asset.md) for various [derivatives](../d/derivatives.md), including stock [options](../o/options.md). Investors can buy call [options](../o/options.md) on TSLA stock if they believe the price [will](../w/will.md) go up or [put options](../p/put_options.md) if they expect it to decline.
 
 ### Commodities: Gold
 
@@ -101,11 +103,11 @@ In the [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md), [c
 
 ### FinTech Innovations
 
-Financial technology (FinTech) has revolutionized how investors interact with [underlying](../u/underlying.md) assets and [derivatives](../d/derivatives.md). Platforms such as [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com/) and [E*TRADE](../e/e_trade.md) (https://us.etrade.com/[home](../h/home.md)) have democratized access to these markets, providing innovative tools and resources for trading and investment.
+Financial technology (FinTech) has revolutionized how investors interact with [underlying](../u/underlying.md) assets and [derivatives](../d/derivatives.md). Platforms such as [Robinhood](../r/robinhood.md) ( and [E*TRADE](../e/e_trade.md) ( have democratized access to these markets, providing innovative tools and resources for trading and investment.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, uses algorithms and automated systems to [trade](../t/trade.md) [derivatives](../d/derivatives.md) based on [underlying](../u/underlying.md) assets. Algorithms can process vast amounts of data and execute trades at high speeds, often capitalizing on minute price discrepancies.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, uses algorithms and automated systems to [trade](../t/trade.md) [derivatives](../d/derivatives.md) based on [underlying](../u/underlying.md) assets. Algorithms can process vast amounts of data and execute trades at high speeds, often capitalizing on minute price discrepancies.
 
 ### Blockchain and Cryptocurrencies
 

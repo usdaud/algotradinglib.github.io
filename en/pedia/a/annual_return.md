@@ -28,7 +28,7 @@ where \( n \) is the number of years. The CAGR smoothens out the annual [return]
 
 ### Adjusted Annual Return
 
-In some situations, it is essential to adjust the annual [return](../r/return.md) for dividends, fees, and [taxes](../t/taxes.md). The Adjusted Annual [Return](../r/return.md) accounts for these factors, [offering](../o/offering.md) a net perspective that reflects the actual [gain](../g/gain.md) or loss from the investment. 
+In some situations, it is essential to adjust the annual [return](../r/return.md) for dividends, fees, and [taxes](../t/taxes.md). The Adjusted Annual [Return](../r/return.md) accounts for these factors, [offering](../o/offering.md) a net perspective that reflects the actual [gain](../g/gain.md) or loss from the investment.
 
 ## Application in Algo Trading
 
@@ -47,13 +47,13 @@ In [algorithmic trading](../a/accountability.md) (or algotrading), the annual [r
 Several leading companies and platforms provide tools and services for calculating and analyzing annual returns, particularly in the context of algotrading:
 
 1. **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](../q/quantconnect.md) offers a comprehensive IDE for [quantitative finance](../q/quantitative_finance.md). Their [backtesting](../b/backtesting.md) engine allows users to assess the annual returns of various [trading strategies](../t/trading_strategies.md).
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 2. **[Interactive Brokers](../i/interactive_brokers.md)**: Known for their advanced [trading platform](../t/trading_platform.md), [Interactive Brokers](../i/interactive_brokers.md) provides users with detailed [performance analytics](../p/performance_analytics.md), including annual [return](../r/return.md) calculation for executed strategies.
-   - [Interactive Brokers](https://www.interactivebrokers.com/)
+ - Interactive Brokers
 
 3. **[Alpaca](../a/alpaca.md)**: [Alpaca](../a/alpaca.md)'s trading API allows developers to implement and test [trading algorithms](../t/trading_algorithms.md). Their platform includes tools for calculating and optimizing annual returns.
-   - [Alpaca](https://alpaca.markets/)
+ - Alpaca
 
 ## Example Calculation
 

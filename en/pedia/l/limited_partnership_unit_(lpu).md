@@ -5,7 +5,7 @@ A Limited Partnership Unit (LPU) is a key [financial instrument](../f/financial_
 ## Nature and Structure of Limited Partnership Units
 
 ### Definition and Characteristics
-A Limited Partnership Unit embodies the ownership stake of a [limited partner](../l/limited_partner.md) within a limited partnership. Limited partners are investors who contribute [capital](../c/capital.md) to the partnership but do not partake in the management or daily operations of the [business](../b/business.md). Instead, the general partners assume the managerial responsibilities, shouldering [unlimited liability](../u/unlimited_liability.md) for the partnership's debts and [obligations](../o/obligation.md). 
+A Limited Partnership Unit embodies the ownership stake of a [limited partner](../l/limited_partner.md) within a limited partnership. Limited partners are investors who contribute [capital](../c/capital.md) to the partnership but do not partake in the management or daily operations of the [business](../b/business.md). Instead, the general partners assume the managerial responsibilities, shouldering [unlimited liability](../u/unlimited_liability.md) for the partnership's debts and [obligations](../o/obligation.md).
 
 Key characteristics of LPUs include:
 1. **[Capital](../c/capital.md) Contribution**: Limited partners typically acquire LPUs by contributing [capital](../c/capital.md) to the partnership. This [capital](../c/capital.md) can take various forms, including cash, property, or other assets.
@@ -14,7 +14,7 @@ Key characteristics of LPUs include:
 4. **Non-Management Role**: Limited partners do not engage in the [active management](../a/active_management.md) of the partnership. This non-involvement is a critical [factor](../f/factor.md) in maintaining their [limited liability](../l/limited_liability.md) status.
 
 ### Legal Framework
-The legal framework governing limited partnerships and LPUs varies by jurisdiction but generally adheres to the principles outlined in the Uniform Limited Partnership Act (ULPA) in the United States. Under the ULPA, LPUs are considered securities, subjecting them to specific regulatory requirements and protections. 
+The legal framework governing limited partnerships and LPUs varies by jurisdiction but generally adheres to the principles outlined in the Uniform Limited Partnership Act (ULPA) in the United States. Under the ULPA, LPUs are considered securities, subjecting them to specific regulatory requirements and protections.
 
 ## Advantages of Limited Partnership Units
 

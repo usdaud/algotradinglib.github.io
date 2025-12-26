@@ -87,22 +87,22 @@ Several companies specialize in various aspects of [asset](../a/asset.md) [valua
 
 ### Duff & Phelps (Kroll)
 Duff & Phelps, now part of Kroll, provides comprehensive [valuation](../v/valuation.md) services, including [business valuations](../b/business_valuations.md), [intangible asset](../i/intangible_asset.md) valuations, and [real estate](../r/real_estate.md) appraisals. The [firm](../f/firm.md) has a global presence and is known for its expertise in complex and high-profile valuations.
-[https://www.kroll.com](https://www.kroll.com)
+
 
 ### PwC (PricewaterhouseCoopers)
 PwC offers extensive [asset](../a/asset.md) [valuation](../v/valuation.md) services as part of its advisory and [assurance](../a/assurance.md) practices. Their services span financial reporting, tax valuations, and [transaction](../t/transaction.md) advisory.
-[https://www.pwc.com](https://www.pwc.com)
+
 
 ### CBRE (Coldwell Banker Richard Ellis)
 CBRE is a leading [commercial real estate](../c/commercial_real_estate.md) services and investment [firm](../f/firm.md) that provides [valuation](../v/valuation.md) services for a variety of [real estate](../r/real_estate.md)-related assets.
-[http://www.cbre.com](http://www.cbre.com)
+
 
 ### Houlihan Lokey
 Houlihan Lokey offers a wide [range](../r/range.md) of [valuation](../v/valuation.md) services, including portfolio valuations, financial reporting valuations, and [corporate tax](../c/corporate_tax.md) valuations. The [firm](../f/firm.md) is well-regarded for its deep [industry](../i/industry.md) expertise and rigorous analytical approach.
-[http://www.hl.com](http://www.hl.com)
+
 
 ### Independent Valuation & Risk Advisory (IVRA)
 IVRA provides [valuation](../v/valuation.md) services focusing on [fixed income securities](../f/fixed_income_securities.md), [derivatives](../d/derivatives.md), and structured products, catering primarily to financial institutions and investment funds.
-[https://www.ivra.com](https://www.ivra.com)
+
 
 In conclusion, [asset](../a/asset.md) [valuation](../v/valuation.md) is a multifaceted discipline necessitating a thorough understanding of various principles, methods, and practical applications. Professionals in this field must navigate numerous challenges to provide accurate and reliable valuations, thereby supporting informed decision-making in [finance](../f/finance.md), investment, and [business](../b/business.md) strategy.

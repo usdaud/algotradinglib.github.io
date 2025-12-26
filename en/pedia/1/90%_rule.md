@@ -2,7 +2,7 @@
 
 ### Introduction
 
-[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, involves using computer algorithms to automate and optimize [trading strategies](../t/trading_strategies.md). These algorithms can execute trades at speeds and frequencies that human traders cannot match. One of the guiding principles for effective [algorithmic trading](../a/algorithmic_trading.md) is the "90% Rule," which emphasizes the importance of model robustness and adaptability. 
+[Algorithmic trading](../a/algorithmic_trading.md), also known as algo-trading, involves using computer algorithms to automate and optimize [trading strategies](../t/trading_strategies.md). These algorithms can execute trades at speeds and frequencies that human traders cannot match. One of the guiding principles for effective [algorithmic trading](../a/algorithmic_trading.md) is the "90% Rule," which emphasizes the importance of model robustness and adaptability.
 
 ### Understanding the 90% Rule
 
@@ -63,7 +63,7 @@ Once the data is ready, the next step is designing the trading algorithm. Key co
 
 ### Forward Testing
 
-Forward testing, also known as paper trading or walk-forward testing, involves testing the model on out-of-sample data to validate its robustness. 
+Forward testing, also known as paper trading or walk-forward testing, involves testing the model on out-of-sample data to validate its robustness.
 
 ### Implementation
 
@@ -75,16 +75,14 @@ Once the model has been rigorously tested, it's time to implement it. This invol
 
 ### Companies Specializing in Algo-Trading
 
-1. **[QuantConnect](../q/quantconnect.md)**: (https://www.[quantconnect](../q/quantconnect.md).com/)
-   - [QuantConnect](../q/quantconnect.md) provides a cloud-based algorithm [trading platform](../t/trading_platform.md). It allows users to backtest, optimize, and deploy [trading algorithms](../t/trading_algorithms.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
+1. **[StockSharp](../s/stocksharp.md)**:
+ - [StockSharp](../s/stocksharp.md) provides a algorithm [trading platform](../t/trading_platform.md). It allows users to backtest, optimize, and deploy [trading algorithms](../t/trading_algorithms.md) across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
-2. **[AlgoTrader](../a/algotrader.md)**: (https://www.[algotrader](../a/algotrader.md).com/)
-   - [AlgoTrader](../a/algotrader.md) offers [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), [trading strategy](../t/trading_strategy.md) development, [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and [execution](../e/execution.md).
+2. **[AlgoTrader](../a/algotrader.md)**: (
+ - [AlgoTrader](../a/algotrader.md) offers [algorithmic trading](../a/algorithmic_trading.md) software for [quantitative research](../q/quantitative_research.md), [trading strategy](../t/trading_strategy.md) development, [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and [execution](../e/execution.md).
 
-3. **WorldQuant**: (https://www.worldquant.com/)
-   - WorldQuant is a global quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses mathematical and statistical methods, analysis, distinct [trading algorithms](../t/trading_algorithms.md) to manage global investment portfolios.
+3. **WorldQuant**: - WorldQuant is a global quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that uses mathematical and statistical methods, analysis, distinct [trading algorithms](../t/trading_algorithms.md) to manage global investment portfolios.
 
 ### Conclusion
 
 The 90% Rule underscores the complexity and rigor involved in developing a successful trading algorithm. By focusing the vast majority of effort on research, development, and testing, traders can ensure that their algorithms are [robust](../r/robust.md), adaptable, and more likely to succeed in the real world.
-

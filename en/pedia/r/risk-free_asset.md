@@ -18,7 +18,7 @@ The returns on a [risk](../r/risk.md)-free [asset](../a/asset.md) are predetermi
 In reality, no investment can be said to be completely [risk](../r/risk.md)-free. However, certain types of assets are commonly considered to approximate the concept of a [risk](../r/risk.md)-free [asset](../a/asset.md):
 
 ### U.S. Treasury Securities
-[U.S. Treasury](../u/u.s._treasury.md) Bills (T-bills), Notes, and Bonds are often considered the closest real-world equivalents to [risk](../r/risk.md)-free assets. They are backed by the full faith and [credit](../c/credit.md) of the U.S. government, making them extremely low-[risk](../r/risk.md). 
+[U.S. Treasury](../u/u.s._treasury.md) Bills (T-bills), Notes, and Bonds are often considered the closest real-world equivalents to [risk](../r/risk.md)-free assets. They are backed by the full faith and [credit](../c/credit.md) of the U.S. government, making them extremely low-[risk](../r/risk.md).
 
 ### Government Bonds from Stable Economies
 Bonds issued by governments of stable and developed economies, like Germany or Japan, are also often considered as [risk](../r/risk.md)-free, although they might carry slightly more [risk](../r/risk.md) compared to U.S. Treasuries.
@@ -54,7 +54,7 @@ The [risk](../r/risk.md)-free rate here is used as a [benchmark](../b/benchmark.
 Despite its theoretical appeal, the concept of a [risk](../r/risk.md)-free [asset](../a/asset.md) has limitations:
 
 ### Inflation Risk
-Even government securities can be vulnerable to [inflation](../i/inflation.md), which erodes their real [value](../v/value.md) over time. 
+Even government securities can be vulnerable to [inflation](../i/inflation.md), which erodes their real [value](../v/value.md) over time.
 
 ### Reinvestment Risk
 [Risk](../r/risk.md)-free assets that pay periodic [interest](../i/interest.md) or mature cannot guarantee the same returns upon [reinvestment](../r/reinvestment.md). This is particularly relevant in a fluctuating [interest rate](../i/interest_rate.md) environment.

@@ -6,13 +6,13 @@ Regression techniques are a cornerstone of statistical analysis and [machine lea
 
 **Definition:** [Linear regression](../l/linear_regression.md) is a statistical method that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. The linear equation can be expressed as:
 
-\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon \]
+\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 +... + \beta_n x_n + \epsilon \]
 
 where:
 - \( y \) is the dependent variable.
 - \( \beta_0 \) is the intercept.
-- \( \beta_1, \beta_2, ..., \beta_n \) are the coefficients of the independent variables.
-- \( x_1, x_2, ..., x_n \) are the independent variables.
+- \( \beta_1, \beta_2,..., \beta_n \) are the coefficients of the independent variables.
+- \( x_1, x_2,..., x_n \) are the independent variables.
 - \( \epsilon \) is the [error term](../e/error_term.md).
 
 **Applications in Trading:**
@@ -32,7 +32,7 @@ where:
 
 **Definition:** Polynomial regression is a form of [regression analysis](../r/regression_analysis.md) where the relationship between the independent variable and the dependent variable is modeled as an \( n \)-th degree polynomial. It is useful for capturing non-linear relationships that cannot be represented by simple or [multiple](../m/multiple.md) [linear regression](../l/linear_regression.md).
 
-\[ y = \beta_0 + \beta_1 x + \beta_2 x^2 + ... + \beta_n x^n + \epsilon \]
+\[ y = \beta_0 + \beta_1 x + \beta_2 x^2 +... + \beta_n x^n + \epsilon \]
 
 **Applications in Trading:**
 - **Modeling Non-linear Trends:** Polynomial regression can be used to model the curvilinear relationship between stock prices and time or other variables, providing a more accurate forecast in certain [market](../m/market.md) conditions.
@@ -42,7 +42,7 @@ where:
 
 **Definition:** [Logistic regression](../l/logistic_regression_in_trading.md) is used for binary classification problems, where the outcome variable is categorical and usually represents two classes (such as up/down or buy/sell). The logistic function transforms the linear equation output into probabilities.
 
-\[ P(Y=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + ... + \beta_n x_n)}} \]
+\[ P(Y=1) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 +... + \beta_n x_n)}} \]
 
 **Applications in Trading:**
 - **[Market](../m/market.md) Movement Prediction:** Classifying [market](../m/market.md) movements or trends (e.g., bullish or bearish) based on historical data and other indicators.
@@ -84,7 +84,7 @@ where \( \[lambda](../l/lambda.md) \) is the regularization parameter.
 
 **Definition:** Quantile regression estimates the conditional quantiles (such as [median](../m/median.md) or percentiles) of the response variable's [distribution](../d/distribution.md), rather than the mean. It is useful for understanding the impact of predictors across different points of the [distribution](../d/distribution.md).
 
-\[ Q_y(\tau | X) = \beta_0^\tau + \beta_1^\tau x_1 + ... + \beta_p^\tau x_p \]
+\[ Q_y(\tau | X) = \beta_0^\tau + \beta_1^\tau x_1 +... + \beta_p^\tau x_p \]
 
 where \( \tau \) represents the quantile of [interest](../i/interest.md).
 
@@ -111,7 +111,6 @@ where \( \tau \) represents the quantile of [interest](../i/interest.md).
 - **Improving Interpretability:** Enhancing the interpretability of models by reducing complexity.
 
 For more information and resources, you can visit:
-- [GreenKey Technologies](https://www.greenkeytech.com/)
-- [QuantConnect](https://www.quantconnect.com/) 
-
+- GreenKey Technologies
+- QuantConnect
 These resources provide tools and platforms for implementing various regression techniques and other [quantitative trading](../q/quantitative_trading.md) strategies.

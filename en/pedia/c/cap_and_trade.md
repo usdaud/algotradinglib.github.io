@@ -13,7 +13,7 @@ The cap is the total amount of pollution that a government or regulatory authori
 Allowances are permits that allow the holder to emit a certain amount of the pollutant. These are typically issued by the government and can be allocated through free [distribution](../d/distribution.md), auctions, or a combination of both. Each allowance permits the emission of a specific unit (e.g., one ton) of the pollutant.
 
 ### 3. Trading
-Trading allows entities that can reduce emissions below their allocated allowances to sell their excess allowances to those who emit more than their permits allow. This [market](../m/market.md)-based approach provides flexibility and incentive for the lowest-cost emissions reductions. 
+Trading allows entities that can reduce emissions below their allocated allowances to sell their excess allowances to those who emit more than their permits allow. This [market](../m/market.md)-based approach provides flexibility and incentive for the lowest-cost emissions reductions.
 
 ### 4. Compliance and Enforcement
 Regulated entities must consistently monitor and report their emissions, ensuring they [hold](../h/hold.md) enough allowances to cover their emissions. Authorities enforce compliance through penalties, fines, or other regulatory actions if entities do not meet their [obligations](../o/obligation.md).
@@ -52,13 +52,13 @@ Without adequate oversight, there is the potential for [market manipulation](../
 The EU ETS is the largest and most established emissions trading system in the world, covering a large portion of the EU's greenhouse gas emissions. It has been a key tool in the EU's climate policy.
 
 ### 2. California Cap-and-Trade Program
-California's cap-and-[trade](../t/trade.md) program is one of the most comprehensive in the United States, covering major sources of greenhouse gas emissions and generating significant [revenue](../r/revenue.md) for the state. More information can be found on the [California Air Resources Board website](https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program).
+California's cap-and-[trade](../t/trade.md) program is one of the most comprehensive in the United States, covering major sources of greenhouse gas emissions and generating significant [revenue](../r/revenue.md) for the state.
 
 ### 3. Regional Greenhouse Gas Initiative (RGGI)
-RGGI is a cooperative effort among several Northeastern and Mid-Atlantic states in the U.S. to cap and reduce power sector CO2 emissions. More details can be found on the [RGGI official website](https://www.rggi.org/).
+RGGI is a cooperative effort among several Northeastern and Mid-Atlantic states in the U.S. to cap and reduce power sector CO2 emissions. More
 
 ### 4. Alberta's Carbon Competitiveness Incentive Regulation (CCIR)
-Alberta's CCIR operates as a hybrid system with elements of cap-and-[trade](../t/trade.md) and carbon pricing to address greenhouse gas emissions from large industrial emitters. More information is available on the [Government of Alberta's website](https://www.alberta.ca/carbon-competitiveness-incentive-regulation.aspx).
+Alberta's CCIR operates as a hybrid system with elements of cap-and-[trade](../t/trade.md) and carbon pricing to address greenhouse gas emissions from large industrial emitters.
 
 ## Future Directions and Innovations
 

@@ -47,7 +47,7 @@ Some financial assets, like [Bitcoin](../b/bitcoin.md), have a fixed supply dete
 
 ## Supply Chain Finance
 
-[Supply chain finance](../s/supply_chain_finance.md) (SCF) is a set of technology-based solutions aimed at optimizing [cash flow](../c/cash_flow.md) by allowing businesses to extend their [payment](../p/payment.md) terms to their suppliers while providing the option for suppliers to get paid early. Fintech companies like [PrimeRevenue](https://primerevenue.com) lead in this sector, [offering](../o/offering.md) platforms that facilitate SCF solutions.
+[Supply chain finance](../s/supply_chain_finance.md) (SCF) is a set of technology-based solutions aimed at optimizing [cash flow](../c/cash_flow.md) by allowing businesses to extend their [payment](../p/payment.md) terms to their suppliers while providing the option for suppliers to get paid early. Fintech companies like PrimeRevenue lead in this sector, [offering](../o/offering.md) platforms that facilitate SCF solutions.
 
 ### Key Components of Supply Chain Finance
 
@@ -57,7 +57,7 @@ Some financial assets, like [Bitcoin](../b/bitcoin.md), have a fixed supply dete
 
 ## Algorithmic Trading and Supply Analysis
 
-[Algorithmic trading](../a/accountability.md) uses computer programs to [trade](../t/trade.md) financial instruments at high speeds and volumes. Understanding supply dynamics is crucial for developing algorithms that can predict price movements and execute trades profitably.
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer programs to [trade](../t/trade.md) financial instruments at high speeds and volumes. Understanding supply dynamics is crucial for developing algorithms that can predict price movements and execute trades profitably.
 
 ### Key Considerations
 
@@ -74,7 +74,7 @@ Advanced [machine learning](../m/machine_learning.md) models can incorporate sup
 - Producer [financial health](../f/financial_health.md) indicators.
 - [Market sentiment analysis](../m/market_sentiment_analysis.md).
 
-Companies like [Kensho](https://www.kensho.com) and [Numerai](https://numer.ai) [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to [gain](../g/gain.md) insights into [market](../m/market.md) data, including supply-related metrics.
+Companies like Kensho and Numerai [leverage](../l/leverage.md) [machine learning](../m/machine_learning.md) to [gain](../g/gain.md) insights into [market](../m/market.md) data, including supply-related metrics.
 
 ## Conclusion
 

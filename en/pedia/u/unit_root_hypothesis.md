@@ -29,9 +29,9 @@ Several statistical tests have been developed to identify the presence of unit r
 
 The ADF test is an extension of the Dickey-Fuller test. It aims to test the [null hypothesis](../n/null_hypothesis.md) that a unit root is present:
 
-\[ \Delta Y_t = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) t + \[gamma](../g/gamma.md) Y_{t-1} + \delta_1 \[Delta](../d/delta.md) Y_{t-1} + \delta_2 \[Delta](../d/delta.md) Y_{t-2} + ... + \delta_p \[Delta](../d/delta.md) Y_{t-p} + \epsilon_t \]
+\[ \Delta Y_t = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) t + \[gamma](../g/gamma.md) Y_{t-1} + \delta_1 \[Delta](../d/delta.md) Y_{t-1} + \delta_2 \[Delta](../d/delta.md) Y_{t-2} +... + \delta_p \[Delta](../d/delta.md) Y_{t-p} + \epsilon_t \]
 
-where \(\[Delta](../d/delta.md)\) is the difference operator, \(t\) is the time [trend](../t/trend.md), and \(\[alpha](../a/alpha.md)\), \(\[beta](../b/beta.md)\), \(\[gamma](../g/gamma.md)\), \(\delta_1, ... , \delta_p\) are parameters.
+where \(\[Delta](../d/delta.md)\) is the difference operator, \(t\) is the time [trend](../t/trend.md), and \(\[alpha](../a/alpha.md)\), \(\[beta](../b/beta.md)\), \(\[gamma](../g/gamma.md)\), \(\delta_1,..., \delta_p\) are parameters.
 
 ### 2. Phillips-Perron Test
 
@@ -99,6 +99,6 @@ MATLAB’s [Econometrics](../e/econometrics_in_trading.md) Toolbox includes func
 The Unit Root Hypothesis governs a fundamental aspect of [time series analysis](../t/time_series_analysis.md), crucial for [economics](../e/economics.md), [finance](../f/finance.md), and [algorithmic trading](../a/algorithmic_trading.md). Proper identification and transformation of unit root processes ensure the reliability and robustness of statistical models, [trading algorithms](../t/trading_algorithms.md), and economic forecasts. By applying appropriate tests and methodologies, traders, economists, and policymakers can effectively manage and interpret complex [time series](../t/time_series.md) data, paving the way for informed decision-making and optimal strategy development.
 
 For a deep dive into the services and tools mentioned, you can visit their respective websites:
-- [R: The R Project for Statistical Computing](https://www.r-project.org/)
-- [Python: The Python Package Index (PyPI)](https://pypi.org/)
-- [MATLAB: The MathWorks Inc.](https://www.mathworks.com/products/matlab.html)
+- R: The R Project for Statistical Computing
+- Python: The Python Package Index (PyPI)
+- MATLAB: The MathWorks Inc.

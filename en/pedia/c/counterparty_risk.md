@@ -88,19 +88,19 @@ Several key [industry](../i/industry.md) players provide tools and services to m
 
 ### 1. Numerix
 Numerix offers [risk management](../r/risk_management.md) solutions that include advanced analytics and pricing models for [counterparty](../c/counterparty.md) [risk](../r/risk.md).
-Website: [Numerix](https://www.numerix.com/)
+online platform: Numerix
 
 ### 2. Calypso Technology
 Calypso Technology provides integrated trading and [risk management](../r/risk_management.md) platforms that help firms manage [counterparty](../c/counterparty.md) [risk](../r/risk.md).
-Website: [Calypso Technology](https://www.calypso.com/)
+online platform: Calypso Technology
 
 ### 3. FINCAD
 FINCAD specializes in providing analytics and [risk management](../r/risk_management.md) solutions, focusing on [derivatives](../d/derivatives.md) and fixed-[income](../i/income.md) markets.
-Website: [FINCAD](https://fincad.com/)
+online platform: FINCAD
 
 ### 4. IBM Financial Risk Management
 IBM offers comprehensive [risk management](../r/risk_management.md) services, leveraging AI and cloud technology to address [counterparty](../c/counterparty.md) [risk](../r/risk.md).
-Website: [IBM Financial Risk Management](https://www.ibm.com/industries/financial-services/risk-management)
+online platform: IBM Financial Risk Management
 
 ## Future Outlook
 
@@ -111,4 +111,4 @@ The landscape of [counterparty](../c/counterparty.md) [risk](../r/risk.md) in [a
 - **Adoption of [Blockchain](../b/blockchain_in_trading.md):** Distributed ledger technologies could revolutionize how [counterparty](../c/counterparty.md) [risk](../r/risk.md) is managed, providing greater [transparency](../t/transparency.md) and reducing the need for intermediation.
 - **Collaborative [Risk Management](../r/risk_management.md):** Firms may increasingly collaborate to share data and insights, improving collective [risk](../r/risk.md) assessment and mitigation strategies.
 
-In conclusion, [counterparty](../c/counterparty.md) [risk](../r/risk.md) remains a critical concern in [algorithmic trading](../a/algorithmic_trading.md). Through a combination of advanced technology, regulatory compliance, and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, firms can better navigate the complexities associated with this [risk](../r/risk.md) and safeguard their trading operations.
+In conclusion, [counterparty](../c/counterparty.md) [risk](../r/risk.md) remains a critical concern in [algorithmic trading](../a/algorithmic_trading.md). Through a combination of advanced technology, regulatory compliance, and [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, firms can better navigate the complexities associated with this [risk](../r/risk.md) and safeguard their trading operations.

@@ -53,23 +53,17 @@ HFT strategies involve executing a large number of trades at high speeds to expl
 
 Platforms like **[QuantConnect](../q/quantconnect.md)** and **[AlgoTrader](../a/algotrader.md)** provide the [infrastructure](../i/infrastructure.md) needed for implementing [zero balance](../z/zero_balance.md) techniques. They [offer](../o/offer.md) back-testing, live trading, and extensive libraries of algorithms.
 
-- **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/
-- **[AlgoTrader](../a/algotrader.md)**: https://www.[algotrader](../a/algotrader.md).com/
-
+- **[QuantConnect](../q/quantconnect.md)**- **[AlgoTrader](../a/algotrader.md)**
 ### 2. Risk Management Systems
 
 Advanced [risk management](../r/risk_management.md) systems from providers like **Trading Technologies** and **Eze Software Group** [offer](../o/offer.md) real-time monitoring and control mechanisms to ensure positions are balanced correctly.
 
-- **Trading Technologies**: https://www.tradingtechnologies.com/
-- **Eze Software Group**: https://www.ezesoft.com/
-
+- **Trading Technologies**- **Eze Software Group**
 ### 3. Statistical Software
 
 Software like **Matlab** and **R** are often used in conjunction with trading platforms for developing and testing [zero balance](../z/zero_balance.md) strategies.
 
-- **Matlab**: https://www.mathworks.com/products/matlab.html
-- **R Project**: https://www.r-project.org/
-
+- **Matlab**- **R Project**
 ## Challenges and Considerations
 
 ### 1. Market Impact

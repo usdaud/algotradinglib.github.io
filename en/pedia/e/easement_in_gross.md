@@ -4,7 +4,7 @@ An "easement in gross" is a legal right or [interest](../i/interest.md) in land,
 
 ## Characteristics and Nature of Easement In Gross
 
-### Personal vs. Commercial 
+### Personal vs. Commercial
 Easements in gross can be categorized as either personal or commercial. A personal easement in gross benefits an individual specifically, and it usually terminates upon the death of the individual or when they no longer require the easement. On the other hand, a commercial easement in gross is one that benefits a [business](../b/business.md) or [utility](../u/utility.md) company and tends to be more durable. This type might be used for purposes such as laying [utility](../u/utility.md) lines, creating pathways, or constructing pipelines.
 
 ### Attachability
@@ -24,10 +24,10 @@ Easements in gross can be created through various methods:
 2. **Prescription**: An easement can be acquired through long-term and uninterrupted use without permission, often through [adverse possession](../a/adverse_possession.md).
 3. **[Estoppel](../e/estoppel.md)**: If a property owner has allowed someone to use their land in a way that establishes an easement and the user has relied on this to their detriment, an easement in gross may be created through [estoppel](../e/estoppel.md).
 4. **Necessity**: If an easement is essential for the enjoyment of a property, a court can establish one.
-  
+
 ### Rights and Responsibilities
 The specific rights and responsibilities of both the easement holder and the landowner should be clearly delineated in the granting document. Typically, the easement holder gains specific usage rights without owning the land, whereas the landowner retains the overall ownership and must avoid interfering with the easement rights.
-  
+
 ### Termination
 Easements in gross can be terminated in several ways:
 1. **Expiration of Time**: If a term is specified, the easement ends when the term lapses.
@@ -58,10 +58,10 @@ For the holders of easements in gross, it is imperative to maintain the specific
 ## Case Study: Utilities Easement
 
 ### Example – Utility Companies
-[Utility](../u/utility.md) companies like Southern California Edison (SCE) [www.sce.com](https://www.sce.com/) obtain easements in gross to place and maintain electrical lines. The company must negotiate with landowners to secure these easements, ensuring access for installation, maintenance, and future upgrades. The terms must be clearly outlined in agreements to prevent disputes and ensure smooth operational capabilities.
+[Utility](../u/utility.md) companies like Southern California Edison (SCE) obtain easements in gross to place and maintain electrical lines. The company must negotiate with landowners to secure these easements, ensuring access for installation, maintenance, and future upgrades. The terms must be clearly outlined in agreements to prevent disputes and ensure smooth operational capabilities.
 
 ### Example – Telecommunications
-For digital and telecommunication [infrastructure](../i/infrastructure.md), companies like AT&T [www.att.com](https://www.att.com/) also rely on easements in gross. They might secure these easements to lay fiber-optic cables or install communication towers. Their agreements must often stipulate the locations, maintenance routines, and allowance for technological upgrades, which ensures sustained service quality and network integrity.
+For digital and telecommunication [infrastructure](../i/infrastructure.md), companies like AT&T also rely on easements in gross. They might secure these easements to lay fiber-optic cables or install communication towers. Their agreements must often stipulate the locations, maintenance routines, and allowance for technological upgrades, which ensures sustained service quality and network integrity.
 
 ### Community Impact
 The inclusion of easements in gross for [utility](../u/utility.md) purposes significantly impacts community development. Accessibility to essential services like electricity, water, and high-speed internet is increased, often enhancing the overall [quality of life](../q/quality_of_life.md). These easements can lead to better-connected communities, although they must also be balanced with the rights and interests of landowners.

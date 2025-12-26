@@ -78,7 +78,7 @@ Statistical [arbitrage](../a/arbitrage.md) strategies rely on the statistical re
 
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider known for its expertise in managing spread [risk](../r/risk.md). The company's advanced [trading algorithms](../t/trading_algorithms.md) and [risk management](../r/risk_management.md) systems enable it to provide tight [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and execute trades efficiently across a wide [range](../r/range.md) of assets. Citadel Securities leverages sophisticated [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md) techniques to optimize its [trading strategies](../t/trading_strategies.md) and manage spread [risk](../r/risk.md) effectively.
 
-For more information about Citadel Securities and their approach to spread [risk management](../r/risk_management.md), visit their [official website](https://www.citadelsecurities.com/).
+For more information about Citadel Securities and their approach to spread [risk management](../r/risk_management.md),
 
 ## Conclusion
 

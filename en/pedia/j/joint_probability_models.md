@@ -88,19 +88,17 @@ For example, a Bayesian Network might use [joint](../j/joint.md) probabilities t
 
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds in the world, is known for its use of [quantitative models](../q/quantitative_models.md), including [joint probability](../j/joint_probability.md) models, to manage their [trading strategies](../t/trading_strategies.md). Their Medallion [Fund](../f/fund.md) has outperformed the [market](../m/market.md) consistently over the years, largely due to its sophisticated use of mathematical and statistical models.
 
-[Link to Renaissance Technologies](http://www.rentec.com/)
 
 ### Two Sigma
 
 Two Sigma Investments is another leading [firm](../f/firm.md) that leverages [joint probability](../j/joint_probability.md) models to drive their [algorithmic trading](../a/algorithmic_trading.md) strategies. By employing advanced statistical techniques, [machine learning](../m/machine_learning.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), Two Sigma develops models that analyze the [joint](../j/joint.md) behavior of various financial instruments to identify profitable opportunities.
 
-[Link to Two Sigma](https://www.twosigma.com/)
 
 ### DE Shaw & Co.
 
 DE Shaw & Co. employs an array of [quantitative models](../q/quantitative_models.md), including [joint probability](../j/joint_probability.md) models, in their [trading strategies](../t/trading_strategies.md). By understanding the [joint](../j/joint.md) behavior of [multiple](../m/multiple.md) [asset](../a/asset.md) classes, DE Shaw can optimize their portfolio and manage risks more effectively.
 
-[Link to DE Shaw & Co.](https://www.deshaw.com/)
+Link to DE Shaw & Co.
 
 ## Challenges and Limitations
 

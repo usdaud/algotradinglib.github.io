@@ -1,10 +1,10 @@
 # Holding Period Return
 
-The [Holding Period](../h/holding_period.md) [Return](../r/return.md) (HPR) is a measure of the [total return](../t/total_return.md) earned on an investment over the period for which the investment is held. This method of calculating returns is particularly useful in [finance](../f/finance.md) and [investment management](../i/investment_management.md), as it provides investors with a percentage [rate of return](../r/rate_of_return.md) relative to their investment's initial and final [value](../v/value.md), inclusive of [income](../i/income.md) received from dividends, [interest](../i/interest.md), or other distributions. HPR can be applied to a variety of financial instruments such as [stocks](../s/stock.md), bonds, mutual funds, and [real estate](../r/real_estate.md) investments. 
+The [Holding Period](../h/holding_period.md) [Return](../r/return.md) (HPR) is a measure of the [total return](../t/total_return.md) earned on an investment over the period for which the investment is held. This method of calculating returns is particularly useful in [finance](../f/finance.md) and [investment management](../i/investment_management.md), as it provides investors with a percentage [rate of return](../r/rate_of_return.md) relative to their investment's initial and final [value](../v/value.md), inclusive of [income](../i/income.md) received from dividends, [interest](../i/interest.md), or other distributions. HPR can be applied to a variety of financial instruments such as [stocks](../s/stock.md), bonds, mutual funds, and [real estate](../r/real_estate.md) investments.
 
 ### Calculation of HPR
 
-The formula to calculate [Holding Period](../h/holding_period.md) [Return](../r/return.md) is relatively straightforward and can be expressed as: 
+The formula to calculate [Holding Period](../h/holding_period.md) [Return](../r/return.md) is relatively straightforward and can be expressed as:
 
 \[ HPR = \frac{(End\: Value \: of \: Investment + Dividends \: or \: [Interest](../i/interest.md) \: Received - Initial \: [Value](../v/value.md) \: of \: Investment)}{Initial \: [Value](../v/value.md) \: of \: Investment} \]
 
@@ -31,7 +31,7 @@ Therefore, the [Holding Period](../h/holding_period.md) [Return](../r/return.md)
 
 ### Importance in Algo Trading
 
-In [algorithmic trading](../a/algorithmic_trading.md), [holding period](../h/holding_period.md) returns are integral in assessing the performance of [trading strategies](../t/trading_strategies.md). By evaluating HPR, traders can backtest strategies to determine their historical profitability, thereby fine-tuning algorithms for better future performance. 
+In [algorithmic trading](../a/algorithmic_trading.md), [holding period](../h/holding_period.md) returns are integral in assessing the performance of [trading strategies](../t/trading_strategies.md). By evaluating HPR, traders can backtest strategies to determine their historical profitability, thereby fine-tuning algorithms for better future performance.
 
 ### Risk Analysis and Comparative Performance
 
@@ -49,9 +49,9 @@ Where \( n \) is the number of years the investment was held.
 
 Numerous financial firms and trading platforms use HPR as part of their analytics and reporting tools. For instance:
 
-- **Two Sigma Investments** (https://www.twosigma.com/): This quantitative [hedge fund](../h/hedge_fund.md) uses advanced analytics and algorithms to identify profitable trading opportunities. HPR is likely a key metric they analyze in their [trading strategies](../t/trading_strategies.md).
-- **Renaissance Technologies** (https://www.rentec.com/): Another leading [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including the analysis of HPR for performance evaluation.
-- **AQR [Capital](../c/capital.md) Management** (https://www.aqr.com/): This global [investment management](../i/investment_management.md) [firm](../f/firm.md) uses quantitative methods to invest and manage risks, incorporating HPR calculations in their strategy assessments.
+- **Two Sigma Investments** ( This quantitative [hedge fund](../h/hedge_fund.md) uses advanced analytics and algorithms to identify profitable trading opportunities. HPR is likely a key metric they analyze in their [trading strategies](../t/trading_strategies.md).
+- **Renaissance Technologies** ( Another leading [hedge fund](../h/hedge_fund.md) that employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, including the analysis of HPR for performance evaluation.
+- **AQR [Capital](../c/capital.md) Management** ( This global [investment management](../i/investment_management.md) [firm](../f/firm.md) uses quantitative methods to invest and manage risks, incorporating HPR calculations in their strategy assessments.
 
 ### Limitations of HPR
 

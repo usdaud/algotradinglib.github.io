@@ -1,12 +1,12 @@
 # Global Depositary Receipt (GDR)
 
-A Global [Depositary Receipt](../d/depositary_receipt.md) (GDR) is a [bank](../b/bank.md) certificate issued in more than one country for [shares](../s/shares.md) in a foreign company. These [shares](../s/shares.md) are held by a foreign branch of an international [bank](../b/bank.md). They are traded as domestic [shares](../s/shares.md) but are offered for [sale](../s/sale.md) globally through the various [bank](../b/bank.md) branches. GDRs are widely used to tap into the global [equity](../e/equity.md) markets by foreign issuers. 
+A Global [Depositary Receipt](../d/depositary_receipt.md) (GDR) is a [bank](../b/bank.md) certificate issued in more than one country for [shares](../s/shares.md) in a foreign company. These [shares](../s/shares.md) are held by a foreign branch of an international [bank](../b/bank.md). They are traded as domestic [shares](../s/shares.md) but are offered for [sale](../s/sale.md) globally through the various [bank](../b/bank.md) branches. GDRs are widely used to tap into the global [equity](../e/equity.md) markets by foreign issuers.
 
 ## Overview and Definition
 
 ### What is a Global Depositary Receipt?
 
-A Global [Depositary Receipt](../d/depositary_receipt.md) (GDR) serves as a [negotiable](../n/negotiable.md) instrument that represents [shares](../s/shares.md) in a foreign company, facilitating international [trade](../t/trade.md) in the company’s [shares](../s/shares.md). Essentially, GDRs allow investors to [hold](../h/hold.md) [shares](../s/shares.md) in foreign companies without the complications of cross-border and securities regulatory constraints. These instruments enable companies to raise [capital](../c/capital.md) from [multiple](../m/multiple.md) international markets through a single [security](../s/security.md). 
+A Global [Depositary Receipt](../d/depositary_receipt.md) (GDR) serves as a [negotiable](../n/negotiable.md) instrument that represents [shares](../s/shares.md) in a foreign company, facilitating international [trade](../t/trade.md) in the company’s [shares](../s/shares.md). Essentially, GDRs allow investors to [hold](../h/hold.md) [shares](../s/shares.md) in foreign companies without the complications of cross-border and securities regulatory constraints. These instruments enable companies to raise [capital](../c/capital.md) from [multiple](../m/multiple.md) international markets through a single [security](../s/security.md).
 
 ### How GDRs Work
 
@@ -77,9 +77,9 @@ The Singapore [Exchange](../e/exchange.md) offers a platform for trading GDRs, h
 
 Several major companies use GDRs to raise [capital](../c/capital.md) in international markets. Here are a few examples:
 
-- **Infosys**: An Indian [multinational corporation](../m/multinational_corporation.md) that provides [business](../b/business.md) consulting, information technology, and [outsourcing](../o/outsourcing.md) services ([Infosys](https://www.infosys.com)).
-- **Lukoil**: A Russian multinational energy [corporation](../c/corporation.md) ([Lukoil](https://www.lukoil.com)).
-- **Gazprom**: A large Russian energy company ([Gazprom](https://www.gazprom.com)).
+- **Infosys**: An Indian [multinational corporation](../m/multinational_corporation.md) that provides [business](../b/business.md) consulting, information technology, and [outsourcing](../o/outsourcing.md) services (Infosys).
+- **Lukoil**: A Russian multinational energy [corporation](../c/corporation.md) (Lukoil).
+- **Gazprom**: A large Russian energy company (Gazprom).
 
 These companies are able to tap into a wider pool of investment by issuing GDRs, benefiting from the increased [capital](../c/capital.md) and expanded [investor](../i/investor.md) base.
 

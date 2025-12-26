@@ -102,19 +102,18 @@ The Markets in Financial Instruments Directive II is a legislative framework ins
 
 ### BlackRock
 
-BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) a wide [range](../r/range.md) of investment products and services. [BlackRock Website](https://www.blackrock.com)
+BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) a wide [range](../r/range.md)
 
 ### Vanguard Group
 
-Vanguard is known for its extensive lineup of low-cost mutual funds and ETFs. [Vanguard Website](https://www.vanguard.com)
 
 ### Fidelity Investments
 
-Fidelity provides a variety of investment products and [wealth management](../w/wealth_management.md) services. [Fidelity Website](https://www.fidelity.com)
+Fidelity provides a variety of investment products and [wealth management](../w/wealth_management.md)
 
 ### Bridgewater Associates
 
-Bridgewater is a leading [hedge fund](../h/hedge_fund.md) specializing in [global macro](../g/global_macro.md) [investing](../i/investing.md). [Bridgewater Associates Website](https://www.bridgewater.com)
+Bridgewater is a leading [hedge fund](../h/hedge_fund.md) specializing in [global macro](../g/global_macro.md) [investing](../i/investing.md).
 
 ## Conclusion
 

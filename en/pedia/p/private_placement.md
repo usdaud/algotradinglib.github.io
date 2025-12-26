@@ -22,7 +22,7 @@ Different countries have varying regulations governing Private Placement of secu
 
 - **United States**: Governed under Regulation D of the [Securities Act of 1933](../s/securities_act_of_1933.md). This regulation exempts these placements from registration if certain conditions are met. Rule 506(b) and Rule 506(c) are the commonly used exemptions.
 - **[European Union](../e/european_union_(eu).md)**: Governed by the [Prospectus](../p/prospectus.md) Directive, which was replaced by the [Prospectus](../p/prospectus.md) Regulation in 2019. Companies can opt for private exemptions under certain thresholds.
-- **Asia**: Countries like India follow their own regulations set by SEBI (Securities and [Exchange](../e/exchange.md) Board of India). 
+- **Asia**: Countries like India follow their own regulations set by SEBI (Securities and [Exchange](../e/exchange.md) Board of India).
 
 ## Types of Securities Issued
 
@@ -80,4 +80,4 @@ Additionally, regulatory environments are constantly evolving. For instance, cha
 
 Private Placement serves as a crucial avenue for companies to raise the needed [capital](../c/capital.md) while enjoying greater flexibility and reduced regulatory requirements. Despite some inherent challenges, it remains a viable and mostly efficient method for targeted financial goals and strategic expansions. This approach increasingly complements other [financing](../f/financing.md) [options](../o/options.md) within the broader investment landscape.
 
-For more information on Private Placement and services in this realm, companies like [Goldman Sachs](https://www.goldmansachs.com/) can [offer](../o/offer.md) tailored advisory and [execution](../e/execution.md) services.
+For more information on Private Placement and services in this realm, companies like Goldman Sachs can [offer](../o/offer.md) tailored advisory and [execution](../e/execution.md) services.

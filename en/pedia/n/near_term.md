@@ -1,6 +1,6 @@
 # Near Term
 
-In [finance](../f/finance.md) and trading, the term "near term" refers to the short period in the immediate future. This timeframe is commonly used by investors, traders, and analysts to predict or describe events, trends, movements, and other factors influencing the prices of assets or [market](../m/market.md) behavior over the next few days, weeks, or possibly months. Here's a detailed overview of this concept, particularly focusing on its implications in trading, [financial markets](../f/financial_market.md), and [algorithmic trading](../a/accountability.md).
+In [finance](../f/finance.md) and trading, the term "near term" refers to the short period in the immediate future. This timeframe is commonly used by investors, traders, and analysts to predict or describe events, trends, movements, and other factors influencing the prices of assets or [market](../m/market.md) behavior over the next few days, weeks, or possibly months. Here's a detailed overview of this concept, particularly focusing on its implications in trading, [financial markets](../f/financial_market.md), and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Defining Near Term
 
@@ -48,7 +48,7 @@ Cryptocurrencies often react sharply to news. Anything from regulatory announcem
 
 ### Algorithmic Models
 
-[Algorithmic trading](../a/accountability.md) models, particularly High-Frequency Trading (HFT) algorithms, benefit greatly from exploiting near-term [market](../m/market.md) inefficiencies. These models often incorporate:
+[Algorithmic trading](../a/algorithmic_trading.md) models, particularly High-Frequency Trading (HFT) algorithms, benefit greatly from exploiting near-term [market](../m/market.md) inefficiencies. These models often incorporate:
 
 - **Real-time Data:** To react instantly to [market](../m/market.md) changes.
 - **[Predictive Analytics](../p/predictive_analytics.md):** To forecast near-term movements based on historical patterns and [machine learning](../m/machine_learning.md).
@@ -79,4 +79,4 @@ Near-term traders need to ensure sufficient [liquidity](../l/liquidity.md) to en
 
 The concept of the near term is pivotal in [finance](../f/finance.md) and trading, encompassing various strategies, [risk management techniques](../r/risk_management_techniques.md), and the use of advanced algorithms. It demands a detailed understanding of [market dynamics](../m/market_dynamics.md) and the ability to quickly process and react to incoming information. Due to its focus on immediate or short-term future, it contrasts with long-term investment perspectives, requiring a different skill set and approach.
 
-For more information on specific companies involved in near-term trading and technology solutions, you can visit [Jane Street](https://www.janestreet.com/) and [Two Sigma](https://www.twosigma.com/), both of which are renowned for their sophisticated [trading algorithms](../t/trading_algorithms.md) and [market](../m/market.md) strategies.
+For more information on specific companies involved in near-term trading and technology solutions, you can visit Jane Street and Two Sigma, both of which are renowned for their sophisticated [trading algorithms](../t/trading_algorithms.md) and [market](../m/market.md) strategies.

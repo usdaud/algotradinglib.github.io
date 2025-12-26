@@ -22,7 +22,7 @@ When creating an ascending channel, it is crucial that the upper and lower trend
 
 A reliable ascending channel should be tested by the price at least twice on both the upper and lower trendlines. Testing these trendlines [multiple](../m/multiple.md) times without breaking them confirms the credibility of the channel.
 
-### Volume 
+### Volume
 
 [Volume](../v/volume.md) should ideally increase when the price touches the lower [trendline](../t/trendline.md) (support) and should decrease when it touches the upper [trendline](../t/trendline.md) (resistance).
 
@@ -80,9 +80,9 @@ Ascending channels can be incorporated into automated [trading algorithms](../t/
 ### Tools and Platforms
 
 Several trading platforms [offer](../o/offer.md) tools to detect and [trade](../t/trade.md) ascending channels, such as:
-- [MetaTrader](https://www.metatrader4.com/)
-- [TradingView](https://www.tradingview.com/)
-- [NinjaTrader](https://ninjatrader.com/)
+- MetaTrader
+- TradingView
+- NinjaTrader
 
 ## Conclusion
 

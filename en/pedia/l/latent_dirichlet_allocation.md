@@ -20,12 +20,12 @@ LDA is an unsupervised [machine learning](../m/machine_learning.md) algorithm th
 LDA assumes the following generative process for each document in a corpus:
 1. **Choose the number of topics, K**: This is a user-defined parameter.
 2. **For each document \( d \) in the corpus \( D \)**:
-   1. **Sample a topic [distribution](../d/distribution.md) \( \theta_d \) from a Dirichlet [distribution](../d/distribution.md) with parameter \( \[alpha](../a/alpha.md) \)**.
-   2. **For each word \( w_{dn} \) in document \( d \)**:
-      1. **Choose a topic \( z_{dn} \) from the topic [distribution](../d/distribution.md) \( \theta_d \)**.
-      2. **Choose a word \( w_{dn} \) from the word [distribution](../d/distribution.md) \(\beta_{z_{dn}} \)** associated with topic \( z_{dn} \).
+ 1. **Sample a topic [distribution](../d/distribution.md) \( \theta_d \) from a Dirichlet [distribution](../d/distribution.md) with parameter \( \[alpha](../a/alpha.md) \)**.
+ 2. **For each word \( w_{dn} \) in document \( d \)**:
+ 1. **Choose a topic \( z_{dn} \) from the topic [distribution](../d/distribution.md) \( \theta_d \)**.
+ 2. **Choose a word \( w_{dn} \) from the word [distribution](../d/distribution.md) \(\beta_{z_{dn}} \)** associated with topic \( z_{dn} \).
 
-The Dirichlet distributions help ensure that each document exhibits [multiple](../m/multiple.md) topics with varying proportions. 
+The Dirichlet distributions help ensure that each document exhibits [multiple](../m/multiple.md) topics with varying proportions.
 
 ## Applying LDA to Financial Data
 
@@ -74,19 +74,14 @@ Beyond company-specific data, LDA can analyze macro-economic reports, central [b
 ### Tools and Libraries
 
 1. **Gensim**: A Python library for topic modeling, document [indexing](../i/indexing.md), and similarity retrieval with large corpora.
-   - Website: [Gensim](https://radimrehurek.com/gensim/)
-   
+
 2. **Scikit-learn**: A [machine learning](../m/machine_learning.md) library in Python that includes an implementation of LDA.
-   - Website: [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
-   
+
 3. **SpaCy**: An [open](../o/open.md)-source software library for advanced [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) in Python, useful for preprocessing text.
-   - Website: [SpaCy](https://spacy.io/)
-   
+
 4. **NLTK**: The Natural Language Toolkit, a suite of libraries and programs for symbolic and statistical [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) for English.
-   - Website: [NLTK](https://www.nltk.org/)
-   
+
 5. **PyLDAvis**: A Python library for visualizing LDA model results in an interactive manner.
-   - Website: [PyLDAvis](https://pyldavis.readthedocs.io/en/latest/)
 
 ### Sample Code
 

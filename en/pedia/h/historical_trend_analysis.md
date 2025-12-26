@@ -13,8 +13,7 @@ The first step in historical [trend analysis](../t/trend_analysis.md) is the col
 - **Financial Reports:** [Earnings](../e/earnings.md) reports, balance sheets, and other [financial statements](../f/financial_statements.md).
 - **News and Events:** Information on historical events that could have impacted [market](../m/market.md) movements, such as economic reports, [geopolitical events](../g/geopolitical_events.md), and corporate announcements.
 
-Sources of such data can [range](../r/range.md) from public financial reports to specialized data vendors like [Bloomberg](../b/bloomberg.md) ([Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)) and Thomson [Reuters](../r/reuters.md). 
-
+Sources of such data can [range](../r/range.md) from public financial reports to specialized data vendors like [Bloomberg](../b/bloomberg.md) (Bloomberg Terminal) and Thomson [Reuters](../r/reuters.md).
 ### Data Cleaning and Preprocessing
 
 Before analysis, historical data must be cleaned and preprocessed to ensure accuracy and consistency. This involves:
@@ -28,9 +27,9 @@ Before analysis, historical data must be cleaned and preprocessed to ensure accu
 Once the data is prepared, the next step is to identify trends. Common methods include:
 
 - **Moving Averages:** Calculating the average price of a [security](../s/security.md) over a specific number of periods to smooth out short-term fluctuations.
-  - **Simple Moving Average (SMA):** The average price over a specific number of periods.
-  - **Exponential Moving Average (EMA):** A [weighted average](../w/weighted_average.md) that gives more importance to recent prices.
-  
+ - **Simple Moving Average (SMA):** The average price over a specific number of periods.
+ - **Exponential Moving Average (EMA):** A [weighted average](../w/weighted_average.md) that gives more importance to recent prices.
+
 - **[Trend](../t/trend.md) Lines:** Drawing lines on a chart to connect a series of prices that show a continuing [trend](../t/trend.md).
 
 - **[Technical Indicators](../t/technical_indicators.md):** Using mathematical formulas to analyze price data, such as the [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), Moving Average Convergence [Divergence](../d/divergence.md) (MACD), and [Bollinger Bands](../b/bollinger_bands.md).

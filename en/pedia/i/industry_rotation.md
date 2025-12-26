@@ -32,7 +32,7 @@ To implement an [industry](../i/industry.md) rotation strategy, investors need t
 
 ### 1. Market and Economic Analysis
 
-**Macroeconomic Indicators:** 
+**Macroeconomic Indicators:**
 Investors need to keep a close eye on [economic indicators](../e/economic_indicators.md) such as GDP [growth rates](../g/growth_rates_in_trading.md), [unemployment](../u/unemployment.md) data, [inflation](../i/inflation.md) rates, and [interest](../i/interest.md) rates. These indicators provide insights into the overall economic health and help predict which phase of the [economic cycle](../e/economic_cycle.md) is approaching.
 
 **[Business Cycle](../b/business_cycle.md) Theories:**
@@ -78,19 +78,19 @@ Several tools and platforms can aid investors in executing an [industry](../i/in
 
 ### Bloomberg Terminal
 
-[Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) is a widely used platform for financial data and analytics. It offers extensive tools for analyzing [economic indicators](../e/economic_indicators.md), [sector performance](../s/sector_performance.md), and [market](../m/market.md) trends.
+Bloomberg Terminal is a widely used platform for financial data and analytics. It offers extensive tools for analyzing [economic indicators](../e/economic_indicators.md), [sector performance](../s/sector_performance.md), and [market](../m/market.md) trends.
 
 ### Reuters Eikon
 
-[Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) provides comprehensive [market](../m/market.md) data, news, and analytics. It’s an invaluable tool for conducting macroeconomic and sector-specific analyses.
+Reuters Eikon provides comprehensive [market](../m/market.md) data, news, and analytics. It’s an invaluable tool for conducting macroeconomic and sector-specific analyses.
 
 ### Morningstar Direct
 
-[Morningstar Direct](https://www.morningstar.com/products/direct) offers in-depth data on mutual funds, [stocks](../s/stock.md), and sectors. It provides [performance analytics](../p/performance_analytics.md) and reporting tools essential for identifying sector trends and reallocating assets.
+Morningstar Direct offers in-depth data on mutual funds, [stocks](../s/stock.md), and sectors. It provides [performance analytics](../p/performance_analytics.md) and reporting tools essential for identifying sector trends and reallocating assets.
 
 ### Seeking Alpha
 
-[Seeking Alpha](https://seekingalpha.com/) is a platform that provides investment research and crowd-sourced content. It can be used to gather insights and forecasts about various sectors from a wide community of investors and analysts.
+Seeking Alpha is a platform that provides investment research and crowd-sourced content. It can be used to gather insights and forecasts about various sectors from a wide community of investors and analysts.
 
 ## Case Study: Industry Rotation during the COVID-19 Pandemic
 

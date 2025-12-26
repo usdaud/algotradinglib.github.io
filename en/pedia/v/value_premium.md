@@ -40,7 +40,7 @@ One perspective grounded in traditional [finance](../f/finance.md) theory sugges
 
 ### Factor Investing
 
-[Factor investing](../f/factor_investing.md) strategies involve isolating the [value factor](../v/value_factor.md) within a [multi-factor model](../m/multi-factor_model.md), typically alongside other factors such as [momentum](../m/momentum.md), size, and quality. Institutions like [BlackRock](https://www.blackrock.com/us/individual/strategies/factor-investing) [offer](../o/offer.md) products that [leverage](../l/leverage.md) [factor](../f/factor.md)-based strategies.
+[Factor investing](../f/factor_investing.md) strategies involve isolating the [value factor](../v/value_factor.md) within a [multi-factor model](../m/multi-factor_model.md), typically alongside other factors such as [momentum](../m/momentum.md), size, and quality. Institutions like BlackRock [offer](../o/offer.md) products that [leverage](../l/leverage.md) [factor](../f/factor.md)-based strategies.
 
 ### Machine Learning Models
 
@@ -48,7 +48,7 @@ One perspective grounded in traditional [finance](../f/finance.md) theory sugges
 
 ### High-Frequency Trading (HFT)
 
-While more traditionally associated with [arbitrage](../a/arbitrage.md) and [momentum](../m/momentum.md) strategies, some HFT platforms (e.g., [Jump Trading](https://www.jumptrading.com/)) might deploy algorithms that anticipate price discrepancies in [value](../v/value.md) [stocks](../s/stock.md), allowing for opportunistic trades at very short time intervals.
+While more traditionally associated with [arbitrage](../a/arbitrage.md) and [momentum](../m/momentum.md) strategies, some HFT platforms (e.g., Jump Trading) might deploy algorithms that anticipate price discrepancies in [value](../v/value.md) [stocks](../s/stock.md), allowing for opportunistic trades at very short time intervals.
 
 ## Practical Implementation in Algorithmic Trading
 

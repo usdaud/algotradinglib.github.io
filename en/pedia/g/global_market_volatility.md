@@ -82,23 +82,23 @@ Some traders employ strategies that specifically target [volatility](../v/volati
 
 ### 1. BlackRock
 
-BlackRock (https://www.blackrock.com) is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) known for its expertise in navigating [market](../m/market.md) [volatility](../v/volatility.md) and [offering](../o/offering.md) a [range](../r/range.md) of investment solutions.
+BlackRock ( is a global [investment management](../i/investment_management.md) [corporation](../c/corporation.md) known for its expertise in navigating [market](../m/market.md) [volatility](../v/volatility.md) and [offering](../o/offering.md) a [range](../r/range.md) of investment solutions.
 
 ### 2. JPMorgan Chase
 
-JPMorgan Chase (https://www.jpmorganchase.com) provides extensive research and analysis on global [market](../m/market.md) trends and [volatility](../v/volatility.md).
+JPMorgan Chase ( provides extensive research and analysis on global [market](../m/market.md) trends and [volatility](../v/volatility.md).
 
 ### 3. Goldman Sachs
 
-Goldman Sachs (https://www.goldmansachs.com) offers insights into [market](../m/market.md) [volatility](../v/volatility.md) through its research reports and investment advisory services.
+Goldman Sachs ( offers insights into [market](../m/market.md) [volatility](../v/volatility.md) through its research reports and investment advisory services.
 
 ### 4. CBOE Global Markets
 
-CBOE Global Markets (https://www.cboe.com) is the creator of the VIX [Index](../i/index_instrument.md) and offers various [volatility](../v/volatility.md)-related financial products.
+CBOE Global Markets ( is the creator of the VIX [Index](../i/index_instrument.md) and offers various [volatility](../v/volatility.md)-related financial products.
 
 ### 5. Bloomberg
 
-[Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) provides comprehensive data, news, and analysis on global [market](../m/market.md) [volatility](../v/volatility.md).
+[Bloomberg](../b/bloomberg.md) ( provides comprehensive data, news, and analysis on global [market](../m/market.md) [volatility](../v/volatility.md).
 
 ## Conclusion
 

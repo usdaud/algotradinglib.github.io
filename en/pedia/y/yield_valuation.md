@@ -93,7 +93,7 @@ Various tools and platforms assist traders in [yield](../y/yield.md) [valuation]
 
 - **[Bloomberg](../b/bloomberg.md) Terminal**: Offers comprehensive data and analytics for [yield analysis](../y/yield_analysis.md).
 - **Thomson [Reuters](../r/reuters.md) Eikon**: Another major platform providing [yield](../y/yield.md) data and [financial analysis](../f/financial_analysis.md) tools.
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [trading platform](../t/trading_platform.md) where [algorithmic trading](../a/algorithmic_trading.md) strategies, including [yield analysis](../y/yield_analysis.md), can be tested and deployed.
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [trading platform](../t/trading_platform.md) where [algorithmic trading](../a/algorithmic_trading.md) strategies, including [yield analysis](../y/yield_analysis.md), can be tested and deployed.
 
 ### 7. Real-World Examples
 
@@ -101,13 +101,13 @@ Various tools and platforms assist traders in [yield](../y/yield.md) [valuation]
 
 BlackRock, an [investment management](../i/investment_management.md) [corporation](../c/corporation.md), utilizes advanced [algorithmic trading](../a/algorithmic_trading.md) strategies that incorporate [yield](../y/yield.md) [valuation](../v/valuation.md). Their systematic active [equity](../e/equity.md) strategies use [quantitative models](../q/quantitative_models.md) to inform trading decisions.
 
-**Source**: [BlackRock Aladdin](https://www.blackrock.com/aladdin/) platform.
+**Source**: BlackRock Aladdin platform.
 
 #### 7.2. Renaissance Technologies
 
 Renaissance Technologies is a quantitative [hedge fund](../h/hedge_fund.md) that employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to exploit [market](../m/market.md) inefficiencies, including those based on [yield](../y/yield.md) discrepancies.
 
-**Source**: [Renaissance Technologies LLC](https://www.rentec.com/)
+**Source**: Renaissance Technologies LLC
 
 ### Conclusion
 

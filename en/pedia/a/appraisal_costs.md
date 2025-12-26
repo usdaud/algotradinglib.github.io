@@ -17,21 +17,21 @@
 [Appraisal](../a/appraisal.md) costs can be divided into several subcategories based on the nature of the activities they encompass:
 
 1. **Inspection and Testing**:
-   - **Incoming Material Inspection**: Examination of [raw materials](../r/raw_materials.md) and components before they are used in production.
-   - **In-Process Inspection and Testing**: Ongoing checks and tests during different stages of the production process to ensure intermediate products meet quality standards.
-   - **Final Product Inspection and Testing**: Evaluation and testing of finished products before they are packaged and shipped to customers.
+ - **Incoming Material Inspection**: Examination of [raw materials](../r/raw_materials.md) and components before they are used in production.
+ - **In-Process Inspection and Testing**: Ongoing checks and tests during different stages of the production process to ensure intermediate products meet quality standards.
+ - **Final Product Inspection and Testing**: Evaluation and testing of finished products before they are packaged and shipped to customers.
 
 2. **Quality Audits**:
-   - **Internal Audits**: Regular assessments conducted by the company's own quality [assurance](../a/assurance.md) team to ensure adherence to quality procedures and standards.
-   - **External Audits**: Reviews by independent auditors or third-party organizations to verify compliance with [industry](../i/industry.md) standards and regulations.
+ - **Internal Audits**: Regular assessments conducted by the company's own quality [assurance](../a/assurance.md) team to ensure adherence to quality procedures and standards.
+ - **External Audits**: Reviews by independent auditors or third-party organizations to verify compliance with [industry](../i/industry.md) standards and regulations.
 
 3. **Field Testing**:
-   - **Reliability Testing**: Assessing the durability and performance of products under different conditions to ensure they meet expected lifecycle requirements.
-   - **[Customer](../c/customer.md) Site Inspection**: On-site evaluations at customers' locations to verify the performance and quality of installed products or systems.
+ - **Reliability Testing**: Assessing the durability and performance of products under different conditions to ensure they meet expected lifecycle requirements.
+ - **[Customer](../c/customer.md) Site Inspection**: On-site evaluations at customers' locations to verify the performance and quality of installed products or systems.
 
 4. **Calibration and Measurement**:
-   - **Calibration of Equipment**: Regular calibration of testing and measurement equipment to ensure accurate readings and consistency in quality checks.
-   - **Maintenance of Measurement Instruments**: Routine servicing and upkeep of tools and instruments used in the inspection and testing processes.
+ - **Calibration of Equipment**: Regular calibration of testing and measurement equipment to ensure accurate readings and consistency in quality checks.
+ - **Maintenance of Measurement Instruments**: Routine servicing and upkeep of tools and instruments used in the inspection and testing processes.
 
 ## Importance of Appraisal Costs
 
@@ -44,13 +44,13 @@
 ## Examples of Appraisal Costs
 
 1. **Automotive [Industry](../i/industry.md)**:
-   - Car manufacturers invest in rigorous inspection and testing processes, including crash tests, emissions testing, and [quality control](../q/quality_control.md) checks at various production stages to ensure vehicle safety and compliance with regulations.
+ - Car manufacturers invest in rigorous inspection and testing processes, including crash tests, emissions testing, and [quality control](../q/quality_control.md) checks at various production stages to ensure vehicle safety and compliance with regulations.
 
 2. **Electronics [Industry](../i/industry.md)**:
-   - Companies like Apple and Samsung conduct extensive testing of their devices for functionality, durability, and user safety before launching them in the [market](../m/market.md). These tests include software tests, drop tests, and environmental tests.
+ - Companies like Apple and Samsung conduct extensive testing of their devices for functionality, durability, and user safety before launching them in the [market](../m/market.md). These tests include software tests, drop tests, and environmental tests.
 
 3. **Pharmaceutical [Industry](../i/industry.md)**:
-   - Drug manufacturers perform comprehensive testing of [raw materials](../r/raw_materials.md), in-process materials, and finished products to ensure they meet safety and efficacy standards imposed by regulatory bodies like the FDA.
+ - Drug manufacturers perform comprehensive testing of [raw materials](../r/raw_materials.md), in-process materials, and finished products to ensure they meet safety and efficacy standards imposed by regulatory bodies like the FDA.
 
 ## Optimizing Appraisal Costs
 

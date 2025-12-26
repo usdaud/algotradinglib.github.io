@@ -55,15 +55,15 @@ Passive [portfolio management](../p/par.md), also known as [index investing](../
 Portfolio managers use quantitative techniques to model investment performance and identify optimal strategies.
 
 - **Statistical Models**: Employing models such as [regression analysis](../r/regression_analysis.md) and Monte Carlo simulations.
-- **[Algorithmic Trading](../a/accountability.md)**: Using algorithms and [automated trading systems](../a/automated_trading_systems.md) to execute trades at optimal times.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: Using algorithms and [automated trading systems](../a/automated_trading_systems.md) to execute trades at optimal times.
 - **[Backtesting](../b/backtesting.md)**: Testing investment strategies using historical data to evaluate their potential performance.
 
 ### Software and Platforms
 Modern portfolio managers use specialized software and platforms to manage investments effectively.
 
-- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive tool for financial data, news, and analysis. [Website](https://www.bloomberg.com/professional/)
-- **[Morningstar](../m/morningstar.md) Direct**: Software for investment research and [portfolio analysis](../p/portfolio_analysis.md). [Website](https://www.morningstar.com/products/direct)
-- **[FactSet](../f/factset.md)**: Financial data and software solutions for [market](../m/market.md) analysis. [Website](https://www.factset.com/)
+- **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: A comprehensive tool for financial data, news,
+- **[Morningstar](../m/morningstar.md) Direct**: Software for investment research and [portfolio analysis](../p/portfolio_analysis.md). online platform
+- **[FactSet](../f/factset.md)**: Financial data and software solutions for [market](../m/market.md)
 
 ## Educational Background and Certifications
 
@@ -76,8 +76,8 @@ Most portfolio managers have a strong academic background in [finance](../f/fina
 ### Professional Certifications
 Certifications can enhance a portfolio manager's credibility and expertise.
 
-- **Chartered Financial Analyst (CFA)**: A globally recognized certification focusing on [investment analysis](../i/investment_analysis.md) and [portfolio management](../p/par.md). [CFA Institute](https://www.cfainstitute.org/)
-- **Certified [Financial Planner](../f/financial_planner.md) (CFP)**: Certification for [financial planning](../f/financial_planning.md) and [wealth management](../w/wealth_management.md) professionals. [CFP Board](https://www.cfp.net/)
+- **Chartered Financial Analyst (CFA)**: A globally recognized certification focusing on [investment analysis](../i/investment_analysis.md) and [portfolio management](../p/par.md). CFA Institute
+- **Certified [Financial Planner](../f/financial_planner.md) (CFP)**: Certification for [financial planning](../f/financial_planning.md) and [wealth management](../w/wealth_management.md) professionals. CFP Board
 
 ## Career Path and Opportunities
 

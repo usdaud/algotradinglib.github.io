@@ -11,13 +11,13 @@
 Several agencies specialize in providing [bond](../b/bond.md) ratings, with the most prominent being:
 
 1. **Standard & Poor's (S&P)**
-    - [S&P Global Ratings](https://www.spglobal.com/ratings/en/)
-   
+ - S&P Global Ratings
+
 2. **Moody's Investors Service**
-    - [Moody's](https://www.moodys.com/)
-    
+ - Moody's
+
 3. **[Fitch Ratings](../f/fitch_ratings.md)**
-    - [Fitch Ratings](https://www.fitchratings.com/)
+ - Fitch Ratings
 
 These agencies have developed standardized scales for [rating](../r/rating.md) bonds, which are widely recognized and used by [market](../m/market.md) participants.
 

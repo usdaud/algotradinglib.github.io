@@ -53,5 +53,3 @@ Although less stringent than national exchanges, the compliance and reporting re
 ## Conclusion
 
 The OTCQB serves as a significant platform for early-stage and developing companies to [gain](../g/gain.md) traction in the public markets. With its balance of accessibility and regulatory oversight, it offers a credible midway point between the more unregulated OTC markets and the stringent national exchanges. Companies [listed](../l/listed.md) on the OTCQB benefit from increased [visibility](../v/visibility.md), access to [capital](../c/capital.md), and a more approachable compliance framework. However, they must also navigate challenges such as [market](../m/market.md) perception and [volatility](../v/volatility.md). Overall, the OTCQB can be a vital step for companies on their journey toward growth and potential uplisting to higher-tier exchanges.
-
-To learn more about the OTC Markets Group and the OTCQB, you can visit their official website [here](https://www.otcmarkets.com/).

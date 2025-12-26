@@ -24,12 +24,12 @@ Consider an [underlying asset](../u/underlying_asset.md) with two strike prices 
 ### Structure of a Box Spread:
 
 1. **[Bull Call Spread](../b/bull_call_spread.md):**
-    - Buy Call \(K_1\)
-    - Sell Call \(K_2\)
+ - Buy Call \(K_1\)
+ - Sell Call \(K_2\)
 
 2. **[Bear Put Spread](../b/bear_put_spread.md):**
-    - Buy Put \(K_2\)
-    - Sell Put \(K_1\)
+ - Buy Put \(K_2\)
+ - Sell Put \(K_1\)
 
 The [profit](../p/profit.md)/loss from a Box Spread can be understood with the following [payout](../p/payout.md) diagram at [maturity](../m/maturity.md) \( T \):
 
@@ -42,12 +42,12 @@ A well-constructed Box Spread should [yield](../y/yield.md) this [profit](../p/p
 Suppose we have a stock trading at $50 per share. The [trader](../t/trader.md) constructs a Box Spread using two strike prices, $45 and $55, with the following trades:
 
 1. **[Bull Call Spread](../b/bull_call_spread.md):**
-    - Buy Call @ $45
-    - Sell Call @ $55
+ - Buy Call @ $45
+ - Sell Call @ $55
 
 2. **[Bear Put Spread](../b/bear_put_spread.md):**
-    - Buy Put @ $55
-    - Sell Put @ $45
+ - Buy Put @ $55
+ - Sell Put @ $45
 
 ### Cost of the Box Spread:
 
@@ -91,7 +91,7 @@ In theory, Box [Spreads](../s/spreads.md) present a unique [arbitrage](../a/arbi
 
 ### Real-World Application:
 
-Institutional investors and [hedge](../h/hedge.md) funds often deploy these sophisticated algorithms. For example, firms like [Citadel Securities](https://www.citadelsecurities.com/) and [Jane Street](https://www.janestreet.com/) are renowned for their prowess in high-frequency [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md) trading, including strategies like Box [Spreads](../s/spreads.md).
+Institutional investors and [hedge](../h/hedge.md) funds often deploy these sophisticated algorithms. For example, firms like Citadel Securities and Jane Street are renowned for their prowess in high-frequency [market](../m/market.md)-making and [arbitrage](../a/arbitrage.md) trading, including strategies like Box [Spreads](../s/spreads.md).
 
 ## Risks and Limitations
 

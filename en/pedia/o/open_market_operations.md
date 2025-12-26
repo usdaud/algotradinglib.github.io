@@ -75,7 +75,7 @@ QE involves the large-scale purchase of longer-term securities to lower long-ter
 The advancement of financial technology (fintech) has had a considerable impact on the conduct and [efficiency](../e/efficiency.md) of OMOs. Technological improvements have enhanced the speed, accuracy, and [transparency](../t/transparency.md) of these operations.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md). In the context of OMOs, [algorithmic trading](../a/accountability.md) can facilitate rapid and efficient [execution](../e/execution.md) of large-scale transactions, reducing [market](../m/market.md) disruption and ensuring better pricing.
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute [trading strategies](../t/trading_strategies.md). In the context of OMOs, [algorithmic trading](../a/algorithmic_trading.md) can facilitate rapid and efficient [execution](../e/execution.md) of large-scale transactions, reducing [market](../m/market.md) disruption and ensuring better pricing.
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) technology offers potential benefits for OMOs by providing a secure and transparent ledger of transactions. This can enhance the traceability and accountability of central [bank](../b/bank.md) operations, reducing risks and improving public [trust](../t/trust.md).

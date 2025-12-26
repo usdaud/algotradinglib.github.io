@@ -141,13 +141,13 @@ Advanced [technical indicators](../t/technical_indicators.md) can aid in [portfo
 ## Real-World Implementations
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform known for integrating various [technical indicators](../t/technical_indicators.md) into their [algorithmic trading](../a/algorithmic_trading.md) framework. Traders can implement and backtest their strategies using a wide [range](../r/range.md) of built-in [technical indicators](../t/technical_indicators.md). Visit [QuantConnect](../q/quantconnect.md) [here](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a [quantitative trading](../q/quantitative_trading.md) platform known for integrating various [technical indicators](../t/technical_indicators.md) into their [algorithmic trading](../a/algorithmic_trading.md) framework. Traders can implement and backtest their strategies using a wide [range](../r/range.md) of built-in [technical indicators](../t/technical_indicators.md). Visit [QuantConnect](../q/quantconnect.md) here.
 
 ### MetaTrader
-MetaTrader 4 and MetaTrader 5 are popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md). They feature numerous built-in [technical indicators](../t/technical_indicators.md) and provide capabilities to develop custom indicators and trading bots using the MQL4 and MQL5 languages. Visit MetaTrader [here](https://www.metatrader4.com/) and [here](https://www.metatrader5.com/).
+MetaTrader 4 and MetaTrader 5 are popular trading platforms that support [algorithmic trading](../a/algorithmic_trading.md). They feature numerous built-in [technical indicators](../t/technical_indicators.md) and provide capabilities to develop custom indicators and trading bots using the MQL4 and MQL5 languages. Visit MetaTrader here and here.
 
 ### TradingView
-[TradingView](../t/tradingview.md) is another powerful platform that integrates [technical indicators](../t/technical_indicators.md) with [social networking](../s/social_networking.md) features, allowing traders to share ideas and strategies. The platform supports custom scripting through Pine Script, enabling advanced [algorithmic trading](../a/algorithmic_trading.md). Visit [TradingView](../t/tradingview.md) [here](https://www.tradingview.com/).
+[TradingView](../t/tradingview.md) is another powerful platform that integrates [technical indicators](../t/technical_indicators.md) with [social networking](../s/social_networking.md) features, allowing traders to share ideas and strategies. The platform supports custom scripting through Pine Script, enabling advanced [algorithmic trading](../a/algorithmic_trading.md). Visit [TradingView](../t/tradingview.md) here.
 
 ## Conclusion
 

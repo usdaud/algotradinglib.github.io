@@ -90,17 +90,17 @@ R is another preferred programming language for statistical analysis and visuali
 
 ### Hedge Funds
 
-Firms like Renaissance Technologies and D.E. Shaw & Co. are renowned for their use of quantitative techniques. Their success has inspired many others to adopt similar approaches. 
+Firms like Renaissance Technologies and D.E. Shaw & Co. are renowned for their use of quantitative techniques. Their success has inspired many others to adopt similar approaches.
 
-- [Renaissance Technologies](https://www.rentec.com)
-- [D. E. Shaw & Co.](https://www.deshaw.com)
+- Renaissance Technologies
+- D. E. Shaw & Co.
 
 ### Proprietary Trading Firms
 
-[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street and Citadel Securities [leverage](../l/leverage.md) [quantitative models](../q/quantitative_models.md) to execute rapid trades and maintain [market efficiency](../m/market_efficiency.md). 
+[Proprietary trading](../p/proprietary_trading.md) firms like Jane Street and Citadel Securities [leverage](../l/leverage.md) [quantitative models](../q/quantitative_models.md) to execute rapid trades and maintain [market efficiency](../m/market_efficiency.md).
 
-- [Jane Street](https://www.janestreet.com)
-- [Citadel Securities](https://www.citadelsecurities.com)
+- Jane Street
+- Citadel Securities
 
 ### Asset Management
 
@@ -124,4 +124,4 @@ The growth of [big data](../b/big_data_in_trading.md) [will](../w/will.md) provi
 
 Stricter regulations may impact data usage and [algorithmic trading](../a/algorithmic_trading.md) practices, requiring continual adaptation from firms.
 
-In conclusion, quantitative investment techniques represent the fusion of [finance](../f/finance.md), mathematics, and technology. They [offer](../o/offer.md) powerful tools for generating [alpha](../a/alpha.md), managing [risk](../r/risk.md), and enhancing [portfolio performance](../p/portfolio_performance.md). As data availability and computational power continue to grow, the [scope](../s/scope.md) and impact of these techniques [will](../w/will.md) only expand. 
+In conclusion, quantitative investment techniques represent the fusion of [finance](../f/finance.md), mathematics, and technology. They [offer](../o/offer.md) powerful tools for generating [alpha](../a/alpha.md), managing [risk](../r/risk.md), and enhancing [portfolio performance](../p/portfolio_performance.md). As data availability and computational power continue to grow, the [scope](../s/scope.md) and impact of these techniques [will](../w/will.md) only expand.

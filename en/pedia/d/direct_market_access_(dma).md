@@ -22,13 +22,13 @@ Direct interaction with [exchange](../e/exchange.md) [order](../o/order.md) book
 ## Key Players in DMA Technology
 
 ### Fidessa
-Fidessa offers a comprehensive suite of tools and services that facilitate Direct [Market](../m/market.md) Access. Their [trading platform](../t/trading_platform.md) provides solutions for [market](../m/market.md) data, [algorithmic trading](../a/accountability.md), and routing, among other functionalities. More info can be found on their [official website](https://www.fidessa.com).
+Fidessa offers a comprehensive suite of tools and services that facilitate Direct [Market](../m/market.md) Access. Their [trading platform](../t/trading_platform.md) provides solutions for [market](../m/market.md) data, [algorithmic trading](../a/accountability.md), and routing,
 
 ### TradingScreen
-TradingScreen brings a cloud-based DMA solution that supports [multi-asset class](../m/multi-asset_class.md) trading. Their platform provides [robust](../r/robust.md) [risk management](../r/risk_management.md) tools, [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md), and real-time analytics. More details are available on their [website](https://www.tradingscreen.com).
+TradingScreen brings a cloud-based DMA solution that supports [multi-asset class](../m/multi-asset_class.md) trading. Their platform provides [robust](../r/robust.md) [risk management](../r/risk_management.md) tools, [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md), and real-time analytics. More
 
 ### FlexTrade
-FlexTrade is another notable provider that specializes in multi-[asset](../a/asset.md) [execution](../e/execution.md) and [order management systems](../o/order_management_systems.md). Their DMA solutions are designed to enhance the [efficiency](../e/efficiency.md) and effectiveness of trading operations. Visit their [official page](https://www.flextrade.com) for further insights.
+FlexTrade is another notable provider that specializes in multi-[asset](../a/asset.md) [execution](../e/execution.md) and [order management systems](../o/order_management_systems.md). Their DMA solutions are designed to enhance the [efficiency](../e/efficiency.md) and effectiveness of trading operations.
 
 ## Types of DMA
 

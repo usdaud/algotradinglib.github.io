@@ -27,24 +27,21 @@ Commodities are traded on specialized markets and exchanges. Some of the most no
 ### Chicago Mercantile Exchange (CME)
 The CME is one of the largest commodities exchanges in the world. It facilitates trading in various commodities such as livestock, grains, and dairy products.
 
-[Chicago Mercantile Exchange](https://www.cmegroup.com/)
 
 ### New York Mercantile Exchange (NYMEX)
 NYMEX, a part of CME Group, is a [commodity futures](../c/commodity_futures.md) [exchange](../e/exchange.md) where energy products like [crude oil](../c/crude_oil.md) and natural gas are traded.
 
-[New York Mercantile Exchange](https://www.cmegroup.com/company/nymex.html)
 
 ### London Metal Exchange (LME)
 The LME specializes in trading metals such as aluminum, copper, and zinc.
 
-[London Metal Exchange](https://www.lme.com/)
 
 ## Commodity Futures
 
 [Commodity futures](../c/commodity_futures.md) are standardized contracts to buy or sell a specific quantity of a commodity at a predetermined price at a specified date in the future. [Futures contracts](../f/futures_contracts.md) are crucial for commodity trading as they provide a mechanism for [price discovery](../p/price_discovery.md) and [risk management](../r/risk_management.md).
 
 ### Key Elements of Futures Contracts
-- **Contract Size**: Specifies the quantity of the commodity 
+- **Contract Size**: Specifies the quantity of the commodity
 - **[Expiration Date](../e/expiration_date.md)**: The date when the contract is settled
 - **Price**: The agreed-upon price for buying or selling the commodity
 
@@ -84,9 +81,7 @@ Technological innovations in extraction, production, or farming can lead to shif
 
 ### Notable Companies in Commodity Algo-Trading
 - **Two Sigma Investments**: Uses advanced [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md).
-  [Two Sigma Investments](https://www.twosigma.com/)
 - **DRW Trading Group**: Engages in [proprietary trading](../p/proprietary_trading.md) and utilizes algorithmic strategies across various [asset](../a/asset.md) classes.
-  [DRW Trading Group](https://drw.com/)
 
 ## Risks Associated with Commodity Trading
 

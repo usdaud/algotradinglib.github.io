@@ -34,13 +34,13 @@ While leveraged mutual funds [offer](../o/offer.md) the potential for enhanced r
 Several companies [offer](../o/offer.md) leveraged mutual funds aimed at different indexes and sectors. Here are a few prominent examples:
 
 1. **ProShares**: ProShares is one of the largest providers of [leveraged ETFs](../l/leveraged_etfs.md) and mutual funds. They [offer](../o/offer.md) a variety of leveraged products that track indices such as the S&P 500, [NASDAQ](../n/nasdaq.md), and Russell 2000.
-   - [ProShares](https://www.proshares.com/)
+ - ProShares
 2. **Direxion**: Direxion also provides a wide array of leveraged mutual funds aimed at various sectors and commodities. They [offer](../o/offer.md) both leveraged [bull](../b/bull.md) (long) and bear (short) funds.
-   - [Direxion](https://www.direxion.com/)
+ - Direxion
 3. **Rydex Funds**: Rydex, part of Guggenheim Investments, offers mutual funds with various [leverage ratios](../l/leverage_ratios.md), targeting different [asset](../a/asset.md) classes and strategies.
-   - [Guggenheim Investments](https://www.guggenheiminvestments.com/products/mutual-funds)
+ - Guggenheim Investments
 4. **Fidelity Leveraged [Index](../i/index_instrument.md) Funds**: Fidelity also offers a selection of leveraged [index](../i/index_instrument.md) funds for more advanced traders.
-   - [Fidelity](https://www.fidelity.com/)
+ - Fidelity
 
 ### Regulatory Environment
 

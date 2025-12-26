@@ -6,7 +6,7 @@ Grid search involves systematically working through [multiple](../m/multiple.md)
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to [trade](../t/trade.md) on [financial markets](../f/financial_market.md). The algorithms make decisions to buy or sell assets using various strategies, often based on complex [mathematical models](../m/mathematical_models_in_trading.md) and analysis. 
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to [trade](../t/trade.md) on [financial markets](../f/financial_market.md). The algorithms make decisions to buy or sell assets using various strategies, often based on complex [mathematical models](../m/mathematical_models_in_trading.md) and analysis.
 
 ## Parameters in Trading Strategies
 
@@ -51,7 +51,7 @@ Several libraries and frameworks can help implement grid search for trading:
 
 - **Python's `sklearn.model_selection.GridSearchCV`**: While primarily designed for [machine learning](../m/machine_learning.md), it can be adapted for use in [trading algorithms](../t/trading_algorithms.md).
 - **`bt` ([Backtesting](../b/backtesting.md) Library)**: A flexible Python library for [backtesting](../b/backtesting.md), with integration capabilities for parameter tuning.
-- **`[QuantConnect](../q/quantconnect.md)`**: [QuantConnect](../q/quantconnect.md) handles grid searches efficiently by distributing the workload across cloud servers. [QuantConnect](https://www.quantconnect.com/)
+- **`[QuantConnect](../q/quantconnect.md)`**: [QuantConnect](../q/quantconnect.md) handles grid searches efficiently by distributing the workload across cloud servers. QuantConnect
 
 ### 2. Example
 
@@ -132,7 +132,7 @@ With computational advancements, more sophisticated [optimization](../o/optimiza
 
 ### 2. Automated Trading Platforms
 
-Platforms like [QuantConnect](../q/quantconnect.md) are enabling traders to easily implement complex algorithms and distribute grid search tasks across [multiple](../m/multiple.md) CPUs, speeding up the [optimization](../o/optimization.md) process. [QuantConnect](https://www.quantconnect.com/)
+Platforms like [QuantConnect](../q/quantconnect.md) are enabling traders to easily implement complex algorithms and distribute grid search tasks across [multiple](../m/multiple.md) CPUs, speeding up the [optimization](../o/optimization.md) process. QuantConnect
 
 ### 3. Machine Learning Integration
 

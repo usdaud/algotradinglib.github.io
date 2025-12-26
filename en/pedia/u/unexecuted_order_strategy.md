@@ -40,19 +40,15 @@ Effectively managing [unexecuted orders](../u/unexecuted_orders.md) ensures that
 
 ### Iceberg Orders
 Iceberg orders are large orders divided into smaller, visible chunks. Only a small portion of the [order](../o/order.md) is visible on the [order book](../o/order_book.md) at any time, while the larger portion remains hidden. This strategy helps in reducing the impact on the [market](../m/market.md) and increases the likelihood of [execution](../e/execution.md).
-[Learn More](https://www.investopedia.com/terms/i/icebergorder.asp)
 
 ### Adaptive Order Types
 Adaptive [order types](../o/order_types_in_trading.md), such as [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP) and Time-[Weighted Average](../w/weighted_average.md) Price (TWAP), adjust the [order](../o/order.md) [execution](../e/execution.md) strategy based on the [market](../m/market.md) conditions. They aim to execute the [order](../o/order.md) progressively to minimize the [market](../m/market.md) impact and increase the [execution](../e/execution.md) probability.
-[Learn More](https://www.interactivebrokers.com/en/index.php?f=1468)
 
 ### Smart Order Routing (SOR)
 Smart [Order Routing](../o/order_routing.md) is a mechanism that dynamically routes orders to different trading venues based on factors like [liquidity](../l/liquidity.md), price, and [execution](../e/execution.md) speed. SOR helps in capturing the best possible price and increases the chances of [order](../o/order.md) fulfillment.
-[Learn More](https://www.ibkr.com/professional/features/technology)
 
 ### Contingent Orders
 Contingent orders are executed based on predefined conditions or events. These orders remain unexecuted until the specified conditions are met, such as reaching a certain [price level](../p/price_level.md) or fulfillment of another [order](../o/order.md).
-[Learn More](https://www.investopedia.com/terms/c/conditionalorder.asp)
 
 ### Cancel and Replace
 This strategy involves canceling [unexecuted orders](../u/unexecuted_orders.md) and replacing them with new ones based on the latest [market](../m/market.md) conditions. This increases the chances of [execution](../e/execution.md) by continuously adapting to real-time [market](../m/market.md) changes.

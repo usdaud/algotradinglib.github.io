@@ -1,10 +1,10 @@
 # Tit for Tat
 
-In the context of [finance](../f/finance.md) and trading, the concept of 'Tit for Tat' is drawn from [game theory](../g/game_theory.md), where it represents a strategy that generally advocates cooperation but retaliates if defection is observed. Initially introduced in the context of the iterated [prisoner's dilemma](../p/prisoner's_dilemma.md), this strategy can also be applied to various aspects of trading and [financial markets](../f/financial_market.md). 
+In the context of [finance](../f/finance.md) and trading, the concept of 'Tit for Tat' is drawn from [game theory](../g/game_theory.md), where it represents a strategy that generally advocates cooperation but retaliates if defection is observed. Initially introduced in the context of the iterated [prisoner's dilemma](../p/prisoner's_dilemma.md), this strategy can also be applied to various aspects of trading and [financial markets](../f/financial_market.md).
 
 ## Introduction to Tit for Tat
 
-The 'Tit for Tat' strategy is one of the simplest and most effective strategies in [game theory](../g/game_theory.md). It was popularized by Robert Axelrod's tournaments in the early 1980s. In these tournaments, different strategies competed in a series of iterated prisoner's dilemmas, a standard example in [game theory](../g/game_theory.md) that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so. 
+The 'Tit for Tat' strategy is one of the simplest and most effective strategies in [game theory](../g/game_theory.md). It was popularized by Robert Axelrod's tournaments in the early 1980s. In these tournaments, different strategies competed in a series of iterated prisoner's dilemmas, a standard example in [game theory](../g/game_theory.md) that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.
 
 The basic rules of the Tit for Tat strategy are straightforward:
 1. **Initiate Cooperation**: Initially, the strategy [will](../w/will.md) cooperate.
@@ -16,7 +16,7 @@ This combination of initial cooperation and reciprocal behavior tends to encoura
 
 ### Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), strategies often need to account for the behavior of other [market](../m/market.md) participants. Just like in the iterated [prisoner's dilemma](../p/prisoner's_dilemma.md), repeated interactions with other traders, algorithms, or [market](../m/market.md) makers make Tit for Tat a relevant strategy. For instance:
+In [algorithmic trading](../a/algorithmic_trading.md), strategies often need to account for the behavior of other [market](../m/market.md) participants. Just like in the iterated [prisoner's dilemma](../p/prisoner's_dilemma.md), repeated interactions with other traders, algorithms, or [market](../m/market.md) makers make Tit for Tat a relevant strategy. For instance:
 - **[Market](../m/market.md) Making**: In [market](../m/market.md) making, a [trader](../t/trader.md) continually offers to buy and sell by quoting [bid and ask](../b/bid_and_ask.md) prices. If a competitor starts to undercut prices aggressively, a Tit for Tat approach could involve matching the competitor's aggressive pricing to protect [market share](../m/market_share.md).
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Algorithms designed to minimize [trading costs](../t/trading_costs.md) or [market](../m/market.md) impact may encounter predatory [trading algorithms](../t/trading_algorithms.md). Using a Tit for Tat strategy, the algorithm could respond competitively if it detects adversarial behavior from another algorithm.
 

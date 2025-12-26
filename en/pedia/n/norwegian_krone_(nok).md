@@ -8,7 +8,7 @@ The Norwegian Krone is subdivided into 100 øre, although the øre has been phas
 
 ### Issuance and Regulation
 
-Norges [Bank](../b/bank.md), established in 1816, is responsible for issuing and regulating the Norwegian Krone. Its responsibilities [range](../r/range.md) from controlling [inflation](../i/inflation.md) to ensuring the smooth operation of the [financial system](../f/financial_system.md). For more information about Norges [Bank](../b/bank.md), visit their [official site](https://www.norges-bank.no/en/).
+Norges [Bank](../b/bank.md), established in 1816, is responsible for issuing and regulating the Norwegian Krone. Its responsibilities [range](../r/range.md) from controlling [inflation](../i/inflation.md) to ensuring the smooth operation of the [financial system](../f/financial_system.md). For more information about Norges [Bank](../b/bank.md),
 
 ## Historical Context
 
@@ -60,7 +60,7 @@ NOK often exhibits correlations with other [commodity](../c/commodity.md)-linked
 
 ### Norges Bank
 
-As Norway’s central [bank](../b/bank.md), Norges [Bank](../b/bank.md) plays a pivotal role in the NOK [market](../m/market.md) through [monetary policy](../m/monetary_policy.md) and [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md) interventions. 
+As Norway’s central [bank](../b/bank.md), Norges [Bank](../b/bank.md) plays a pivotal role in the NOK [market](../m/market.md) through [monetary policy](../m/monetary_policy.md) and [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md) interventions.
 
 ### Major Commercial Banks
 
@@ -78,7 +78,7 @@ Both Norwegian and international corporations engage in forex transactions invol
 
 ### Market Liquidity
 
-NOK forex pairs [offer](../o/offer.md) substantial [liquidity](../l/liquidity.md), which is a critical [factor](../f/factor.md) for [algorithmic trading](../a/accountability.md). High [liquidity](../l/liquidity.md) ensures the efficient [execution](../e/execution.md) of high-frequency [trading strategies](../t/trading_strategies.md) with minimal [slippage](../s/slippage.md).
+NOK forex pairs [offer](../o/offer.md) substantial [liquidity](../l/liquidity.md), which is a critical [factor](../f/factor.md) for [algorithmic trading](../a/algorithmic_trading.md). High [liquidity](../l/liquidity.md) ensures the efficient [execution](../e/execution.md) of high-frequency [trading strategies](../t/trading_strategies.md) with minimal [slippage](../s/slippage.md).
 
 ### Volatility
 
@@ -102,7 +102,7 @@ Norwegian government bonds and corporate bonds denominated in NOK [offer](../o/o
 
 [Real estate](../r/real_estate.md) investments in Norway, particularly in urban centers like Oslo and Bergen, can serve as a [hedge](../h/hedge.md) against [inflation](../i/inflation.md) and [currency](../c/currency.md) fluctuation risks.
 
-## Challenges and Risks 
+## Challenges and Risks
 
 ### Geopolitical Risks
 

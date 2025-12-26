@@ -1,4 +1,4 @@
-# Tweezer 
+# Tweezer
 
 In the realm of [technical analysis](../t/technical_analysis.md) and [financial markets](../f/financial_market.md), the Tweezer pattern is a notable [candlestick](../c/candlestick.md) formation that traders utilize to identify potential reversals in the [market](../m/market.md) [trend](../t/trend.md). The Tweezer pattern is classified into two types: Tweezer Tops and Tweezer Bottoms. Both represent points where the [market](../m/market.md) may change direction, providing traders with critical signals for entering or exiting trades.
 

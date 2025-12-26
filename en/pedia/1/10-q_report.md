@@ -5,7 +5,7 @@ A 10-Q report is an essential quarterly financial report mandated by the Securit
 ## Key Components of a 10-Q Report
 
 ### Part I: Financial Information
-**1. [Financial Statements](../f/financial_statements.md):** 
+**1. [Financial Statements](../f/financial_statements.md):**
 This section typically includes unaudited [financial statements](../f/financial_statements.md) such as the [balance sheet](../b/balance_sheet.md), [income statement](../i/income_statement.md), statement of cash flows, and statement of shareholders' [equity](../e/equity.md). The [financial statements](../f/financial_statements.md) in the 10-Q adhere to generally accepted [accounting principles](../a/accounting_principles.md) (GAAP) or, for foreign companies, International Financial Reporting Standards (IFRS).
 
 **2. Management’s Discussion and Analysis (MD&A):**
@@ -13,7 +13,7 @@ The MD&A section provides a narrative explanation of the [financial statements](
 
 **3. Quantitative and Qualitative Disclosures About [Market Risk](../m/market_risk.md):**
 This part includes detailed information about the company's exposure to [market](../m/market.md) risks, such as [interest rate](../i/interest_rate.md) risks, [foreign exchange](../f/foreign_exchange.md) risks, [commodity](../c/commodity.md) price risks, and how the company manages these risks.
-  
+
 **4. Controls and Procedures:**
 This section discusses the effectiveness of the company's [disclosure](../d/disclosure.md) controls and procedures. Any significant changes in [internal controls](../i/internal_controls.md) over financial reporting are also described here.
 
@@ -58,7 +58,7 @@ The release of a 10-Q can significantly impact a company's stock price. Positive
 
 ## Example: Apple Inc. 10-Q Report
 To provide a granular understanding, here's an example from Apple Inc. (AAPL):
-Apple Inc. provides detailed 10-Q reports that include financial overviews, [risk factors](../r/risk_factors_in_trading.md), and forward-looking statements. Their filings can be accessed directly on the SEC’s Edgar database or through Apple’s [investor relations](../i/investor_relations.md) page: [Apple Investor Relations](https://investor.apple.com/financials/sec-filings/default.aspx).
+Apple Inc. provides detailed 10-Q reports that include financial overviews, [risk factors](../r/risk_factors_in_trading.md), and forward-looking statements. Their filings can be accessed directly on the SEC's Edgar database.
 
 ## Filing Deadlines and Requirements
 The filing deadlines for 10-Q reports vary based on the company's public [float](../f/float.md):
@@ -67,4 +67,4 @@ The filing deadlines for 10-Q reports vary based on the company's public [float]
 - **Non-Accelerated Filers**: Companies with a public [float](../f/float.md) under $75 million have 45 days.
 
 ## Conclusion
-The 10-Q report is a vital instrument for fostering [transparency](../t/transparency.md), facilitating informed decision-making, and ensuring compliance with federal securities laws. By delving into a company's quarterly [financial health](../f/financial_health.md), stakeholders can make more educated and timely decisions that influence the future of investments and the [market](../m/market.md) at large.
+The 10-Q report is a vital instrument for fostering [transparency](../t/transparency.md), facilitating informed decision-making, and ensuring compliance with federal securities laws. By delving into a company's quarterly [financial health](../f/financial_health.md), stakeholders can make more educated and timely decisions that influence the future of investments and the [market](../m/market.md) at large.

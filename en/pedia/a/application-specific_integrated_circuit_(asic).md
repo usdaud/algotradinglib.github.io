@@ -75,11 +75,11 @@ Xilinx, now part of AMD, produces Field-Programmable Gate Arrays (FPGAs), which 
 
 ### Enyx
 
-Enyx (https://www.enyx.com/) offers ultra-low latency FPGA-based solutions that are often used in [trading systems](../t/trading_systems.md) to achieve high-frequency trading speeds. Their solutions provide the flexibility of FPGAs with near-ASIC performance.
+Enyx ( offers ultra-low latency FPGA-based solutions that are often used in [trading systems](../t/trading_systems.md) to achieve high-frequency trading speeds. Their solutions provide the flexibility of FPGAs with near-ASIC performance.
 
 ### Algo-Logic Systems
 
-Algo-Logic Systems (https://www.algo-logic.com/) specializes in low-latency trading solutions using FPGA technology. Their solutions are designed to accelerate packet processing and [trading algorithms](../t/trading_algorithms.md), [offering](../o/offering.md) performance similar to ASICs.
+Algo-Logic Systems ( specializes in low-latency trading solutions using FPGA technology. Their solutions are designed to accelerate packet processing and [trading algorithms](../t/trading_algorithms.md), [offering](../o/offering.md) performance similar to ASICs.
 
 ## Challenges and Considerations
 

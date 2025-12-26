@@ -1,10 +1,10 @@
 # Joint Account
 
-A [joint](../j/joint.md) account is a [financial account](../f/financial_account.md) shared by two or more individuals. These accounts are common in various financial contexts, particularly in banking and investment. In the realm of [algorithmic trading](../a/accountability.md), a [joint](../j/joint.md) account can be quite useful and presents unique considerations for traders and investors. This detailed exploration covers significant aspects of [joint](../j/joint.md) accounts in [algorithmic trading](../a/accountability.md), including their purpose, benefits, types, legal implications, and practical considerations.
+A [joint](../j/joint.md) account is a [financial account](../f/financial_account.md) shared by two or more individuals. These accounts are common in various financial contexts, particularly in banking and investment. In the realm of [algorithmic trading](../a/algorithmic_trading.md), a [joint](../j/joint.md) account can be quite useful and presents unique considerations for traders and investors. This detailed exploration covers significant aspects of [joint](../j/joint.md) accounts in [algorithmic trading](../a/algorithmic_trading.md), including their purpose, benefits, types, legal implications, and practical considerations.
 
 ## Purpose of Joint Accounts in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using computer algorithms to automate trading decisions and [execution](../e/execution.md). The purpose of a [joint](../j/joint.md) account in this context is to enable [multiple](../m/multiple.md) parties to participate in trading activities collectively. This can facilitate the pooling of resources, shared [risk](../r/risk.md), and collaborative strategy development.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to automate trading decisions and [execution](../e/execution.md). The purpose of a [joint](../j/joint.md) account in this context is to enable [multiple](../m/multiple.md) parties to participate in trading activities collectively. This can facilitate the pooling of resources, shared [risk](../r/risk.md), and collaborative strategy development.
 
 Key purposes include:
 
@@ -24,21 +24,21 @@ Key purposes include:
 There are several types of [joint](../j/joint.md) accounts, each with unique characteristics and implications:
 
 1. **[Joint](../j/joint.md) Tenants with Rights of Survivorship (JTWROS)**:
-   - Upon the death of one account holder, their share automatically transfers to the remaining account holders.
-   - Common among family members.
+ - Upon the death of one account holder, their share automatically transfers to the remaining account holders.
+ - Common among family members.
 
 2. **Tenants in Common (TIC)**:
-   - Each account holder owns a specific percentage of the account.
-   - The ownership percentage can be transferred or bequeathed as per the holder's wish.
-   - Offers more flexibility in terms of ownership [shares](../s/shares.md).
+ - Each account holder owns a specific percentage of the account.
+ - The ownership percentage can be transferred or bequeathed as per the holder's wish.
+ - Offers more flexibility in terms of ownership [shares](../s/shares.md).
 
 3. **Community Property Account**:
-   - Typically used by married couples in community property states.
-   - Ownership is considered equal unless otherwise specified.
+ - Typically used by married couples in community property states.
+ - Ownership is considered equal unless otherwise specified.
 
 ## Legal and Tax Implications
 
-Opening and operating a [joint](../j/joint.md) account in [algorithmic trading](../a/accountability.md) involves several legal and tax considerations:
+Opening and operating a [joint](../j/joint.md) account in [algorithmic trading](../a/algorithmic_trading.md) involves several legal and tax considerations:
 
 1. **Regulatory Compliance**: Ensure compliance with financial regulations in relevant jurisdictions.
 2. **[Taxation](../t/taxation.md)**: [Joint](../j/joint.md) accounts may have tax implications, such as [joint](../j/joint.md) responsibility for [taxes](../t/taxes.md) on profits.
@@ -59,7 +59,7 @@ Legal documentation and agreements are essential to outline the terms of the [jo
 
 ### Example of a Platform Supporting Joint Accounts
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage [firm](../f/firm.md) [offering](../o/offering.md) advanced capabilities for [joint](../j/joint.md) accounts, including [algorithmic trading](../a/accountability.md) [Interactive Brokers](https://www.interactivebrokers.com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A leading brokerage [firm](../f/firm.md) [offering](../o/offering.md) advanced capabilities for [joint](../j/joint.md) accounts, including [algorithmic trading](../a/algorithmic_trading.md) Interactive Brokers.
 
 ## Challenges and Best Practices
 
@@ -78,4 +78,4 @@ Legal documentation and agreements are essential to outline the terms of the [jo
 
 ## Conclusion
 
-In summary, [joint](../j/joint.md) accounts play a significant role in [algorithmic trading](../a/accountability.md) by enabling resource pooling, shared expertise, and diversified strategies. While they [offer](../o/offer.md) substantial benefits, they also require careful management regarding legal, tax, and operational considerations. By adopting [best practices](../b/best_practices.md) and leveraging advanced trading platforms, [multiple](../m/multiple.md) parties can effectively collaborate and potentially enhance their trading outcomes through [joint](../j/joint.md) accounts.
+In summary, [joint](../j/joint.md) accounts play a significant role in [algorithmic trading](../a/algorithmic_trading.md) by enabling resource pooling, shared expertise, and diversified strategies. While they [offer](../o/offer.md) substantial benefits, they also require careful management regarding legal, tax, and operational considerations. By adopting [best practices](../b/best_practices.md) and leveraging advanced trading platforms, [multiple](../m/multiple.md) parties can effectively collaborate and potentially enhance their trading outcomes through [joint](../j/joint.md) accounts.

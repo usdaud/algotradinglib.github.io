@@ -10,54 +10,54 @@ An **up-and-in option** is a type of [barrier option](../b/barrier_option.md), a
 
 ## Characteristics
 
-1. **Activation Condition**: 
-    - The up-and-in option activates only when the price of the [underlying asset](../u/underlying_asset.md) exceeds a predetermined barrier level from below.
-    - Example: If an up-and-in [call option](../c/call_option.md) on stock XYZ has a [strike price](../s/strike_price.md) of $100 and a barrier level of $120, the option remains inactive unless XYZ's stock price rises above $120. Once this happens, the option becomes a standard [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $100.
+1. **Activation Condition**:
+ - The up-and-in option activates only when the price of the [underlying asset](../u/underlying_asset.md) exceeds a predetermined barrier level from below.
+ - Example: If an up-and-in [call option](../c/call_option.md) on stock XYZ has a [strike price](../s/strike_price.md) of $100 and a barrier level of $120, the option remains inactive unless XYZ's stock price rises above $120. Once this happens, the option becomes a standard [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $100.
 
 2. **Types**:
-    - **Call [Options](../o/options.md)**: Give the holder the right to buy the [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md).
-    - **[Put Options](../p/put_options.md)**: Give the holder the right to sell the [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md).
-    - [Note](../n/note.md): Up-and-in puts are less common compared to up-and-in calls.
+ - **Call [Options](../o/options.md)**: Give the holder the right to buy the [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md).
+ - **[Put Options](../p/put_options.md)**: Give the holder the right to sell the [underlying asset](../u/underlying_asset.md) at a specified [strike price](../s/strike_price.md).
+ - [Note](../n/note.md): Up-and-in puts are less common compared to up-and-in calls.
 
 3. **Pricing Factors**:
-    - **[Underlying Asset](../u/underlying_asset.md) Price**: Initial price of the [underlying asset](../u/underlying_asset.md).
-    - **Barrier Level**: The set level that the [underlying asset](../u/underlying_asset.md) must breach.
-    - **[Strike Price](../s/strike_price.md)**: The price at which the option holder can buy or sell the [underlying asset](../u/underlying_asset.md) once the option is activated.
-    - **[Volatility](../v/volatility.md)**: The measure of how much the [asset](../a/asset.md)'s price fluctuates.
-    - **Time to [Maturity](../m/maturity.md)**: Time remaining until the option expires.
-    - **[Interest](../i/interest.md) Rates**: Prevailing [risk](../r/risk.md)-free [interest](../i/interest.md) rates.
-    - **[Dividend](../d/dividend.md) Yields**: Expected dividends from the [underlying asset](../u/underlying_asset.md), if applicable.
+ - **[Underlying Asset](../u/underlying_asset.md) Price**: Initial price of the [underlying asset](../u/underlying_asset.md).
+ - **Barrier Level**: The set level that the [underlying asset](../u/underlying_asset.md) must breach.
+ - **[Strike Price](../s/strike_price.md)**: The price at which the option holder can buy or sell the [underlying asset](../u/underlying_asset.md) once the option is activated.
+ - **[Volatility](../v/volatility.md)**: The measure of how much the [asset](../a/asset.md)'s price fluctuates.
+ - **Time to [Maturity](../m/maturity.md)**: Time remaining until the option expires.
+ - **[Interest](../i/interest.md) Rates**: Prevailing [risk](../r/risk.md)-free [interest](../i/interest.md) rates.
+ - **[Dividend](../d/dividend.md) Yields**: Expected dividends from the [underlying asset](../u/underlying_asset.md), if applicable.
 
 4. **Cost Considerations**:
-    - Up-and-in [options](../o/options.md) are typically cheaper than [plain vanilla](../p/plain_vanilla.md) [options](../o/options.md) because they come with an additional activation requirement.
-    - They [offer](../o/offer.md) leveraged exposure to the [underlying asset](../u/underlying_asset.md) price movements.
+ - Up-and-in [options](../o/options.md) are typically cheaper than [plain vanilla](../p/plain_vanilla.md) [options](../o/options.md) because they come with an additional activation requirement.
+ - They [offer](../o/offer.md) leveraged exposure to the [underlying asset](../u/underlying_asset.md) price movements.
 
 ## Use Cases
 
 1. **[Speculation](../s/speculation.md)**:
-    - Traders might use up-and-in [options](../o/options.md) to speculate on the price movement of an [asset](../a/asset.md), expecting it to rise above the barrier and then continue to increase.
+ - Traders might use up-and-in [options](../o/options.md) to speculate on the price movement of an [asset](../a/asset.md), expecting it to rise above the barrier and then continue to increase.
 
 2. **Hedging**:
-    - Investors often use barrier [options](../o/options.md) like up-and-in [options](../o/options.md) to [hedge](../h/hedge.md) positions. For example, a [portfolio manager](../p/portfolio_manager.md) might use an up-and-in [call option](../c/call_option.md) to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of missing potential gains if an [asset](../a/asset.md)'s price rises sharply.
+ - Investors often use barrier [options](../o/options.md) like up-and-in [options](../o/options.md) to [hedge](../h/hedge.md) positions. For example, a [portfolio manager](../p/portfolio_manager.md) might use an up-and-in [call option](../c/call_option.md) to [hedge](../h/hedge.md) against the [risk](../r/risk.md) of missing potential gains if an [asset](../a/asset.md)'s price rises sharply.
 
 3. **Cost-effective Strategies**:
-    - Up-and-in [options](../o/options.md) are useful for creating cost-effective [options](../o/options.md) strategies. They allow cheaper entry into positions when the conditions for activation are perceived as reasonably attainable.
+ - Up-and-in [options](../o/options.md) are useful for creating cost-effective [options](../o/options.md) strategies. They allow cheaper entry into positions when the conditions for activation are perceived as reasonably attainable.
 
 ## Mathematical Models for Pricing
 
 Several models can be used to price barrier [options](../o/options.md), including the up-and-in [options](../o/options.md), reflecting the complexity and conditions attached to their activation:
 
 1. **[Black-Scholes Model](../b/black-scholes_model.md)**:
-    - This widely used model can be adapted for barrier [options](../o/options.md) by incorporating the barrier level into the traditional Black-Scholes framework. Adjustments are made for the [conditional probability](../c/conditional_probability.md) of the barrier being breached.
+ - This widely used model can be adapted for barrier [options](../o/options.md) by incorporating the barrier level into the traditional Black-Scholes framework. Adjustments are made for the [conditional probability](../c/conditional_probability.md) of the barrier being breached.
 
 2. **Monte Carlo Simulations**:
-    - This model involves simulating thousands of possible price paths for the [underlying asset](../u/underlying_asset.md), enabling the estimation of the likelihood that the barrier [will](../w/will.md) be breached. It's particularly useful for highly volatile assets.
+ - This model involves simulating thousands of possible price paths for the [underlying asset](../u/underlying_asset.md), enabling the estimation of the likelihood that the barrier [will](../w/will.md) be breached. It's particularly useful for highly volatile assets.
 
 3. **[Finite Difference Methods](../f/finite_difference_methods.md)**:
-    - This numerical approach solves the partial differential equations associated with [options](../o/options.md) pricing to account for barriers directly in the mathematical derivation.
+ - This numerical approach solves the partial differential equations associated with [options](../o/options.md) pricing to account for barriers directly in the mathematical derivation.
 
 4. **Binomial Tree Model**:
-    - Extends the simple binomial model to incorporate [multiple](../m/multiple.md) nodes, paths, and conditional probabilities of barrier activation, iterating systematically through possible price movements until expiration.
+ - Extends the simple binomial model to incorporate [multiple](../m/multiple.md) nodes, paths, and conditional probabilities of barrier activation, iterating systematically through possible price movements until expiration.
 
 ## Practical Example
 
@@ -69,10 +69,10 @@ Consider a [trader](../t/trader.md) who expects Company ABC's stock to rise but 
 ### Scenarios:
 
 1. **Stock Price Never Reaches $110**:
-    - The barrier is never breached, and the up-and-in option remains inactive. The [trader](../t/trader.md) loses the [premium](../p/premium.md) paid for the option.
+ - The barrier is never breached, and the up-and-in option remains inactive. The [trader](../t/trader.md) loses the [premium](../p/premium.md) paid for the option.
 
 2. **Stock Price Surpasses $110 within the Time Frame**:
-    - Once the stock price goes above $110, the up-and-in [call option](../c/call_option.md) activates, becoming a regular [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $100. If the stock price continues to rise, the [trader](../t/trader.md) can [profit](../p/profit.md) by exercising the [call option](../c/call_option.md) or selling it at [market value](../m/market_value.md) before expiry.
+ - Once the stock price goes above $110, the up-and-in [call option](../c/call_option.md) activates, becoming a regular [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $100. If the stock price continues to rise, the [trader](../t/trader.md) can [profit](../p/profit.md) by exercising the [call option](../c/call_option.md) or selling it at [market value](../m/market_value.md) before expiry.
 
 ## Benefits and Risks
 
@@ -103,8 +103,8 @@ Up-and-in [options](../o/options.md) serve as powerful tools in the arsenal of s
 ## References and Further Reading
 
 For further information on up-and-in [options](../o/options.md) and real-world applications:
-- [Chicago Board Options Exchange (CBOE)](https://www.cboe.com/)
-- [Options Clearing Corporation](https://www.theocc.com/)
-- [Investopedia](https://www.investopedia.com/terms/u/up-and-in-option.asp)
+- Chicago Board Options Exchange (CBOE)
+- Options Clearing Corporation
+- Investopedia
 
 To get hands-on experience and real-time data involving up-and-in [options](../o/options.md), consider consulting services provided by major financial institutions or financial technology firms specializing in [derivative](../d/derivative.md) trading solutions.

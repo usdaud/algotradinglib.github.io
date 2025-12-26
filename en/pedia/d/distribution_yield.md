@@ -43,14 +43,14 @@ For instance, an ETF with substantial [bond](../b/bond.md) [holdings](../h/holdi
 
 Mutual funds and ETFs often pay distributions to their shareholders. These distributions can be monthly, quarterly, or annually, depending on the [fund](../f/fund.md)'s policy.
 
-- **Vanguard**: Vanguard offers detailed explanations of [distribution](../d/distribution.md) yields for its funds, which can be accessed on their [official site](https://investor.vanguard.com/).
-- **[iShares](../i/ishares.md) by BlackRock**: [iShares](../i/ishares.md) provides insights into the [distribution](../d/distribution.md) yields of their ETF products on their [website](https://www.ishares.com/).
+- **Vanguard**: Vanguard offers detailed explanations of [distribution](../d/distribution.md) yields for its funds, which can be accessed on their public materials.
+- **[iShares](../i/ishares.md) by BlackRock**: [iShares](../i/ishares.md) provides insights into the [distribution](../d/distribution.md)
 
 ### Real Estate Investment Trusts (REITs)
 
 REITs are required to distribute at least 90% of their [taxable income](../t/taxable_income.md) to shareholders, resulting in potentially high [distribution](../d/distribution.md) yields. They are particularly attractive to [income](../i/income.md)-focused investors.
 
-- **Simon Property Group**: As a leading REIT, Simon Property Group offers quarterly distributions to its shareholders. More information is available on their [investor relations page](https://investors.simon.com/).
+- **Simon Property Group**: As a leading REIT, Simon Property Group offers quarterly distributions to its shareholders.
 
 ## Risks Associated with High Distribution Yields
 
@@ -69,7 +69,7 @@ Historically, [distribution](../d/distribution.md) yields have varied significan
 
 ## Conclusion
 
-[Distribution](../d/distribution.md) [yield](../y/yield.md) is an essential metric for investors seeking [income](../i/income.md) from their investments. It provides insights into the [income](../i/income.md)-generating potential of a [fund](../f/fund.md) or REIT, helping investors make informed decisions. However, it is vital to look beyond the [yield](../y/yield.md) figure and understand the sources and sustainability of the distributions to gauge the true [value](../v/value.md) of the investment. 
+[Distribution](../d/distribution.md) [yield](../y/yield.md) is an essential metric for investors seeking [income](../i/income.md) from their investments. It provides insights into the [income](../i/income.md)-generating potential of a [fund](../f/fund.md) or REIT, helping investors make informed decisions. However, it is vital to look beyond the [yield](../y/yield.md) figure and understand the sources and sustainability of the distributions to gauge the true [value](../v/value.md) of the investment.
 
 By considering the [distribution](../d/distribution.md) [yield](../y/yield.md) alongside other financial metrics and the overall [investment strategy](../i/investment_strategy.md), investors can better align their portfolios with their [income](../i/income.md) requirements and [risk tolerance](../r/risk_tolerance.md). Understanding the nuances associated with different types of yields, [market](../m/market.md) conditions, and [asset](../a/asset.md) classes further enhances the ability to make prudent investment choices.
 

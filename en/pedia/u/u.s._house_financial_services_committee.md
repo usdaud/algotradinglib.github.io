@@ -2,6 +2,8 @@
 
 The U.S. House Financial Services Committee is a standing committee of the United States House of Representatives. This committee holds a significant role in overseeing the nation’s financial services sectors, legislating on critical financial laws, and ensuring that the country’s economic framework remains [robust](../r/robust.md) and fair.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## History and Formation
 
 The Committee was established in its current form in 1865, originally known as the Banking and [Currency](../c/currency.md) Committee. Over the years, its purview has expanded to include a wide spectrum of financial services and sectors, culminating in its present name and structure.
@@ -11,32 +13,32 @@ The Committee was established in its current form in 1865, originally known as t
 The coverage of the U.S. House Financial Services Committee is broad and encompasses several significant areas:
 
 1. **Banking and Financial Institutions**:
-   - Regulation and supervision of banks, savings associations, and [credit](../c/credit.md) unions.
-   - Examination of the practices and policies of the Federal Reserve, the Office of the Comptroller of the [Currency](../c/currency.md), and the Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC).
+ - Regulation and supervision of banks, savings associations, and [credit](../c/credit.md) unions.
+ - Examination of the practices and policies of the Federal Reserve, the Office of the Comptroller of the [Currency](../c/currency.md), and the Federal [Deposit](../d/deposit.md) [Insurance](../i/insurance.md) [Corporation](../c/corporation.md) (FDIC).
 
 2. **Securities and Exchanges**:
-   - Oversight of the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and regulation of securities, exchanges, and related entities.
-   - Legislation impacting stock exchanges and trading practices.
+ - Oversight of the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and regulation of securities, exchanges, and related entities.
+ - Legislation impacting stock exchanges and trading practices.
 
 3. **[Insurance](../i/insurance.md)**:
-   - Oversight and regulation of the [insurance](../i/insurance.md) [industry](../i/industry.md).
-   - Examining practices in both domestic and international [insurance](../i/insurance.md) markets.
+ - Oversight and regulation of the [insurance](../i/insurance.md) [industry](../i/industry.md).
+ - Examining practices in both domestic and international [insurance](../i/insurance.md) markets.
 
 4. **Housing and Community Development**:
-   - Policies and programs related to public and private housing.
-   - Oversight of the Department of Housing and Urban Development (HUD) and the measures it undertakes.
+ - Policies and programs related to public and private housing.
+ - Oversight of the Department of Housing and Urban Development (HUD) and the measures it undertakes.
 
 5. **[Monetary Policy](../m/monetary_policy.md)**:
-   - Close interaction with the Federal Reserve concerning [monetary policy](../m/monetary_policy.md).
-   - Impact of monetary policies on economic stability and growth.
+ - Close interaction with the Federal Reserve concerning [monetary policy](../m/monetary_policy.md).
+ - Impact of monetary policies on economic stability and growth.
 
 6. **International [Finance](../f/finance.md)**:
-   - Supervision of [Export](../e/export.md)-[Import](../i/import.md) [Bank](../b/bank.md) activities.
-   - Engagements with international financial institutions like the [World Bank](../w/world_bank.md) and the International Monetary [Fund](../f/fund.md) (IMF).
+ - Supervision of [Export](../e/export.md)-[Import](../i/import.md) [Bank](../b/bank.md) activities.
+ - Engagements with international financial institutions like the [World Bank](../w/world_bank.md) and the International Monetary [Fund](../f/fund.md) (IMF).
 
 7. **Consumer Protection**:
-   - Legislation and regulation concerning [consumer credit](../c/consumer_credit.md).
-   - Monitoring enforcement of consumer financial protection laws through entities like the Consumer Financial Protection Bureau (CFPB).
+ - Legislation and regulation concerning [consumer credit](../c/consumer_credit.md).
+ - Monitoring enforcement of consumer financial protection laws through entities like the Consumer Financial Protection Bureau (CFPB).
 
 ## Structure and Membership
 
@@ -62,9 +64,9 @@ The U.S. House Financial Services Committee conducts a variety of functions vita
 
 **Public Engagement and [Transparency](../t/transparency.md)**:
 - The committee frequently engages with the public through reports, publications, and hearings.
-- [Transparency](../t/transparency.md) is maintained in the committee’s operations, with information and updates accessible through the committee's official website.
+- [Transparency](../t/transparency.md) is maintained in the committee’s operations, with information and updates accessible through the committee's
 
-For more information, you can visit the official [House Financial Services Committee](https://financialservices.house.gov) website.
+
 
 ## Recent Legislative Actions
 

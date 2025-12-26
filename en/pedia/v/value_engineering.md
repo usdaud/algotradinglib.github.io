@@ -1,6 +1,6 @@
 # Value Engineering
 
-[Value](../v/value.md) Engineering (VE) is an organized approach to improving the [value](../v/value.md) of a product or process by examining its function and systematically investigating alternate means of accomplishing that function. The primary aim of VE is to maximize the [value](../v/value.md) of a product or process by balancing the function and cost. This method is widely used across industries, including [manufacturing](../m/manufacturing.md), construction, and services, to achieve cost savings and improve quality and performance. 
+[Value](../v/value.md) Engineering (VE) is an organized approach to improving the [value](../v/value.md) of a product or process by examining its function and systematically investigating alternate means of accomplishing that function. The primary aim of VE is to maximize the [value](../v/value.md) of a product or process by balancing the function and cost. This method is widely used across industries, including [manufacturing](../m/manufacturing.md), construction, and services, to achieve cost savings and improve quality and performance.
 
 ## Origins and Definition
 
@@ -100,7 +100,7 @@ In the FinTech [industry](../i/industry.md), VE can be applied to optimize finan
 
 ## Value Engineering in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), VE can be used to optimize [trading algorithms](../t/trading_algorithms.md) and strategies. By analyzing the functions of a trading algorithm, such as data [acquisition](../a/acquisition.md), signal generation, and [order](../o/order.md) [execution](../e/execution.md), algo traders can identify more efficient coding practices, data sources, or [execution](../e/execution.md) methods that reduce latency, improve [execution](../e/execution.md) accuracy, and lower [transaction costs](../t/transaction_costs.md).
+In [algorithmic trading](../a/algorithmic_trading.md), VE can be used to optimize [trading algorithms](../t/trading_algorithms.md) and strategies. By analyzing the functions of a trading algorithm, such as data [acquisition](../a/acquisition.md), signal generation, and [order](../o/order.md) [execution](../e/execution.md), algo traders can identify more efficient coding practices, data sources, or [execution](../e/execution.md) methods that reduce latency, improve [execution](../e/execution.md) accuracy, and lower [transaction costs](../t/transaction_costs.md).
 
 ## Case Study: NASA
 
@@ -144,8 +144,8 @@ The adoption of agile methodologies in VE can lead to more iterative and flexibl
 
 ## Conclusion
 
-[Value](../v/value.md) Engineering is a powerful methodology for optimizing the [value](../v/value.md) of products and processes. By systematically analyzing functions and exploring creative alternatives, organizations can achieve significant cost savings, improve quality and performance, and drive innovation. Whether applied in [manufacturing](../m/manufacturing.md), construction, services, FinTech, or [algorithmic trading](../a/accountability.md), VE offers a structured approach to [value](../v/value.md) improvement that can [yield](../y/yield.md) substantial benefits for organizations and stakeholders.
+[Value](../v/value.md) Engineering is a powerful methodology for optimizing the [value](../v/value.md) of products and processes. By systematically analyzing functions and exploring creative alternatives, organizations can achieve significant cost savings, improve quality and performance, and drive innovation. Whether applied in [manufacturing](../m/manufacturing.md), construction, services, FinTech, or [algorithmic trading](../a/algorithmic_trading.md), VE offers a structured approach to [value](../v/value.md) improvement that can [yield](../y/yield.md) substantial benefits for organizations and stakeholders.
 
 For further details on how some organizations implement VE, you can visit:
-- [General Electric](https://www.ge.com/)
-- [NASA](https://www.nasa.gov/)
+- General Electric
+- NASA

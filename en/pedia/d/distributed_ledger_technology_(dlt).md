@@ -96,23 +96,23 @@ Automated and accurate record-keeping can simplify compliance and reporting requ
 
 ### Digital Asset
 
-[Digital Asset](https://www.digitalasset.com) provides DLT solutions focused on building [industry](../i/industry.md)-wide standards for [distributed ledger technology](../d/distributed_ledger_technology.md), particularly in the [finance](../f/finance.md) [industry](../i/industry.md).
+Digital Asset provides DLT solutions focused on building [industry](../i/industry.md)-wide standards for [distributed ledger technology](../d/distributed_ledger_technology.md), particularly in the [finance](../f/finance.md) [industry](../i/industry.md).
 
 ### R3
 
-[R3](https://www.r3.com) is an enterprise software [firm](../f/firm.md) that develops [blockchain](../b/blockchain_in_trading.md) solutions for businesses. Their flagship product, Corda, is designed to record, manage, and automate legal agreements between businesses.
+R3 is an enterprise software [firm](../f/firm.md) that develops [blockchain](../b/blockchain_in_trading.md) solutions for businesses. Their flagship product, Corda, is designed to record, manage, and automate legal agreements between businesses.
 
 ### Holochain
 
-[Holochain](https://holochain.org) focuses on creating scalable, agent-centric distributed computing frameworks that are energy efficient, accountable, and synchronized.
+Holochain focuses on creating scalable, agent-centric distributed computing frameworks that are energy efficient, accountable, and synchronized.
 
 ### Hedera Hashgraph
 
-[Hedera Hashgraph](https://hedera.com) offers an enterprise-grade DLT platform that is highly scalable and uses a different structure than traditional [blockchain](../b/blockchain_in_trading.md) to achieve consensus and maintain ledger integrity.
+Hedera Hashgraph offers an enterprise-grade DLT platform that is highly scalable and uses a different structure than traditional [blockchain](../b/blockchain_in_trading.md) to achieve consensus and maintain ledger integrity.
 
 ### Intel
 
-[Intel](https://www.intel.com) provides technology [infrastructure](../i/infrastructure.md) to support [blockchain](../b/blockchain_in_trading.md) and distributed ledger deployments, including hardware and specialized software solutions.
+Intel provides technology [infrastructure](../i/infrastructure.md) to support [blockchain](../b/blockchain_in_trading.md) and distributed ledger deployments, including hardware and specialized software solutions.
 
 ## Conclusion
 

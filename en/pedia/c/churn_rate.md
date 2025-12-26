@@ -96,7 +96,7 @@ Netflix, a leading streaming service provider, places significant emphasis on re
 
 ### Salesforce
 
-Salesforce, a prominent CRM and SaaS company, emphasizes high [customer](../c/customer.md) engagement and support. It offers comprehensive onboarding, regular training sessions, and a [robust](../r/robust.md) support system to minimize churn. [Salesforce](https://www.salesforce.com/)
+Salesforce, a prominent CRM and SaaS company, emphasizes high [customer](../c/customer.md) engagement and support. It offers comprehensive onboarding, regular training sessions, and a [robust](../r/robust.md) support system to minimize churn. Salesforce
 
 ### Spotify
 

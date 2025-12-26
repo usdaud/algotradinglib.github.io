@@ -53,7 +53,6 @@ If the owner's [earnings](../e/earnings.md) are available for a shorter period s
 ```
 Owner [Earnings](../e/earnings.md) [Run Rate](../r/run_rate.md) = Owner [Earnings](../e/earnings.md) for the period * (12 / Number of months in the period)
 ```
-or
 ```
 Owner [Earnings](../e/earnings.md) [Run Rate](../r/run_rate.md) = Owner [Earnings](../e/earnings.md) for the quarter * 4
 ```
@@ -75,4 +74,4 @@ This metric is also used for benchmarking the performance of a company against p
 ## Conclusion
 The Owner [Earnings](../e/earnings.md) [Run Rate](../r/run_rate.md) is an essential metric for anyone interested in the [financial health](../f/financial_health.md) and future profitability of a company. By combining the accurate measurement of owner [earnings](../e/earnings.md) with the predictive power of the [run rate](../r/run_rate.md), businesses, investors, and analysts can make well-informed decisions that align with their financial goals. This measure transcends traditional [accounting](../a/accounting.md) metrics by focusing on real cash [earnings](../e/earnings.md), making it a preferred choice for sustainable [financial analysis](../f/financial_analysis.md).
 
-For further understanding and examples of how businesses utilize these metrics, refer to financial sections of corporate websites such as [Berkshire Hathaway](https://www.berkshirehathaway.com) and [Morningstar](https://www.morningstar.com) for in-depth [financial statements](../f/financial_statements.md) and reports.
+For further understanding and examples of how businesses utilize these metrics, refer to financial sections of corporate websites such as Berkshire Hathaway and Morningstar for in-depth [financial statements](../f/financial_statements.md) and reports.

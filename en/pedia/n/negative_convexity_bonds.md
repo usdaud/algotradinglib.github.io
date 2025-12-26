@@ -32,7 +32,7 @@ When a [bond](../b/bond.md) has [negative convexity](../n/negative_convexity.md)
 
 ### Causes of Negative Convexity
 
-[Negative convexity](../n/negative_convexity.md) mainly arises from two primary [bond](../b/bond.md) features: call [options](../o/options.md) and [prepayment](../p/prepayment.md) [options](../o/options.md). 
+[Negative convexity](../n/negative_convexity.md) mainly arises from two primary [bond](../b/bond.md) features: call [options](../o/options.md) and [prepayment](../p/prepayment.md) [options](../o/options.md).
 
 1. **Callable Bonds**: Callable bonds come with an embedded [call option](../c/call_option.md), allowing the [issuer](../i/issuer.md) to repurchase the [bond](../b/bond.md) before its [maturity date](../m/maturity_date.md), often at a [premium](../p/premium.md). These bonds tend to show [negative convexity](../n/negative_convexity.md) because when [interest](../i/interest.md) rates drop significantly, issuers are more likely to call the bonds to [refinance](../r/refinance.md) at a lower rate. Investors, thus, face [reinvestment risk](../r/reinvestment_risk.md) as they might have to reinvest the [principal](../p/principal.md) at lower [interest](../i/interest.md) rates.
 
@@ -70,13 +70,13 @@ Given the complexities and risks associated with [negative convexity](../n/negat
 
 [Freddie Mac](../f/freddie_mac.md) is a public [government-sponsored enterprise](../g/government-sponsored_enterprise.md) (GSE), which provides [liquidity](../l/liquidity.md), stability, and affordability to the U.S. housing [market](../m/market.md) by purchasing mortgages from lenders, packaging them into securities, and selling them to investors.
 
-Link: [Freddie Mac](http://www.freddiemac.com/)
+Link: Freddie Mac
 
 ### Fannie Mae (Federal National Mortgage Association)
 
-Fannie Mae operates in a similar manner to [Freddie Mac](../f/freddie_mac.md), ensuring an affordable homeownership for Americans by buying and insuring [mortgage](../m/mortgage.md) loans. 
+Fannie Mae operates in a similar manner to [Freddie Mac](../f/freddie_mac.md), ensuring an affordable homeownership for Americans by buying and insuring [mortgage](../m/mortgage.md) loans.
 
-Link: [Fannie Mae](http://www.fanniemae.com/)
+Link: Fannie Mae
 
 ## Conclusion
 

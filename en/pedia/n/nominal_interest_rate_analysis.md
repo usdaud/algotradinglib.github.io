@@ -107,10 +107,10 @@ The returns on savings accounts are typically tied to [nominal](../n/nominal.md)
 
 Examining current [nominal](../n/nominal.md) [interest](../i/interest.md) rates across different economic landscapes can provide insight into prevailing trends and economic health. For real-time data and updates:
 
-- [Federal Reserve](https://www.federalreserve.gov/)
-- [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html)
-- [Bank of England](https://www.bankofengland.co.uk/)
-- [Bank of Japan](https://www.boj.or.jp/en/)
+- Federal Reserve
+- European Central Bank
+- Bank of England
+- Bank of Japan
 
 ## Conclusion
 

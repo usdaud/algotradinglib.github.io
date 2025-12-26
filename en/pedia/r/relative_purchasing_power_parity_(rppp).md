@@ -117,4 +117,4 @@ Relative [Purchasing Power](../p/purchasing_power.md) [Parity](../p/parity.md) i
 
 In practice, RPPP serves as a useful guideline rather than an absolute rule, requiring consideration of numerous external factors, [market](../m/market.md) conditions, and the dynamic nature of global economic systems.
 
-For more detailed information and real-world applications, you can visit the websites of financial institutions like [Goldman Sachs](http://www.goldmansachs.com/) or central banks like the [Federal Reserve](http://www.federalreserve.gov/) and the [European Central Bank](http://www.ecb.europa.eu/).
+For more detailed information and real-world applications, you can visit the websites of financial institutions like Goldman Sachs or central banks like the Federal Reserve and the European Central Bank.

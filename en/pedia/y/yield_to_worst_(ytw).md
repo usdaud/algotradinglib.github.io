@@ -41,22 +41,22 @@ Consider a [callable bond](../c/callable_bond.md) with the following characteris
 The steps to calculate the YTW would be:
 
 1. **Calculate [Yield to Call](../y/yield_to_call.md):**
-   - **Call Price:** $1,020
-   - **Years to Call:** 5 years
-   - **Annual Coupon [Payment](../p/payment.md):** $50 
+ - **Call Price:** $1,020
+ - **Years to Call:** 5 years
+ - **Annual Coupon [Payment](../p/payment.md):** $50
 
 Calculate the [yield](../y/yield.md) using the call price and the annual coupon [payment](../p/payment.md) to determine the [yield to call](../y/yield_to_call.md) (YTC).
 
 2. **Calculate [Yield to Maturity](../y/yield_to_maturity.md) (YTM):**
-   - **[Face Value](../f/face_value.md):** $1,000
-   - **Years to [Maturity](../m/maturity.md):** 10 years
-   - **Annual Coupon [Payment](../p/payment.md):** $50
+ - **[Face Value](../f/face_value.md):** $1,000
+ - **Years to [Maturity](../m/maturity.md):** 10 years
+ - **Annual Coupon [Payment](../p/payment.md):** $50
 
 Calculate the [yield to maturity](../y/yield_to_maturity.md) assuming the [bond](../b/bond.md) is held until the 10-year [maturity date](../m/maturity_date.md).
 
 3. **Compare Yields:**
-   - If YTC is lower than YTM, then YTW is the YTC.
-   - If YTC is higher than YTM, then YTW is the YTM. 
+ - If YTC is lower than YTM, then YTW is the YTC.
+ - If YTC is higher than YTM, then YTW is the YTM.
 
 This ensures the [investor](../i/investor.md) is prepared for the worst possible [yield](../y/yield.md) scenario.
 

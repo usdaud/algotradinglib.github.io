@@ -18,7 +18,7 @@ Structural breaks, also known as [regime shifts](../r/regime_shifts_in_trading.m
 
 Several statistical techniques have been developed to detect structural breaks in [time series](../t/time_series.md) data. Some of the most commonly used methods include:
 
-1. **CUSUM (Cumulative Sum) Test**: This test is used to detect shifts in the mean level of a [time series](../t/time_series.md) by examining the cumulative sums of deviations from the mean. 
+1. **CUSUM (Cumulative Sum) Test**: This test is used to detect shifts in the mean level of a [time series](../t/time_series.md) by examining the cumulative sums of deviations from the mean.
 
 2. **Bai-Perron Test**: This method is designed to identify [multiple](../m/multiple.md) structural breaks in the data. It uses a sequential approach to estimate breakpoints and test their significance.
 

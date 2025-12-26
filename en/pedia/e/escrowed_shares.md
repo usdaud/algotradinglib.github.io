@@ -48,7 +48,7 @@ The legal framework for escrowed [shares](../s/shares.md) varies across jurisdic
 Several transactional scenarios involving publicly known companies have utilized the mechanism of escrowed [shares](../s/shares.md):
 
 - **Uber Technologies**: During its IPO, Uber had certain [shares](../s/shares.md) held [in escrow](../i/in_escrow.md) to ensure that company insiders did not flood the [market](../m/market.md) with their [shares](../s/shares.md) immediately after the public [offering](../o/offering.md).
-- **Qualcomm and NXP Semiconductors**: In the [acquisition](../a/acquisition.md) deal of NXP by Qualcomm, part of the [shares](../s/shares.md) were held [in escrow](../i/in_escrow.md) to ensure the completion of the [transaction](../t/transaction.md) terms [Qualcomm Merger Agreement](https://www.qualcomm.com/news/releases/2016/10/27/qualcomm-acquire-nxp-deal-valued-approximately-47-billion).
+- **Qualcomm and NXP Semiconductors**: In the [acquisition](../a/acquisition.md) deal of NXP by Qualcomm, part of the [shares](../s/shares.md) were held [in escrow](../i/in_escrow.md) to ensure the completion of the [transaction](../t/transaction.md) terms Qualcomm Merger Agreement.
 - **Employee Stock [Options](../o/options.md)**: Many companies across various industries use [escrow](../e/escrow.md) mechanisms as part of their employee [stock option](../s/stock_option.md) plans, rewarding employees while ensuring certain performance milestones are achieved.
 
 ## Conclusion

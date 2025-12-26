@@ -4,7 +4,7 @@
 
 ### Understanding Open Interest
 
-[Open interest](../o/open_interest.md) is a measure that allows traders to gauge the [market](../m/market.md) activity and sentiment. It's different from [volume](../v/volume.md), which reflects the number of contracts traded during a given period. While both are essential metrics, they [offer](../o/offer.md) distinct information. 
+[Open interest](../o/open_interest.md) is a measure that allows traders to gauge the [market](../m/market.md) activity and sentiment. It's different from [volume](../v/volume.md), which reflects the number of contracts traded during a given period. While both are essential metrics, they [offer](../o/offer.md) distinct information.
 
 - **[Volume](../v/volume.md)** is the tally of all trading activity within a particular time frame, which can be daily, weekly, or any chosen [duration](../d/duration.md).
 - **[Open Interest](../o/open_interest.md)**, on the other hand, reflects the total number of [open](../o/open.md) contracts that have not been closed, expired, or exercised.
@@ -33,8 +33,8 @@ For algorithmic traders, [open interest](../o/open_interest.md) is a critical [f
 
 Several platforms and services [offer](../o/offer.md) tools to track [open interest](../o/open_interest.md), providing data in various formats suited for both human analysis and algorithmic integration. Some notable ones include:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com) offers detailed [options](../o/options.md) data, including [open interest](../o/open_interest.md).
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) provides a comprehensive [trading platform](../t/trading_platform.md) with [options](../o/options.md) analytics and [open interest](../o/open_interest.md) data.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers offers detailed [options](../o/options.md) data, including [open interest](../o/open_interest.md).
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: Thinkorswim provides a comprehensive [trading platform](../t/trading_platform.md) with [options](../o/options.md) analytics and [open interest](../o/open_interest.md) data.
 
 ### Advanced Applications
 

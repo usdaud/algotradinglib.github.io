@@ -11,7 +11,7 @@ However, technological advancements and changing consumer preferences have led t
 ## Advantages of Unbundling
 
 1. **Customization**: Unbundling allows consumers to choose only the services they require, leading to a highly personalized financial experience. This can result in cost savings and greater satisfaction.
-  
+
 2. **Competition**: When services are unbundled, it introduces a competitive landscape where specialized providers can excel. This often leads to better service quality and lower prices.
 
 3. **Innovation**: Unbundling fosters innovation by encouraging new entrants to focus on specific segments, thereby driving advancements and improvements in those areas.
@@ -74,15 +74,15 @@ The Markets in Financial Instruments Directive II ([MiFID II](../m/mifid_ii.md))
 
 ### Robinhood
 
-[Robinhood](https://robinhood.com/) disrupted the trading [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trades, which was once a service bundled with brokerage accounts from traditional firms. [Robinhood](../r/robinhood.md)’s unbundled approach has significantly increased [market](../m/market.md) participation, especially among younger investors.
+Robinhood disrupted the trading [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trades, which was once a service bundled with brokerage accounts from traditional firms. [Robinhood](../r/robinhood.md)’s unbundled approach has significantly increased [market](../m/market.md) participation, especially among younger investors.
 
 ### Wise (formerly TransferWise)
 
-[Wise](https://wise.com/) focuses solely on international [money](../m/money.md) transfers, unbundling this service from full-fledged banking. By doing so, the company can [offer](../o/offer.md) highly competitive rates and a user-friendly experience, which has attracted millions of users globally.
+Wise focuses solely on international [money](../m/money.md) transfers, unbundling this service from full-fledged banking. By doing so, the company can [offer](../o/offer.md) highly competitive rates and a user-friendly experience, which has attracted millions of users globally.
 
 ### Betterment
 
-[Betterment](https://www.betterment.com/) offers automated investment services, unbundling [portfolio management](../p/par.md) and [financial planning](../f/financial_planning.md) from traditional [wealth management](../w/wealth_management.md) firms. This allows for lower fees and a more accessible investment process.
+Betterment offers automated investment services, unbundling [portfolio management](../p/par.md) and [financial planning](../f/financial_planning.md) from traditional [wealth management](../w/wealth_management.md) firms. This allows for lower fees and a more accessible investment process.
 
 ## Future of Unbundling
 

@@ -40,10 +40,10 @@ Modern trading platforms and algorithms employ sophisticated [data analytics](..
 
 Several companies specialize in providing [real-time market data](../r/real-time_market_data.md), including unexecuted [order book](../o/order_book.md) data. Examples include:
 
-- **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: [Refinitiv](https://www.refinitiv.com)
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com)
-- **[CQG](../c/cqg.md)**: [CQG](https://www.cqg.com)
-- **[Nasdaq](../n/nasdaq.md) [Market](../m/market.md) Data**: [Nasdaq](https://www.nasdaq.com/market-activity/data).
+- **Refinitiv (formerly Thomson [Reuters](../r/reuters.md))**: Refinitiv
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg
+- **[CQG](../c/cqg.md)**: CQG
+- **[Nasdaq](../n/nasdaq.md) [Market](../m/market.md) Data**: Nasdaq.
 
 ### Role of Market Makers
 

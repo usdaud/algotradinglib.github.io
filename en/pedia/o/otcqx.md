@@ -46,4 +46,3 @@ Investors looking at OTCQX-[listed](../l/listed.md) companies should consider th
 
 The OTCQX Best [Market](../m/market.md) provides a reputable and cost-effective platform for companies seeking access to U.S. investors without the stringent regulations of traditional exchanges. The high standards of financial [transparency](../t/transparency.md), governance, and compliance required for OTCQX listing ensure that only quality companies can [trade](../t/trade.md) on this [market](../m/market.md). This offers a relative level of [assurance](../a/assurance.md) and attractiveness for both domestic and international investors. For those looking to explore securities within a trusted yet flexible framework, the OTCQX Best [Market](../m/market.md) presents a viable and attractive opportunity.
 
-More information can be obtained directly on the [OTC Markets](https://www.otcmarkets.com/) official website.

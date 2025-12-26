@@ -70,6 +70,6 @@ Audit [risk](../r/risk.md) is an inevitable aspect of the auditing process, but 
 
 Reputable organizations and resources for further reading:
 
-- [American Institute of CPAs (AICPA)](https://www.aicpa.org/)
-- [Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org/)
-- [The Institute of Internal Auditors (IIA)](https://www.theiia.org/)
+- American Institute of CPAs (AICPA)
+- Public Company Accounting Oversight Board (PCAOB)
+- The Institute of Internal Auditors (IIA)

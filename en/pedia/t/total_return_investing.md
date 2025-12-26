@@ -25,7 +25,7 @@ Investors employing a [total return](../t/total_return.md) strategy aim to find 
 
 ### Equity-Focused Approach
 
-[Investing](../i/investing.md) in equities, companies that are expected to grow their profits and share prices, is a common approach within a [total return](../t/total_return.md) framework. High-quality, [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) [offer](../o/offer.md) both [income](../i/income.md) and the potential for [capital](../c/capital.md) appreciation. For instance, companies like Johnson & Johnson and Procter & Gamble are reputed for providing consistent dividends along with potential growth. 
+[Investing](../i/investing.md) in equities, companies that are expected to grow their profits and share prices, is a common approach within a [total return](../t/total_return.md) framework. High-quality, [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) [offer](../o/offer.md) both [income](../i/income.md) and the potential for [capital](../c/capital.md) appreciation. For instance, companies like Johnson & Johnson and Procter & Gamble are reputed for providing consistent dividends along with potential growth.
 
 Investors might look at metrics such as:
 
@@ -49,7 +49,7 @@ Bonds provide regular [interest](../i/interest.md) payments and are generally le
 
 ### Mutual Funds and ETFs
 
-Mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) are diversified investment products that can simplify the implementation of a [total return](../t/total_return.md) strategy. These funds may focus on a mix of [asset](../a/asset.md) classes, targeted either for growth, [income](../i/income.md), or a blend of both. 
+Mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) are diversified investment products that can simplify the implementation of a [total return](../t/total_return.md) strategy. These funds may focus on a mix of [asset](../a/asset.md) classes, targeted either for growth, [income](../i/income.md), or a blend of both.
 
 - **Vanguard Total [Stock Market](../s/stock_market.md) ETF (VTI)**: Offers broad exposure to the entire U.S. [stock market](../s/stock_market.md).
 - **[iShares](../i/ishares.md) Core U.S. Aggregate [Bond ETF](../b/bond_etf.md) (AGG)**: Provides exposure to a wide array of U.S. bonds.
@@ -87,7 +87,7 @@ Management of tax implications adds another layer of complexity. [Capital](../c/
 
 ### Income-Only Approach
 
-An [income](../i/income.md)-only approach focuses on generating returns solely from [income](../i/income.md)-producing assets, aiming for consistency and predictability. Typical investments include bonds, [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), and [real estate](../r/real_estate.md) rental [income](../i/income.md). 
+An [income](../i/income.md)-only approach focuses on generating returns solely from [income](../i/income.md)-producing assets, aiming for consistency and predictability. Typical investments include bonds, [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), and [real estate](../r/real_estate.md) rental [income](../i/income.md).
 
 While this approach reduces reliance on [market](../m/market.md) appreciation and possibly offers lower [volatility](../v/volatility.md), it may not provide as high a [total return](../t/total_return.md) in scenarios where [market](../m/market.md) conditions favor [capital](../c/capital.md) gains.
 
@@ -113,11 +113,11 @@ A balanced portfolio typically has a mix of [fixed income](../f/fixed_income.md)
 
 ### The Yale Endowment Model
 
-The Yale [Endowment](../e/endowment.md), managed by David Swensen, is often cited as a successful application of [total return](../t/total_return.md) [investing](../i/investing.md) principles. It employs a diversified mix including equities, [fixed income](../f/fixed_income.md), [real estate](../r/real_estate.md), [private equity](../p/private_equity.md), and [hedge](../h/hedge.md) funds, all to maximize both current [income](../i/income.md) and future growth. The [endowment](../e/endowment.md) has consistently outperformed traditional balanced portfolios, demonstrating the effectiveness of a diversified [total return](../t/total_return.md) approach. More details can be found on the Yale [Endowment](../e/endowment.md)'s [official page](https://investments.yale.edu).
+The Yale [Endowment](../e/endowment.md), managed by David Swensen, is often cited as a successful application of [total return](../t/total_return.md) [investing](../i/investing.md) principles. It employs a diversified mix including equities, [fixed income](../f/fixed_income.md), [real estate](../r/real_estate.md), [private equity](../p/private_equity.md), and [hedge](../h/hedge.md) funds, all to maximize both current [income](../i/income.md) and future growth. The [endowment](../e/endowment.md) has consistently outperformed traditional balanced portfolios, demonstrating the effectiveness of a diversified [total return](../t/total_return.md) approach. More details can be found on the Yale [Endowment](../e/endowment.md)'s public materials.
 
 ### Vanguard Wellington Fund
 
-The Vanguard Wellington [Fund](../f/fund.md) is a prime example of a [mutual fund](../m/mutual_fund.md) designed for [total return](../t/total_return.md) [investing](../i/investing.md). It balances investments in [stocks](../s/stock.md) and bonds to deliver a combination of growth and [income](../i/income.md). Over decades, it has achieved competitive returns through [active management](../a/active_management.md) and diversified allocation, suited for investors seeking moderate [risk](../r/risk.md). Learn more about this [fund](../f/fund.md) at [Vanguard](https://investor.vanguard.com/mutual-funds/profile/VWELX).
+The Vanguard Wellington [Fund](../f/fund.md) is a prime example of a [mutual fund](../m/mutual_fund.md) designed for [total return](../t/total_return.md) [investing](../i/investing.md). It balances investments in [stocks](../s/stock.md) and bonds to deliver a combination of growth and [income](../i/income.md). Over decades, it has achieved competitive returns through [active management](../a/active_management.md) and diversified allocation, suited for investors seeking moderate [risk](../r/risk.md). Learn more about this [fund](../f/fund.md) at Vanguard.
 
 ## Conclusion
 

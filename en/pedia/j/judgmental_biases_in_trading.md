@@ -78,7 +78,7 @@ Increasing traders' awareness of common biases and their effects can help in mit
 
 ### Implementing Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **[QuantConnect](../q/quantconnect.md)** [QuantConnect](https://www.quantconnect.com/) [offer](../o/offer.md) platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
+[Algorithmic trading](../a/algorithmic_trading.md) can reduce the impact of human biases by using predetermined criteria and systematic strategies. Companies like **[QuantConnect](../q/quantconnect.md)** QuantConnect [offer](../o/offer.md) platforms for developing and [backtesting](../b/backtesting.md) [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### Diversification of Perspectives
 
@@ -86,7 +86,7 @@ Encouraging collaborative decision-making and seeking diverse perspectives can h
 
 ### Use of Technology and Analytics
 
-Utilizing advanced analytics and decision-support systems can provide objective insights that counteract biased judgments. Companies like **Kensho Technologies** [Kensho](https://www.kensho.com/) [offer](../o/offer.md) AI-driven analytics to enhance [trading strategies](../t/trading_strategies.md).
+Utilizing advanced analytics and decision-support systems can provide objective insights that counteract biased judgments. Companies like **Kensho Technologies** Kensho [offer](../o/offer.md) AI-driven analytics to enhance [trading strategies](../t/trading_strategies.md).
 
 ### Regular Performance Reviews
 

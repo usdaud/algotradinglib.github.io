@@ -127,7 +127,7 @@ In early 2021, the sub-Reddit community r/WallStreetBets orchestrated a [short s
 
 ### Company Example: Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) is a leading online brokerage [firm](../f/firm.md) that offers comprehensive [options](../o/options.md) trading platforms. The company's tools and resources support both novice and experienced [options](../o/options.md) traders in executing put option strategies.
+[Interactive Brokers](../i/interactive_brokers.md) ( is a leading online brokerage [firm](../f/firm.md) that offers comprehensive [options](../o/options.md) trading platforms. The company's tools and resources support both novice and experienced [options](../o/options.md) traders in executing put option strategies.
 
 ## Conclusion
 

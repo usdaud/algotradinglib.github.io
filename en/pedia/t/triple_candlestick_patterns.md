@@ -43,13 +43,13 @@ Algo-traders have developed several strategies for implementing these patterns i
 ## Case Studies and Applications
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) access to [multiple](../m/multiple.md) [financial markets](../f/financial_market.md). Users can utilize its extensive libraries and frameworks for [backtesting](../b/backtesting.md) triple [candlestick patterns](../c/candlestick_patterns.md). [QuantConnect](https://www.quantconnect.com)
+[QuantConnect](../q/quantconnect.md) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) access to [multiple](../m/multiple.md) [financial markets](../f/financial_market.md). Users can utilize its extensive libraries and frameworks for [backtesting](../b/backtesting.md) triple [candlestick patterns](../c/candlestick_patterns.md). QuantConnect
 
 ### Alpaca
-[Alpaca](../a/alpaca.md) provides APIs for [commission](../c/commission.md)-free trading, allowing algo-traders to implement and test their strategies involving triple [candlestick patterns](../c/candlestick_patterns.md) in real-world trading environments. [Alpaca](https://alpaca.markets)
+[Alpaca](../a/alpaca.md) provides APIs for [commission](../c/commission.md)-free trading, allowing algo-traders to implement and test their strategies involving triple [candlestick patterns](../c/candlestick_patterns.md) in real-world trading environments. Alpaca
 
 ### Interactive Brokers
-Known for [offering](../o/offering.md) a wide [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) tools, [Interactive Brokers](../i/interactive_brokers.md) allows users to create and deploy algo-[trading strategies](../t/trading_strategies.md) that include triple [candlestick patterns](../c/candlestick_patterns.md). [Interactive Brokers](https://www.interactivebrokers.com)
+Known for [offering](../o/offering.md) a wide [range](../r/range.md) of [algorithmic trading](../a/algorithmic_trading.md) tools, [Interactive Brokers](../i/interactive_brokers.md) allows users to create and deploy algo-[trading strategies](../t/trading_strategies.md) that include triple [candlestick patterns](../c/candlestick_patterns.md). Interactive Brokers
 
 ## Conclusion
 

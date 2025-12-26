@@ -72,7 +72,7 @@ For fixed-[income](../i/income.md) securities such as bonds, [yield](../y/yield.
 
 ## Yield Variance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on quantitative data analysis. [Yield](../y/yield.md) variance serves as a key parameter in algorithmic strategies for [multiple](../m/multiple.md) purposes:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on quantitative data analysis. [Yield](../y/yield.md) variance serves as a key parameter in algorithmic strategies for [multiple](../m/multiple.md) purposes:
 
 ### Strategy Development
 
@@ -80,7 +80,7 @@ Quantitative analysts use [yield](../y/yield.md) variance as part of their [math
 
 ### Risk Management
 
-[Algorithmic trading](../a/accountability.md) systems incorporate [yield](../y/yield.md) variance to manage and mitigate portfolio risks. Real-time analysis of [yield](../y/yield.md) variance helps in adjusting positions dynamically to protect against potential losses due to [yield volatility](../y/yield_volatility.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems incorporate [yield](../y/yield.md) variance to manage and mitigate portfolio risks. Real-time analysis of [yield](../y/yield.md) variance helps in adjusting positions dynamically to protect against potential losses due to [yield volatility](../y/yield_volatility.md).
 
 ### Backtesting
 
@@ -112,4 +112,4 @@ Companies specializing in financial data services provide [yield variance analys
 
 ## Conclusion
 
-[Yield](../y/yield.md) variance is a fundamental concept in [finance](../f/finance.md) and trading, essential for understanding the dynamics of investment returns. It aids in [risk](../r/risk.md) assessment, [portfolio diversification](../p/portfolio_diversification.md), performance evaluation, [algorithmic trading](../a/accountability.md), and the development of fintech solutions. Thorough analysis of [yield](../y/yield.md) variance enables investors to make more informed decisions, optimize their portfolios, and achieve better financial outcomes.
+[Yield](../y/yield.md) variance is a fundamental concept in [finance](../f/finance.md) and trading, essential for understanding the dynamics of investment returns. It aids in [risk](../r/risk.md) assessment, [portfolio diversification](../p/portfolio_diversification.md), performance evaluation, [algorithmic trading](../a/algorithmic_trading.md), and the development of fintech solutions. Thorough analysis of [yield](../y/yield.md) variance enables investors to make more informed decisions, optimize their portfolios, and achieve better financial outcomes.

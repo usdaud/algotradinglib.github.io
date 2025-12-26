@@ -47,7 +47,7 @@ WAD is frequently used in conjunction with other [technical indicators](../t/tec
 
 ## Real-World Implementation
 
-Numerous financial institutions and trading platforms implement WAD in their [trading systems](../t/trading_systems.md) to support a diverse [range](../r/range.md) of strategies. For example, [QuantConnect](../q/quantconnect.md), a popular [algorithmic trading](../a/algorithmic_trading.md) platform, provides tools and resources to incorporate WAD into custom algorithms. (Visit [QuantConnect](https://www.quantconnect.com/) for more details.)
+Numerous financial institutions and trading platforms implement WAD in their [trading systems](../t/trading_systems.md) to support a diverse [range](../r/range.md) of strategies. For example, [QuantConnect](../q/quantconnect.md), a popular [algorithmic trading](../a/algorithmic_trading.md) platform, provides tools and resources to incorporate WAD into custom algorithms. (Visit QuantConnect for more details.)
 
 ## Challenges and Considerations
 
@@ -61,5 +61,4 @@ While WAD is a powerful tool, traders must be aware of its limitations and consi
 
 Williams Accumulation/[Distribution](../d/distribution.md) remains an invaluable [indicator](../i/indicator.md) for traders and analysts seeking to understand the intricate dynamics of buying and selling pressure in [financial markets](../f/financial_market.md). By integrating WAD into [algorithmic trading](../a/algorithmic_trading.md) systems, traders can enhance their decision-making processes, develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md), and potentially achieve better trading outcomes. However, like all technical tools, WAD should be used in conjunction with other indicators and comprehensive [market](../m/market.md) analysis to optimize its effectiveness and mitigate risks.
 
-For further reading and implementation details, interested individuals can explore resources provided by platforms like [QuantConnect](https://www.quantconnect.com/).
-
+For further reading and implementation details, interested individuals can explore resources provided by platforms like QuantConnect.

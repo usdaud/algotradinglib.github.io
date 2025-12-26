@@ -58,9 +58,9 @@ Dynamic pricing involves adjusting the prices of financial instruments in real-t
 
 #### Companies Specializing in Algorithmic Trading and Yield Management
 
-1. **Kensho Technologies (/www.kensho.com):** A [data analytics](../d/data_analytics.md) and machine intelligence company providing [trading algorithms](../t/trading_algorithms.md) and financial analytics.
-2. **[QuantConnect](../q/quantconnect.md) (/www.[quantconnect](../q/quantconnect.md).com):** An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop and backtest [trading strategies](../t/trading_strategies.md).
-3. **[AlgoTrader](../a/algotrader.md) (/www.[algotrader](../a/algotrader.md).com):** An [algorithmic trading](../a/algorithmic_trading.md) software suite [offering](../o/offering.md) a comprehensive platform for trading and [backtesting](../b/backtesting.md) strategies.
+1. **Kensho Technologies (/ A [data analytics](../d/data_analytics.md) and machine intelligence company providing [trading algorithms](../t/trading_algorithms.md) and financial analytics.
+2. **[QuantConnect](../q/quantconnect.md) (/ An [open](../o/open.md)-source, cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that enables users to develop and backtest [trading strategies](../t/trading_strategies.md).
+3. **[AlgoTrader](../a/algotrader.md) (/ An [algorithmic trading](../a/algorithmic_trading.md) software suite [offering](../o/offering.md) a comprehensive platform for trading and [backtesting](../b/backtesting.md) strategies.
 
 #### Advanced Technologies Utilized
 

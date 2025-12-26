@@ -11,17 +11,17 @@ The fundamental premise behind the IMI is that it provides a quantitative evalua
 The calculation of the IMI follows these steps:
 
 1. **Calculate Intraday Gains and Losses**:
-   - If the close of the day is higher than the [open](../o/open.md), it is considered an intraday [gain](../g/gain.md).
-   - If the close is lower than the [open](../o/open.md), it is considered an intraday loss.
+ - If the close of the day is higher than the [open](../o/open.md), it is considered an intraday [gain](../g/gain.md).
+ - If the close is lower than the [open](../o/open.md), it is considered an intraday loss.
 
 2. **Sum of Gains and Losses**:
-   - The total amount of intraday gains and losses over a specific period (e.g., 14 days) are summed.
+ - The total amount of intraday gains and losses over a specific period (e.g., 14 days) are summed.
 
 3. **[Relative Strength](../r/relative_strength.md)**:
-   - Calculate the ratio of the total gains to the total losses.
+ - Calculate the ratio of the total gains to the total losses.
 
 4. **IMI Formula**:
-   - \( \text{IMI} = 100 \times \frac{\text{Sum of Gains}}{\text{Sum of Gains} + \text{Sum of Losses}} \)
+ - \( \text{IMI} = 100 \times \frac{\text{Sum of Gains}}{\text{Sum of Gains} + \text{Sum of Losses}} \)
 
 The resulting [value](../v/value.md) of the IMI [will](../w/will.md) [range](../r/range.md) between 0 and 100. When the IMI is above 70, it indicates the [asset](../a/asset.md) is [overbought](../o/overbought.md), and when it is below 30, it indicates that the [asset](../a/asset.md) is [oversold](../o/oversold.md).
 
@@ -29,15 +29,15 @@ The resulting [value](../v/value.md) of the IMI [will](../w/will.md) [range](../
 
 The IMI is typically used in the following ways:
 
-- **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**: 
-  - A reading above 70 generally indicates an [overbought](../o/overbought.md) condition, suggesting a potential sell-off.
-  - A reading below 30 indicates an [oversold](../o/oversold.md) condition, suggesting a potential [rally](../r/rally.md).
-  
+- **[Overbought](../o/overbought.md) and [Oversold](../o/oversold.md) Conditions**:
+ - A reading above 70 generally indicates an [overbought](../o/overbought.md) condition, suggesting a potential sell-off.
+ - A reading below 30 indicates an [oversold](../o/oversold.md) condition, suggesting a potential [rally](../r/rally.md).
+
 - **[Divergence](../d/divergence.md)**:
-  - [Divergence](../d/divergence.md) between the [price action](../p/price_action.md) and the IMI can signal a potential [reversal](../r/reversal.md). For instance, if the price is making higher highs but the IMI is not, this could indicate a weakening [uptrend](../u/uptrend.md) and a potential [reversal](../r/reversal.md).
+ - [Divergence](../d/divergence.md) between the [price action](../p/price_action.md) and the IMI can signal a potential [reversal](../r/reversal.md). For instance, if the price is making higher highs but the IMI is not, this could indicate a weakening [uptrend](../u/uptrend.md) and a potential [reversal](../r/reversal.md).
 
 - **Confirmation**:
-  - The IMI can be used to confirm signals from other indicators. For example, if a moving average crossover indicates a buy signal and the IMI is in the [oversold](../o/oversold.md) territory, it could strengthen the case for going long.
+ - The IMI can be used to confirm signals from other indicators. For example, if a moving average crossover indicates a buy signal and the IMI is in the [oversold](../o/oversold.md) territory, it could strengthen the case for going long.
 
 ## Advantages and Limitations
 
@@ -58,23 +58,23 @@ The IMI is typically used in the following ways:
 Let's consider an example using a 14-day IMI on a stock trading at the beginning of each day:
 
 - **Daily Data**: Assume we have daily opening and closing prices for a stock over a 14-day period.
-  - Day 1: [Open](../o/open.md) = $100, Close = $102 ([Gain](../g/gain.md))
-  - Day 2: [Open](../o/open.md) = $102, Close = $101 (Loss)
-  - …
-  - Day 14: [Open](../o/open.md) = $105, Close = $107 ([Gain](../g/gain.md))
+ - Day 1: [Open](../o/open.md) = $100, Close = $102 ([Gain](../g/gain.md))
+ - Day 2: [Open](../o/open.md) = $102, Close = $101 (Loss)
+ - …
+ - Day 14: [Open](../o/open.md) = $105, Close = $107 ([Gain](../g/gain.md))
 
 - **Step-by-Step Calculation**:
-  - Calculate the intraday gains and losses for each day.
-  - Sum the intraday gains and losses over the 14-day period.
-  - Calculate the IMI using the formula provided.
+ - Calculate the intraday gains and losses for each day.
+ - Sum the intraday gains and losses over the 14-day period.
+ - Calculate the IMI using the formula provided.
 
 If the resulting IMI is above 70, it suggests that the stock is likely [overbought](../o/overbought.md), indicating that it might be a good time to consider selling or taking short positions. Conversely, if the IMI is below 30, the stock might be [oversold](../o/oversold.md), suggesting a potential buying opportunity.
 
 ## Case Study: Real-World Application
 
-Consider the case of high-frequency trading firms that use [automated trading systems](../a/automated_trading_systems.md). Institutions like [Citadel Securities](https://www.citadelsecurities.com/) often incorporate sophisticated algorithms that might include indicators like the IMI as part of their decision-making matrix. These firms might deploy the IMI across various timeframes and integrate it with other indicators to optimize their [trading strategies](../t/trading_strategies.md).
+Consider the case of high-frequency trading firms that use [automated trading systems](../a/automated_trading_systems.md). Institutions like Citadel Securities often incorporate sophisticated algorithms that might include indicators like the IMI as part of their decision-making matrix. These firms might deploy the IMI across various timeframes and integrate it with other indicators to optimize their [trading strategies](../t/trading_strategies.md).
 
-For example, Citadel Securities, known for its data-driven and high-frequency trading approaches, could use IMI to enhance the timing of their trades. By identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions on an intraday [basis](../b/basis.md), they can make rapid decisions to enter or exit positions, thereby maximizing their intraday profits. 
+For example, Citadel Securities, known for its data-driven and high-frequency trading approaches, could use IMI to enhance the timing of their trades. By identifying [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions on an intraday [basis](../b/basis.md), they can make rapid decisions to enter or exit positions, thereby maximizing their intraday profits.
 
 ## Conclusion
 

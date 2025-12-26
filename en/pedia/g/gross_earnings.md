@@ -1,6 +1,6 @@
 # Gross Earnings
 
-In the realm of [algorithmic trading](../a/accountability.md) and [financial analysis](../f/financial_analysis.md), the term "Gross [Earnings](../e/earnings.md)" is a critical metric often utilized to evaluate the performance and profitability of trades, companies, and individual [business](../b/business.md) units. Gross [Earnings](../e/earnings.md) represents the total [revenue](../r/revenue.md) earned by a company, or generated through [trading strategies](../t/trading_strategies.md), before deducting any operating expenses, [taxes](../t/taxes.md), and [interest](../i/interest.md) payments. Understanding gross [earnings](../e/earnings.md) allows traders and analysts to assess the ability of a company's core activities to generate [income](../i/income.md) and also aids in the comparison of performance across different time periods or against competitors.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md) and [financial analysis](../f/financial_analysis.md), the term "Gross [Earnings](../e/earnings.md)" is a critical metric often utilized to evaluate the performance and profitability of trades, companies, and individual [business](../b/business.md) units. Gross [Earnings](../e/earnings.md) represents the total [revenue](../r/revenue.md) earned by a company, or generated through [trading strategies](../t/trading_strategies.md), before deducting any operating expenses, [taxes](../t/taxes.md), and [interest](../i/interest.md) payments. Understanding gross [earnings](../e/earnings.md) allows traders and analysts to assess the ability of a company's core activities to generate [income](../i/income.md) and also aids in the comparison of performance across different time periods or against competitors.
 
 ## Definition and Calculation
 
@@ -16,7 +16,7 @@ COGS includes all direct costs attributable to the production of the goods sold 
 
 ## Importance in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), where automated systems make trading decisions based on predefined criteria, gross [earnings](../e/earnings.md) provide a clear picture of the profitability of different [trading algorithms](../t/trading_algorithms.md) or strategies. Here's why gross [earnings](../e/earnings.md) are important in this context:
+In [algorithmic trading](../a/algorithmic_trading.md), where automated systems make trading decisions based on predefined criteria, gross [earnings](../e/earnings.md) provide a clear picture of the profitability of different [trading algorithms](../t/trading_algorithms.md) or strategies. Here's why gross [earnings](../e/earnings.md) are important in this context:
 
 1. **Performance Measurement**: By analyzing the gross [earnings](../e/earnings.md) of various [trading strategies](../t/trading_strategies.md), traders can identify which algorithms are the most profitable before considering other expenses.
 2. **Comparison and Benchmarking**: Gross [earnings](../e/earnings.md) can be used to compare the performance of different [trading algorithms](../t/trading_algorithms.md), even if they operate in different markets or [asset](../a/asset.md) classes.
@@ -46,12 +46,12 @@ It is important to distinguish gross [earnings](../e/earnings.md) from net [earn
 
 ## Case Study: Renaissance Technologies
 
-Renaissance Technologies is a quantitative [investment management](../i/investment_management.md) company known for its success in [algorithmic trading](../a/accountability.md). The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md), which employs complex algorithms and high-frequency [trading strategies](../t/trading_strategies.md), has generated exceptional gross [earnings](../e/earnings.md) over the years.
+Renaissance Technologies is a quantitative [investment management](../i/investment_management.md) company known for its success in [algorithmic trading](../a/algorithmic_trading.md). The [firm](../f/firm.md)’s Medallion [Fund](../f/fund.md), which employs complex algorithms and high-frequency [trading strategies](../t/trading_strategies.md), has generated exceptional gross [earnings](../e/earnings.md) over the years.
 
-- [Renaissance Technologies](https://www.rentec.com/)
+- Renaissance Technologies
 
 By analyzing the gross [earnings](../e/earnings.md) of the Medallion [Fund](../f/fund.md), Renaissance Technologies can fine-tune its [trading algorithms](../t/trading_algorithms.md) to maximize profitability. The gross [earnings](../e/earnings.md) provide insight into how well the algorithms are performing before [accounting](../a/accounting.md) for operational costs and other expenses.
 
 ## Conclusion
 
-Gross [earnings](../e/earnings.md) are a fundamental metric in both [algorithmic trading](../a/accountability.md) and broader [financial analysis](../f/financial_analysis.md). By providing a clear measure of the [revenue](../r/revenue.md) generated from core activities, gross [earnings](../e/earnings.md) help traders, investors, and analysts assess performance, optimize strategies, and make informed decisions. Understanding and leveraging gross [earnings](../e/earnings.md) can significantly enhance the evaluation and profitability of trading activities and [business](../b/business.md) operations.
+Gross [earnings](../e/earnings.md) are a fundamental metric in both [algorithmic trading](../a/algorithmic_trading.md) and broader [financial analysis](../f/financial_analysis.md). By providing a clear measure of the [revenue](../r/revenue.md) generated from core activities, gross [earnings](../e/earnings.md) help traders, investors, and analysts assess performance, optimize strategies, and make informed decisions. Understanding and leveraging gross [earnings](../e/earnings.md) can significantly enhance the evaluation and profitability of trading activities and [business](../b/business.md) operations.

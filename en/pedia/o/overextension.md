@@ -93,7 +93,7 @@ Cryptocurrencies like [Bitcoin](../b/bitcoin.md) experienced overextension durin
 ## The Role of Technology in Overextension
 
 Technology has both mitigated and exacerbated overextension:
-- **[Algorithmic Trading](../a/accountability.md):** Algorithms can respond to [market](../m/market.md) conditions swiftly, sometimes leading to rapid price corrections. However, they can also amplify overextension through high-frequency trading.
+- **[Algorithmic Trading](../a/algorithmic_trading.md):** Algorithms can respond to [market](../m/market.md) conditions swiftly, sometimes leading to rapid price corrections. However, they can also amplify overextension through high-frequency trading.
 - **[Social Media](../s/social_media.md):** Platforms like Twitter and Reddit can rapidly spread news or rumors, causing dramatic and often unwarranted price movements.
 - **[Data Analytics](../d/data_analytics.md):** Advanced analytics provide deeper insights into potential overextension, helping traders make informed decisions.
 

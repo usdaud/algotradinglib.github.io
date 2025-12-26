@@ -16,11 +16,11 @@ Before delving deeply into [delta neutral strategies](../d/delta_neutral_strateg
 A [delta](../d/delta.md) [neutral](../n/neutral.md) portfolio requires balancing the deltas of various positions so that the overall [delta](../d/delta.md) is zero. This can be achieved using [options](../o/options.md) and other financial instruments. Here’s an example:
 
 1. **Stock and Option Combination:**
-   - Suppose an [investor](../i/investor.md) owns 100 [shares](../s/shares.md) of a stock. The [delta](../d/delta.md) of the stock is +1 per share, so the total [delta](../d/delta.md) for 100 [shares](../s/shares.md) is +100.
-   - To neutralize this [delta](../d/delta.md), the [investor](../i/investor.md) could sell call [options](../o/options.md) or buy [put options](../p/put_options.md) with a total [delta](../d/delta.md) of -100.
-   
+ - Suppose an [investor](../i/investor.md) owns 100 [shares](../s/shares.md) of a stock. The [delta](../d/delta.md) of the stock is +1 per share, so the total [delta](../d/delta.md) for 100 [shares](../s/shares.md) is +100.
+ - To neutralize this [delta](../d/delta.md), the [investor](../i/investor.md) could sell call [options](../o/options.md) or buy [put options](../p/put_options.md) with a total [delta](../d/delta.md) of -100.
+
 2. **[Multiple](../m/multiple.md) Option Positions:**
-   - The [investor](../i/investor.md) could combine [multiple](../m/multiple.md) [options](../o/options.md) with varying deltas. For instance, if the [investor](../i/investor.md) sells 2 call [options](../o/options.md) with a [delta](../d/delta.md) of 0.5 each and buys 1 [put option](../p/put.md) with a [delta](../d/delta.md) of -1, the net [delta](../d/delta.md) would be 0 (2 * +0.5 - 1 = 0).
+ - The [investor](../i/investor.md) could combine [multiple](../m/multiple.md) [options](../o/options.md) with varying deltas. For instance, if the [investor](../i/investor.md) sells 2 call [options](../o/options.md) with a [delta](../d/delta.md) of 0.5 each and buys 1 [put option](../p/put.md) with a [delta](../d/delta.md) of -1, the net [delta](../d/delta.md) would be 0 (2 * +0.5 - 1 = 0).
 
 ### Example
 
@@ -35,7 +35,7 @@ In this scenario, small changes in the price of ABC stock [will](../w/will.md) n
 
 ## Benefits of Delta Neutral Strategies
 
-1. **[Market](../m/market.md) Neutrality:** The primary benefit of [delta neutral strategies](../d/delta_neutral_strategies.md) is that they are [market](../m/market.md)-[neutral](../n/neutral.md). This means that the portfolio is not biased towards bullish or bearish [market](../m/market.md) movements. 
+1. **[Market](../m/market.md) Neutrality:** The primary benefit of [delta neutral strategies](../d/delta_neutral_strategies.md) is that they are [market](../m/market.md)-[neutral](../n/neutral.md). This means that the portfolio is not biased towards bullish or bearish [market](../m/market.md) movements.
 2. **[Risk Management](../r/risk_management.md):** These strategies help in managing the [risk](../r/risk.md) associated with price movements in the [underlying asset](../u/underlying_asset.md). By balancing the [delta](../d/delta.md), investors can [hedge](../h/hedge.md) their portfolios against unexpected [market](../m/market.md) swings.
 3. **[Profit](../p/profit.md) from [Volatility](../v/volatility.md):** [Delta](../d/delta.md) [neutral](../n/neutral.md) portfolios can [profit](../p/profit.md) from changes in [volatility](../v/volatility.md), as the [value](../v/value.md) of [options](../o/options.md) is also dependent on [volatility](../v/volatility.md). Traders can exploit changes in implied [volatility](../v/volatility.md) without worrying about the price direction of the [underlying asset](../u/underlying_asset.md).
 
@@ -56,7 +56,7 @@ One of the widely-used methods of maintaining a [delta](../d/delta.md) [neutral]
 
 #### Example Platform: Kace Capital Advisors
 
-- [Kace Capital Advisors](https://www.kacecapitaladvisors.com/)
+- Kace Capital Advisors
 
 Kace [Capital](../c/capital.md) Advisors offers advanced trading solutions that include [delta neutral strategies](../d/delta_neutral_strategies.md). Their [algorithmic trading](../a/accountability.md) systems help in dynamically hedging portfolios to maintain [delta](../d/delta.md) neutrality.
 

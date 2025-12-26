@@ -52,13 +52,13 @@ Over various time periods, the Dogs of the Dow strategy has generally performed 
 
 ## Resources and Tools
 
-### Official Website
-For those interested in regularly updated data and community discussions about the Dogs of the Dow strategy, the official website [dogsofthedow.com](https://www.dogsofthedow.com) serves as a central resource.
+###
+For those interested in regularly updated data and community discussions about the Dogs of the Dow strategy, the public materials online resource serves as a central resource.
 
 ### Stock Screeners and Financial Services
 Many financial platforms now provide tools and screeners tailored to the Dogs of the Dow strategy, allowing investors to easily identify high-[yield](../y/yield.md) Dow [stocks](../s/stock.md):
-- **[Yahoo Finance](../y/yahoo_finance.md) [Dividend](../d/dividend.md) Screener**: [finance.yahoo.com](https://finance.yahoo.com)
-- **MarketWatch [Dividend](../d/dividend.md) Screener**: [marketwatch.com](https://www.marketwatch.com)
+- **[Yahoo Finance](../y/yahoo_finance.md) [Dividend](../d/dividend.md) Screener**: finance.yahoo.com
+- **MarketWatch [Dividend](../d/dividend.md) Screener**: marketwatch.com
 
 ## Conclusion
 

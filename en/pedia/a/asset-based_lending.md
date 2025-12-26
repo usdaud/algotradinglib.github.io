@@ -88,10 +88,10 @@ Companies undergoing [restructuring](../r/restructuring.md) or [turnaround](../t
 
 Several financial institutions specialize in [asset](../a/asset.md)-based lending, [offering](../o/offering.md) tailored solutions to businesses of all sizes. Notable examples include:
 
-- **Wells Fargo [Capital](../c/capital.md) [Finance](../f/finance.md)**: [Wells Fargo](https://www.wellsfargo.com/com/financing/asset-based-lending/)
-- **CIT Group**: [CIT Group](https://www.cit.com/commercial-financing/asset-based-lending/)
-- **PNC [Business](../b/business.md) [Credit](../c/credit.md)**: [PNC Bank](https://www.pnc.com/en/corporate-and-institutional/financing/lending-options/asset-based-lending.html)
-- **JPMorgan Chase**: [J.P. Morgan](https://www.jpmorgan.com/commercial-banking/solutions/asset-based-lending)
+- **Wells Fargo [Capital](../c/capital.md) [Finance](../f/finance.md)**: Wells Fargo
+- **CIT Group**: CIT Group
+- **PNC [Business](../b/business.md) [Credit](../c/credit.md)**: PNC Bank
+- **JPMorgan Chase**: J.P. Morgan
 
 ## Regulatory Considerations
 

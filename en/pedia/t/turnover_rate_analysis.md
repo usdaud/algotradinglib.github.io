@@ -44,7 +44,6 @@ High [turnover](../t/turnover.md) [trading strategies](../t/trading_strategies.m
 
 Renaissance Technologies, founded by James Simons, is famous for its high-frequency [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) utilizes sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to predict price movements and execute thousands of trades per second. The high [turnover](../t/turnover.md) rates associated with such strategies can lead to substantial profits, but also involve significant [transaction costs](../t/transaction_costs.md) and risks.
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Low Turnover Strategies
 
@@ -54,7 +53,6 @@ Low [turnover strategies](../t/turnover_strategies.md), such as [value investing
 
 Bridgewater Associates, founded by Ray Dalio, focuses on long-term macroeconomic trends and [fundamental analysis](../f/fundamental_analysis.md). The [firm](../f/firm.md)'s strategies often involve holding positions for extended periods, leading to lower [turnover](../t/turnover.md) rates compared to high-frequency traders.
 
-[Visit Bridgewater Associates](https://www.bridgewater.com/)
 
 ## Impact on Performance
 
@@ -80,11 +78,10 @@ Several tools and techniques can help in [turnover](../t/turnover.md) rate analy
 - **[Transaction Cost Analysis](../t/transaction_cost_analysis.md) (TCA):** Assessing the costs associated with trading to optimize [execution](../e/execution.md) and reduce expenses.
 - **[Portfolio Rebalancing](../p/portfolio_rebalancing.md):** Regularly adjusting the portfolio to maintain the desired allocation while controlling [turnover](../t/turnover.md) rates.
 
-#### Example: QuantConnect
+#### Example: StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a platform that provides tools for [backtesting](../b/backtesting.md) and live trading algorithmic strategies. Users can analyze [turnover](../t/turnover.md) rates and other [performance metrics](../p/performance_metrics.md) to fine-tune their strategies.
+[StockSharp](../s/stocksharp.md) is a platform that provides tools for [backtesting](../b/backtesting.md) and live trading algorithmic strategies. Users can analyze [turnover](../t/turnover.md) rates and other [performance metrics](../p/performance_metrics.md) to fine-tune their strategies.
 
-[Visit QuantConnect](https://www.quantconnect.com/)
 
 ## Conclusion
 

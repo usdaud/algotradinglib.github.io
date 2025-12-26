@@ -1,10 +1,10 @@
 # Trade Credit
 
-[Trade](../t/trade.md) [credit](../c/credit.md) is a critical concept in [finance](../f/finance.md) and [business](../b/business.md) operations that plays a substantial role in the [cash flow](../c/cash_flow.md) and [working capital management](../w/working_capital_management.md) of companies. It essentially refers to the [credit](../c/credit.md) extended by a seller to a buyer between the time the goods or services are received and the time [payment](../p/payment.md) is due. This financial arrangement allows businesses to obtain goods or services and pay for them later, thus acting as a form of short-term [financing](../f/financing.md). 
+[Trade](../t/trade.md) [credit](../c/credit.md) is a critical concept in [finance](../f/finance.md) and [business](../b/business.md) operations that plays a substantial role in the [cash flow](../c/cash_flow.md) and [working capital management](../w/working_capital_management.md) of companies. It essentially refers to the [credit](../c/credit.md) extended by a seller to a buyer between the time the goods or services are received and the time [payment](../p/payment.md) is due. This financial arrangement allows businesses to obtain goods or services and pay for them later, thus acting as a form of short-term [financing](../f/financing.md).
 
 ## Understanding Trade Credit
 
-[Trade](../t/trade.md) [credit](../c/credit.md) is commonly represented by the terms "net 30," "net 60," "2/10 net 30," etc., found on invoices. These terms specify the [payment](../p/payment.md) period and any potential discounts for early [payment](../p/payment.md). For instance, "2/10 net 30" means the buyer gets a 2% [discount](../d/discount.md) if [payment](../p/payment.md) is made within the first 10 days; otherwise, the full [payment](../p/payment.md) is due in 30 days. 
+[Trade](../t/trade.md) [credit](../c/credit.md) is commonly represented by the terms "net 30," "net 60," "2/10 net 30," etc., found on invoices. These terms specify the [payment](../p/payment.md) period and any potential discounts for early [payment](../p/payment.md). For instance, "2/10 net 30" means the buyer gets a 2% [discount](../d/discount.md) if [payment](../p/payment.md) is made within the first 10 days; otherwise, the full [payment](../p/payment.md) is due in 30 days.
 
 [Trade](../t/trade.md) [credit](../c/credit.md) can be seen as a way to build and sustain [business](../b/business.md) relationships, enabling suppliers to foster loyalty from their customers. Conversely, it allows purchasing companies to manage their [cash flow](../c/cash_flow.md) more effectively, avoiding the need for immediate outlays of cash.
 
@@ -12,7 +12,7 @@ Below, we'll delve into various aspects of [trade](../t/trade.md) [credit](../c/
 
 ## Types of Trade Credit
 
-### 1. Open Account 
+### 1. Open Account
 
 An [open](../o/open.md) account is the most common type of [trade](../t/trade.md) [credit](../c/credit.md). Under this arrangement, the supplier ships goods or services to the buyer along with an [invoice](../i/invoice.md). The buyer is expected to pay by the agreed-upon terms, usually within 30-90 days.
 
@@ -24,7 +24,7 @@ Installment [credit](../c/credit.md) involves payments being made in specific am
 
 A [trade](../t/trade.md) draft is a form of written [order](../o/order.md) by a seller (the drawer) to the buyer (the drawee) instructing the buyer to pay a specified amount on a particular date either immediately or at a later date. It on rare occasions helps to secure [trade](../t/trade.md) [credit](../c/credit.md).
 
-### 4. Consignment 
+### 4. Consignment
 
 In a [consignment](../c/consignment.md) arrangement, the supplier sends goods to a retailer who pays for the goods only once they are sold. This situation is beneficial for both parties - the supplier gets [market](../m/market.md) access, and the retailer operates without immediate financial outlay.
 
@@ -132,8 +132,6 @@ Several online platforms specialize in facilitating [trade](../t/trade.md) [cred
 
 [Trade](../t/trade.md) [credit](../c/credit.md) is an indispensable component of modern [business](../b/business.md) operations, providing significant benefits while also posing certain risks. Effective [trade](../t/trade.md) [credit](../c/credit.md) management involves setting clear policies, assessing [customer](../c/customer.md) [creditworthiness](../c/creditworthiness.md), and leveraging technology to streamline processes and mitigate risks. By balancing these elements, companies can use [trade](../t/trade.md) [credit](../c/credit.md) to enhance their [cash flow](../c/cash_flow.md), strengthen relationships, and drive growth.
 
-[Discover more about trade credit](https://www.investopedia.com/terms/t/trade-credit.asp)
 
-[More insights about management and finance](https://hbr.org)
 
 The intelligent and strategic use of [trade](../t/trade.md) [credit](../c/credit.md), coupled with thorough [risk management](../r/risk_management.md), can serve as a powerful tool for sustaining and expanding [business](../b/business.md) operations in a competitive marketplace.

@@ -6,8 +6,6 @@ BtcTurk | Pro is a professional cryptocurrency [trading platform](../t/trading_p
 
 Founded in 2013 by Kerem Tibuk, BtcTurk is one of the pioneers in Turkey's cryptocurrency [market](../m/market.md). The launch of BtcTurk | Pro marked a significant milestone in the platform's evolution, aiming to attract serious traders by providing advanced trading capabilities. As of the latest updates, BtcTurk | Pro supports a wide array of cryptocurrencies, including but not limited to [Bitcoin](../b/bitcoin.md) (BTC), [Ethereum](../e/ethereum_.md) (ETH), [Ripple](../r/ripple.md) (XRP), and Litecoin (LTC).
 
-The official website for BtcTurk | Pro can be accessed at [pro.btcturk.com](https://pro.btcturk.com/).
-
 ## Key Features
 
 ### Advanced Trading Interface
@@ -124,4 +122,4 @@ Deploy your algorithm on a live server and continuously monitor its performance.
 
 BtcTurk | Pro stands as a comprehensive and sophisticated [trading platform](../t/trading_platform.md), catering to both novice and seasoned traders. With its advanced trading tools, high [liquidity](../l/liquidity.md), [robust](../r/robust.md) [security](../s/security.md) measures, and support for [multiple](../m/multiple.md) [trading strategies](../t/trading_strategies.md), BtcTurk | Pro is well-positioned to be a leading choice in the evolving landscape of cryptocurrency trading.
 
-For more information and to start trading, visit [pro.btcturk.com](https://pro.btcturk.com/).
+For more information and to start trading, visit pro.btcturk.com.

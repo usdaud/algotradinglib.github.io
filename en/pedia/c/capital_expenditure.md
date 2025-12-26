@@ -86,21 +86,20 @@ Economic analysts might also consider CapEx trends across industries to gauge th
 
 ### Technology Companies
 
-Technology firms like [Apple](https://www.apple.com) or [Amazon](https://www.amazon.com) regularly engage in substantial CapEx. For instance, Amazon invests heavily in data centers and large-scale warehouse facilities to keep up with the [demand](../d/demand.md) for its [cloud computing](../c/cloud_computing_in_trading.md) services and eCommerce operations. 
-
+Technology firms like Apple or Amazon regularly engage in substantial CapEx. For instance, Amazon invests heavily in data centers and large-scale warehouse facilities to keep up with the [demand](../d/demand.md) for its [cloud computing](../c/cloud_computing_in_trading.md) services and eCommerce operations.
 ### Manufacturing Companies
 
-[Manufacturing](../m/manufacturing.md) giants such as [Toyota](https://www.toyota.com) invest in new production lines, [manufacturing](../m/manufacturing.md) plants, and advanced machinery to ensure they remain at the forefront of automotive technology and [production efficiency](../p/production_efficiency.md).
+[Manufacturing](../m/manufacturing.md) giants such as Toyota invest in new production lines, [manufacturing](../m/manufacturing.md) plants, and advanced machinery to ensure they remain at the forefront of automotive technology and [production efficiency](../p/production_efficiency.md).
 
 ### Utility Companies
 
-[Utility](../u/utility.md) companies like [Exelon](https://www.exeloncorp.com) invest in [infrastructure](../i/infrastructure.md) such as power plants, electric grids, and pipelines. These investments are crucial to maintaining an uninterrupted [supply](../s/supply.md) of utilities and adapting to regulatory changes.
+[Utility](../u/utility.md) companies like Exelon invest in [infrastructure](../i/infrastructure.md) such as power plants, electric grids, and pipelines. These investments are crucial to maintaining an uninterrupted [supply](../s/supply.md) of utilities and adapting to regulatory changes.
 
 ## Challenges Associated with Capital Expenditure
 
 ### High Initial Costs
 
-[Capital](../c/capital.md) expenditures often involve significant upfront costs that can be a financial burden, especially for smaller companies. 
+[Capital](../c/capital.md) expenditures often involve significant upfront costs that can be a financial burden, especially for smaller companies.
 
 ### Risk of Obsolescence
 

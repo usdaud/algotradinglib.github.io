@@ -88,11 +88,11 @@ Maintaining high [ethical standards](../e/ethical_standards_in_trading.md) is es
 
 Several leading companies [offer](../o/offer.md) employment agency services, each with its unique expertise and [fee](../f/fee.md) structures. Here are a few notable ones:
 
-1. **Robert Half**: An international staffing [firm](../f/firm.md) specializing in [accounting](../a/accounting.md), [finance](../f/finance.md), technology, and legal sectors. [Robert Half](https://www.roberthalf.com/)
-2. **Randstad**: A global leader in HR services, [offering](../o/offering.md) a [range](../r/range.md) of staffing solutions across various industries. [Randstad](https://www.randstad.com/)
-3. **ManpowerGroup**: Provides workforce solutions to businesses globally, including recruitment, training, and [outsourcing](../o/outsourcing.md). [ManpowerGroup](https://www.manpowergroup.com/)
-4. **Korn Ferry**: An executive search and consulting [firm](../f/firm.md), specializing in [leadership](../l/leadership.md) and talent consulting. [Korn Ferry](https://www.kornferry.com/)
-5. **Hays**: A global recruitment company [offering](../o/offering.md) specialized staffing and workforce management solutions. [Hays](https://www.hays.com/)
+1. **Robert Half**: An international staffing [firm](../f/firm.md) specializing in [accounting](../a/accounting.md), [finance](../f/finance.md), technology, and legal sectors. Robert Half
+2. **Randstad**: A global leader in HR services, [offering](../o/offering.md) a [range](../r/range.md) of staffing solutions across various industries. Randstad
+3. **ManpowerGroup**: Provides workforce solutions to businesses globally, including recruitment, training, and [outsourcing](../o/outsourcing.md). ManpowerGroup
+4. **Korn Ferry**: An executive search and consulting [firm](../f/firm.md), specializing in [leadership](../l/leadership.md) and talent consulting. Korn Ferry
+5. **Hays**: A global recruitment company [offering](../o/offering.md) specialized staffing and workforce management solutions. Hays
 
 ## Conclusion
 

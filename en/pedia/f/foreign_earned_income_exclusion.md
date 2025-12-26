@@ -50,7 +50,7 @@ Individuals who qualify and wish to claim the FEIE must file IRS Form 2555, Fore
 
 ### Proration
 
-If you qualify for the FEIE for only part of the year, the exclusion [will](../w/will.md) be prorated based on the number of days you were eligible during the year. 
+If you qualify for the FEIE for only part of the year, the exclusion [will](../w/will.md) be prorated based on the number of days you were eligible during the year.
 
 Example: If you were eligible for 180 days in the tax year, the exclusion amount would be ($112,000 / 365 days) * 180 days.
 
@@ -60,11 +60,11 @@ To calculate the allowable housing exclusion or [deduction](../d/deduction.md), 
 
 ## Foreign Tax Credit
 
-Another important [tax relief](../t/tax_relief.md) [provision](../p/provision.md) is the [Foreign Tax Credit](../f/foreign_tax_credit.md) (FTC), which is different from the FEIE. The FTC allows a [taxpayer](../t/taxpayer.md) to apply [taxes](../t/taxes.md) paid on foreign [income](../i/income.md) to [offset](../o/offset.md) U.S. [tax liability](../t/tax_liability.md). However, if you claim the FEIE, you cannot take a [credit](../c/credit.md) or [deduction](../d/deduction.md) for [taxes](../t/taxes.md) on the [income](../i/income.md) that is excluded. 
+Another important [tax relief](../t/tax_relief.md) [provision](../p/provision.md) is the [Foreign Tax Credit](../f/foreign_tax_credit.md) (FTC), which is different from the FEIE. The FTC allows a [taxpayer](../t/taxpayer.md) to apply [taxes](../t/taxes.md) paid on foreign [income](../i/income.md) to [offset](../o/offset.md) U.S. [tax liability](../t/tax_liability.md). However, if you claim the FEIE, you cannot take a [credit](../c/credit.md) or [deduction](../d/deduction.md) for [taxes](../t/taxes.md) on the [income](../i/income.md) that is excluded.
 
 ### Choice Between FEIE and FTC
 
-Taxpayers need to evaluate their specific circumstances to decide whether to claim the FEIE, the FTC, or both. Since the FEIE and FTC have different benefits and limitations, careful planning and potentially consulting with a tax professional may be beneficial. 
+Taxpayers need to evaluate their specific circumstances to decide whether to claim the FEIE, the FTC, or both. Since the FEIE and FTC have different benefits and limitations, careful planning and potentially consulting with a tax professional may be beneficial.
 
 ## Revocation of the Exclusion
 
@@ -84,4 +84,4 @@ It's essential to remember that while the FEIE excludes [income](../i/income.md)
 6. **Revocation**: Revoking the FEIE prevents claiming it again for five years without IRS approval.
 7. **State [Taxes](../t/taxes.md)**: State tax impacts should be reviewed separately.
 
-For more in-depth details, individuals should refer to the IRS Publication 54, "Tax Guide for U.S. Citizens and Resident Aliens Abroad," and the instructions for IRS Form 2555 available on the IRS website [here](https://www.irs.gov/forms-pubs/about-form-2555).
+For more in-depth details, individuals should refer to the IRS Publication 54, "Tax Guide for U.S. Citizens and Resident Aliens Abroad," and the instructions for IRS Form 2555 available on the IRS online platform here.

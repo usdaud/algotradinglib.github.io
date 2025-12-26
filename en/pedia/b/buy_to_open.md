@@ -1,6 +1,6 @@
 # Buy to Open
 
-"Buy to [Open](../o/open.md)" is a critical concept within the realm of [options](../o/options.md) trading and [algorithmic trading](../a/accountability.md). It refers to the initial purchase of [options](../o/options.md) contracts, which allows the [trader](../t/trader.md) to establish a new long position. This is distinct from other trading actions such as "Sell to [Open](../o/open.md)," "Buy to Close," or "Sell to Close," each of which plays a unique role in [options](../o/options.md) strategies and overall [trading strategies](../t/trading_strategies.md). This detailed exploration [will](../w/will.md) involve breaking down the concept, its applications, the mechanics behind it, and its relevance in [algorithmic trading](../a/accountability.md). 
+"Buy to [Open](../o/open.md)" is a critical concept within the realm of [options](../o/options.md) trading and [algorithmic trading](../a/accountability.md). It refers to the initial purchase of [options](../o/options.md) contracts, which allows the [trader](../t/trader.md) to establish a new long position. This is distinct from other trading actions such as "Sell to [Open](../o/open.md)," "Buy to Close," or "Sell to Close," each of which plays a unique role in [options](../o/options.md) strategies and overall [trading strategies](../t/trading_strategies.md). This detailed exploration [will](../w/will.md) involve breaking down the concept, its applications, the mechanics behind it, and its relevance in [algorithmic trading](../a/accountability.md).
 
 ## Understanding Buy to Open
 
@@ -18,7 +18,7 @@ Conversely, a "Buy to [Open](../o/open.md)" [transaction](../t/transaction.md) f
 
 ### Opening a Position
 
-When traders use the "Buy to [Open](../o/open.md)" [order](../o/order.md), they essentially [open](../o/open.md) a new position within their trading portfolio. This is typically executed through an online brokerage or [trading platform](../t/trading_platform.md) where the [order](../o/order.md) type can be specified. 
+When traders use the "Buy to [Open](../o/open.md)" [order](../o/order.md), they essentially [open](../o/open.md) a new position within their trading portfolio. This is typically executed through an online brokerage or [trading platform](../t/trading_platform.md) where the [order](../o/order.md) type can be specified.
 
 #### Example
 
@@ -30,7 +30,7 @@ Online trading platforms facilitate the "Buy to [Open](../o/open.md)" [order](..
 
 ### Cost Considerations
 
-The cost of the option contract, also known as the [premium](../p/premium.md), is a crucial element in a "Buy to [Open](../o/open.md)" [transaction](../t/transaction.md). This [premium](../p/premium.md) depends on various factors such as the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md), the time until expiration, and prevailing [market](../m/market.md) conditions. 
+The cost of the option contract, also known as the [premium](../p/premium.md), is a crucial element in a "Buy to [Open](../o/open.md)" [transaction](../t/transaction.md). This [premium](../p/premium.md) depends on various factors such as the [volatility](../v/volatility.md) of the [underlying asset](../u/underlying_asset.md), the time until expiration, and prevailing [market](../m/market.md) conditions.
 
 ## Applications in Trading Strategies
 
@@ -50,7 +50,7 @@ Complex [options](../o/options.md) strategies, such as [spreads](../s/spreads.md
 
 ## Relevance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), which involves the use of algorithms and automated systems to execute trades at high speeds and volumes, incorporates "Buy to [Open](../o/open.md)" as a key component of [options](../o/options.md)-[trading algorithms](../t/trading_algorithms.md). 
+[Algorithmic trading](../a/accountability.md), which involves the use of algorithms and automated systems to execute trades at high speeds and volumes, incorporates "Buy to [Open](../o/open.md)" as a key component of [options](../o/options.md)-[trading algorithms](../t/trading_algorithms.md).
 
 ### Strategy Development
 
@@ -66,7 +66,7 @@ Automated trading programs also incorporate "Buy to [Open](../o/open.md)" orders
 
 ### Platforms and Tools
 
-Several platforms and tools are available for traders looking to integrate "Buy to [Open](../o/open.md)" orders into their [algorithmic trading](../a/accountability.md) systems. Companies like [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com), [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com), and Thinkorswim (by TD [Ameritrade](../a/ameritrade.md) - https://www.tdameritrade.com) provide the necessary APIs and [infrastructure](../i/infrastructure.md).
+Several platforms and tools are available for traders looking to integrate "Buy to [Open](../o/open.md)" orders into their [algorithmic trading](../a/accountability.md) systems. Companies like [Interactive Brokers](../i/interactive_brokers.md) ( [TradeStation](../t/tradestation.md) ( and Thinkorswim (by TD [Ameritrade](../a/ameritrade.md) - provide the necessary APIs and [infrastructure](../i/infrastructure.md).
 
 ## Case Studies and Examples
 

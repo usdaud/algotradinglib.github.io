@@ -54,7 +54,7 @@ These expenses are also typically considered QAEs, but it's important to recogni
 ### United States Code (26 U.S. Code § 23)
 The legal [basis](../b/basis.md) for the Adoption [Tax Credit](../t/tax_credit.md) is found in the U.S. tax code. Legislators designed this [credit](../c/credit.md) to decrease the financial burden of adoption and encourage the adoption of children, especially those with special needs.
 
-### [IRS Publication 968](https://www.irs.gov/forms-pubs/about-publication-968)
+### IRS Publication 968
 This publication from the IRS provides details on the adoption [tax credit](../t/tax_credit.md) and employer-provided adoption assistance. It clarifies what constitutes QAEs and offers taxpayers instructions on how to claim these benefits.
 
 ## Case Studies and Practical Examples

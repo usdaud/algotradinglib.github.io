@@ -80,31 +80,26 @@ Meeting financial targets is a critical aspect of a CEO's role. They must ensure
 
 Elon Musk, CEO of SpaceX and Tesla, is one of the most well-known and influential CEOs in the world. He is known for his innovative approach and ambitious vision to revolutionize transportation and energy. Musk's [leadership](../l/leadership.md) has driven significant advancements in electric vehicles and space exploration.
 
-Website: [Tesla](https://www.tesla.com/elon-musk)
 
 ### Satya Nadella
 
 Satya Nadella, CEO of Microsoft, has been credited with transforming the company since taking the helm in 2014. Under his [leadership](../l/leadership.md), Microsoft has shifted its focus to [cloud computing](../c/cloud_computing_in_trading.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md), driving significant growth and innovation.
 
-Website: [Microsoft](https://news.microsoft.com/exec/satya-nadella/)
 
 ### Mary Barra
 
 Mary Barra, CEO of General Motors (GM), is the first female CEO of a major global automaker. She has led GM through significant transformations, including a stronger focus on electric and autonomous vehicles.
 
-Website: [General Motors](https://www.gm.com/our-company/board-of-directors/mary-barra.html)
 
 ### Tim Cook
 
 Tim Cook, CEO of Apple, succeeded Steve Jobs in 2011. Under Cook's [leadership](../l/leadership.md), Apple has continued to innovate and expand its product lineup, including the introduction of new services like Apple Music and Apple TV+.
 
-Website: [Apple](https://www.apple.com/leadership/tim-cook/)
 
 ### Sundar Pichai
 
 Sundar Pichai, CEO of Alphabet Inc. and its subsidiary Google, has overseen significant growth and [diversification](../d/diversification.md) of the company's product offerings, including advancements in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [cloud computing](../c/cloud_computing_in_trading.md).
 
-Website: [Alphabet Inc.](https://abc.xyz/investor/ceo-letters/)
 
 ## Conclusion
 

@@ -4,19 +4,19 @@ The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) (CMO) i
 
 ## Origins and Development
 
-The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) was introduced by Tushar Chande in his 1997 book "The New Technical [Trader](../t/trader.md)," co-authored with Stanley Kroll. Chande developed this [indicator](../i/indicator.md) to address some limitations in existing [momentum indicators](../m/momentum_indicators.md). Dr. Chande is known for his contributions to [technical analysis](../t/technical_analysis.md) and [quantitative trading](../q/quantitative_trading.md) strategies. His work is prominently featured in professional trading communities, although he does not maintain a personal website.
+The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) was introduced by Tushar Chande in his 1997 book "The New Technical [Trader](../t/trader.md)," co-authored with Stanley Kroll. Chande developed this [indicator](../i/indicator.md) to address some limitations in existing [momentum indicators](../m/momentum_indicators.md). Dr. Chande is known for his contributions to [technical analysis](../t/technical_analysis.md) and [quantitative trading](../q/quantitative_trading.md) strategies. His work is prominently featured in professional trading communities,
 
 ## Calculation
 
 The calculation of the CMO involves several steps, which can be broken down into the following components:
 1. **Select the period (n):** Common periods used for the CMO are 9, 14, or 20 days.
 2. **Calculate Up and Down Days:**
-   - **Up Days:** Sum of all gains over the selected period.
-   - **Down Days:** Sum of all losses over the selected period.
+ - **Up Days:** Sum of all gains over the selected period.
+ - **Down Days:** Sum of all losses over the selected period.
 3. **CMO Formula:**
-   \[
-   CMO = 100 \times \frac{(Sum\ of\ Gains\ -\ Sum\ of\ Losses)}{(Sum\ of\ Gains + Sum\ of\ Losses)}
-   \]
+ \[
+ CMO = 100 \times \frac{(Sum\ of\ Gains\ -\ Sum\ of\ Losses)}{(Sum\ of\ Gains + Sum\ of\ Losses)}
+ \]
 
 The resulting [value](../v/value.md) oscillates between -100 and +100. Values above +50 indicate an [overbought](../o/overbought.md) condition, while values below -50 indicate an [oversold](../o/oversold.md) condition.
 
@@ -24,7 +24,7 @@ The resulting [value](../v/value.md) oscillates between -100 and +100. Values ab
 
 ### Overbought and Oversold Levels
 
-When the CMO crosses above the +50 mark, it signals that the [asset](../a/asset.md) may be [overbought](../o/overbought.md), indicating a potential [reversal](../r/reversal.md) or [pullback](../p/pullback.md). Conversely, when the [value](../v/value.md) falls below -50, it suggests that the [asset](../a/asset.md) may be [oversold](../o/oversold.md), signaling a possible upward [reversal](../r/reversal.md). 
+When the CMO crosses above the +50 mark, it signals that the [asset](../a/asset.md) may be [overbought](../o/overbought.md), indicating a potential [reversal](../r/reversal.md) or [pullback](../p/pullback.md). Conversely, when the [value](../v/value.md) falls below -50, it suggests that the [asset](../a/asset.md) may be [oversold](../o/oversold.md), signaling a possible upward [reversal](../r/reversal.md).
 
 ### Divergence
 
@@ -70,16 +70,16 @@ Consider a stock with the following price changes over a 14-day period:
 Sum of gains = 0.5 + 1.2 + 0.7 + 1.8 + 0.3 = 4.5
 Sum of losses = 0.6 + 1.0 + 0.9 + 1.1 + 0.4 = 4.0
 
-CMO = 100 * ((4.5 - 4.0) / (4.5 + 4.0)) 
-    = 100 * (0.5 / 8.5)
-    = 100 * 0.0588 
-    = 5.88
+CMO = 100 * ((4.5 - 4.0) / (4.5 + 4.0))
+ = 100 * (0.5 / 8.5)
+ = 100 * 0.0588
+ = 5.88
 
 In this example, the CMO is 5.88, which implies a [neutral](../n/neutral.md) zone where neither [overbought](../o/overbought.md) nor [oversold](../o/oversold.md) conditions prevail.
 
 ## Software Implementation
 
-Traders and analysts can calculate the CMO using various [software tools](../s/software_tools_for_trading.md) and platforms. Popular trading software such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) built-in functions for the Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md). 
+Traders and analysts can calculate the CMO using various [software tools](../s/software_tools_for_trading.md) and platforms. Popular trading software such as MetaTrader, [TradingView](../t/tradingview.md), and [NinjaTrader](../n/ninjatrader.md) [offer](../o/offer.md) built-in functions for the Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md).
 
 ### TradingView Example
 
@@ -110,8 +110,8 @@ Professional trading firms such as Renaissance Technologies, D.E. Shaw Group, an
 
 A notable example of the application of [momentum oscillators](../m/momentum_oscillators.md) in trading comes from Renaissance Technologies, renowned for its Medallion [Fund](../f/fund.md). Although specific details about their algorithms are proprietary, the integration of indicators like the CMO helps in their [market](../m/market.md)-timing strategies. Renaissance Technologies has consistently delivered impressive returns by blending [mathematical models](../m/mathematical_models_in_trading.md) with real-world trading scenarios, showcasing the effectiveness of tools like the Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md).
 
-For more information about Renaissance Technologies, visit their [official website](https://www.rentec.com/).
+
 
 ## Conclusion
 
-The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) is a [robust](../r/robust.md) tool for identifying the [momentum](../m/momentum.md) of financial assets. Its sensitivity to price changes and ability to oscillate within a bounded [range](../r/range.md) make it a valuable addition to any [trader](../t/trader.md)'s toolkit. While it has its limitations, when used in conjunction with other indicators and within a comprehensive [trading strategy](../t/trading_strategy.md), the CMO can provide significant insights and aid in making more informed trading decisions.
+The Chande [Momentum](../m/momentum.md) [Oscillator](../o/oscillator.md) is a [robust](../r/robust.md) tool for identifying the [momentum](../m/momentum.md) of financial assets. Its sensitivity to price changes and ability to oscillate within a bounded [range](../r/range.md) make it a valuable addition to any [trader](../t/trader.md)'s toolkit. While it has its limitations, when used in conjunction with other indicators and within a comprehensive [trading strategy](../t/trading_strategy.md), the CMO can provide significant insights and aid in making more informed trading decisions.

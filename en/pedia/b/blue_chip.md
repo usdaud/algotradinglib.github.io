@@ -35,23 +35,23 @@ Management is a critical [factor](../f/factor.md) for blue chip companies. Effec
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com) is one of the most famous blue chip companies. Known for its innovative products like the iPhone, iPad, and Mac computers, Apple has a massive global presence and a long history of profitability and growth.
+Apple Inc. is one of the most famous blue chip companies. Known for its innovative products like the iPhone, iPad, and Mac computers, Apple has a massive global presence and a long history of profitability and growth.
 
 ### Microsoft Corporation
 
-Microsoft [Corporation](../c/corporation.md) (https://www.microsoft.com) is another quintessential blue chip. It has been a leader in software development, [cloud computing](../c/cloud_computing_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), consistently delivering strong financial results.
+Microsoft [Corporation](../c/corporation.md) ( is another quintessential blue chip. It has been a leader in software development, [cloud computing](../c/cloud_computing_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md), consistently delivering strong financial results.
 
 ### Coca-Cola Company
 
-The Coca-Cola Company (https://www.coca-colacompany.com) is a global leader in the beverage [industry](../i/industry.md). With a portfolio of more than 500 brands, Coca-Cola has demonstrated resilience and profitability over decades.
+The Coca-Cola Company ( is a global leader in the beverage [industry](../i/industry.md). With a portfolio of more than 500 brands, Coca-Cola has demonstrated resilience and profitability over decades.
 
 ### Johnson & Johnson
 
-Johnson & Johnson (https://www.jnj.com) is a diversified healthcare giant. Known for its pharmaceutical products, medical devices, and consumer health goods, it has a strong track record of growth and [dividend](../d/dividend.md) payments.
+Johnson & Johnson ( is a diversified healthcare giant. Known for its pharmaceutical products, medical devices, and consumer health goods, it has a strong track record of growth and [dividend](../d/dividend.md) payments.
 
 ### Procter & Gamble
 
-Procter & Gamble (https://www.pg.com) is a leading [consumer goods](../c/consumer_goods.md) company with a wide array of well-known brands, including Tide, Gillette, and Pampers. Its consistent performance and [dividend](../d/dividend.md) history make it a blue chip favorite.
+Procter & Gamble ( is a leading [consumer goods](../c/consumer_goods.md) company with a wide array of well-known brands, including Tide, Gillette, and Pampers. Its consistent performance and [dividend](../d/dividend.md) history make it a blue chip favorite.
 
 ## Benefits of Investing in Blue Chip Stocks
 

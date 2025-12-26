@@ -38,17 +38,17 @@ APIs facilitate the management of trading accounts by providing functionalities 
 To interact with trading APIs, several libraries and frameworks are available across different programming languages. These libraries provide pre-built functionalities to establish connections, [handle](../h/handle.md) data parsing, and manage authentication.
 
 ### **Python Libraries**
-- **ccxt**: A versatile library for cryptocurrency trading and accessing [multiple](../m/multiple.md) exchanges. [Website](https://github.com/ccxt/ccxt)
-- **zipline**: A Pythonic [algorithmic trading](../a/accountability.md) library used in [backtesting trading strategies](../b/backtesting_trading_strategies.md). [Website](https://www.zipline.io/)
-- **[alpaca](../a/alpaca.md)-[trade](../t/trade.md)-api**: A library for interfacing with the [Alpaca](../a/alpaca.md) [trading platform](../t/trading_platform.md), focusing on equities. [Website](https://github.com/alpacahq/alpaca-trade-api-python)
+- **ccxt**: A versatile library for cryptocurrency trading and accessing [multiple](../m/multiple.md)
+- **zipline**: A Pythonic [algorithmic trading](../a/accountability.md) library used in [backtesting trading strategies](../b/backtesting_trading_strategies.md).
+- **[alpaca](../a/alpaca.md)-[trade](../t/trade.md)-api**: A library for interfacing with the [Alpaca](../a/alpaca.md) [trading platform](../t/trading_platform.md),
 
 ### **JavaScript Libraries**
 - **ccxt**: Also available for JavaScript, providing similar functionalities as its Python version.
-- **node-[binance](../b/binance.md)-api**: A library for connecting to the [Binance](../b/binance.md) cryptocurrency [exchange](../e/exchange.md). [Website](https://github.com/jaggedsoft/node-binance-api)
-  
+- **node-[binance](../b/binance.md)-api**: A library for connecting to the [Binance](../b/binance.md) cryptocurrency [exchange](../e/exchange.md).
+
 ### **Java Libraries**
-- **XChange**: A Java library that provides a unified interface for [multiple](../m/multiple.md) cryptocurrency exchanges. [Website](https://github.com/knowm/XChange)
-- **[Marketcetera](../m/marketcetera.md)**: An [open](../o/open.md)-source [trading platform](../t/trading_platform.md) that includes Java libraries for various [broker](../b/broker.md) integrations. [Website](http://www.marketcetera.com/)
+- **XChange**: A Java library that provides a unified interface for [multiple](../m/multiple.md)
+- **[Marketcetera](../m/marketcetera.md)**: An [open](../o/open.md)-source [trading platform](../t/trading_platform.md) that includes Java libraries for various [broker](../b/broker.md)
 
 ## Security and Authentication
 
@@ -82,13 +82,13 @@ Quality documentation and [customer](../c/customer.md) support can significantly
 ## Examples of Popular Trading APIs
 
 ### **1. Alpaca**
-[Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API for [stocks](../s/stock.md) and ETFs. The API is designed for developers, providing extensive documentation and libraries for [multiple](../m/multiple.md) programming languages. [Website](https://alpaca.markets/)
+[Alpaca](../a/alpaca.md) offers a [commission](../c/commission.md)-free trading API for [stocks](../s/stock.md) and ETFs. The API is designed for developers, providing extensive documentation and libraries for [multiple](../m/multiple.md)
 
 ### **2. Interactive Brokers**
-[Interactive Brokers](../i/interactive_brokers.md) provides a [robust](../r/robust.md) API that supports trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes including [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), and forex. The API is particularly popular among institutional traders due to its extensive capabilities and high reliability. [Website](https://www.interactivebrokers.com/en/index.php?f=5041)
+[Interactive Brokers](../i/interactive_brokers.md) provides a [robust](../r/robust.md) API that supports trading across [multiple](../m/multiple.md) [asset](../a/asset.md) classes including [stocks](../s/stock.md), [options](../o/options.md), [futures](../f/futures.md), and forex. The API is particularly popular among institutional traders
 
 ### **3. Binance**
-[Binance](../b/binance.md) is one of the largest cryptocurrency exchanges and offers a comprehensive API for automated trading, including REST and WebSocket endpoints. The API supports a wide [range](../r/range.md) of functionalities from basic [order](../o/order.md) placement to advanced conditional orders. [Website](https://www.binance.com/en)
+[Binance](../b/binance.md) is one of the largest cryptocurrency exchanges and offers a comprehensive API for automated trading, including REST and WebSocket endpoints. The API supports a wide [range](../r/range.md) of functionalities from basic [order](../o/order.md)
 
 ## Implementing a Simple Trading Strategy Using an API
 
@@ -98,7 +98,7 @@ Below is a basic example of implementing a moving average crossover strategy usi
 [import](../i/import.md) alpaca_trade_api as tradeapi
 
 # Initialize the API connection
-api = tradeapi.REST('APCA-API-KEY-ID', 'APCA-API-SECRET-KEY', base_url='https://paper-api.[alpaca](../a/alpaca.md).markets')
+api = tradeapi.REST'APCA-API-KEY-ID', 'APCA-API-SECRET-KEY', base_url='
 
 # Define parameters
 symbol = "AAPL"
@@ -117,7 +117,7 @@ long_ma = sum(close_prices) / long_window
 position_size = 10  # Example position size
 if short_ma > long_ma:
     # Place a buy [order](../o/order.md)
-    api.submit_order(
+ api.submit_order
         symbol=symbol,
         qty=position_size,
         side='buy',
@@ -126,7 +126,7 @@ if short_ma > long_ma:
     )
 elif short_ma < long_ma:
     # Place a sell [order](../o/order.md)
-    api.submit_order(
+ api.submit_order
         symbol=symbol,
         qty=position_size,
         side='sell',

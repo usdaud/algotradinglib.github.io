@@ -40,19 +40,19 @@ Several trading platforms and analytical tools support WPA, making it easier for
 
 ### 1. **Bloomberg Terminal**
 
-The [Bloomberg](../b/bloomberg.md) Terminal is a comprehensive platform used by financial professionals worldwide. It supports a variety of analysis tools, including those needed for WPA. For more information, visit [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/).
+The [Bloomberg](../b/bloomberg.md) Terminal is a comprehensive platform used by financial professionals worldwide. It supports a variety of analysis tools, including those needed for WPA. For more information, visit Bloomberg Terminal.
 
 ### 2. **MetaTrader 5**
 
-MetaTrader 5 offers extensive tools for [technical analysis](../t/technical_analysis.md) and supports custom scripting, allowing traders to implement WPA strategies effectively. Find more at [MetaTrader 5](https://www.metatrader5.com/).
+MetaTrader 5 offers extensive tools for [technical analysis](../t/technical_analysis.md) and supports custom scripting, allowing traders to implement WPA strategies effectively. Find more at MetaTrader 5.
 
 ### 3. **TradeStation**
 
-[TradeStation](../t/tradestation.md) provides a [robust](../r/robust.md) platform for algorithmic traders, including tools and scripts for [weighted](../w/weighted.md) price analysis. Their platform is highly customizable and widely used for its analysis capabilities. Learn more at [TradeStation](https://www.tradestation.com/).
+[TradeStation](../t/tradestation.md) provides a [robust](../r/robust.md) platform for algorithmic traders, including tools and scripts for [weighted](../w/weighted.md) price analysis. Their platform is highly customizable and widely used for its analysis capabilities. Learn more at TradeStation.
 
 ### 4. **NinjaTrader**
 
-[NinjaTrader](../n/ninjatrader.md) is another popular platform that supports complex [trading strategies](../t/trading_strategies.md), including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. [Check](../c/check.md) out [NinjaTrader](https://ninjatrader.com/).
+[NinjaTrader](../n/ninjatrader.md) is another popular platform that supports complex [trading strategies](../t/trading_strategies.md), including those based on WPA. With its advanced charting tools and customizable scripts, it is widely utilized by algorithmic traders. [Check](../c/check.md) out NinjaTrader.
 
 ## Practical Implementation
 
@@ -68,15 +68,15 @@ The implementation of WPA in a [trading strategy](../t/trading_strategy.md) usua
 One of the most common applications of WPA is the [Volume](../v/volume.md)-[Weighted Average](../w/weighted_average.md) Price (VWAP), which gives more importance to price levels with higher trading volumes. Here's a step-by-step example of calculating VWAP:
 
 1. **Collect Data**:
-   - Price data: 100, 102, 101, 105
-   - [Volume](../v/volume.md) data: 200, 150, 180, 220
+ - Price data: 100, 102, 101, 105
+ - [Volume](../v/volume.md) data: 200, 150, 180, 220
 
 2. **Calculate VWAP**:
-   - Multiply each price by its corresponding [volume](../v/volume.md): (100*200) + (102*150) + (101*180) + (105*220)
-   - Sum the products: 20000 + 15300 + 18180 + 23100 = 76580
-   - Sum the volumes: 200 + 150 + 180 + 220 = 750
-   - Divide the total products by the total [volume](../v/volume.md): \( \frac{76580}{750} = 102.11 \)
-   - VWAP = 102.11
+ - Multiply each price by its corresponding [volume](../v/volume.md): (100*200) + (102*150) + (101*180) + (105*220)
+ - Sum the products: 20000 + 15300 + 18180 + 23100 = 76580
+ - Sum the volumes: 200 + 150 + 180 + 220 = 750
+ - Divide the total products by the total [volume](../v/volume.md): \( \frac{76580}{750} = 102.11 \)
+ - VWAP = 102.11
 
 By using VWAP, traders can identify the average price a [security](../s/security.md) has traded at over a given time period, [weighted](../w/weighted.md) by [volume](../v/volume.md), which is an essential metric for understanding [market efficiency](../m/market_efficiency.md) and [trend](../t/trend.md) direction.
 

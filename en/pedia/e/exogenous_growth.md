@@ -22,7 +22,7 @@ Various extensions and modifications of the Solow-Swan model have incorporated d
 ## Mechanisms of Exogenous Growth
 
 ### Technological Change
-Technological advancement is often viewed as the cornerstone of exogenous growth. Innovations lead to more efficient production processes, higher quality goods, and the ability to create entirely new markets. 
+Technological advancement is often viewed as the cornerstone of exogenous growth. Innovations lead to more efficient production processes, higher quality goods, and the ability to create entirely new markets.
 
 #### Technological Diffusion
 Technological diffusion refers to how technological innovations spread across firms, industries, and countries. It highlights the importance of external partnerships and knowledge transfer.
@@ -31,7 +31,7 @@ Technological diffusion refers to how technological innovations spread across fi
 Investments in R&D can spur technological advancements. Companies and governments play a crucial role in fostering technological innovation through funding and policies.
 
 ### Policy Framework
-Governmental policies can significantly influence exogenous growth by creating an environment conducive to economic [expansion](../e/expansion.md). 
+Governmental policies can significantly influence exogenous growth by creating an environment conducive to economic [expansion](../e/expansion.md).
 
 #### Trade Policies
 Openness to international [trade](../t/trade.md) exposes countries to new technologies and competitive markets, which can drive growth.
@@ -72,4 +72,4 @@ The [Industrial Revolution](../i/industrial_revolution.md) exemplifies exogenous
 ## Conclusion
 Exogenous growth theory underscores the importance of extrinsic factors such as technological progress, policy frameworks, and international [trade](../t/trade.md) in driving economic [expansion](../e/expansion.md). While it provides a vital framework for understanding certain facets of [economic growth](../e/economic_growth.md), it must be complemented with endogenous considerations for a holistic view.
 
-For further details, you might refer to economic analysis and research published by institutions specializing in global [trade](../t/trade.md) and innovation, such as [The World Bank](https://www.worldbank.org), [OECD](https://www.oecd.org), and other international economic organizations.
+For further details, you might refer to economic analysis and research published by institutions specializing in global [trade](../t/trade.md) and innovation, such as The World Bank, OECD, and other international economic organizations.

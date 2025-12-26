@@ -18,9 +18,9 @@ Mobile trading platforms are specialized software applications that facilitate w
 - [Order management](../o/order_management_in_trading.md) and [execution](../e/execution.md) features
 - [Risk management](../r/risk_management.md) tools
 Examples of prominent mobile trading platforms include:
-  - **MetaTrader 4 and 5:** These platforms are popular among retail traders for their user-friendly interfaces and comprehensive trading tools.
-  - **[TradingView](../t/tradingview.md):** Known for its advanced charting capabilities and [social trading](../s/social_trading.md) features.
-  - **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md):** Offers extensive analysis tools and live [market](../m/market.md) data.
+ - **MetaTrader 4 and 5:** These platforms are popular among retail traders for their user-friendly interfaces and comprehensive trading tools.
+ - **[TradingView](../t/tradingview.md):** Known for its advanced charting capabilities and [social trading](../s/social_trading.md) features.
+ - **TD [Ameritrade](../a/ameritrade.md)’s [thinkorswim](../t/thinkorswim.md):** Offers extensive analysis tools and live [market](../m/market.md) data.
 
 **3. Secure [Transaction](../t/transaction.md) Protocols:**
 [Security](../s/security.md) remains paramount in wireless trading due to the sensitive nature of financial transactions. Secure Sockets Layer (SSL) encryption, multi-[factor](../f/factor.md) authentication (MFA), and secure APIs (Application Programming Interfaces) are some of the [security](../s/security.md) measures implemented to protect users' data and ensure secure trading environments.
@@ -31,9 +31,9 @@ Wireless trading finds applications across various segments of the trading [indu
 
 **1. Retail Trading:**
 Retail traders, individuals who [trade](../t/trade.md) for their accounts, benefit significantly from wireless trading. They can monitor [market](../m/market.md) movements, access trading opportunities, and execute orders without being tethered to a desktop computer. Popular retail brokers that [offer](../o/offer.md) mobile trading apps include:
-  - **[Robinhood](../r/robinhood.md):** Focused on [commission](../c/commission.md)-free trades with a simple, user-friendly mobile app.
-  - **[E*TRADE](../e/e_trade.md):** Provides comprehensive tools and resources for retail investors.
-  - **[Charles Schwab](../c/charles_schwab.md):** Delivers [robust](../r/robust.md) mobile trading features with extensive research tools.
+ - **[Robinhood](../r/robinhood.md):** Focused on [commission](../c/commission.md)-free trades with a simple, user-friendly mobile app.
+ - **[E*TRADE](../e/e_trade.md):** Provides comprehensive tools and resources for retail investors.
+ - **[Charles Schwab](../c/charles_schwab.md):** Delivers [robust](../r/robust.md) mobile trading features with extensive research tools.
 
 **2. Institutional Trading:**
 Institutional traders, including [hedge](../h/hedge.md) funds, [investment banks](../i/investment_bank_(ib).md), and pension funds, also [leverage](../l/leverage.md) wireless trading for speed and [efficiency](../e/efficiency.md) in executing large-[volume](../v/volume.md) trades. Institutional trading platforms often [offer](../o/offer.md) more features and integrations to cater to complex trading needs.
@@ -94,9 +94,9 @@ Future mobile trading platforms are expected to feature improved user interfaces
 Wireless trading marks a transformative development in the financial trading landscape. Through the use of advanced mobile technologies, secure protocols, and [robust](../r/robust.md) trading platforms, it empowers traders with unparalleled flexibility, speed, and convenience. While challenges such as connectivity issues and [security](../s/security.md) concerns persist, ongoing technological advancements and innovations promise to address these obstacles and further enrich the wireless trading experience. As the [financial markets](../f/financial_market.md) continue to evolve, wireless trading [will](../w/will.md) undoubtedly remain at the forefront of this progress, driving the next generation of trading practices.
 
 **References:**
-- [MetaTrader](https://www.metatrader4.com)
-- [TradingView](https://www.tradingview.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
-- [Robinhood](https://robinhood.com)
-- [E*TRADE](https://us.etrade.com)
-- [Charles Schwab](https://www.schwab.com)
+- MetaTrader
+- TradingView
+- TD Ameritrade
+- Robinhood
+- E*TRADE
+- Charles Schwab

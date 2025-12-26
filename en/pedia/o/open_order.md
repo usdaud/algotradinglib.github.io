@@ -96,7 +96,7 @@ Certain [order types](../o/order_types_in_trading.md), such as day orders, autom
 
 ## Open Orders in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, involves the use of computer algorithms to automate the trading process. [Open](../o/open.md) orders are integral to [algorithmic trading strategies](../a/algorithmic_trading_strategies.md):
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, involves the use of computer algorithms to automate the trading process. [Open](../o/open.md) orders are integral to [algorithmic trading strategies](../a/algorithmic_trading_strategies.md):
 
 ### Automated Order Placement
 
@@ -132,4 +132,4 @@ AI and [machine learning algorithms](../m/machine_learning_algorithms_in_trading
 
 ## Conclusion
 
-[Open](../o/open.md) orders are fundamental components of the trading process, providing traders with the tools to implement strategies, manage [risk](../r/risk.md), and contribute to [market](../m/market.md) [liquidity](../l/liquidity.md). Whether in traditional trading or through advanced fintech and [algorithmic trading](../a/accountability.md) systems, managing [open](../o/open.md) orders effectively is crucial for success. By understanding the various types, significance, management practices, and associated risks, traders can make informed decisions and navigate the dynamic world of [financial markets](../f/financial_market.md) with confidence.
+[Open](../o/open.md) orders are fundamental components of the trading process, providing traders with the tools to implement strategies, manage [risk](../r/risk.md), and contribute to [market](../m/market.md) [liquidity](../l/liquidity.md). Whether in traditional trading or through advanced fintech and [algorithmic trading](../a/algorithmic_trading.md) systems, managing [open](../o/open.md) orders effectively is crucial for success. By understanding the various types, significance, management practices, and associated risks, traders can make informed decisions and navigate the dynamic world of [financial markets](../f/financial_market.md) with confidence.

@@ -6,10 +6,10 @@ Numerical methods are computational techniques used to solve mathematical proble
 ## Common Numerical Methods in Trading
 
 ### 1. **Optimization Algorithms**
-   - **Gradient Descent**: Used to minimize functions that represent cost or [risk](../r/risk.md). It iteratively adjusts parameters to reduce error in [predictive models](../p/predictive_models_in_trading.md).
-   - **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: These are inspired by Darwinian evolution, used for [optimization](../o/optimization.md) problems where traditional methods may [fail](../f/fail.md). They simulate processes like mutation, crossover, and selection to generate optimal solutions.
-   - **[Simulated Annealing](../s/simulated_annealing.md)**: An [optimization](../o/optimization.md) technique that probabilistically explores the solution space and can escape local minima, mimicking the cooling process of metals.
-  
+ - **Gradient Descent**: Used to minimize functions that represent cost or [risk](../r/risk.md). It iteratively adjusts parameters to reduce error in [predictive models](../p/predictive_models_in_trading.md).
+ - **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**: These are inspired by Darwinian evolution, used for [optimization](../o/optimization.md) problems where traditional methods may [fail](../f/fail.md). They simulate processes like mutation, crossover, and selection to generate optimal solutions.
+ - **[Simulated Annealing](../s/simulated_annealing.md)**: An [optimization](../o/optimization.md) technique that probabilistically explores the solution space and can escape local minima, mimicking the cooling process of metals.
+
 ### 2. **Monte Carlo Simulation**
 [Monte Carlo Simulation](../m/monte_carlo_simulation.md) involves running [multiple](../m/multiple.md) simulations to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of [random variables](../r/random_variables.md). In trading, it's used for [risk management](../r/risk_management.md), [asset](../a/asset.md) pricing, and [portfolio optimization](../p/portfolio_optimization.md).
 
@@ -55,13 +55,13 @@ More complex models, such as the [Heston model](../h/heston_model.md) or the SAB
 
 ## Real-World Implementations
 
-### [QuantConnect](https://www.quantconnect.com/)
-[QuantConnect](../q/quantconnect.md) offers a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can backtest and implement [trading strategies](../t/trading_strategies.md) with the aid of various numerical methods.
+### StockSharp
+[StockSharp](../s/stocksharp.md) offers a platform for [algorithmic trading](../a/algorithmic_trading.md) where users can backtest and implement [trading strategies](../t/trading_strategies.md) with the aid of various numerical methods.
 
-### [Kaggle Competitions](https://www.kaggle.com/)
+### Kaggle Competitions
 Many Kaggle competitions focus on financial data analysis and require the use of numerical methods to create [predictive models](../p/predictive_models_in_trading.md) and optimize [trading strategies](../t/trading_strategies.md).
 
-### [Numerical Methods Inc.](https://www.numerical.com/)
+### Numerical Methods Inc.
 A company that specializes in providing software and solutions for implementing sophisticated numerical methods in trading and [financial modeling](../f/financial_modeling.md).
 
 ---

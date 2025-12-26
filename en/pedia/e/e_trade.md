@@ -41,5 +41,4 @@ E*[TRADE](../t/trade.md) integrates with a variety of financial platforms and to
 ## Regulation
 E*[TRADE](../t/trade.md) is regulated by the Financial [Industry](../i/industry.md) Regulatory Authority ([FINRA](../f/finra.md)) and the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC), ensuring a secure and compliant [trading environment](../t/trading_environment.md).
 
-## Website
-For more information and to start trading, visit the official E*[TRADE](../t/trade.md) website: [E*TRADE](https://www.etrade.com)
+For more information and to start trading, visit the official E*[TRADE](../t/trade.md) online platform: E*TRADE

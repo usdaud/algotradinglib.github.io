@@ -75,6 +75,6 @@ Fintech companies can use technologies such as [blockchain](../b/blockchain_in_t
 
 ## Conclusion
 
-Procyclicality is a significant [factor](../f/factor.md) influencing [financial markets](../f/financial_market.md), economic stability, and regulatory policies. Understanding its mechanisms and impacts is crucial for developing strategies to mitigate its adverse effects. Regulatory reforms, better [risk management](../r/risk_management.md) practices, and technological innovations in algo-trading and fintech can help reduce the procyclical tendencies within the [financial system](../f/financial_system.md), contributing to more sustainable [economic growth](../e/economic_growth.md) and financial stability. 
+Procyclicality is a significant [factor](../f/factor.md) influencing [financial markets](../f/financial_market.md), economic stability, and regulatory policies. Understanding its mechanisms and impacts is crucial for developing strategies to mitigate its adverse effects. Regulatory reforms, better [risk management](../r/risk_management.md) practices, and technological innovations in algo-trading and fintech can help reduce the procyclical tendencies within the [financial system](../f/financial_system.md), contributing to more sustainable [economic growth](../e/economic_growth.md) and financial stability.
 
-For further information on companies and initiatives dealing with procyclicality and financial stability, you may visit: [Bank for International Settlements](https://www.bis.org) or [International Monetary Fund](https://www.imf.org).
+For further information on companies and initiatives dealing with procyclicality and financial stability, you may visit: Bank for International Settlements or International Monetary Fund.

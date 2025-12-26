@@ -75,9 +75,9 @@ Self-managing involves handling all aspects of property rental including [market
 Hiring [property management](../p/property_management.md) companies can provide peace of mind and professional expertise. These companies [handle](../h/handle.md) all the day-to-day tasks, allowing investors to focus on other ventures or investment opportunities. However, this convenience comes at a cost, typically a percentage of the monthly rental [income](../i/income.md).
 
 **Examples of [Property Management](../p/property_management.md) Companies:**
-- [Greystar](https://www.greystar.com/)
-- [CBRE](https://www.cbre.com/)
-- [Cushman & Wakefield](https://www.cushmanwakefield.com/)
+- Greystar
+- CBRE
+- Cushman & Wakefield
 
 ## Risks of Investment Properties
 

@@ -34,9 +34,9 @@ Event-driven strategies take advantage of price movements caused by specific eve
 
 Effective data-driven [trading strategies](../t/trading_strategies.md) rely on high-quality data sourced from diverse channels. Some primary sources include:
 
-- **[Market](../m/market.md) Data Providers:** Companies like [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/), Thomson [Reuters](../r/reuters.md) (https://www.thomsonreuters.com/), and [Quandl](../q/quandl.md) (https://www.[quandl](../q/quandl.md).com/) [offer](../o/offer.md) extensive financial [market](../m/market.md) data.
-- **News and [Social Media](../s/social_media.md):** Platforms like AlphaSense (https://www.[alpha](../a/alpha.md)-sense.com/) and Dataminr (https://www.dataminr.com/) provide news and [social media analytics](../s/social_media_analytics.md).
-- **[Economic Indicators](../e/economic_indicators.md):** Governments and organizations like the Federal Reserve (https://www.federalreserve.gov/), Bureau of Economic Analysis (https://www.bea.gov/), and Eurostat (https://ec.europa.eu/eurostat) publish economic data that can be valuable for event-driven strategies.
+- **[Market](../m/market.md) Data Providers:** Companies like [Bloomberg](../b/bloomberg.md) ( Thomson [Reuters](../r/reuters.md) ( and [Quandl](../q/quandl.md) ( [offer](../o/offer.md) extensive financial [market](../m/market.md) data.
+- **News and [Social Media](../s/social_media.md):** Platforms like AlphaSense ( and Dataminr ( provide news and [social media analytics](../s/social_media_analytics.md).
+- **[Economic Indicators](../e/economic_indicators.md):** Governments and organizations like the Federal Reserve ( Bureau of Economic Analysis ( and Eurostat ( publish economic data that can be valuable for event-driven strategies.
 
 ## Implementation of Data-Driven Strategies
 
@@ -44,13 +44,13 @@ Effective data-driven [trading strategies](../t/trading_strategies.md) rely on h
 Before implementing any strategy, it is essential to collect and clean data. Data must be accurate, consistent, and free from errors. Techniques like [interpolation](../i/interpolation.md), outlier detection, and normalization are commonly used in this phase.
 
 ### 2. **Model Building**
-Building a trading model involves selecting the appropriate statistical or [machine learning](../m/machine_learning.md) techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. [Software tools](../s/software_tools_for_trading.md) such as Python, R, and specialized platforms like [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and Quantopian can be valuable for this purpose.
+Building a trading model involves selecting the appropriate statistical or [machine learning](../m/machine_learning.md) techniques to analyze the data. This phase includes feature selection, parameter tuning, and model validation. [Software tools](../s/software_tools_for_trading.md) such as Python, R, and specialized platforms like [QuantConnect](../q/quantconnect.md) ( can be valuable for this purpose. Note: Quantopian, a formerly popular platform, closed in November 2020.
 
 ### 3. **Backtesting**
 [Backtesting](../b/backtesting.md) allows traders to test their models on historical data to evaluate performance. This step is crucial for understanding the efficacy and robustness of a [trading strategy](../t/trading_strategy.md) before deploying it in live markets.
 
 ### 4. **Execution and Automation**
-With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader (https://www.[metatrader4](../m/metatrader4.md).com/) and [Interactive Brokers](../i/interactive_brokers.md) (https://www.interactivebrokers.com/) enable seamless [trade](../t/trade.md) [execution](../e/execution.md). Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
+With a validated model, the next step is to execute trades. Automated trading platforms like MetaTrader ( and [Interactive Brokers](../i/interactive_brokers.md) ( enable seamless [trade](../t/trade.md) [execution](../e/execution.md). Implementing [risk management](../r/risk_management.md) protocols, such as [stop-loss orders](../s/stop-loss_orders.md) and [position sizing](../p/position_sizing.md), is also vital.
 
 ### 5. **Performance Monitoring**
 Even after deployment, continuous monitoring is essential to ensure that the strategy performs as expected. Metrics like [Sharpe ratio](../s/sharpe_ratio.md), [drawdown](../d/drawdown.md), and [alpha](../a/alpha.md) should be regularly evaluated.
@@ -73,7 +73,7 @@ Even after deployment, continuous monitoring is essential to ensure that the str
 - **[Simulation](../s/simulation_in_trading.md):** Run the algorithm on historical data to simulate trades and assess performance.
 
 ### Execution
-- **[Trading Platform](../t/trading_platform.md):** Implement the strategy using an API from platforms like [Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) or QuantInsti (https://www.quantinsti.com/algorithmic-trading-platform).
+- **[Trading Platform](../t/trading_platform.md):** Implement the strategy using an API from platforms like [Alpaca](../a/alpaca.md) ( or QuantInsti (
 - **[Order Types](../o/order_types_in_trading.md):** Use limit orders to ensure trades are executed at desired prices.
 
 ### Monitoring
@@ -94,7 +94,7 @@ Poor data quality can lead to inaccurate predictions and significant losses. Hen
 In high-frequency trading, even a millisecond delay can impact profitability. Hence, minimizing latency through optimized code and efficient algorithms is crucial.
 
 ### 5. **Regulatory Compliance**
-Traders must comply with regulations imposed by agencies like the SEC (https://www.sec.gov/) and [FINRA](../f/finra.md) (https://www.[finra](../f/finra.md).org/). Non-compliance can lead to legal ramifications and financial penalties.
+Traders must comply with regulations imposed by agencies like the SEC ( and [FINRA](../f/finra.md) ( Non-compliance can lead to legal ramifications and financial penalties.
 
 ## Future Trends
 
@@ -108,6 +108,6 @@ The rise of [blockchain](../b/blockchain_in_trading.md) technology and DeFi pres
 There's a growing focus on environmental, social, and governance (ESG) factors in [trading strategies](../t/trading_strategies.md). Combining data-driven methods with ESG criteria can identify socially responsible investment opportunities.
 
 ### 4. **Increased Democratization**
-Platforms like [Robinhood](../r/robinhood.md) (https://www.[robinhood](../r/robinhood.md).com/) are making trading more accessible to retail investors. As a result, there is likely to be a surge in the adoption of data-driven strategies among individual traders.
+Platforms like [Robinhood](../r/robinhood.md) ( are making trading more accessible to retail investors. As a result, there is likely to be a surge in the adoption of data-driven strategies among individual traders.
 
 In summary, data-driven [trading strategies](../t/trading_strategies.md) represent a confluence of quantitative methods, computational power, and [real-time data analysis](../r/real-time_data_analysis.md). While there are inherent challenges, the potential for high returns and [risk management](../r/risk_management.md) makes it an attractive domain for traders and investors alike.

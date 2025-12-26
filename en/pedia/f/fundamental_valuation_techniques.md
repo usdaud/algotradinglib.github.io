@@ -25,7 +25,7 @@ The Price-to-[Earnings](../e/earnings.md) (P/E) ratio is a popular [valuation](.
 
 \[ P/E = \frac{Market \, Value \, per \, Share}{[Earnings](../e/earnings.md) \, per \, Share (EPS)} \]
 
-A high P/E ratio may indicate that the [market](../m/market.md) expects future growth, while a low P/E ratio might suggest the stock is [undervalued](../u/undervalued.md) or that the company is experiencing issues. 
+A high P/E ratio may indicate that the [market](../m/market.md) expects future growth, while a low P/E ratio might suggest the stock is [undervalued](../u/undervalued.md) or that the company is experiencing issues.
 
 ### 3. Enterprise Value (EV) to EBITDA
 
@@ -99,13 +99,13 @@ The [Gordon Growth Model](../g/gordon_growth_model.md), a type of [Dividend](../
 
 Where \( P_0 \) is the current stock price, \( D_1 \) is the [dividend](../d/dividend.md) in the next period, \( r \) is the required [rate of return](../r/rate_of_return.md), and \( g \) is the growth rate of dividends.
 
-### Real-World Applications 
+### Real-World Applications
 
 Several financial institutions and companies utilize these fundamental [valuation techniques](../v/valuation_techniques.md) extensively:
 
-- **[Morningstar](../m/morningstar.md)**: Known for their detailed [equity research](../e/equity_research.md) and [valuation analysis](../v/valuation_analysis.md). Visit [Morningstar](https://www.morningstar.com/)
-- **[FactSet](../f/factset.md)**: Offers tools and data for financial professionals to perform [fundamental analysis](../f/fundamental_analysis.md). Visit [FactSet](https://www.factset.com/)
-- **S&P Global**: Provides essential insights for [credit risk](../c/credit_risk.md) research and fundamental [valuation](../v/valuation.md). Visit [S&P Global](https://www.spglobal.com/)
+- **[Morningstar](../m/morningstar.md)**: Known for their detailed [equity research](../e/equity_research.md) and [valuation analysis](../v/valuation_analysis.md). Visit Morningstar
+- **[FactSet](../f/factset.md)**: Offers tools and data for financial professionals to perform [fundamental analysis](../f/fundamental_analysis.md). Visit FactSet
+- **S&P Global**: Provides essential insights for [credit risk](../c/credit_risk.md) research and fundamental [valuation](../v/valuation.md). Visit S&P Global
 
 ### Conclusion
 

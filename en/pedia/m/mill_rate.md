@@ -16,8 +16,8 @@ The mill rate is typically set by local governments and is calculated annually. 
 
 For instance, if a town needs $10,000,000 to [fund](../f/fund.md) its services and the total [assessed value](../a/assessed_value.md) of properties in the town is $1,000,000,000, the mill rate would be calculated as follows:
 
-\[ 
-\text{Mill Rate} = \frac{10,000,000}{1,000,000,000} \times 1000 = 10 
+\[
+\text{Mill Rate} = \frac{10,000,000}{1,000,000,000} \times 1000 = 10
 \]
 
 This means property owners [will](../w/will.md) pay $10 for every $1,000 of [assessed value](../a/assessed_value.md).
@@ -34,8 +34,8 @@ Property [taxes](../t/taxes.md) are the primary implementation of mill rates. Th
 
 For a property assessed at $200,000, using the mill rate example given earlier (10 mills):
 
-\[ 
-\text{[Property Tax](../p/property_tax.md)} = 200,000 \times 0.01 = 2,000 
+\[
+\text{[Property Tax](../p/property_tax.md)} = 200,000 \times 0.01 = 2,000
 \]
 
 Thus, the homeowner would owe $2,000 annually in property [taxes](../t/taxes.md).

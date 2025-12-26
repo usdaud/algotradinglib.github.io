@@ -1,6 +1,6 @@
 # Proxy
 
-In [finance](../f/finance.md), the term "proxy" refers to the authority to act on behalf of a [shareholder](../s/shareholder.md) for the purpose of voting at a [shareholder](../s/shareholder.md) meeting. In a broader sense, it can also refer to any agent or representative with the authority to act on behalf of another party in financial transactions or decision-making. The concept of a proxy is crucial in both traditional and modern financial systems, providing flexibility and enabling efficient decision-making and governance. This article delves into the various aspects and applications of proxies in the financial world, including [shareholder](../s/shareholder.md) voting proxies, proxy statements, and their role in modern financial technologies like [algorithmic trading](../a/accountability.md) and fintech.
+In [finance](../f/finance.md), the term "proxy" refers to the authority to act on behalf of a [shareholder](../s/shareholder.md) for the purpose of voting at a [shareholder](../s/shareholder.md) meeting. In a broader sense, it can also refer to any agent or representative with the authority to act on behalf of another party in financial transactions or decision-making. The concept of a proxy is crucial in both traditional and modern financial systems, providing flexibility and enabling efficient decision-making and governance. This article delves into the various aspects and applications of proxies in the financial world, including [shareholder](../s/shareholder.md) voting proxies, proxy statements, and their role in modern financial technologies like [algorithmic trading](../a/algorithmic_trading.md) and fintech.
 
 ## Shareholder Voting Proxies
 
@@ -40,10 +40,10 @@ Proxy statements are vital for maintaining [corporate governance](../c/corporate
 
 ### Role of Proxies in Algo-Trading
 
-In the context of [algorithmic trading](../a/accountability.md), proxies can refer to various elements such as proxy indicators or proxy servers used to improve [trading strategies](../t/trading_strategies.md) or maintain anonymity. 
+In the context of [algorithmic trading](../a/algorithmic_trading.md), proxies can refer to various elements such as proxy indicators or proxy servers used to improve [trading strategies](../t/trading_strategies.md) or maintain anonymity.
 
 - **Proxy Indicators:** These are variables or indicators used as substitutes for direct measurement of trading conditions. For example, the VIX ([Volatility](../v/volatility.md) [Index](../i/index_instrument.md)) can serve as a proxy for [market](../m/market.md) [uncertainty](../u/uncertainty_in_trading.md).
-- **Proxy Servers:** Proxy servers can be used to anonymize trading activities or to route orders through specific servers to reduce latency. 
+- **Proxy Servers:** Proxy servers can be used to anonymize trading activities or to route orders through specific servers to reduce latency.
 
 ### Applications and Benefits
 
@@ -62,9 +62,9 @@ The concept of proxies extends to [multiple](../m/multiple.md) areas within the 
 
 ### Case Studies
 
-- **Plaid:** Plaid is a fintech company that offers an intermediary service between financial institutions and applications. Their API proxy service enables secure and efficient connectivity. (More details at: [Plaid](https://plaid.com/))
+- **Plaid:** Plaid is a fintech company that offers an intermediary service between financial institutions and applications. Their API proxy service enables secure and efficient connectivity. (More details at: Plaid)
 
-- **Chainlink:** Chainlink provides decentralized oracle services, which act as proxies between [blockchain](../b/blockchain_in_trading.md) [smart contracts](../s/smart_contracts_in_trading.md) and real-world data sources. (More details at: [Chainlink](https://chain.link/))
+- **Chainlink:** Chainlink provides decentralized oracle services, which act as proxies between [blockchain](../b/blockchain_in_trading.md) [smart contracts](../s/smart_contracts_in_trading.md) and real-world data sources. (More details at: Chainlink)
 
 ### Regulatory Considerations
 

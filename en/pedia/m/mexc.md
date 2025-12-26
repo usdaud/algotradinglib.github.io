@@ -8,7 +8,6 @@ MEXC (formerly known as MXC [Exchange](../e/exchange.md)) is a cryptocurrency [t
 
 MEXC is headquartered in Singapore and operates under MXC Foundation Pte Ltd. The company serves millions of users across 70+ countries and regions. MEXC [Exchange](../e/exchange.md) is designed to [offer](../o/offer.md) a highly secure, efficient, and high-performance trading engine for both novice and seasoned traders.
 
-- **Website**: [mexc.com](https://www.mexc.com)
 
 ### Trading Pairs and Assets
 
@@ -51,7 +50,7 @@ MEXC offers staking services where users can lock up their cryptocurrencies to e
 
 ## Fees
 
-MEXC has a competitive [fee](../f/fee.md) structure designed to be accessible to both retail and institutional traders. 
+MEXC has a competitive [fee](../f/fee.md) structure designed to be accessible to both retail and institutional traders.
 
 - **Spot Trading Fees**: The platform charges a flat [fee](../f/fee.md) of 0.2% per [trade](../t/trade.md), which can be reduced further through the use of the native MX Token.
 - **[Futures](../f/futures.md) Trading Fees**: Fees for [futures](../f/futures.md) trading vary depending on the contract type and [leverage](../l/leverage.md) used. Generally, maker fees can be as low as 0.02% and taker fees around 0.06%.

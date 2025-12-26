@@ -1,11 +1,11 @@
 # Options Arbitrage
 
-[Options](../o/options.md) [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_strategy.md) that attempts to exploit the price differences between [options](../o/options.md) to generate [risk](../r/risk.md)-free profits. This strategy leverages discrepancies in [market](../m/market.md) pricing to make simultaneous buy and sell orders, aiming to capture small but consistent returns. Unlike traditional [trading strategies](../t/trading_strategies.md) which depend on the [market](../m/market.md)’s direction, [options](../o/options.md) [arbitrage](../a/arbitrage.md) is generally [neutral](../n/neutral.md) and focuses on [market](../m/market.md) inefficiencies. 
+[Options](../o/options.md) [arbitrage](../a/arbitrage.md) is a [trading strategy](../t/trading_strategy.md) that attempts to exploit the price differences between [options](../o/options.md) to generate [risk](../r/risk.md)-free profits. This strategy leverages discrepancies in [market](../m/market.md) pricing to make simultaneous buy and sell orders, aiming to capture small but consistent returns. Unlike traditional [trading strategies](../t/trading_strategies.md) which depend on the [market](../m/market.md)’s direction, [options](../o/options.md) [arbitrage](../a/arbitrage.md) is generally [neutral](../n/neutral.md) and focuses on [market](../m/market.md) inefficiencies.
 
 ## Types of Options Arbitrage
 
 ### Conversion Arbitrage
-Conversion [arbitrage](../a/arbitrage.md) involves buying a [put option](../p/put.md) and selling a [call option](../c/call_option.md) with the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md), while simultaneously taking a long position in the [underlying](../u/underlying.md) stock. This strategy seeks to exploit the differences between the synthetic and actual prices of the [asset](../a/asset.md). 
+Conversion [arbitrage](../a/arbitrage.md) involves buying a [put option](../p/put.md) and selling a [call option](../c/call_option.md) with the same [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md), while simultaneously taking a long position in the [underlying](../u/underlying.md) stock. This strategy seeks to exploit the differences between the synthetic and actual prices of the [asset](../a/asset.md).
 
 ### Reversal Arbitrage
 The [reversal](../r/reversal.md) [arbitrage](../a/arbitrage.md) strategy is the mirror image of the conversion [arbitrage](../a/arbitrage.md). Here, traders short the stock and initiate a synthetic long stock position by buying a call and selling a put with identical strike prices and expiration dates, aiming to lock in [arbitrage](../a/arbitrage.md) profits.
@@ -36,13 +36,13 @@ The [efficiency](../e/efficiency.md) and technology of the [trading platform](..
 ## Companies Specializing in Options Arbitrage
 
 ### Jane Street
-Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in various forms of [arbitrage](../a/arbitrage.md), including [options](../o/options.md) [arbitrage](../a/arbitrage.md). They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) and technology to exploit [market](../m/market.md) inefficiencies. More information about Jane Street can be found on their [official website](https://www.janestreet.com).
+Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in various forms of [arbitrage](../a/arbitrage.md), including [options](../o/options.md) [arbitrage](../a/arbitrage.md). They utilize advanced [quantitative strategies](../q/quantitative_strategies_in_trading.md) and technology to exploit [market](../m/market.md) inefficiencies.
 
 ### Susquehanna International Group (SIG)
-SIG is another major player in the world of [options](../o/options.md) and [quantitative trading](../q/quantitative_trading.md). They have been known to use [options](../o/options.md) [arbitrage](../a/arbitrage.md) strategies to [capitalize](../c/capitalize.md) on pricing discrepancies in the [market](../m/market.md). Further details can be found on their [official website](https://www.sig.com).
+SIG is another major player in the world of [options](../o/options.md) and [quantitative trading](../q/quantitative_trading.md). They have been known to use [options](../o/options.md) [arbitrage](../a/arbitrage.md) strategies to [capitalize](../c/capitalize.md) on pricing discrepancies in the [market](../m/market.md).
 
 ### Optiver
-Optiver is renowned for its [arbitrage](../a/arbitrage.md) trading, particularly in [options](../o/options.md) markets. With a focus on high-frequency and [algorithmic trading](../a/algorithmic_trading.md), Optiver is adept at exploiting fleeting [market](../m/market.md) inefficiencies. To learn more, visit their [official website](https://www.optiver.com).
+Optiver is renowned for its [arbitrage](../a/arbitrage.md) trading, particularly in [options](../o/options.md) markets. With a focus on high-frequency and [algorithmic trading](../a/algorithmic_trading.md), Optiver is adept at exploiting fleeting [market](../m/market.md) inefficiencies. To
 
 ## Challenges in Options Arbitrage
 

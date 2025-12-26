@@ -12,7 +12,7 @@ Eligibility for the EIC hinges on several factors:
 
 - **[Income](../i/income.md) Level**: Taxpayers must have [earned income](../e/earned_income.md) below certain thresholds, which are adjusted annually for [inflation](../i/inflation.md).
 - **[Filing Status](../f/filing_status.md)**: Eligible filing statuses include Single, [Married Filing Jointly](../m/married_filing_jointly.md), [Head of Household](../h/head_of_household.md), and Qualifying Widow(er).
-- **Qualifying Children**: The number of qualifying children significantly affects the amount of the [credit](../c/credit.md). 
+- **Qualifying Children**: The number of qualifying children significantly affects the amount of the [credit](../c/credit.md).
 - **[Investment Income](../i/investment_income.md)**: Taxpayers with excessive [investment income](../i/investment_income.md) are disqualified from claiming the EIC.
 - **Residency**: The [taxpayer](../t/taxpayer.md) and any qualifying children must reside in the United States for more than half the year.
 - **SSNs**: Both the [taxpayer](../t/taxpayer.md) and any qualifying children must have valid [Social Security](../s/social_security.md) Numbers.
@@ -74,4 +74,4 @@ The American Rescue Plan Act of 2021 made significant, but temporary, changes to
 
 The [Earned Income](../e/earned_income.md) [Credit](../c/credit.md) remains one of the most vital tools in the United States' tax code aimed at supporting low- to moderate-[income](../i/income.md) working families. Through its various mechanisms and targeted benefits, the EIC helps reduce [poverty](../p/poverty.md), incentivize employment, and alleviate the tax burden on millions of taxpayers annually. Despite its complexities and challenges, the positive impact of the EIC on American society underscores its continuing importance.
 
-For more detailed information, taxpayers and professionals can refer to the IRS [guidance](../g/guidance.md) on the EIC: [IRS EITC Information](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc)
+For more detailed information, taxpayers and professionals can refer to the IRS [guidance](../g/guidance.md) on the EIC: IRS EITC Information

@@ -49,5 +49,4 @@ Mirae [Asset](../a/asset.md) is regulated by several top-tier financial authorit
 - Financial Conduct Authority (FCA) in the UK
 - Monetary Authority of Singapore (MAS)
 
-## Website
-For more information and to start trading, visit the official Mirae [Asset](../a/asset.md) website: [Mirae Asset](https://www.miraeasset.com)
+For more information and to start trading, visit the official Mirae [Asset](../a/asset.md) online platform: Mirae Asset

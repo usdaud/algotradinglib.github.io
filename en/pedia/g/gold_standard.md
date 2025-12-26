@@ -35,4 +35,3 @@ The **Gold Standard** is a monetary system in which a country's [currency](../c/
 
 ## Conclusion
 The gold standard played a significant role in the history of global [finance](../f/finance.md), providing a framework for monetary stability and international [trade](../t/trade.md). While it has been replaced by [fiat money](../f/fiat_money.md), the principles and challenges associated with the gold standard continue to influence economic thought and policy. Understanding the gold standard offers valuable insights into the development of modern monetary systems and the [trade](../t/trade.md)-offs involved in different approaches to [currency](../c/currency.md) management.
-

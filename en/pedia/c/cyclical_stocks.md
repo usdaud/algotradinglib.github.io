@@ -33,7 +33,7 @@ Proficient traders and investors in cyclical [stocks](../s/stock.md) pay close a
 3. **Consumer Confidence [Index](../i/index_instrument.md) (CCI)**: This measures consumer optimism about the [economy](../e/economy.md), a [leading indicator](../l/leading_indicator.md) for consumer spending.
 4. **Industrial Production [Index](../i/index_instrument.md) (IPI)**: Highlights the production levels in industries, signaling growth or contraction phases.
 
-### Sector Rotation Strategy 
+### Sector Rotation Strategy
 
 [Sector rotation](../s/sector_rotation.md) involves adjusting a portfolio’s sector allocation based on the anticipated stages of the [business cycle](../b/business_cycle.md):
 
@@ -68,29 +68,29 @@ Cyclical [stocks](../s/stock.md) are also exposed to risks specific to their [in
 
 ### Automakers
 
-- **General Motors (GM)**: [General Motors](http://www.gm.com)
-- **Ford Motor Company (F)**: [Ford](http://www.ford.com)
-- **Tesla Inc (TSLA)**: [Tesla](http://www.tesla.com)
+- **General Motors (GM)**: General Motors
+- **Ford Motor Company (F)**: Ford
+- **Tesla Inc (TSLA)**: Tesla
 
 ### Consumer Discretionary
 
-- **Nike Inc (NKE)**: [Nike](http://www.nike.com)
-- **Starbucks [Corporation](../c/corporation.md) (SBUX)**: [Starbucks](http://www.starbucks.com)
+- **Nike Inc (NKE)**: Nike
+- **Starbucks [Corporation](../c/corporation.md) (SBUX)**: Starbucks
 
 ### Industrial Goods
 
-- **Caterpillar Inc (CAT)**: [Caterpillar](http://www.caterpillar.com)
-- **Boeing Company (BA)**: [Boeing](http://www.boeing.com)
+- **Caterpillar Inc (CAT)**: Caterpillar
+- **Boeing Company (BA)**: Boeing
 
 ### Technology
 
-- **Apple Inc (AAPL)**: [Apple](http://www.apple.com)
-- **Alphabet Inc (GOOGL)**: [Alphabet](http://www.abc.xyz)
+- **Apple Inc (AAPL)**: Apple
+- **Alphabet Inc (GOOGL)**: Alphabet
 
 ### Materials
 
-- **Dow Inc (DOW)**: [Dow](http://www.dow.com)
-- **Newmont [Corporation](../c/corporation.md) (NEM)**: [Newmont](http://www.newmont.com)
+- **Dow Inc (DOW)**: Dow
+- **Newmont [Corporation](../c/corporation.md) (NEM)**: Newmont
 
 ## Case Studies
 

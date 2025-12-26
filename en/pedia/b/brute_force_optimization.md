@@ -18,7 +18,7 @@ In its simplest form, brute force [optimization](../o/optimization.md) involves 
 
 ### Application in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to [trade](../t/trade.md) securities based on predefined rules. Brute force [optimization](../o/optimization.md) helps traders and quants determine the best rules or parameters for their [trading algorithms](../t/trading_algorithms.md). 
+[Algorithmic trading](../a/algorithmic_trading.md) uses computer algorithms to [trade](../t/trade.md) securities based on predefined rules. Brute force [optimization](../o/optimization.md) helps traders and quants determine the best rules or parameters for their [trading algorithms](../t/trading_algorithms.md).
 
 #### Steps to Implement Brute Force Optimization
 
@@ -45,9 +45,9 @@ In its simplest form, brute force [optimization](../o/optimization.md) involves 
 
 Several trading firms and institutions utilize brute force [optimization](../o/optimization.md) to enhance their [trading algorithms](../t/trading_algorithms.md). Some notable examples include:
 
-- **[QuantConnect](../q/quantconnect.md):** An online platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](../q/quantconnect.md) allows users to run brute force [optimization](../o/optimization.md) on their [trading strategies](../t/trading_strategies.md) to identify the best parameter combinations. More information can be found [here](https://www.quantconnect.com).
+- **[QuantConnect](../q/quantconnect.md):** An online platform providing tools for [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](../q/quantconnect.md) allows users to run brute force [optimization](../o/optimization.md) on their [trading strategies](../t/trading_strategies.md) to identify the best parameter combinations. More information can be found here.
 
-- **Kensho Technologies:** A [data analytics](../d/data_analytics.md) and trading technology company that applies brute force [optimization](../o/optimization.md) among other AI techniques to improve [trading strategies](../t/trading_strategies.md). More information can be found [here](https://www.kensho.com).
+- **Kensho Technologies:** A [data analytics](../d/data_analytics.md) and trading technology company that applies brute force [optimization](../o/optimization.md) among other AI techniques to improve [trading strategies](../t/trading_strategies.md). More information can be found here.
 
 ### Computational Approaches and Tools
 
@@ -59,4 +59,4 @@ Given the computational demands of brute force [optimization](../o/optimization.
 
 ### Conclusion
 
-While brute force [optimization](../o/optimization.md) is a foundational technique in [algorithmic trading](../a/algorithmic_trading.md) for finding optimal [trading strategy](../t/trading_strategy.md) parameters, its high computational cost makes it suitable mainly for smaller-scale problems or as a [benchmark](../b/benchmark.md) for more sophisticated [optimization](../o/optimization.md) methods. Understanding its strengths and limitations is crucial for traders and quants aiming to [leverage](../l/leverage.md) this method effectively.
+While brute force [optimization](../o/optimization.md) is a foundational technique in [algorithmic trading](../a/algorithmic_trading.md) for finding optimal [trading strategy](../t/trading_strategy.md) parameters, its high computational cost makes it suitable mainly for smaller-scale problems or as a [benchmark](../b/benchmark.md) for more sophisticated [optimization](../o/optimization.md) methods. Understanding its strengths and limitations is crucial for traders and quants aiming to [leverage](../l/leverage.md) this method effectively.

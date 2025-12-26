@@ -64,4 +64,3 @@ Robertson's philanthropic efforts have had a significant impact on various secto
 
 Julian Robertson's career is a testament to the power of visionary [leadership](../l/leadership.md), rigorous research, and innovative investment strategies. His influence on the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md) is undeniable, and his legacy continues to shape the careers of many successful [fund](../f/fund.md) managers. Beyond [finance](../f/finance.md), Robertson's philanthropic contributions have made a lasting impact on education, healthcare, and the environment, reflecting his commitment to making a positive difference in the world.
 
-For more information about Julian Robertson and his ongoing ventures, you can visit the official website of [Tiger Management LLC](https://www.tigermgmt.com/).

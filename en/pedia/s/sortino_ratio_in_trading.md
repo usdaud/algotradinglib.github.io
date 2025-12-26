@@ -56,11 +56,11 @@ Many trading firms and financial institutions use the [Sortino Ratio](../s/sorti
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds, which often employ complex strategies and [leverage](../l/leverage.md), place significant importance on [downside risk](../d/downside_risk.md). Firms like [Bridgewater Associates](https://www.bridgewater.com/), one of the largest [hedge](../h/hedge.md) funds in the world, use various [risk metrics](../r/risk_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md), to manage their portfolios.
+[Hedge](../h/hedge.md) funds, which often employ complex strategies and [leverage](../l/leverage.md), place significant importance on [downside risk](../d/downside_risk.md). Firms like Bridgewater Associates, one of the largest [hedge](../h/hedge.md) funds in the world, use various [risk metrics](../r/risk_metrics.md), including the [Sortino Ratio](../s/sortino_ratio.md), to manage their portfolios.
 
 ### Robo-Advisors
 
-Modern robo-advisors, such as [Betterment](https://www.betterment.com/) and [Wealthfront](https://www.wealthfront.com/), also utilize sophisticated algorithms to manage investments for clients. These platforms often incorporate the [Sortino Ratio](../s/sortino_ratio.md) in their algorithms to ensure that the suggested portfolios are optimized for [risk](../r/risk.md)-adjusted returns.
+Modern robo-advisors, such as Betterment and Wealthfront, also utilize sophisticated algorithms to manage investments for clients. These platforms often incorporate the [Sortino Ratio](../s/sortino_ratio.md) in their algorithms to ensure that the suggested portfolios are optimized for [risk](../r/risk.md)-adjusted returns.
 
 ## Limitations of the Sortino Ratio
 

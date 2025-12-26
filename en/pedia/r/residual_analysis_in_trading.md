@@ -1,6 +1,6 @@
 # Residual Analysis
 
-Residual analysis in trading refers to the examination and interpretation of residuals – the differences between observed values and the values predicted by a trading model. This method is pivotal in identifying whether a [trading strategy](../t/trading_strategy.md) is performing well or if there are patterns left unexplained by the model. Below, we delve deeper into the aspects of residual analysis in trading, its importance, steps involved, and practical applications. 
+Residual analysis in trading refers to the examination and interpretation of residuals – the differences between observed values and the values predicted by a trading model. This method is pivotal in identifying whether a [trading strategy](../t/trading_strategy.md) is performing well or if there are patterns left unexplained by the model. Below, we delve deeper into the aspects of residual analysis in trading, its importance, steps involved, and practical applications.
 
 ### 1. Definition
 
@@ -71,13 +71,12 @@ Several tools and software packages support residual analysis in trading:
 - **Python:** Libraries such as `statsmodels`, `seaborn`, and `matplotlib` are extensively used for statistical modeling and residual plotting.
 - **R:** Used for extensive statistical analysis and modeling, with packages like `ggplot2` for visualization.
 - **MATLAB:** Offers [robust](../r/robust.md) tools for statistical modeling and [data visualization](../d/data_visualization.md).
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and analysis tools for residuals.
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform providing [backtesting](../b/backtesting.md) and analysis tools for residuals.
 
 For more information on these tools, you can visit:
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [Python’s Statsmodels](https://www.statsmodels.org/) 
-- [R Project](https://www.r-project.org/)
+- QuantConnect
+- Python’s Statsmodels - R Project
 
 ### 7. Case Studies
 
@@ -110,4 +109,3 @@ The future of residual analysis in trading [will](../w/will.md) see advancements
 ### Conclusion
 
 Residual analysis is an indispensable tool in [algorithmic trading](../a/algorithmic_trading.md), providing deep insights into model accuracy and areas for improvement. By regularly performing residual analysis, traders can develop more effective, [risk-averse](../r/risk-averse.md) strategies, ultimately leading to sustained success in the markets.
-

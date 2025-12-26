@@ -50,11 +50,11 @@ While fungibility is a desirable property, certain factors can challenge its app
 
 Various companies and platforms provide tools and services for [algorithmic trading](../a/accountability.md) that rely on fungible assets. Some noteworthy examples include:
 
-1. **Kavout**: An AI-driven platform [offering](../o/offering.md) tools for [algorithmic trading](../a/accountability.md) and [investment management](../i/investment_management.md). Kavout leverages the fungibility of assets to enable [efficient trading strategies](../e/efficient_trading_strategies.md). (For more information, visit [Kavout's official website](https://www.kavout.com))
+1. **Kavout**: An AI-driven platform [offering](../o/offering.md) tools for [algorithmic trading](../a/accountability.md) and [investment management](../i/investment_management.md). Kavout leverages the fungibility of assets to enable [efficient trading strategies](../e/efficient_trading_strategies.md).
 
-2. **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform for [algorithmic trading](../a/accountability.md) that provides data, tools, and resources for developing [trading algorithms](../t/trading_algorithms.md). The platform supports trading in fungible assets like [stocks](../s/stock.md), forex, and [futures](../f/futures.md). (For more information, visit [QuantConnect's official website](https://www.quantconnect.com))
+2. **[QuantConnect](../q/quantconnect.md)**: A cloud-based platform for [algorithmic trading](../a/accountability.md) that provides data, tools, and resources for developing [trading algorithms](../t/trading_algorithms.md). The platform supports trading in fungible assets like [stocks](../s/stock.md), forex, and [futures](../f/futures.md).
 
-3. **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) for [stocks](../s/stock.md) and ETFs, [offering](../o/offering.md) API access for [algorithmic trading](../a/accountability.md). [Alpaca](../a/alpaca.md)'s services [capitalize](../c/capitalize.md) on the fungibility of financial securities to facilitate automated trading. (For more information, visit [Alpaca's official website](https://alpaca.markets))
+3. **[Alpaca](../a/alpaca.md)**: A [commission](../c/commission.md)-free [trading platform](../t/trading_platform.md) for [stocks](../s/stock.md) and ETFs, [offering](../o/offering.md) API access for [algorithmic trading](../a/accountability.md). [Alpaca](../a/alpaca.md)'s services [capitalize](../c/capitalize.md) on the fungibility of financial securities to facilitate automated trading.
 
 ## Conclusion
 

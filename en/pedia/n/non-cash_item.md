@@ -33,18 +33,18 @@ Non-cash items are also vital when using [valuation](../v/valuation.md) metrics 
 ## Non-Cash Items in Different Industries
 
 ### Technology
-The tech sector often sees substantial amounts of stock-based compensation, which can heavily impact [earnings](../e/earnings.md). For instance, companies like Amazon (https://www.amazon.com) and Microsoft (https://www.microsoft.com) use stock-based compensation as a significant part of their employee [remuneration](../r/remuneration.md) packages.
+The tech sector often sees substantial amounts of stock-based compensation, which can heavily impact [earnings](../e/earnings.md). For instance, companies like Amazon ( and Microsoft ( use stock-based compensation as a significant part of their employee [remuneration](../r/remuneration.md) packages.
 
 ### Manufacturing
-[Manufacturing](../m/manufacturing.md) companies frequently deal with large [capital](../c/capital.md) expenditures on machinery and equipment, making [depreciation](../d/depreciation.md) a significant non-cash item. General Electric (https://www.ge.com) is an example where [depreciation](../d/depreciation.md) plays a crucial role in [financial statements](../f/financial_statements.md).
+[Manufacturing](../m/manufacturing.md) companies frequently deal with large [capital](../c/capital.md) expenditures on machinery and equipment, making [depreciation](../d/depreciation.md) a significant non-cash item. General Electric ( is an example where [depreciation](../d/depreciation.md) plays a crucial role in [financial statements](../f/financial_statements.md).
 
 ### Financial Services
-In financial services, provisions for bad debts or impaired loans are common non-cash charges. Banks like JPMorgan Chase (https://www.jpmorganchase.com) set aside provisions for [loan](../l/loan.md) losses, impacting [earnings](../e/earnings.md) but not immediate [cash flow](../c/cash_flow.md).
+In financial services, provisions for bad debts or impaired loans are common non-cash charges. Banks like JPMorgan Chase ( set aside provisions for [loan](../l/loan.md) losses, impacting [earnings](../e/earnings.md) but not immediate [cash flow](../c/cash_flow.md).
 
 ## Challenges and Controversies
 
 ### Estimation and Judgment
-Calculating non-cash items often involves considerable estimation and [judgment](../j/judgment.md). [Depreciation](../d/depreciation.md) schedules and [impairment](../i/impairment.md) tests can be subjective, introducing potential biases or inaccuracies. 
+Calculating non-cash items often involves considerable estimation and [judgment](../j/judgment.md). [Depreciation](../d/depreciation.md) schedules and [impairment](../i/impairment.md) tests can be subjective, introducing potential biases or inaccuracies.
 
 ### Earnings Management
 There is a [risk](../r/risk.md) of companies manipulating non-cash items to manage [earnings](../e/earnings.md). Overestimating provisions in one period and releasing them in another can smooth [earnings](../e/earnings.md), misleading investors.

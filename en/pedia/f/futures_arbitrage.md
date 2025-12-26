@@ -81,13 +81,13 @@ High-frequency trading refers to the use of sophisticated algorithms and high-sp
 ## Real-World Examples and Case Studies
 
 ### LTCM (Long Term Capital Management)
-Long Term [Capital](../c/capital.md) Management (LTCM) was a [hedge fund](../h/hedge_fund.md) that applied [arbitrage](../a/arbitrage.md) strategies, including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md), using [mathematical models](../m/mathematical_models_in_trading.md) and high [leverage](../l/leverage.md). Though initially successful, LTCM's failure in the late 1990s highlighted the risks associated with over-leveraging and inadequate [risk management](../r/risk_management.md). More information can be found on [LTCM](https://www.ltcm.com).
+Long Term [Capital](../c/capital.md) Management (LTCM) was a [hedge fund](../h/hedge_fund.md) that applied [arbitrage](../a/arbitrage.md) strategies, including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md), using [mathematical models](../m/mathematical_models_in_trading.md) and high [leverage](../l/leverage.md). Though initially successful, LTCM's failure in the late 1990s highlighted the risks associated with over-leveraging and inadequate [risk management](../r/risk_management.md). More information can be found on LTCM.
 
 ### Citadel LLC
-Citadel LLC is a global financial institution that employs various [trading strategies](../t/trading_strategies.md), including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md). It uses sophisticated [quantitative models](../q/quantitative_models.md) and high-frequency [trading systems](../t/trading_systems.md) to identify and exploit [arbitrage](../a/arbitrage.md) opportunities. More information can be found on [Citadel LLC](https://www.citadel.com).
+Citadel LLC is a global financial institution that employs various [trading strategies](../t/trading_strategies.md), including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md). It uses sophisticated [quantitative models](../q/quantitative_models.md) and high-frequency [trading systems](../t/trading_systems.md) to identify and exploit [arbitrage](../a/arbitrage.md) opportunities. More information can be found on Citadel LLC.
 
 ### Renaissance Technologies
-Renaissance Technologies, led by Jim Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md) uses advanced [mathematical models](../m/mathematical_models_in_trading.md) to identify [arbitrage](../a/arbitrage.md) opportunities, including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md), to achieve impressive returns. More information can be found on [Renaissance Technologies](https://www.rentec.com).
+Renaissance Technologies, led by Jim Simons, is renowned for its [quantitative trading](../q/quantitative_trading.md) strategies. The [firm](../f/firm.md) uses advanced [mathematical models](../m/mathematical_models_in_trading.md) to identify [arbitrage](../a/arbitrage.md) opportunities, including [futures](../f/futures.md) [arbitrage](../a/arbitrage.md), to achieve impressive returns. More information can be found on Renaissance Technologies.
 
 ## Risk Considerations
 

@@ -5,7 +5,7 @@ An [open](../o/open.md)-[market](../m/market.md) [transaction](../t/transaction.
 ## Key Components
 
 ### What is An Open Market?
-An [open market](../o/open_market.md) is a system where financial instruments such as [stocks](../s/stock.md), bonds, and commodities are traded freely among participants without restrictions on who can buy or sell. The prices in an [open market](../o/open_market.md) are determined by [supply](../s/supply.md) and [demand](../d/demand.md) dynamics. 
+An [open market](../o/open_market.md) is a system where financial instruments such as [stocks](../s/stock.md), bonds, and commodities are traded freely among participants without restrictions on who can buy or sell. The prices in an [open market](../o/open_market.md) are determined by [supply](../s/supply.md) and [demand](../d/demand.md) dynamics.
 
 ### Types of Open-Market Transactions
 1. **[Stocks](../s/stock.md) and Securities**: This includes the buying and selling of [shares](../s/shares.md) on stock exchanges like the New York Stock [Exchange](../e/exchange.md) (NYSE) or [NASDAQ](../n/nasdaq.md).
@@ -62,7 +62,7 @@ While [open](../o/open.md) markets strive for price [transparency](../t/transpar
 ## Future of Open-Market Transactions
 
 ### Algorithmic Trading
-The advent of [algorithmic trading](../a/accountability.md) has revolutionized how [open](../o/open.md)-[market](../m/market.md) transactions are executed. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can execute large volumes of trades in milliseconds, bringing increased [liquidity](../l/liquidity.md) but also potential issues like [flash crashes](../f/flash_crashes.md).
+The advent of [algorithmic trading](../a/algorithmic_trading.md) has revolutionized how [open](../o/open.md)-[market](../m/market.md) transactions are executed. [High-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) can execute large volumes of trades in milliseconds, bringing increased [liquidity](../l/liquidity.md) but also potential issues like [flash crashes](../f/flash_crashes.md).
 
 ### Blockchain and Cryptocurrencies
 The rise of [blockchain](../b/blockchain_in_trading.md) technology and cryptocurrencies could redefine [open](../o/open.md)-[market](../m/market.md) transactions. Decentralized exchanges aim to facilitate peer-to-peer transactions without intermediaries.
@@ -74,8 +74,8 @@ As [financial markets](../f/financial_market.md) evolve, regulatory frameworks [
 [Open](../o/open.md)-[market](../m/market.md) transactions are at the heart of modern [financial markets](../f/financial_market.md), enabling efficient [price discovery](../p/price_discovery.md), [liquidity](../l/liquidity.md), and [transparency](../t/transparency.md). While they [offer](../o/offer.md) numerous advantages, it is essential for participants to understand the associated risks and remain updated on [market](../m/market.md) developments and regulatory changes.
 
 For more insights and real-time data on [open](../o/open.md)-[market](../m/market.md) transactions, you can visit reputed financial platforms such as:
-- [NYSE](https://www.nyse.com)
-- [NASDAQ](https://www.nasdaq.com)
-- [Securities and Exchange Commission (SEC)](https://www.sec.gov)
+- NYSE
+- NASDAQ
+- Securities and Exchange Commission (SEC)
 
 These platforms [offer](../o/offer.md) extensive resources, regulatory information, and tools for investors and financial professionals alike.

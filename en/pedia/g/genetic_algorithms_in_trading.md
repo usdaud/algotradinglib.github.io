@@ -67,9 +67,9 @@ Walk-forward [optimization](../o/optimization.md) is a technique used to validat
 
 Several trading platforms support the implementation of GAs, either through built-in tools or by allowing custom algorithm development. Some popular platforms include:
 
-- [MetaTrader](https://www.metatrader4.com): MetaTrader supports custom algorithm development using the MQL language, enabling traders to implement GAs directly.
-- [QuantConnect](https://www.quantconnect.com): [QuantConnect](../q/quantconnect.md) is a cloud-based platform that offers a [robust](../r/robust.md) environment for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), including those using GAs.
-- [AlgoTrader](https://www.algotrader.com): [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of GAs and other advanced [trading strategies](../t/trading_strategies.md).
+- MetaTrader: MetaTrader supports custom algorithm development using the MQL language, enabling traders to implement GAs directly.
+- QuantConnect: [QuantConnect](../q/quantconnect.md) is a cloud-based platform that offers a [robust](../r/robust.md) environment for developing and [backtesting](../b/backtesting.md) [trading algorithms](../t/trading_algorithms.md), including those using GAs.
+- AlgoTrader: [AlgoTrader](../a/algotrader.md) is an institutional-grade [algorithmic trading](../a/algorithmic_trading.md) platform that supports the development of GAs and other advanced [trading strategies](../t/trading_strategies.md).
 
 ### Hybrid Approaches
 

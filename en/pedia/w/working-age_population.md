@@ -44,19 +44,19 @@ Advances in healthcare and an increase in longevity can extend the productive ye
 
 Many developed countries, including Japan, Germany, and the United States, are experiencing aging populations, meaning the proportion of elderly individuals is increasing relative to the working-age population. This [trend](../t/trend.md) poses challenges for maintaining [economic growth](../e/economic_growth.md) and sustainable [social security](../s/social_security.md) systems. Policies to encourage higher birth rates, extend retirement ages, or attract immigrants are common responses to this [issue](../i/issue.md).
 
-For more information on how different countries are managing aging populations, you can refer to government websites such as Japan’s [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/english/index.html) or Germany’s [Federal Ministry of Labour and Social Affairs](https://www.bmas.de/EN/Home/home.html).
+For more information on how different countries are managing aging populations, you can refer to government websites such as Japan’s Ministry of Health, Labour and Welfare or Germany’s Federal Ministry of Labour and Social Affairs.
 
 ### Youth Bulge
 
 In contrast, many developing countries are experiencing a "youth bulge," characterized by a high proportion of young people entering the working-age population. This can lead to a [demographic dividend](../d/demographic_dividend.md) if the youth are adequately educated and integrated into the workforce. However, failure to provide adequate employment opportunities can lead to social unrest and economic instability.
 
-For instance, countries in Sub-Saharan Africa and South Asia often focus on education and vocational training to harness the potential of their youthful populations. More details can be found in initiatives such as the [African Union's Youth Charter](https://au.int/en/youth-charter) and India's [Skill India Mission](https://www.msde.gov.in/skillindia.html).
+For instance, countries in Sub-Saharan Africa and South Asia often focus on education and vocational training to harness the potential of their youthful populations. More details can be found in initiatives such as the African Union's Youth Charter and India's Skill India Mission.
 
 ### Technological Disruption
 
 Technological advancements are transforming the nature of work and the skills required of the working-age population. Automation, [artificial intelligence](../a/artificial_intelligence_in_trading.md), and other innovations can displace traditional jobs but also create new opportunities. Adapting to these changes requires continuous investment in education and retraining programs.
 
-For instance, companies like [Amazon Web Services (AWS)](https://aws.amazon.com/training/) [offer](../o/offer.md) [cloud computing](../c/cloud_computing_in_trading.md) training to equip workers with skills in high [demand](../d/demand.md). Similarly, [LinkedIn Learning](https://www.linkedin.com/learning/) provides a [range](../r/range.md) of courses aimed at reskilling and upskilling the workforce.
+For instance, companies like Amazon Web Services (AWS) [offer](../o/offer.md) [cloud computing](../c/cloud_computing_in_trading.md) training to equip workers with skills in high [demand](../d/demand.md). Similarly, LinkedIn Learning provides a [range](../r/range.md) of courses aimed at reskilling and upskilling the workforce.
 
 ## Conclusion
 

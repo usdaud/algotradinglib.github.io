@@ -4,7 +4,7 @@ The 7-day moving average is a technical [indicator](../i/indicator.md) commonly 
 
 #### Definition
 
-A 7-day moving average is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a set of prices over the last seven days. This implies that each point on the moving average line is the average of the closing prices of the past seven days. 
+A 7-day moving average is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a set of prices over the last seven days. This implies that each point on the moving average line is the average of the closing prices of the past seven days.
 
 \[ \text{7-Day MA} = \frac{P_1 + P_2 + P_3 + \ldots + P_7}{7} \]
 
@@ -18,18 +18,18 @@ The significance of the 7-day moving average lies in its simplicity and effectiv
 
 To understand how the 7-day moving average is calculated, imagine you have a table of closing prices for a stock over ten days:
 
-| Day  | Closing Price |
+| Day | Closing Price |
 |------|---------------|
-| 1    | $100          |
-| 2    | $102          |
-| 3    | $104          |
-| 4    | $103          |
-| 5    | $107          |
-| 6    | $110          |
-| 7    | $113          |
-| 8    | $115          |
-| 9    | $112          |
-| 10   | $114          |
+| 1 | $100 |
+| 2 | $102 |
+| 3 | $104 |
+| 4 | $103 |
+| 5 | $107 |
+| 6 | $110 |
+| 7 | $113 |
+| 8 | $115 |
+| 9 | $112 |
+| 10 | $114 |
 
 To find the 7-day moving average for day 7:
 
@@ -52,7 +52,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), the 7-day moving average 
 #### Examples in Trading Algorithms
 
 1. **[Mean Reversion](../m/mean_reversion.md) Strategy:** A [mean reversion](../m/mean_reversion.md) strategy might involve identifying periods when the stock price deviates significantly from its 7-day moving average, with the expectation that the price [will](../w/will.md) revert to the mean. If the price moves too far above the 7-day moving average, it might be considered [overbought](../o/overbought.md), generating a sell signal. Conversely, if the price moves too far below the 7-day moving average, it might be considered [oversold](../o/oversold.md), generating a buy signal.
-   
+
 2. **[Momentum](../m/momentum.md) Strategies:** In [momentum](../m/momentum.md) strategies, the 7-day moving average can be used to confirm [momentum](../m/momentum.md). If the stock’s price is consistently above the 7-day moving average and the moving average is sloping upward, it indicates strong upward [momentum](../m/momentum.md), signaling a buy. If the price is below the 7-day moving average and the moving average is sloping downward, it signals strong downward [momentum](../m/momentum.md), leading to a sell.
 
 #### Coding a 7-Day Moving Average
@@ -98,8 +98,8 @@ Many trading platforms and financial services provide tools to implement moving 
 
 For those interested in delving deeper into the topic of moving averages and their applications in trading, the following resources may be helpful:
 
-- [Investopedia - Moving Average](https://www.investopedia.com/terms/m/movingaverage.asp): An in-depth explanation of moving averages, their types, and their applications.
-- [Interactive Brokers - Trader Workstation](https://www.interactivebrokers.com/en/index.php?f=14099): A platform providing advanced trading tools and indicators including moving averages.
-- [MetaTrader 4/5](https://www.metatrader4.com/): Comprehensive trading platforms widely used in retail and institutional trading.
+- Investopedia - Moving Average: An in-depth explanation of moving averages, their types, and their applications.
+- Interactive Brokers - Trader Workstation: A platform providing advanced trading tools and indicators including moving averages.
+- MetaTrader 4/5: Comprehensive trading platforms widely used in retail and institutional trading.
 
-In conclusion, the 7-day moving average is a versatile and widely-used [indicator](../i/indicator.md) in [algorithmic trading](../a/algorithmic_trading.md), serving as a fundamental tool for identifying trends, generating [trading signals](../t/trading_signals.md), and smoothing out price data. Despite its limitations, when used correctly, it can significantly enhance a [trader](../t/trader.md)’s decision-making process.
+In conclusion, the 7-day moving average is a versatile and widely-used [indicator](../i/indicator.md) in [algorithmic trading](../a/algorithmic_trading.md), serving as a fundamental tool for identifying trends, generating [trading signals](../t/trading_signals.md), and smoothing out price data. Despite its limitations, when used correctly, it can significantly enhance a [trader](../t/trader.md)’s decision-making process.

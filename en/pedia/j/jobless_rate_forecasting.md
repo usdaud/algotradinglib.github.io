@@ -33,26 +33,26 @@ Accurate jobless rate [forecasting](../f/forecasting.md) relies on a variety of 
 Several methodologies can be employed to forecast the jobless rate. These methodologies vary from traditional econometric models to advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md).
 
 1. **Econometric Models**:
-   - **[Linear Regression](../l/linear_regression.md)**: This basic statistical method assumes a straight-line relationship between independent variables (such as GDP, industrial production) and the dependent variable ([unemployment rate](../u/unemployment_rate.md)). 
-   - **ARIMA Models**: Auto-Regressive Integrated Moving Average models are used for time-series [forecasting](../f/forecasting.md) by analyzing the differences between values in a [time series](../t/time_series.md) to reduce non-stationarity.
-   - **Vector Autoregressions (VAR)**: VAR models consider [multiple](../m/multiple.md) [time series](../t/time_series.md) (such as jobless rate, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates) and their interdependencies.
+ - **[Linear Regression](../l/linear_regression.md)**: This basic statistical method assumes a straight-line relationship between independent variables (such as GDP, industrial production) and the dependent variable ([unemployment rate](../u/unemployment_rate.md)).
+ - **ARIMA Models**: Auto-Regressive Integrated Moving Average models are used for time-series [forecasting](../f/forecasting.md) by analyzing the differences between values in a [time series](../t/time_series.md) to reduce non-stationarity.
+ - **Vector Autoregressions (VAR)**: VAR models consider [multiple](../m/multiple.md) [time series](../t/time_series.md) (such as jobless rate, [inflation](../i/inflation.md), and [interest](../i/interest.md) rates) and their interdependencies.
 
 2. **[Machine Learning](../m/machine_learning.md) Models**:
-   - **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: These models split the data into subsets based on various conditions, making them [robust](../r/robust.md) against [overfitting](../o/overfitting.md).
-   - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Neural networks](../n/neural_networks_in_trading.md) are particularly adept at capturing complex nonlinear relationships and patterns in large datasets.
-   - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: SVMs are [supervised learning](../s/supervised_learning.md) models useful for classification and regression problems within high-dimensional spaces.
+ - **[Decision Trees](../d/decision_trees.md) and [Random Forests](../r/random_forests_in_trading.md)**: These models split the data into subsets based on various conditions, making them [robust](../r/robust.md) against [overfitting](../o/overfitting.md).
+ - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Neural networks](../n/neural_networks_in_trading.md) are particularly adept at capturing complex nonlinear relationships and patterns in large datasets.
+ - **[Support Vector Machines](../s/support_vector_machines_in_trading.md) (SVM)**: SVMs are [supervised learning](../s/supervised_learning.md) models useful for classification and regression problems within high-dimensional spaces.
 
 3. **Hybrid Models**:
-   - Combining traditional econometric models with [machine learning](../m/machine_learning.md) techniques is becoming more popular. For example, utilizing a VAR model for initial predictions and refining these predictions using [neural networks](../n/neural_networks_in_trading.md).
+ - Combining traditional econometric models with [machine learning](../m/machine_learning.md) techniques is becoming more popular. For example, utilizing a VAR model for initial predictions and refining these predictions using [neural networks](../n/neural_networks_in_trading.md).
 
 ### Challenges in Jobless Rate Forecasting
 
 [Forecasting](../f/forecasting.md) the jobless rate is fraught with several challenges:
 
 1. **Data Quality and Availability**: Reliable data can be scarce, particularly in real-time. Surveys may suffer from response biases, and official reports might get revised, impacting the model's accuracy.
- 
+
 2. **Nonlinear Relationships**: The relationship between the [unemployment rate](../u/unemployment_rate.md) and various [economic indicators](../e/economic_indicators.md) can be complex and nonlinear, making it difficult for traditional models to capture accurately.
- 
+
 3. **Economic Shocks**: Unforeseen events, such as financial crises, pandemics, and geopolitical tensions, can drastically disrupt normal employment trends.
 
 4. **Model [Overfitting](../o/overfitting.md)**: Particularly with [machine learning](../m/machine_learning.md) models, there is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) to historical data, potentially producing inaccurate future predictions.
@@ -61,8 +61,7 @@ Several methodologies can be employed to forecast the jobless rate. These method
 
 ### Case Study: Algorithmic Trading Firms and Jobless Rate Forecasting
 
-Algorithimic trading firms such as [Two Sigma](https://www.twosigma.com/) and [Renaissance Technologies](https://www.rentec.com/) [leverage](../l/leverage.md) sophisticated models to forecast key [economic indicators](../e/economic_indicators.md), including the jobless rate. By integrating jobless rate predictions within their [trading algorithms](../t/trading_algorithms.md), these firms can enhance the timing and precision of trades. Here’s a detailed example of how an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) might employ jobless rate [forecasting](../f/forecasting.md):
-
+Algorithimic trading firms such as Two Sigma and Renaissance Technologies [leverage](../l/leverage.md) sophisticated models to forecast key [economic indicators](../e/economic_indicators.md), including the jobless rate. By integrating jobless rate predictions within their [trading algorithms](../t/trading_algorithms.md), these firms can enhance the timing and precision of trades. Here’s a detailed example of how an [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) might employ jobless rate [forecasting](../f/forecasting.md)
 1. **Data Collection**: The [firm](../f/firm.md) gathers data from [multiple](../m/multiple.md) sources, including government reports, private surveys, and [big data analytics](../b/big_data_analytics_in_trading.md).
 
 2. **Model Development**: Combining econometric models with [machine learning](../m/machine_learning.md) techniques, the [firm](../f/firm.md) develops a composite model that predicts the jobless rate.

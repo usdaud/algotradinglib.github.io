@@ -4,7 +4,7 @@
 The Johannesburg Stock [Exchange](../e/exchange.md) (JSE) is the largest and oldest stock [exchange](../e/exchange.md) in Africa. It was established in 1887 during the first South African gold rush and is located in Sandton, Johannesburg, South Africa. The JSE offers a fully electronic, efficient, secure [market](../m/market.md) place where buyers and sellers can [trade](../t/trade.md) various securities, including equities, bonds, and [derivatives](../d/derivatives.md). The JSE plays a critical role in the South African [economy](../e/economy.md) and provides a platform for raising [capital](../c/capital.md) and promoting financial growth and [transparency](../t/transparency.md).
 
 ## History and Evolution
-The JSE has a rich history that dates back over a century. Initially established to cater to the burgeoning gold [mining](../m/mining.md) [industry](../i/industry.md), the [exchange](../e/exchange.md) has evolved and grown significantly. Over the years, the JSE has responded to a [range](../r/range.md) of economic and political changes, updating and modernizing its [infrastructure](../i/infrastructure.md) and [trading systems](../t/trading_systems.md). 
+The JSE has a rich history that dates back over a century. Initially established to cater to the burgeoning gold [mining](../m/mining.md) [industry](../i/industry.md), the [exchange](../e/exchange.md) has evolved and grown significantly. Over the years, the JSE has responded to a [range](../r/range.md) of economic and political changes, updating and modernizing its [infrastructure](../i/infrastructure.md) and [trading systems](../t/trading_systems.md).
 
 ### Key Historical Milestones:
 - **1887**: Founding of the JSE by Benjamin Wollan to facilitate [capital](../c/capital.md) raising for [mining](../m/mining.md) ventures.
@@ -25,7 +25,7 @@ The JSE operates under a rigorous regulatory framework designed to ensure [trans
 5. **[Primary Market](../p/primary_market.md)**: Assisting companies in listing and raising [capital](../c/capital.md) through Initial Public Offerings (IPOs) and further public offerings.
 
 ### Trading Platforms and Technology
-The JSE has continuously upgraded its trading technology to remain competitive and efficient. The [exchange](../e/exchange.md) utilizes technology from global leaders like the Millennium [Exchange](../e/exchange.md) platform provided by the London Stock [Exchange](../e/exchange.md) Group. This platform ensures high-speed, low-latency trading capabilities, crucial for modern trading needs, including [algorithmic trading](../a/accountability.md).
+The JSE has continuously upgraded its trading technology to remain competitive and efficient. The [exchange](../e/exchange.md) utilizes technology from global leaders like the Millennium [Exchange](../e/exchange.md) platform provided by the London Stock [Exchange](../e/exchange.md) Group. This platform ensures high-speed, low-latency trading capabilities, crucial for modern trading needs, including [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Listing Requirements
 The JSE has specific [listing requirements](../l/listing_requirements.md) to maintain the integrity and quality of companies on its [exchange](../e/exchange.md).
@@ -91,7 +91,7 @@ The JSE operates under a stringent regulatory framework to ensure [market](../m/
 - **[Market](../m/market.md) Abuse Regulations**: Designed to prevent [insider trading](../i/insider.md), [market manipulation](../m/market_manipulation.md), and other abusive practices.
 
 ## Algorithmic Trading on the JSE
-[Algorithmic trading](../a/accountability.md) has become increasingly prominent on the JSE, driven by advancements in trading technology and the need for efficient [trade](../t/trade.md) [execution](../e/execution.md). The JSE's move to high-speed trading technology platforms has facilitated this shift.
+[Algorithmic trading](../a/algorithmic_trading.md) has become increasingly prominent on the JSE, driven by advancements in trading technology and the need for efficient [trade](../t/trade.md) [execution](../e/execution.md). The JSE's move to high-speed trading technology platforms has facilitated this shift.
 
 ### Components of Algorithmic Trading:
 - **High-Frequency Trading (HFT)**: Involves the [execution](../e/execution.md) of a large number of orders at extremely high speeds.
@@ -118,4 +118,3 @@ The JSE operates under a stringent regulatory framework to ensure [market](../m/
 ## Conclusion
 The Johannesburg Stock [Exchange](../e/exchange.md) is a cornerstone of the South African financial landscape, providing a [robust](../r/robust.md) platform for securities trading and [capital](../c/capital.md) raising. Its continuous evolution and adoption of advanced trading technologies position it as a leading [exchange](../e/exchange.md) not only in Africa but also on the global stage. The JSE's commitment to [transparency](../t/transparency.md), regulatory compliance, and technological innovation ensures its sustained relevance and growth in the rapidly changing world of [finance](../f/finance.md).
 
-For more information, you can visit the official [JSE website](https://www.jse.co.za).

@@ -60,17 +60,14 @@ There is a growing emphasis on sustainability and CSR. Upper management must int
 ### IBM
 IBM, a global technology giant, has successfully navigated several transformations under the [guidance](../g/guidance.md) of its upper management. Over the years, the strategic decisions made by IBM's executive team have steered the company from its origins in hardware [manufacturing](../m/manufacturing.md) to its current focus on [cloud computing](../c/cloud_computing_in_trading.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and enterprise solutions. The [leadership](../l/leadership.md) played a key role in the company's pivot towards more profitable and innovative ventures, ensuring its relevance in the tech [industry](../i/industry.md).
 
-[Learn more about IBM](https://www.ibm.com/)
 
 ### Pfizer
 Pfizer’s upper management has been instrumental in guiding the company through complex challenges in the pharmaceutical [industry](../i/industry.md). During the COVID-19 pandemic, Pfizer's executive team expedited the development of the COVID-19 vaccine, a landmark achievement that required coordination, strategic foresight, and swift decision-making at the highest levels. This accomplishment not only accentuated their innovative capabilities but also significantly boosted the company’s [market](../m/market.md) position.
 
-[Learn more about Pfizer](https://www.pfizer.com/)
 
 ### Tesla
 Tesla’s success can be attributed to the visionary [leadership](../l/leadership.md) of its upper management, particularly CEO Elon Musk. The company's strategy of focusing on sustainable energy solutions and technological innovation has made it a leader in the electric vehicle [market](../m/market.md). Tesla’s upper management has demonstrated a strong commitment to advancing battery technology, autonomous driving, and renewable energy solutions, propelling the company to a [market](../m/market.md)-leading position.
 
-[Learn more about Tesla](https://www.tesla.com/)
 
 ## Conclusion
 

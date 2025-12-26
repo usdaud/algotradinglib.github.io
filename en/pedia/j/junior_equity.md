@@ -54,25 +54,22 @@ Sector-specific factors play a crucial role in the performance of junior equitie
 
 #### Moderna Inc. (Nasdaq: MRNA)
 Moderna, a leading biotechnology company, is an example of a company that started with a junior [equity](../e/equity.md) profile and has significantly grown. Their focus on mRNA technology for vaccines, including the COVID-19 vaccine, has seen substantial growth and [investor](../i/investor.md) [interest](../i/interest.md).
-[Moderna Inc.](https://www.modernatx.com/)
+Moderna Inc.
 
 ### Technology Startups
 
 #### Palantir Technologies (NYSE: PLTR)
 Palantir Technologies, focusing on [big data analytics](../b/big_data_analytics_in_trading.md), started as a high-growth technology company with significant junior [equity](../e/equity.md) investments. Its innovative approach in data handling and analysis for various sectors has propelled it to substantial [market](../m/market.md) valuations.
-[Palantir Technologies](https://www.palantir.com/)
 
 ### Energy Sector
 
 #### NextEra Energy Inc. (NYSE: NEE)
 NextEra Energy began as a smaller energy company with investments in renewable energy sources. Junior [equity](../e/equity.md) investments have played a crucial role in its development into a leader in the sustainable [energy sector](../e/energy_sector.md).
-[NextEra Energy](https://www.nexteraenergy.com/)
 
 ### SaaS (Software as a Service)
 
 #### Zoom Video Communications Inc. (Nasdaq: ZM)
 Initially a small player in the [video conferencing](../v/video_conferencing.md) [market](../m/market.md), Zoom benefited from junior [equity](../e/equity.md) investments, leading to [exponential growth](../e/exponential_growth.md), especially during the COVID-19 pandemic. Its user-friendly platform and [scalability](../s/scalability.md) have driven its success.
-[Zoom Video Communications](https://zoom.us/)
 
 ## Conclusion
 

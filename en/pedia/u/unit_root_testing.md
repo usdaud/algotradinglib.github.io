@@ -31,12 +31,12 @@ The ADF test is a widely used method for testing the [null hypothesis](../n/null
 
 The test uses the model:
 
-\[ \Delta y_t = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) t + \[gamma](../g/gamma.md) y_{t-1} + \delta_1 \[Delta](../d/delta.md) y_{t-1} + ... + \delta_p \[Delta](../d/delta.md) y_{t-p} + \epsilon_t \]
+\[ \Delta y_t = \[alpha](../a/alpha.md) + \[beta](../b/beta.md) t + \[gamma](../g/gamma.md) y_{t-1} + \delta_1 \[Delta](../d/delta.md) y_{t-1} +... + \delta_p \[Delta](../d/delta.md) y_{t-p} + \epsilon_t \]
 
-- \(\[alpha](../a/alpha.md)\) is a constant 
+- \(\[alpha](../a/alpha.md)\) is a constant
 - \(\[beta](../b/beta.md) t\) is a time [trend](../t/trend.md)
 - \(\[Delta](../d/delta.md) y_t\) is the first difference of \( y_t \)
-- \(\[gamma](../g/gamma.md), \delta_1, ..., \delta_p\) are coefficients
+- \(\[gamma](../g/gamma.md), \delta_1,..., \delta_p\) are coefficients
 
 The [null hypothesis](../n/null_hypothesis.md) \( H_0: \[gamma](../g/gamma.md) = 0 \) implies a unit root, meaning non-stationarity.
 

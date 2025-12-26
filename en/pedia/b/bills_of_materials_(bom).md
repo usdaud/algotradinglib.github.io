@@ -48,10 +48,10 @@ Managing a BOM manually can be challenging, especially for complex products. BOM
 ### Popular BOM Management Software:
 
 #### Arena Solutions
-[Arena Solutions](https://www.arenasolutions.com/products/bill-of-materials-management/) provides cloud-based BOM management solutions designed for complex products.
+Arena Solutions provides cloud-based BOM management solutions designed for complex products.
 
 #### OpenBOM
-[OpenBOM](https://www.openbom.com/) offers tools to manage and share BOMs and [inventory](../i/inventory.md) data efficiently.
+OpenBOM offers tools to manage and share BOMs and [inventory](../i/inventory.md) data efficiently.
 
 ## Importance of BOM
 

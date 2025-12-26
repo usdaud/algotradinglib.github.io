@@ -1,6 +1,6 @@
 # Noise Trading
 
-[Noise](../n/noise.md) trading refers to the practice of buying and selling securities based on a variety of signals or "[noise](../n/noise.md)" rather than fundamental information. This kind of trading is driven by psychological factors and reacts to price movements, trends, and [market sentiment](../m/market_sentiment.md) instead of economic data, [earnings](../e/earnings.md) reports, or [intrinsic value](../i/intrinsic_value.md) assessments. [Noise](../n/noise.md) traders often complicate the [financial markets](../f/financial_market.md) suggesting an irrational segment of [market](../m/market.md) participants can lead to mispricing of assets. 
+[Noise](../n/noise.md) trading refers to the practice of buying and selling securities based on a variety of signals or "[noise](../n/noise.md)" rather than fundamental information. This kind of trading is driven by psychological factors and reacts to price movements, trends, and [market sentiment](../m/market_sentiment.md) instead of economic data, [earnings](../e/earnings.md) reports, or [intrinsic value](../i/intrinsic_value.md) assessments. [Noise](../n/noise.md) traders often complicate the [financial markets](../f/financial_market.md) suggesting an irrational segment of [market](../m/market.md) participants can lead to mispricing of assets.
 
 ## Components of Noise Trading
 
@@ -49,7 +49,6 @@ The 2008 [financial crisis](../f/financial_crisis.md) provides an illustrative c
 ### The GameStop Phenomenon
 In January 2021, the stock of GameStop (GME) witnessed extreme [volatility](../v/volatility.md) driven largely by [noise](../n/noise.md) trading. A group of retail traders on the subreddit r/WallStreetBets initiated a [short squeeze](../s/short_squeeze.md), causing the stock price to soar rapidly despite the company's questionable fundamentals. The event highlighted the power of retail [noise](../n/noise.md) traders in the digital age and how quickly markets can respond to sentiment and [social media](../s/social_media.md)-driven trends.
 
-[GameStop](https://www.gamestop.com/)
 
 ### Flash Crashes
 [Flash crashes](../f/flash_crashes.md) are extreme [market](../m/market.md) events characterized by sudden, severe price declines within a very short time frame, followed by a quick recovery. These events are often exacerbated by [noise](../n/noise.md) traders responding to rapid price movements rather than changes in fundamental [value](../v/value.md). The May 6, 2010, flash crash in the U.S. [stock market](../s/stock_market.md) is a notable example, where billions of dollars were temporarily wiped off the [market](../m/market.md) in minutes.

@@ -9,10 +9,10 @@ FRNs have an [interest rate](../i/interest_rate.md) structure that is typically 
 
 ### 2. **Reference Rates**
 Common reference rates for FRNs include:
-   - **LIBOR**: Once the most common [benchmark](../b/benchmark.md), LIBOR is being phased out and replaced by alternative reference rates.
-   - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: Increasingly used in the U.S. as a replacement for LIBOR.
-   - **EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate)**: Used in the [Eurozone](../e/eurozone.md).
-   - **T-Bill Rates**: Rates on [U.S. Treasury](../u/u.s._treasury.md) bills are also a reference for some FRNs.
+ - **LIBOR (Phased Out)**: Once the most common [benchmark](../b/benchmark.md), LIBOR was phased out in June 2023 and replaced by alternative reference rates.
+ - **SOFR (Secured Overnight [Financing](../f/financing.md) Rate)**: The primary replacement for LIBOR in the U.S. since June 2023.
+ - **EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate)**: Used in the [Eurozone](../e/eurozone.md).
+ - **T-Bill Rates**: Rates on [U.S. Treasury](../u/u.s._treasury.md) bills are also a reference for some FRNs.
 
 ### 3. **Adjustment Periods**
 The [interest](../i/interest.md) rates on FRNs adjust at regular intervals, commonly quarterly, semi-annually, or annually. The specific adjustment period is determined at issuance and detailed in the [bond](../b/bond.md)'s terms.
@@ -52,18 +52,18 @@ Certain FRNs may have lower [liquidity](../l/liquidity.md) compared to more trad
 
 ### 1. **Issuers**
 Issuers of FRNs include:
-   - **Governments**: National, state, and local governments often [issue](../i/issue.md) FRNs to [finance](../f/finance.md) projects or manage [debt](../d/debt.md).
-   - **Corporations**: Large multinational corporations [issue](../i/issue.md) FRNs to [finance](../f/finance.md) operations or [capital](../c/capital.md) expenditures, as well as to manage [debt](../d/debt.md) portfolios.
+ - **Governments**: National, state, and local governments often [issue](../i/issue.md) FRNs to [finance](../f/finance.md) projects or manage [debt](../d/debt.md).
+ - **Corporations**: Large multinational corporations [issue](../i/issue.md) FRNs to [finance](../f/finance.md) operations or [capital](../c/capital.md) expenditures, as well as to manage [debt](../d/debt.md) portfolios.
 
 ### 2. **Investors**
 Investors in FRNs typically include:
-   - **Institutional Investors**: Pension funds, [insurance](../i/insurance.md) companies, mutual funds, and [hedge](../h/hedge.md) funds often invest in FRNs to manage [interest rate](../i/interest_rate.md) exposure.
-   - **Retail Investors**: Wealthy individuals seeking to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) risks and diversify their portfolios may also invest in FRNs.
+ - **Institutional Investors**: Pension funds, [insurance](../i/insurance.md) companies, mutual funds, and [hedge](../h/hedge.md) funds often invest in FRNs to manage [interest rate](../i/interest_rate.md) exposure.
+ - **Retail Investors**: Wealthy individuals seeking to [hedge](../h/hedge.md) against [interest rate](../i/interest_rate.md) risks and diversify their portfolios may also invest in FRNs.
 
 ### 3. **Intermediaries**
 Financial intermediaries play a crucial role in the FRN [market](../m/market.md):
-   - **Banks and Brokerage Firms**: Facilitate the buying and selling of FRNs, provide [market](../m/market.md) [liquidity](../l/liquidity.md), and [offer](../o/offer.md) research and analysis.
-   - **[Rating](../r/rating.md) Agencies**: Agencies like Moody’s, Standard & Poor’s, and Fitch provide [credit](../c/credit.md) ratings for FRNs, helping investors assess [default risk](../d/default_risk.md).
+ - **Banks and Brokerage Firms**: Facilitate the buying and selling of FRNs, provide [market](../m/market.md) [liquidity](../l/liquidity.md), and [offer](../o/offer.md) research and analysis.
+ - **[Rating](../r/rating.md) Agencies**: Agencies like Moody’s, Standard & Poor’s, and Fitch provide [credit](../c/credit.md) ratings for FRNs, helping investors assess [default risk](../d/default_risk.md).
 
 ## Valuation of Floating Rate Notes
 
@@ -79,13 +79,13 @@ Determining the appropriate [discount rate](../d/discount_rate.md) is crucial. T
 ## Examples of FRNs
 
 ### 1. **U.S. Treasury Floating Rate Notes**
-The [U.S. Treasury](../u/u.s._treasury.md) issues FRNs that are tied to the 13-week Treasury bill rate. More information can be found on the [U.S. Treasury website](https://www.treasurydirect.gov/instit/marketables/frns/frns.htm).
+The [U.S. Treasury](../u/u.s._treasury.md) issues FRNs that are tied to the 13-week Treasury
 
 ### 2. **Corporate FRNs**
-Large multinational corporations such as IBM and General Electric have issued FRNs to manage [financing](../f/financing.md) requirements. Details on specific issuances are often available on companies' [investor relations](../i/investor_relations.md) pages.
+Large multinational corporations such as IBM and General Electric have issued FRNs to manage [financing](../f/financing.md) requirements. Details on specific issuances are often available on companies' [company filings](../i/investor_relations.md) pages.
 
 ### 3. **Euro-denominated FRNs**
-Many European financial institutions and governments [issue](../i/issue.md) FRNs tied to EURIBOR. For example, the European Investment [Bank](../b/bank.md) frequently issues such notes, with details available on their [official website](https://www.eib.org/en/investor_relations/index.htm).
+Many European financial institutions and governments [issue](../i/issue.md) FRNs tied to EURIBOR. For example, the European Investment [Bank](../b/bank.md) frequently issues such notes,
 
 ## Conclusion
 

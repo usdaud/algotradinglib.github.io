@@ -12,15 +12,15 @@ To understand Anchored VWAP, let's break down its calculation step by step:
 
 1. **Select an Anchor Point:** This could be a date, time, or an event. Common anchor points include the beginning of a significant economic report, [earnings announcement](../e/earnings_announcement.md), or a pivotal [trend reversal](../t/trend_reversal.md).
 
-2. **Calculate Cumulative VWAP from the Anchor Point:** 
-   \[
-   VWAP = \frac{\sum_{i=t_{anchor}}^{t} P_i \times V_i}{\sum_{i=t_{anchor}}^{t} V_i}
-   \]
-   Where:
-   - \( P_i \) is the price of the [trade](../t/trade.md) at time \( i \)
-   - \( V_i \) is the [volume](../v/volume.md) of the [trade](../t/trade.md) at time \( i \)
-   - \( t_{anchor} \) is the selected anchor time
-   - \( t \) is the current time
+2. **Calculate Cumulative VWAP from the Anchor Point:**
+ \[
+ VWAP = \frac{\sum_{i=t_{anchor}}^{t} P_i \times V_i}{\sum_{i=t_{anchor}}^{t} V_i}
+ \]
+ Where:
+ - \( P_i \) is the price of the [trade](../t/trade.md) at time \( i \)
+ - \( V_i \) is the [volume](../v/volume.md) of the [trade](../t/trade.md) at time \( i \)
+ - \( t_{anchor} \) is the selected anchor time
+ - \( t \) is the current time
 
 ### Applications in Trading
 
@@ -66,10 +66,10 @@ Standard VWAP becomes less meaningful as an intraday tool in volatile markets wh
 
 Several trading platforms and [software tools](../s/software_tools_for_trading.md) provide functionalities to compute and use Anchored VWAP. Notable among these are:
 
-- **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. [More Information](https://www.tradingview.com)
-- **[Thinkorswim](../t/thinkorswim.md):** Provided by TD [Ameritrade](../a/ameritrade.md), this [trading platform](../t/trading_platform.md) offers customization [options](../o/options.md) for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. [More Information](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
-- **MetaTrader:** MetaTrader 4 and 5 platforms support custom indicators and scripts that can calculate Anchored VWAP. [More Information](https://www.metatrader4.com)
-- **[Sierra Chart](../s/sierra_chart.md):** Known for its robustness in handling various data feeds and custom indicators, [Sierra Chart](../s/sierra_chart.md) is another platform where traders can use Anchored VWAP. [More Information](https://www.sierrachart.com)
+- **[TradingView](../t/tradingview.md):** [TradingView](../t/tradingview.md) offers extensive charting capabilities, including the use of custom indicators like Anchored VWAP. More Information
+- **[Thinkorswim](../t/thinkorswim.md):** Provided by TD [Ameritrade](../a/ameritrade.md), this [trading platform](../t/trading_platform.md) offers customization [options](../o/options.md) for [technical indicators](../t/technical_indicators.md), allowing traders to apply Anchored VWAP. More Information
+- **MetaTrader:** MetaTrader 4 and 5 platforms support custom indicators and scripts that can calculate Anchored VWAP. More Information
+- **[Sierra Chart](../s/sierra_chart.md):** Known for its robustness in handling various data feeds and custom indicators, [Sierra Chart](../s/sierra_chart.md) is another platform where traders can use Anchored VWAP. More Information
 
 ### Practical Examples
 
@@ -87,4 +87,4 @@ A stock appears to undergo a [trend reversal](../t/trend_reversal.md) after hitt
 
 ### Conclusion
 
-The Anchored VWAP is a powerful and versatile tool in the arsenal of algorithmic traders and technical analysts. Its ability to anchor calculations to significant dates and events allows for tailored analysis and strategy development. Whether used for [trend](../t/trend.md) confirmation, [support and resistance](../s/support_and_resistance.md) identification, or event-based trading, Anchored VWAP can provide crucial insights and enhance decision-making in the dynamic trading landscape.
+The Anchored VWAP is a powerful and versatile tool in the arsenal of algorithmic traders and technical analysts. Its ability to anchor calculations to significant dates and events allows for tailored analysis and strategy development. Whether used for [trend](../t/trend.md) confirmation, [support and resistance](../s/support_and_resistance.md) identification, or event-based trading, Anchored VWAP can provide crucial insights and enhance decision-making in the dynamic trading landscape.

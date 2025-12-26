@@ -6,7 +6,7 @@ Markov Chains are a powerful mathematical framework that can be applied to a var
 
 A Markov Chain is a stochastic process that satisfies the Markov property: the future state is conditionally independent of the past states, given the present state. This can be formally expressed as:
 
-P(X_{n+1} = x | X_1 = x_1, X_2 = x_2, ..., X_n = x_n) = P(X_{n+1} = x | X_n = x_n)
+P(X_{n+1} = x | X_1 = x_1, X_2 = x_2,..., X_n = x_n) = P(X_{n+1} = x | X_n = x_n)
 
 Here, X represents the state, and n denotes the step in the process. The key idea is that the probability of moving to the next state depends solely on the current state and not on the sequence of events that preceded it.
 
@@ -29,7 +29,7 @@ Markov Chains can be classified into several types based on their properties:
 
 The transition matrix is a key component of a Markov Chain, containing the transition probabilities between states. For a system with n states, the transition matrix P is an n x n matrix where the element P[i][j] represents the probability of transitioning from state i to state j.
 
-\[ 
+\[
 P = \begin{pmatrix}
 P_{11} & P_{12} & \cdots & P_{1n} \\
 P_{21} & P_{22} & \cdots & P_{2n} \\
@@ -64,7 +64,7 @@ Let's define three states for the [market](../m/market.md):
 
 Using historical data, we can estimate the transition probabilities between these states. For simplicity, assume the following transition matrix:
 
-\[ 
+\[
 P = \begin{pmatrix}
 0.7 & 0.2 & 0.1 \\
 0.3 & 0.5 & 0.2 \\
@@ -77,14 +77,14 @@ P = \begin{pmatrix}
 The trading algorithm [will](../w/will.md) consider the current state and the transition probabilities to make decisions:
 
 - If in a [Bull Market](../b/bull_market.md):
-  - Buy if the probability of staying in a [Bull Market](../b/bull_market.md) is high (P[1][1] > 0.6)
-  - [Hold](../h/hold.md) if the probability of transitioning to a [Bear Market](../b/bear_market.md) is significant (P[1][2] > 0.3)
+ - Buy if the probability of staying in a [Bull Market](../b/bull_market.md) is high (P[1][1] > 0.6)
+ - [Hold](../h/hold.md) if the probability of transitioning to a [Bear Market](../b/bear_market.md) is significant (P[1][2] > 0.3)
 - If in a [Bear Market](../b/bear_market.md):
-  - Sell if the probability of staying in a [Bear Market](../b/bear_market.md) is high (P[2][2] > 0.5)
-  - [Hold](../h/hold.md) if the probability of transitioning to a [Bull Market](../b/bull_market.md) is significant (P[2][1] > 0.3)
+ - Sell if the probability of staying in a [Bear Market](../b/bear_market.md) is high (P[2][2] > 0.5)
+ - [Hold](../h/hold.md) if the probability of transitioning to a [Bull Market](../b/bull_market.md) is significant (P[2][1] > 0.3)
 - If in a Stable [Market](../m/market.md):
-  - [Hold](../h/hold.md) if the probabilities are evenly distributed
-  - Buy or Sell based on a deeper analysis of transition probabilities and external factors
+ - [Hold](../h/hold.md) if the probabilities are evenly distributed
+ - Buy or Sell based on a deeper analysis of transition probabilities and external factors
 
 #### Step 3: Implement and Test
 
@@ -101,4 +101,4 @@ The algorithm can be implemented and back-tested using historical data to evalua
 
 Markov Chains [offer](../o/offer.md) a [robust](../r/robust.md) mathematical framework for modeling and predicting [market](../m/market.md) behavior in trading. By defining states and transition probabilities, traders can develop sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies that adapt to changing [market](../m/market.md) conditions. Despite the challenges, the application of Markov Chains in trading holds significant potential for enhancing decision-making and improving trading outcomes.
 
-For further details and advanced applications in [algorithmic trading](../a/algorithmic_trading.md), companies like [Numerai](https://numer.ai) and [Two Sigma](https://www.twosigma.com) [offer](../o/offer.md) insights and tools that [leverage](../l/leverage.md) Markov Chains and other statistical models in [financial markets](../f/financial_market.md).
+For further details and advanced applications in [algorithmic trading](../a/algorithmic_trading.md), companies like Numerai and Two Sigma [offer](../o/offer.md) insights and tools that [leverage](../l/leverage.md) Markov Chains and other statistical models in [financial markets](../f/financial_market.md).

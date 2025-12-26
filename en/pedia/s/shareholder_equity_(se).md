@@ -7,7 +7,7 @@
 [Shareholder](../s/shareholder.md) [equity](../e/equity.md) is composed of several key components, each providing unique insights into the financial standing of a company:
 
 ### 1. **Common Stock**
-  
+
 [Common stock](../c/common_stock.md) represents the fundamental unit of ownership in a [corporation](../c/corporation.md). When investors buy [common stock](../c/common_stock.md), they become partial owners of the company. Common stockholders are typically entitled to vote on corporate matters, such as electing the board of directors, and may receive dividends.
 
 ### 2. **Preferred Stock**
@@ -115,7 +115,7 @@ In M&A activities, [shareholder](../s/shareholder.md) [equity](../e/equity.md) i
 
 ### 4. **Algorithmic Trading**
 
-In the realm of [algorithmic trading](../a/accountability.md), [shareholder](../s/shareholder.md) [equity](../e/equity.md) contributes to the [quantitative models](../q/quantitative_models.md) that algorithms rely on for making trading decisions. Metrics like ROE, P/B ratio, and [equity](../e/equity.md) [growth trends](../g/growth_trends_in_trading.md) are integrated into [trading strategies](../t/trading_strategies.md) for better decision-making.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), [shareholder](../s/shareholder.md) [equity](../e/equity.md) contributes to the [quantitative models](../q/quantitative_models.md) that algorithms rely on for making trading decisions. Metrics like ROE, P/B ratio, and [equity](../e/equity.md) [growth trends](../g/growth_trends_in_trading.md) are integrated into [trading strategies](../t/trading_strategies.md) for better decision-making.
 
 ### 5. **Fintech Applications**
 
@@ -125,9 +125,9 @@ Fintech platforms [leverage](../l/leverage.md) [shareholder](../s/shareholder.md
 
 For more specific examples and deeper insights into how companies [handle](../h/handle.md) and report [shareholder](../s/shareholder.md) [equity](../e/equity.md), you can visit the following company pages:
 
-- [Apple Inc.](https://investor.apple.com/financials/default.aspx)
-- [Microsoft Corporation](https://www.microsoft.com/en-us/Investor)
-- [Tesla, Inc.](https://ir.tesla.com/financial-information)
+- Apple Inc.
+- Microsoft Corporation
+- Tesla, Inc.
 
 ## Conclusion
 

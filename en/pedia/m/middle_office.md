@@ -9,37 +9,37 @@ The middle office is a segment in financial institutions that manages [risk](../
 ### Key Functions of the Middle Office
 
 1. **[Risk Management](../r/risk_management.md)**
-   - Ensuring that financial transactions comply with the [risk](../r/risk.md)-taking guidelines and [risk](../r/risk.md) appetite of the [firm](../f/firm.md).
-   - Monitoring [market risk](../m/market_risk.md), [credit risk](../c/credit_risk.md), and [operational risk](../o/operational_risk.md).
-   - Conducting [stress testing](../s/stress_testing.md) and [scenario analysis](../s/scenario_analysis.md) to anticipate potential financial vulnerabilities.
-   - Employing [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) models and other [risk management](../r/risk_management.md) tools.
+ - Ensuring that financial transactions comply with the [risk](../r/risk.md)-taking guidelines and [risk](../r/risk.md) appetite of the [firm](../f/firm.md).
+ - Monitoring [market risk](../m/market_risk.md), [credit risk](../c/credit_risk.md), and [operational risk](../o/operational_risk.md).
+ - Conducting [stress testing](../s/stress_testing.md) and [scenario analysis](../s/scenario_analysis.md) to anticipate potential financial vulnerabilities.
+ - Employing [Value](../v/value.md) at [Risk](../r/risk.md) (VaR) models and other [risk management](../r/risk_management.md) tools.
 
 2. **Compliance and Regulatory Reporting**
-   - Ensuring adherence to financial regulations and internal policies.
-   - Managing Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) processes.
-   - Filing mandatory reports with regulatory bodies such as the SEC, FCA, and others.
-   - Performing audits and examinations to verify compliance standards.
+ - Ensuring adherence to financial regulations and internal policies.
+ - Managing Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) processes.
+ - Filing mandatory reports with regulatory bodies such as the SEC, FCA, and others.
+ - Performing audits and examinations to verify compliance standards.
 
 3. **Data Management and Analytics**
-   - Handling large volumes of [trade](../t/trade.md) data and [transaction](../t/transaction.md) details.
-   - Using sophisticated [data analytics](../d/data_analytics.md) tools to extract insights.
-   - Ensuring data integrity and accuracy.
-   - Producing reports for internal and external stakeholders.
+ - Handling large volumes of [trade](../t/trade.md) data and [transaction](../t/transaction.md) details.
+ - Using sophisticated [data analytics](../d/data_analytics.md) tools to extract insights.
+ - Ensuring data integrity and accuracy.
+ - Producing reports for internal and external stakeholders.
 
 4. **Performance Measurement**
-   - Monitoring the performance of trading activities.
-   - Producing [performance attribution](../p/performance_attribution.md) reports to understand [profit](../p/profit.md) and loss (P&L) drivers.
-   - Analyzing the effectiveness of investment strategies.
+ - Monitoring the performance of trading activities.
+ - Producing [performance attribution](../p/performance_attribution.md) reports to understand [profit](../p/profit.md) and loss (P&L) drivers.
+ - Analyzing the effectiveness of investment strategies.
 
 5. **[Valuation](../v/valuation.md)**
-   - Providing accurate pricing and [valuation](../v/valuation.md) of assets.
-   - Utilizing models to determine fair [market](../m/market.md) values.
-   - Verifying price sources and maintaining data feeds.
+ - Providing accurate pricing and [valuation](../v/valuation.md) of assets.
+ - Utilizing models to determine fair [market](../m/market.md) values.
+ - Verifying price sources and maintaining data feeds.
 
 6. **Financial Control**
-   - Aligning financial data with [accounting](../a/accounting.md) records.
-   - Coordinating with the [back office](../b/back_office.md) to ensure accurate financial reporting.
-   - Monitoring and verifying [transaction](../t/transaction.md) lifecycles.
+ - Aligning financial data with [accounting](../a/accounting.md) records.
+ - Coordinating with the [back office](../b/back_office.md) to ensure accurate financial reporting.
+ - Monitoring and verifying [transaction](../t/transaction.md) lifecycles.
 
 ## Middle Office Technologies
 
@@ -59,7 +59,7 @@ Data management platforms like [Bloomberg Terminal](../b/bloomberg_terminal.md),
 
 ## Middle Office in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the middle office assumes an even more critical role due to the high speed and complexity of transactions. Here's how the middle office integrates into the [algorithmic trading](../a/accountability.md) landscape:
+In [algorithmic trading](../a/algorithmic_trading.md), the middle office assumes an even more critical role due to the high speed and complexity of transactions. Here's how the middle office integrates into the [algorithmic trading](../a/algorithmic_trading.md) landscape:
 
 ### Pre-Trade Risk Assessment
 Before executing algorithmic trades, the middle office assesses potential risks including [market](../m/market.md) impact, [liquidity](../l/liquidity.md) constraints, and compliance with pre-[trade](../t/trade.md) regulatory requirements.
@@ -68,7 +68,7 @@ Before executing algorithmic trades, the middle office assesses potential risks 
 Once trades are executed, continuous monitoring of [trading algorithms](../t/trading_algorithms.md) is essential. This involves ensuring that the algorithms operate within predefined [risk](../r/risk.md) parameters and comply with regulatory norms.
 
 ### Post-Trade Analysis
-The middle office conducts a detailed [post-trade analysis](../p/post-trade_analysis.md) to evaluate the performance of [trading algorithms](../t/trading_algorithms.md). This helps in understanding the [efficiency](../e/efficiency.md) of the algorithms, identifying discrepancies, and ensuring accurate settlement. 
+The middle office conducts a detailed [post-trade analysis](../p/post-trade_analysis.md) to evaluate the performance of [trading algorithms](../t/trading_algorithms.md). This helps in understanding the [efficiency](../e/efficiency.md) of the algorithms, identifying discrepancies, and ensuring accurate settlement.
 
 ### Trade Reporting
 Algorithmic trades often need to be reported to regulatory bodies in near real-time. The middle office ensures these trades are promptly and accurately reported as per the regulations, which could include RTS 27 and [MiFID II](../m/mifid_ii.md) compliance in Europe or Dodd-Frank in the United States.
@@ -134,8 +134,8 @@ As financial institutions face increasing cyber risks, [robust](../r/robust.md) 
 ## Case Study: J.P. Morgan
 
 J.P. Morgan’s middle office exemplifies a [robust](../r/robust.md) and integrated approach to financial management. For more detailed insights, explore their official pages:
-[J.P. Morgan Corporate and Investment Bank](https://www.jpmorgan.com/global/investment-banking)
+J.P. Morgan Corporate and Investment Bank
 
-J.P. Morgan emphasizes a comprehensive [risk management](../r/risk_management.md) procedure and utilizes advanced technologies to align their middle office operations with front and [back office](../b/back_office.md) functions. 
+J.P. Morgan emphasizes a comprehensive [risk management](../r/risk_management.md) procedure and utilizes advanced technologies to align their middle office operations with front and [back office](../b/back_office.md) functions.
 
 In conclusion, the middle office serves as a pivotal segment in financial organizations, ensuring transactions are conducted efficiently, risks managed effectively, and compliance maintained rigorously. As technologies evolve and regulations change, the middle office [will](../w/will.md) continue to adapt, playing a crucial role in the financial ecosystem.

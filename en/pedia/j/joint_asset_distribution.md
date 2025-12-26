@@ -89,15 +89,15 @@ Automated systems can monitor [market](../m/market.md) conditions in real-time a
 
 ### Rayliant Global Advisors
 Rayliant Global Advisors offers advanced strategies in [asset management](../a/asset_management.md), leveraging [proprietary algorithms](../p/proprietary_algorithms.md) to manage and distribute assets effectively across global markets.
-Website: [Rayliant Global Advisors](https://rayliant.com/)
+online platform: Rayliant Global Advisors
 
 ### BlackRock's Aladdin Platform
 BlackRock's Aladdin platform integrates sophisticated analytics with advanced portfolio and [risk management](../r/risk_management.md) systems. It is used by institutional investors to optimize [asset](../a/asset.md) [distribution](../d/distribution.md) and manage [risk](../r/risk.md) efficiently.
-Website: [BlackRock Aladdin](https://www.blackrock.com/aladdin/)
+online platform: BlackRock Aladdin
 
 ### Two Sigma
 Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to create automated investment strategies. Their approach is deeply rooted in [quantitative analysis](../q/quantitative_analysis.md) and algorithmic processes for [asset](../a/asset.md) [distribution](../d/distribution.md).
-Website: [Two Sigma](https://www.twosigma.com/)
+online platform: Two Sigma
 
 ## Challenges in Joint Asset Distribution
 

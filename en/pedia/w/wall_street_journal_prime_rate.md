@@ -71,9 +71,9 @@ For consumers, understanding the [Prime Rate](../p/prime_rate.md) and its moveme
 
 Several major financial institutions and lenders use the [Wall Street](../w/wall_street.md) [Journal](../j/journal.md) [Prime Rate](../p/prime_rate.md) as a [benchmark](../b/benchmark.md) for their [loan](../l/loan.md) products. Some examples include:
 
-- **[Chase Bank](https://www.chase.com/)**: Chase uses the WSJ [Prime Rate](../p/prime_rate.md) as a reference for setting [interest](../i/interest.md) rates on its lending products, including [credit](../c/credit.md) cards and mortgages.
-- **[Bank of America](https://www.bankofamerica.com/)**: [Bank](../b/bank.md) of America adjusts its variable [loan](../l/loan.md) rates based on changes in the [Prime Rate](../p/prime_rate.md).
-- **[Wells Fargo](https://www.wellsfargo.com/)**: Wells Fargo ties the rates for certain loans and lines of [credit](../c/credit.md) to the [Prime Rate](../p/prime_rate.md), reflecting changes promptly following adjustments.
+- **Chase Bank**: Chase uses the WSJ [Prime Rate](../p/prime_rate.md) as a reference for setting [interest](../i/interest.md) rates on its lending products, including [credit](../c/credit.md) cards and mortgages.
+- **Bank of America**: [Bank](../b/bank.md) of America adjusts its variable [loan](../l/loan.md) rates based on changes in the [Prime Rate](../p/prime_rate.md).
+- **Wells Fargo**: Wells Fargo ties the rates for certain loans and lines of [credit](../c/credit.md) to the [Prime Rate](../p/prime_rate.md), reflecting changes promptly following adjustments.
 
 These examples demonstrate the widespread adoption of the [Prime Rate](../p/prime_rate.md) as a standard in the U.S. banking system.
 

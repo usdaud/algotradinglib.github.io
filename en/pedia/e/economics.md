@@ -12,9 +12,9 @@
 
 ## Branches of Economics
 1. **[Microeconomics](../m/microeconomics.md)**: Focuses on the behavior of individual consumers, firms, and industries. It examines how these entities make decisions and interact in markets.
-   - **Examples**: [Supply](../s/supply.md) and [demand](../d/demand.md), price determination, consumer behavior, [production costs](../p/production_costs.md).
+ - **Examples**: [Supply](../s/supply.md) and [demand](../d/demand.md), price determination, consumer behavior, [production costs](../p/production_costs.md).
 2. **[Macroeconomics](../m/macroeconomics.md)**: Studies the overall functioning of an [economy](../e/economy.md), including issues like [inflation](../i/inflation.md), [unemployment](../u/unemployment.md), [economic growth](../e/economic_growth.md), and monetary and [fiscal policy](../f/fiscal_policy.md).
-   - **Examples**: Gross Domestic Product (GDP), national [income](../i/income.md), [inflation](../i/inflation.md) rates, [unemployment](../u/unemployment.md) rates.
+ - **Examples**: Gross Domestic Product (GDP), national [income](../i/income.md), [inflation](../i/inflation.md) rates, [unemployment](../u/unemployment.md) rates.
 
 ## Importance
 1. **Resource Allocation**: Helps societies decide how to allocate their limited resources efficiently.
@@ -42,4 +42,3 @@
 
 ## Conclusion
 Economics is a vital discipline that helps understand and address the fundamental issues of resource allocation, production, and consumption. By studying economics, individuals and societies can make informed decisions that promote [efficiency](../e/efficiency.md), [equity](../e/equity.md), and sustainability in the face of limited resources and unlimited wants.
-

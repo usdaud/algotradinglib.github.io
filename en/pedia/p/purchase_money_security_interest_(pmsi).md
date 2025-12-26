@@ -17,7 +17,7 @@ Once these conditions are satisfied, the PMSI is officially attached and enforce
 
 ## Perfection of PMSI
 
-Perfection is a legal procedure to make a [security](../s/security.md) [interest](../i/interest.md) enforceable against third parties, particularly other creditors. PMSIs can be perfected by filing a [financing](../f/financing.md) statement with the appropriate government office, typically the Secretary of State. This filing gives public notice of the secured party’s [interest](../i/interest.md) in the [collateral](../c/collateral.md). 
+Perfection is a legal procedure to make a [security](../s/security.md) [interest](../i/interest.md) enforceable against third parties, particularly other creditors. PMSIs can be perfected by filing a [financing](../f/financing.md) statement with the appropriate government office, typically the Secretary of State. This filing gives public notice of the secured party’s [interest](../i/interest.md) in the [collateral](../c/collateral.md).
 
 For [inventory](../i/inventory.md), a PMSI must be perfected before the debtor takes possession of the [inventory](../i/inventory.md). Additionally, the secured party must notify existing secured creditors with conflicting [security](../s/security.md) interests. For equipment, the PMSI must be perfected either before or within 20 days of the debtor receiving possession of the equipment.
 
@@ -82,6 +82,6 @@ A farm decides to purchase new tractors and opts for a [loan](../l/loan.md) from
 
 ## Conclusion
 
-A Purchase [Money](../m/money.md) [Security](../s/security.md) [Interest](../i/interest.md) (PMSI) is a crucial tool in secured transactions, [offering](../o/offering.md) lenders and sellers a prioritized claim over financed goods. Governed by the UCC, PMSIs require specific procedures for attachment and perfection to ensure their enforceability and priority. While they [offer](../o/offer.md) significant advantages in terms of [risk](../r/risk.md) mitigation and lending encouragement, they also require careful compliance and [due diligence](../d/due_diligence.md). Understanding the intricacies of PMSIs can empower businesses to utilize them effectively in [financing](../f/financing.md) arrangements, thereby enhancing financial stability and operational flexibility. 
+A Purchase [Money](../m/money.md) [Security](../s/security.md) [Interest](../i/interest.md) (PMSI) is a crucial tool in secured transactions, [offering](../o/offering.md) lenders and sellers a prioritized claim over financed goods. Governed by the UCC, PMSIs require specific procedures for attachment and perfection to ensure their enforceability and priority. While they [offer](../o/offer.md) significant advantages in terms of [risk](../r/risk.md) mitigation and lending encouragement, they also require careful compliance and [due diligence](../d/due_diligence.md). Understanding the intricacies of PMSIs can empower businesses to utilize them effectively in [financing](../f/financing.md) arrangements, thereby enhancing financial stability and operational flexibility.
 
-For more detailed understanding or specific inquiries, consider visiting legal frameworks like the [UCC website](https://www.uniformlaws.org/acts/ucc) or seeking professional legal advice.
+For more detailed understanding or specific inquiries, consider visiting legal frameworks like the UCC online platform or seeking professional legal advice.

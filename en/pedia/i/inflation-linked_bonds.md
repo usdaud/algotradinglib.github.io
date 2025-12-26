@@ -5,13 +5,13 @@
 ## Types of Inflation-Linked Bonds
 
 ### Treasury Inflation-Protected Securities (TIPS)
-In the United States, the most well-known [inflation](../i/inflation.md)-linked bonds are Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price [Index](../i/index_instrument.md) (CPI), which measures [inflation](../i/inflation.md). Full details of TIPS can be found on the [U.S. Treasury's website](https://www.treasurydirect.gov/indiv/research/indepth/tips/res_tips.htm).
+In the United States, the most well-known [inflation](../i/inflation.md)-linked bonds are Treasury [Inflation-Protected Securities](../i/inflation-protected_securities.md) (TIPS). TIPS are issued by the U.S. Department of the Treasury and are indexed to the Consumer Price [Index](../i/index_instrument.md) (CPI), which measures [inflation](../i/inflation.md). Full details of TIPS can be found on the U.S. Treasury's online platform.
 
 ### UK Index-Linked Gilts
-In the United Kingdom, [inflation](../i/inflation.md)-linked bonds are known as [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md). These bonds are issued by the UK [Debt](../d/debt.md) Management Office (DMO) and are linked to the Retail Price [Index](../i/index_instrument.md) (RPI). You can access more information about [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md) on the [UK DMO website](https://www.dmo.gov.uk/).
+In the United Kingdom, [inflation](../i/inflation.md)-linked bonds are known as [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md). These bonds are issued by the UK [Debt](../d/debt.md) Management Office (DMO) and are linked to the Retail Price [Index](../i/index_instrument.md) (RPI). You can access more information about [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md)
 
 ### Euro Inflation-Linked Bonds
-Within the [Eurozone](../e/eurozone.md), numerous countries [issue](../i/issue.md) [inflation](../i/inflation.md)-linked bonds, and they are generally indexed to the Harmonized [Index](../i/index_instrument.md) of Consumer Prices (HICP). For example, the French government issues [Obligations](../o/obligation.md) Assimilables du Trésor (OATi), which can be explored further on the [Agence France Trésor website](https://www.aft.gouv.fr/en).
+Within the [Eurozone](../e/eurozone.md), numerous countries [issue](../i/issue.md) [inflation](../i/inflation.md)-linked bonds, and they are generally indexed to the Harmonized [Index](../i/index_instrument.md) of Consumer Prices (HICP). For example, the French government issues [Obligations](../o/obligation.md) Assimilables du Trésor (OATi), which can be explored further on the Agence France Trésor online platform.
 
 ## Mechanics of Inflation-Linked Bonds
 
@@ -49,13 +49,13 @@ In some jurisdictions, the [inflation](../i/inflation.md) adjustments to the [pr
 ## Notable Issuers of Inflation-Linked Bonds
 
 ### U.S. Department of the Treasury
-The U.S. Department of the Treasury is the primary [issuer](../i/issuer.md) of TIPS. Investors can buy TIPS directly from the Treasury through the [TreasuryDirect website](https://www.treasurydirect.gov/).
+The U.S. Department of the Treasury is the primary [issuer](../i/issuer.md) of TIPS. Investors can buy
 
 ### UK Debt Management Office
-The UK DMO manages the issuance of [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md). Detailed information can be found on the [DMO website](https://www.dmo.gov.uk/).
+The UK DMO manages the issuance of [Index](../i/index_instrument.md)-Linked [Gilts](../g/gilts.md).
 
 ### Agence France Trésor
-Agence France Trésor is responsible for the issuance of French [inflation](../i/inflation.md)-linked bonds, including OATi. Their resources are available on their official [website](https://www.aft.gouv.fr/).
+Agence France Trésor is responsible for the issuance of French [inflation](../i/inflation.md)-linked bonds,
 
 ## Investing in Inflation-Linked Bonds
 

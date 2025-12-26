@@ -49,11 +49,11 @@ P2P lending platforms often [handle](../h/handle.md) the collection of [loan](..
 P2P lending is subject to varying levels of regulation in different jurisdictions. In some countries, regulatory bodies have imposed stringent guidelines to protect investors and ensure the stability of the [financial system](../f/financial_system.md). Key areas of regulation include:
 
 - **[Disclosure](../d/disclosure.md) Requirements**: Platforms must provide clear information regarding risks and costs associated with loans.
-  
+
 - **Licensing**: P2P platforms may need to obtain licenses to operate legally.
-  
+
 - **Consumer Protection**: Rules to protect borrowers from predatory practices and ensure fair treatment.
-  
+
 - **Financial Reporting**: Platforms may be required to provide regular financial and operational reports to regulators.
 
 Regulation aims to strike a balance between fostering innovation and ensuring the protection of all parties involved.
@@ -61,19 +61,19 @@ Regulation aims to strike a balance between fostering innovation and ensuring th
 ## Popular Peer-to-Peer Lending Platforms
 
 ### LendingClub
-[LendingClub](https://www.lendingclub.com/) is one of the largest P2P lending platforms in the United States. It connects borrowers seeking personal loans with investors looking for higher returns. LendingClub offers fixed-rate loans and provides a platform for investment in these loans. The company has originated billions of dollars in loans since its inception.
+LendingClub is one of the largest P2P lending platforms in the United States. It connects borrowers seeking personal loans with investors looking for higher returns. LendingClub offers fixed-rate loans and provides a platform for investment in these loans. The company has originated billions of dollars in loans since its inception.
 
 ### Prosper
-[Prosper](https://www.prosper.com/) is another leading P2P lending platform in the US. It offers personal loans with fixed 3- or 5-year terms and provides an [investor](../i/investor.md) marketplace for funding these loans. Prosper uses a proprietary [rating](../r/rating.md) system to determine borrower [creditworthiness](../c/creditworthiness.md).
+Prosper is another leading P2P lending platform in the US. It offers personal loans with fixed 3- or 5-year terms and provides an [investor](../i/investor.md) marketplace for funding these loans. Prosper uses a proprietary [rating](../r/rating.md) system to determine borrower [creditworthiness](../c/creditworthiness.md).
 
 ### Funding Circle
-[Funding Circle](https://www.fundingcircle.com/) operates in several countries including the US, UK, and the EU. It focuses primarily on small [business](../b/business.md) loans, providing a platform for SMEs to access [capital](../c/capital.md) from investors. Funding Circle runs a thorough vetting process to assess the [creditworthiness](../c/creditworthiness.md) of [business](../b/business.md) borrowers.
+Funding Circle operates in several countries including the US, UK, and the EU. It focuses primarily on small [business](../b/business.md) loans, providing a platform for SMEs to access [capital](../c/capital.md) from investors. Funding Circle runs a thorough vetting process to assess the [creditworthiness](../c/creditworthiness.md) of [business](../b/business.md) borrowers.
 
 ### Upstart
-[Upstart](https://www.upstart.com/) leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to assess [credit risk](../c/credit_risk.md). It offers personal loans to borrowers who may not have an extensive [credit](../c/credit.md) history but demonstrate strong potential as indicated by other data points. This platform aims to widen access to [credit](../c/credit.md) while [offering](../o/offering.md) competitive [interest](../i/interest.md) rates.
+Upstart leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md) to assess [credit risk](../c/credit_risk.md). It offers personal loans to borrowers who may not have an extensive [credit](../c/credit.md) history but demonstrate strong potential as indicated by other data points. This platform aims to widen access to [credit](../c/credit.md) while [offering](../o/offering.md) competitive [interest](../i/interest.md) rates.
 
 ### Zopa
-[Zopa](https://www.zopa.com/) is one of the original P2P lending platforms, operating mainly in the UK. It offers both personal loans and investment opportunities for lenders. Zopa focuses on providing transparent and fair terms for both parties involved.
+Zopa is one of the original P2P lending platforms, operating mainly in the UK. It offers both personal loans and investment opportunities for lenders. Zopa focuses on providing transparent and fair terms for both parties involved.
 
 ## The Future of Peer-to-Peer Lending
 

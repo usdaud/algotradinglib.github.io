@@ -6,7 +6,7 @@ Japanese Government Bonds (JGBs) are [debt](../d/debt.md) securities issued by t
 
 ##### 1. Short-Term JGBs
 
-Short-term JGBs, also known as Treasury [Discount](../d/discount.md) Bills (T-Bills), have maturities of one year or less. These instruments are typically issued at a [discount](../d/discount.md) to their [face value](../f/face_value.md) and do not pay periodic [interest](../i/interest.md). Investors receive the [face value](../f/face_value.md) at [maturity](../m/maturity.md), and the difference between the purchase price and the [face value](../f/face_value.md) represents the [investor](../i/investor.md)'s [return](../r/return.md). 
+Short-term JGBs, also known as Treasury [Discount](../d/discount.md) Bills (T-Bills), have maturities of one year or less. These instruments are typically issued at a [discount](../d/discount.md) to their [face value](../f/face_value.md) and do not pay periodic [interest](../i/interest.md). Investors receive the [face value](../f/face_value.md) at [maturity](../m/maturity.md), and the difference between the purchase price and the [face value](../f/face_value.md) represents the [investor](../i/investor.md)'s [return](../r/return.md).
 
 ##### 2. Medium-Term JGBs
 
@@ -58,13 +58,13 @@ Statistical [arbitrage](../a/arbitrage.md) strategies use [quantitative models](
 
 Several firms are prominent in the JGB algo-trading space, [offering](../o/offering.md) advanced trading platforms and services. Here are some key players:
 
-1. **Nomura Securities** - [Nomura Securities](https://www.nomura.com/) is a leading financial services group and global investment [bank](../b/bank.md), providing a wide [range](../r/range.md) of services, including [algorithmic trading](../a/algorithmic_trading.md) solutions for JGBs.
+1. **Nomura Securities** - Nomura Securities is a leading financial services group and global investment [bank](../b/bank.md), providing a wide [range](../r/range.md) of services, including [algorithmic trading](../a/algorithmic_trading.md) solutions for JGBs.
 
-2. **Daiwa Securities** - [Daiwa Securities](https://www.daiwa-grp.jp/english/) is another major player in the Japanese financial [market](../m/market.md), [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) and other advanced trading services.
+2. **Daiwa Securities** - Daiwa Securities is another major player in the Japanese financial [market](../m/market.md), [offering](../o/offering.md) [algorithmic trading](../a/algorithmic_trading.md) and other advanced trading services.
 
-3. **Monex Group** - [Monex Group](https://www.monexgroup.jp/en/) provides online trading services and has a strong presence in the JGB [market](../m/market.md) through its algo-trading platforms.
+3. **Monex Group** - Monex Group provides online trading services and has a strong presence in the JGB [market](../m/market.md) through its algo-trading platforms.
 
-4. **SMBC Nikko Securities** - [SMBC Nikko Securities](https://www.smbcnikko.co.jp/en/index.html) offers a [range](../r/range.md) of financial services, including sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions for institutional investors.
+4. **SMBC Nikko Securities** - SMBC Nikko Securities offers a [range](../r/range.md) of financial services, including sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions for institutional investors.
 
 #### Conclusion
 

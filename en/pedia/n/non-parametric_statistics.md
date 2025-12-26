@@ -46,7 +46,7 @@ Effective [risk management](../r/risk_management.md) often requires understandin
 
 ### High-Frequency Trading
 
-In high-frequency trading (HFT), where decisions are made within fractions of a second, the assumptions of traditional models may not [hold](../h/hold.md) due to non-stationarity and heavy-tailed distributions. Firms like Virtu Financial [Virtu Financial](https://www.virtu.com/) and Citadel Securities [Citadel Securities](https://www.citadelsecurities.com/) [leverage](../l/leverage.md) non-parametric approaches to adapt to the high [volatility](../v/volatility.md) and complexity of [market microstructure](../m/market_microstructure.md).
+In high-frequency trading (HFT), where decisions are made within fractions of a second, the assumptions of traditional models may not [hold](../h/hold.md) due to non-stationarity and heavy-tailed distributions. Firms like Virtu Financial Virtu Financial and Citadel Securities Citadel Securities [leverage](../l/leverage.md) non-parametric approaches to adapt to the high [volatility](../v/volatility.md) and complexity of [market microstructure](../m/market_microstructure.md).
 
 ### Algorithm Backtesting
 
@@ -69,4 +69,3 @@ For [portfolio optimization](../p/portfolio_optimization.md), non-parametric met
 ## Conclusion
 
 Non-parametric [statistics](../s/statistics.md) [offer](../o/offer.md) valuable tools for [algorithmic trading](../a/algorithmic_trading.md), providing [robust](../r/robust.md) alternatives to parametric methods for modeling and analysis. By accommodating the unique characteristics of financial data, such as non-normality and [heteroskedasticity](../h/heteroskedasticity.md), these methods enable traders to develop more adaptive and resilient strategies. However, the increased computational complexity and potential risks of [overfitting](../o/overfitting.md) require careful consideration and application. Firms and individual traders alike can benefit from integrating non-parametric approaches into their [trading models](../t/trading_models.md), enhancing their ability to navigate the complexities of [financial markets](../f/financial_market.md).
-

@@ -20,7 +20,7 @@
 
 #### Definition
 
-VWAP is a trading [benchmark](../b/benchmark.md) that calculates the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price. 
+VWAP is a trading [benchmark](../b/benchmark.md) that calculates the average price a [security](../s/security.md) has traded at throughout the day, based on both [volume](../v/volume.md) and price.
 
 #### Strategy
 
@@ -152,9 +152,9 @@ The [order](../o/order.md) is split throughout the day with the accumulated [vol
 
 Several technology firms [offer](../o/offer.md) platforms and services dedicated to [algorithmic trading](../a/algorithmic_trading.md) and [order](../o/order.md) splitting strategies. These include:
 
-- **Virtu Financial**: [Virtu Financial](https://www.virtu.com/), provides integrated trading solutions with advanced [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md).
+- **Virtu Financial**: Virtu Financial, provides integrated trading solutions with advanced [order](../o/order.md) [execution algorithms](../e/execution_algorithms.md).
 - **ITG (Investment Technology Group)**: Specializes in electronic trading platforms with customizable algorithmic strategies.
-- **[AlgoTrader](../a/algotrader.md)**: [AlgoTrader](https://www.algotrader.com/), offers a comprehensive solution for quant trading and automated [order](../o/order.md) [execution](../e/execution.md).
+- **[AlgoTrader](../a/algotrader.md)**: AlgoTrader, offers a comprehensive solution for quant trading and automated [order](../o/order.md) [execution](../e/execution.md).
 
 ### Examples of Usage
 

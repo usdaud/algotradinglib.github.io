@@ -36,21 +36,21 @@ Similarly, in [derivatives](../d/derivatives.md) trading, where complex instrume
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer programs to execute trades based on pre-set criteria. In this high-speed [trading environment](../t/trading_environment.md), the principle of uberrimae fidei translates to the development and implementation of algorithms that operate transparently and within the bounds of legality and ethical guidelines.
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer programs to execute trades based on pre-set criteria. In this high-speed [trading environment](../t/trading_environment.md), the principle of uberrimae fidei translates to the development and implementation of algorithms that operate transparently and within the bounds of legality and ethical guidelines.
 
 For instance, firms must ensure that their algorithms do not engage in manipulative practices like [spoofing](../s/spoofing.md) (placing orders with no intention of executing them), which can distort [market](../m/market.md) prices. Additionally, [disclosure](../d/disclosure.md) of algorithmic strategies and their potential impacts is necessary to regulators and, in some cases, clients.
 
 ### FinTech
 
-In the broader FinTech [industry](../i/industry.md), uberrimae fidei plays a crucial role in building [trust](../t/trust.md). With services ranging from [peer-to-peer lending](../p/peer-to-peer_lending.md) to robo-advisors, transparent [disclosure](../d/disclosure.md) of operational methodologies, data usage, and [risk factors](../r/risk_factors_in_trading.md) is essential. 
+In the broader FinTech [industry](../i/industry.md), uberrimae fidei plays a crucial role in building [trust](../t/trust.md). With services ranging from [peer-to-peer lending](../p/peer-to-peer_lending.md) to robo-advisors, transparent [disclosure](../d/disclosure.md) of operational methodologies, data usage, and [risk factors](../r/risk_factors_in_trading.md) is essential.
 
-For example, [personal finance](../p/personal_finance_in_trading.md) apps must clearly state how they use consumer data, ensuring users are fully informed. FinTech companies like **Plaid** (https://plaid.com) focus on transparent and secure data practices, adhering to utmost good faith in their operations.
+For example, [personal finance](../p/personal_finance_in_trading.md) apps must clearly state how they use consumer data, ensuring users are fully informed. FinTech companies like **Plaid** ( focus on transparent and secure data practices, adhering to utmost good faith in their operations.
 
 ## Legal Implications
 
 ### Breach of Uberrimae Fidei
 
-When a party fails to [uphold](../u/uphold.md) the principle of uberrimae fidei, several legal ramifications may arise. In the context of [insurance](../i/insurance.md), non-[disclosure](../d/disclosure.md) or misrepresentation of material facts by the insured can lead to policy rescission or denial of claims. 
+When a party fails to [uphold](../u/uphold.md) the principle of uberrimae fidei, several legal ramifications may arise. In the context of [insurance](../i/insurance.md), non-[disclosure](../d/disclosure.md) or misrepresentation of material facts by the insured can lead to policy rescission or denial of claims.
 
 ### Regulatory Framework
 
@@ -72,7 +72,7 @@ Determining what constitutes a "material fact" can be subjective. What one party
 
 ### Technological Advances
 
-With advancements in technology and [data analytics](../d/data_analytics.md), ensuring [transparency](../t/transparency.md) in [algorithmic trading](../a/accountability.md) or FinTech requires [robust](../r/robust.md) regulatory frameworks that keep pace with innovations. The rapid evolution of these sectors can outstrip existing legal provisions, creating gray areas.
+With advancements in technology and [data analytics](../d/data_analytics.md), ensuring [transparency](../t/transparency.md) in [algorithmic trading](../a/algorithmic_trading.md) or FinTech requires [robust](../r/robust.md) regulatory frameworks that keep pace with innovations. The rapid evolution of these sectors can outstrip existing legal provisions, creating gray areas.
 
 ### Balancing Disclosure and Confidentiality
 

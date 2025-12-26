@@ -5,7 +5,7 @@ Series EE Bonds, often referred to simply as EE Bonds, are a type of U.S. govern
 ## Purchase and Eligibility
 
 ### Purchasing Options
-Series EE Bonds can be purchased in electronic form through the TreasuryDirect website. They are available in denominations as low as $25 and in any amount above that, up to $10,000 per calendar year for each [Social Security](../s/social_security.md) Number. This limit is a major consideration for investors planning to use EE Bonds as a savings strategy.
+Series EE Bonds can be purchased in electronic form. They are available in denominations as low as $25 and in any amount above that, up to $10,000 per calendar year for each [Social Security](../s/social_security.md) Number. This limit is a major consideration for investors planning to use EE Bonds as a savings strategy.
 
 ### Eligibility Requirements
 EE Bonds can be purchased by individual U.S. residents, U.S. citizens living abroad, or civilian employees of the U.S. government, regardless of their residence. Organizations, such as corporations, estates, and trusts, can also [hold](../h/hold.md) EE Bonds but only if they meet the IRS's criteria for a U.S. person.
@@ -13,7 +13,7 @@ EE Bonds can be purchased by individual U.S. residents, U.S. citizens living abr
 ## Interest Rates and Earnings
 
 ### Fixed Interest Rate
-EE Bonds issued after May 2005 have a [fixed interest rate](../f/fixed_interest_rate.md) determined at the time of purchase. This rate is set by the [U.S. Treasury](../u/u.s._treasury.md) and typically announced twice a year, in May and November. The fixed rate holds for the life of the [bond](../b/bond.md) unless a special case such as reissuing occurs. 
+EE Bonds issued after May 2005 have a [fixed interest rate](../f/fixed_interest_rate.md) determined at the time of purchase. This rate is set by the [U.S. Treasury](../u/u.s._treasury.md) and typically announced twice a year, in May and November. The fixed rate holds for the life of the [bond](../b/bond.md) unless a special case such as reissuing occurs.
 
 ### Minimum Investment Term
 The minimum term of ownership before cashing in an EE [Bond](../b/bond.md) is one year. If you redeem the [bond](../b/bond.md) before five years, you'll forfeit the last three months of [interest](../i/interest.md), akin to an early [withdrawal penalty](../w/withdrawal_penalty.md). This encourages long-term holding but provides some flexibility for those who need access to their funds sooner.
@@ -62,4 +62,4 @@ The initial motivation behind the creation of savings bonds was to provide a sim
 
 In conclusion, Series EE Bonds provide a secure, straightforward means of saving and [investing](../i/investing.md) with specific benefits related to education and tax savings. While they might [offer](../o/offer.md) moderate returns compared to equities or other higher-[risk](../r/risk.md) investments, their guaranteed [interest](../i/interest.md) and backed [security](../s/security.md) make them a reliable choice for conservative savers.
 
-For more detailed information, you can visit the official [U.S. Treasury](../u/u.s._treasury.md)'s [Series EE Bonds page on TreasuryDirect](https://www.treasurydirect.gov/indiv/research/indepth/eebonds/res_eebonds_eebonds.htm).
+For more detailed information, consult [U.S. Treasury](../u/u.s._treasury.md) materials on Series EE Bonds.

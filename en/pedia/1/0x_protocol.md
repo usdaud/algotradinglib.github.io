@@ -8,7 +8,23 @@
 
 0x's native token, ZRX, plays several pivotal roles within the ecosystem, including governance and staking. The protocol’s flexible and modular design enables various applications ranging from [order](../o/order.md) books to non-fungible token (NFT) marketplaces to [leverage](../l/leverage.md) its capabilities.
 
-The official website for 0x Protocol can be found at [0x.org](https://0x.org/).
+### Protocol Versions
+
+The protocol has evolved through several major versions:
+- **0x v1 (2017)**: Initial release with basic order matching capabilities
+- **0x v2 (2018)**: Added ERC-721 support and improved order matching efficiency
+- **0x v3 (2019)**: Introduced staking, protocol fees, and liquidity incentives
+- **0x v4 (2022)**: Optimized gas efficiency by up to 70%, added RFQ (Request for Quote) system for professional market makers
+
+### Multi-Chain Support
+
+0x has expanded beyond Ethereum to support multiple blockchains:
+- **Polygon**: Lower gas fees for high-frequency trading
+- **Arbitrum**: Layer 2 scaling with Ethereum security
+- **Optimism**: Optimistic rollup for faster transactions
+- **Avalanche**: High-throughput trading
+- **Base**: Coinbase's Layer 2 network
+- **BNB Chain**: Access to Binance ecosystem liquidity
 
 ## Core Components of 0x Protocol
 
@@ -95,15 +111,27 @@ In anticipation of potential [security](../s/security.md) breaches, 0x has an [i
 - **Aave:** Enabling leveraged trading and lending functionalities.
 - **Uniswap:** Utilizing [liquidity pools](../l/liquidity_pools.md) for competitive rates.
 
-### Relayer Network
+### Matcha
 
-Numerous relayers have adopted the 0x Protocol to build their platforms and services. These relayers contribute to the overall health and [liquidity](../l/liquidity.md) of the 0x network. Examples include:
+Matcha is the flagship consumer-facing DEX aggregator built by 0x Labs. It provides users with a simple interface to swap tokens across multiple DEXs while automatically finding the best prices. Matcha leverages the 0x API to aggregate liquidity from sources including Uniswap, SushiSwap, Curve, Balancer, and professional market makers.
 
-- **Radar Relay:** A global [order book](../o/order_book.md) relayer.
-- **Paradex:** A peer-to-peer ERC20 [trading platform](../t/trading_platform.md).
+### Notable Integrations
+
+Many prominent DeFi applications integrate 0x Protocol:
+
+- **MetaMask Swaps**: Uses 0x API for in-wallet token exchanges
+- **Coinbase Wallet**: Integrates 0x for decentralized trading
+- **Zapper**: Portfolio management with 0x-powered swaps
+- **DeFi Saver**: Automated DeFi management using 0x liquidity
+
+### Algorithmic Trading Applications
+
+0x Protocol provides several features beneficial for [algorithmic trading](../a/algorithmic_trading.md):
+
+- **RFQ System**: Professional market makers can provide quotes through the Request for Quote system, enabling tighter spreads
+- **Limit Orders**: Gasless limit orders allow traders to place orders without paying gas until execution
+- **Smart Order Routing**: The 0x API automatically routes orders through the most efficient path
 
 ## Conclusion
 
 0x Protocol represents a significant advancement in the decentralized [exchange](../e/exchange.md) landscape, [offering](../o/offering.md) a [robust](../r/robust.md), flexible, and secure platform for [Ethereum](../e/ethereum_.md)-based token trading. With its innovative architecture, focus on [security](../s/security.md), and comprehensive developer tools, 0x is set to continue its pivotal role in the ever-expanding DeFi ecosystem.
-
-For more information, visit the [official website](https://0x.org/).

@@ -2,7 +2,7 @@
 
 A retention bonus is a financial incentive offered to employees to encourage them to remain with an organization for a specific period of time. This type of bonus is typically used during periods of [uncertainty](../u/uncertainty_in_trading.md) or significant changes within an organization, such as mergers, acquisitions, or major strategic shifts. The bonus acts as a motivational tool, providing employees with a tangible reason to stay with the organization and contribute to its stability and continuity.
 
-In the context of [finance](../f/finance.md) and trading, retention bonuses are often used to retain key talent that is critical to the success of the organization. This includes traders, financial analysts, portfolio managers, and other professionals whose expertise and continuity are essential for maintaining [competitive advantage](../c/competitive_advantage.md) in the [market](../m/market.md). 
+In the context of [finance](../f/finance.md) and trading, retention bonuses are often used to retain key talent that is critical to the success of the organization. This includes traders, financial analysts, portfolio managers, and other professionals whose expertise and continuity are essential for maintaining [competitive advantage](../c/competitive_advantage.md) in the [market](../m/market.md).
 
 ## Purpose of Retention Bonuses
 

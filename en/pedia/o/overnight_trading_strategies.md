@@ -60,7 +60,7 @@ Tools such as the Forex Factory Calendar provide details on upcoming economic an
 
 ### Earnings Reports and Calendars
 
-Calendars from platforms like [Nasdaq](../n/nasdaq.md) (https://www.[nasdaq](../n/nasdaq.md).com/[market](../m/market.md)-activity/[earnings](../e/earnings.md)) list upcoming [earnings announcements](../e/earnings_announcements.md), helping traders anticipate overnight price movements in [stocks](../s/stock.md).
+Calendars from platforms like [Nasdaq](../n/nasdaq.md) ( list upcoming [earnings announcements](../e/earnings_announcements.md), helping traders anticipate overnight price movements in [stocks](../s/stock.md).
 
 ### Volatility Index (VIX)
 
@@ -78,7 +78,7 @@ This strategy bets that the [opening price](../o/opening_price.md) gap [will](..
 
 ### News-Based Trades
 
-Traders monitor news sources such as [Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com) for after-hours events like mergers, acquisitions, or [earnings](../e/earnings.md) releases, which could trigger significant overnight price movement.
+Traders monitor news sources such as [Bloomberg](../b/bloomberg.md) ( for after-hours events like mergers, acquisitions, or [earnings](../e/earnings.md) releases, which could trigger significant overnight price movement.
 
 ## Case Studies
 

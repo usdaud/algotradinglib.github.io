@@ -80,7 +80,7 @@ Rogue trading remains a significant challenge in [financial markets](../f/financ
 
 For more information on [risk management](../r/risk_management.md) and compliance measures, visit the official websites of major financial institutions and regulatory bodies:
 
-- [Société Générale](https://www.societegenerale.com)
-- [UBS](https://www.ubs.com)
-- [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu)
-- [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov)
+- Société Générale
+- UBS
+- European Securities and Markets Authority (ESMA)
+- U.S. Securities and Exchange Commission (SEC)

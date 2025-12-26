@@ -7,16 +7,16 @@ The Unit Benefit Formula, sometimes referred to as the Unit [Credit](../c/credit
 The basic Unit Benefit Formula can be broken down into several key components:
 
 1. **Years of Service**
-   - The number of years an employee has worked for the company.
-   - Typically, a higher number of years results in greater retirement benefits.
+ - The number of years an employee has worked for the company.
+ - Typically, a higher number of years results in greater retirement benefits.
 
 2. **Final Average Salary (FAS)**
-   - This is usually the average of the employee's highest [earnings](../e/earnings.md) over a specified period, such as the last five years of employment.
-   - It’s a crucial [factor](../f/factor.md) because a higher final salary generally leads to higher retirement benefits.
+ - This is usually the average of the employee's highest [earnings](../e/earnings.md) over a specified period, such as the last five years of employment.
+ - It’s a crucial [factor](../f/factor.md) because a higher final salary generally leads to higher retirement benefits.
 
 3. **Accrual Rate**
-   - This rate determines the amount of benefit accrued for each year of service.
-   - Generally expressed as a percentage of the final average salary.
+ - This rate determines the amount of benefit accrued for each year of service.
+ - Generally expressed as a percentage of the final average salary.
 
 ### The Basic Formula
 
@@ -39,12 +39,12 @@ So, the annual benefit the employee [will](../w/will.md) receive upon retirement
 ## Types of Accrual Rates
 
 - **Flat-Rate Accrual:**
-  - This type remains constant regardless of performance or other metrics.
-  - Simplicity makes it easy to administer and understand.
+ - This type remains constant regardless of performance or other metrics.
+ - Simplicity makes it easy to administer and understand.
 
 - **Variable Accrual Rates:**
-  - These fluctuate based on various factors such as company performance, [economic conditions](../e/economic_conditions.md), or evaluated employee performance.
-  - Can be more complex to manage but offers greater flexibility.
+ - These fluctuate based on various factors such as company performance, [economic conditions](../e/economic_conditions.md), or evaluated employee performance.
+ - Can be more complex to manage but offers greater flexibility.
 
 ## Importance of the Unit Benefit Formula
 
@@ -94,11 +94,11 @@ Defined benefit plans are subject to rigorous regulatory scrutiny. Ensuring comp
 
 ### Corporate Plans
 
-Many large corporations still maintain defined benefit plans. For example, General Electric (GE) has its pension system, which is an excellent demonstration of the Unit Benefit Formula in action. According to GE's retirement site, they use a combination of years of service, accrual rates, and average salary to determine retirement benefits. More information on their specific formulas can be found on their [Retirement Benefits Overview](https://www.ge.com/careers/benefits).
+Many large corporations still maintain defined benefit plans. For example, General Electric (GE) has its pension system, which is an excellent demonstration of the Unit Benefit Formula in action. According to GE's retirement site, they use a combination of years of service, accrual rates, and average salary to determine retirement benefits. More information on their specific formulas can be found on their Retirement Benefits Overview.
 
 ### Public Sector Plans
 
-Public employees, such as teachers and government workers, often have defined benefit plans. The Teacher Retirement System (TRS) in many states operates based on unit benefit formulas to determine their pension payouts. For more details, you can visit TRS's plan description [here](https://www.trs.texas.gov/Pages/active_member_benefits.aspx).
+Public employees, such as teachers and government workers, often have defined benefit plans. The Teacher Retirement System (TRS) in many states operates based on unit benefit formulas to determine their pension payouts. For more details, you can visit TRS's plan description here.
 
 ## Future of the Unit Benefit Formula
 

@@ -73,7 +73,7 @@ The OIC actively collaborates with regulatory entities to ensure that educationa
 
 ### Algorithmic Trading and FinTech
 
-With the rise of [algorithmic trading](../a/accountability.md) and financial technology (FinTech), the OIC has expanded its [scope](../s/scope.md) to include educational resources on these advanced topics. Key areas of focus include:
+With the rise of [algorithmic trading](../a/algorithmic_trading.md) and financial technology (FinTech), the OIC has expanded its [scope](../s/scope.md) to include educational resources on these advanced topics. Key areas of focus include:
 
 - **[Automated Trading Systems](../a/automated_trading_systems.md)**: Understanding the benefits and risks of using algorithms in executing [options](../o/options.md) strategies.
 - **[Data Analytics](../d/data_analytics.md)**: Leveraging [big data](../b/big_data_in_trading.md) for better trading decisions and [risk management](../r/risk_management.md).
@@ -98,4 +98,4 @@ OIC works closely with various stakeholders in the financial services [industry]
 
 The [Options](../o/options.md) [Industry](../i/industry.md) Council (OIC) plays a critical role in the [financial markets](../f/financial_market.md) by providing comprehensive, unbiased educational resources on [options](../o/options.md) trading. Its extensive [range](../r/range.md) of programs, webinars, publications, and personalized services make it a valuable resource for investors and professionals alike.
 
-For more information, visit [Options Industry Council (OIC)](https://www.optionseducation.org/).
+For more information, visit Options Industry Council (OIC).

@@ -72,9 +72,9 @@ Forex [options](../o/options.md) are based on [currency](../c/currency.md) pairs
 Let's take Apple Inc. (AAPL) as an example:
 
 1. **Option Class:** AAPL Call [Options](../o/options.md)
-    - **[Option Series](../o/option_series.md):** AAPL May 140 Call
-    - **[Option Series](../o/option_series.md):** AAPL May 145 Call
-    - **[Option Series](../o/option_series.md):** AAPL June 140 Call
+ - **[Option Series](../o/option_series.md):** AAPL May 140 Call
+ - **[Option Series](../o/option_series.md):** AAPL May 145 Call
+ - **[Option Series](../o/option_series.md):** AAPL June 140 Call
 
 Each of these series differs by [expiration date](../e/expiration_date.md) or [strike price](../s/strike_price.md), but they all fall within the same option class for AAPL call [options](../o/options.md).
 

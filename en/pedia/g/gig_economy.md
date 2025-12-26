@@ -51,27 +51,27 @@ The classification of gig workers as independent contractors rather than employe
 ### Uber
 Uber is a global ride-hailing service that connects passengers with drivers through a mobile app. The company has expanded its services to include food delivery (Uber Eats) and freight transportation (Uber Freight).
 
-Website: [Uber](https://www.uber.com/)
+online platform: Uber
 
 ### Upwork
 Upwork is a platform that connects freelancers with clients looking for various services, including writing, programming, design, and [marketing](../m/marketing.md). It offers tools for [project management](../p/project_management.md), time tracking, and secure online payments.
 
-Website: [Upwork](https://www.upwork.com/)
+online platform: Upwork
 
 ### Airbnb
 Airbnb is a platform that allows people to list, discover, and book accommodations around the world. It has expanded to include "Experiences," where hosts can [offer](../o/offer.md) activities and tours to travelers.
 
-Website: [Airbnb](https://www.airbnb.com/)
+online platform: Airbnb
 
 ### Fiverr
 Fiverr is an online marketplace for freelance services starting at $5 per gig. The platform offers services across [multiple](../m/multiple.md) categories, including graphic design, [digital marketing](../d/digital_marketing.md), writing, and tech support.
 
-Website: [Fiverr](https://www.fiverr.com/)
+online platform: Fiverr
 
 ### TaskRabbit
 TaskRabbit connects people with skilled "Taskers" who can help with everyday chores and tasks such as furniture assembly, moving, cleaning, and [home](../h/home.md) repairs.
 
-Website: [TaskRabbit](https://www.taskrabbit.com/)
+online platform: TaskRabbit
 
 ## Future Outlook
 

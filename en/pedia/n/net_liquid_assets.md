@@ -102,15 +102,15 @@ For individual investors, Net [Liquid](../l/liquid.md) Assets represent personal
 
 ### Case Study: Apple Inc.
 
-Apple Inc., a leading technology company, is known for maintaining a strong [liquidity](../l/liquidity.md) position. As of their fiscal year ending in 2022, Apple reported significant levels of [liquid](../l/liquid.md) assets including cash and [cash equivalents](../c/cash_equivalents.md) and [marketable securities](../m/marketable_securities.md), which contributed to their [robust](../r/robust.md) NLA. This strong [liquidity](../l/liquidity.md) allows Apple to invest in R&D, acquire companies, and manage [shareholder](../s/shareholder.md) returns effectively. 
+Apple Inc., a leading technology company, is known for maintaining a strong [liquidity](../l/liquidity.md) position. As of their fiscal year ending in 2022, Apple reported significant levels of [liquid](../l/liquid.md) assets including cash and [cash equivalents](../c/cash_equivalents.md) and [marketable securities](../m/marketable_securities.md), which contributed to their [robust](../r/robust.md) NLA. This strong [liquidity](../l/liquidity.md) allows Apple to invest in R&D, acquire companies, and manage [shareholder](../s/shareholder.md) returns effectively.
 
-Apple Inc. - [Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
+Apple Inc. - company filings
 
 ### Case Study: Microsoft Corporation
 
 Microsoft [Corporation](../c/corporation.md), another tech giant, consistently demonstrates high levels of [liquidity](../l/liquidity.md). The company holds extensive cash reserves and marketable investments which significantly exceed their [current liabilities](../c/current_liabilities.md). Microsoft's strategic holding of [liquid](../l/liquid.md) assets positions them well for acquisitions, dividends, and [share repurchase](../s/share_repurchase.md) programs.
 
-Microsoft [Corporation](../c/corporation.md) - [Investor Relations](https://www.microsoft.com/en-us/Investor/default.aspx)
+Microsoft [Corporation](../c/corporation.md) - company filings
 
 ## Conclusion
 

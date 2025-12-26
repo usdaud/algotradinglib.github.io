@@ -17,11 +17,11 @@ The core principle of [yield](../y/yield.md)-driven investment is straightforwar
 While the lure of higher yields can be compelling, [yield](../y/yield.md)-driven investment strategies are not without [risk](../r/risk.md). The primary risks include:
 
 1. **[Interest Rate Risk](../i/interest_rate_risk.md)**: [Interest](../i/interest.md) rates and [bond](../b/bond.md) prices have an inverse relationship. When [interest](../i/interest.md) rates increase, the prices of existing bonds drop, leading to [capital](../c/capital.md) losses for investors holding those bonds.
-   
+
 2. **[Credit Risk](../c/credit_risk.md)**: Higher yielding bonds often come with lower [credit](../c/credit.md) ratings, which means a higher [risk](../r/risk.md) of [default](../d/default.md). If the [bond](../b/bond.md) [issuer](../i/issuer.md) defaults, the [investor](../i/investor.md) could lose a substantial portion of their [principal](../p/principal.md).
-   
+
 3. **[Market Risk](../m/market_risk.md)**: [Yield](../y/yield.md)-driven equities like high-[dividend](../d/dividend.md) [stocks](../s/stock.md) are still subject to [market risk](../m/market_risk.md). A downturn in the [stock market](../s/stock_market.md) could erode any [income](../i/income.md) gains from dividends.
-   
+
 4. **[Liquidity Risk](../l/liquidity_risk.md)**: Some high-[yield](../y/yield.md) investments might be less [liquid](../l/liquid.md), making it difficult to sell the [asset](../a/asset.md) at the desired time without substantial price concessions.
 
 ### Yield-Driven Investment Strategies
@@ -29,11 +29,11 @@ While the lure of higher yields can be compelling, [yield](../y/yield.md)-driven
 Several specific strategies can be used to execute a [yield](../y/yield.md)-driven investment approach:
 
 1. **[Barbell Strategy](../b/barbell_strategy.md)**: This involves [investing](../i/investing.md) in both high-[risk](../r/risk.md), high-[yield](../y/yield.md) and low-[risk](../r/risk.md), low-[yield](../y/yield.md) securities. The goal is to balance the [risk](../r/risk.md) and reward by having exposure to both ends of the [yield](../y/yield.md) spectrum.
-   
+
 2. **Ladder Strategy**: Primarily used in [bond](../b/bond.md) [investing](../i/investing.md), this strategy involves building a portfolio of bonds with different maturities. This helps manage [interest rate risk](../i/interest_rate_risk.md) because as some bonds mature, investors can reinvest at prevailing rates.
-   
+
 3. **[Credit Spread](../c/credit_spread.md) [Investing](../i/investing.md)**: This strategy focuses on bonds issued by companies with different [credit](../c/credit.md) ratings. Investors might take advantage of the spread between high-[yield](../y/yield.md) (lower-rated) and investment-grade (higher-rated) bonds to maximize [yield](../y/yield.md).
-   
+
 4. **[Dividend Reinvestment](../d/dividend_reinvestment.md)**: Investors reinvest dividends received from high-[dividend](../d/dividend.md) [stocks](../s/stock.md) to purchase more [shares](../s/shares.md), thus [compounding](../c/compounding.md) their investment.
 
 ### Example of Yield-Driven Investment Firms
@@ -41,12 +41,11 @@ Several specific strategies can be used to execute a [yield](../y/yield.md)-driv
 #### PIMCO
 PIMCO (Pacific [Investment Management](../i/investment_management.md) Company, LLC) is one of the leading active global [fixed income](../f/fixed_income.md) investment managers. Founded in 1971, PIMCO manages assets for a wide [range](../r/range.md) of clients including retirement plans, public sector entities, educational institutions, foundations, endowments, and individuals. PIMCO's focus includes [bond](../b/bond.md) and [credit](../c/credit.md) [market](../m/market.md) [investing](../i/investing.md), making it a go-to option for [yield](../y/yield.md)-driven investors.
 
-For more information, visit [PIMCO's official website](https://www.pimco.com/).
+
 
 #### BlackRock
 BlackRock is another major player in [yield](../y/yield.md)-driven [investing](../i/investing.md), particularly through its [iShares](../i/ishares.md) ETFs. BlackRock offers a variety of [bond](../b/bond.md) ETFs and mutual funds that aim to provide higher yields. With their extensive research and [risk management](../r/risk_management.md) capabilities, BlackRock stands out as a reliable choice for those pursuing [yield](../y/yield.md)-driven strategies.
 
-For additional details, visit [BlackRock's official website](https://www.blackrock.com/).
 
 ### Conclusion
 

@@ -1,6 +1,6 @@
 # Balance Sheet
 
-In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md), a **balance sheet** is one of the fundamental [financial statements](../f/financial_statements.md) providing a snapshot of a company's financial position at a given moment in time. It encapsulates the company's assets, liabilities, and shareholders' [equity](../e/equity.md), thus giving a clear picture of what the company owns and owes, as well as the amount invested by shareholders. The balance sheet adheres to the [accounting equation](../a/accounting_equation.md): 
+In the realm of [finance](../f/finance.md) and [accounting](../a/accounting.md), a **balance sheet** is one of the fundamental [financial statements](../f/financial_statements.md) providing a snapshot of a company's financial position at a given moment in time. It encapsulates the company's assets, liabilities, and shareholders' [equity](../e/equity.md), thus giving a clear picture of what the company owns and owes, as well as the amount invested by shareholders. The balance sheet adheres to the [accounting equation](../a/accounting_equation.md):
 
 \[ \text{Assets} = \text{Liabilities} + \text{Shareholders' [Equity](../e/equity.md)} \]
 
@@ -68,7 +68,7 @@ Recognizing how to analyze a balance sheet can reveal significant insights into 
 
 [Liquidity ratios](../l/liquidity_ratios.md) assess the company's ability to meet its short-term [obligations](../o/obligation.md). Important [liquidity ratios](../l/liquidity_ratios.md) include:
 
-- **[Current Ratio](../c/current_ratio.md)**: 
+- **[Current Ratio](../c/current_ratio.md)**:
 \[ \text{Current Ratio} = \frac{\text{Current Assets}}{\text{[Current Liabilities](../c/current_liabilities.md)}} \]
 - **[Quick Ratio](../q/quick_ratio.md) ([Acid-Test Ratio](../a/acid-test_ratio.md))**:
 \[ \text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{[Current Liabilities](../c/current_liabilities.md)}} \]
@@ -93,7 +93,7 @@ Recognizing how to analyze a balance sheet can reveal significant insights into 
 
 ### Practical Applications and Real-World Example
 
-A practical illustration of a balance sheet can be observed by examining Apple's financial statement. For detailed information, you can visit: [Apple Quarterly Balance Sheet](https://investor.apple.com/investor-relations/default.aspx).
+A practical illustration of a balance sheet can be observed by examining Apple's financial statement. For detailed information, you can visit: Apple Quarterly Balance Sheet.
 
 ### Limitations of a Balance Sheet
 

@@ -1,6 +1,6 @@
 # Time in Force
 
-In the realm of financial trading, "Time in Force" refers to a special set of instructions that dictate the [duration](../d/duration.md) that an [order](../o/order.md) remains active before it is executed or expires. This is a critical parameter for traders and investors to manage their strategies effectively and optimize their performance in the [market](../m/market.md). Understanding Time in Force is essential for anyone involved in trading, whether they are using manual methods, [algorithmic trading](../a/accountability.md), or sophisticated fintech solutions.
+In the realm of financial trading, "Time in Force" refers to a special set of instructions that dictate the [duration](../d/duration.md) that an [order](../o/order.md) remains active before it is executed or expires. This is a critical parameter for traders and investors to manage their strategies effectively and optimize their performance in the [market](../m/market.md). Understanding Time in Force is essential for anyone involved in trading, whether they are using manual methods, [algorithmic trading](../a/algorithmic_trading.md), or sophisticated fintech solutions.
 
 ## Types of Time in Force Instructions
 
@@ -29,7 +29,7 @@ An "At the Close" [order](../o/order.md) is executed during the final moments of
 
 ## Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), often known as algo-trading, relies heavily on Time in Force instructions to implement the automated [execution](../e/execution.md) of trades. Algorithms can be programmed to utilize specific Time in Force parameters to optimize [trading strategies](../t/trading_strategies.md) based on certain triggers and [market](../m/market.md) conditions. For example:
+[Algorithmic trading](../a/algorithmic_trading.md), often known as algo-trading, relies heavily on Time in Force instructions to implement the automated [execution](../e/execution.md) of trades. Algorithms can be programmed to utilize specific Time in Force parameters to optimize [trading strategies](../t/trading_strategies.md) based on certain triggers and [market](../m/market.md) conditions. For example:
 
 - **[Market Making Algorithms](../m/market_making_algorithms.md):** These often use IOC orders to ensure [liquidity](../l/liquidity.md) while minimizing the [risk](../r/risk.md) of holding onto positions.
 - **[Arbitrage](../a/arbitrage.md) Algorithms:** FOK orders can be crucial to [capitalize](../c/capitalize.md) on price discrepancies across different markets, requiring instant [execution](../e/execution.md).
@@ -41,9 +41,9 @@ Financial technology (FinTech) platforms incorporate Time in Force parameters to
 
 Notable FinTech companies which provide extensive trading solutions include:
 
-- [Interactive Brokers](https://www.interactivebrokers.com)
-- [TradeStation](https://www.tradestation.com)
-- [Robinhood](https://www.robinhood.com)
+- Interactive Brokers
+- TradeStation
+- Robinhood
 
 These platforms often feature customizable Time in Force [options](../o/options.md) to cater to the needs of both retail and institutional traders.
 
@@ -63,4 +63,4 @@ Consider a [trader](../t/trader.md) who wants to invest in a low-[volume](../v/v
 
 Understanding and effectively utilizing Time in Force instructions is a cornerstone of successful trading. Whether you're manually trading or employing sophisticated algorithms, the ability to specify the [duration](../d/duration.md) an [order](../o/order.md) remains active can greatly enhance your trading outcomes and [risk management](../r/risk_management.md) capabilities. As the landscape of financial trading evolves, the strategic use of Time in Force parameters [will](../w/will.md) continue to play a pivotal role in achieving optimal [market](../m/market.md) performance.
 
-For further details, one can explore the official websites of trading platforms and brokers [offering](../o/offering.md) advanced Time in Force [options](../o/options.md), such as [Interactive Brokers](https://www.interactivebrokers.com), [TradeStation](https://www.tradestation.com), and [Robinhood](https://www.robinhood.com). These resources provide comprehensive guides and tools to help traders better understand and utilize Time in Force instructions in their trading activities.
+For further details, one can explore the official websites of trading platforms and brokers [offering](../o/offering.md) advanced Time in Force [options](../o/options.md), such as Interactive Brokers, TradeStation, and Robinhood. These resources provide comprehensive guides and tools to help traders better understand and utilize Time in Force instructions in their trading activities.

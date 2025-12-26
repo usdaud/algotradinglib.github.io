@@ -6,7 +6,7 @@ An actuarial life table, also known as a [mortality table](../m/mortality_table.
 
 Typically, an actuarial life table is organized in a tabular format consisting of several columns, each holding specific values for different age cohorts. The most fundamental components of a life table include:
 
-- **Age (x):** The specific age or age interval. 
+- **Age (x):** The specific age or age interval.
 - **Number Alive (lx):** The number of people alive at the start of age x out of an initial cohort.
 - **Number Dying (dx):** The number of people who die between age x and age x + 1.
 - **Probability of Dying (qx):** The probability that an individual aged x [will](../w/will.md) die before reaching age x + 1, often expressed as a percentage or a decimal.
@@ -78,7 +78,7 @@ Reliable data sources are critical for constructing accurate life tables. Common
 
 ## Evolution and Historical Significance
 
-The history of life tables dates back centuries, with early forms developed during the 17th century. 
+The history of life tables dates back centuries, with early forms developed during the 17th century.
 
 - **John Graunt (1620-1674):** Analyzing London's Bills of Mortality, Graunt created what is regarded as one of the first life tables.
 - **Edmond Halley (1656-1742):** Famous for Halley's Comet, he also contributed significantly to the development of [actuarial science](../a/actuarial_science.md) with his life table based on data from the city of Breslau.
@@ -90,7 +90,7 @@ Over time, life tables have evolved to incorporate more sophisticated statistica
 
 ### Big Data and Machine Learning
 
-The advent of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) has revolutionized the creation and application of life tables. Advanced algorithms and large datasets allow for more precise mortality [forecasting](../f/forecasting.md) and [risk analysis](../r/risk_analysis.md). Companies like [Haven Life](https://www.havenlife.com) and [Lemonade](https://www.lemonade.com) utilize such technologies to refine their actuarial processes.
+The advent of [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) has revolutionized the creation and application of life tables. Advanced algorithms and large datasets allow for more precise mortality [forecasting](../f/forecasting.md) and [risk analysis](../r/risk_analysis.md). Companies like Haven Life and Lemonade utilize such technologies to refine their actuarial processes.
 
 ### Personalized Life Tables
 

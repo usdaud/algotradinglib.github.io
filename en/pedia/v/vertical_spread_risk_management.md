@@ -36,13 +36,13 @@ Hedging involves taking a position in a related instrument to [offset](../o/offs
 ## Tools and Platforms
 
 ### ThinkOrSwim by TD Ameritrade
-[ThinkOrSwim](../t/thinkorswim.md) is a professional-level [trading platform](../t/trading_platform.md) [offering](../o/offering.md) comprehensive tools for [options](../o/options.md) trading, including sophisticated charting, probability analysis, and a wide [range](../r/range.md) of [risk management](../r/risk_management.md) features. [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+[ThinkOrSwim](../t/thinkorswim.md) is a professional-level [trading platform](../t/trading_platform.md) [offering](../o/offering.md) comprehensive tools for [options](../o/options.md) trading, including sophisticated charting, probability analysis, and a wide [range](../r/range.md) of [risk management](../r/risk_management.md) features. ThinkOrSwim
 
 ### Interactive Brokers TWS
-[Interactive Brokers](../i/interactive_brokers.md) offers the [Trader](../t/trader.md) Workstation (TWS), which provides advanced [risk management](../r/risk_management.md) tools, real-time monitoring, and a variety of [options](../o/options.md) trading features. [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1010)
+[Interactive Brokers](../i/interactive_brokers.md) offers the [Trader](../t/trader.md) Workstation (TWS), which provides advanced [risk management](../r/risk_management.md) tools, real-time monitoring, and a variety of [options](../o/options.md) trading features. Interactive Brokers
 
 ### MetaTrader 5
-MetaTrader 5 is a multi-[asset](../a/asset.md) platform supporting [options](../o/options.md) trading, with extensive [risk management](../r/risk_management.md) features, automated trading capabilities, and [technical analysis](../t/technical_analysis.md) tools. [MetaTrader 5](https://www.metatrader5.com/en)
+MetaTrader 5 is a multi-[asset](../a/asset.md) platform supporting [options](../o/options.md) trading, with extensive [risk management](../r/risk_management.md) features, automated trading capabilities, and [technical analysis](../t/technical_analysis.md) tools. MetaTrader 5
 
 ## Risk Assessment Techniques
 
@@ -100,4 +100,3 @@ Traders often combine vertical [spreads](../s/spreads.md) with other strategies 
 ## Conclusion
 
 [Vertical spread](../v/vertical_spread.md) [risk management](../r/risk_management.md) is a multi-faceted approach involving a mix of fundamental and advanced techniques. Effective [position sizing](../p/position_sizing.md), [stop-loss orders](../s/stop-loss_orders.md), [diversification](../d/diversification.md), and continuous monitoring are essential for managing [risk](../r/risk.md). Tools and platforms provide invaluable support, but understanding the intrinsic risks and employing [scenario analysis](../s/scenario_analysis.md), [Greeks](../g/greeks.md) analysis, and [stress testing](../s/stress_testing_in_trading.md) significantly enhance the robustness of [trading strategies](../t/trading_strategies.md). By avoiding common pitfalls and employing advanced [risk management](../r/risk_management.md) techniques, traders can navigate [market](../m/market.md) complexities and improve the probability of favorable outcomes in vertical [spread trading](../s/spread_trading.md).
-

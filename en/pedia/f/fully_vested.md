@@ -48,10 +48,10 @@ RSUs are company [shares](../s/shares.md) given directly to employees, but they 
 ## Real-world Examples
 
 ### Google (Alphabet Inc.)
-[Alphabet Inc.](https://www.abc.xyz) offers a generous [equity compensation](../e/equity_compensation.md) plan to its employees. New hires often receive RSUs that vest over four years. This ensures that employees stay with the company long enough to contribute meaningfully while benefiting from the company's stock price appreciation.
+Alphabet Inc. offers a generous [equity compensation](../e/equity_compensation.md) plan to its employees. New hires often receive RSUs that vest over four years. This ensures that employees stay with the company long enough to contribute meaningfully while benefiting from the company's stock price appreciation.
 
 ### Amazon
-[Amazon](https://www.amazon.com) provides a significant portion of employee compensation through stock awards. However, Amazon uses a "back-loaded" [vesting](../v/vesting.md) schedule, where a larger percentage of the stock vests in the latter years of the [vesting](../v/vesting.md) period. This approach is aimed at retaining talent as employees receive more significant benefits for staying longer.
+Amazon provides a significant portion of employee compensation through stock awards. However, Amazon uses a "back-loaded" [vesting](../v/vesting.md) schedule, where a larger percentage of the stock vests in the latter years of the [vesting](../v/vesting.md) period. This approach is aimed at retaining talent as employees receive more significant benefits for staying longer.
 
 ## Legal Considerations
 

@@ -73,19 +73,19 @@ The [risk](../r/risk.md) that the [investor](../i/investor.md) [will](../w/will.
 ## Major Players in the Fixed-Income Market
 
 ### PIMCO
-PIMCO (Pacific [Investment Management](../i/investment_management.md) Company) is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in fixed-[income](../i/income.md) securities. [PIMCO](https://www.pimco.com/)
+PIMCO (Pacific [Investment Management](../i/investment_management.md) Company) is a global [investment management](../i/investment_management.md) [firm](../f/firm.md) specializing in fixed-[income](../i/income.md) securities. PIMCO
 
 ### BlackRock
-BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) various fixed-[income](../i/income.md) investment [options](../o/options.md). [BlackRock](https://www.blackrock.com/)
+BlackRock is one of the world's largest [asset management](../a/asset_management.md) firms, [offering](../o/offering.md) various fixed-[income](../i/income.md) investment [options](../o/options.md). BlackRock
 
 ### Vanguard
-Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard also offers various fixed-[income](../i/income.md) investment [options](../o/options.md). [Vanguard](https://www.vanguard.com/)
+Known for its low-cost [index](../i/index_instrument.md) funds, Vanguard also offers various fixed-[income](../i/income.md) investment [options](../o/options.md). Vanguard
 
 ### Goldman Sachs
-Goldman Sachs provides a [range](../r/range.md) of fixed-[income](../i/income.md) securities and investment services. [Goldman Sachs](https://www.goldmansachs.com/)
+Goldman Sachs provides a [range](../r/range.md) of fixed-[income](../i/income.md) securities and investment services. Goldman Sachs
 
 ### J.P. Morgan
-J.P. Morgan is a leading global financial services [firm](../f/firm.md) [offering](../o/offering.md) fixed-[income](../i/income.md) securities. [J.P. Morgan](https://www.jpmorgan.com/)
+J.P. Morgan is a leading global financial services [firm](../f/firm.md) [offering](../o/offering.md) fixed-[income](../i/income.md) securities. J.P. Morgan
 
 ## Conclusion
 

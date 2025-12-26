@@ -41,8 +41,8 @@ Inverse [market](../m/market.md) strategies involve financial trading techniques
 - **Tracking Errors**: Discrepancies between the performance of the [inverse ETF](../i/inverse_etf.md) and the [underlying](../u/underlying.md) [index](../i/index_instrument.md) due to fees and other operational factors.
 
 **Example Companies**:
-- [ProShares](https://www.proshares.com/) offers a variety of [inverse ETFs](../i/inverse_etfs.md).
-- [Direxion ETFs](https://www.direxion.com/) are another provider specializing in leveraged and [inverse ETFs](../i/inverse_etfs.md).
+- ProShares offers a variety of [inverse ETFs](../i/inverse_etfs.md).
+- Direxion ETFs are another provider specializing in leveraged and [inverse ETFs](../i/inverse_etfs.md).
 
 ## Options Trading
 
@@ -81,8 +81,8 @@ Inverse [market](../m/market.md) strategies involve financial trading techniques
 - **Regulatory and Compliance Risks**: [Algorithmic trading](../a/algorithmic_trading.md) is subject to strict regulatory scrutiny.
 
 **Example Companies**:
-- [QuantConnect](https://www.quantconnect.com/) offers [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platforms for retail traders.
-- [AlgoTrader](https://www.algotrader.com/) provides software solutions for institutional [algorithmic trading](../a/algorithmic_trading.md).
+- QuantConnect offers [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platforms for retail traders.
+- AlgoTrader provides software solutions for institutional [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Hedging Strategies
 

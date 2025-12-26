@@ -37,23 +37,23 @@ A [breakout](../b/breakout.md) strategy involves entering a [trade](../t/trade.m
 
 ### Reversal Strategy
 
-Some traders use Donchian Channels to identify potential [reversal](../r/reversal.md) points. This involves looking for instances when the price hits the upper or lower band [multiple](../m/multiple.md) times without breaking through, indicating possible resistance or support zones. 
+Some traders use Donchian Channels to identify potential [reversal](../r/reversal.md) points. This involves looking for instances when the price hits the upper or lower band [multiple](../m/multiple.md) times without breaking through, indicating possible resistance or support zones.
 
 ## Algorithmic Trading Implementation
 
 Several companies [offer](../o/offer.md) platforms and tools to implement Donchian Channels in [algorithmic trading](../a/accountability.md). Here are a few [options](../o/options.md):
 
 ### TradingView
-[TradingView](https://www.tradingview.com/) provides a cloud-based charting tool that includes customizable Donchian Channel indicators. Traders can use the platform to backtest and automate strategies.
+TradingView provides a cloud-based charting tool that includes customizable Donchian Channel indicators. Traders can use the platform to backtest and automate strategies.
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform where traders can use Donchian Channels as part of their [trading algorithms](../t/trading_algorithms.md). The platform supports [multiple](../m/multiple.md) programming languages, including Python and C#.
+QuantConnect is an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform where traders can use Donchian Channels as part of their [trading algorithms](../t/trading_algorithms.md). The platform supports [multiple](../m/multiple.md) programming languages, including Python and C#.
 
 ### MetaTrader 4/5
-[MetaTrader](https://www.metatrader4.com/) is a popular [trading platform](../t/trading_platform.md) that supports Donchian Channels through custom indicators and expert advisors (EAs). Traders can write algorithms in MQL4 or MQL5 languages.
+MetaTrader is a popular [trading platform](../t/trading_platform.md) that supports Donchian Channels through custom indicators and expert advisors (EAs). Traders can write algorithms in MQL4 or MQL5 languages.
 
 ### NinjaTrader
-[NinjaTrader](https://ninjatrader.com/) offers advanced charting and trading features, including Donchian Channels. The platform provides tools for creating and [backtesting](../b/backtesting.md) automated [trading strategies](../t/trading_strategies.md).
+NinjaTrader offers advanced charting and trading features, including Donchian Channels. The platform provides tools for creating and [backtesting](../b/backtesting.md) automated [trading strategies](../t/trading_strategies.md).
 
 ## Advantages of Using Donchian Channels
 

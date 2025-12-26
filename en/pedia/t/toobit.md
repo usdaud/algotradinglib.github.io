@@ -26,7 +26,7 @@ Toobit’s [trading platform](../t/trading_platform.md) is built using high-perf
 - [Real-time market data](../r/real-time_market_data.md)
 - Advanced charting tools
 - High-speed [order](../o/order.md) matching engine
-- API access for [algorithmic trading](../a/accountability.md)
+- API access for [algorithmic trading](../a/algorithmic_trading.md)
 
 ### 3. User-Friendly Interface
 Toobit’s platform is designed keeping user experience in mind. Its clean, intuitive interface makes it easy for users to navigate and manage their trading activities effectively.

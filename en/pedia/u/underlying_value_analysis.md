@@ -50,7 +50,7 @@ Understanding the [intrinsic value](../i/intrinsic_value.md) of [holdings](../h/
 ### Example: Apple Inc. (AAPL)
 #### 1. Fundamental Analysis
 - **Financial Reports:** Analyzing Apple's [balance sheet](../b/balance_sheet.md), [income statement](../i/income_statement.md), and [cash flow statement](../c/cash_flow_statement.md) to understand its [financial health](../f/financial_health.md).
-- [Apple Financial Statements](https://www.apple.com/investor/financials/)
+- Apple Financial Statements
 - **[Market](../m/market.md) Position:** Assessing Apple's competitive advantages, such as brand strength, innovation, and [market share](../m/market_share.md).
 - **[Industry](../i/industry.md) Trends:** Understanding the global consumer electronics [market](../m/market.md) trends and future growth prospects.
 

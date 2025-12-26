@@ -39,7 +39,7 @@ For a waiver to be legally valid, it generally must meet certain criteria:
 - **Intention:** There should be a clear intention to waive the right, often documented in writing.
 - **Consideration:** In some cases, consideration (something of [value](../v/value.md) exchanged between the parties) may need to be involved for the waiver to be enforceable.
 
-### Enforcement 
+### Enforcement
 The enforcement of waivers can be complex, depending on the jurisdiction and the specific rights being waived. Courts generally scrutinize waivers to ensure that they are fair and equitable, and not against public policy.
 
 ### Revocation

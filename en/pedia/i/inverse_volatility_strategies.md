@@ -20,7 +20,7 @@ Inverse [volatility](../v/volatility.md) strategies operate on the principle tha
 
 These strategies often use [mathematical models](../m/mathematical_models_in_trading.md) to measure [volatility](../v/volatility.md) levels and make trading decisions. Common approaches include:
 
-1. **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md)) Models**: These models are used to predict future [volatility](../v/volatility.md) based on past periods. 
+1. **GARCH (Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md)) Models**: These models are used to predict future [volatility](../v/volatility.md) based on past periods.
 2. **[Bollinger Bands](../b/bollinger_bands.md)**: A [technical analysis](../t/technical_analysis.md) tool that uses [standard deviation](../s/standard_deviation.md) to measure [volatility](../v/volatility.md) and identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 3. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD)**: A [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)’s price, used to identify changes in the strength, direction, [momentum](../m/momentum.md), and [duration](../d/duration.md) of a [trend](../t/trend.md).
 
@@ -46,13 +46,11 @@ Managing [risk](../r/risk.md) is intrinsic to the success of inverse [volatility
 
 Several [exchange](../e/exchange.md)-traded products (ETPs) are designed to provide exposure to [volatility](../v/volatility.md) indices. These include:
 - **ProShares Short VIX Short-Term [Futures](../f/futures.md) ETF**: Designed to provide inverse exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index_instrument.md).
-  [ProShares](https://www.proshares.com/our-etfs/short-etfs/svxy.html)
 - **VelocityShares Daily Inverse VIX Short-Term ETN**: Provides short exposure to the S&P 500 VIX Short-Term [Futures](../f/futures.md) [Index](../i/index_instrument.md).
-  [VelocityShares](https://www.velocityshares.com/etns/product/vix/)
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds use sophisticated inverse [volatility](../v/volatility.md) strategies to manage portfolios and extract [alpha](../a/alpha.md). Many of these [hedge](../h/hedge.md) funds [leverage](../l/leverage.md) algorithms to [trade](../t/trade.md) across various markets.
+[Hedge](../h/hedge.md) funds use sophisticated inverse [volatility](../v/volatility.md) strategies to manage portfolios and extract alpha. Many of these [hedge](../h/hedge.md) funds [leverage](../l/leverage.md) algorithms to [trade](../t/trade.md) across various markets.
 
 ## Advantages and Disadvantages
 

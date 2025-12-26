@@ -69,20 +69,19 @@ Several brokerage firms and trading platforms specialize in [options](../o/optio
 
 **[Interactive Brokers](../i/interactive_brokers.md)** is known for its comprehensive [options](../o/options.md) trading platforms that cater to professional and institutional traders. Their tools provide sophisticated analytics and extensive [market](../m/market.md) access, making it easy for traders to analyze and execute DITM option strategies.
 
-Website: [Interactive Brokers](https://www.interactivebrokers.com)
+online platform: Interactive Brokers
 
 ### Tastyworks
 
 **Tastyworks** leverages educational resources and a [trader](../t/trader.md)-centric interface, emphasizing [options](../o/options.md) trading and spreading strategies. Their platform supports dynamic strategies involving DITM [options](../o/options.md), [offering](../o/offering.md) traders granular control over their portfolios.
 
-Website: [Tastyworks](https://www.tastyworks.com)
+online platform: Tastyworks
 
-### Thinkorswim by TD Ameritrade
+### Thinkorswim by Charles Schwab
 
-**Thinkorswim**, offered by TD [Ameritrade](../a/ameritrade.md), is a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) known for its advanced [options](../o/options.md) analysis tools. It caters to both novice and advanced traders, enabling them to employ DITM [options](../o/options.md) in various strategic frameworks.
+**Thinkorswim**, now offered by Charles Schwab (following the TD Ameritrade acquisition completed in September 2023), is a [robust](../a/ameritrade.md), is a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) known for its advanced [options](../o/options.md) analysis tools. It caters to both novice and advanced traders, enabling them to employ DITM [options](../o/options.md) in various strategic frameworks.
 
-Website: [Thinkorswim by TD Ameritrade](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page) 
-
+online platform: Thinkorswim by Charles Schwab
 ## Conclusion
 
 Deep In The [Money](../m/money.md) [options](../o/options.md) play an integral role in the sophisticated world of [options](../o/options.md) trading. Understanding the mechanics, advantages, and risks associated with DITM [options](../o/options.md) equips traders with better tools for strategic planning, [risk management](../r/risk_management.md), and potential [profit](../p/profit.md) maximization. By incorporating DITM [options](../o/options.md) into their trading arsenal, traders can significantly enhance their ability to respond to [market](../m/market.md) movements and achieve their financial goals.

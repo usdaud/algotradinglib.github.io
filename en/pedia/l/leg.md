@@ -37,4 +37,3 @@ In the financial context, a **Leg** refers to one component of a multi-part [tra
 
 ## Conclusion
 A leg in the financial context is an individual component of a multi-part [trade](../t/trade.md) or strategy, commonly used in [derivatives](../d/derivatives.md) and [options](../o/options.md) trading. Understanding how to construct and manage multi-leg strategies is essential for optimizing profits, managing risks, and achieving specific investment goals. By comprehensively analyzing, monitoring, and managing each leg, traders and investors can effectively execute complex financial strategies.
-

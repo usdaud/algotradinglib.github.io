@@ -18,13 +18,13 @@ On-the-Run Treasuries are the most recently issued [U.S. Treasury](../u/u.s._tre
 ## Characteristics of OTR Yield Curve
 
 1. **Representation of Current [Market](../m/market.md) Rates:**
-   The OTR [yield curve](../y/yard.md) provides a clear picture of the prevailing [market](../m/market.md) [interest](../i/interest.md) rates for different maturities. 
+ The OTR [yield curve](../y/yard.md) provides a clear picture of the prevailing [market](../m/market.md) [interest](../i/interest.md) rates for different maturities.
 
 2. **[Liquidity](../l/liquidity.md):**
-   On-the-Run Treasuries are more [liquid](../l/liquid.md) than [Off-the-Run Treasuries](../o/off-the-run_treasuries.md). Higher [liquidity](../l/liquidity.md) means narrower [bid](../b/bid.md)-ask [spreads](../s/spreads.md), making them attractive to investors and traders.
+ On-the-Run Treasuries are more [liquid](../l/liquid.md) than [Off-the-Run Treasuries](../o/off-the-run_treasuries.md). Higher [liquidity](../l/liquidity.md) means narrower [bid](../b/bid.md)-ask [spreads](../s/spreads.md), making them attractive to investors and traders.
 
 3. **[Benchmark](../b/benchmark.md) for Other [Debt](../d/debt.md) Instruments:**
-   The OTR [yield curve](../y/yard.md) serves as a [benchmark](../b/benchmark.md) for pricing other [debt](../d/debt.md) instruments. Its movements are closely watched by [market](../m/market.md) participants.
+ The OTR [yield curve](../y/yard.md) serves as a [benchmark](../b/benchmark.md) for pricing other [debt](../d/debt.md) instruments. Its movements are closely watched by [market](../m/market.md) participants.
 
 ## Formation of the OTR Yield Curve
 
@@ -33,56 +33,56 @@ The OTR [yield curve](../y/yard.md) is created by plotting the yields of On-the-
 ## Factors Influencing the OTR Yield Curve
 
 1. **[Economic Indicators](../e/economic_indicators.md):**
-   Economic data such as GDP growth, [inflation](../i/inflation.md) rates, and employment figures have a significant impact on the [treasury yield](../t/treasury_yield.md) curve.
+ Economic data such as GDP growth, [inflation](../i/inflation.md) rates, and employment figures have a significant impact on the [treasury yield](../t/treasury_yield.md) curve.
 
 2. **Federal Reserve Policy:**
-   The Federal Reserve's [monetary policy](../m/monetary_policy.md), especially [interest rate](../i/interest_rate.md) decisions, directly affects the shape and level of the OTR [yield curve](../y/yard.md).
+ The Federal Reserve's [monetary policy](../m/monetary_policy.md), especially [interest rate](../i/interest_rate.md) decisions, directly affects the shape and level of the OTR [yield curve](../y/yard.md).
 
 3. **[Investor](../i/investor.md) Sentiment:**
-   [Market](../m/market.md) participants' [risk](../r/risk.md) appetite and expectations also play a crucial role. In times of economic [uncertainty](../u/uncertainty_in_trading.md), there may be a flight to quality, leading to a lower [yield](../y/yield.md) for Treasuries.
+ [Market](../m/market.md) participants' [risk](../r/risk.md) appetite and expectations also play a crucial role. In times of economic [uncertainty](../u/uncertainty_in_trading.md), there may be a flight to quality, leading to a lower [yield](../y/yield.md) for Treasuries.
 
 4. **[Supply](../s/supply.md) and [Demand](../d/demand.md) Dynamics:**
-   The [demand](../d/demand.md) for Treasuries relative to their [supply](../s/supply.md) can influence their yields. Higher [demand](../d/demand.md) can drive yields down, while lower [demand](../d/demand.md) can push yields up.
+ The [demand](../d/demand.md) for Treasuries relative to their [supply](../s/supply.md) can influence their yields. Higher [demand](../d/demand.md) can drive yields down, while lower [demand](../d/demand.md) can push yields up.
 
 ## Applications of the OTR Yield Curve
 
 1. **Benchmarking:**
-   The OTR [yield curve](../y/yard.md) is used as a [benchmark](../b/benchmark.md) for other [interest](../i/interest.md) rates in the [economy](../e/economy.md). [Mortgage](../m/mortgage.md) rates, [corporate bond](../c/corporate_bond.md) yields, and other fixed-[income](../i/income.md) securities often reference the OTR curve.
+ The OTR [yield curve](../y/yard.md) is used as a [benchmark](../b/benchmark.md) for other [interest](../i/interest.md) rates in the [economy](../e/economy.md). [Mortgage](../m/mortgage.md) rates, [corporate bond](../c/corporate_bond.md) yields, and other fixed-[income](../i/income.md) securities often reference the OTR curve.
 
 2. **Investment Decisions:**
-   Investors use the OTR [yield curve](../y/yard.md) to help inform decisions about which maturities to invest in, depending on their [interest rate](../i/interest_rate.md) outlook and [risk tolerance](../r/risk_tolerance.md).
+ Investors use the OTR [yield curve](../y/yard.md) to help inform decisions about which maturities to invest in, depending on their [interest rate](../i/interest_rate.md) outlook and [risk tolerance](../r/risk_tolerance.md).
 
 3. **[Risk Management](../r/risk_management.md):**
-   Financial institutions use the OTR [yield curve](../y/yard.md) for [interest rate risk management](../i/interest_rate_risk_management.md). They analyze the curve's behavior to [hedge](../h/hedge.md) against potential [market](../m/market.md) [interest rate](../i/interest_rate.md) changes.
+ Financial institutions use the OTR [yield curve](../y/yard.md) for [interest rate risk management](../i/interest_rate_risk_management.md). They analyze the curve's behavior to [hedge](../h/hedge.md) against potential [market](../m/market.md) [interest rate](../i/interest_rate.md) changes.
 
 4. **[Economic Forecasting](../e/economic_forecasting.md):**
-   Economists use the shape and movements of the OTR [yield curve](../y/yard.md) to make inferences about future economic activities and potential recessions. An [inverted yield curve](../i/inverted_yield_curve.md), where short-term rates are higher than long-term rates, is often seen as a predictor of an economic downturn.
+ Economists use the shape and movements of the OTR [yield curve](../y/yard.md) to make inferences about future economic activities and potential recessions. An [inverted yield curve](../i/inverted_yield_curve.md), where short-term rates are higher than long-term rates, is often seen as a predictor of an economic downturn.
 
 ## Comparison with Other Yield Curves
 
 ### On-the-Run vs. Off-the-Run Yield Curve
 
 - **[Liquidity](../l/liquidity.md):**
-  On-the-Run securities are more [liquid](../l/liquid.md), often resulting in slightly lower yields compared to Off-the-Run securities of similar maturities.
-  
+ On-the-Run securities are more [liquid](../l/liquid.md), often resulting in slightly lower yields compared to Off-the-Run securities of similar maturities.
+
 - **[Market](../m/market.md) Preference:**
-  On-the-Run Treasuries are usually preferred by institutional investors due to their [liquidity](../l/liquidity.md), facilitating easier [entry and exit strategies](../e/entry_and_exit_strategies.md).
+ On-the-Run Treasuries are usually preferred by institutional investors due to their [liquidity](../l/liquidity.md), facilitating easier [entry and exit strategies](../e/entry_and_exit_strategies.md).
 
 ### On-the-Run vs. Zero-Coupon Yield Curve
 
 - **Cash Flows:**
-  The Zero-Coupon [yield curve](../y/yard.md) is derived from securities that do not pay periodic [interest](../i/interest.md), providing a direct measure of the [time value](../t/time_value.md) of [money](../m/money.md).
+ The Zero-Coupon [yield curve](../y/yard.md) is derived from securities that do not pay periodic [interest](../i/interest.md), providing a direct measure of the [time value](../t/time_value.md) of [money](../m/money.md).
 
 - **Construction:**
-  The construction of the Zero-Coupon [yield curve](../y/yard.md) involves [discounting](../d/discounting.md) cash flows to present values, whereas the OTR [yield curve](../y/yard.md) uses actual yields of [liquid](../l/liquid.md) securities.
+ The construction of the Zero-Coupon [yield curve](../y/yard.md) involves [discounting](../d/discounting.md) cash flows to present values, whereas the OTR [yield curve](../y/yard.md) uses actual yields of [liquid](../l/liquid.md) securities.
 
 ### On-the-Run vs. Swap Curve
 
 - **[Issuer](../i/issuer.md):**
-  The [Swap](../s/swap.md) curve is based on interbank rates and reflects the [credit risk](../c/credit_risk.md) of major banking institutions, whereas the OTR [yield curve](../y/yard.md) reflects the [risk](../r/risk.md)-free rate of U.S. Treasuries.
+ The [Swap](../s/swap.md) curve is based on interbank rates and reflects the [credit risk](../c/credit_risk.md) of major banking institutions, whereas the OTR [yield curve](../y/yard.md) reflects the [risk](../r/risk.md)-free rate of U.S. Treasuries.
 
 - **Applications:**
-  The [Swap](../s/swap.md) curve is often used for pricing [derivative](../d/derivative.md) instruments and managing [interest rate](../i/interest_rate.md) risks, while the OTR curve is mainly used for government securities and benchmarking purposes.
+ The [Swap](../s/swap.md) curve is often used for pricing [derivative](../d/derivative.md) instruments and managing [interest rate](../i/interest_rate.md) risks, while the OTR curve is mainly used for government securities and benchmarking purposes.
 
 ## Conclusion
 

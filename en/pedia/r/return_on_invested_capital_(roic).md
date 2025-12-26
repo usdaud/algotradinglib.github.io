@@ -34,7 +34,7 @@ ROIC serves as a [benchmark](../b/benchmark.md) to compare [operational efficien
 
 ### Internal Management
 
-Companies use ROIC to make strategic decisions about [capital allocation](../c/capital_allocation.md). It helps management determine whether to invest in new projects, expand operations, or divest underperforming assets. 
+Companies use ROIC to make strategic decisions about [capital allocation](../c/capital_allocation.md). It helps management determine whether to invest in new projects, expand operations, or divest underperforming assets.
 
 ## Advantages and Limitations of ROIC
 
@@ -72,11 +72,11 @@ Utilities usually have lower ROIC. The [capital](../c/capital.md)-intensive natu
 
 ### Apple Inc.
 
-As of 2023, Apple Inc. [Apple](https://www.apple.com) demonstrates a high ROIC. Apple's efficient use of [capital](../c/capital.md) allows it to maintain high profitability while [investing](../i/investing.md) in research and development, product innovation, and [market](../m/market.md) [expansion](../e/expansion.md).
+As of 2023, Apple Inc. Apple demonstrates a high ROIC. Apple's efficient use of [capital](../c/capital.md) allows it to maintain high profitability while [investing](../i/investing.md) in research and development, product innovation, and [market](../m/market.md) [expansion](../e/expansion.md).
 
 ### General Motors
 
-On the other hand, General Motors [GM](https://www.gm.com) shows a more moderate ROIC. The company requires high [capital](../c/capital.md) investments in [manufacturing](../m/manufacturing.md) facilities, technology, and [inventory](../i/inventory.md), which impacts its overall [return](../r/return.md) on [invested capital](../i/invested_capital.md).
+On the other hand, General Motors GM shows a more moderate ROIC. The company requires high [capital](../c/capital.md) investments in [manufacturing](../m/manufacturing.md) facilities, technology, and [inventory](../i/inventory.md), which impacts its overall [return](../r/return.md) on [invested capital](../i/invested_capital.md).
 
 ## Conclusion
 

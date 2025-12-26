@@ -91,6 +91,6 @@ Implementing these distributions in an [algorithmic trading](../a/algorithmic_tr
 ### Conclusion
 Probability distributions play a fundamental role in trading by helping traders model and predict [market](../m/market.md) behavior, simulate trading scenarios, and manage risks. A thorough understanding of these distributions and their applications is essential for developing successful [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
-For more sophisticated trading needs, consult professionals and use advanced resources such as financial [market](../m/market.md) data providers and [algorithmic trading](../a/algorithmic_trading.md) platforms like [QuantConnect](https://www.quantconnect.com/), [Alpaca](https://alpaca.markets/), and [Interactive Brokers](https://www.interactivebrokers.com/).
+For more sophisticated trading needs, consult professionals and use advanced resources such as financial [market](../m/market.md) data providers and [algorithmic trading](../a/algorithmic_trading.md) platforms like QuantConnect, Alpaca, and Interactive Brokers.
 
 Understanding these concepts not only aids in building more precise models but also contributes to better decision-making processes in the highly complex and stochastic environment of [financial markets](../f/financial_market.md).

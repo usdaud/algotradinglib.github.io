@@ -21,20 +21,20 @@ Frequency [distribution](../d/distribution.md) displays the frequency of various
 [Algorithmic trading](../a/accountability.md) involves the use of computer programs and systems to execute [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md). Traders deploy various algorithms to execute buy and sell orders efficiently, often taking advantage of the speed and precision that computers [offer](../o/offer.md). Frequency [distribution](../d/distribution.md) is pivotal in [multiple](../m/multiple.md) stages of [algorithmic trading](../a/accountability.md):
 
 1. **Data Analysis and Exploration:**
-    - **[Historical Data Analysis](../h/historical_data_analysis.md):** Before developing a [trading strategy](../t/trading_strategy.md), traders analyze historical price data. Frequency [distribution](../d/distribution.md) helps in understanding the behavior of [asset](../a/asset.md) prices by showing the [distribution](../d/distribution.md) of returns, price changes, and other financial metrics over time.
-    - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying recurring patterns in data can be facilitated using frequency [distribution](../d/distribution.md). For instance, traders might look at the frequency of certain price movements or trading volumes that precede significant [market](../m/market.md) events.
+ - **[Historical Data Analysis](../h/historical_data_analysis.md):** Before developing a [trading strategy](../t/trading_strategy.md), traders analyze historical price data. Frequency [distribution](../d/distribution.md) helps in understanding the behavior of [asset](../a/asset.md) prices by showing the [distribution](../d/distribution.md) of returns, price changes, and other financial metrics over time.
+ - **[Pattern Recognition](../p/pattern_recognition.md):** Identifying recurring patterns in data can be facilitated using frequency [distribution](../d/distribution.md). For instance, traders might look at the frequency of certain price movements or trading volumes that precede significant [market](../m/market.md) events.
 
 2. **[Risk Management](../r/risk_management.md):**
-    - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR):** Frequency [distribution](../d/distribution.md) can be used to estimate the [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), which indicates the potential loss in the [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). By analyzing the [distribution](../d/distribution.md) of returns, traders can determine the likelihood of extreme losses.
-    - **[Drawdown Analysis](../d/drawdown_analysis.md):** Frequency [distribution](../d/distribution.md) helps quantify the occurrence and magnitude of drawdowns (peak-to-[trough](../t/trough.md) declines) in a portfolio. This information is crucial for understanding the [risk](../r/risk.md) profile of [trading strategies](../t/trading_strategies.md).
+ - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR):** Frequency [distribution](../d/distribution.md) can be used to estimate the [Value](../v/value.md) at [Risk](../r/risk.md) (VaR), which indicates the potential loss in the [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). By analyzing the [distribution](../d/distribution.md) of returns, traders can determine the likelihood of extreme losses.
+ - **[Drawdown Analysis](../d/drawdown_analysis.md):** Frequency [distribution](../d/distribution.md) helps quantify the occurrence and magnitude of drawdowns (peak-to-[trough](../t/trough.md) declines) in a portfolio. This information is crucial for understanding the [risk](../r/risk.md) profile of [trading strategies](../t/trading_strategies.md).
 
 3. **Strategy [Optimization](../o/optimization.md):**
-    - **Parameter Tuning:** Frequency [distribution](../d/distribution.md) aids in the process of tuning parameters for [trading algorithms](../t/trading_algorithms.md). By examining how different parameter settings impact the [distribution](../d/distribution.md) of [trading signals](../t/trading_signals.md) and outcomes, traders can optimize their strategies for better performance.
-    - **[Backtesting](../b/backtesting.md):** During [backtesting](../b/backtesting.md), [trading strategies](../t/trading_strategies.md) are tested on historical data to evaluate their performance. Frequency [distribution](../d/distribution.md) helps in assessing the profitability, [risk](../r/risk.md), and consistency of strategies under different [market](../m/market.md) conditions.
+ - **Parameter Tuning:** Frequency [distribution](../d/distribution.md) aids in the process of tuning parameters for [trading algorithms](../t/trading_algorithms.md). By examining how different parameter settings impact the [distribution](../d/distribution.md) of [trading signals](../t/trading_signals.md) and outcomes, traders can optimize their strategies for better performance.
+ - **[Backtesting](../b/backtesting.md):** During [backtesting](../b/backtesting.md), [trading strategies](../t/trading_strategies.md) are tested on historical data to evaluate their performance. Frequency [distribution](../d/distribution.md) helps in assessing the profitability, [risk](../r/risk.md), and consistency of strategies under different [market](../m/market.md) conditions.
 
 4. **Performance Analysis:**
-    - **[Return](../r/return.md) [Distribution](../d/distribution.md):** Analyzing the frequency [distribution](../d/distribution.md) of returns helps in understanding the performance characteristics of a [trading strategy](../t/trading_strategy.md). Traders can identify whether returns are normally distributed or if there are biases towards certain outcomes.
-    - **[Trade](../t/trade.md) [Duration](../d/duration.md) and Frequency:** Evaluating the [distribution](../d/distribution.md) of [trade](../t/trade.md) durations and frequencies provides insights into the [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md). For example, high-frequency [trading strategies](../t/trading_strategies.md) might show a high frequency of short-[duration](../d/duration.md) trades.
+ - **[Return](../r/return.md) [Distribution](../d/distribution.md):** Analyzing the frequency [distribution](../d/distribution.md) of returns helps in understanding the performance characteristics of a [trading strategy](../t/trading_strategy.md). Traders can identify whether returns are normally distributed or if there are biases towards certain outcomes.
+ - **[Trade](../t/trade.md) [Duration](../d/duration.md) and Frequency:** Evaluating the [distribution](../d/distribution.md) of [trade](../t/trade.md) durations and frequencies provides insights into the [efficiency](../e/efficiency.md) of [trading strategies](../t/trading_strategies.md). For example, high-frequency [trading strategies](../t/trading_strategies.md) might show a high frequency of short-[duration](../d/duration.md) trades.
 
 ## Construction of Frequency Distribution
 
@@ -56,22 +56,22 @@ You want to construct a frequency [distribution](../d/distribution.md) for these
 
 1. **Choose the bin width:** For simplicity, let's use intervals of 1%: `[-2%, -1%)`, `[-1%, 0%)`, `[0%, 1%)`, `[1%, 2%)`, `[2%, 3%)`, `[3%, 4%)`
 2. **Count Frequencies:**
-    - `[-2%, -1%)`: 3 occurrences
-    - `[-1%, 0%)`: 2 occurrences
-    - `[0%, 1%)`: 4 occurrences
-    - `[1%, 2%)`: 5 occurrences
-    - `[2%, 3%)`: 5 occurrences
-    - `[3%, 4%)`: 1 occurrence
+ - `[-2%, -1%)`: 3 occurrences
+ - `[-1%, 0%)`: 2 occurrences
+ - `[0%, 1%)`: 4 occurrences
+ - `[1%, 2%)`: 5 occurrences
+ - `[2%, 3%)`: 5 occurrences
+ - `[3%, 4%)`: 1 occurrence
 3. **Organize the Data:**
 
 | [Return](../r/return.md) [Range](../r/range.md) | Frequency | Relative Frequency | Cumulative Frequency |
 |--------------|-----------|--------------------|----------------------|
-| [-2%, -1%)   | 3         | 3/20 = 0.15        | 3                    |
-| [-1%, 0%)    | 2         | 2/20 = 0.10        | 5                    |
-| [0%, 1%)     | 4         | 4/20 = 0.20        | 9                    |
-| [1%, 2%)     | 5         | 5/20 = 0.25        | 14                   |
-| [2%, 3%)     | 5         | 5/20 = 0.25        | 19                   |
-| [3%, 4%)     | 1         | 1/20 = 0.05        | 20                   |
+| [-2%, -1%) | 3 | 3/20 = 0.15 | 3 |
+| [-1%, 0%) | 2 | 2/20 = 0.10 | 5 |
+| [0%, 1%) | 4 | 4/20 = 0.20 | 9 |
+| [1%, 2%) | 5 | 5/20 = 0.25 | 14 |
+| [2%, 3%) | 5 | 5/20 = 0.25 | 19 |
+| [3%, 4%) | 1 | 1/20 = 0.05 | 20 |
 
 4. **Visualize the Data:** Create a [histogram](../h/histogram.md) to depict the frequency [distribution](../d/distribution.md).
 

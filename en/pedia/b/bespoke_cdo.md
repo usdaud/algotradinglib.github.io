@@ -73,7 +73,7 @@ Bespoke CDOs were a major contributing [factor](../f/factor.md) to the 2007-2008
 
 High-profile financial institutions involved in bespoke CDOs and related activities faced significant scrutiny, including:
 
-- **Goldman Sachs**: Faced allegations of misleading investors about the [risk](../r/risk.md) associated with certain CDOs [Goldman Sachs](https://www.goldmansachs.com).
+- **Goldman Sachs**: Faced allegations of misleading investors about the [risk](../r/risk.md) associated with certain CDOs Goldman Sachs.
 - **[Lehman Brothers](../l/lehman_brothers.md)**: Its [bankruptcy](../b/bankruptcy.md) was partly caused by significant CDO losses.
 - **AIG**: Required a government [bailout](../b/bailout.md) after insuring many bespoke CDOs that defaulted.
 

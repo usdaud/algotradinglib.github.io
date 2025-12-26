@@ -19,13 +19,13 @@ These transactions entail two simultaneous deals: the initial [sale](../s/sale.m
 ### Example
 
 - **Day 1 ([Sale](../s/sale.md)/[Loan](../l/loan.md) Initiation):**
-  - **Party A** sells $1 million in government bonds to **Party B** for $1 million.
-  - **Party A** agrees to repurchase these bonds the next day for $1,000,278.
-  - The $278 difference represents the [interest](../i/interest.md).
+ - **Party A** sells $1 million in government bonds to **Party B** for $1 million.
+ - **Party A** agrees to repurchase these bonds the next day for $1,000,278.
+ - The $278 difference represents the [interest](../i/interest.md).
 
 - **Day 2 (Repurchase/[Loan](../l/loan.md) [Repayment](../r/repayment.md)):**
-  - **Party A** repurchases the bonds from **Party B** for $1,000,278.
-  
+ - **Party A** repurchases the bonds from **Party B** for $1,000,278.
+
 ## Types of Repos
 
 ### 1. **Term Repos**
@@ -44,14 +44,14 @@ A tri-party repo involves a [third party](../t/third_party.md), usually a [clear
 
 Repo transactions typically involve various participants:
 
-1. **Central Banks** 
-   - Use repos to regulate [money supply](../m/money_supply.md) and implement [monetary policy](../m/monetary_policy.md).
+1. **Central Banks**
+ - Use repos to regulate [money supply](../m/money_supply.md) and implement [monetary policy](../m/monetary_policy.md).
 2. **Commercial Banks**
-   - Employ repos to manage [liquidity](../l/liquidity.md) and earn a modest [return](../r/return.md) on [excess reserves](../e/excess_reserves.md).
+ - Employ repos to manage [liquidity](../l/liquidity.md) and earn a modest [return](../r/return.md) on [excess reserves](../e/excess_reserves.md).
 3. **[Hedge](../h/hedge.md) Funds and Investment Firms**
-   - Use repos for leveraging investments.
+ - Use repos for leveraging investments.
 4. **[Broker](../b/broker.md)-Dealers and [Clearing](../c/clearing.md) Houses**
-   - Serve as intermediaries or facilitators in securities transactions.
+ - Serve as intermediaries or facilitators in securities transactions.
 
 ## Role in Monetary Policy
 
@@ -98,14 +98,14 @@ Fintech platforms are increasingly providing innovative solutions for repo trans
 
 ### Algorithmic Trading and Repos
 
-[Algorithmic trading](../a/accountability.md) systems can [leverage](../l/leverage.md) the repo [market](../m/market.md) to optimize [trading strategies](../t/trading_strategies.md). By securing low-cost short-term funding, these systems can:
+[Algorithmic trading](../a/algorithmic_trading.md) systems can [leverage](../l/leverage.md) the repo [market](../m/market.md) to optimize [trading strategies](../t/trading_strategies.md). By securing low-cost short-term funding, these systems can:
 
 1. **[Arbitrage Opportunities](../a/arbitrage_opportunities.md)**: Identify and exploit discrepancies between cash and [futures](../f/futures.md) markets.
 2. **Hedging**: Efficiently manage and [hedge](../h/hedge.md) portfolio risks.
 3. **[Leverage](../l/leverage.md)**: Increase the [purchasing power](../p/purchasing_power.md) to [capitalize](../c/capitalize.md) on profitable [trading signals](../t/trading_signals.md).
 
-For more insights and details on current trends, see the official websites of major financial institutions like [Federal Reserve](https://www.federalreserve.gov/) and [European Central Bank](https://www.ecb.europa.eu/) as they frequently publish relevant reports and research papers on [market](../m/market.md) operations, including repos.
+For more insights and details on current trends, see the official websites of major financial institutions like Federal Reserve and European Central Bank as they frequently publish relevant reports and research papers on [market](../m/market.md) operations, including repos.
 
 ## Conclusion
 
-Repurchase Agreements are vital financial instruments that play a significant role in modern financial systems. They provide essential [liquidity](../l/liquidity.md) to markets, serve as a tool for [monetary policy](../m/monetary_policy.md), and [offer](../o/offer.md) a relatively safe, short-term investment option for various participants. However, like any [financial instrument](../f/financial_instrument.md), repos come with inherent risks and are subject to regulatory oversight to ensure [market](../m/market.md) stability. Advancements in fintech and [algorithmic trading](../a/accountability.md) continue to evolve the landscape of repo transactions, making them more efficient and accessible to a broader [range](../r/range.md) of [market](../m/market.md) participants.
+Repurchase Agreements are vital financial instruments that play a significant role in modern financial systems. They provide essential [liquidity](../l/liquidity.md) to markets, serve as a tool for [monetary policy](../m/monetary_policy.md), and [offer](../o/offer.md) a relatively safe, short-term investment option for various participants. However, like any [financial instrument](../f/financial_instrument.md), repos come with inherent risks and are subject to regulatory oversight to ensure [market](../m/market.md) stability. Advancements in fintech and [algorithmic trading](../a/algorithmic_trading.md) continue to evolve the landscape of repo transactions, making them more efficient and accessible to a broader [range](../r/range.md) of [market](../m/market.md) participants.

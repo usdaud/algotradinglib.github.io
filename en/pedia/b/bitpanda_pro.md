@@ -6,8 +6,6 @@ Bitpanda Pro is a European cryptocurrency [trading platform](../t/trading_platfo
 
 Bitpanda Pro is an extension of Bitpanda, originally founded in 2014 by Eric Demuth, Paul Klanschek, and Christian Trummer. Unlike the broader Bitpanda platform that caters to retail investors looking to buy, sell, and store cryptocurrencies, Bitpanda Pro focuses on professional traders who require advanced trading functionalities and competitive [fee](../f/fee.md) structures. The platform supports a wide array of cryptocurrencies, including [Bitcoin](../b/bitcoin.md), [Ethereum](../e/ethereum_.md), and various altcoins, along with fiat trading pairs.
 
-For more details, visit the Bitpanda Pro official website: [Bitpanda Pro](https://www.bitpanda.com/pro)
-
 ## Key Features
 
 ### Advanced Trading Interface
@@ -116,4 +114,3 @@ Bitpanda Pro employs a multi-layered [security](../s/security.md) approach to pr
 
 Bitpanda Pro establishes itself as a leading European cryptocurrency [exchange](../e/exchange.md) by [offering](../o/offering.md) a secure, efficient, and user-friendly [trading environment](../t/trading_environment.md). Its advanced features, competitive fees, and regulatory compliance make it a preferred choice for both individual and institutional traders. Whether you're a professional [trader](../t/trader.md) or an [institutional investor](../i/institutional_investor.md), Bitpanda Pro provides the tools and features necessary to execute sophisticated [trading strategies](../t/trading_strategies.md) with ease.
 
-For more detailed information and to start trading, you can visit their official website: [Bitpanda Pro](https://www.bitpanda.com/pro)

@@ -19,7 +19,7 @@ The [time horizon](../t/time_horizon.md) in LTG is significantly longer compared
 ### Strategies for Long-Term Growth
 
 #### Equities
-[Investing](../i/investing.md) in equities is a popular method for achieving LTG. [Stocks](../s/stock.md) have historically offered higher returns compared to other [asset](../a/asset.md) classes, such as bonds or [cash equivalents](../c/cash_equivalents.md), over long periods. Investors target companies with strong growth potential, [robust](../r/robust.md) competitive positions, and capable management teams. 
+[Investing](../i/investing.md) in equities is a popular method for achieving LTG. [Stocks](../s/stock.md) have historically offered higher returns compared to other [asset](../a/asset.md) classes, such as bonds or [cash equivalents](../c/cash_equivalents.md), over long periods. Investors target companies with strong growth potential, [robust](../r/robust.md) competitive positions, and capable management teams.
 
 ##### Dividend Stocks
 [Dividend](../d/dividend.md)-paying [stocks](../s/stock.md) are an appealing subset of equities for LTG. These [stocks](../s/stock.md) provide regular [income](../i/income.md) through [dividend](../d/dividend.md) payments, which can be reinvested to maximize the [compounding](../c/compounding.md) effect. Companies with a history of stable and growing dividends are particularly attractive as they often display financial stability and operational prudence.
@@ -53,22 +53,22 @@ Changes in [interest](../i/interest.md) rates can significantly affect various [
 ### Case Studies
 
 #### Warren Buffett and Berkshire Hathaway
-Warren Buffett, often regarded as one of the most successful long-term investors, has achieved substantial growth through his company, [Berkshire Hathaway](../b/berkshire_hathaway.md). Buffett's investment philosophy focuses on acquiring high-quality businesses with durable competitive advantages, often holding them indefinitely. Evidence of this approach's success can be seen in Berkshire's historical outperformance of [market](../m/market.md) indices. For more on Buffett’s and [Berkshire Hathaway](../b/berkshire_hathaway.md)’s strategies, visit [Berkshire Hathaway](https://www.berkshirehathaway.com).
+Warren Buffett, often regarded as one of the most successful long-term investors, has achieved substantial growth through his company, [Berkshire Hathaway](../b/berkshire_hathaway.md). Buffett's investment philosophy focuses on acquiring high-quality businesses with durable competitive advantages, often holding them indefinitely. Evidence of this approach's success can be seen in Berkshire's historical outperformance of [market](../m/market.md) indices. For more on Buffett’s and [Berkshire Hathaway](../b/berkshire_hathaway.md)’s strategies, visit Berkshire Hathaway.
 
 #### Vanguard Group
-The Vanguard Group, founded by John C. Bogle, popularized the concept of low-cost [index fund](../i/index_fund.md) [investing](../i/investing.md), a core tenet of LTG strategies. Vanguard’s approach is built on the principle that low-cost, broadly diversified funds [will](../w/will.md) [yield](../y/yield.md) superior long-term returns by minimizing expenses and capturing the overall [market](../m/market.md)’s growth. More information on Vanguard's investment philosophy can be found at [Vanguard](https://www.vanguard.com).
+The Vanguard Group, founded by John C. Bogle, popularized the concept of low-cost [index fund](../i/index_fund.md) [investing](../i/investing.md), a core tenet of LTG strategies. Vanguard’s approach is built on the principle that low-cost, broadly diversified funds [will](../w/will.md) [yield](../y/yield.md) superior long-term returns by minimizing expenses and capturing the overall [market](../m/market.md)’s growth. More information on Vanguard's investment philosophy can be found at Vanguard.
 
 ### Tools and Platforms for Long-Term Growth Investing
 
 #### Investment Platforms
 Numerous online brokerage platforms provide tools and resources for LTG investors. These platforms [offer](../o/offer.md) access to a wide array of financial instruments, [robust](../r/robust.md) research tools, and professional financial advice. Some notable platforms include:
 
-- [Fidelity](https://www.fidelity.com)
-- [Charles Schwab](https://www.schwab.com)
-- [TD Ameritrade](https://www.tdameritrade.com)
+- Fidelity
+- Charles Schwab
+- TD Ameritrade
 
 #### Financial Planning Software
-Tools such as [Personal Capital](https://www.personalcapital.com) and [Quicken](https://www.quicken.com) help investors manage and track their investments, analyze [growth trends](../g/growth_trends_in_trading.md), and plan for long-term financial goals.
+Tools such as Personal Capital and Quicken help investors manage and track their investments, analyze [growth trends](../g/growth_trends_in_trading.md), and plan for long-term financial goals.
 
 ### Conclusion
 

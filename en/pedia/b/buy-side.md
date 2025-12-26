@@ -9,27 +9,27 @@ The buy-side encompasses a [wide variety](../w/wide_variety.md) of institutions 
 #### Asset Management Firms
 [Asset management](../a/asset_management.md) firms manage investments on behalf of clients. They [offer](../o/offer.md) various investment [options](../o/options.md), including mutual funds, ETFs, and [private equity](../p/private_equity.md). These firms make investment decisions based on extensive research and analysis aimed at achieving the best possible returns for their clients.
 
-Example: BlackRock, Inc. ([blackrock.com](https://www.blackrock.com)) is one of the world's largest [asset management](../a/asset_management.md) firms, with billions of dollars in assets under management.
+Example: BlackRock, Inc. (blackrock.com) is one of the world's largest [asset management](../a/asset_management.md) firms, with billions of dollars in assets under management.
 
 #### Hedge Funds
 [Hedge](../h/hedge.md) funds employ diverse and complex strategies to generate high returns for their investors. They often take both long and short positions in various securities and may use [leverage](../l/leverage.md) to amplify their returns. [Hedge](../h/hedge.md) funds are typically [open](../o/open.md) only to accredited investors due to their high-[risk](../r/risk.md), high-reward nature.
 
-Example: Bridgewater Associates ([bridgewater.com](https://www.bridgewater.com)) is one of the largest [hedge](../h/hedge.md) funds globally, known for its unique investment strategies and significant [market](../m/market.md) influence.
+Example: Bridgewater Associates (bridgewater.com) is one of the largest [hedge](../h/hedge.md) funds globally, known for its unique investment strategies and significant [market](../m/market.md) influence.
 
 #### Pension Funds
 Pension funds are investment pools that pay for workers' retirements. These funds receive contributions from employers and employees and aim to grow these assets over time to meet future retirement [obligations](../o/obligation.md). They often have a long-term [investment horizon](../i/investment_horizon.md) and invest in a diversified portfolio, including equities, bonds, and [real estate](../r/real_estate.md).
 
-Example: California Public Employees' Retirement System (CalPERS) ([calpers.ca.gov](https://www.calpers.ca.gov)) is one of the largest public pension funds in the United States, managing assets to provide retirement benefits for public employees.
+Example: California Public Employees' Retirement System (CalPERS) (calpers.ca.gov) is one of the largest public pension funds in the United States, managing assets to provide retirement benefits for public employees.
 
 #### Mutual Funds
 Mutual funds pool [money](../m/money.md) from [multiple](../m/multiple.md) investors to purchase a diversified portfolio of securities. Each [investor](../i/investor.md) owns [shares](../s/shares.md) in the [mutual fund](../m/mutual_fund.md), which represent a part of these [holdings](../h/holdings.md). Mutual funds are managed by professional portfolio managers who make investment decisions in line with the [fund](../f/fund.md)'s stated objectives.
 
-Example: Vanguard Group ([vanguard.com](https://www.vanguard.com)) is one of the largest [mutual fund](../m/mutual_fund.md) companies globally, known for its low-cost [index](../i/index_instrument.md) funds and retirement accounts.
+Example: Vanguard Group (vanguard.com) is one of the largest [mutual fund](../m/mutual_fund.md) companies globally, known for its low-cost [index](../i/index_instrument.md) funds and retirement accounts.
 
 #### Sovereign Wealth Funds
 Sovereign [wealth](../w/wealth.md) funds are state-owned investment funds or entities that manage a country's reserves. These funds invest in various [asset](../a/asset.md) classes to achieve economic and financial objectives, such as stabilizing the [economy](../e/economy.md) and accumulating savings for future generations.
 
-Example: The Norway Government Pension [Fund](../f/fund.md) Global ([nbim.no](https://www.nbim.no)) is a leading sovereign [wealth](../w/wealth.md) [fund](../f/fund.md) known for its significant global investments.
+Example: The Norway Government Pension [Fund](../f/fund.md) Global (nbim.no) is a leading sovereign [wealth](../w/wealth.md) [fund](../f/fund.md) known for its significant global investments.
 
 ### Buy-Side Investment Strategies
 

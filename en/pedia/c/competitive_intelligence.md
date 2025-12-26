@@ -26,7 +26,7 @@ Data collection is perhaps the most labor-intensive part of CI, involving numero
 - **[Open Source](../o/open_source.md) Intelligence (OSINT)**: Utilizes publicly available information such as [market](../m/market.md) reports, news articles, patents, and [social media](../s/social_media.md).
 - **Human Intelligence (HUMINT)**: Involves direct contact with sources, such as interviews with [industry](../i/industry.md) experts or former employees of competitors.
 - **Technical Intelligence (TECHINT)**: Gathers data from technical sources such as proprietary databases and specialized [software tools](../s/software_tools_for_trading.md).
-  
+
 ### Data Analysis
 
 After collecting the data, the next step involves transforming it into useful intelligence. Analysts use various techniques, such as SWOT analysis (Strengths, Weaknesses, Opportunities, Threats), to interpret the data comprehensively.
@@ -91,7 +91,7 @@ Competitive Intelligence is an indispensable tool for any company aiming to succ
 
 For further reading and resources:
 
-- [Strategic and Competitive Intelligence Professionals (SCIP)](https://www.scip.org/)
-- [Procter & Gamble Official Website](https://us.pg.com/)
-- [IBM Official Website](https://www.ibm.com/)
-- [Cisco Official Website](https://www.cisco.com/)
+- Strategic and Competitive Intelligence Professionals (SCIP)
+-
+-
+-

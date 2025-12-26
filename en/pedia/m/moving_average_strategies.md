@@ -8,7 +8,7 @@ In [algorithmic trading](../a/algorithmic_trading.md), moving average strategies
 A Simple Moving Average is calculated by taking the [arithmetic mean](../a/arithmetic_mean.md) of a given set of prices over a specific number of periods. The SMA smooths out price data by averaging it and is useful for identifying the direction of the [trend](../t/trend.md).
 
 Formula:
-\[ SMA = \frac{P_1 + P_2 + ... + P_n}{n} \]
+\[ SMA = \frac{P_1 + P_2 +... + P_n}{n} \]
 where \(P\) represents the price and \(n\) is the number of periods.
 
 #### Exponential Moving Average (EMA)
@@ -19,7 +19,7 @@ Formula:
 where \( \[alpha](../a/alpha.md) = \frac{2}{n + 1} \), \(P_t\) is the price at time \(t\), and \(n\) is the number of periods.
 
 #### Weighted Moving Average (WMA)
-A [Weighted](../w/weighted.md) Moving Average assigns different weights to each data point, usually giving more importance to recent prices. 
+A [Weighted](../w/weighted.md) Moving Average assigns different weights to each data point, usually giving more importance to recent prices.
 
 Formula:
 \[ WMA = \frac{\sum_{i=1}^{n} (w_i \cdot P_i)}{\sum_{i=1}^{n} w_i} \]
@@ -34,7 +34,7 @@ Typical rule:
 - Short-Term MA (e.g., 50-day SMA)
 - Long-Term MA (e.g., 200-day SMA)
 
-Implementing a Moving Average Crossover strategy can be automated using [algorithmic trading](../a/algorithmic_trading.md) platforms like [MetaTrader](https://www.metatrader4.com/) or [QuantConnect](https://www.quantconnect.com/).
+Implementing a Moving Average Crossover strategy can be automated using [algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader or QuantConnect.
 
 #### Moving Average Envelope
 This strategy involves plotting bands around a moving average at a specified percentage above and below it. Trades are taken when the price crosses the [envelope](../e/envelope.md) boundaries.
@@ -42,7 +42,7 @@ This strategy involves plotting bands around a moving average at a specified per
 Formula:
 - Upper band: \( MA \cdot (1 + \frac{d}{100}) \)
 - Lower band: \( MA \cdot (1 - \frac{d}{100}) \)
-  where \(d\) is the deviation percentage.
+ where \(d\) is the deviation percentage.
 
 #### Double Moving Average (DMA)
 This strategy uses the crossover of two pairs of moving averages to reduce [false signals](../f/false_signals_in_trading.md).
@@ -87,13 +87,13 @@ MAs can confirm signals from other [technical indicators](../t/technical_indicat
 
 ### Tools and Platforms for Implementing MA Strategies
 
-- **MetaTrader**: Popular for forex trading, MetaTrader provides built-in tools for implementing and [backtesting](../b/backtesting.md) moving average strategies. [MetaTrader](https://www.metatrader4.com/)
+- **MetaTrader**: Popular for forex trading, MetaTrader provides built-in tools for implementing and [backtesting](../b/backtesting.md) moving average strategies. MetaTrader
 
-- **[QuantConnect](../q/quantconnect.md)**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) that supports Python and C#. [QuantConnect](../q/quantconnect.md) offers extensive libraries and data sources for [backtesting](../b/backtesting.md) and live trading moving average strategies. [QuantConnect](https://www.quantconnect.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An online platform for [algorithmic trading](../a/algorithmic_trading.md) that supports Python and C#. [QuantConnect](../q/quantconnect.md) offers extensive libraries and data sources for [backtesting](../b/backtesting.md) and live trading moving average strategies. QuantConnect
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Through its API, [Interactive Brokers](../i/interactive_brokers.md) allows the [execution](../e/execution.md) of moving average strategies with direct [market](../m/market.md) access. [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Through its API, [Interactive Brokers](../i/interactive_brokers.md) allows the [execution](../e/execution.md) of moving average strategies with direct [market](../m/market.md) access. Interactive Brokers
 
-- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and trading feature-set, supporting multi-time frame strategy development including moving average algorithms. [NinjaTrader](https://www.ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: Provides advanced charting and trading feature-set, supporting multi-time frame strategy development including moving average algorithms. NinjaTrader
 
 ### Backtesting Moving Average Strategies
 

@@ -34,8 +34,8 @@ A significant sub-sector of algo trading is High-Frequency Trading, where the ve
 
 ### Example of Companies in HFT
 
-1. [Citadel Securities](https://www.citadelsecurities.com): A global [market maker](../m/market_maker.md) that engages in high-frequency trading.
-2. [Virtu Financial](https://www.virtu.com): Known for its extensive use of [automated trading systems](../a/automated_trading_systems.md) to execute trades in fractions of a second.
+1. Citadel Securities: A global [market maker](../m/market_maker.md) that engages in high-frequency trading.
+2. Virtu Financial: Known for its extensive use of [automated trading systems](../a/automated_trading_systems.md) to execute trades in fractions of a second.
 
 ### Impact on Market Dynamics
 

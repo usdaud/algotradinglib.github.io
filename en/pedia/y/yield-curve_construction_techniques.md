@@ -8,7 +8,7 @@ There are three primary types of [yield](../y/yield.md) curves commonly used in 
 
 1. **Normal [Yield Curve](../y/yield_curve.md)**: This is the most common shape and occurs when long-term securities have a higher [yield](../y/yield.md) compared to short-term securities, typically reflecting expectations of [economic growth](../e/economic_growth.md) and gradual increases in [interest](../i/interest.md) rates.
 
-2. **Inverted [Yield Curve](../y/yield_curve.md)**: This happens when short-term yields are higher than long-term yields, often indicating a forthcoming economic [recession](../r/recession.md). 
+2. **Inverted [Yield Curve](../y/yield_curve.md)**: This happens when short-term yields are higher than long-term yields, often indicating a forthcoming economic [recession](../r/recession.md).
 
 3. **Flat [Yield Curve](../y/yield_curve.md)**: This curve occurs when short-term and long-term yields are very close to each other, often reflecting [uncertainty](../u/uncertainty_in_trading.md) in the [economy](../e/economy.md).
 
@@ -49,8 +49,8 @@ The Nelson-Siegel model is a parametric method for estimating the [yield curve](
 Cubic spline [interpolation](../i/interpolation.md) is a non-parametric method that uses piecewise cubic polynomials to interpolate between data points. Each segment is fitted with a cubic polynomial such that the entire curve is smooth, has continuous first and second [derivatives](../d/derivatives.md), and passes through all the given data points.
 
 - **Steps**:
-  1. Assign cubic polynomials to each interval between data points.
-  2. Ensure continuity and smoothness by matching the [value](../v/value.md) and the first and second [derivative](../d/derivative.md) at each data point.
+ 1. Assign cubic polynomials to each interval between data points.
+ 2. Ensure continuity and smoothness by matching the [value](../v/value.md) and the first and second [derivative](../d/derivative.md) at each data point.
 - **Usage**: Common in markets where [yield](../y/yield.md) data is available at discrete intervals.
 
 ### Principal Component Analysis (PCA)
@@ -58,8 +58,8 @@ Cubic spline [interpolation](../i/interpolation.md) is a non-parametric method t
 [Principal Component Analysis](../p/principal_component_analysis_(pca).md) (PCA) is a statistical method used to reduce the dimensionality of the [yield curve](../y/yield_curve.md) data. It identifies the main factors that drive changes in the shape of the [yield curve](../y/yield_curve.md).
 
 - **Process**:
-  1. Decompose the [yield curve](../y/yield_curve.md) data into its [principal components](../p/principal_components_in_trading.md).
-  2. Typically, the first few [principal components](../p/principal_components_in_trading.md) capture most of the variation.
+ 1. Decompose the [yield curve](../y/yield_curve.md) data into its [principal components](../p/principal_components_in_trading.md).
+ 2. Typically, the first few [principal components](../p/principal_components_in_trading.md) capture most of the variation.
 - **Advantages**: Helps in understanding the [underlying](../u/underlying.md) factors that influence [yield](../y/yield.md) curves and in constructing more [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md).
 
 ### Machine Learning Approaches
@@ -82,10 +82,10 @@ In [algorithmic trading](../a/algorithmic_trading.md), [yield](../y/yield.md) cu
 
 Several financial institutions and companies specialize in [yield curve](../y/yield_curve.md) construction and analysis. Here are a few significant ones:
 
-- **[Bloomberg](../b/bloomberg.md)**: They provide comprehensive financial data and analytics, including [yield curve](../y/yield_curve.md) analytics (https://www.[bloomberg](../b/bloomberg.md).com).
-- **Thomson [Reuters](../r/reuters.md)**: Offers extensive [fixed income](../f/fixed_income.md) data and [yield curve](../y/yield_curve.md) analysis tools (https://www.refinitiv.com).
-- **ICE Data Services**: Provides [yield curve](../y/yield_curve.md) data and analytics for various markets (https://www.theice.com).
-- **Quantitative Brokers**: Specializes in [algorithmic trading](../a/algorithmic_trading.md) and [fixed income](../f/fixed_income.md) analytics (https://www.quantitativebrokers.com).
+- **[Bloomberg](../b/bloomberg.md)**: They provide comprehensive financial data and analytics, including [yield curve](../y/yield_curve.md) analytics (
+- **Thomson [Reuters](../r/reuters.md)**: Offers extensive [fixed income](../f/fixed_income.md) data and [yield curve](../y/yield_curve.md) analysis tools (
+- **ICE Data Services**: Provides [yield curve](../y/yield_curve.md) data and analytics for various markets (
+- **Quantitative Brokers**: Specializes in [algorithmic trading](../a/algorithmic_trading.md) and [fixed income](../f/fixed_income.md) analytics (
 
 The above-mentioned companies [offer](../o/offer.md) tools and platforms that facilitate [yield curve](../y/yield_curve.md) construction, analytics, and integration into [trading systems](../t/trading_systems.md).
 

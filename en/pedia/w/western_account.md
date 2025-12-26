@@ -11,7 +11,7 @@ In a Western Account, each [syndicate](../s/syndicate.md) member is responsible 
 ### Key Characteristics
 
 1. **Divided [Liability](../l/liability.md)**: Each member is accountable solely for their own portion. If they are unable to sell their allocated share, they cannot compel other members to absorb these unsold securities.
-   
+
 2. **[Risk Management](../r/risk_management.md)**: The [risk](../r/risk.md) of unsold securities is distributed among the members based on their committed [shares](../s/shares.md), making it a preferred structure for underwriters who want to manage individual exposure.
 
 3. **Securities [Offering](../o/offering.md)**: This structure is typically used in [underwriting](../u/underwriting.md) various types of securities, including [stocks](../s/stock.md), bonds, and other financial instruments.
@@ -21,13 +21,13 @@ In a Western Account, each [syndicate](../s/syndicate.md) member is responsible 
 ### Formation
 
 1. **Lead [Underwriter](../u/underwriter.md)**: Typically, a lead [underwriter](../u/underwriter.md) (or bookrunner) is appointed to manage the public issuance and regulatory compliance aspects. The lead [underwriter](../u/underwriter.md) forms the [syndicate](../s/syndicate.md) and allocates specific portions of the issuance to each [syndicate](../s/syndicate.md) member.
-   
+
 2. **Allocation**: Each member in a Western Account agrees to underwrite a specific portion of the securities being issued. The allocation is predefined and documented in the [syndicate](../s/syndicate.md) agreement.
 
 ### Underwriting Process
 
 1. Once the [syndicate](../s/syndicate.md) is formed, the securities can be offered to investors.
-2. Each [syndicate](../s/syndicate.md) member is responsible for selling their allocated portion. 
+2. Each [syndicate](../s/syndicate.md) member is responsible for selling their allocated portion.
 3. Success of the issuance is contingent upon each member’s ability to distribute their [shares](../s/shares.md).
 4. Should a member [fail](../f/fail.md) to sell their entire portion, they bear the financial [liability](../l/liability.md) for any unsold [shares](../s/shares.md).
 
@@ -61,7 +61,7 @@ The primary distinction of a Western Account lies in the [risk](../r/risk.md) [d
 
 ### Corporate Finance
 
-Corporations considering an [issue](../i/issue.md) of securities often deliberate between syndicates using Western versus Eastern Account structures based on [market](../m/market.md) conditions, the nature of the [security](../s/security.md), and the [risk tolerance](../r/risk_tolerance.md) of the [underwriting](../u/underwriting.md) firms involved. 
+Corporations considering an [issue](../i/issue.md) of securities often deliberate between syndicates using Western versus Eastern Account structures based on [market](../m/market.md) conditions, the nature of the [security](../s/security.md), and the [risk tolerance](../r/risk_tolerance.md) of the [underwriting](../u/underwriting.md) firms involved.
 
 ### Investment Banks
 
@@ -81,7 +81,7 @@ During Facebook's IPO in 2012, a [syndicate](../s/syndicate.md) of over 30 finan
 
 ### Link
 
-For more detailed information about [underwriting](../u/underwriting.md) processes and [syndicate](../s/syndicate.md) structures, visit [Goldman Sachs Underwriting Overview](https://www.goldmansachs.com/our-services/underwriting/).
+For more detailed information about [underwriting](../u/underwriting.md) processes and [syndicate](../s/syndicate.md) structures, visit Goldman Sachs Underwriting Overview.
 
 ## Conclusion
 

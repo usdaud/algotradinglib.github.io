@@ -4,7 +4,7 @@
 
 ### Moving Averages
 
-Moving Averages (MAs) are one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. They smooth out price data to create a single flowing line, making it easier to identify the direction of the [trend](../t/trend.md). 
+Moving Averages (MAs) are one of the most popular [technical indicators](../t/technical_indicators.md) used by traders. They smooth out price data to create a single flowing line, making it easier to identify the direction of the [trend](../t/trend.md).
 
 #### Simple Moving Average (SMA)
 
@@ -28,7 +28,7 @@ where:
 
 ### Relative Strength Index (RSI)
 
-The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions. 
+The [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements. It oscillates between 0 and 100 and is typically used to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions.
 
 **Formula:**
 \[ \text{RSI} = 100 - \frac{100}{1 + \frac{\text{Average [Gain](../g/gain.md)}}{\text{Average Loss}}} \]
@@ -37,7 +37,7 @@ Traders use RSI by looking for readings above 70 indicating [overbought](../o/ov
 
 ### Moving Average Convergence Divergence (MACD)
 
-The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)'s price. It consists of two components: the MACD line and the signal line. 
+The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [indicator](../i/indicator.md) that shows the relationship between two moving averages of a [security](../s/security.md)'s price. It consists of two components: the MACD line and the signal line.
 
 **Calculation:**
 1. Calculate the 12-day EMA
@@ -45,7 +45,7 @@ The MACD is a [trend](../t/trend.md)-following [momentum](../m/momentum.md) [ind
 3. Subtract the 26-day EMA from the 12-day EMA to get the MACD line
 4. Calculate the 9-day EMA of the MACD line to get the signal line
 
-[Trading signals](../t/trading_signals.md) are generated when the MACD line crosses the signal line. 
+[Trading signals](../t/trading_signals.md) are generated when the MACD line crosses the signal line.
 
 ### Bollinger Bands
 
@@ -79,7 +79,7 @@ Traders use these levels as potential [support and resistance](../s/support_and_
 
 ### Average Directional Index (ADX)
 
-The [Average Directional Index](../a/average_directional_index_(adx).md) is used to quantify [trend](../t/trend.md) strength. It ranges from 0 to 100, with readings above 25 indicating a strong [trend](../t/trend.md). 
+The [Average Directional Index](../a/average_directional_index_(adx).md) is used to quantify [trend](../t/trend.md) strength. It ranges from 0 to 100, with readings above 25 indicating a strong [trend](../t/trend.md).
 
 **Calculation:**
 1. Calculate the True [Range](../r/range.md) (TR)
@@ -113,11 +113,11 @@ where:
 
 Several companies provide platforms and tools that help traders use these [technical indicators](../t/technical_indicators.md). Here are a few notable ones:
 
-- **[TradingView](../t/tradingview.md)**: A popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and drawing tools. More info: [TradingView](https://www.tradingview.com/)
-  
-- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) [offering](../o/offering.md) a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md). More info: [MetaTrader](https://www.metatrader4.com/)
+- **[TradingView](../t/tradingview.md)**: A popular charting platform that provides numerous [technical indicators](../t/technical_indicators.md) and drawing tools. More info: TradingView
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced [trading platform](../t/trading_platform.md) with customizable [technical indicators](../t/technical_indicators.md). More info: [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **MetaTrader**: A widely used [trading platform](../t/trading_platform.md) [offering](../o/offering.md) a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md). More info: MetaTrader
+
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: An advanced [trading platform](../t/trading_platform.md) with customizable [technical indicators](../t/technical_indicators.md). More info: Thinkorswim
 
 ### Conclusion
 

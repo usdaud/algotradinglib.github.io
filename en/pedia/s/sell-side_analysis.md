@@ -22,16 +22,12 @@ In [algorithmic trading](../a/algorithmic_trading.md) (algo trading), the insigh
 Some of the leading [investment banks](../i/investment_bank_(ib).md) and financial institutions known for their [sell-side](../s/sell-side.md) research include:
 
 - **Goldman Sachs**: Goldman's research division produces detailed reports covering equities, [fixed income](../f/fixed_income.md), currencies, and commodities.
-  [Goldman Sachs Research](https://www.goldmansachs.com/insights/pages/gs-research.html)
 
 - **Morgan Stanley**: Offers comprehensive research spanning various sectors and regions.
-  [Morgan Stanley Research](https://www.morganstanley.com/what-we-do/research.html)
 
 - **JP Morgan**: Provides global research on equities, [fixed income](../f/fixed_income.md), and [economics](../e/economics.md).
-  [JP Morgan Research](https://www.jpmorgan.com/global/research)
 
 - **[Bank](../b/bank.md) of America [Merrill Lynch](../m/merrill_lynch.md)**: Known for insightful research across equities, [credit](../c/credit.md), and macroeconomic trends.
-  [BofA Merrill Lynch Research](https://www.bofaml.com/en-us/content/research.html)
 
 ### Importance of Sell-Side Research in Risk Management
 [Sell-side](../s/sell-side.md) analysis is also vital for [risk management](../r/risk_management.md) in algo trading. By integrating research insights into their algorithms, institutional investors can:

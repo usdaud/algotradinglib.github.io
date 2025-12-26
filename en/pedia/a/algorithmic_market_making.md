@@ -54,11 +54,11 @@ Algorithmic [market](../m/market.md) making relies heavily on advanced technolog
 
 Several firms stand out for their expertise in algorithmic [market](../m/market.md) making:
 
-1. **Virtu Financial:** Virtu is known for its high-frequency trading and [market](../m/market.md) making capabilities. [Virtu Financial](https://www.virtu.com/)
-2. **Citadel Securities:** A leading [market maker](../m/market_maker.md) providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. [Citadel Securities](https://www.citadelsecurities.com/)
-3. **Jane Street:** Specializes in [arbitrage](../a/arbitrage.md), [quantitative trading](../q/quantitative_trading.md), and [market](../m/market.md) making. [Jane Street](https://www.janestreet.com/)
-4. **Flow Traders:** A global [liquidity](../l/liquidity.md) provider specializing in ETPs and other financial products. [Flow Traders](https://www.flowtraders.com/)
+1. **Virtu Financial:** Virtu is known for its high-frequency trading and [market](../m/market.md) making capabilities. Virtu Financial
+2. **Citadel Securities:** A leading [market maker](../m/market_maker.md) providing [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes. Citadel Securities
+3. **Jane Street:** Specializes in [arbitrage](../a/arbitrage.md), [quantitative trading](../q/quantitative_trading.md), and [market](../m/market.md) making. Jane Street
+4. **Flow Traders:** A global [liquidity](../l/liquidity.md) provider specializing in ETPs and other financial products. Flow Traders
 
 ## Conclusion
 
-Algorithmic [market](../m/market.md) making is a sophisticated and integral part of modern [financial markets](../f/financial_market.md). By leveraging advanced algorithms and technology, [market](../m/market.md) makers provide continuous [liquidity](../l/liquidity.md), stabilize prices, and enhance [market efficiency](../m/market_efficiency.md). Despite inherent risks, the benefits of improved [liquidity](../l/liquidity.md) and tighter [spreads](../s/spreads.md) make algorithmic [market](../m/market.md) making a critical function in financial ecosystems.
+Algorithmic [market](../m/market.md) making is a sophisticated and integral part of modern [financial markets](../f/financial_market.md). By leveraging advanced algorithms and technology, [market](../m/market.md) makers provide continuous [liquidity](../l/liquidity.md), stabilize prices, and enhance [market efficiency](../m/market_efficiency.md). Despite inherent risks, the benefits of improved [liquidity](../l/liquidity.md) and tighter [spreads](../s/spreads.md) make algorithmic [market](../m/market.md) making a critical function in financial ecosystems.

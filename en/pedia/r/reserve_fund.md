@@ -53,7 +53,7 @@ Determining the amount to allocate to the reserve [fund](../f/fund.md) involves 
 - **Operational Risks:** Understanding the [business cycle](../b/business_cycle.md), [industry](../i/industry.md) [volatility](../v/volatility.md), and potential financial challenges is crucial.
 - **Worst-Case Scenarios:** Planning for the worst-case scenario ensures readiness for extreme conditions.
 
-### Funding the Reserve 
+### Funding the Reserve
 
 Identifying the sources for raising the reserve [fund](../f/fund.md) is a critical step:
 - **Operational [Surplus](../s/surplus.md):** Diverting a portion of the operational [surplus](../s/surplus.md) to the reserve [fund](../f/fund.md).
@@ -68,15 +68,14 @@ Maintaining an adequately funded reserve requires diligent management. Periodica
 
 ### Corporate Reserve Funds
 
-Many corporations maintain reserve funds to meet various operational and strategic needs. For instance, [Apple Inc.](https://www.apple.com) is known for maintaining substantial reserves, often used for product development, acquisitions, and strategic investments. 
-
+Many corporations maintain reserve funds to meet various operational and strategic needs. For instance, Apple Inc. is known for maintaining substantial reserves, often used for product development, acquisitions, and strategic investments.
 ### Government Reserve Funds
 
 Governments also maintain reserve funds, such as sovereign [wealth](../w/wealth.md) funds or stabilization funds, to manage [economic cycles](../e/economic_cycles.md), cushion the impact of downturns, and [fund](../f/fund.md) public projects. A well-known example is the [Government Pension Fund of Norway](../g/government_pension_fund_of_norway.md), designed to manage [surplus](../s/surplus.md) revenues from the [petroleum](../p/petroleum.md) sector.
 
 ### Non-Profit Reserve Funds
 
-Non-[profit](../p/profit.md) organizations often keep reserve funds to ensure they can continue their mission during periods of funding shortfalls or unexpected expenses. For example, many large non-profits like the [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org) allocate reserves to maintain their programs and initiatives.
+Non-[profit](../p/profit.md) organizations often keep reserve funds to ensure they can continue their mission during periods of funding shortfalls or unexpected expenses. For example, many large non-profits like the Bill and Melinda Gates Foundation allocate reserves to maintain their programs and initiatives.
 
 ## Strategies for Effective Reserve Fund Management
 

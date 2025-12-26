@@ -44,17 +44,17 @@ There are several prominent GWACs in operation, each focusing on different aspec
 ### Alliant 2 GWAC
 The Alliant 2 GWAC, managed by the GSA, is designed to provide [federal agencies](../f/federal_agencies.md) with integrated IT solutions. It covers a broad [range](../r/range.md) of services, including software development, [cloud computing](../c/cloud_computing_in_trading.md), cybersecurity, and IT operations and maintenance.
 
-**More Information**: [Alliant 2 GWAC](https://www.gsa.gov/acquisition/products-services/professional-services/gwacs/alliant-2-gwac)
+**More Information**: Alliant 2 GWAC
 
 ### VETS 2 GWAC
 The VETS 2 GWAC is intended to support veteran-owned small businesses. This contract vehicle ensures that agencies can procure services from qualified veteran-owned firms, promoting small [business](../b/business.md) participation in federal contracting.
 
-**More Information**: [VETS 2 GWAC](https://www.gsa.gov/acquisition/products-services/professional-services/gwacs/vets-2)
+**More Information**: VETS 2 GWAC
 
 ### 8(a) STARS II GWAC
 The 8(a) STARS II GWAC focuses on enabling small, disadvantaged businesses to compete in the federal marketplace. This contract vehicle promotes economic opportunities by providing a streamlined process for agencies to access IT services from eligible vendors.
 
-**More Information**: [8(a) STARS II GWAC](https://www.gsa.gov/acquisition/products-services/professional-services/gwacs/8a-stars-ii)
+**More Information**: 8(a) STARS II GWAC
 
 ## Benefits of GWACs
 GWACs [offer](../o/offer.md) a multitude of benefits for both government agencies and contractors:

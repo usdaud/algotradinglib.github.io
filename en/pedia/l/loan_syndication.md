@@ -18,13 +18,13 @@ A [bank](../b/bank.md) or financial institution assigned to manage the administr
 
 ## Why Loan Syndication is Valuable
 
-### Risk Diversification 
+### Risk Diversification
 By distributing the [loan](../l/loan.md) among [multiple](../m/multiple.md) lenders, each financial institution mitigates its [risk](../r/risk.md). This is particularly vital for large loans where the failure of a single borrower to repay could have catastrophic consequences for one [lender](../l/lender.md).
 
 ### Increased Lending Capacity
 Through syndication, banks and financial institutions can participate in larger loans than they could afford independently. This helps lenders allocate [capital](../c/capital.md) more efficiently without overextending themselves.
 
-### Improved Terms for Borrowers 
+### Improved Terms for Borrowers
 Borrowers may benefit from more favorable [loan](../l/loan.md) terms due to the competition among banks to participate in syndication. These terms could include better [interest](../i/interest.md) rates, more extended [repayment](../r/repayment.md) periods, or larger [loan](../l/loan.md) amounts.
 
 ### Relationship Building
@@ -90,13 +90,13 @@ Banks must maintain certain [capital](../c/capital.md) ratios as specified under
 ## Notable Players in Loan Syndication
 
 ### JPMorgan Chase
-One of the largest global banking institutions, JPMorgan Chase is a notable leader in [structured finance](../s/structured_finance.md), including [loan](../l/loan.md) syndication. As of 2021, JPMorgan's [leveraged loan](../l/leveraged_loan.md) [market share](../m/market_share.md) was about 20%. More information is available on their official website: [JPMorgan Chase](https://www.jpmorganchase.com/).
+One of the largest global banking institutions, JPMorgan Chase is a notable leader in [structured finance](../s/structured_finance.md), including [loan](../l/loan.md) syndication. As of 2021, JPMorgan's [leveraged loan](../l/leveraged_loan.md) [market share](../m/market_share.md) was about 20%.
 
 ### Bank of America
-Another major player, [Bank](../b/bank.md) of America, consistently ranks high in the global league tables for [loan](../l/loan.md) syndication, often handling multi-billion dollar deals. For more details, visit their website: [Bank of America](https://www.bankofamerica.com/).
+Another major player, [Bank](../b/bank.md) of America, consistently ranks high in the global league tables for [loan](../l/loan.md) syndication, often handling multi-billion dollar deals.
 
 ### Citigroup
-Citigroup offers significant [loan](../l/loan.md) syndication services for corporate and institutional clients around the world. Known for its extensive global reach and diversified lending portfolio, more information can be found at: [Citigroup](https://www.citigroup.com/).
+Citigroup offers significant [loan](../l/loan.md) syndication services for corporate and institutional clients around the world. Known for its extensive global reach and diversified lending portfolio, more information can be found at: Citigroup.
 
 ## Technologies Enhancing Loan Syndication
 

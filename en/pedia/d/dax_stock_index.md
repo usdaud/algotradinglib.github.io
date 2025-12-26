@@ -1,6 +1,6 @@
 # DAX Stock Index
 
-The DAX (Deutscher Aktienindex) is Germany's leading stock [market index](../m/market_index.md), representing 30 of the largest and most [liquid](../l/liquid.md) blue-chip companies traded on the Frankfurt Stock [Exchange](../e/exchange.md). It is seen as a [benchmark](../b/benchmark.md) for the German [economy](../e/economy.md) and [investor](../i/investor.md) sentiment in the country. The [index](../i/index_instrument.md) was created in 1988 by the Frankfurt Stock [Exchange](../e/exchange.md) and mirrors the movements of the broader German [stock market](../s/stock_market.md).
+The DAX (Deutscher Aktienindex) is Germany's leading stock [market index](../m/market_index.md), representing 40 of the largest and most [liquid](../l/liquid.md) blue-chip companies traded on the Frankfurt Stock [Exchange](../e/exchange.md). It is seen as a [benchmark](../b/benchmark.md) for the German [economy](../e/economy.md) and [investor](../i/investor.md) sentiment in the country. The [index](../i/index_instrument.md) was created in 1988 by the Frankfurt Stock [Exchange](../e/exchange.md) and mirrors the movements of the broader German [stock market](../s/stock_market.md).
 
 ## Components and Selection Criteria
 
@@ -45,94 +45,94 @@ The DAX is a critical [indicator](../i/indicator.md) of German economic health a
 As of the latest update, the following companies are members of the DAX [index](../i/index_instrument.md):
 
 ### 1. **Adidas AG**
-Website: [Adidas](https://www.adidas-group.com/)
+online platform: Adidas
 
 ### 2. **Allianz SE**
-Website: [Allianz](https://www.allianz.com/)
+online platform: Allianz
 
 ### 3. **BASF SE**
-Website: [BASF](https://www.basf.com/)
+online platform: BASF
 
 ### 4. **Bayer AG**
-Website: [Bayer](https://www.bayer.com/)
+online platform: Bayer
 
 ### 5. **BMW AG**
-Website: [BMW](https://www.bmwgroup.com/)
+online platform: BMW
 
 ### 6. **Continental AG**
-Website: [Continental](https://www.continental.com/)
+online platform: Continental
 
 ### 7. **Covestro AG**
-Website: [Covestro](https://www.covestro.com/)
+online platform: Covestro
 
-### 8. **Daimler AG**
-Website: [Daimler](https://www.daimler.com/)
+### 8. **Mercedes-Benz Group AG** (formerly Daimler AG, renamed February 2022)
+online platform: Mercedes-Benz Group
 
 ### 9. **Deutsche Bank AG**
-Website: [Deutsche Bank](https://www.db.com/)
+online platform: Deutsche Bank
 
 ### 10. **Deutsche Börse AG**
-Website: [Deutsche Börse](https://www.deutsche-boerse.com/)
+online platform: Deutsche Börse
 
 ### 11. **Deutsche Post AG**
-Website: [Deutsche Post](https://www.dpdhl.com/)
+online platform: Deutsche Post
 
 ### 12. **Deutsche Telekom AG**
-Website: [Deutsche Telekom](https://www.telekom.com/)
+online platform: Deutsche Telekom
 
 ### 13. **E.ON SE**
-Website: [E.ON](https://www.eon.com/)
+online platform: E.ON
 
 ### 14. **Fresenius Medical Care AG & Co. KGaA**
-Website: [Fresenius Medical Care](https://www.freseniusmedicalcare.com/)
+online platform: Fresenius Medical Care
 
 ### 15. **Fresenius SE & Co. KGaA**
-Website: [Fresenius](https://www.fresenius.com/)
+online platform: Fresenius
 
 ### 16. **HeidelbergCement AG**
-Website: [HeidelbergCement](https://www.heidelbergcement.com/)
+online platform: HeidelbergCement
 
 ### 17. **Henkel AG & Co. KGaA**
-Website: [Henkel](https://www.henkel.com/)
+online platform: Henkel
 
 ### 18. **Infineon Technologies AG**
-Website: [Infineon](https://www.infineon.com/)
+online platform: Infineon
 
 ### 19. **Linde plc**
-Website: [Linde](https://www.linde.com/)
+online platform: Linde
 
 ### 20. **Merck KGaA**
-Website: [Merck](https://www.merckgroup.com/)
+online platform: Merck
 
 ### 21. **MTU Aero Engines AG**
-Website: [MTU Aero Engines](https://www.mtu.de/)
+online platform: MTU Aero Engines
 
 ### 22. **Münchener Rückversicherungs-Gesellschaft AG (Munich Re)**
-Website: [Munich Re](https://www.munichre.com/)
+online platform: Munich Re
 
 ### 23. **RWE AG**
-Website: [RWE](https://www.rwe.com/)
+online platform: RWE
 
 ### 24. **SAP SE**
-Website: [SAP](https://www.sap.com/)
+online platform: SAP
 
 ### 25. **Siemens AG**
-Website: [Siemens](https://www.siemens.com/)
+online platform: Siemens
 
 ### 26. **Siemens Healthineers AG**
-Website: [Siemens Healthineers](https://www.siemens-healthineers.com/)
+online platform: Siemens Healthineers
 
 ### 27. **Volkswagen AG**
-Website: [Volkswagen](https://www.volkswagenag.com/)
+online platform: Volkswagen
 
 ### 28. **Vonovia SE**
-Website: [Vonovia](https://www.vonovia.de/)
+online platform: Vonovia
 
 ### 29. **Zalando SE**
-Website: [Zalando](https://corporate.zalando.com/)
+online platform: Zalando
 
 ### 30. **Delivery Hero SE**
-Website: [Delivery Hero](https://www.deliveryhero.com/)
+online platform: Delivery Hero
 
 ## Conclusion
 

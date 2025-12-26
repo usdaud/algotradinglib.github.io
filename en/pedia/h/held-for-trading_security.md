@@ -1,6 +1,6 @@
 # Held-For-Trading Security
 
-Held-for-trading securities represent one category under the broad umbrella of financial instruments. These are typically [debt](../d/debt.md) or [equity](../e/equity.md) securities that an entity actively buys and sells to generate short-term [profit](../p/profit.md). As integral parts of a company's trading activities, these securities are often held for brief periods before being sold. They are accounted for on the [balance sheet](../b/balance_sheet.md) at their [fair value](../f/fair_value.md), with changes in their [value](../v/value.md) recorded in the [income statement](../i/income_statement.md). This article explores the intricacies of held-for-trading securities, examining their classification, [accounting](../a/accounting.md) treatment, benefits, risks, and practical examples in the context of [algorithmic trading](../a/accountability.md).
+Held-for-trading securities represent one category under the broad umbrella of financial instruments. These are typically [debt](../d/debt.md) or [equity](../e/equity.md) securities that an entity actively buys and sells to generate short-term [profit](../p/profit.md). As integral parts of a company's trading activities, these securities are often held for brief periods before being sold. They are accounted for on the [balance sheet](../b/balance_sheet.md) at their [fair value](../f/fair_value.md), with changes in their [value](../v/value.md) recorded in the [income statement](../i/income_statement.md). This article explores the intricacies of held-for-trading securities, examining their classification, [accounting](../a/accounting.md) treatment, benefits, risks, and practical examples in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Classification
 
@@ -33,7 +33,7 @@ When a held-for-trading [security](../s/security.md) is sold, the difference bet
 
 ## Benefits of Holding Trading Securities
 
-Engaging in the trading of held-for-trading securities offers several benefits to companies, particularly those involved in [algorithmic trading](../a/accountability.md).
+Engaging in the trading of held-for-trading securities offers several benefits to companies, particularly those involved in [algorithmic trading](../a/algorithmic_trading.md).
 
 ### Profit Generation
 
@@ -61,30 +61,27 @@ While these securities are generally [liquid](../l/liquid.md), there can be time
 
 ### Operational Risk
 
-The complexity of [algorithmic trading](../a/accountability.md) introduces operational risks, including system failures, software bugs, and cybersecurity threats. Companies must implement [robust](../r/robust.md) systems and controls to mitigate these risks and ensure smooth trading operations.
+The complexity of [algorithmic trading](../a/algorithmic_trading.md) introduces operational risks, including system failures, software bugs, and cybersecurity threats. Companies must implement [robust](../r/robust.md) systems and controls to mitigate these risks and ensure smooth trading operations.
 
 ## Examples in Algo Trading
 
-[Algorithmic trading](../a/accountability.md) firms and financial institutions frequently deal in held-for-trading securities as part of their [trading strategies](../t/trading_strategies.md). Some notable examples include:
+[Algorithmic trading](../a/algorithmic_trading.md) firms and financial institutions frequently deal in held-for-trading securities as part of their [trading strategies](../t/trading_strategies.md). Some notable examples include:
 
 ### Renaissance Technologies
 
 Renaissance Technologies, a pioneer in the field of [quantitative trading](../q/quantitative_trading.md), heavily engages in the trading of held-for-trading securities. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md) is known for its exceptional returns, achieved through sophisticated algorithms and statistical models.
 
-[Learn more about Renaissance Technologies](https://www.rentec.com/)
 
 ### Citadel LLC
 
-Citadel LLC is another major player in the [algorithmic trading](../a/accountability.md) space. The [firm](../f/firm.md) uses advanced [trading algorithms](../t/trading_algorithms.md) to [trade](../t/trade.md) held-for-trading securities, aiming to [capitalize](../c/capitalize.md) on short-term price movements and [market](../m/market.md) inefficiencies.
+Citadel LLC is another major player in the [algorithmic trading](../a/algorithmic_trading.md) space. The [firm](../f/firm.md) uses advanced [trading algorithms](../t/trading_algorithms.md) to [trade](../t/trade.md) held-for-trading securities, aiming to [capitalize](../c/capitalize.md) on short-term price movements and [market](../m/market.md) inefficiencies.
 
-[Learn more about Citadel LLC](https://www.citadel.com/)
 
 ### Two Sigma Investments
 
 Two Sigma Investments leverages [machine learning](../m/machine_learning.md), [artificial intelligence](../a/artificial_intelligence_in_trading.md), and [big data](../b/big_data_in_trading.md) to [trade](../t/trade.md) held-for-trading securities. The [firm](../f/firm.md)'s approach is highly data-driven, focusing on making informed trading decisions to maximize profits.
 
-[Learn more about Two Sigma Investments](https://www.twosigma.com/)
 
 ## Conclusion
 
-Held-for-trading securities play a crucial role in the trading activities of financial institutions, particularly those engaged in [algorithmic trading](../a/accountability.md). By understanding the characteristics, [accounting](../a/accounting.md) treatment, benefits, and risks associated with these securities, companies can effectively incorporate them into their [trading strategies](../t/trading_strategies.md) to achieve optimal [financial performance](../f/financial_performance.md). The dynamic nature of held-for-trading securities requires constant monitoring and management to navigate the complexities of the [financial markets](../f/financial_market.md).
+Held-for-trading securities play a crucial role in the trading activities of financial institutions, particularly those engaged in [algorithmic trading](../a/algorithmic_trading.md). By understanding the characteristics, [accounting](../a/accounting.md) treatment, benefits, and risks associated with these securities, companies can effectively incorporate them into their [trading strategies](../t/trading_strategies.md) to achieve optimal [financial performance](../f/financial_performance.md). The dynamic nature of held-for-trading securities requires constant monitoring and management to navigate the complexities of the [financial markets](../f/financial_market.md).

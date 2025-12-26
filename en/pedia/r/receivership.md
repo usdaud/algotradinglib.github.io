@@ -7,14 +7,14 @@ Receivership is a legal process in which a court appoints a receiver to manage t
 Receivership can be categorized into two main types:
 
 1. **Administrative Receivership**:
-    - **Definition**: This occurs when a secured [creditor](../c/creditor.md) appoints a receiver to take control of specific assets or the entire [business](../b/business.md) operations of the debtor.
-    - **Purpose**: The administrative receiver’s primary role is to recover the [money](../m/money.md) owed to the secured [creditor](../c/creditor.md) by selling assets or operating the [business](../b/business.md).
-    - **[Scope](../s/scope.md)**: It is most common in the UK and some Commonwealth countries and is often associated with fixed charge securities.
+ - **Definition**: This occurs when a secured [creditor](../c/creditor.md) appoints a receiver to take control of specific assets or the entire [business](../b/business.md) operations of the debtor.
+ - **Purpose**: The administrative receiver’s primary role is to recover the [money](../m/money.md) owed to the secured [creditor](../c/creditor.md) by selling assets or operating the [business](../b/business.md).
+ - **[Scope](../s/scope.md)**: It is most common in the UK and some Commonwealth countries and is often associated with fixed charge securities.
 
 2. **Court-appointed Receivership**:
-    - **Definition**: This type is initiated by the court, often at the request of creditors, to manage and protect the assets and [business](../b/business.md) operations of the distressed party.
-    - **Purpose**: The court-appointed receiver acts as an impartial [third party](../t/third_party.md) to ensure unbiased management of the assets.
-    - **[Scope](../s/scope.md)**: This is more common in jurisdictions like the United States and can extend to various types of assets, including [real estate](../r/real_estate.md) and [personal property](../p/personal_property.md).
+ - **Definition**: This type is initiated by the court, often at the request of creditors, to manage and protect the assets and [business](../b/business.md) operations of the distressed party.
+ - **Purpose**: The court-appointed receiver acts as an impartial [third party](../t/third_party.md) to ensure unbiased management of the assets.
+ - **[Scope](../s/scope.md)**: This is more common in jurisdictions like the United States and can extend to various types of assets, including [real estate](../r/real_estate.md) and [personal property](../p/personal_property.md).
 
 ## The Role of the Receiver
 
@@ -31,28 +31,28 @@ A receiver plays a critical role in the receivership process, with responsibilit
 The receivership process typically involves several key steps:
 
 1. **Initiation**:
-    - The process begins when a court issues a receivership [order](../o/order.md) or a secured [creditor](../c/creditor.md) appoints a receiver.
-    - Creditors can petition the court for the appointment of a receiver if they believe it is necessary to protect their interests.
+ - The process begins when a court issues a receivership [order](../o/order.md) or a secured [creditor](../c/creditor.md) appoints a receiver.
+ - Creditors can petition the court for the appointment of a receiver if they believe it is necessary to protect their interests.
 
 2. **Appointment of Receiver**:
-    - The court or [creditor](../c/creditor.md) appoints a receiver, often an [insolvency](../i/insolvency.md) practitioner or a professional with experience in [asset management](../a/asset_management.md) and administration.
+ - The court or [creditor](../c/creditor.md) appoints a receiver, often an [insolvency](../i/insolvency.md) practitioner or a professional with experience in [asset management](../a/asset_management.md) and administration.
 
 3. **Assessment and Planning**:
-    - The receiver assesses the financial situation, including assets, liabilities, and ongoing operations.
-    - A plan is formulated to manage and maximize the [value](../v/value.md) of the assets.
+ - The receiver assesses the financial situation, including assets, liabilities, and ongoing operations.
+ - A plan is formulated to manage and maximize the [value](../v/value.md) of the assets.
 
 4. **Management of Assets**:
-    - The receiver takes control of the assets and [business](../b/business.md) operations, making decisions to stabilize and ultimately improve the financial status of the entity.
+ - The receiver takes control of the assets and [business](../b/business.md) operations, making decisions to stabilize and ultimately improve the financial status of the entity.
 
 5. **[Sale](../s/sale.md) or [Restructuring](../r/restructuring.md)**:
-    - Assets may be sold to pay off debts, or the [business](../b/business.md) might be restructured to enhance profitability and [financial health](../f/financial_health.md).
+ - Assets may be sold to pay off debts, or the [business](../b/business.md) might be restructured to enhance profitability and [financial health](../f/financial_health.md).
 
 6. **[Distribution](../d/distribution.md) of Proceeds**:
-    - The proceeds from [asset](../a/asset.md) sales or continued operations are distributed among creditors according to their priority, as established by law.
+ - The proceeds from [asset](../a/asset.md) sales or continued operations are distributed among creditors according to their priority, as established by law.
 
 7. **Reporting and Termination**:
-    - The receiver provides regular reports to the court and creditors, detailing the progress and financial status.
-    - Once the objectives are met or the court deems it appropriate, the receivership is terminated, and control returns to the owners or stakeholders.
+ - The receiver provides regular reports to the court and creditors, detailing the progress and financial status.
+ - Once the objectives are met or the court deems it appropriate, the receivership is terminated, and control returns to the owners or stakeholders.
 
 ## Legal and Regulatory Framework
 
@@ -132,4 +132,4 @@ Regulators are increasingly focusing on refining receivership processes to prote
 
 Receivership is a vital mechanism in the realm of [financial distress](../f/financial_distress.md) and [insolvency](../i/insolvency.md) management. It ensures the responsible management of assets, maximizes recovery for creditors, and provides a structured approach to dealing with financial difficulties. As legal frameworks and [market](../m/market.md) conditions evolve, the process adapts, integrating technological advancements and regulatory improvements, thereby remaining an essential tool in modern [finance](../f/finance.md).
 
-For more information on the role and legal [basis](../b/basis.md) of receivership, you can visit [KPMG's restructuring and receivership services](https://home.kpmg/services/advisory/restructuring.html).
+For more information on the role and legal [basis](../b/basis.md) of receivership, you can visit KPMG's restructuring and receivership services.

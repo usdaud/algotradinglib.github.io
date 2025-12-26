@@ -28,7 +28,7 @@ In algotrading, strategies have their lifecycle that can be evaluated using surv
 
 ### Removing Selection Bias
 
-One of the significant issues in [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) is [survivorship bias](../s/survivorship_bias.md), where only the [trading algorithms](../t/trading_algorithms.md) that have performed well in the past are considered for future use, ignoring those that failed. By employing survivorship curves, traders can get a balanced view of the proportion of successful strategies against the number that failed and understand the overall success rate. Websites like [QuantConnect](https://www.quantconnect.com/) and [Kaggle](https://www.kaggle.com/) [offer](../o/offer.md) communities and tools to engage with various strategies, enabling broad evaluations across [multiple](../m/multiple.md) scenarios.
+One of the significant issues in [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md) is [survivorship bias](../s/survivorship_bias.md), where only the [trading algorithms](../t/trading_algorithms.md) that have performed well in the past are considered for future use, ignoring those that failed. By employing survivorship curves, traders can get a balanced view of the proportion of successful strategies against the number that failed and understand the overall success rate. Websites like QuantConnect and Kaggle [offer](../o/offer.md) communities and tools to engage with various strategies, enabling broad evaluations across [multiple](../m/multiple.md) scenarios.
 
 ### Optimized Resource Allocation
 
@@ -68,11 +68,11 @@ Implementing a Bayesian approach can help in incorporating prior beliefs or exis
 
 Many [algorithmic trading](../a/algorithmic_trading.md) firms utilize [survivorship analysis](../s/survivorship_analysis.md) in their strategic frameworks. Examples include:
 
-1. **AQR [Capital](../c/capital.md) Management, LLC**: Using advanced statistical techniques to gauge the longevity and performance of diverse [quantitative strategies](../q/quantitative_strategies_in_trading.md). [Visit their site](https://www.aqr.com/).
-  
-2. **Two Sigma**: Emphasizes [machine learning](../m/machine_learning.md) models and [survivorship analysis](../s/survivorship_analysis.md) to sustain profitable [trading strategies](../t/trading_strategies.md) over prolonged periods. [View their approach](https://www.twosigma.com/).
-  
-3. **D-E Shaw Group**: Implements survivorship models for evaluating strategy lifecycle, ensuring [robust](../r/robust.md) performance adaptation over time. [Explore their methods](https://www.deshaw.com/).
+1. **AQR [Capital](../c/capital.md) Management, LLC**: Using advanced statistical techniques to gauge the longevity and performance of diverse [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+
+2. **Two Sigma**: Emphasizes [machine learning](../m/machine_learning.md) models and [survivorship analysis](../s/survivorship_analysis.md) to sustain profitable [trading strategies](../t/trading_strategies.md) over prolonged periods. View their approach.
+
+3. **D-E Shaw Group**: Implements survivorship models for evaluating strategy lifecycle, ensuring [robust](../r/robust.md) performance adaptation over time. Explore their methods.
 
 ## Conclusion
 

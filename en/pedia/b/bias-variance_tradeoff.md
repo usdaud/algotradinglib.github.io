@@ -4,7 +4,7 @@ The bias-variance tradeoff is a fundamental concept in supervised [machine learn
 
 ## Bias
 
-Bias is the error introduced by approximating a real-world problem, which may be complex, by a simplified model. In other words, bias refers to the difference between the average prediction of our model and the true [value](../v/value.md) which we are trying to predict. High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting). 
+Bias is the error introduced by approximating a real-world problem, which may be complex, by a simplified model. In other words, bias refers to the difference between the average prediction of our model and the true [value](../v/value.md) which we are trying to predict. High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting).
 
 ### High-Bias Models
 
@@ -24,7 +24,7 @@ Bias is the error introduced by approximating a real-world problem, which may be
 
 ## Variance
 
-Variance refers to the error introduced by the model's sensitivity to the small fluctuations in the training set. A model with high variance pays too much attention to the training data and does not generalize well to new data ([overfitting](../o/overfitting.md)). 
+Variance refers to the error introduced by the model's sensitivity to the small fluctuations in the training set. A model with high variance pays too much attention to the training data and does not generalize well to new data ([overfitting](../o/overfitting.md)).
 
 ### High-Variance Models
 
@@ -56,7 +56,7 @@ The bias-variance tradeoff represents a balance that needs to be maintained by m
 
 One common way to visualize the bias-variance tradeoff is through [learning curves](../l/learning_curves_in_trading.md). These plots show model performance on training and validation sets across a [range](../r/range.md) of model complexities, illustrating how training and validation errors change.
 
-![Bias-Variance Tradeoff](https://miro.medium.com/max/1400/1*yDnW5gQlyFQDaHdJibEp1w.png)
+!Bias-Variance Tradeoff
 
 ## Practical Strategies
 
@@ -103,4 +103,4 @@ The bias-variance tradeoff is a critical aspect of model selection and evaluatio
 ## Resources for Further Reading
 
 - **Elements of Statistical Learning**: A comprehensive text by Hastie, Tibshirani, and Friedman discussing statistical learning, including the bias-variance tradeoff.
-- **[Machine Learning](../m/machine_learning.md) Yearning**: A practical guide by Andrew Ng, focusing on applied [machine learning](../m/machine_learning.md) techniques and considerations like bias-variance tradeoffs.
+- **[Machine Learning](../m/machine_learning.md) Yearning**: A practical guide by Andrew Ng, focusing on applied [machine learning](../m/machine_learning.md) techniques and considerations like bias-variance tradeoffs.

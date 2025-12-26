@@ -38,6 +38,6 @@ Griliches also investigated the concept of knowledge spillovers, where the benef
 
 Zvi Griliches' contributions to [economics](../e/economics.md) have had a profound and lasting impact on the field. His work on economic measurement and econometric techniques has improved the accuracy and reliability of empirical research, while his studies on technological change have deepened our understanding of the drivers of [economic growth](../e/economic_growth.md). Griliches' legacy continues to influence economists, policymakers, and researchers in their efforts to measure and analyze economic phenomena.
 
-For more detailed information about Zvi Griliches and his work, you can visit his [profile page at the National Bureau of Economic Research (NBER)](https://www.nber.org/people/zvi_griliches).
+For more detailed information about Zvi Griliches and his work, you can
 
 Griliches' commitment to rigorous [empirical analysis](../e/empirical_analysis_in_trading.md) and his innovative approaches to economic measurement remain a cornerstone of modern economic research. His contributions have paved the way for future advancements in the field, ensuring that his impact [will](../w/will.md) be felt for generations to come.

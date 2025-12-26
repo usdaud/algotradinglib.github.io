@@ -14,13 +14,13 @@ The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH) is 
 
 Given these premises, EMH posits that it is impossible to consistently achieve higher returns than the overall [market](../m/market.md) through expert stock selection or [market timing](../m/market_timing.md). As a result, the hypothesis supports [passive investment strategies](../p/passive_investment_strategies.md) such as [index fund](../i/index_fund.md) [investing](../i/investing.md).
 
-**Reference**: [Chicago Booth - Eugene Fama](https://research.chicagobooth.edu/fama-miller)
+**Reference**: Chicago Booth - Eugene Fama
 
 ## Modern Portfolio Theory (MPT)
 
 **Laureate**: [Harry Markowitz](../h/harry_markowitz.md) (1990)
 
-[Harry Markowitz](../h/harry_markowitz.md)'s Modern Portfolio Theory (MPT) revolutionized the understanding of investment [diversification](../d/diversification.md). Awarded the Nobel Prize in 1990, Markowitz's MPT introduces the idea of an **[efficient frontier](../e/efficient_frontier.md)**, a set of optimal portfolios that [offer](../o/offer.md) the highest [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md). 
+[Harry Markowitz](../h/harry_markowitz.md)'s Modern Portfolio Theory (MPT) revolutionized the understanding of investment [diversification](../d/diversification.md). Awarded the Nobel Prize in 1990, Markowitz's MPT introduces the idea of an **[efficient frontier](../e/efficient_frontier.md)**, a set of optimal portfolios that [offer](../o/offer.md) the highest [expected return](../e/expected_return.md) for a given level of [risk](../r/risk.md).
 
 Key concepts of MPT include:
 
@@ -30,7 +30,7 @@ Key concepts of MPT include:
 
 These concepts have laid the groundwork for modern [risk management](../r/risk_management.md) techniques and the construction of diversified investment portfolios.
 
-**Reference**: [Harry Markowitz Official Website](http://www.hmarkowitz.com)
+**Reference**:
 
 ## Arbitrage Pricing Theory (APT)
 
@@ -47,7 +47,7 @@ APT assumes that if the returns of a portfolio are created with a combination of
 [Behavioral finance](../b/behavioral_finance.md) incorporates cognitive psychology into [finance](../f/finance.md) to explain why investors often behave irrationally. Daniel Kahneman, a psychologist by training, won the Nobel Prize in 2002 for his work on [prospect theory](../p/prospect_theory_in_trading.md), which he developed with Amos Tversky.
 
 [Prospect theory](../p/prospect_theory_in_trading.md) describes how people make decisions under [risk](../r/risk.md) and [uncertainty](../u/uncertainty_in_trading.md), highlighting several biases:
- 
+
 - **[Loss Aversion](../l/loss_aversion.md)**: Investors are more sensitive to losses than gains of the same size.
 - **Overconfidence**: Investors overestimate their ability to predict [market](../m/market.md) movements.
 - **[Herd Behavior](../h/herd_behavior_in_trading.md)**: Investors tend to follow the crowd, which can amplify [market](../m/market.md) trends.
@@ -55,10 +55,10 @@ APT assumes that if the returns of a portfolio are created with a combination of
 
 Robert Shiller, awarded the Nobel Prize in 2013, expanded on these ideas, showing how irrational behavior and psychological factors can lead to [market anomalies](../m/market_anomalies.md) and [bubbles](../b/bubble.md). Richard Thaler, awarded in 2017, further explored how [psychological biases](../p/psychological_biases_in_trading.md) and anomalies impact economic decision-making.
 
-**References**: 
-- [Daniel Kahneman's Insights](https://scholar.princeton.edu/kahneman)
-- [Robert Shiller at Yale](https://economics.yale.edu/people/robert-shiller)
-- [Richard Thaler at Booth School](https://www.chicagobooth.edu/faculty/directory/t/richard-h-thaler)
+**References**:
+- Daniel Kahneman's Insights
+- Robert Shiller at Yale
+- Richard Thaler at Booth School
 
 ## Capital Asset Pricing Model (CAPM)
 
@@ -79,7 +79,7 @@ Where:
 
 CAPM posits that the only [risk](../r/risk.md) priced by the [market](../m/market.md) is [systemic risk](../s/systemic_risk.md) ([market risk](../m/market_risk.md)), as other forms of [risk](../r/risk.md) can be diversified away. This model has been crucial in [asset](../a/asset.md) pricing, [portfolio optimization](../p/portfolio_optimization.md), and [risk management](../r/risk_management.md).
 
-**Reference**: [William F. Sharpe's website](http://www.stanford.edu/~wfsharpe)
+**Reference**: William F. Sharpe's online platform
 
 ## Black-Scholes-Merton Model
 
@@ -103,7 +103,7 @@ Where:
 
 This model remains a fundamental tool in trading for pricing [options](../o/options.md), managing portfolios of [derivatives](../d/derivatives.md), and in the overall field of [quantitative finance](../q/quantitative_finance.md).
 
-**Reference**: [Robert C. Merton's MIT Profile](https://mitsloan.mit.edu/faculty/directory/robert-c-merton)
+**Reference**: Robert C. Merton's MIT Profile
 
 ## Nobel Prize Theories in Derivative Pricing and Usage
 

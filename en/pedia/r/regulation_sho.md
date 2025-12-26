@@ -1,6 +1,6 @@
 # Regulation SHO
 
-Regulation SHO is a set of rules implemented by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) aimed at addressing concerns in the [short selling](../s/short_selling.md) of securities. These rules are designed to ensure that [market](../m/market.md) participants are in compliance with the legal and regulatory framework governing short sales and to enhance the [efficiency](../e/efficiency.md) and fairness of the securities [market](../m/market.md). Introduced in January 2005, Regulation SHO represents a comprehensive approach to regulating [short selling](../s/short_selling.md) practices and safeguarding [market](../m/market.md) stability. 
+Regulation SHO is a set of rules implemented by the U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) aimed at addressing concerns in the [short selling](../s/short_selling.md) of securities. These rules are designed to ensure that [market](../m/market.md) participants are in compliance with the legal and regulatory framework governing short sales and to enhance the [efficiency](../e/efficiency.md) and fairness of the securities [market](../m/market.md). Introduced in January 2005, Regulation SHO represents a comprehensive approach to regulating [short selling](../s/short_selling.md) practices and safeguarding [market](../m/market.md) stability.
 
 ## What It Regulates
 
@@ -12,14 +12,14 @@ Under Rule 203(b)(1) of Regulation SHO, [broker](../b/broker.md)-dealers are req
 
 ### 2. **Short Sale Restrictions**
 
-Regulation SHO also establishes restrictions on short sales under conditions referred to as "close-out provisions." These provisions mandate that fails-to-deliver positions must be closed out by borrowing or purchasing securities of like kind and quantity. 
+Regulation SHO also establishes restrictions on short sales under conditions referred to as "close-out provisions." These provisions mandate that fails-to-deliver positions must be closed out by borrowing or purchasing securities of like kind and quantity.
 
 ### 3. **Threshold Securities**
 
 Threshold securities are securities that have an aggregate [fail](../f/fail.md) to deliver position for:
 
-- Five consecutive settlement days at a [clearing](../c/clearing.md) agency registered with the SEC; 
-- The fails to deliver position is equal to at least 10,000 [shares](../s/shares.md); 
+- Five consecutive settlement days at a [clearing](../c/clearing.md) agency registered with the SEC;
+- The fails to deliver position is equal to at least 10,000 [shares](../s/shares.md);
 - The position is equal to at least 0.5% of the [issuer](../i/issuer.md)’s total outstanding [shares](../s/shares.md).
 
 [Broker](../b/broker.md)-dealers dealing with threshold securities face additional delivery requirements to rectify fails to deliver beyond the acceptable thresholds to prevent persistent failures.
@@ -73,7 +73,7 @@ Regulation SHO, through its [transparency](../t/transparency.md) and regulatory 
 Regulation SHO has undergone several modifications and interpretations since its introduction. Key amendments have been made to address emerging [market dynamics](../m/market_dynamics.md), technological advancements, and feedback from [market](../m/market.md) participants.
 
 - **Amendments and Updates:** The [Commission](../c/commission.md) regularly updates Regulation SHO to close loopholes, address changing [market](../m/market.md) structures, and respond to crises such as the 2008 financial downturn or Covid-19 [market](../m/market.md) pressures.
-  
+
 - **Technological Integration:** Enhanced [data analytics](../d/data_analytics.md), real-time auditing tools, and integration of [Artificial Intelligence](../a/artificial_intelligence_in_trading.md) (AI) for compliance purposes have evolved alongside Regulation SHO to make it more effective in a highly digital [trading environment](../t/trading_environment.md).
 
 ## Notable Cases and Precedents
@@ -87,4 +87,4 @@ Various high-profile securities cases have hinged on violations or adherence to 
 
 Regulation SHO is a cornerstone of the SEC’s regulatory framework, ensuring that [short selling](../s/short_selling.md) is conducted responsibly and transparently within the [financial markets](../f/financial_market.md). By setting forth clear guidelines and strict requirements on short sales, the regulation contributes to [market](../m/market.md) stability, protects investors, and enhances the overall integrity of the U.S. securities [market](../m/market.md).
 
-For further reading and detailed guidelines on Regulation SHO, visit the official website of the SEC: [U.S. Securities and Exchange Commission](https://www.sec.gov)
+For further reading and detailed guidelines on Regulation SHO,S. Securities and Exchange Commission

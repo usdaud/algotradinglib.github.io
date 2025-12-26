@@ -74,11 +74,11 @@ When [shares](../s/shares.md) are issued, the [journal](../j/journal.md) entry t
 
 **[Journal](../j/journal.md) Entry**
 
-| Date       | Account                           | [Debit](../d/debit.md)  | [Credit](../c/credit.md) |
+| Date | Account | [Debit](../d/debit.md) | [Credit](../c/credit.md) |
 |------------|-----------------------------------|--------|--------|
-| 01/01/2023 | Cash                              | $1,500 |        |
-|            | [Common Stock](../c/common_stock.md)                      |        | $1,000 |
-|            | [Additional Paid-In Capital](../a/additional_paid-in_capital.md)        |        | $500   |
+| 01/01/2023 | Cash | $1,500 | |
+| | [Common Stock](../c/common_stock.md) | | $1,000 |
+| | [Additional Paid-In Capital](../a/additional_paid-in_capital.md) | | $500 |
 
 ### Balance Sheet Presentation
 
@@ -131,11 +131,11 @@ Bonus [shares](../s/shares.md) are additional [shares](../s/shares.md) given to 
 
 ### Example 1: Apple Inc.
 
-Apple Inc. (https://www.apple.com) is a prime example of a company with significant paid-up [capital](../c/capital.md). Over the years, Apple has issued a substantial number of [shares](../s/shares.md), which has bolstered its financial position and enabled large-scale investments and innovations.
+Apple Inc. ( is a prime example of a company with significant paid-up [capital](../c/capital.md). Over the years, Apple has issued a substantial number of [shares](../s/shares.md), which has bolstered its financial position and enabled large-scale investments and innovations.
 
 ### Example 2: Tesla Inc.
 
-Tesla Inc. (https://www.tesla.com) has also leveraged paid-up [capital](../c/capital.md) through [multiple](../m/multiple.md) rounds of [equity financing](../e/equity_financing.md). Each fundraising round contributed to its paid-up [capital](../c/capital.md), supporting its aggressive [expansion](../e/expansion.md) and R&D initiatives.
+Tesla Inc. ( has also leveraged paid-up [capital](../c/capital.md) through [multiple](../m/multiple.md) rounds of [equity financing](../e/equity_financing.md). Each fundraising round contributed to its paid-up [capital](../c/capital.md), supporting its aggressive [expansion](../e/expansion.md) and R&D initiatives.
 
 ## Practical Considerations
 

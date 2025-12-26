@@ -41,7 +41,7 @@ Not all [stocks](../s/stock.md) or securities are available for after-hours trad
 ## Important Considerations
 
 ### Broker Compatibility
-Not all brokers [offer](../o/offer.md) after-hours trading [options](../o/options.md). Investors should verify with their brokers if after-hours trading is supported and understand the [fee](../f/fee.md) structure involved. Brokers like [Charles Schwab](../c/charles_schwab.md) (https://www.schwab.com) and Fidelity (https://www.fidelity.com) [offer](../o/offer.md) these services.
+Not all brokers [offer](../o/offer.md) after-hours trading [options](../o/options.md). Investors should verify with their brokers if after-hours trading is supported and understand the [fee](../f/fee.md) structure involved. Brokers like [Charles Schwab](../c/charles_schwab.md) ( and Fidelity ( [offer](../o/offer.md) these services.
 
 ### Types of Orders
 Certain types of orders, such as [market](../m/market.md) orders, may not be executed in after-hours trading. Investors often use limit orders to specify the price at which they are willing to buy or sell, thus avoiding unfavorable executions due to [volatility](../v/volatility.md).
@@ -73,10 +73,9 @@ News of mergers and acquisitions often leads to considerable trading [volume](..
 ### Trading Platforms
 Various trading platforms [offer](../o/offer.md) after-hours trading. Some popular platforms include:
 
-1. **[Charles Schwab](../c/charles_schwab.md)**: (https://www.schwab.com)
-2. **Fidelity**: (https://www.fidelity.com)
-3. **TD [Ameritrade](../a/ameritrade.md)**: (https://www.tdameritrade.com)
-4. **[E*TRADE](../e/e_trade.md)**: (https://us.etrade.com)
+1. **[Charles Schwab](../c/charles_schwab.md)**: (
+2. **Fidelity**: 3. **TD [Ameritrade](../a/ameritrade.md)**: (
+4. **[E*TRADE](../e/e_trade.md)**: (
 
 ### Algorithmic Trading
 [Algorithmic trading](../a/accountability.md) is increasingly prevalent in after-hours trading sessions. Algorithms can quickly respond to [market](../m/market.md) information and execute complex [trading strategies](../t/trading_strategies.md) in milliseconds, [offering](../o/offering.md) a competitive edge. However, the use of such technologies requires sophisticated knowledge and can involve significant costs.

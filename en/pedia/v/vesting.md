@@ -78,13 +78,13 @@ Some fintech companies are exploring the use of [blockchain](../b/blockchain_in_
 
 ### Algorithmic Trading and Vesting
 
-In the realm of [algorithmic trading](../a/accountability.md), vesting can be used to incentivize developers and traders. For instance, a company might [offer](../o/offer.md) vesting schedules for performance bonuses or [profit](../p/profit.md)-sharing plans based on the success of [trading algorithms](../t/trading_algorithms.md). This approach aligns the interests of individual traders and developers with the overall performance of the trading [firm](../f/firm.md).
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), vesting can be used to incentivize developers and traders. For instance, a company might [offer](../o/offer.md) vesting schedules for performance bonuses or [profit](../p/profit.md)-sharing plans based on the success of [trading algorithms](../t/trading_algorithms.md). This approach aligns the interests of individual traders and developers with the overall performance of the trading [firm](../f/firm.md).
 
 For more detailed insights into how vesting is implemented in different companies, you can refer to the following resources:
 
-- [Stripe's Equity Compensation](https://stripe.com/us/blog/equity)
-- [Google's Stock Options](https://careers.google.com/benefits/)
-- [Microsoft's Employee Stock Purchase Plan](https://careers.microsoft.com/us/en/usbenefits)
+- Stripe's Equity Compensation
+- Google's Stock Options
+- Microsoft's Employee Stock Purchase Plan
 
 In conclusion, vesting is a multifaceted concept with wide-ranging implications across various sectors, from traditional [finance](../f/finance.md) to cutting-edge fintech solutions. Understanding the intricacies of vesting can help both employers and employees make informed decisions about compensation and benefits.
 

@@ -84,7 +84,6 @@ The [exchange](../e/exchange.md) operates under stringent regulatory oversight t
 
 The AEX [Index](../i/index_instrument.md) is the leading stock [market index](../m/market_index.md) for [Euronext Amsterdam](../e/euronext_amsterdam.md), comprising the 25 largest and most frequently traded companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). It serves as a [benchmark](../b/benchmark.md) for the Dutch [stock market](../s/stock_market.md) and includes blue-chip companies like Royal Dutch Shell, Unilever, and ING Group.
 
-For more information on the AEX [Index](../i/index_instrument.md) and [Euronext](../e/euronext.md), you can visit their official website: [Euronext](https://www.euronext.com/en/markets/amsterdam)
 
 ### Other Indices
 

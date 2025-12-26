@@ -72,4 +72,4 @@ Purchasing an umbrella policy involves several steps:
 
 An Umbrella Personal [Liability](../l/liability.md) Policy serves as a critical financial safety net, providing extensive [liability](../l/liability.md) coverage that goes beyond the limits of standard auto, [home](../h/home.md), or boat [insurance](../i/insurance.md). By [offering](../o/offering.md) high coverage limits and protecting against a broad [range](../r/range.md) of liabilities, it ensures that you and your assets are shielded from potentially catastrophic financial losses due to unforeseen accidents and legal claims. The affordability and extensive protection make it a valuable addition to any comprehensive personal [insurance](../i/insurance.md) portfolio.
 
-For detailed information on specific umbrella policies, you can visit the websites of major [insurance](../i/insurance.md) providers such as [Geico](https://www.geico.com), [State Farm](https://www.statefarm.com), or [Allstate](https://www.allstate.com).
+For detailed information on specific umbrella policies, you can visit the websites of major [insurance](../i/insurance.md) providers such as Geico, State Farm, or Allstate.

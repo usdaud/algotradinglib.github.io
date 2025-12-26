@@ -1,9 +1,9 @@
 # Support and Resistance
 
 ## Introduction to Support and Resistance
-Support and resistance are fundamental concepts in [technical analysis](../t/technical_analysis.md). They represent specific price levels on charts that tend to act as barriers, preventing the price of an [asset](../a/asset.md) from moving in a certain direction. 
+Support and resistance are fundamental concepts in [technical analysis](../t/technical_analysis.md). They represent specific price levels on charts that tend to act as barriers, preventing the price of an [asset](../a/asset.md) from moving in a certain direction.
 
-Support is a [price level](../p/price_level.md) where a [downtrend](../d/downtrend.md) can be expected to pause due to a concentration of [demand](../d/demand.md) or buying [interest](../i/interest.md). As the price of assets drops, [demand](../d/demand.md) increases, thus forming the support line. Conversely, resistance is a [price level](../p/price_level.md) where a [trend](../t/trend.md) can pause or reverse as a concentration of selling [interest](../i/interest.md) emerges. When the price of assets rises, selling [interest](../i/interest.md) increases, thus forming the resistance line. 
+Support is a [price level](../p/price_level.md) where a [downtrend](../d/downtrend.md) can be expected to pause due to a concentration of [demand](../d/demand.md) or buying [interest](../i/interest.md). As the price of assets drops, [demand](../d/demand.md) increases, thus forming the support line. Conversely, resistance is a [price level](../p/price_level.md) where a [trend](../t/trend.md) can pause or reverse as a concentration of selling [interest](../i/interest.md) emerges. When the price of assets rises, selling [interest](../i/interest.md) increases, thus forming the resistance line.
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md), support and resistance levels can be used to develop [trading strategies](../t/trading_strategies.md) and enhance [predictive models](../p/predictive_models_in_trading.md). Algorithmic traders [leverage](../l/leverage.md) these levels to automate buying and selling actions, creating rules-based strategies that recognize and act upon these critical price thresholds.
 
@@ -37,7 +37,7 @@ Using algorithms, trades can be automated to react instantly when the price reac
 Support and resistance levels are not just technical barriers but also psychological ones. Traders' collective behavior tends to gravitate around these levels, creating a self-fulfilling prophecy. For instance, many traders place [stop-loss orders](../s/stop-loss_orders.md) just below [support levels](../s/support_levels.md) or take-[profit](../p/profit.md) orders just above resistance levels, reinforcing these barriers.
 
 ## Pricing and Market Conditions
-Support and resistance levels can fluctuate based on various [market](../m/market.md) conditions, including macroeconomic events, [earnings](../e/earnings.md) reports, or geopolitical developments. Algorithms must account for these dynamic factors to adjust their strategies accordingly. 
+Support and resistance levels can fluctuate based on various [market](../m/market.md) conditions, including macroeconomic events, [earnings](../e/earnings.md) reports, or geopolitical developments. Algorithms must account for these dynamic factors to adjust their strategies accordingly.
 
 ### Volatility
 [Market](../m/market.md) [volatility](../v/volatility.md) can influence the strength and frequency of support and resistance levels. In highly volatile markets, these levels might be breached more often, requiring algorithms to adapt by possibly incorporating [volatility](../v/volatility.md) measures into their criteria.
@@ -51,13 +51,13 @@ Many trading platforms [offer](../o/offer.md) APIs (Application Programming Inte
 
 ## Notable Companies and Solutions
 ### Trading Technologies
-[Trading Technologies](https://www.tradingtechnologies.com/) offers advanced trading solutions that include tools for [technical analysis](../t/technical_analysis.md) and automated [trading strategies](../t/trading_strategies.md). Their platform allows for sophisticated [order types](../o/order_types_in_trading.md) and integration with various financial instruments.
+Trading Technologies offers advanced trading solutions that include tools for [technical analysis](../t/technical_analysis.md) and automated [trading strategies](../t/trading_strategies.md). Their platform allows for sophisticated [order types](../o/order_types_in_trading.md) and integration with various financial instruments.
 
 ### QuantConnect
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) programming languages and offers extensive data for analyzing support and resistance levels.
+QuantConnect is an [algorithmic trading](../a/algorithmic_trading.md) platform that provides a comprehensive environment for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). It supports [multiple](../m/multiple.md) programming languages and offers extensive data for analyzing support and resistance levels.
 
 ### Interactive Brokers
-[Interactive Brokers](https://www.interactivebrokers.com/) is a popular brokerage that provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with support for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) various tools and APIs for developing custom [trading strategies](../t/trading_strategies.md), including those based on support and resistance.
+Interactive Brokers is a popular brokerage that provides a [robust](../r/robust.md) [trading platform](../t/trading_platform.md) with support for [algorithmic trading](../a/algorithmic_trading.md). They [offer](../o/offer.md) various tools and APIs for developing custom [trading strategies](../t/trading_strategies.md), including those based on support and resistance.
 
 ## Conclusion
 Support and resistance are vital components of [technical analysis](../t/technical_analysis.md) and play a significant role in [algorithmic trading](../a/algorithmic_trading.md). By accurately identifying these levels and incorporating them into [trading algorithms](../t/trading_algorithms.md), traders can enhance their strategies and improve their overall [trading performance](../t/trading_performance.md). Understanding the nuances of these levels and utilizing advanced tools can provide a significant edge in the competitive world of trading.

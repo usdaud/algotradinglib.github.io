@@ -1,6 +1,6 @@
 # Tangible Net Worth
 
-Tangible [Net Worth](../n/net_worth.md) (TNW) is a financial measurement that evaluates a company's physical assets minus its liabilities, providing a snapshot of the company's [financial health](../f/financial_health.md) without considering intangible assets. It is a crucial metric for investors, lenders, and stakeholders to assess the solidity of a [business](../b/business.md)'s [underlying](../u/underlying.md) [financial health](../f/financial_health.md) and its ability to meet [debt](../d/debt.md) [obligations](../o/obligation.md). This comprehensive analysis aims to elucidate the concept of Tangible [Net Worth](../n/net_worth.md), its calculation, components, importance, and its role in [financial analysis](../f/financial_analysis.md) and decision-making, especially within the realms of trading, fintech, and [algorithmic trading](../a/accountability.md).
+Tangible [Net Worth](../n/net_worth.md) (TNW) is a financial measurement that evaluates a company's physical assets minus its liabilities, providing a snapshot of the company's [financial health](../f/financial_health.md) without considering intangible assets. It is a crucial metric for investors, lenders, and stakeholders to assess the solidity of a [business](../b/business.md)'s [underlying](../u/underlying.md) [financial health](../f/financial_health.md) and its ability to meet [debt](../d/debt.md) [obligations](../o/obligation.md). This comprehensive analysis aims to elucidate the concept of Tangible [Net Worth](../n/net_worth.md), its calculation, components, importance, and its role in [financial analysis](../f/financial_analysis.md) and decision-making, especially within the realms of trading, fintech, and [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Definition and Overview
 Tangible [Net Worth](../n/net_worth.md) is defined as the total [value](../v/value.md) of a company’s physical and measurable assets subtracted by its liabilities and intangible assets. Unlike [net worth](../n/net_worth.md), which includes intangible assets like [goodwill](../g/goodwill.md), patents, and intellectual property, TNW focuses solely on [tangible assets](../t/tangible_asset.md). This exclusion is significant because [tangible assets](../t/tangible_asset.md) can be more easily converted into cash, providing a clearer picture of a company's [liquidation value](../l/liquidation_value.md).
@@ -12,13 +12,13 @@ Calculating TNW involves several steps, where careful attention is given to iden
 ### Steps for Calculation:
 
 1. **Identify Total Assets:**
-   Total assets include everything a company owns, such as cash, [inventory](../i/inventory.md), buildings, equipment, and investments.
+ Total assets include everything a company owns, such as cash, [inventory](../i/inventory.md), buildings, equipment, and investments.
 
 2. **Subtract Intangible Assets:**
-   Intangible assets are non-physical assets such as [goodwill](../g/goodwill.md), intellectual property, trademarks, patents, and proprietary technologies. These are subtracted from the total assets because they do not have a physical presence that can be liquidated directly.
+ Intangible assets are non-physical assets such as [goodwill](../g/goodwill.md), intellectual property, trademarks, patents, and proprietary technologies. These are subtracted from the total assets because they do not have a physical presence that can be liquidated directly.
 
 3. **Subtract [Total Liabilities](../t/total_liabilities.md):**
-   [Total liabilities](../t/total_liabilities.md) encompass all financial [obligations](../o/obligation.md) the company must meet, including loans, accounts payable, mortgages, and other forms of [debt](../d/debt.md).
+ [Total liabilities](../t/total_liabilities.md) encompass all financial [obligations](../o/obligation.md) the company must meet, including loans, accounts payable, mortgages, and other forms of [debt](../d/debt.md).
 
 ### Example Calculation:
 Consider a company with the following [balance sheet](../b/balance_sheet.md) items:
@@ -91,7 +91,7 @@ For banks and financial institutions, TNW is closely monitored by regulators to 
 ## Tangible Net Worth in Algorithmic Trading and Fintech
 
 ### Algorithmic Trading:
-For firms specializing in [algorithmic trading](../a/accountability.md), TNW is instrumental for [risk management](../r/risk_management.md). Firms with higher TNW can better absorb potential trading losses, making them safer partners or investments.
+For firms specializing in [algorithmic trading](../a/algorithmic_trading.md), TNW is instrumental for [risk management](../r/risk_management.md). Firms with higher TNW can better absorb potential trading losses, making them safer partners or investments.
 
 ### Fintech Companies:
 Fintech firms often focus on innovative technologies, involving substantial intangible assets. Traditional TNW analysis might undervalue these firms. However, fintech companies need to maintain sufficient [tangible assets](../t/tangible_asset.md) to [gain](../g/gain.md) [investor](../i/investor.md) [trust](../t/trust.md) and meet regulatory requirements.
@@ -132,6 +132,3 @@ For companies heavily reliant on intangible assets, TNW may not reflect comprehe
 Tangible [Net Worth](../n/net_worth.md) is a fundamental measure of financial stability, focusing solely on [tangible assets](../t/tangible_asset.md) and liabilities. It provides a clear, realistic view of a company's [financial health](../f/financial_health.md), crucial for lenders, investors, and stakeholders. While it presents numerous advantages, including straightforward [credit](../c/credit.md) assessment and reliable [valuation](../v/valuation.md), the exclusion of intangible assets poses challenges, especially in sectors like technology and fintech. Companies can benefit from [strategic management](../s/strategic_management.md) practices to enhance TNW, ensuring [robust](../r/robust.md) financial foundations and sustained growth. Thus, TNW remains a central pillar in [financial analysis](../f/financial_analysis.md), critical for informed decision-making in the dynamic landscape of [business](../b/business.md) and [finance](../f/finance.md).
 
 For more detailed information on how companies report tangible [net worth](../n/net_worth.md) and [financial health](../f/financial_health.md):
-- [Amazon Investor Relations](https://www.amazon.com/ir)
-- [Tesla Investor Relations](https://ir.tesla.com)
-- [Goldman Sachs Investor Relations](https://www.goldmansachs.com/investor-relations)

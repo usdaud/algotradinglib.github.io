@@ -1,11 +1,11 @@
 # 3-Day Cycle
-  
+
 The 3-day cycle is a concept in [algorithmic trading](../a/algorithmic_trading.md) that revolves around the observation that certain markets, securities, or trading behaviors exhibit trends or patterns over a three-day period. This cycle can be used as a [basis](../b/basis.md) for developing [trading strategies](../t/trading_strategies.md) which can potentially exploit these observable patterns to make profitable trades.
-  
+
 ### Understanding the 3-Day Cycle
 
 The fundamental idea behind the 3-day cycle is that [financial markets](../f/financial_market.md), influenced by various macro and microeconomic factors, tend to move in repeating patterns that can be utilized for predictive purposes. Traders and financial analysts have noted that price movements, [volume](../v/volume.md) fluctuations, and [market sentiment](../m/market_sentiment.md) often follow a cyclical nature that repeats every three days. These cycles can be bullish, bearish, or [neutral](../n/neutral.md).
-  
+
 - **Bullish Cycle:** Over three days, the price of a [security](../s/security.md) shows a notable [uptrend](../u/uptrend.md) or increase in [value](../v/value.md).
 - **Bearish Cycle:** Over three days, the price of a [security](../s/security.md) trends downward.
 - **[Neutral](../n/neutral.md) Cycle:** The price of a [security](../s/security.md) remains mostly stable with minimal fluctuations across three days.
@@ -34,7 +34,7 @@ To implement a 3-day cycle [trading strategy](../t/trading_strategy.md), algorit
 
 #### Example 1: Momentum Strategy
 
-In a [momentum](../m/momentum.md)-based 3-day cycle strategy, an algorithm might be designed to identify securities that show a consistent [uptrend](../u/uptrend.md) or [downtrend](../d/downtrend.md) over three days. 
+In a [momentum](../m/momentum.md)-based 3-day cycle strategy, an algorithm might be designed to identify securities that show a consistent [uptrend](../u/uptrend.md) or [downtrend](../d/downtrend.md) over three days.
 
 - **Buy Signal:** If a [security](../s/security.md)'s price increases for three consecutive days, the algorithm might trigger a buy [order](../o/order.md), anticipating continued upward [momentum](../m/momentum.md).
 - **Sell Signal:** If the price decreases for three consecutive days, the algorithm might trigger a sell [order](../o/order.md), expecting further decline.
@@ -61,8 +61,8 @@ The 3-day cycle is also influenced by psychological factors and [market](../m/ma
 
 ### Case Studies and Research
 
-Research and case studies have shown mixed results when it comes to the effectiveness of 3-day cycle strategies. For example, a study conducted by the [Institute for Pure and Applied Mathematics (IPAM)](https://www.ipam.ucla.edu/) explored various [short-term trading](../s/short-term_trading.md) strategies, including those based on cycles. The study emphasized the need for comprehensive [backtesting](../b/backtesting.md) and validation before deploying such strategies in live trading environments.
+Research and case studies have shown mixed results when it comes to the effectiveness of 3-day cycle strategies. For example, a study conducted by the Institute for Pure and Applied Mathematics (IPAM) explored various [short-term trading](../s/short-term_trading.md) strategies, including those based on cycles. The study emphasized the need for comprehensive [backtesting](../b/backtesting.md) and validation before deploying such strategies in live trading environments.
 
 ### Conclusion
 
-The 3-day cycle in [algorithmic trading](../a/algorithmic_trading.md) offers a unique approach to leveraging short-term [market](../m/market.md) patterns for potential [profit](../p/profit.md). By combining [technical analysis](../t/technical_analysis.md), statistical methods, and [robust](../r/robust.md) [risk management](../r/risk_management.md), traders can develop and refine strategies that exploit these cyclical trends. However, understanding the [underlying](../u/underlying.md) [market](../m/market.md) psychology and continuously adapting to evolving [market](../m/market.md) conditions are critical to maintaining a successful 3-day cycle [trading strategy](../t/trading_strategy.md).
+The 3-day cycle in [algorithmic trading](../a/algorithmic_trading.md) offers a unique approach to leveraging short-term [market](../m/market.md) patterns for potential [profit](../p/profit.md). By combining [technical analysis](../t/technical_analysis.md), statistical methods, and [robust](../r/robust.md) [risk management](../r/risk_management.md), traders can develop and refine strategies that exploit these cyclical trends. However, understanding the [underlying](../u/underlying.md) [market](../m/market.md) psychology and continuously adapting to evolving [market](../m/market.md) conditions are critical to maintaining a successful 3-day cycle [trading strategy](../t/trading_strategy.md).

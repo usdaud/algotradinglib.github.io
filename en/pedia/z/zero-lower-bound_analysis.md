@@ -12,7 +12,7 @@ The ZLB became particularly relevant during the global [financial crisis](../f/f
 
 ### Economic Implications
 When [interest](../i/interest.md) rates are at the ZLB, several economic phenomena can occur:
-- **[Liquidity Trap](../l/liquidity_trap.md)**: Consumers and businesses hoard [money](../m/money.md) instead of spending or [investing](../i/investing.md), leading to stagnant [economic growth](../e/economic_growth.md). 
+- **[Liquidity Trap](../l/liquidity_trap.md)**: Consumers and businesses hoard [money](../m/money.md) instead of spending or [investing](../i/investing.md), leading to stagnant [economic growth](../e/economic_growth.md).
 - **Deflationary Pressures**: Prices may begin to fall if people expect further [deflation](../d/deflation.md), exacerbating the economic [stagnation](../s/stagnation.md).
 - **Reduced Efficacy of [Monetary Policy](../m/monetary_policy.md)**: Traditional [monetary policy](../m/monetary_policy.md) tools, such as adjusting [interest](../i/interest.md) rates, lose their effectiveness in stimulating the [economy](../e/economy.md).
 
@@ -69,9 +69,9 @@ Central banks play a critical role in addressing ZLB challenges through unconven
 
 ## Companies and Tools
 Several companies and financial technology tools support [algorithmic trading](../a/algorithmic_trading.md) in ZLB environments:
-- **Numerai**: Offers a platform where traders can develop and test ML-driven [trading algorithms](../t/trading_algorithms.md) (https://numer.ai/).
-- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [backtesting](../b/backtesting.md) and [trading platform](../t/trading_platform.md), supporting various algorithms and [asset](../a/asset.md) classes (https://www.[quantconnect](../q/quantconnect.md).com/).
-- **Kensho Technologies**: Delivers AI-powered analytics for [financial markets](../f/financial_market.md), aiding traders in extracting actionable insights (https://www.kensho.com/).
+- **Numerai**: Offers a platform where traders can develop and test ML-driven [trading algorithms](../t/trading_algorithms.md) (
+- **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [backtesting](../b/backtesting.md) and [trading platform](../t/trading_platform.md), supporting various algorithms and [asset](../a/asset.md) classes (
+- **Kensho Technologies**: Delivers AI-powered analytics for [financial markets](../f/financial_market.md), aiding traders in extracting actionable insights (
 
 ## Conclusion
 Understanding and adapting to the Zero-Lower-Bound condition is crucial for algorithmic traders. By diversifying portfolios, adopting [robust](../r/robust.md) [risk management](../r/risk_management.md) practices, leveraging advanced technologies like AI and ML, and studying historical examples such as Japan, traders can navigate the challenges posed by ZLB and exploit opportunities in [financial markets](../f/financial_market.md).

@@ -9,17 +9,17 @@ In systematic [sampling](../s/sampling.md), a sample is selected by taking every
 1. **Define the Population**: Identify the entire population from which you want to draw a sample.
 2. **Determine the Sample Size**: Decide on the sample size, n, which you wish to obtain.
 3. **Calculate the [Sampling](../s/sampling.md) Interval**: Determine the interval, k, by dividing the population size N by the sample size n. The formula is:
-   \[
-   k = \frac{N}{n}
-   \]
+ \[
+ k = \frac{N}{n}
+ \]
 4. **Random Start Point**: Select a random starting point from within the first interval (between 1 and k).
 5. **Select Every k-th Element**: Proceed through the list, selecting every k-th element.
 
 ### Example
 
 Suppose you have a population of 1000 individuals and you need to select a sample of 100. Your [sampling](../s/sampling.md) interval \( k \) would be:
-\[ 
-k = \frac{1000}{100} = 10 
+\[
+k = \frac{1000}{100} = 10
 \]
 You randomly select a number between 1 and 10, say 7. You then select the 7th individual, the 17th, the 27th, and so on, until you have 100 individuals.
 
@@ -85,4 +85,4 @@ This Python snippet defines a `systematic_sampling` function that takes a popula
 
 ## Conclusion
 
-Systematic [sampling](../s/sampling.md) is a powerful tool in the realm of [statistics](../s/statistics.md), [finance](../f/finance.md), and trading. Its simplicity, [efficiency](../e/efficiency.md), and effectiveness in creating representative samples make it valuable for numerous applications. When properly designed, systematic [sampling](../s/sampling.md) can improve accuracy, reduce costs, and streamline processes across different fields. Whether you are managing an investment portfolio, designing a [market research](../m/market_research.md) study, or implementing an [algorithmic trading](../a/accountability.md) strategy, understanding and utilizing systematic [sampling](../s/sampling.md) can enhance your decision-making and [operational efficiency](../o/operational_efficiency_in_trading.md).
+Systematic [sampling](../s/sampling.md) is a powerful tool in the realm of [statistics](../s/statistics.md), [finance](../f/finance.md), and trading. Its simplicity, [efficiency](../e/efficiency.md), and effectiveness in creating representative samples make it valuable for numerous applications. When properly designed, systematic [sampling](../s/sampling.md) can improve accuracy, reduce costs, and streamline processes across different fields. Whether you are managing an investment portfolio, designing a [market research](../m/market_research.md) study, or implementing an [algorithmic trading](../a/algorithmic_trading.md) strategy, understanding and utilizing systematic [sampling](../s/sampling.md) can enhance your decision-making and [operational efficiency](../o/operational_efficiency_in_trading.md).

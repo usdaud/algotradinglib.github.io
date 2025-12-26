@@ -6,6 +6,8 @@ The Mumbai Interbank Offered Rate, commonly abbreviated as MIBOR, is an [interes
 
 MIBOR is determined daily, and it represents the [weighted average](../w/weighted_average.md) of lending rates of a group of banks. Financial institutions use MIBOR as a reference point to calculate [interest](../i/interest.md) rates for various financial products such as [derivatives](../d/derivatives.md), loans, and mortgages. It is similar to international benchmarks like LIBOR (London Interbank Offered Rate) and EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate).
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## History and Development
 
 MIBOR was introduced by the National Stock [Exchange](../e/exchange.md) (NSE) in India on June 15, 1998. The initiative was a part of India's efforts to modernize its [financial system](../f/financial_system.md) and increase [transparency](../t/transparency.md) in [interest rate](../i/interest_rate.md) determination. To ensure a [robust](../r/robust.md) and reliable [benchmark](../b/benchmark.md), the NSE collaborated with the [Fixed Income](../f/fixed_income.md) [Money Market](../m/money_market.md) and [Derivatives](../d/derivatives.md) Association of India (FIMMDA).
@@ -54,7 +56,7 @@ MIBOR significantly influences the pricing of various financial products. Severa
 
 While MIBOR is an essential [benchmark](../b/benchmark.md) for the Indian [financial system](../f/financial_system.md), it is similar to other international [benchmark](../b/benchmark.md) rates:
 
-- **LIBOR (London Interbank Offered Rate)**: Used globally, particularly in dollar-denominated transactions. It has been a primary [benchmark](../b/benchmark.md) but is being phased out due to manipulation concerns.
+- **LIBOR (London Interbank Offered Rate)**: Used globally, particularly in dollar-denominated transactions. It was a primary [benchmark](../b/benchmark.md), but publication ended for most tenors after 2023.
 - **EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate)**: Focuses on the [eurozone](../e/eurozone.md) and is used for [euro](../e/euro.md)-denominated financial products.
 - **TIBOR (Tokyo Interbank Offered Rate)**: Used in Japan and reflects the rates banks in Tokyo [offer](../o/offer.md) for interbank loans.
 
@@ -82,4 +84,4 @@ The financial landscape is continuously evolving, and the future of MIBOR [will]
 
 The Mumbai Interbank Offered Rate (MIBOR) is a cornerstone of the Indian [financial system](../f/financial_system.md), serving as a critical [benchmark](../b/benchmark.md) for a [range](../r/range.md) of financial products. Despite facing challenges like [transparency](../t/transparency.md) and potential manipulation, its role in the [financial markets](../f/financial_market.md) remains significant. Continuous improvements in methodology and increased regulatory oversight are crucial to maintaining the reliability and accuracy of MIBOR. As the financial landscape evolves, MIBOR [will](../w/will.md) likely adapt, ensuring it remains relevant and effective in reflecting the cost of borrowing in India's [interbank market](../i/interbank_market.md).
 
-For more detailed information and updates on MIBOR, visit the [National Stock Exchange of India](https://www.nseindia.com) website.
+For more detailed information and updates on MIBOR,

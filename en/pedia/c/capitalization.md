@@ -1,6 +1,6 @@
 # Capitalization
 
-Capitalization refers to the financial measurement of a company or [asset](../a/asset.md)'s [market value](../m/market_value.md), often represented in terms of how much it would cost to buy ownership of the company or [asset](../a/asset.md) on the [open market](../o/open_market.md). In the context of [algorithmic trading](../a/accountability.md) (or "algotrading"), capitalization can play a critical role in decision-making processes, strategy development, and [risk management](../r/risk_management.md). 
+Capitalization refers to the financial measurement of a company or [asset](../a/asset.md)'s [market value](../m/market_value.md), often represented in terms of how much it would cost to buy ownership of the company or [asset](../a/asset.md) on the [open market](../o/open_market.md). In the context of [algorithmic trading](../a/accountability.md) (or "algotrading"), capitalization can play a critical role in decision-making processes, strategy development, and [risk management](../r/risk_management.md).
 
 ## Market Capitalization
 
@@ -50,15 +50,15 @@ In [real estate](../r/real_estate.md)-focused algotrading, the cap rate can be a
 
 ### Bloomberg
 
-[Bloomberg](../b/bloomberg.md) (https://www.[bloomberg](../b/bloomberg.md).com/) is a leading provider of financial data, including detailed reports on [market capitalization](../m/market_capitalization.md). Their platform offers tools for algotrading strategies to access real-time information on stock prices, [financial ratios](../f/financial_ratios.md), and [economic indicators](../e/economic_indicators.md).
+[Bloomberg](../b/bloomberg.md) ( is a leading provider of financial data, including detailed reports on [market capitalization](../m/market_capitalization.md). Their platform offers tools for algotrading strategies to access real-time information on stock prices, [financial ratios](../f/financial_ratios.md), and [economic indicators](../e/economic_indicators.md).
 
 ### Thomson Reuters
 
-Thomson [Reuters](../r/reuters.md) (https://www.thomsonreuters.com/) provides comprehensive data on [market capitalization](../m/market_capitalization.md) and other financial metrics. They support a variety of endpoints for data analysis, including integration with algorithm [trading systems](../t/trading_systems.md).
+Thomson [Reuters](../r/reuters.md) ( provides comprehensive data on [market capitalization](../m/market_capitalization.md) and other financial metrics. They support a variety of endpoints for data analysis, including integration with algorithm [trading systems](../t/trading_systems.md).
 
 ### S&P Global
 
-S&P Global (https://www.spglobal.com/) offers detailed analytics and data services for [market capitalization](../m/market_capitalization.md) and other financial metrics. Their products are tailored for both manual and algorithmic traders looking to incorporate capitalization data into their models.
+S&P Global ( offers detailed analytics and data services for [market capitalization](../m/market_capitalization.md) and other financial metrics. Their products are tailored for both manual and algorithmic traders looking to incorporate capitalization data into their models.
 
 ## Conclusion
 

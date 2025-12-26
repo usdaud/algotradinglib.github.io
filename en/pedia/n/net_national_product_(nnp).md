@@ -5,8 +5,8 @@ Net National Product (NNP) is a fundamental [economic indicator](../e/economic_i
 ## Definition and Concept
 
 Net National Product (NNP) can be expressed by the following formula:
-\[ 
-NNP = GNP - [Depreciation](../d/depreciation.md) 
+\[
+NNP = GNP - [Depreciation](../d/depreciation.md)
 \]
 
 Where:
@@ -41,23 +41,23 @@ Consider a nation with the following estimated financial figures for a fiscal ye
 
 Using the NNP formula:
 
-\[ 
-NNP = GNP - [Depreciation](../d/depreciation.md) 
+\[
+NNP = GNP - [Depreciation](../d/depreciation.md)
 \]
-\[ 
-NNP = \$1.2 \text{ trillion} - \$0.2 \text{ trillion} 
+\[
+NNP = \$1.2 \text{ trillion} - \$0.2 \text{ trillion}
 \]
-\[ 
-NNP = \$1.0 \text{ trillion} 
+\[
+NNP = \$1.0 \text{ trillion}
 \]
 
 Thus, the nation’s NNP would be $1.0 trillion, representing the net production [value](../v/value.md) while sustaining the future productive capacity by [accounting](../a/accounting.md) for [asset](../a/asset.md) [depreciation](../d/depreciation.md).
 
 ## Real-World Applications and Data Sources
 
-1. **[World Bank](../w/world_bank.md) NNP Data**: The [World Bank](../w/world_bank.md) provides extensive data on NNP for most countries, presenting an analytical perspective on nations' economic health and sustainability (www.worldbank.org).
+1. **[World Bank](../w/world_bank.md) NNP Data**: The [World Bank](../w/world_bank.md) provides extensive data on NNP for most countries, presenting an analytical perspective on nations' economic health and sustainability (
 
-2. **OECD Economic Outlook**: The Organisation for Economic Co-operation and Development (OECD) regularly publishes economic outlooks that include NNP data and analyses beneficial for benchmarking and comparison (www.oecd.org).
+2. **OECD Economic Outlook**: The Organisation for Economic Co-operation and Development (OECD) regularly publishes economic outlooks that include NNP data and analyses beneficial for benchmarking and comparison (
 
 3. **Economic Research Institutions**: Kaplan et al. and other economists often utilize NNP to evaluate the effectiveness of economic policies and long-term sustainability in research papers and policy analyses.
 

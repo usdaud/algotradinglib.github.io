@@ -4,7 +4,7 @@
 
 ## Overview
 
-[Quality Control](../q/quality_control.md) Charts are utilized to determine whether a [manufacturing](../m/manufacturing.md) or [business](../b/business.md) process is in a state of statistical control. These charts track data over time and visualize deviations from the norm, which helps in identifying whether the deviations are caused by random variations (common causes) or identifiable factors (special causes). 
+[Quality Control](../q/quality_control.md) Charts are utilized to determine whether a [manufacturing](../m/manufacturing.md) or [business](../b/business.md) process is in a state of statistical control. These charts track data over time and visualize deviations from the norm, which helps in identifying whether the deviations are caused by random variations (common causes) or identifiable factors (special causes).
 
 There are various types of control charts, and the choice of chart depends on the type of data being analyzed and the specific quality characteristics being monitored. The two main categories of data are:
 
@@ -72,26 +72,26 @@ Similar to the X-Bar and R-Chart, the X-Bar and S-Chart use the [standard deviat
 
 ### Selecting the Appropriate Chart
 
-The first step in creating a control chart is selecting the appropriate chart type based on the nature of the data and the quality attribute being measured. 
+The first step in creating a control chart is selecting the appropriate chart type based on the nature of the data and the quality attribute being measured.
 
 1. **Attribute Data:**
-   - Use a P-Chart or NP-Chart for categorical data where items are classified as defective or non-defective.
-   - Use a C-Chart or U-Chart for count data, where defects are counted per item or per unit of measure.
+ - Use a P-Chart or NP-Chart for categorical data where items are classified as defective or non-defective.
+ - Use a C-Chart or U-Chart for count data, where defects are counted per item or per unit of measure.
 
 2. **Variable Data:**
-   - Use an X-Bar and R-Chart or X-Bar and S-Chart when monitoring continuous data like time, length, weight, etc.
+ - Use an X-Bar and R-Chart or X-Bar and S-Chart when monitoring continuous data like time, length, weight, etc.
 
 ### Data Collection and Sampling
 
-Data collection is vital for accurately assessing the process behavior. Ensure that the samples are randomly chosen, and the sample size is consistent with the chart type requirements. 
+Data collection is vital for accurately assessing the process behavior. Ensure that the samples are randomly chosen, and the sample size is consistent with the chart type requirements.
 
 ### Creating the Chart
 
 1. **Calculate the Center Line (CL):** Determine the average [value](../v/value.md) for the statistic being monitored.
 2. **Determine the Control Limits:**
-   - **Upper Control Limit (UCL):** CL + (k * [Standard Error](../s/standard_error.md))
-   - **Lower Control Limit (LCL):** CL - (k * [Standard Error](../s/standard_error.md))
-   - The constant 'k' is typically 3 for three standard deviations.
+ - **Upper Control Limit (UCL):** CL + (k * [Standard Error](../s/standard_error.md))
+ - **Lower Control Limit (LCL):** CL - (k * [Standard Error](../s/standard_error.md))
+ - The constant 'k' is typically 3 for three standard deviations.
 
 3. **Plot the Data:** Plot the actual data points over time.
 4. **Interpret the Chart:** Analyze the chart to identify any points beyond the control limits or patterns that suggest a special cause variation.
@@ -150,7 +150,7 @@ Numerous [software tools](../s/software_tools_for_trading.md) facilitate the cre
 
 [Quality Control](../q/quality_control.md) Charts are indispensable in monitoring and improving processes across diverse industries. By providing a visual tool to distinguish between common and special causes of variation, control charts help maintain process stability and ensure higher quality outputs. As businesses strive for continual improvement and operational excellence, these charts form a crucial part of their [quality management](../q/quality_management.md) toolkit.
 
-For further details, visit [Minitab](https://www.minitab.com), [JMP](https://www.jmp.com), and [SPC for Excel](https://www.spcforexcel.com).
+For further details, visit Minitab, JMP, and SPC for Excel.
 
 ---
 

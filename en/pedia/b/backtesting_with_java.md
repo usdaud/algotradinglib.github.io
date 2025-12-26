@@ -22,10 +22,10 @@ Java is a [robust](../r/robust.md), high-performance, and widely-used programmin
 
 ### Key Libraries and Tools for Backtesting in Java
 
-1. **Apache Commons Math**: A library providing [machine learning](../m/machine_learning.md) and statistical analysis tools. (Website: [Apache Commons Math](http://commons.apache.org/proper/commons-math/))
-2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations. (Website: [JFreeChart](http://www.jfree.org/jfreechart/))
-3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a [wide variety](../w/wide_variety.md) of [technical analysis](../t/technical_analysis.md) functions. (Website: [TA-Lib](http://ta-lib.org/))
-4. **[Market](../m/market.md) Data Providers**: Various APIs like [Alpha](../a/alpha.md) Vantage and [Quandl](../q/quandl.md) provide historical [market](../m/market.md) data. (Website: [Alpha Vantage](https://www.alphavantage.co/), [Quandl](https://www.quandl.com/))
+1. **Apache Commons Math**: A library providing [machine learning](../m/machine_learning.md) and statistical analysis tools.
+2. **JFreeChart**: A free Java chart library that makes it easy to display charts and data visualizations.
+3. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library for Java providing a [wide variety](../w/wide_variety.md) of [technical analysis](../t/technical_analysis.md) functions.
+4. **[Market](../m/market.md) Data Providers**: Various APIs like [Alpha](../a/alpha.md) Vantage and [Quandl](../q/quandl.md) provide historical [market](../m/market.md) data.
 
 ### Implementing a Backtesting Framework in Java
 
@@ -39,7 +39,7 @@ A straightforward [backtesting](../b/backtesting.md) framework involves the foll
 
 #### Step 1: Setting Up the Environment
 
-To get started with Java, you need the Java Development Kit (JDK). Install the JDK from [Oracle's website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). Additionally, setup an IDE like IntelliJ IDEA or Eclipse to write and manage your Java code efficiently.
+To get started with Java, you need the Java Development Kit (JDK). Install the JDK from Oracle. Additionally, setup an IDE like IntelliJ IDEA or Eclipse to write and manage your Java code efficiently.
 
 ```java
 [import](../i/import.md) java.io.*;
@@ -192,8 +192,8 @@ After running the backtest, analyze the results using various [performance metri
 
 ### Further Reading and Resources
 
-- [Introduction to Apache Commons Math](http://commons.apache.org/proper/commons-math/)
-- [JFreeChart Documentation](http://www.jfree.org/jfreechart/)
-- [TA-Lib Technical Analysis Library](http://ta-lib.org/)
-- [Alpha Vantage](https://www.alphavantage.co/)
-- [Quandl](https://www.quandl.com/)
+- Introduction to Apache Commons Math
+- JFreeChart Documentation
+- TA-Lib Technical Analysis Library
+- Alpha Vantage
+- Quandl

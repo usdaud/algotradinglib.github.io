@@ -47,17 +47,17 @@ These funds invest in short-term, high-quality investments issued by government 
 ### Vanguard 500 Index Fund (VFINX)
 Vanguard’s VFINX is a classic example of an unleveraged [equity fund](../e/equity_fund.md) that tracks the performance of the S&P 500 [Index](../i/index_instrument.md). By [investing](../i/investing.md) in a wide [range](../r/range.md) of large-cap American companies, it provides diversified exposure without leveraging.
 
-**Link:** [Vanguard 500 Index Fund](https://investor.vanguard.com/mutual-funds/profile/VFINX)
+**Link:** Vanguard 500 Index Fund
 
 ### PIMCO Total Return Fund (PTTAX)
 PIMCO [Total Return](../t/total_return.md) [Fund](../f/fund.md) focuses on intermediate-term bonds and aims to provide consistent returns while minimizing [risk](../r/risk.md), making it a model unleveraged fixed-[income fund](../i/income_fund.md).
 
-**Link:** [PIMCO Total Return Fund](https://www.pimco.com/en-us/investments/mutual-funds/total-return-fund/pttax)
+**Link:** PIMCO Total Return Fund
 
 ### Fidelity U.S. Bond Index Fund (FXNAX)
 This [fund](../f/fund.md) invests in a diversified portfolio of U.S. investment-grade bonds, focusing on providing steady returns without employing [leverage](../l/leverage.md).
 
-**Link:** [Fidelity U.S. Bond Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/316146356)
+**Link:** Fidelity U.S. Bond Index Fund
 
 ## Investment Strategies for Unleveraged Funds
 

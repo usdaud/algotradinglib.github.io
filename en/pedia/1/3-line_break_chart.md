@@ -19,7 +19,7 @@ For a concrete understanding, consider a stock with the following closing prices
 2. From 32 to 33 and 33 to 34: Continuation upward lines are added.
 3. From 34 to 32: The price falls but this doesn’t break the three prior highs, so no line [reversal](../r/reversal.md).
 4. From 32 to 31 and then 31 to 29: No [reversal](../r/reversal.md) lines since the downward move does not break three previous upward lines.
-5. From 29 to 30: This rise is ignored as it doesn’t break three previous down lines (34, 32, 31). 
+5. From 29 to 30: This rise is ignored as it doesn’t break three previous down lines (34, 32, 31).
 6. From 30 to 28 and then to 27: A downward line breaks the prior three upward lines, initiating a new [trend](../t/trend.md) direction.
 
 #### Advantages of 3-Line Break Charts
@@ -45,10 +45,10 @@ Algo trading involves using algorithms to make trading decisions based on predef
 
 Several trading platforms and software support 3-line break charts, integrating them seamlessly into their systems:
 
-1. **MetaTrader**: This well-known [trading platform](../t/trading_platform.md) supports 3-line break charts and allows traders to set custom timeframes for their analysis (https://www.[metatrader4](../m/metatrader4.md).com/).
-2. **[TradingView](../t/tradingview.md)**: Widely used for its comprehensive charting tools and community-driven insights, [TradingView](../t/tradingview.md) offers 3-line break charts (https://www.[tradingview](../t/tradingview.md).com/).
-3. **[NinjaTrader](../n/ninjatrader.md)**: This platform also offers a variety of charting [options](../o/options.md), including 3-line break charts, which are essential for many algo traders (https://[ninjatrader](../n/ninjatrader.md).com/).
+1. **MetaTrader**: This well-known [trading platform](../t/trading_platform.md) supports 3-line break charts and allows traders to set custom timeframes for their analysis (
+2. **[TradingView](../t/tradingview.md)**: Widely used for its comprehensive charting tools and community-driven insights, [TradingView](../t/tradingview.md) offers 3-line break charts (
+3. **[NinjaTrader](../n/ninjatrader.md)**: This platform also offers a variety of charting [options](../o/options.md), including 3-line break charts, which are essential for many algo traders (
 
 #### Conclusion
 
-3-line break charts are an essential tool in the arsenal of traders, especially those engaged in algo trading, due to their ability to simplify [trend analysis](../t/trend_analysis.md) and reduce [market](../m/market.md) [noise](../n/noise.md). By focusing on significant price actions and automating [trend](../t/trend.md) detection, these charts assist in making more informed trading decisions. The strengths and integration capabilities of 3-line break charts make them a suitable choice for traders aiming for clarity and precision in their [trading strategies](../t/trading_strategies.md).
+3-line break charts are an essential tool in the arsenal of traders, especially those engaged in algo trading, due to their ability to simplify [trend analysis](../t/trend_analysis.md) and reduce [market](../m/market.md) [noise](../n/noise.md). By focusing on significant price actions and automating [trend](../t/trend.md) detection, these charts assist in making more informed trading decisions. The strengths and integration capabilities of 3-line break charts make them a suitable choice for traders aiming for clarity and precision in their [trading strategies](../t/trading_strategies.md).

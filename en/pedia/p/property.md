@@ -16,7 +16,7 @@ Property can be categorized into several major types, each with distinct charact
 - **Industrial [Real Estate](../r/real_estate.md):** Warehouses, factories, [distribution](../d/distribution.md) centers.
 - **Agricultural [Real Estate](../r/real_estate.md):** Farmland, orchards, ranches.
 
-[Real estate](../r/real_estate.md) investments can be direct (purchasing physical property) or indirect ([investing](../i/investing.md) in [real estate](../r/real_estate.md) investment trusts, or REITs). 
+[Real estate](../r/real_estate.md) investments can be direct (purchasing physical property) or indirect ([investing](../i/investing.md) in [real estate](../r/real_estate.md) investment trusts, or REITs).
 
 ### Personal Property
 
@@ -51,7 +51,7 @@ Understanding the various types of property is essential for making strategic fi
 
 ### Financial Instruments and Market Strategies
 
-Financial instruments are the backbone of [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md). [Stocks](../s/stock.md), bonds, and [derivatives](../d/derivatives.md) provide avenues for [capital](../c/capital.md) growth, [income](../i/income.md) generation, and [risk management](../r/risk_management.md). Sophisticated [trading strategies](../t/trading_strategies.md), such as [algorithmic trading](../a/accountability.md), often rely on [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) to execute trades at optimal times and prices.
+Financial instruments are the backbone of [trading strategies](../t/trading_strategies.md) in [financial markets](../f/financial_market.md). [Stocks](../s/stock.md), bonds, and [derivatives](../d/derivatives.md) provide avenues for [capital](../c/capital.md) growth, [income](../i/income.md) generation, and [risk management](../r/risk_management.md). Sophisticated [trading strategies](../t/trading_strategies.md), such as [algorithmic trading](../a/algorithmic_trading.md), often rely on [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md) to execute trades at optimal times and prices.
 
 ### The Role of Intellectual Property
 
@@ -63,7 +63,7 @@ Each type of property comes with its own set of risks and legal considerations. 
 
 ## Algotrading and Fintech Innovations
 
-[Algorithmic trading](../a/accountability.md) (algotrading) has revolutionized the trading landscape, leveraging technology to execute trades based on predefined criteria. Fintech innovations are transforming how property is managed, traded, and valued.
+[Algorithmic trading](../a/algorithmic_trading.md) (algotrading) has revolutionized the trading landscape, leveraging technology to execute trades based on predefined criteria. Fintech innovations are transforming how property is managed, traded, and valued.
 
 ### Algorithmic Trading
 
@@ -74,8 +74,8 @@ Algotrading utilizes computer algorithms to automate trading processes, reducing
 Fintech companies are developing platforms that streamline [property management](../p/property_management.md) and investment. For example, online marketplaces and [crowdfunding](../c/crowdfunding.md) platforms enable investors to access [real estate](../r/real_estate.md) opportunities with lower entry barriers. [Blockchain](../b/blockchain_in_trading.md) technology is also being explored for secure and transparent property transactions.
 
 #### Notable Fintech Companies:
-- [Roofstock](https://www.roofstock.com): An online marketplace for buying and selling rental properties.
-- [Fundrise](https://www.fundrise.com): A [real estate](../r/real_estate.md) [crowdfunding](../c/crowdfunding.md) platform [offering](../o/offering.md) access to diversified [real estate](../r/real_estate.md) investments.
+- Roofstock: An online marketplace for buying and selling rental properties.
+- Fundrise: A [real estate](../r/real_estate.md) [crowdfunding](../c/crowdfunding.md) platform [offering](../o/offering.md) access to diversified [real estate](../r/real_estate.md) investments.
 
 ## Conclusion
 

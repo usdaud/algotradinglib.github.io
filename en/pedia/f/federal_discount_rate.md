@@ -68,7 +68,7 @@ During financial crises, the Federal Reserve can lower the [discount rate](../d/
 In response to the COVID-19 pandemic, the Federal Reserve significantly lowered the [discount rate](../d/discount_rate.md) to support the [economy](../e/economy.md). This measure was part of a broader set of policies aimed at providing [liquidity](../l/liquidity.md) and fostering [economic recovery](../e/economic_recovery.md).
 
 ### Current Rate
-As of the latest update, the Federal [Discount Rate](../d/discount_rate.md) is subject to periodic review and adjustment based on prevailing [economic conditions](../e/economic_conditions.md). For current rates, you can visit the [Federal Reserve's official website](https://www.federalreserve.gov).
+As of the latest update, the Federal [Discount Rate](../d/discount_rate.md) is subject to periodic review and adjustment based on prevailing [economic conditions](../e/economic_conditions.md). For current rates,
 
 ### Future Direction
 The future direction of the [discount rate](../d/discount_rate.md) [will](../w/will.md) depend on [multiple](../m/multiple.md) factors, including [inflation](../i/inflation.md) trends, employment rates, and broader [economic conditions](../e/economic_conditions.md) both domestically and globally. The Federal Reserve closely monitors these indicators to make informed decisions.
@@ -76,11 +76,11 @@ The future direction of the [discount rate](../d/discount_rate.md) [will](../w/w
 ## Conclusion
 The Federal [Discount Rate](../d/discount_rate.md) is a fundamental aspect of U.S. [monetary policy](../m/monetary_policy.md) with profound implications for the [economy](../e/economy.md). By understanding its mechanisms, historical context, and impact, stakeholders can better interpret the Federal Reserve's actions and their potential effects on [financial markets](../f/financial_market.md) and the broader [economy](../e/economy.md).
 
-For a deeper dive into the current Federal [Discount Rate](../d/discount_rate.md) and related policies, you can explore more detailed reports and data available on the [Federal Reserve's official website](https://www.federalreserve.gov).
+For a deeper dive into the current Federal [Discount Rate](../d/discount_rate.md) and related policies, you can
 
 ##### References:
-- [Federal Reserve](https://www.federalreserve.gov)
-- [Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/aboutthefed/bios/board/default.htm)
+- Federal Reserve
+- Board of Governors of the Federal Reserve System
 
 ---
 

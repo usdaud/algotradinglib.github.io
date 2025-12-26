@@ -5,7 +5,7 @@
 ## Types of Business Insurance
 
 ### 1. General Liability Insurance
-This type of [insurance](../i/insurance.md) protects businesses against claims of bodily injury, property damage, and personal injury (slander or libel). It covers the legal costs and any settlements or judgments if the [business](../b/business.md) is sued. 
+This type of [insurance](../i/insurance.md) protects businesses against claims of bodily injury, property damage, and personal injury (slander or libel). It covers the legal costs and any settlements or judgments if the [business](../b/business.md) is sued.
 
 ### 2. Property Insurance
 [Property insurance](../p/property_insurance.md) covers the company's physical assets, including buildings, equipment, [inventory](../i/inventory.md), and furniture, against risks like fire, theft, and natural disasters. There are two types of [property insurance](../p/property_insurance.md):
@@ -59,31 +59,24 @@ Several major companies [offer](../o/offer.md) [business](../b/business.md) [ins
 
 ### 1. Travelers Insurance
 Travelers offers a comprehensive suite of [business](../b/business.md) [insurance](../i/insurance.md) products, including property, [liability](../l/liability.md), [workers' compensation](../w/workers'_compensation.md), and cyber [insurance](../i/insurance.md). They provide customized solutions to meet the specific needs of various industries.
-[Travelers](https://www.travelers.com/)
 
 ### 2. Chubb
 Chubb is known for its extensive [range](../r/range.md) of commercial [insurance](../i/insurance.md) products, including property, casualty, professional [liability](../l/liability.md), and cyber [insurance](../i/insurance.md). They focus on providing tailored coverage for businesses of all sizes.
-[Chubb](https://www.chubb.com/)
 
 ### 3. The Hartford
 The Hartford offers a variety of [business](../b/business.md) [insurance](../i/insurance.md) policies, including general [liability](../l/liability.md), property, [workers' compensation](../w/workers'_compensation.md), and professional [liability insurance](../l/liability_insurance.md). They cater to small businesses, mid-sized enterprises, and large corporations.
-[The Hartford](https://www.thehartford.com/)
 
 ### 4. Liberty Mutual
 Liberty Mutual provides a wide [range](../r/range.md) of [business](../b/business.md) [insurance](../i/insurance.md) solutions, from general [liability](../l/liability.md) and [property insurance](../p/property_insurance.md) to specialized coverages like marine and aviation [insurance](../i/insurance.md). They emphasize [risk management](../r/risk_management.md) and loss prevention.
-[Liberty Mutual](https://business.libertymutual.com/)
 
 ### 5. AIG
 AIG offers diverse commercial [insurance](../i/insurance.md) products, including casualty, property, cyber, and D&O [insurance](../i/insurance.md). They provide global coverage and customized solutions for complex risks faced by multinational corporations.
-[AIG](https://www.aig.com/business)
 
 ### 6. Hiscox
 Hiscox specializes in providing tailored [insurance](../i/insurance.md) solutions for small businesses. Their product offerings include general [liability](../l/liability.md), professional [liability](../l/liability.md), and cyber [insurance](../i/insurance.md).
-[Hiscox](https://www.hiscox.com/)
 
 ### 7. Zurich Insurance Group
 Zurich provides a broad [range](../r/range.md) of [business](../b/business.md) [insurance](../i/insurance.md) [options](../o/options.md), including property, casualty, and specialty [insurance](../i/insurance.md) products. They focus on providing global [insurance](../i/insurance.md) solutions and [risk management](../r/risk_management.md) services.
-[Zurich](https://www.zurichna.com/)
 
 ## Conclusion
 

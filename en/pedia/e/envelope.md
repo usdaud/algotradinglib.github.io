@@ -5,31 +5,31 @@ An envelope, in the context of trading and [technical analysis](../t/technical_a
 ## Components of an Envelope
 
 1. **Moving Average**: The central line or base around which the envelope is plotted. It can be a simple moving average (SMA) or an exponential moving average (EMA). The selection of the type and period of the moving average depends on the [trader](../t/trader.md)'s strategy and the [volatility](../v/volatility.md) of the [security](../s/security.md) being traded.
-   
+
 2. **Envelope Bands**: These are the lines that are plotted at a certain percentage above and below the moving average. They create a “channel” or “envelope” around the price. The percentage can be adjusted according to the [trader](../t/trader.md)'s preference for capturing the normal price movement.
 
 ## Calculation of Envelope
 
 1. Compute the moving average:
-   If SMA is used, the formula is:
-   \[
-   SMA = \frac{\sum{Price_i}}{n}
-   \]
-   where \( n \) is the number of periods and \( Price_i \) is the price at period \( i \).
+ If SMA is used, the formula is:
+ \[
+ SMA = \frac{\sum{Price_i}}{n}
+ \]
+ where \( n \) is the number of periods and \( Price_i \) is the price at period \( i \).
 
-   If EMA is used, the formula is a bit more complex:
-   \[
-   EMA_t = Price_t \times K + EMA_{t-1} \times (1-K)
-   \]
-   where \( K = \frac{2}{n+1} \).
+ If EMA is used, the formula is a bit more complex:
+ \[
+ EMA_t = Price_t \times K + EMA_{t-1} \times (1-K)
+ \]
+ where \( K = \frac{2}{n+1} \).
 
 2. Calculate the upper and lower bands:
-   \[
-   Upper Band = SMA \times (1 + \%\text{Envelope})
-   \]
-   \[
-   Lower Band = SMA \times (1 - \%\text{Envelope})
-   \]
+ \[
+ Upper Band = SMA \times (1 + \%\text{Envelope})
+ \]
+ \[
+ Lower Band = SMA \times (1 - \%\text{Envelope})
+ \]
 
 ## Usage of Envelopes in Trading
 
@@ -55,7 +55,7 @@ For a stock like Apple Inc. (AAPL), a [trader](../t/trader.md) might use an EMA 
 
 Visualization of envelopes on a chart is pretty straightforward. Most charting tools like [TradingView](../t/tradingview.md), MetaTrader, and others provide built-in functionalities to plot envelopes. Here’s a step-by-step guide to plot and interpret envelopes on [TradingView](../t/tradingview.md):
 
-1. [Open](../o/open.md) the [TradingView](../t/tradingview.md) platform: [TradingView](https://www.tradingview.com/).
+1. [Open](../o/open.md) the [TradingView](../t/tradingview.md) platform: TradingView.
 2. Select a [security](../s/security.md) (e.g., Apple Inc. - AAPL).
 3. Choose the desired chart time frame (e.g., daily, weekly).
 4. Go to the "Indicators" section and search for "Envelope".

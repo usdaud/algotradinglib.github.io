@@ -15,7 +15,7 @@ An [index](../i/index_instrument.md) is a statistical measure of the changes in 
 Both [index](../i/index_instrument.md) funds and ETFs are designed to track an [index](../i/index_instrument.md), but there are differences in how they are traded and managed:
 
 - **[Index](../i/index_instrument.md) Funds:** These are mutual funds that can be purchased directly from investment companies. They are bought and sold at the end-of-day Net [Asset](../a/asset.md) [Value](../v/value.md) (NAV).
-  
+
 - **ETFs:** These are traded on stock exchanges, just like individual [stocks](../s/stock.md). Investors can buy and sell them throughout the trading day at [market](../m/market.md) prices, which may fluctuate above or below the NAV.
 
 ## Advantages of Index Investing
@@ -54,19 +54,19 @@ While [diversification](../d/diversification.md) reduces the [risk](../r/risk.md
 
 ### Vanguard 500 Index Fund (VFIAX)
 
-The Vanguard 500 [Index Fund](../i/index_fund.md) replicates the performance of the S&P 500 [Index](../i/index_instrument.md), providing exposure to 500 of the largest companies in the U.S. [Vanguard 500 Index Fund](https://investor.vanguard.com/mutual-funds/profile/VFIAX)
+The Vanguard 500 [Index Fund](../i/index_fund.md) replicates the performance of the S&P 500 [Index](../i/index_instrument.md), providing exposure to 500 of the largest companies in the U.S. Vanguard 500 Index Fund
 
 ### SPDR S&P 500 ETF Trust (SPY)
 
-This ETF aims to provide investment results that generally correspond to the performance of the S&P 500 [Index](../i/index_instrument.md). [SPDR S&P 500 ETF Trust](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy)
+This ETF aims to provide investment results that generally correspond to the performance of the S&P 500 [Index](../i/index_instrument.md). SPDR S&P 500 ETF Trust
 
 ### iShares Russell 2000 ETF (IWM)
 
-The [iShares](../i/ishares.md) Russell 2000 ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of small-[capitalization](../c/capitalization.md) U.S. equities. [iShares Russell 2000 ETF](https://www.ishares.com/us/products/239710/ishares-russell-2000-etf)
+The [iShares](../i/ishares.md) Russell 2000 ETF seeks to track the investment results of an [index](../i/index_instrument.md) composed of small-[capitalization](../c/capitalization.md) U.S. equities. iShares Russell 2000 ETF
 
 ### Fidelity ZERO Total Market Index Fund (FZROX)
 
-This [fund](../f/fund.md) seeks to provide investment results that correspond to the [total return](../t/total_return.md) of a broad [range](../r/range.md) of publicly traded companies in the U.S. [stock market](../s/stock_market.md). [Fidelity ZERO Total Market Index Fund](https://www.fidelity.com/mutual-funds/fidelity-funds/overview)
+This [fund](../f/fund.md) seeks to provide investment results that correspond to the [total return](../t/total_return.md) of a broad [range](../r/range.md) of publicly traded companies in the U.S. [stock market](../s/stock_market.md). Fidelity ZERO Total Market Index Fund
 
 ## Historical Performance
 

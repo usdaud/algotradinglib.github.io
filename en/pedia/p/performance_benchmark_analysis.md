@@ -58,7 +58,7 @@ Several tools and platforms are available to facilitate performance [benchmark](
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that supports performance [benchmark](../b/benchmark.md) analysis. It offers extensive [backtesting](../b/backtesting.md) capabilities and allows users to compare [trading strategy](../t/trading_strategy.md) results against various benchmarks.
+QuantConnect is a popular [algorithmic trading](../a/algorithmic_trading.md) platform that supports performance [benchmark](../b/benchmark.md) analysis. It offers extensive [backtesting](../b/backtesting.md) capabilities and allows users to compare [trading strategy](../t/trading_strategy.md) results against various benchmarks.
 
 ### Quantopian (Discontinued)
 
@@ -66,11 +66,11 @@ Quantopian was another platform that provided tools for algorithm development an
 
 ### MetaTrader
 
-[MetaTrader](https://www.metatrader4.com/) is widely used for forex and other [trading strategies](../t/trading_strategies.md), [offering](../o/offering.md) built-in tools for performance analysis and benchmarking.
+MetaTrader is widely used for forex and other [trading strategies](../t/trading_strategies.md), [offering](../o/offering.md) built-in tools for performance analysis and benchmarking.
 
 ### Pyfolio
 
-[Pyfolio](https://github.com/quantopian/pyfolio) is a Python library for portfolio and [risk](../r/risk.md) analytics, developed by Quantopian. It includes various functions to analyze and visualize the performance of [trading algorithms](../t/trading_algorithms.md).
+Pyfolio is a Python library for portfolio and [risk](../r/risk.md) analytics, developed by Quantopian. It includes various functions to analyze and visualize the performance of [trading algorithms](../t/trading_algorithms.md).
 
 ### R and Financial Packages
 

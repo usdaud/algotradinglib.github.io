@@ -1,6 +1,6 @@
 # Brown Bag Meeting
 
-A Brown Bag Meeting is an informal meeting that typically takes place around lunchtime, where attendees usually bring their own lunches—hence the "brown bag" term, deriving from the ubiquitous brown paper bags often used to carry meals. These meetings are designed to [offer](../o/offer.md) a relaxed and convenient environment for discussing various topics, sharing knowledge, or conducting training sessions without disrupting the typical work schedule. 
+A Brown Bag Meeting is an informal meeting that typically takes place around lunchtime, where attendees usually bring their own lunches—hence the "brown bag" term, deriving from the ubiquitous brown paper bags often used to carry meals. These meetings are designed to [offer](../o/offer.md) a relaxed and convenient environment for discussing various topics, sharing knowledge, or conducting training sessions without disrupting the typical work schedule.
 
 ## Origin and Concept
 
@@ -38,7 +38,7 @@ While Brown Bag Meetings are informal, some level of planning ensures they are e
 
 - **Topic and Objective**: Clearly identify what the meeting [will](../w/will.md) cover and what it aims to achieve.
 - **Target Audience**: Determine who should attend the meeting based on the topic.
-- **Speakers**: Decide who [will](../w/will.md) present or facilitate the meeting. 
+- **Speakers**: Decide who [will](../w/will.md) present or facilitate the meeting.
 
 ### Scheduling
 

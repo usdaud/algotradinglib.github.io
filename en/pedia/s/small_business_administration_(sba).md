@@ -83,7 +83,7 @@ VBOCs provide [business](../b/business.md) development services such as [busines
 The SBA also provides a variety of other resources and supports to help small businesses thrive:
 
 ### Online Resources
-The SBA’s website offers an extensive repository of resources for small businesses including tools, templates, and guides for [business](../b/business.md) planning, [market research](../m/market_research.md), financial projections, and more:
+The SBA’s online platform offers an extensive repository of resources for small businesses including tools, templates, and guides for [business](../b/business.md) planning, [market research](../m/market_research.md), financial projections, and more:
 - [Business](../b/business.md) guides and tutorials
 - [Loan](../l/loan.md) program information
 - Contracting resources
@@ -116,4 +116,4 @@ The SBA plays a crucial role in the economic landscape by fostering the growth a
 ## Conclusion
 The SBA is an indispensable resource for small [business](../b/business.md) owners and entrepreneurs in the United States. Through its extensive array of [loan](../l/loan.md) programs, contracting opportunities, counseling services, and other resources, the SBA helps foster [economic growth](../e/economic_growth.md) and innovation. Its commitment to providing support and advocating for small businesses ensures they have the tools and opportunities needed to succeed in a competitive marketplace.
 
-For more detailed information about SBA programs and resources, you can visit the official [SBA website](https://www.sba.gov/).
+For more detailed information about SBA programs and resources,

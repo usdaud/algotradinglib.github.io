@@ -7,12 +7,12 @@
 ## Understanding Short Selling
 
 To grasp the concept of [short interest](../s/short_interest.md) ratios, it's critical first to understand [short selling](../s/short_selling.md):
- 
+
 1. **[Short Selling](../s/short_selling.md):** [Short selling](../s/short_selling.md) involves borrowing [shares](../s/shares.md) of a stock and selling them on the [open market](../o/open_market.md) with the intention of buying them back later at a lower price. The primary motive behind [short selling](../s/short_selling.md) is to [profit](../p/profit.md) from a decrease in the stock's price.
 
-2. **Covering:** This is the act of buying back the borrowed [shares](../s/shares.md) to [return](../r/return.md) them to the [lender](../l/lender.md). 
+2. **Covering:** This is the act of buying back the borrowed [shares](../s/shares.md) to [return](../r/return.md) them to the [lender](../l/lender.md).
 
-3. **[Short Interest](../s/short_interest.md):** The total number of [shares](../s/shares.md) that have been sold short but not yet covered. 
+3. **[Short Interest](../s/short_interest.md):** The total number of [shares](../s/shares.md) that have been sold short but not yet covered.
 
 By examining the [short interest](../s/short_interest.md) of a stock, investors can get a clearer picture of how much of the stock is being bet against.
 
@@ -39,10 +39,10 @@ This ratio indicates how many days it would take, under average trading [volume]
 
 ### High SIR
 
-A high [Short Interest Ratio](../s/short_interest_ratio.md) can indicate that a large number of investors are bearish on the stock, expecting its price to fall. However, it can also signify potential for a "[short squeeze](../s/short_squeeze.md)." 
+A high [Short Interest Ratio](../s/short_interest_ratio.md) can indicate that a large number of investors are bearish on the stock, expecting its price to fall. However, it can also signify potential for a "[short squeeze](../s/short_squeeze.md)."
 
 1. **Bearish Sentiment:** A high SIR indicates strong bearish sentiment. If a company has a [short interest ratio](../s/short_interest_ratio.md) of 10 days or more, this often means that the [market](../m/market.md) has serious concerns about the company's future.
-   
+
 2. **[Short Squeeze](../s/short_squeeze.md):** This occurs when a heavily shorted stock's price starts to rise, causing short sellers to cover their positions to limit losses, thus pushing the stock price even higher. A high SIR increases the likelihood of a [short squeeze](../s/short_squeeze.md).
 
 ### Low SIR
@@ -69,9 +69,9 @@ Institutional investors often use [short interest](../s/short_interest.md) data 
 
 Several companies specialize in providing detailed [short interest](../s/short_interest.md) data:
 
-1. **[FINRA](../f/finra.md) (Financial [Industry](../i/industry.md) Regulatory Authority):** They publish [short interest](../s/short_interest.md) reports for over 4,000 [Nasdaq](../n/nasdaq.md) and NYSE [stocks](../s/stock.md). For more insights, visit [FINRA](https://www.finra.org/).
-2. **[Nasdaq](../n/nasdaq.md):** They [offer](../o/offer.md) [short interest](../s/short_interest.md) data and provide updates on [short interest](../s/short_interest.md) movements in various [listed](../l/listed.md) [stocks](../s/stock.md). More information can be found at [Nasdaq](https://www.nasdaq.com/).
-3. **NYSE:** The New York Stock [Exchange](../e/exchange.md) also provides [short interest](../s/short_interest.md) data for its [listed](../l/listed.md) companies. For more details, visit [NYSE](https://www.nyse.com/).
+1. **[FINRA](../f/finra.md) (Financial [Industry](../i/industry.md) Regulatory Authority):** They publish [short interest](../s/short_interest.md) reports for over 4,000 [Nasdaq](../n/nasdaq.md) and NYSE [stocks](../s/stock.md). For more insights, visit FINRA.
+2. **[Nasdaq](../n/nasdaq.md):** They [offer](../o/offer.md) [short interest](../s/short_interest.md) data and provide updates on [short interest](../s/short_interest.md) movements in various [listed](../l/listed.md) [stocks](../s/stock.md). More information can be found at Nasdaq.
+3. **NYSE:** The New York Stock [Exchange](../e/exchange.md) also provides [short interest](../s/short_interest.md) data for its [listed](../l/listed.md) companies. For more details, visit NYSE.
 4. **[Market](../m/market.md) Data Vendors:** Companies like [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), and [Morningstar](../m/morningstar.md) [offer](../o/offer.md) extensive [short interest](../s/short_interest.md) data through their subscription services.
 
 ## Conclusion

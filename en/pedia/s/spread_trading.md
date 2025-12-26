@@ -4,12 +4,12 @@ Spread trading is a type of strategy widely used in the world of [algorithmic tr
 
 ## Understanding Spread Trading
 
-In essence, spread trading attempts to [profit](../p/profit.md) from the relative price movements of two or more instruments. Traders simultaneously buy (go long) one instrument and sell (go short) another, hoping the price difference between the two positions [will](../w/will.md) evolve favorably. 
+In essence, spread trading attempts to [profit](../p/profit.md) from the relative price movements of two or more instruments. Traders simultaneously buy (go long) one instrument and sell (go short) another, hoping the price difference between the two positions [will](../w/will.md) evolve favorably.
 
 ### Key Elements of Spread Trading
 
 1. **[Pairs Trading](../p/pairs_trading.md)**: This is the most common form of spread trading, involving two correlated [stocks](../s/stock.md) or instruments. For example, a [trader](../t/trader.md) might go long on stock A while shorting stock B, expecting the spread between their prices to converge or diverge.
-  
+
 2. **Vertical [Spreads](../s/spreads.md)**: Often used in [options](../o/options.md) trading, vertical [spreads](../s/spreads.md) involve buying and selling [options](../o/options.md) of the same [underlying asset](../u/underlying_asset.md) with the same [expiration date](../e/expiration_date.md) but at different strike prices.
 
 3. **Horizontal [Spreads](../s/spreads.md)**: These involve [options](../o/options.md) with the same [strike price](../s/strike_price.md) but different expiration dates. Also known as calendar [spreads](../s/spreads.md), they take advantage of the [time decay](../t/time_decay.md) of [options](../o/options.md).
@@ -30,7 +30,7 @@ In essence, spread trading attempts to [profit](../p/profit.md) from the relativ
 
 ### Execution in Algorithmic Trading
 
-Algorithmic traders use various [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and exploit potential spread opportunities. The algorithm must continuously monitor [market](../m/market.md) conditions, correlations, and price movements to identify potential trades. 
+Algorithmic traders use various [mathematical models](../m/mathematical_models_in_trading.md) and algorithms to identify and exploit potential spread opportunities. The algorithm must continuously monitor [market](../m/market.md) conditions, correlations, and price movements to identify potential trades.
 
 For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [pairs trading](../p/pairs_trading.md) strategies, using historical price data to identify mean-reverting pairs. [Machine learning](../m/machine_learning.md) techniques can also be employed to enhance the effectiveness of such strategies.
 
@@ -38,17 +38,13 @@ For example, statistical [arbitrage](../a/arbitrage.md) models often underpin [p
 
 Several companies provide platforms and tools for spread trading in the [algorithmic trading](../a/algorithmic_trading.md) space:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, research, and [execution](../e/execution.md) capabilities. Both back-testing and live trading are supported, enabling traders to deploy algorithmic spread [trading strategies](../t/trading_strategies.md) effectively.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) data, research, and [execution](../e/execution.md) capabilities. Both back-testing and live trading are supported, enabling traders to deploy algorithmic spread [trading strategies](../t/trading_strategies.md) effectively.
 
 - **[AlgoTrader](../a/algotrader.md)**: A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software solution that supports [multiple](../m/multiple.md) [asset](../a/asset.md) classes and markets. The platform includes [robust](../r/robust.md) features for spread trading, from strategy development to live [execution](../e/execution.md).
-  [AlgoTrader](https://www.algotrader.com/)
 
 - **MetaTrader 5 (MT5)**: A popular multi-[asset](../a/asset.md) platform that provides powerful tools for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.
-  [MetaTrader 5](https://www.metatrader5.com/)
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: A well-known brokerage [firm](../f/firm.md) [offering](../o/offering.md) extensive API support for developing and implementing [algorithmic trading](../a/algorithmic_trading.md) strategies, including spread trading.
-  [Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Spread Trading Strategies
 

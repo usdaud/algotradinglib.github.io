@@ -52,7 +52,7 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 ### Hedge Funds
 
 - **Major Participants**: [Hedge](../h/hedge.md) funds are among the most significant players in the yen [carry trade](../c/carry_trade.md), often employing sophisticated strategies and large volumes.
-  
+
 ### Institutional Investors
 
 - **Banks, Pension Funds**: Institutional investors like banks and pension funds also participate, using carry trades to enhance returns on their investment portfolios.
@@ -90,11 +90,10 @@ The Yen [Carry Trade](../c/carry_trade.md) is a financial strategy that borrows 
 
 ## Useful Resources
 
-- **[Bloomberg](../b/bloomberg.md)**: [Financial News and Data](https://www.bloomberg.com)
-- **[Bank](../b/bank.md) of Japan**: [Interest Rate Policies](https://www.boj.or.jp)
+- **[Bloomberg](../b/bloomberg.md)**: Financial News and Data
+- **[Bank](../b/bank.md) of Japan**: Interest Rate Policies
 - **Trading Platforms**: Examples include [E*TRADE](../e/e_trade.md), TD [Ameritrade](../a/ameritrade.md), and [Interactive Brokers](../i/interactive_brokers.md).
 
 ## Conclusion
 
 The yen [carry trade](../c/carry_trade.md) has been a popular [investment strategy](../i/investment_strategy.md) for exploiting [interest rate](../i/interest_rate.md) differentials between Japan and other countries. While it offers potential for significant returns, it carries substantial risks, particularly related to [currency](../c/currency.md) [volatility](../v/volatility.md) and [interest rate](../i/interest_rate.md) changes. Understanding the intricacies of this [trade](../t/trade.md), including historical context and modern dynamics, can help investors make more informed decisions.
-

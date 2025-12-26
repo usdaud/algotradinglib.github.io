@@ -4,7 +4,7 @@ In the domain of [corporate finance](../c/corporate_finance.md), the optimal [ca
 
 ## Components of Capital Structure
 
-[Capital structure](../c/capital_structure.md) can primarily be divided into two main components: [equity](../e/equity.md) and [debt](../d/debt.md). 
+[Capital structure](../c/capital_structure.md) can primarily be divided into two main components: [equity](../e/equity.md) and [debt](../d/debt.md).
 
 ### Equity
 
@@ -24,7 +24,7 @@ Firms might also utilize hybrid instruments like convertible bonds, which blend 
 
 ## Deciding on Optimal Capital Structure
 
-Determining the optimal [capital structure](../c/capital_structure.md) involves understanding several key factors. 
+Determining the optimal [capital structure](../c/capital_structure.md) involves understanding several key factors.
 
 ### Theories of Capital Structure
 
@@ -86,13 +86,13 @@ For large corporations or those in volatile industries, Monte Carlo simulations 
 
 Apple Inc. utilizes a sophisticated [capital structure](../c/capital_structure.md) strategy, balancing [debt](../d/debt.md) and [equity](../e/equity.md) to maintain flexibility and [shareholder](../s/shareholder.md) returns. Despite holding large cash reserves, Apple has issued [debt](../d/debt.md) to [fund](../f/fund.md) share repurchases and dividends, thus leveraging the low-[interest](../i/interest.md) environment.
 
-For more details, please visit: [Apple Financial Information](https://investor.apple.com)
+For more details, please visit: Apple Financial Information
 
 ### Microsoft Corporation
 
 Microsoft adopts a conservative [capital structure](../c/capital_structure.md) approach with low [leverage](../l/leverage.md). The [firm](../f/firm.md) leverages its strong cash flows and minimal [debt](../d/debt.md) to [finance](../f/finance.md) growth and [shareholder](../s/shareholder.md) payouts, maintaining strong [credit](../c/credit.md) ratings and financial flexibility.
 
-For more details, please visit: [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
+For more details, please visit
 
 ## Conclusion
 

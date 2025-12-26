@@ -17,19 +17,19 @@ To illustrate [order book](../o/order_book.md) depth, consider an [asset](../a/a
 
 **Bids:**
 
-| Price  | Quantity |
+| Price | Quantity |
 |--------|----------|
-| $100.00| 50       |
-| $99.50 | 100      |
-| $99.00 | 150      |
+| $100.00| 50 |
+| $99.50 | 100 |
+| $99.00 | 150 |
 
 **Asks:**
 
-| Price  | Quantity |
+| Price | Quantity |
 |--------|----------|
-| $100.50| 75       |
-| $101.00| 125      |
-| $101.50| 200      |
+| $100.50| 75 |
+| $101.00| 125 |
+| $101.50| 200 |
 
 In this table, the [order book](../o/order_book.md) depth can be seen through the quantities available at each [price level](../p/price_level.md). Traders analyze this depth to understand the [market](../m/market.md) [demand](../d/demand.md) and [supply](../s/supply.md).
 
@@ -45,13 +45,10 @@ In this table, the [order book](../o/order_book.md) depth can be seen through th
 Several platforms [offer](../o/offer.md) access to real-time [order book](../o/order_book.md) data. Some of the prominent providers include:
 
 - **[Interactive Brokers](../i/interactive_brokers.md)**: Provides extensive [market](../m/market.md) data, including [order book](../o/order_book.md) depth.
-  [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=4727)
 - **[Coinbase](../c/coinbase.md) Pro**: Offers [order book](../o/order_book.md) data for cryptocurrencies.
-  [Coinbase Pro](https://pro.coinbase.com/)
 - **[E*TRADE](../e/e_trade.md)**: Known for their comprehensive trading data, including [order book](../o/order_book.md) details.
-  [E*TRADE](https://us.etrade.com/home)
+ E*TRADE
 - **[Nasdaq](../n/nasdaq.md) TotalView**: A complete [order book](../o/order_book.md) service that delivers deeper [market](../m/market.md) data.
-  [Nasdaq TotalView](https://www.nasdaq.com/solutions/nasdaq-totalview)
 
 ### Advanced Analysis Techniques
 
@@ -73,11 +70,8 @@ One of the most notable events highlighting the importance of [order book](../o/
 Several leading firms focus heavily on analyzing [order book](../o/order_book.md) depth as part of their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
 - **Jane Street**: A global trading [firm](../f/firm.md) that uses [proprietary algorithms](../p/proprietary_algorithms.md) to make markets and [trade](../t/trade.md) securities. Jane Street places significant emphasis on analyzing [order book](../o/order_book.md) depth to inform its trading decisions.
-  [Jane Street](https://www.janestreet.com/)
 - **Virtu Financial**: Known for its high-frequency [trading strategies](../t/trading_strategies.md), Virtu Financial extensively monitors [order book](../o/order_book.md) depth to maximize its trading [efficiency](../e/efficiency.md).
-  [Virtu Financial](https://www.virtu.com/)
 - **Two Sigma**: A quantitative [investment management](../i/investment_management.md) [firm](../f/firm.md) that employs sophisticated algorithms to [trade](../t/trade.md) securities. Two Sigma utilizes [order book](../o/order_book.md) depth analysis to optimize its [trading strategies](../t/trading_strategies.md).
-  [Two Sigma](https://www.twosigma.com/)
 
 ### Challenges and Considerations
 

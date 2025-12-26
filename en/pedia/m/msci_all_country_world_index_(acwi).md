@@ -104,7 +104,7 @@ The MSCI ACWI includes some of the largest and most influential companies worldw
 
 ## Resources
 
-Investors looking to learn more about the MSCI ACWI or to track its performance can visit the official MSCI website: [MSCI ACWI](https://www.msci.com/acwi). The MSCI website provides detailed information, including the current list of constituents, methodology documents, and performance data.
+Investors looking to The MSCI online platform provides detailed information, including the current list of constituents, methodology documents, and performance data.
 
 ## Conclusion
 

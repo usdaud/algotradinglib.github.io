@@ -60,4 +60,4 @@ As [stock market](../s/stock_market.md) conditions evolve, the NYSE Composite [I
 ## Conclusion
 The NYSE Composite [Index](../i/index_instrument.md) is one of the most comprehensive and inclusive measures of [market](../m/market.md) performance available today. Its [market](../m/market.md)-[capitalization](../c/capitalization.md)-[weighted](../w/weighted.md) methodology ensures that larger, more economically significant companies have a proportionate impact on the [index](../i/index_instrument.md). For investors, analysts, and [fund](../f/fund.md) managers, it serves as an indispensable [benchmark](../b/benchmark.md) and a valuable tool for understanding [market dynamics](../m/market_dynamics.md) and trends.
 
-For more information on the NYSE Composite [Index](../i/index_instrument.md), you can visit the official NYSE website: [NYSE Composite Index](https://www.nyse.com/quote/index/NYA)
+For more information on the NYSE Composite [Index](../i/index_instrument.md), you can

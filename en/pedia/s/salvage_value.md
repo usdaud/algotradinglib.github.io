@@ -10,9 +10,9 @@ The significance of salvage [value](../v/value.md) extends into various points o
 
 1. **Calculates [Depreciation](../d/depreciation.md):** [Depreciation](../d/depreciation.md) is the reduction in the [value](../v/value.md) of an [asset](../a/asset.md) over time. Salvage [value](../v/value.md) is deducted from the initial cost of an [asset](../a/asset.md) to calculate annual [depreciation](../d/depreciation.md) expenses. The formula for straight-line [depreciation](../d/depreciation.md) is:
 
-    ```
-    Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = (Cost of [Asset](../a/asset.md) - Salvage [Value](../v/value.md)) / [Useful Life](../u/useful_life.md) of [Asset](../a/asset.md)
-    ```
+ ```
+ Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = (Cost of [Asset](../a/asset.md) - Salvage [Value](../v/value.md)) / [Useful Life](../u/useful_life.md) of [Asset](../a/asset.md)
+ ```
 
 2. **[Asset](../a/asset.md) Replacement Strategy:** Knowing the salvage [value](../v/value.md) helps a company plan when to replace assets, ensuring operations are not impeded by outdated or non-functional equipment.
 
@@ -52,19 +52,19 @@ Salvage [value](../v/value.md) has a significant impact on a company's [financia
 
 - **[Depreciation](../d/depreciation.md):** [Delta](../d/delta.md) uses the straight-line method to depreciate its aircraft over an estimated [useful life](../u/useful_life.md), which generally ranges between 25 to 30 years for new aircraft. According to their most recent financial disclosures, [Delta](../d/delta.md) estimates the salvage [value](../v/value.md) of its aircraft to be approximately 5-10% of the [original cost](../o/original_cost.md) at the end of its [useful life](../u/useful_life.md).
 
-- **Impact on [Financial Statements](../f/financial_statements.md):** This estimation allows [Delta](../d/delta.md) to allocate the cost of its aircraft over several years, impacting the company’s net [income](../i/income.md) and tax [obligations](../o/obligation.md). By planning for salvage [value](../v/value.md), [Delta](../d/delta.md) ensures appropriate budgeting for future [capital](../c/capital.md) expenditures on new aircraft. 
+- **Impact on [Financial Statements](../f/financial_statements.md):** This estimation allows [Delta](../d/delta.md) to allocate the cost of its aircraft over several years, impacting the company’s net [income](../i/income.md) and tax [obligations](../o/obligation.md). By planning for salvage [value](../v/value.md), [Delta](../d/delta.md) ensures appropriate budgeting for future [capital](../c/capital.md) expenditures on new aircraft.
 
-For more details, visit [Delta Airlines Official Website](https://www.delta.com).
+
 
 ### Industry Example: Manufacturing Sector
 
 In the [manufacturing](../m/manufacturing.md) sector, companies regularly purchase high-cost machinery that depreciates over time. Consider a [manufacturing](../m/manufacturing.md) [firm](../f/firm.md) that acquires a machine for $120,000 with an expected [useful life](../u/useful_life.md) of 10 years and an estimated salvage [value](../v/value.md) of $20,000.
 
 - **Calculating [Depreciation](../d/depreciation.md):**
-    
-    ```
-    Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($120,000 - $20,000) / 10 = $10,000
-    ```
+
+ ```
+ Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($120,000 - $20,000) / 10 = $10,000
+ ```
 
 - **[Accounting](../a/accounting.md) Impact:** The [firm](../f/firm.md) records $10,000 annually as a [depreciation](../d/depreciation.md) [expense](../e/expense.md), which reduces the net [income](../i/income.md) each year but also accumulates as a [depreciation](../d/depreciation.md) reserve that reflects the declining [value](../v/value.md) of the [asset](../a/asset.md).
 
@@ -74,9 +74,9 @@ Software companies frequently deal with technological obsolescence. For a softwa
 
 - **Straight-Line [Depreciation](../d/depreciation.md):**
 
-    ```
-    Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($500,000 - $50,000) / 5 = $90,000
-    ```
+ ```
+ Annual [Depreciation](../d/depreciation.md) [Expense](../e/expense.md) = ($500,000 - $50,000) / 5 = $90,000
+ ```
 
 - **Impact on Financial Reporting:** By depreciating the software [asset](../a/asset.md), the company reflects the diminishing [utility](../u/utility.md) of the software, offsets [income](../i/income.md) appropriately, and plans for replacements or upgrades.
 

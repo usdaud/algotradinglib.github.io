@@ -36,16 +36,16 @@ There are several types of organizations that typically qualify for 501(c)(3) st
 ### Examples of Qualified Charitable Organizations
 
 1. **The American Red Cross**: A well-known humanitarian organization that provides emergency assistance, disaster relief, and education in the United States.
-   - [American Red Cross](https://www.redcross.org)
+ - American Red Cross
 
 2. **Habitat for Humanity**: Focuses on building homes for people in need and advocating for affordable housing.
-   - [Habitat for Humanity](https://www.habitat.org)
+ - Habitat for Humanity
 
 3. **St. Jude Children's Research Hospital**: Primarily involved in pediatric treatment and research [facility](../f/facility.md) focused on children's catastrophic diseases.
-   - [St. Jude Children's Research Hospital](https://www.stjude.org)
+ - St. Jude Children's Research Hospital
 
 4. **The Nature Conservancy**: Works toward conserving the lands and waters on which all life depends.
-   - [The Nature Conservancy](https://www.nature.org)
+ - The Nature Conservancy
 
 ### The Role of Qualified Charitable Organizations in Financial Planning
 
@@ -61,7 +61,7 @@ Incorporating charitable giving into [financial planning](../f/financial_plannin
 
 While donating to a Qualified Charitable Organization provides significant benefits, there are several considerations donors should keep in mind:
 
-1. **Verification**: Donors should verify the organization’s 501(c)(3) status through the IRS website or other reliable resources to ensure their contributions are tax-deductible.
+1. **Verification**.
 
 2. **Impact**: Consider the impact and effectiveness of the organization's programs. Resources such as Charity Navigator and GuideStar can provide valuable insights into how donations are used.
 

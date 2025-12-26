@@ -44,9 +44,9 @@ Another critical concept in [yield](../y/yield.md)-pricing models is the [yield 
 The [yield curve](../y/yield_curve.md) can take various shapes:
 
 - **Normal [Yield Curve](../y/yield_curve.md)**: An upward sloping curve indicating that longer-term bonds have higher yields than short-term bonds. This shape reflects the expectation of future [economic growth](../e/economic_growth.md) and [inflation](../i/inflation.md).
-  
+
 - **Inverted [Yield Curve](../y/yield_curve.md)**: A downward sloping curve suggesting that short-term yields are higher than long-term yields. This shape is often seen as a predictor of economic [recession](../r/recession.md).
-  
+
 - **Flat [Yield Curve](../y/yield_curve.md)**: Indicates that short-term and long-term yields are very close to one another, often signifying economic transition.
 
 ### Zero-Coupon Bonds and Spot Rates
@@ -61,7 +61,7 @@ Calculations for zero-coupon bonds often lead to the derivation of spot rates, w
 
 ### Duration and Convexity
 
-[Duration](../d/duration.md) and [convexity](../c/convexity.md) are important metrics used in [yield](../y/yield.md)-pricing models to measure a [bond](../b/bond.md)'s sensitivity to changes in [interest](../i/interest.md) rates. 
+[Duration](../d/duration.md) and [convexity](../c/convexity.md) are important metrics used in [yield](../y/yield.md)-pricing models to measure a [bond](../b/bond.md)'s sensitivity to changes in [interest](../i/interest.md) rates.
 
 - **[Duration](../d/duration.md)**: This represents the [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)’s cash flows are received and is used as a measure of a [bond](../b/bond.md)’s [price sensitivity](../p/price_sensitivity.md) to [interest rate](../i/interest_rate.md) changes. The higher the [duration](../d/duration.md), the more sensitive the [bond](../b/bond.md)’s price is to [interest rate](../i/interest_rate.md) movements.
 
@@ -71,7 +71,7 @@ Calculations for zero-coupon bonds often lead to the derivation of spot rates, w
 
 [Algorithmic trading](../a/algorithmic_trading.md) involves using pre-programmed instructions to execute trades at high speeds and volumes. [Yield](../y/yield.md)-pricing models, therefore, need to be efficient and accurate to provide traders with [robust](../r/robust.md) opportunities for [profit](../p/profit.md) maximization.
 
-In [algorithmic trading](../a/algorithmic_trading.md), models are often implemented as part of more extensive [trading systems](../t/trading_systems.md), incorporating real-time data feeds and complex analytics to make rapid decisions. Popular tools and platforms in the [industry](../i/industry.md), such as the ones provided by [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) and [Bloomberg](../b/bloomberg.md) Terminal (https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/), [offer](../o/offer.md) sophisticated frameworks for implementing [yield](../y/yield.md)-pricing models and integrating them into [trading strategies](../t/trading_strategies.md).
+In [algorithmic trading](../a/algorithmic_trading.md), models are often implemented as part of more extensive [trading systems](../t/trading_systems.md), incorporating real-time data feeds and complex analytics to make rapid decisions. Popular tools and platforms in the [industry](../i/industry.md), such as the ones provided by [QuantConnect](../q/quantconnect.md) ( and [Bloomberg](../b/bloomberg.md) Terminal ( [offer](../o/offer.md) sophisticated frameworks for implementing [yield](../y/yield.md)-pricing models and integrating them into [trading strategies](../t/trading_strategies.md).
 
 Modeling yields accurately involves not just fixed-[income](../i/income.md) securities but also other [derivatives](../d/derivatives.md) and financial instruments. Algorithms are designed to dynamically adjust to changing [market](../m/market.md) conditions, ensuring that the pricing models reflect the latest [market](../m/market.md) realities.
 

@@ -12,7 +12,7 @@ Judgmental adjustment is used across various domains:
 - **[Financial Markets](../f/financial_market.md):** Traders might adjust forecasts of stock prices based on recent news that hasn't yet been reflected in the data.
 - **[Supply Chain](../s/supply_chain.md) Management:** Managers might adjust [demand](../d/demand.md) forecasts based on upcoming [marketing](../m/marketing.md) campaigns or new product launches.
 - **Weather [Forecasting](../f/forecasting.md):** Meteorologists might modify computer-generated weather predictions based on recent observations or knowledge about unique local patterns.
-  
+
 ## Techniques
 
 There are several methods for integrating judgmental adjustments:
@@ -45,13 +45,13 @@ Measuring the benefit of judgmental adjustments can be challenging. It can be ha
 ## Case Studies
 
 ### Financial Markets
-In the financial [industry](../i/industry.md), companies like Renaissance Technologies have leveraged both [quantitative models](../q/quantitative_models.md) and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build [robust](../r/robust.md) models but also consider judgmental adjustments to account for events like [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), etc. [Renaissance Technologies](https://www.rentech.com/)
+In the financial [industry](../i/industry.md), companies like Renaissance Technologies have leveraged both [quantitative models](../q/quantitative_models.md) and human expertise. Employing a cadre of Ph.D.s in various scientific disciplines, they build [robust](../r/robust.md) models but also consider judgmental adjustments to account for events like [earnings announcements](../e/earnings_announcements.md), [geopolitical events](../g/geopolitical_events.md), etc. Renaissance Technologies
 
 ### Supply Chain Management
-Companies like Amazon use complex algorithms for [demand forecasting](../d/demand_forecasting.md) but still involve human oversight to account for variables like promotional activities, holidays, or economic shifts. [Amazon](https://www.amazon.com/)
+Companies like Amazon use complex algorithms for [demand forecasting](../d/demand_forecasting.md) but still involve human oversight to account for variables like promotional activities, holidays, or economic shifts. Amazon
 
 ### Weather Forecasting
-The National Weather Service (NWS) uses sophisticated meteorological models but allows seasoned meteorologists to make adjustments based on real-time observations and unique local weather patterns. [National Weather Service](https://www.weather.gov/)
+The National Weather Service (NWS) uses sophisticated meteorological models but allows seasoned meteorologists to make adjustments based on real-time observations and unique local weather patterns. National Weather Service
 
 ## Methods for Evaluating Judgmental Adjustments
 
@@ -88,4 +88,3 @@ Sophisticated visualization tools can help human forecasters make better adjustm
 ## Conclusion
 
 Judgmental adjustment in [forecasting](../f/forecasting.md) remains a vital process across [multiple](../m/multiple.md) domains, striking a balance between [quantitative models](../q/quantitative_models.md) and human intuition. While challenges exist, adopting [best practices](../b/best_practices.md) and leveraging advancements in AI and [data visualization](../d/data_visualization.md) can enhance the efficacy and accuracy of this approach.
-

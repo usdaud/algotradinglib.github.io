@@ -35,7 +35,7 @@ The Nikkei 225 is closely followed by investors, economists, and policymakers ar
 
 ## Nikkei's Role in Algorithmic Trading
 
-Given its high [liquidity](../l/liquidity.md), the Nikkei 225 offers numerous opportunities for [algorithmic trading](../a/accountability.md). [Algorithmic trading](../a/accountability.md), or algo-trading, involves using computer-generated algorithms to execute trades with minimal human intervention. Several strategies can be applied to the Nikkei 225, including:
+Given its high [liquidity](../l/liquidity.md), the Nikkei 225 offers numerous opportunities for [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves using computer-generated algorithms to execute trades with minimal human intervention. Several strategies can be applied to the Nikkei 225, including:
 
 ### High-Frequency Trading (HFT)
 
@@ -91,8 +91,7 @@ Setting [stop-loss orders](../s/stop-loss_orders.md) can help protect against si
 
 ## Conclusion
 
-The Nikkei 225 remains one of the most important and widely-followed [stock market](../s/stock_market.md) indexes globally. Its extensive history, diverse composition, and importance as an [economic indicator](../e/economic_indicator.md) make it essential for investors and economists. With advancements in [algorithmic trading](../a/accountability.md) and FinTech, the ways in which [market](../m/market.md) participants [trade](../t/trade.md) and interact with the Nikkei 225 continue to evolve. Understanding the intricacies of this [index](../i/index_instrument.md) is crucial for anyone involved in global [financial markets](../f/financial_market.md).
+The Nikkei 225 remains one of the most important and widely-followed [stock market](../s/stock_market.md) indexes globally. Its extensive history, diverse composition, and importance as an [economic indicator](../e/economic_indicator.md) make it essential for investors and economists. With advancements in [algorithmic trading](../a/algorithmic_trading.md) and FinTech, the ways in which [market](../m/market.md) participants [trade](../t/trade.md) and interact with the Nikkei 225 continue to evolve. Understanding the intricacies of this [index](../i/index_instrument.md) is crucial for anyone involved in global [financial markets](../f/financial_market.md).
 
-For more information, you can visit the official Nikkei website: [Nikkei Asia](https://asia.nikkei.com/)
 
 ([Note](../n/note.md): The link provided is to the main page of Nikkei Asia, which provides comprehensive financial news and data pertaining to the Nikkei 225 and broader Japanese [economy](../e/economy.md).)

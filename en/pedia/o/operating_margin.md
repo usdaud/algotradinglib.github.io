@@ -83,11 +83,11 @@ Operating margins can vary significantly across different industries due to vari
 
 ## Real-World Examples
 
-- **Apple Inc.**: Known for its high operating [margin](../m/margin.md) due to efficient cost management, [premium](../p/premium.md) pricing strategy, and high [demand](../d/demand.md) for its innovative products. (https://www.apple.com/)
+- **Apple Inc.**: Known for its high operating [margin](../m/margin.md) due to efficient cost management, [premium](../p/premium.md) pricing strategy, and high [demand](../d/demand.md) for its innovative products. (
 
-- **Walmart Inc.**: Operates with lower operating margins typical of the retail [industry](../i/industry.md) but compensates through high sales volumes and efficient [supply chain](../s/supply_chain.md) management. (https://www.walmart.com/)
+- **Walmart Inc.**: Operates with lower operating margins typical of the retail [industry](../i/industry.md) but compensates through high sales volumes and efficient [supply chain](../s/supply_chain.md) management. (
 
-- **Tesla, Inc.**: An example of a company with fluctuating operating margins influenced by production scale, R&D investments, and competitive dynamics in the automotive [industry](../i/industry.md). (https://www.tesla.com/)
+- **Tesla, Inc.**: An example of a company with fluctuating operating margins influenced by production scale, R&D investments, and competitive dynamics in the automotive [industry](../i/industry.md). (
 
 ## Conclusion
 

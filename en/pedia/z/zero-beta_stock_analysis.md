@@ -78,7 +78,7 @@ The [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM) is extensively u
 
 ### Real-World Examples
 
-Investment firms and [hedge](../h/hedge.md) funds often allocate a portion of their portfolios to zero-[beta](../b/beta.md) or low-[beta](../b/beta.md) [stocks](../s/stock.md). For instance, many [market](../m/market.md)-[neutral](../n/neutral.md) [hedge](../h/hedge.md) funds include these [stocks](../s/stock.md) to maintain a balanced [risk](../r/risk.md) profile. 
+Investment firms and [hedge](../h/hedge.md) funds often allocate a portion of their portfolios to zero-[beta](../b/beta.md) or low-[beta](../b/beta.md) [stocks](../s/stock.md). For instance, many [market](../m/market.md)-[neutral](../n/neutral.md) [hedge](../h/hedge.md) funds include these [stocks](../s/stock.md) to maintain a balanced [risk](../r/risk.md) profile.
 
 ### Individual Investors
 
@@ -100,15 +100,15 @@ While REITs may have low [market risk](../m/market_risk.md), they come with sect
 
 ### Financial Platforms
 
-Financial platforms such as [Morningstar](https://www.morningstar.com/), [Bloomberg](https://www.bloomberg.com/), and [Yahoo Finance](https://finance.yahoo.com/) [offer](../o/offer.md) [robust](../r/robust.md) tools for [beta](../b/beta.md) calculation and stock screening.
+Financial platforms such as Morningstar, Bloomberg, and Yahoo Finance [offer](../o/offer.md) [robust](../r/robust.md) tools for [beta](../b/beta.md) calculation and stock screening.
 
 ### Research Reports
 
-Analyst reports and research papers from institutions like [Goldman Sachs](https://www.goldmansachs.com/), [JP Morgan](https://www.jpmorganchase.com/), and academic journals provide insights and methodologies for identifying and analyzing zero-[beta](../b/beta.md) [stocks](../s/stock.md).
+Analyst reports and research papers from institutions like Goldman Sachs, JP Morgan, and academic journals provide insights and methodologies for identifying and analyzing zero-[beta](../b/beta.md) [stocks](../s/stock.md).
 
 ### Educational Resources
 
-Online courses and certifications in [financial analysis](../f/financial_analysis.md), such as those offered by [Coursera](https://www.coursera.org/), [edX](https://www.edx.org/), and the [CFA Institute](https://www.cfainstitute.org/), can enhance one’s understanding of [beta](../b/beta.md) and its applications.
+Online courses and certifications in [financial analysis](../f/financial_analysis.md), such as those offered by Coursera, edX, and the CFA Institute, can enhance one’s understanding of [beta](../b/beta.md) and its applications.
 
 ## Conclusion
 

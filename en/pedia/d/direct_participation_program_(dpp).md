@@ -1,39 +1,39 @@
 # Direct Participation Program (DPP)
 
-A Direct Participation Program (DPP) is a financial [security](../s/security.md) that enables investors to participate directly in the [cash flow](../c/cash_flow.md) and tax benefits of the [underlying](../u/underlying.md) assets. It is structured to provide investors with the benefits of ownership while also spreading the risks associated with the assets. DPPs are considered alternative investments, often used to [gain](../g/gain.md) exposure to sectors such as [real estate](../r/real_estate.md), oil and gas, and equipment leasing. They [offer](../o/offer.md) a way to diversify an investment portfolio and access potential high returns. 
+A Direct Participation Program (DPP) is a financial [security](../s/security.md) that enables investors to participate directly in the [cash flow](../c/cash_flow.md) and tax benefits of the [underlying](../u/underlying.md) assets. It is structured to provide investors with the benefits of ownership while also spreading the risks associated with the assets. DPPs are considered alternative investments, often used to [gain](../g/gain.md) exposure to sectors such as [real estate](../r/real_estate.md), oil and gas, and equipment leasing. They [offer](../o/offer.md) a way to diversify an investment portfolio and access potential high returns.
 
 ## Types of Direct Participation Programs
 
 1. **[Real Estate](../r/real_estate.md) Investment Trusts (REITs)**
-   - REITs allow investors to pool their [capital](../c/capital.md) to invest in [real estate](../r/real_estate.md) projects such as commercial properties, residential buildings, and industrial facilities.
-   - REITs can be publicly traded, public non-traded, or private. Publicly traded REITs are [listed](../l/listed.md) on stock exchanges, while non-traded REITs are not, but are registered with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC).
-   - Investors receive rental [income](../i/income.md) and may benefit from property appreciation and [depreciation](../d/depreciation.md) tax deductions.
+ - REITs allow investors to pool their [capital](../c/capital.md) to invest in [real estate](../r/real_estate.md) projects such as commercial properties, residential buildings, and industrial facilities.
+ - REITs can be publicly traded, public non-traded, or private. Publicly traded REITs are [listed](../l/listed.md) on stock exchanges, while non-traded REITs are not, but are registered with the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC).
+ - Investors receive rental [income](../i/income.md) and may benefit from property appreciation and [depreciation](../d/depreciation.md) tax deductions.
 
 2. **Oil and Gas Partnerships**
-   - These DPPs involve investments in the exploration, drilling, and production of oil and natural gas. 
-   - Investors can benefit from government tax incentives aimed at fostering energy independence through deductions for tangible drilling costs, intangible drilling costs, and [depletion](../d/depletion.md) allowances.
-   - [Income](../i/income.md) from oil and gas partnerships can fluctuate significantly based on [commodity](../c/commodity.md) prices.
+ - These DPPs involve investments in the exploration, drilling, and production of oil and natural gas.
+ - Investors can benefit from government tax incentives aimed at fostering energy independence through deductions for tangible drilling costs, intangible drilling costs, and [depletion](../d/depletion.md) allowances.
+ - [Income](../i/income.md) from oil and gas partnerships can fluctuate significantly based on [commodity](../c/commodity.md) prices.
 
 3. **Equipment Leasing Programs**
-   - Equipment leasing DPPs purchase and lease out industrial and commercial equipment. This can include transportation vehicles, [manufacturing](../m/manufacturing.md) machinery, and medical equipment.
-   - The [income](../i/income.md) generated from leasing is distributed to investors, who may also benefit from [depreciation](../d/depreciation.md) deductions.
-   - These programs can provide a stable [income](../i/income.md) stream but come with risks associated with equipment [depreciation](../d/depreciation.md) and [market](../m/market.md) [demand](../d/demand.md) for leasing.
+ - Equipment leasing DPPs purchase and lease out industrial and commercial equipment. This can include transportation vehicles, [manufacturing](../m/manufacturing.md) machinery, and medical equipment.
+ - The [income](../i/income.md) generated from leasing is distributed to investors, who may also benefit from [depreciation](../d/depreciation.md) deductions.
+ - These programs can provide a stable [income](../i/income.md) stream but come with risks associated with equipment [depreciation](../d/depreciation.md) and [market](../m/market.md) [demand](../d/demand.md) for leasing.
 
 4. **[Business](../b/business.md) Development Companies (BDCs)**
-   - BDCs are a type of [closed-end fund](../c/closed-end_fund.md) that makes [capital](../c/capital.md) available to small and mid-sized businesses. They [offer](../o/offer.md) investors access to [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md)-style investments.
-   - Investors receive dividends from the [income](../i/income.md) generated by the businesses in the DPP’s portfolio.
-   - BDCs are regulated under the [Investment Company Act of 1940](../i/investment_company_act_of_1940.md), and they must distribute at least 90% of their [taxable income](../t/taxable_income.md) to shareholders.
+ - BDCs are a type of [closed-end fund](../c/closed-end_fund.md) that makes [capital](../c/capital.md) available to small and mid-sized businesses. They [offer](../o/offer.md) investors access to [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md)-style investments.
+ - Investors receive dividends from the [income](../i/income.md) generated by the businesses in the DPP’s portfolio.
+ - BDCs are regulated under the [Investment Company Act of 1940](../i/investment_company_act_of_1940.md), and they must distribute at least 90% of their [taxable income](../t/taxable_income.md) to shareholders.
 
 ## Key Characteristics of DPPs
 
 - **Pass-Through [Income](../i/income.md) and Losses**: DPPs allow [income](../i/income.md) and losses to pass through directly to the investors, which can provide significant tax benefits. Investors are allotted a share of any [income](../i/income.md), deductions, credits, and losses, which they report on their tax returns.
-  
+
 - **[Illiquidity](../i/illiquid.md)**: Most DPP investments are illiquid, meaning they are not easily sold or exchanged for cash without a substantial loss in [value](../v/value.md). Investment horizons can be long-term, often ranging from five to ten years or more.
-  
+
 - **Tax Benefits**: DPPs often provide substantial tax benefits, such as [depreciation](../d/depreciation.md) deductions, tax credits, and the ability to defer [taxes](../t/taxes.md). These benefits can enhance the after-[tax return](../t/tax_return.md) on the investment.
-  
+
 - **Regulation**: DPPs must comply with regulatory requirements and are often registered with the SEC. Non-traded DPPs may have less regulatory oversight, potentially increasing [risk](../r/risk.md) for investors.
-  
+
 - **Management**: DPPs are typically managed by a [general partner](../g/general_partner.md) or sponsor, who is responsible for making operational decisions and managing the day-to-day activities of the partnership. Investors, known as limited partners, usually do not have a role in management.
 
 ## Risks and Considerations
@@ -51,19 +51,14 @@ A Direct Participation Program (DPP) is a financial [security](../s/security.md)
 ## Popular Companies in the DPP Industry
 
 1. **RealtyMogul**: A leading online marketplace for [real estate](../r/real_estate.md) investments, allowing individual investors to access [commercial real estate](../c/commercial_real_estate.md) opportunities.
-   - Website: [RealtyMogul](https://www.realtymogul.com/)
 
 2. **Energy Funders**: Specializes in direct investments in energy projects, including oil and gas drilling operations.
-   - Website: [Energy Funders](https://www.energyfunders.com/)
 
 3. **CIM Group**: An urban [real estate](../r/real_estate.md) and [infrastructure](../i/infrastructure.md) investment [firm](../f/firm.md) [offering](../o/offering.md) various DPPs, including non-traded REITs.
-   - Website: [CIM Group](https://www.cimgroup.com/)
 
 4. **Wells Fargo Securities**: Provides investment opportunities in equipment leasing and other DPPs through their [investment banking](../i/investment_banking.md) division.
-   - Website: [Wells Fargo Securities](https://www.wellsfargo.com/com/securities/products/investment/)
 
 5. **Prospect [Capital](../c/capital.md) [Corporation](../c/corporation.md)**: A BDC that provides [capital](../c/capital.md) to middle-[market](../m/market.md) companies and offers [direct investment](../d/direct_investment.md) opportunities in [equity](../e/equity.md) and [debt](../d/debt.md) instruments.
-   - Website: [Prospect Capital Corporation](https://www.prospectstreet.com/)
 
 ## Conclusion
 

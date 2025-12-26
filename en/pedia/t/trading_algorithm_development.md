@@ -1,6 +1,6 @@
 # Trading Algorithm Development
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading", refers to the use of computer systems and software to execute trades in [financial markets](../f/financial_market.md) based on predefined criteria and strategies. This complex and dynamic field involves various stages of development, from strategy formulation and [backtesting](../b/backtesting.md) to implementation and monitoring. The goal is to remove the emotional and [psychological biases](../p/psychological_biases_in_trading.md) inherent in manual trading, thereby enhancing [efficiency](../e/efficiency.md), speed, and potential profitability. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly known as "algo-trading", refers to the use of computer systems and software to execute trades in [financial markets](../f/financial_market.md) based on predefined criteria and strategies. This complex and dynamic field involves various stages of development, from strategy formulation and [backtesting](../b/backtesting.md) to implementation and monitoring. The goal is to remove the emotional and [psychological biases](../p/psychological_biases_in_trading.md) inherent in manual trading, thereby enhancing [efficiency](../e/efficiency.md), speed, and potential profitability.
 
 ## Core Components of Algorithmic Trading
 
@@ -32,7 +32,7 @@ Data providers like [Bloomberg](../b/bloomberg.md), Thomson [Reuters](../r/reute
 2. **Parameter [Optimization](../o/optimization.md)**: Tweaking strategy parameters to find the most profitable settings.
 3. **[Performance Metrics](../p/performance_metrics.md)**: Calculating metrics such as [Return](../r/return.md) on Investment (ROI), [Sharpe Ratio](../s/sharpe_ratio.md), and Maximum [Drawdown](../d/drawdown.md) to evaluate strategy performance.
 
-[Backtesting](../b/backtesting.md) platforms like [QuantConnect](../q/quantconnect.md), MetaTrader, and [Amibroker](../a/amibroker.md) provide [robust](../r/robust.md) environments for strategy testing.
+[Backtesting](../b/backtesting.md) platforms like [StockSharp](../s/stocksharp.md), MetaTrader, and [Amibroker](../a/amibroker.md) provide [robust](../r/robust.md) environments for strategy testing.
 
 ### Development and Coding
 
@@ -68,15 +68,15 @@ Continuous monitoring involves tracking algorithm performance, [market](../m/mar
 
 Several companies and tools support various stages of trading algorithm development. These include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [financial markets](../f/financial_market.md) and offers [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and live trading services. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) [financial markets](../f/financial_market.md) and offers [backtesting](../b/backtesting.md), [optimization](../o/optimization.md), and live trading services. QuantConnect
 
-2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a comprehensive [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) API support for [algorithmic trading](../a/algorithmic_trading.md). [Interactive Brokers](https://www.interactivebrokers.com/)
+2. **[Interactive Brokers](../i/interactive_brokers.md)**: Offers a comprehensive [trading platform](../t/trading_platform.md) with [robust](../r/robust.md) API support for [algorithmic trading](../a/algorithmic_trading.md). Interactive Brokers
 
-3. **TD [Ameritrade](../a/ameritrade.md)**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide [range](../r/range.md) of financial products. [TD Ameritrade](https://www.tdameritrade.com/)
+3. **TD [Ameritrade](../a/ameritrade.md)**: Provides APIs and tools for [algorithmic trading](../a/algorithmic_trading.md) along with a wide [range](../r/range.md) of financial products. TD Ameritrade
 
-4. **[TradeStation](../t/tradestation.md)**: Offers a powerful [trading platform](../t/trading_platform.md) with advanced tools for strategy development, [backtesting](../b/backtesting.md), and [execution](../e/execution.md). [TradeStation](https://www.tradestation.com/)
+4. **[TradeStation](../t/tradestation.md)**: Offers a powerful [trading platform](../t/trading_platform.md) with advanced tools for strategy development, [backtesting](../b/backtesting.md), and [execution](../e/execution.md). TradeStation
 
-5. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive [market](../m/market.md) data, news, and analytics essential for developing and executing [trading strategies](../t/trading_strategies.md). [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+5. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive [market](../m/market.md) data, news, and analytics essential for developing and executing [trading strategies](../t/trading_strategies.md). Bloomberg
 
 ## Conclusion
 

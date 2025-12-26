@@ -64,15 +64,15 @@ If the pegged [currency](../c/currency.md) experiences economic issues such as [
 
 ### Hong Kong Dollar (HKD) Pegged to USD
 
-The Hong Kong Dollar (HKD) has been pegged to the US Dollar (USD) since 1983. The Hong Kong Monetary Authority maintains this peg by keeping the HKD/USD [exchange rate](../e/exchange_rate.md) in the [range](../r/range.md) of 7.75 to 7.85. More information can be found on the [Hong Kong Monetary Authority's website](https://www.hkma.gov.hk).
+The Hong Kong Dollar (HKD) has been pegged to the US Dollar (USD) since 1983. The Hong Kong Monetary Authority maintains this peg by keeping the HKD/USD [exchange rate](../e/exchange_rate.md) in the [range](../r/range.md) of 7.75 to 7.85.
 
 ### Chinese Yuan (CNY) Managed Float
 
-Although the Chinese Yuan (CNY) was historically pegged to the USD, it has moved to a managed [float](../f/float.md) system where the [currency](../c/currency.md) is allowed to [trade](../t/trade.md) within a certain [range](../r/range.md) against a basket of currencies. The People's [Bank](../b/bank.md) of China regularly intervenes to ensure that the [currency](../c/currency.md) remains stable. For more information, visit the [People's Bank of China's website](http://www.pbc.gov.cn).
+Although the Chinese Yuan (CNY) was historically pegged to the USD, it has moved to a managed [float](../f/float.md) system where the [currency](../c/currency.md) is allowed to [trade](../t/trade.md) within a certain [range](../r/range.md) against a basket of currencies. The People's [Bank](../b/bank.md) of China regularly intervenes to ensure that the [currency](../c/currency.md) remains stable.
 
 ### Saudi Riyal (SAR) Pegged to USD
 
-The Saudi Riyal (SAR) has been pegged to the US Dollar since 1986. The [fixed exchange rate](../f/fixed_exchange_rate.md) is maintained at 3.75 SAR per USD. Saudi Arabia uses its considerable foreign reserves to manage this peg. For more information, visit the [Saudi Arabian Monetary Authority's website](https://www.sama.gov.sa).
+The Saudi Riyal (SAR) has been pegged to the US Dollar since 1986. The [fixed exchange rate](../f/fixed_exchange_rate.md) is maintained at 3.75 SAR per USD. Saudi Arabia uses its considerable foreign reserves to manage this peg.
 
 ## Real-World Challenges and Considerations
 

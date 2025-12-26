@@ -18,7 +18,6 @@ The [present value](../p/present_value.md) (PV) of an annuity due can be calcula
 
 \[ PV = PMT \times \left( \frac{1 - (1 + r)^{-n}}{r} \right) \times (1 + r) \]
 
-where
 - \( PV \) = [Present Value](../p/present_value.md) of the annuity due
 - \( PMT \) = [Payment](../p/payment.md) amount per period
 - \( r \) = [Interest rate](../i/interest_rate.md) per period
@@ -30,7 +29,6 @@ The future [value](../v/value.md) (FV) of an annuity due can be calculated using
 
 \[ FV = PMT \times \left( \frac{(1 + r)^n - 1}{r} \right) \times (1 + r) \]
 
-where
 - \( FV \) = Future [Value](../v/value.md) of the annuity due
 - \( PMT \) = [Payment](../p/payment.md) amount per period
 - \( r \) = [Interest rate](../i/interest_rate.md) per period
@@ -56,13 +54,13 @@ Annuities due can also be structured to [fund](../f/fund.md) education expenses,
 
 ## Examples of Companies Offering Annuity Due Products
 
-1. **Prudential Financial**: Prudential offers various types of annuities, including those that can be structured as annuity due. More details can be found on their [official page](https://www.prudential.com).
+1. **Prudential Financial**: Prudential offers various types of annuities, including those that can be structured as annuity due.
 
-2. **MetLife**: MetLife provides different annuity products aimed at [retirement planning](../r/retirement_planning.md), some of which can be configured as annuity due. Learn more [here](https://www.metlife.com).
+2. **MetLife**: MetLife provides different annuity products aimed at [retirement planning](../r/retirement_planning.md), some of which can be configured as annuity due.
 
-3. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a [range](../r/range.md) of annuity products, including immediate annuities that might function as annuity due. [Check](../c/check.md) their offerings [here](https://www.fidelity.com).
+3. **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a [range](../r/range.md) of annuity products, including immediate annuities that might function as annuity due.
 
-4. **TIAA**: TIAA provides retirement annuities that can help ensure steady [income](../i/income.md) payments at the beginning of each period. Explore their [options](../o/options.md) [here](https://www.tiaa.org).
+4. **TIAA**: TIAA provides retirement annuities that can help ensure steady [income](../i/income.md) payments at the beginning of each period.
 
 ## Advantages and Disadvantages
 

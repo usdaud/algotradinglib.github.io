@@ -2,7 +2,7 @@
 
 ### Introduction
 Perpetual bonds, also known as "perps," are a type of [fixed-income security](../f/fixed-income_security.md) with no [maturity date](../m/maturity_date.md). They continue to pay [interest](../i/interest.md) indefinitely and are not redeemable by the holder or the [issuer](../i/issuer.md). This concept is particularly intriguing in [financial markets](../f/financial_market.md), especially in the context of algorithms and high-frequency trading. Perpetual bonds combine elements of both [equity](../e/equity.md) and [debt](../d/debt.md), [offering](../o/offering.md) unique opportunities and challenges for traders and investors.
- 
+
 ### Nature of Perpetual Bonds
 
 #### No Maturity Date
@@ -60,10 +60,10 @@ Various [algorithmic trading](../a/algorithmic_trading.md) strategies can be app
 ### Real-World Applications
 
 #### Case Studies
-Several notable financial institutions employ [algorithmic trading](../a/algorithmic_trading.md) targeting perpetual bonds. For instance, Goldman Sachs has a division dedicated to [algorithmic trading](../a/algorithmic_trading.md), which includes fixed-[income](../i/income.md) securities [Goldman Sachs: Algorithmic Trading](https://www.goldmansachs.com/what-we-do/securities/overview.html).
+Several notable financial institutions employ [algorithmic trading](../a/algorithmic_trading.md) targeting perpetual bonds. For instance, Goldman Sachs has a division dedicated to [algorithmic trading](../a/algorithmic_trading.md), which includes fixed-[income](../i/income.md) securities Goldman Sachs: Algorithmic Trading.
 
 #### Technological Infrastructure
-Successful [algorithmic trading](../a/algorithmic_trading.md) of perpetual bonds requires [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md), including high-frequency trading platforms and sophisticated [risk management](../r/risk_management.md) systems. Companies like Virtu Financial provide such [infrastructure](../i/infrastructure.md), allowing efficient [execution](../e/execution.md) and strategy deployment [Virtu Financial](https://www.virtu.com).
+Successful [algorithmic trading](../a/algorithmic_trading.md) of perpetual bonds requires [robust](../r/robust.md) technological [infrastructure](../i/infrastructure.md), including high-frequency trading platforms and sophisticated [risk management](../r/risk_management.md) systems. Companies like Virtu Financial provide such [infrastructure](../i/infrastructure.md), allowing efficient [execution](../e/execution.md) and strategy deployment Virtu Financial.
 
 ### Conclusion
 

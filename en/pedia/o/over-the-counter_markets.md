@@ -54,19 +54,16 @@ The term `Over-The-Counter (OTC) Markets` refers to [financial markets](../f/fin
 
 ICAP (now part of TP ICAP Group) is one of the world's leading interdealer brokers, providing voice and electronic broking services for OTC markets. They operate in various sectors, including rates, [foreign exchange](../f/foreign_exchange.md), commodities, and emerging markets.
 
-[ICAP - TP ICAP Group](https://www.tpicap.com/what-we-do/global-broking)
 
 ### Clearstream
 
 Clearstream is a provider of post-[trade](../t/trade.md) services for OTC markets, [offering](../o/offering.md) integrated solutions for securities services, including settlement, custody, and [collateral management](../c/collateral_management.md). They play a critical role in ensuring the smooth processing of trades.
 
-[Clearstream](https://www.clearstream.com/clearstream-en/)
 
 ### EBS (Electronic Broking Services)
 
 EBS is an electronic [trading platform](../t/trading_platform.md) specializing in [foreign exchange](../f/foreign_exchange.md) markets. It facilitates OTC trading in major and emerging [market](../m/market.md) currencies, [offering](../o/offering.md) [liquidity](../l/liquidity.md) and efficient [price discovery](../p/price_discovery.md) for institutional traders.
 
-[EBS](https://www.cmegroup.com/market-data/cash/ebs-platform.html)
 
 ## Future Trends in OTC Markets
 

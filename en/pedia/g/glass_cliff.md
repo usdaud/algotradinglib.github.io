@@ -14,11 +14,11 @@ Subsequent studies have corroborated these findings across different sectors and
 
 ## Examples
 
-The phenomenon is not just theoretical; several high-profile cases illustrate the glass cliff concept. 
+The phenomenon is not just theoretical; several high-profile cases illustrate the glass cliff concept.
 
-1. **Mary Barra and General Motors (GM)**: Mary Barra was named CEO of GM in 2014, making her the first female CEO of a major global automaker. Her appointment came at a time when GM was dealing with a massive recall crisis due to faulty ignition switches linked to several deaths. Barra had to navigate the company through intense scrutiny and legal challenges, exemplifying the precarious nature of her [leadership](../l/leadership.md) position. Further details about her role can be found on [GM's official website](https://www.gm.com).
+1. **Mary Barra and General Motors (GM)**: Mary Barra was named CEO of GM in 2014, making her the first female CEO of a major global automaker. Her appointment came at a time when GM was dealing with a massive recall crisis due to faulty ignition switches linked to several deaths. Barra had to navigate the company through intense scrutiny and legal challenges, exemplifying the precarious nature of her [leadership](../l/leadership.md) position.
 
-2. **Marissa Mayer and Yahoo**: In 2012, Marissa Mayer took over as CEO of Yahoo at a time when the company was struggling to compete with tech giants like Google and Facebook. Despite her subsequent efforts to turn the company around, Yahoo continued to face significant challenges, leading to its eventual [sale](../s/sale.md) to Verizon in 2016. Mayer's tenure is often cited as an example of the glass cliff. More information can be found on [Yahoo's press releases](https://www.verizonmedia.com/).
+2. **Marissa Mayer and Yahoo**: In 2012, Marissa Mayer took over as CEO of Yahoo at a time when the company was struggling to compete with tech giants like Google and Facebook. Despite her subsequent efforts to turn the company around, Yahoo continued to face significant challenges, leading to its eventual [sale](../s/sale.md) to Verizon in 2016. Mayer's tenure is often cited as an example of the glass cliff. More information can be found on Yahoo's press releases.
 
 3. **Theresa May and [Brexit](../b/brexit.md)**: In politics, the glass cliff can also be observed. Theresa May became the UK Prime Minister following David Cameron's resignation after the [Brexit](../b/brexit.md) referendum. She inherited a deeply divided country and faced the monumental task of negotiating the UK's exit from the EU. Her time in office was marked by intense political and public scrutiny, highlighting the precarious nature of [leadership](../l/leadership.md) roles assumed during times of crisis.
 

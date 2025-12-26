@@ -1,6 +1,6 @@
 # Value-Added Resellers (VAR)
 
-[Value](../v/value.md)-Added Resellers (VARs) [hold](../h/hold.md) a distinct position in the [supply chain](../s/supply_chain.md) and [distribution](../d/distribution.md) networks across various industries, notably in technology and software. VARs purchase products from manufacturers, enhance them with additional features or services, and then resell those upgraded solutions to end-users. This model not only benefits the resellers through [margin](../m/margin.md) [expansion](../e/expansion.md) but also serves clients by providing more tailored and comprehensive solutions. 
+[Value](../v/value.md)-Added Resellers (VARs) [hold](../h/hold.md) a distinct position in the [supply chain](../s/supply_chain.md) and [distribution](../d/distribution.md) networks across various industries, notably in technology and software. VARs purchase products from manufacturers, enhance them with additional features or services, and then resell those upgraded solutions to end-users. This model not only benefits the resellers through [margin](../m/margin.md) [expansion](../e/expansion.md) but also serves clients by providing more tailored and comprehensive solutions.
 
 ## Historical Context
 
@@ -69,7 +69,7 @@ With the rising threat of cyber attacks, cybersecurity has become a critical are
 
 Cisco Systems, a global leader in network and [infrastructure](../i/infrastructure.md) solutions, works extensively with VARs. Cisco's partner program enables VARs to sell its products while [offering](../o/offering.md) additional services such as network design, installation, and support. Cisco provides training and certification programs for its VARs to ensure they possess the necessary expertise to deliver high-quality services.
 
-For more information about Cisco Systems' partner program, visit [Cisco Partner Programs](https://www.cisco.com/c/en/us/partners.html).
+For more information about Cisco Systems' partner program, visit Cisco Partner Programs.
 
 ## Conclusion
 

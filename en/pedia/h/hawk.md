@@ -1,8 +1,8 @@
 # Hawk Strategy
 
-[Algorithmic trading](../a/accountability.md), at its core, is the process of using computer algorithms to automatically and systematically [trade](../t/trade.md) financial securities. Algorithms are rules-based sequences of instructions that a computer can execute. These instructions can be as simple as buying a stock when its price drops below a certain threshold or as complex as dynamically adjusting a portfolio based on a wide array of factors.
+[Algorithmic trading](../a/algorithmic_trading.md), at its core, is the process of using computer algorithms to automatically and systematically [trade](../t/trade.md) financial securities. Algorithms are rules-based sequences of instructions that a computer can execute. These instructions can be as simple as buying a stock when its price drops below a certain threshold or as complex as dynamically adjusting a portfolio based on a wide array of factors.
 
-One particularly sophisticated [algorithmic trading](../a/accountability.md) strategy is known as the Hawk Strategy. This approach focuses on leveraging [machine learning](../m/machine_learning.md), [predictive analytics](../p/predictive_analytics.md), statistical [arbitrage](../a/arbitrage.md), and cutting-edge technology to make more informed and timely trading decisions. The Hawk Strategy aims to exploit [market](../m/market.md) inefficiencies and [capitalize](../c/capitalize.md) on high-frequency trading opportunities.
+One particularly sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategy is known as the Hawk Strategy. This approach focuses on leveraging [machine learning](../m/machine_learning.md), [predictive analytics](../p/predictive_analytics.md), statistical [arbitrage](../a/arbitrage.md), and cutting-edge technology to make more informed and timely trading decisions. The Hawk Strategy aims to exploit [market](../m/market.md) inefficiencies and [capitalize](../c/capitalize.md) on high-frequency trading opportunities.
 
 ## Key Components of the Hawk Strategy
 
@@ -13,9 +13,9 @@ One particularly sophisticated [algorithmic trading](../a/accountability.md) str
 Different types of [machine learning](../m/machine_learning.md) models are used in the Hawk Strategy:
 
 - **[Supervised Learning](../s/supervised_learning.md)**: Utilizes labeled datasets to train models. It is often used for [predictive analytics](../p/predictive_analytics.md) and [forecasting](../f/forecasting.md) [market](../m/market.md) trends.
-  
+
 - **[Unsupervised Learning](../u/unsupervised_learning.md)**: Here, the algorithms identify [underlying](../u/underlying.md) structures in unlabeled data, helping in clustering and [anomaly detection](../a/anomaly_detection.md).
-  
+
 - **[Reinforcement Learning](../r/reinforcement_learning.md)**: Uses trial and error to achieve long-term goals. In the context of trading, this can be applied to optimize the [execution](../e/execution.md) of trades to maximize returns.
 
 ### Predictive Analytics
@@ -25,9 +25,9 @@ Different types of [machine learning](../m/machine_learning.md) models are used 
 The Hawk Strategy leverages a variety of [predictive analytics](../p/predictive_analytics.md) techniques:
 
 - **[Time Series Analysis](../t/time_series_analysis.md)**: This involves analyzing sequential data points to forecast future trends.
-  
+
 - **[Natural Language Processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP)**: Used to analyze text data from news articles, [social media](../s/social_media.md), and financial reports to gauge [market sentiment](../m/market_sentiment.md).
-  
+
 - **[Regression Analysis](../r/regression_analysis.md)**: Identifies relationships between different variables to predict future stock prices or trading [volume](../v/volume.md).
 
 ### Statistical Arbitrage
@@ -37,7 +37,7 @@ Statistical [arbitrage](../a/arbitrage.md) is another cornerstone of the Hawk St
 Common approaches include:
 
 - **[Pairs Trading](../p/pairs_trading.md)**: Involves trading two correlated securities. When the prices diverge, one is shorted while the other is bought, anticipating the prices [will](../w/will.md) converge again.
-  
+
 - **[Market Neutral Strategies](../m/market_neutral_strategies.md)**: Aim to exploit relative price movements without taking [market](../m/market.md) direction [risk](../r/risk.md).
 
 ### High-Frequency Trading (HFT)
@@ -51,17 +51,17 @@ The technology stack for implementing the Hawk Strategy is highly sophisticated 
 ### Hardware
 
 - **Low Latency Servers**: High-performance servers co-located close to major stock exchanges.
-  
+
 - **FPGA (Field Programmable Gate Arrays)**: Hardware used to perform high-speed computations.
-  
+
 - **High-Performance Data Storage**: Systems designed to [handle](../h/handle.md) vast amounts of data with minimal latency.
 
 ### Software
 
 - **Algorithm Development Platforms**: Platforms like MATLAB, R, and Python are often used for developing and testing algorithms.
-  
+
 - **Real-Time Data Feeds**: These are critical for HFT and can be obtained from providers such as [Bloomberg](../b/bloomberg.md) and [Reuters](../r/reuters.md).
-  
+
 - **[Order Management Systems](../o/order_management_systems.md) (OMS)**: Software designed to manage and execute [trade](../t/trade.md) orders efficiently.
 
 ### Network
@@ -106,18 +106,18 @@ The primary [risk](../r/risk.md) in any [trading strategy](../t/trading_strategy
 
 ### Regulatory Risk
 
-Regulations around [algorithmic trading](../a/accountability.md) are continually evolving. Compliance is essential to avoid legal repercussions. Firms using the Hawk Strategy need to stay updated with regulatory requirements.
+Regulations around [algorithmic trading](../a/algorithmic_trading.md) are continually evolving. Compliance is essential to avoid legal repercussions. Firms using the Hawk Strategy need to stay updated with regulatory requirements.
 
 ## Leading Companies Using the Hawk Strategy
 
 Several financial firms and [hedge](../h/hedge.md) funds are known for their sophisticated [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including the Hawk Strategy. A few notable ones include:
 
-- **Two Sigma**: A New York-based [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its investment strategies. [Two Sigma](https://www.twosigma.com/)
+- **Two Sigma**: A New York-based [hedge fund](../h/hedge_fund.md) that uses [data science](../d/data_science_in_trading.md) and technology to drive its investment strategies. Two Sigma
 
-- **Citadel Securities**: Known for its prowess in high-frequency trading and [market](../m/market.md) making. [Citadel Securities](https://www.citadelsecurities.com/)
+- **Citadel Securities**: Known for its prowess in high-frequency trading and [market](../m/market.md) making. Citadel Securities
 
-- **Renaissance Technologies**: A [hedge fund](../h/hedge_fund.md) that employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. [Renaissance Technologies](https://www.rentec.com/)
+- **Renaissance Technologies**: A [hedge fund](../h/hedge_fund.md) that employs complex [mathematical models](../m/mathematical_models_in_trading.md) and algorithms. Renaissance Technologies
 
 ## Conclusion
 
-The Hawk Strategy represents the cutting edge of [algorithmic trading](../a/accountability.md), leveraging the latest advancements in [machine learning](../m/machine_learning.md), [predictive analytics](../p/predictive_analytics.md), statistical [arbitrage](../a/arbitrage.md), and high-frequency trading. While the strategy offers the potential for significant returns, it also comes with its own set of risks and challenges. Firms implementing such a strategy need a [robust](../r/robust.md) technology stack, rigorous testing procedures, and continuous monitoring to ensure success. As the [financial markets](../f/financial_market.md) continue to evolve, so too [will](../w/will.md) the strategies and technologies that drive [algorithmic trading](../a/accountability.md).
+The Hawk Strategy represents the cutting edge of [algorithmic trading](../a/algorithmic_trading.md), leveraging the latest advancements in [machine learning](../m/machine_learning.md), [predictive analytics](../p/predictive_analytics.md), statistical [arbitrage](../a/arbitrage.md), and high-frequency trading. While the strategy offers the potential for significant returns, it also comes with its own set of risks and challenges. Firms implementing such a strategy need a [robust](../r/robust.md) technology stack, rigorous testing procedures, and continuous monitoring to ensure success. As the [financial markets](../f/financial_market.md) continue to evolve, so too [will](../w/will.md) the strategies and technologies that drive [algorithmic trading](../a/algorithmic_trading.md).

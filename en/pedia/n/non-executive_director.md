@@ -64,13 +64,13 @@ Maintaining an independent stance while building constructive relationships with
 ## Companies and Examples
 
 ### BP plc.
-BP, one of the world's leading integrated oil and gas companies, has several non-executive directors on its board who contribute to the company’s strategic planning and governance. Detailed information can be found on their [website](https://www.bp.com/).
+BP, one of the world's leading integrated oil and gas companies, has several non-executive directors on its board who contribute to the company’s strategic planning
 
 ### HSBC Holdings plc.
-HSBC, one of the largest banking and financial services organizations in the world, also incorporates various non-executive directors to enhance their governance and strategic oversight. Further details are available on their [website](https://www.hsbc.com/).
+HSBC, one of the largest banking and financial services organizations in the world, also incorporates various non-executive directors to enhance their governance and strategic oversight.
 
 ### Unilever N.V.
-Unilever, a global [consumer goods](../c/consumer_goods.md) company, utilizes non-executive directors to influence its governance and strategic direction. More information is provided on their [website](https://www.unilever.com/).
+Unilever, a global [consumer goods](../c/consumer_goods.md) company, utilizes non-executive directors to influence its governance and strategic direction.
 
 ## Conclusion
 

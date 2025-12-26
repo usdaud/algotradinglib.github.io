@@ -21,7 +21,7 @@ Quantitative performance analysis is a critical aspect of [algorithmic trading](
 - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: Estimates the potential loss in [value](../v/value.md) of a portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md).
 - **Conditional [Value](../v/value.md) at [Risk](../r/risk.md) (CVaR)**: Measures the expected loss, assuming that the loss is beyond the VaR threshold.
 - **Max [Drawdown](../d/drawdown.md)**: The maximum observed loss from a peak to a [trough](../t/trough.md) of a portfolio, before a new peak is attained.
-  
+
 ### Risk-Adjusted Return Metrics
 
 [Risk-adjusted return](../r/risk-adjusted_return.md) metrics are used to understand the [return](../r/return.md) of a [trading strategy](../t/trading_strategy.md) considering the amount of [risk](../r/risk.md) taken to achieve that [return](../r/return.md). Important [risk-adjusted return](../r/risk-adjusted_return.md) metrics include:
@@ -52,8 +52,8 @@ TCA examines the costs associated with trading, such as [bid](../b/bid.md)-ask [
 Several tools and [software platforms](../s/software_platforms_for_trading.md) are available for quantitative performance analysis in [algorithmic trading](../a/algorithmic_trading.md):
 
 - **Python Libraries**: Libraries like Pandas, NumPy, SciPy, and [QuantLib](../q/quantlib.md) are extensively used in [quantitative analysis](../q/quantitative_analysis.md).
-- **[Backtesting](../b/backtesting.md) Platforms**: Platforms like Zipline (https://www.zipline.io/), [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/), and [Backtrader](../b/backtrader.md) (https://www.[backtrader](../b/backtrader.md).com/) [offer](../o/offer.md) [robust](../r/robust.md) environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-- **Trading Analytics Software**: Tools like [TradeStation](../t/tradestation.md) (https://www.[tradestation](../t/tradestation.md).com/) and [MultiCharts](../m/multicharts.md) (https://www.[multicharts](../m/multicharts.md).com/) provide sophisticated analytics for quantitative performance analysis.
+- **[Backtesting](../b/backtesting.md) Platforms**: Platforms like Zipline ( [QuantConnect](../q/quantconnect.md) ( and [Backtrader](../b/backtrader.md) ( [offer](../o/offer.md) [robust](../r/robust.md) environments for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+- **Trading Analytics Software**: Tools like [TradeStation](../t/tradestation.md) ( and [MultiCharts](../m/multicharts.md) ( provide sophisticated analytics for quantitative performance analysis.
 
 ## Practical Applications
 
@@ -81,11 +81,11 @@ Once deployed, continuous real-time performance monitoring is vital to ensure th
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by Jim Simons, is renowned for its application of quantitative performance analysis in trading. Using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, Renaissance has successfully managed one of the most profitable [hedge](../h/hedge.md) funds in the world. More details can be found on their website: [Renaissance Technologies](https://www.rentec.com/).
+Renaissance Technologies, founded by Jim Simons, is renowned for its application of quantitative performance analysis in trading. Using sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms, Renaissance has successfully managed one of the most profitable [hedge](../h/hedge.md) funds in the world. More
 
 ### Two Sigma
 
-Two Sigma is another [firm](../f/firm.md) that leverages quantitative performance analysis to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Their focus on [data science](../d/data_science_in_trading.md) and advanced modeling has helped them achieve impressive returns in the [financial markets](../f/financial_market.md). For more information, visit: [Two Sigma](https://www.twosigma.com/).
+Two Sigma is another [firm](../f/firm.md) that leverages quantitative performance analysis to develop [robust](../r/robust.md) [trading strategies](../t/trading_strategies.md). Their focus on [data science](../d/data_science_in_trading.md) and advanced modeling has helped them achieve impressive returns in the [financial markets](../f/financial_market.md). For more information, visit: Two Sigma.
 
 ## Conclusion
 

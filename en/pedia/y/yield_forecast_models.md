@@ -69,11 +69,11 @@ As with financial yields, [machine learning](../m/machine_learning.md) models ar
 ## 4. Case Studies and Applications
 
 ### 4.1 Financial Case Studies
-- **BlackRock's Aladdin Platform:** Uses advanced analytics for [yield forecasting](../y/yield_forecasting.md) and [risk management](../r/risk_management.md). [BlackRock](https://www.blackrock.com/)
+- **BlackRock's Aladdin Platform:** Uses advanced analytics for [yield forecasting](../y/yield_forecasting.md) and [risk management](../r/risk_management.md). BlackRock
 
 ### 4.2 Agricultural Case Studies
-- **John Deere’s Precision Agriculture:** Employs [machine learning](../m/machine_learning.md) and GIS for [yield](../y/yield.md) mapping and prediction. [John Deere](https://www.deere.com/)
-- **NASA’s SERVIR Project:** Uses satellite data for agricultural monitoring and [yield forecasting](../y/yield_forecasting.md). [NASA SERVIR](https://www.servirglobal.net/)
+- **John Deere’s Precision Agriculture:** Employs [machine learning](../m/machine_learning.md) and GIS for [yield](../y/yield.md) mapping and prediction. John Deere
+- **NASA’s SERVIR Project:** Uses satellite data for agricultural monitoring and [yield forecasting](../y/yield_forecasting.md). NASA SERVIR
 
 ## 5. Challenges and Future Directions
 

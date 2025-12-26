@@ -73,7 +73,7 @@ In many cases, banks may decide to write off bad loans after exhausting all mean
 Enacting and enforcing [robust](../r/robust.md) legal frameworks that facilitate speedy resolution of NPAs and recovery of bad debts can significantly reduce the prevalence and impact of NPAs. In some jurisdictions, specialized courts or tribunals may be established for this purpose.
 
 ## Regulatory Perspective
-Regulatory bodies across the world have established frameworks and guidelines for managing and reporting NPAs. Central banks and financial regulatory authorities play a key role in setting and enforcing these standards. 
+Regulatory bodies across the world have established frameworks and guidelines for managing and reporting NPAs. Central banks and financial regulatory authorities play a key role in setting and enforcing these standards.
 
 ### Basel Norms
 The Basel Committee on Banking Supervision provides global standards for the regulation of banks. The Basel norms emphasize the importance of maintaining adequate levels of [capital](../c/capital.md) to cushion against potential losses from NPAs.

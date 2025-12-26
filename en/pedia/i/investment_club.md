@@ -129,7 +129,7 @@ As with all investments, there is an inherent [market risk](../m/market_risk.md)
 
 ### BetterInvesting (National Association of Investors Corp - NAIC)
 
-[BetterInvesting](https://www.betterinvesting.org/) is a non-[profit](../p/profit.md) organization that provides education and tools for investment clubs. They [offer](../o/offer.md) resources for starting and maintaining investment clubs, including software, publications, and educational materials.
+BetterInvesting is a non-[profit](../p/profit.md) organization that provides education and tools for investment clubs. They [offer](../o/offer.md) resources for starting and maintaining investment clubs, including software, publications, and educational materials.
 
 ### The Beardstown Ladies
 

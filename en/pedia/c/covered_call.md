@@ -29,9 +29,9 @@ The [expiration date](../e/expiration_date.md) is the date on which the option e
 
 4. **Wait for Expiration**: The [trader](../t/trader.md) waits until the option's [expiration date](../e/expiration_date.md). Several outcomes are possible:
 
-    - **Option Expires Worthless**: If the stock price remains below the [strike price](../s/strike_price.md) at expiration, the [call option](../c/call_option.md) expires worthless. The [trader](../t/trader.md) retains the [premium](../p/premium.md) and keeps the stock.
-    
-    - **Option is Exercised**: If the stock price exceeds the [strike price](../s/strike_price.md), the option is exercised. The [trader](../t/trader.md) sells the stock at the [strike price](../s/strike_price.md) and still retains the [premium](../p/premium.md).
+ - **Option Expires Worthless**: If the stock price remains below the [strike price](../s/strike_price.md) at expiration, the [call option](../c/call_option.md) expires worthless. The [trader](../t/trader.md) retains the [premium](../p/premium.md) and keeps the stock.
+
+ - **Option is Exercised**: If the stock price exceeds the [strike price](../s/strike_price.md), the option is exercised. The [trader](../t/trader.md) sells the stock at the [strike price](../s/strike_price.md) and still retains the [premium](../p/premium.md).
 
 ## Benefits of Covered Calls
 

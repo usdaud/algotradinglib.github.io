@@ -2,6 +2,8 @@
 
 A Window Guaranteed Investment Contract (GIC), also known simply as a Window GIC, is a specific type of investment that is commonly used within the framework of retirement plans, especially those provided by employers like pension plans and 401(k) plans. GICs are designed to be low-[risk](../r/risk.md) investments that [offer](../o/offer.md) a guaranteed [rate of return](../r/rate_of_return.md) over a fixed period of time. The term "window" in Window GIC refers to a specific timeframe during which participants can invest in the contract.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Components of Window GIC
 
 ### Definition and Structure
@@ -38,7 +40,7 @@ Window GICs play a critical role in retirement portfolios for a variety of reaso
 
 ### Traditional Window GIC
 
-This is the most straightforward form, where the investment is made during the window period and the [interest rate](../i/interest_rate.md) is fixed for the term of the contract. 
+This is the most straightforward form, where the investment is made during the window period and the [interest rate](../i/interest_rate.md) is fixed for the term of the contract.
 
 ### Floating Rate Window GIC
 
@@ -137,6 +139,6 @@ In recent years, there have been innovations in the structure of GICs to cater t
 
 ## Conclusion
 
-Window Guaranteed Investment Contracts [offer](../o/offer.md) a secure and predictable investment option, particularly suitable for conservative investors looking to safeguard their [principal](../p/principal.md). Their primary applications are in retirement and education savings plans, [offering](../o/offering.md) guaranteed returns over fixed periods. While they come with certain restrictions and lower returns compared to more volatile [asset](../a/asset.md) classes, they provide an essential tool in balanced investment strategies focused on [capital preservation](../c/capital_preservation.md) and [income](../i/income.md) predictability. Understanding the specific terms, [issuer](../i/issuer.md) credibility, and [market](../m/market.md) conditions can help investors effectively incorporate Window GICs into their portfolios. 
+Window Guaranteed Investment Contracts [offer](../o/offer.md) a secure and predictable investment option, particularly suitable for conservative investors looking to safeguard their [principal](../p/principal.md). Their primary applications are in retirement and education savings plans, [offering](../o/offering.md) guaranteed returns over fixed periods. While they come with certain restrictions and lower returns compared to more volatile [asset](../a/asset.md) classes, they provide an essential tool in balanced investment strategies focused on [capital preservation](../c/capital_preservation.md) and [income](../i/income.md) predictability. Understanding the specific terms, [issuer](../i/issuer.md) credibility, and [market](../m/market.md) conditions can help investors effectively incorporate Window GICs into their portfolios.
 
-For more information on specific Window GIC products, one could visit the websites of major [insurance](../i/insurance.md) companies and financial institutions [offering](../o/offering.md) these contracts. 
+For more information on specific Window GIC products, one could visit the websites of major [insurance](../i/insurance.md) companies and financial institutions [offering](../o/offering.md) these contracts.

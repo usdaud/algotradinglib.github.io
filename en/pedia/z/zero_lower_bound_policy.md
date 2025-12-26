@@ -15,7 +15,7 @@ The ZLB refers to the minimum level to which a central [bank](../b/bank.md) can 
 ### Implications
 
 1. **[Liquidity Trap](../l/liquidity_trap.md)**: When [interest](../i/interest.md) rates are at or near zero, [monetary policy](../m/monetary_policy.md) alone may be insufficient to stimulate the [economy](../e/economy.md). This can lead to a [liquidity trap](../l/liquidity_trap.md), where people hoard cash instead of spending or [investing](../i/investing.md), leading to decreased [aggregate demand](../a/aggregate_demand.md).
-  
+
 2. **[Monetary Policy](../m/monetary_policy.md) Ineffectiveness**: The traditional tools of [monetary policy](../m/monetary_policy.md), such as [open market operations](../o/open_market_operations.md), become less effective. Central banks cannot cut rates further to encourage borrowing and investment.
 
 3. **[Fiscal Policy](../f/fiscal_policy.md) Reliance**: Economies at the ZLB may have to rely more on [fiscal policy](../f/fiscal_policy.md) to boost [demand](../d/demand.md) and economic activity. This includes increased government spending or tax cuts.
@@ -106,6 +106,6 @@ The [zero lower bound](../z/zero_lower_bound.md) on [interest](../i/interest.md)
 
 ## References
 
-- [Federal Reserve](https://www.federalreserve.gov)
-- [European Central Bank](https://www.ecb.europa.eu)
-- [Bank of Japan](https://www.boj.or.jp/en)
+- Federal Reserve
+- European Central Bank
+- Bank of Japan

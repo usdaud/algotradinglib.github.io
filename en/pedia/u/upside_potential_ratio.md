@@ -21,7 +21,7 @@ The **MAR** is often set to the [risk-free rate of return](../r/risk-free_rate_o
 
 1. **Identify MAR (Minimum Acceptable [Return](../r/return.md)):** This can be the [risk](../r/risk.md)-free rate or another [benchmark](../b/benchmark.md) against which the [investor](../i/investor.md) wants to compare performance.
 2. **Calculate [Upside Potential](../u/upside_potential_in_trading.md):** Average the returns that are above the MAR.
-3. **Compute [Downside Risk](../d/downside_risk.md):** Measure the lower partial moment of returns below the MAR. 
+3. **Compute [Downside Risk](../d/downside_risk.md):** Measure the lower partial moment of returns below the MAR.
 4. **Apply the UPR Formula:** Divide the [upside potential](../u/upside_potential_in_trading.md) by the [downside risk](../d/downside_risk.md).
 
 ### Advantages of UPR
@@ -47,9 +47,9 @@ Algorithmic traders can [leverage](../l/leverage.md) UPR to refine their [tradin
 
 Several investment firms and financial technology companies incorporate UPR into their frameworks:
 
-- **Bridgewater Associates (https://www.bridgewater.com/):** As a major player in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), this [firm](../f/firm.md) implements various advanced [performance metrics](../p/performance_metrics.md), including UPR, to gauge and optimize [portfolio performance](../p/portfolio_performance.md).
-- **AQR [Capital](../c/capital.md) Management (https://www.aqr.com/):** Known for quantitatively driven investment strategies, AQR employs a plethora of metrics, with UPR being integral for strategies aiming to [capitalize](../c/capitalize.md) on asymmetric [return](../r/return.md) distributions.
-- **Two Sigma (https://www.twosigma.com/):** This company leverages data-driven approaches and sophisticated models where UPR contributes to identifying algorithmic strategies with superior [upside potential](../u/upside_potential_in_trading.md) relative to benchmarks.
-- **Renaissance Technologies (https://www.rentec.com/):** One of the most successful quant [hedge](../h/hedge.md) funds, Renaissance Technologies uses a [range](../r/range.md) of metrics, including UPR, to fine-tune their algorithms and strategies for better performance.
+- **Bridgewater Associates ( As a major player in the [hedge fund](../h/hedge_fund.md) [industry](../i/industry.md), this [firm](../f/firm.md) implements various advanced [performance metrics](../p/performance_metrics.md), including UPR, to gauge and optimize [portfolio performance](../p/portfolio_performance.md).
+- **AQR [Capital](../c/capital.md) Management ( Known for quantitatively driven investment strategies, AQR employs a plethora of metrics, with UPR being integral for strategies aiming to [capitalize](../c/capitalize.md) on asymmetric [return](../r/return.md) distributions.
+- **Two Sigma ( This company leverages data-driven approaches and sophisticated models where UPR contributes to identifying algorithmic strategies with superior [upside potential](../u/upside_potential_in_trading.md) relative to benchmarks.
+- **Renaissance Technologies ( One of the most successful quant [hedge](../h/hedge.md) funds, Renaissance Technologies uses a [range](../r/range.md) of metrics, including UPR, to fine-tune their algorithms and strategies for better performance.
 
 By integrating UPR into their performance measurement arsenal, these companies can better navigate the complexities of the [financial markets](../f/financial_market.md), optimize their investment strategies, and improve [risk](../r/risk.md)-adjusted returns for their clients.

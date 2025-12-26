@@ -66,4 +66,4 @@ As with any [derivative](../d/derivative.md) instrument, ZEBRA swaps carry [coun
 
 Zero [Basis Risk](../b/basis_risk.md) Swaps (ZEBRA) are powerful tools for financial professionals looking to achieve perfect hedges against various types of [risk](../r/risk.md). By eliminating [basis risk](../b/basis_risk.md), ZEBRA swaps [offer](../o/offer.md) unparalleled certainty and financial stability. However, the complexity and cost associated with these instruments require careful consideration and expertise. For those able to navigate their intricacies, ZEBRA swaps can provide significant benefits in [risk management](../r/risk_management.md) across currencies, [interest](../i/interest.md) rates, and commodities.
 
-For further information on financial instruments and [derivative](../d/derivative.md) products, you can visit the websites of leading financial institutions such as [Goldman Sachs](https://www.goldmansachs.com) or [J.P. Morgan](https://www.jpmorgan.com).
+For further information on financial instruments and [derivative](../d/derivative.md) products, you can visit the websites of leading financial institutions such as Goldman Sachs or J.P. Morgan.

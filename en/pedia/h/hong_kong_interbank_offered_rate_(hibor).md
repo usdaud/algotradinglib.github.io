@@ -1,6 +1,6 @@
 # Hong Kong Interbank Offered Rate (HIBOR)
 
-The Hong Kong Interbank Offered Rate (HIBOR) is a daily [reference rate](../r/reference_rate.md), published by the Hong Kong Association of Banks (HKAB), for interbank lending in the Hong Kong [market](../m/market.md). This rate is crucial for several financial operations, including [algorithmic trading](../a/accountability.md) (algotrading), as it serves as a [benchmark](../b/benchmark.md) for a variety of financial products and contracts. HIBOR is comparable to other global [benchmark](../b/benchmark.md) rates such as LIBOR (London Interbank Offered Rate) and EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate), but it is special to the Hong Kong region and is quoted in Hong Kong dollars (HKD). This comprehensive overview dives into HIBOR's characteristics, its calculation, significance in [financial markets](../f/financial_market.md), and implications for [algorithmic trading](../a/accountability.md).
+The Hong Kong Interbank Offered Rate (HIBOR) is a daily [reference rate](../r/reference_rate.md), published by the Hong Kong Association of Banks (HKAB), for interbank lending in the Hong Kong [market](../m/market.md). This rate is crucial for several financial operations, including [algorithmic trading](../a/algorithmic_trading.md) (algotrading), as it serves as a [benchmark](../b/benchmark.md) for a variety of financial products and contracts. HIBOR is comparable to other global [benchmark](../b/benchmark.md) rates such as LIBOR (London Interbank Offered Rate) and EURIBOR ([Euro](../e/euro.md) Interbank Offered Rate), but it is special to the Hong Kong region and is quoted in Hong Kong dollars (HKD). This comprehensive overview dives into HIBOR's characteristics, its calculation, significance in [financial markets](../f/financial_market.md), and implications for [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Calculation of HIBOR
 
@@ -18,7 +18,7 @@ The panel is composed of both local and international banks operating in Hong Ko
 
 ## Historical Context
 
-The HIBOR was introduced in 1983, during a period of significant financial [expansion](../e/expansion.md) in Hong Kong. It has since become a critical [indicator](../i/indicator.md) of the cost of borrowing in the Hong Kong financial [market](../m/market.md). The historical data on HIBOR is archived and can be accessed via the HKAB's official website: [Hong Kong Association of Banks - HIBOR](https://www.hkab.org.hk).
+The HIBOR was introduced in 1983, during a period of significant financial [expansion](../e/expansion.md) in Hong Kong. It has since become a critical [indicator](../i/indicator.md) of the cost of borrowing in the Hong Kong financial [market](../m/market.md). The historical data on HIBOR is archived and can be accessed.
 
 ## Significance in Financial Markets
 
@@ -40,7 +40,7 @@ HIBOR is often compared to other global [benchmark](../b/benchmark.md) rates lik
 
 ## Impact on Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), or algotrading, leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades. The implications of HIBOR for algotrading can be seen across several domains:
+[Algorithmic trading](../a/algorithmic_trading.md), or algotrading, leverages advanced [mathematical models](../m/mathematical_models_in_trading.md) and high-speed computing to execute trades. The implications of HIBOR for algotrading can be seen across several domains:
 
 ### Trading Strategies
 
@@ -96,6 +96,6 @@ As Hong Kong’s financial [market](../m/market.md) continues to integrate with 
 
 ## Conclusion
 
-The Hong Kong Interbank Offered Rate (HIBOR) plays a pivotal role in the financial [market](../m/market.md) of Hong Kong. From serving as a [benchmark](../b/benchmark.md) for loans and [derivatives](../d/derivatives.md) to shaping strategic and tactical decisions in [algorithmic trading](../a/accountability.md), HIBOR's significance is substantial. For algorithmic traders, keen awareness and sophisticated handling of HIBOR data can markedly enhance both profitability and [risk management](../r/risk_management.md). As [financial markets](../f/financial_market.md) continue to evolve and integrate globally, HIBOR's role is expected to expand, underpinned by continual methodological improvements and technological advancements.
+The Hong Kong Interbank Offered Rate (HIBOR) plays a pivotal role in the financial [market](../m/market.md) of Hong Kong. From serving as a [benchmark](../b/benchmark.md) for loans and [derivatives](../d/derivatives.md) to shaping strategic and tactical decisions in [algorithmic trading](../a/algorithmic_trading.md), HIBOR's significance is substantial. For algorithmic traders, keen awareness and sophisticated handling of HIBOR data can markedly enhance both profitability and [risk management](../r/risk_management.md). As [financial markets](../f/financial_market.md) continue to evolve and integrate globally, HIBOR's role is expected to expand, underpinned by continual methodological improvements and technological advancements.
 
-For more detailed information and the latest updates on HIBOR, visit the official website of the Hong Kong Association of Banks: [Hong Kong Association of Banks](https://www.hkab.org.hk).
+For more detailed information and the latest updates on HIBOR,

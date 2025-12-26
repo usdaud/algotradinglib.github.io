@@ -41,13 +41,13 @@ In algo trading, WMAs are used to smooth data and reduce the [noise](../n/noise.
 ## Implementations in Algorithmic Trading Platforms
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages and [trading strategies](../t/trading_strategies.md), including WMAs. For more information, visit their [official website](https://www.quantconnect.com/).
+[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports [multiple](../m/multiple.md) programming languages and [trading strategies](../t/trading_strategies.md), including WMAs.
 
 ### TradingView
-[TradingView](../t/tradingview.md) is a popular online platform for traders to perform [technical analysis](../t/technical_analysis.md) and share trading ideas. It supports various [technical indicators](../t/technical_indicators.md), including WMAs. More details can be found on their [official website](https://www.tradingview.com/).
+[TradingView](../t/tradingview.md) is a popular online platform for traders to perform [technical analysis](../t/technical_analysis.md) and share trading ideas. It supports various [technical indicators](../t/technical_indicators.md), including WMAs. More
 
 ### MetaTrader 4/5
-MetaTrader platforms are widely used by retail and institutional traders. They [offer](../o/offer.md) a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including WMAs, and are equipped with a [robust](../r/robust.md) scripting language (MQL4/5) for custom [indicator](../i/indicator.md) development. Visit their [official website](https://www.metatrader4.com/) for more information.
+MetaTrader platforms are widely used by retail and institutional traders. They [offer](../o/offer.md) a [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including WMAs, and are equipped with a [robust](../r/robust.md) scripting language (MQL4/5) for custom [indicator](../i/indicator.md) development.
 
 ## Strategies Utilizing WMA
 

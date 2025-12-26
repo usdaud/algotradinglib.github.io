@@ -4,7 +4,7 @@ In the realm of [corporate governance](../c/corporate_governance.md) and [financ
 
 ## Definition and Overview
 
-A Waiver of Notice is a written document by which a person entitled to receive notification of an event waives the right to receive such notice. Essentially, it is a legal instrument whereby an individual or entity relinquishes the right to be informed in advance of a specific meeting, action, or decision. 
+A Waiver of Notice is a written document by which a person entitled to receive notification of an event waives the right to receive such notice. Essentially, it is a legal instrument whereby an individual or entity relinquishes the right to be informed in advance of a specific meeting, action, or decision.
 
 This is commonly used in corporate settings, particularly in relation to board meetings, [shareholder](../s/shareholder.md) meetings, or any other formal proceedings where notice is typically required by law or corporate bylaws.
 
@@ -65,7 +65,7 @@ While a Waiver of Notice can streamline processes and provide flexibility, it in
 
 ### Electronic Waivers
 
-In today's digital era, electronic communication is increasingly preferred. E-signatures on Waivers of Notice are legally recognized under frameworks like the Electronic Signatures in Global and National [Commerce](../c/commerce.md) Act (E-SIGN Act) in the United States and the eIDAS Regulation in the EU, promoting seamless [corporate governance](../c/corporate_governance.md). 
+In today's digital era, electronic communication is increasingly preferred. E-signatures on Waivers of Notice are legally recognized under frameworks like the Electronic Signatures in Global and National [Commerce](../c/commerce.md) Act (E-SIGN Act) in the United States and the eIDAS Regulation in the EU, promoting seamless [corporate governance](../c/corporate_governance.md).
 
 ### Cybersecurity
 
@@ -75,7 +75,7 @@ However, the digital nature introduces cybersecurity concerns. Corporations must
 
 Fintech solutions and [corporate governance](../c/corporate_governance.md) platforms often integrate waiver functionalities, allowing streamlined and secure collection of waivers. Responsive design for mobile and web applications ensures that board members or shareholders can sign waivers quickly, no matter their location.
 
-Platforms such as Diligent (https://diligent.com/) and BoardEffect (https://www.boardeffect.com/) provide comprehensive tools that include Waiver of Notice mechanisms, helping automate and manage the process efficiently.
+Platforms such as Diligent and BoardEffect provide comprehensive tools that include Waiver of Notice mechanisms, helping automate and manage the process efficiently.
 
 ## Conclusion
 

@@ -47,20 +47,17 @@ Standard [discount](../d/discount.md) brokers provide a balance between low cost
 ## Popular Discount Brokers
 
 ### Robinhood
-An American financial services company, [Robinhood](../r/robinhood.md) offers [commission](../c/commission.md)-free trades of [stocks](../s/stock.md), ETFs, and cryptocurrencies via a mobile app introduced in March 2015. As of 2022, https://www.[robinhood](../r/robinhood.md).com provides a clean and intuitive interface and has been instrumental in popularizing zero-[commission](../c/commission.md) trading.
+An American financial services company, [Robinhood](../r/robinhood.md) offers [commission](../c/commission.md)-free trades of [stocks](../s/stock.md), ETFs, and cryptocurrencies via a mobile app introduced in March 2015. As of 2022, provides a clean and intuitive interface and has been instrumental in popularizing zero-[commission](../c/commission.md) trading.
 
 ### E*TRADE
-Acquired by Morgan Stanley, [E*TRADE](../e/e_trade.md) is a financial services company that provides an electronic [trading platform](../t/trading_platform.md) to [trade](../t/trade.md) financial assets including common [stocks](../s/stock.md), preferred [stocks](../s/stock.md), [futures contracts](../f/futures_contracts.md), [exchange](../e/exchange.md)-traded funds, [options](../o/options.md), mutual funds, and fixed-[income](../i/income.md) investments. More information can be found at https://us.etrade.com.
-
+Acquired by Morgan Stanley, [E*TRADE](../e/e_trade.md) is a financial services company that provides an electronic [trading platform](../t/trading_platform.md) to [trade](../t/trade.md) financial assets including common [stocks](../s/stock.md), preferred [stocks](../s/stock.md), [futures contracts](../f/futures_contracts.md), [exchange](../e/exchange.md)-traded funds, [options](../o/options.md), mutual funds, and fixed-[income](../i/income.md) investments. More information can be found at
 ### Charles Schwab
-[Charles Schwab](../c/charles_schwab.md) is one of the largest [discount](../d/discount.md) brokers in the United States, providing a comprehensive [range](../r/range.md) of investment services. Schwab offers low-cost [trade](../t/trade.md) [execution](../e/execution.md) along with a suite of technological tools and resources. Visit https://www.schwab.com for more details.
+[Charles Schwab](../c/charles_schwab.md) is one of the largest [discount](../d/discount.md) brokers in the United States, providing a comprehensive [range](../r/range.md) of investment services. Schwab offers low-cost [trade](../t/trade.md) [execution](../e/execution.md) along with a suite of technological tools and resources. Visit for more details.
 
 ### Fidelity Investments
-Fidelity provides financial services such as [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), portfolio [guidance](../g/guidance.md), brokerage, benefits [outsourcing](../o/outsourcing.md), and a [range](../r/range.md) of financial products. Their [discount](../d/discount.md) brokerage service is known for low fees, excellent [customer service](../c/customer_service.md), and advanced trading platforms. More information is available at https://www.fidelity.com.
-
-### TD Ameritrade
-TD [Ameritrade](../a/ameritrade.md) is another major player in the [discount](../d/discount.md) brokerage [market](../m/market.md). Known for its widely-used Thinkorswim [trading platform](../t/trading_platform.md), TD [Ameritrade](../a/ameritrade.md) offers a [range](../r/range.md) of investment services with competitive fees. For more details, see https://www.tdameritrade.com.
-
+Fidelity provides financial services such as [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), portfolio [guidance](../g/guidance.md), brokerage, benefits [outsourcing](../o/outsourcing.md), and a [range](../r/range.md) of financial products. Their [discount](../d/discount.md) brokerage service is known for low fees, excellent [customer service](../c/customer_service.md), and advanced trading platforms. More information is available at
+### TD Ameritrade (Now Part of Charles Schwab)
+TD Ameritrade was a major player in the [discount](../d/discount.md) brokerage [market](../m/market.md), known for its widely-used Thinkorswim [trading platform](../t/trading_platform.md). In September 2023, TD Ameritrade was fully integrated into Charles Schwab following their merger. The Thinkorswim platform continues to be available through Schwab. For more details, see
 ## How to Choose a Discount Broker
 
 ### Cost

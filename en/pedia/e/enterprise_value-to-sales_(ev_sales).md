@@ -41,7 +41,7 @@ This means the [market](../m/market.md) values the company at 5 times its annual
 
 ### Comparisons Across Industries
 
-The EV/Sales ratio allows for easier comparison across different companies within the same [industry](../i/industry.md). For example, tech companies with high growth potential might have higher EV/Sales ratios compared to more [capital](../c/capital.md)-intensive industries like [manufacturing](../m/manufacturing.md). 
+The EV/Sales ratio allows for easier comparison across different companies within the same [industry](../i/industry.md). For example, tech companies with high growth potential might have higher EV/Sales ratios compared to more [capital](../c/capital.md)-intensive industries like [manufacturing](../m/manufacturing.md).
 
 ### Growth Projections and Valuations
 
@@ -105,7 +105,7 @@ def compute_ev_sales_ratio(data):
     [return](../r/return.md) data
 
 # Sample dataset
-data = pd.DataFrame({
+data = pd.DataFrame{
     'Ticker': ['AMZN', 'TSLA', 'GE', 'NFLX'],
     'MarketCap': [1700e9, 800e9, 90e9, 200e9],
     'TotalDebt': [110e9, 12e9, 50e9, 15e9],

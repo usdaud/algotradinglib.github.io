@@ -43,5 +43,3 @@ SelfWealth is regulated by several top-tier financial authorities in Australia, 
 - Australian Securities and Investments [Commission](../c/commission.md) (ASIC)
 - Australian Financial Services License (AFSL)
 
-## Website
-For more information and to start trading, visit the official SelfWealth website: [SelfWealth](https://www.selfwealth.com.au)

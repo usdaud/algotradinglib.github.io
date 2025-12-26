@@ -70,11 +70,11 @@ Buybacks can significantly impact the [market](../m/market.md) and [investor](..
 
 ### Apple Inc.
 
-Apple Inc. (https://www.apple.com) has been one of the most prominent examples of a successful buyback program. Starting in 2012, Apple initiated its [capital](../c/capital.md) [return](../r/return.md) program, which included both dividends and share repurchases. By 2022, Apple had returned over $500 billion to shareholders, significantly impacting its EPS and stock price.
+Apple Inc. ( has been one of the most prominent examples of a successful buyback program. Starting in 2012, Apple initiated its [capital](../c/capital.md) [return](../r/return.md) program, which included both dividends and share repurchases. By 2022, Apple had returned over $500 billion to shareholders, significantly impacting its EPS and stock price.
 
 ### ExxonMobil
 
-ExxonMobil (https://corporate.exxonmobil.com) engaged in substantial buybacks during the early 2000s. While the buybacks helped increase its EPS, critics argue that the [capital](../c/capital.md) could have been better spent on renewable energy investments or acquisitions to future-proof the company.
+ExxonMobil ( engaged in substantial buybacks during the early 2000s. While the buybacks helped increase its EPS, critics argue that the [capital](../c/capital.md) could have been better spent on renewable energy investments or acquisitions to future-proof the company.
 
 ## Strategic Considerations
 

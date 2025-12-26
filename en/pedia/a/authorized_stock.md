@@ -49,13 +49,11 @@ Many companies use stock [options](../o/options.md) as part of executive compens
 
 Apple Inc., a global technology giant, provides a detailed breakdown of its authorized, issued, and outstanding [shares](../s/shares.md) in its annual reports. For example, according to its 2022 10-K filing, Apple had 12.6 billion [shares](../s/shares.md) of authorized [common stock](../c/common_stock.md), with 16 billion [shares](../s/shares.md) issued and 15.4 billion [shares](../s/shares.md) outstanding (when adjusted for stock splits and buybacks).
 
-For more information, visit [Apple Inc.'s Investor Relations](https://investor.apple.com/).
 
 ### Tesla Inc. (TSLA)
 
 Tesla Inc., an electric vehicle manufacturer and clean energy company, frequently updates its shareholders about changes in authorized stock. In 2020, Tesla's shareholders approved an increase in the number of authorized [shares](../s/shares.md) to facilitate a 5-for-1 [stock split](../s/stock_split.md), demonstrating how authorized stock can be adjusted to support corporate strategies.
 
-For more information, visit [Tesla Inc.'s Investor Relations](https://ir.tesla.com/).
 
 ## Legal and Regulatory Framework
 

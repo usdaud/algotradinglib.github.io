@@ -5,7 +5,7 @@ Leveraged [recapitalization](../r/recapitalization.md) is a financial strategy t
 ### Key Components of Leveraged Recapitalization
 
 1. **[Debt](../d/debt.md) Issuance**: The company issues new [debt](../d/debt.md), which can be in the form of bonds, loans, or other [debt](../d/debt.md) instruments. This infusion of [capital](../c/capital.md) is used to [finance](../f/finance.md) a large [payout](../p/payout.md) or buy back [shares](../s/shares.md).
-   
+
 2. **Large [Payout](../p/payout.md) or Share [Buyback](../b/buyback.md)**: The proceeds from the newly issued [debt](../d/debt.md) are used to pay a significant [dividend](../d/dividend.md) to shareholders or to repurchase [shares](../s/shares.md), thereby reducing the [equity](../e/equity.md) base.
 
 ### Objectives and Motivations
@@ -29,14 +29,14 @@ Leveraged [recapitalization](../r/recapitalization.md) is a financial strategy t
 ### Examples and Case Studies
 
 - **RJR Nabisco**: One of the most famous examples of leveraged [recapitalization](../r/recapitalization.md) is RJR Nabisco's leveraged [buyout](../b/buyout.md) in the late 1980s. This deal involved a massive amount of [debt](../d/debt.md) and transformed the financial landscape of the company.
-  
+
 - **Dell Technologies**: In 2013, Dell underwent a leveraged [recapitalization](../r/recapitalization.md) as part of its [privatization](../p/privatization.md) process, involving significant [debt](../d/debt.md) to buy out its public [shares](../s/shares.md).
 
 ### Leveraged Recapitalization in Practice
-  
+
 1. **[Valuation](../v/valuation.md) Impact**: Leveraged [recapitalization](../r/recapitalization.md) can impact the [valuation](../v/valuation.md) of a company. The [market](../m/market.md) response can vary based on perceptions of the company's ability to manage increased [debt](../d/debt.md) levels and sustain cash flows.
-   
-2. **[Investor Relations](../i/investor_relations.md)**: Communicating the strategy and its intended benefits clearly to investors is crucial. [Transparency](../t/transparency.md) about the rationales and future plans can help manage [market](../m/market.md) reactions.
+
+2. **[company filings](../i/investor_relations.md)**: Communicating the strategy and its intended benefits clearly to investors is crucial. [Transparency](../t/transparency.md) about the rationales and future plans can help manage [market](../m/market.md) reactions.
 
 3. **Regulatory Considerations**: Companies must navigate regulatory requirements and covenants associated with the new [debt](../d/debt.md).
 

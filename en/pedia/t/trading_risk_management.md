@@ -68,19 +68,19 @@ Regular audits of [trading algorithms](../t/trading_algorithms.md) and [risk man
 
 ### 1. **Numerix**
 Numerix provides [risk management](../r/risk_management.md) software and services to the global [market](../m/market.md). Their solutions help financial institutions manage [market risk](../m/market_risk.md), [liquidity risk](../l/liquidity_risk.md), and [credit risk](../c/credit_risk.md) effectively.
-Website: [Numerix](https://www.numerix.com)
+online platform: Numerix
 
 ### 2. **RiskMetrics**
 RiskMetrics, part of MSCI Inc., offers comprehensive [risk](../r/risk.md) assessment tools and analytics that help traders and financial institutions manage various risks, including [market](../m/market.md) and [credit risk](../c/credit_risk.md).
-Website: [MSCI Inc.](https://www.msci.com/riskmetrics)
+online platform: MSCI Inc.
 
 ### 3. **Axioma**
 Axioma, also part of MSCI Inc., specializes in [risk management](../r/risk_management.md) software and solutions that empower traders with advanced tools for portfolio [risk](../r/risk.md) assessment and management.
-Website: [Axioma](https://www.msci.com/axioma)
+online platform: Axioma
 
 ### 4. **Quantifi**
 Quantifi provides analytics and [risk management](../r/risk_management.md) solutions for the global [financial markets](../f/financial_market.md), including tools for pricing, trading, and [risk management](../r/risk_management.md) across a wide [range](../r/range.md) of [asset](../a/asset.md) classes.
-Website: [Quantifi](https://www.quantifisolutions.com)
+online platform: Quantifi
 
 ## Conclusion
 

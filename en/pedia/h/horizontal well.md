@@ -1,6 +1,6 @@
 # Horizontal Well
 
-Horizontal wells represent a significant advancement in drilling technology, enabling oil and gas companies to access reserves in ways traditional vertical wells cannot. They are particularly effective in enhancing production from unconventional reservoirs, such as shale formations, which are typically characterized by extensive lateral continuity but limited vertical permeability. The evolution of horizontal drilling, combined with [hydraulic fracturing](../h/hydraulic_fracturing.md), has been a key driver in the boom of shale gas and tight oil production. This article delves into the critical aspects of horizontal wells, ranging from their design and implementation strategies to their operational challenges and economic implications. 
+Horizontal wells represent a significant advancement in drilling technology, enabling oil and gas companies to access reserves in ways traditional vertical wells cannot. They are particularly effective in enhancing production from unconventional reservoirs, such as shale formations, which are typically characterized by extensive lateral continuity but limited vertical permeability. The evolution of horizontal drilling, combined with [hydraulic fracturing](../h/hydraulic_fracturing.md), has been a key driver in the boom of shale gas and tight oil production. This article delves into the critical aspects of horizontal wells, ranging from their design and implementation strategies to their operational challenges and economic implications.
 
 ## Introduction to Horizontal Wells
 

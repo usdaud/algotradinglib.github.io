@@ -1,6 +1,6 @@
 # Sell Discipline
 
-Sell discipline in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to the systematic approach and strategic framework that traders and investment algorithms follow to determine the appropriate time and conditions under which to exit an investment or close a trading position. This entails a set of pre-defined criteria and rules aimed at minimizing losses, locking in gains, and optimizing the overall performance of [trading strategies](../t/trading_strategies.md). 
+Sell discipline in the context of [algorithmic trading](../a/algorithmic_trading.md) refers to the systematic approach and strategic framework that traders and investment algorithms follow to determine the appropriate time and conditions under which to exit an investment or close a trading position. This entails a set of pre-defined criteria and rules aimed at minimizing losses, locking in gains, and optimizing the overall performance of [trading strategies](../t/trading_strategies.md).
 
 ### Importance of Sell Discipline
 
@@ -27,9 +27,9 @@ Sell discipline in the context of [algorithmic trading](../a/algorithmic_trading
 
 ### Real-World Examples
 
-- **Goldman Sachs**: Uses complex [algorithmic trading](../a/algorithmic_trading.md) strategies, many of which incorporate stringent sell disciplines to mitigate [risk](../r/risk.md) and optimize [profit](../p/profit.md). Their Marquee platform offers insights into [market](../m/market.md) conditions which can trigger sell decisions. [Goldman Sachs](https://www.goldmansachs.com/)
-- **Renaissance Technologies**: Known for its [quantitative trading](../q/quantitative_trading.md) strategies, Renaissance Technologies employs rigorous sell disciplines based on scientific and statistical principles. Their Medallion [Fund](../f/fund.md) is a prime example of disciplined trading and sell strategies. [Renaissance Technologies](https://www.rentec.com/)
-- **Two Sigma**: Utilizes [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md) with elaborate sell disciplines integrated to maximize performance while managing [risk](../r/risk.md). [Two Sigma](https://www.twosigma.com/)
+- **Goldman Sachs**: Uses complex [algorithmic trading](../a/algorithmic_trading.md) strategies, many of which incorporate stringent sell disciplines to mitigate [risk](../r/risk.md) and optimize [profit](../p/profit.md). Their Marquee platform offers insights into [market](../m/market.md) conditions which can trigger sell decisions. Goldman Sachs
+- **Renaissance Technologies**: Known for its [quantitative trading](../q/quantitative_trading.md) strategies, Renaissance Technologies employs rigorous sell disciplines based on scientific and statistical principles. Their Medallion [Fund](../f/fund.md) is a prime example of disciplined trading and sell strategies. Renaissance Technologies
+- **Two Sigma**: Utilizes [data science](../d/data_science_in_trading.md) and technology to develop [trading algorithms](../t/trading_algorithms.md) with elaborate sell disciplines integrated to maximize performance while managing [risk](../r/risk.md). Two Sigma
 
 ### Psychological Considerations
 

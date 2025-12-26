@@ -27,7 +27,7 @@ Another critical document often used in conjunction with the [ISDA Master Agreem
 
 ## Legal Opinions
 
-ISDA also produces and maintains a comprehensive library of legal opinions on the enforceability of [netting](../n/netting.md) and [collateral](../c/collateral.md) arrangements under the [ISDA Master Agreement](../i/isda_master_agreement.md). These opinions cover over 60 jurisdictions worldwide and provide legal certainty to [market](../m/market.md) participants about the validity of their transactions in different legal contexts. 
+ISDA also produces and maintains a comprehensive library of legal opinions on the enforceability of [netting](../n/netting.md) and [collateral](../c/collateral.md) arrangements under the [ISDA Master Agreement](../i/isda_master_agreement.md). These opinions cover over 60 jurisdictions worldwide and provide legal certainty to [market](../m/market.md) participants about the validity of their transactions in different legal contexts.
 
 ## Advocacy and Public Policy
 
@@ -64,5 +64,3 @@ ISDA Create is a highly innovative platform launched to enable users to produce,
 ## Conferences and Events
 
 ISDA organizes numerous conferences and events annually, bringing together [industry](../i/industry.md) leaders, policymakers, and [market](../m/market.md) participants to discuss the latest trends, regulatory developments, and [market](../m/market.md) innovations. These events provide valuable [networking](../n/networking.md) opportunities and foster dialogue on critical issues facing the [derivatives](../d/derivatives.md) markets.
-
-For further details on ISDA, including its publications, educational resources, and ongoing initiatives, you can visit their official website at [www.isda.org](https://www.isda.org).

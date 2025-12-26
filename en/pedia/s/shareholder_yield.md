@@ -1,17 +1,17 @@
 # Shareholder Yield
 
-[Shareholder](../s/shareholder.md) [yield](../y/yield.md) is a crucial financial metric used primarily by investors to gauge the [total return](../t/total_return.md) that shareholders receive from owning a particular stock. This comprehensive measure combines dividends, buybacks, and [debt](../d/debt.md) reduction to provide a full picture of the returns a company provides to its shareholders. The concept has gained traction over the years as investors seek more holistic approaches to evaluating potential investments. 
+[Shareholder](../s/shareholder.md) [yield](../y/yield.md) is a crucial financial metric used primarily by investors to gauge the [total return](../t/total_return.md) that shareholders receive from owning a particular stock. This comprehensive measure combines dividends, buybacks, and [debt](../d/debt.md) reduction to provide a full picture of the returns a company provides to its shareholders. The concept has gained traction over the years as investors seek more holistic approaches to evaluating potential investments.
 
 ## Key Components of Shareholder Yield
 
 1. **Dividends**
-    - Dividends are periodic payments made to shareholders from a company's [earnings](../e/earnings.md). Typically, companies distribute dividends on a quarterly [basis](../b/basis.md), although some might opt for annual or semi-annual payments. Dividends provide a steady [income](../i/income.md) stream and are often seen as a sign of a company's [financial health](../f/financial_health.md) and profitability.
+ - Dividends are periodic payments made to shareholders from a company's [earnings](../e/earnings.md). Typically, companies distribute dividends on a quarterly [basis](../b/basis.md), although some might opt for annual or semi-annual payments. Dividends provide a steady [income](../i/income.md) stream and are often seen as a sign of a company's [financial health](../f/financial_health.md) and profitability.
 
 2. **[Share Buybacks](../s/share_buybacks.md)**
-    - [Share buybacks](../s/share_buybacks.md), or stock repurchases, occur when a company buys back its [shares](../s/shares.md) from the marketplace. This action reduces the number of [shares](../s/shares.md) outstanding, increasing the relative ownership stake of each remaining share. Buybacks can serve as an [indicator](../i/indicator.md) of a company's confidence in its future growth prospects and an efficient use of [capital](../c/capital.md) when the [shares](../s/shares.md) are [undervalued](../u/undervalued.md).
+ - [Share buybacks](../s/share_buybacks.md), or stock repurchases, occur when a company buys back its [shares](../s/shares.md) from the marketplace. This action reduces the number of [shares](../s/shares.md) outstanding, increasing the relative ownership stake of each remaining share. Buybacks can serve as an [indicator](../i/indicator.md) of a company's confidence in its future growth prospects and an efficient use of [capital](../c/capital.md) when the [shares](../s/shares.md) are [undervalued](../u/undervalued.md).
 
 3. **[Debt](../d/debt.md) [Repayment](../r/repayment.md)**
-    - [Debt](../d/debt.md) [repayment](../r/repayment.md) involves a company using [excess cash flow](../e/excess_cash_flow.md) to pay down its existing [debt](../d/debt.md). Reducing [debt](../d/debt.md) can lower [interest](../i/interest.md) expenses and improve the company’s [balance sheet](../b/balance_sheet.md), making it more financially stable and potentially more attractive to investors.
+ - [Debt](../d/debt.md) [repayment](../r/repayment.md) involves a company using [excess cash flow](../e/excess_cash_flow.md) to pay down its existing [debt](../d/debt.md). Reducing [debt](../d/debt.md) can lower [interest](../i/interest.md) expenses and improve the company’s [balance sheet](../b/balance_sheet.md), making it more financially stable and potentially more attractive to investors.
 
 ## Calculating Shareholder Yield
 
@@ -34,20 +34,20 @@ Using the formula, the [Shareholder](../s/shareholder.md) [Yield](../y/yield.md)
 ## Why Shareholder Yield Matters
 
 - **Comprehensive Performance Measure**: Unlike traditional metrics such as [dividend yield](../d/dividend_yield.md) or [earnings](../e/earnings.md) per share (EPS), [shareholder](../s/shareholder.md) [yield](../y/yield.md) accounts for all forms of returns to shareholders. This holistic approach provides a fuller picture of a company’s commitment to returning [capital](../c/capital.md) to its owners.
-  
+
 - **[Indicator](../i/indicator.md) of [Financial Health](../f/financial_health.md)**: High [shareholder](../s/shareholder.md) [yield](../y/yield.md) can indicate that a company is in a strong financial position, with sufficient [cash flow](../c/cash_flow.md) to distribute dividends, buy back [shares](../s/shares.md), and pay down [debt](../d/debt.md).
-  
+
 - **Signal of Management Confidence**: When a company engages in [share buybacks](../s/share_buybacks.md), it often signals that management believes the stock is [undervalued](../u/undervalued.md) and has strong future prospects.
 
 - **Stability and Predictability**: Companies with consistent returns through dividends and buybacks can [offer](../o/offer.md) stability and predictability, which are attractive features to long-term investors.
 
 ## Examples of Companies with High Shareholder Yield
 
-- **Apple Inc.**: Apple is renowned for its substantial share [buyback](../b/buyback.md) programs and consistent [dividend](../d/dividend.md) payments, making it a prime example of a company with high [shareholder](../s/shareholder.md) [yield](../y/yield.md). For more information, visit [Apple’s investor relations page](https://investor.apple.com).
+- **Apple Inc.**: Apple is renowned for its substantial share [buyback](../b/buyback.md) programs and consistent [dividend](../d/dividend.md) payments, making it a prime example of a company with high [shareholder](../s/shareholder.md) [yield](../y/yield.md).
 
-- **Microsoft [Corporation](../c/corporation.md)**: Microsoft has been returning significant [value](../v/value.md) to its shareholders through its steady [dividend](../d/dividend.md) increases and [share repurchase](../s/share_repurchase.md) programs. More details can be found on [Microsoft’s investor relations page](https://www.microsoft.com/en-us/Investor).
+- **Microsoft [Corporation](../c/corporation.md)**: Microsoft has been returning significant [value](../v/value.md) to its shareholders through its steady [dividend](../d/dividend.md) increases and [share repurchase](../s/share_repurchase.md) programs.
 
-- **[Berkshire Hathaway](../b/berkshire_hathaway.md)**: Known for its conservative fiscal policies, [Berkshire Hathaway](../b/berkshire_hathaway.md) uses excess cash to buy back [shares](../s/shares.md) when management believes they are [undervalued](../u/undervalued.md), thus boosting [shareholder](../s/shareholder.md) [yield](../y/yield.md). Additional details are available on [Berkshire Hathaway’s investor relations page](https://www.berkshirehathaway.com).
+- **[Berkshire Hathaway](../b/berkshire_hathaway.md)**: Known for its conservative fiscal policies, [Berkshire Hathaway](../b/berkshire_hathaway.md) uses excess cash to buy back [shares](../s/shares.md) when management believes they are [undervalued](../u/undervalued.md), thus boosting [shareholder](../s/shareholder.md) [yield](../y/yield.md). Additional details are available on Berkshire Hathaway’s company filings.
 
 ## Caveats and Considerations
 

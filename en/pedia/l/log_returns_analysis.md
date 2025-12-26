@@ -109,8 +109,8 @@ Several libraries and tools facilitate log [return](../r/return.md) calculations
 
 ### Platforms
 
-- **[QuantConnect](https://www.quantconnect.com/)**: A cloud-based platform that allows users to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies using historical and real-time data.
-- **[Alpaca](https://alpaca.markets/)**: An API for [algorithmic trading](../a/algorithmic_trading.md) that provides historical [market](../m/market.md) data and facilitates the [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
+- **QuantConnect**: A cloud-based platform that allows users to develop, backtest, and deploy [algorithmic trading](../a/algorithmic_trading.md) strategies using historical and real-time data.
+- **Alpaca**: An API for [algorithmic trading](../a/algorithmic_trading.md) that provides historical [market](../m/market.md) data and facilitates the [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md).
 
 ## Conclusion
 

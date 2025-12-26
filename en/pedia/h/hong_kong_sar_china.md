@@ -39,4 +39,3 @@ A [multinational corporation](../m/multinational_corporation.md) sets up its reg
 
 ## Conclusion
 Hong Kong SAR is a dynamic and influential region known for its economic freedom, legal autonomy, and strategic global position. While it faces challenges related to political tensions and social issues, it remains a vital hub for international [trade](../t/trade.md), [finance](../f/finance.md), and [business](../b/business.md). Understanding the unique status and features of Hong Kong SAR helps appreciate its role in the global [economy](../e/economy.md) and its complex relationship with mainland China.
-

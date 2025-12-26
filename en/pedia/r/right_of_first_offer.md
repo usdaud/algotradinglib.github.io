@@ -101,11 +101,11 @@ A company in a [joint](../j/joint.md) venture may use ROFO to ensure its partner
 
 ### Prominent Real Estate Firms
 
-Many [real estate](../r/real_estate.md) firms incorporate ROFO clauses into their lease agreements to retain their leasing rights strategically. For more information on [real estate](../r/real_estate.md) strategies involving ROFO, you can [check](../c/check.md) leading consultancy firms’ practices such as [CBRE](https://www.cbre.com).
+Many [real estate](../r/real_estate.md) firms incorporate ROFO clauses into their lease agreements to retain their leasing rights strategically. For more information on [real estate](../r/real_estate.md) strategies involving ROFO, you can [check](../c/check.md) leading consultancy firms’ practices such as CBRE.
 
 ### Corporate Use Cases
 
-Numerous corporations integrate ROFO clauses into their [shareholder](../s/shareholder.md) agreements to ensure existing shareholders have preferential purchasing opportunities. A highly relevant example includes [private equity](../p/private_equity.md) firms outlined on platforms like [Blackstone](https://www.blackstone.com).
+Numerous corporations integrate ROFO clauses into their [shareholder](../s/shareholder.md) agreements to ensure existing shareholders have preferential purchasing opportunities. A highly relevant example includes [private equity](../p/private_equity.md) firms outlined on platforms like Blackstone.
 
 ## Conclusion
 

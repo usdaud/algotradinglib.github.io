@@ -11,19 +11,19 @@ The concept of X-[Order](../o/order.md) Flow refers to the analysis and interpre
 1. **[Market](../m/market.md) Orders**: These are orders to buy or sell an [asset](../a/asset.md) at the best available price immediately. They impact the [market price](../m/market_price.md) instantaneously.
 2. **Limit Orders**: These orders specify the price at which a [trader](../t/trader.md) is willing to buy or sell a [security](../s/security.md). They add [liquidity](../l/liquidity.md) to the [market](../m/market.md).
 3. **[Order Book](../o/order_book.md)**: A real-time list displaying the buy and sell orders for a particular [asset](../a/asset.md), organized by [price level](../p/price_level.md).
-4. **[Tape Reading](../t/tape_reading.md)**: This refers to the process of analyzing the [transaction](../t/transaction.md) history or "tape" to gauge [market sentiment](../m/market_sentiment.md). 
+4. **[Tape Reading](../t/tape_reading.md)**: This refers to the process of analyzing the [transaction](../t/transaction.md) history or "tape" to gauge [market sentiment](../m/market_sentiment.md).
 
 ### Importance in Algorithmic Trading
 [Order flow analysis](../o/order_flow_analysis.md) can greatly enhance [algorithmic trading](../a/algorithmic_trading.md) strategies. Here’s why:
 - **Predictive Power**: [Order](../o/order.md) flow provides real-time insights into [market](../m/market.md) conditions, potentially predicting short-term price movements.
 - **[Liquidity](../l/liquidity.md) Assessment**: By analyzing the [order book](../o/order_book.md), algorithms can determine the most [liquid](../l/liquid.md) times to execute trades, minimizing [market](../m/market.md) impact.
 - **[Market Microstructure](../m/market_microstructure.md) Understanding**: Grasping the nuances of how trades are executed and orders are processed helps in designing more [efficient trading strategies](../e/efficient_trading_strategies.md).
-  
+
 ### Tools and Platforms for X-Order Flow Analysis
 
-1. **Bookmap**: A sophisticated [trading platform](../t/trading_platform.md) that visually represents [order book](../o/order_book.md) data and [order](../o/order.md) flow, helping traders see the depth of the [market](../m/market.md). [Bookmap](https://bookmap.com)
-2. **[Jigsaw Trading](../j/jigsaw_trading.md)**: Provides tools specifically designed for [order flow analysis](../o/order_flow_analysis.md), including advanced DOM (Depth of [Market](../m/market.md)) and reconstructed tape. [Jigsaw Trading](https://www.jigsawtrading.com)
-3. **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that supports [robust](../r/robust.md) algorithms incorporating [order flow analysis](../o/order_flow_analysis.md). [QuantConnect](https://www.quantconnect.com)
+1. **Bookmap**: A sophisticated [trading platform](../t/trading_platform.md) that visually represents [order book](../o/order_book.md) data and [order](../o/order.md) flow, helping traders see the depth of the [market](../m/market.md). Bookmap
+2. **[Jigsaw Trading](../j/jigsaw_trading.md)**: Provides tools specifically designed for [order flow analysis](../o/order_flow_analysis.md), including advanced DOM (Depth of [Market](../m/market.md)) and reconstructed tape. Jigsaw Trading
+3. **[QuantConnect](../q/quantconnect.md)**: A [quantitative trading](../q/quantitative_trading.md) platform that supports [robust](../r/robust.md) algorithms incorporating [order flow analysis](../o/order_flow_analysis.md). QuantConnect
 
 ### Key Metrics in Order Flow Analysis
 
@@ -48,4 +48,4 @@ The concept of X-[Order](../o/order.md) Flow refers to the analysis and interpre
 ### Conclusion
 X-[Order Flow analysis](../o/order_flow_analysis.md) is a powerful technique in [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) traders deeper insights into [market dynamics](../m/market_dynamics.md) than traditional methods. By incorporating [order](../o/order.md) flow data and tools designed to facilitate its analysis, traders can develop more informed and potentially more profitable [trading strategies](../t/trading_strategies.md).
 
-For further exploration and practical implementations, traders can [leverage](../l/leverage.md) platforms like Bookmap, [Jigsaw Trading](../j/jigsaw_trading.md), and [QuantConnect](../q/quantconnect.md), each [offering](../o/offering.md) unique features tailored to [order flow analysis](../o/order_flow_analysis.md).
+For further exploration and practical implementations, traders can [leverage](../l/leverage.md) platforms like Bookmap, [Jigsaw Trading](../j/jigsaw_trading.md), and [StockSharp](../s/stocksharp.md), each [offering](../o/offering.md) unique features tailored to [order flow analysis](../o/order_flow_analysis.md).

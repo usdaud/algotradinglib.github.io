@@ -18,7 +18,7 @@ Where:
 ### Importance
 
 1. **Performance Measurement**: For traders and investors, particularly those deploying algorithmic strategies, AAR provides a clear, straightforward metric to measure the effectiveness of an [investment strategy](../i/investment_strategy.md).
-2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: AAR facilitates the comparison of an investment or [trading strategy](../t/trading_strategy.md)'s performance against [market](../m/market.md) benchmarks like the S&P 500 [index](../i/index_instrument.md). 
+2. **[Benchmark Comparison](../b/benchmark_comparison.md)**: AAR facilitates the comparison of an investment or [trading strategy](../t/trading_strategy.md)'s performance against [market](../m/market.md) benchmarks like the S&P 500 [index](../i/index_instrument.md).
 3. **[Risk](../r/risk.md) Assessment**: By evaluating AAR in conjunction with other metrics such as [standard deviation](../s/standard_deviation.md) and [Sharpe Ratio](../s/sharpe_ratio.md), traders can better understand the [risk](../r/risk.md)-[return](../r/return.md) profile of their strategies.
 4. **Decision Making**: It aids in making informed investment decisions, whether to continue, alter, or discontinue a particular [trading strategy](../t/trading_strategy.md) or investment.
 
@@ -35,7 +35,7 @@ This tells us that the trading algorithm has an average [annual return](../a/ann
 While AAR is useful, it has limitations:
 
 1. **Ignores [Compounding](../c/compounding.md)**: AAR does not consider [compounding](../c/compounding.md) of returns, which can lead to misinterpretation of performance over time. This limitation is often addressed by also considering the Compound Annual Growth Rate (CAGR).
-2. **[Volatility](../v/volatility.md)**: It does not directly account for the [volatility](../v/volatility.md) or [risk](../r/risk.md) associated with the returns. An investment with stable returns might have the same AAR as another with volatile returns. 
+2. **[Volatility](../v/volatility.md)**: It does not directly account for the [volatility](../v/volatility.md) or [risk](../r/risk.md) associated with the returns. An investment with stable returns might have the same AAR as another with volatile returns.
 3. **Past Performance**: As with any historical metric, AAR assumes past performance can be indicative of future results, which isn't always the case.
 
 ## Comparison with CAGR
@@ -59,11 +59,11 @@ Where:
 
 For example, using the same returns series from earlier, the CAGR can be calculated assuming an initial investment of $1,000:
 
-Year 1: $1,000 \times (1 + 0.08) = $1,080  
-Year 2: $1,080 \times (1 + 0.12) = $1,209.60  
-Year 3: $1,209.60 \times (1 - 0.05) = $1,149.12  
-Year 4: $1,149.12 \times (1 + 0.15) = $1,321.49  
-Year 5: $1,321.49 \times (1 + 0.10) = $1,453.64  
+Year 1: $1,000 \times (1 + 0.08) = $1,080
+Year 2: $1,080 \times (1 + 0.12) = $1,209.60
+Year 3: $1,209.60 \times (1 - 0.05) = $1,149.12
+Year 4: $1,149.12 \times (1 + 0.15) = $1,321.49
+Year 5: $1,321.49 \times (1 + 0.10) = $1,453.64
 
 So,
 \[ \text{CAGR} = \left( \frac{1453.64}{1000} \right) ^ \frac{1}{5} - 1 = 7.76\% \]
@@ -96,33 +96,33 @@ Several platforms and tools can calculate AAR for [algorithmic trading strategie
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) provides a cloud-based algorithm [trading platform](../t/trading_platform.md) that supports [backtesting](../b/backtesting.md) and live trading of various assets. It offers built-in functions for calculating [performance metrics](../p/performance_metrics.md), including AAR.
+[QuantConnect](../q/quantconnect.md) provides a algorithm [trading platform](../t/trading_platform.md) that supports [backtesting](../b/backtesting.md) and live trading of various assets. It offers built-in functions for calculating [performance metrics](../p/performance_metrics.md), including AAR.
 
-Link: [QuantConnect](https://www.quantconnect.com/)
+Link: QuantConnect
 
 ### Quantopian (Archived)
 
 Quantopian used to be a popular platform for [algorithmic trading](../a/accountability.md) and strategy [backtesting](../b/backtesting.md). While it shut down operations in November 2020, it played a significant role in democratizing [quantitative finance](../q/quantitative_finance.md) and may still [offer](../o/offer.md) educational resources and APIs for [historical data analysis](../h/historical_data_analysis.md).
 
-Archive Link: [Quantopian](https://www.quantopian.com/)
+Archive Link: Quantopian
 
 ### AlphaStreams by CrunchDAO
 
 AlphaStreams offers a marketplace for algorithmic strategies where investors can license and deploy quant research. AAR is one of the [performance metrics](../p/performance_metrics.md) provided for assessment.
 
-Link: [CrunchDAO](https://www.crunchdao.com/alphastreams)
+Link: CrunchDAO
 
 ### Backtrader
 
 [Backtrader](../b/backtrader.md) is a popular [open](../o/open.md)-source Python library for [backtesting trading strategies](../b/backtesting_trading_strategies.md). It provides various [performance metrics](../p/performance_metrics.md), including AAR, making it a powerful tool for individual traders and developers.
 
-Link: [Backtrader](https://www.backtrader.com/)
+Link: Backtrader
 
 ### MetaTrader 5 (MQL5)
 
 MetaTrader 5 is widely used for [algorithmic trading](../a/accountability.md) in forex, [stocks](../s/stock.md), and [futures](../f/futures.md). It supports complex [performance metrics](../p/performance_metrics.md) calculations, and traders can script custom solutions to calculate AAR and other metrics.
 
-Link: [MetaTrader 5](https://www.metatrader5.com/)
+Link: MetaTrader 5
 
 ## Conclusion
 

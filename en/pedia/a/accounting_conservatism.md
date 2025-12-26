@@ -70,19 +70,19 @@ Enron’s scandal in the early 2000s is another example where conservative [acco
 
 ### Financial Accounting Standards Board (FASB)
 
-The FASB, responsible for developing GAAP, plays a critical role in promoting [accounting](../a/accounting.md) conservatism. Its standards emphasize reliability and prudence, ensuring that [financial statements](../f/financial_statements.md) provide a realistic view of a company’s financial position. [FASB website](https://www.fasb.org/)
+The FASB, responsible for developing GAAP, plays a critical role in promoting [accounting](../a/accounting.md) conservatism. Its standards emphasize reliability and prudence, ensuring that [financial statements](../f/financial_statements.md) provide a realistic view of a company’s
 
 ### International Accounting Standards Board (IASB)
 
-The IASB, which oversees the IFRS, also supports conservative [accounting](../a/accounting.md) practices. Although IFRS tends to focus more on [fair value](../f/fair_value.md) reporting, it still incorporates principles that prevent overstatement of assets and [income](../i/income.md). [IASB website](https://www.ifrs.org/)
+The IASB, which oversees the IFRS, also supports conservative [accounting](../a/accounting.md) practices. Although IFRS tends to focus more on [fair value](../f/fair_value.md) reporting, it still incorporates principles that prevent overstatement of assets and [income](../i/income.md).
 
 ### Institute of Management Accountants (IMA)
 
-The IMA, through its advocacy and educational initiatives, promotes the importance of ethical and conservative [accounting](../a/accounting.md) practices. It provides resources and certification programs to [uphold](../u/uphold.md) high standards in management [accounting](../a/accounting.md). [IMA website](https://www.imanet.org/)
+The IMA, through its advocacy and educational initiatives, promotes the importance of ethical and conservative [accounting](../a/accounting.md) practices. It provides resources and certification programs to [uphold](../u/uphold.md) high standards in management [accounting](../a/accounting.md).
 
 ### American Institute of Certified Public Accountants (AICPA)
 
-The AICPA influences [accounting](../a/accounting.md) practices in the United States by providing guidelines, continuing education, and setting professional standards that emphasize conservative and ethical financial reporting. [AICPA website](https://www.aicpa.org/)
+The AICPA influences [accounting](../a/accounting.md) practices in the United States by providing guidelines, continuing education, and setting professional standards that
 
 ## Conclusion
 

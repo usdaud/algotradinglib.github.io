@@ -2,6 +2,8 @@
 
 A syndicated [loan](../l/loan.md) is a large [loan](../l/loan.md) provided by a group of lenders, referred to as a [syndicate](../s/syndicate.md), who work together to provide funds to a single borrower. The borrower can be a [corporation](../c/corporation.md), a sovereign government, or a large project. The [loan](../l/loan.md) is structured, arranged, and administered by one or several commercial or [investment banks](../i/investment_bank_(ib).md) known as arrangers. The main purpose of syndicating a [loan](../l/loan.md) is to diversify the [risk](../r/risk.md) of the [loan](../l/loan.md) among [multiple](../m/multiple.md) lenders.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Key Components of a Syndicated Loan
 
 ### 1. Borrower
@@ -96,6 +98,4 @@ In 2019, SoftBank's Vision [Fund](../f/fund.md) secured a $4 billion syndicated 
 Syndicated loans play a critical role in providing large-scale [financing](../f/financing.md) for corporations, governments, and major projects. By pooling resources from [multiple](../m/multiple.md) lenders, they [offer](../o/offer.md) significant advantages in terms of access to [capital](../c/capital.md), [risk](../r/risk.md) [diversification](../d/diversification.md), and expertise. However, they also come with complexities and challenges that require careful planning and management. As the financial landscape continues to evolve, technology and innovation [will](../w/will.md) likely continue to shape the syndicated [loan](../l/loan.md) [market](../m/market.md), [offering](../o/offering.md) new opportunities and efficiencies for borrowers and lenders alike.
 
 For more information on specific companies involved in syndicated loans, you can visit their official websites:
-- JPMorgan Chase: [www.jpmorganchase.com](https://www.jpmorganchase.com)
-- [Bank](../b/bank.md) of America: [www.bankofamerica.com](https://www.bankofamerica.com)
-- Citigroup: [www.citigroup.com](https://www.citigroup.com)
+- JPMorgan Chase- [Bank](../b/bank.md) of America- Citigroup

@@ -85,7 +85,7 @@ Compliance with global and local regulations is vital for any [trading strategy]
 
 The FSA oversees Forex trading in Japan, enforcing rules and ensuring [market](../m/market.md) integrity. Traders must adhere to its guidelines, especially concerning [leverage](../l/leverage.md) limits and [transparency](../t/transparency.md).
 
-For more information, visit [FSA's Official Website](https://www.fsa.go.jp/en/).
+
 
 ### Global Regulations
 

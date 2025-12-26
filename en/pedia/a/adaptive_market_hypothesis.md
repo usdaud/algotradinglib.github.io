@@ -64,5 +64,3 @@ The Adaptive [Market](../m/market.md) Hypothesis presents a nuanced and flexible
 
 **Further Reading:**
 
-For more information on the Adaptive [Market](../m/market.md) Hypothesis and Andrew W. Lo's pioneering work, visit [Andrew Lo's Personal Page at MIT Sloan](https://alo.mit.edu/).
-

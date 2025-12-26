@@ -66,16 +66,16 @@ Selling [options](../o/options.md), particularly covered calls or cash-secured p
 Several financial platforms and tools provide access to option chains and related analytical features. Here are some notable ones:
 
 ### Thinkorswim by TD Ameritrade
-Thinkorswim [link](https://www.thinkorswim.com) offers a [robust](../r/robust.md) option chain interface along with comprehensive trading tools, including real-time data, advanced charting, and analytical tools.
+Thinkorswim link offers a [robust](../r/robust.md) option chain interface along with comprehensive trading tools, including real-time data, advanced charting, and analytical tools.
 
 ### Interactive Brokers
-[Interactive Brokers](../i/interactive_brokers.md) [link](https://www.interactivebrokers.com) provides detailed option chains, along with sophisticated trading platforms and research tools for professional traders and investors.
+[Interactive Brokers](../i/interactive_brokers.md) link provides detailed option chains, along with sophisticated trading platforms and research tools for professional traders and investors.
 
 ### OptionsHouse by E*TRADE
-OptionsHouse [link](https://us.etrade.com/platforms-and-tools/optionshouse) delivers a user-friendly interface for viewing option chains and executing trades, making it suitable for both novice and experienced traders.
+OptionsHouse link delivers a user-friendly interface for viewing option chains and executing trades, making it suitable for both novice and experienced traders.
 
 ### Bloomberg Terminal
-The [Bloomberg Terminal](../b/bloomberg_terminal.md) [link](https://www.bloomberg.com/professional/solution/bloomberg-terminal) offers comprehensive financial data, including detailed option chains, [market](../m/market.md) analysis, and news, catering to institutional investors.
+The [Bloomberg Terminal](../b/bloomberg_terminal.md) link offers comprehensive financial data, including detailed option chains, [market](../m/market.md) analysis, and news, catering to institutional investors.
 
 ## Advanced Strategies
 

@@ -40,7 +40,7 @@ Owners of encumbered assets have certain legal and financial [obligations](../o/
 ## Encumbrance in Algorithmic Trading
 
 ### Data Sources and Analysis
-[Algorithmic trading](../a/accountability.md) relies heavily on data accuracy and comprehensiveness. Incorporating encumbrance data from reliable sources ensures that the [trading algorithms](../t/trading_algorithms.md) evaluate assets correctly and make informed decisions. Companies like [Bloomberg](https://www.bloomberg.com/) and [Thomson Reuters](https://www.thomsonreuters.com/) provide extensive financial data, including encumbrance information, which can be integrated into [trading systems](../t/trading_systems.md) for better analysis.
+[Algorithmic trading](../a/accountability.md) relies heavily on data accuracy and comprehensiveness. Incorporating encumbrance data from reliable sources ensures that the [trading algorithms](../t/trading_algorithms.md) evaluate assets correctly and make informed decisions. Companies like Bloomberg and Thomson Reuters provide extensive financial data, including encumbrance information, which can be integrated into [trading systems](../t/trading_systems.md) for better analysis.
 
 ### Risk Management
 Managing [risk](../r/risk.md) is crucial in [algorithmic trading](../a/accountability.md). Factoring in encumbrances when evaluating assets can prevent significant losses. Algorithms can be programmed to recognize different types of encumbrances and adjust [asset](../a/asset.md) valuations and [trading strategies](../t/trading_strategies.md) accordingly.

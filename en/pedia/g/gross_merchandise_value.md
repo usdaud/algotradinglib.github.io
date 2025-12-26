@@ -56,7 +56,7 @@ Competitive pricing can also boost sales volumes. Promotional discounts and sale
 
 ### User Experience
 
-A seamless, user-friendly website or app experience can enhance [customer](../c/customer.md) satisfaction, leading to repeat purchases and higher sales volumes.
+A seamless, user-friendly online portal or app experience can enhance [customer](../c/customer.md) satisfaction, leading to repeat purchases and higher sales volumes.
 
 ### Marketing and Advertising
 
@@ -102,9 +102,9 @@ eBay, one of the pioneers of online marketplaces, reported a GMV of $100 billion
 
 Alibaba’s GMV for 2020 was a remarkable $1.2 trillion, reflecting its dominant position in China and its expanding international footprint. The company’s GMV is bolstered by events like Singles’ Day, which alone generated $74.1 billion in GMV in 2020.
 
-• [Amazon](https://www.aboutamazon.com/)
-• [eBay](https://www.ebayinc.com/)
-• [Alibaba](https://www.alibabagroup.com/en/global/home)
+• Amazon
+• eBay
+• Alibaba
 
 ## Conclusion
 

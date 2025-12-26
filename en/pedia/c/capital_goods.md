@@ -32,17 +32,17 @@
 
 Several companies dominate the [capital](../c/capital.md) goods [industry](../i/industry.md), providing essential machinery, tools, and technology for various sectors. Some notable companies include:
 
-1. **Siemens AG** - A German multinational [conglomerate](../c/conglomerate.md) focusing on industrial [manufacturing](../m/manufacturing.md), automation, and digitalization. Siemens offers a wide [range](../r/range.md) of [capital](../c/capital.md) goods, from factory automation systems to advanced medical equipment. [Siemens](https://www.siemens.com)
+1. **Siemens AG** - A German multinational [conglomerate](../c/conglomerate.md) focusing on industrial [manufacturing](../m/manufacturing.md), automation, and digitalization. Siemens offers a wide [range](../r/range.md) of [capital](../c/capital.md) goods, from factory automation systems to advanced medical equipment. Siemens
 
-2. **General Electric (GE)** - An American multinational [conglomerate](../c/conglomerate.md) with diverse interests in power, renewable energy, aviation, and healthcare. GE manufactures turbines, aviation engines, and medical imaging equipment, among other [capital](../c/capital.md) goods. [General Electric](https://www.ge.com)
+2. **General Electric (GE)** - An American multinational [conglomerate](../c/conglomerate.md) with diverse interests in power, renewable energy, aviation, and healthcare. GE manufactures turbines, aviation engines, and medical imaging equipment, among other [capital](../c/capital.md) goods. General Electric
 
-3. **Caterpillar Inc.** - An American [corporation](../c/corporation.md) that manufactures construction and [mining](../m/mining.md) equipment, diesel and natural gas engines, and industrial gas turbines. [Caterpillar](https://www.caterpillar.com)
+3. **Caterpillar Inc.** - An American [corporation](../c/corporation.md) that manufactures construction and [mining](../m/mining.md) equipment, diesel and natural gas engines, and industrial gas turbines. Caterpillar
 
-4. **ABB Ltd.** - A Swiss-Swedish [multinational corporation](../m/multinational_corporation.md) specializing in robotics, power, heavy electrical equipment, and automation technology. ABB provides innovative solutions for industrial automation and energy systems. [ABB](https://global.abb)
+4. **ABB Ltd.** - A Swiss-Swedish [multinational corporation](../m/multinational_corporation.md) specializing in robotics, power, heavy electrical equipment, and automation technology. ABB provides innovative solutions for industrial automation and energy systems. ABB
 
-5. **John Deere (Deere & Company)** - An American [corporation](../c/corporation.md) that manufactures agricultural, construction, and forestry machinery, diesel engines, and drivetrains. [John Deere](https://www.deere.com)
+5. **John Deere (Deere & Company)** - An American [corporation](../c/corporation.md) that manufactures agricultural, construction, and forestry machinery, diesel engines, and drivetrains. John Deere
 
-6. **Honeywell International Inc.** - An American multinational [conglomerate](../c/conglomerate.md) that produces a variety of commercial and consumer products, engineering services, and aerospace systems. Honeywell's product offerings include building technologies, [productivity](../p/productivity.md) solutions, and advanced materials. [Honeywell](https://www.honeywell.com)
+6. **Honeywell International Inc.** - An American multinational [conglomerate](../c/conglomerate.md) that produces a variety of commercial and consumer products, engineering services, and aerospace systems. Honeywell's product offerings include building technologies, [productivity](../p/productivity.md) solutions, and advanced materials. Honeywell
 
 ## Investment in Capital Goods
 
@@ -95,4 +95,3 @@ The [capital](../c/capital.md) goods [industry](../i/industry.md) is continually
 5. **Digital Twins:** The concept of digital twins, where a digital replica of a physical [asset](../a/asset.md) is created, is being used to optimize the design, performance, and maintenance of [capital](../c/capital.md) goods.
 
 In conclusion, [capital](../c/capital.md) goods are foundational to the production capabilities and [economic growth](../e/economic_growth.md) of industries worldwide. Companies continue to invest in advanced machinery, technology, and [infrastructure](../i/infrastructure.md) to stay competitive and meet the ever-evolving demands of the [market](../m/market.md). The [capital](../c/capital.md) goods sector, while filled with challenges, also presents abundant opportunities for innovation and growth.
-

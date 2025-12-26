@@ -11,21 +11,21 @@
 ### 1. **Risk Capacity vs. Risk Tolerance**
 
 - **[Risk](../r/risk.md) Capacity**: The level of [financial risk](../f/financial_risk.md) that an entity can support without jeopardizing its fundamental operations. It is often dictated by financial metrics such as [capital](../c/capital.md) reserves and [liquidity](../l/liquidity.md).
-  
+
 - **[Risk Tolerance](../r/risk_tolerance.md)**: This is the level of [risk](../r/risk.md) that an entity is willing to endure in pursuit of their trading objectives. It is more subjective and is influenced by individual preferences and psychological factors.
 
 ### 2. **Setting Risk Parameters**
 
 - **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: A statistical measure used to assess the amount of potential loss in a trading portfolio over a defined period for a given [confidence interval](../c/confidence_interval.md). It is a core component in setting [risk](../r/risk.md) limits.
-  
+
 - **Stop-Loss and Take-[Profit](../p/profit.md) Levels**: Pre-defined price points at which trades [will](../w/will.md) automatically be closed to either prevent further loss or lock in [profit](../p/profit.md).
-  
+
 - **[Leverage](../l/leverage.md) Limits**: Restricting the amount of borrowed funds used to amplify potential returns, as higher [leverage](../l/leverage.md) increases the potential for significant losses.
 
 ### 3. **Scenario Analysis and Stress Testing**
 
 - **[Scenario Analysis](../s/scenario_analysis.md)**: Involves simulating different [market](../m/market.md) conditions to observe how various [trading strategies](../t/trading_strategies.md) perform under hypothetical scenarios such as extreme [volatility](../v/volatility.md) or [market](../m/market.md) crashes.
-  
+
 - **[Stress Testing](../s/stress_testing_in_trading.md)**: Evaluates the resilience of [trading strategies](../t/trading_strategies.md) under adverse conditions, ensuring that the system can [handle](../h/handle.md) [market anomalies](../m/market_anomalies.md) without catastrophic losses.
 
 ## Methods of Assessing Risk Appetite
@@ -33,13 +33,13 @@
 ### 1. **Qualitative Methods**
 
 - **Surveys and Questionnaires**: These are often used to gauge the [risk tolerance](../r/risk_tolerance.md) of individual traders or stakeholders within an institution.
-  
+
 - **Expert Judgments**: Financial experts and [risk](../r/risk.md) managers provide insights based on their experience and [market](../m/market.md) knowledge.
 
 ### 2. **Quantitative Methods**
 
 - **Statistical Models**: Models such as Monte Carlo simulations are used to predict the [range](../r/range.md) of possible outcomes based on a set of variables and historical data.
-  
+
 - **[Machine Learning](../m/machine_learning.md) and AI**: Advanced algorithms that learn from historical [market](../m/market.md) data to predict [risk](../r/risk.md) and guide decision-making.
 
 ## Tools for Risk Appetite Analysis in Algorithmic Trading
@@ -48,8 +48,8 @@
 
 Numerous software solutions provide [robust](../r/robust.md) [risk management](../r/risk_management.md) tools tailored for [algorithmic trading](../a/algorithmic_trading.md). Examples include:
 
-- **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform that integrates [risk management](../r/risk_management.md) functions seamlessly with [trading algorithms](../t/trading_algorithms.md). [Visit AlgoTrader](https://www.algotrader.com)
-- **[QuantConnect](../q/quantconnect.md)**: Offers extensive [backtesting](../b/backtesting.md) and live trading tools, including features for [risk](../r/risk.md) assessment. [Visit QuantConnect](https://www.quantconnect.com)
+- **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform that integrates [risk management](../r/risk_management.md) functions seamlessly with [trading algorithms](../t/trading_algorithms.md). Visit AlgoTrader
+- **[QuantConnect](../q/quantconnect.md)**: Offers extensive [backtesting](../b/backtesting.md) and live trading tools, including features for [risk](../r/risk.md) assessment. Visit QuantConnect
 
 ### 2. **Risk Dashboards**
 
@@ -65,7 +65,7 @@ Numerous software solutions provide [robust](../r/robust.md) [risk management](.
 
 [Hedge](../h/hedge.md) funds heavily rely on [risk](../r/risk.md) appetite analysis to tailor their [trading algorithms](../t/trading_algorithms.md) according to their investment strategies.
 
-- **Bridgewater Associates**: Known for its rigorous [risk management](../r/risk_management.md) practices, Bridgewater employs a [range](../r/range.md) of quantitative metrics to keep its [risk](../r/risk.md) levels aligned with its appetite. [Visit Bridgewater](https://www.bridgewater.com)
+- **Bridgewater Associates**: Known for its rigorous [risk management](../r/risk_management.md) practices, Bridgewater employs a [range](../r/range.md) of quantitative metrics to keep its [risk](../r/risk.md) levels aligned with its appetite. Visit Bridgewater
 
 ### 2. **Retail Traders**
 
@@ -73,9 +73,9 @@ Individual traders also utilize [risk](../r/risk.md) appetite analysis tools and
 
 ### 3. **Banks and Financial Institutions**
 
-Banks use sophisticated [risk management](../r/risk_management.md) systems to ensure compliance with regulatory requirements and to protect their [capital](../c/capital.md). 
+Banks use sophisticated [risk management](../r/risk_management.md) systems to ensure compliance with regulatory requirements and to protect their [capital](../c/capital.md).
 
-- **Goldman Sachs**: Employs advanced [risk](../r/risk.md) analytics to manage its [algorithmic trading](../a/algorithmic_trading.md) activities within predefined [risk](../r/risk.md) appetites. [Visit Goldman Sachs](https://www.goldmansachs.com)
+- **Goldman Sachs**: Employs advanced [risk](../r/risk.md) analytics to manage its [algorithmic trading](../a/algorithmic_trading.md) activities within predefined [risk](../r/risk.md) appetites. Visit Goldman Sachs
 
 ## Challenges in Risk Appetite Analysis
 

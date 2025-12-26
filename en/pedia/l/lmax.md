@@ -57,6 +57,3 @@ LMAX employs [robust](../r/robust.md) [security](../s/security.md) protocols to 
 - **Advanced Encryption**: For data transmission and storage.
 - **Secure Data Centers**: With physical and cyber [security](../s/security.md) measures.
 - **Regular Audits**: Ensuring compliance with regulatory and [security](../s/security.md) standards.
-
-## Website
-For more information about LMAX and their services, visit the official website: [LMAX](https://www.lmax.com/)

@@ -56,7 +56,7 @@ The G-20 continues to play a crucial role in addressing global economic and fina
 - Promoting inclusive growth and reducing inequalities
 - Enhancing global cooperation on climate change and environmental sustainability
 
-## Official G-20 Website
-For more information on G-20 meetings, initiatives, and outcomes, you can visit the official G-20 website at: [G-20 Official Website](https://www.g20.org/).
+##
+
 
 In conclusion, the G-20 serves as a vital platform for international economic cooperation and dialogue among major economies. Its efforts to promote financial stability, sustainable development, and global governance continue to impact the global [economy](../e/economy.md) and address pressing global challenges.

@@ -4,16 +4,16 @@ Buy side strategies are essential components of the [financial markets](../f/fin
 
 ## Introduction to Buy Side Firms
 
-Buy side firms manage large pools of [capital](../c/capital.md) and aim to generate returns by making strategic investments. They typically operate with longer investment horizons compared to sell side firms, which are usually involved in facilitating transactions for clients and [market](../m/market.md)-making activities. Notable buy side firms include BlackRock, Vanguard Group, and [Fidelity Investments](../f/fidelity_investments.md). 
+Buy side firms manage large pools of [capital](../c/capital.md) and aim to generate returns by making strategic investments. They typically operate with longer investment horizons compared to sell side firms, which are usually involved in facilitating transactions for clients and [market](../m/market.md)-making activities. Notable buy side firms include BlackRock, Vanguard Group, and [Fidelity Investments](../f/fidelity_investments.md).
 
 ### BlackRock
-BlackRock is one of the largest [investment management](../i/investment_management.md) firms globally, managing assets worth trillions of dollars. They provide a broad [range](../r/range.md) of investment services and solutions to institutional and retail clients. More information can be found on their [official website](https://www.blackrock.com).
+BlackRock is one of the largest [investment management](../i/investment_management.md) firms globally, managing assets worth trillions of dollars. They provide a broad [range](../r/range.md) of investment services and solutions to institutional and retail clients.
 
 ### Vanguard Group
-Vanguard is known for its innovative approach to [investment management](../i/investment_management.md), particularly with [index](../i/index_instrument.md) funds and ETFs. They focus on providing low-cost investment solutions to their clients. For more details, visit their [official website](https://www.vanguard.com).
+Vanguard is known for its innovative approach to [investment management](../i/investment_management.md), particularly with [index](../i/index_instrument.md) funds and ETFs. They focus on providing low-cost investment solutions to their clients.
 
 ### Fidelity Investments
-Fidelity is a diversified financial services company [offering](../o/offering.md) a [range](../r/range.md) of services, including [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), and [brokerage services](../b/brokerage_services.md). Learn more on their [official website](https://www.fidelity.com).
+Fidelity is a diversified financial services company [offering](../o/offering.md) a [range](../r/range.md) of services, including [investment management](../i/investment_management.md), [retirement planning](../r/retirement_planning.md), and [brokerage services](../b/brokerage_services.md).
 
 # Key Buy Side Strategies
 
@@ -140,4 +140,4 @@ The rapid pace of technological advancements presents both opportunities and cha
 
 ## Conclusion
 
-Buy side strategies are a cornerstone of the [investment management](../i/investment_management.md) [industry](../i/industry.md), providing a diverse [range](../r/range.md) of approaches to achieving superior returns. The integration of [algorithmic trading](../a/algorithmic_trading.md) techniques has significantly enhanced the [efficiency](../e/efficiency.md) and effectiveness of these strategies. As the [financial markets](../f/financial_market.md) continue to evolve, buy side firms must remain agile and innovative to address emerging challenges and [capitalize](../c/capitalize.md) on new opportunities.
+Buy side strategies are a cornerstone of the [investment management](../i/investment_management.md) [industry](../i/industry.md), providing a diverse [range](../r/range.md) of approaches to achieving superior returns. The integration of [algorithmic trading](../a/algorithmic_trading.md) techniques has significantly enhanced the [efficiency](../e/efficiency.md) and effectiveness of these strategies. As the [financial markets](../f/financial_market.md) continue to evolve, buy side firms must remain agile and innovative to address emerging challenges and [capitalize](../c/capitalize.md) on new opportunities.

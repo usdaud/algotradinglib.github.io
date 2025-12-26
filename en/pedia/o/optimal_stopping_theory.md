@@ -15,19 +15,19 @@ The optimal stopping time is the point in time at which the [expected value](../
 The optimal stopping problem can be mathematically formulated as follows:
 
 1. **Objective Function \( V(x) \)**: This is the function that one aims to optimize. For instance, maximizing the [expected return](../e/expected_return.md):
-   \[
-   V(x) = \mathbb{E}[f(X_\tau)],
-   \]
-   where \( X_\tau \) is the state of the system at the stopping time \( \tau \).
+ \[
+ V(x) = \mathbb{E}[f(X_\tau)],
+ \]
+ where \( X_\tau \) is the state of the system at the stopping time \( \tau \).
 
 2. **State Process \( X \)**: The state of the system at any given time, often modeled as a stochastic process. In trading, \( X_t \) could represent the price of an [asset](../a/asset.md) at time \( t \).
 
 3. **Stopping Time \( \tau \)**: A random time at which a decision is made to stop the process. \( \tau \) is chosen to maximize the objective function \( V(x) \).
 
 4. **Bellman Equation**: To find the optimal stopping time, one often solves a form of the Bellman equation:
-   \[
-   V(x) = \sup_\tau \mathbb{E}[f(X_\tau) \mid X_0 = x].
-   \]
+ \[
+ V(x) = \sup_\tau \mathbb{E}[f(X_\tau) \mid X_0 = x].
+ \]
 
 ### Applications in Algorithmic Trading
 
@@ -45,13 +45,12 @@ Real-time [trading algorithms](../t/trading_algorithms.md) often incorporate opt
 Many [algorithmic trading](../a/algorithmic_trading.md) platforms and financial institutions use software and algorithms based on optimal stopping theory. Some renowned companies incorporating these techniques are:
 
 - **Optiver**:
-  [Optiver, a global market-making firm](https://www.optiver.com/)
+ Optiver, a global market-making firm
 - **Jane Street**:
-  [Jane Street, a quantitative trading firm](https://www.janestreet.com/)
+ Jane Street, a quantitative trading firm
 - **Renaissance Technologies**:
-  [Renaissance Technologies, a hedge fund](https://www.rentec.com/)
+ Renaissance Technologies, a hedge fund
 
 ### Conclusion
 
 Optimal stopping theory provides a [robust](../r/robust.md) framework for making critical decisions in [algorithmic trading](../a/algorithmic_trading.md). By leveraging [mathematical models](../m/mathematical_models_in_trading.md) and [computational algorithms](../c/computational_algorithms.md), traders can optimize their strategies to achieve better financial outcomes.
-

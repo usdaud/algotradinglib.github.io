@@ -83,7 +83,7 @@ Recent advancements have led to the development of more sophisticated models tha
 
 These models account for [multiple](../m/multiple.md) peaks in production due to new discoveries, technological advancements, or secondary resource exploitation. This approach provides a more nuanced prediction compared to the single-peak model.
 
-### 2. Economic Models 
+### 2. Economic Models
 
 Economic models integrate [market](../m/market.md) conditions and financial dynamics with resource production predictions, [offering](../o/offering.md) a more comprehensive understanding of the impact of economic factors on resource availability.
 

@@ -51,8 +51,6 @@ With advancements in computing power, [machine learning](../m/machine_learning.m
 ### Robo-Advisors
 Robo-advisory platforms like Betterment and Wealthfront utilize [algorithmic trading](../a/algorithmic_trading.md) techniques to manage clients' investments. These platforms set price targets as part of their automated [portfolio rebalancing](../p/portfolio_rebalancing.md) strategies, ensuring optimal buy and sell points to enhance [portfolio performance](../p/portfolio_performance.md).
 
-[Link to Betterment](https://www.betterment.com)
-[Link to Wealthfront](https://www.wealthfront.com)
 
 ## Challenges in Price Target Setting
 
@@ -71,8 +69,3 @@ High [market](../m/market.md) [volatility](../v/volatility.md) can disrupt [pric
 ## Conclusion
 
 [Price target](../p/price_target.md) setting is an integral component of [algorithmic trading](../a/algorithmic_trading.md) that combines elements of fundamental and [technical analysis](../t/technical_analysis.md), [machine learning](../m/machine_learning.md), and quantitative methods to optimize trading decisions. By accurately [forecasting](../f/forecasting.md) price movements and establishing clear entry and exit points, traders can enhance their [risk management](../r/risk_management.md), maximize profits, and validate their [trading strategies](../t/trading_strategies.md). Despite challenges like data quality, [market](../m/market.md) [volatility](../v/volatility.md), and regulatory constraints, advancements in technology and data analysis continue to improve the accuracy and effectiveness of [price target](../p/price_target.md) setting in [algorithmic trading](../a/algorithmic_trading.md).
-
-[Link to Renaissance Technologies](https://www.rentec.com)
-[Link to Two Sigma Investments](https://www.twosigma.com)
-[Link to Jane Street](https://www.janestreet.com)
-[Link to Citadel Securities](https://www.citadelsecurities.com)

@@ -20,7 +20,7 @@ A [limit order](../l/limit_order.md) sets the maximum or minimum price at which 
 
 #### 3. Stop Orders
 
-Stop orders are divided into two main types: [stop-loss orders](../s/stop-loss_orders.md) and stop-buy orders. 
+Stop orders are divided into two main types: [stop-loss orders](../s/stop-loss_orders.md) and stop-buy orders.
 
 - **[Stop-Loss Orders](../s/stop-loss_orders.md):** Placed to sell a stock once it reaches a certain price. This is to prevent further losses in a falling [market](../m/market.md).
 - **Stop-Buy Orders:** Used to buy a stock when it reaches a particular price, often used to enter the [market](../m/market.md) in a bullish [trend](../t/trend.md).
@@ -121,13 +121,13 @@ Auction orders are placed to participate in [pre-market](../p/pre-market.md) or 
 
 Several companies [offer](../o/offer.md) advanced [algorithmic trading](../a/algorithmic_trading.md) platforms with sophisticated [order](../o/order.md) type strategies:
 
-**[Interactive Brokers](../i/interactive_brokers.md):** [Interactive Brokers](https://www.interactivebrokers.com) provides a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including conditional orders, bracket orders, and [algorithmic trading](../a/algorithmic_trading.md) strategies that utilize these orders for optimized [execution](../e/execution.md).
+**[Interactive Brokers](../i/interactive_brokers.md):** Interactive Brokers provides a wide [range](../r/range.md) of [order types](../o/order_types_in_trading.md), including conditional orders, bracket orders, and [algorithmic trading](../a/algorithmic_trading.md) strategies that utilize these orders for optimized [execution](../e/execution.md).
 
-**[Robinhood](../r/robinhood.md):** [Robinhood](https://robinhood.com) offers various [order types](../o/order_types_in_trading.md) such as [market](../m/market.md) orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
+**[Robinhood](../r/robinhood.md):** Robinhood offers various [order types](../o/order_types_in_trading.md) such as [market](../m/market.md) orders, limit orders, stop orders, and [stop-limit orders](../s/stop-limit_orders.md), catering to both novice and experienced traders.
 
-**TD [Ameritrade](../a/ameritrade.md):** [TD Ameritrade](https://www.tdameritrade.com) facilitates numerous [order types](../o/order_types_in_trading.md), including advanced conditional orders and [robust](../r/robust.md) algorithmic [order](../o/order.md) [execution](../e/execution.md).
+**TD [Ameritrade](../a/ameritrade.md):** TD Ameritrade facilitates numerous [order types](../o/order_types_in_trading.md), including advanced conditional orders and [robust](../r/robust.md) algorithmic [order](../o/order.md) [execution](../e/execution.md).
 
-**[TradeStation](../t/tradestation.md):** [TradeStation](https://www.tradestation.com) supports a comprehensive suite of [order types](../o/order_types_in_trading.md) and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
+**[TradeStation](../t/tradestation.md):** TradeStation supports a comprehensive suite of [order types](../o/order_types_in_trading.md) and automated [trading strategies](../t/trading_strategies.md), enabling traders to execute sophisticated algorithmic trades.
 
 ### Conclusion
 

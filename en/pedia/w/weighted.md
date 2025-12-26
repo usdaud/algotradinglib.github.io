@@ -57,22 +57,17 @@ where \( w_i \) are the weights and \( s_i \) are the scores assigned to each cr
 Several tools and platforms provide functionalities for weighted calculations. Here are a few examples:
 
 1. **[Bloomberg Terminal](../b/bloomberg_terminal.md)**: Professional investors and analysts use [Bloomberg](../b/bloomberg.md) terminals for [weighted portfolio](../w/weighted_portfolio.md) and [index](../i/index_instrument.md) analyses.
-   
-    [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+
 
 2. **Microsoft Excel**: Excel provides built-in functions to calculate various weighted metrics, such as `SUMPRODUCT` for [weighted averages](../w/weighted_averages_in_trading.md).
-   
-    [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-3. **Python Libraries**: Libraries such as NumPy and Pandas are often used in [algorithmic trading](../a/accountability.md) and [financial analysis](../f/financial_analysis.md) for weighted calculations.
 
-    [NumPy](https://numpy.org/)
+3. **Python Libraries**: Libraries such as NumPy and Pandas are often used in [algorithmic trading](../a/algorithmic_trading.md) and [financial analysis](../f/financial_analysis.md) for weighted calculations.
 
-    [Pandas](https://pandas.pydata.org/)
+
 
 4. **Matlab**: Frequently used in [quantitative finance](../q/quantitative_finance.md) for detailed statistical analysis, including weighted methodologies.
 
-    [Matlab](https://www.mathworks.com/products/matlab.html)
 
 ### Conclusion
 

@@ -79,7 +79,7 @@ After estimating the parameters, it is crucial to validate the model to ensure i
 Several software packages and tools are available for building and applying latent variable models in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **R**: R is a popular statistical programming language with numerous packages for latent variable modeling, such as `lavaan` for SEMs, `dlm` for state-space models, and `topicmodels` for LDA.
-   
+
 2. **Python**: Python is another widely used language in [finance](../f/finance.md), [offering](../o/offering.md) packages like `sklearn` for general [machine learning](../m/machine_learning.md), `pmdarima` for state-space models, and `gensim` for topic modeling.
 
 3. **MATLAB**: MATLAB provides [robust](../r/robust.md) tools for [time series analysis](../t/time_series_analysis.md), including packages for state-space modeling and [factor analysis](../f/factor_analysis.md).

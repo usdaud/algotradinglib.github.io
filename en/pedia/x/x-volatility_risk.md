@@ -23,9 +23,9 @@ X-[Volatility Risk](../v/volatility_risk.md) can be viewed through various lense
 [Algorithmic trading](../a/algorithmic_trading.md) relies heavily on historical data and statistical models to predict future [market](../m/market.md) movements. However, X-[Volatility Risk](../v/volatility_risk.md) introduces [uncertainty](../u/uncertainty_in_trading.md) into these models due to the dynamic nature of [volatility](../v/volatility.md). Some potential impacts include:
 
 - **Model Degradation**: Algorithms that perform well under stable [volatility](../v/volatility.md) conditions may [fail](../f/fail.md) or [underperform](../u/underperform.md) during periods of high or unexpected [volatility](../v/volatility.md). This can be particularly problematic for high-frequency trading (HFT) strategies, where even minor deviations in expected [volatility](../v/volatility.md) can lead to significant losses.
-  
+
 - **[Black Swan Events](../b/black_swan_events.md)**: Extreme [volatility](../v/volatility.md) spikes, often referred to as "[Black Swan](../b/black_swan.md)" events, can lead to catastrophic failures in algorithms that are not designed to [handle](../h/handle.md) such scenarios. For example, the 2008 [financial crisis](../f/financial_crisis.md) or the COVID-19 pandemic caused unprecedented [volatility](../v/volatility.md) in the markets, catching many [trading algorithms](../t/trading_algorithms.md) off guard.
-  
+
 - **[Market](../m/market.md) Impact and [Slippage](../s/slippage.md)**: High [volatility](../v/volatility.md) periods often result in wider [bid](../b/bid.md)-ask [spreads](../s/spreads.md) and reduced [liquidity](../l/liquidity.md). This can increase the [market](../m/market.md) impact of trades and lead to [slippage](../s/slippage.md), where the executed price differs from the expected price.
 
 - **[Overfitting](../o/overfitting.md) and Underfitting**: Algorithms that are overly optimized for [historical volatility](../h/historical_volatility.md) patterns ([overfitting](../o/overfitting.md)) may struggle in new [volatility](../v/volatility.md) regimes. Conversely, those that are too general (underfitting) might not adequately capture the nuances of specific [volatility](../v/volatility.md) conditions.
@@ -50,20 +50,15 @@ To mitigate X-[Volatility Risk](../v/volatility_risk.md), traders and quants emp
 
 Renaissance Technologies, a renowned quantitative [hedge fund](../h/hedge_fund.md), is known for its sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies. The [firm](../f/firm.md)'s Medallion [Fund](../f/fund.md), in particular, has achieved remarkable returns through a combination of statistical [arbitrage](../a/arbitrage.md), [machine learning](../m/machine_learning.md), and [volatility](../v/volatility.md) management. Renaissance Technologies places a significant emphasis on understanding and managing [volatility risk](../v/volatility_risk.md) to ensure the robustness of its [trading algorithms](../t/trading_algorithms.md).
 
-Website: [Renaissance Technologies](https://www.rentec.com/)
-
 ### Tower Research Capital
 
 Tower Research [Capital](../c/capital.md) is another prominent player in the [algorithmic trading](../a/algorithmic_trading.md) space. The [firm](../f/firm.md) specializes in high-frequency trading and employs advanced [mathematical models](../m/mathematical_models_in_trading.md) to exploit [market](../m/market.md) inefficiencies. Managing X-[Volatility Risk](../v/volatility_risk.md) is integral to Tower Research [Capital](../c/capital.md)'s operations, as high-frequency strategies are particularly sensitive to [volatility](../v/volatility.md) changes.
 
-Website: [Tower Research Capital](https://www.tower-research.com/)
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management combines fundamental and [quantitative approaches](../q/quantitative_approaches.md) to develop diversified investment strategies. The [firm](../f/firm.md) uses extensive historical data and rigorous research to understand [volatility](../v/volatility.md) dynamics and incorporate [volatility](../v/volatility.md) considerations into its [trading models](../t/trading_models.md). AQR's approach to managing X-[Volatility Risk](../v/volatility_risk.md) involves a combination of [forecasting](../f/forecasting.md), [diversification](../d/diversification.md), and [hedging strategies](../h/hedging_strategies.md).
 
-Website: [AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
-
 X-[Volatility Risk](../v/volatility_risk.md) is a multifaceted aspect of [financial markets](../f/financial_market.md) that poses significant challenges and opportunities for algorithmic traders. Understanding the nature of [volatility](../v/volatility.md) and its impact on [trading models](../t/trading_models.md) is crucial for developing [robust](../r/robust.md) and resilient [trading strategies](../t/trading_strategies.md). By employing a combination of [forecasting](../f/forecasting.md), dynamic [position sizing](../p/position_sizing.md), [diversification](../d/diversification.md), hedging, and [stress testing](../s/stress_testing_in_trading.md), traders can effectively manage X-[Volatility Risk](../v/volatility_risk.md) and enhance the stability and performance of their algorithms. As markets continue to evolve, ongoing research and adaptation are essential to navigate the complexities of [volatility](../v/volatility.md) and maintain a competitive edge in the world of [algorithmic trading](../a/algorithmic_trading.md).

@@ -20,7 +20,7 @@ Cost and Freight (CFR) is a [trade](../t/trade.md) term that is commonly used in
 ## Documentation
 
 ### Bill of Lading
-A [bill of lading](../b/bill_of_lading.md) is one of the essential documents in a CFR agreement. It serves as a receipt for the cargo and a contract for the carriage of goods. It also constitutes a document of title that can be transferred, making it a crucial document in a CFR [transaction](../t/transaction.md). 
+A [bill of lading](../b/bill_of_lading.md) is one of the essential documents in a CFR agreement. It serves as a receipt for the cargo and a contract for the carriage of goods. It also constitutes a document of title that can be transferred, making it a crucial document in a CFR [transaction](../t/transaction.md).
 
 ### Commercial Invoice
 The commercial [invoice](../i/invoice.md) is another critical document that details the cost of the goods and specifies the terms of the [sale](../s/sale.md). It is used for customs clearance at both the [export](../e/export.md) and [import](../i/import.md) stages.

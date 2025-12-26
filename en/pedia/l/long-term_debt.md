@@ -86,13 +86,13 @@ Companies conduct [scenario analysis](../s/scenario_analysis.md) to evaluate how
 ## Case Studies and Examples
 
 ### Amazon's Debt Structure
-Amazon (https://www.amazon.com) has diversified its [debt](../d/debt.md) portfolio using a mix of bonds and loans to [finance](../f/finance.md) its operations and expansions. This mix allows it to maintain flexibility while managing costs effectively.
+Amazon ( has diversified its [debt](../d/debt.md) portfolio using a mix of bonds and loans to [finance](../f/finance.md) its operations and expansions. This mix allows it to maintain flexibility while managing costs effectively.
 
 ### Apple's Bond Issuances
-Apple (https://www.apple.com) has periodically issued bonds to take advantage of low [interest](../i/interest.md) rates, using the proceeds for [share buybacks](../s/share_buybacks.md) and dividends, demonstrating a strategic application of long-term [debt](../d/debt.md).
+Apple ( has periodically issued bonds to take advantage of low [interest](../i/interest.md) rates, using the proceeds for [share buybacks](../s/share_buybacks.md) and dividends, demonstrating a strategic application of long-term [debt](../d/debt.md).
 
 ### Tesla's Leveraged Growth
-Tesla (https://www.tesla.com) leveraged significant long-term [debt](../d/debt.md) to [fund](../f/fund.md) its rapid [expansion](../e/expansion.md) and innovation initiatives, balancing the [risk](../r/risk.md) with the potential for high returns.
+Tesla ( leveraged significant long-term [debt](../d/debt.md) to [fund](../f/fund.md) its rapid [expansion](../e/expansion.md) and innovation initiatives, balancing the [risk](../r/risk.md) with the potential for high returns.
 
 ## Management Strategies
 

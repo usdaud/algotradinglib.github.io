@@ -10,7 +10,7 @@ In other words, the [life insurance](../l/life_insurance.md) policy is designed 
 
 1. **[Premium](../p/premium.md) Payments**: Initially, the policyholder pays the [premium](../p/premium.md) regularly, just like any other [insurance](../i/insurance.md) policy.
 2. **[Dividend](../d/dividend.md) or Cash [Value](../v/value.md)**: At some point, the dividends or cash [value](../v/value.md) accumulated by the policy are expected to cover future premiums.
-3. **Non-Governmental Guarantee**: There is no guarantee that premiums [will](../w/will.md) actually vanish because the anticipation is based on projected dividends or investment returns. 
+3. **Non-Governmental Guarantee**: There is no guarantee that premiums [will](../w/will.md) actually vanish because the anticipation is based on projected dividends or investment returns.
 
 It is crucial for policyholders to understand that the predictions regarding vanishing premiums are not guaranteed. If the policy’s investments do not perform as expected, the policyholder may need to continue making out-of-pocket [premium](../p/premium.md) payments.
 
@@ -32,10 +32,10 @@ John takes a [life insurance](../l/life_insurance.md) policy with an initial ann
 After 10 years, however, due to an economic downturn, the dividends do not accumulate as expected. Therefore, John must continue paying out-of-pocket premiums beyond the 10th year to keep the policy active, contrary to the initial expectation.
 
 ### Real-World Example:
-**National Life Group (www.nationallife.com)**, recognized for its [life insurance](../l/life_insurance.md) offerings, included [vanishing premium](../v/vanishing_premium.md) projections in some policies during the 1980s and 1990s. Their customers bought policies under the assumption that they would scantly pay premiums post a certain period. In recent communications and policy overviews, more conservative growth projections are offered to align [customer](../c/customer.md) expectations with potential [market](../m/market.md) performance.
+**National Life Group ( recognized for its [life insurance](../l/life_insurance.md) offerings, included [vanishing premium](../v/vanishing_premium.md) projections in some policies during the 1980s and 1990s. Their customers bought policies under the assumption that they would scantly pay premiums post a certain period. In recent communications and policy overviews, more conservative growth projections are offered to align [customer](../c/customer.md) expectations with potential [market](../m/market.md) performance.
 
 ### Legal Case:
-In the late 1990s, a significant class-action lawsuit was brought against **MetLife (www.metlife.com)** for misleading sales practices concerning [vanishing premium](../v/vanishing_premium.md) policies. Policyholders contended that they were promised vanishing premiums that never materialized due to overestimated returns and dividends. The case resulted in a settlement, with MetLife agreeing to pay out claims to policyholders and to modify its sales practices to prevent future misunderstandings.
+In the late 1990s, a significant class-action lawsuit was brought against **MetLife ( for misleading sales practices concerning [vanishing premium](../v/vanishing_premium.md) policies. Policyholders contended that they were promised vanishing premiums that never materialized due to overestimated returns and dividends. The case resulted in a settlement, with MetLife agreeing to pay out claims to policyholders and to modify its sales practices to prevent future misunderstandings.
 
 ## Conclusion
 

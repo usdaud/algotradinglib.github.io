@@ -14,34 +14,34 @@ The DMI consists of three lines:
 To calculate +DI and -DI, you must first determine the Directional Movement (DM) for each period:
 
 1. **Calculate UpMove and DownMove**:
-    - **UpMove** = Current High - Previous High
-    - **DownMove** = Previous Low - Current Low
+ - **UpMove** = Current High - Previous High
+ - **DownMove** = Previous Low - Current Low
 
 2. **Determine Positive and Negative Directional Movement**:
-    - If UpMove > DownMove and UpMove > 0: +DM = UpMove
-    - If DownMove > UpMove and DownMove > 0: -DM = DownMove
-    - If neither condition is met, +DM = 0 and -DM = 0
+ - If UpMove > DownMove and UpMove > 0: +DM = UpMove
+ - If DownMove > UpMove and DownMove > 0: -DM = DownMove
+ - If neither condition is met, +DM = 0 and -DM = 0
 
 3. **Calculate the True [Range](../r/range.md) (TR)**:
-    - TR is the greatest of the following:
-        - Current High - Current Low
-        - Absolute [Value](../v/value.md) of Current High - Previous Close
-        - Absolute [Value](../v/value.md) of Current Low - Previous Close
+ - TR is the greatest of the following:
+ - Current High - Current Low
+ - Absolute [Value](../v/value.md) of Current High - Previous Close
+ - Absolute [Value](../v/value.md) of Current Low - Previous Close
 
 4. **Smoothed +DM, -DM, and TR**:
-    - Use a smoothing technique (commonly a 14-period average).
+ - Use a smoothing technique (commonly a 14-period average).
 
 5. **+DI and -DI**:
-    - +DI = (Smoothed +DM / Smoothed TR) * 100
-    - -DI = (Smoothed -DM / Smoothed TR) * 100
+ - +DI = (Smoothed +DM / Smoothed TR) * 100
+ - -DI = (Smoothed -DM / Smoothed TR) * 100
 
 ### ADX Calculation
 
 1. **Calculate the Directional Movement [Index](../i/index_instrument.md) (DX)**:
-    - DX = (| +DI - -DI | / (+DI + -DI)) * 100
+ - DX = (| +DI - -DI | / (+DI + -DI)) * 100
 
 2. **Calculate ADX**:
-    - The ADX is the smoothed average of DX values over a specified period (commonly 14 periods).
+ - The ADX is the smoothed average of DX values over a specified period (commonly 14 periods).
 
 ## Interpreting DMI
 
@@ -80,6 +80,6 @@ When ADX is below 20, it may be an indication of a [range](../r/range.md)-bound 
 The Directional Movement [Index](../i/index_instrument.md) is a powerful and versatile tool for assessing [trend](../t/trend.md) strength and direction. While it has its limitations, when combined with other indicators and sound trading principles, it can significantly enhance trading decisions.
 
 For more detailed information on [technical indicators](../t/technical_indicators.md) and [trading strategies](../t/trading_strategies.md), you can explore resources from financial institutions and trading platforms such as:
-- [Investopedia](https://www.investopedia.com)
-- [TradingView](https://www.tradingview.com)
-- [StockCharts](https://stockcharts.com) 
+- Investopedia
+- TradingView
+- StockCharts

@@ -14,11 +14,11 @@ Indirect sales involve intermediaries, such as brokers, agents, or distributors,
 
 ### Online Sales
 
-The rise of digital technology has made online sales a crucial component of both retail and financial sectors. E-[commerce](../c/commerce.md) platforms and online trading platforms provide marketplaces for buyers and sellers to interact globally. Websites such as [Amazon](https://www.amazon.com/) for [retail sales](../r/retail_sales.md) and [Robinhood](https://robinhood.com/) for stock trading illustrate the [exponential growth](../e/exponential_growth.md) of online sales.
+The rise of digital technology has made online sales a crucial component of both retail and financial sectors. E-[commerce](../c/commerce.md) platforms and online trading platforms provide marketplaces for buyers and sellers to interact globally. Websites such as Amazon for [retail sales](../r/retail_sales.md) and Robinhood for stock trading illustrate the [exponential growth](../e/exponential_growth.md) of online sales.
 
 ### Auction Sales
 
-Auction sales are another form of sale where goods or financial assets are sold to the highest bidder. This method is common for unique or high-[value](../v/value.md) items such as artwork or [real estate](../r/real_estate.md), and in [financial markets](../f/financial_market.md) for commodities and securities. Websites like [eBay](https://www.ebay.com/) and platforms like [Christie’s](https://www.christies.com/) exemplify auction-based sales.
+Auction sales are another form of sale where goods or financial assets are sold to the highest bidder. This method is common for unique or high-[value](../v/value.md) items such as artwork or [real estate](../r/real_estate.md), and in [financial markets](../f/financial_market.md) for commodities and securities. Websites like eBay and platforms like Christie’s exemplify auction-based sales.
 
 ### Wholesale and Retail Sales
 
@@ -30,7 +30,7 @@ In the context of [financial markets](../f/financial_market.md), sales typically
 
 ### Mergers and Acquisitions (M&A)
 
-In the corporate world, sales can also refer to mergers and acquisitions, where one company purchases another. These transactions involve complex negotiations and [due diligence](../d/due_diligence.md) processes. Companies like [Goldman Sachs](https://www.goldmansachs.com/) often facilitate these high-stake deals.
+In the corporate world, sales can also refer to mergers and acquisitions, where one company purchases another. These transactions involve complex negotiations and [due diligence](../d/due_diligence.md) processes. Companies like Goldman Sachs often facilitate these high-stake deals.
 
 ## Key Elements of a Sale
 
@@ -44,7 +44,7 @@ Sales often involve contracts or agreements that outline the terms and condition
 
 ### Payment Methods
 
-The methods of [payment](../p/payment.md) in sales can vary, including cash, [credit](../c/credit.md), electronic transfers, or other financial instruments. The method chosen can affect [transaction](../t/transaction.md) speed, cost, and [security](../s/security.md). [Payment](../p/payment.md) gateways like [PayPal](https://www.paypal.com/) and electronic [fund](../f/fund.md) transfer networks like [SWIFT](https://www.swift.com/) are pivotal in today's digital sales environment.
+The methods of [payment](../p/payment.md) in sales can vary, including cash, [credit](../c/credit.md), electronic transfers, or other financial instruments. The method chosen can affect [transaction](../t/transaction.md) speed, cost, and [security](../s/security.md). [Payment](../p/payment.md) gateways like PayPal and electronic [fund](../f/fund.md) transfer networks like SWIFT are pivotal in today's digital sales environment.
 
 ### Delivery and Fulfillment
 
@@ -54,15 +54,15 @@ Delivery refers to the transfer of goods, services, or financial instruments fro
 
 ### Marketing and Sales Alignment
 
-Aligning [marketing](../m/marketing.md) and sales efforts ensures a cohesive approach to outreach and closing deals. This alignment is crucial in both B2B and B2C environments and is facilitated by [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) systems like [Salesforce](https://www.salesforce.com/).
+Aligning [marketing](../m/marketing.md) and sales efforts ensures a cohesive approach to outreach and closing deals. This alignment is crucial in both B2B and B2C environments and is facilitated by [Customer](../c/customer.md) [Relationship Management](../r/relationship_management.md) (CRM) systems like Salesforce.
 
 ### Sales Funnels and Pipelines
 
-Sales funnels and pipelines help manage the sales process systematically. A sales funnel tracks [customer](../c/customer.md) journey stages from awareness to purchase, while a sales pipeline monitors the progress of ongoing sales opportunities. Tools like [HubSpot](https://www.hubspot.com/) [offer](../o/offer.md) [robust](../r/robust.md) features to manage these processes.
+Sales funnels and pipelines help manage the sales process systematically. A sales funnel tracks [customer](../c/customer.md) journey stages from awareness to purchase, while a sales pipeline monitors the progress of ongoing sales opportunities. Tools like HubSpot [offer](../o/offer.md) [robust](../r/robust.md) features to manage these processes.
 
 ### Lead Generation and Prospecting
 
-Lead generation involves attracting potential buyers, often through [marketing](../m/marketing.md) campaigns, content [marketing](../m/marketing.md), and advertising. Prospecting is the process of prioritizing and engaging with these leads. Effective lead generation and prospecting require [data analytics](../d/data_analytics.md) and [marketing](../m/marketing.md) automation solutions like [Marketo](https://www.marketo.com/).
+Lead generation involves attracting potential buyers, often through [marketing](../m/marketing.md) campaigns, content [marketing](../m/marketing.md), and advertising. Prospecting is the process of prioritizing and engaging with these leads. Effective lead generation and prospecting require [data analytics](../d/data_analytics.md) and [marketing](../m/marketing.md) automation solutions like Marketo.
 
 ### Negotiation
 
@@ -106,27 +106,27 @@ CLV represents the estimated [revenue](../r/revenue.md) from a [customer](../c/c
 
 ### CRM Software
 
-CRM software like [Salesforce](https://www.salesforce.com/) helps businesses manage [customer](../c/customer.md) interactions, sales pipelines, and [marketing](../m/marketing.md) campaigns in a centralized platform.
+CRM software like Salesforce helps businesses manage [customer](../c/customer.md) interactions, sales pipelines, and [marketing](../m/marketing.md) campaigns in a centralized platform.
 
 ### Sales Enablement Tools
 
-Sales enablement tools provide sales teams with the resources, training, and information needed to close deals effectively. Platforms like [Showpad](https://www.showpad.com/) and [Highspot](https://www.highspot.com/) are examples.
+Sales enablement tools provide sales teams with the resources, training, and information needed to close deals effectively. Platforms like Showpad and Highspot are examples.
 
 ### Marketing Automation
 
-[Marketing](../m/marketing.md) automation platforms like [Marketo](https://www.marketo.com/) integrate with CRM systems to automate [marketing](../m/marketing.md) campaigns, lead generation, and [customer](../c/customer.md) segmentation processes.
+[Marketing](../m/marketing.md) automation platforms like Marketo integrate with CRM systems to automate [marketing](../m/marketing.md) campaigns, lead generation, and [customer](../c/customer.md) segmentation processes.
 
 ### Analytics and BI Tools
 
-[Big data analytics](../b/big_data_analytics_in_trading.md) and [business](../b/business.md) intelligence (BI) tools help analyze sales data, track [performance metrics](../p/performance_metrics.md), and make data-driven decisions. Solutions like [Tableau](https://www.tableau.com/) and [Power BI](https://powerbi.microsoft.com/) are widely used.
+[Big data analytics](../b/big_data_analytics_in_trading.md) and [business](../b/business.md) intelligence (BI) tools help analyze sales data, track [performance metrics](../p/performance_metrics.md), and make data-driven decisions. Solutions like Tableau and Power BI are widely used.
 
 ### E-commerce Platforms
 
-E-[commerce](../c/commerce.md) platforms like [Shopify](https://www.shopify.com/) enable online sales, providing the necessary [infrastructure](../i/infrastructure.md) to manage [inventory](../i/inventory.md), process payments, and fulfill orders.
+E-[commerce](../c/commerce.md) platforms like Shopify enable online sales, providing the necessary [infrastructure](../i/infrastructure.md) to manage [inventory](../i/inventory.md), process payments, and fulfill orders.
 
 ### Trading Platforms
 
-Trading platforms like [E*TRADE](https://www.etrade.com/) and [TD Ameritrade](https://www.tdameritrade.com/) [offer](../o/offer.md) tools for buying and selling financial instruments including real-time data, analysis, and automated trading.
+Trading platforms like E*TRADE and TD Ameritrade [offer](../o/offer.md) tools for buying and selling financial instruments including real-time data, analysis, and automated trading.
 
 ## Challenges in Sales
 
@@ -154,15 +154,15 @@ Evolving [customer](../c/customer.md) expectations require businesses to continu
 
 ### AI and Machine Learning
 
-AI and [machine learning](../m/machine_learning.md) are transforming sales processes by providing insights into [customer](../c/customer.md) behavior, automating routine tasks, and enhancing decision-making. Tools employing AI, like [Conversica](https://www.conversica.com/), [offer](../o/offer.md) AI-driven sales assistants and chatbots.
+AI and [machine learning](../m/machine_learning.md) are transforming sales processes by providing insights into [customer](../c/customer.md) behavior, automating routine tasks, and enhancing decision-making. Tools employing AI, like Conversica, [offer](../o/offer.md) AI-driven sales assistants and chatbots.
 
 ### Omnichannel Sales
 
-Omnichannel sales strategies integrate [multiple](../m/multiple.md) sales channels (online, offline, mobile) to provide a seamless [customer](../c/customer.md) experience. Brands like [Nike](https://www.nike.com/) [leverage](../l/leverage.md) omnichannel strategies to unify shopping experiences across various touchpoints.
+Omnichannel sales strategies integrate [multiple](../m/multiple.md) sales channels (online, offline, mobile) to provide a seamless [customer](../c/customer.md) experience. Brands like Nike [leverage](../l/leverage.md) omnichannel strategies to unify shopping experiences across various touchpoints.
 
 ### Personalization
 
-Personalization tailors the sales process to individual [customer](../c/customer.md) preferences and behaviors, increasing engagement and conversion rates. Technologies like recommendation engines used by [Amazon](https://www.amazon.com/) exemplify personalization in sales.
+Personalization tailors the sales process to individual [customer](../c/customer.md) preferences and behaviors, increasing engagement and conversion rates. Technologies like recommendation engines used by Amazon exemplify personalization in sales.
 
 ### Ethical Selling
 
@@ -170,7 +170,7 @@ Consumers increasingly [value](../v/value.md) corporate responsibility and ethic
 
 ### Subscription Models
 
-Subscription sales models, where customers pay a recurring [fee](../f/fee.md) for access to a product or service, are becoming more popular. This model ensures steady [revenue](../r/revenue.md) streams and fosters long-term [customer](../c/customer.md) relationships. Companies like [Netflix](https://www.netflix.com/) and [Spotify](https://www.spotify.com/) successfully use subscription models.
+Subscription sales models, where customers pay a recurring [fee](../f/fee.md) for access to a product or service, are becoming more popular. This model ensures steady [revenue](../r/revenue.md) streams and fosters long-term [customer](../c/customer.md) relationships. Companies like Netflix and Spotify successfully use subscription models.
 
 ## Conclusion
 

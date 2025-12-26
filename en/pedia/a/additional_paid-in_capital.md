@@ -39,7 +39,7 @@ Thus, the Additional [Paid-In Capital](../p/paid-in_capital.md) would be $9,990,
 APIC is crucial for several reasons:
 
 1. **Financial Reporting**: APIC is a significant line item in the [equity](../e/equity.md) section of a company's [balance sheet](../b/balance_sheet.md). It reflects the additional funds raised above the [nominal value](../n/nominal_value.md) and thus provides insights into [investor](../i/investor.md) confidence and the company’s ability to raise [capital](../c/capital.md).
-   
+
 2. **[Capital Structure](../c/capital_structure.md)**: APIC provides companies with additional funds that can be utilized for various strategic initiatives, such as expanding operations, paying off [debt](../d/debt.md), or funding research and development activities. It essentially increases the [equity](../e/equity.md) base without incurring additional [debt](../d/debt.md).
 
 3. **[Leverage](../l/leverage.md) for Growth**: Firms with substantial APIC have more resources at their disposal to invest in growth opportunities. This [capital](../c/capital.md) can be a critical determinant of a [firm](../f/firm.md)'s long-term success.
@@ -61,12 +61,12 @@ In [financial statements](../f/financial_statements.md), APIC is reported within
 
 **Shareholders' [Equity](../e/equity.md):**
 
-| Category                         | Amount          |
+| Category | Amount |
 |----------------------------------|-----------------|
-| **[Common Stock](../c/common_stock.md) (at [Par Value](../p/par_value.md))**  | $10,000         |
-| **Additional [Paid-In Capital](../p/paid-in_capital.md)**   | $9,990,000      |
-| **[Retained Earnings](../r/retained_earnings.md)**            | $5,000,000      |
-| **Total Shareholders' [Equity](../e/equity.md)**   | $15,000,000     |
+| **[Common Stock](../c/common_stock.md) (at [Par Value](../p/par_value.md))** | $10,000 |
+| **Additional [Paid-In Capital](../p/paid-in_capital.md)** | $9,990,000 |
+| **[Retained Earnings](../r/retained_earnings.md)** | $5,000,000 |
+| **Total Shareholders' [Equity](../e/equity.md)** | $15,000,000 |
 
 In this example, the [common stock](../c/common_stock.md) at [par value](../p/par_value.md) is $10,000, and Additional [Paid-In Capital](../p/paid-in_capital.md) is $9,990,000, indicating significant [investor](../i/investor.md) confidence and additional funds available for corporate use.
 
@@ -105,16 +105,16 @@ International Financial Reporting Standards (IFRS) also require clear [disclosur
 Several companies have raised substantial amounts through [equity financing](../e/equity_financing.md), resulting in significant Additional [Paid-In Capital](../p/paid-in_capital.md). These companies are often high-profile firms that have garnered widespread [investor](../i/investor.md) [interest](../i/interest.md). Examples include:
 
 - **Apple Inc.**: One of the largest technology companies globally, Apple's [balance sheet](../b/balance_sheet.md) shows substantial additional [paid-in capital](../p/paid-in_capital.md) as a result of stock issuances.
-  
+
 - **Amazon.com, Inc.**: With its rapid growth and continuous need for [capital](../c/capital.md), Amazon has significant APIC from various [equity financing](../e/equity_financing.md) activities.
 
 - **Facebook, Inc. (Meta Platforms, Inc.)**: The [social media](../s/social_media.md) giant's numerous stock offerings over the years have led to a considerable APIC figure on its [balance sheet](../b/balance_sheet.md).
 
 ### Links to Companies' Websites
 
-- [Apple Inc.](https://www.apple.com)
-- [Amazon.com, Inc.](https://www.amazon.com)
-- [Meta Platforms, Inc.](https://www.metaplatforms.com)
+- Apple Inc.
+- Amazon.com, Inc.
+- Meta Platforms, Inc.
 
 ## Conclusion
 

@@ -8,7 +8,7 @@ There are several types of financial [risk](../r/risk.md) that are particularly 
 
 ### Market Risk
 
-[Market risk](../m/market_risk.md), also known as [systematic risk](../s/systematic_risk.md), is the [risk](../r/risk.md) of losses due to movements in the overall [financial markets](../f/financial_market.md). This can include changes in stock prices, [interest](../i/interest.md) rates, [currency exchange](../c/currency_exchange.md) rates, and [commodity](../c/commodity.md) prices. [Market risk](../m/market_risk.md) is inherent to all types of investments and cannot be eliminated through [diversification](../d/diversification.md). 
+[Market risk](../m/market_risk.md), also known as [systematic risk](../s/systematic_risk.md), is the [risk](../r/risk.md) of losses due to movements in the overall [financial markets](../f/financial_market.md). This can include changes in stock prices, [interest](../i/interest.md) rates, [currency exchange](../c/currency_exchange.md) rates, and [commodity](../c/commodity.md) prices. [Market risk](../m/market_risk.md) is inherent to all types of investments and cannot be eliminated through [diversification](../d/diversification.md).
 
 #### Components of Market Risk
 
@@ -33,7 +33,7 @@ There are several types of financial [risk](../r/risk.md) that are particularly 
 
 #### Aspects of Liquidity Risk
 
-- **[Market](../m/market.md) [Liquidity](../l/liquidity.md):** The ease with which an [asset](../a/asset.md) can be bought or sold in the [market](../m/market.md) without affecting its price. 
+- **[Market](../m/market.md) [Liquidity](../l/liquidity.md):** The ease with which an [asset](../a/asset.md) can be bought or sold in the [market](../m/market.md) without affecting its price.
 - **[Funding Liquidity](../f/funding_liquidity.md):** The ability to meet short-term financial [obligations](../o/obligation.md) or to [fund](../f/fund.md) trading positions.
 
 ### Operational Risk

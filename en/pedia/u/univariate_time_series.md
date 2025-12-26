@@ -70,8 +70,8 @@ Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedastic
 A simple GARCH(1,1) model can be written as:
 \[
 \begin{aligned}
-  & Y_t = \sigma_t \epsilon_t \\
-  & \sigma_t^2 = \alpha_0 + \alpha_1 Y_{t-1}^2 + \[beta](../b/beta.md)\sigma_{t-1}^2
+ & Y_t = \sigma_t \epsilon_t \\
+ & \sigma_t^2 = \alpha_0 + \alpha_1 Y_{t-1}^2 + \[beta](../b/beta.md)\sigma_{t-1}^2
 \end{aligned}
 \]
 
@@ -148,9 +148,9 @@ Univariate [time series](../t/time_series.md) is a foundational element in [algo
 
 For more detailed and practical implementations of these concepts, traders and data scientists can refer to the following companies and their respective pages:
 
-- [Numerai](https://numer.ai/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Alpaca](https://alpaca.markets/)
-- [Quantopian](https://www.quantopian.com/)
+- Numerai
+- QuantConnect
+- Alpaca
+- Quantopian
 
 These platforms [offer](../o/offer.md) resources, data, and tools for designing, testing, and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies.

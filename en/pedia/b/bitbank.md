@@ -6,7 +6,6 @@ Bitbank is a Japan-based cryptocurrency [exchange](../e/exchange.md) that has be
 
 Bitbank was founded by founder and CEO Noriyuki Hirosue and has grown to become one of the leading cryptocurrency exchanges in Japan. Operating under the strict regulatory regime of Japan's Financial Services Agency (FSA), Bitbank provides services aimed at both retail and institutional investors, [offering](../o/offering.md) a variety of trading pairs and advanced trading features.
 
-Official website: [Bitbank](https://bitbank.cc/)
 
 ## Services and Features
 
@@ -43,16 +42,16 @@ For professional traders and developers, Bitbank provides a [robust](../r/robust
 #### Key API Endpoints
 
 1. **Public Endpoints**:
-   - `/v1/ticker`: Get current [market price](../m/market_price.md).
-   - `/v1/order_book`: Retrieve the [order book](../o/order_book.md).
-   - `/v1/trades`: Access recent trades.
-   - `/v1/price_chart`: Get historical price data.
+ - `/v1/ticker`: Get current [market price](../m/market_price.md).
+ - `/v1/order_book`: Retrieve the [order book](../o/order_book.md).
+ - `/v1/trades`: Access recent trades.
+ - `/v1/price_chart`: Get historical price data.
 
 2. **Private Endpoints**:
-   - `/v1/user/assets`: [Check](../c/check.md) the user's [asset](../a/asset.md) balances.
-   - `/v1/user/orders`: Manage [open](../o/open.md) orders.
-   - `/v1/user/trades`: View your [trade](../t/trade.md) history.
-   - `/v1/user/[trade](../t/trade.md)`: Place a new [trade](../t/trade.md) [order](../o/order.md).
+ - `/v1/user/assets`: [Check](../c/check.md) the user's [asset](../a/asset.md) balances.
+ - `/v1/user/orders`: Manage [open](../o/open.md) orders.
+ - `/v1/user/trades`: View your [trade](../t/trade.md) history.
+ - `/v1/user/[trade](../t/trade.md)`: Place a new [trade](../t/trade.md) [order](../o/order.md).
 
 The API is designed to support high-frequency trading and provides a low-latency interface for accessing [market](../m/market.md) data and executing trades.
 
@@ -71,12 +70,12 @@ The API is designed to support high-frequency trading and provides a low-latency
 Bitbank employs a transparent [fee](../f/fee.md) structure, with trading fees designed to incentivize [liquidity provision](../l/liquidity_provision.md). The [fee](../f/fee.md) schedule varies depending on the type of [trade](../t/trade.md) and the trading [volume](../v/volume.md).
 
 - **Trading Fees**: A maker-taker [fee](../f/fee.md) model is applied:
-  - **Maker**: 0.12% (provides [liquidity](../l/liquidity.md))
-  - **Taker**: 0.15% (removes [liquidity](../l/liquidity.md))
+ - **Maker**: 0.12% (provides [liquidity](../l/liquidity.md))
+ - **Taker**: 0.15% (removes [liquidity](../l/liquidity.md))
 
 - **[Deposit](../d/deposit.md) and [Withdrawal](../w/withdrawal.md) Fees**:
-  - Deposits: Generally free for cryptocurrencies, while JPY deposits may incur [bank](../b/bank.md) transfer fees.
-  - Withdrawals: Fees vary by cryptocurrency (e.g., BTC [withdrawal](../w/withdrawal.md) [fee](../f/fee.md) is 0.001 BTC).
+ - Deposits: Generally free for cryptocurrencies, while JPY deposits may incur [bank](../b/bank.md) transfer fees.
+ - Withdrawals: Fees vary by cryptocurrency (e.g., BTC [withdrawal](../w/withdrawal.md) [fee](../f/fee.md) is 0.001 BTC).
 
 ### Customer Support
 

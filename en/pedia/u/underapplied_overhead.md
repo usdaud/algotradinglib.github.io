@@ -1,10 +1,10 @@
 # Underapplied Overhead
 
-In the field of [managerial accounting](../m/managerial_accounting.md) and [cost accounting](../c/cost_accounting.md), the concept of underapplied overhead plays a crucial role in assessing the accuracy and [efficiency](../e/efficiency.md) of a company's cost management system. Understanding underapplied overhead is vital for businesses aiming to maintain [cost control](../c/cost_control.md) and accurate [financial statements](../f/financial_statements.md). This concept is closely linked to [manufacturing](../m/manufacturing.md) firms, but it is also applicable to any organization that uses standard costing to allocate overhead on a predetermined [basis](../b/basis.md). 
+In the field of [managerial accounting](../m/managerial_accounting.md) and [cost accounting](../c/cost_accounting.md), the concept of underapplied overhead plays a crucial role in assessing the accuracy and [efficiency](../e/efficiency.md) of a company's cost management system. Understanding underapplied overhead is vital for businesses aiming to maintain [cost control](../c/cost_control.md) and accurate [financial statements](../f/financial_statements.md). This concept is closely linked to [manufacturing](../m/manufacturing.md) firms, but it is also applicable to any organization that uses standard costing to allocate overhead on a predetermined [basis](../b/basis.md).
 
 ### What is Overhead?
 
-Overhead costs encompass all the ongoing [business](../b/business.md) expenses not directly attributed to producing a product or service. Examples include rent, utilities, [insurance](../i/insurance.md), and salaries of administrative staff. In [manufacturing](../m/manufacturing.md), overhead costs can include indirect materials, indirect labor, and other [manufacturing](../m/manufacturing.md) expenses that cannot be directly traced to individual products. 
+Overhead costs encompass all the ongoing [business](../b/business.md) expenses not directly attributed to producing a product or service. Examples include rent, utilities, [insurance](../i/insurance.md), and salaries of administrative staff. In [manufacturing](../m/manufacturing.md), overhead costs can include indirect materials, indirect labor, and other [manufacturing](../m/manufacturing.md) expenses that cannot be directly traced to individual products.
 
 ### Predetermined Overhead Rate
 
@@ -24,7 +24,7 @@ Applied Overhead = Predetermined [Overhead Rate](../o/overhead_rate.md) × Actua
 
 ### Underapplied Overhead Explained
 
-Underapplied overhead occurs when the actual overhead costs incurred during a period exceed the applied overhead based on the predetermined [overhead rate](../o/overhead_rate.md). This indicates that the company has underestimated its overhead costs when setting the predefined rate. 
+Underapplied overhead occurs when the actual overhead costs incurred during a period exceed the applied overhead based on the predetermined [overhead rate](../o/overhead_rate.md). This indicates that the company has underestimated its overhead costs when setting the predefined rate.
 
 ### Calculation of Underapplied Overhead
 
@@ -56,21 +56,21 @@ The treatment of underapplied overhead can vary depending on the size and signif
 
 1. **Direct Adjustment to COGS**: The simplest method is to adjust the cost of goods sold directly by the amount of the underapplied overhead. This approach is suitable when the amount is relatively small.
 
-   ```
-   [Journal](../j/journal.md) Entry:
-   [Debit](../d/debit.md) Cost of Goods Sold (COGS)
-   [Credit](../c/credit.md) [Manufacturing](../m/manufacturing.md) Overhead
-   ```
+ ```
+ [Journal](../j/journal.md) Entry:
+ [Debit](../d/debit.md) Cost of Goods Sold (COGS)
+ [Credit](../c/credit.md) [Manufacturing](../m/manufacturing.md) Overhead
+ ```
 
 2. **Proportionate Allocation**: For more material amounts, companies may allocate the underapplied overhead proportionally across work in progress (WIP), finished goods, and COGS based on their relative values.
 
-   ```
-   [Journal](../j/journal.md) Entry:
-   [Debit](../d/debit.md) WIP [Inventory](../i/inventory.md)
-   [Debit](../d/debit.md) Finished Goods [Inventory](../i/inventory.md)
-   [Debit](../d/debit.md) COGS
-   [Credit](../c/credit.md) [Manufacturing](../m/manufacturing.md) Overhead
-   ```
+ ```
+ [Journal](../j/journal.md) Entry:
+ [Debit](../d/debit.md) WIP [Inventory](../i/inventory.md)
+ [Debit](../d/debit.md) Finished Goods [Inventory](../i/inventory.md)
+ [Debit](../d/debit.md) COGS
+ [Credit](../c/credit.md) [Manufacturing](../m/manufacturing.md) Overhead
+ ```
 
 ### Causes of Underapplied Overhead
 
@@ -95,13 +95,13 @@ Imagine a [manufacturing](../m/manufacturing.md) company, ABC Corp., with the fo
 - Budgeted Overhead Costs: $500,000
 - Expected Machine Hours: 25,000 hours
 
-**Predetermined [Overhead Rate](../o/overhead_rate.md)**: 
+**Predetermined [Overhead Rate](../o/overhead_rate.md)**:
 
 ```
 $500,000 / 25,000 hours = $20 per machine hour
 ```
 
-During the period, ABC Corp. incurs actual overhead costs of $520,000 and uses 26,000 machine hours. 
+During the period, ABC Corp. incurs actual overhead costs of $520,000 and uses 26,000 machine hours.
 
 **Applied Overhead**:
 
@@ -111,7 +111,6 @@ $20 per machine hour × 26,000 machine hours = $520,000
 
 **Underapplied Overhead Calculation**:
 
-Actual Overhead Costs - Applied Overhead
 ```
 $520,000 - $520,000 = $0
 ```

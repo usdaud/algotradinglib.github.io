@@ -35,9 +35,9 @@ Though verbal gifts can be legally binding if all elements are satisfied, having
 
 #### Gift Deed
 A gift [deed](../d/deed.md) is a formal legal document that explicitly outlines the transfer of ownership from the donor to the donee. The [deed](../d/deed.md) should include:
-- Description of the gift 
-- Names and addresses of the donor and donee 
-- Signatures of the donor, donee, and witnesses 
+- Description of the gift
+- Names and addresses of the donor and donee
+- Signatures of the donor, donee, and witnesses
 - Date of transfer
 
 ### Tax Implications
@@ -67,7 +67,7 @@ If the donor lacked the legal capacity to make the gift at the time of the trans
 In this seminal case, a father (donor) gave his son (donee) a valuable painting while reserving a [life estate](../l/life_estate.md) in it for himself. The court upheld the gift despite the father retaining possession of the painting, concluding that all elements of a valid gift inter vivos were met.
 
 #### Corporate Gifting
-Companies may also engage in gift inter vivos practices, often for charitable purposes. For instance, large tech firms like Google (https://about.google/) and charities like the Bill & Melinda Gates Foundation (https://www.gatesfoundation.org/) frequently donate substantial amounts of [money](../m/money.md) or resources as gifts inter vivos.
+Companies may also engage in gift inter vivos practices, often for charitable purposes. For instance, large tech firms like Google ( and charities like the Bill & Melinda Gates Foundation ( frequently donate substantial amounts of [money](../m/money.md) or resources as gifts inter vivos.
 
 ### Ethical and Practical Considerations
 

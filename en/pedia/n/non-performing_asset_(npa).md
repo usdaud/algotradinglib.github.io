@@ -93,4 +93,4 @@ Each country has its regulatory framework to manage NPAs. For instance, in India
 
 Non-Performing Assets (NPAs) serve as a crucial metric for the [financial health](../f/financial_health.md) of lending institutions and have far-reaching impacts on their operations and on the [economy](../e/economy.md) at large. Effective management and reduction of NPAs are essential for the stability and growth of the banking sector. While [risk management](../r/risk_management.md), technological interventions, legal frameworks, and government initiatives play notable roles in addressing NPAs, a vigilant approach towards [credit](../c/credit.md) evaluation and monitoring continues to be of paramount importance. The mechanisms to deal with NPAs are continuously evolving in response to changing economic environments and regulatory landscapes, making it a dynamic and critical aspect of financial management.
 
-For more information, visit the [Reserve Bank of India](https://www.rbi.org.in/) or the [European Central Bank](https://www.ecb.europa.eu/).
+For more information, visit the Reserve Bank of India or the European Central Bank.

@@ -73,24 +73,24 @@ The clearinghouse involved in [futures](../f/futures.md) trading establishes the
 Managing a [margin account](../m/margin_account.md) prudently requires employing certain strategies to mitigate [risk](../r/risk.md). Here are a few common approaches:
 
 1. **Regular Monitoring**:
-   Regularly monitor your [margin account](../m/margin_account.md) to ensure that your [equity](../e/equity.md) does not fall below the maintenance [margin](../m/margin.md) level. [Market](../m/market.md) conditions can change rapidly, and staying informed can help you take timely action.
+ Regularly monitor your [margin account](../m/margin_account.md) to ensure that your [equity](../e/equity.md) does not fall below the maintenance [margin](../m/margin.md) level. [Market](../m/market.md) conditions can change rapidly, and staying informed can help you take timely action.
 
 2. **[Stop-Loss Orders](../s/stop-loss_orders.md)**:
-   Placing [stop-loss orders](../s/stop-loss_orders.md) can help limit potential losses. A [stop-loss order](../s/stop-loss_order.md) instructs your [broker](../b/broker.md) to sell a [security](../s/security.md) when it reaches a certain price, thus preventing further losses and helping maintain adequate [equity](../e/equity.md) in the [margin account](../m/margin_account.md).
+ Placing [stop-loss orders](../s/stop-loss_orders.md) can help limit potential losses. A [stop-loss order](../s/stop-loss_order.md) instructs your [broker](../b/broker.md) to sell a [security](../s/security.md) when it reaches a certain price, thus preventing further losses and helping maintain adequate [equity](../e/equity.md) in the [margin account](../m/margin_account.md).
 
 3. **[Diversification](../d/diversification.md)**:
-   Diversifying your investment portfolio reduces the likelihood that a significant drop in one [security](../s/security.md)’s [value](../v/value.md) [will](../w/will.md) negatively impact your entire portfolio. This can help maintain your [margin account](../m/margin_account.md)'s [equity](../e/equity.md) level.
+ Diversifying your investment portfolio reduces the likelihood that a significant drop in one [security](../s/security.md)’s [value](../v/value.md) [will](../w/will.md) negatively impact your entire portfolio. This can help maintain your [margin account](../m/margin_account.md)'s [equity](../e/equity.md) level.
 
 4. **Avoid Overleveraging**:
-   Borrowing too much can amplify losses as much as gains. Being conservative with [leverage](../l/leverage.md) by only borrowing what you can afford to repay [will](../w/will.md) reduce the [risk](../r/risk.md) of [margin](../m/margin.md) calls.
+ Borrowing too much can amplify losses as much as gains. Being conservative with [leverage](../l/leverage.md) by only borrowing what you can afford to repay [will](../w/will.md) reduce the [risk](../r/risk.md) of [margin](../m/margin.md) calls.
 
 5. **Keep Cash Reserves**:
-   Maintaining a cash reserve in your [margin account](../m/margin_account.md) can act as a cushion in case of adverse [market](../m/market.md) movements, thus helping to avoid [margin](../m/margin.md) calls.
+ Maintaining a cash reserve in your [margin account](../m/margin_account.md) can act as a cushion in case of adverse [market](../m/market.md) movements, thus helping to avoid [margin](../m/margin.md) calls.
 
 ### Conclusion
 
-Maintenance [margin](../m/margin.md) is a fundamental component of [margin trading](../m/margin_trading.md) and [futures](../f/futures.md) trading, playing a pivotal role in mitigating [risk](../r/risk.md) for both investors and brokers. Understanding and managing maintenance [margin](../m/margin.md) requirements can help investors make informed decisions, minimize the [risk](../r/risk.md) of [margin](../m/margin.md) calls, and navigate the complexities of leveraged trading effectively. While [margin trading](../m/margin_trading.md) offers the potential for higher returns, it’s essential to approach it with caution and a thorough understanding of its associated risks. 
+Maintenance [margin](../m/margin.md) is a fundamental component of [margin trading](../m/margin_trading.md) and [futures](../f/futures.md) trading, playing a pivotal role in mitigating [risk](../r/risk.md) for both investors and brokers. Understanding and managing maintenance [margin](../m/margin.md) requirements can help investors make informed decisions, minimize the [risk](../r/risk.md) of [margin](../m/margin.md) calls, and navigate the complexities of leveraged trading effectively. While [margin trading](../m/margin_trading.md) offers the potential for higher returns, it’s essential to approach it with caution and a thorough understanding of its associated risks.
 
 For more detailed [guidance](../g/guidance.md) or personalized advice, investors should consider consulting financial advisors or reading through resources provided by their respective brokers.
 
-For further information, you can visit major brokerage websites such as [Charles Schwab](https://www.schwab.com) for their comprehensive guides and educational resources on [margin trading](../m/margin_trading.md) and maintenance [margin](../m/margin.md).
+For further information, you can visit major brokerage websites such as Charles Schwab for their comprehensive guides and educational resources on [margin trading](../m/margin_trading.md) and maintenance [margin](../m/margin.md).

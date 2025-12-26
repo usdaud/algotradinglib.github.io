@@ -14,19 +14,16 @@ Three main companies dominate the [bond rating](../b/bond_rating.md) [industry](
 
 Moody's Investors Service, a subsidiary of Moody's [Corporation](../c/corporation.md), is renowned for its comprehensive ratings on [debt](../d/debt.md) securities and various financial instruments. It operates globally, covering a wide array of industries and geographic regions.
 
-**Website**: [Moody's](https://www.moodys.com)
 
 ### Standard & Poor's (S&P) Global Ratings
 
 Standard & Poor's, part of S&P Global, provides critical financial data, [credit](../c/credit.md) ratings, and investment research. It's known for its rigorous [credit](../c/credit.md) ratings and [market](../m/market.md) insights that guide investment strategies and [risk management](../r/risk_management.md).
 
-**Website**: [S&P](https://www.spglobal.com/ratings)
 
 ### Fitch Ratings
 
 [Fitch Ratings](../f/fitch_ratings.md), a part of Fitch Group, delivers [credit](../c/credit.md) opinions, research, and data. With a strong presence across various markets, Fitch offers essential insights that aid in the decision-making process for investors and policymakers.
 
-**Website**: [Fitch Ratings](https://www.fitchratings.com/)
 
 ## Rating Scales
 

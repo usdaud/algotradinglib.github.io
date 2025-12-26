@@ -8,7 +8,7 @@ Algorithmic [execution](../e/execution.md) can be classified into various strate
 
 #### 1. **Volume-Weighted Average Price (VWAP):**
 
-VWAP algorithms are designed to execute orders in line with the [volume](../v/volume.md) pattern of the stock throughout the day. The goal is to ensure that the [execution](../e/execution.md) price is close to the VWAP, reducing [market](../m/market.md) impact and [slippage](../s/slippage.md). VWAP is commonly used when trading large orders to avoid disturbing the [market price](../m/market_price.md). 
+VWAP algorithms are designed to execute orders in line with the [volume](../v/volume.md) pattern of the stock throughout the day. The goal is to ensure that the [execution](../e/execution.md) price is close to the VWAP, reducing [market](../m/market.md) impact and [slippage](../s/slippage.md). VWAP is commonly used when trading large orders to avoid disturbing the [market price](../m/market_price.md).
 
 #### 2. **Time-Weighted Average Price (TWAP):**
 
@@ -26,7 +26,7 @@ POV strategies execute orders based on a specified percentage of the [market](..
 
 These algorithms are designed to dynamically search for [liquidity](../l/liquidity.md) across [multiple](../m/multiple.md) trading venues. [Liquidity](../l/liquidity.md)-seeking algorithms are beneficial in fragmented markets where large orders can impact prices. By seeking out the pools of [liquidity](../l/liquidity.md), these algorithms can often achieve more favorable prices.
 
-### Components of Algorithmic Execution 
+### Components of Algorithmic Execution
 
 #### - **Data Feed:**
 
@@ -66,7 +66,7 @@ Algorithms consistently follow specified strategies and parameters, ensuring tha
 
 Algorithmic [execution](../e/execution.md) provides a clear trail of the [order](../o/order.md) lifecycle, enhancing [transparency](../t/transparency.md). It also helps in audits and compliance, as every step is documented and can be reviewed.
 
-### Challenges and Considerations 
+### Challenges and Considerations
 
 #### - **Algorithmic Drift:**
 
@@ -88,11 +88,11 @@ Technological failures such as system crashes, network issues, and bugs in the a
 
 Several companies and platforms are at the forefront of providing algorithmic [execution](../e/execution.md) solutions:
 
-- **Virtu Financial [Virtu](https://www.virtu.com/):** A leading provider of financial services and products, including [algorithmic trading](../a/algorithmic_trading.md) solutions.
-- **ITG (Investment Technology Group) [ITG](https://www.itg.com/):** Offers a wide [range](../r/range.md) of trading and [execution](../e/execution.md) solutions, backed by advanced technology and research.
-- **[Bloomberg](../b/bloomberg.md) Tradebook [Bloomberg](https://www.bloomberg.com/professional/tradebook/):** Provides comprehensive trading solutions including algorithmic [execution](../e/execution.md) for equities, [futures](../f/futures.md), and [options](../o/options.md).
-- **[QuantConnect](../q/quantconnect.md) [QuantConnect](https://www.quantconnect.com/):** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers [infrastructure](../i/infrastructure.md) and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).
-- **[AlgoTrader](../a/algotrader.md) [AlgoTrader](https://www.algotrader.com/):** A professional [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset class strategies](../m/multi-asset_class_strategies.md) and [execution](../e/execution.md).
+- **Virtu Financial Virtu:** A leading provider of financial services and products, including [algorithmic trading](../a/algorithmic_trading.md) solutions.
+- **ITG (Investment Technology Group) ITG:** Offers a wide [range](../r/range.md) of trading and [execution](../e/execution.md) solutions, backed by advanced technology and research.
+- **[Bloomberg](../b/bloomberg.md) Tradebook Bloomberg:** Provides comprehensive trading solutions including algorithmic [execution](../e/execution.md) for equities, [futures](../f/futures.md), and [options](../o/options.md).
+- **[QuantConnect](../q/quantconnect.md) QuantConnect:** An [algorithmic trading](../a/algorithmic_trading.md) platform that offers [infrastructure](../i/infrastructure.md) and tools for developing and deploying [trading algorithms](../t/trading_algorithms.md).
+- **[AlgoTrader](../a/algotrader.md) AlgoTrader:** A professional [algorithmic trading](../a/algorithmic_trading.md) software that supports [multi-asset class strategies](../m/multi-asset_class_strategies.md) and [execution](../e/execution.md).
 
 ### Conclusion
 

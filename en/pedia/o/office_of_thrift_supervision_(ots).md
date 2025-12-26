@@ -41,6 +41,6 @@ While the OTS no longer exists, its legacy continues to shape the regulatory fra
 By transferring its functions to existing [federal agencies](../f/federal_agencies.md), the Dodd-Frank Act aimed to streamline and strengthen the regulatory oversight of financial institutions, addressing the [gaps](../g/gap.md) and weaknesses revealed by the [financial crisis](../f/financial_crisis.md). The organizational and regulatory changes led by the OTS paved the way for future reforms aimed at fostering a more resilient [financial system](../f/financial_system.md).
 
 For more information on the agencies that took over OTS responsibilities, you can visit:
-- [Office of the Comptroller of the Currency (OCC)](https://www.occ.treas.gov)
-- [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov)
-- [Federal Reserve](https://www.federalreserve.gov)
+- Office of the Comptroller of the Currency (OCC)
+- Federal Deposit Insurance Corporation (FDIC)
+- Federal Reserve

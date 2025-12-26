@@ -93,13 +93,13 @@ Promoting a diverse [range](../r/range.md) of [market](../m/market.md) participa
 ## Case Studies: Order Book Liquidity in Practice
 
 ### 1. NASDAQ
-The [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md) is renowned for its high [order book](../o/order_book.md) [liquidity](../l/liquidity.md), driven by the significant presence of technology and growth-oriented companies. Advanced [trading systems](../t/trading_systems.md), extensive [market maker](../m/market_maker.md) programs, and continuous quoting contribute to its [robust](../r/robust.md) [liquidity](../l/liquidity.md). For more information, visit [NASDAQ](https://www.nasdaq.com/).
+The [NASDAQ](../n/nasdaq.md) stock [exchange](../e/exchange.md) is renowned for its high [order book](../o/order_book.md) [liquidity](../l/liquidity.md), driven by the significant presence of technology and growth-oriented companies. Advanced [trading systems](../t/trading_systems.md), extensive [market maker](../m/market_maker.md) programs, and continuous quoting contribute to its [robust](../r/robust.md) [liquidity](../l/liquidity.md). For more information, visit NASDAQ.
 
 ### 2. New York Stock Exchange (NYSE)
-The NYSE maintains high [order book](../o/order_book.md) [liquidity](../l/liquidity.md) through its hybrid [market](../m/market.md) model, which combines electronic trading with human oversight. Designated [Market](../m/market.md) Makers (DMMs) play a crucial role in ensuring [liquidity](../l/liquidity.md) and stability. More details can be found at [NYSE](https://www.nyse.com/index).
+The NYSE maintains high [order book](../o/order_book.md) [liquidity](../l/liquidity.md) through its hybrid [market](../m/market.md) model, which combines electronic trading with human oversight. Designated [Market](../m/market.md) Makers (DMMs) play a crucial role in ensuring [liquidity](../l/liquidity.md) and stability. More details can be found at NYSE.
 
 ### 3. Tokyo Stock Exchange (TSE)
-The TSE is one of the largest stock exchanges in Asia, known for its deep [order book](../o/order_book.md) [liquidity](../l/liquidity.md). It employs sophisticated trading technologies and a comprehensive [market](../m/market.md) model to facilitate efficient [trade](../t/trade.md) [execution](../e/execution.md). For more insights, visit [TSE](https://www.jpx.co.jp/english/).
+The TSE is one of the largest stock exchanges in Asia, known for its deep [order book](../o/order_book.md) [liquidity](../l/liquidity.md). It employs sophisticated trading technologies and a comprehensive [market](../m/market.md) model to facilitate efficient [trade](../t/trade.md) [execution](../e/execution.md). For more insights, visit TSE.
 
 ## Challenges and Future Outlook
 

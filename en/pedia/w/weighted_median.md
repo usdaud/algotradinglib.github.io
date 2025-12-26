@@ -6,7 +6,7 @@ In the realm of [algorithmic trading](../a/algorithmic_trading.md), various stat
 
 The [weighted](../w/weighted.md) [median](../m/median.md) is a [value](../v/value.md) that separates the higher half from the lower half of a dataset, with each data point assigned a specific weight. Unlike the simple [median](../m/median.md)—where each data point has an equal importance—the [weighted](../w/weighted.md) [median](../m/median.md) gives more influence to certain data points based on their assigned weights.
 
-Formally, given a set of values \(x_1, x_2, ..., x_n\) and corresponding non-negative weights \(w_1, w_2, ..., w_n\), the [weighted](../w/weighted.md) [median](../m/median.md) is a [value](../v/value.md) \(x_m\) such that the following conditions [hold](../h/hold.md):
+Formally, given a set of values \(x_1, x_2,..., x_n\) and corresponding non-negative weights \(w_1, w_2,..., w_n\), the [weighted](../w/weighted.md) [median](../m/median.md) is a [value](../v/value.md) \(x_m\) such that the following conditions [hold](../h/hold.md):
 
 1. The sum of weights for values less than \(x_m\) is less than or equal to half the total weight.
 2. The sum of weights for values greater than \(x_m\) is less than or equal to half the total weight.
@@ -100,8 +100,8 @@ For large datasets, consider optimizing the [weighted](../w/weighted.md) [median
 ## References and Further Reading
 
 For an in-depth understanding and advanced methods, consult the following resources:
-- [Quantitative Portfolio Management](https://quantitative-portfolio-management.com)
-- [Algorithmic Trading Insights from QuantInsti](https://www.quantinsti.com/blog/algorithmic-trading)
-- [Risk and Portfolio Management](https://www.riskportfolio.com)
+- Quantitative Portfolio Management
+- Algorithmic Trading Insights from QuantInsti
+- Risk and Portfolio Management
 
 In summary, the [weighted](../w/weighted.md) [median](../m/median.md) is a powerful statistical measure, enhancing the robustness and reliability of [trading algorithms](../t/trading_algorithms.md) by giving priority to more significant data points. Its applications in [portfolio management](../p/portfolio_management.md), outlier detection, [signal processing](../s/signal_processing_in_trading.md), and [risk management](../r/risk_management.md) make it an indispensable tool in the algorithmic [trader](../t/trader.md)'s toolkit.

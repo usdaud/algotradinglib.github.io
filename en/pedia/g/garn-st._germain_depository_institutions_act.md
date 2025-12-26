@@ -19,7 +19,7 @@ In the late 1970s and early 1980s, the savings and [loan](../l/loan.md) [industr
 ### Title II: Deregulation of Savings Institutions
 
 - **Expanding Permissible Activities**: Savings institutions were allowed to diversify their services and investments, including holding commercial loans up to 10% of their assets, holding up to 40% of their assets in consumer loans or [commercial paper](../c/commercial_paper.md), and [investing](../i/investing.md) up to 30% of their assets in activities related to [real estate](../r/real_estate.md) development and leasing.
-  
+
 - **[Deposit](../d/deposit.md) [Insurance](../i/insurance.md) Flexibility**: Federal [deposit](../d/deposit.md) [insurance](../i/insurance.md) was extended to include [money market](../m/money_market.md) [deposit](../d/deposit.md) accounts (MMDAs) up to $2,500, which were previously not insurable.
 
 ### Title III: Net Worth Certificate Program

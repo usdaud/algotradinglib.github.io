@@ -129,6 +129,6 @@ High levels of non-performing loans (NPLs) can significantly distort NIM. Financ
 Net [Interest](../i/interest.md) [Margin](../m/margin.md) is a crucial financial metric for assessing the profitability and [operational efficiency](../o/operational_efficiency_in_trading.md) of financial institutions. It provides valuable insights into how well these institutions are managing their [interest](../i/interest.md)-earning assets and [interest](../i/interest.md)-bearing liabilities. By understanding the components, importance, influencing factors, and strategies for optimizing NIM, stakeholders can make informed decisions and enhance the [financial health](../f/financial_health.md) of these institutions. However, it is essential to consider the limitations of NIM and [complement](../c/complement.md) its analysis with other financial metrics for a holistic evaluation.
 
 For more information about NIM and how it is used in financial institutions, you can visit the following link:
-- [J.P. Morgan - Net Interest Margin](https://www.jpmorgan.com)
+- J.P. Morgan - Net Interest Margin
 
 Financial institutions continuously strive to achieve an optimal NIM, balancing the intricacies of [interest](../i/interest.md) [income](../i/income.md), [interest expense](../i/interest_expense.md), and earning assets to maintain profitability and competitiveness in the dynamic financial landscape.

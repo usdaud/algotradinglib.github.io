@@ -2,6 +2,8 @@
 
 A Variable-Rate Certificate of [Deposit](../d/deposit.md) (variable-rate CD) is a type of savings instrument offered by banks and financial institutions that provides a [return](../r/return.md) on investment based on a changing [interest rate](../i/interest_rate.md). Unlike traditional fixed-rate CDs, which have a stagnant [interest rate](../i/interest_rate.md) throughout their term, variable-rate CDs [offer](../o/offer.md) flexible [interest](../i/interest.md) rates that can adjust periodically. This guide explores the fundamentals, benefits, and pitfalls, as well as practical considerations for [investing](../i/investing.md) in variable-rate CDs.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Fundamentals of Variable-Rate CDs
 
 Variable-rate CDs are time deposits, which means they entail a commitment to leave a specific amount of [money](../m/money.md) invested for a predetermined time period. The key differentiator, however, is their [interest rate](../i/interest_rate.md), which can fluctuate based on various indexes or benchmarks, such as the U.S. [Prime Rate](../p/prime_rate.md), the [Federal Funds Rate](../f/federal_funds_rate.md), or the London Interbank Offered Rate (LIBOR).
@@ -17,7 +19,7 @@ The frequency of rate adjustments can vary. Some CDs may adjust monthly, quarter
 
 ### **Terms and Maturity**
 
-Just like their fixed-rate counterparts, variable-rate CDs have set terms typically ranging from a few months to several years. Upon [maturity](../m/maturity.md), an [investor](../i/investor.md) can choose to either withdraw their funds or reinvest them into another CD. 
+Just like their fixed-rate counterparts, variable-rate CDs have set terms typically ranging from a few months to several years. Upon [maturity](../m/maturity.md), an [investor](../i/investor.md) can choose to either withdraw their funds or reinvest them into another CD.
 
 ## Benefits of Variable-Rate CDs
 
@@ -48,7 +50,7 @@ Before [investing](../i/investing.md), review the CD's [disclosure](../d/disclos
 - The frequency of rate adjustments.
 - Any rate caps or floors.
 - Early [withdrawal](../w/withdrawal.md) penalties.
-  
+
 ### **Comparing with Fixed-Rate CDs**
 
 Performing a comparison between fixed-rate and variable-rate CDs involves evaluating the current [interest rate](../i/interest_rate.md) environment and future rate expectations. If rates are low but expected to rise, variable-rate CDs might be more appealing. Conversely, if rates are high and likely to fall, fixed-rate CDs can lock in higher returns for the term.
@@ -61,8 +63,8 @@ Ensure you are [investing](../i/investing.md) through a reputable financial inst
 
 ### Example of Reputable Institutions
 
-- **Ally [Bank](../b/bank.md)**: Known for competitive rates and comprehensive terms. More details at [Ally Bank](https://www.ally.com).
-- **[Capital](../c/capital.md) One 360**: Offers a [range](../r/range.md) of CD [options](../o/options.md) with varying terms and rates. More information at [Capital One 360](https://www.capitalone.com).
+- **Ally [Bank](../b/bank.md)**: Known for competitive rates and comprehensive terms. More details at Ally Bank.
+- **[Capital](../c/capital.md) One 360**: Offers a [range](../r/range.md) of CD [options](../o/options.md) with varying terms and rates. More information at Capital One 360.
 
 ## Conclusion
 

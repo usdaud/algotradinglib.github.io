@@ -137,4 +137,3 @@ CoinEx is committed to staying at the forefront of the cryptocurrency [industry]
 
 CoinEx is a comprehensive cryptocurrency [exchange](../e/exchange.md) that offers a wide [range](../r/range.md) of trading services and financial products to cater to the diverse needs of its global user base. With its strong emphasis on [security](../s/security.md), user experience, and regulatory compliance, CoinEx has established itself as a reliable and trusted platform in the cryptocurrency space. As the [industry](../i/industry.md) continues to evolve, CoinEx remains dedicated to innovation and providing users with the tools and resources they need to succeed in the world of digital assets.
 
-For more information, visit the official CoinEx website: [CoinEx](https://www.coinex.com/)

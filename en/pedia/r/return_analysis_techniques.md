@@ -10,7 +10,7 @@ How to Calculate TWRR:
 1. **Break Down the Periods**: Divide the overall investment period into sub-periods between each [cash flow](../c/cash_flow.md).
 2. **Calculate Individual Period Returns**: For each sub-period, compute the [return](../r/return.md) while ignoring the impact of [cash flow](../c/cash_flow.md).
 3. **Compound the Returns**: Multiply the individual period returns to get the overall TWRR.
-   
+
 \[ TWRR = \left( \prod_{i=1}^{n} (1 + R_i) \right)^{\frac{1}{n}} - 1 \]
 
 Where \( R_i \) is the [return](../r/return.md) in sub-period i, and n is the total number of sub-periods.
@@ -57,7 +57,7 @@ How to Calculate [Jensen's Alpha](../j/jensen's_alpha.md):
 
 \[ E(R_i) = R_f + \beta_i (R_m - R_f) \]
 
-   Where \( E(R_i) \) is the [expected return](../e/expected_return.md) of the [asset](../a/asset.md), \( \beta_i \) is the [beta](../b/beta.md) of the [asset](../a/asset.md), \( R_m \) is the [market](../m/market.md) [return](../r/return.md), and \( R_f \) is the [risk](../r/risk.md)-free rate.
+ Where \( E(R_i) \) is the [expected return](../e/expected_return.md) of the [asset](../a/asset.md), \( \beta_i \) is the [beta](../b/beta.md) of the [asset](../a/asset.md), \( R_m \) is the [market](../m/market.md) [return](../r/return.md), and \( R_f \) is the [risk](../r/risk.md)-free rate.
 2. **Compute Actual [Return](../r/return.md)**: Determine the actual [return](../r/return.md) of the [asset](../a/asset.md) (R_a).
 3. **Find [Alpha](../a/alpha.md)**: Subtract the [expected return](../e/expected_return.md) from the actual [return](../r/return.md).
 
@@ -132,8 +132,8 @@ Where F(R) is the [cumulative distribution function](../c/cumulative_distributio
 
 ## References and Further Reading
 
-- [QuantConnect](https://www.quantconnect.com/) - A leading platform for [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) a [range](../r/range.md) of tools and resources for [backtesting](../b/backtesting.md) strategies, data access, and live trading.
-- [Kaggle](https://www.kaggle.com/) - A [data science](../d/data_science_in_trading.md) platform that provides datasets and competitions, useful for developing and testing [trading algorithms](../t/trading_algorithms.md).
-- [AlgoTrader](https://www.algotrader.com/) - A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software suite for [quantitative research](../q/quantitative_research.md), strategy development, and [execution](../e/execution.md).
+- QuantConnect - A leading platform for [algorithmic trading](../a/algorithmic_trading.md), [offering](../o/offering.md) a [range](../r/range.md) of tools and resources for [backtesting](../b/backtesting.md) strategies, data access, and live trading.
+- Kaggle - A [data science](../d/data_science_in_trading.md) platform that provides datasets and competitions, useful for developing and testing [trading algorithms](../t/trading_algorithms.md).
+- AlgoTrader - A comprehensive [algorithmic trading](../a/algorithmic_trading.md) software suite for [quantitative research](../q/quantitative_research.md), strategy development, and [execution](../e/execution.md).
 
 By understanding and applying these [return](../r/return.md) analysis techniques, algorithmic traders can enhance their strategies and achieve improved [risk](../r/risk.md)-adjusted returns.

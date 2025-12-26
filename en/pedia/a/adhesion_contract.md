@@ -77,4 +77,4 @@ The integration of AI and [machine learning](../m/machine_learning.md) is revolu
 ### Blockchain
 [Blockchain](../b/blockchain_in_trading.md) technology could bring greater [transparency](../t/transparency.md) and [security](../s/security.md) to trading activities, potentially reducing [fraud](../f/fraud.md) and improving [trust](../t/trust.md) in [financial markets](../f/financial_market.md).
 
-[1]: https://www.interactivebrokers.com
+[1]

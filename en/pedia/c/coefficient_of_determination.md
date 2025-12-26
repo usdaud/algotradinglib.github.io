@@ -60,21 +60,21 @@ If the $R^2$ [value](../v/value.md) or other [performance metrics](../p/performa
 
 Several companies specialize in providing [algorithmic trading](../a/accountability.md) solutions, leveraging advanced statistical methods including the Coefficient of Determination.
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/) is a pioneering [algorithmic trading](../a/accountability.md) platform that offers a collaborative environment for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). Their platform supports [multiple](../m/multiple.md) programming languages and provides a rich dataset for [backtesting](../b/backtesting.md). [QuantConnect](../q/quantconnect.md) utilizes numerous statistical measures including $R^2$ to validate [trading models](../t/trading_models.md), ensuring [robust](../r/robust.md) and [efficient trading strategies](../e/efficient_trading_strategies.md).
+[StockSharp](../s/stocksharp.md) is a pioneering [algorithmic trading](../a/accountability.md) platform that offers a collaborative environment for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). Their platform supports C# and provides a rich dataset for [backtesting](../b/backtesting.md). [StockSharp](../s/stocksharp.md) utilizes numerous statistical measures including $R^2$ to validate [trading models](../t/trading_models.md), ensuring [robust](../r/robust.md) and [efficient trading strategies](../e/efficient_trading_strategies.md).
 
 ### Alpaca
 
-[Alpaca](../a/alpaca.md) (https://[alpaca](../a/alpaca.md).markets/) is a [commission](../c/commission.md)-free API stock trading brokerage for developers and traders. They [offer](../o/offer.md) tools that allow users to build and execute algorithms on historical and real-time data. [Alpaca](../a/alpaca.md)'s platform emphasizes the importance of model evaluation metrics, including $R^2$, to help users understand the predictive power of their [trading algorithms](../t/trading_algorithms.md).
+[Alpaca](../a/alpaca.md) ( is a [commission](../c/commission.md)-free API stock trading brokerage for developers and traders. They [offer](../o/offer.md) tools that allow users to build and execute algorithms on historical and real-time data. [Alpaca](../a/alpaca.md)'s platform emphasizes the importance of model evaluation metrics, including $R^2$, to help users understand the predictive power of their [trading algorithms](../t/trading_algorithms.md).
 
 ### Two Sigma
 
-Two Sigma (https://www.twosigma.com/) is a technology-driven investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and advanced technology to create [trading strategies](../t/trading_strategies.md). Two Sigma's approach to [algorithmic trading](../a/accountability.md) involves extensive use of statistical models and validation metrics such as $R^2$ to ensure their strategies are data-driven and scientifically sound.
+Two Sigma ( is a technology-driven investment [firm](../f/firm.md) that uses [data science](../d/data_science_in_trading.md) and advanced technology to create [trading strategies](../t/trading_strategies.md). Two Sigma's approach to [algorithmic trading](../a/accountability.md) involves extensive use of statistical models and validation metrics such as $R^2$ to ensure their strategies are data-driven and scientifically sound.
 
 ### Numerai
 
-Numerai (https://numer.ai/) is a unique [hedge fund](../h/hedge_fund.md) that crowdsources [stock market](../s/stock_market.md) predictions through [machine learning](../m/machine_learning.md) models. Participants submit their predictions, which are evaluated based on various [performance metrics](../p/performance_metrics.md) including $R^2$. Numerai then uses the best-performing models to drive their [trading strategies](../t/trading_strategies.md), blending cutting-edge [data science](../d/data_science_in_trading.md) with financial [market](../m/market.md) trading.
+Numerai ( is a unique [hedge fund](../h/hedge_fund.md) that crowdsources [stock market](../s/stock_market.md) predictions through [machine learning](../m/machine_learning.md) models. Participants submit their predictions, which are evaluated based on various [performance metrics](../p/performance_metrics.md) including $R^2$. Numerai then uses the best-performing models to drive their [trading strategies](../t/trading_strategies.md), blending cutting-edge [data science](../d/data_science_in_trading.md) with financial [market](../m/market.md) trading.
 
 ## Practical Example of Using $R^2$ in Algorithmic Trading
 
@@ -83,7 +83,7 @@ Consider a [simple linear regression](../s/simple_linear_regression.md) model us
 ### Steps to Implement:
 
 1. **Data Collection:** Gather historical price data and indicators.
-   
+
 2. **Feature Engineering:** Create features like moving averages, trading [volume](../v/volume.md), and sentiment scores.
 
 3. **Model Development:** Develop a [linear regression](../l/linear_regression.md) model to predict daily returns.

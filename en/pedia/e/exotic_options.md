@@ -69,12 +69,11 @@ Valuing exotic [options](../o/options.md) is more complex due to their non-stand
 
 ## 5. Examples of Companies Dealing with Exotic Options
 
-- **Goldman Sachs**: As a leading investment [bank](../b/bank.md), Goldman Sachs offers a [range](../r/range.md) of exotic [options](../o/options.md) tailored to meet the specific needs of their institutional clients. [Goldman Sachs](https://www.goldmansachs.com/)
-- **J.P. Morgan**: J.P. Morgan provides advanced [derivative](../d/derivative.md) products, including exotic [options](../o/options.md), to help clients manage [risk](../r/risk.md) and maximize returns. [J.P. Morgan](https://www.jpmorgan.com/)
-- **[UBS](../u/ubs.md)**: [UBS](../u/ubs.md) offers structured [derivatives](../d/derivatives.md) and exotic [options](../o/options.md) across various [asset](../a/asset.md) classes, catering to sophisticated investors. [UBS](https://www.ubs.com/)
-- **Deutsche [Bank](../b/bank.md)**: Deutsche [Bank](../b/bank.md) is known for its innovative financial solutions, including a suite of exotic [options](../o/options.md) for [risk management](../r/risk_management.md) and speculative purposes. [Deutsche Bank](https://www.db.com/)
+- **Goldman Sachs**: As a leading investment [bank](../b/bank.md), Goldman Sachs offers a [range](../r/range.md) of exotic [options](../o/options.md) tailored to meet the specific needs of their institutional clients. Goldman Sachs
+- **J.P. Morgan**: J.P. Morgan provides advanced [derivative](../d/derivative.md) products, including exotic [options](../o/options.md), to help clients manage [risk](../r/risk.md) and maximize returns. J.P. Morgan
+- **[UBS](../u/ubs.md)**: [UBS](../u/ubs.md) offers structured [derivatives](../d/derivatives.md) and exotic [options](../o/options.md) across various [asset](../a/asset.md) classes, catering to sophisticated investors. UBS
+- **Deutsche [Bank](../b/bank.md)**: Deutsche [Bank](../b/bank.md) is known for its innovative financial solutions, including a suite of exotic [options](../o/options.md) for [risk management](../r/risk_management.md) and speculative purposes. Deutsche Bank
 
 ## 6. Conclusion
 
 Exotic [options](../o/options.md) [offer](../o/offer.md) unique opportunities for customizing financial [derivatives](../d/derivatives.md) to align more closely with specific investment strategies, hedging needs, and [risk profiles](../r/risk_profiles.md). While they come with greater complexity and higher premiums, the ability to meet bespoke requirements makes them invaluable tools in the world of [finance](../f/finance.md). Institutions and sophisticated investors can [leverage](../l/leverage.md) exotic [options](../o/options.md) for advanced [risk management](../r/risk_management.md), speculative strategies, and [arbitrage](../a/arbitrage.md), thereby enhancing their overall [market approach](../m/market_approach.md).
-

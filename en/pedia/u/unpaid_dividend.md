@@ -27,16 +27,13 @@ It is critical to [note](../n/note.md) that between the declaration date and the
 Unpaid dividends are accounted for as a [liability](../l/liability.md) in the company's [financial statements](../f/financial_statements.md). They remain a [liability](../l/liability.md) until they are disbursed to the shareholders. Here is how the associated entries might look:
 
 - **Upon Declaration**:
-  ```
-  Dr [Retained Earnings](../r/retained_earnings.md)
-  Cr Dividends Payable
-  ```
+ ```
+ Dr [Retained Earnings](../r/retained_earnings.md)
+ ```
 
 - **Upon [Payment](../p/payment.md)**:
-  ```
-  Dr Dividends Payable
-  Cr Cash
-  ```
+ ```
+ ```
 
 These entries highlight that upon declaration, the company reduces its [retained earnings](../r/retained_earnings.md) and establishes a [liability](../l/liability.md) to pay shareholders. Once the dividends are paid, the [liability](../l/liability.md) is removed, and cash is decreased.
 
@@ -100,4 +97,4 @@ To resolve this, TechInnovate could:
 
 ## Conclusion
 
-Unpaid dividends, though a relatively straightforward concept, embody a crucial aspect of [corporate finance](../c/corporate_finance.md) and governance. They represent a company's obligation to its shareholders and play a pivotal role in financial disclosures and [shareholder](../s/shareholder.md) relations. Proper management, transparent communication, and stringent compliance with legal requirements ensure that companies honor their commitments and maintain healthy [investor relations](../i/investor_relations.md). Whether from an [accounting](../a/accounting.md), legal, or strategic perspective, the handling of unpaid dividends offers rich insights into the broader dynamics of [corporate finance](../c/corporate_finance.md).
+Unpaid dividends, though a relatively straightforward concept, embody a crucial aspect of [corporate finance](../c/corporate_finance.md) and governance. They represent a company's obligation to its shareholders and play a pivotal role in financial disclosures and [shareholder](../s/shareholder.md) relations. Proper management, transparent communication, and stringent compliance with legal requirements ensure that companies honor their commitments and maintain healthy [company filings](../i/investor_relations.md). Whether from an [accounting](../a/accounting.md), legal, or strategic perspective, the handling of unpaid dividends offers rich insights into the broader dynamics of [corporate finance](../c/corporate_finance.md).

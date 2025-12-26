@@ -63,12 +63,7 @@ Where 252 represents the average number of trading days in a year.
 
 Several financial software and platforms provide tools for calculating and analyzing historical [volatility](../v/volatility.md). Some notable ones include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: https://www.[bloomberg](../b/bloomberg.md).com/professional/solution/[bloomberg](../b/bloomberg.md)-terminal/
-- **Thomson [Reuters](../r/reuters.md) Eikon**: https://www.refinitiv.com/en/products/eikon-trading-software
-- **MetaTrader**: https://www.[metatrader4](../m/metatrader4.md).com/
-- **[QuantConnect](../q/quantconnect.md)**: https://www.[quantconnect](../q/quantconnect.md).com/
-- **[Alpha](../a/alpha.md) Vantage**: https://www.alphavantage.co/
-- **R and Python Libraries**: e.g., `quantmod`, `TTR` in R, `pandas`, `numpy`, and `scipy` in Python.
+- **[Bloomberg](../b/bloomberg.md) Terminal**- **Thomson [Reuters](../r/reuters.md) Eikon**- **MetaTrader**- **[StockSharp](../s/stocksharp.md)**: - **[Alpha](../a/alpha.md) Vantage**- **R and Python Libraries**: e.g., `quantmod`, `TTR` in R, `pandas`, `numpy`, and `scipy` in Python.
 
 ## Historical Volatility and Market Behavior
 

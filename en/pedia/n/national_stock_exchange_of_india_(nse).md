@@ -9,8 +9,6 @@ The National Stock [Exchange](../e/exchange.md) of India (NSE) is one of the lea
 - **Operations Commenced**: 1994
 - **Location**: Mumbai, Maharashtra, India
 - **CEO**: Ashish Chauhan (as of 2022)
-- **Website**: [www.nseindia.com](https://www.nseindia.com)
-
 ## History and Background
 
 The NSE was established to bring greater [transparency](../t/transparency.md) to the Indian [capital](../c/capital.md) [market](../m/market.md) following the harsh realities exposed by the major [stock market](../s/stock_market.md) scam of the early 1990s. It was set up by a consortium of leading financial institutions and banks, driven with the vision to provide equal access to investors. By embracing electronic trading, it replaced the traditional [open outcry](../o/open_outcry.md) system and introduced [transparency](../t/transparency.md), thereby re-establishing confidence in the Indian [financial markets](../f/financial_market.md).
@@ -130,4 +128,4 @@ As of July 2021, NSE has over 1,800 [listed](../l/listed.md) companies with a to
 
 The National Stock [Exchange](../e/exchange.md) of India has transformed the financial landscape of the country. From introducing [automated trading systems](../a/automated_trading_systems.md) to diversifying financial products, it continues to remain a key player and innovator in the global financial [market](../m/market.md) ecosystem. With its commitment to [transparency](../t/transparency.md), technology, and [investor](../i/investor.md) protection, NSE is poised to drive further financial inclusivity and [economic growth](../e/economic_growth.md) in India.
 
-For further detailed insights and updates, visit their official website: [www.nseindia.com](https://www.nseindia.com)
+For further detailed insights and updates,

@@ -47,7 +47,7 @@ If the deal successfully closes, the target company's stock price [will](../w/wi
 
 ## Historical Context and Examples
 
-[Risk](../r/risk.md) [arbitrage](../a/arbitrage.md) has a long history in [financial markets](../f/financial_market.md), with a number of high-profile deals providing fertile ground for arbitrageurs. 
+[Risk](../r/risk.md) [arbitrage](../a/arbitrage.md) has a long history in [financial markets](../f/financial_market.md), with a number of high-profile deals providing fertile ground for arbitrageurs.
 
 ### Notable Historical Examples
 
@@ -58,10 +58,10 @@ If the deal successfully closes, the target company's stock price [will](../w/wi
 ### Famous Arbitrageurs
 
 - **Ivan Boesky**: Perhaps one of the most well-known figures in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md), Boesky made a fortune during the 1980s by betting on corporate takeovers before being implicated in [insider trading](../i/insider.md).
-  
+
 - **John Meriwether**: Known for his role in Long-Term [Capital](../c/capital.md) Management, Meriwether also employed [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) strategies among others.
 
-## Tools and Strategies 
+## Tools and Strategies
 
 ### Statistical Arbitrage
 
@@ -79,9 +79,9 @@ A related concept is statistical [arbitrage](../a/arbitrage.md), which involves 
 
 Several [software platforms](../s/software_platforms_for_trading.md) [offer](../o/offer.md) tools for [risk](../r/risk.md) [arbitrage](../a/arbitrage.md):
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analysis tools for monitoring and analyzing mergers and acquisitions ([Bloomberg](https://www.bloomberg.com/)).
-- **[FactSet](../f/factset.md)**: Offers detailed analysis and tracking of M&A deals ([FactSet](https://www.factset.com/)).
-- **[Capital IQ](../c/capital_iq.md)**: Provides data and analytics for financial professionals, including M&A deal tracking ([Capital IQ](https://www.capitaliq.com/)).
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive data and analysis tools for monitoring and analyzing mergers and acquisitions (Bloomberg).
+- **[FactSet](../f/factset.md)**: Offers detailed analysis and tracking of M&A deals (FactSet).
+- **[Capital IQ](../c/capital_iq.md)**: Provides data and analytics for financial professionals, including M&A deal tracking (Capital IQ).
 
 ## Role of Hedge Funds
 
@@ -91,8 +91,8 @@ Several [software platforms](../s/software_platforms_for_trading.md) [offer](../
 
 Some of the well-known [hedge](../h/hedge.md) funds specializing in [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) include:
 
-- **Elliott Management**: Founded by Paul Singer, Elliott Management often engages in activist [investing](../i/investing.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) ([Elliott Management](https://www.elliottmgmt.com/)).
-- **[Merger](../m/merger.md) [Fund](../f/fund.md)**: Managed by Westchester [Capital](../c/capital.md) Management, this [fund](../f/fund.md) specifically focuses on [merger](../m/merger.md) [arbitrage](../a/arbitrage.md) ([Westchester Capital Management](https://www.westchestercapitalfunds.com/)).
+- **Elliott Management**: Founded by Paul Singer, Elliott Management often engages in activist [investing](../i/investing.md) and [risk](../r/risk.md) [arbitrage](../a/arbitrage.md) (Elliott Management).
+- **[Merger](../m/merger.md) [Fund](../f/fund.md)**: Managed by Westchester [Capital](../c/capital.md) Management, this [fund](../f/fund.md) specifically focuses on [merger](../m/merger.md) [arbitrage](../a/arbitrage.md) (Westchester Capital Management).
 
 ## Conclusion
 

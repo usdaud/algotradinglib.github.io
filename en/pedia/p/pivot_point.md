@@ -89,7 +89,7 @@ For swing traders who [hold](../h/hold.md) positions for several days or weeks, 
 - **Subjectivity**: Different types of [pivot points](../p/pivot_points.md) can [yield](../y/yield.md) different [support and resistance](../s/support_and_resistance.md) levels.
 
 ## Automation and Algo Trading
-With the rise of [algorithmic trading](../a/accountability.md), [pivot points](../p/pivot_points.md) can be integrated into [trading algorithms](../t/trading_algorithms.md) for automated decision making. By programming pivot point calculations and associated [trading rules](../t/trading_rules.md), traders can design algorithms that automatically place trades when certain levels are reached. These algorithms can include:
+With the rise of [algorithmic trading](../a/algorithmic_trading.md), [pivot points](../p/pivot_points.md) can be integrated into [trading algorithms](../t/trading_algorithms.md) for automated decision making. By programming pivot point calculations and associated [trading rules](../t/trading_rules.md), traders can design algorithms that automatically place trades when certain levels are reached. These algorithms can include:
 - **[Breakout](../b/breakout.md) Strategies**: Algorithms can be programmed to buy when the price crosses above resistance levels or sell when it crosses below [support levels](../s/support_levels.md).
 - **[Mean Reversion](../m/mean_reversion.md)**: Algorithms can execute trades when the price is expected to revert to the pivot point.
 - **[Risk Management](../r/risk_management.md)**: Automated systems can set stop-loss and take-[profit](../p/profit.md) levels based on [pivot points](../p/pivot_points.md), ensuring disciplined trading.

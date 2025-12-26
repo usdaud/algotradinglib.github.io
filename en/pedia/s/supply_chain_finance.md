@@ -27,7 +27,7 @@ Advanced SCF technology platforms are crucial for implementing SCF programs. The
 5. **Early [Payment](../p/payment.md):** The financial institution provides the early [payment](../p/payment.md) to the supplier at a discounted rate before the [invoice](../i/invoice.md) due date.
 6. **Buyer [Payment](../p/payment.md):** The buyer eventually pays the financial institution the full [invoice](../i/invoice.md) amount on the due date.
 
-## Benefits 
+## Benefits
 
 ### For Buyers
 - **Improved Supplier Relationships:** Providing early [payment](../p/payment.md) [options](../o/options.md) strengthens relationships with suppliers.
@@ -69,10 +69,10 @@ AI and ML can optimize SCF by predicting buyers' and suppliers' financial needs,
 IoT devices provide real-time data on [inventory](../i/inventory.md) levels, shipping status, and production cycles, enabling better decision-making and more efficient [supply chain](../s/supply_chain.md) management.
 
 ## Notable SCF Providers
-- **Taulia:** A leading provider of SCF solutions, [offering](../o/offering.md) various services including dynamic [discounting](../d/discounting.md) and e-Invoicing. [Taulia](https://taulia.com/)
-- **PrimeRevenue:** Known for its extensive global SCF network and platform capabilities. [PrimeRevenue](https://primerevenue.com/)
-- **Greensill:** Offers flexible SCF solutions and has been a significant player in the SCF [market](../m/market.md). [Greensill](https://greensill.com/)
-- **C2FO:** Operates a global platform for working [capital](../c/capital.md) solutions, including early [payment](../p/payment.md) programs. [C2FO](https://c2fo.com/)
+- **Taulia:** A leading provider of SCF solutions, [offering](../o/offering.md) various services including dynamic [discounting](../d/discounting.md) and e-Invoicing. Taulia
+- **PrimeRevenue:** Known for its extensive global SCF network and platform capabilities. PrimeRevenue
+- **Greensill:** Offers flexible SCF solutions and has been a significant player in the SCF [market](../m/market.md). Greensill
+- **C2FO:** Operates a global platform for working [capital](../c/capital.md) solutions, including early [payment](../p/payment.md) programs. C2FO
 
 ## Challenges and Risks
 

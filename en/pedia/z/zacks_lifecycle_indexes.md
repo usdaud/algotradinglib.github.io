@@ -74,4 +74,3 @@ Despite the competitive [market](../m/market.md), [Zacks Investment Research](..
 
 Zacks Lifecycle Indexes [offer](../o/offer.md) a systematic, evidence-based approach to target-date [investing](../i/investing.md), aiming to balance growth and [risk](../r/risk.md) reduction as retirement nears. With their annual [rebalancing](../r/rebalancing.md) mechanism and diversified [asset](../a/asset.md) allocations, these indexes provide both simplicity and professional management for investors planning for future financial needs. By choosing an [index](../i/index_instrument.md) aligned with their retirement year, investors can benefit from a carefully managed portfolio that evolves over time to suit their changing [risk tolerance](../r/risk_tolerance.md) and [investment horizon](../i/investment_horizon.md).
 
-For more details about Zacks Lifecycle Indexes, please visit the [Zacks Investment Research website](https://www.zacks.com/).

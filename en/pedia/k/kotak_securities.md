@@ -5,7 +5,7 @@ Kotak Securities is a leading brokerage [firm](../f/firm.md) in India, [offering
 
 ## Features
 1. **Wide [Range](../r/range.md) of Instruments**: Access to [stocks](../s/stock.md), [derivatives](../d/derivatives.md), mutual funds, IPOs, bonds, and fixed deposits.
-2. **Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms including KEAT Pro X, Kotak Stock [Trader](../t/trader.md) (KST), and the Kotak Securities website with advanced charting tools and real-time data.
+2. **Trading Platforms**: Offers [multiple](../m/multiple.md) trading platforms including KEAT Pro X, Kotak Stock [Trader](../t/trader.md) (KST), and the Kotak Securities online platform with advanced charting tools and real-time data.
 3. **Investment Advisory**: Provides personalized investment advisory services to help investors build and manage their portfolios.
 4. **Educational Resources**: Comprehensive educational materials including webinars, tutorials, articles, and [market](../m/market.md) analysis to help traders improve their skills.
 5. **Mobile Trading**: Mobile app for iOS and Android devices, allowing trading on the go.
@@ -18,7 +18,7 @@ Kotak Securities is a leading brokerage [firm](../f/firm.md) in India, [offering
 ## Key Components
 - **KEAT Pro X**: An advanced [trading platform](../t/trading_platform.md) [offering](../o/offering.md) [robust](../r/robust.md) charting tools, [technical analysis](../t/technical_analysis.md), and customizable layouts for active traders.
 - **Kotak Stock [Trader](../t/trader.md) (KST)**: Mobile trading application for trading, account management, and [market research](../m/market_research.md) on the go.
-- **Kotak Securities Website**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
+- **Kotak Securities online platform**: A comprehensive online platform for managing investments, conducting trades, and accessing research and educational resources.
 - **Research and Analysis Tools**: Comprehensive tools for [market research](../m/market_research.md), [stock analysis](../s/stock_analysis.md), and investment insights.
 - **Investment Advisory Services**: Personalized advice and [portfolio management](../p/portfolio_management.md) tailored to individual investment goals.
 - **IPOs and NFOs**: Detailed information and access to participate in IPOs and NFOs.
@@ -44,5 +44,3 @@ Kotak Securities is regulated by several top-tier financial authorities in India
 - Bombay Stock [Exchange](../e/exchange.md) (BSE)
 - National Stock [Exchange](../e/exchange.md) (NSE)
 
-## Website
-For more information and to start trading, visit the official Kotak Securities website: [Kotak Securities](https://www.kotaksecurities.com)

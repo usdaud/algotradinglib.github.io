@@ -36,7 +36,7 @@ Negative covenants restrict specific actions that the company might take:
 
 ## Purpose of Restrictive Covenants
 
-The primary purpose of restrictive covenants is to protect the interests of lenders and investors. Lenders implement these covenants to mitigate the [risk](../r/risk.md) associated with lending. By imposing financial and operational restrictions, lenders aim to ensure that the company remains financially viable and capable of repaying its debts. 
+The primary purpose of restrictive covenants is to protect the interests of lenders and investors. Lenders implement these covenants to mitigate the [risk](../r/risk.md) associated with lending. By imposing financial and operational restrictions, lenders aim to ensure that the company remains financially viable and capable of repaying its debts.
 
 ### Risk Management
 
@@ -95,4 +95,4 @@ A growing technology [firm](../f/firm.md) secures [venture capital](../v/venture
 
 Restrictive covenants play a crucial role in the world of [finance](../f/finance.md) and trading by ensuring that borrowers adhere to financial and operational discipline, thereby safeguarding the interests of lenders and investors. While they can impose certain limitations on companies, their primary objective is [risk management](../r/risk_management.md) and financial stability.
 
-For more detailed information and practical insights, you can refer to specific examples from leading financial institutions such as [JPMorgan Chase](https://www.jpmorganchase.com/). JPMorgan Chase provides a [wealth](../w/wealth.md) of resources on [loan](../l/loan.md) agreements and covenants, [offering](../o/offering.md) a comprehensive understanding of their implementation and impact.
+For more detailed information and practical insights, you can refer to specific examples from leading financial institutions such as JPMorgan Chase. JPMorgan Chase provides a [wealth](../w/wealth.md) of resources on [loan](../l/loan.md) agreements and covenants, [offering](../o/offering.md) a comprehensive understanding of their implementation and impact.

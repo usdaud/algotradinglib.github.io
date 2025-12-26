@@ -112,9 +112,9 @@ For investors, FCCBs [offer](../o/offer.md) an [asset class](../a/asset_class.md
 
 Several [investment banks](../i/investment_bank_(ib).md) and financial institutions facilitate the issuance and trading of FCCBs, providing companies with the [infrastructure](../i/infrastructure.md) to access international markets. Notable examples include:
 
-- **Goldman Sachs**: [Goldman Sachs Convertible Bonds](https://www.goldmansachs.com)
-- **Morgan Stanley**: [Morgan Stanley International Banking](https://www.morganstanley.com)
-- **J.P. Morgan**: [J.P. Morgan Convertible Bonds](https://www.jpmorgan.com)
+- **Goldman Sachs**: Goldman Sachs Convertible Bonds
+- **Morgan Stanley**: Morgan Stanley International Banking
+- **J.P. Morgan**: J.P. Morgan Convertible Bonds
 
 ## Conclusion
 

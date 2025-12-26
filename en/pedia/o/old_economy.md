@@ -14,7 +14,7 @@ Understanding the Old [Economy](../e/economy.md) is crucial as it offers insight
 
 ### Historical Context
 
-Before the digital revolution, the Old [Economy](../e/economy.md) was the backbone of industrialized nations. Key advancements during the [Industrial Revolution](../i/industrial_revolution.md) in the 18th and 19th centuries laid the groundwork for what we now consider the Old [Economy](../e/economy.md). Innovations in steam power, rail transport, and factory production were central to this growth. 
+Before the digital revolution, the Old [Economy](../e/economy.md) was the backbone of industrialized nations. Key advancements during the [Industrial Revolution](../i/industrial_revolution.md) in the 18th and 19th centuries laid the groundwork for what we now consider the Old [Economy](../e/economy.md). Innovations in steam power, rail transport, and factory production were central to this growth.
 
 ### Economic Impact
 
@@ -41,19 +41,19 @@ The Old [Economy](../e/economy.md) played a vital role in job creation, [infrast
 
 General Electric (GE) is a significant player in the Old [Economy](../e/economy.md), with a history dating back to Thomas Edison. GE has diversified its [business](../b/business.md) across various sectors including aviation, healthcare, and power. However, the company faced significant challenges in the 2000s, requiring substantial [restructuring](../r/restructuring.md).
 
-**Website**: [General Electric](https://www.ge.com/)
+**online platform**: General Electric
 
 #### ExxonMobil
 
 ExxonMobil, one of the world's largest publicly traded oil and gas companies, exemplifies the Old [Economy](../e/economy.md). With roots going back to John D. Rockefeller's Standard Oil, ExxonMobil has consistently been at the forefront of the [energy sector](../e/energy_sector.md). Despite facing challenges related to environmental concerns and fluctuating oil prices, the company remains a dominant player.
 
-**Website**: [ExxonMobil](https://corporate.exxonmobil.com/)
+**online platform**: ExxonMobil
 
 #### Deere & Company
 
 Often known simply as John Deere, this company is synonymous with agricultural machinery. Founded in the 19th century, Deere & Company has adapted over the years by integrating advanced technologies into its products but continues to be primarily associated with the Old [Economy](../e/economy.md).
 
-**Website**: [John Deere](https://www.deere.com/en/)
+**online platform**: John Deere
 
 ### Transition to the New Economy
 

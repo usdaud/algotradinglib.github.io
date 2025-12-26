@@ -94,11 +94,10 @@ Melvin [Capital](../c/capital.md), a [hedge fund](../h/hedge_fund.md) involved i
 
 Several companies [offer](../o/offer.md) solutions aimed at reducing confirmation bias in trading. These include:
 
-- [Qlik](https://www.qlik.com): Qlik provides [business](../b/business.md) intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
-- [Kensho](https://www.kensho.com): Kensho offers advanced [machine learning](../m/machine_learning.md) and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
-- [Aiera](https://www.aiera.com): Aiera specializes in providing real-time [market](../m/market.md) analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
+- Qlik: Qlik provides [business](../b/business.md) intelligence and [data visualization](../d/data_visualization.md) tools that help traders uncover unbiased insights from their data.
+- Kensho: Kensho offers advanced [machine learning](../m/machine_learning.md) and analytics solutions to ensure objective data analysis and reduce [cognitive biases in trading](../c/cognitive_biases_in_trading.md) decisions.
+- Aiera: Aiera specializes in providing real-time [market](../m/market.md) analysis using AI to help traders make data-driven decisions without [cognitive biases](../c/cognitive_biases_in_trading.md).
 
 ### Conclusion
 
 Confirmation bias presents significant challenges in the realm of [algorithmic trading](../a/algorithmic_trading.md). It can distort data analysis, [hypothesis testing](../h/hypothesis_testing.md), and strategy development, leading to suboptimal performance and financial losses. Mitigating this bias requires a combination of awareness, structured decision-making, diverse perspectives, technological tools, and rigorous feedback mechanisms. By addressing confirmation bias, traders and algorithm developers can enhance the robustness and efficacy of their [trading strategies](../t/trading_strategies.md), contributing to more consistent and profitable outcomes.
-

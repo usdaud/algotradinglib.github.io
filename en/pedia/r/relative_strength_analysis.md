@@ -48,7 +48,7 @@ RSA can also contribute to [sector rotation](../s/sector_rotation.md) strategies
 
 ### Momentum Investing
 
-[Momentum](../m/momentum.md) investors use RSA to locate [stocks](../s/stock.md) showing [robust](../r/robust.md) performance relative to their peers or the [market](../m/market.md). The theory is that [stocks](../s/stock.md) with high [relative strength](../r/relative_strength.md) [will](../w/will.md) continue to [outperform](../o/outperform.md) for a period, allowing investors to ride the "[momentum](../m/momentum.md)" for [profit](../p/profit.md). 
+[Momentum](../m/momentum.md) investors use RSA to locate [stocks](../s/stock.md) showing [robust](../r/robust.md) performance relative to their peers or the [market](../m/market.md). The theory is that [stocks](../s/stock.md) with high [relative strength](../r/relative_strength.md) [will](../w/will.md) continue to [outperform](../o/outperform.md) for a period, allowing investors to ride the "[momentum](../m/momentum.md)" for [profit](../p/profit.md).
 
 ### Performance Evaluation
 
@@ -58,10 +58,10 @@ RSA can also contribute to [sector rotation](../s/sector_rotation.md) strategies
 
 Several platforms and third-party tools specialize in RSA. Some of the prominent ones include:
 
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive functionality for calculating and analyzing RSA metrics. More info can be found [here](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers comprehensive data and tools for RSA among other [financial analysis](../f/financial_analysis.md) services. Details are available [here](https://www.refinitiv.com/en/products/eikon-trading-software)
-- **[TradingView](../t/tradingview.md)**: Features built-in functionalities for plotting RSI and comparing [relative strength](../r/relative_strength.md) among different assets. Visit [here](https://www.tradingview.com/)
-- **MetaTrader**: Both MetaTrader 4 and MetaTrader 5 platforms support RSI indicators and [Relative Strength](../r/relative_strength.md) metrics. More information is available [here](https://www.metatrader4.com/en)
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Provides extensive functionality for calculating and analyzing RSA metrics. More info can be found here
+- **Thomson [Reuters](../r/reuters.md) Eikon**: Offers comprehensive data and tools for RSA among other [financial analysis](../f/financial_analysis.md) services. Details are available here
+- **[TradingView](../t/tradingview.md)**: Features built-in functionalities for plotting RSI and comparing [relative strength](../r/relative_strength.md) among different assets. Visit here
+- **MetaTrader**: Both MetaTrader 4 and MetaTrader 5 platforms support RSI indicators and [Relative Strength](../r/relative_strength.md) metrics. More information is available here
 
 ## Challenges and Limitations
 

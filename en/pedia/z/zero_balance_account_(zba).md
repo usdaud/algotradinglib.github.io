@@ -103,4 +103,4 @@ Effective [customer](../c/customer.md) support is critical, especially when deal
 
 [Zero Balance](../z/zero_balance.md) Accounts are a powerful financial tool for businesses seeking to optimize [cash management](../c/cash_management.md), reduce risks, and streamline account structures. By centralizing funds in a master account and maintaining zero balances in subsidiary accounts, organizations can better allocate resources, minimize costs, and improve financial reporting. While implementing a ZBA structure can be complex, the benefits often outweigh the challenges, making it a valuable [asset](../a/asset.md) for many businesses.
 
-For specific services, businesses can [check](../c/check.md) financial institutions that [offer](../o/offer.md) these solutions, such as [J.P. Morgan](https://www.jpmorgan.com), [Bank of America](https://www.bankofamerica.com), and similar corporate banking providers.
+For specific services, businesses can [check](../c/check.md) financial institutions that [offer](../o/offer.md) these solutions, such as J.P. Morgan, Bank of America, and similar corporate banking providers.

@@ -28,22 +28,22 @@ Traders and [algorithmic trading](../a/algorithmic_trading.md) systems use the 6
 Let’s go through a simplified example to understand how a 6-period EMA is calculated:
 
 1. **Calculate the Smoothing [Factor](../f/factor.md)**:
-   The smoothing [factor](../f/factor.md) \( K \) for a 6-period EMA is:
-   ```
-   K = 2 / (6 + 1) = 2 / 7 ≈ 0.2857
-   ```
+ The smoothing [factor](../f/factor.md) \( K \) for a 6-period EMA is:
+ ```
+ K = 2 / (6 + 1) = 2 / 7 ≈ 0.2857
+ ```
 
 2. **Initial SMA**:
-   To start the EMA, you need an initial SMA (Simple Moving Average) for the first 6 periods. For instance, if the closing prices for the first 6 days are \( [50, 52, 54, 53, 55, 56] \):
-   ```
-   SMA_initial = (50 + 52 + 54 + 53 + 55 + 56) / 6 = 320 / 6 ≈ 53.33
-   ```
+ To start the EMA, you need an initial SMA (Simple Moving Average) for the first 6 periods. For instance, if the closing prices for the first 6 days are \( [50, 52, 54, 53, 55, 56] \):
+ ```
+ SMA_initial = (50 + 52 + 54 + 53 + 55 + 56) / 6 = 320 / 6 ≈ 53.33
+ ```
 
 3. **Calculate the EMA**:
-   Assume the price for the 7th day is 58. Using the initial SMA as EMA_yesterday:
-   ```
-   EMA_today = (58 * 0.2857) + (53.33 * 0.7143) ≈ 54.57
-   ```
+ Assume the price for the 7th day is 58. Using the initial SMA as EMA_yesterday:
+ ```
+ EMA_today = (58 * 0.2857) + (53.33 * 0.7143) ≈ 54.57
+ ```
 
 ### Interpretation of 6-Period EMA
 
@@ -78,7 +78,7 @@ Given its computational simplicity, the 6-period EMA can be easily coded in Pyth
 [import](../i/import.md) pandas as pd
 
 # Assume df is a pandas DataFrame containing a column 'Close' with closing prices
-df = pd.DataFrame({
+df = pd.DataFrame{
     'Close': [50, 52, 54, 53, 55, 56, 58]
 })
 
@@ -92,4 +92,4 @@ print(df)
 
 The 6-period EMA is a potent tool in the arsenal of algorithmic traders, allowing them to capture short-term [market](../m/market.md) trends and make informed trading decisions quickly. Its higher sensitivity to recent prices, compared to longer-period EMAs, makes it highly suitable for active trading. By integrating the 6-period EMA into [trading algorithms](../t/trading_algorithms.md) along with other [technical indicators](../t/technical_indicators.md), traders can enhance their strategies and improve their chances of achieving profitable trades.
 
-For further reading and practical examples, consider visiting trading-focused platforms like [QuantConnect](https://www.quantconnect.com) or [AlgoTrader](https://www.algotrader.com). These platforms [offer](../o/offer.md) extensive resources and tools for creating and [backtesting](../b/backtesting.md) automated [trading strategies](../t/trading_strategies.md).
+For further reading and practical examples, consider visiting trading-focused platforms like QuantConnect or AlgoTrader. These platforms [offer](../o/offer.md) extensive resources and tools for creating and [backtesting](../b/backtesting.md) automated [trading strategies](../t/trading_strategies.md).

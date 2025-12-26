@@ -48,13 +48,13 @@ Past financial crises [offer](../o/offer.md) illustrative examples of widespread
 2. **COVID-19 Pandemic**: The abrupt economic halt caused by the global pandemic led numerous corporations to engage in distressed [asset](../a/asset.md) sales to maintain [liquidity](../l/liquidity.md) or avoid [insolvency](../i/insolvency.md).
 
 ### Corporate Examples
-1. **General Electric (GE)**: Amid its [restructuring](../r/restructuring.md), GE sold off various non-core assets, including parts of its lighting and Healthcare divisions, often at distressed valuations. More details can be found on their [official website](https://www.ge.com).
-2. **Sears [Holdings](../h/holdings.md)**: The retail giant sold its Kenmore brand and other assets during its prolonged [bankruptcy](../b/bankruptcy.md) process. Information on these sales can be explored through the Sears [Holdings](../h/holdings.md) [press releases](https://searsholdings.com).
+1. **General Electric (GE)**: Amid its [restructuring](../r/restructuring.md), GE sold off various non-core assets, including parts of its lighting and Healthcare divisions, often at distressed valuations. More
+2. **Sears [Holdings](../h/holdings.md)**: The retail giant sold its Kenmore brand and other assets during its prolonged [bankruptcy](../b/bankruptcy.md) process. Information on these sales can be explored through the Sears [Holdings](../h/holdings.md) press releases.
 
 ## Risks and Considerations
 
 ### Valuation Challenges
-Distressed assets often present opaque [valuation](../v/valuation.md) challenges due to the [underlying](../u/underlying.md) uncertainties about their ongoing [value](../v/value.md), legal complications, or [market](../m/market.md) reception. 
+Distressed assets often present opaque [valuation](../v/valuation.md) challenges due to the [underlying](../u/underlying.md) uncertainties about their ongoing [value](../v/value.md), legal complications, or [market](../m/market.md) reception.
 
 ### Due Diligence
 Thorough [due diligence](../d/due_diligence.md) is imperative to navigate the legal and financial landscape associated with distressed assets, including understanding [lien](../l/lien.md) structures, [creditor](../c/creditor.md) hierarchies, and potential regulatory infringements.

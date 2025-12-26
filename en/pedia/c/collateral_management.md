@@ -6,7 +6,7 @@
 ## Algorithmic Trading and Collateral Management
 
 ### Definition and Importance
-[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves the use of computer algorithms to automate trading decisions and executions. These algorithms can analyze vast amounts of data and execute orders at high speeds and frequencies, which is challenging for human traders. 
+[Algorithmic trading](../a/algorithmic_trading.md), or algo-trading, involves the use of computer algorithms to automate trading decisions and executions. These algorithms can analyze vast amounts of data and execute orders at high speeds and frequencies, which is challenging for human traders.
 
 [Collateral](../c/collateral.md) management, in the context of [algorithmic trading](../a/algorithmic_trading.md), is the process of managing [collateral](../c/collateral.md) assets – securities, cash, or other financial instruments – used to secure financial transactions. This process is crucial for reducing [counterparty](../c/counterparty.md) risks, ensuring regulatory compliance, and optimizing the use of [collateral](../c/collateral.md) to enhance trading [efficiency](../e/efficiency.md) and profitability.
 
@@ -43,10 +43,10 @@ Automation plays a significant role in modern [collateral](../c/collateral.md) m
 
 ### Vendors and Platforms
 Several technology vendors and financial platforms [offer](../o/offer.md) [collateral](../c/collateral.md) management solutions to help institutions manage their [collateral](../c/collateral.md) more effectively. For example:
-- **Calypso Technology** (https://www.calypso.com/) provides an integrated platform for [trade](../t/trade.md) processing, [risk management](../r/risk_management.md), and [collateral](../c/collateral.md) [optimization](../o/optimization.md).
-- **Murex** (https://www.murex.com/solutions/[collateral](../c/collateral.md)-management) offers solutions for [collateral](../c/collateral.md) management, covering margining, [optimization](../o/optimization.md), and regulatory reporting.
-- **TriOptima** (https://www.trioptima.com/) provides post-[trade](../t/trade.md) [risk management](../r/risk_management.md) services, including [collateral](../c/collateral.md) management, [reconciliation](../r/reconciliation.md), and portfolio compression.
-- **SimCorp** (https://www.simcorp.com/en/solutions/investment-operations/[collateral](../c/collateral.md)-management) delivers investment and [asset management](../a/asset_management.md) solutions, with capabilities for [collateral](../c/collateral.md) management and [optimization](../o/optimization.md).
+- **Calypso Technology** ( provides an integrated platform for [trade](../t/trade.md) processing, [risk management](../r/risk_management.md), and [collateral](../c/collateral.md) [optimization](../o/optimization.md).
+- **Murex** ( offers solutions for [collateral](../c/collateral.md) management, covering margining, [optimization](../o/optimization.md), and regulatory reporting.
+- **TriOptima** ( provides post-[trade](../t/trade.md) [risk management](../r/risk_management.md) services, including [collateral](../c/collateral.md) management, [reconciliation](../r/reconciliation.md), and portfolio compression.
+- **SimCorp** ( delivers investment and [asset management](../a/asset_management.md) solutions, with capabilities for [collateral](../c/collateral.md) management and [optimization](../o/optimization.md).
 
 ## Regulatory Landscape
 

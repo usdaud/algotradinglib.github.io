@@ -108,8 +108,8 @@ However, the effectiveness of [revenue](../r/revenue.md) cap regulations depends
 
 For more detailed information on [revenue](../r/revenue.md) cap regulations, please visit:
 
-- [Ofgem](https://www.ofgem.gov.uk/)
-- [Australian Energy Regulator (AER)](https://www.aer.gov.au/)
-- [Federal Energy Regulatory Commission (FERC)](https://www.ferc.gov/)
+- Ofgem
+- Australian Energy Regulator (AER)
+- Federal Energy Regulatory Commission (FERC)
 
 Understanding and navigating the complexities of [revenue](../r/revenue.md) cap regulations are crucial for all stakeholders involved to ensure a balanced, fair, and forward-looking regulatory environment.

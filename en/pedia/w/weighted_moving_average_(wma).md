@@ -1,15 +1,15 @@
 # Weighted Moving Average (WMA)
 
-The [Weighted](../w/weighted.md) Moving Average (WMA) is a type of moving average that places a greater weight and significance on the most recent data points. This is in contrast to the simple moving average (SMA), which allocates [equal weight](../e/equal_weight.md) to all data points in the period. The WMA is often favored in [financial analysis](../f/financial_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) due to its ability to respond more quickly to price changes. 
+The [Weighted](../w/weighted.md) Moving Average (WMA) is a type of moving average that places a greater weight and significance on the most recent data points. This is in contrast to the simple moving average (SMA), which allocates [equal weight](../e/equal_weight.md) to all data points in the period. The WMA is often favored in [financial analysis](../f/financial_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md) due to its ability to respond more quickly to price changes.
 
 ## Calculation of WMA
 
 The WMA assigns a linear weight to the closing prices, giving more importance to the most recent prices. The formula for the WMA is:
 
-\[ WMA = \frac{nP_1 + (n-1)P_2 + ... + 2P_{(n-1)} + P_n}{n + (n-1) + ... + 2 + 1} \]
+\[ WMA = \frac{nP_1 + (n-1)P_2 +... + 2P_{(n-1)} + P_n}{n + (n-1) +... + 2 + 1} \]
 
 Where:
-- \( P_1, P_2, ..., P_n \) are the closing prices.
+- \( P_1, P_2,..., P_n \) are the closing prices.
 - \( n \) is the number of periods.
 
 ### Example Calculation
@@ -17,11 +17,11 @@ Where:
 Assume we are calculating a 5-period WMA for the prices: 50, 55, 53, 54, and 56.
 - Assign weights: 1, 2, 3, 4, 5.
 - Multiply each price by its respective weight:
-  - 50 * 1 = 50
-  - 55 * 2 = 110
-  - 53 * 3 = 159
-  - 54 * 4 = 216
-  - 56 * 5 = 280
+ - 50 * 1 = 50
+ - 55 * 2 = 110
+ - 53 * 3 = 159
+ - 54 * 4 = 216
+ - 56 * 5 = 280
 - Sum these results: 50 + 110 + 159 + 216 + 280 = 815.
 - Sum the weights: 1 + 2 + 3 + 4 + 5 = 15.
 - Divide the [weighted](../w/weighted.md) sum by the sum of the weights: 815 / 15 = 54.33.
@@ -64,19 +64,19 @@ WMAs can be integrated into various [momentum indicators](../m/momentum_indicato
 
 ## Implementation in Trading Platforms
 
-Many [algorithmic trading](../a/algorithmic_trading.md) platforms support WMAs due to their [utility](../u/utility.md) in strategic [trading systems](../t/trading_systems.md). 
+Many [algorithmic trading](../a/algorithmic_trading.md) platforms support WMAs due to their [utility](../u/utility.md) in strategic [trading systems](../t/trading_systems.md).
 
 ### MetaTrader 4 (MT4)
 
-MetaTrader 4, a popular [trading platform](../t/trading_platform.md), supports the WMA [indicator](../i/indicator.md) out of the box. Traders can specify the period and apply the WMA to different types of price data such as close, [open](../o/open.md), high, or low prices. [MetaTrader 4](https://www.metatrader4.com/)
+MetaTrader 4, a popular [trading platform](../t/trading_platform.md), supports the WMA [indicator](../i/indicator.md) out of the box. Traders can specify the period and apply the WMA to different types of price data such as close, [open](../o/open.md), high, or low prices. MetaTrader 4
 
 ### TradingView
 
-[TradingView](../t/tradingview.md) offers a [robust](../r/robust.md) scripting language called Pine Script, which allows traders to customize and implement WMAs in their [trading strategies](../t/trading_strategies.md). The platform’s extensive library of indicators includes built-in WMAs and user-contributed scripts for advanced strategies. [TradingView](https://www.tradingview.com/)
+[TradingView](../t/tradingview.md) offers a [robust](../r/robust.md) scripting language called Pine Script, which allows traders to customize and implement WMAs in their [trading strategies](../t/trading_strategies.md). The platform’s extensive library of indicators includes built-in WMAs and user-contributed scripts for advanced strategies. TradingView
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) provides the [Trader](../t/trader.md) Workstation (TWS) platform, [offering](../o/offering.md) WMAs among various [technical indicators](../t/technical_indicators.md). Traders can integrate WMAs into their automated [trading algorithms](../t/trading_algorithms.md) using the API. [Interactive Brokers](https://www.interactivebrokers.com)
+[Interactive Brokers](../i/interactive_brokers.md) provides the [Trader](../t/trader.md) Workstation (TWS) platform, [offering](../o/offering.md) WMAs among various [technical indicators](../t/technical_indicators.md). Traders can integrate WMAs into their automated [trading algorithms](../t/trading_algorithms.md) using the API. Interactive Brokers
 
 ## Advantages of WMA
 

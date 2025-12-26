@@ -99,7 +99,7 @@ High-frequency trading (HFT) involves executing a large number of orders at extr
 
 #### 11. Blockchain and Cryptocurrencies
 
-Mathematical models are also applied in trading cryptocurrencies and in understanding [blockchain](../b/blockchain_in_trading.md) technology. 
+Mathematical models are also applied in trading cryptocurrencies and in understanding [blockchain](../b/blockchain_in_trading.md) technology.
 
 ##### Key Aspects:
 - **Cryptographic Algorithms**: Ensure the [security](../s/security.md) and integrity of [blockchain](../b/blockchain_in_trading.md) transactions.
@@ -110,16 +110,16 @@ Mathematical models are also applied in trading cryptocurrencies and in understa
 
 Mathematical models are indispensable tools in modern trading, providing systematic approaches to understanding [market dynamics](../m/market_dynamics.md), optimizing strategies, and managing risks. As technology continues to advance, the integration of new mathematical techniques, [machine learning](../m/machine_learning.md), and AI [will](../w/will.md) likely revolutionize the trading landscape even further.
 
---- 
+---
 
 **References:**
 
-- [Bloomberg](https://www.bloomberg.com/)
-- [Goldman Sachs](https://www.goldmansachs.com/)
-- [JP Morgan](https://www.jpmorgan.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
-- [QuantConnect](https://www.quantconnect.com/)
-- [Two Sigma](https://www.twosigma.com/)
-- [Renaissance Technologies](https://www.rentec.com/)
-- [Algorithmic Traders Association](https://www.algotradingassociation.org/)
-- [Kaggle](https://www.kaggle.com/)
+- Bloomberg
+- Goldman Sachs
+- JP Morgan
+- Interactive Brokers
+- QuantConnect
+- Two Sigma
+- Renaissance Technologies
+- Algorithmic Traders Association
+- Kaggle

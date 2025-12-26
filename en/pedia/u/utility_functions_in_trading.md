@@ -4,7 +4,7 @@
 
 ## What is a Utility Function?
 
-A [utility](../u/utility.md) function, in the context of economic and financial theory, is a mathematical representation that quantifies an [investor](../i/investor.md)'s level of satisfaction or preference for a given set of outcomes. Investors are assumed to make decisions to maximize their [utility](../u/utility.md), balancing potential returns against the inherent risks of different assets. 
+A [utility](../u/utility.md) function, in the context of economic and financial theory, is a mathematical representation that quantifies an [investor](../i/investor.md)'s level of satisfaction or preference for a given set of outcomes. Investors are assumed to make decisions to maximize their [utility](../u/utility.md), balancing potential returns against the inherent risks of different assets.
 
 In mathematical terms, a [utility](../u/utility.md) function \( U(x) \) maps choices or outcomes \( x \) to a real number, representing the [utility](../u/utility.md) received from those outcomes. The specific form of the [utility](../u/utility.md) function can vary significantly, influencing the [investor](../i/investor.md)’s behavior. For instance, a [risk-averse](../r/risk-averse.md) [investor](../i/investor.md) might have a different [utility](../u/utility.md) function compared to a [risk](../r/risk.md)-seeking [investor](../i/investor.md).
 

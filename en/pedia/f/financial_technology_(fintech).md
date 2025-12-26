@@ -62,22 +62,22 @@ While fintech has the potential to democratize access to financial services, it 
 # Key Players in Fintech
 
 ## Stripe
-[Stripe](https://stripe.com) specializes in processing online payments for businesses and offers a suite of APIs for developers to integrate [payment](../p/payment.md) capabilities into their websites and mobile applications.
+Stripe specializes in processing online payments for businesses and offers a suite of APIs for developers to integrate [payment](../p/payment.md) capabilities into their websites and mobile applications.
 
 ## Square
-[Square](https://squareup.com) provides mobile point-of-[sale](../s/sale.md) solutions that allow merchants of all sizes to accept card payments using smartphones and tablets. Its Cash App also offers P2P [payment](../p/payment.md) services.
+Square provides mobile point-of-[sale](../s/sale.md) solutions that allow merchants of all sizes to accept card payments using smartphones and tablets. Its Cash App also offers P2P [payment](../p/payment.md) services.
 
 ## Robinhood
-[Robinhood](https://robinhood.com) disrupted the stock brokerage [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trades and a user-friendly mobile platform. It has since expanded to [offer](../o/offer.md) cryptocurrency trading and [cash management](../c/cash_management.md) accounts.
+Robinhood disrupted the stock brokerage [industry](../i/industry.md) by [offering](../o/offering.md) [commission](../c/commission.md)-free trades and a user-friendly mobile platform. It has since expanded to [offer](../o/offer.md) cryptocurrency trading and [cash management](../c/cash_management.md) accounts.
 
 ## Coinbase
-[Coinbase](https://coinbase.com) is one of the most popular platforms for buying, selling, and storing cryptocurrencies. It facilitates the trading of various digital currencies and provides a secure crypto wallet for users.
+Coinbase is one of the most popular platforms for buying, selling, and storing cryptocurrencies. It facilitates the trading of various digital currencies and provides a secure crypto wallet for users.
 
 ## PayPal
-[PayPal](https://paypal.com) is a pioneer in online payments and remains a dominant force in the [market](../m/market.md). It offers a [range](../r/range.md) of services, including P2P payments, merchant services, and digital wallets.
+PayPal is a pioneer in online payments and remains a dominant force in the [market](../m/market.md). It offers a [range](../r/range.md) of services, including P2P payments, merchant services, and digital wallets.
 
 ## Chime
-[Chime](https://chime.com) is a digital [bank](../b/bank.md) that offers a suite of financial products with no fees. It provides services like spending accounts, savings accounts, and [debit](../d/debit.md) cards, all managed through a mobile app.
+Chime is a digital [bank](../b/bank.md) that offers a suite of financial products with no fees. It provides services like spending accounts, savings accounts, and [debit](../d/debit.md) cards, all managed through a mobile app.
 
 # Emerging Trends in Fintech
 

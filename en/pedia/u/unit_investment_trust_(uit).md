@@ -18,7 +18,7 @@ Because the portfolio of a UIT is fixed at the time of creation and is not activ
 
 ### Redeemability
 
-The units of a UIT are usually redeemable at the [trust](../t/trust.md)'s net [asset](../a/asset.md) [value](../v/value.md) (NAV). This allows investors some [liquidity](../l/liquidity.md), although it differs from the daily [liquidity](../l/liquidity.md) offered by mutual funds. 
+The units of a UIT are usually redeemable at the [trust](../t/trust.md)'s net [asset](../a/asset.md) [value](../v/value.md) (NAV). This allows investors some [liquidity](../l/liquidity.md), although it differs from the daily [liquidity](../l/liquidity.md) offered by mutual funds.
 
 ## Structure of UITs
 
@@ -100,11 +100,11 @@ The advertising of UITs must comply with the same regulations that apply to othe
 
 ### Invesco
 
-Invesco offers a wide [range](../r/range.md) of UITs, focusing on various sectors, themes, and strategies. They provide detailed information about each UIT's portfolio, investment objectives, and performance on their website: [Invesco UITs](https://invesco.com)
+Invesco offers a wide [range](../r/range.md) of UITs, focusing on various sectors, themes, and strategies. They provide detailed information about each UIT's portfolio, investment objectives, and performance through its online channels: Invesco UITs
 
 ### Guggenheim Partners
 
-Guggenheim Partners is another major provider of UITs, with offerings that span different [asset](../a/asset.md) classes and investment strategies. More information can be found on their website: [Guggenheim UITs](https://www.guggenheiminvestments.com/uit)
+Guggenheim Partners is another major provider of UITs, with offerings that span different [asset](../a/asset.md) classes and investment strategies. Guggenheim UITs
 
 ## Conclusion
 

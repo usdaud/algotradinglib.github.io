@@ -61,7 +61,6 @@ Stock [options](../o/options.md) and their tax implications can be complex, requ
 
 ### Google LLC (Alphabet Inc.)
 - **Details**: Google LLC, a subsidiary of Alphabet Inc., is well-known for its generous ESO programs. Employees are granted stock [options](../o/options.md) as part of their compensation package, aligning their interests with the company's overall growth and innovation.
-- **Website**: [Google Careers](https://careers.google.com)
 
 ## Key Considerations for Employees
 

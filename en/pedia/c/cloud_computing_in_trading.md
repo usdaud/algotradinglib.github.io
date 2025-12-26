@@ -66,7 +66,7 @@ Cloud platforms [offer](../o/offer.md) APIs and SDKs for developing custom tradi
 
 [Security](../s/security.md) is paramount in trading, and cloud providers emphasize stringent [security](../s/security.md) measures:
 
-- **Data Encryption:** Data is encrypted both in transit and at rest. 
+- **Data Encryption:** Data is encrypted both in transit and at rest.
 - **Identity and Access Management (IAM):** [Robust](../r/robust.md) IAM policies ensure only authorized access to sensitive trading data.
 - **Compliance:** Cloud providers comply with financial regulations such as GDPR, CCPA, and PCI-DSS, ensuring regulatory adherence.
 
@@ -107,6 +107,6 @@ Cloud platforms combined with [blockchain](../b/blockchain_in_trading.md) techno
 Cloud computing is a transformative force in the trading [industry](../i/industry.md), [offering](../o/offering.md) [scalability](../s/scalability.md), speed, cost efficiencies, and advanced data management capabilities. As technology evolves, the integration of cloud computing with other innovations like AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) [will](../w/will.md) continue to drive the trading [industry](../i/industry.md) forward. Embracing the cloud is not just an option but a strategic imperative for modern trading firms to stay competitive and innovative.
 
 **References:**
-- [Amazon Web Services (AWS)](https://aws.amazon.com/financial-services/)
-- [Google Cloud Platform (GCP)](https://cloud.google.com/solutions/financial-services)
-- [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/financial-services/)
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure

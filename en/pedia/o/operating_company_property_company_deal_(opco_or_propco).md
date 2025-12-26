@@ -85,7 +85,7 @@ Strong governance structures are essential to manage the relationships and trans
 Hilton Hotels is a prominent example where OPCO/PROPCO structures have been utilized. Hilton’s operational management is often separated from [real estate](../r/real_estate.md) ownership, allowing for efficient [capital](../c/capital.md) management and operational focus.
 
 ### Medical Properties Trust (MPT)
-Medical Properties [Trust](../t/trust.md) (MPT) https://www.medicalpropertiestrust.com is a global leader in healthcare [real estate](../r/real_estate.md). They utilize an OPCO/PROPCO structure by owning and leasing healthcare facilities to various medical operators, which allows them to focus on [real estate](../r/real_estate.md) management while ensuring that healthcare providers can concentrate on patient care.
+Medical Properties [Trust](../t/trust.md) (MPT) is a global leader in healthcare [real estate](../r/real_estate.md). They utilize an OPCO/PROPCO structure by owning and leasing healthcare facilities to various medical operators, which allows them to focus on [real estate](../r/real_estate.md) management while ensuring that healthcare providers can concentrate on patient care.
 
 ### Walmart
 Walmart has used separate entities to manage its vast retail operations and [real estate](../r/real_estate.md) [holdings](../h/holdings.md). This separation helps Walmart optimize its [capital](../c/capital.md) usage, manage risks, and maintain a strong [market](../m/market.md) position.

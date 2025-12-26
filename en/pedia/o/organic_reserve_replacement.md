@@ -1,6 +1,6 @@
-# Organic Reserve Replacement 
+# Organic Reserve Replacement
 
-Organic Reserve Replacement (ORR) is a critical metric within the oil and gas [industry](../i/industry.md) that measures a company's ability to replace the reserves it extracts through its existing operations and exploration activities. Unlike total reserve replacement, which can include acquisitions, ORR focuses solely on the internal growth of reserves. Understanding and optimizing ORR is vital for the sustainable growth and long-term viability of energy companies. 
+Organic Reserve Replacement (ORR) is a critical metric within the oil and gas [industry](../i/industry.md) that measures a company's ability to replace the reserves it extracts through its existing operations and exploration activities. Unlike total reserve replacement, which can include acquisitions, ORR focuses solely on the internal growth of reserves. Understanding and optimizing ORR is vital for the sustainable growth and long-term viability of energy companies.
 
 ## Understanding Organic Reserve Replacement
 
@@ -21,7 +21,7 @@ This ratio is pivotal because it provides insight into whether a company is effe
 
 ## Factors Influencing Organic Reserve Replacement
 
-Several factors influence ORR, including geological, technological, and strategic elements. 
+Several factors influence ORR, including geological, technological, and strategic elements.
 
 ### Geological Factors
 

@@ -28,7 +28,7 @@ Tracker funds follow the construction of their target [index](../i/index_instrum
 ### Trade Execution
 
 1. **[Market](../m/market.md) Orders**: When an [investor](../i/investor.md) buys [shares](../s/shares.md) in a tracker [fund](../f/fund.md), the [fund](../f/fund.md) itself typically buys [shares](../s/shares.md) of the [underlying](../u/underlying.md) [index](../i/index_instrument.md) securities to reflect this investment.
- 
+
 2. **Dividends and [Income](../i/income.md)**: If the [underlying](../u/underlying.md) securities pay dividends, these are usually passed on to the tracker [fund](../f/fund.md)'s investors, either as additional [shares](../s/shares.md) or cash.
 
 3. **[Expense Ratio](../e/expense_ratio.md)**: While tracker funds have lower costs, they still incur some expenses, such as management fees, administrative costs, and trading commissions. These are represented by the [fund](../f/fund.md)'s [expense ratio](../e/expense_ratio.md), which is a percentage of the [fund](../f/fund.md)'s average assets.
@@ -45,19 +45,19 @@ One of the earliest and most well-known tracker funds is the Vanguard 500 [Index
 
 SPY is another prominent tracker [fund](../f/fund.md) that aims to mirror the performance of the S&P 500. It is an ETF, meaning it trades like a stock on the stock [exchange](../e/exchange.md), [offering](../o/offering.md) high [liquidity](../l/liquidity.md) and allowing investors to buy and sell throughout the trading day.
 
-Website: [SPDR ETF](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-sp-500-etf-trust-spy)
+online platform: SPDR ETF
 
 ### iShares MSCI Emerging Markets ETF (EEM)
 
 This ETF is designed to track the performance of the MSCI Emerging Markets [Index](../i/index_instrument.md), which includes companies from emerging economies across the globe. It provides investors with exposure to growth markets that have higher risks but also potentially higher rewards.
 
-Website: [iShares MSCI Emerging Markets ETF](https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf)
+online platform: iShares MSCI Emerging Markets ETF
 
 ### Fidelity ZERO Large Cap Index Fund (FNILX)
 
 A unique [offering](../o/offering.md) from Fidelity, this tracker [fund](../f/fund.md) aims to replicate the Fidelity U.S. Large Cap [Index](../i/index_instrument.md). It is noted for having zero management fees, making it an attractive option for cost-conscious investors.
 
-Website: [Fidelity ZERO Large Cap Index Fund](https://www.fidelity.com/mutual-funds/fidelity-funds/overview)
+online platform: Fidelity ZERO Large Cap Index Fund
 
 ## Advantages of Tracker Funds
 

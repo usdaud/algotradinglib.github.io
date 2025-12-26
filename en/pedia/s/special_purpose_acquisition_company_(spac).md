@@ -74,7 +74,7 @@ Given the rapid rise in popularity, SPACs are under increasing regulatory scruti
 
 ### Online Platforms
 
-Numerous online platforms have emerged to provide retail investors with access to SPAC investments. Companies like [Robinhood](../r/robinhood.md) [https://[robinhood](../r/robinhood.md).com/] and ETRADE [https://us.etrade.com/home] offer SPAC [shares](../s/shares.md) to individual investors, leveling the playing field between retail and institutional investors.
+Numerous online platforms have emerged to provide retail investors with access to SPAC investments. Companies like [Robinhood](../r/robinhood.md) [ and ETRADE [ offer SPAC [shares](../s/shares.md) to individual investors, leveling the playing field between retail and institutional investors.
 
 ## Conclusion
 

@@ -1,10 +1,10 @@
 # Information Coefficient (IC)
 
-The [financial markets](../f/financial_market.md) have grown in sophistication, leveraging technology and advanced statistical methods to drive [trading strategies](../t/trading_strategies.md). One of the core concepts underpinning the evaluation and effectiveness of these strategies is the Information Coefficient (IC). The IC is a crucial metric used in [quantitative finance](../q/quantitative_finance.md) and particularly in [algorithmic trading](../a/accountability.md) to measure the skill of a predictive model or [trading strategy](../t/trading_strategy.md). This document delves into the definition of IC, provides illustrative examples, and explains the formula in detail.
+The [financial markets](../f/financial_market.md) have grown in sophistication, leveraging technology and advanced statistical methods to drive [trading strategies](../t/trading_strategies.md). One of the core concepts underpinning the evaluation and effectiveness of these strategies is the Information Coefficient (IC). The IC is a crucial metric used in [quantitative finance](../q/quantitative_finance.md) and particularly in [algorithmic trading](../a/algorithmic_trading.md) to measure the skill of a predictive model or [trading strategy](../t/trading_strategy.md). This document delves into the definition of IC, provides illustrative examples, and explains the formula in detail.
 
 ## Definition of Information Coefficient (IC)
 
-The Information Coefficient (IC) is a statistical measure used to quantify the predictive power or skill of a model in [forecasting](../f/forecasting.md) financial returns. Essentially, it represents the [correlation](../c/correlation.md) between predicted and actual returns. The IC is calculated as the [correlation coefficient](../c/correlation_coefficient.md) between predicted [asset](../a/asset.md) returns and the actual realized returns over a specific time period. 
+The Information Coefficient (IC) is a statistical measure used to quantify the predictive power or skill of a model in [forecasting](../f/forecasting.md) financial returns. Essentially, it represents the [correlation](../c/correlation.md) between predicted and actual returns. The IC is calculated as the [correlation coefficient](../c/correlation_coefficient.md) between predicted [asset](../a/asset.md) returns and the actual realized returns over a specific time period.
 
 The [value](../v/value.md) of IC ranges between -1 and 1:
 - An IC of +1 implies a perfect [positive correlation](../p/positive_correlation.md) between predicted and actual returns, indicating that the model has excellent predictive power.
@@ -13,7 +13,7 @@ The [value](../v/value.md) of IC ranges between -1 and 1:
 
 ## Importance of IC in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the Information Coefficient is of paramount importance for several reasons:
+In [algorithmic trading](../a/algorithmic_trading.md), the Information Coefficient is of paramount importance for several reasons:
 1. **Model Validation:** It serves as a key metric for validating the effectiveness and reliability of a trading model.
 2. **Strategy Refinement:** Traders and quants use IC to refine and improve their strategies by identifying patterns and factors that contribute to predictive success.
 3. **[Performance Benchmarking](../p/performance_benchmarking.md):** IC allows for the comparison of different models and strategies on a standardized scale, facilitating [performance benchmarking](../p/performance_benchmarking.md).
@@ -38,11 +38,11 @@ Assume we have a series of predicted returns and the corresponding actual return
 
 | [Asset](../a/asset.md) | Predicted [Return](../r/return.md) (\(P_i\)) | Actual [Return](../r/return.md) (\(A_i\)) |
 |-------|-----------------------------|-------------------------|
-| 1     | 0.02                        | 0.025                   |
-| 2     | 0.015                       | 0.02                    |
-| 3     | 0.03                        | 0.027                   |
-| 4     | 0.01                        | 0.012                   |
-| 5     | 0.025                       | 0.022                   |
+| 1 | 0.02 | 0.025 |
+| 2 | 0.015 | 0.02 |
+| 3 | 0.03 | 0.027 |
+| 4 | 0.01 | 0.012 |
+| 5 | 0.025 | 0.022 |
 
 ### Step-by-Step Calculation
 
@@ -89,16 +89,16 @@ In our example, the Information Coefficient is approximately 0.87. This high pos
 The concept of Information Coefficient has several applications in [quantitative finance](../q/quantitative_finance.md):
 
 1. **[Portfolio Management](../p/par.md):**
-   - Portfolio managers can use IC to select and weight assets that are predicted to [outperform](../o/outperform.md), thereby enhancing the overall [return](../r/return.md) of the portfolio.
+ - Portfolio managers can use IC to select and weight assets that are predicted to [outperform](../o/outperform.md), thereby enhancing the overall [return](../r/return.md) of the portfolio.
 
 2. **[Optimization](../o/optimization.md) of [Trading Algorithms](../t/trading_algorithms.md):**
-   - Algorithmic traders can adjust their [trading strategies](../t/trading_strategies.md) based on the calculated IC to improve the reliability and profitability of trades.
+ - Algorithmic traders can adjust their [trading strategies](../t/trading_strategies.md) based on the calculated IC to improve the reliability and profitability of trades.
 
 3. **[Risk](../r/risk.md) Adjustments:**
-   - A higher IC can indicate greater confidence in model predictions, enabling better [risk](../r/risk.md)-adjusted strategies.
+ - A higher IC can indicate greater confidence in model predictions, enabling better [risk](../r/risk.md)-adjusted strategies.
 
 4. **Performance Evaluation:**
-   - IC is integral in evaluating the performance of different models and strategies, thereby aiding in the continuous improvement of quantitative methods.
+ - IC is integral in evaluating the performance of different models and strategies, thereby aiding in the continuous improvement of quantitative methods.
 
 ## Limitations and Considerations
 
@@ -109,11 +109,9 @@ While IC is a valuable metric, it is essential to recognize its limitations:
 
 ## Real-World Example and Company Analysis
 
-Several financial firms and platforms [leverage](../l/leverage.md) the concept of Information Coefficient to enhance their [trading strategies](../t/trading_strategies.md). For instance, AQR [Capital](../c/capital.md) Management, a renowned quantitative investment [firm](../f/firm.md), uses IC as part of its toolkit to develop and evaluate [trading models](../t/trading_models.md). More information can be found on their website: https://www.aqr.com/
-
-Another example is [QuantConnect](../q/quantconnect.md), an [algorithmic trading](../a/accountability.md) platform that provides tools for testing and deploying [trading strategies](../t/trading_strategies.md). [QuantConnect](../q/quantconnect.md)'s platform allows users to calculate IC as part of their [backtesting](../b/backtesting.md) suite to assess strategy performance. Visit their website to learn more: https://www.[quantconnect](../q/quantconnect.md).com/
-
+Several financial firms and platforms [leverage](../l/leverage.md) the concept of Information Coefficient to enhance their [trading strategies](../t/trading_strategies.md). For instance, AQR [Capital](../c/capital.md) Management, a renowned quantitative investment [firm](../f/firm.md), uses IC as part of its toolkit to develop and evaluate [trading models](../t/trading_models.md).
+Another example is [StockSharp](../s/stocksharp.md), an [algorithmic trading](../a/algorithmic_trading.md) platform that provides tools for testing and deploying [trading strategies](../t/trading_strategies.md). [StockSharp](../s/stocksharp.md)'s platform allows users to calculate IC as part of their [backtesting](../b/backtesting.md) suite to assess strategy performance.
 By integrating Information Coefficient into their analytical and trading frameworks, these companies can derive more insightful and actionable intelligence, thereby navigating the complex landscape of [financial markets](../f/financial_market.md) with greater confidence and precision.
 
 ---
-This comprehensive document provides an in-depth exploration of the Information Coefficient, highlighting its relevance, calculation, and application in the realm of [algorithmic trading](../a/accountability.md). Whether you are a quantitative analyst, a [portfolio manager](../p/portfolio_manager.md), or an algorithmic [trader](../t/trader.md), understanding and utilizing IC can significantly enhance your decision-making and strategic effectiveness.
+This comprehensive document provides an in-depth exploration of the Information Coefficient, highlighting its relevance, calculation, and application in the realm of [algorithmic trading](../a/algorithmic_trading.md). Whether you are a quantitative analyst, a [portfolio manager](../p/portfolio_manager.md), or an algorithmic [trader](../t/trader.md), understanding and utilizing IC can significantly enhance your decision-making and strategic effectiveness.

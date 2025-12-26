@@ -102,15 +102,15 @@ Several firms specialize in providing tools and analytics for [excess return](..
 
 ### FactSet
 
-[FactSet](https://www.factset.com) offers extensive financial data and analytics tools that support [excess return](../e/excess_return.md) analysis, helping firms evaluate their investment performance accurately.
+FactSet offers extensive financial data and analytics tools that support [excess return](../e/excess_return.md) analysis, helping firms evaluate their investment performance accurately.
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com) provides comprehensive benchmarking and [performance metrics](../p/performance_metrics.md), including tools for calculating and analyzing excess returns for a [wide variety](../w/wide_variety.md) of investment strategies.
+Bloomberg provides comprehensive benchmarking and [performance metrics](../p/performance_metrics.md), including tools for calculating and analyzing excess returns for a [wide variety](../w/wide_variety.md) of investment strategies.
 
 ### MSCI
 
-[MSCI](https://www.msci.com) offers indices and [performance analytics](../p/performance_analytics.md) that aid in [excess return](../e/excess_return.md) calculation, allowing for rigorous performance evaluation and [risk management](../r/risk_management.md).
+MSCI offers indices and [performance analytics](../p/performance_analytics.md) that aid in [excess return](../e/excess_return.md) calculation, allowing for rigorous performance evaluation and [risk management](../r/risk_management.md).
 
 ## Conclusion
 

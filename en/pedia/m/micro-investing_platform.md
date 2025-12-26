@@ -35,27 +35,27 @@ Several micro-[investing](../i/investing.md) platforms have gained popularity du
 ### 1. **Acorns**
 Acorns is one of the pioneers in the micro-[investing](../i/investing.md) space. It rounds up users' [debit](../d/debit.md) and [credit card](../c/credit_card.md) purchases to the nearest dollar and invests the spare change into a diversified portfolio of ETFs.
 
-**Website:** [Acorns](https://www.acorns.com/)
+**online platform:** Acorns
 
 ### 2. **Stash**
 Stash offers a combination of micro-[investing](../i/investing.md), banking, and educational resources. Users can start with just $5 and have access to fractional [shares](../s/shares.md) and various investment [options](../o/options.md).
 
-**Website:** [Stash](https://www.stash.com/)
+**online platform:** Stash
 
 ### 3. **Robinhood**
 While primarily known for [commission](../c/commission.md)-free trading of [stocks](../s/stock.md) and ETFs, [Robinhood](../r/robinhood.md) also allows users to invest any amount of [money](../m/money.md), buying fractional [shares](../s/shares.md) when necessary. It provides a user-friendly interface and has introduced many people to [investing](../i/investing.md).
 
-**Website:** [Robinhood](https://www.robinhood.com/)
+**online platform:** Robinhood
 
 ### 4. **Betterment**
 Betterment offers a [range](../r/range.md) of investment services, including micro-[investing](../i/investing.md). It focuses on providing robo-advisory services, where algorithms help in managing users' investments to optimize returns while minimizing risks.
 
-**Website:** [Betterment](https://www.betterment.com/)
+**online platform:** Betterment
 
 ### 5. **Round**
 Round is another micro-[investing](../i/investing.md) platform focusing on making investment accessible. It offers professionally managed portfolios and focuses on providing users with access to institutional-level investments.
 
-**Website:** [Round](https://www.investwithround.com/)
+**online platform:** Round
 
 ## Benefits of Micro-Investing Platforms
 

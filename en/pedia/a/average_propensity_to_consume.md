@@ -58,15 +58,15 @@ Understanding changes in the APC can aid in [risk management](../r/risk_manageme
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) is an [algorithmic trading](../a/accountability.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It provides access to a wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.md), including proxies for the APC, enabling traders to incorporate consumption data into their algorithms.
+QuantConnect is an [algorithmic trading](../a/accountability.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). It provides access to a wide [range](../r/range.md) of [economic indicators](../e/economic_indicators.md), including proxies for the APC, enabling traders to incorporate consumption data into their algorithms.
 
 ### Alpaca
 
-[Alpaca](https://alpaca.markets/) offers a [commission](../c/commission.md)-free trading API that supports real-time data and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Traders can integrate [economic indicators](../e/economic_indicators.md) such as the APC to enhance their [trading models](../t/trading_models.md) and improve decision-making processes.
+Alpaca offers a [commission](../c/commission.md)-free trading API that supports real-time data and [algorithmic trading strategies](../a/algorithmic_trading_strategies.md). Traders can integrate [economic indicators](../e/economic_indicators.md) such as the APC to enhance their [trading models](../t/trading_models.md) and improve decision-making processes.
 
 ### WorldQuant
 
-[WorldQuant](https://www.worldquant.com/) is a quantitative investment [firm](../f/firm.md) that leverages statistical and [machine learning](../m/machine_learning.md) techniques to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs a wide [range](../r/range.md) of macroeconomic indicators, including the APC, as part of its data-driven approach to [investing](../i/investing.md).
+WorldQuant is a quantitative investment [firm](../f/firm.md) that leverages statistical and [machine learning](../m/machine_learning.md) techniques to develop [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) employs a wide [range](../r/range.md) of macroeconomic indicators, including the APC, as part of its data-driven approach to [investing](../i/investing.md).
 
 ## Conclusion
 

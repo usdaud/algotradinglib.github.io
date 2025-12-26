@@ -14,7 +14,7 @@ The calculation of [Williams Fractals](../w/williams_fractals.md) involves scann
 2. Ensure this central bar is flanked by at least two bars on each side with relatively lower highs or higher lows respectively.
 3. Mark and signal these identified bars as potential [reversal](../r/reversal.md) points.
 
-[Williams Fractals](../w/williams_fractals.md) can be visually represented on a trading chart, typically shown as up or down arrows above or below the central bar of the fractal. 
+[Williams Fractals](../w/williams_fractals.md) can be visually represented on a trading chart, typically shown as up or down arrows above or below the central bar of the fractal.
 
 ## Importance in Algorithmic Trading
 In [algorithmic trading](../a/algorithmic_trading.md), the use of [Williams Fractals](../w/williams_fractals.md) is pivotal for several reasons:
@@ -47,7 +47,7 @@ def detect_fractals(data):
     [return](../r/return.md) data
 
 # Sample usage with some fictional data
-data = pd.DataFrame({
+data = pd.DataFrame{
     'high': [1, 2, 3, 4, 5, 6, 7, 8, 7, 6],
     'low': [1, 2, 1, 3, 2, 3, 2, 1, 2, 1]
 })
@@ -60,6 +60,6 @@ print(fractals)
 [Williams Fractals](../w/williams_fractals.md) serve as a critical tool in the toolbox of algorithmic traders. By providing early signals of potential [trend](../t/trend.md) reversals, they allow traders to strategize their [market](../m/market.md) positions effectively. Integration of fractals with other indicators and [trading strategies](../t/trading_strategies.md) can significantly enhance the accuracy and profitability of trades. Being a timeless concept, the application of [Williams Fractals](../w/williams_fractals.md) in modern [automated trading systems](../a/automated_trading_systems.md) remains as relevant as ever.
 
 ## For Further Reading
-- [Bill Williams on MetaTrader](https://www.metatrader4.com/en/trading-platform/help/analytics/technical_indicators/bill_williams_alligator)
-- [TradingView's Fractal Indicator](https://www.tradingview.com/support/solutions/43000521824-williams-fractal/)
-- [NinjaTrader's Williams Fractals](https://ninjatrader.com/support/helpGuides/nt8/fractals.htm)
+- Bill Williams on MetaTrader
+- TradingView's Fractal Indicator
+- NinjaTrader's Williams Fractals

@@ -124,23 +124,23 @@ There are several companies and resources available to help investors manage bea
 
 ### Vanguard
 
-Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs, which can be an effective tool for [diversification](../d/diversification.md) during bear markets. For more information, visit [Vanguard's official website](https://www.vanguard.com/).
+Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs, which can be an effective tool for [diversification](../d/diversification.md) during bear markets.
 
 ### BlackRock
 
-BlackRock offers various investment strategies and funds designed to help investors navigate bear markets. Their resources include [risk management](../r/risk_management.md) tools and diversified funds. Learn more on [BlackRock's official website](https://www.blackrock.com/).
+BlackRock offers various investment strategies and funds designed to help investors navigate bear markets. Their resources include [risk management](../r/risk_management.md) tools and diversified funds.
 
 ### Morningstar
 
-[Morningstar](../m/morningstar.md) provides independent investment research, including analysis of mutual funds, ETFs, and individual [stocks](../s/stock.md). Their insights can be beneficial for making informed decisions during bear markets. Explore their offerings on [Morningstar's official website](https://www.morningstar.com/).
+[Morningstar](../m/morningstar.md) provides independent investment research, including analysis of mutual funds, ETFs, and individual [stocks](../s/stock.md). Their insights can be beneficial for making informed decisions during bear markets. Explore their offerings on Morningstar's
 
 ### Charles Schwab
 
-[Charles Schwab](../c/charles_schwab.md) offers a [range](../r/range.md) of investment products and services, including [guidance](../g/guidance.md) on [portfolio diversification](../p/portfolio_diversification.md) and [risk management](../r/risk_management.md). Their educational resources can be helpful for understanding [market dynamics](../m/market_dynamics.md) during bear markets. Visit [Charles Schwab's official website](https://www.schwab.com/).
+[Charles Schwab](../c/charles_schwab.md) offers a [range](../r/range.md) of investment products and services, including [guidance](../g/guidance.md) on [portfolio diversification](../p/portfolio_diversification.md) and [risk management](../r/risk_management.md). Their educational resources can be helpful for understanding [market dynamics](../m/market_dynamics.md) during bear markets.
 
 ### Betterment
 
-Betterment is a robo-advisor that offers automated, [goal-based investing](../g/goal-based_investing.md). Their platform provides diversified portfolios and [rebalancing strategies](../r/rebalancing_strategies.md), which can help investors during bear markets. Learn more at [Betterment's official website](https://www.betterment.com/).
+Betterment is a robo-advisor that offers automated, [goal-based investing](../g/goal-based_investing.md). Their platform provides diversified portfolios and [rebalancing strategies](../r/rebalancing_strategies.md), which can help investors during bear markets.
 
 ## Conclusion
 

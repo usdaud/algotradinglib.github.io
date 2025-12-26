@@ -11,7 +11,7 @@
 #### Mitigation Strategies:
 - **[Diversification](../d/diversification.md):** Spreading investments across various assets can reduce the impact of adverse price movements in any single [asset](../a/asset.md).
 - **Hedging:** Using financial [derivatives](../d/derivatives.md) such as [options](../o/options.md) and [futures](../f/futures.md) to [offset](../o/offset.md) potential losses in the primary [trading strategy](../t/trading_strategy.md).
-  
+
 ### 2. **Model Risk**
 
 [Model risk](../m/model_risk.md) arises when the algorithms used for trading are based on inaccurate assumptions or data errors. Faulty models can lead to incorrect trading decisions and potential financial loss.

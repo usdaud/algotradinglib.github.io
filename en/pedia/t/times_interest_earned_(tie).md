@@ -52,12 +52,11 @@ As of the fiscal year ending in 2022, Apple Inc. reported an EBIT of $128.5 bill
 
 Apple's TIE ratio of 58.41 suggests exceptionally strong [financial health](../f/financial_health.md) and an ability to cover its [interest](../i/interest.md) expenses [multiple](../m/multiple.md) times over. This high ratio is a positive [indicator](../i/indicator.md) for creditors and investors.
 
-For more financial metrics and information about Apple Inc., you can visit their [website](https://www.apple.com).
+For more financial metrics and information about Apple Inc.,
 
 ## Conclusion
 The Times [Interest](../i/interest.md) Earned (TIE) ratio is a vital financial metric that helps assess a company's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). While it provides significant insights into a company's [creditworthiness](../c/creditworthiness.md) and [financial health](../f/financial_health.md), it is essential to consider its limitations and use it alongside other metrics for comprehensive analysis. Understanding and effectively utilizing the TIE ratio can facilitate better decision-making for creditors, investors, and company management.
 
 ## References
-1. Apple Inc. - [Investor Relations](../i/investor_relations.md): https://www.apple.com/[investor](../i/investor.md)/
-2. [Financial Analysis](../f/financial_analysis.md) Techniques - CFA Institute Material
+1. Apple Inc. - [company filings](../i/investor_relations.md)2. [Financial Analysis](../f/financial_analysis.md) Techniques - CFA Institute Material
 3. Intermediate Financial Management - Eugene F. Brigham, Phillip R. Daves

@@ -20,27 +20,27 @@
 #### Key Optimization Techniques in Neural Networks
 
 1. **Hyperparameter Tuning:**
-   - **Learning Rate:** A crucial hyperparameter that controls how much to change the model in response to the estimated error each time the model weights are updated.
-   - **Batch Size:** The number of training examples utilized in one iteration.
-   - **Number of Epochs:** The number of complete passes through the training dataset.
+ - **Learning Rate:** A crucial hyperparameter that controls how much to change the model in response to the estimated error each time the model weights are updated.
+ - **Batch Size:** The number of training examples utilized in one iteration.
+ - **Number of Epochs:** The number of complete passes through the training dataset.
 
 2. **Regularization Techniques:**
-   - **L1 and L2 Regularization:** Techniques to prevent [overfitting](../o/overfitting.md) by penalizing large weights.
-   - **Dropout:** Randomly dropping units (along with their connections) from the neural network during training, which helps to prevent [overfitting](../o/overfitting.md).
+ - **L1 and L2 Regularization:** Techniques to prevent [overfitting](../o/overfitting.md) by penalizing large weights.
+ - **Dropout:** Randomly dropping units (along with their connections) from the neural network during training, which helps to prevent [overfitting](../o/overfitting.md).
 
 3. **[Optimization](../o/optimization.md) Algorithms:**
-   - **[Stochastic Gradient Descent](../s/stochastic_gradient_descent.md) (SGD):** A simple yet efficient [optimization](../o/optimization.md) algorithm for adjusting the weights of the neural network to minimize the loss function.
-   - **Adam (Adaptive Moment Estimation):** An [optimization](../o/optimization.md) algorithm that computes adaptive learning rates for each parameter based on the first and second moments of the gradients.
+ - **[Stochastic Gradient Descent](../s/stochastic_gradient_descent.md) (SGD):** A simple yet efficient [optimization](../o/optimization.md) algorithm for adjusting the weights of the neural network to minimize the loss function.
+ - **Adam (Adaptive Moment Estimation):** An [optimization](../o/optimization.md) algorithm that computes adaptive learning rates for each parameter based on the first and second moments of the gradients.
 
 4. **[Data Normalization](../d/data_normalization.md) and Preprocessing:**
-   - **Scaling Data:** Ensuring that data is normalized helps achieve better convergence during training.
-   - **Feature Engineering:** Extracting relevant features such as moving averages, [volatility](../v/volatility.md), and [momentum indicators](../m/momentum_indicators.md) to improve the input data quality.
+ - **Scaling Data:** Ensuring that data is normalized helps achieve better convergence during training.
+ - **Feature Engineering:** Extracting relevant features such as moving averages, [volatility](../v/volatility.md), and [momentum indicators](../m/momentum_indicators.md) to improve the input data quality.
 
 5. **Cross-Validation:**
-   - **K-Fold Cross-Validation:** Splitting the dataset into K folds and rotating the validation fold to ensure that the model is [robust](../r/robust.md) across different segments of the data.
+ - **K-Fold Cross-Validation:** Splitting the dataset into K folds and rotating the validation fold to ensure that the model is [robust](../r/robust.md) across different segments of the data.
 
 6. **Early Stopping:**
-   - **Validation Performance Monitoring:** Stopping training once the performance on a validation set stops improving to prevent [overfitting](../o/overfitting.md).
+ - **Validation Performance Monitoring:** Stopping training once the performance on a validation set stops improving to prevent [overfitting](../o/overfitting.md).
 
 #### Case Study: Implementation in Algorithmic Trading
 
@@ -58,8 +58,8 @@ Consider implementing an LSTM network for predicting stock prices. The key steps
 
 Several companies and platforms specialize in leveraging neural network [optimization](../o/optimization.md) for trading:
 
-- **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources algorithms from a global community of data scientists. More information can be found on their [website](https://numer.ai).
-- **Kensho Technologies:** Known for their [predictive analytics](../p/predictive_analytics.md) capabilities, Kensho utilizes [machine learning](../m/machine_learning.md) models, including [neural networks](../n/neural_networks_in_trading.md), for [financial analysis](../f/financial_analysis.md). Visit their [website](https://www.kensho.com) for more details.
+- **Numerai:** A [hedge fund](../h/hedge_fund.md) that crowdsources algorithms from a global community of data scientists.
+- **Kensho Technologies:** Known for their [predictive analytics](../p/predictive_analytics.md) capabilities, Kensho utilizes [machine learning](../m/machine_learning.md) models, including [neural networks](../n/neural_networks_in_trading.md), for [financial analysis](../f/financial_analysis.md).
 
 #### Conclusion
 

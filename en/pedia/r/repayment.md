@@ -79,7 +79,7 @@ Governments [issue](../i/issue.md) bonds and other forms of [debt](../d/debt.md)
 
 ### Corporate Repayment Strategy: Apple Inc.
 
-Apple Inc. is known for its [robust](../r/robust.md) [balance sheet](../b/balance_sheet.md), featuring significant cash reserves and manageable [debt](../d/debt.md) levels. The company often issues bonds to [fund](../f/fund.md) stock buybacks and dividends. Apple's strategy includes keeping a large cash reserve to ensure it can meet repayment [obligations](../o/obligation.md) comfortably, maintaining its high [credit rating](../c/credit_rating.md) and [investor](../i/investor.md) confidence. More details can be found on Apple's [Investor Relations Page](https://investor.apple.com/).
+Apple Inc. is known for its [robust](../r/robust.md) [balance sheet](../b/balance_sheet.md), featuring significant cash reserves and manageable [debt](../d/debt.md) levels. The company often issues bonds to [fund](../f/fund.md) stock buybacks and dividends. Apple's strategy includes keeping a large cash reserve to ensure it can meet repayment [obligations](../o/obligation.md) comfortably, maintaining its high [credit rating](../c/credit_rating.md) and [investor](../i/investor.md) confidence.
 
 ### Government Debt Management: United States Treasury
 

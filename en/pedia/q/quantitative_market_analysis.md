@@ -1,6 +1,6 @@
 # Quantitative Market Analysis
 
-Quantitative [Market](../m/market.md) Analysis (QMA) is a data-driven approach to understanding and predicting [market](../m/market.md) movements and trends. It involves the application of statistical models, mathematics, and computational techniques to analyze financial data. This type of analysis is essential for traders, investment managers, and financial analysts who aim to optimize their investment strategies and automate trading processes. 
+Quantitative [Market](../m/market.md) Analysis (QMA) is a data-driven approach to understanding and predicting [market](../m/market.md) movements and trends. It involves the application of statistical models, mathematics, and computational techniques to analyze financial data. This type of analysis is essential for traders, investment managers, and financial analysts who aim to optimize their investment strategies and automate trading processes.
 
 ### Key Components of Quantitative Market Analysis
 
@@ -56,10 +56,8 @@ Several tools and platforms facilitate quantitative [market](../m/market.md) ana
 - **Python and R:** Popular programming languages for statistical analysis and [machine learning](../m/machine_learning.md).
 - **MATLAB:** A high-level language and interactive environment for numerical computation and visualization.
 - **[Bloomberg](../b/bloomberg.md) Terminal:** Provides real-time financial data, news, and analytics.
-- **[QuantConnect](../q/quantconnect.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
-  [QuantConnect](https://www.quantconnect.com)
+- **[StockSharp](../s/stocksharp.md):** An [algorithmic trading](../a/algorithmic_trading.md) platform for designing and testing [trading algorithms](../t/trading_algorithms.md).
 - **[Alpaca](../a/alpaca.md):** An API for [algorithmic trading](../a/algorithmic_trading.md).
-  [Alpaca](https://alpaca.markets)
 
 ### Applications of Quantitative Market Analysis
 
@@ -73,7 +71,7 @@ Several tools and platforms facilitate quantitative [market](../m/market.md) ana
 Portfolio managers use quantitative methods for [asset allocation](../a/asset_allocation.md), [portfolio optimization](../p/portfolio_optimization.md), and [performance attribution](../p/performance_attribution.md). Modern Portfolio Theory (MPT) and the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM) are fundamental principles in quantitative [portfolio management](../p/portfolio_management.md).
 
 **4. [Market Microstructure](../m/market_microstructure.md):**
-Analyzing the fine details of how [market](../m/market.md) transactions occur can reveal insights into [market efficiency](../m/market_efficiency.md), [liquidity](../l/liquidity.md), and the impact of trading on prices. 
+Analyzing the fine details of how [market](../m/market.md) transactions occur can reveal insights into [market efficiency](../m/market_efficiency.md), [liquidity](../l/liquidity.md), and the impact of trading on prices.
 
 **5. [Sentiment Analysis](../s/sentiment_analysis.md):**
 Quantitative analysts use [natural language processing](../n/natural_language_processing_(nlp)_in_trading.md) (NLP) to analyze sentiment from news articles, [social media](../s/social_media.md), and [earnings](../e/earnings.md) calls, integrating this sentiment data into [trading models](../t/trading_models.md).
@@ -99,23 +97,18 @@ Advanced [quantitative models](../q/quantitative_models.md), especially those in
 
 **1. Renaissance Technologies:**
 Renowned for its Medallion [Fund](../f/fund.md), Renaissance Technologies is a pioneer in [quantitative trading](../q/quantitative_trading.md).
-[Renaissance Technologies](https://www.rentec.com)
 
 **2. Two Sigma:**
 A technology-driven [firm](../f/firm.md) specializing in [data science](../d/data_science_in_trading.md) and advanced quantitative techniques.
-[Two Sigma](https://www.twosigma.com)
 
 **3. DE Shaw:**
 Combines [computational finance](../c/computational_finance.md), [quantitative trading](../q/quantitative_trading.md), and technology.
-[DE Shaw](https://www.deshaw.com)
 
 **4. Citadel:**
 One of the largest [hedge](../h/hedge.md) funds globally, employing extensive [quantitative strategies](../q/quantitative_strategies_in_trading.md).
-[Citadel](https://www.citadel.com)
 
 **5. AQR [Capital](../c/capital.md) Management:**
 Widely recognized for its research and implementation of [quantitative investment strategies](../q/quantitative_investment_strategies.md).
-[AQR Capital Management](https://www.aqr.com)
 
 ### Conclusion
 

@@ -115,22 +115,18 @@ Several financial institutions and exchanges dominate the [derivatives](../d/der
 
 ### Chicago Mercantile Exchange (CME Group)
 
-- **Website**: [CME Group](https://www.cmegroup.com)
 - **Description**: CME Group is a leading [derivatives](../d/derivatives.md) marketplace [offering](../o/offering.md) a wide [range](../r/range.md) of products, including [futures](../f/futures.md) and [options](../o/options.md) on [interest](../i/interest.md) rates, [equity](../e/equity.md) indexes, [foreign exchange](../f/foreign_exchange.md), and commodities.
 
 ### Intercontinental Exchange (ICE)
 
-- **Website**: [Intercontinental Exchange](https://www.theice.com)
 - **Description**: ICE operates global exchanges and [clearing](../c/clearing.md) houses and provides data and listings services. Their [derivatives](../d/derivatives.md) products span [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
 
 ### Goldman Sachs
 
-- **Website**: [Goldman Sachs](https://www.goldmansachs.com)
 - **Description**: A major investment [bank](../b/bank.md) involved in [derivatives](../d/derivatives.md) trading, [offering](../o/offering.md) a broad [range](../r/range.md) of [derivative](../d/derivative.md)-related services and products.
 
 ### JPMorgan Chase
 
-- **Website**: [JPMorgan Chase](https://www.jpmorganchase.com)
 - **Description**: A leading global financial services [firm](../f/firm.md) providing [derivatives](../d/derivatives.md) trading and [risk management](../r/risk_management.md) solutions across various markets.
 
 ## Conclusion

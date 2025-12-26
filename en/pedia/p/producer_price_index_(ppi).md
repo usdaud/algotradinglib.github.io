@@ -46,7 +46,7 @@ The PPI is published by national statistical agencies, such as the Bureau of Lab
 
 The BLS PPI program is one of the most comprehensive and widely used sources of producer price data. It covers a broad [range](../r/range.md) of industries and commodities, providing granular insights into price trends across the [economy](../e/economy.md). The program includes a variety of indexes, such as the All Commodities [Index](../i/index_instrument.md), the Finished Goods [Index](../i/index_instrument.md), and the Intermediate Goods [Index](../i/index_instrument.md).
 
-For more information about the BLS PPI program, visit their official website: [BLS PPI Program](https://www.bls.gov/ppi/).
+
 
 ## PPI and Financial Markets
 

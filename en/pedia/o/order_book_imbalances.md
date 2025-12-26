@@ -45,13 +45,13 @@ To effectively analyze [order book](../o/order_book.md) imbalances, traders need
 
 - **[Nasdaq](../n/nasdaq.md) TotalView**: Offers complete depth of book data for [Nasdaq](../n/nasdaq.md), providing insight into all buy and sell orders.
 - **Thomson [Reuters](../r/reuters.md) Elektron**: Provides real-time data feeds critical for professional traders.
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to access historical and [real-time market data](../r/real-time_market_data.md) for [backtesting](../b/backtesting.md) and live trading.
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows users to access historical and [real-time market data](../r/real-time_market_data.md) for [backtesting](../b/backtesting.md) and live trading.
 
 ## Case Studies
 
 ### High-Frequency Trading (HFT) Firms
 
-High-frequency trading firms, such as **Citadel Securities** (https://www.citadelsecurities.com/), utilize [order book](../o/order_book.md) imbalances as one of the many inputs in their [trading algorithms](../t/trading_algorithms.md). Although the precise methods and models used by these firms are proprietary, they often involve statistical analysis and [machine learning](../m/machine_learning.md) techniques to maximize their predictive accuracy.
+High-frequency trading firms, such as **Citadel Securities** ( utilize [order book](../o/order_book.md) imbalances as one of the many inputs in their [trading algorithms](../t/trading_algorithms.md). Although the precise methods and models used by these firms are proprietary, they often involve statistical analysis and [machine learning](../m/machine_learning.md) techniques to maximize their predictive accuracy.
 
 ### Academic Research
 

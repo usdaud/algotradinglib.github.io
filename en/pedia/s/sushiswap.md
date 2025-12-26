@@ -72,5 +72,3 @@ While SushiSwap has achieved considerable success, it faces several challenges a
 Despite these challenges, SushiSwap's future outlook remains positive. The platform's strong community, innovative features, and strategic partnerships position it well for continued growth and success in the DeFi space.
 
 In conclusion, SushiSwap is a prominent decentralized [exchange](../e/exchange.md) that has made significant strides in the DeFi ecosystem. With its unique features, community-driven governance, and focus on [security](../s/security.md), SushiSwap offers a compelling alternative to traditional centralized exchanges and plays a vital role in the ongoing evolution of decentralized [finance](../f/finance.md).
-
-For more information about SushiSwap, you can visit their official website: [SushiSwap](https://sushi.com/)

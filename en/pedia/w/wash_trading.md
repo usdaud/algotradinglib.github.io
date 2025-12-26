@@ -10,9 +10,7 @@
 #### History and Regulation
 The practice of [wash](../w/wash.md) trading has been around since the inception of stock markets. The U.S. Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) and other regulatory bodies around the world have stringent regulations in place to prevent [wash](../w/wash.md) trading. The [Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC) has also played a significant role in curbing [wash](../w/wash.md) trading, particularly in the commodities and [futures](../f/futures.md) markets.
 
-- **SEC:** https://www.sec.gov/
-- **CFTC:** https://www.cftc.gov/
-
+- **SEC:** - **CFTC:**
 #### Mechanism
 A [wash](../w/wash.md) [trade](../t/trade.md) can be executed through various methods, including:
 - **Self-Trading:** This is where the [trader](../t/trader.md) trades with themselves by using [multiple](../m/multiple.md) accounts.
@@ -44,13 +42,11 @@ Increased [transparency](../t/transparency.md) in reporting and data disseminati
 
 #### Stock Markets
 [Wash](../w/wash.md) trading has been more prevalent in the stock markets. Cases involving well-known companies have brought significant attention to this illegal activity. For example:
-- **Case of Harshad Mehta in India:** This involved the infamous [stockbroker](../s/stockbroker.md) engaging in large-scale [wash](../w/wash.md) trading to manipulate stock prices. Source (Reference Article): https://www.moneycontrol.com/news/[business](../b/business.md)/markets/scam-1992-revisiting-mighty-rise-nail-biting-fall-fraudster-harshad-mehta-7402751.html
-
+- **Case of Harshad Mehta in India:** This involved the infamous [stockbroker](../s/stockbroker.md) engaging in large-scale [wash](../w/wash.md) trading to manipulate stock prices. Source (Reference Article)
 #### Cryptocurrency Markets
 In recent years, [wash](../w/wash.md) trading has become increasingly common in cryptocurrency markets due to less stringent regulations and the anonymity offered by these platforms. Studies have shown that a significant portion of the trading [volume](../v/volume.md) in some cryptocurrencies is attributed to [wash](../w/wash.md) trading. For example:
-- **Bitwise [Asset Management](../a/asset_management.md):** Their report to the SEC highlighted that around 95% of [Bitcoin](../b/bitcoin.md) trading [volume](../v/volume.md) claimed by unregulated exchanges was fraudulent or non-economic [wash](../w/wash.md) trading. Source (Bitwise Report): https://www.sec.gov/comments/sr-nysearca-2019-01/nysearca201901-5164833-183434.pdf
-
-### Technological Measures to Combat Wash Trading 
+- **Bitwise [Asset Management](../a/asset_management.md):** Their report to the SEC highlighted that around 95% of [Bitcoin](../b/bitcoin.md) trading [volume](../v/volume.md) claimed by unregulated exchanges was fraudulent or non-economic [wash](../w/wash.md) trading. Source (Bitwise Report)
+### Technological Measures to Combat Wash Trading
 
 #### Machine Learning and AI
 Modern surveillance systems employ [machine learning](../m/machine_learning.md) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) to detect patterns and anomalies that signify [wash](../w/wash.md) trading. These technologies enable:
@@ -67,5 +63,5 @@ In the realm of cryptocurrency and digital assets, [blockchain](../b/blockchain_
 [Wash](../w/wash.md) trading is a serious offense that not only distorts the [market](../m/market.md) but also affects the [trust](../t/trust.md) and integrity of financial systems. With the advent of advanced technology and increased regulatory vigilance, the identification and prevention of [wash](../w/wash.md) trading activities have become more effective. Financial institutions and regulatory bodies must continue to adapt and enhance their surveillance measures to keep pace with evolving [market manipulation](../m/market_manipulation.md) tactics.
 
 For more detailed guidelines on [wash](../w/wash.md) trading and [market manipulation](../m/market_manipulation.md), consult the respective regulatory bodies such as the SEC and CFTC through their official websites:
-- [SEC](https://www.sec.gov)
-- [CFTC](https://www.cftc.gov)
+- SEC
+- CFTC

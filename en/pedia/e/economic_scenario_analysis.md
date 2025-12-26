@@ -77,15 +77,15 @@ Financial institutions are often required to conduct stress tests as part of reg
 
 ### 1. J.P. Morgan Economic Scenario Generator
 
-J.P. Morgan offers an Economic Scenario Generator (ESG) that provides customizable scenarios for [stress testing](../s/stress_testing_in_trading.md) and [risk management](../r/risk_management.md). Their ESG integrates macroeconomic, [market](../m/market.md), and [credit](../c/credit.md) [risk factors](../r/risk_factors_in_trading.md) to create comprehensive economic scenarios. This tool is widely used by financial institutions to enhance their [risk](../r/risk.md) assessment processes. [Learn More](https://www.jpmorgan.com/)
+J.P. Morgan offers an Economic Scenario Generator (ESG) that provides customizable scenarios for [stress testing](../s/stress_testing_in_trading.md) and [risk management](../r/risk_management.md). Their ESG integrates macroeconomic, [market](../m/market.md), and [credit](../c/credit.md) [risk factors](../r/risk_factors_in_trading.md) to create comprehensive economic scenarios. This tool is widely used by financial institutions to enhance their [risk](../r/risk.md) assessment processes. Learn More
 
 ### 2. BlackRock's Scenario Analysis Tools
 
-BlackRock, one of the largest [asset management](../a/asset_management.md) firms, uses sophisticated [scenario analysis](../s/scenario_analysis.md) tools to evaluate the impact of different [economic conditions](../e/economic_conditions.md) on its investment portfolios. Their tools incorporate macroeconomic forecasts and [market](../m/market.md) data to provide actionable insights for [portfolio management](../p/portfolio_management.md). [Learn More](https://www.blackrock.com/)
+BlackRock, one of the largest [asset management](../a/asset_management.md) firms, uses sophisticated [scenario analysis](../s/scenario_analysis.md) tools to evaluate the impact of different [economic conditions](../e/economic_conditions.md) on its investment portfolios. Their tools incorporate macroeconomic forecasts and [market](../m/market.md) data to provide actionable insights for [portfolio management](../p/portfolio_management.md). Learn More
 
 ### 3. Moody's Analytics Scenario Studio
 
-Moody's Analytics offers Scenario Studio, a platform that allows users to create and analyze custom economic scenarios. This platform helps businesses and financial institutions to assess the potential impacts of various [economic conditions](../e/economic_conditions.md) on their operations and investment strategies. [Learn More](https://www.moodysanalytics.com/)
+Moody's Analytics offers Scenario Studio, a platform that allows users to create and analyze custom economic scenarios. This platform helps businesses and financial institutions to assess the potential impacts of various [economic conditions](../e/economic_conditions.md) on their operations and investment strategies. Learn More
 
 ## Future Trends in Economic Scenario Analysis
 

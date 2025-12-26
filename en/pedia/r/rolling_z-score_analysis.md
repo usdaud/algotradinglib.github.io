@@ -81,7 +81,7 @@ Example with [Alpha](../a/alpha.md) Vantage:
 
 api_key = 'YOUR_API_KEY'
 symbol = 'AAPL'
-url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={symbol}&apikey={api_key}&outputsize=full&datatype=csv'
+url = f'
 response = requests.get(url)
 
 with [open](../o/open.md)(f'{symbol}_data.csv', 'wb') as file:
@@ -164,7 +164,7 @@ Example with [Alpaca](../a/alpaca.md):
 
 api_key = 'YOUR_API_KEY'
 api_secret = 'YOUR_API_SECRET'
-base_url = 'https://paper-api.[alpaca](../a/alpaca.md).markets'
+base_url = '
 
 api = tradeapi.REST(api_key, api_secret, base_url, api_version='v2')
 
@@ -175,7 +175,7 @@ print(account)
 # Execute trades based on signals
 for [index](../i/index_instrument.md), row in data.iterrows():
     if row['signal'] == 1:
-        api.submit_order(
+ api.submit_order
             symbol=symbol,
             qty=10,
             side='buy',
@@ -183,7 +183,7 @@ for [index](../i/index_instrument.md), row in data.iterrows():
             time_in_force='gtc'
         )
     elif row['signal'] == -1:
-        api.submit_order(
+ api.submit_order
             symbol=symbol,
             qty=10,
             side='sell',
@@ -208,8 +208,8 @@ Rolling [Z-Score Analysis](../z/z-score_analysis.md) is a powerful statistical t
 
 For further reading and practical implementation examples, consider exploring resources provided by financial data providers and trading platforms mentioned in this document:
 
-- [Alpha Vantage](https://www.alphavantage.co)
-- [Alpaca](https://alpaca.markets)
-- [Interactive Brokers](https://www.interactivebrokers.com)
+- Alpha Vantage
+- Alpaca
+- Interactive Brokers
 
 Rolling [Z-Score Analysis](../z/z-score_analysis.md) continues to be an integral part of [quantitative finance](../q/quantitative_finance.md), helping traders and investors navigate the complexities of [financial markets](../f/financial_market.md).

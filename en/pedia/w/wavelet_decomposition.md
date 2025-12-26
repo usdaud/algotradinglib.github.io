@@ -83,15 +83,12 @@ In Forex trading, wavelet decomposition can be utilized to filter out [market](.
 ### Python Libraries
 
 - **PyWavelets**: An [open](../o/open.md)-source library for [wavelet transform](../w/wavelet_transform_in_trading.md) in Python. It supports a wide [range](../r/range.md) of wavelet families and provides functions for one-dimensional and two-dimensional decomposition.
-  [PyWavelets](https://pywavelets.readthedocs.io/en/latest/)
 
 - **WaveletToolbox**: Another Python-based tool for [wavelet analysis](../w/wavelet_analysis.md) tailored for [signal processing](../s/signal_processing_in_trading.md) applications, often used in financial data analysis.
-  [WaveletToolbox](https://pypi.org/project/WaveletToolbox/)
 
 ### MATLAB
 
 MATLAB provides a comprehensive Wavelet Toolbox that enables users to perform [wavelet analysis](../w/wavelet_analysis.md) on data. It includes functions for continuous and discrete wavelet transforms, wavelet packet decomposition, and denoising.
-[MATLAB Wavelet Toolbox](https://www.mathworks.com/products/wavelet.html)
 
 ## Conclusion
 

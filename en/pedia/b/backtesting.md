@@ -1,6 +1,6 @@
 # Backtesting
 
-Backtesting is a crucial process in the field of [algorithmic trading](../a/algorithmic_trading.md), utilized to evaluate the viability of a [trading strategy](../t/trading_strategy.md) by testing it on historical data. It serves as a preliminary assessment tool, allowing traders and financial analysts to determine how a particular algorithm would have performed in the past, thus providing a foundation for its future application. This process can identify the strengths and weaknesses of a strategy, optimize parameters, and ensure the robustness before actual deployment in live trading. The comprehensive understanding of backtesting involves several key components such as data selection, defining the strategy, setting up the environment, and interpreting the results. 
+Backtesting is a crucial process in the field of [algorithmic trading](../a/algorithmic_trading.md), utilized to evaluate the viability of a [trading strategy](../t/trading_strategy.md) by testing it on historical data. It serves as a preliminary assessment tool, allowing traders and financial analysts to determine how a particular algorithm would have performed in the past, thus providing a foundation for its future application. This process can identify the strengths and weaknesses of a strategy, optimize parameters, and ensure the robustness before actual deployment in live trading. The comprehensive understanding of backtesting involves several key components such as data selection, defining the strategy, setting up the environment, and interpreting the results.
 
 ## Data Selection
 
@@ -24,7 +24,7 @@ A [trading strategy](../t/trading_strategy.md) involves a set of rules and logic
 
 Once the strategy is defined, implementing it in a backtesting environment is the next step. This involves:
 
-- **[Simulation](../s/simulation_in_trading.md) Software**: Specialized backtesting [software platforms](../s/software_platforms_for_trading.md) like MetaTrader, [QuantConnect](../q/quantconnect.md), or custom-built systems in programming languages like Python (using libraries like [Backtrader](../b/backtrader.md) or Zipline).
+- **[Simulation](../s/simulation_in_trading.md) Software**: Specialized backtesting [software platforms](../s/software_platforms_for_trading.md) like MetaTrader, [StockSharp](../s/stocksharp.md), or custom-built systems in programming languages like Python (using libraries like [Backtrader](../b/backtrader.md) or Zipline).
 - **[Trading Costs](../t/trading_costs.md)**: Incorporate realistic assumptions about [trading costs](../t/trading_costs.md), including commissions, [slippage](../s/slippage.md), and [spreads](../s/spreads.md).
 - **Initial [Capital](../c/capital.md)**: Define the starting [capital](../c/capital.md) for the [simulation](../s/simulation_in_trading.md).
 - **Timeframe**: Specify the interval for the backtesting period (e.g., daily, hourly).
@@ -52,18 +52,18 @@ Backtesting is not a one-time process but a continuous cycle of development, tes
 ### Notable Companies and Resources
 
 1. **MetaTrader**: A popular platform for [backtesting trading strategies](../b/backtesting_trading_strategies.md).
-   - [MetaTrader](https://www.metaquotes.net/en/metatrader4)
+ - MetaTrader
 
 2. **[QuantConnect](../q/quantconnect.md)**: Provides an [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform for designing, testing, and deploying strategies.
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 
 3. **[TradingView](../t/tradingview.md)**: Offers charting platform and social network for traders, including backtesting tools.
-   - [TradingView](https://www.tradingview.com/)
+ - TradingView
 
 4. **[Backtrader](../b/backtrader.md)**: A Python library for developing and [backtesting trading strategies](../b/backtesting_trading_strategies.md).
-   - [Backtrader](https://www.backtrader.com/)
+ - Backtrader
 
-5. **Zipline**: Another Python-based backtesting library maintained by Quantopian.
-   - [Zipline](https://www.zipline.io/)
+5. **Zipline**: Another Python-based backtesting library originally developed by Quantopian (ceased operations in 2020), now community-maintained as zipline-reloaded.
+ - Zipline
 
-Through understanding and effectively implementing backtesting, traders can develop insights into the potential future performance of their strategies, identify potential risks, and optimize strategies to enhance profitability and [risk management](../r/risk_management.md).
+Through understanding and effectively implementing backtesting, traders can develop insights into the potential future performance of their strategies, identify potential risks, and optimize strategies to enhance profitability and [risk management](../r/risk_management.md).

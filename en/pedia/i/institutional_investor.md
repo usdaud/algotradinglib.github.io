@@ -48,19 +48,19 @@ Due to their substantial [holdings](../h/holdings.md) in companies, institutiona
 
 ### BlackRock
 BlackRock is the world's largest [asset](../a/asset.md) manager, with trillions of dollars in assets under management. The company offers a wide [range](../r/range.md) of investment products, including mutual funds, ETFs, and alternative investments. BlackRock's investment approach emphasizes long-term [value](../v/value.md) creation and [risk management](../r/risk_management.md) through diversified portfolios.
-Website: [BlackRock](https://www.blackrock.com)
+online platform: BlackRock
 
 ### Vanguard
 Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. The company advocates a passive [investment strategy](../i/investment_strategy.md), encouraging investors to [hold](../h/hold.md) diversified portfolios and minimize trading to reduce costs. Vanguard's emphasis on cost [efficiency](../e/efficiency.md) has made it a popular choice among individual and institutional investors.
-Website: [Vanguard](https://www.vanguard.com)
+online platform: Vanguard
 
 ### Bridgewater Associates
 Bridgewater Associates is a leading [hedge fund](../h/hedge_fund.md) known for its macroeconomic investment approach. The [firm](../f/firm.md) uses a data-driven and systematic process to identify global economic trends and invest accordingly. Bridgewater's flagship [fund](../f/fund.md), Pure [Alpha](../a/alpha.md), aims to generate high [risk](../r/risk.md)-adjusted returns through diversified investments.
-Website: [Bridgewater Associates](https://www.bridgewater.com)
+online platform: Bridgewater Associates
 
 ### Harvard Management Company
 Harvard Management Company manages Harvard University's [endowment](../e/endowment.md), one of the largest in the world. The organization employs a hybrid investment model, combining internal and external management to achieve diversified, long-term returns. Its investment philosophy focuses on maintaining the [purchasing power](../p/purchasing_power.md) of the [endowment](../e/endowment.md) while supporting the university's mission.
-Website: [Harvard Management Company](https://www.hmc.harvard.edu)
+online platform: Harvard Management Company
 
 ## Challenges Faced by Institutional Investors
 

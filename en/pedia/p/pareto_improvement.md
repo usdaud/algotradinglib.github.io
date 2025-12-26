@@ -28,7 +28,7 @@ The [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) posits th
 
 - **[Trading Strategies](../t/trading_strategies.md)**: Traders develop strategies to identify mispriced assets, and through trading, push the prices to their [fair value](../f/fair_value.md). This not only benefits the traders but also enhances [market efficiency](../m/market_efficiency.md), making it a Pareto improvement.
 
-- **[Algorithmic Trading](../a/accountability.md)**: For those engaged in [algorithmic trading](../a/accountability.md), ensuring trades result in Pareto improvements is critical. Algorithms can be designed to identify and execute trades that maximize gains without imposing losses on other [market](../m/market.md) participants, maintaining [market](../m/market.md) harmony.
+- **[Algorithmic Trading](../a/algorithmic_trading.md)**: For those engaged in [algorithmic trading](../a/algorithmic_trading.md), ensuring trades result in Pareto improvements is critical. Algorithms can be designed to identify and execute trades that maximize gains without imposing losses on other [market](../m/market.md) participants, maintaining [market](../m/market.md) harmony.
 
 ### Risk Management
 
@@ -62,4 +62,4 @@ While the concept of Pareto improvement is fundamentally appealing, it is not wi
 
 Pareto improvement remains a pivotal concept in economic theory, [financial markets](../f/financial_market.md), and policy-making. It offers a [benchmark](../b/benchmark.md) for evaluating the [efficiency](../e/efficiency.md) of resource allocation and the efficacy of [market](../m/market.md) mechanisms in improving [welfare](../w/welfare.md). However, it must be applied with caution, considering its limitations and the broader context of [equity](../e/equity.md) and fairness. Understanding and leveraging Pareto improvements can lead to more efficient and effective economic and financial systems, providing benefits to all involved parties.
 
-For further reading on this concept, you may explore [Pareto Efficiency](https://www.investopedia.com/terms/p/pareto-efficiency.asp) and [Pareto Improvement](https://www.investopedia.com/terms/p/pareto-improvement.asp) on Investopedia or through academic literature on [welfare economics](../w/welfare_economics.md) and [game theory](../g/game_theory.md).
+For further reading on this concept, you may explore Pareto Efficiency and Pareto Improvement on Investopedia or through academic literature on [welfare economics](../w/welfare_economics.md) and [game theory](../g/game_theory.md).

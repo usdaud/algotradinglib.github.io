@@ -1,14 +1,14 @@
 # Rebate
 
-A rebate in the context of [finance](../f/finance.md) and trading refers to a [return](../r/return.md) of part of the original [payment](../p/payment.md) for some service or merchandise, typically given as an incentive for buying or [investing](../i/investing.md). Rebates are commonly used in [financial markets](../f/financial_market.md) for promoting certain activities (such as increasing trading volumes) and can be structured in various ways such as direct payments, reductions on future costs, or other financial incentives. This article [will](../w/will.md) dive deeply into the concept of rebates, their applications in trading, particularly in [algorithmic trading](../a/accountability.md) and the fintech [industry](../i/industry.md), and highlight examples with potential benefits and criticisms.
+A rebate in the context of [finance](../f/finance.md) and trading refers to a [return](../r/return.md) of part of the original [payment](../p/payment.md) for some service or merchandise, typically given as an incentive for buying or [investing](../i/investing.md). Rebates are commonly used in [financial markets](../f/financial_market.md) for promoting certain activities (such as increasing trading volumes) and can be structured in various ways such as direct payments, reductions on future costs, or other financial incentives. This article [will](../w/will.md) dive deeply into the concept of rebates, their applications in trading, particularly in [algorithmic trading](../a/algorithmic_trading.md) and the fintech [industry](../i/industry.md), and highlight examples with potential benefits and criticisms.
 
 ## Overview of Rebates
 
-Rebates are often used as a tool to incentivize participation in markets. By [offering](../o/offering.md) rebates, exchanges, brokers, and other financial institutions can attract traders, increase [liquidity](../l/liquidity.md), and ultimately enhance the [market](../m/market.md)'s [efficiency](../e/efficiency.md). 
+Rebates are often used as a tool to incentivize participation in markets. By [offering](../o/offering.md) rebates, exchanges, brokers, and other financial institutions can attract traders, increase [liquidity](../l/liquidity.md), and ultimately enhance the [market](../m/market.md)'s [efficiency](../e/efficiency.md).
 
 ### Business Rebate Programs
 
-In general [business](../b/business.md) practices, rebates might be used to encourage customers to purchase more products, increase [brand loyalty](../b/brand_loyalty.md), or clear out [inventory](../i/inventory.md). The rebate might be a direct cashback [offer](../o/offer.md) or a [discount](../d/discount.md) on future purchases. 
+In general [business](../b/business.md) practices, rebates might be used to encourage customers to purchase more products, increase [brand loyalty](../b/brand_loyalty.md), or clear out [inventory](../i/inventory.md). The rebate might be a direct cashback [offer](../o/offer.md) or a [discount](../d/discount.md) on future purchases.
 
 ### Financial Markets Rebates
 
@@ -26,7 +26,7 @@ A very popular model that incorporates [transaction](../t/transaction.md) [fee](
 
 #### Example: NASDAQ Rebate Program
 
-[NASDAQ](../n/nasdaq.md), one of the world's largest stock exchanges, operates under a maker-taker [fee](../f/fee.md) model where [liquidity](../l/liquidity.md)-providing orders receive rebates. More details about [NASDAQ](../n/nasdaq.md)'s rebate structure can be found on their [official website](https://www.nasdaqtrader.com/).
+[NASDAQ](../n/nasdaq.md), one of the world's largest stock exchanges, operates under a maker-taker [fee](../f/fee.md) model where [liquidity](../l/liquidity.md)-providing orders receive rebates. More details about [NASDAQ](../n/nasdaq.md)'s
 
 ### Commission Rebates
 
@@ -42,7 +42,7 @@ Brokers might [offer](../o/offer.md) [commission](../c/commission.md) rebates to
 
 ## Algorithmic Trading and Rebates
 
-[Algorithmic trading](../a/accountability.md), which involves the use of computer algorithms to automate trading activities, heavily relies on rebates, especially [transaction](../t/transaction.md) [fee](../f/fee.md) rebates.
+[Algorithmic trading](../a/algorithmic_trading.md), which involves the use of computer algorithms to automate trading activities, heavily relies on rebates, especially [transaction](../t/transaction.md) [fee](../f/fee.md) rebates.
 
 ### Reducing Transaction Costs
 
@@ -58,7 +58,7 @@ Algorithms that execute large orders over time might also be structured to maxim
 
 ### Example: Tradebot Systems
 
-Tradebot Systems is an example of a company that employs advanced algorithmic strategies to capture rebates and enhance trading [efficiency](../e/efficiency.md). Details about their approach can be found on their [official site](http://www.tradebotsystems.com/).
+Tradebot Systems is an example of a company that employs advanced algorithmic strategies to capture rebates and enhance trading [efficiency](../e/efficiency.md). Details about their approach can be found on their public materials.
 
 ## Rebates in Fintech
 
@@ -78,7 +78,7 @@ Cryptocurrency exchanges frequently employ maker-taker [fee](../f/fee.md) models
 
 #### Example: Binance Rebate Scheme
 
-[Binance](../b/binance.md), one of the largest cryptocurrency exchanges, has a tiered [fee](../f/fee.md) structure with rebates for [liquidity](../l/liquidity.md) providers. More information can be accessed via their [fee structure page](https://www.binance.com/en/fee/schedule).
+[Binance](../b/binance.md), one of the largest cryptocurrency exchanges, has a tiered [fee](../f/fee.md) structure with rebates for [liquidity](../l/liquidity.md) providers. More information can be accessed.
 
 ## Benefits of Rebates
 

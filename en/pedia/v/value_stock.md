@@ -14,7 +14,7 @@ A [value](../v/value.md) stock is a [security](../s/security.md) trading at a lo
 
 ## Value Investing Strategy
 
-**[Value investing](../v/value_investing.md)** is a strategy that involves selecting [stocks](../s/stock.md) that appear to be trading for less than their intrinsic or [book value](../b/book_value.md). It focuses on big-picture fundamentals rather than short-term [market](../m/market.md) fluctuations. Investors who follow this strategy look for [stocks](../s/stock.md) that have good fundamentals but are [undervalued](../u/undervalued.md) by the [market](../m/market.md). 
+**[Value investing](../v/value_investing.md)** is a strategy that involves selecting [stocks](../s/stock.md) that appear to be trading for less than their intrinsic or [book value](../b/book_value.md). It focuses on big-picture fundamentals rather than short-term [market](../m/market.md) fluctuations. Investors who follow this strategy look for [stocks](../s/stock.md) that have good fundamentals but are [undervalued](../u/undervalued.md) by the [market](../m/market.md).
 
 ### Key Components:
 
@@ -29,13 +29,13 @@ A [value](../v/value.md) stock is a [security](../s/security.md) trading at a lo
 
 Warren Buffett, often called the "[Oracle of Omaha](../o/oracle_of_omaha.md)," is perhaps the most famous [value](../v/value.md) [investor](../i/investor.md). As the chairman and CEO of [Berkshire Hathaway](../b/berkshire_hathaway.md), Buffett has a long-standing track record of identifying [undervalued](../u/undervalued.md) companies and holding them for the long term.
 
-**Website**: [Berkshire Hathaway](https://www.berkshirehathaway.com/)
+**online platform**: Berkshire Hathaway
 
 ### Benjamin Graham
 
 Known as the "Father of [Value Investing](../v/value_investing.md)," [Benjamin Graham](../b/benjamin_graham.md) authored foundational texts such as "The Intelligent [Investor](../i/investor.md)" and "[Security Analysis](../s/security_analysis.md)." His principles focus on the [intrinsic value](../i/intrinsic_value.md) of a company and [margin of safety](../m/margin_of_safety.md).
 
-**Website**: [Benjamin Graham](https://www.benjamengraham.com/)
+**online platform**: Benjamin Graham
 
 ## Risk Factors
 
@@ -88,25 +88,25 @@ Beyond numbers, qualitative assessments are crucial:
 
 A powerful tool that offers [real-time market data](../r/real-time_market_data.md), news, and analytics. It provides an extensive [range](../r/range.md) of screening functionalities essential for [value](../v/value.md) investors.
 
-**Website**: [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+**online platform**: Bloomberg
 
 ### Morningstar
 
 A research and investment [firm](../f/firm.md) providing comprehensive information on [stocks](../s/stock.md), mutual funds, and ETFs. [Morningstar](../m/morningstar.md) ratings and analyst reports are widely used in the investment community.
 
-**Website**: [Morningstar](https://www.morningstar.com/)
+**online platform**: Morningstar
 
 ### Yahoo Finance
 
 An accessible and free tool that offers financial news, data, and commentary including stock quotes, press releases, and financial reports.
 
-**Website**: [Yahoo Finance](https://finance.yahoo.com/)
+**online platform**: Yahoo Finance
 
 ### Value Line
 
 Provides a comprehensive, multifaceted cover of around 1,700 [stocks](../s/stock.md) across 90 industries. It's beneficial for individual [stock analysis](../s/stock_analysis.md) and investment decision-making.
 
-**Website**: [Value Line](https://www.valueline.com/)
+**online platform**: Value Line
 
 ## Examples of Historical Value Stock Opportunities
 

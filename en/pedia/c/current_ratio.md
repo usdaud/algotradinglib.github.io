@@ -85,17 +85,14 @@ Company management uses the current ratio to make informed decisions about manag
 ## Examples of Companies and Their Current Ratios
 
 ### Apple Inc. (as of their latest financial statements)
-[Apple Investor Relations](https://investor.apple.com/)
 
 Apple Inc.'s current ratio over recent years signifies their strong [liquidity](../l/liquidity.md) position due to significant cash reserves and efficient [inventory management](../i/inventory_management.md).
 
 ### Amazon.com Inc. (as of their latest financial statements)
-[Amazon Investor Relations](https://ir.aboutamazon.com/)
 
 Amazon, operating with a relatively lower current ratio compared to tech peers, reflects their efficient [working capital management](../w/working_capital_management.md) and high [inventory turnover](../i/inventory_turnover.md).
 
 ### Tesla Inc. (as of their latest financial statements)
-[Tesla Investor Relations](https://ir.tesla.com/)
 
 Tesla's current ratio helps stakeholders understand their balance between growth, cash reserves, and short-term [obligations](../o/obligation.md) amidst their rapid [business](../b/business.md) [expansion](../e/expansion.md).
 

@@ -4,7 +4,7 @@ An international [bond](../b/bond.md) is a [debt security](../d/debt_security.md
 
 ## Definition and Overview
 
-International bonds are a subset of the larger [bond market](../b/bond_market.md) where issuers seek to raise [capital](../c/capital.md) outside their [home](../h/home.md) country. These bonds are typically aimed at investors who are foreign to the [issuer](../i/issuer.md)'s [home](../h/home.md) [market](../m/market.md). The primary reasons for issuing in a foreign [market](../m/market.md) include [capital](../c/capital.md) [diversification](../d/diversification.md), lower [interest](../i/interest.md) costs, and tapping into new pools of [capital](../c/capital.md). 
+International bonds are a subset of the larger [bond market](../b/bond_market.md) where issuers seek to raise [capital](../c/capital.md) outside their [home](../h/home.md) country. These bonds are typically aimed at investors who are foreign to the [issuer](../i/issuer.md)'s [home](../h/home.md) [market](../m/market.md). The primary reasons for issuing in a foreign [market](../m/market.md) include [capital](../c/capital.md) [diversification](../d/diversification.md), lower [interest](../i/interest.md) costs, and tapping into new pools of [capital](../c/capital.md).
 
 ### Key Characteristics
 
@@ -17,13 +17,13 @@ International bonds are a subset of the larger [bond market](../b/bond_market.md
 International bonds can be broadly categorized into several types based on issuance and trading locations:
 
 1. **[Eurobond](../e/eurobond.md)**: These are bonds issued in a [currency](../c/currency.md) not native to the country where it is issued. They are typically issued and traded internationally, not restrained to specific countries. For example, a [Eurodollar](../e/eurodollar.md) [bond](../b/bond.md) is issued in U.S. dollars outside the United States.
-   
-   - *example*: An American [corporation](../c/corporation.md) issues a [bond](../b/bond.md) denominated in euros in Paris.
+
+ - *example*: An American [corporation](../c/corporation.md) issues a [bond](../b/bond.md) denominated in euros in Paris.
 
 2. **Foreign [Bond](../b/bond.md)**: Bonds issued in a foreign country by a single entity or [corporation](../c/corporation.md) in that foreign country's [currency](../c/currency.md). Some common terminologies are:
-    - **[Yankee Bond](../y/yankee_bond.md)**: Issued in the U.S. by foreign entities.
-    - **[Samurai Bond](../s/samurai_bond.md)**: Issued in Japan by non-Japanese companies.
-    - **Bulldog [Bond](../b/bond.md)**: Issued in the U.K. by non-British entities.
+ - **[Yankee Bond](../y/yankee_bond.md)**: Issued in the U.S. by foreign entities.
+ - **[Samurai Bond](../s/samurai_bond.md)**: Issued in Japan by non-Japanese companies.
+ - **Bulldog [Bond](../b/bond.md)**: Issued in the U.K. by non-British entities.
 
 3. **[Global Bond](../g/global_bond.md)**: These bonds are similar to Eurobonds but are tradeable in [multiple](../m/multiple.md) [financial markets](../f/financial_market.md) around the world. They are suitable for major [market](../m/market.md) players who require high [liquidity](../l/liquidity.md).
 
@@ -37,7 +37,7 @@ International bonds can be broadly categorized into several types based on issua
 
 1. **[Diversification](../d/diversification.md)**: Investors can diversify their portfolios across different regions and currencies.
 2. **[Yield](../y/yield.md) Opportunities**: Higher yields might be possible due to [interest rate](../i/interest_rate.md) differentials between countries.
-3. **[Risk Management](../r/risk_management.md)**: Helps in managing [currency](../c/currency.md) [risk](../r/risk.md) if strategically chosen. 
+3. **[Risk Management](../r/risk_management.md)**: Helps in managing [currency](../c/currency.md) [risk](../r/risk.md) if strategically chosen.
 
 ## Risks Involved
 
@@ -50,11 +50,11 @@ International bonds can be broadly categorized into several types based on issua
 
 ### Examples of Prominent International Bonds and Issuers
 
-1. **The [World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) regularly issues bonds to [fund](../f/fund.md) developmental projects around the globe. These bonds are [market](../m/market.md)-[weighted](../w/weighted.md) and often highly rated. [Link](https://www.worldbank.org)
+1. **The [World Bank](../w/world_bank.md)**: The [World Bank](../w/world_bank.md) regularly issues bonds to [fund](../f/fund.md) developmental projects around the globe. These bonds are [market](../m/market.md)-[weighted](../w/weighted.md) and often highly rated. Link
 
-2. **Apple Inc.**: Apple has been known to [issue](../i/issue.md) Eurobonds as a means to [finance](../f/finance.md) its operations at beneficial [interest](../i/interest.md) rates. [Link](https://www.apple.com)
+2. **Apple Inc.**: Apple has been known to [issue](../i/issue.md) Eurobonds as a means to [finance](../f/finance.md) its operations at beneficial [interest](../i/interest.md) rates. Link
 
-3. **Toyota Motor [Corporation](../c/corporation.md)**: Regularly utilizes Samurai bonds to raise [capital](../c/capital.md) in Japan's markets. [Link](https://www.toyota-global.com)
+3. **Toyota Motor [Corporation](../c/corporation.md)**: Regularly utilizes Samurai bonds to raise [capital](../c/capital.md) in Japan's markets. Link
 
 ### Strategic Utilization
 

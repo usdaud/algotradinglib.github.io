@@ -18,7 +18,7 @@
 
 ### Components of Underwriting Standards
 
-**[Credit](../c/credit.md) [Underwriting](../u/underwriting.md)**: 
+**[Credit](../c/credit.md) [Underwriting](../u/underwriting.md)**:
 
 [Credit](../c/credit.md) [underwriting](../u/underwriting.md) involves mechanisms and strategies to determine a borrower’s ability to repay a [loan](../l/loan.md). The essential components include:
 
@@ -28,7 +28,7 @@
 - **[Debt](../d/debt.md)-to-[Income](../i/income.md) (DTI) Ratio**: Calculating the percentage of the borrower’s monthly [income](../i/income.md) that goes towards paying debts, helping lenders assess if an applicant has sufficient [income](../i/income.md) to manage additional [debt](../d/debt.md).
 - **[Credit](../c/credit.md) History**: Reviewing past borrowing behavior, including the applicant’s record of timely payments, defaults, and existing levels of indebtedness.
 
-**[Insurance](../i/insurance.md) [Underwriting](../u/underwriting.md)**: 
+**[Insurance](../i/insurance.md) [Underwriting](../u/underwriting.md)**:
 
 [Insurance](../i/insurance.md) [underwriting](../u/underwriting.md) evaluates the [risk](../r/risk.md) associated with providing [insurance](../i/insurance.md) coverage. Important components include:
 
@@ -37,7 +37,7 @@
 - **Policy Exclusions and Limits**: Defining what is not covered under the policy and setting limits to the benefits payable.
 - **Claims History**: Reviewing past claims made by the applicant to predict future claims behavior.
 
-**Securities [Underwriting](../u/underwriting.md)**: 
+**Securities [Underwriting](../u/underwriting.md)**:
 
 Securities [underwriting](../u/underwriting.md) involves [underwriting](../u/underwriting.md) public offerings and private placements by evaluating the viability of issuing [equity](../e/equity.md) or [debt](../d/debt.md) securities. Key components include:
 
@@ -79,10 +79,10 @@ Consider a scenario where an individual applies for a [home mortgage](../h/home_
 2. **Application Submission**: The applicant submits a [mortgage](../m/mortgage.md) application along with required documents like W-2s, tax returns, [bank](../b/bank.md) statements, employment verification, and the details of the property to be mortgaged.
 
 3. **Verification and [Risk](../r/risk.md) Assessment**:
-    - The [lender](../l/lender.md) obtains a [credit report](../c/credit_report.md) to evaluate the applicant’s [credit score](../c/credit_score.md) and history.
-    - [Income](../i/income.md) is verified through employer contacts or other means.
-    - The property is appraised to determine its [market value](../m/market_value.md).
-    - An analysis of DTI ratio is performed to ensure the applicant is not over-leveraged.
+ - The [lender](../l/lender.md) obtains a [credit report](../c/credit_report.md) to evaluate the applicant’s [credit score](../c/credit_score.md) and history.
+ - [Income](../i/income.md) is verified through employer contacts or other means.
+ - The property is appraised to determine its [market value](../m/market_value.md).
+ - An analysis of DTI ratio is performed to ensure the applicant is not over-leveraged.
 
 4. **Decision Making**: Based on the gathered information, the [underwriter](../u/underwriter.md) evaluates whether the applicant meets the lending criteria. Let’s assume the applicant has a high [credit score](../c/credit_score.md) of 750, stable employment, and a DTI ratio of 28%. The property [appraisal](../a/appraisal.md) confirms the [market value](../m/market_value.md) aligns with the requested [loan](../l/loan.md) amount.
 

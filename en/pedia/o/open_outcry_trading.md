@@ -58,11 +58,11 @@ While the prevalence of [Open Outcry](../o/open_outcry.md) Trading has significa
 
 ### Chicago Mercantile Exchange (CME)
 
-The CME Group, known for its rich history in [Open Outcry](../o/open_outcry.md) Trading, still operates some trading pits in Chicago. These pits are primarily used for trading [options](../o/options.md) on [futures contracts](../f/futures_contracts.md). More information can be found on their official website: [CME Group](https://www.cmegroup.com/).
+The CME Group, known for its rich history in [Open Outcry](../o/open_outcry.md) Trading, still operates some trading pits in Chicago. These pits are primarily used for trading [options](../o/options.md) on [futures contracts](../f/futures_contracts.md).
 
 ### London Metal Exchange (LME)
 
-Another notable example is the London Metal [Exchange](../e/exchange.md) (LME), which maintains an active trading ring for metals. The LME's trading ring is a unique venue where traders still use [Open Outcry](../o/open_outcry.md) to engage in transactions. Visit the LME official website for more details: [LME](https://www.lme.com/).
+Another notable example is the London Metal [Exchange](../e/exchange.md) (LME), which maintains an active trading ring for metals. The LME's trading ring is a unique venue where traders still use [Open Outcry](../o/open_outcry.md) to engage in transactions.
 
 ### Cultural and Educational Value
 

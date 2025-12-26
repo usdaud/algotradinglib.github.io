@@ -46,7 +46,6 @@ The overall [duration](../d/duration.md) of the portfolio is the [weighted](../w
 \[
 D_p = \sum_{i=1}^{n} w_i \cdot D_i
 \]
-where
 - \(D_p\) is the [duration](../d/duration.md) of the portfolio,
 - \(w_i\) is the weight of the \(i\)-th [bond](../b/bond.md) in the portfolio,
 - \(D_i\) is the [duration](../d/duration.md) of the \(i\)-th [bond](../b/bond.md).
@@ -60,7 +59,6 @@ Immunization is most effective against small, parallel shifts in the [yield curv
 \[
 C = \frac{1}{P} \cdot \sum_{t=1}^n \frac{CF_t \cdot (t + 1) \cdot t}{(1 + y)^{t + 2}}
 \]
-where
 - \(C\) is the [convexity](../c/convexity.md),
 - \(P\) is the [bond](../b/bond.md) price,
 - \(CF_t\) is the [cash flow](../c/cash_flow.md) at time \(t\),
@@ -87,16 +85,16 @@ Different [yield curve](../y/yield_curve.md) shapes, such as steepening, flatten
 Institutions such as pension funds, [insurance](../i/insurance.md) companies, and financial advisors frequently employ [bond](../b/bond.md) immunization to meet [long-term liabilities](../l/long-term_liabilities.md) and manage [interest rate risk](../i/interest_rate_risk.md). These organizations often have predictable [cash flow](../c/cash_flow.md) needs, making immunization a suitable strategy.
 
 ### Examples of Companies Providing Bond Immunization Services
-1. **PIMCO** offers various fixed-[income](../i/income.md) strategies, including immunization portfolios, to [hedge](../h/hedge.md) [interest rate risk](../i/interest_rate_risk.md) [PIMCO](https://www.pimco.com).
-2. **BlackRock** provides tailored [bond](../b/bond.md) immunization solutions as part of its [risk management](../r/risk_management.md) and fixed-[income](../i/income.md) products [BlackRock](https://www.blackrock.com).
-3. **Vanguard** features [bond](../b/bond.md) funds and strategies that include immunization techniques to manage [interest rate](../i/interest_rate.md) risks for investors [Vanguard](https://investor.vanguard.com).
-4. **Fidelity** delivers customized [investing](../i/investing.md) strategies focusing on immunization for individual and institutional investors [Fidelity](https://www.fidelity.com).
+1. **PIMCO** offers various fixed-[income](../i/income.md) strategies, including immunization portfolios, to [hedge](../h/hedge.md) [interest rate risk](../i/interest_rate_risk.md) PIMCO.
+2. **BlackRock** provides tailored [bond](../b/bond.md) immunization solutions as part of its [risk management](../r/risk_management.md) and fixed-[income](../i/income.md) products BlackRock.
+3. **Vanguard** features [bond](../b/bond.md) funds and strategies that include immunization techniques to manage [interest rate](../i/interest_rate.md) risks for investors Vanguard.
+4. **Fidelity** delivers customized [investing](../i/investing.md) strategies focusing on immunization for individual and institutional investors Fidelity.
 
 ### Software and Analytical Tools
 Advanced software and analytical tools are available to assist investors in [bond](../b/bond.md) immunization. These tools [offer](../o/offer.md) sophisticated models to calculate [duration](../d/duration.md), [convexity](../c/convexity.md), and other necessary metrics, allowing for dynamic portfolio adjustments.
-1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive analytics for [bond portfolio management](../b/bond_portfolio_management.md), including immunization calculations [Bloomberg](https://www.bloomberg.com).
-2. **[Morningstar](../m/morningstar.md) Direct**: Offers fixed-[income](../i/income.md) tools for assessing [portfolio duration](../p/portfolio_duration.md) and implementing immunization strategies [Morningstar Direct](https://www.morningstar.com/products/direct).
-3. **[FactSet](../f/factset.md)**: Delivers integrated tools for [bond](../b/bond.md) analysis, [portfolio management](../p/portfolio_management.md), and implementing immunization strategies [FactSet](https://www.factset.com).
+1. **[Bloomberg](../b/bloomberg.md) Terminal**: Provides comprehensive analytics for [bond portfolio management](../b/bond_portfolio_management.md), including immunization calculations Bloomberg.
+2. **[Morningstar](../m/morningstar.md) Direct**: Offers fixed-[income](../i/income.md) tools for assessing [portfolio duration](../p/portfolio_duration.md) and implementing immunization strategies Morningstar Direct.
+3. **[FactSet](../f/factset.md)**: Delivers integrated tools for [bond](../b/bond.md) analysis, [portfolio management](../p/portfolio_management.md), and implementing immunization strategies FactSet.
 
 ## Conclusion
-[Bond](../b/bond.md) immunization is a powerful strategy for managing [interest rate risk](../i/interest_rate_risk.md) and ensuring that investment objectives are met. By carefully structuring a [bond](../b/bond.md) portfolio to match the [duration](../d/duration.md) to the [investment horizon](../i/investment_horizon.md), investors can effectively neutralize the effects of [interest rate](../i/interest_rate.md) fluctuations. While it requires careful planning, regular [rebalancing](../r/rebalancing.md), and the use of sophisticated tools, [bond](../b/bond.md) immunization remains a cornerstone technique for conservative investors seeking predictable, long-term returns.
+[Bond](../b/bond.md) immunization is a powerful strategy for managing [interest rate risk](../i/interest_rate_risk.md) and ensuring that investment objectives are met. By carefully structuring a [bond](../b/bond.md) portfolio to match the [duration](../d/duration.md) to the [investment horizon](../i/investment_horizon.md), investors can effectively neutralize the effects of [interest rate](../i/interest_rate.md) fluctuations. While it requires careful planning, regular [rebalancing](../r/rebalancing.md), and the use of sophisticated tools, [bond](../b/bond.md) immunization remains a cornerstone technique for conservative investors seeking predictable, long-term returns.

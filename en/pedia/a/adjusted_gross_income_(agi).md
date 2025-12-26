@@ -47,7 +47,7 @@ The process of calculating AGI involves several steps:
 2. **Subtract Adjustments**: Deduct all applicable above-the-line adjustments from the [gross income](../g/gross_income.md).
 3. **Determine AGI**: The result after subtracting adjustments from [gross income](../g/gross_income.md) is the AGI.
 
-The IRS provides tools and publications, such as the [IRS Form 1040](https://www.irs.gov/forms-pubs/about-form-1040), to assist in the accurate calculation of AGI.
+The IRS provides tools and publications, such as the IRS Form 1040, to assist in the accurate calculation of AGI.
 
 ### Implications of AGI
 

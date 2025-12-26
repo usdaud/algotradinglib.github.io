@@ -55,7 +55,7 @@ An [open](../o/open.md) [offer](../o/offer.md) can also serve as a tool to bolst
 
 ### Case Study: TUI AG Open Offer
 
-TUI AG, a Germany-based multinational travel and tourism company, announced an [open](../o/open.md) [offer](../o/offer.md) in 2020 as part of its financial strategy to navigate through the economic impact of the COVID-19 pandemic. The [offer](../o/offer.md) aimed to raise significant [capital](../c/capital.md) to enhance [liquidity](../l/liquidity.md) and strengthen its [balance sheet](../b/balance_sheet.md) during the crisis. Shareholders were offered the right to subscribe to new [shares](../s/shares.md) at a [discount](../d/discount.md), ensuring that those opting in could maintain their ownership levels. For more details, you can [check](../c/check.md) their official site: [TUI Group](https://www.tuigroup.com).
+TUI AG, a Germany-based multinational travel and tourism company, announced an [open](../o/open.md) [offer](../o/offer.md) in 2020 as part of its financial strategy to navigate through the economic impact of the COVID-19 pandemic. The [offer](../o/offer.md) aimed to raise significant [capital](../c/capital.md) to enhance [liquidity](../l/liquidity.md) and strengthen its [balance sheet](../b/balance_sheet.md) during the crisis. Shareholders were offered the right to subscribe to new [shares](../s/shares.md) at a [discount](../d/discount.md), ensuring that those opting in could maintain their ownership levels. For more details, you can [check](../c/check.md) their public materials: TUI Group.
 
 ## Conclusion
 

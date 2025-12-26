@@ -116,7 +116,7 @@ Rights issues allow existing shareholders to purchase additional shares at a dis
 
 ### Quantitative Analysis
 
-[Quantitative analysis](../q/quantitative_analysis.md) involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to analyze financial data. It is particularly useful for [algorithmic trading](../a/accountability.md), where automated systems execute trades based on pre-defined criteria.
+[Quantitative analysis](../q/quantitative_analysis.md) involves the use of [mathematical models](../m/mathematical_models_in_trading.md) and statistical techniques to analyze financial data. It is particularly useful for [algorithmic trading](../a/algorithmic_trading.md), where automated systems execute trades based on pre-defined criteria.
 
 ## Shareholders vs. Bondholders
 
@@ -152,7 +152,7 @@ Different countries have their regulatory bodies overseeing securities markets. 
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) utilizes complex algorithms to execute trades at high speeds and volumes. These systems can analyze [multiple](../m/multiple.md) indicators and execute trades more efficiently than human traders.
+[Algorithmic trading](../a/algorithmic_trading.md) utilizes complex algorithms to execute trades at high speeds and volumes. These systems can analyze [multiple](../m/multiple.md) indicators and execute trades more efficiently than human traders.
 
 ### Blockchain and Tokenization
 
@@ -176,12 +176,12 @@ FinTech platforms like [Robinhood](../r/robinhood.md) and [E*TRADE](../e/e_trade
 
 ## Conclusion
 
-Shares represent a critical component of modern [financial markets](../f/financial_market.md), [offering](../o/offering.md) a pathway for individuals to own a part of corporations and [profit](../p/profit.md) from their growth. Understanding the various types of shares, their [valuation](../v/valuation.md), [investor](../i/investor.md) rights, and risks is essential for making informed investment decisions. As technology evolves, innovations like [algorithmic trading](../a/accountability.md), [blockchain](../b/blockchain_in_trading.md) technology, and FinTech platforms [will](../w/will.md) continue to reshape the landscape, making share [investing](../i/investing.md) more accessible and efficient.
+Shares represent a critical component of modern [financial markets](../f/financial_market.md), [offering](../o/offering.md) a pathway for individuals to own a part of corporations and [profit](../p/profit.md) from their growth. Understanding the various types of shares, their [valuation](../v/valuation.md), [investor](../i/investor.md) rights, and risks is essential for making informed investment decisions. As technology evolves, innovations like [algorithmic trading](../a/algorithmic_trading.md), [blockchain](../b/blockchain_in_trading.md) technology, and FinTech platforms [will](../w/will.md) continue to reshape the landscape, making share [investing](../i/investing.md) more accessible and efficient.
 
 ---
 
 For additional information, consider visiting the following sites:
-- [NASDAQ](https://www.nasdaq.com/)
-- [NYSE](https://www.nyse.com/)
-- [Robinhood](https://www.robinhood.com/)
-- [E*TRADE](https://us.etrade.com/home)
+- NASDAQ
+- NYSE
+- Robinhood
+- E*TRADE

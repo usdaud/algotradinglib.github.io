@@ -68,53 +68,53 @@ Regulatory [basis](../b/basis.md) [accounting](../a/accounting.md) is employed b
 The adoption of OCBOA requires careful consideration of the entity's specific needs, regulatory environment, and [stakeholder](../s/stakeholder.md) requirements. The following steps can guide the implementation process:
 
 1. **Assess Needs and Objectives**
-   - Evaluate the entity's operational needs and the objectives of financial reporting.
-   - Determine [stakeholder](../s/stakeholder.md) requirements and expectations.
+ - Evaluate the entity's operational needs and the objectives of financial reporting.
+ - Determine [stakeholder](../s/stakeholder.md) requirements and expectations.
 
 2. **Select Appropriate OCBOA**
-   - Choose the most suitable OCBOA method based on the entity’s size, [industry](../i/industry.md), and reporting needs.
-   - Consider the advantages and disadvantages of each OCBOA type.
+ - Choose the most suitable OCBOA method based on the entity’s size, [industry](../i/industry.md), and reporting needs.
+ - Consider the advantages and disadvantages of each OCBOA type.
 
 3. **Develop Policies and Procedures**
-   - Establish standard [accounting policies](../a/accounting_policies.md) and procedures aligning with the selected OCBOA.
-   - Document these policies comprehensively to ensure consistency.
+ - Establish standard [accounting policies](../a/accounting_policies.md) and procedures aligning with the selected OCBOA.
+ - Document these policies comprehensively to ensure consistency.
 
 4. **Train Staff**
-   - Provide training to [accounting](../a/accounting.md) staff on the new reporting framework.
-   - Ensure continuous education and updates as necessary.
+ - Provide training to [accounting](../a/accounting.md) staff on the new reporting framework.
+ - Ensure continuous education and updates as necessary.
 
 5. **Monitor Compliance**
-   - Regularly review and monitor compliance with established OCBOA policies.
-   - Adjust policies and procedures to accommodate changes in regulations or [business](../b/business.md) environment.
+ - Regularly review and monitor compliance with established OCBOA policies.
+ - Adjust policies and procedures to accommodate changes in regulations or [business](../b/business.md) environment.
 
 6. **Communicate with Stakeholders**
-   - Transparently communicate the adoption of OCBOA to stakeholders.
-   - Ensure stakeholders understand the implications of the new reporting [basis](../b/basis.md).
+ - Transparently communicate the adoption of OCBOA to stakeholders.
+ - Ensure stakeholders understand the implications of the new reporting [basis](../b/basis.md).
 
 ## Advantages of OCBOA
 
 1. **Cost-Effectiveness**
-   - Reduces the costs associated with GAAP compliance, especially for small entities.
+ - Reduces the costs associated with GAAP compliance, especially for small entities.
 
 2. **Simplicity**
-   - Simplifies the financial reporting process, making it accessible to non-accountants.
+ - Simplifies the financial reporting process, making it accessible to non-accountants.
 
 3. **Flexibility**
-   - Provides flexibility to choose an [accounting method](../a/accounting_method.md) that best fits the entity’s operational and reporting needs.
+ - Provides flexibility to choose an [accounting method](../a/accounting_method.md) that best fits the entity’s operational and reporting needs.
 
 4. **Relevance**
-   - Tailors financial reporting to the specific information needs of stakeholders.
+ - Tailors financial reporting to the specific information needs of stakeholders.
 
 ## Disadvantages of OCBOA
 
 1. **Comparability Issues**
-   - [Financial statements](../f/financial_statements.md) prepared under OCBOA may not be comparable with those prepared under GAAP, posing challenges for external stakeholders.
+ - [Financial statements](../f/financial_statements.md) prepared under OCBOA may not be comparable with those prepared under GAAP, posing challenges for external stakeholders.
 
 2. **Limited Acceptance**
-   - OCBOA might not be accepted by certain regulators, lenders, or investors who require GAAP-compliant statements.
+ - OCBOA might not be accepted by certain regulators, lenders, or investors who require GAAP-compliant statements.
 
 3. **Potential for Misinterpretation**
-   - Stakeholders unfamiliar with OCBOA may misinterpret financial information, leading to inappropriate decisions.
+ - Stakeholders unfamiliar with OCBOA may misinterpret financial information, leading to inappropriate decisions.
 
 ## Conclusion
 

@@ -15,13 +15,13 @@ Unlisted securities, also known as over-the-counter (OTC) securities, refer to f
 #### Types of Unlisted Securities
 
 1. **Common [Stocks](../s/stock.md):** [Shares](../s/shares.md) issued by private companies or those that choose not to list on major exchanges. These companies are not obligated to disclose as much financial information as publicly traded ones.
-  
+
 2. **Bonds:** Certain [bond](../b/bond.md) issues, particularly from smaller companies or municipalities, may be traded over the counter rather than through centralized exchanges.
-  
+
 3. **[Derivatives](../d/derivatives.md):** Many [derivative](../d/derivative.md) instruments, including [options](../o/options.md) and swaps, are typically traded over the counter.
-   
+
 4. **IPO [Stocks](../s/stock.md):** Companies that have recently gone public and whose [shares](../s/shares.md) have not yet started trading on a formal [exchange](../e/exchange.md).
-   
+
 5. **[Penny Stocks](../p/penny_stocks.md):** Highly speculative [stocks](../s/stock.md) with low [market capitalization](../m/market_capitalization.md), often traded at very low prices and outside major exchanges.
 
 #### Trading Mechanisms
@@ -48,9 +48,9 @@ Regulatory bodies like the SEC in the United States oversee unlisted securities 
 
 #### Examples of Platforms and Companies Involved in Unlisted Securities
 
-- **OTC Markets Group**: One of the leading operators of OTC markets in the United States, which provides marketplaces for 10,000+ securities. More information can be found on their official website: [OTC Markets Group](https://www.otcmarkets.com/).
+- **OTC Markets Group**: One of the leading operators of OTC markets in the United States, which provides marketplaces for 10,000+ securities.
 
-- **[Pink Sheets](../p/pink_sheets.md)**: These are informal platforms for trading unlisted securities. Companies that [trade](../t/trade.md) on [Pink Sheets](../p/pink_sheets.md) may not be required to file with the SEC. Additional details are available at [Pink OTC Markets](https://www.otcmarkets.com/marketplaces/otc-pink).
+- **[Pink Sheets](../p/pink_sheets.md)**: These are informal platforms for trading unlisted securities. Companies that [trade](../t/trade.md) on [Pink Sheets](../p/pink_sheets.md) may not be required to file with the SEC. Additional details are available at Pink OTC Markets.
 
 #### Conclusion
 

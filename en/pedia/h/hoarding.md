@@ -1,17 +1,17 @@
 # Hoarding
 
-Hoarding, in the context of [algorithmic trading](../a/accountability.md) and [financial markets](../f/financial_market.md), refers to the practice of accumulating large positions in a particular [security](../s/security.md) or set of securities, often with the intent to influence their [market price](../m/market_price.md). This phenomenon can be observed across various [asset](../a/asset.md) classes, including [stocks](../s/stock.md), bonds, commodities, and even cryptocurrencies. It is distinct from other forms of [market manipulation](../m/market_manipulation.md) due to its focus on accumulation rather than the [execution](../e/execution.md) of trades to create false impressions of [market](../m/market.md) activity.
+Hoarding, in the context of [algorithmic trading](../a/algorithmic_trading.md) and [financial markets](../f/financial_market.md), refers to the practice of accumulating large positions in a particular [security](../s/security.md) or set of securities, often with the intent to influence their [market price](../m/market_price.md). This phenomenon can be observed across various [asset](../a/asset.md) classes, including [stocks](../s/stock.md), bonds, commodities, and even cryptocurrencies. It is distinct from other forms of [market manipulation](../m/market_manipulation.md) due to its focus on accumulation rather than the [execution](../e/execution.md) of trades to create false impressions of [market](../m/market.md) activity.
 
 ## The Mechanics of Hoarding
 
-Hoarding can be executed using sophisticated [algorithmic trading](../a/accountability.md) systems that analyze [market](../m/market.md) data and execute trades at high speeds. These algorithms can be programmed to accumulate positions slowly to avoid detection or execute rapid trades to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) opportunities. Key features often involved in hoarding include:
+Hoarding can be executed using sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems that analyze [market](../m/market.md) data and execute trades at high speeds. These algorithms can be programmed to accumulate positions slowly to avoid detection or execute rapid trades to [capitalize](../c/capitalize.md) on fleeting [market](../m/market.md) opportunities. Key features often involved in hoarding include:
 
 1. **Stealth Accumulation**:
-    - Algorithms discreetly buy or sell securities over time to avoid significant impact on [market](../m/market.md) prices. This gradual process helps in amassing large quantities without attracting undue attention.
+ - Algorithms discreetly buy or sell securities over time to avoid significant impact on [market](../m/market.md) prices. This gradual process helps in amassing large quantities without attracting undue attention.
 2. **Price Impact**:
-    - Once a sufficient position is hoarded, subsequent buy or sell orders can significantly impact the [market price](../m/market_price.md), driven by the [law of supply and demand](../l/law_of_supply_and_demand.md).
+ - Once a sufficient position is hoarded, subsequent buy or sell orders can significantly impact the [market price](../m/market_price.md), driven by the [law of supply and demand](../l/law_of_supply_and_demand.md).
 3. **[Market](../m/market.md) Domination**:
-    - A [trader](../t/trader.md) with a predominant position can have a controlling influence over [market](../m/market.md) movements in a particular [security](../s/security.md), which could be exploited for trading gains.
+ - A [trader](../t/trader.md) with a predominant position can have a controlling influence over [market](../m/market.md) movements in a particular [security](../s/security.md), which could be exploited for trading gains.
 
 ## Types of Hoarding Strategies
 
@@ -41,10 +41,10 @@ Regulators monitor for signs of hoarding, such as unusual price movements, [volu
 
 Modern hoarding strategies heavily rely on technology. Some of the essential tools include:
 
-- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**: Sophisticated systems such as those provided by companies like [Bloomberg AIM](https://www.bloomberg.com/professional/product/aim/) and [QuantConnect](https://www.quantconnect.com/), which provide a comprehensive suite for developing, [backtesting](../b/backtesting.md), and executing [trading strategies](../t/trading_strategies.md).
+- **[Algorithmic Trading Platforms](../a/algorithmic_trading_platforms.md)**: Sophisticated systems such as those provided by companies like Bloomberg AIM and QuantConnect, which provide a comprehensive suite for developing, [backtesting](../b/backtesting.md), and executing [trading strategies](../t/trading_strategies.md).
 - **[Data Analytics](../d/data_analytics.md)**: Use of [big data](../b/big_data_in_trading.md) and advanced analytics to predict [market](../m/market.md) movements and identify accumulation opportunities.
 - **[Machine Learning](../m/machine_learning.md)**: Algorithms leveraging [neural networks](../n/neural_networks_in_trading.md) and other AI techniques to refine hoarding strategies dynamically.
-- **[Execution](../e/execution.md) Management Systems (EMS)**: Platforms like [Fidessa](https://iongroup.com/marketsolutions/fidessa/) help in the optimal [execution](../e/execution.md) of hoarding strategies by integrating real-time data, advanced [order types](../o/order_types_in_trading.md), and smart routing technologies.
+- **[Execution](../e/execution.md) Management Systems (EMS)**: Platforms like Fidessa help in the optimal [execution](../e/execution.md) of hoarding strategies by integrating real-time data, advanced [order types](../o/order_types_in_trading.md), and smart routing technologies.
 
 ## Market Impact and Risks
 
@@ -72,4 +72,4 @@ While specifics often remain undisclosed due to [proprietary trading](../p/propr
 
 ## Conclusion
 
-Hoarding in [algorithmic trading](../a/accountability.md) encapsulates the intricate relationship between technology, [market](../m/market.md) behavior, and regulatory oversight. While modern tools enable sophisticated accumulation strategies, they also necessitate enhanced vigilance to maintain [market](../m/market.md) integrity. As technology evolves, so too [will](../w/will.md) the methods and monitoring mechanisms surrounding these practices, ensuring markets remain fair and efficient for all participants.
+Hoarding in [algorithmic trading](../a/algorithmic_trading.md) encapsulates the intricate relationship between technology, [market](../m/market.md) behavior, and regulatory oversight. While modern tools enable sophisticated accumulation strategies, they also necessitate enhanced vigilance to maintain [market](../m/market.md) integrity. As technology evolves, so too [will](../w/will.md) the methods and monitoring mechanisms surrounding these practices, ensuring markets remain fair and efficient for all participants.

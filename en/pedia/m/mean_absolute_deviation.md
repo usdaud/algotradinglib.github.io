@@ -66,47 +66,47 @@ Algorithm B returns:
 To calculate the MAD for each algorithm:
 
 ### Algorithm A
-1. **Compute the Mean**: 
+1. **Compute the Mean**:
 \[ \overline{X} = \frac{2 + 3 + 1 + 4 + 2 + 5 - 1 + 3 + 4 + 2}{10} = \frac{25}{10} = 2.5\% \]
 
-2. **Absolute Deviations**: 
-   - \( |2 - 2.5| = 0.5 \)
-   - \( |3 - 2.5| = 0.5 \)
-   - \( |1 - 2.5| = 1.5 \)
-   - \( |4 - 2.5| = 1.5 \)
-   - \( |2 - 2.5| = 0.5 \)
-   - \( |5 - 2.5| = 2.5 \)
-   - \( |-1 - 2.5| = 3.5 \)
-   - \( |3 - 2.5| = 0.5 \)
-   - \( |4 - 2.5| = 1.5 \)
-   - \( |2 - 2.5| = 0.5 \)
+2. **Absolute Deviations**:
+ - \( |2 - 2.5| = 0.5 \)
+ - \( |3 - 2.5| = 0.5 \)
+ - \( |1 - 2.5| = 1.5 \)
+ - \( |4 - 2.5| = 1.5 \)
+ - \( |2 - 2.5| = 0.5 \)
+ - \( |5 - 2.5| = 2.5 \)
+ - \( |-1 - 2.5| = 3.5 \)
+ - \( |3 - 2.5| = 0.5 \)
+ - \( |4 - 2.5| = 1.5 \)
+ - \( |2 - 2.5| = 0.5 \)
 
-3. **Sum of Absolute Deviations**: 
+3. **Sum of Absolute Deviations**:
 \[ 0.5 + 0.5 + 1.5 + 1.5 + 0.5 + 2.5 + 3.5 + 0.5 + 1.5 + 0.5 = 13.5 \]
 
-4. **MAD**: 
+4. **MAD**:
 \[ \frac{13.5}{10} = 1.35\% \]
 
 ### Algorithm B
-1. **Compute the Mean**: 
+1. **Compute the Mean**:
 \[ \overline{X} = \frac{-10 + 12 - 8 + 15 + 11 - 7 + 13 - 9 + 16 + 10}{10} = \frac{43}{10} = 4.3\% \]
 
-2. **Absolute Deviations**: 
-   - \( |-10 - 4.3| = 14.3 \)
-   - \( |12 - 4.3| = 7.7 \)
-   - \( |-8 - 4.3| = 12.3 \)
-   - \( |15 - 4.3| = 10.7 \)
-   - \( |11 - 4.3| = 6.7 \)
-   - \( |-7 - 4.3| = 11.3 \)
-   - \( |13 - 4.3| = 8.7 \)
-   - \( |-9 - 4.3| = 13.3 \)
-   - \( |16 - 4.3| = 11.7 \)
-   - \( |10 - 4.3| = 5.7 \)
+2. **Absolute Deviations**:
+ - \( |-10 - 4.3| = 14.3 \)
+ - \( |12 - 4.3| = 7.7 \)
+ - \( |-8 - 4.3| = 12.3 \)
+ - \( |15 - 4.3| = 10.7 \)
+ - \( |11 - 4.3| = 6.7 \)
+ - \( |-7 - 4.3| = 11.3 \)
+ - \( |13 - 4.3| = 8.7 \)
+ - \( |-9 - 4.3| = 13.3 \)
+ - \( |16 - 4.3| = 11.7 \)
+ - \( |10 - 4.3| = 5.7 \)
 
-3. **Sum of Absolute Deviations**: 
+3. **Sum of Absolute Deviations**:
 \[ 14.3 + 7.7 + 12.3 + 10.7 + 6.7 + 11.3 + 8.7 + 13.3 + 11.7 + 5.7 = 102.4 \]
 
-4. **MAD**: 
+4. **MAD**:
 \[ \frac{102.4}{10} = 10.24\% \]
 
 From this example, it's clear that Algorithm A has a significantly lower MAD (1.35%) compared to Algorithm B (10.24%), indicating more stable and consistent returns.
@@ -122,16 +122,12 @@ While MAD provides a clear and straightforward measure of [variability](../v/var
 [Multiple](../m/multiple.md) [software tools](../s/software_tools_for_trading.md) and platforms [offer](../o/offer.md) functionalities to compute and analyze MAD for [trading algorithms](../t/trading_algorithms.md). Popular platforms include:
 
 - **MetaTrader**: A widely-used platform in forex and stock trading that supports custom scripting and analytics.
-  [MetaTrader](https://www.metatrader4.com/en)
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md), cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that provides a variety of statistical tools.
-  [QuantConnect](https://www.quantconnect.com/)
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md), [algorithmic trading](../a/algorithmic_trading.md) platform that provides a variety of statistical tools.
 
 - **[MultiCharts](../m/multicharts.md)**: An advanced [trading platform](../t/trading_platform.md) with extensive analytical capabilities.
-  [MultiCharts](https://www.multicharts.com/)
 
 - **MATLAB**: A high-level language and interactive environment for numerical computation, visualization, and programming.
-  [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 These platforms facilitate the ease of MAD computation, enhancing the decision-making process in [algorithmic trading](../a/algorithmic_trading.md).
 

@@ -53,7 +53,7 @@ This means that ABC Corp can cover its [interest](../i/interest.md) expenses 5 t
 
 ## Use in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), the [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md) is used as a key input for financial models and [trading algorithms](../t/trading_algorithms.md). Here’s how it’s particularly beneficial:
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), the [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md) is used as a key input for financial models and [trading algorithms](../t/trading_algorithms.md). Here’s how it’s particularly beneficial:
 
 ### Stock Screening
 
@@ -71,16 +71,16 @@ Incorporating the [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ra
 
 ### Apple Inc. (AAPL)
 
-Apple Inc. is often highlighted for its strong financial metrics, including a high [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md). As of the latest financial reports, Apple’s EBIT covers its [interest](../i/interest.md) expenses [multiple](../m/multiple.md) times over, reflecting its strong profitability and low [financial risk](../f/financial_risk.md). 
+Apple Inc. is often highlighted for its strong financial metrics, including a high [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md). As of the latest financial reports, Apple’s EBIT covers its [interest](../i/interest.md) expenses [multiple](../m/multiple.md) times over, reflecting its strong profitability and low [financial risk](../f/financial_risk.md).
 
-For more details, you can visit Apple's official [financial statements](../f/financial_statements.md): [Apple Inc. Investor Relations](https://investor.apple.com/financials/default.aspx)
+For more details, you can visit Apple's official [financial statements](../f/financial_statements.md): Apple Inc. company filings
 
 ### General Electric (GE)
 
 General Electric, on the other hand, demonstrates how [variability](../v/variability.md) in this ratio can signal financial instability. GE has had periods with relatively lower [Interest](../i/interest.md) Coverage Ratios, highlighting its challenges in managing [debt](../d/debt.md) and [operational efficiency](../o/operational_efficiency_in_trading.md).
 
-For more details, you can visit GE's official [financial statements](../f/financial_statements.md): [General Electric Investor Relations](https://www.ge.com/investor-relations)
+For more details, you can visit GE's official [financial statements](../f/financial_statements.md)
 
 ## Conclusion
 
-The [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md) is a vital financial metric that provides significant insights into a company's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). In addition to being a cornerstone of [credit](../c/credit.md) analysis, it is also highly useful in [algorithmic trading](../a/accountability.md) for stock screening, [risk management](../r/risk_management.md), and [predictive analytics](../p/predictive_analytics.md). By understanding the nuances of this ratio, traders and investors can make more informed decisions and better assess the [financial health](../f/financial_health.md) of potential investments.
+The [Interest](../i/interest.md) [Coverage Ratio](../c/coverage_ratio.md) is a vital financial metric that provides significant insights into a company's ability to meet its [debt](../d/debt.md) [obligations](../o/obligation.md). In addition to being a cornerstone of [credit](../c/credit.md) analysis, it is also highly useful in [algorithmic trading](../a/algorithmic_trading.md) for stock screening, [risk management](../r/risk_management.md), and [predictive analytics](../p/predictive_analytics.md). By understanding the nuances of this ratio, traders and investors can make more informed decisions and better assess the [financial health](../f/financial_health.md) of potential investments.

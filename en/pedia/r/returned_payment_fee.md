@@ -4,7 +4,7 @@ In the intricate world of financial transactions and banking, the term "returned
 
 ## What is a Returned Payment Fee?
 
-A returned [payment](../p/payment.md) [fee](../f/fee.md) is a penalty charged by banks and financial institutions when a [check](../c/check.md) or another form of [payment](../p/payment.md) cannot be processed. This typically occurs when there are [insufficient funds](../i/insufficient_funds.md) in the payer’s account to cover the [transaction](../t/transaction.md), resulting in the [check](../c/check.md) or [payment](../p/payment.md) being "bounced" back to the [issuer](../i/issuer.md). The [fee](../f/fee.md) is meant to cover the administrative costs incurred by the [bank](../b/bank.md) for handling and rectifying the failed [transaction](../t/transaction.md). 
+A returned [payment](../p/payment.md) [fee](../f/fee.md) is a penalty charged by banks and financial institutions when a [check](../c/check.md) or another form of [payment](../p/payment.md) cannot be processed. This typically occurs when there are [insufficient funds](../i/insufficient_funds.md) in the payer’s account to cover the [transaction](../t/transaction.md), resulting in the [check](../c/check.md) or [payment](../p/payment.md) being "bounced" back to the [issuer](../i/issuer.md). The [fee](../f/fee.md) is meant to cover the administrative costs incurred by the [bank](../b/bank.md) for handling and rectifying the failed [transaction](../t/transaction.md).
 
 ### Common Reasons for Returned Payments
 
@@ -28,7 +28,7 @@ Returned [payment](../p/payment.md) fees can have various financial implications
 
 ### Case Study: Bank of America
 
-[Bank](../b/bank.md) of America, one of the largest financial institutions in the United States, outlines its policies regarding returned [payment](../p/payment.md) fees on their website (https://www.bankofamerica.com/). According to their guidelines, a returned [payment](../p/payment.md) [fee](../f/fee.md) may be charged if a [payment](../p/payment.md) cannot be processed because of [insufficient funds](../i/insufficient_funds.md) or other reasons. This [fee](../f/fee.md) is just one part of their broader [fee](../f/fee.md) schedule, which includes various charges for different types of account activities.
+[Bank](../b/bank.md) of America, one of the largest financial institutions in the United States, outlines its policies regarding returned [payment](../p/payment.md) fees through its online channels ( According to their guidelines, a returned [payment](../p/payment.md) [fee](../f/fee.md) may be charged if a [payment](../p/payment.md) cannot be processed because of [insufficient funds](../i/insufficient_funds.md) or other reasons. This [fee](../f/fee.md) is just one part of their broader [fee](../f/fee.md) schedule, which includes various charges for different types of account activities.
 
 ## Mitigating Returned Payment Fees
 
@@ -62,7 +62,7 @@ Fintech companies have also developed smart [payment](../p/payment.md) gateways 
 
 ### Example: Chime
 
-Chime, a prominent fintech company, offers users the ability to avoid traditional banking fees through its online platforms (https://www.chime.com/). Chime’s model includes no monthly fees, no [overdraft](../o/overdraft.md) fees (up to a certain limit), and automated savings features, which collectively help users prevent returned [payment](../p/payment.md) scenarios.
+Chime, a prominent fintech company, offers users the ability to avoid traditional banking fees through its online platforms ( Chime’s model includes no monthly fees, no [overdraft](../o/overdraft.md) fees (up to a certain limit), and automated savings features, which collectively help users prevent returned [payment](../p/payment.md) scenarios.
 
 ## Legislative and Regulatory Aspects
 

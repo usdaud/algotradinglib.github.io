@@ -61,21 +61,17 @@ There is a [risk](../r/risk.md) of [overfitting](../o/overfitting.md) the model 
 
 ## Notable Tools and Libraries
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports research and [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). It offers tools for windowed analysis, including [backtesting](../b/backtesting.md) over rolling time windows.
-[QuantConnect](https://www.quantconnect.com/)
+### StockSharp
+[StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports research and [execution](../e/execution.md) of [trading strategies](../t/trading_strategies.md). It offers tools for windowed analysis, including [backtesting](../b/backtesting.md) over rolling time windows.
 
 ### Zipline
 An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library primarily for Python, developed by Quantopian. It facilitates windowed analysis through its pipeline of [factor](../f/factor.md) and filter analysis.
-[Zipline](https://www.zipline.io/)
 
 ### pandas (Python Library)
 The pandas library includes [robust](../r/robust.md) support for time-series analysis with rolling window functions, enabling complex windowed statistical computations.
-[pandas](https://pandas.pydata.org/)
 
 ### TA-Lib
 A [technical analysis](../t/technical_analysis.md) library that includes a wide [range](../r/range.md) of indicators and tools for performing windowed analysis easily.
-[TA-Lib](https://mrjbq7.github.io/ta-lib/)
 
 ## Conclusion
 

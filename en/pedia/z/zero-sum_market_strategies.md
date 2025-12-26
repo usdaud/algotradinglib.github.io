@@ -20,15 +20,15 @@ A zero-sum [market](../m/market.md) is a financial [market](../m/market.md) in w
 [Market](../m/market.md) makers are entities or individuals that provide [liquidity](../l/liquidity.md) to the [market](../m/market.md) by [offering](../o/offering.md) to buy and sell financial instruments at specified prices. They play a critical role in zero-sum markets by facilitating smooth transactions. [Market](../m/market.md) makers often have sophisticated algorithms to maintain [liquidity](../l/liquidity.md) and [capitalize](../c/capitalize.md) on small [spreads](../s/spreads.md) between [bid and ask](../b/bid_and_ask.md) prices.
 
 - **Example Companies**:
-  - [Citadel Securities](https://www.citadelsecurities.com/)
-  - [Virtu Financial](https://www.virtu.com/)
+ - Citadel Securities
+ - Virtu Financial
 
 ### Speculators
 
 Speculators aim to [profit](../p/profit.md) from price movements within the [market](../m/market.md). They employ various strategies, ranging from [short-term trading](../s/short-term_trading.md) to long-term [trend following](../t/trend_following.md). Speculators often rely on high-frequency trading (HFT) algorithms to execute trades at lightning speed, aiming to exploit minute price discrepancies.
 
 - **Example Companies**:
-  - [Renaissance Technologies](https://www.rentec.com/)
+ - Renaissance Technologies
 
 ### Hedgers
 

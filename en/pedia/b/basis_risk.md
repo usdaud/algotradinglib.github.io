@@ -12,7 +12,7 @@ In the realm of [financial markets](../f/financial_market.md), [basis](../b/basi
 
 \[ \text{Basis} = \text{[Spot Price](../s/spot_price.md) of [Asset](../a/asset.md)} - \text{[Futures](../f/futures.md) Price of [Asset](../a/asset.md)} \]
 
-The potential for [basis](../b/basis.md) [risk](../r/risk.md) arises mainly in situations where the hedging instrument or strategy does not perfectly match the [underlying asset](../u/underlying_asset.md) or exposure. 
+The potential for [basis](../b/basis.md) [risk](../r/risk.md) arises mainly in situations where the hedging instrument or strategy does not perfectly match the [underlying asset](../u/underlying_asset.md) or exposure.
 
 ### Example
 
@@ -80,19 +80,16 @@ In the [foreign exchange](../f/foreign_exchange.md) [market](../m/market.md), [b
 
 Cargill, an international provider of food, agricultural, and [risk management](../r/risk_management.md) products and services, deals extensively with commodities. Effective [basis](../b/basis.md) [risk management](../r/risk_management.md) is crucial for such a company. They have [in-house](../i/in-house.md) teams and sophisticated [risk management systems](../r/risk_management_systems.md) to mitigate these risks.
 
-Website: [Cargill](https://www.cargill.com)
 
 ### Goldman Sachs
 
 Goldman Sachs, a global investment [bank](../b/bank.md), offers a wide [range](../r/range.md) of financial products and services, including [derivatives](../d/derivatives.md) and hedging solutions to help clients manage [basis](../b/basis.md) [risk](../r/risk.md).
 
-Website: [Goldman Sachs](https://www.goldmansachs.com)
 
 ### Archer Daniels Midland (ADM)
 
 ADM, a global food processing and [commodities trading](../c/commodities_trading.md) [corporation](../c/corporation.md), employs [hedging strategies](../h/hedging_strategies.md) to manage [basis](../b/basis.md) [risk](../r/risk.md) in their agricultural and [commodity](../c/commodity.md) products.
 
-Website: [Archer Daniels Midland](https://www.adm.com)
 
 ## Conclusion
 

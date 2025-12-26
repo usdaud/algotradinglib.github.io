@@ -22,18 +22,16 @@ Several [market](../m/market.md) participants contribute to [liquidity](../l/liq
 ### Notable Liquidity Providers
 
 - **Citadel Securities**: Founded by Ken Griffin, Citadel Securities is one of the largest [liquidity](../l/liquidity.md) providers globally, [offering](../o/offering.md) trading services across [multiple](../m/multiple.md) [asset](../a/asset.md) classes.
-  [Citadel Securities](https://citadelsecurities.com/)
 
 - **Virtu Financial**: A [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider known for its high-frequency [trading strategies](../t/trading_strategies.md).
-  [Virtu Financial](https://www.virtu.com/)
 
 ## Mechanisms of Liquidity Provision
 
-[Liquidity](../l/liquidity.md) providers employ various strategies and technologies to maintain [market](../m/market.md) [liquidity](../l/liquidity.md). 
+[Liquidity](../l/liquidity.md) providers employ various strategies and technologies to maintain [market](../m/market.md) [liquidity](../l/liquidity.md).
 
 ### Market Making
 
-[Market](../m/market.md) making involves continuously quoting both buy ([bid](../b/bid.md)) and sell (ask) prices to provide [liquidity](../l/liquidity.md). [Market](../m/market.md) makers commit to buying or selling securities at publicly quoted prices, thus ensuring there is always a ready [market](../m/market.md) for buyers and sellers. 
+[Market](../m/market.md) making involves continuously quoting both buy ([bid](../b/bid.md)) and sell (ask) prices to provide [liquidity](../l/liquidity.md). [Market](../m/market.md) makers commit to buying or selling securities at publicly quoted prices, thus ensuring there is always a ready [market](../m/market.md) for buyers and sellers.
 
 ### Arbitrage
 

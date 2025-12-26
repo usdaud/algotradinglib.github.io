@@ -101,7 +101,7 @@ Not all [futures contracts](../f/futures_contracts.md) are [liquid](../l/liquid.
 
 Contango is often contrasted with [backwardation](../b/backwardation.md). While contango features [futures](../f/futures.md) prices higher than the spot prices, [backwardation](../b/backwardation.md) is the opposite:
 
-- **[Backwardation](../b/backwardation.md):** The [futures](../f/futures.md) prices are lower than the current spot prices. This scenario often occurs when there are short-term [supply](../s/supply.md) shortages or strong immediate [demand](../d/demand.md) for a [commodity](../c/commodity.md). 
+- **[Backwardation](../b/backwardation.md):** The [futures](../f/futures.md) prices are lower than the current spot prices. This scenario often occurs when there are short-term [supply](../s/supply.md) shortages or strong immediate [demand](../d/demand.md) for a [commodity](../c/commodity.md).
 
 Both contango and [backwardation](../b/backwardation.md) [offer](../o/offer.md) different implications for [market](../m/market.md) participants and their strategies.
 

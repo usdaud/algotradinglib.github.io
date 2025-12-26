@@ -1,6 +1,6 @@
 # Pairs Arbitrage
 
-Pairs [arbitrage](../a/arbitrage.md), a subset of statistical [arbitrage](../a/arbitrage.md), is a [market](../m/market.md)-[neutral](../n/neutral.md) [trading strategy](../t/trading_strategy.md) that seeks to exploit pricing inefficiencies between two correlated securities. This approach is grounded in the premise that [market](../m/market.md) prices of correlated assets [will](../w/will.md) eventually converge, enabling traders to [profit](../p/profit.md) from the temporary [divergence](../d/divergence.md). 
+Pairs [arbitrage](../a/arbitrage.md), a subset of statistical [arbitrage](../a/arbitrage.md), is a [market](../m/market.md)-[neutral](../n/neutral.md) [trading strategy](../t/trading_strategy.md) that seeks to exploit pricing inefficiencies between two correlated securities. This approach is grounded in the premise that [market](../m/market.md) prices of correlated assets [will](../w/will.md) eventually converge, enabling traders to [profit](../p/profit.md) from the temporary [divergence](../d/divergence.md).
 
 ## Concept and Background
 
@@ -43,7 +43,7 @@ Effective [risk management](../r/risk_management.md) is crucial in pairs [arbitr
 
 Renaissance Technologies, a prominent quant [hedge fund](../h/hedge_fund.md), famously employs statistical [arbitrage](../a/arbitrage.md) strategies, including [pairs trading](../p/pairs_trading.md). Their sophisticated use of [mathematical models](../m/mathematical_models_in_trading.md) and algorithms allows them to identify and exploit pricing inefficiencies across various markets.
 
-Visit Renaissance Technologies for more information: [Renaissance Technologies](https://www.rentec.com/)
+Visit Renaissance Technologies for more information: Renaissance Technologies
 
 ## Algorithmic Execution
 

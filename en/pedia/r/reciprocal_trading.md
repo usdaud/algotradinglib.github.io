@@ -84,19 +84,19 @@ Several financial institutions and trading firms have successfully implemented r
 
 QuantLab Financial is a leading [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) that specializes in high-frequency trading and algorithmic strategies. The [firm](../f/firm.md) leverages [proprietary algorithms](../p/proprietary_algorithms.md) to engage in reciprocal trading across various [asset](../a/asset.md) classes, optimizing [trade](../t/trade.md) [execution](../e/execution.md) and minimizing [transaction costs](../t/transaction_costs.md). QuantLab's success in reciprocal trading is attributed to its cutting-edge technology and data-driven approach.
 
-For more information, visit: [QuantLab Financial](https://www.quantlab.com/)
+For more information, visit: QuantLab Financial
 
 ### Jump Trading
 
 [Jump Trading](../j/jump_trading.md) is a prominent player in the high-frequency trading space, known for its innovative use of algorithms and technology. The [firm](../f/firm.md) engages in reciprocal trading by developing and deploying sophisticated [trading algorithms](../t/trading_algorithms.md) that execute trades across global markets. [Jump Trading](../j/jump_trading.md)'s emphasis on research and development has enabled it to remain at the forefront of algorithmic and reciprocal trading.
 
-For more information, visit: [Jump Trading](https://www.jumptrading.com/)
+For more information, visit: Jump Trading
 
 ### Two Sigma
 
 Two Sigma is a quantitative investment [firm](../f/firm.md) that harnesses the power of [data science](../d/data_science_in_trading.md) and technology to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)'s [algorithmic trading](../a/algorithmic_trading.md) systems facilitate reciprocal trading by analyzing vast amounts of [market](../m/market.md) data, identifying trading opportunities, and executing trades with precision. Two Sigma's focus on innovation and data-driven decision-making has made it a leader in [algorithmic trading](../a/algorithmic_trading.md).
 
-For more information, visit: [Two Sigma](https://www.twosigma.com/)
+For more information, visit: Two Sigma
 
 ## Conclusion
 

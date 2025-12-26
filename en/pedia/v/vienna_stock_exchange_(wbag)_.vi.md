@@ -4,7 +4,7 @@ The Vienna Stock [Exchange](../e/exchange.md) (Wiener Börse or WBAG) is the pri
 
 ## Historical Background
 
-The Vienna Stock [Exchange](../e/exchange.md) was established over two centuries ago, showcasing the long-standing tradition of [financial markets](../f/financial_market.md) in Austria. Initially, it was primarily focused on government bonds, but over time, it expanded to include equities, mutual funds, and various [derivative](../d/derivative.md) products. 
+The Vienna Stock [Exchange](../e/exchange.md) was established over two centuries ago, showcasing the long-standing tradition of [financial markets](../f/financial_market.md) in Austria. Initially, it was primarily focused on government bonds, but over time, it expanded to include equities, mutual funds, and various [derivative](../d/derivative.md) products.
 
 ## Structure and Organization
 
@@ -30,9 +30,9 @@ The trading hours for the Vienna Stock [Exchange](../e/exchange.md) typically ru
 ## Key Listings
 
 Notable companies [listed](../l/listed.md) on the Vienna Stock [Exchange](../e/exchange.md) include:
-- **OMV**: A large multinational integrated oil and gas company [OMV Website](https://www.omv.com/).
-- **Raiffeisen [Bank](../b/bank.md) International**: A major banking group in Central and Eastern Europe [Raiffeisen Bank International Website](https://www.rbinternational.com/).
-- **Voestalpine**: A leading technology and [capital goods](../c/capital_goods.md) group [Voestalpine Website](https://www.voestalpine.com/).
+- **OMV**:
+- **Raiffeisen [Bank](../b/bank.md) International**: A major banking group
+- **Voestalpine**: A leading technology and [capital goods](../c/capital_goods.md)
 
 ## Information and Transparency
 
@@ -40,11 +40,11 @@ The Vienna Stock [Exchange](../e/exchange.md) emphasizes [transparency](../t/tra
 
 ## Technology and Innovation
 
-The Vienna Stock [Exchange](../e/exchange.md) has adopted state-of-the-art trading technology. Their [trading platform](../t/trading_platform.md) supports high-frequency trading and [algorithmic trading](../a/accountability.md), ensuring [liquidity](../l/liquidity.md) and enabling efficient [price discovery](../p/price_discovery.md). 
+The Vienna Stock [Exchange](../e/exchange.md) has adopted state-of-the-art trading technology. Their [trading platform](../t/trading_platform.md) supports high-frequency trading and [algorithmic trading](../a/algorithmic_trading.md), ensuring [liquidity](../l/liquidity.md) and enabling efficient [price discovery](../p/price_discovery.md).
 
 ## Regulation and Compliance
 
-The Vienna Stock [Exchange](../e/exchange.md) operates under stringent regulations to ensure [market](../m/market.md) integrity. It is regulated by the Austrian Financial [Market](../m/market.md) Authority (FMA) [FMA Website](https://www.fma.gv.at/).
+The Vienna Stock [Exchange](../e/exchange.md) operates under stringent regulations to ensure [market](../m/market.md) integrity. It is regulated by the Austrian Financial [Market](../m/market.md)
 
 ## International Collaboration
 

@@ -95,10 +95,10 @@ Several platforms and tools facilitate [algorithmic trading](../a/algorithmic_tr
 - **[Interactive Brokers](../i/interactive_brokers.md):** Supports trading in Treasury [futures](../f/futures.md) and [options](../o/options.md).
 
 For more information on some of these tools, you can visit the respective official websites:
-- [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- [TradeStation](https://www.tradestation.com/)
-- [Interactive Brokers](https://www.interactivebrokers.com/)
+- Bloomberg Terminal
+- TradeStation
+- Interactive Brokers
 
 ## Conclusion
 
-The 10-Year Treasury [Note](../n/note.md) plays an indispensable role in global [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), a safe-haven [asset](../a/asset.md), and an [indicator](../i/indicator.md) of economic health. For algorithmic traders, the 10-Year Treasury [Note](../n/note.md) offers numerous opportunities and strategies to exploit [market](../m/market.md) inefficiencies, [hedge](../h/hedge.md) risks, and [gain](../g/gain.md) insights into [market sentiment](../m/market_sentiment.md). With the right tools and strategies, [algorithmic trading](../a/algorithmic_trading.md) involving the 10-Year Treasury [Note](../n/note.md) can be a powerful component of a diversified investment approach.
+The 10-Year Treasury [Note](../n/note.md) plays an indispensable role in global [financial markets](../f/financial_market.md), serving as a [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md), a safe-haven [asset](../a/asset.md), and an [indicator](../i/indicator.md) of economic health. For algorithmic traders, the 10-Year Treasury [Note](../n/note.md) offers numerous opportunities and strategies to exploit [market](../m/market.md) inefficiencies, [hedge](../h/hedge.md) risks, and [gain](../g/gain.md) insights into [market sentiment](../m/market_sentiment.md). With the right tools and strategies, [algorithmic trading](../a/algorithmic_trading.md) involving the 10-Year Treasury [Note](../n/note.md) can be a powerful component of a diversified investment approach.

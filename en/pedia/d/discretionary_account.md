@@ -78,23 +78,23 @@ After the account is established, regular communication between the [investor](.
 
 ### Morgan Stanley
 
-Morgan Stanley offers a [range](../r/range.md) of discretionary account services through its [wealth management](../w/wealth_management.md) division. Their team of experienced financial advisors provides customized investment strategies tailored to the unique goals and preferences of each client. More information can be found on their [website](https://www.morganstanley.com/wealth-management/).
+Morgan Stanley offers a [range](../r/range.md) of discretionary account services through its [wealth management](../w/wealth_management.md) division. Their team of experienced financial advisors provides customized investment strategies tailored to the unique goals and preferences of each client.
 
 ### Charles Schwab
 
-[Charles Schwab](../c/charles_schwab.md) provides discretionary account management through its Personalized [Portfolio Management](../p/par.md) services. Clients can benefit from expert advice and tailored investment strategies to meet their financial objectives. Details are available on their [website](https://www.schwab.com/managed-portfolios/personalized-portfolio).
+[Charles Schwab](../c/charles_schwab.md) provides discretionary account management through its Personalized [Portfolio Management](../p/par.md) services. Clients can benefit from expert advice and tailored investment strategies to meet their financial objectives.
 
 ### UBS
 
-[UBS](../u/ubs.md) offers discretionary [portfolio management](../p/par.md), allowing clients to delegate investment decisions to experienced professionals. Their services are designed to align with the individual goals and [risk profiles](../r/risk_profiles.md) of their clients. Further information can be found on their [website](https://www.ubs.com/global/en/wealth-management.html).
+[UBS](../u/ubs.md) offers discretionary [portfolio management](../p/par.md), allowing clients to delegate investment decisions to experienced professionals. Their services are designed to align with the individual goals and [risk profiles](../r/risk_profiles.md) of their clients.
 
 ### Goldman Sachs
 
-Goldman Sachs offers discretionary account management through its Private [Wealth Management](../w/wealth_management.md) division. Clients receive personalized investment strategies and professional management to achieve their financial goals. More about their services is available on their [website](https://www.goldmansachs.com/what-we-do/private-wealth-management/).
+Goldman Sachs offers discretionary account management through its Private [Wealth Management](../w/wealth_management.md) division. Clients receive personalized investment strategies and professional management to achieve their financial
 
 ### Merrill Lynch
 
-[Merrill Lynch](../m/merrill_lynch.md), a division of [Bank](../b/bank.md) of America, provides discretionary [portfolio management](../p/par.md) through its team of dedicated financial advisors. They [offer](../o/offer.md) customized solutions to help clients grow and preserve their [wealth](../w/wealth.md). Additional details can be found on their [website](https://www.ml.com/wealth-management.html).
+[Merrill Lynch](../m/merrill_lynch.md), a division of [Bank](../b/bank.md) of America, provides discretionary [portfolio management](../p/par.md) through its team of dedicated financial advisors. They [offer](../o/offer.md) customized solutions to help clients grow and preserve their [wealth](../w/wealth.md).
 
 ## Conclusion
 

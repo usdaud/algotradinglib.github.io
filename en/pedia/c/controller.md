@@ -13,9 +13,9 @@
 - **[Order Book](../o/order_book.md) Management:** Keeping track of all orders, including [open](../o/open.md), partially filled, and completed orders.
 - **[Order](../o/order.md) Matching:** Ensuring that buy and sell orders match correctly to facilitate [trade](../t/trade.md) [execution](../e/execution.md).
 - **Regulatory Compliance:** Adhering to [exchange](../e/exchange.md) rules and government regulations to avoid penalties and fines.
-  
+
 #### Examples:
-- Trading Technologies: Provides advanced trading platforms with powerful [execution](../e/execution.md) controllers. [Trading Technologies](https://www.tradingtechnologies.com/)
+- Trading Technologies: Provides advanced trading platforms with powerful [execution](../e/execution.md) controllers. Trading Technologies
 
 ### 2. Risk Controllers
 
@@ -26,9 +26,9 @@
 - **[Margin](../m/margin.md) and [Leverage](../l/leverage.md) Management:** Ensuring that adequate [margin](../m/margin.md) levels are maintained and excessive [leverage](../l/leverage.md) is avoided.
 - **[Portfolio Diversification](../p/portfolio_diversification.md):** Spreading investments across various assets to reduce exposure to [market](../m/market.md) [volatility](../v/volatility.md).
 - **Stop-loss Mechanisms:** Automatic [execution](../e/execution.md) of orders to exit positions if losses reach a predetermined threshold.
-  
+
 #### Examples:
-- [QuantConnect](../q/quantconnect.md): An [algorithmic trading](../a/accountability.md) platform providing [robust](../r/robust.md) [risk management](../r/risk_management.md) tools. [QuantConnect](https://www.quantconnect.com/)
+- [QuantConnect](../q/quantconnect.md): An [algorithmic trading](../a/accountability.md) platform providing [robust](../r/robust.md) [risk management](../r/risk_management.md) tools. QuantConnect
 
 ### 3. Strategy Controllers
 
@@ -39,9 +39,9 @@ Strategy controllers are responsible for managing the implementation and ongoing
 - **Parameter Tuning:** Adjusting parameters like moving average windows, [volatility](../v/volatility.md) thresholds, and [trade](../t/trade.md) sizes to optimize performance.
 - **[Backtesting](../b/backtesting.md):** Running the algorithms on historical data to evaluate their performance before live deployment.
 - **Performance Monitoring:** Continuously monitoring the performance of algorithms to ensure they are achieving desired outcomes.
-  
+
 #### Examples:
-- Algorithmic Inc.: A company that offers sophisticated tools for strategy management and [backtesting](../b/backtesting.md). [Algorithmic Inc.](https://www.algorithms.com/)
+- Algorithmic Inc.: A company that offers sophisticated tools for strategy management and [backtesting](../b/backtesting.md). Algorithmic Inc.
 
 ### 4. Data Controllers
 
@@ -52,9 +52,9 @@ Data controllers manage the input, storage, and processing of data crucial for i
 - **[Data Cleaning](../d/data_cleaning.md):** Filtering and correcting inaccurate data to ensure its reliability.
 - **Data Storage:** Organizing data efficiently to allow for quick retrieval and analysis.
 - **Real-time Processing:** Ensuring that data is processed and available in real-time for immediate decision-making.
-  
+
 #### Examples:
-- DataRobot: A platform providing automated data processing and [machine learning](../m/machine_learning.md) tools for trading. [DataRobot](https://www.datarobot.com/)
+- DataRobot: A platform providing automated data processing and [machine learning](../m/machine_learning.md) tools for trading. DataRobot
 
 ### 5. Compliance Controllers
 
@@ -65,10 +65,10 @@ Compliance controllers ensure that all trading activities adhere to legal and re
 - **[Transaction](../t/transaction.md) Surveillance:** Monitoring trades to detect suspicious activities or patterns.
 - **Reporting:** Maintaining records and generating reports for audits and regulatory reviews.
 - **Compliance Training:** Educating traders and developers about legal responsibilities and [best practices](../b/best_practices.md).
-  
+
 #### Examples:
-- NICE Actimize: Provides comprehensive compliance and surveillance solutions for trading firms. [NICE Actimize](https://www.niceactimize.com/)
-  
+- NICE Actimize: Provides comprehensive compliance and surveillance solutions for trading firms. NICE Actimize
+
 ## Integration of Controllers in Algorithmic Trading Systems
 
 Effective integration of controllers is vital for the smooth functioning of an [algorithmic trading](../a/accountability.md) system. Here’s how these controllers interact with each other:
@@ -106,7 +106,7 @@ Many modern controllers now incorporate elements of [Machine Learning](../m/mach
 Cloud platforms [offer](../o/offer.md) scalable resources for running complex algorithms and storing vast amounts of data, thus allowing controllers to operate more efficiently.
 
 #### Example:
-- **AWS:** Amazon Web Services provides cloud [infrastructure](../i/infrastructure.md) enabling trading firms to scale their operations seamlessly. [AWS](https://aws.amazon.com/)
+- **AWS:** Amazon Web Services provides cloud [infrastructure](../i/infrastructure.md) enabling trading firms to scale their operations seamlessly. AWS
 
 ## Security Considerations
 

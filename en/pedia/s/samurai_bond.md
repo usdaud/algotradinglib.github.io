@@ -63,7 +63,6 @@ Samurai bonds represent a specialized [financial instrument](../f/financial_inst
 
 For more detailed information and to explore specific issuances, you can visit the following links:
 
-- [World Bank - Funding Programs](https://treasury.worldbank.org/en/about/unit/treasury/ibrd)
-- [General Motors - Investor Relations](https://investor.gm.com/)
-  
+- World Bank - Funding Programs
+
 By understanding the nuances and benefits of Samurai bonds, both issuers and investors can make more informed decisions that align with their financial objectives and [risk](../r/risk.md) appetites.

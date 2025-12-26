@@ -23,17 +23,14 @@ Calculating [seasonality](../s/seasonality.md) indicators involves statistical a
 ### Examples of Seasonality in Financial Markets
 1. **Stock [Market Seasonality](../m/market_seasonality.md)**: The "[January Effect](../j/january_effect.md)" is a well-known seasonal pattern where stock prices tend to rise in January. This effect is attributed to year-end tax-loss selling and new year investment inflows.
 2. **[Commodity](../c/commodity.md) [Market Seasonality](../m/market_seasonality.md)**: Agricultural commodities often exhibit [seasonality](../s/seasonality.md) due to planting and harvesting cycles. For example, corn prices might rise during planting season and fall during harvest.
-3. **[Currency](../c/currency.md) [Market Seasonality](../m/market_seasonality.md)**: Currencies can show seasonal patterns driven by economic factors, such as [trade](../t/trade.md) balances and [interest rate](../i/interest_rate.md) decisions. 
+3. **[Currency](../c/currency.md) [Market Seasonality](../m/market_seasonality.md)**: Currencies can show seasonal patterns driven by economic factors, such as [trade](../t/trade.md) balances and [interest rate](../i/interest_rate.md) decisions.
 
 ### Tools for Identifying Seasonality
 Several [software tools](../s/software_tools_for_trading.md) and platforms help traders identify [seasonality patterns](../s/seasonality_patterns.md):
 
 1. **SeasonalCharts.com**: Provides seasonal charts for various commodities, [stocks](../s/stock.md), and indices.
-   [SeasonalCharts](https://www.seasonalcharts.com/)
 2. **Moore Research Center, Inc. (MRCI)**: Offers seasonal studies and [trading strategies](../t/trading_strategies.md) for [futures](../f/futures.md) and commodities.
-   [Moore Research](http://www.mrci.com/)
 3. **[TradeStation](../t/tradestation.md)**: A popular [trading platform](../t/trading_platform.md) that includes tools for seasonal analysis.
-   [TradeStation](https://www.tradestation.com/)
 
 ### Integrating Seasonality in Algorithmic Trading
 [Algorithmic trading](../a/algorithmic_trading.md) systems can incorporate [seasonality](../s/seasonality.md) indicators into their strategies to enhance performance. Here's how to integrate [seasonality](../s/seasonality.md) into algorithms:

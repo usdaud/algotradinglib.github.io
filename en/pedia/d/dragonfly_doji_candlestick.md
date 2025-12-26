@@ -57,10 +57,10 @@ By doing so, the algorithm systematically leverages the insights offered by the 
 
 There are several companies and platforms that [offer](../o/offer.md) tools and services related to [candlestick pattern recognition](../c/candlestick_pattern_recognition.md) and [algorithmic trading](../a/accountability.md). Some notable examples include:
 
-- **[TradingView](../t/tradingview.md)**: ([website](https://www.tradingview.com/)) - [TradingView](../t/tradingview.md) provides advanced charting tools and [pattern recognition](../p/pattern_recognition.md) features that can identify [candlestick patterns](../c/candlestick_patterns.md) like the Dragonfly [Doji](../d/doji.md).
-- **MetaTrader 4/5**: ([website](https://www.metatrader4.com/)) - The MetaTrader platforms [offer](../o/offer.md) a suite of tools and [indicator](../i/indicator.md) plugins, allowing for the customization of algorithms to detect and [trade](../t/trade.md) based on specific [candlestick patterns](../c/candlestick_patterns.md).
-- **[QuantConnect](../q/quantconnect.md)**: ([website](https://www.quantconnect.com/)) - [QuantConnect](../q/quantconnect.md) allows traders to develop, backtest, and deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those based on [candlestick patterns](../c/candlestick_patterns.md).
-- **AlgoTrader**: ([website](https://www.algotrader.com/)) - AlgoTrader provides institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md), enabling users to implement complex strategies that may include [candlestick pattern recognition](../c/candlestick_pattern_recognition.md).
+- **[TradingView](../t/tradingview.md)**: - [TradingView](../t/tradingview.md) provides advanced charting tools and [pattern recognition](../p/pattern_recognition.md) features that can identify [candlestick patterns](../c/candlestick_patterns.md) like the Dragonfly [Doji](../d/doji.md).
+- **MetaTrader 4/5**: - The MetaTrader platforms [offer](../o/offer.md) a suite of tools and [indicator](../i/indicator.md) plugins, allowing for the customization of algorithms to detect and [trade](../t/trade.md) based on specific [candlestick patterns](../c/candlestick_patterns.md).
+- **[QuantConnect](../q/quantconnect.md)**: - [QuantConnect](../q/quantconnect.md) allows traders to develop, backtest, and deploy [algorithmic trading strategies](../a/algorithmic_trading_strategies.md), including those based on [candlestick patterns](../c/candlestick_patterns.md).
+- **AlgoTrader**: - AlgoTrader provides institutional-grade [algorithmic trading software](../a/algorithmic_trading_software.md), enabling users to implement complex strategies that may include [candlestick pattern recognition](../c/candlestick_pattern_recognition.md).
 
 ## Conclusion
 

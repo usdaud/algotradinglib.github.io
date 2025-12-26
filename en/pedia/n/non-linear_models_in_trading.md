@@ -80,22 +80,22 @@ Non-[linear models](../l/linear_models_in_trading.md), particularly [deep learni
 
 ## Key Companies and Resources
 
-### 1. **Numerai** ([link](https://numer.ai/))
+### 1. **Numerai** (link)
 Numerai is an AI-run [hedge fund](../h/hedge_fund.md) that relies on data scientists to create [predictive models](../p/predictive_models_in_trading.md) for [stock market](../s/stock_market.md) trading. Numerai incorporates advanced non-[linear models](../l/linear_models_in_trading.md) in its strategies.
 
-### 2. **Kensho Technologies** ([link](https://www.kensho.com/))
+### 2. **Kensho Technologies** (link)
 Kensho provides analytical solutions leveraging [machine learning](../m/machine_learning.md) and non-[linear models](../l/linear_models_in_trading.md) to understand [financial markets](../f/financial_market.md) and enhance [trading strategies](../t/trading_strategies.md).
 
-### 3. **Alpaca** ([link](https://alpaca.markets/))
+### 3. **Alpaca** (link)
 [Alpaca](../a/alpaca.md) offers an API platform for [algorithmic trading](../a/algorithmic_trading.md), allowing traders to deploy and backtest non-[linear models](../l/linear_models_in_trading.md) easily.
 
-### 4. **QuantConnect** ([link](https://www.quantconnect.com/))
-[QuantConnect](../q/quantconnect.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-[linear models](../l/linear_models_in_trading.md) for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
+### 4. **StockSharp**
+[StockSharp](../s/stocksharp.md) is an [algorithmic trading](../a/algorithmic_trading.md) platform that supports a variety of non-[linear models](../l/linear_models_in_trading.md) for developing and [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
 
-### 5. **Two Sigma** ([link](https://www.twosigma.com/))
+### 5. **Two Sigma** (link)
 Two Sigma uses advanced non-[linear models](../l/linear_models_in_trading.md) and [machine learning](../m/machine_learning.md) techniques to identify [market](../m/market.md) trends and develop [quantitative trading](../q/quantitative_trading.md) strategies.
 
-### 6. **SigOpt** ([link](https://sigopt.com/))
+### 6. **SigOpt** (link)
 SigOpt offers [optimization](../o/optimization.md) solutions for [machine learning](../m/machine_learning.md) models, including non-[linear models](../l/linear_models_in_trading.md), to enhance predictive performance in trading applications.
 
 ## Conclusion

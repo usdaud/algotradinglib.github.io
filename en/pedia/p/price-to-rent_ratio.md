@@ -86,8 +86,8 @@ This lower ratio implies that buying is more affordable compared to renting, pot
 
 ## Conclusion and Emerging Trends
 
-The Price-to-Rent Ratio remains a critical metric for understanding and navigating the housing [market](../m/market.md). It provides clear, quantifiable insights into the relative cost of buying versus renting. As economic circumstances, [interest](../i/interest.md) rates, and housing policies evolve, the relevance of the P/R ratio continues to adapt, helping different stakeholders make more informed decisions. In particular, emerging trends and technological advancements in financial technology (fintech) and [algorithmic trading](../a/accountability.md) in [real estate](../r/real_estate.md) further enhance the ability to assess and [leverage](../l/leverage.md) P/R ratios efficiently.
+The Price-to-Rent Ratio remains a critical metric for understanding and navigating the housing [market](../m/market.md). It provides clear, quantifiable insights into the relative cost of buying versus renting. As economic circumstances, [interest](../i/interest.md) rates, and housing policies evolve, the relevance of the P/R ratio continues to adapt, helping different stakeholders make more informed decisions. In particular, emerging trends and technological advancements in financial technology (fintech) and [algorithmic trading](../a/algorithmic_trading.md) in [real estate](../r/real_estate.md) further enhance the ability to assess and [leverage](../l/leverage.md) P/R ratios efficiently.
 
 ### References:
 
-- [Example Company Link](https://www.example.com)
+- Example Company Link

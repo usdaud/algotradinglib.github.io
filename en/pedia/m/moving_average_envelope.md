@@ -17,18 +17,18 @@ The Moving Average [Envelope](../e/envelope.md) is based on the idea that market
 To construct the Moving Average [Envelope](../e/envelope.md), follow these steps:
 1. **Calculate the moving average**: This is done by taking the sum of the closing prices over a specified period and then dividing by the number of periods.
 
-    \( \text{SMA} = \frac{\sum_{i=1}^{n} P_i}{n} \)
+ \( \text{SMA} = \frac{\sum_{i=1}^{n} P_i}{n} \)
 
-    where \( P_i \) is the closing price on day \( i \) and \( n \) is the number of days in the moving average.
+ where \( P_i \) is the closing price on day \( i \) and \( n \) is the number of days in the moving average.
 
 2. **Determine the [envelope](../e/envelope.md) bands**: Multiply the moving average by the [envelope](../e/envelope.md) percentage to find the distance of the bands from the moving average.
 
-    \[
-    \begin{align*}
-    \text{Upper Band} &= \text{SMA} \times (1 + \text{[Envelope](../e/envelope.md) Percentage}) \\
-    \text{Lower Band} &= \text{SMA} \times (1 - \text{[Envelope](../e/envelope.md) Percentage})
-    \end{align*}
-    \]
+ \[
+ \begin{align*}
+ \text{Upper Band} &= \text{SMA} \times (1 + \text{[Envelope](../e/envelope.md) Percentage}) \\
+ \text{Lower Band} &= \text{SMA} \times (1 - \text{[Envelope](../e/envelope.md) Percentage})
+ \end{align*}
+ \]
 
 ## Practical Use
 
@@ -68,4 +68,4 @@ While MAE is a useful tool, it has its limitations:
 
 The Moving Average [Envelope](../e/envelope.md) is a straightforward yet powerful tool in the arsenal of technical analysts and traders. It helps in identifying trends, detecting [overbought](../o/overbought.md) and [oversold](../o/oversold.md) conditions, and generating [trading signals](../t/trading_signals.md). However, like any technical [indicator](../i/indicator.md), it should not be used in isolation. Combining MAE with other technical tools and performing thorough [market](../m/market.md) analysis can enhance trading decisions and reduce risks.
 
-For more detailed information, traders can visit [financial analysis](../f/financial_analysis.md) platforms that provide tools for creating and analyzing MAE, such as [TradingView](https://www.tradingview.com) or [MetaStock](https://www.metastock.com).
+For more detailed information, traders can visit [financial analysis](../f/financial_analysis.md) platforms that provide tools for creating and analyzing MAE, such as TradingView or MetaStock.

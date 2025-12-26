@@ -23,10 +23,8 @@ Several models are commonly used to assess and quantify [credit risk](../c/credi
 - **[Credit](../c/credit.md) History**: Past [credit](../c/credit.md) behavior, [payment](../p/payment.md) history, defaults.
 - **Other Financial Indicators**: Assets, liabilities, [net worth](../n/net_worth.md).
 
-**Example Companies**: 
-- Fair Isaac [Corporation](../c/corporation.md) (FICO): [https://www.fico.com/](https://www.fico.com/)
-- [VantageScore](../v/vantagescore.md): [https://your.vantagescore.com/](https://your.vantagescore.com/)
-
+**Example Companies**:
+- Fair Isaac [Corporation](../c/corporation.md) (FICO)- [VantageScore](../v/vantagescore.md)
 ### 2. Structural Models
 
 Structured models, also known as [firm](../f/firm.md)-[value](../v/value.md) models, are based on the idea that a [firm](../f/firm.md)'s [equity](../e/equity.md) can be viewed as a [call option](../c/call_option.md) on its assets. These models use [option pricing theory](../o/option_pricing_theory.md) to estimate the probability of [default](../d/default.md).
@@ -44,8 +42,7 @@ Reduced-form models, also called intensity-based models, do not focus on the [fi
 - **Hazard Rates**: Dynamic modeling of hazard rates based on observable [market](../m/market.md) data.
 
 **Notable Researchers**:
-- Darrell Duffie: [https://www.gsb.stanford.edu/faculty-research/faculty/darrell-duffie](https://www.gsb.stanford.edu/faculty-research/faculty/darrell-duffie)
-
+- Darrell Duffie
 ### 4. Machine Learning Models
 
 [Machine learning](../m/machine_learning.md) (ML) and [artificial intelligence](../a/artificial_intelligence_in_trading.md) (AI) are transforming [credit risk](../c/credit_risk.md) modeling by leveraging vast datasets and sophisticated algorithms to improve predictive accuracy.
@@ -56,9 +53,7 @@ Reduced-form models, also called intensity-based models, do not focus on the [fi
 - **[Neural Networks](../n/neural_networks_in_trading.md)**: [Deep learning](../d/deep_learning.md) models to capture complex, non-linear relationships.
 
 **Example Companies**:
-- Zest AI: [https://www.zest.ai/](https://www.zest.ai/)
-- [Upstart](../u/upstart.md): [https://www.upstart.com/](https://www.upstart.com/)
-
+- Zest AI- [Upstart](../u/upstart.md)
 ### 5. Credit Portfolio Models
 
 These models assess the [risk](../r/risk.md) of a portfolio of [credit](../c/credit.md) exposures, considering correlations between different assets and sources of [systematic risk](../s/systematic_risk.md).
@@ -68,8 +63,7 @@ These models assess the [risk](../r/risk.md) of a portfolio of [credit](../c/cre
 - **CreditRisk+**: A statistical model that uses actuarial techniques for [credit](../c/credit.md) portfolio [risk](../r/risk.md) assessment.
 
 **Example Institutions**:
-- J.P. Morgan: [https://www.jpmorgan.com/insights/research/quantitative-research](https://www.jpmorgan.com/insights/research/quantitative-research)
-
+- J.P. Morgan
 ## Regulatory and Economic Considerations
 
 The development and application of [credit](../c/credit.md) [risk models](../r/risk_models_in_trading.md) are heavily influenced by regulatory frameworks and [economic conditions](../e/economic_conditions.md).
@@ -94,4 +88,4 @@ Despite advancements, [credit risk](../c/credit_risk.md) modeling faces several 
 
 ## Conclusion
 
-[Credit](../c/credit.md) [risk models](../r/risk_models_in_trading.md) are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge [machine learning](../m/machine_learning.md) techniques, these models provide valuable insights into the probability of borrower [default](../d/default.md), enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, [credit risk](../c/credit_risk.md) modeling [will](../w/will.md) undoubtedly become even more sophisticated, [offering](../o/offering.md) enhanced capabilities for predicting and managing [credit risk](../c/credit_risk.md) in an increasingly complex financial landscape.
+[Credit](../c/credit.md) [risk models](../r/risk_models_in_trading.md) are an essential component of modern [financial risk management](../f/financial_risk_management.md). From traditional statistical methods to cutting-edge [machine learning](../m/machine_learning.md) techniques, these models provide valuable insights into the probability of borrower [default](../d/default.md), enabling better decision-making and [risk management](../r/risk_management.md) for financial institutions. As technology and data availability continue to evolve, [credit risk](../c/credit_risk.md) modeling [will](../w/will.md) undoubtedly become even more sophisticated, [offering](../o/offering.md) enhanced capabilities for predicting and managing [credit risk](../c/credit_risk.md) in an increasingly complex financial landscape.

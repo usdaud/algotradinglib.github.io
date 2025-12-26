@@ -23,9 +23,9 @@ One significant benefit for Qualified Reservists is the suspension of the early 
 
 1. **Early [Withdrawal Penalty](../w/withdrawal_penalty.md)**: Typically, withdrawals from retirement accounts made before age 59½ are subject to a 10% early [withdrawal penalty](../w/withdrawal_penalty.md) in addition to regular [income tax](../i/income_tax.md). However, for qualified reservists, this penalty may be waived.
 2. **Criteria for Waiver**:
-   - The [distribution](../d/distribution.md) must be from an IRA or other eligible retirement plan.
-   - The reservist must be on active duty for more than 179 days.
-   - The [withdrawal](../w/withdrawal.md) must occur during the period of active duty.
+ - The [distribution](../d/distribution.md) must be from an IRA or other eligible retirement plan.
+ - The reservist must be on active duty for more than 179 days.
+ - The [withdrawal](../w/withdrawal.md) must occur during the period of active duty.
 3. **[Repayment](../r/repayment.md) [Options](../o/options.md)**: Reservists have the option to recontribute the amount withdrawn penalty-free, within two years after the end of active duty, back into their retirement plan without affecting their annual contribution limits.
 
 #### Tax Deductions and Exemptions
@@ -47,9 +47,9 @@ To effectively manage benefits and plan for financial stability, reservists shou
 Active duty can result in a sudden loss of civilian [income](../i/income.md), making budgeting and the maintenance of an [emergency fund](../e/emergency_fund.md) crucial. Financial advisers often recommend 3-6 months of living expenses in a [liquid](../l/liquid.md), accessible account.
 
 1. **Deployment-specific Expenses**:
-   - Communication costs with family members.
-   - Need for child care or household help.
-   - Travel [home](../h/home.md) during leave periods.
+ - Communication costs with family members.
+ - Need for child care or household help.
+ - Travel [home](../h/home.md) during leave periods.
 
 #### Retirement Savings Strategies
 
@@ -59,7 +59,7 @@ Active duty can result in a sudden loss of civilian [income](../i/income.md), ma
 
 #### Legal Considerations
 
-Ensure legal documents such as wills, powers of attorney, and family care plans are updated prior to deployment. 
+Ensure legal documents such as wills, powers of attorney, and family care plans are updated prior to deployment.
 
 ## Resources and Support Programs
 
@@ -71,6 +71,6 @@ Numerous resources and support programs are available for Qualified Reservists:
 
 ## Conclusion
 
-Being identified as a Qualified Reservist brings about a [range](../r/range.md) of financial considerations and potential benefits, especially in times of active duty. By understanding and leveraging these benefits, reservists can better manage their finances, protect their families, and plan for a stable future. Financial advisors, legal professionals, and military support organizations can provide valuable [guidance](../g/guidance.md) to ensure reservists fully [capitalize](../c/capitalize.md) on the benefits available to them. 
+Being identified as a Qualified Reservist brings about a [range](../r/range.md) of financial considerations and potential benefits, especially in times of active duty. By understanding and leveraging these benefits, reservists can better manage their finances, protect their families, and plan for a stable future. Financial advisors, legal professionals, and military support organizations can provide valuable [guidance](../g/guidance.md) to ensure reservists fully [capitalize](../c/capitalize.md) on the benefits available to them.
 
-For more detailed information on benefits and [financial planning](../f/financial_planning.md) tailored for Qualified Reservists, you can visit **Military OneSource** at [www.militaryonesource.mil](https://www.militaryonesource.mil).
+For more detailed information on benefits and [financial planning](../f/financial_planning.md) tailored for Qualified Reservists, you can visit **Military OneSource** at

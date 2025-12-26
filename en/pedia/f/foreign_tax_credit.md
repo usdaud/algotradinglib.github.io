@@ -108,10 +108,9 @@ As foreign [income](../i/income.md) and [taxes](../t/taxes.md) are denominated i
 
 Several online resources and tax [software tools](../s/software_tools_for_trading.md) are available to assist taxpayers in calculating and claiming the FTC. These tools streamline the process and ensure that computations are accurate and in compliance with IRS regulations.
 
-### IRS Website
+###
 
-The IRS website provides extensive information and resources, including instructions, forms, and publications related to the Foreign [Tax Credit](../t/tax_credit.md).
-[IRS Foreign Tax Credit](https://www.irs.gov/credits-deductions/individuals/foreign-tax-credit)
+The IRS online platform provides extensive information and resources, including instructions, forms, and publications related to the Foreign [Tax Credit](../t/tax_credit.md).
 
 ### Tax Software
 

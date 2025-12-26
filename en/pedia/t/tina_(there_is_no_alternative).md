@@ -50,6 +50,6 @@ In the past decade, the [technology sector](../t/technology_sector.md) has often
 
 The TINA principle highlights a critical dynamic in investment decision-making, especially in environments characterized by low or negative [interest](../i/interest.md) rates. While it provides a rationale for [investor](../i/investor.md) behavior, it also underscores potential vulnerabilities in [market](../m/market.md) structures, including the [risk](../r/risk.md) of [asset](../a/asset.md) [bubbles](../b/bubble.md) and the pitfalls of over-concentration. Understanding the implications of TINA can help investors make better-informed decisions and recognize the [trade](../t/trade.md)-offs involved in seeking higher returns amid limited alternatives.
 
-For more information, you can visit prominent financial institutions that discuss investment strategies and [market](../m/market.md) phenomena in detail, such as [JPMorgan Chase](https://www.jpmorganchase.com) and [Goldman Sachs](https://www.goldmansachs.com).
+For more information, you can visit prominent financial institutions that discuss investment strategies and [market](../m/market.md) phenomena in detail, such as JPMorgan Chase and Goldman Sachs.
 
 ---

@@ -23,7 +23,7 @@ This equation represents the [line of best fit](../l/line_of_best_fit.md), which
 
 [Multiple](../m/multiple.md) [linear regression](../l/linear_regression.md) extends the concept to include [multiple](../m/multiple.md) predictors:
 
-\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + ... + \beta_n X_n + \epsilon \]
+\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 +... + \beta_n X_n + \epsilon \]
 
 Here, [multiple](../m/multiple.md) independent variables are used to predict the dependent variable, making the model more [robust](../r/robust.md) and providing a better fit.
 
@@ -95,7 +95,7 @@ OLS is the most commonly used method for estimating the parameters of a [linear 
 
 Ridge regression adds a penalty term to the OLS objective function, addressing [multicollinearity](../m/multicollinearity_in_trading.md):
 
-\[ \text{Objective:} \sum_{i=1}^{n} (Y_i - \beta_0 - \beta_1 X_{1i} - ... - \beta_p X_{pi})^2 + \[lambda](../l/lambda.md) \sum_{j=1}^{p} \beta_j^2 \]
+\[ \text{Objective:} \sum_{i=1}^{n} (Y_i - \beta_0 - \beta_1 X_{1i} -... - \beta_p X_{pi})^2 + \[lambda](../l/lambda.md) \sum_{j=1}^{p} \beta_j^2 \]
 
 The penalty term (controlled by \( \[lambda](../l/lambda.md) \)) shrinks the coefficients, reducing variance but potentially introducing some bias.
 
@@ -103,7 +103,7 @@ The penalty term (controlled by \( \[lambda](../l/lambda.md) \)) shrinks the coe
 
 Lasso regression also adds a penalty term, but this time it is the sum of the absolute values of the coefficients:
 
-\[ \text{Objective:} \sum_{i=1}^{n} (Y_i - \beta_0 - \beta_1 X_{1i} - ... - \beta_p X_{pi})^2 + \[lambda](../l/lambda.md) \sum_{j=1}^{p} |\beta_j| \]
+\[ \text{Objective:} \sum_{i=1}^{n} (Y_i - \beta_0 - \beta_1 X_{1i} -... - \beta_p X_{pi})^2 + \[lambda](../l/lambda.md) \sum_{j=1}^{p} |\beta_j| \]
 
 This penalty can shrink some coefficients to zero, performing variable selection along with regularization.
 
@@ -137,11 +137,11 @@ Excel is a more accessible tool for traders with less coding experience. It prov
 
 Many trading platforms incorporate [regression analysis](../r/regression_analysis.md) tools to aid in strategy development. For example:
 
-- [MetaTrader](https://www.metatrader4.com): Utilizes an integrated programming language (MQL) to develop custom indicators and strategies.
+- MetaTrader: Utilizes an integrated programming language (MQL) to develop custom indicators and strategies.
 
-- [QuantConnect](https://www.quantconnect.com): Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for [regression analysis](../r/regression_analysis.md) and other statistical methods.
+- QuantConnect: Provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive libraries for [regression analysis](../r/regression_analysis.md) and other statistical methods.
 
-- [AlgoTrader](https://www.algotrader.com): Offers an [algorithmic trading](../a/algorithmic_trading.md) platform supporting various types of regression models and sophisticated [trading strategies](../t/trading_strategies.md).
+- AlgoTrader: Offers an [algorithmic trading](../a/algorithmic_trading.md) platform supporting various types of regression models and sophisticated [trading strategies](../t/trading_strategies.md).
 
 ## Challenges and Considerations
 
@@ -171,6 +171,6 @@ Performing [regression analysis](../r/regression_analysis.md) on large datasets 
 
 For more information on [regression analysis](../r/regression_analysis.md) tools and platforms, you can visit the following links:
 
-- [MetaTrader](https://www.metatrader4.com)
-- [QuantConnect](https://www.quantconnect.com)
-- [AlgoTrader](https://www.algotrader.com)
+- MetaTrader
+- QuantConnect
+- AlgoTrader

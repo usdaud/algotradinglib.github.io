@@ -1,6 +1,6 @@
 # OEX
 
-The OEX, or Standard & Poor's 100 [Index](../i/index_instrument.md) (S&P 100), is a stock [market index](../m/market_index.md) created by Standard & Poor's (S&P), which measures the stock performance of 100 large companies [listed](../l/listed.md) on the US stock exchanges. The OEX, also known as the S&P 100, is a subset of the S&P 500, including the largest and most established US companies with [exchange](../e/exchange.md)-[listed](../l/listed.md) [options](../o/options.md), making it one of the key indices in the [financial markets](../f/financial_market.md). 
+The OEX, or Standard & Poor's 100 [Index](../i/index_instrument.md) (S&P 100), is a stock [market index](../m/market_index.md) created by Standard & Poor's (S&P), which measures the stock performance of 100 large companies [listed](../l/listed.md) on the US stock exchanges. The OEX, also known as the S&P 100, is a subset of the S&P 500, including the largest and most established US companies with [exchange](../e/exchange.md)-[listed](../l/listed.md) [options](../o/options.md), making it one of the key indices in the [financial markets](../f/financial_market.md).
 
 ## Overview
 
@@ -77,7 +77,7 @@ The [NASDAQ](../n/nasdaq.md)-100 includes 100 largest non-financial companies [l
 
 ### Algo Trading
 
-[Algorithmic trading](../a/accountability.md) has seen increased use in trading S&P 100 [options](../o/options.md) due to the [index](../i/index_instrument.md)'s [liquidity](../l/liquidity.md) and the [technical analysis](../t/technical_analysis.md) opportunities provided. Algorithms can be designed to exploit small price discrepancies, execute trades at optimal times, and manage [risk](../r/risk.md) more effectively.
+[Algorithmic trading](../a/algorithmic_trading.md) has seen increased use in trading S&P 100 [options](../o/options.md) due to the [index](../i/index_instrument.md)'s [liquidity](../l/liquidity.md) and the [technical analysis](../t/technical_analysis.md) opportunities provided. Algorithms can be designed to exploit small price discrepancies, execute trades at optimal times, and manage [risk](../r/risk.md) more effectively.
 
 #### Key Tools:
 - **[Quantitative Models](../q/quantitative_models.md):** Used for predicting price movements based on historical data.
@@ -89,9 +89,9 @@ The [NASDAQ](../n/nasdaq.md)-100 includes 100 largest non-financial companies [l
 Financial technology (FinTech) has revolutionized trading of the S&P 100, making it more accessible and efficient. Online platforms and mobile apps enable investors to [trade](../t/trade.md) [options](../o/options.md) on the go, using sophisticated interfaces that provide real-time data, analytics, and decision-making tools.
 
 #### Notable Platforms:
-- [Interactive Brokers](https://www.interactivebrokers.com): Known for its advanced trading tools and low [commission](../c/commission.md) rates.
-- [TD Ameritrade](https://www.tdameritrade.com): Offers a powerful thinkorswim platform with an array of trading and analysis tools.
+- Interactive Brokers: Known for its advanced trading tools and low [commission](../c/commission.md) rates.
+- TD Ameritrade: Offers a powerful thinkorswim platform with an array of trading and analysis tools.
 
 ## Conclusion
 
-The OEX or S&P 100 [Index](../i/index_instrument.md) stands as a critical measure of the US [market](../m/market.md)'s health, showcasing its largest and most influential companies. Its role in [options](../o/options.md) trading further amplifies its significance, [offering](../o/offering.md) investors various tools for hedging, leveraging, and speculating. With the advent of [algorithmic trading](../a/accountability.md) and FinTech, the landscape of trading on the S&P 100 has become increasingly sophisticated, providing more opportunities and greater [efficiency](../e/efficiency.md). As markets evolve, the OEX remains a key barometer of economic vitality and a pivotal component in the world of [finance](../f/finance.md) and trading.
+The OEX or S&P 100 [Index](../i/index_instrument.md) stands as a critical measure of the US [market](../m/market.md)'s health, showcasing its largest and most influential companies. Its role in [options](../o/options.md) trading further amplifies its significance, [offering](../o/offering.md) investors various tools for hedging, leveraging, and speculating. With the advent of [algorithmic trading](../a/algorithmic_trading.md) and FinTech, the landscape of trading on the S&P 100 has become increasingly sophisticated, providing more opportunities and greater [efficiency](../e/efficiency.md). As markets evolve, the OEX remains a key barometer of economic vitality and a pivotal component in the world of [finance](../f/finance.md) and trading.

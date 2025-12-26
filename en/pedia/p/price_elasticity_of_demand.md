@@ -16,9 +16,9 @@ Where:
 ### Elastic, Inelastic, and Unitary Elasticity
 
 - **[Elastic](../e/elastic.md) [Demand](../d/demand.md)**: When PED > 1, [demand](../d/demand.md) is considered [elastic](../e/elastic.md). A 1% change in price results in more than a 1% change in the [quantity demanded](../q/quantity_demanded.md). This typically occurs for goods that are not necessities or have many substitutes. For example, luxury items often exhibit [elastic](../e/elastic.md) [demand](../d/demand.md).
-  
+
 - **Inelastic [Demand](../d/demand.md)**: When PED < 1, [demand](../d/demand.md) is inelastic. A 1% change in price results in less than a 1% change in the [quantity demanded](../q/quantity_demanded.md). This is common for essential goods or products with few substitutes, such as gasoline or prescription medications.
-  
+
 - **Unitary [Elastic](../e/elastic.md) [Demand](../d/demand.md)**: When PED = 1, [demand](../d/demand.md) is unitary [elastic](../e/elastic.md), meaning a 1% change in price results in a 1% change in the [quantity demanded](../q/quantity_demanded.md). Here, total [revenue](../r/revenue.md) remains [unchanged](../u/unchanged.md) when prices fluctuate.
 
 ### Factors Influencing Price Elasticity of Demand
@@ -63,7 +63,7 @@ Empirical measurement involves analyzing historical data to understand how [quan
 
 ## Ped and Technology
 
-Advancements in [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) have revolutionized the measurement and application of PED. Fintech companies, such as [Kensho](https://www.kensho.com/) and [ZestFinance](https://www.zest.ai/), [leverage](../l/leverage.md) these technologies to provide dynamic pricing models and [demand forecasting](../d/demand_forecasting.md).
+Advancements in [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) have revolutionized the measurement and application of PED. Fintech companies, such as Kensho and ZestFinance, [leverage](../l/leverage.md) these technologies to provide dynamic pricing models and [demand forecasting](../d/demand_forecasting.md).
 
 ### Algorithmic Trading
 
@@ -74,4 +74,3 @@ In the realm of algotrading, algorithms [factor](../f/factor.md) PED to optimize
 Price [Elasticity](../e/elasticity.md) of [Demand](../d/demand.md) is a fundamental concept in [economics](../e/economics.md) that has far-reaching implications in various sectors, from individual businesses’ pricing strategies to macroeconomic policy-making. Understanding and accurately measuring PED can provide valuable insights for optimizing prices, enhancing [revenue](../r/revenue.md), and making informed strategic decisions.
 
 Further advancements in technology, particularly in [data analytics](../d/data_analytics.md) and [machine learning](../m/machine_learning.md), continue to refine our ability to understand and utilize PED, making it an ever-more critical tool in the modern economic landscape.
-

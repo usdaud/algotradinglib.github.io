@@ -54,15 +54,15 @@ Arbitrageurs take advantage of price discrepancies between different markets or 
 
 ### Chicago Mercantile Exchange (CME)
 
-The CME is one of the world's largest futures exchanges, [offering](../o/offering.md) a wide [range](../r/range.md) of [commodity](../c/commodity.md) and financial futures. More information can be found on their [official website](https://www.cmegroup.com/).
+The CME is one of the world's largest futures exchanges, [offering](../o/offering.md) a wide [range](../r/range.md) of [commodity](../c/commodity.md) and financial futures.
 
 ### Intercontinental Exchange (ICE)
 
-The ICE operates global futures, [equity](../e/equity.md), and [commodity](../c/commodity.md) markets, and provides clearinghouse solutions. For more details, visit [their website](https://www.theice.com/index).
+The ICE operates global futures, [equity](../e/equity.md), and [commodity](../c/commodity.md) markets, and provides clearinghouse solutions.
 
 ### New York Mercantile Exchange (NYMEX)
 
-NYMEX is another major [exchange](../e/exchange.md), particularly for energy and metal futures. For more details, see their [website](https://www.cmegroup.com/).
+NYMEX is another major [exchange](../e/exchange.md), particularly for energy and metal futures.
 
 ## Margin Requirements and Leverage
 

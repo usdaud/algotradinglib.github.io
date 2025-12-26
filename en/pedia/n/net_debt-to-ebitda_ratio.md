@@ -5,7 +5,7 @@ The [Net Debt](../n/net_debt.md)-to-EBITDA ratio is a financial metric that meas
 ## Definition and Calculation
 
 ### Components of the Ratio:
-1. **[Net Debt](../n/net_debt.md)**: [Net debt](../n/net_debt.md) is calculated as total [debt](../d/debt.md) minus cash and [cash equivalents](../c/cash_equivalents.md). It represents the amount of [debt](../d/debt.md) that would remain if all cash and equivalents were used to pay down the [debt](../d/debt.md). 
+1. **[Net Debt](../n/net_debt.md)**: [Net debt](../n/net_debt.md) is calculated as total [debt](../d/debt.md) minus cash and [cash equivalents](../c/cash_equivalents.md). It represents the amount of [debt](../d/debt.md) that would remain if all cash and equivalents were used to pay down the [debt](../d/debt.md).
 2. **EBITDA**: EBITDA stands for [Earnings](../e/earnings.md) Before [Interest](../i/interest.md), [Taxes](../t/taxes.md), [Depreciation](../d/depreciation.md), and Amortization. It is a measure of a company's operating performance and profitability, often used as a [proxy](../p/proxy.md) for [cash flow](../c/cash_flow.md).
 
 ### Formula:
@@ -102,8 +102,6 @@ Using the [Net Debt](../n/net_debt.md)-to-EBITDA formula:
 Ford’s higher ratio indicates substantial [leverage](../l/leverage.md), which is typical in [capital](../c/capital.md)-intensive industries like automotive [manufacturing](../m/manufacturing.md).
 
 For more information, you can explore the official financial pages of the mentioned companies:
-- [Amazon Investor Relations](https://www.amazon.com/ir)
-- [Ford Investor Relations](https://corporate.ford.com/investors.html)
 
 ## Conclusion
 

@@ -9,20 +9,20 @@ An [uptrend](../u/uptrend.md) is characterized by a series of higher highs and h
 ### Key Indicators for Identifying Uptrends
 
 1. **Moving Averages (MA):**
-   - Simple Moving Average (SMA)
-   - Exponential Moving Average (EMA)
-   
+ - Simple Moving Average (SMA)
+ - Exponential Moving Average (EMA)
+
 2. **Moving Average Convergence [Divergence](../d/divergence.md) (MACD):**
-   - MACD Line
-   - Signal Line
-   - [Histogram](../h/histogram.md)
-   
+ - MACD Line
+ - Signal Line
+ - [Histogram](../h/histogram.md)
+
 3. **[Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI):**
-   - Measures the speed and change of price movements
-   
+ - Measures the speed and change of price movements
+
 4. **Trendlines:**
-   - Drawn to connect a series of higher lows in an [uptrend](../u/uptrend.md)
-   
+ - Drawn to connect a series of higher lows in an [uptrend](../u/uptrend.md)
+
 ## Uptrend Trading Strategies
 
 Several strategies can be employed to [trade](../t/trade.md) effectively during an [uptrend](../u/uptrend.md). Below are some of the most commonly used ones:
@@ -88,31 +88,31 @@ This strategy involves entering a [trade](../t/trade.md) during a short-term dec
 ### Key Components of Algorithmic Systems
 
 1. **Data Collection and Analysis:**
-   - Historical price data
-   - [Real-time market data](../r/real-time_market_data.md)
-   - Technical [indicator](../i/indicator.md) calculations
+ - Historical price data
+ - [Real-time market data](../r/real-time_market_data.md)
+ - Technical [indicator](../i/indicator.md) calculations
 
 2. **Signal Generation:**
-   - Entry and exit signals based on predefined conditions
+ - Entry and exit signals based on predefined conditions
 
 3. **[Execution](../e/execution.md) Modality:**
-   - Mechanisms to place and manage trades automatically
+ - Mechanisms to place and manage trades automatically
 
 4. **[Risk Management](../r/risk_management.md):**
-   - Implementation of stop-loss, take-[profit](../p/profit.md), and position-sizing rules
+ - Implementation of stop-loss, take-[profit](../p/profit.md), and position-sizing rules
 
 5. **[Backtesting](../b/backtesting.md) and [Optimization](../o/optimization.md):**
-   - [Historical data analysis](../h/historical_data_analysis.md) to validate strategy performance
-   - [Optimization](../o/optimization.md) to improve strategy robustness
+ - [Historical data analysis](../h/historical_data_analysis.md) to validate strategy performance
+ - [Optimization](../o/optimization.md) to improve strategy robustness
 
 ### Example Companies
 
 Several companies [offer](../o/offer.md) platforms and tools to facilitate the creation and implementation of [algorithmic trading](../a/algorithmic_trading.md) systems:
 
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform. [Visit QuantConnect](https://www.quantconnect.com)
-- **Kavout:** A fintech company providing AI-driven investment solutions. [Visit Kavout](https://www.kavout.com)
-- **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free brokerage platform for [algorithmic trading](../a/algorithmic_trading.md). [Visit Alpaca](https://alpaca.markets)
-- **Trading Technologies:** A professional [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities. [Visit Trading Technologies](https://www.tradingtechnologies.com)
+- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform. Visit QuantConnect
+- **Kavout:** A fintech company providing AI-driven investment solutions. Visit Kavout
+- **[Alpaca](../a/alpaca.md):** A [commission](../c/commission.md)-free brokerage platform for [algorithmic trading](../a/algorithmic_trading.md). Visit Alpaca
+- **Trading Technologies:** A professional [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced [algorithmic trading](../a/algorithmic_trading.md) capabilities. Visit Trading Technologies
 
 By leveraging these platforms, traders can efficiently develop, test, and deploy algorithmic systems for [uptrend](../u/uptrend.md) [trading strategies](../t/trading_strategies.md).
 

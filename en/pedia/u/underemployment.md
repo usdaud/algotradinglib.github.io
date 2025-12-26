@@ -66,7 +66,7 @@ In many developing countries, underemployment is prevalent due to a lack of [ind
 ### Role of Fintech
 Fintech companies can play a significant role in addressing underemployment by providing innovative financial products and services that support entrepreneurship, [gig economy](../g/gig_economy.md) workers, and small businesses. By [offering](../o/offering.md) access to [credit](../c/credit.md), [payment](../p/payment.md) solutions, and [financial planning](../f/financial_planning.md) tools, fintech can help individuals create their own employment opportunities and better manage irregular incomes.
 
-**Example**: [Kiva](https://www.kiva.org/) is a non-[profit](../p/profit.md) organization that enables individuals to lend [money](../m/money.md) to low-[income](../i/income.md) entrepreneurs and students, addressing underemployment by empowering people to start and grow their own businesses.
+**Example**: Kiva is a non-[profit](../p/profit.md) organization that enables individuals to lend [money](../m/money.md) to low-[income](../i/income.md) entrepreneurs and students, addressing underemployment by empowering people to start and grow their own businesses.
 
 ### Use of Data Analytics
 [Big data](../b/big_data_in_trading.md) and analytics can help identify underemployment trends and patterns, enabling targeted interventions. For example, analyzing [labor market](../l/labor_market.md) data can help policymakers and organizations understand which sectors have a high prevalence of underemployment and tailor their strategies accordingly.
@@ -74,7 +74,7 @@ Fintech companies can play a significant role in addressing underemployment by p
 ### Platforms for Job Matching
 Online job platforms and algorithms can improve job matching by better aligning workers’ skills with job requirements. These platforms use [data analytics](../d/data_analytics.md) to connect job seekers with positions that match their qualifications more accurately than traditional methods.
 
-**Example**: [LinkedIn](https://www.linkedin.com/) uses [data analytics](../d/data_analytics.md) to recommend jobs to users based on their profile information, potentially reducing skill-based underemployment by improving job matching [efficiency](../e/efficiency.md).
+**Example**: LinkedIn uses [data analytics](../d/data_analytics.md) to recommend jobs to users based on their profile information, potentially reducing skill-based underemployment by improving job matching [efficiency](../e/efficiency.md).
 
 ## Conclusion
 

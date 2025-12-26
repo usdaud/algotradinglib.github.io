@@ -7,21 +7,21 @@ Exponential Moving Averages (EMAs) are a type of moving average that place a gre
 The calculation of the 10-Period EMA involves several steps. Firstly, it's important to [note](../n/note.md) that the "period" can refer to different time frames, such as minutes, hours, days, or even weeks, depending on the [trader](../t/trader.md)'s preference and strategy. Here’s a step-by-step guide to calculating the 10-Period EMA:
 
 1. **Initial Setup**:
-    - Gather the closing prices for the last 10 periods.
-    - Calculate the Simple Moving Average (SMA) of the first 10 periods. This SMA acts as the starting EMA [value](../v/value.md).
+ - Gather the closing prices for the last 10 periods.
+ - Calculate the Simple Moving Average (SMA) of the first 10 periods. This SMA acts as the starting EMA [value](../v/value.md).
 
 2. **Smoothing Constant ([Multiplier](../m/multiplier.md))**:
-    - The formula to determine the smoothing constant (known as the [multiplier](../m/multiplier.md)) for a 10-period EMA is: 
-      \[
-      \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1} = \frac{2}{10 + 1} = \frac{2}{11} \approx 0.1818
-      \]
+ - The formula to determine the smoothing constant (known as the [multiplier](../m/multiplier.md)) for a 10-period EMA is:
+ \[
+ \text{[Multiplier](../m/multiplier.md)} = \frac{2}{n + 1} = \frac{2}{10 + 1} = \frac{2}{11} \approx 0.1818
+ \]
 
 3. **Recursive Calculation**:
-    - The EMA is then calculated recursively for each subsequent period using the following formula:
-      \[
-      \text{EMA}_\text{current} = \left(\text{Closing Price}_\text{current} - \text{EMA}_\text{previous}\right) \times \text{[Multiplier](../m/multiplier.md)} + \text{EMA}_\text{previous}
-      \]
-    - Continue applying this formula iteratively to obtain the updated EMA [value](../v/value.md) for subsequent periods.
+ - The EMA is then calculated recursively for each subsequent period using the following formula:
+ \[
+ \text{EMA}_\text{current} = \left(\text{Closing Price}_\text{current} - \text{EMA}_\text{previous}\right) \times \text{[Multiplier](../m/multiplier.md)} + \text{EMA}_\text{previous}
+ \]
+ - Continue applying this formula iteratively to obtain the updated EMA [value](../v/value.md) for subsequent periods.
 
 ### Example Calculation
 
@@ -101,9 +101,7 @@ EMAs can act as dynamic [support and resistance](../s/support_and_resistance.md)
 
 Traders and investors often apply the 10-Period EMA to individual [stocks](../s/stock.md), indices, and ETFs. For instance, a [trader](../t/trader.md) might use the 10-Period EMA to make trading decisions on highly [liquid](../l/liquid.md) assets such as:
 
-- **Apple Inc. (AAPL)**: https://www.apple.com/[investor](../i/investor.md)/
-- **S&P 500 ETF (SPY)**: https://www.spdrs.com/product/[fund](../f/fund.md).seam?ticker=SPY
-
+- **Apple Inc. (AAPL)**- **S&P 500 ETF (SPY)**
 ### Forex
 
 In the Forex [market](../m/market.md), the 10-Period EMA is commonly applied to major [currency](../c/currency.md) pairs. For example:
@@ -114,9 +112,7 @@ In the Forex [market](../m/market.md), the 10-Period EMA is commonly applied to 
 
 Given the high [volatility](../v/volatility.md) in cryptocurrency markets, the 10-Period EMA is particularly useful. It helps traders to quickly adapt to the [market](../m/market.md)'s rapid changes:
 
-- **[Bitcoin](../b/bitcoin.md) (BTC)**: https://www.[bitcoin](../b/bitcoin.md).com/
-- **[Ethereum](../e/ethereum_.md) (ETH)**: https://[ethereum](../e/ethereum_.md).org/
-
+- **[Bitcoin](../b/bitcoin.md) (BTC)**- **[Ethereum](../e/ethereum_.md) (ETH)**
 ## Conclusion
 
-The 10-Period Exponential Moving Average is a versatile and valuable tool for traders in various [financial markets](../f/financial_market.md). By focusing more on recent price data, it provides a more responsive indication of [market](../m/market.md) trends. However, like all [technical indicators](../t/technical_indicators.md), it works best when used in conjunction with other forms of analysis. Traders should always consider the [underlying](../u/underlying.md) [market](../m/market.md) conditions, their own [risk tolerance](../r/risk_tolerance.md), and other [technical indicators](../t/technical_indicators.md) to make informed trading decisions.
+The 10-Period Exponential Moving Average is a versatile and valuable tool for traders in various [financial markets](../f/financial_market.md). By focusing more on recent price data, it provides a more responsive indication of [market](../m/market.md) trends. However, like all [technical indicators](../t/technical_indicators.md), it works best when used in conjunction with other forms of analysis. Traders should always consider the [underlying](../u/underlying.md) [market](../m/market.md) conditions, their own [risk tolerance](../r/risk_tolerance.md), and other [technical indicators](../t/technical_indicators.md) to make informed trading decisions.

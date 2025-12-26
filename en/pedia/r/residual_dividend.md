@@ -17,23 +17,23 @@ Residual [dividend](../d/dividend.md) is a [dividend policy](../d/dividend_polic
 ### Step-by-Step Process
 
 1. **Calculation of [Earnings](../e/earnings.md) Available for Investments**:
-   - Determine the net [income](../i/income.md) earned by the company for the period.
-   
+ - Determine the net [income](../i/income.md) earned by the company for the period.
+
 2. **[Capital](../c/capital.md) [Budget](../b/budget.md)**:
-   - Assess the company's [capital budgeting](../c/capital_budgeting.md) needs for the period, which includes planned [capital](../c/capital.md) expenditures and investment in working [capital](../c/capital.md) to maintain [operational efficiency](../o/operational_efficiency_in_trading.md).
+ - Assess the company's [capital budgeting](../c/capital_budgeting.md) needs for the period, which includes planned [capital](../c/capital.md) expenditures and investment in working [capital](../c/capital.md) to maintain [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 3. **[Optimal Capital Structure](../o/optimal_capital_structure.md)**:
-   - Identify the optimal [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio for the company. This ratio helps in understanding the best mix of [debt](../d/debt.md) and [equity financing](../e/equity_financing.md) to minimize the [cost of capital](../c/cost_of_capital.md) and maximize [shareholder value](../s/shareholder_value.md).
-   
+ - Identify the optimal [debt](../d/debt.md)-to-[equity](../e/equity.md) ratio for the company. This ratio helps in understanding the best mix of [debt](../d/debt.md) and [equity financing](../e/equity_financing.md) to minimize the [cost of capital](../c/cost_of_capital.md) and maximize [shareholder value](../s/shareholder_value.md).
+
 4. **[Retained Earnings](../r/retained_earnings.md) Calculation**:
-   - Subtract the required investments in [capital](../c/capital.md) assets and working [capital](../c/capital.md) from the total [earnings](../e/earnings.md).
-   - Retain [earnings](../e/earnings.md) required to [finance](../f/finance.md) these investments, keeping in mind the [optimal capital structure](../o/optimal_capital_structure.md).
-   
+ - Subtract the required investments in [capital](../c/capital.md) assets and working [capital](../c/capital.md) from the total [earnings](../e/earnings.md).
+ - Retain [earnings](../e/earnings.md) required to [finance](../f/finance.md) these investments, keeping in mind the [optimal capital structure](../o/optimal_capital_structure.md).
+
 5. **Residual [Earnings](../e/earnings.md)**:
-   - The remaining [earnings](../e/earnings.md) (if any) after [financing](../f/financing.md) all the projects and maintaining the [optimal capital structure](../o/optimal_capital_structure.md) constitute the residual [earnings](../e/earnings.md).
+ - The remaining [earnings](../e/earnings.md) (if any) after [financing](../f/financing.md) all the projects and maintaining the [optimal capital structure](../o/optimal_capital_structure.md) constitute the residual [earnings](../e/earnings.md).
 
 6. **[Dividend](../d/dividend.md) [Distribution](../d/distribution.md)**:
-   - Pay out the residual [earnings](../e/earnings.md) as dividends to shareholders.
+ - Pay out the residual [earnings](../e/earnings.md) as dividends to shareholders.
 
 ### Formula
 
@@ -44,42 +44,40 @@ This ensures that dividends are only paid if there are funds left after meeting 
 ## Advantages of Residual Dividend Policy
 
 1. **Focus on Growth**:
-   - Ensures that the company prioritizes its long-term growth and [capital investment](../c/capital_investment.md), which can enhance [shareholder value](../s/shareholder_value.md) over time.
-   
+ - Ensures that the company prioritizes its long-term growth and [capital investment](../c/capital_investment.md), which can enhance [shareholder value](../s/shareholder_value.md) over time.
+
 2. **Financial Stability**:
-   - By prioritizing [reinvestment](../r/reinvestment.md) and maintaining an [optimal capital structure](../o/optimal_capital_structure.md), the company can reduce financial instability and risks associated with insufficient funding for key projects.
-   
+ - By prioritizing [reinvestment](../r/reinvestment.md) and maintaining an [optimal capital structure](../o/optimal_capital_structure.md), the company can reduce financial instability and risks associated with insufficient funding for key projects.
+
 3. **Performance-Based Dividends**:
-   - Dividends paid under this policy are more reflective of actual [earnings](../e/earnings.md) and performance, ensuring that shareholders receive a portion of genuine [surplus](../s/surplus.md).
+ - Dividends paid under this policy are more reflective of actual [earnings](../e/earnings.md) and performance, ensuring that shareholders receive a portion of genuine [surplus](../s/surplus.md).
 
 ## Disadvantages of Residual Dividend Policy
 
 1. **[Uncertainty](../u/uncertainty_in_trading.md) for Shareholders**:
-   - Shareholders may experience [uncertainty](../u/uncertainty_in_trading.md) and inconsistency in [dividend](../d/dividend.md) payments, as [dividend](../d/dividend.md) amounts can vary significantly based on the company's [reinvestment](../r/reinvestment.md) needs and profitability.
-   
+ - Shareholders may experience [uncertainty](../u/uncertainty_in_trading.md) and inconsistency in [dividend](../d/dividend.md) payments, as [dividend](../d/dividend.md) amounts can vary significantly based on the company's [reinvestment](../r/reinvestment.md) needs and profitability.
+
 2. **[Market](../m/market.md) Perception**:
-   - Volatile or uncertain [dividend](../d/dividend.md) payouts could negatively impact [investor](../i/investor.md) sentiment and perceived stock [value](../v/value.md), potentially affecting the company’s [market price](../m/market_price.md) adversely.
+ - Volatile or uncertain [dividend](../d/dividend.md) payouts could negatively impact [investor](../i/investor.md) sentiment and perceived stock [value](../v/value.md), potentially affecting the company’s [market price](../m/market_price.md) adversely.
 
 3. **Operational Complexity**:
-   - This policy requires careful and continuous assessment of the company's financial needs and [optimal capital structure](../o/optimal_capital_structure.md), demanding rigorous [financial planning](../f/financial_planning.md) and analysis.
+ - This policy requires careful and continuous assessment of the company's financial needs and [optimal capital structure](../o/optimal_capital_structure.md), demanding rigorous [financial planning](../f/financial_planning.md) and analysis.
 
 ## Application in Real World
 
 ### Example Companies
 
 - **General Electric (GE)**
-  - URL: [https://www.ge.com/](https://www.ge.com/)
-
+ - URL
 - **Apple Inc. (AAPL)**
-  - URL: [https://www.apple.com/](https://www.apple.com/)
-
+ - URL
 Both General Electric and Apple Inc. have historically used variations of [dividend](../d/dividend.md) policies that bear resemblance to the residual [dividend](../d/dividend.md) model, focusing heavily on [reinvestment](../r/reinvestment.md) for growth and stability before considering dividends.
 
 ## Residual Dividend in Fintech and Algo Trading
 
 ### Use in Algorithmic Trading Strategies
 
-In [algorithmic trading](../a/accountability.md), the residual [dividend](../d/dividend.md) approach can be programmed into [trading algorithms](../t/trading_algorithms.md) to target companies that follow this policy. Investors prefer such companies for sustainable growth prospects, making these [stocks](../s/stock.md) favorable for long-term investment strategies. Algo trading can help in dynamically adjusting portfolios based on residually determined [dividend](../d/dividend.md) announcements or [capital](../c/capital.md) investments.
+In [algorithmic trading](../a/algorithmic_trading.md), the residual [dividend](../d/dividend.md) approach can be programmed into [trading algorithms](../t/trading_algorithms.md) to target companies that follow this policy. Investors prefer such companies for sustainable growth prospects, making these [stocks](../s/stock.md) favorable for long-term investment strategies. Algo trading can help in dynamically adjusting portfolios based on residually determined [dividend](../d/dividend.md) announcements or [capital](../c/capital.md) investments.
 
 ### Fintech Applications
 

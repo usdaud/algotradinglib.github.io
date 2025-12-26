@@ -36,12 +36,12 @@ The [Variance-Covariance method](../v/variance-covariance_method.md) assumes tha
 - Compute the mean ([expected return](../e/expected_return.md)) and [standard deviation](../s/standard_deviation.md) of returns.
 - Use the [Z-score](../z/z-score.md) corresponding to the desired confidence level.
 - Calculate VaR using the formula:
-  
-  \[
-  VaR = Z \times \sigma \times \sqrt{t}
-  \]
-  
-  Where \( Z \) is the [Z-score](../z/z-score.md) for the confidence level, \( \sigma \) is the [standard deviation](../s/standard_deviation.md), and \( t \) is the [time horizon](../t/time_horizon.md).
+
+ \[
+ VaR = Z \times \sigma \times \sqrt{t}
+ \]
+
+ Where \( Z \) is the [Z-score](../z/z-score.md) for the confidence level, \( \sigma \) is the [standard deviation](../s/standard_deviation.md), and \( t \) is the [time horizon](../t/time_horizon.md).
 
 ### 3. Monte Carlo Simulation
 
@@ -98,19 +98,19 @@ Several software solutions and tools are available for calculating and managing 
 
 ### Bloomberg Terminal
 
-The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, [scenario analysis](../s/scenario_analysis.md), and [stress testing](../s/stress_testing_in_trading.md). [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+The [Bloomberg](../b/bloomberg.md) Terminal offers comprehensive [risk management](../r/risk_management.md) tools, including VaR calculations, [scenario analysis](../s/scenario_analysis.md), and [stress testing](../s/stress_testing_in_trading.md). Bloomberg Terminal
 
 ### MSCI BarraOne
 
-BarraOne is a [multi-asset class](../m/multi-asset_class.md) [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) platform by MSCI, which includes advanced VaR analytics and [stress testing](../s/stress_testing_in_trading.md). [MSCI BarraOne](https://www.msci.com/our-solutions/multi-asset-class-risk/analytics/portfolio-management)
+BarraOne is a [multi-asset class](../m/multi-asset_class.md) [risk](../r/risk.md) and [performance analytics](../p/performance_analytics.md) platform by MSCI, which includes advanced VaR analytics and [stress testing](../s/stress_testing_in_trading.md). MSCI BarraOne
 
 ### RiskMetrics by MSCI
 
-RiskMetrics provides [risk management](../r/risk_management.md) solutions, including [robust](../r/robust.md) VaR calculation methods and [market risk](../m/market_risk.md) analytics. [RiskMetrics](https://www.msci.com/riskmetrics)
+RiskMetrics provides [risk management](../r/risk_management.md) solutions, including [robust](../r/robust.md) VaR calculation methods and [market risk](../m/market_risk.md) analytics. RiskMetrics
 
 ### Algorithmic Trading Platforms
 
-[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and others provide integrated [risk management](../r/risk_management.md) tools, including VaR calculations, to help traders manage their strategies effectively. [MetaTrader](https://www.metatrader4.com/en), [NinjaTrader](https://ninjatrader.com/)
+[Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader, [NinjaTrader](../n/ninjatrader.md), and others provide integrated [risk management](../r/risk_management.md) tools, including VaR calculations, to help traders manage their strategies effectively. MetaTrader, NinjaTrader
 
 ## Conclusion
 

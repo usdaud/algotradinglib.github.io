@@ -63,7 +63,7 @@ Profit directly impacts a company's [retained earnings](../r/retained_earnings.m
 
 ## Profit in Algorithmic Trading
 
-In the realm of [algorithmic trading](../a/accountability.md), profit generation is the ultimate goal of [trading strategies](../t/trading_strategies.md). [Algorithmic trading](../a/accountability.md) involves using computer algorithms to execute trades based on predefined criteria, with the aim of maximizing profits by exploiting [market](../m/market.md) inefficiencies.
+In the realm of [algorithmic trading](../a/algorithmic_trading.md), profit generation is the ultimate goal of [trading strategies](../t/trading_strategies.md). [Algorithmic trading](../a/algorithmic_trading.md) involves using computer algorithms to execute trades based on predefined criteria, with the aim of maximizing profits by exploiting [market](../m/market.md) inefficiencies.
 
 ### Key Strategies for Profit in Algorithmic Trading
 
@@ -89,7 +89,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using [quantitative models](
 
 ### Risk Management
 
-Effective [risk management](../r/risk_management.md) is crucial for profitability in [algorithmic trading](../a/accountability.md). This involves setting stop-loss limits, diversifying [trading strategies](../t/trading_strategies.md), and monitoring [market](../m/market.md) conditions to prevent excessive drawdowns and protect [capital](../c/capital.md).
+Effective [risk management](../r/risk_management.md) is crucial for profitability in [algorithmic trading](../a/algorithmic_trading.md). This involves setting stop-loss limits, diversifying [trading strategies](../t/trading_strategies.md), and monitoring [market](../m/market.md) conditions to prevent excessive drawdowns and protect [capital](../c/capital.md).
 
 ## Profit in FinTech
 
@@ -105,15 +105,15 @@ Many FinTech companies generate profit by charging [transaction fees](../t/trans
 
 Subscription-based [revenue](../r/revenue.md) models involve charging users a recurring [fee](../f/fee.md) for access to [premium](../p/premium.md) features or services. FinTech platforms like robo-advisors, including Betterment and Wealthfront, often employ subscription fees for [portfolio management](../p/par.md) and [financial planning](../f/financial_planning.md) services.
 
-* [Betterment](https://www.betterment.com/)
-* [Wealthfront](https://www.wealthfront.com/)
+* Betterment
+* Wealthfront
 
 #### Interest Income
 
 Lending platforms, such as peer-to-peer lenders and digital banks, generate profit from the [interest](../i/interest.md) charged on loans. Companies like LendingClub and SoFi lend to consumers and businesses, earning [interest](../i/interest.md) [income](../i/income.md) as their primary [revenue](../r/revenue.md) source.
 
-* [LendingClub](https://www.lendingclub.com/)
-* [SoFi](https://www.sofi.com/)
+* LendingClub
+* SoFi
 
 #### Data Monetization
 

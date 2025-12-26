@@ -1,26 +1,26 @@
 # Heikin-Ashi Technique
 
-The Heikin-Ashi technique, also known as "average bar" in Japanese, is a time-tested method used in [technical analysis](../t/technical_analysis.md) to smooth and filter out [market](../m/market.md) [noise](../n/noise.md). By modifying the standard form of a [candlestick](../c/candlestick.md) chart, it provides a clearer picture of [market](../m/market.md) trends and price movements. Heikin-Ashi charts can better highlight trends as compared to traditional Japanese [candlestick](../c/candlestick.md) charts, making them a valuable tool for traders, particularly in the realm of [algorithmic trading](../a/accountability.md).
+The Heikin-Ashi technique, also known as "average bar" in Japanese, is a time-tested method used in [technical analysis](../t/technical_analysis.md) to smooth and filter out [market](../m/market.md) [noise](../n/noise.md). By modifying the standard form of a [candlestick](../c/candlestick.md) chart, it provides a clearer picture of [market](../m/market.md) trends and price movements. Heikin-Ashi charts can better highlight trends as compared to traditional Japanese [candlestick](../c/candlestick.md) charts, making them a valuable tool for traders, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## Basics of Heikin-Ashi
 
 Unlike traditional [candlestick](../c/candlestick.md) charts, which are constructed using the [open](../o/open.md), high, low, and close prices of a specified period, Heikin-Ashi charts tweak these values to reflect an average or smoothed version. This method was created to help traders determine [market](../m/market.md) trends more easily and to make better trading decisions. Here’s a breakdown of how [Heikin-Ashi candles](../h/heikin-ashi_candles.md) are calculated:
 
 - **[Open](../o/open.md)**: The [opening price](../o/opening_price.md) of a Heikin-Ashi candle is the average of the previous Heikin-Ashi candle’s [open](../o/open.md) and close values.
-  
-  Formula: \( \text{Heikin-Ashi [Open](../o/open.md)} = \frac{(\text{HA [Open](../o/open.md) of previous bar} + \text{HA Close of previous bar})}{2} \)
-  
+
+ Formula: \( \text{Heikin-Ashi [Open](../o/open.md)} = \frac{(\text{HA [Open](../o/open.md) of previous bar} + \text{HA Close of previous bar})}{2} \)
+
 - **Close**: The closing price is the average of the [open](../o/open.md), high, low, and close prices of the current period.
-  
-  Formula: \( \text{Heikin-Ashi Close} = \frac{(\text{[Open](../o/open.md)}+\text{High}+\text{Low}+\text{Close})}{4} \)
-  
+
+ Formula: \( \text{Heikin-Ashi Close} = \frac{(\text{[Open](../o/open.md)}+\text{High}+\text{Low}+\text{Close})}{4} \)
+
 - **High**: The high price is selected as the maximum [value](../v/value.md) from the high, [open](../o/open.md), or close prices of the current period.
-  
-  Formula: \( \text{Heikin-Ashi High} = \text{max}(\text{High, HA [Open](../o/open.md), HA Close}) \)
-  
+
+ Formula: \( \text{Heikin-Ashi High} = \text{max}(\text{High, HA [Open](../o/open.md), HA Close}) \)
+
 - **Low**: The low price is selected as the minimum [value](../v/value.md) from the low, [open](../o/open.md), or close prices of the current period.
-  
-  Formula: \( \text{Heikin-Ashi Low} = \text{min}(\text{Low, HA [Open](../o/open.md), HA Close}) \)
+
+ Formula: \( \text{Heikin-Ashi Low} = \text{min}(\text{Low, HA [Open](../o/open.md), HA Close}) \)
 
 ## Benefits of Heikin-Ashi
 
@@ -52,7 +52,7 @@ Just like in traditional [candlestick](../c/candlestick.md) charts, [Doji](../d/
 
 ## Practical Implementation in Algorithmic Trading
 
-Heikin-Ashi techniques can be effectively used in [algorithmic trading](../a/accountability.md) systems to improve the performance and reliability of [trading strategies](../t/trading_strategies.md). Here’s how:
+Heikin-Ashi techniques can be effectively used in [algorithmic trading](../a/algorithmic_trading.md) systems to improve the performance and reliability of [trading strategies](../t/trading_strategies.md). Here’s how:
 
 ### 1. Trend Following Systems
 
@@ -72,33 +72,33 @@ Several trading platforms and software support Heikin-Ashi charting, making it e
 
 ### 1. MetaTrader 4/5
 
-MetaTrader platforms are widely used in the trading community for their [robust](../r/robust.md) features and capabilities. Heikin-Ashi charts can be created within these platforms using custom indicators or scripts. This allows for easy integration into existing [algorithmic trading](../a/accountability.md) systems.
+MetaTrader platforms are widely used in the trading community for their [robust](../r/robust.md) features and capabilities. Heikin-Ashi charts can be created within these platforms using custom indicators or scripts. This allows for easy integration into existing [algorithmic trading](../a/algorithmic_trading.md) systems.
 
-Website: [MetaTrader](https://www.metatrader4.com/)
+online platform: MetaTrader
 
 ### 2. TradingView
 
 [TradingView](../t/tradingview.md) is a popular web-based charting platform that offers Heikin-Ashi charts as a standard feature. Its user-friendly interface and extensive community support make it an attractive option for traders of all experience levels.
 
-Website: [TradingView](https://www.tradingview.com/)
+online platform: TradingView
 
 ### 3. NinjaTrader
 
 [NinjaTrader](../n/ninjatrader.md) offers advanced charting [options](../o/options.md), including Heikin-Ashi. Known for its powerful [backtesting](../b/backtesting.md) capabilities, [NinjaTrader](../n/ninjatrader.md) is a preferred platform for those developing and testing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
-Website: [NinjaTrader](https://ninjatrader.com/)
+online platform: NinjaTrader
 
 ### 4. thinkorswim by TD Ameritrade
 
 The thinkorswim platform by TD [Ameritrade](../a/ameritrade.md) includes Heikin-Ashi charting. It's renowned for its comprehensive analytical tools and educational resources, making it a solid choice for both retail and professional traders.
 
-Website: [thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+online platform: thinkorswim
 
 ## Case Study: Algorithmic Trading with Heikin-Ashi
 
 ### Background
 
-Company XYZ implemented Heikin-Ashi in their [algorithmic trading](../a/accountability.md) model to assess its efficacy in improving trading outcomes. The objective was to evaluate whether the inclusion of Heikin-Ashi could enhance [trend](../t/trend.md) detection, reduce [market](../m/market.md) [noise](../n/noise.md), and improve overall [return](../r/return.md) on investment.
+Company XYZ implemented Heikin-Ashi in their [algorithmic trading](../a/algorithmic_trading.md) model to assess its efficacy in improving trading outcomes. The objective was to evaluate whether the inclusion of Heikin-Ashi could enhance [trend](../t/trend.md) detection, reduce [market](../m/market.md) [noise](../n/noise.md), and improve overall [return](../r/return.md) on investment.
 
 ### Method
 
@@ -114,6 +114,6 @@ Company XYZ implemented Heikin-Ashi in their [algorithmic trading](../a/accounta
 
 ## Conclusion
 
-The Heikin-Ashi technique offers a powerful tool for traders and [algorithmic trading](../a/accountability.md) systems. By providing clearer insights into [market](../m/market.md) trends and reducing [noise](../n/noise.md), it can significantly improve decision-making processes and trading outcomes. For [algorithmic trading](../a/accountability.md) in particular, the technique’s ability to smooth data can lead to more [robust](../r/robust.md) and reliable [trading strategies](../t/trading_strategies.md). As with any tool, it is important for traders to backtest and validate their strategies in various [market](../m/market.md) conditions to ensure optimal performance.
+The Heikin-Ashi technique offers a powerful tool for traders and [algorithmic trading](../a/algorithmic_trading.md) systems. By providing clearer insights into [market](../m/market.md) trends and reducing [noise](../n/noise.md), it can significantly improve decision-making processes and trading outcomes. For [algorithmic trading](../a/algorithmic_trading.md) in particular, the technique’s ability to smooth data can lead to more [robust](../r/robust.md) and reliable [trading strategies](../t/trading_strategies.md). As with any tool, it is important for traders to backtest and validate their strategies in various [market](../m/market.md) conditions to ensure optimal performance.
 
 Incorporating Heikin-Ashi is not just about using an alternative charting method; it’s about enhancing the [underlying](../u/underlying.md) decision-making process, thereby allowing for more intelligent and profitable trading.

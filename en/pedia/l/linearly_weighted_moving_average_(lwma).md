@@ -130,12 +130,10 @@ double result = LWMA(lwmaPeriod, 0);
 ### SQL (for database processing)
 
 ```sql
-WITH weights AS (
-    SELECT generate_series AS weight
+WITH weights AS     SELECT generate_series AS weight
     FROM generate_series(1, 14)
 ),
-prices_with_weights AS (
-    SELECT
+prices_with_weights AS     SELECT
         time,
         close_price,
         ROW_NUMBER() OVER ([ORDER](../o/order.md) BY time DESC) AS rownum

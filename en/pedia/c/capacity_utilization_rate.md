@@ -62,7 +62,7 @@ The basic approach involves gathering data on actual production levels over a gi
 Advanced techniques for measuring capacity utilization include:
 
 - **Surveys and Polls**: Organizations like the Federal Reserve conduct regular surveys to collect data on capacity usage across various industries.
-  
+
 - **Statistical [Sampling](../s/sampling.md)**: This involves using statistical methods to estimate capacity utilization based on samples from larger populations.
 
 - **Economic Models**: Econometric models can predict capacity utilization using variables such as industrial output, labor [statistics](../s/statistics.md), and [capital stock](../c/capital_stock.md).
@@ -82,9 +82,9 @@ Governments use capacity utilization data to inform fiscal policies, including d
 Companies use capacity utilization metrics for strategic decision-making, including:
 
 - **[Expansion](../e/expansion.md) Plans**: High utilization rates may justify investments in new machinery, facilities, or workforce [expansion](../e/expansion.md).
-  
+
 - **Cost Management**: Understanding utilization helps in identifying areas for cost reduction, such as improving process efficiencies or optimizing resource allocation.
-  
+
 - **Pricing Strategies**: Businesses might adjust their pricing strategies based on utilization data to manage [supply](../s/supply.md) and [demand](../d/demand.md) effectively.
 
 ### Risk Management
@@ -117,23 +117,23 @@ Technology companies, such as cloud service providers like Amazon Web Services (
 
 ### IBISWorld
 
-[IBISWorld](https://www.ibisworld.com/) is a global leader in [industry](../i/industry.md) [market research](../m/market_research.md), providing insights on capacity utilization rates across various sectors. By analyzing trends and data, IBISWorld helps businesses and investors make informed decisions.
+IBISWorld is a global leader in [industry](../i/industry.md) [market research](../m/market_research.md), providing insights on capacity utilization rates across various sectors. By analyzing trends and data, IBISWorld helps businesses and investors make informed decisions.
 
 ### Bloomberg
 
-[Bloomberg](https://www.bloomberg.com/) offers extensive economic data, including capacity utilization metrics, through its terminal and analytics services. Investors and economists rely on [Bloomberg](../b/bloomberg.md) for real-time insights and analysis.
+Bloomberg offers extensive economic data, including capacity utilization metrics, through its terminal and analytics services. Investors and economists rely on [Bloomberg](../b/bloomberg.md) for real-time insights and analysis.
 
 ### The Federal Reserve
 
-The [Federal Reserve](https://www.federalreserve.gov/) publishes capacity utilization [statistics](../s/statistics.md) for the United States, [offering](../o/offering.md) valuable data for economic analysis and policy-making. Their reports cover a wide [range](../r/range.md) of industries and are considered a key resource for economic monitoring.
+The Federal Reserve publishes capacity utilization [statistics](../s/statistics.md) for the United States, [offering](../o/offering.md) valuable data for economic analysis and policy-making. Their reports cover a wide [range](../r/range.md) of industries and are considered a key resource for economic monitoring.
 
 ### Statista
 
-[Statista](https://www.statista.com/) provides comprehensive [statistics](../s/statistics.md) and data on capacity utilization rates across different industries worldwide. Their platform is used by businesses, researchers, and policymakers to analyze [industry](../i/industry.md) trends and performance.
+Statista provides comprehensive [statistics](../s/statistics.md) and data on capacity utilization rates across different industries worldwide. Their platform is used by businesses, researchers, and policymakers to analyze [industry](../i/industry.md) trends and performance.
 
 ### OECD
 
-The [Organisation for Economic Co-operation and Development (OECD)](https://www.oecd.org/) offers capacity utilization [statistics](../s/statistics.md) as part of their economic data. The OECD's insights help member countries develop effective economic policies and strategies.
+The Organisation for Economic Co-operation and Development (OECD) offers capacity utilization [statistics](../s/statistics.md) as part of their economic data. The OECD's insights help member countries develop effective economic policies and strategies.
 
 ## Conclusion
 

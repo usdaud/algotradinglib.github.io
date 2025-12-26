@@ -36,7 +36,7 @@ Near [money](../m/money.md) is vital for several reasons:
 
 ### Algorithmic Trading
 
-In the world of trading, especially [algorithmic trading](../a/accountability.md) (algo trading), near [money](../m/money.md) plays a significant role. [Algorithmic trading](../a/accountability.md) relies on computer algorithms to execute pre-programmed trading instructions [accounting](../a/accounting.md) for variables such as timing, price, and [volume](../v/volume.md). [Liquidity](../l/liquidity.md) is a critical [factor](../f/factor.md) in [algorithmic trading](../a/accountability.md), and near [money](../m/money.md) assets [offer](../o/offer.md) the required [liquidity](../l/liquidity.md) for executing trades efficiently. Near [money](../m/money.md) instruments can be used as [collateral](../c/collateral.md) for [margin trading](../m/margin_trading.md), enabling traders to [leverage](../l/leverage.md) their positions.
+In the world of trading, especially [algorithmic trading](../a/algorithmic_trading.md) (algo trading), near [money](../m/money.md) plays a significant role. [Algorithmic trading](../a/algorithmic_trading.md) relies on computer algorithms to execute pre-programmed trading instructions [accounting](../a/accounting.md) for variables such as timing, price, and [volume](../v/volume.md). [Liquidity](../l/liquidity.md) is a critical [factor](../f/factor.md) in [algorithmic trading](../a/algorithmic_trading.md), and near [money](../m/money.md) assets [offer](../o/offer.md) the required [liquidity](../l/liquidity.md) for executing trades efficiently. Near [money](../m/money.md) instruments can be used as [collateral](../c/collateral.md) for [margin trading](../m/margin_trading.md), enabling traders to [leverage](../l/leverage.md) their positions.
 
 ### Risk Management
 
@@ -53,7 +53,7 @@ Fintech companies [leverage](../l/leverage.md) near [money](../m/money.md) for v
 
 ### Practical Application in Fintech
 
-For instance, platforms like [Robinhood](../r/robinhood.md) (https://[robinhood](../r/robinhood.md).com) and Wealthfront (https://www.wealthfront.com) use near [money](../m/money.md) to ensure [liquidity](../l/liquidity.md) for their trading services. Wealthfront's Cash Account, [offering](../o/offering.md) a high-[interest rate](../i/interest_rate.md), is a prime example of near [money](../m/money.md) in fintech, providing easy access to funds while earning [interest](../i/interest.md).
+For instance, platforms like [Robinhood](../r/robinhood.md) ( and Wealthfront ( use near [money](../m/money.md) to ensure [liquidity](../l/liquidity.md) for their trading services. Wealthfront's Cash Account, [offering](../o/offering.md) a high-[interest rate](../i/interest_rate.md), is a prime example of near [money](../m/money.md) in fintech, providing easy access to funds while earning [interest](../i/interest.md).
 
 ## Impact on the Financial System
 

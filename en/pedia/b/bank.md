@@ -50,4 +50,3 @@ A **bank** is a financial institution licensed to receive deposits and make loan
 
 ## Conclusion
 Banks are essential financial institutions that provide a wide [range](../r/range.md) of services critical to the functioning of the [economy](../e/economy.md). They accept deposits, extend [credit](../c/credit.md), facilitate payments, manage financial risks, and [offer](../o/offer.md) financial advisory services. Understanding the different types of banks, their functions, and their importance in the [economy](../e/economy.md) helps individuals and businesses make informed financial decisions and appreciate the role banks play in economic stability and growth.
-

@@ -74,7 +74,7 @@ Understanding the [equity](../e/equity.md) [premium](../p/premium.md) is crucial
 
 ### Risk Models
 
-The [equity](../e/equity.md) [premium](../p/premium.md) puzzle challenges conventional [risk models](../r/risk_models_in_trading.md), prompting financial institutions to re-evaluate their [risk](../r/risk.md) assessment frameworks. Accurate models are essential for pricing assets, managing risks, and ensuring financial stability. 
+The [equity](../e/equity.md) [premium](../p/premium.md) puzzle challenges conventional [risk models](../r/risk_models_in_trading.md), prompting financial institutions to re-evaluate their [risk](../r/risk.md) assessment frameworks. Accurate models are essential for pricing assets, managing risks, and ensuring financial stability.
 
 ## Criticisms and Alternative Views
 
@@ -84,4 +84,4 @@ Not all economists agree on the severity or implications of the [equity](../e/eq
 
 The [Equity](../e/equity.md) [Premium](../p/premium.md) Puzzle remains one of the most intriguing questions in [financial economics](../f/financial_economics.md). While various explanations have been proposed, none have definitively solved the puzzle, and it continues to challenge our understanding of [risk](../r/risk.md), [return](../r/return.md), and [investor](../i/investor.md) behavior. As [financial markets](../f/financial_market.md) evolve and new data becomes available, it is possible that more satisfactory explanations [will](../w/will.md) emerge, potentially reshaping fundamental theories in investment and economic behavior.
 
-For more information on the work by the original authors, you can visit Rajnish Mehra's academic page at [UC Santa Barbara](https://econ.ucsb.edu/people/emeriti-faculty/rajnish-mehra). For [journal](../j/journal.md) publications and related research, sites like JSTOR and NBER can provide access to seminal and recent papers on this topic.
+For [journal](../j/journal.md) publications and related research, sites like JSTOR and NBER can provide access to seminal and recent papers on this topic.

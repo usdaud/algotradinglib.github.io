@@ -8,7 +8,7 @@ The company's mission is to [upgrade](../u/upgrade.md) the world to a better [fi
 
 Luno's headquarters are in London, UK, but it has offices in several other major cities, including Singapore and Cape Town. The company is regulated and complies with the local laws and regulations in the regions it operates.
 
-**Website**: [Luno](https://www.luno.com)
+**online platform**: Luno
 
 ## Key Features
 
@@ -72,7 +72,7 @@ Users can [fund](../f/fund.md) their Luno accounts through various methods, incl
 Luno simplifies the trading process with its Instant Buy/Sell feature, which allows users to quickly purchase or sell cryptocurrencies at the current [market price](../m/market_price.md). For advanced traders, Luno's [trading platform](../t/trading_platform.md) provides additional functionalities such as limit and stop orders.
 
 ### Fees and Limits
-Luno charges a [fee](../f/fee.md) for transactions, which varies based on the type of [trade](../t/trade.md) and the [payment](../p/payment.md) method used. The platform's [fee](../f/fee.md) structure is transparent, with detailed information provided on their website. Additionally, there are daily limits on transactions, which can be increased by completing higher levels of verification.
+Luno charges a [fee](../f/fee.md) for transactions, which varies based on the type of [trade](../t/trade.md) and the [payment](../p/payment.md) method used. The platform's [fee](../f/fee.md) structure is transparent, with detailed information provided through its online channels. Additionally, there are daily limits on transactions, which can be increased by completing higher levels of verification.
 
 ## Educational Resources
 
@@ -104,4 +104,4 @@ Luno offers [customer](../c/customer.md) support through various channels, inclu
 
 Luno is a comprehensive cryptocurrency platform that offers a user-friendly experience for both beginners and advanced traders. With its secure wallets, instant buy/sell feature, advanced [trading platform](../t/trading_platform.md), and educational resources, Luno aims to make cryptocurrency investment accessible to everyone. By prioritizing [security](../s/security.md) and regulatory compliance, Luno ensures that users can [trade](../t/trade.md) with confidence and peace of mind.
 
-For more information, visit [Luno](https://www.luno.com).
+For more information, visit Luno.

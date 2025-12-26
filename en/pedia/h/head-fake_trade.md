@@ -1,6 +1,6 @@
 # Head-Fake Trade
 
-In the dynamic landscape of [financial markets](../f/financial_market.md), various strategies are employed to [profit](../p/profit.md) from price movements. One such tactic that traders, especially in the realm of [algorithmic trading](../a/accountability.md), frequently encounter is the "Head-Fake [Trade](../t/trade.md)." This phenomenon can trick even seasoned investors and leads to significant financial repercussions if not anticipated correctly. This topic delves into the intricacies of the head-fake [trade](../t/trade.md), exploring its origins, [underlying](../u/underlying.md) mechanics, common indicators, and methods to mitigate its impact.
+In the dynamic landscape of [financial markets](../f/financial_market.md), various strategies are employed to [profit](../p/profit.md) from price movements. One such tactic that traders, especially in the realm of [algorithmic trading](../a/algorithmic_trading.md), frequently encounter is the "Head-Fake [Trade](../t/trade.md)." This phenomenon can trick even seasoned investors and leads to significant financial repercussions if not anticipated correctly. This topic delves into the intricacies of the head-fake [trade](../t/trade.md), exploring its origins, [underlying](../u/underlying.md) mechanics, common indicators, and methods to mitigate its impact.
 
 ## Definition and Basics
 
@@ -54,11 +54,10 @@ Traders can take various measures to mitigate the adverse effects of head-fake t
 
 ## Real-World Examples
 
-**Flash Crash of 2010**: On May 6, 2010, the U.S. [stock market](../s/stock_market.md) experienced one of its most turbulent periods ever. Within minutes, major indices plummeted, only to recover shortly after. This event exhibited characteristics of a head-fake on a grand scale, influenced by HFT and complex [algorithmic trading](../a/accountability.md) activities. [US Securities and Exchange Commission Report](https://www.sec.gov/news/studies/2010/marketevents-report.pdf)
+**Flash Crash of 2010**: On May 6, 2010, the U.S. [stock market](../s/stock_market.md) experienced one of its most turbulent periods ever. Within minutes, major indices plummeted, only to recover shortly after. This event exhibited characteristics of a head-fake on a grand scale, influenced by HFT and complex [algorithmic trading](../a/algorithmic_trading.md) activities. US Securities and Exchange Commission Report
 
-**[Bitcoin](../b/bitcoin.md)'s Wild Swings**: The cryptocurrency [market](../m/market.md), particularly [Bitcoin](../b/bitcoin.md), has seen numerous instances of head-fake trades, where sharp breakouts are quickly followed by abrupt reversals. These movements often correspond with news events, regulatory announcements, or large transactions. [CoinDesk Analysis](https://www.coindesk.com/)
+**[Bitcoin](../b/bitcoin.md)'s Wild Swings**: The cryptocurrency [market](../m/market.md), particularly [Bitcoin](../b/bitcoin.md), has seen numerous instances of head-fake trades, where sharp breakouts are quickly followed by abrupt reversals. These movements often correspond with news events, regulatory announcements, or large transactions. CoinDesk Analysis
 
-**Tesla's Stock Movements**: Tesla's stock is known for its [volatility](../v/volatility.md) and has had [multiple](../m/multiple.md) instances of head-fake trades around [quarterly earnings reports](../q/quarterly_earnings_reports.md) or significant announcements by CEO Elon Musk. [Tesla Investor Relations](https://ir.tesla.com/)
 
 ## Conclusion
 

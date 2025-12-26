@@ -13,7 +13,7 @@ An inefficient [market](../m/market.md) is a [market](../m/market.md) where all 
 Human behavior can deviate from rationality, leading to various biases that impact financial decisions. Examples include:
 
 - **Overconfidence**: Investors might overestimate their knowledge or predictive abilities, leading to excessive trading and higher [market](../m/market.md) [volatility](../v/volatility.md).
-  
+
 - **Herding**: Investors often mimic the decisions of a larger group, leading to [bubbles](../b/bubble.md) and crashes.
 
 - **[Anchoring](../a/anchoring.md)**: Investors might heavily rely on initial pieces of information, even if it becomes irrelevant over time.
@@ -42,15 +42,15 @@ Emerging markets often display characteristics of inefficiency due to less strin
 
 ## Implications for Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using algorithms to make trading decisions at speeds and frequencies far beyond human capability. The existence of inefficiencies provides opportunities for algorithmic traders to [capitalize](../c/capitalize.md) on anomalies, price discrepancies, and mispricings.
+[Algorithmic trading](../a/algorithmic_trading.md) involves using algorithms to make trading decisions at speeds and frequencies far beyond human capability. The existence of inefficiencies provides opportunities for algorithmic traders to [capitalize](../c/capitalize.md) on anomalies, price discrepancies, and mispricings.
 
 ### High-Frequency Trading (HFT)
 
 High-frequency trading (HFT) firms use algorithms to exploit short-term [market](../m/market.md) inefficiencies. These algorithms execute large volumes of orders within fractions of a second, taking advantage of very small price differences. Some well-known HFT firms include Citadel Securities, Virtu Financial, and Tower Research [Capital](../c/capital.md).
 
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Virtu Financial](https://www.virtu.com/)
-- [Tower Research Capital](https://www.tower-research.com/)
+- Citadel Securities
+- Virtu Financial
+- Tower Research Capital
 
 ### Statistical Arbitrage
 
@@ -72,7 +72,7 @@ The presence of inefficiency raises questions about fairness and [market](../m/m
 
 ### Responsible Innovation
 
-As the landscape of [algorithmic trading](../a/accountability.md) evolves, it is essential for firms to innovate responsibly. This includes ensuring algorithms are tested rigorously to avoid unintended [market](../m/market.md) impacts, such as [flash crashes](../f/flash_crashes.md).
+As the landscape of [algorithmic trading](../a/algorithmic_trading.md) evolves, it is essential for firms to innovate responsibly. This includes ensuring algorithms are tested rigorously to avoid unintended [market](../m/market.md) impacts, such as [flash crashes](../f/flash_crashes.md).
 
 ## Conclusion
 

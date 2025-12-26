@@ -7,7 +7,7 @@ Tezos is an [open](../o/open.md)-source [blockchain](../b/blockchain_in_trading.
 ## Key Features of Tezos
 
 - **Self-Amending [Blockchain](../b/blockchain_in_trading.md):** Tezos is designed to evolve over time, integrating new innovations without disrupting its stability. By allowing protocol upgrades without requiring hard forks, it reduces the risks associated with radical changes to the network.
-  
+
 - **[On-Chain Governance](../o/on-chain_governance.md):** In Tezos, stakeholders can participate in the governance process by voting on proposals. This leads to more inclusive and decentralized decision-making.
 
 - **Formal Verification:** Tezos supports the use of formal verification, a technique that mathematically proves the correctness of code. This is particularly beneficial for high-[value](../v/value.md) [smart contracts](../s/smart_contracts_in_trading.md) that require [robust](../r/robust.md) [security](../s/security.md).
@@ -37,7 +37,7 @@ The Tezos [blockchain](../b/blockchain_in_trading.md) serves as a platform for d
 One of the most standout features of Tezos is its [on-chain governance](../o/on-chain_governance.md) mechanism. This model allows the community to have a say in the protocol's changes, upgrades, and overall direction. Here's how it works:
 
 - **Proposal Period:** Anyone can propose a protocol [upgrade](../u/upgrade.md). To do so, they must have held XTZ tokens and satisfy a minimum staking requirement.
-  
+
 - **Exploration Vote:** The community votes on the proposed [upgrade](../u/upgrade.md). A proposal must receive a certain percentage of support to proceed.
 
 - **Testing Period:** If the proposal receives the necessary support, it enters a testing period where it is implemented on a testnet. This period allows the community to assess the proposal's practical impact.
@@ -102,4 +102,4 @@ The Tezos community is actively involved in shaping the platform's future. They 
 
 Tezos represents a groundbreaking approach to [blockchain](../b/blockchain_in_trading.md) technology. Its self-amending protocol, [on-chain governance](../o/on-chain_governance.md), and focus on [security](../s/security.md) through formal verification position it as a strong contender in the [blockchain](../b/blockchain_in_trading.md) space. While challenges remain, the ongoing developments and active community involvement make Tezos a vital player to watch in the evolving landscape of decentralized technologies.
 
-For more detailed information and updates, you can visit the official Tezos website: [Tezos](https://tezos.com).
+For more detailed information and updates,

@@ -33,9 +33,9 @@ The [trader](../t/trader.md) can estimate the coefficients \( \beta_0 \) and \( 
 
 **[Multiple](../m/multiple.md) [linear regression](../l/linear_regression.md)** extends simple [linear regression](../l/linear_regression.md) by incorporating [multiple](../m/multiple.md) independent variables. This model is useful for understanding how various factors, in combination, impact a stock's price. The general form of a [multiple](../m/multiple.md) [linear regression](../l/linear_regression.md) model is:
 
-\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon \]
+\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 +... + \beta_n x_n + \epsilon \]
 
-where \( x_1, x_2, ..., x_n \) are the [multiple](../m/multiple.md) predictors.
+where \( x_1, x_2,..., x_n \) are the [multiple](../m/multiple.md) predictors.
 
 ### Application in Trading
 
@@ -55,11 +55,11 @@ A [trader](../t/trader.md) might use [multiple](../m/multiple.md) factors such a
 
 The general form of an AR model of [order](../o/order.md) \( p \) (AR(p)) is:
 
-\[ y_t = \phi_1 y_{t-1} + \phi_2 y_{t-2} + ... + \phi_p y_{t-p} + \epsilon_t \]
+\[ y_t = \phi_1 y_{t-1} + \phi_2 y_{t-2} +... + \phi_p y_{t-p} + \epsilon_t \]
 
 where:
 - \( y_t \) is the [value](../v/value.md) of the series at time \( t \),
-- \( \phi_1, \phi_2, ..., \phi_p \) are the parameters (coefficients),
+- \( \phi_1, \phi_2,..., \phi_p \) are the parameters (coefficients),
 - \( \epsilon_t \) is [white noise](../w/white_noise_in_trading.md) [error term](../e/error_term.md),
 - \( p \) is the [order](../o/order.md) of the autoregressive model.
 
@@ -78,14 +78,14 @@ For [day trading](../d/day_trading.md), predicting today's closing price \( y_t 
 
 **Vector Autoregressive (VAR) models** generalize the univariate AR model to capture the linear interdependencies among [multiple](../m/multiple.md) [time series](../t/time_series.md). In VAR models, each variable is a linear function of the past values of itself and all the other variables in the system.
 
-The general form of a VAR model of [order](../o/order.md) \( p \) (VAR(p)) for \( k \) [time series](../t/time_series.md) variables \( y_{1,t}, y_{2,t}, ... , y_{k,t} \) is:
+The general form of a VAR model of [order](../o/order.md) \( p \) (VAR(p)) for \( k \) [time series](../t/time_series.md) variables \( y_{1,t}, y_{2,t},..., y_{k,t} \) is:
 
-\[ y_t = c + A_1 y_{t-1} + A_2 y_{t-2} + ... + A_p y_{t-p} + \epsilon_t \]
+\[ y_t = c + A_1 y_{t-1} + A_2 y_{t-2} +... + A_p y_{t-p} + \epsilon_t \]
 
 where:
 - \( y_t \) is a vector of the k variables at time t.
 - \( c \) is a vector of constants (intercepts),
-- \( A_1, A_2, ..., A_p \) are matrices of coefficients,
+- \( A_1, A_2,..., A_p \) are matrices of coefficients,
 - \( \epsilon_t \) is a vector of error terms.
 
 ### Application in Trading
@@ -97,18 +97,18 @@ VAR models are used in:
 **Example**:
 Analyzing the relationship between stock prices \( x_t \) and another [economic indicator](../e/economic_indicator.md) \( z_t \):
 
-\[ 
+\[
 \begin{bmatrix}
 x_t \\
 z_t
 \end{bmatrix}
 =
-c + A_1 
+c + A_1
 \begin{bmatrix}
 x_{t-1} \\
 z_{t-1}
 \end{bmatrix}
-+ \epsilon_t 
++ \epsilon_t
 \]
 
 ## Ridge Regression
@@ -133,7 +133,7 @@ Ridge regression is useful when:
 **Example**:
 To predict stock returns by incorporating a large set of [economic indicators](../e/economic_indicators.md):
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \[lambda](../l/lambda.md) \sum \beta_j^2 \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} +... + \[lambda](../l/lambda.md) \sum \beta_j^2 \]
 
 ## Lasso Regression
 
@@ -152,11 +152,11 @@ Lasso regression is used in:
 **Example**:
 Identifying the most relevant indicators for stock price predictions among numerous potential factors:
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \[lambda](../l/lambda.md) \sum |\beta_j| \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} +... + \[lambda](../l/lambda.md) \sum |\beta_j| \]
 
 ## Elastic Net
 
-**[Elastic](../e/elastic.md) Net** combines the penalties of ridge regression and lasso regression. 
+**[Elastic](../e/elastic.md) Net** combines the penalties of ridge regression and lasso regression.
 
 It addresses limitations when the number of predictors exceeds the number of samples or when predictors are highly correlated.
 
@@ -173,7 +173,7 @@ The [elastic](../e/elastic.md) [net loss](../n/net_loss.md) function is:
 **Example**:
 [Predictive modeling](../p/predictive_modeling.md) for [stocks](../s/stock.md) with numerous [technical indicators](../t/technical_indicators.md), combining the strengths of ridge and lasso:
 
-\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} + ... + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
+\[ \text{Return} = \beta_0 + \beta_1 \cdot \text{GDP\_Growth} + \beta_2 \cdot \text{[Interest](../i/interest.md)\_Rate} + \beta_3 \cdot \text{Index1} +... + \lambda_1 \sum |\beta_j| + \lambda_2 \sum \beta_j^2 \]
 
 ## Conclusion
 

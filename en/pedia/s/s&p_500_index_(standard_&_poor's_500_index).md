@@ -71,14 +71,14 @@ The S&P 500 [index](../i/index_instrument.md) has fostered various investment st
 ## Technological Integration
 
 ### Algorithmic Trading
-The S&P 500's predictable composition and regular updates make it a favorite for [algorithmic trading](../a/accountability.md). Algorithms may exploit small discrepancies in prices between constituent [stocks](../s/stock.md) and the [index](../i/index_instrument.md)’s [derivatives](../d/derivatives.md).
+The S&P 500's predictable composition and regular updates make it a favorite for [algorithmic trading](../a/algorithmic_trading.md). Algorithms may exploit small discrepancies in prices between constituent [stocks](../s/stock.md) and the [index](../i/index_instrument.md)’s [derivatives](../d/derivatives.md).
 
 ### FinTech Applications
 FinTech platforms use the S&P 500 as a reference in robo-advising, [portfolio management](../p/par.md), and even fractional [investing](../i/investing.md), where users can buy portions of an S&P 500 ETF share.
 
 ## Online Resources
 
-For more detailed information, the official S&P 500 [Index](../i/index_instrument.md) page by S&P Dow Jones Indices is a valuable resource: [S&P 500 Index - S&P Dow Jones Indices](https://www.spglobal.com/spdji/en/indices/equity/sp-500/)
+For more detailed information, the official S&P 500 [Index](../i/index_instrument.md) page by S&P Dow Jones Indices is a valuable resource: S&P 500 Index - S&P Dow Jones Indices
 
 ---
 

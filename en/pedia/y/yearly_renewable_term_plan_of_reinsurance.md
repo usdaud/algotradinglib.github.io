@@ -26,7 +26,7 @@ A Yearly Renewable Term plan—also referred to as term [reinsurance](../r/reins
 
 ### Risk Management
 
-One of the fundamental advantages of YRT [reinsurance](../r/reinsurance.md) is its role in [risk management](../r/risk_management.md). By transferring [risk](../r/risk.md) exposures annually, insurers can manage [volatility](../v/volatility.md) in their claims experiences, smoothing out the financial impact of unexpected large claims. 
+One of the fundamental advantages of YRT [reinsurance](../r/reinsurance.md) is its role in [risk management](../r/risk_management.md). By transferring [risk](../r/risk.md) exposures annually, insurers can manage [volatility](../v/volatility.md) in their claims experiences, smoothing out the financial impact of unexpected large claims.
 
 ### Capital Efficiency
 
@@ -76,4 +76,4 @@ Although less common in property and casualty [insurance](../i/insurance.md) com
 
 The Yearly Renewable Term plan of [reinsurance](../r/reinsurance.md) is a versatile and efficient tool for [insurance](../i/insurance.md) companies to manage [risk](../r/risk.md), optimize [capital](../c/capital.md), and maintain operational simplicity. Its annual nature allows insurers to adapt and respond to dynamic [risk](../r/risk.md) environments, leading to more reflective and fair [premium](../p/premium.md) pricing. While there are some disadvantages, such as potential complexity in [premium](../p/premium.md) costs and dependency on reinsurer stability, the overall benefits of YRT [reinsurance](../r/reinsurance.md) make it an indispensable strategy for modern insurers.
 
-For those interested in more detailed technical or [business](../b/business.md) consultations on YRT [reinsurance](../r/reinsurance.md), it is advisable to reach out to professional [reinsurance](../r/reinsurance.md) firms and organizations specializing in [risk management](../r/risk_management.md) and actuarial services. Leading companies like [Munich Re](https://www.munichre.com/en.html) provide extensive resources and expertise in the field of [reinsurance](../r/reinsurance.md), including YRT plans.
+For those interested in more detailed technical or [business](../b/business.md) consultations on YRT [reinsurance](../r/reinsurance.md), it is advisable to reach out to professional [reinsurance](../r/reinsurance.md) firms and organizations specializing in [risk management](../r/risk_management.md) and actuarial services. Leading companies like Munich Re provide extensive resources and expertise in the field of [reinsurance](../r/reinsurance.md), including YRT plans.

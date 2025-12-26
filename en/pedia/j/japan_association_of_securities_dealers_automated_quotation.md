@@ -100,4 +100,4 @@ Looking ahead, JASDAQ aims to implement several initiatives to strengthen its [m
 
 3. **[Market](../m/market.md) Education**: Promoting [financial literacy](../f/financial_literacy.md) and [market](../m/market.md) education among investors to enhance [market](../m/market.md) participation and informed decision-making.
 
-For more detailed information, you can visit the official JASDAQ page on the Tokyo Stock [Exchange](../e/exchange.md) (TSE) website: [JASDAQ - Tokyo Stock Exchange](https://www.jpx.co.jp/english/equities/products/jasdaq/index.html).
+For more detailed information, you can./e/exchange.md) (TSE) online platform: JASDAQ - Tokyo Stock Exchange.

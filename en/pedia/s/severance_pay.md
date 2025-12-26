@@ -34,7 +34,7 @@ Severance laws and their enforcement can differ widely by jurisdiction. In some 
 
 - **United States**: Generally, severance pay is not mandated by federal law. However, specific laws like the WARN Act (Worker Adjustment and Retraining Notification Act) require advance notice in certain conditions, indirectly influencing severance practices.
 - **[European Union](../e/european_union_(eu).md)**: Many EU countries have stringent labor laws mandating severance pay. The specifics can vary by country but usually involve tenure-based payouts and obligatory notice periods.
-  
+
 ### Contracts and Collective Bargaining Agreements
 
 Employment contracts and union agreements often stipulate the terms of severance. In these cases, severance packages are not discretionary but a matter of compliance.
@@ -55,11 +55,11 @@ Severance pay can impact how the remaining employees view the company. A generou
 
 ### Public Relations
 
-Handling layoffs poorly can have lasting repercussions on a company’s public image. Companies that are seen as treating their employees well tend to maintain better consumer and [investor relations](../i/investor_relations.md).
+Handling layoffs poorly can have lasting repercussions on a company’s public image. Companies that are seen as treating their employees well tend to maintain better consumer and [company filings](../i/investor_relations.md).
 
 ## Tax Implications
 
-Severance pay has specific tax implications for both the company and the employee. 
+Severance pay has specific tax implications for both the company and the employee.
 
 - **For Employees**: Severance payments are generally treated as [taxable income](../t/taxable_income.md) under most tax jurisdictions.
 - **For Employers**: Companies can usually deduct severance payments as [business](../b/business.md) expenses, but must comply with respective tax codes.
@@ -74,7 +74,7 @@ In cases of massive layoffs or corporate [bankruptcy](../b/bankruptcy.md), sever
 
 ### Executive Severance Packages
 
-Executive severance packages, often referred to as "golden parachutes," can be significantly more [lucrative](../l/lucrative.md) than those provided to rank-and-file employees. These packages may include not only a considerable monetary [payout](../p/payout.md) but also additional benefits such as extended healthcare, consulting agreements, and even advisory roles. 
+Executive severance packages, often referred to as "golden parachutes," can be significantly more [lucrative](../l/lucrative.md) than those provided to rank-and-file employees. These packages may include not only a considerable monetary [payout](../p/payout.md) but also additional benefits such as extended healthcare, consulting agreements, and even advisory roles.
 
 Executives often negotiate specific severance terms when they are hired, and these terms can include clauses about non-compete agreements and confidentiality.
 
@@ -90,16 +90,13 @@ Employees can sometimes negotiate the terms of their severance packages, especia
 
 ### Company Policies
 
-1. **IBM**: IBM has been known for [offering](../o/offering.md) [robust](../r/robust.md) severance packages, often including lump-sum payments and benefit extensions. 
+1. **IBM**: IBM has been known for [offering](../o/offering.md) [robust](../r/robust.md) severance packages, often including lump-sum payments and benefit extensions.
 2. **Microsoft**: Microsoft tends to provide generous severance packages, especially during [restructuring](../r/restructuring.md) phases, to help smooth transitions for affected employees.
-   - Website: [Microsoft](https://www.microsoft.com)
 
 ### High-Profile Cases
 
 1. **HP**: Hewlett-Packard's multi-phase layoffs included severance packages to thousands of employees as part of its cost-cutting measures.
-   - Website: [Hewlett-Packard](https://www.hp.com)
 2. **WeWork**: During its [restructuring](../r/restructuring.md), WeWork offered severance packages to many employees to mitigate layoffs after its failed IPO.
-   - Website: [WeWork](https://www.wework.com)
 
 ## Conclusion
 

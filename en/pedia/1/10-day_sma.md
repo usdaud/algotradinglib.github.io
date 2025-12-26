@@ -12,7 +12,7 @@ A Simple Moving Average is calculated by adding up the prices of a [security](..
 SMA = (P1 + P2 + P3 + ... + Pn) / n
 ```
 
-Here, \( P1, P2, ..., Pn \) are the prices of the [security](../s/security.md) over the designated periods, and \( n \) is the number of periods.
+Here, \( P1, P2,..., Pn \) are the prices of the [security](../s/security.md) over the designated periods, and \( n \) is the number of periods.
 
 ### 10-Day SMA Formula
 
@@ -31,8 +31,8 @@ The 10-Day SMA serves [multiple](../m/multiple.md) purposes in [algorithmic trad
 1. **[Trend](../t/trend.md) Identification**: One of the primary purposes of the 10-Day SMA is to identify the short-term [trend](../t/trend.md) of a [security](../s/security.md). By smoothing out daily price fluctuations, it helps traders see the [underlying](../u/underlying.md) [trend](../t/trend.md) more clearly.
 
 2. **Buy and Sell Signals**: Traders often use 10-Day SMA to generate buy or sell signals. For example:
-   - **Buy Signal**: When the price of a [security](../s/security.md) rises above its 10-Day SMA, it might indicate a buying opportunity.
-   - **Sell Signal**: When the price falls below its 10-Day SMA, it might signal a selling opportunity.
+ - **Buy Signal**: When the price of a [security](../s/security.md) rises above its 10-Day SMA, it might indicate a buying opportunity.
+ - **Sell Signal**: When the price falls below its 10-Day SMA, it might signal a selling opportunity.
 
 3. **[Support and Resistance](../s/support_and_resistance.md) Levels**: The 10-Day SMA can act as a support level in an [uptrend](../u/uptrend.md) or a resistance level in a [downtrend](../d/downtrend.md). Traders watch these levels closely because they can indicate points where the price might reverse.
 
@@ -133,9 +133,9 @@ MetaTrader 4 is one of the most popular trading platforms that allow traders to 
 1. **EasyLanguage**: Write scripts in [TradeStation](../t/tradestation.md)’s proprietary EasyLanguage to define buy and sell conditions based on the 10-Day SMA.
 2. **[Backtesting](../b/backtesting.md)**: Use [TradeStation](../t/tradestation.md)’s [backtesting](../b/backtesting.md) capabilities to evaluate the historical performance of your 10-Day SMA strategy.
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) with Python. Here’s how to implement the 10-Day SMA:
+[StockSharp](../s/stocksharp.md) is an [open](../o/open.md)-source [trading platform](../t/trading_platform.md) that supports [algorithmic trading](../a/algorithmic_trading.md) with C#. Here’s how to implement the 10-Day SMA:
 
 1. **Define the Universe**: Select the assets for trading.
 2. **Add [Indicator](../i/indicator.md)**: Use the `SMA` function to create a 10-Day Simple Moving Average.

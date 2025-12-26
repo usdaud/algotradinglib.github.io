@@ -78,7 +78,7 @@ Key risks include [credit risk](../c/credit_risk.md), [interest rate risk](../i/
 Innovations in financial technology (fintech) have revolutionized the landscape of [loan](../l/loan.md) commitments, making the process more efficient and transparent.
 
 ### Digital Platforms
-Digital lending platforms streamline the [loan](../l/loan.md) commitment process by leveraging automation, [big data](../b/big_data_in_trading.md), and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md). These platforms can quickly assess and approve [loan](../l/loan.md) commitments by analyzing vast datasets, reducing paperwork and processing times. Examples include companies like **Kabbage** ([kabbage.com](https://www.kabbage.com)) and **OnDeck** ([ondeck.com](https://www.ondeck.com)).
+Digital lending platforms streamline the [loan](../l/loan.md) commitment process by leveraging automation, [big data](../b/big_data_in_trading.md), and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md). These platforms can quickly assess and approve [loan](../l/loan.md) commitments by analyzing vast datasets, reducing paperwork and processing times. Examples include companies like **Kabbage** (kabbage.com) and **OnDeck** (ondeck.com).
 
 ### Blockchain Technology
 [Blockchain](../b/blockchain_in_trading.md) technology enhances [transparency](../t/transparency.md) and [security](../s/security.md) in [loan](../l/loan.md) commitments by providing an immutable ledger of transactions. [Smart contracts](../s/smart_contracts_in_trading.md) enable automatic enforcement of the terms and conditions of [loan](../l/loan.md) commitments, eliminating the need for intermediaries and reducing [counterparty](../c/counterparty.md) risks.

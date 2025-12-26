@@ -8,7 +8,7 @@ Bybit is a leading cryptocurrency [derivatives](../d/derivatives.md) [exchange](
 
 ### Trading Pairs and Products
 
-Bybit supports various trading pairs, including BTC/USD, ETH/USD, XRP/USD, [EOS](../e/eos.md)/USD, and more. The platform also enables perpetual contracts and inverse perpetual contracts which allow traders to speculate on the future price of cryptocurrencies without actually owning the [underlying asset](../u/underlying_asset.md). 
+Bybit supports various trading pairs, including BTC/USD, ETH/USD, XRP/USD, [EOS](../e/eos.md)/USD, and more. The platform also enables perpetual contracts and inverse perpetual contracts which allow traders to speculate on the future price of cryptocurrencies without actually owning the [underlying asset](../u/underlying_asset.md).
 
 - **Perpetual Contracts:** These are similar to [futures contracts](../f/futures_contracts.md), but they don’t have an expiry date. They are positioned to replicate a [margin](../m/margin.md)-based [spot market](../s/spot_market.md) and are often preferred by traders wanting to [hold](../h/hold.md) long-term positions.
 
@@ -32,7 +32,7 @@ Bybit features an array of sophisticated [order types](../o/order_types_in_tradi
 Bybit supports funding and withdrawals in cryptocurrencies including BTC, ETH, XRP, [EOS](../e/eos.md), and USDT.
 
 - **Funding Rates:** The [exchange](../e/exchange.md) offers a peer-to-peer funding feature wherein long and short position holders [fund](../f/fund.md) each other. This ensures that the contract price converges with the [underlying asset](../u/underlying_asset.md) price.
-  
+
 - **[Withdrawal](../w/withdrawal.md) Fees and Limits:** Bybit imposes minimal [withdrawal](../w/withdrawal.md) fees, and there are no [withdrawal](../w/withdrawal.md) limits other than those imposed by [blockchain](../b/blockchain_in_trading.md) network constraints.
 
 ## Security Measures
@@ -92,4 +92,3 @@ Bybit continues to differentiate itself by prioritizing user experience, high [l
 
 Bybit is an excellent choice for both novice and experienced traders interested in crypto [derivatives](../d/derivatives.md). It offers a wide [range](../r/range.md) of trading pairs, advanced [order types](../o/order_types_in_trading.md), and high [leverage](../l/leverage.md), all while maintaining strict [security](../s/security.md) measures and regulatory compliance. Its user-friendly interface, [robust](../r/robust.md) API support, and continuous innovation make it a compelling option for serious traders.
 
-For more information, visit the official [Bybit website](https://www.bybit.com/).

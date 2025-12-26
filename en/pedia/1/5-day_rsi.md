@@ -1,21 +1,21 @@
 # 5-Day RSI
 
-The 5-Day RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 5-day period. This tool was developed by J. Welles Wilder Jr. and is widely used in [technical analysis](../t/technical_analysis.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md). The RSI oscillates between 0 and 100 and typically, a [security](../s/security.md) is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when it is below 30. 
+The 5-Day RSI ([Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md)) is a [momentum](../m/momentum.md) [oscillator](../o/oscillator.md) that measures the speed and change of price movements over a 5-day period. This tool was developed by J. Welles Wilder Jr. and is widely used in [technical analysis](../t/technical_analysis.md) to identify [overbought](../o/overbought.md) or [oversold](../o/oversold.md) conditions in a [security](../s/security.md). The RSI oscillates between 0 and 100 and typically, a [security](../s/security.md) is considered [overbought](../o/overbought.md) when the RSI is above 70 and [oversold](../o/oversold.md) when it is below 30.
 
 #### Calculation of the 5-Day RSI
 
 The calculation of the 5-Day RSI involves several steps:
 
-1. **Determine the average gains and losses**: 
-   - Calculate the average [gain](../g/gain.md) and average loss over the 5-day period.
-   - Average [Gain](../g/gain.md) = (Sum of Gains over last 5 days) / 5
-   - Average Loss = (Sum of Losses over last 5 days) / 5
+1. **Determine the average gains and losses**:
+ - Calculate the average [gain](../g/gain.md) and average loss over the 5-day period.
+ - Average [Gain](../g/gain.md) = (Sum of Gains over last 5 days) / 5
+ - Average Loss = (Sum of Losses over last 5 days) / 5
 
 2. **Calculate the [Relative Strength](../r/relative_strength.md) (RS)**:
-   - RS = Average [Gain](../g/gain.md) / Average Loss
+ - RS = Average [Gain](../g/gain.md) / Average Loss
 
 3. **Calculate the RSI**:
-   - RSI = 100 - (100 / (1 + RS))
+ - RSI = 100 - (100 / (1 + RS))
 
 For example, consider the following closing prices over a 5-day period:
 - Day 1: 110
@@ -44,10 +44,10 @@ In this example, the 5-Day RSI is 81.82, indicating that the [security](../s/sec
 
 #### Interpretation of the 5-Day RSI
 
-The 5-Day RSI is particularly useful for short-term traders who seek to identify quick reversals in [market](../m/market.md) trends. It's a shorter timeframe compared to the standard 14-day RSI, meaning it is more sensitive to price changes and can provide earlier signals for entry and exit points. 
+The 5-Day RSI is particularly useful for short-term traders who seek to identify quick reversals in [market](../m/market.md) trends. It's a shorter timeframe compared to the standard 14-day RSI, meaning it is more sensitive to price changes and can provide earlier signals for entry and exit points.
 
 - **[Overbought](../o/overbought.md) Condition (RSI > 70)**: When the 5-Day RSI crosses above 70, it suggests that the [security](../s/security.md) is [overbought](../o/overbought.md) and may be due for a price [correction](../c/correction.md) or [pullback](../p/pullback.md). Traders may look for selling opportunities.
- 
+
 - **[Oversold](../o/oversold.md) Condition (RSI < 30)**: Conversely, when the 5-Day RSI drops below 30, it indicates that the [security](../s/security.md) is [oversold](../o/oversold.md) and may be due for a price rebound. Traders may look for buying opportunities.
 
 However, it is essential to consider this [indicator](../i/indicator.md) in conjunction with other [technical indicators](../t/technical_indicators.md) and analysis techniques to confirm signals and avoid false alarms.
@@ -84,12 +84,12 @@ However, it is essential to consider this [indicator](../i/indicator.md) in conj
 
 Several tools and platforms provide traders with access to RSI indicators and [technical analysis](../t/technical_analysis.md):
 
-- **[TradingView](../t/tradingview.md)**: An online platform [offering](../o/offering.md) advanced charting tools, including the RSI. Traders can create custom scripts and alerts based on RSI signals. [TradingView](https://www.tradingview.com/)
+- **[TradingView](../t/tradingview.md)**: An online platform [offering](../o/offering.md) advanced charting tools, including the RSI. Traders can create custom scripts and alerts based on RSI signals. TradingView
 
-- **MetaTrader 4 and 5**: Popular trading platforms that support a wide [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including the RSI, suitable for [algorithmic trading](../a/algorithmic_trading.md). [MetaTrader](https://www.metatrader4.com/)
+- **MetaTrader 4 and 5**: Popular trading platforms that support a wide [range](../r/range.md) of [technical indicators](../t/technical_indicators.md), including the RSI, suitable for [algorithmic trading](../a/algorithmic_trading.md). MetaTrader
 
-- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A comprehensive [trading platform](../t/trading_platform.md) with advanced charting capabilities and [technical analysis](../t/technical_analysis.md) tools. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
+- **[Thinkorswim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A comprehensive [trading platform](../t/trading_platform.md) with advanced charting capabilities and [technical analysis](../t/technical_analysis.md) tools. Thinkorswim
 
-- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced charting, [market](../m/market.md) analysis, and [algorithmic trading](../a/algorithmic_trading.md) capabilities. [NinjaTrader](https://ninjatrader.com/)
+- **[NinjaTrader](../n/ninjatrader.md)**: A [trading platform](../t/trading_platform.md) [offering](../o/offering.md) advanced charting, [market](../m/market.md) analysis, and [algorithmic trading](../a/algorithmic_trading.md) capabilities. NinjaTrader
 
-By integrating the 5-Day RSI into their [trading strategies](../t/trading_strategies.md), traders and algorithmic systems can enhance their ability to identify [short-term trading](../s/short-term_trading.md) opportunities and improve overall [trading performance](../t/trading_performance.md).
+By integrating the 5-Day RSI into their [trading strategies](../t/trading_strategies.md), traders and algorithmic systems can enhance their ability to identify [short-term trading](../s/short-term_trading.md) opportunities and improve overall [trading performance](../t/trading_performance.md).

@@ -69,17 +69,17 @@ Hedging involves taking a position in a [futures market](../f/futures_market.md)
 
 Many algorithmic traders use platforms like MetaTrader, [QuantConnect](../q/quantconnect.md), and [NinjaTrader](../n/ninjatrader.md) that support advanced scripting languages for basis analysis and implementation.
 
-- **MetaTrader**: [MetaTrader](https://www.metatrader4.com)
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com)
-- **[NinjaTrader](../n/ninjatrader.md)**: [NinjaTrader](https://ninjatrader.com)
+- **MetaTrader**: MetaTrader
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect
+- **[NinjaTrader](../n/ninjatrader.md)**: NinjaTrader
 
 ### Brokers
 
 Several brokers [offer](../o/offer.md) [robust](../r/robust.md) APIs and data feeds for implementing [algorithmic trading strategies](../a/algorithmic_trading_strategies.md) that exploit basis differentials.
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com)
-- **[E*TRADE](../e/e_trade.md)**: [E*TRADE](https://us.etrade.com)
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **Charles Schwab**: Charles Schwab (including former TD Ameritrade, merged Sept 2023)
+- **[E*TRADE](../e/e_trade.md)**: E*TRADE
 
 ### Case Studies
 

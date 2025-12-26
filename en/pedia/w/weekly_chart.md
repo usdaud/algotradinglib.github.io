@@ -9,17 +9,17 @@ A weekly chart plots a [financial asset](../f/financial_asset.md)'s closing pric
 ### Components of a Weekly Chart
 
 1. **Price Bars or Candlesticks**:
-   - **[Open](../o/open.md), High, Low, Close (OHLC)**: Each bar or [candlestick](../c/candlestick.md) represents the price data for a particular week. 
-   - **Candlesticks**: These include the body ([range](../r/range.md) between the [open](../o/open.md) and close prices) and the wicks (high and low prices). Bullish (price increased over the week) and bearish (price decreased over the week) candlesticks are typically different colors for easy identification.
+ - **[Open](../o/open.md), High, Low, Close (OHLC)**: Each bar or [candlestick](../c/candlestick.md) represents the price data for a particular week.
+ - **Candlesticks**: These include the body ([range](../r/range.md) between the [open](../o/open.md) and close prices) and the wicks (high and low prices). Bullish (price increased over the week) and bearish (price decreased over the week) candlesticks are typically different colors for easy identification.
 
 2. **[Volume](../v/volume.md)**:
-   - This represents the number of [shares](../s/shares.md) or contracts traded during the week. [Volume](../v/volume.md) bars are plotted along the bottom of the chart and can help indicate the strength of a price move.
+ - This represents the number of [shares](../s/shares.md) or contracts traded during the week. [Volume](../v/volume.md) bars are plotted along the bottom of the chart and can help indicate the strength of a price move.
 
 3. **Time Axis**:
-   - The horizontal axis represents time, with each interval typically marking a week.
+ - The horizontal axis represents time, with each interval typically marking a week.
 
 4. **Price Axis**:
-   - The vertical axis represents the price of the [asset](../a/asset.md).
+ - The vertical axis represents the price of the [asset](../a/asset.md).
 
 ### Why Use Weekly Charts?
 
@@ -37,7 +37,7 @@ A weekly chart plots a [financial asset](../f/financial_asset.md)'s closing pric
 #### Moving Averages
 - **Simple Moving Average (SMA) and Exponential Moving Average (EMA)**: These are commonly overlaid on weekly charts to smooth out price data and identify trends.
 
-#### Trendlines 
+#### Trendlines
 - **[Support and Resistance](../s/support_and_resistance.md) Lines**: Drawing trendlines on weekly charts can help in identifying long-term [support and resistance](../s/support_and_resistance.md) levels, which are crucial for making trading decisions.
 
 #### Indicators
@@ -47,7 +47,7 @@ A weekly chart plots a [financial asset](../f/financial_asset.md)'s closing pric
 
 #### Long-Term Investing
 - **[Buy and Hold](../b/buy_and_hold.md)**: Investors looking to adopt a long-term "[buy and hold](../b/buy_and_hold.md)" strategy often rely on weekly charts to identify suitable entry points, [support levels](../s/support_levels.md), and long-term trends.
-  
+
 #### Swing Trading
 - **Multi-Day Trades**: Swing traders often use weekly charts in conjunction with daily charts to determine the [underlying](../u/underlying.md) [trend](../t/trend.md) that could influence their multi-[day trading](../d/day_trading.md) decisions.
 
@@ -67,7 +67,7 @@ A weekly chart plots a [financial asset](../f/financial_asset.md)'s closing pric
 #### Weekly vs. Daily Charts
 - **Granularity**: Daily charts [offer](../o/offer.md) more detailed views suitable for short-term trades, while weekly charts are better suited for long-term analysis.
 - **[Noise](../n/noise.md)**: Weekly charts reduce [noise](../n/noise.md) and are generally more stable in terms of trends and signals compared to daily charts.
-  
+
 #### Weekly vs. Monthly Charts
 - **Detail vs. [Scope](../s/scope.md)**: While monthly charts provide an even broader [scope](../s/scope.md), weekly charts [offer](../o/offer.md) a balanced perspective, giving traders a middle ground between detail and long-term [trend analysis](../t/trend_analysis.md).
 
@@ -85,7 +85,7 @@ Using a real-world example helps to understand the application of weekly charts.
 - **Key [Support Levels](../s/support_levels.md)**: Historical weekly lows might serve as strong [support levels](../s/support_levels.md) in times of dips.
 - **[Volume](../v/volume.md) Spikes**: Significant trading volumes during certain weeks, signaling key [investor](../i/investor.md) activity.
 
-For more detailed financial data and charting, one might visit the official financial page of Apple: [Apple Investor Relations](https://investor.apple.com/).
+For more detailed financial data and charting, one might
 
 ### Conclusion
 

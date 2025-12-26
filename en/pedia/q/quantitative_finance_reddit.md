@@ -43,5 +43,4 @@ The subreddit serves a diverse [range](../r/range.md) of users, including:
 - **Developers and Programmers**: Individuals developing financial models and [trading algorithms](../t/trading_algorithms.md).
 - **Students and Researchers**: Individuals in academia exploring [quantitative finance](../q/quantitative_finance.md) concepts and research.
 
-## Website
-For more information and to join the community, visit the [Quantitative Finance](../q/quantitative_finance.md) subreddit: [r/quantfinance](https://www.reddit.com/r/quantfinance/)
+For more information and to join the community, visit the [Quantitative Finance](../q/quantitative_finance.md) subreddit: r/quantfinance

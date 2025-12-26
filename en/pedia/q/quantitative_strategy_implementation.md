@@ -145,5 +145,4 @@ Managing [risk](../r/risk.md) is a critical component of executing a quantitativ
 
 Quantitative strategy implementation is a comprehensive process that requires a deep understanding of [financial markets](../f/financial_market.md), statistical modeling, and algorithm development. By leveraging [quantitative analysis](../q/quantitative_analysis.md) and sophisticated algorithms, traders can identify profitable opportunities and manage risks effectively. Whether you are a seasoned quant [trader](../t/trader.md) or a newcomer to the field, understanding the key components of quantitative strategy implementation can enhance your [trading performance](../t/trading_performance.md) and help you achieve your financial goals.
 
-For more information on [quantitative trading](../q/quantitative_trading.md) strategies, you can visit [QuantConnect](https://www.quantconnect.com).
-
+For more information on [quantitative trading](../q/quantitative_trading.md) strategies, you can visit QuantConnect.

@@ -9,7 +9,7 @@ This topic encompasses various methodologies and theoretical frameworks used to 
 ### Intrinsic Value and Time Value
 
 - **[Intrinsic Value](../i/intrinsic_value.md)**: The [intrinsic value](../i/intrinsic_value.md) of a [warrant](../w/warrant.md) is the difference between the current stock price and the [exercise price](../e/excersise_price.md) of the [warrant](../w/warrant.md). If the stock price is higher than the [exercise price](../e/excersise_price.md), the [warrant](../w/warrant.md) has [intrinsic value](../i/intrinsic_value.md); otherwise, its [intrinsic value](../i/intrinsic_value.md) is zero.
-  
+
 - **[Time Value](../t/time_value.md)**: The [time value](../t/time_value.md) is the additional [value](../v/value.md) of a [warrant](../w/warrant.md) arising from the fact that there is a chance the [underlying](../u/underlying.md) stock price could increase before the [warrant](../w/warrant.md)'s expiration. The longer the time to expiration, the higher the [time value](../t/time_value.md) due to greater [uncertainty](../u/uncertainty_in_trading.md) and potential for price movement.
 
 ### Volatility
@@ -80,6 +80,6 @@ The [financial health](../f/financial_health.md) and stability of the issuing co
 
 [Warrant](../w/warrant.md) [valuation](../v/valuation.md) is a multifaceted process that requires a deep understanding of financial theories, models, and [market dynamics](../m/market_dynamics.md). While foundational models like Black-Scholes and Binomial provide theoretical frameworks, real-world [valuation](../v/valuation.md) often demands consideration of practical factors such as [dilution](../d/dilution.md), [market](../m/market.md) conditions, and company-specific attributes.
 
-For those interested in practical applications and software solutions in [warrant](../w/warrant.md) [valuation](../v/valuation.md), several financial firms and software providers [offer](../o/offer.md) advanced tools and platforms. For instance, [Bloomberg](https://www.bloomberg.com/professional/product/pricing-data/) provides comprehensive pricing data and analytics tools, while [Thomson Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) offers real-time data and [valuation models](../v/valuation_models.md) to assist investors and analysts in making informed decisions.
+For those interested in practical applications and software solutions in [warrant](../w/warrant.md) [valuation](../v/valuation.md), several financial firms and software providers [offer](../o/offer.md) advanced tools and platforms. For instance, Bloomberg provides comprehensive pricing data and analytics tools, while Thomson Reuters Eikon offers real-time data and [valuation models](../v/valuation_models.md) to assist investors and analysts in making informed decisions.
 
 Understanding and mastering [warrant](../w/warrant.md) [valuation](../v/valuation.md) is essential for [finance](../f/finance.md) professionals, investors, and anyone involved in the field of [derivatives](../d/derivatives.md) and structured products. The interplay of theoretical models and practical considerations makes this area both challenging and intellectually stimulating.

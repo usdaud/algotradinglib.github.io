@@ -37,10 +37,10 @@ These are mutual funds that invest in highly [liquid](../l/liquid.md), near-term
 ## Conservative Investment Funds
 
 ### Vanguard Wellesley Income Fund
-A [balanced fund](../b/balanced_fund.md), [investing](../i/investing.md) about 65% in bonds and 35% in [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), known for its conservative approach. More info at: [Vanguard](https://investor.vanguard.com/mutual-funds/profile/VWINX)
+A [balanced fund](../b/balanced_fund.md), [investing](../i/investing.md) about 65% in bonds and 35% in [dividend](../d/dividend.md)-paying [stocks](../s/stock.md), known for its conservative approach. More info at: Vanguard
 
 ### Fidelity Strategic Dividend and Income Fund
-This [fund](../f/fund.md) focuses on [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) and high-quality bonds, aimed at [income](../i/income.md) and moderate growth. More info at: [Fidelity](https://www.fidelity.com/fund-screener/mutual-funds/316389663)
+This [fund](../f/fund.md) focuses on [dividend](../d/dividend.md)-paying [stocks](../s/stock.md) and high-quality bonds, aimed at [income](../i/income.md) and moderate growth. More info at: Fidelity
 
 ## Strategies
 
@@ -73,10 +73,10 @@ Engaging financial advisors to tailor a conservative [investment strategy](../i/
 ## Technology and Tools
 
 ### Robo-Advisors
-Platforms like Betterment and Wealthfront [offer](../o/offer.md) [automated portfolio management](../a/automated_portfolio_management.md) services that align with conservative strategies by allocating assets in diversified low-[risk](../r/risk.md) portfolios. More info at: [Betterment](https://www.betterment.com) and [Wealthfront](https://www.wealthfront.com)
+Platforms like Betterment and Wealthfront [offer](../o/offer.md) [automated portfolio management](../a/automated_portfolio_management.md) services that align with conservative strategies by allocating assets in diversified low-[risk](../r/risk.md) portfolios. More info at: Betterment and Wealthfront
 
 ### Financial Planning Software
-Tools like Quicken or Mint help track investments, expenses, and savings, making it easier to adhere to a conservative strategy. More info at: [Quicken](https://www.quicken.com) and [Mint](https://www.mint.com)
+Tools like Quicken or Mint help track investments, expenses, and savings, making it easier to adhere to a conservative strategy. More info at: Quicken and Mint
 
 ## Case Studies
 
@@ -89,4 +89,4 @@ Using a mix of conservative investments for stability while maintaining a portio
 ## Conclusion
 Conservative investment strategies prioritize the [preservation of capital](../p/preservation_of_capital.md) and steady [income](../i/income.md) over high returns. They involve diligent [asset allocation](../a/asset_allocation.md), [risk management](../r/risk_management.md) practices, and often incorporate professional financial advice.
 
-By following conservative strategies, investors can protect their portfolio from significant losses, ensuring financial stability and peace of mind.
+By following conservative strategies, investors can protect their portfolio from significant losses, ensuring financial stability and peace of mind.

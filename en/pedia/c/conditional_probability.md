@@ -86,27 +86,24 @@ P(S1|S3) & P(S2|S3) & P(S3|S3)
 
 These probabilities can be estimated from historical price data. A [trader](../t/trader.md) can use the transition matrix to predict the likelihood of future price changes based on current [market](../m/market.md) conditions.
 
-# Real-World Algorithmic Trading Platforms 
+# Real-World Algorithmic Trading Platforms
 
 Several companies and platforms integrate advanced probability theories, including conditional probability, into their [algorithmic trading](../a/accountability.md) systems.
 
-## 1. QuantConnect
+## 1. StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/accountability.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Developers can utilize in-depth statistical models, including conditional probability, to enhance their [trading systems](../t/trading_systems.md).
+[StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/accountability.md) platform that allows users to design, backtest, and deploy [trading strategies](../t/trading_strategies.md). Developers can utilize in-depth statistical models, including conditional probability, to enhance their [trading systems](../t/trading_systems.md).
 
-Website: [QuantConnect](https://www.quantconnect.com/)
 
 ## 2. Quantitative Brokers
 
 Quantitative Brokers is a provider of advanced [execution algorithms](../e/execution_algorithms.md) and [transaction cost analysis](../t/transaction_cost_analysis.md) (TCA) for [futures](../f/futures.md) and [fixed income](../f/fixed_income.md) markets. Their algorithms [leverage](../l/leverage.md) conditional probability to optimize [trade](../t/trade.md) [execution](../e/execution.md).
 
-Website: [Quantitative Brokers](https://www.quantitativebrokers.com/)
 
 ## 3. Two Sigma
 
 Two Sigma is a quantitative investment [firm](../f/firm.md) that employs advanced statistical models to manage investment strategies. Conditional probability and other probabilistic models are integral to their approach.
 
-Website: [Two Sigma](https://www.twosigma.com/)
 
 # Conclusion
 

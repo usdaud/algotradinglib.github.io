@@ -45,15 +45,15 @@ Several trading platforms and brokerages [offer](../o/offer.md) buy [limit order
 
 ### Interactive Brokers
 
-[Interactive Brokers](../i/interactive_brokers.md) is a global brokerage [firm](../f/firm.md) known for its comprehensive trading platforms and tools. Their [Trader](../t/trader.md) Workstation (TWS) supports complex [order types](../o/order_types_in_trading.md), including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies. More information can be found on their [website](https://www.interactivebrokers.com).
+[Interactive Brokers](../i/interactive_brokers.md) is a global brokerage [firm](../f/firm.md) known for its comprehensive trading platforms and tools. Their [Trader](../t/trader.md) Workstation (TWS) supports complex [order types](../o/order_types_in_trading.md), including buy limit orders, which can be integrated into [algorithmic trading](../a/algorithmic_trading.md) strategies.
 
 ### TradeStation
 
-[TradeStation](../t/tradestation.md) is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced [order types](../o/order_types_in_trading.md), [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively. Details are available on their [website](https://www.tradestation.com).
+[TradeStation](../t/tradestation.md) is another brokerage that offers extensive support for [algorithmic trading](../a/algorithmic_trading.md). Their platform includes advanced [order types](../o/order_types_in_trading.md), [backtesting](../b/backtesting.md) capabilities, and integration with various programming languages, allowing traders to implement and execute buy limit orders effectively.
 
 ### QuantConnect
 
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and test [trading strategies](../t/trading_strategies.md) using historical data. Buy limit orders can be programmed into algorithms using their API, facilitating precise [trade](../t/trade.md) [execution](../e/execution.md). Visit their [site](https://www.quantconnect.com) for more information.
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to develop and test [trading strategies](../t/trading_strategies.md) using historical data. Buy limit orders can be programmed into algorithms using their API, facilitating precise [trade](../t/trade.md) [execution](../e/execution.md).
 
 ## Conclusion
 
@@ -61,6 +61,6 @@ Buy limit orders are a critical component of disciplined, strategy-driven tradin
 
 ## References
 
-- [Interactive Brokers](../i/interactive_brokers.md): [Interactive Brokers Official Site](https://www.interactivebrokers.com)
-- [TradeStation](../t/tradestation.md): [TradeStation Official Site](https://www.tradestation.com)
-- [QuantConnect](../q/quantconnect.md): [QuantConnect Official Site](https://www.quantconnect.com)
+- [Interactive Brokers](../i/interactive_brokers.md)
+- [TradeStation](../t/tradestation.md)
+- [QuantConnect](../q/quantconnect.md)

@@ -26,7 +26,7 @@ A [bear call spread](../b/bear_call_spread.md), or [short call spread](../s/shor
 
 - **Maximum [Profit](../p/profit.md)**: The [net premium](../n/net_premium.md) received when entering the [trade](../t/trade.md).
 - **Maximum Loss**: Occurs if the [underlying asset](../u/underlying_asset.md)'s price is above the higher [strike price](../s/strike_price.md) at expiration.
-  
+
 ### Bull Put Spread
 
 A [bull put spread](../b/bull_put_spread.md), or [short put spread](../s/short_put_spread.md), is deployed when a [trader](../t/trader.md) expects a bullish movement or stability in the [underlying asset](../u/underlying_asset.md). It involves selling a [put option](../p/put.md) at a higher [strike price](../s/strike_price.md) and buying another [put option](../p/put.md) at a lower [strike price](../s/strike_price.md), both expiring simultaneously.
@@ -75,10 +75,9 @@ A diagonal spread combines elements of vertical and calendar [spreads](../s/spre
 
 ### Platforms for Algorithmic Spread Trading
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options trading strategies](../o/options_trading_strategies.md), including vertical [spreads](../s/spreads.md). [QuantConnect](https://www.quantconnect.com/)
-- **[TradeStation](../t/tradestation.md)**: Offers a [robust](../r/robust.md) platform for designing, testing, and executing algorithmic strategies. [TradeStation](https://www.tradestation.com/)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [options trading strategies](../o/options_trading_strategies.md), including vertical [spreads](../s/spreads.md). QuantConnect
+- **[TradeStation](../t/tradestation.md)**: Offers a [robust](../r/robust.md) platform for designing, testing, and executing algorithmic strategies. TradeStation
 
 ## Conclusion
 
 Vertical [spread trading](../s/spread_trading.md) techniques provide versatile tools for traders to express both bullish and bearish views with defined [risk](../r/risk.md) and reward. By carefully selecting strike prices, managing [volatility](../v/volatility.md) and expiration dates, and employing advanced techniques and automation, traders can optimize their strategies to suit various [market](../m/market.md) conditions.
-

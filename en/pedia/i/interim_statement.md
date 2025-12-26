@@ -33,4 +33,3 @@ An **Interim Statement** is a financial report covering a period shorter than a 
 
 ## Conclusion
 Interim statements are essential tools for providing timely and relevant financial information about a company's performance and financial position between annual reports. By [offering](../o/offering.md) insights into the company's operations on a more frequent [basis](../b/basis.md), interim statements help investors, analysts, and management make informed decisions and adjust strategies as needed. Understanding their components, importance, and [best practices](../b/best_practices.md) can enhance the effectiveness and reliability of these financial reports.
-

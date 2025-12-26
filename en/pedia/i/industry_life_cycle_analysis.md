@@ -13,9 +13,9 @@ The Introduction stage is characterized by the emergence of a new [industry](../
 - **Innovation and Differentiation:** Companies focus on creating unique products and services to stand out.
 - **Consumer Education:** Efforts are often directed at educating the [market](../m/market.md) about the new product or service.
 
-**Examples**: 
-- Space Tourism: Companies like SpaceX (https://www.spacex.com/) and Blue Origin (https://www.blueorigin.com/) are in the introduction stage, focusing on innovative and unique offerings.
-- [Quantum Computing](../q/quantum_computing_in_trading.md): Firms like IBM (https://www.ibm.com/quantum-computing/) are pioneering [quantum computing](../q/quantum_computing_in_trading.md) technology and services.
+**Examples**:
+- Space Tourism: Companies like SpaceX and Blue Origin are in the introduction stage, focusing on innovative and unique offerings.
+- [Quantum Computing](../q/quantum_computing_in_trading.md): Firms like IBM ( are pioneering [quantum computing](../q/quantum_computing_in_trading.md) technology and services.
 
 ## Growth Stage
 
@@ -29,8 +29,8 @@ During the Growth stage, the [industry](../i/industry.md) starts to [gain](../g/
 - **Higher [Profit Margins](../p/profit_margins_in_trading.md):** While costs decrease, [revenue](../r/revenue.md) grows, leading to higher [profit margins](../p/profit_margins_in_trading.md).
 
 **Examples**:
-- Electric Vehicles (EVs): Companies like Tesla (https://www.tesla.com/) and Rivian (https://rivian.com/) are experiencing rapid [market](../m/market.md) acceptance and growth.
-- Renewable Energy: Firms like NextEra Energy (https://www.nexteraenergy.com/) are seeing substantial growth as solar and wind power continues gaining [market share](../m/market_share.md).
+- Electric Vehicles (EVs): Companies like Tesla ( and Rivian ( are experiencing rapid [market](../m/market.md) acceptance and growth.
+- Renewable Energy: Firms like NextEra Energy ( are seeing substantial growth as solar and wind power continues gaining [market share](../m/market_share.md).
 
 ## Shakeout Stage
 
@@ -43,8 +43,8 @@ The Shakeout stage is a transitional phase where growth starts to slow down, and
 - **[Profit Margins](../p/profit_margins_in_trading.md) Pressure:** Declining margins due to price competition and rising operational efficiencies among competitors.
 
 **Examples**:
-- [Social Media](../s/social_media.md) Platforms: The [social media](../s/social_media.md) [industry](../i/industry.md) is seeing slower growth and increased competition, with companies like Facebook (https://www.facebook.com/) and Twitter (https://twitter.com/) focusing on retaining and expanding their user base.
-- Smartphone [Industry](../i/industry.md): The [market](../m/market.md) is seeing [consolidation](../c/consolidation.md) and slow growth, with [market](../m/market.md) leaders like Apple (https://www.apple.com/) and Samsung (https://www.samsung.com/) competing in a relatively stable environment.
+- [Social Media](../s/social_media.md) Platforms: The [social media](../s/social_media.md) [industry](../i/industry.md) is seeing slower growth and increased competition, with companies like Facebook ( and Twitter ( focusing on retaining and expanding their user base.
+- Smartphone [Industry](../i/industry.md): The [market](../m/market.md) is seeing [consolidation](../c/consolidation.md) and slow growth, with [market](../m/market.md) leaders like Apple ( and Samsung ( competing in a relatively stable environment.
 
 ## Maturity Stage
 
@@ -58,8 +58,8 @@ In the [Maturity](../m/maturity.md) stage, the [industry](../i/industry.md) grow
 - **[Market Saturation](../m/market_saturation.md):** New [market](../m/market.md) entrants struggle to [gain](../g/gain.md) a significant foothold.
 
 **Examples**:
-- Soft Drinks: The soft drink [industry](../i/industry.md), with leaders like Coca-Cola (https://www.coca-colacompany.com/) and PepsiCo (https://www.pepsico.com/), is in the [maturity](../m/maturity.md) stage with stable [customer](../c/customer.md) bases.
-- Personal Computers: Companies like Dell (https://www.dell.com/) and HP (https://www.hp.com/) operate in a mature [market](../m/market.md) with little room for rapid growth.
+- Soft Drinks: The soft drink [industry](../i/industry.md), with leaders like Coca-Cola ( and PepsiCo ( is in the [maturity](../m/maturity.md) stage with stable [customer](../c/customer.md) bases.
+- Personal Computers: Companies like Dell ( and HP ( operate in a mature [market](../m/market.md) with little room for rapid growth.
 
 ## Decline Stage
 

@@ -11,20 +11,20 @@ The enactment of the Water Quality Improvement Act of 1970 coincided with an era
 The Water Quality Improvement Act of 1970 encompasses several provisions and amendments targeted at improving the nation's water quality. Some of the crucial aspects of the Act include:
 
 1. **Oil Pollution**
-   - The Act broadened the regulatory framework for controlling oil spills in navigable waters and adjoining shorelines of the United States.
-   - It established [liability](../l/liability.md) for oil spills, mandating that responsible parties bear the cleanup costs and compensate for damages to public and private properties.
+ - The Act broadened the regulatory framework for controlling oil spills in navigable waters and adjoining shorelines of the United States.
+ - It established [liability](../l/liability.md) for oil spills, mandating that responsible parties bear the cleanup costs and compensate for damages to public and private properties.
 
 2. **Federal Oversight and Authority**
-   - The Act reinforced federal authority in setting and enforcing water quality standards, providing the EPA with enhanced capabilities to oversee state compliance with these standards.
-   - A mechanism for federal [fund](../f/fund.md) allocation was introduced to support state and local pollution control efforts.
+ - The Act reinforced federal authority in setting and enforcing water quality standards, providing the EPA with enhanced capabilities to oversee state compliance with these standards.
+ - A mechanism for federal [fund](../f/fund.md) allocation was introduced to support state and local pollution control efforts.
 
 3. **Research and Development**
-   - The Act mandated increased research efforts to develop effective pollution control technologies and practices.
-   - It encouraged collaboration between [federal agencies](../f/federal_agencies.md), state governments, and private entities in developing and implementing innovative water quality improvement methodologies.
+ - The Act mandated increased research efforts to develop effective pollution control technologies and practices.
+ - It encouraged collaboration between [federal agencies](../f/federal_agencies.md), state governments, and private entities in developing and implementing innovative water quality improvement methodologies.
 
 4. **Regulation of Point and Non-point Sources**
-   - The Act introduced more stringent regulations for point sources of pollution, such as industrial and municipal dischargers, requiring them to meet specific discharge limits.
-   - It also acknowledged non-point source pollution, such as agricultural runoff, and aimed to develop strategies to mitigate its impact on water bodies.
+ - The Act introduced more stringent regulations for point sources of pollution, such as industrial and municipal dischargers, requiring them to meet specific discharge limits.
+ - It also acknowledged non-point source pollution, such as agricultural runoff, and aimed to develop strategies to mitigate its impact on water bodies.
 
 # Impact and Effectiveness
 

@@ -1,5 +1,7 @@
 # Deltix
 
+**Note:** Deltix was acquired by EPAM Systems in June 2021 and now operates as part of EPAM.
+
 ## Overview
 Deltix is a leading provider of software and services for [quantitative research](../q/quantitative_research.md), algorithmic and [systematic trading](../s/systematic_trading.md). Their solutions are designed to support the entire lifecycle of [quantitative trading](../q/quantitative_trading.md) strategies, from research and development to [execution](../e/execution.md) and deployment.
 

@@ -4,7 +4,7 @@ A cash advance is a short-[term loan](../t/term_loan.md) that is typically issue
 
 ### How Cash Advances Work
 
-To obtain a cash advance, you can either visit an ATM, a [bank](../b/bank.md), or request it online through your [credit card](../c/credit_card.md) provider’s website or app. You [will](../w/will.md) need to use your [credit card](../c/credit_card.md) and possibly a personal identification number (PIN) to access the cash. The amount you can borrow is usually capped and directly depends on your [credit card](../c/credit_card.md)’s cash advance limit, which is often lower than the total [credit limit](../c/credit_limit.md).
+To obtain a cash advance, you can either visit an ATM, a [bank](../b/bank.md), or request it online through your [credit card](../c/credit_card.md) provider’s online portal or app. You [will](../w/will.md) need to use your [credit card](../c/credit_card.md) and possibly a personal identification number (PIN) to access the cash. The amount you can borrow is usually capped and directly depends on your [credit card](../c/credit_card.md)’s cash advance limit, which is often lower than the total [credit limit](../c/credit_limit.md).
 
 ### Interest Rates and Fees
 
@@ -16,7 +16,7 @@ Cash advances come with higher [interest](../i/interest.md) rates than standard 
 
 ### Credit Card Statements and Minimum Payments
 
-When you take out a cash advance, it [will](../w/will.md) appear on your [credit card](../c/credit_card.md) statement separately from regular purchases. The [minimum monthly payment](../m/minimum_monthly_payment.md) on your [credit card](../c/credit_card.md) might rise because of the added cash advance balance, which can affect your ability to pay off your total balance. 
+When you take out a cash advance, it [will](../w/will.md) appear on your [credit card](../c/credit_card.md) statement separately from regular purchases. The [minimum monthly payment](../m/minimum_monthly_payment.md) on your [credit card](../c/credit_card.md) might rise because of the added cash advance balance, which can affect your ability to pay off your total balance.
 
 ### Cash Advance vs. Payday Loans
 
@@ -51,9 +51,9 @@ While both cash advances and payday loans are short-term borrowing [options](../
 
 Several financial service providers specialize in or [offer](../o/offer.md) cash advances as part of their product lineup. Some of the notable companies include:
 
-1. **Square**: Square offers cash advance [options](../o/options.md) to small [business](../b/business.md) owners through its Square [Capital](../c/capital.md) product. More details can be found on their [website](https://squareup.com/us/en/capital).
-2. **[PayPal](../p/paypal.md) Working [Capital](../c/capital.md)**: This service provides [PayPal](../p/paypal.md) users with access to cash advances based on their [PayPal](../p/paypal.md) sales history. More information is available on their [website](https://www.paypal.com/us/webapps/mpp/working-capital).
-3. **Kabbage**: Now operated by American Express, Kabbage provides [business](../b/business.md) loans and cash advances. Visit their [website](https://www.kabbage.com/) for more information.
-4. **Fundbox**: Offers cash advance services with a focus on small businesses and line of [credit](../c/credit.md) [options](../o/options.md). More details can be found on their [website](https://fundbox.com/).
+1. **Square**: Square offers cash advance [options](../o/options.md) to small [business](../b/business.md) owners through its Square [Capital](../c/capital.md) product. More
+2. **[PayPal](../p/paypal.md) Working [Capital](../c/capital.md)**: This service provides [PayPal](../p/paypal.md) users with access to cash advances based on their [PayPal](../p/paypal.md) sales history.
+3. **Kabbage**: Now operated by American Express, Kabbage provides [business](../b/business.md) loans and cash advances.
+4. **Fundbox**: Offers cash advance services with a focus on small businesses and line of [credit](../c/credit.md) [options](../o/options.md). More
 
 Understanding the mechanics, costs, and responsible usage of cash advances can help you make informed financial decisions and avoid potential pitfalls associated with this borrowing option.

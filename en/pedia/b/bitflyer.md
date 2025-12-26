@@ -51,7 +51,7 @@ The API documentation is well-maintained and provides detailed information on ho
 As one of the most regulated exchanges, bitFlyer adheres to several legal requirements and compliance [obligations](../o/obligation.md):
 * KYC and AML: bitFlyer requires users to complete Know Your [Customer](../c/customer.md) (KYC) and Anti-[Money Laundering](../m/money_laundering.md) (AML) verification processes.
 * Data Protection: The platform complies with data protection regulations, ensuring user data is securely stored and handled.
-  
+
 ## Market Performance
 
 bitFlyer has grown rapidly since its inception and continues to be a leading player in the cryptocurrency [market](../m/market.md). Some key performance [statistics](../s/statistics.md) include:
@@ -90,4 +90,3 @@ As part of its commitment to continuous improvement, bitFlyer has outlined sever
 
 bitFlyer’s success as a leading cryptocurrency [exchange](../e/exchange.md) can be attributed to its [robust](../r/robust.md) [security](../s/security.md) measures, user-friendly interface, regulatory compliance, and commitment to continuous improvement. Whether you are a beginner looking to start your cryptocurrency trading journey or an advanced [trader](../t/trader.md) seeking sophisticated tools, bitFlyer provides a comprehensive platform that caters to all your needs.
 
-For more information, visit the official website of bitFlyer: [bitFlyer](https://bitflyer.com/).

@@ -94,7 +94,7 @@ Like other DeFi protocols, Uniswap V3 is susceptible to flash [loan](../l/loan.m
 ### User Best Practices
 Users are advised to follow [best practices](../b/best_practices.md), such as using hardware wallets, double-checking [transaction](../t/transaction.md) approvals, and staying informed about ongoing [security](../s/security.md) updates and community governance changes.
 
-For more detailed information, you can visit the Uniswap official site: [Uniswap](https://uniswap.org/).
+For more detailed information, you can
 
 ## Conclusion
 

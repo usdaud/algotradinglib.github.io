@@ -114,7 +114,7 @@ The Build-Operate-Transfer (BOT) contract is a sophisticated and efficient model
 
 For more detailed information on specific companies implementing BOT projects and further case studies, you can visit the project's specific pages, such as:
 
-- [IRB Infrastructure Developers](http://www.irb.co.in/)
-- [Cengiz Insaat](http://www.cengiz.com.tr/)
+- IRB Infrastructure Developers
+- Cengiz Insaat
 
 This model continues to evolve, adapting to new financial instruments and regulatory environments, making it a cornerstone in modern [infrastructure](../i/infrastructure.md) development strategies.

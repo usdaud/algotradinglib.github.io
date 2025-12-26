@@ -6,7 +6,7 @@ Qualified Automatic Contribution Arrangements, commonly known as QACAs, are a sp
 
 A QACA is essentially an automatic enrollment [401(k) plan](../1/401(k)_plan.md) with set contribution and [vesting](../v/vesting.md) requirements. Here are the primary features that define a QACA:
 
-1. **Automatic Enrollment:** Employees are automatically enrolled in the plan at a preset contribution rate unless they opt out or choose a different rate. 
+1. **Automatic Enrollment:** Employees are automatically enrolled in the plan at a preset contribution rate unless they opt out or choose a different rate.
 
 2. **Automatic Escalation:** Contributions automatically increase each year by a specified amount, generally up to a maximum threshold. This feature helps employees gradually save more for retirement without manual intervention.
 
@@ -87,17 +87,17 @@ A mid-sized technology company decided to implement QACA to enhance retirement r
 - **Increased Participation:** Enrollment jumped from 60% to 90% within the first year.
 - **Higher Average Savings Rate:** Average deferral rates increased from 4% to 7% over three years.
 - **Employee Satisfaction:** Employees reported higher satisfaction and appreciation for the employer’s contributions and automatic savings facilitation.
-  
+
 ### Potential Challenges and Considerations
 
 While QACAs [offer](../o/offer.md) many advantages, employers must also be mindful of potential challenges:
-  
+
 - **Initial Setup Complexity:** Implementing a QACA requires compliance with regulatory specifications and effective communication strategies.
 - **Cost of Employer Contributions:** Fixed employer contribution requirements can pose financial considerations, particularly for small businesses.
 - **Employee Communication:** Ensuring all employees understand their automatic enrollment and contribution escalation is critical for the plan’s success.
 
 ### Conclusion
 
-Qualified Automatic Contribution Arrangements (QACAs) represent a beneficial structure within 401(k) plans designed to streamline employee participation in retirement savings, simplify employer compliance, and enhance retirement readiness. By automatically enrolling employees and setting clear [vesting](../v/vesting.md) and contribution standards, QACAs harness the principles of [behavioral finance](../b/behavioral_finance.md) to create a proactive path toward retirement [security](../s/security.md). For more information about implementing QACAs, practitioners can reference the IRS guidelines ([IRS](https://www.irs.gov/retirement-plans/automatic-enrollment)) and DOL advisories ([DOL](https://www.dol.gov/agencies/ebsa/key-topics/retirement/automatic-enrollment)).
+Qualified Automatic Contribution Arrangements (QACAs) represent a beneficial structure within 401(k) plans designed to streamline employee participation in retirement savings, simplify employer compliance, and enhance retirement readiness. By automatically enrolling employees and setting clear [vesting](../v/vesting.md) and contribution standards, QACAs harness the principles of [behavioral finance](../b/behavioral_finance.md) to create a proactive path toward retirement [security](../s/security.md). For more information about implementing QACAs, practitioners can reference the IRS guidelines (IRS) and DOL advisories (DOL).
 
 Employers considering QACAs should weigh the benefits against the implementation challenges to create an optimal balance that fits their workforce's needs and their organizational goals, ultimately fostering a culture of proactive [retirement planning](../r/retirement_planning.md) and financial wellness.

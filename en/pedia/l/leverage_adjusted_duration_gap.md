@@ -6,14 +6,14 @@ The [Leverage](../l/leverage.md) Adjusted [Duration](../d/duration.md) Gap (LADG
 
 To fully understand the [Leverage](../l/leverage.md) Adjusted [Duration](../d/duration.md) Gap, it is important to first comprehend what [duration](../d/duration.md) is in the context of bonds and [fixed income](../f/fixed_income.md) portfolios. [Duration](../d/duration.md) is a measure of the sensitivity of the price of a [bond](../b/bond.md) or a [bond](../b/bond.md) portfolio to changes in [interest](../i/interest.md) rates. There are several types of [duration](../d/duration.md), but the most common ones are [Macaulay Duration](../m/macaulay_duration.md) and [Modified Duration](../m/modified_duration.md).
 
-- **[Macaulay Duration](../m/macaulay_duration.md)** is the [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)’s cash flows are received, measured in years. 
+- **[Macaulay Duration](../m/macaulay_duration.md)** is the [weighted average](../w/weighted_average.md) time until a [bond](../b/bond.md)’s cash flows are received, measured in years.
 - **[Modified Duration](../m/modified_duration.md)** is a measure of the sensitivity of a [bond](../b/bond.md)’s price to [yield](../y/yield.md) changes, calculated by dividing the [Macaulay Duration](../m/macaulay_duration.md) by one plus the [bond](../b/bond.md)’s [yield to maturity](../y/yield_to_maturity.md).
 
 For a [bond](../b/bond.md) portfolio, the portfolio's [duration](../d/duration.md) can be computed as the [weighted average](../w/weighted_average.md) of the individual bonds' durations.
 
 ## Leverage in Finance
 
-[Leverage](../l/leverage.md) involves using borrowed funds to increase the size and potential [return](../r/return.md) of an investment. While leveraging can amplify profits, it equally magnifies losses and increases the [risk](../r/risk.md) of significant financial detriment. 
+[Leverage](../l/leverage.md) involves using borrowed funds to increase the size and potential [return](../r/return.md) of an investment. While leveraging can amplify profits, it equally magnifies losses and increases the [risk](../r/risk.md) of significant financial detriment.
 
 When [leverage](../l/leverage.md) is employed, an [investor](../i/investor.md) borrows funds at a certain [interest rate](../i/interest_rate.md) to invest them in securities that are hoped to [yield](../y/yield.md) returns greater than the cost of the borrowed funds. The use of [leverage](../l/leverage.md) is common in [hedge](../h/hedge.md) funds, [private equity](../p/private_equity.md), and other high-[risk](../r/risk.md) investment strategies.
 
@@ -40,10 +40,10 @@ Where the **[Leverage Ratio](../l/leverage_ratio.md)** is defined as the ratio o
 
 Consider a situation where an [investment fund](../i/investment_fund.md) has the following characteristics:
 
-- **Total Assets**: $100 million 
-- **[Total Liabilities](../t/total_liabilities.md)**: $80 million 
-- **[Equity](../e/equity.md)**: $20 million 
-- **[Duration](../d/duration.md) of Assets**: 5 years 
+- **Total Assets**: $100 million
+- **[Total Liabilities](../t/total_liabilities.md)**: $80 million
+- **[Equity](../e/equity.md)**: $20 million
+- **[Duration](../d/duration.md) of Assets**: 5 years
 - **[Duration](../d/duration.md) of Liabilities**: 3 years
 
 The [leverage ratio](../l/leverage_ratio.md) would be:
@@ -60,7 +60,7 @@ A negative LADG indicates that the [fund](../f/fund.md) is more sensitive to [in
 
 ### Portfolio Management
 
-In [portfolio management](../p/portfolio_management.md), particularly for those that use [leverage](../l/leverage.md), understanding the LADG provides insights into how sensitive the portfolio’s net [asset](../a/asset.md) [value](../v/value.md) is to [interest rate](../i/interest_rate.md) movements. 
+In [portfolio management](../p/portfolio_management.md), particularly for those that use [leverage](../l/leverage.md), understanding the LADG provides insights into how sensitive the portfolio’s net [asset](../a/asset.md) [value](../v/value.md) is to [interest rate](../i/interest_rate.md) movements.
 
 - **[Risk](../r/risk.md) Assessment**: By understanding the LADG, managers can assess how much [interest rate risk](../i/interest_rate_risk.md) the portfolio is exposed to.
 - **[Hedging Strategies](../h/hedging_strategies.md)**: Knowing the LADG can help in devising appropriate [hedging strategies](../h/hedging_strategies.md) to manage [interest rate risk](../i/interest_rate_risk.md).
@@ -77,7 +77,7 @@ For financial institutions like banks and [insurance](../i/insurance.md) compani
 
 ### Complexity in Calculation
 
-The calculation of LADG involves precise estimations of durations of both assets and liabilities, which can be complex and require sophisticated financial models. 
+The calculation of LADG involves precise estimations of durations of both assets and liabilities, which can be complex and require sophisticated financial models.
 
 ### Market Conditions
 
@@ -89,7 +89,7 @@ When leveraging is done using complex financial instruments like [derivatives](.
 
 ## Case Study: Financial Institution
 
-Consider a hypothetical financial institution, ABC [Bank](../b/bank.md), which specializes in [mortgage](../m/mortgage.md)-backed securities and uses [leverage](../l/leverage.md) to enhance returns. 
+Consider a hypothetical financial institution, ABC [Bank](../b/bank.md), which specializes in [mortgage](../m/mortgage.md)-backed securities and uses [leverage](../l/leverage.md) to enhance returns.
 
 - **[Asset](../a/asset.md) [Duration](../d/duration.md)**: [Mortgage](../m/mortgage.md)-backed securities, on average, have an [asset](../a/asset.md) [duration](../d/duration.md) of 10 years.
 - **[Liability](../l/liability.md) [Duration](../d/duration.md)**: The [bank](../b/bank.md)’s short-term liabilities, primarily [customer](../c/customer.md) deposits, have an average [duration](../d/duration.md) of 2 years.
@@ -125,4 +125,4 @@ Lowering the [leverage ratio](../l/leverage_ratio.md) by increasing [equity](../
 
 The [Leverage](../l/leverage.md) Adjusted [Duration](../d/duration.md) Gap is a vital metric for assessing the [interest rate risk](../i/interest_rate_risk.md) in leveraged portfolios. Understanding and managing LADG allows investors and financial institutions to make informed decisions and [hedge](../h/hedge.md) against potential losses due to [interest rate](../i/interest_rate.md) fluctuations. As markets continuously evolve, maintaining a keen understanding of the dynamics of [leverage](../l/leverage.md) and [duration](../d/duration.md) remains paramount for sustained [financial health](../f/financial_health.md) and performance.
 
-For further information on managing leveraged portfolios and leveraging financial instruments, consider visiting the websites and resources provided by leading financial institutions such as [Goldman Sachs](https://www.goldmansachs.com), [J.P. Morgan](https://www.jpmorgan.com), or specialized [risk management](../r/risk_management.md) consultancies.
+For further information on managing leveraged portfolios and leveraging financial instruments, consider visiting the websites and resources provided by leading financial institutions such as Goldman Sachs, J.P. Morgan, or specialized [risk management](../r/risk_management.md) consultancies.

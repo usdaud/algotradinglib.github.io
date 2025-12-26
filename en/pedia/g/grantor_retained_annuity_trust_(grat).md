@@ -82,6 +82,6 @@ Transferring high-potential [real estate](../r/real_estate.md) investments to a 
 
 **For more information, visit:**
 
-* [IRS Guidelines on GRAT](https://www.irs.gov/)
-* [Fidelity’s Overview of GRATs](https://www.fidelity.com)
-* [Schwab’s Estate Planning Resources](https://www.schwab.com)
+* IRS Guidelines on GRAT
+* Fidelity’s Overview of GRATs
+* Schwab’s Estate Planning Resources

@@ -4,7 +4,7 @@ The Interpolated [Yield Curve](../y/yard.md) (I Curve) is a crucial concept in t
 
 ## Definition of I Curve
 
-The I Curve is created through the [interpolation](../i/interpolation.md) of discrete [yield](../y/yield.md) data points. It essentially smooths out the ripples found in empirical data of [bond](../b/bond.md) yields, providing a continuous curve that helps in evaluating and comparing different bonds. Typically, the [interpolation](../i/interpolation.md) methods include linear, spline, or polynomial [interpolation](../i/interpolation.md). 
+The I Curve is created through the [interpolation](../i/interpolation.md) of discrete [yield](../y/yield.md) data points. It essentially smooths out the ripples found in empirical data of [bond](../b/bond.md) yields, providing a continuous curve that helps in evaluating and comparing different bonds. Typically, the [interpolation](../i/interpolation.md) methods include linear, spline, or polynomial [interpolation](../i/interpolation.md).
 
 The I Curve can display either zero-coupon [yield](../y/yield.md) curves or par [yield](../y/yield.md) curves:
 
@@ -72,7 +72,7 @@ The choice of bonds used for [interpolation](../i/interpolation.md) impacts the 
 
 ## Example Organizations
 
-Organizations like [Bloomberg](../b/bloomberg.md) [Bloomberg](https://www.bloomberg.com) and [Reuters](../r/reuters.md) [Reuters](https://www.reuters.com) provide interpolated [yield](../y/yield.md) curves to financial professionals. These curves form the backbone of their fixed-[income](../i/income.md) analytics services, helping in [bond](../b/bond.md) pricing, trading, and [risk management](../r/risk_management.md).
+Organizations like [Bloomberg](../b/bloomberg.md) Bloomberg and [Reuters](../r/reuters.md) Reuters provide interpolated [yield](../y/yield.md) curves to financial professionals. These curves form the backbone of their fixed-[income](../i/income.md) analytics services, helping in [bond](../b/bond.md) pricing, trading, and [risk management](../r/risk_management.md).
 
 ## Challenges and Considerations
 

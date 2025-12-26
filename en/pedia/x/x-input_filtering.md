@@ -68,13 +68,13 @@ Filtered inputs are used to create features that [will](../w/will.md) be fed int
 ## Case Studies and Applications
 
 ### High-Frequency Trading (HFT) Firms
-High-Frequency Trading firms like [Citadel Securities](https://www.citadelsecurities.com/) and [Virtu Financial](https://www.virtu.com/) extensively use X-Input Filtering to manage the vast amount of data they process.
+High-Frequency Trading firms like Citadel Securities and Virtu Financial extensively use X-Input Filtering to manage the vast amount of data they process.
 
 ### Hedge Funds
-[Hedge](../h/hedge.md) funds such as [Two Sigma](https://www.twosigma.com/) and [AQR Capital Management](https://www.aqr.com/) [leverage](../l/leverage.md) X-Input Filtering to refine their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+[Hedge](../h/hedge.md) funds such as Two Sigma and AQR Capital Management [leverage](../l/leverage.md) X-Input Filtering to refine their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Retail Trading Platforms
-Platforms like [Robinhood](https://www.robinhood.com/) and [E*TRADE](https://us.etrade.com/home) implement various levels of filtering to [offer](../o/offer.md) more accurate and user-friendly trading services to their clients.
+Platforms like Robinhood and E*TRADE implement various levels of filtering to [offer](../o/offer.md) more accurate and user-friendly trading services to their clients.
 
 ## Challenges and Future Directions
 
@@ -93,4 +93,3 @@ Balancing the need for data filtering with ethical considerations around data pr
 ## Conclusion
 
 X-Input Filtering is a critical aspect of [algorithmic trading](../a/algorithmic_trading.md) that significantly impacts the efficacy of [trading algorithms](../t/trading_algorithms.md). By implementing [robust](../r/robust.md) filtering techniques, traders can enhance the quality of their input data, leading to more accurate and profitable trading decisions. As technology advances, the [scope](../s/scope.md) and sophistication of X-Input Filtering are expected to grow, [offering](../o/offering.md) even greater advantages in the competitive landscape of [algorithmic trading](../a/algorithmic_trading.md).
-

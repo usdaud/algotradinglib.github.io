@@ -48,7 +48,7 @@ A [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) may op
 
 ### Example: Algomi
 
-Algomi (https://www.algomi.com/), a financial company specializing in connectivity and [liquidity](../l/liquidity.md) solutions, may use ZBM techniques to enhance the [efficiency](../e/efficiency.md) of its trading operations. By integrating ZBM, Algomi can optimize [liquidity](../l/liquidity.md) across its trading platforms and improve the [return](../r/return.md) on idle funds.
+Algomi ( a financial company specializing in connectivity and [liquidity](../l/liquidity.md) solutions, may use ZBM techniques to enhance the [efficiency](../e/efficiency.md) of its trading operations. By integrating ZBM, Algomi can optimize [liquidity](../l/liquidity.md) across its trading platforms and improve the [return](../r/return.md) on idle funds.
 
 ## Technology and Tools
 

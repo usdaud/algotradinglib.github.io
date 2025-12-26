@@ -20,12 +20,12 @@ Back-end [load](../l/load.md) funds, also known as deferred sales charge funds, 
 #### Example
 - Purchase Amount: $10,000
 - Back-End [Load](../l/load.md) Schedule:
-  - Year 1: 5%
-  - Year 2: 4%
-  - Year 3: 3%
-  - Year 4: 2%
-  - Year 5: 1%
-  - Year 6 onwards: 0%
+ - Year 1: 5%
+ - Year 2: 4%
+ - Year 3: 3%
+ - Year 4: 2%
+ - Year 5: 1%
+ - Year 6 onwards: 0%
 
 ### Level Load Funds
 Level [load](../l/load.md) funds charge a small percentage each year as long as the [investor](../i/investor.md) holds the [fund](../f/fund.md). This ongoing [fee](../f/fee.md) is deducted from the assets of the [fund](../f/fund.md) itself, impacting the overall [return](../r/return.md) over the long term. These are often referred to as [12b-1 fees](../1/12b-1_fees.md).

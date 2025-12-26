@@ -76,19 +76,15 @@ There are several firms and technologies focused on spread widening analysis and
 
 ### FlexTrade Systems
 FlexTrade Systems offers customizable [algorithmic trading](../a/algorithmic_trading.md) platforms that include functionalities for [spread analysis](../s/spread_analysis.md). Their solutions help traders optimize executions by adapting strategies based on real-time spread data.
-[FlexTrade Systems](https://flextrade.com/)
 
 ### Kx Systems
 Kx Systems provides high-performance database and time-series analytics technology that is widely used in financial services for [spread analysis](../s/spread_analysis.md). Their kdb+ database allows for efficient storage and analysis of large volumes of [tick](../t/tick.md) data.
-[Kx Systems](https://kx.com/)
 
-### QuantConnect
-[QuantConnect](../q/quantconnect.md) provides [algorithmic trading](../a/algorithmic_trading.md) technology and [infrastructure](../i/infrastructure.md), including extensive data on [bid](../b/bid.md)-ask [spreads](../s/spreads.md) that traders can use for [backtesting](../b/backtesting.md) and live trading. Their platform supports the development of custom algorithms for [spread analysis](../s/spread_analysis.md).
-[QuantConnect](https://www.quantconnect.com/)
+### StockSharp
+[StockSharp](../s/stocksharp.md) provides [algorithmic trading](../a/algorithmic_trading.md) technology and [infrastructure](../i/infrastructure.md), including extensive data on [bid](../b/bid.md)-ask [spreads](../s/spreads.md) that traders can use for [backtesting](../b/backtesting.md) and live trading. Their platform supports the development of custom algorithms for [spread analysis](../s/spread_analysis.md).
 
 ### Thesys Technologies
 Thesys Technologies offers tools and services for [market](../m/market.md) data analysis, including spread monitoring and analysis functionalities. Their technology is designed to serve the needs of both institutional and retail traders.
-[Thesys Technologies](https://thesystech.com/)
 
 ## Case Studies in Spread Widening
 

@@ -19,37 +19,37 @@ Monte Carlo simulations use statistical models to generate a wide [range](../r/r
 Several trading platforms provide built-in features for simulated [market](../m/market.md) scenarios:
 
 - **MetaTrader 4/5**: Offers a strategy tester for [backtesting](../b/backtesting.md) trading robots with historical data.
-  - [MetaTrader Website](https://www.metatrader4.com/)
-  
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live-trading capabilities.
-  - [QuantConnect Website](https://www.quantconnect.com/)
-  
+ -
+
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform with [backtesting](../b/backtesting.md) and live-trading capabilities.
+ -
+
 - **[TradingView](../t/tradingview.md)**: Provides a [backtesting](../b/backtesting.md) feature and a paper trading option for strategy [optimization](../o/optimization.md).
-  - [TradingView Website](https://www.tradingview.com/)
-  
+ -
+
 ### Data Providers
 Accurate historical data is crucial for effective [simulation](../s/simulation_in_trading.md):
 
 - **[Quandl](../q/quandl.md)**: A comprehensive platform providing financial, economic, and [alternative data](../a/alternative_data.md).
-  - [Quandl Website](https://www.quandl.com/)
-  
+ -
+
 - **[Alpha](../a/alpha.md) Vantage**: Offers free APIs for real-time and historical [market](../m/market.md) data.
-  - [Alpha Vantage Website](https://www.alphavantage.co/)
-  
+ -
+
 - **[Tiingo](../t/tiingo.md)**: Provides historical price data, news feeds, and comprehensive financial stats.
-  - [Tiingo Website](https://www.tiingo.com/)
+ -
 
 ### Programming Libraries
 Various libraries facilitate the creation of [market](../m/market.md) simulations:
 
 - **Pandas**: A Python library with powerful data manipulation tools suitable for handling [time series](../t/time_series.md) data.
-  - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-  
+ - Pandas Documentation
+
 - **[Backtrader](../b/backtrader.md)**: A Python library specifically designed for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md).
-  - [Backtrader Website](https://www.backtrader.com/)
-  
+ -
+
 - **[Quantlib](../q/quantlib.md)**: A comprehensive library for [quantitative finance](../q/quantitative_finance.md), supporting option pricing, [financial modeling](../f/financial_modeling.md), and trading simulations.
-  - [Quantlib Website](https://www.quantlib.org/)
+ -
 
 ### Methodologies
 
@@ -75,19 +75,19 @@ Performance evaluation in simulated [market](../m/market.md) scenarios hinges on
 ### Proprietary Trading Firms
 [Proprietary trading](../p/proprietary_trading.md) firms rely on simulated [market](../m/market.md) scenarios to ensure [trading algorithms](../t/trading_algorithms.md) are [robust](../r/robust.md) and profitable before deployment. Firms like **Jane Street** and **Virtu Financial** [leverage](../l/leverage.md) extensive [backtesting](../b/backtesting.md) and [stress testing](../s/stress_testing_in_trading.md) to maintain competitive edges.
 
-- [Jane Street Website](https://www.janestreet.com/)
-- [Virtu Financial Website](https://www.virtu.com/)
+-
+-
 
 ### Hedge Funds
 [Hedge](../h/hedge.md) funds utilize complex simulations to tailor strategies to specific investment goals and [risk](../r/risk.md) appetites. Firms like **Two Sigma** and **Renaissance Technologies** integrate [machine learning](../m/machine_learning.md) and high-frequency trading techniques with simulated [market](../m/market.md) environments to achieve superior returns.
 
-- [Two Sigma Website](https://www.twosigma.com/)
-- [Renaissance Technologies Website](https://www.rentec.com/)
+-
+-
 
 ### Retail Traders
 Individual traders and developers use simulated [market](../m/market.md) scenarios to fine-tune their [trading algorithms](../t/trading_algorithms.md) without risking actual [capital](../c/capital.md). Platforms like **[Interactive Brokers](../i/interactive_brokers.md)** [offer](../o/offer.md) paper trading accounts to practice and refine strategies in a [risk](../r/risk.md)-free environment.
 
-- [Interactive Brokers Website](https://www.interactivebrokers.com/)
+-
 
 ## Challenges and Limitations
 

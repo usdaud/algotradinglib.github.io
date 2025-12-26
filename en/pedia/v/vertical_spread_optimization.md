@@ -54,15 +54,15 @@ Monte Carlo simulations can predict the probabilities of different outcomes, all
 
 ### AlgoTrader
 
-[AlgoTrader](https://www.algotrader.com/) is a comprehensive tool that helps in the development and deployment of [algorithmic trading](../a/algorithmic_trading.md) strategies, including [vertical spread](../v/vertical_spread.md) [optimization](../o/optimization.md).
+AlgoTrader is a comprehensive tool that helps in the development and deployment of [algorithmic trading](../a/algorithmic_trading.md) strategies, including [vertical spread](../v/vertical_spread.md) [optimization](../o/optimization.md).
 
 ### QuantConnect
 
-[QuantConnect](https://www.quantconnect.com/) provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and offers tools to develop and backtest [options](../o/options.md) strategies.
+QuantConnect provides a cloud-based platform for [algorithmic trading](../a/algorithmic_trading.md) and offers tools to develop and backtest [options](../o/options.md) strategies.
 
 ### TradingView
 
-[TradingView](https://www.tradingview.com/) offers charting tools and data analysis for creating and optimizing vertical [spreads](../s/spreads.md).
+TradingView offers charting tools and data analysis for creating and optimizing vertical [spreads](../s/spreads.md).
 
 ## Case Studies
 
@@ -78,4 +78,4 @@ In a study involving [Bitcoin](../b/bitcoin.md) [options](../o/options.md), the 
 
 [Vertical spread](../v/vertical_spread.md) [optimization](../o/optimization.md) is a powerful technique that leverages algorithms and [data analytics](../d/data_analytics.md) to enhance trading outcomes. By focusing on key metrics and employing advanced tools, traders can systematically improve their strategies and achieve better [risk](../r/risk.md)-adjusted returns.
 
-For more examples and tools, visit the official websites of [AlgoTrader](https://www.algotrader.com/), [QuantConnect](https://www.quantconnect.com/), and [TradingView](https://www.tradingview.com/).
+For more examples and tools, visit the official websites of AlgoTrader, QuantConnect, and TradingView.

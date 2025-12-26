@@ -58,7 +58,7 @@ The evolving nature of [financial markets](../f/financial_market.md) and the con
 
 For further information on ethical standards in trading and regulatory guidelines, you may visit the following websites:
 
-- [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov)
-- [Commodity Futures Trading Commission (CFTC)](https://www.cftc.gov)
-- [European Securities and Markets Authority (ESMA)](https://www.esma.europa.eu)
-- [Financial Conduct Authority (FCA)](https://www.fca.org.uk)
+- U.S. Securities and Exchange Commission (SEC)
+- Commodity Futures Trading Commission (CFTC)
+- European Securities and Markets Authority (ESMA)
+- Financial Conduct Authority (FCA)

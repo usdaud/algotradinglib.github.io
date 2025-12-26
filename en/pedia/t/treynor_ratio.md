@@ -11,7 +11,7 @@ The Treynor Ratio is calculated using the following formula:
 Where:
 - **[Return](../r/return.md) of the Portfolio (R_p)** is the [average return](../a/average_return.md) of the portfolio.
 - **[Risk](../r/risk.md)-Free Rate (R_f)** represents the [return](../r/return.md) of an investment with zero [risk](../r/risk.md), often derived from government bonds or Treasury bills.
-- **[Beta](../b/beta.md) (β)** measures the [volatility](../v/volatility.md) of the portfolio concerning the [market](../m/market.md) as a whole. 
+- **[Beta](../b/beta.md) (β)** measures the [volatility](../v/volatility.md) of the portfolio concerning the [market](../m/market.md) as a whole.
 
 ## Components of the Treynor Ratio
 
@@ -90,7 +90,7 @@ Investors or analysts often compare various investment strategies to identify th
 
 ### Usage in Algotrading
 
-In [algorithmic trading](../a/accountability.md), where decisions are made by computer models, the Treynor Ratio can be a critical performance metric. Algorithms can be designed to optimize [trading strategies](../t/trading_strategies.md) based on historical data’s Treynor Ratios.
+In [algorithmic trading](../a/algorithmic_trading.md), where decisions are made by computer models, the Treynor Ratio can be a critical performance metric. Algorithms can be designed to optimize [trading strategies](../t/trading_strategies.md) based on historical data’s Treynor Ratios.
 
 ### Strategy Backtesting
 
@@ -98,7 +98,7 @@ During [backtesting](../b/backtesting.md), traders can evaluate different strate
 
 ### Risk Management
 
-Incorporating the Treynor Ratio into an [algorithmic trading](../a/accountability.md) framework helps in managing and mitigating [systemic risk](../s/systemic_risk.md). By evaluating [risk](../r/risk.md)-adjusted returns, [trading models](../t/trading_models.md) can be tuned to maintain desired [risk](../r/risk.md) levels, thereby ensuring better performance consistency over time.
+Incorporating the Treynor Ratio into an [algorithmic trading](../a/algorithmic_trading.md) framework helps in managing and mitigating [systemic risk](../s/systemic_risk.md). By evaluating [risk](../r/risk.md)-adjusted returns, [trading models](../t/trading_models.md) can be tuned to maintain desired [risk](../r/risk.md) levels, thereby ensuring better performance consistency over time.
 
 ## Real-world Application
 
@@ -110,8 +110,8 @@ Incorporating the Treynor Ratio into an [algorithmic trading](../a/accountabilit
 
 Financial services firms sometimes include Treynor Ratios in the [marketing](../m/marketing.md) materials of their products, helping potential clients gauge the [risk](../r/risk.md)-adjusted performance of various investment [options](../o/options.md).
 
-For example, firms like [BlackRock](https://www.blackrock.com/) and [Vanguard](https://investor.vanguard.com/) provide detailed analytics in their [fund](../f/fund.md) reports, the Treynor Ratio being one of the critical metrics.
+For example, firms like BlackRock and Vanguard provide detailed analytics in their [fund](../f/fund.md) reports, the Treynor Ratio being one of the critical metrics.
 
 ## Conclusion
 
-The Treynor Ratio is an indispensable tool in modern [finance](../f/finance.md) and [investment management](../i/investment_management.md). By [offering](../o/offering.md) a clear measure of reward per unit of [risk](../r/risk.md), it helps in making more informed investment choices, optimizing [asset allocation](../a/asset_allocation.md), and comparing performance across various funds and strategies. Its integration into both human and [algorithmic trading](../a/accountability.md) models highlights its relevance and [utility](../u/utility.md) in the ever-evolving financial landscape. Despite its limitations, the Treynor Ratio remains a cornerstone of [risk](../r/risk.md)-adjusted performance measurement, enabling a deeper understanding of investment [efficiency](../e/efficiency.md).
+The Treynor Ratio is an indispensable tool in modern [finance](../f/finance.md) and [investment management](../i/investment_management.md). By [offering](../o/offering.md) a clear measure of reward per unit of [risk](../r/risk.md), it helps in making more informed investment choices, optimizing [asset allocation](../a/asset_allocation.md), and comparing performance across various funds and strategies. Its integration into both human and [algorithmic trading](../a/algorithmic_trading.md) models highlights its relevance and [utility](../u/utility.md) in the ever-evolving financial landscape. Despite its limitations, the Treynor Ratio remains a cornerstone of [risk](../r/risk.md)-adjusted performance measurement, enabling a deeper understanding of investment [efficiency](../e/efficiency.md).

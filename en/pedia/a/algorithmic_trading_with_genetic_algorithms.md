@@ -1,6 +1,6 @@
-# Algorithmic trading Wuth Genetic Algorithms
+# Algorithmic Trading with Genetic Algorithms
 
-[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and [volume](../v/volume.md). One sophisticated approach within this domain is the application of [genetic algorithms](../g/genetic_algorithms_in_trading.md) (GAs). [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are [optimization](../o/optimization.md) techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms. 
+[Algorithmic trading](../a/algorithmic_trading.md), commonly referred to as algo-trading, employs algorithms to execute [trading strategies](../t/trading_strategies.md) at high speed and [volume](../v/volume.md). One sophisticated approach within this domain is the application of [genetic algorithms](../g/genetic_algorithms_in_trading.md) (GAs). [Genetic algorithms](../g/genetic_algorithms_in_trading.md) are [optimization](../o/optimization.md) techniques inspired by the process of natural selection, which belong to the broader class of evolutionary algorithms.
 
 **[Genetic Algorithms](../g/genetic_algorithms_in_trading.md)**:
 
@@ -62,13 +62,13 @@ Another notable application is by QTS [Capital](../c/capital.md) Management, who
 For those interested in further exploration, there are several [open](../o/open.md)-source libraries available that provide tools to implement [genetic algorithms](../g/genetic_algorithms_in_trading.md) for trading:
 
 1. **DEAP (Distributed Evolutionary Algorithms in Python)**: It is a library for creating evolutionary algorithms that can be easily adapted for [trading strategy](../t/trading_strategy.md) [optimization](../o/optimization.md).
-   - [DEAP](https://deap.readthedocs.io/)
+ - DEAP
 
 2. **PyGAD**: PyGAD is a Python library for building [genetic algorithms](../g/genetic_algorithms_in_trading.md) and training machine [learning algorithms](../l/learning_algorithms_in_trading.md).
-   - [PyGAD](https://pygad.readthedocs.io/en/latest/)
+ - PyGAD
 
 3. **ecadapts**: An adaptation-focused library for evolutionary computation including [genetic algorithms](../g/genetic_algorithms_in_trading.md).
-   - [ecadapts](https://ecadapts.github.io/ecadapts/)
+ - ecadapts
 
 **Conclusion**:
 

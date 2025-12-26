@@ -78,7 +78,7 @@ The [financial crisis](../f/financial_crisis.md) of 2008 and subsequent European
 
 The [Eurozone](../e/eurozone.md) lacks a centralized fiscal authority, which has been a point of contention. While mechanisms like the European Stability Mechanism (ESM) and proposed financial frameworks exist, comprehensive fiscal integration remains an ongoing challenge.
 
-For more details, you can visit the [European Central Bank's](https://www.ecb.europa.eu/) website.
+
 
 ## Future of OCA Theory
 

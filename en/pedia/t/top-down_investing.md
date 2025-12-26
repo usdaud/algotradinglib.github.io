@@ -1,14 +1,14 @@
 # Top-Down Investing
 
 ## Introduction
-Top-down [investing](../i/investing.md) is a strategy that emphasizes the macroeconomic factors influencing the broader [market](../m/market.md) before diving into the specifics of individual [stocks](../s/stock.md) or securities. This approach contrasts with [bottom-up investing](../b/bottom-up_investing.md), where investors focus on individual [stocks](../s/stock.md) and their fundamentals without placing as much initial emphasis on broader [economic conditions](../e/economic_conditions.md). 
+Top-down [investing](../i/investing.md) is a strategy that emphasizes the macroeconomic factors influencing the broader [market](../m/market.md) before diving into the specifics of individual [stocks](../s/stock.md) or securities. This approach contrasts with [bottom-up investing](../b/bottom-up_investing.md), where investors focus on individual [stocks](../s/stock.md) and their fundamentals without placing as much initial emphasis on broader [economic conditions](../e/economic_conditions.md).
 
 The top-down method provides a structured framework for making investment decisions by analyzing the entire economic landscape, sector-specific trends, and eventually selecting the best-performing [stocks](../s/stock.md) within the preferred sectors.
 
 ## Steps in Top-Down Investing
 
 ### 1. Macroeconomic Analysis
-The first step in top-down [investing](../i/investing.md) involves examining global [economic conditions](../e/economic_conditions.md) and large-scale [economic indicators](../e/economic_indicators.md). This analysis seeks to understand trends such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md) rates, employment [statistics](../s/statistics.md), and fiscal and monetary policies of key economies worldwide. Investors look to macroeconomic research providers such as the International Monetary [Fund](../f/fund.md) (IMF) for comprehensive reports on the global [economy](../e/economy.md). 
+The first step in top-down [investing](../i/investing.md) involves examining global [economic conditions](../e/economic_conditions.md) and large-scale [economic indicators](../e/economic_indicators.md). This analysis seeks to understand trends such as GDP [growth rates](../g/growth_rates_in_trading.md), [inflation](../i/inflation.md) rates, employment [statistics](../s/statistics.md), and fiscal and monetary policies of key economies worldwide. Investors look to macroeconomic research providers such as the International Monetary [Fund](../f/fund.md) (IMF) for comprehensive reports on the global [economy](../e/economy.md).
 
 **Key considerations:**
 - GDP growth rate
@@ -62,7 +62,7 @@ Only after narrowing down the sectors within the favored regions do investors st
 ## Real-World Application: Hedge Funds and Asset Managers
 Large [hedge](../h/hedge.md) funds and [asset management](../a/asset_management.md) firms often employ top-down [investing](../i/investing.md) strategies due to the resources at their disposal for extensive macroeconomic analysis. Firms like Bridgewater Associates, led by Ray Dalio, have been known to utilize top-down approaches in their investment strategies.
 
-For further information, visit [Bridgewater Associates](https://www.bridgewater.com/).
+For further information, visit Bridgewater Associates.
 
 ## Tools and Techniques in Top-Down Investing
 

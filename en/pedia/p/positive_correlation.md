@@ -4,7 +4,7 @@ In the fields of trading and [finance](../f/finance.md), the concept of [correla
 
 ## Definition
 
-Positive [correlation](../c/correlation.md) refers to a relationship between two variables where they tend to move in the same direction. If one variable increases, the other variable tends to increase as well, and if one decreases, the other also tends to decrease. This can be quantitatively expressed using the [correlation coefficient](../c/correlation_coefficient.md), which ranges between -1 and +1. A [correlation coefficient](../c/correlation_coefficient.md) of +1 denotes a perfect positive [correlation](../c/correlation.md), meaning that the two variables move together in exactly the same proportion. 
+Positive [correlation](../c/correlation.md) refers to a relationship between two variables where they tend to move in the same direction. If one variable increases, the other variable tends to increase as well, and if one decreases, the other also tends to decrease. This can be quantitatively expressed using the [correlation coefficient](../c/correlation_coefficient.md), which ranges between -1 and +1. A [correlation coefficient](../c/correlation_coefficient.md) of +1 denotes a perfect positive [correlation](../c/correlation.md), meaning that the two variables move together in exactly the same proportion.
 
 ## Mathematical Formulation
 
@@ -39,7 +39,7 @@ In [risk](../r/risk.md) assessment, positively correlated assets can increase th
 
 ## Use in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) often relies on statistical models to find correlations between different assets. Identifying assets with positive correlations can help algorithmic traders create pairs [trading strategies](../t/trading_strategies.md), statistical [arbitrage](../a/arbitrage.md) strategies, and other complex [trading algorithms](../t/trading_algorithms.md) to exploit these relationships for [profit](../p/profit.md).
+[Algorithmic trading](../a/algorithmic_trading.md) often relies on statistical models to find correlations between different assets. Identifying assets with positive correlations can help algorithmic traders create pairs [trading strategies](../t/trading_strategies.md), statistical [arbitrage](../a/arbitrage.md) strategies, and other complex [trading algorithms](../t/trading_algorithms.md) to exploit these relationships for [profit](../p/profit.md).
 
 ### Pair Trading
 
@@ -55,7 +55,6 @@ In pair trading, traders look for two assets with a strong positive [correlation
 
 The [Bloomberg Terminal](../b/bloomberg_terminal.md) is an advanced software system providing real-time financial data, news, and analytics. It includes various tools for [correlation analysis](../c/correlation_analysis.md), allowing users to measure the [correlation](../c/correlation.md) between different assets and conduct complex [financial analysis](../f/financial_analysis.md).
 
-[Visit Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 
 ### Python Libraries
 
@@ -81,6 +80,6 @@ Spurious [correlation](../c/correlation.md) refers to a situation where two vari
 
 ## Conclusion
 
-Positive [correlation](../c/correlation.md) is a fundamental concept in trading and [finance](../f/finance.md), with wide-ranging applications from [portfolio management](../p/par.md) to [algorithmic trading](../a/accountability.md). Understanding the nuances of positive [correlation](../c/correlation.md), along with its mathematical formulation and practical implications, can provide valuable insights for traders, financial analysts, and portfolio managers. Enhanced tools and software further aid in the analysis, but caution must be exercised to avoid common pitfalls such as [overfitting](../o/overfitting.md) and spurious correlations.
+Positive [correlation](../c/correlation.md) is a fundamental concept in trading and [finance](../f/finance.md), with wide-ranging applications from [portfolio management](../p/par.md) to [algorithmic trading](../a/algorithmic_trading.md). Understanding the nuances of positive [correlation](../c/correlation.md), along with its mathematical formulation and practical implications, can provide valuable insights for traders, financial analysts, and portfolio managers. Enhanced tools and software further aid in the analysis, but caution must be exercised to avoid common pitfalls such as [overfitting](../o/overfitting.md) and spurious correlations.
 
 By leveraging the insights provided by positive [correlation](../c/correlation.md), [market](../m/market.md) participants can make more informed decisions, optimize their investment strategies, and better manage [risk](../r/risk.md).

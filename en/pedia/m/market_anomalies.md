@@ -74,17 +74,17 @@ The Neglected [Firm](../f/firm.md) Effect suggests that [stocks](../s/stock.md) 
 ### Renaissance Technologies LLC
 
 Renaissance Technologies, one of the most successful [hedge](../h/hedge.md) funds, is known for its use of sophisticated algorithms and models to exploit [market](../m/market.md) anomalies. Their Medallion [Fund](../f/fund.md), in particular, has delivered astonishing returns by leveraging various statistical and [quantitative models](../q/quantitative_models.md) to identify and [trade](../t/trade.md) on [market](../m/market.md) inefficiencies.
-Link: [Renaissance Technologies LLC](https://www.rentec.com/)
+Link: Renaissance Technologies LLC
 
 ### Two Sigma Investments
 
 Two Sigma leverages [machine learning](../m/machine_learning.md), distributed computing, and [big data](../b/big_data_in_trading.md) to identify [market](../m/market.md) anomalies and inefficiencies. Their approach involves massive data analysis to spot trends and patterns that human traders might miss, providing a competitive edge in trading.
-Link: [Two Sigma](https://www.twosigma.com/)
+Link: Two Sigma
 
 ### AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management employs [quantitative analysis](../q/quantitative_analysis.md) to develop strategies that exploit [market](../m/market.md) anomalies. Their [trading strategies](../t/trading_strategies.md) encompass [value](../v/value.md), [momentum](../m/momentum.md), carry, and defensive [equity](../e/equity.md), among others, aimed at capturing predictable patterns in [market](../m/market.md) behavior.
-Link: [AQR Capital Management](https://www.aqr.com/)
+Link: AQR Capital Management
 
 ## Conclusion
 

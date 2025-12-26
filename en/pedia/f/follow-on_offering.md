@@ -43,12 +43,9 @@ There are two primary types of Follow-On Offerings:
 Several notable companies have conducted Follow-On Offerings to raise additional [capital](../c/capital.md). These include:
 
 - **Tesla, Inc.**: Tesla conducted several Follow-On Offerings to raise funds for its [expansion](../e/expansion.md) and new product developments.
-  [Tesla Investor Relations](https://ir.tesla.com/)
-  
+
 - **Facebook, Inc.**: Facebook, now Meta Platforms, issued additional [shares](../s/shares.md) to help [fund](../f/fund.md) its growth and [expansion](../e/expansion.md) after its IPO.
-  [Meta Investor Relations](https://investor.fb.com/)
 
 - **Amazon.com, Inc.**: Amazon has used Follow-On Offerings to [finance](../f/finance.md) its acquisitions and investments in new technologies.
-  [Amazon Investor Relations](https://www.amazon.com/ir)
 
 In conclusion, Follow-On Offerings serve as a vital mechanism for companies looking to access additional [equity](../e/equity.md) from public markets. While they [offer](../o/offer.md) significant benefits in terms of [capital](../c/capital.md) raising and strategic growth, they also come with risks that companies need to carefully manage.

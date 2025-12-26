@@ -63,7 +63,7 @@ The Hedera Hashgraph platform is governed by the Hedera Governing Council, a div
 
 The council ensures that the platform remains [open](../o/open.md) and standards-compliant, fostering [trust](../t/trust.md) among users and developers. The involvement of reputable organizations provides additional credibility to the Hedera Hashgraph network.
 
-For more information about the Hedera Governing Council, visit [Hedera Governing Council](https://hedera.com/council).
+For more information about the Hedera Governing Council, visit Hedera Governing Council.
 
 ## Conclusion
 

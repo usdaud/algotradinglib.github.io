@@ -59,4 +59,4 @@ Like all cryptocurrencies, [Binance](../b/binance.md) Coin and its associated se
 
 [Binance](../b/binance.md) Coin has proven to be an essential [asset](../a/asset.md) within the cryptocurrency space, [offering](../o/offering.md) a multitude of utilities primarily within the [Binance](../b/binance.md) ecosystem. Its ability to provide trading [fee](../f/fee.md) discounts, power transactions on [Binance](../b/binance.md) Chain and [Binance](../b/binance.md) Smart Chain, and its integration into various DeFi solutions make it a versatile and valuable cryptocurrency. The coin's innovative burning mechanism further adds to its appeal by creating [scarcity](../s/scarcity.md). As the [Binance](../b/binance.md) ecosystem evolves, BNB is likely to continue playing a pivotal role in the growth and adoption of [blockchain](../b/blockchain_in_trading.md) technologies.
 
-For more detailed information about [Binance](../b/binance.md) Coin and its current functionalities, visit the official website: [Binance Coin (BNB)](https://www.binance.com/en/bnb).
+For more detailed information about [Binance](../b/binance.md) Coin and its current functionalities,

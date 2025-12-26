@@ -102,25 +102,21 @@ Several companies specialize in developing adaptive strategies for [algorithmic 
 
 Two Sigma is a New York-based [hedge fund](../h/hedge_fund.md) that extensively uses [machine learning](../m/machine_learning.md), distributed computing, and data analysis to develop adaptive [trading strategies](../t/trading_strategies.md).
 
-[Two Sigma Website](https://www.twosigma.com/)
 
 ### 2. Renaissance Technologies
 
 Renaissance Technologies is another [hedge fund](../h/hedge_fund.md) known for its use of mathematical and statistical methods to develop adaptive [trading algorithms](../t/trading_algorithms.md). The [firm](../f/firm.md)'s flagship Medallion [Fund](../f/fund.md) is famous for its exceptional returns.
 
-[Medallion Fund Overview](https://www.rentec.com/strategy/medallion-fund/)
 
 ### 3. AQR Capital Management
 
 AQR [Capital](../c/capital.md) Management employs [quantitative analysis](../q/quantitative_analysis.md) and adaptive strategies to manage its diverse [range](../r/range.md) of investment funds. The [firm](../f/firm.md) integrates academic research, [machine learning](../m/machine_learning.md), and real-time data to inform its trading decisions.
 
-[AQR Capital Management](https://www.aqr.com/)
 
 ### 4. QuantsHub
 
 QuantsHub is a platform that provides tools and resources for developing and testing adaptive strategies. The platform offers access to various data sources, computational resources, and [machine learning](../m/machine_learning.md) frameworks.
 
-[QuantsHub](https://www.quantshub.com/)
 
 ## Future Directions
 

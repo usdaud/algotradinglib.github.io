@@ -100,7 +100,7 @@ Despite the effectiveness of historical [price patterns](../p/price_patterns.md)
 
 ### 1. Overfitting
 
-[Overfitting](../o/overfitting.md) occurs when a trading algorithm is too closely tailored to historical data, reducing its ability to perform well in live markets. 
+[Overfitting](../o/overfitting.md) occurs when a trading algorithm is too closely tailored to historical data, reducing its ability to perform well in live markets.
 
 ### 2. Market Changes
 

@@ -43,19 +43,19 @@ An essential concept in AMMs is impermanent loss, which occurs when the price of
 
 ### Uniswap
 
-Uniswap is a leading decentralized [exchange](../e/exchange.md) that uses an AMM model based on the CPMM formula. It allows users to [swap](../s/swap.md) ERC-20 tokens directly from their wallets without the need for traditional [order](../o/order.md) books. [Uniswap](https://uniswap.org) has innovated further with its V3 version, [offering](../o/offering.md) enhanced features like concentrated [liquidity](../l/liquidity.md), where LPs can provide [liquidity](../l/liquidity.md) within specific price ranges.
+Uniswap is a leading decentralized [exchange](../e/exchange.md) that uses an AMM model based on the CPMM formula. It allows users to [swap](../s/swap.md) ERC-20 tokens directly from their wallets without the need for traditional [order](../o/order.md) books. Uniswap has innovated further with its V3 version, [offering](../o/offering.md) enhanced features like concentrated [liquidity](../l/liquidity.md), where LPs can provide [liquidity](../l/liquidity.md) within specific price ranges.
 
 ### SushiSwap
 
-A fork of Uniswap, [SushiSwap](../s/sushiswap.md) has adopted unique strategies such as incentivizing users with governance tokens (SUSHI) to attract [liquidity](../l/liquidity.md). [SushiSwap](https://sushi.com) facilitates token swaps, staking, lending, and borrowing in a decentralized manner.
+A fork of Uniswap, [SushiSwap](../s/sushiswap.md) has adopted unique strategies such as incentivizing users with governance tokens (SUSHI) to attract [liquidity](../l/liquidity.md). SushiSwap facilitates token swaps, staking, lending, and borrowing in a decentralized manner.
 
 ### Balancer
 
-Balancer stands out for its flexibility in maintaining [multiple](../m/multiple.md) assets in arbitrary ratios, diverging from the typical 50-50 ratio seen in other AMMs. [Balancer](https://balancer.fi) pools can [hold](../h/hold.md) up to 8 different tokens and auto-adjust to maintain set proportional values.
+Balancer stands out for its flexibility in maintaining [multiple](../m/multiple.md) assets in arbitrary ratios, diverging from the typical 50-50 ratio seen in other AMMs. Balancer pools can [hold](../h/hold.md) up to 8 different tokens and auto-adjust to maintain set proportional values.
 
 ### Curve Finance
 
-Specializing in stablecoin pools, Curve [Finance](../f/finance.md) minimizes [slippage](../s/slippage.md) for closely pegged assets. This focus allows [Curve Finance](https://curve.fi) to [offer](../o/offer.md) extremely efficient stablecoin trading, suitable for users looking for minimal fluctuation in [value](../v/value.md).
+Specializing in stablecoin pools, Curve [Finance](../f/finance.md) minimizes [slippage](../s/slippage.md) for closely pegged assets. This focus allows Curve Finance to [offer](../o/offer.md) extremely efficient stablecoin trading, suitable for users looking for minimal fluctuation in [value](../v/value.md).
 
 ## Governance and AMM Ecosystems
 

@@ -54,11 +54,11 @@ Deciding when to [grant](../g/grant.md) [options](../o/options.md) can also be a
 ## Example Companies with Option Pools
 Many successful tech companies utilize option pools to attract top talent. For example:
 
-- **Google LLC (Alphabet Inc.)**: Google has been known for its generous option pools and [equity compensation](../e/equity_compensation.md) packages that have substantially rewarded many of its employees. [Google](https://www.abc.xyz)
+- **Google LLC (Alphabet Inc.)**: Google has been known for its generous option pools and [equity compensation](../e/equity_compensation.md) packages that have substantially rewarded many of its employees. Google
 
-- **Facebook (Meta Platforms, Inc.)**: Facebook has employed significant option pools and stock grants to attract and retain talent, particularly during its formative years. [Meta](https://about.fb.com)
+- **Facebook (Meta Platforms, Inc.)**: Facebook has employed significant option pools and stock grants to attract and retain talent, particularly during its formative years. Meta
 
-- **Tesla, Inc.**: Tesla has used stock [options](../o/options.md) and [equity](../e/equity.md) awards extensively to secure the commitment of key executives and engineers. [Tesla](https://www.tesla.com)
+- **Tesla, Inc.**: Tesla has used stock [options](../o/options.md) and [equity](../e/equity.md) awards extensively to secure the commitment of key executives and engineers. Tesla
 
 ## Conclusion
 An option pool is a vital tool for startups and growing companies to attract, retain, and incentivize key employees by [offering](../o/offering.md) them a stake in the company's future success. While it involves considerations of [dilution](../d/dilution.md), [market](../m/market.md) competitiveness, legal, and fiscal implications, the strategic use of an option pool can be instrumental in building a motivated and committed workforce, ultimately driving the company towards its long-term goals.

@@ -1,6 +1,6 @@
 # Hard-To-Borrow List
 
-[Algorithmic Trading](../a/accountability.md), or "algo-trading," leverages computational power to execute orders at extremely high speeds and frequencies. Among the many concepts and elements involved in algo-trading, the "Hard-To-Borrow" (HTB) list is critical for understanding [short selling](../s/short_selling.md) and ensuring effective [trading strategies](../t/trading_strategies.md). This article delves into the meaning, importance, and implications of the Hard-To-Borrow list in the context of [algorithmic trading](../a/accountability.md).
+[Algorithmic Trading](../a/algorithmic_trading.md), or "algo-trading," leverages computational power to execute orders at extremely high speeds and frequencies. Among the many concepts and elements involved in algo-trading, the "Hard-To-Borrow" (HTB) list is critical for understanding [short selling](../s/short_selling.md) and ensuring effective [trading strategies](../t/trading_strategies.md). This article delves into the meaning, importance, and implications of the Hard-To-Borrow list in the context of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is the Hard-To-Borrow List?
 
@@ -24,8 +24,7 @@ There are [multiple](../m/multiple.md) factors that can lead to a [security](../
 
 ## The Role of Brokers and Exchanges
 
-Different brokers maintain their proprietary HTB lists, which may differ due to variances in [inventory](../i/inventory.md), clientele, and lending relationships. Popular brokerage firms like [Interactive Brokers](../i/interactive_brokers.md) [Interactive Brokers](https://www.interactivebrokers.com), for instance, maintain and regularly update their HTB lists. 
-
+Different brokers maintain their proprietary HTB lists, which may differ due to variances in [inventory](../i/inventory.md), clientele, and lending relationships. Popular brokerage firms like [Interactive Brokers](../i/interactive_brokers.md) Interactive Brokers, for instance, maintain and regularly update their HTB lists.
 Exchanges do not typically create HTB lists but may provide data feeds that help brokers identify hard-to-borrow [stocks](../s/stock.md). The brokers then compile this information along with their internal data to generate the HTB list.
 
 ## Implications for Algo-Traders
@@ -78,16 +77,13 @@ Several technological solutions can help algo-traders navigate the challenges po
 
 ### Tradier
 
-[Tradier](../t/tradier.md), a brokerage API platform, provides real-time HTB [data integration](../d/data_integration.md), allowing developers to create custom trading solutions that dynamically account for hard-to-borrow statuses. Their services include [short sale](../s/short_sale.md) availability and cost metrics, which are vital for effective [algorithmic trading](../a/accountability.md).
+[Tradier](../t/tradier.md), a brokerage API platform, provides real-time HTB [data integration](../d/data_integration.md), allowing developers to create custom trading solutions that dynamically account for hard-to-borrow statuses. Their services include [short sale](../s/short_sale.md) availability and cost metrics, which are vital for effective [algorithmic trading](../a/algorithmic_trading.md).
 
-[Interactive Brokers HTB Data](https://www.interactivebrokers.com)
 
-[Robinhood HTB Information](https://robinhood.com)
 
-[Tradier Brokerage API](https://www.tradier.com)
 
 ## Conclusion
 
-The Hard-To-Borrow list is an essential component in the ecosystem of [algorithmic trading](../a/accountability.md), particularly for strategies involving [short selling](../s/short_selling.md). Traders and developers must consider HTB securities when designing, implementing, and optimizing their [trading algorithms](../t/trading_algorithms.md). This involves understanding the factors that lead to a [security](../s/security.md) being classified as hard-to-borrow, assessing the impact on [trading strategies](../t/trading_strategies.md), and leveraging technological solutions for real-time data and [fee](../f/fee.md) analysis.
+The Hard-To-Borrow list is an essential component in the ecosystem of [algorithmic trading](../a/algorithmic_trading.md), particularly for strategies involving [short selling](../s/short_selling.md). Traders and developers must consider HTB securities when designing, implementing, and optimizing their [trading algorithms](../t/trading_algorithms.md). This involves understanding the factors that lead to a [security](../s/security.md) being classified as hard-to-borrow, assessing the impact on [trading strategies](../t/trading_strategies.md), and leveraging technological solutions for real-time data and [fee](../f/fee.md) analysis.
 
 By paying close attention to the HTB list and integrating its insights into [trading algorithms](../t/trading_algorithms.md), traders can navigate the complexities of the [market](../m/market.md) more effectively, minimize costs, and optimize their [trading performance](../t/trading_performance.md).

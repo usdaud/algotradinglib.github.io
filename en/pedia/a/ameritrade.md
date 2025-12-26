@@ -3,7 +3,7 @@
 ## Overview
 TD Ameritrade was a leading brokerage [firm](../f/firm.md) [offering](../o/offering.md) a wide [range](../r/range.md) of investment and trading services, including [stocks](../s/stock.md), ETFs, [options](../o/options.md), [futures](../f/futures.md), mutual funds, and [fixed income](../f/fixed_income.md) investments. Known for its powerful trading platforms, educational resources, and comprehensive [market](../m/market.md) data, TD Ameritrade catered to individual investors, traders, and financial professionals.
 
-As of October 2020, TD Ameritrade has been acquired by [Charles Schwab](../c/charles_schwab.md), and its services have been integrated into Schwab's offerings.
+Following the acquisition announced in November 2019, TD Ameritrade was fully integrated into [Charles Schwab](../c/charles_schwab.md) in September 2023. All TD Ameritrade services have been integrated into Schwab's offerings.
 
 ## Features
 1. **Trading Platforms**: Advanced trading platforms, including [thinkorswim](../t/thinkorswim.md), [offering](../o/offering.md) powerful charting, analysis, and trading tools.
@@ -37,7 +37,6 @@ TD Ameritrade integrated with a variety of financial platforms and tools to enha
 TD Ameritrade offered extensive support through detailed documentation, user guides, tutorials, and a dedicated support team. Users could also access a [range](../r/range.md) of educational resources, including webinars, [market](../m/market.md) analysis, and community forums to share insights and ask questions.
 
 ## Transition to Charles Schwab
-As of October 2020, TD Ameritrade has been acquired by [Charles Schwab](../c/charles_schwab.md). All TD Ameritrade services have been integrated into Schwab's offerings. Existing TD Ameritrade clients have been transitioned to [Charles Schwab](../c/charles_schwab.md) accounts, and new clients are directed to [Charles Schwab](../c/charles_schwab.md) for [brokerage services](../b/brokerage_services.md).
+In September 2023, the acquisition of TD Ameritrade by [Charles Schwab](../c/charles_schwab.md) was completed (announced November 2019). All TD Ameritrade services have been integrated into Schwab's offerings. Existing TD Ameritrade clients have been transitioned to [Charles Schwab](../c/charles_schwab.md) accounts, and new clients are directed to [Charles Schwab](../c/charles_schwab.md) for [brokerage services](../b/brokerage_services.md).
 
-## Website
-For more information and to access the integrated services, please visit [Charles Schwab's official website](https://www.schwab.com).
+##

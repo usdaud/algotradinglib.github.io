@@ -12,10 +12,10 @@ A Levy process \((L_t)_{t \geq 0}\) is a stochastic process that satisfies the f
 2. **Independent Increments**: The increments are independent for any disjoint intervals.
 3. **Càdlàg Paths**: The process is right-continuous with left limits.
 4. **Levy-Khintchine Formula**: The characteristic function of \(L_t\) can be represented as
-   \[
-   \mathbb{E}[e^{iuL_t}] = \exp\left( t (iu\[gamma](../g/gamma.md) - \frac{1}{2}\sigma^2 u^2 + \int_{\mathbb{R}} (e^{iuy} - 1 - iuy\mathbf{1}_{|y|<1}) \nu(dy) ) \right)
-   \]
-   where \(\[gamma](../g/gamma.md) \in \mathbb{R}\), \(\sigma^2 \geq 0\), and \(\nu\) is a measure called the Lévy measure.
+ \[
+ \mathbb{E}[e^{iuL_t}] = \exp\left( t (iu\[gamma](../g/gamma.md) - \frac{1}{2}\sigma^2 u^2 + \int_{\mathbb{R}} (e^{iuy} - 1 - iuy\mathbf{1}_{|y|<1}) \nu(dy) ) \right)
+ \]
+ where \(\[gamma](../g/gamma.md) \in \mathbb{R}\), \(\sigma^2 \geq 0\), and \(\nu\) is a measure called the Lévy measure.
 
 ### Common Levy Processes
 

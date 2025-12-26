@@ -15,10 +15,10 @@ To calculate the millage rate, the local governing body first determines the tot
 2. **Calculation of the Total [Assessed Value](../a/assessed_value.md):** The assessed values of all properties are summed to obtain the total [assessed value](../a/assessed_value.md) for the jurisdiction.
 
 3. **Determination of the Required [Revenue](../r/revenue.md):** The required [revenue](../r/revenue.md) is divided by the total [assessed value](../a/assessed_value.md) to determine the millage rate. The formula used is:
-   
-   \[
-   \text{Millage Rate} = \left( \frac{\text{Required [Revenue](../r/revenue.md)}}{\text{Total [Assessed Value](../a/assessed_value.md)}} \right) \times 1000
-   \]
+
+ \[
+ \text{Millage Rate} = \left( \frac{\text{Required [Revenue](../r/revenue.md)}}{\text{Total [Assessed Value](../a/assessed_value.md)}} \right) \times 1000
+ \]
 
 ### Example Calculation
 
@@ -90,7 +90,7 @@ The millage rate is a fundamental component of [property tax](../p/property_tax.
 
 For more information on [property tax](../p/property_tax.md) and millage rates, you can visit resources like:
 
-- [National Association of Counties (NACo)](https://www.naco.org/)
-- [International Association of Assessing Officers (IAAO)](https://www.iaao.org/)
+- National Association of Counties (NACo)
+- International Association of Assessing Officers (IAAO)
 
 Understanding millage rates and their implications is vital for property owners, local governments, and policymakers to ensure a fair and effective property [taxation](../t/taxation.md) system that supports community development and sustainability.

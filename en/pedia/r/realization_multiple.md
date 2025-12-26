@@ -30,7 +30,7 @@ In the context of [private equity](../p/private_equity.md) and [venture capital]
 
 Investors use the realization [multiple](../m/multiple.md) to assess the [risk](../r/risk.md) associated with an investment. A higher RM typically suggests a lower [risk](../r/risk.md) profile as it indicates successful exits and returns. Conversely, a lower RM might suggest underperformance and higher [risk](../r/risk.md).
 
-### Fundraising and Investor Relations
+### Fundraising and company filings
 
 Funds with higher realization multiples are more attractive to potential investors. A strong RM record helps [fund](../f/fund.md) managers raise new [capital](../c/capital.md) more easily during subsequent fundraising rounds. It serves as a testament to the [fund manager](../f/fund_manager.md)'s ability to deliver returns, crucial for gaining [investor](../i/investor.md) confidence.
 
@@ -96,7 +96,7 @@ Although predominantly used in [private equity](../p/private_equity.md) and [ven
 
 ### Performance Metrics
 
-In [algorithmic trading](../a/accountability.md), the realization [multiple](../m/multiple.md) can be used to measure the success of [trading algorithms](../t/trading_algorithms.md) by comparing the profits realized (distributed [capital](../c/capital.md)) to the initial investment (called [capital](../c/capital.md)). This allows for a clear understanding of the strategy's historical performance.
+In [algorithmic trading](../a/algorithmic_trading.md), the realization [multiple](../m/multiple.md) can be used to measure the success of [trading algorithms](../t/trading_algorithms.md) by comparing the profits realized (distributed [capital](../c/capital.md)) to the initial investment (called [capital](../c/capital.md)). This allows for a clear understanding of the strategy's historical performance.
 
 ### Strategy Optimization
 
@@ -104,10 +104,10 @@ Analyzing realization [multiple](../m/multiple.md) helps in optimizing [trading 
 
 ### Risk Assessment in Trading
 
-Realization [multiple](../m/multiple.md) can also serve as a [risk](../r/risk.md) assessment tool in [algorithmic trading](../a/accountability.md). Strategies with higher RM indicate effective [risk management](../r/risk_management.md) and profitable exits, making them more attractive for higher [capital allocation](../c/capital_allocation.md).
+Realization [multiple](../m/multiple.md) can also serve as a [risk](../r/risk.md) assessment tool in [algorithmic trading](../a/algorithmic_trading.md). Strategies with higher RM indicate effective [risk management](../r/risk_management.md) and profitable exits, making them more attractive for higher [capital allocation](../c/capital_allocation.md).
 
 ## Conclusion
 
-The realization [multiple](../m/multiple.md) is a vital metric in the realms of [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md), [offering](../o/offering.md) deep insights into investment performance and [risk](../r/risk.md). It serves as a [benchmark](../b/benchmark.md) for evaluating the success of funds, aids in fundraising, and helps in making informed investment decisions. While its primary application is within [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md), the realization [multiple](../m/multiple.md)'s principles can extend to other financial domains, including [algorithmic trading](../a/accountability.md), making it a versatile and valuable performance measure.
+The realization [multiple](../m/multiple.md) is a vital metric in the realms of [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md), [offering](../o/offering.md) deep insights into investment performance and [risk](../r/risk.md). It serves as a [benchmark](../b/benchmark.md) for evaluating the success of funds, aids in fundraising, and helps in making informed investment decisions. While its primary application is within [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md), the realization [multiple](../m/multiple.md)'s principles can extend to other financial domains, including [algorithmic trading](../a/algorithmic_trading.md), making it a versatile and valuable performance measure.
 
-For more information on [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md) metrics, you may visit the [Private Equity Growth Capital Council](https://www.pegcc.org/) or explore resources offered by [PitchBook](https://pitchbook.com/).
+For more information on [private equity](../p/private_equity.md) and [venture capital](../v/venture_capital.md) metrics, you may visit the Private Equity Growth Capital Council or explore resources offered by PitchBook.

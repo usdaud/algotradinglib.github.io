@@ -20,7 +20,7 @@ The Federal Reserve offers three types of [discount](../d/discount.md) window pr
 - **Secondary [Credit](../c/credit.md)**: Extended to institutions not qualifying for primary [credit](../c/credit.md), typically at a higher rate and subject to greater oversight.
 - **Seasonal [Credit](../c/credit.md)**: Available to smaller [depository](../d/depository.md) institutions experiencing seasonal fluctuations in [loan](../l/loan.md) [demand](../d/demand.md) and [deposit](../d/deposit.md) activity.
 
-For more information, you can visit [Federal Reserve Discount Rate](https://www.federalreserve.gov/monetarypolicy/discountrate.htm).
+For more information, you can visit Federal Reserve Discount Rate.
 
 ## Corporate Finance Discount Rate
 
@@ -51,13 +51,13 @@ The [discount](../d/discount.md) rate also has broader economic implications, in
 
 **Effects of Changing the [Discount](../d/discount.md) Rate:**
 1. **Increased Rate**:
-   - Higher borrowing costs.
-   - Reduced consumer and [business](../b/business.md) spending.
-   - Potential slowdown in [economic growth](../e/economic_growth.md).
+ - Higher borrowing costs.
+ - Reduced consumer and [business](../b/business.md) spending.
+ - Potential slowdown in [economic growth](../e/economic_growth.md).
 2. **Decreased Rate**:
-   - Lower borrowing costs.
-   - Increased consumer and [business](../b/business.md) spending.
-   - Potential boost in economic activity and reduction in [unemployment](../u/unemployment.md).
+ - Lower borrowing costs.
+ - Increased consumer and [business](../b/business.md) spending.
+ - Potential boost in economic activity and reduction in [unemployment](../u/unemployment.md).
 
 ### Inflation Control
 
@@ -69,13 +69,13 @@ One of the critical functions of the [discount](../d/discount.md) rate is to hel
 
 The ECB uses the [discount](../d/discount.md) rate to influence the cost of borrowing and lending throughout the [Eurozone](../e/eurozone.md). As part of its [monetary policy](../m/monetary_policy.md) toolkit, the ECB sets the rate for its [deposit](../d/deposit.md) [facility](../f/facility.md), marginal lending [facility](../f/facility.md), and main refinancing operations.
 
-For more information, visit [ECB Official Interest Rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html).
+For more information, visit ECB Official Interest Rates.
 
 ### Bank of Japan (BoJ)
 
 The BoJ employs the [discount](../d/discount.md) rate to manage [liquidity](../l/liquidity.md) and influence economic activity in Japan. The [monetary policy](../m/monetary_policy.md) decisions of the BoJ often reflect broader [economic conditions](../e/economic_conditions.md), including [inflation](../i/inflation.md) rates and [economic growth](../e/economic_growth.md) forecasts.
 
-For more details, visit [Bank of Japan Policies](https://www.boj.or.jp/en/mopo/outline/index.htm/).
+For more details, visit Bank of Japan Policies.
 
 ## Conclusion
 

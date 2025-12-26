@@ -58,7 +58,7 @@ Several firms and quantitative analysts (quants) are renowned for their ability 
 
 ### Renaissance Technologies
 
-Renaissance Technologies, founded by James Simons, is one of the most successful quant trading firms, known for its Medallion [Fund](../f/fund.md) which has generated extraordinary returns. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, founded by James Simons, is one of the most successful quant trading firms, known for its Medallion [Fund](../f/fund.md) which has generated extraordinary returns. Renaissance Technologies
 
 ### Jim Simons
 
@@ -66,7 +66,7 @@ Jim Simons is a mathematician and [hedge fund manager](../h/hedge_fund_manager.m
 
 ### Two Sigma
 
-Two Sigma, a [hedge fund](../h/hedge_fund.md) founded by David Siegel and John Overdeck, applies [data science](../d/data_science_in_trading.md) and technology to investments. The [firm](../f/firm.md) focuses on [machine learning](../m/machine_learning.md), distributed computing, and advanced mathematical modeling. [Two Sigma](https://www.twosigma.com/)
+Two Sigma, a [hedge fund](../h/hedge_fund.md) founded by David Siegel and John Overdeck, applies [data science](../d/data_science_in_trading.md) and technology to investments. The [firm](../f/firm.md) focuses on [machine learning](../m/machine_learning.md), distributed computing, and advanced mathematical modeling. Two Sigma
 
 ## Challenges in Generating Alpha
 

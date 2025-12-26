@@ -1,6 +1,6 @@
 # Revealed Preference
 
-Revealed preference is an important concept in [economics](../e/economics.md) and [finance](../f/finance.md) that provides a methodology for understanding consumer behavior. Instead of relying on what consumers say they [will](../w/will.md) do, revealed preference focuses on their actual choices. The principle can be extremely useful in several areas, including [market research](../m/market_research.md), policy formulation, and even [algorithmic trading](../a/accountability.md). This approach was first introduced by [economist](../e/economist.md) Paul Samuelson in the 1930s and has since become fundamental in understanding [demand](../d/demand.md) and consumer behavior.
+Revealed preference is an important concept in [economics](../e/economics.md) and [finance](../f/finance.md) that provides a methodology for understanding consumer behavior. Instead of relying on what consumers say they [will](../w/will.md) do, revealed preference focuses on their actual choices. The principle can be extremely useful in several areas, including [market research](../m/market_research.md), policy formulation, and even [algorithmic trading](../a/algorithmic_trading.md). This approach was first introduced by [economist](../e/economist.md) Paul Samuelson in the 1930s and has since become fundamental in understanding [demand](../d/demand.md) and consumer behavior.
 
 ## Basics of Revealed Preference
 
@@ -42,7 +42,7 @@ By examining what goods respond to subsidies or [taxes](../t/taxes.md), policyma
 
 ## Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on [predictive models](../p/predictive_models_in_trading.md) that can benefit from revealed preferences extracted from [market](../m/market.md) data.
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [predictive models](../p/predictive_models_in_trading.md) that can benefit from revealed preferences extracted from [market](../m/market.md) data.
 
 ### Market Sentiment Analysis
 
@@ -106,6 +106,6 @@ The field of [behavioral economics](../b/behavioral_economics.md) has started to
 
 ## Conclusion
 
-Revealed preference is a cornerstone of modern [economics](../e/economics.md) and [finance](../f/finance.md), providing significant insights into consumer behavior and decision-making. Its applications span various fields, from [market research](../m/market_research.md) and policy formulation to [algorithmic trading](../a/accountability.md) and FinTech. Despite its challenges, the integration with modern technology and [data analytics](../d/data_analytics.md) promises to keep revealed preference at the forefront of economic research and practical application. Understanding and leveraging revealed preference can lead to better decision-making, more effective policies, and more personalized products and services.
+Revealed preference is a cornerstone of modern [economics](../e/economics.md) and [finance](../f/finance.md), providing significant insights into consumer behavior and decision-making. Its applications span various fields, from [market research](../m/market_research.md) and policy formulation to [algorithmic trading](../a/algorithmic_trading.md) and FinTech. Despite its challenges, the integration with modern technology and [data analytics](../d/data_analytics.md) promises to keep revealed preference at the forefront of economic research and practical application. Understanding and leveraging revealed preference can lead to better decision-making, more effective policies, and more personalized products and services.
 
-For more resources, visit [FinTech Refer](https://www.fintechrefer.com) for the latest in financial technology applications and developments.
+For more resources, visit FinTech Refer for the latest in financial technology applications and developments.

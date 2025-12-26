@@ -9,12 +9,12 @@ Econometrics combines economic theory, mathematics, and statistical inference. I
 
 ### 2.1 Linear Regression Models
 [Linear regression](../l/linear_regression.md) models are foundational in econometrics. They are used to establish a relationship between a dependent variable (e.g., [asset](../a/asset.md) price) and one or more independent variables (e.g., GDP growth, [interest](../i/interest.md) rates). The [linear regression](../l/linear_regression.md) equation is given by:
-\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + ... + \beta_n x_n + \epsilon \]
+\[ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 +... + \beta_n x_n + \epsilon \]
 Where:
 - \( y \) is the dependent variable ([asset](../a/asset.md) price).
-- \( x_1, x_2, ..., x_n \) are independent variables (economic factors).
+- \( x_1, x_2,..., x_n \) are independent variables (economic factors).
 - \( \beta_0 \) is the intercept.
-- \( \beta_1, \beta_2, ..., \beta_n \) are the coefficients.
+- \( \beta_1, \beta_2,..., \beta_n \) are the coefficients.
 - \( \epsilon \) is the [error term](../e/error_term.md).
 
 #### Application
@@ -31,11 +31,11 @@ Non-[linear models](../l/linear_models_in_trading.md) are used in [options](../o
 
 #### 2.3.1 Autoregressive (AR) Models
 AR models describe a [time series](../t/time_series.md) based on its past values. An AR(p) model of [order](../o/order.md) p can be written as:
-\[ y_t = \[alpha](../a/alpha.md) + \beta_1 y_{t-1} + \beta_2 y_{t-2} + ... + \beta_p y_{t-p} + \epsilon_t \]
+\[ y_t = \[alpha](../a/alpha.md) + \beta_1 y_{t-1} + \beta_2 y_{t-2} +... + \beta_p y_{t-p} + \epsilon_t \]
 
 #### 2.3.2 Moving Average (MA) Models
 MA models represent a [time series](../t/time_series.md) as a linear function of past error terms. An MA(q) model of [order](../o/order.md) q is given by:
-\[ y_t = \mu + \epsilon_t + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} + ... + \theta_q \epsilon_{t-q} \]
+\[ y_t = \mu + \epsilon_t + \theta_1 \epsilon_{t-1} + \theta_2 \epsilon_{t-2} +... + \theta_q \epsilon_{t-q} \]
 
 #### 2.3.3 ARMA and ARIMA Models
 The Autoregressive Moving Average (ARMA) and Autoregressive Integrated Moving Average (ARIMA) models combine AR and MA models. ARIMA models are particularly useful for non-stationary [time series](../t/time_series.md) data.
@@ -125,8 +125,8 @@ Econometrics is indispensable in trading, [offering](../o/offering.md) traders p
 ---
 For practical implementations and further explorations in econometrics and trading, please refer to relevant resources and software documentation:
 
-- [EViews](https://www.eviews.com)
-- [R Project](https://www.r-project.org)
-- [Python](https://www.python.org)
-- [MATLAB](https://www.mathworks.com/products/econometrics.html)
-- [Stata](https://www.stata.com)
+- EViews
+- R Project
+- Python
+- MATLAB
+- Stata

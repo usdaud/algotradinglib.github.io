@@ -27,11 +27,11 @@ A CPI measures changes in the [price level](../p/price_level.md) of a [market](.
 
 ## Data Collection
 
-The data for the CPI is collected through surveys and direct price measurements taken periodically from various retail and online sellers. 
+The data for the CPI is collected through surveys and direct price measurements taken periodically from various retail and online sellers.
 
 ## Weighting
 
-The items within the basket are assigned weights based on their relative importance in the typical consumer's spending. This weighting process ensures that more significant consumer expenses have a greater impact on the [index](../i/index_instrument.md). 
+The items within the basket are assigned weights based on their relative importance in the typical consumer's spending. This weighting process ensures that more significant consumer expenses have a greater impact on the [index](../i/index_instrument.md).
 
 ## Calculating the Index
 
@@ -47,7 +47,7 @@ The CPI has a broad [range](../r/range.md) of applications across different sect
 
 ## Economic Indicator
 
-The CPI is a vital [indicator](../i/indicator.md) for economists and policymakers to manage economic policy. 
+The CPI is a vital [indicator](../i/indicator.md) for economists and policymakers to manage economic policy.
 
 1. **Measuring [Inflation](../i/inflation.md)**: One of the primary uses of the CPI is to measure [inflation](../i/inflation.md) by comparing price levels to a [base year](../b/base_year.md).
 2. **Cost-of-Living Adjustments (COLA)**: The CPI is used to adjust salaries, wages, pensions, and [social security](../s/social_security.md) benefits to maintain the [purchasing power](../p/purchasing_power.md) of citizens.
@@ -99,5 +99,4 @@ Governments may adjust fiscal policies, including [taxation](../t/taxation.md) a
 
 The CPI is a cornerstone of economic analysis, providing critical insights into [inflation](../i/inflation.md) and [purchasing power](../p/purchasing_power.md). Its comprehensive methodology and broad applications make it indispensable, despite some inherent limitations. Understanding the CPI is essential for anyone involved in [economics](../e/economics.md), [finance](../f/finance.md), or personal [money management](../m/money_management.md), providing a clearer view of the economic landscape and guiding more informed decision-making.
 
-For further details, you can refer to the Bureau of Labor [Statistics](../s/statistics.md) (BLS) website: [Bureau of Labor Statistics](https://www.bls.gov/cpi/)
-
+For further details, you can refer to the Bureau of Labor Statistics (BLS) data releases.

@@ -50,15 +50,15 @@ While the primary purpose of an emergency [fund](../f/fund.md) is not to generat
 
 Several reputable banks [offer](../o/offer.md) high-[yield](../y/yield.md) savings accounts specifically designed for emergency funds. These accounts provide higher [interest](../i/interest.md) rates compared to traditional savings accounts, ensuring that the [fund](../f/fund.md) grows over time. Examples include:
 
-- **Ally [Bank](../b/bank.md)**: Known for its competitive [interest](../i/interest.md) rates and user-friendly [online banking](../o/online_banking.md) platform (https://www.ally.com).
-- **Marcus by Goldman Sachs**: Offers high-[yield](../y/yield.md) savings accounts with no minimum [deposit](../d/deposit.md) requirements and no fees (https://www.marcus.com).
+- **Ally [Bank](../b/bank.md)**: Known for its competitive [interest](../i/interest.md) rates and user-friendly [online banking](../o/online_banking.md) platform (
+- **Marcus by Goldman Sachs**: Offers high-[yield](../y/yield.md) savings accounts with no minimum [deposit](../d/deposit.md) requirements and no fees (
 
 ### Money Market Accounts
 
 [Money market](../m/money_market.md) accounts often [offer](../o/offer.md) better [interest](../i/interest.md) rates compared to regular savings accounts and come with [check](../c/check.md)-writing privileges and [debit](../d/debit.md) card access. Examples include:
 
-- **Discover [Bank](../b/bank.md)**: Provides competitive rates on [money market](../m/money_market.md) accounts along with easy access to funds (https://www.discover.com).
-- **[Capital](../c/capital.md) One 360**: Offers [money market](../m/money_market.md) accounts with attractive [interest](../i/interest.md) rates and flexible [withdrawal](../w/withdrawal.md) [options](../o/options.md) (https://www.capitalone.com).
+- **Discover [Bank](../b/bank.md)**: Provides competitive rates on [money market](../m/money_market.md) accounts along with easy access to funds (
+- **[Capital](../c/capital.md) One 360**: Offers [money market](../m/money_market.md) accounts with attractive [interest](../i/interest.md) rates and flexible [withdrawal](../w/withdrawal.md) [options](../o/options.md) (
 
 ## Maintaining and Using an Emergency Fund
 

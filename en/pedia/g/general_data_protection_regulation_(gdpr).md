@@ -94,8 +94,8 @@ Organizations worldwide must comply with GDPR if they [offer](../o/offer.md) goo
 
 ## Resources and Further Reading
 
-- [Official GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
-- [European Data Protection Board (EDPB)](https://edpb.europa.eu/edpb_en)
-- [Information Commissioner's Office (ICO)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
+- Official GDPR Text
+- European Data Protection Board (EDPB)
+- Information Commissioner's Office (ICO)
 
 Understanding and adhering to GDPR is crucial for the protection of personal data and the avoidance of potentially severe penalties. Organizations should continually review and update their data protection practices to ensure they remain compliant with this important regulation.

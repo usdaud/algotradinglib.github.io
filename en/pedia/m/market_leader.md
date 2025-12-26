@@ -30,7 +30,7 @@ Apple Inc. is a quintessential [market](../m/market.md) leader in the [technolog
 
 Amazon.com Inc., often referred to simply as "Amazon," is a leading [market](../m/market.md) leader in e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md). With its comprehensive selection of products, swift delivery network, and innovations like Amazon Prime and Amazon Web Services (AWS), the company has revolutionized retail and technology services.
 
-For more information about Amazon, visit [Amazon](https://www.amazon.com).
+For more information about Amazon, visit Amazon.
 
 ### Coca-Cola Company
 

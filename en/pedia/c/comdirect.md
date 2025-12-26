@@ -40,5 +40,3 @@ Comdirect integrates with a variety of financial platforms and tools to enhance 
 ## Regulation
 Comdirect is regulated by the Federal Financial Supervisory Authority (BaFin) in Germany, ensuring a secure and compliant financial environment.
 
-## Website
-For more information and to explore Comdirect’s services, visit the official Comdirect website: [Comdirect](https://www.comdirect.de)

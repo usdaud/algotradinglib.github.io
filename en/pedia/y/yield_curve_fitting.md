@@ -4,7 +4,7 @@
 
 ### What is a Yield Curve?
 
-A [yield curve](../y/yield_curve.md) is a graphical representation of yields on bonds of varying terms to [maturity](../m/maturity.md). The x-axis represents the [maturity](../m/maturity.md) of the [debt](../d/debt.md) (time), while the y-axis represents the [yield](../y/yield.md) ([interest rate](../i/interest_rate.md)). The most common [yield curve](../y/yield_curve.md) plotted by analysts is the Treasury [yield curve](../y/yield_curve.md), which shows the yields on [U.S. Treasury](../u/u.s._treasury.md) securities of different maturities. 
+A [yield curve](../y/yield_curve.md) is a graphical representation of yields on bonds of varying terms to [maturity](../m/maturity.md). The x-axis represents the [maturity](../m/maturity.md) of the [debt](../d/debt.md) (time), while the y-axis represents the [yield](../y/yield.md) ([interest rate](../i/interest_rate.md)). The most common [yield curve](../y/yield_curve.md) plotted by analysts is the Treasury [yield curve](../y/yield_curve.md), which shows the yields on [U.S. Treasury](../u/u.s._treasury.md) securities of different maturities.
 
 #### Types of Yield Curves
 
@@ -19,9 +19,9 @@ A [yield curve](../y/yield_curve.md) is a graphical representation of yields on 
 ### Importance of Yield Curves
 
 - **[Economic Indicators](../e/economic_indicators.md)**: [Yield](../y/yield.md) curves are closely watched for signals about future economic activity. For instance, an inverted [yield curve](../y/yield_curve.md) has historically been a predictor of recessions.
-  
+
 - **[Risk Management](../r/risk_management.md)**: Financial institutions use [yield](../y/yield.md) curves to manage [interest rate risk](../i/interest_rate_risk.md). By understanding the shape and shifts in the curve, they can make better hedging decisions.
-  
+
 - **[Valuation](../v/valuation.md) of Securities**: Accurate [yield](../y/yield.md) curves are essential for the pricing of bonds and any fixed-[income](../i/income.md) securities, as well as for calibrating models used in [derivative](../d/derivative.md) pricing.
 
 ### Yield Curve Fitting Techniques
@@ -31,52 +31,52 @@ A [yield curve](../y/yield_curve.md) is a graphical representation of yields on 
 Bootstrapping is a process of constructing a zero-coupon [yield curve](../y/yield_curve.md) from the prices of a set of coupon-bearing bonds. The zero-coupon [yield curve](../y/yield_curve.md) (spot curve) represents the yields of zero-coupon securities, which pay no interim [interest](../i/interest.md) but are sold at a [discount](../d/discount.md) to their [face value](../f/face_value.md).
 
 - **Step-by-Step Process**:
-  - Select a series of government bonds with different maturities.
-  - Start with the shortest [maturity](../m/maturity.md) [bond](../b/bond.md) and solve for the [yield](../y/yield.md) that discounts the [bond](../b/bond.md)’s payments to its current price.
-  - Use this [yield](../y/yield.md) to [discount](../d/discount.md) the next [maturity](../m/maturity.md) [bond](../b/bond.md)’s cash flows, and solve for its [yield](../y/yield.md).
-  - Repeat the process iteratively to construct the entire [yield curve](../y/yield_curve.md).
+ - Select a series of government bonds with different maturities.
+ - Start with the shortest [maturity](../m/maturity.md) [bond](../b/bond.md) and solve for the [yield](../y/yield.md) that discounts the [bond](../b/bond.md)’s payments to its current price.
+ - Use this [yield](../y/yield.md) to [discount](../d/discount.md) the next [maturity](../m/maturity.md) [bond](../b/bond.md)’s cash flows, and solve for its [yield](../y/yield.md).
+ - Repeat the process iteratively to construct the entire [yield curve](../y/yield_curve.md).
 
 #### 2. Nelson-Siegel Model
 
 The Nelson-Siegel model is a parametric model used to fit the [yield curve](../y/yield_curve.md) in a parsimonious way. It's particularly popular because it provides a good fit with relatively few parameters.
 
 - **Equation**:
-  - The model expresses the instantaneous [forward rate](../f/forward_rate.md) as a function of [maturity](../m/maturity.md) `t`:
-    ```
-    f(t) = β0 + β1 * exp(-λt) + β2 * (λt * exp(-λt)).
-    ```
-  - Here, `β0`, `β1`, and `β2` are parameters that control the level, slope, and curvature of the [yield curve](../y/yield_curve.md), and `λ` is a decay [factor](../f/factor.md) controlling how quickly the effect of the slope and curvature parameters decay.
+ - The model expresses the instantaneous [forward rate](../f/forward_rate.md) as a function of [maturity](../m/maturity.md) `t`:
+ ```
+ f(t) = β0 + β1 * exp(-λt) + β2 * (λt * exp(-λt)).
+ ```
+ - Here, `β0`, `β1`, and `β2` are parameters that control the level, slope, and curvature of the [yield curve](../y/yield_curve.md), and `λ` is a decay [factor](../f/factor.md) controlling how quickly the effect of the slope and curvature parameters decay.
 
 #### 3. Svensson Model
 
 An extension of the Nelson-Siegel model, the Svensson model adds two more parameters to capture even more flexible curve shapes.
 
 - **Equation**:
-  - The [forward rate](../f/forward_rate.md) function now includes additional terms:
-    ```
-    f(t) = β0 + β1 * exp(-λ1 * t) + β2 * (λ1 * t * exp(-λ1 * t)) + β3 * (λ2 * exp(-λ2 * t)).
-    ```
-  - This allows for a more flexible fitting, especially for more complex curve shapes that occur in real [market](../m/market.md) data.
+ - The [forward rate](../f/forward_rate.md) function now includes additional terms:
+ ```
+ f(t) = β0 + β1 * exp(-λ1 * t) + β2 * (λ1 * t * exp(-λ1 * t)) + β3 * (λ2 * exp(-λ2 * t)).
+ ```
+ - This allows for a more flexible fitting, especially for more complex curve shapes that occur in real [market](../m/market.md) data.
 
 #### 4. Cubic Spline Interpolation
 
 Cubic spline [interpolation](../i/interpolation.md) is a non-parametric method that fits a smooth curve to the [yield](../y/yield.md) data. It involves dividing the [yield curve](../y/yield_curve.md) into several sections and fitting a cubic polynomial to each section, ensuring that the polynomials connect smoothly.
 
 - **Methodology**:
-  - Break the [maturity](../m/maturity.md) spectrum into several intervals.
-  - Fit a cubic polynomial to each interval.
-  - Ensure that the first and second [derivatives](../d/derivatives.md) of the polynomials match at the boundaries of the intervals to ensure smoothness.
+ - Break the [maturity](../m/maturity.md) spectrum into several intervals.
+ - Fit a cubic polynomial to each interval.
+ - Ensure that the first and second [derivatives](../d/derivatives.md) of the polynomials match at the boundaries of the intervals to ensure smoothness.
 
 #### 5. Polynomial Fitting
 
 This involves fitting a polynomial equation to the [yield curve](../y/yield_curve.md) data. The degree of the polynomial can vary depending on the required smoothness and flexibility of the [yield curve](../y/yield_curve.md).
 
 - **Equation**:
-  - A typical Nth degree polynomial fitting might look like:
-    ```
-    y(t) = a0 + a1 * t + a2 * t^2 + ... + aN * t^N.
-    ```
-  - The coefficients `a0, a1, ..., aN` are solved for using a [least squares regression](../l/least_squares_regression.md) on the [yield](../y/yield.md) data.
+ - A typical Nth degree polynomial fitting might look like:
+ ```
+ y(t) = a0 + a1 * t + a2 * t^2 +... + aN * t^N.
+ ```
+ - The coefficients `a0, a1,..., aN` are solved for using a [least squares regression](../l/least_squares_regression.md) on the [yield](../y/yield.md) data.
 
 ### Example of Yield Curve Fitting in Practice
 
@@ -85,23 +85,23 @@ To illustrate [yield curve](../y/yield_curve.md) fitting, let's take a hypotheti
 #### Step-by-Step Example
 
 1. **Data Collection**:
-    - Gather [bond](../b/bond.md) prices and maturities from a trusted financial data provider.
-    - Example dataset: 6-month, 1-year, 2-year, 5-year, 10-year, and [30-year Treasury](../1/30-year_treasury.md) yields.
+ - Gather [bond](../b/bond.md) prices and maturities from a trusted financial data provider.
+ - Example dataset: 6-month, 1-year, 2-year, 5-year, 10-year, and [30-year Treasury](../1/30-year_treasury.md) yields.
 
 2. **Bootstrapping Example**:
-    - Calculate spot rates iteratively using the bootstrapping method.
+ - Calculate spot rates iteratively using the bootstrapping method.
 
 3. **Nelson-Siegel Example**:
-    - Apply the Nelson-Siegel model using an [optimization](../o/optimization.md) routine (e.g., Nonlinear Least Squares) to estimate the parameters `β0, β1, β2`, and `λ`.
+ - Apply the Nelson-Siegel model using an [optimization](../o/optimization.md) routine (e.g., Nonlinear Least Squares) to estimate the parameters `β0, β1, β2`, and `λ`.
 
 4. **Svensson Model Example**:
-    - Similar to the Nelson-Siegel model but includes two additional parameters (`β3` and `λ2`) to optimize.
+ - Similar to the Nelson-Siegel model but includes two additional parameters (`β3` and `λ2`) to optimize.
 
 5. **Cubic Spline Example**:
-    - Implement cubic splines to match [bond yield](../b/bond_yield.md) data, ensuring smooth transitions across different maturities.
+ - Implement cubic splines to match [bond yield](../b/bond_yield.md) data, ensuring smooth transitions across different maturities.
 
 6. **Polynomial Fitting Example**:
-    - Use polynomial regression to fit the [yield curve](../y/yield_curve.md) with the degree of polynomial best matched to historical data.
+ - Use polynomial regression to fit the [yield curve](../y/yield_curve.md) with the degree of polynomial best matched to historical data.
 
 ### Applications and Uses
 
@@ -154,9 +154,9 @@ Several software packages and tools are available for [yield curve](../y/yield_c
 
 #### External Links
 
-1. **[Bloomberg](../b/bloomberg.md)**: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/terminal/)
-2. **[QuantLib](../q/quantlib.md)**: [QuantLib Home](https://www.quantlib.org/)
-3. **MATLAB**: [MATLAB Financial Toolbox](https://www.mathworks.com/products/finance.html)
+1. **[Bloomberg](../b/bloomberg.md)**: Bloomberg Terminal
+2. **[QuantLib](../q/quantlib.md)**: QuantLib Home
+3. **MATLAB**: MATLAB Financial Toolbox
 
 ### Conclusion
 

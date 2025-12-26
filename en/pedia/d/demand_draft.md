@@ -86,16 +86,16 @@ Certain government transactions require payments to be made through DDs. For exa
 ## Popular Banks Offering Demand Drafts
 
 ### State Bank of India (SBI)
-SBI is one of the largest banks in India that offers [demand](../d/demand.md) draft services across its extensive network of branches. More information can be found on their official website: [SBI Official Site](https://www.onlinesbi.com).
+SBI is one of the largest banks in India that offers [demand](../d/demand.md) draft services across its extensive network of branches.
 
 ### HDFC Bank
-HDFC [Bank](../b/bank.md) provides [demand](../d/demand.md) draft services both through its branches and online platforms, facilitating easy and secure [fund](../f/fund.md) transfers. More details are available at: [HDFC Bank](https://www.hdfcbank.com).
+HDFC [Bank](../b/bank.md) provides [demand](../d/demand.md) draft services both through its branches and online platforms, facilitating easy and secure [fund](../f/fund.md) transfers. More details are available at: HDFC Bank.
 
 ### ICICI Bank
-ICICI [Bank](../b/bank.md) also offers DD services, ensuring secure and reliable payments across different purposes including [business](../b/business.md) transactions and educational fees. Visit their site for more: [ICICI Bank](https://www.icicibank.com).
+ICICI [Bank](../b/bank.md) also offers DD services, ensuring secure and reliable payments across different purposes including [business](../b/business.md) transactions and educational fees.
 
 ### Axis Bank
-Axis [Bank](../b/bank.md) provides [demand](../d/demand.md) draft facilities via its branches and online services, catering to both businesses and individual needs. More information is available at: [Axis Bank](https://www.axisbank.com).
+Axis [Bank](../b/bank.md) provides [demand](../d/demand.md) draft facilities via its branches and online services, catering to both businesses and individual needs. More information is available at: Axis Bank.
 
 ## Conclusion
 

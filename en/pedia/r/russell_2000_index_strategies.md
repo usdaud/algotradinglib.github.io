@@ -6,7 +6,7 @@ The [Russell 2000 Index](../r/russell_2000_index.md) is a [benchmark](../b/bench
 ### Understanding the Russell 2000 Index
 The [Russell 2000 Index](../r/russell_2000_index.md) is maintained by [FTSE Russell](../f/ftse_russell.md), a subsidiary of the London Stock [Exchange](../e/exchange.md) Group (LSEG). The [index](../i/index_instrument.md) is known for its large, diversified [holdings](../h/holdings.md) across a wide array of industries, [offering](../o/offering.md) a comprehensive picture of the small-cap sector. Importantly, the [stocks](../s/stock.md) included in the Russell 2000 are typically more volatile and have higher growth potential compared to their large-cap counterparts.
 
-For more detailed information and current listings, the [Russell 2000 Index](../r/russell_2000_index.md) details can be found [here](https://www.ftserussell.com/products/indices/russell-us).
+For more detailed information and current listings, the [Russell 2000 Index](../r/russell_2000_index.md) details can be found here.
 
 ### Characteristics of the Russell 2000 Index
 1. **Sector [Diversification](../d/diversification.md):** The [index](../i/index_instrument.md) includes a balanced representation of various sectors such as healthcare, financial services, technology, and consumer discretionary.
@@ -68,4 +68,4 @@ Research indicates that small-cap [stocks](../s/stock.md) in the Russell 2000 of
 ### Conclusion
 The [Russell 2000 Index](../r/russell_2000_index.md) offers a fertile hunting ground for [algorithmic trading](../a/algorithmic_trading.md) strategies due to its high [volatility](../v/volatility.md), growth potential, and diverse sector representation. By understanding the unique characteristics of small-cap [stocks](../s/stock.md) and employing sophisticated algorithmic techniques, traders can potentially achieve significant returns. However, [robust](../r/robust.md) [risk management](../r/risk_management.md) practices are essential to navigate the inherent [volatility](../v/volatility.md) and [liquidity](../l/liquidity.md) challenges associated with trading small-cap [stocks](../s/stock.md).
 
-For further reading and in-depth insights, visit [FTSE Russell](https://www.ftserussell.com/products/indices/russell-us).
+For further reading and in-depth insights, visit FTSE Russell.

@@ -8,7 +8,7 @@
 
 #### Orderly Liquidation
 
-In an orderly [liquidation](../l/liquidation.md), assets are sold in a planned and systematic manner over a reasonably extended period. This type of [liquidation](../l/liquidation.md) aims to maximize [asset](../a/asset.md) [value](../v/value.md) by minimizing the effects of [market](../m/market.md) [oversupply](../o/oversupply.md). 
+In an orderly [liquidation](../l/liquidation.md), assets are sold in a planned and systematic manner over a reasonably extended period. This type of [liquidation](../l/liquidation.md) aims to maximize [asset](../a/asset.md) [value](../v/value.md) by minimizing the effects of [market](../m/market.md) [oversupply](../o/oversupply.md).
 
 #### Forced Liquidation
 
@@ -87,9 +87,9 @@ Companies might require reporting [liquidation](../l/liquidation.md) values unde
 
 ## Companies Specializing in Liquidation
 
-- **Hilco Global**: Specializes in [asset valuation](../a/asset_valuation.md) and [liquidation](../l/liquidation.md), providing services in over 60 [industry](../i/industry.md) verticals. More information can be found on their [website](https://www.hilcoglobal.com/).
-- **Gordon Brothers**: Offers comprehensive [liquidation](../l/liquidation.md) and [valuation](../v/valuation.md) services, emphasizing distressed situations. Details available on their [website](https://www.gordonbrothers.com/).
-- **Tiger Group**: Focuses on [asset](../a/asset.md) [appraisal](../a/appraisal.md), [liquidation](../l/liquidation.md), and auction services. Visit their [website](https://www.tigergroup.com/) for further information.
+- **Hilco Global**: Specializes in [asset valuation](../a/asset_valuation.md) and [liquidation](../l/liquidation.md), providing services in over 60 [industry](../i/industry.md) verticals.
+- **Gordon Brothers**: Offers comprehensive [liquidation](../l/liquidation.md) and [valuation](../v/valuation.md) services,
+- **Tiger Group**: Focuses on [asset](../a/asset.md) [appraisal](../a/appraisal.md), [liquidation](../l/liquidation.md), and auction services.
 
 ## Conclusion
 

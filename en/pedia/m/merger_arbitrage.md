@@ -12,7 +12,7 @@ The primary objective of [merger](../m/merger.md) [arbitrage](../a/arbitrage.md)
 
 There are generally two types of mergers: cash mergers and stock mergers.
 
-- **Cash [Merger](../m/merger.md)**: The acquiring company offers cash for the [shares](../s/shares.md) of the target company. 
+- **Cash [Merger](../m/merger.md)**: The acquiring company offers cash for the [shares](../s/shares.md) of the target company.
 - **Stock [Merger](../m/merger.md)**: The acquiring company offers its own [shares](../s/shares.md) in [exchange](../e/exchange.md) for the [shares](../s/shares.md) of the target company.
 
 ### 2. Positioning and Execution
@@ -94,7 +94,7 @@ Spreadsheet software like Microsoft Excel, enhanced by add-ins like [FactSet](..
 
 [Hedge](../h/hedge.md) funds such as Citadel, Elliott Management, and Millennium Management are among the prominent players specializing in [merger](../m/merger.md) [arbitrage](../a/arbitrage.md). They employ teams of analysts and use sophisticated algorithms to identify and exploit opportunities.
 
-- **Citadel**: [Citadel](https://www.citadel.com/)
+- **Citadel**: Citadel
 
 ### Proprietary Trading Desks
 

@@ -42,7 +42,7 @@ The management of Nostro accounts has been significantly enhanced by technologic
 
 ### Fintech Solutions
 
-Fintech companies have developed specialized platforms that help banks manage their Nostro accounts more efficiently. These platforms provide real-time updates [on account](../o/on_account.md) balances, automated [reconciliation](../r/reconciliation.md) processes, and enhanced reporting capabilities. Some of the leading fintech companies [offering](../o/offering.md) such solutions include [Ripple](../r/ripple.md) (https://[ripple](../r/ripple.md).com/) and SWIFT (https://www.swift.com/).
+Fintech companies have developed specialized platforms that help banks manage their Nostro accounts more efficiently. These platforms provide real-time updates [on account](../o/on_account.md) balances, automated [reconciliation](../r/reconciliation.md) processes, and enhanced reporting capabilities. Some of the leading fintech companies [offering](../o/offering.md) such solutions include [Ripple](../r/ripple.md) ( and SWIFT (
 
 ### Blockchain Technology
 

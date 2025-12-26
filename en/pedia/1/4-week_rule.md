@@ -1,11 +1,11 @@
 # 4-Week Rule
 
-The 4-Week Rule is a [trading strategy](../t/trading_strategy.md) often used in the realm of [algorithmic trading](../a/algorithmic_trading.md). Formulated by Richard Donchian, a pioneer in the field of [managed futures](../m/managed_futures.md), the 4-Week Rule is an easy-to-understand method for identifying potential breakouts in the [market](../m/market.md). This trading rule is often employed by traders looking to [capitalize](../c/capitalize.md) on [market](../m/market.md) [momentum](../m/momentum.md) and signifies a basic [trend](../t/trend.md)-following methodology. 
+The 4-Week Rule is a [trading strategy](../t/trading_strategy.md) often used in the realm of [algorithmic trading](../a/algorithmic_trading.md). Formulated by Richard Donchian, a pioneer in the field of [managed futures](../m/managed_futures.md), the 4-Week Rule is an easy-to-understand method for identifying potential breakouts in the [market](../m/market.md). This trading rule is often employed by traders looking to [capitalize](../c/capitalize.md) on [market](../m/market.md) [momentum](../m/momentum.md) and signifies a basic [trend](../t/trend.md)-following methodology.
 
 ## Fundamental Concepts
 
 ### Breakout Trading
-The core idea behind the 4-Week Rule is [breakout trading](../b/breakout_trading.md). A [breakout](../b/breakout.md) occurs when the price of an [asset](../a/asset.md) moves outside a defined support or resistance level with increased [volume](../v/volume.md). According to this strategy, if the price of a [security](../s/security.md) moves to a 4-week high, it is likely to continue rising, and if it moves to a 4-week low, it is likely to continue falling. 
+The core idea behind the 4-Week Rule is [breakout trading](../b/breakout_trading.md). A [breakout](../b/breakout.md) occurs when the price of an [asset](../a/asset.md) moves outside a defined support or resistance level with increased [volume](../v/volume.md). According to this strategy, if the price of a [security](../s/security.md) moves to a 4-week high, it is likely to continue rising, and if it moves to a 4-week low, it is likely to continue falling.
 
 ### Time Frame
 The rule utilizes a 4-week period, i.e., 20 trading days, to determine breakouts. This period is optimal enough to filter out short-term [noise](../n/noise.md) and small price movements while capturing medium-term trends.
@@ -80,6 +80,6 @@ Many professional trading firms and individual traders employ variations of the 
 
 The 4-Week Rule remains a popular and effective [trend](../t/trend.md)-following strategy in [algorithmic trading](../a/algorithmic_trading.md). Its simplicity and ease of use have made it a staple for many [trading systems](../t/trading_systems.md). However, success with this strategy hinges on proper implementation, including supplementary [risk management](../r/risk_management.md) techniques and perhaps combining it with other indicators or methods to filter out [false signals](../f/false_signals_in_trading.md).
 
-For more advanced implementations, many traders look to platforms like [QuantConnect](https://www.quantconnect.com) or [Alpaca](https://alpaca.markets) to backtest and deploy [trading algorithms](../t/trading_algorithms.md) based on the 4-Week Rule among other strategies.
+For more advanced implementations, many traders look to platforms like QuantConnect or Alpaca to backtest and deploy [trading algorithms](../t/trading_algorithms.md) based on the 4-Week Rule among other strategies.
 
-By effectively utilizing the principles of [breakout trading](../b/breakout_trading.md) encapsulated in the 4-Week Rule, traders can potentially enhance their returns and [capitalize](../c/capitalize.md) on significant [market](../m/market.md) trends.
+By effectively utilizing the principles of [breakout trading](../b/breakout_trading.md) encapsulated in the 4-Week Rule, traders can potentially enhance their returns and [capitalize](../c/capitalize.md) on significant [market](../m/market.md) trends.

@@ -90,7 +90,7 @@ To gauge the performance and significance of [Euronext](../e/euronext.md) Brusse
 3. **[Trading Algorithms](../t/trading_algorithms.md)**: Support for various [trading algorithms](../t/trading_algorithms.md) including [market](../m/market.md) making, [arbitrage](../a/arbitrage.md), [trend following](../t/trend_following.md), and statistical [arbitrage](../a/arbitrage.md).
 4. **Regulatory Compliance**: Ensuring that [algorithmic trading](../a/accountability.md) activities comply with [MiFID II](../m/mifid_ii.md) requirements and other relevant regulations aimed at preventing [market](../m/market.md) abuse and ensuring fair trading practices.
 
-For more detailed information, you can visit [Euronext Brussels](https://www.euronext.com/en/markets/brussels).
+For more detailed information, you can visit Euronext Brussels.
 
 ## Conclusion
 

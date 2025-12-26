@@ -56,10 +56,10 @@ For financial institutions [offering](../o/offering.md) non-purpose loans, compl
 
 Several reputable lenders and financial institutions [offer](../o/offer.md) non-purpose loans to their clients. Some of these include:
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: [Fidelity](https://www.fidelity.com)
-- **[Charles Schwab](../c/charles_schwab.md)**: [Charles Schwab](https://www.schwab.com)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com)
-- **TD [Ameritrade](../a/ameritrade.md)**: [TD Ameritrade](https://www.tdameritrade.com)
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity
+- **[Charles Schwab](../c/charles_schwab.md)**: Charles Schwab
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers
+- **TD [Ameritrade](../a/ameritrade.md)**: TD Ameritrade
 
 These institutions often provide a suite of financial products that include non-purpose loans, catering to both individual and institutional clients.
 

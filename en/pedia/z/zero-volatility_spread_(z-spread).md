@@ -4,26 +4,26 @@ Zero-[Volatility](../v/volatility.md) Spread (Z-spread), also known as the Z-spr
 
 ## Understanding Z-spread
 
-In [bond valuation](../b/bond_valuation.md), the Z-spread represents the constant spread that, when added to the [risk](../r/risk.md)-free [spot rate](../s/spot_rate.md) curve, correctly discounts a [bond](../b/bond.md)’s cash flows to its current [market price](../m/market_price.md). Essentially, the Z-spread is a mechanism to determine the difference between the [yield](../y/yield.md) of a [bond](../b/bond.md) and the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) treasury curve, assuming no [volatility](../v/volatility.md) in [interest](../i/interest.md) rates (hence the term zero-[volatility](../v/volatility.md)). 
+In [bond valuation](../b/bond_valuation.md), the Z-spread represents the constant spread that, when added to the [risk](../r/risk.md)-free [spot rate](../s/spot_rate.md) curve, correctly discounts a [bond](../b/bond.md)’s cash flows to its current [market price](../m/market_price.md). Essentially, the Z-spread is a mechanism to determine the difference between the [yield](../y/yield.md) of a [bond](../b/bond.md) and the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) treasury curve, assuming no [volatility](../v/volatility.md) in [interest](../i/interest.md) rates (hence the term zero-[volatility](../v/volatility.md)).
 
 ## Calculation of Z-spread
 
 The calculation of the Z-spread involves the following steps:
 
 1. **Determine the [Bond](../b/bond.md)’s Cash Flows:**
-   - Identify all future cash flows of the [bond](../b/bond.md), including coupon payments and [principal](../p/principal.md) [repayment](../r/repayment.md).
+ - Identify all future cash flows of the [bond](../b/bond.md), including coupon payments and [principal](../p/principal.md) [repayment](../r/repayment.md).
 
 2. **Identify the [Risk](../r/risk.md)-Free [Spot Rate](../s/spot_rate.md) Curve:**
-   - Obtain the [spot rate](../s/spot_rate.md) curve from the government securities with comparable maturities.
+ - Obtain the [spot rate](../s/spot_rate.md) curve from the government securities with comparable maturities.
 
 3. **Apply the Spread:**
-   - Add a constant spread (Z-spread) to each point on the [risk](../r/risk.md)-free [spot rate](../s/spot_rate.md) curve. This yields a new, adjusted [discount](../d/discount.md) curve.
+ - Add a constant spread (Z-spread) to each point on the [risk](../r/risk.md)-free [spot rate](../s/spot_rate.md) curve. This yields a new, adjusted [discount](../d/discount.md) curve.
 
 4. **[Discount](../d/discount.md) the Cash Flows:**
-   - [Discount](../d/discount.md) each [cash flow](../c/cash_flow.md) of the [bond](../b/bond.md) using the adjusted [discount](../d/discount.md) curve obtained from the previous step.
+ - [Discount](../d/discount.md) each [cash flow](../c/cash_flow.md) of the [bond](../b/bond.md) using the adjusted [discount](../d/discount.md) curve obtained from the previous step.
 
 5. **Match the [Bond](../b/bond.md)’s Price:**
-   - The Z-spread is the unique spread that causes the [present value](../p/present_value.md) of the [bond](../b/bond.md)’s cash flows, when discounted using the adjusted curve, to equal the [bond](../b/bond.md)’s [market price](../m/market_price.md).
+ - The Z-spread is the unique spread that causes the [present value](../p/present_value.md) of the [bond](../b/bond.md)’s cash flows, when discounted using the adjusted curve, to equal the [bond](../b/bond.md)’s [market price](../m/market_price.md).
 
 Mathematically, the Z-spread can be derived by iterating with different [spreads](../s/spreads.md) and solving for the spread that satisfies the equation:
 
@@ -41,33 +41,33 @@ This iterative process is usually handled by financial software and analytical t
 ## Applications and Importance of Z-spread
 
 ### 1. **Credit Risk Assessment:**
-   - The Z-spread is a critical measure for evaluating the [credit risk](../c/credit_risk.md) of fixed-[income](../i/income.md) securities. A higher Z-spread indicates greater [credit risk](../c/credit_risk.md) since it means investors require more [yield](../y/yield.md) over the [risk](../r/risk.md)-free rate to compensate for additional [risk](../r/risk.md).
+ - The Z-spread is a critical measure for evaluating the [credit risk](../c/credit_risk.md) of fixed-[income](../i/income.md) securities. A higher Z-spread indicates greater [credit risk](../c/credit_risk.md) since it means investors require more [yield](../y/yield.md) over the [risk](../r/risk.md)-free rate to compensate for additional [risk](../r/risk.md).
 
 ### 2. **Relative Value Analysis:**
-   - Investors use the Z-spread to conduct [relative value](../r/relative_value.md) analysis across different bonds. By comparing Z-[spreads](../s/spreads.md), investors can determine which bonds [offer](../o/offer.md) better [value](../v/value.md) relative to their associated risks.
+ - Investors use the Z-spread to conduct [relative value](../r/relative_value.md) analysis across different bonds. By comparing Z-[spreads](../s/spreads.md), investors can determine which bonds [offer](../o/offer.md) better [value](../v/value.md) relative to their associated risks.
 
 ### 3. **Yield Curve Strategy:**
-   - In [fixed income](../f/fixed_income.md) [portfolio management](../p/par.md), Z-[spreads](../s/spreads.md) help in constructing and evaluating various [yield curve strategies](../y/yield_curve_strategies.md), like riding the [yield curve](../y/yard.md) or constructing bullet portfolios.
+ - In [fixed income](../f/fixed_income.md) [portfolio management](../p/par.md), Z-[spreads](../s/spreads.md) help in constructing and evaluating various [yield curve strategies](../y/yield_curve_strategies.md), like riding the [yield curve](../y/yard.md) or constructing bullet portfolios.
 
 ### 4. **Valuation of Fixed Income Derivatives:**
-   - The Z-spread is essential for pricing [fixed income derivatives](../f/fixed_income_derivatives.md), particularly those with embedded [options](../o/options.md), by providing a more accurate [discount rate](../d/discount_rate.md) that factors in [credit risk](../c/credit_risk.md) and [liquidity](../l/liquidity.md) [spreads](../s/spreads.md).
+ - The Z-spread is essential for pricing [fixed income derivatives](../f/fixed_income_derivatives.md), particularly those with embedded [options](../o/options.md), by providing a more accurate [discount rate](../d/discount_rate.md) that factors in [credit risk](../c/credit_risk.md) and [liquidity](../l/liquidity.md) [spreads](../s/spreads.md).
 
 ### 5. **Risk Management:**
-   - Z-[spreads](../s/spreads.md) are crucial inputs in [risk management](../r/risk_management.md) models, helping financial institutions assess the [credit risk](../c/credit_risk.md) of their [bond](../b/bond.md) portfolios and individual securities.
+ - Z-[spreads](../s/spreads.md) are crucial inputs in [risk management](../r/risk_management.md) models, helping financial institutions assess the [credit risk](../c/credit_risk.md) of their [bond](../b/bond.md) portfolios and individual securities.
 
 ### 6. **Funding and Securitization:**
-   - In the context of [securitization](../s/securitization.md), Z-[spreads](../s/spreads.md) help assess the cost of funding and pricing of structured financial products like [mortgage](../m/mortgage.md)-backed securities (MBS) and [asset](../a/asset.md)-backed securities (ABS).
+ - In the context of [securitization](../s/securitization.md), Z-[spreads](../s/spreads.md) help assess the cost of funding and pricing of structured financial products like [mortgage](../m/mortgage.md)-backed securities (MBS) and [asset](../a/asset.md)-backed securities (ABS).
 
 ## Comparison with Other Spreads
 
 ### 1. **Nominal Spread:**
-   - Unlike the Z-spread, the [nominal](../n/nominal.md) spread (or [yield spread](../y/yield_spread.md)) is the difference between the [yield to maturity](../y/yield_to_maturity.md) of a [bond](../b/bond.md) and the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) [government bond](../g/government_bond.md). The [nominal](../n/nominal.md) spread does not account for the [term structure of interest rates](../t/term_structure_of_interest_rates.md), making it a less precise measure than the Z-spread.
+ - Unlike the Z-spread, the [nominal](../n/nominal.md) spread (or [yield spread](../y/yield_spread.md)) is the difference between the [yield to maturity](../y/yield_to_maturity.md) of a [bond](../b/bond.md) and the [yield](../y/yield.md) of a [benchmark](../b/benchmark.md) [government bond](../g/government_bond.md). The [nominal](../n/nominal.md) spread does not account for the [term structure of interest rates](../t/term_structure_of_interest_rates.md), making it a less precise measure than the Z-spread.
 
 ### 2. **OAS (Option-Adjusted Spread):**
-   - The Z-spread differs from the option-adjusted spread (OAS). While the Z-spread assumes no [volatility](../v/volatility.md) in [interest](../i/interest.md) rates, the OAS adjusts for embedded [options](../o/options.md) within the [bond](../b/bond.md). OAS provides a spread that, when added to the [risk](../r/risk.md)-free rate, discounts the [bond](../b/bond.md)'s cash flows, considering potential changes in [interest](../i/interest.md) rates due to [options](../o/options.md).
+ - The Z-spread differs from the option-adjusted spread (OAS). While the Z-spread assumes no [volatility](../v/volatility.md) in [interest](../i/interest.md) rates, the OAS adjusts for embedded [options](../o/options.md) within the [bond](../b/bond.md). OAS provides a spread that, when added to the [risk](../r/risk.md)-free rate, discounts the [bond](../b/bond.md)'s cash flows, considering potential changes in [interest](../i/interest.md) rates due to [options](../o/options.md).
 
 ### 3. **G-spread:**
-   - The G-spread is the difference between the [bond yield](../b/bond_yield.md) and the interpolated [yield](../y/yield.md) of the government bonds with similar maturities. G-[spreads](../s/spreads.md) are simpler but do not account for the term structure in the same detailed manner as Z-[spreads](../s/spreads.md).
+ - The G-spread is the difference between the [bond yield](../b/bond_yield.md) and the interpolated [yield](../y/yield.md) of the government bonds with similar maturities. G-[spreads](../s/spreads.md) are simpler but do not account for the term structure in the same detailed manner as Z-[spreads](../s/spreads.md).
 
 ## Practical Example
 

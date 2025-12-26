@@ -7,16 +7,16 @@ Understanding the Winner's Curse is critical for participants in auctions, [fina
 ## Key Concepts of the Winner's Curse
 
 1. **Imperfect Information and Estimation Errors**:
-   - In an auction, bidders often have incomplete information about the true [value](../v/value.md) of the item. Each bidder makes an estimate, and these estimates are subject to errors.
-   - Over-optimism or over-pessimism can skew these estimates, particularly when participants try to outbid each other based on limited data.
+ - In an auction, bidders often have incomplete information about the true [value](../v/value.md) of the item. Each bidder makes an estimate, and these estimates are subject to errors.
+ - Over-optimism or over-pessimism can skew these estimates, particularly when participants try to outbid each other based on limited data.
 
 2. **Rational and Irrational Bidding Behavior**:
-   - [Rational behavior](../r/rational_behavior.md) entails each bidder placing a [bid](../b/bid.md) based on their best estimate of the item's [value](../v/value.md).
-   - Irrational behavior stems from emotional factors, such as the desire to win or competitive pressure, pushing bidders to place higher bids than they logically should.
+ - [Rational behavior](../r/rational_behavior.md) entails each bidder placing a [bid](../b/bid.md) based on their best estimate of the item's [value](../v/value.md).
+ - Irrational behavior stems from emotional factors, such as the desire to win or competitive pressure, pushing bidders to place higher bids than they logically should.
 
 3. **Common [Value](../v/value.md) Auctions vs. Private [Value](../v/value.md) Auctions**:
-   - In common [value](../v/value.md) auctions, the item has a single [intrinsic value](../i/intrinsic_value.md), but this [value](../v/value.md) is uncertain and must be estimated by each bidder (e.g., auctions for oil drilling rights).
-   - In private [value](../v/value.md) auctions, the [value](../v/value.md) is subjective and varies for each bidder (e.g., art auctions).
+ - In common [value](../v/value.md) auctions, the item has a single [intrinsic value](../i/intrinsic_value.md), but this [value](../v/value.md) is uncertain and must be estimated by each bidder (e.g., auctions for oil drilling rights).
+ - In private [value](../v/value.md) auctions, the [value](../v/value.md) is subjective and varies for each bidder (e.g., art auctions).
 
 ## Historical Background
 
@@ -86,28 +86,28 @@ The Winner's Curse can also influence stock and [bond](../b/bond.md) markets, pa
 ## Strategies to Mitigate the Winner's Curse
 
 1. **Careful [Valuation](../v/valuation.md) and [Due Diligence](../d/due_diligence.md)**:
-   - Conduct thorough research and use [robust](../r/robust.md) [valuation models](../v/valuation_models.md) to estimate the [intrinsic value](../i/intrinsic_value.md) of the item.
-   - Incorporate [risk](../r/risk.md) assessments and consider a [range](../r/range.md) of scenarios.
+ - Conduct thorough research and use [robust](../r/robust.md) [valuation models](../v/valuation_models.md) to estimate the [intrinsic value](../i/intrinsic_value.md) of the item.
+ - Incorporate [risk](../r/risk.md) assessments and consider a [range](../r/range.md) of scenarios.
 
 2. **Conservative Bidding Adjustments**:
-   - [Factor](../f/factor.md) in the potential for overestimation and adjust bids downward.
-   - Use historical data and past auction outcomes to inform bidding strategies.
+ - [Factor](../f/factor.md) in the potential for overestimation and adjust bids downward.
+ - Use historical data and past auction outcomes to inform bidding strategies.
 
 3. **Collaboration and Syndication**:
-   - In some markets, forming consortia or bidding syndicates can reduce individual [risk](../r/risk.md) and share the financial burden.
-   - This approach is common in M&A and natural resource bidding.
+ - In some markets, forming consortia or bidding syndicates can reduce individual [risk](../r/risk.md) and share the financial burden.
+ - This approach is common in M&A and natural resource bidding.
 
 4. **Behavioral Training**:
-   - Educate bidders on the Winner's Curse and encourage rational, emotion-free decision-making.
-   - Use simulations and training programs to improve bidding strategies.
+ - Educate bidders on the Winner's Curse and encourage rational, emotion-free decision-making.
+ - Use simulations and training programs to improve bidding strategies.
 
 5. **Economic and [Market](../m/market.md) Analysis**:
-   - Monitor [market](../m/market.md) trends and [economic indicators](../e/economic_indicators.md) that could influence the auction outcome.
-   - Adjust strategies based on broader [market](../m/market.md) conditions and competitor behavior.
+ - Monitor [market](../m/market.md) trends and [economic indicators](../e/economic_indicators.md) that could influence the auction outcome.
+ - Adjust strategies based on broader [market](../m/market.md) conditions and competitor behavior.
 
 6. **Set Pre-determined Limits**:
-   - Establish maximum [bid](../b/bid.md) limits based on detailed [value](../v/value.md) assessments.
-   - Avoid emotional escalation by adhering to these limits closely.
+ - Establish maximum [bid](../b/bid.md) limits based on detailed [value](../v/value.md) assessments.
+ - Avoid emotional escalation by adhering to these limits closely.
 
 ## Conclusion
 

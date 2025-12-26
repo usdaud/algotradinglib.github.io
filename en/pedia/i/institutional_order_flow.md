@@ -20,7 +20,7 @@ In the realm of [financial markets](../f/financial_market.md), "Institutional [O
 
 3. **Level II Quotes**: These provide a deeper look into the [order book](../o/order_book.md), showing both buy and sell orders at various price levels. Observing the size of these orders can help identify institutional participation.
 
-4. **[Broker-dealer](../b/broker-dealer.md) Activity**: Watching the trading activity of known [broker](../b/broker.md)-dealers who serve institutional clients can also give insights into institutional [order](../o/order.md) flow. 
+4. **[Broker-dealer](../b/broker-dealer.md) Activity**: Watching the trading activity of known [broker](../b/broker.md)-dealers who serve institutional clients can also give insights into institutional [order](../o/order.md) flow.
 
 ### Tools and Techniques
 
@@ -44,11 +44,11 @@ In the realm of [financial markets](../f/financial_market.md), "Institutional [O
 
 - **BlackRock**: As one of the largest [asset](../a/asset.md) managers in the world, BlackRock's trades are closely watched. Their periodic portfolio adjustments can lead to significant movements in various [asset](../a/asset.md) classes.
 
-  [BlackRock Official Website](https://www.blackrock.com)
+
 
 - **Goldman Sachs**: Known for their extensive trading operations, understanding the [order](../o/order.md) flow from a [firm](../f/firm.md) like Goldman Sachs can provide insights into sentiments in various [market](../m/market.md) segments.
 
-  [Goldman Sachs Official Website](https://www.goldmansachs.com)
+
 
 ### Regulations and Ethical Considerations
 

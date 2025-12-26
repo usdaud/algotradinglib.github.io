@@ -1,6 +1,6 @@
 # Ontario Securities Commission (OSC)
 
-The Ontario Securities [Commission](../c/commission.md) (OSC) is a government regulatory agency responsible for overseeing the securities [industry](../i/industry.md) in the province of Ontario, Canada. The OSC's mandate includes protecting investors from unfair, improper, and fraudulent practices, fostering fair and efficient [capital markets](../c/capital_markets.md), and contributing to stable and healthy [economy](../e/economy.md). It administers and enforces the Securities Act (Ontario) and the [Commodity Futures](../c/commodity_futures.md) Act (Ontario), among other statutes. Below, we explore the OSC's structure, functions, key regulatory activities, and its significance in both traditional and modern fintech and [algorithmic trading](../a/accountability.md) ecosystems.
+The Ontario Securities [Commission](../c/commission.md) (OSC) is a government regulatory agency responsible for overseeing the securities [industry](../i/industry.md) in the province of Ontario, Canada. The OSC's mandate includes protecting investors from unfair, improper, and fraudulent practices, fostering fair and efficient [capital markets](../c/capital_markets.md), and contributing to stable and healthy [economy](../e/economy.md). It administers and enforces the Securities Act (Ontario) and the [Commodity Futures](../c/commodity_futures.md) Act (Ontario), among other statutes. Below, we explore the OSC's structure, functions, key regulatory activities, and its significance in both traditional and modern fintech and [algorithmic trading](../a/algorithmic_trading.md) ecosystems.
 
 ## Structure and Organization
 
@@ -38,17 +38,17 @@ When breaches of securities law occur, the OSC has the power to impose penalties
 
 ## Significance in Fintech and Algorithmic Trading
 
-With the rise of fintech innovations and [algorithmic trading](../a/accountability.md), the OSC’s role has expanded to address new challenges and risks associated with digital and automated trading environments. The OSC has been proactive in adapting its regulatory framework to ensure that these new [market](../m/market.md) activities remain fair and transparent.
+With the rise of fintech innovations and [algorithmic trading](../a/algorithmic_trading.md), the OSC’s role has expanded to address new challenges and risks associated with digital and automated trading environments. The OSC has been proactive in adapting its regulatory framework to ensure that these new [market](../m/market.md) activities remain fair and transparent.
 
 ### Fintech Sandbox
 
-The OSC has established a "Fintech Sandbox" known as OSC LaunchPad, designed to support new fintech businesses in navigating the regulatory landscape. This initiative allows fintech companies to test their products and services in a controlled environment while receiving regulatory [guidance](../g/guidance.md). [Visit OSC LaunchPad](https://www.osc.ca/en/industry/osc-launchpad).
+The OSC has established a "Fintech Sandbox" known as OSC LaunchPad, designed to support new fintech businesses in navigating the regulatory landscape. This initiative allows fintech companies to test their products and services in a controlled environment while receiving regulatory [guidance](../g/guidance.md). Visit OSC LaunchPad.
 
 ### Algorithmic Trading Regulation
 
-[Algorithmic trading](../a/accountability.md), which uses complex algorithms to automate [trading strategies](../t/trading_strategies.md), poses unique regulatory challenges. The OSC has developed specific guidelines and requirements for [market](../m/market.md) participants that engage in [algorithmic trading](../a/accountability.md). These guidelines aim to mitigate risks such as [market](../m/market.md) abuse, [systemic risk](../s/systemic_risk.md), and ensure that algorithms operate in a fair, transparent manner. Key areas of focus include:
+[Algorithmic trading](../a/algorithmic_trading.md), which uses complex algorithms to automate [trading strategies](../t/trading_strategies.md), poses unique regulatory challenges. The OSC has developed specific guidelines and requirements for [market](../m/market.md) participants that engage in [algorithmic trading](../a/algorithmic_trading.md). These guidelines aim to mitigate risks such as [market](../m/market.md) abuse, [systemic risk](../s/systemic_risk.md), and ensure that algorithms operate in a fair, transparent manner. Key areas of focus include:
 
-1. **[Risk Management](../r/risk_management.md)**: Guidelines require firms to have comprehensive [risk management systems](../r/risk_management_systems.md) to monitor and control [algorithmic trading](../a/accountability.md) activities.
+1. **[Risk Management](../r/risk_management.md)**: Guidelines require firms to have comprehensive [risk management systems](../r/risk_management_systems.md) to monitor and control [algorithmic trading](../a/algorithmic_trading.md) activities.
 
 2. **Pre-[Trade](../t/trade.md) Controls**: Measures such as [order](../o/order.md) limits and automated [risk](../r/risk.md) checks are mandated to prevent errant trades.
 
@@ -60,6 +60,6 @@ The OSC has also been active in regulating emerging fintech models like [crowdfu
 
 ## Conclusion
 
-The Ontario Securities [Commission](../c/commission.md) is a pivotal institution in the regulation of Ontario's securities markets. By balancing [investor](../i/investor.md) protection with [market efficiency](../m/market_efficiency.md), the OSC supports the integrity and stability of Canada's [financial system](../f/financial_system.md). Its proactive approach in embracing fintech and [algorithmic trading](../a/accountability.md) innovations ensures that Ontario remains a progressive and secure [market](../m/market.md) environment for both traditional and emerging financial activities. 
+The Ontario Securities [Commission](../c/commission.md) is a pivotal institution in the regulation of Ontario's securities markets. By balancing [investor](../i/investor.md) protection with [market efficiency](../m/market_efficiency.md), the OSC supports the integrity and stability of Canada's [financial system](../f/financial_system.md). Its proactive approach in embracing fintech and [algorithmic trading](../a/algorithmic_trading.md) innovations ensures that Ontario remains a progressive and secure [market](../m/market.md) environment for both traditional and emerging financial activities.
 
-For more information, visit the [Ontario Securities Commission homepage](https://www.osc.ca/).
+For more information, visit the Ontario Securities Commission homepage.

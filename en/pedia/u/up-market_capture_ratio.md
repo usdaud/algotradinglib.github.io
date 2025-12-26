@@ -70,4 +70,4 @@ The up-[market](../m/market.md) capture ratio serves as an insightful metric for
 
 ## Online Resource
 
-For more detailed information and practical applications of the up-[market](../m/market.md) capture ratio, readers can refer to [Morningstar](https://www.morningstar.com), a key provider of independent investment research. [Morningstar](../m/morningstar.md) offers various tools and data to help investors analyze [fund](../f/fund.md) [performance metrics](../p/performance_metrics.md), including the up-[market](../m/market.md) capture ratio.
+For more detailed information and practical applications of the up-[market](../m/market.md) capture ratio, readers can refer to Morningstar, a key provider of independent investment research. [Morningstar](../m/morningstar.md) offers various tools and data to help investors analyze [fund](../f/fund.md) [performance metrics](../p/performance_metrics.md), including the up-[market](../m/market.md) capture ratio.

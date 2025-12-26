@@ -57,7 +57,7 @@ Growth investors focus on companies expected to grow at an above-average rate co
 
 ### Quantitative Investing
 
-[Quantitative investing](../q/quantitative_investing.md) uses [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and statistical techniques to make investment decisions. Firms like Renaissance Technologies [https://www.rentec.com/] and Two Sigma [https://www.twosigma.com/] are well-known for their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
+[Quantitative investing](../q/quantitative_investing.md) uses [mathematical models](../m/mathematical_models_in_trading.md), algorithms, and statistical techniques to make investment decisions. Firms like Renaissance Technologies [ and Two Sigma [ are well-known for their [quantitative strategies](../q/quantitative_strategies_in_trading.md).
 
 ### Ethical/ESG Investing
 
@@ -141,4 +141,4 @@ The CFTC regulates the U.S. [derivatives](../d/derivatives.md) markets, includin
 
 ## Conclusion
 
-Investors play a critical role in the global [economy](../e/economy.md) by allocating resources to productive uses, fueling innovation, and fostering growth. Understanding the diverse types of investors, strategies, risks, and tools involved in [investing](../i/investing.md) can help individuals make more informed decisions aligned with their financial goals and [risk tolerance](../r/risk_tolerance.md). Whether through [value investing](../v/value_investing.md), [algorithmic trading](../a/accountability.md), or ethical choices, the investment landscape offers myriad opportunities for those willing to navigate its complexities.
+Investors play a critical role in the global [economy](../e/economy.md) by allocating resources to productive uses, fueling innovation, and fostering growth. Understanding the diverse types of investors, strategies, risks, and tools involved in [investing](../i/investing.md) can help individuals make more informed decisions aligned with their financial goals and [risk tolerance](../r/risk_tolerance.md). Whether through [value investing](../v/value_investing.md), [algorithmic trading](../a/algorithmic_trading.md), or ethical choices, the investment landscape offers myriad opportunities for those willing to navigate its complexities.

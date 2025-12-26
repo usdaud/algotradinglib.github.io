@@ -1,6 +1,6 @@
 # Guilder Share (New York Share)
 
-Guilder Share, also known as New York Share, represents a form of [financial instrument](../f/financial_instrument.md) explicitly designed for the purpose of facilitating and managing complex trading processes. This form of [equity](../e/equity.md) is generally associated with high-frequency trading (HFT) and [algorithmic trading](../a/accountability.md) methods where speed, precision, and advanced [mathematical models](../m/mathematical_models_in_trading.md) are employed to exploit [market](../m/market.md) opportunities.
+Guilder Share, also known as New York Share, represents a form of [financial instrument](../f/financial_instrument.md) explicitly designed for the purpose of facilitating and managing complex trading processes. This form of [equity](../e/equity.md) is generally associated with high-frequency trading (HFT) and [algorithmic trading](../a/algorithmic_trading.md) methods where speed, precision, and advanced [mathematical models](../m/mathematical_models_in_trading.md) are employed to exploit [market](../m/market.md) opportunities.
 
 ## What is Guilder Share?
 
@@ -26,7 +26,7 @@ The design and functionality behind Guilder [Shares](../s/shares.md) make them e
 
 ## Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) involves using algorithms to automate trading activities and Guilder [Shares](../s/shares.md) are designed to maximize the [efficiency](../e/efficiency.md) and effectiveness of these strategies. Below are some primary applications:
+[Algorithmic trading](../a/algorithmic_trading.md) involves using algorithms to automate trading activities and Guilder [Shares](../s/shares.md) are designed to maximize the [efficiency](../e/efficiency.md) and effectiveness of these strategies. Below are some primary applications:
 
 ### High-Frequency Trading (HFT)
 
@@ -60,23 +60,20 @@ Statistical [arbitrage](../a/arbitrage.md) strategies, such as [mean reversion](
 
 ## Companies Involved in Guilder Share Trading
 
-Several leading firms are recognized for their innovations and broad application of Guilder [Shares](../s/shares.md) within [algorithmic trading](../a/accountability.md):
+Several leading firms are recognized for their innovations and broad application of Guilder [Shares](../s/shares.md) within [algorithmic trading](../a/algorithmic_trading.md):
 
 ### Jane Street
 
 Jane Street is a global [proprietary trading](../p/proprietary_trading.md) [firm](../f/firm.md) renowned for its [high-frequency trading algorithms](../h/high-frequency_trading_algorithms.md) and the utilization of Guilder [Shares](../s/shares.md) in their strategies. They employ sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and cutting-edge technology to manage [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
-[Jane Street](https://www.janestreet.com)
 
 ### Citadel Securities
 
-Citadel Securities is a world-class [market maker](../m/market_maker.md) and [algorithmic trading](../a/accountability.md) [firm](../f/firm.md) that heavily utilizes Guilder [Shares](../s/shares.md). They facilitate high-frequency trading and [market](../m/market.md) making across numerous global exchanges.
-[Citadel Securities](https://www.citadelsecurities.com)
+Citadel Securities is a world-class [market maker](../m/market_maker.md) and [algorithmic trading](../a/algorithmic_trading.md) [firm](../f/firm.md) that heavily utilizes Guilder [Shares](../s/shares.md). They facilitate high-frequency trading and [market](../m/market.md) making across numerous global exchanges.
 
 ### Virtu Financial
 
-Virtu Financial is another key player in the [algorithmic trading](../a/accountability.md) space that leverages Guilder [Shares](../s/shares.md) for its various trading activities. Their focus on technology and analytics helps in maintaining high [efficiency](../e/efficiency.md) in [execution](../e/execution.md).
-[Virtu Financial](https://www.virtu.com)
+Virtu Financial is another key player in the [algorithmic trading](../a/algorithmic_trading.md) space that leverages Guilder [Shares](../s/shares.md) for its various trading activities. Their focus on technology and analytics helps in maintaining high [efficiency](../e/efficiency.md) in [execution](../e/execution.md).
 
 ## Conclusion
 
-Guilder Share, or New York Share, epitomizes the fusion of financial innovation with advanced technology, hallmarking its importance in the realm of [algorithmic trading](../a/accountability.md). Its attributes of high [liquidity](../l/liquidity.md), precise pricing, and [scalability](../s/scalability.md) make it indispensable for modern trading firms. As technology evolves, the role of Guilder [Shares](../s/shares.md) in [financial markets](../f/financial_market.md) is likely to expand, presenting newer opportunities for sophisticated [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) efficiencies.
+Guilder Share, or New York Share, epitomizes the fusion of financial innovation with advanced technology, hallmarking its importance in the realm of [algorithmic trading](../a/algorithmic_trading.md). Its attributes of high [liquidity](../l/liquidity.md), precise pricing, and [scalability](../s/scalability.md) make it indispensable for modern trading firms. As technology evolves, the role of Guilder [Shares](../s/shares.md) in [financial markets](../f/financial_market.md) is likely to expand, presenting newer opportunities for sophisticated [trading strategies](../t/trading_strategies.md) and [market](../m/market.md) efficiencies.

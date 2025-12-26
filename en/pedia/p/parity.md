@@ -115,8 +115,8 @@ Fintech companies [leverage](../l/leverage.md) parity principles to develop auto
 
 #### Notable Fintech Examples
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: A fintech company that offers [algorithmic trading](../a/accountability.md) tools and platforms for retail and institutional investors (https://www.interactivebrokers.com).
-- **[QuantConnect](../q/quantconnect.md)**: Provides an [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that allows traders to deploy parity-based [trading strategies](../t/trading_strategies.md) (https://www.[quantconnect](../q/quantconnect.md).com).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: A fintech company that offers [algorithmic trading](../a/algorithmic_trading.md) tools and platforms for retail and institutional investors (
+- **[QuantConnect](../q/quantconnect.md)**: Provides an [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to deploy parity-based [trading strategies](../t/trading_strategies.md) (
 
 ## Conclusion
 

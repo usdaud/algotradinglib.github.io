@@ -58,9 +58,9 @@ Designing an algorithm to avoid [wash](../w/wash.md) sales involves several comp
 
 There are several trading platforms and software frameworks where the [Wash Sale Rule](../w/wash_sale_rule.md) logic can be implemented:
 
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides API access to build custom [trading algorithms](../t/trading_algorithms.md) that can consider receipt and [holding period](../h/holding_period.md) of securities [Interactive Brokers](https://www.interactivebrokers.com/).
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and execute algorithms with custom tax law considerations [QuantConnect](https://www.quantconnect.com/).
-- **TD [Ameritrade](../a/ameritrade.md)'s [thinkorswim](../t/thinkorswim.md)**: Offers scripting language ThinkScript, which can be used to build strategies that account for [wash](../w/wash.md) sales [TD Ameritrade](https://www.tdameritrade.com/).
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Provides API access to build custom [trading algorithms](../t/trading_algorithms.md) that can consider receipt and [holding period](../h/holding_period.md) of securities Interactive Brokers.
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md) [algorithmic trading](../a/algorithmic_trading.md) platform that allows traders to design, test, and execute algorithms with custom tax law considerations QuantConnect.
+- **TD [Ameritrade](../a/ameritrade.md)'s [thinkorswim](../t/thinkorswim.md)**: Offers scripting language ThinkScript, which can be used to build strategies that account for [wash](../w/wash.md) sales TD Ameritrade.
 
 ### Compliance and Auditing
 

@@ -57,7 +57,7 @@ Resistance zones also reflect [market sentiment](../m/market_sentiment.md) and p
 
 ### Equity Markets
 
-Resistance zones are widely used in [equity trading](../e/equity_trading.md). For example, the stock of Apple Inc. ([Apple Inc.](https://www.apple.com/)) might encounter a resistance zone around its historical high, where institutional investors could prefer to take profits, thus increasing selling pressure.
+Resistance zones are widely used in [equity trading](../e/equity_trading.md). For example, the stock of Apple Inc. (Apple Inc.) might encounter a resistance zone around its historical high, where institutional investors could prefer to take profits, thus increasing selling pressure.
 
 ### Forex Markets
 
@@ -71,7 +71,7 @@ Cryptocurrencies, due to their [volatility](../v/volatility.md), frequently enco
 
 ### Algorithmic Trading and Resistance Zones
 
-[Algorithmic trading](../a/accountability.md) leverages automated systems to identify and act on resistance zones quickly. By programming algorithms to recognize these zones, traders can [capitalize](../c/capitalize.md) on price movements without human intervention.
+[Algorithmic trading](../a/algorithmic_trading.md) leverages automated systems to identify and act on resistance zones quickly. By programming algorithms to recognize these zones, traders can [capitalize](../c/capitalize.md) on price movements without human intervention.
 
 - **[Machine Learning](../m/machine_learning.md)**: [Machine learning](../m/machine_learning.md) models can analyze historical data to refine the accuracy of identified resistance zones.
 - **High-Frequency Trading (HFT)**: HFT algorithms efficiently exploit minor price differences near resistance zones.
@@ -85,7 +85,7 @@ Fintech innovations enhance the accessibility and utilization of resistance zone
 
 ### Social Trading Platforms
 
-Platforms like [eToro](../e/etoro.md) ([eToro](https://www.etoro.com/)) enable traders to share insights on resistance zones and mimic successful strategies from experienced traders, creating a collaborative [trading environment](../t/trading_environment.md).
+Platforms like [eToro](../e/etoro.md) (eToro) enable traders to share insights on resistance zones and mimic successful strategies from experienced traders, creating a collaborative [trading environment](../t/trading_environment.md).
 
 ## Conclusion
 

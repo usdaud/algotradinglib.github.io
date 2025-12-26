@@ -1,8 +1,8 @@
 # Asset
 
-An asset, in the context of [finance](../f/finance.md) and investments, refers to any resource or property that holds [economic value](../e/economic_value.md) and can generate [income](../i/income.md) or be liquidated into cash. Assets are central to the functioning of trading, investment, and the broader [financial markets](../f/financial_market.md). They come in various forms, ranging from physical properties to digital records, and play a significant role in [wealth](../w/wealth.md) accumulation, [risk management](../r/risk_management.md), and [portfolio diversification](../p/portfolio_diversification.md). 
+An asset, in the context of [finance](../f/finance.md) and investments, refers to any resource or property that holds [economic value](../e/economic_value.md) and can generate [income](../i/income.md) or be liquidated into cash. Assets are central to the functioning of trading, investment, and the broader [financial markets](../f/financial_market.md). They come in various forms, ranging from physical properties to digital records, and play a significant role in [wealth](../w/wealth.md) accumulation, [risk management](../r/risk_management.md), and [portfolio diversification](../p/portfolio_diversification.md).
 
-In the realm of [algorithmic trading](../a/accountability.md) (also known as algo-trading), assets are the instruments traded using pre-programmed instructions. These algorithms allow traders to execute orders based on various factors such as timing, price, and [volume](../v/volume.md), and often involve sophisticated [mathematical models](../m/mathematical_models_in_trading.md). 
+In the realm of [algorithmic trading](../a/accountability.md) (also known as algo-trading), assets are the instruments traded using pre-programmed instructions. These algorithms allow traders to execute orders based on various factors such as timing, price, and [volume](../v/volume.md), and often involve sophisticated [mathematical models](../m/mathematical_models_in_trading.md).
 
 Below is a comprehensive overview of various types of assets pertinent to algo-trading, along with an examination of the technologies and methodologies leveraged in their trading.
 
@@ -101,13 +101,13 @@ In cryptocurrency trading, [blockchain](../b/blockchain_in_trading.md) technolog
 
 Several companies specialize in providing technologies and platforms for algo-trading. Here are a few:
 
-- **Two Sigma**: A technology-driven [investment manager](../i/investment_manager.md) that uses [data science](../d/data_science_in_trading.md) and engineering to build models to predict [market](../m/market.md) performance. [Two Sigma](https://www.twosigma.com)
+- **Two Sigma**: A technology-driven [investment manager](../i/investment_manager.md) that uses [data science](../d/data_science_in_trading.md) and engineering to build models to predict [market](../m/market.md) performance. Two Sigma
 
-- **Citadel**: A global financial institution that emphasizes [quantitative research](../q/quantitative_research.md) and technology to develop advanced [trading strategies](../t/trading_strategies.md). [Citadel](https://www.citadel.com)
+- **Citadel**: A global financial institution that emphasizes [quantitative research](../q/quantitative_research.md) and technology to develop advanced [trading strategies](../t/trading_strategies.md). Citadel
 
-- **AlgoTrader**: Offers an institutional-grade [algorithmic trading](../a/accountability.md) platform for [quantitative trading](../q/quantitative_trading.md) and [execution](../e/execution.md). [AlgoTrader](https://www.algotrader.com)
+- **AlgoTrader**: Offers an institutional-grade [algorithmic trading](../a/accountability.md) platform for [quantitative trading](../q/quantitative_trading.md) and [execution](../e/execution.md). AlgoTrader
 
-- **Kensho Technologies**: A provider of next-generation analytics and [machine learning](../m/machine_learning.md) capabilities for financial institutions. [Kensho Technologies](https://www.kensho.com)
+- **Kensho Technologies**: A provider of next-generation analytics and [machine learning](../m/machine_learning.md) capabilities for financial institutions. Kensho Technologies
 
 ## Conclusion
 

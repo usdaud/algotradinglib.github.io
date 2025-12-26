@@ -1,6 +1,6 @@
 # Operating Expense Ratio
 
-The [Operating Expense](../o/operating_expense.md) Ratio (OER) is a financial metric used to assess the [efficiency](../e/efficiency.md) of a company's management by comparing its operating expenses to its [net sales](../n/net_sales.md). This ratio is significant as it provides insights into how well a company is managing its operational costs relative to the [revenue](../r/revenue.md) it generates. 
+The [Operating Expense](../o/operating_expense.md) Ratio (OER) is a financial metric used to assess the [efficiency](../e/efficiency.md) of a company's management by comparing its operating expenses to its [net sales](../n/net_sales.md). This ratio is significant as it provides insights into how well a company is managing its operational costs relative to the [revenue](../r/revenue.md) it generates.
 
 ## Definition and Calculation
 
@@ -9,7 +9,7 @@ The OER is calculated using the following formula:
 \[ \text{OER} = \frac{\text{Operating Expenses}}{\text{[Net Sales](../n/net_sales.md)}} \]
 
 Where:
-- **Operating Expenses:** These include the costs associated with running a company's core [business](../b/business.md) operations, such as wages, rent, utilities, and other overhead expenses. 
+- **Operating Expenses:** These include the costs associated with running a company's core [business](../b/business.md) operations, such as wages, rent, utilities, and other overhead expenses.
 - **[Net Sales](../n/net_sales.md):** This is the total [revenue](../r/revenue.md) from sales of goods or services, after deducting returns, allowances, and discounts.
 
 ## Importance of OER

@@ -5,10 +5,10 @@ Marginal Social Cost (MSC) is a key concept in [economics](../e/economics.md) th
 ## Components of MSC
 
 1. **Private Costs (PC):**
-   - These are the costs directly incurred by the producers in the production process. Private costs include expenses related to labor, materials, and overhead, among others. In simple terms, these are the costs that the producer pays to bring a product to [market](../m/market.md) and are reflected in the [supply curve](../s/supply_curve.md).
+ - These are the costs directly incurred by the producers in the production process. Private costs include expenses related to labor, materials, and overhead, among others. In simple terms, these are the costs that the producer pays to bring a product to [market](../m/market.md) and are reflected in the [supply curve](../s/supply_curve.md).
 
 2. **External Costs (EC):**
-   - These costs result from the negative externalities associated with production and consumption that affect third parties. For example, pollution from a factory imposes health and environmental costs on the surrounding community. These costs are not borne by the producer but by society at large.
+ - These costs result from the negative externalities associated with production and consumption that affect third parties. For example, pollution from a factory imposes health and environmental costs on the surrounding community. These costs are not borne by the producer but by society at large.
 
 Mathematically, the Marginal Social Cost can be represented as:
 \[ MSC = MPC + MEC \]
@@ -32,26 +32,26 @@ In a perfectly competitive [market](../m/market.md) without externalities, the m
 Estimating external costs accurately is challenging but necessary for calculating the MSC. Some common methods used include:
 
 1. **[Market](../m/market.md)-based [Valuation](../v/valuation.md):**
-   - This involves estimating the damage costs or mitigation costs associated with the [externality](../e/externality.md). For example, the cost of health care due to pollution can be used to estimate the external cost of a factory's emissions.
+ - This involves estimating the damage costs or mitigation costs associated with the [externality](../e/externality.md). For example, the cost of health care due to pollution can be used to estimate the external cost of a factory's emissions.
 
 2. **Revealed Preferences:**
-   - This method involves observing individuals' behavior in related markets. For instance, property values in polluted areas might be lower, reflecting the cost of pollution.
+ - This method involves observing individuals' behavior in related markets. For instance, property values in polluted areas might be lower, reflecting the cost of pollution.
 
 3. **Stated Preferences:**
-   - Surveys and questionnaires are used to elicit individuals' willingness to pay to avoid or willingness to accept compensation for the [externality](../e/externality.md), like the contingent [valuation](../v/valuation.md) method.
+ - Surveys and questionnaires are used to elicit individuals' willingness to pay to avoid or willingness to accept compensation for the [externality](../e/externality.md), like the contingent [valuation](../v/valuation.md) method.
 
 ## Internalizing Externalities
 
 To correct [market](../m/market.md) failures associated with externalities, policymakers can use several instruments to internalize external costs:
 
 1. **[Taxes](../t/taxes.md) and Subsidies:**
-   - Pigovian [taxes](../t/taxes.md) are levied on activities that generate negative externalities equivalent to the external cost. Similarly, subsidies can encourage activities with positive externalities, aligning private incentives with social [welfare](../w/welfare.md).
+ - Pigovian [taxes](../t/taxes.md) are levied on activities that generate negative externalities equivalent to the external cost. Similarly, subsidies can encourage activities with positive externalities, aligning private incentives with social [welfare](../w/welfare.md).
 
 2. **Regulations and Standards:**
-   - Direct regulation can impose limits on activities that create externalities. For instance, emission standards limit the amount of pollution a [firm](../f/firm.md) can emit.
+ - Direct regulation can impose limits on activities that create externalities. For instance, emission standards limit the amount of pollution a [firm](../f/firm.md) can emit.
 
 3. **Marketable Permits:**
-   - Tradable permits for pollution, also known as cap-and-[trade](../t/trade.md) systems, create a [market](../m/market.md) for externalities. Firms can buy and sell permits, ensuring that pollution is reduced at the lowest cost to society.
+ - Tradable permits for pollution, also known as cap-and-[trade](../t/trade.md) systems, create a [market](../m/market.md) for externalities. Firms can buy and sell permits, ensuring that pollution is reduced at the lowest cost to society.
 
 ### Case Studies
 
@@ -68,16 +68,16 @@ Urban traffic congestion leads to time delays, increased fuel consumption, and h
 Despite its importance, calculating the MSC accurately faces several challenges:
 
 1. **[Uncertainty](../u/uncertainty_in_trading.md):**
-   - Long-term effects of externalities, such as environmental degradation and climate change, introduce significant [uncertainty](../u/uncertainty_in_trading.md) into the estimation of external costs.
+ - Long-term effects of externalities, such as environmental degradation and climate change, introduce significant [uncertainty](../u/uncertainty_in_trading.md) into the estimation of external costs.
 
 2. **[Valuation](../v/valuation.md) Difficulties:**
-   - Assigning monetary values to non-[market](../m/market.md) goods, such as clean air and biodiversity, is complex and contentious. Differing methodologies can [yield](../y/yield.md) widely varying estimates.
+ - Assigning monetary values to non-[market](../m/market.md) goods, such as clean air and biodiversity, is complex and contentious. Differing methodologies can [yield](../y/yield.md) widely varying estimates.
 
 3. **Distributional Effects:**
-   - The burden of external costs often falls disproportionately on certain populations, complicating the task of measuring and addressing these costs equitably.
+ - The burden of external costs often falls disproportionately on certain populations, complicating the task of measuring and addressing these costs equitably.
 
 4. **Dynamic Changes:**
-   - External costs can change over time with technological advancements, changes in policies, and shifts in social preferences, necessitating continuous updates to MSC estimates.
+ - External costs can change over time with technological advancements, changes in policies, and shifts in social preferences, necessitating continuous updates to MSC estimates.
 
 ## Conclusion
 

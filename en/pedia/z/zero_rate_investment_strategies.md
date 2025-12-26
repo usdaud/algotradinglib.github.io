@@ -70,12 +70,12 @@ The [Bank](../b/bank.md) of Japan has maintained a zero [interest rate](../i/int
 #### Bridgewater Associates
 Bridgewater Associates, one of the world's largest [hedge](../h/hedge.md) funds, has effectively navigated zero [interest rate](../i/interest_rate.md) environments through its diversified "All Weather" portfolio. This strategy balances [risk](../r/risk.md) across various [asset](../a/asset.md) classes, including [fixed income](../f/fixed_income.md), equities, commodities, and [inflation-linked bonds](../i/inflation-linked_bonds.md).
 
-More information can be found [here](https://www.bridgewater.com).
+More information can be found here.
 
 #### BlackRock
 BlackRock, a leading global [investment management](../i/investment_management.md) [firm](../f/firm.md), offers a [range](../r/range.md) of strategies designed to thrive in zero [interest rate](../i/interest_rate.md) environments. These include multi-[asset](../a/asset.md) [income](../i/income.md) funds and investment-grade [credit](../c/credit.md) portfolios that seek higher yields while managing [risk](../r/risk.md).
 
-More information can be found [here](https://www.blackrock.com).
+More information can be found here.
 
 ## Challenges and Considerations
 ### Liquidity Risk

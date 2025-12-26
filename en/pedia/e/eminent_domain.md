@@ -13,9 +13,9 @@ In the United States, the legal framework for eminent domain is enshrined in the
 ### Criteria for Exercising Eminent Domain
 
 1. **Public Use**: The property must be taken for a purpose that benefits the public. This includes uses like:
-    - [Infrastructure](../i/infrastructure.md) projects (roads, bridges, railways)
-    - Public buildings (schools, hospitals)
-    - Utilities (water [supply](../s/supply.md), electricity lines)
+ - [Infrastructure](../i/infrastructure.md) projects (roads, bridges, railways)
+ - Public buildings (schools, hospitals)
+ - Utilities (water [supply](../s/supply.md), electricity lines)
 
 2. **[Just Compensation](../j/just_compensation.md)**: The property owner must be fairly compensated for the [value](../v/value.md) of the property taken. Compensation is typically calculated based on the [market value](../m/market_value.md) of the property.
 
@@ -74,4 +74,4 @@ A case where the city of Detroit used eminent domain to acquire land for a Gener
 
 Eminent domain is a complex and multifaceted legal mechanism that balances state power and individual [property rights](../p/property_rights.md). While it facilitates essential public [infrastructure](../i/infrastructure.md) and development projects, its implementation requires clear guidelines, [transparency](../t/transparency.md), and fairness to protect the rights of property owners and maintain public [trust](../t/trust.md).
 
-For further information, legal professionals and scholars often refer to comprehensive resources and databases such as the Cornell Law School's Legal Information Institute [LII](https://www.law.cornell.edu) or the American Bar Association [ABA](https://www.americanbar.org), which provide extensive information on property law and eminent domain.
+For further information, legal professionals and scholars often refer to comprehensive resources and databases such as the Cornell Law School's Legal Information Institute LII or the American Bar Association ABA, which provide extensive information on property law and eminent domain.

@@ -101,7 +101,7 @@ A forward [exchange rate](../e/exchange_rate.md) is an agreed-upon rate at which
 
 ## Algorithms in Spot Exchange Rate Trading
 
-[Algorithmic trading](../a/accountability.md) involves the use of computer algorithms to execute trades at optimal prices and speeds. In the context of spot [exchange](../e/exchange.md) rates, this approach can significantly enhance trading practices:
+[Algorithmic trading](../a/algorithmic_trading.md) involves the use of computer algorithms to execute trades at optimal prices and speeds. In the context of spot [exchange](../e/exchange.md) rates, this approach can significantly enhance trading practices:
 
 ### Advantages
 
@@ -126,14 +126,14 @@ Fintech (financial technology) has paved the way for innovations in the trading 
 - **[Transparency](../t/transparency.md) and [Security](../s/security.md):** [Blockchain](../b/blockchain_in_trading.md) ensures transparent, immutable records of spot transactions, enhancing [trust](../t/trust.md) and [security](../s/security.md).
 - **Decentralization:** Reduces reliance on traditional financial intermediaries and facilitates peer-to-peer [currency](../c/currency.md) exchanges.
 
-Example Company: [Ripple](https://ripple.com/)
+Example Company: Ripple
 [Ripple](../r/ripple.md) uses [blockchain](../b/blockchain_in_trading.md) technology to facilitate fast and low-cost international [currency](../c/currency.md) exchanges. Its native digital cryptocurrency, XRP, plays a critical role in providing on-[demand](../d/demand.md) [liquidity](../l/liquidity.md) for remittances and cross-border transactions.
 
 ### Mobile Trading Platforms
 
 Mobile trading apps have revolutionized how both retail and institutional traders engage with the Forex [market](../m/market.md), providing real-time access to spot [exchange](../e/exchange.md) rates and trading functionalities from any location.
 
-Example Company: [Robinhood](https://robinhood.com/)
+Example Company: Robinhood
 [Robinhood](../r/robinhood.md) offers a mobile and web platform for trading various financial instruments, including Forex. The platform is designed for ease of use and provides real-time data on spot [exchange](../e/exchange.md) rates, making trading more accessible to a broader audience.
 
 ## Conclusion

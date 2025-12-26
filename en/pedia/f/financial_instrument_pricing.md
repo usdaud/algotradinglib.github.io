@@ -51,7 +51,7 @@ For complex instruments, analytical solutions may not be possible. [Numerical me
 - **[Reinforcement Learning](../r/reinforcement_learning.md)**: Agents learn strategies to maximize returns.
 
 ### High-Frequency Trading (HFT)
-Firms use algorithms to [trade](../t/trade.md) large volumes at high speeds to take advantage of small price discrepancies. Companies like [Virtu Financial](https://www.virtu.com) are leaders in this space.
+Firms use algorithms to [trade](../t/trade.md) large volumes at high speeds to take advantage of small price discrepancies. Companies like Virtu Financial are leaders in this space.
 
 ## Factors Influencing Prices
 

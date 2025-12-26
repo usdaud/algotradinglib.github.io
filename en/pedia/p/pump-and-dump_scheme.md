@@ -60,9 +60,9 @@ Financial regulators and exchanges are increasingly using sophisticated surveill
 
 If you suspect a pump-and-dump scheme, you can file a report with:
 
-- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: [SEC Complaint Form](https://www.sec.gov/oiea/Complaint.html)
-- **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: [FINRA Complaints](https://www.finra.org/investors/have-problem/file-complaint)
-- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: [CFTC Fraud Advisories](https://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/index.htm)
+- **Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: SEC Complaint Form
+- **Financial [Industry](../i/industry.md) Regulatory Authority (FINRA)**: FINRA Complaints
+- **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: CFTC Fraud Advisories
 
 ### Conclusion
 

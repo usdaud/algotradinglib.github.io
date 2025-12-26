@@ -61,15 +61,14 @@ Despite increased regulation, subprime loans remain controversial due to their h
 ### The Role of Fannie Mae and Freddie Mac
 
 Fannie Mae and [Freddie Mac](../f/freddie_mac.md), government-sponsored enterprises (GSEs), played crucial roles in the [expansion](../e/expansion.md) and subsequent collapse of the [subprime mortgage](../s/subprime_mortgage.md) [market](../m/market.md). They purchased substantial amounts of subprime mortgages, providing [liquidity](../l/liquidity.md) to lenders and enabling the proliferation of subprime loans. For more information, one can visit their official websites:
-- [Fannie Mae](https://www.fanniemae.com)
-- [Freddie Mac](https://www.freddiemac.com)
+- Fannie Mae
+- Freddie Mac
 
 ### Wells Fargo and Subprime Auto Loans
 
 In recent years, subprime lending has also extended to the auto [loan](../l/loan.md) [market](../m/market.md), with institutions like Wells Fargo providing subprime auto loans. The [bank](../b/bank.md) has faced scrutiny and legal action for aggressive lending and sales practices, highlighting ongoing challenges within the subprime lending sector.
 
-For more information, visit their official website:
-- [Wells Fargo](https://www.wellsfargo.com)
+- Wells Fargo
 
 ## Implications for Financial Markets and the Economy
 

@@ -62,12 +62,10 @@ Consider an algorithm that trades the EUR/USD [currency](../c/currency.md) pair.
 ### Renaissance Technologies
 Renaissance Technologies, led by Jim Simons, is known for its use of advanced [mathematical models](../m/mathematical_models_in_trading.md) to identify trading opportunities. The [firm](../f/firm.md) likely incorporates Key [Reversal Patterns](../r/reversal_patterns.md) into its algorithms for [short-term trading](../s/short-term_trading.md).
 
-[Visit Renaissance Technologies](https://www.rentec.com/)
 
 ### Two Sigma
 Two Sigma Investments leverages [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to inform its [trading strategies](../t/trading_strategies.md). Recognizing Key [Reversal Patterns](../r/reversal_patterns.md) is a probable component of their sophisticated [trading systems](../t/trading_systems.md).
 
-[Visit Two Sigma](https://www.twosigma.com/)
 
 ## Conclusion
 Key [Reversal Patterns](../r/reversal_patterns.md) are valuable tools in the arsenal of algorithmic traders. They provide precise signals for potential [trend](../t/trend.md) reversals, making them essential for developing [robust](../r/robust.md) and profitable [trading strategies](../t/trading_strategies.md). By combining traditional [technical analysis](../t/technical_analysis.md) with advanced algorithmic techniques, traders can enhance their [market](../m/market.md) predictions and achieve better [risk management](../r/risk_management.md).

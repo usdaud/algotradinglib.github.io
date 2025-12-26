@@ -95,13 +95,13 @@ Recent trends indicate a growing [interest](../i/interest.md) in sustainable [fi
 
 BNP Paribas is one of the major issuers of EMTNs. Their Global Medium Term [Note](../n/note.md) Programme is designed to meet the diverse needs of their clients and provide flexible [financing](../f/financing.md) solutions.
 
-More about it can be found here: [BNP Paribas EMTN Program](https://invest.bnpparibas/en/medium-term-notes).
+More about it can be found here: BNP Paribas EMTN Program.
 
 ### Barclays EMTN Programme
 
 Barclays also operates a significant EMTN program that allows them to [issue](../i/issue.md) notes in [multiple](../m/multiple.md) currencies and maturities.
 
-More about it can be found here: [Barclays EMTN Program](https://home.barclays/investor-relations/fixed-income-investors/medium-term-notes/).
+More about it can be found here: Barclays EMTN Program.
 
 ## Conclusion
 

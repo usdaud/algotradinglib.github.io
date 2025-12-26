@@ -34,13 +34,13 @@ These strategies [capitalize](../c/capitalize.md) on [market](../m/market.md)-mo
 [Market](../m/market.md) participants in crude oil trading [range](../r/range.md) from individual retail traders to large institutional investors. Some of the key players include:
 
 ### 1. **Oil Companies**
-Major oil companies like ExxonMobil [exxonmobil.com](https://www.exxonmobil.com) and Chevron [chevron.com](https://www.chevron.com) are active participants in the crude oil markets. They [hedge](../h/hedge.md) their production output using [futures contracts](../f/futures_contracts.md) to stabilize [revenue](../r/revenue.md) against price [volatility](../v/volatility.md).
+Major oil companies like ExxonMobil exxonmobil.com and Chevron chevron.com are active participants in the crude oil markets. They [hedge](../h/hedge.md) their production output using [futures contracts](../f/futures_contracts.md) to stabilize [revenue](../r/revenue.md) against price [volatility](../v/volatility.md).
 
 ### 2. **Hedge Funds and Investment Banks**
-[Hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md) use [algorithmic trading](../a/accountability.md) to manage their portfolios and generate [alpha](../a/alpha.md). Firms like Goldman Sachs [goldmansachs.com](https://www.goldmansachs.com) and JP Morgan [jpmorgan.com](https://www.jpmorgan.com) are known to utilize complex [trading algorithms](../t/trading_algorithms.md) for crude oil trading.
+[Hedge](../h/hedge.md) funds and [investment banks](../i/investment_bank_(ib).md) use [algorithmic trading](../a/accountability.md) to manage their portfolios and generate [alpha](../a/alpha.md). Firms like Goldman Sachs goldmansachs.com and JP Morgan jpmorgan.com are known to utilize complex [trading algorithms](../t/trading_algorithms.md) for crude oil trading.
 
 ### 3. **Commodity Trading Firms**
-[Commodity](../c/commodity.md) trading giants such as Vitol [vitol.com](https://www.vitol.com) and Glencore [glencore.com](https://www.glencore.com) are prominent in crude oil trading. They [leverage](../l/leverage.md) [algorithmic trading](../a/accountability.md) to [gain](../g/gain.md) competitive advantages in buying, selling, and transporting crude oil and its products.
+[Commodity](../c/commodity.md) trading giants such as Vitol vitol.com and Glencore glencore.com are prominent in crude oil trading. They [leverage](../l/leverage.md) [algorithmic trading](../a/accountability.md) to [gain](../g/gain.md) competitive advantages in buying, selling, and transporting crude oil and its products.
 
 ### 4. **Speculators and Arbitrageurs**
 Speculators seek to [profit](../p/profit.md) from price movements, while arbitrageurs look for price mismatches across different markets or instruments. Both groups heavily rely on [algorithmic trading](../a/accountability.md) to execute their strategies efficiently.
@@ -48,16 +48,16 @@ Speculators seek to [profit](../p/profit.md) from price movements, while arbitra
 ## Tools and Technologies in Algo-Trading
 
 ### 1. **Data Feed Providers**
-Reliable and high-speed data feeds are essential for [algorithmic trading](../a/accountability.md). Providers like [Bloomberg](../b/bloomberg.md) [bloomberg.com](https://www.bloomberg.com) and [Reuters](../r/reuters.md) [reuters.com](https://www.reuters.com) [offer](../o/offer.md) comprehensive data on crude oil prices, news, and [market](../m/market.md) events.
+Reliable and high-speed data feeds are essential for [algorithmic trading](../a/accountability.md). Providers like [Bloomberg](../b/bloomberg.md) bloomberg.com and [Reuters](../r/reuters.md) reuters.com [offer](../o/offer.md) comprehensive data on crude oil prices, news, and [market](../m/market.md) events.
 
 ### 2. **Trading Platforms**
-Advanced trading platforms provide the necessary [infrastructure](../i/infrastructure.md) for developing and deploying algorithms. Popular platforms include [TradeStation](../t/tradestation.md) [tradestation.com](https://www.tradestation.com), MetaTrader [metatrader4.com](https://www.metatrader4.com), and [NinjaTrader](../n/ninjatrader.md) [ninjatrader.com](https://www.ninjatrader.com).
+Advanced trading platforms provide the necessary [infrastructure](../i/infrastructure.md) for developing and deploying algorithms. Popular platforms include [TradeStation](../t/tradestation.md) tradestation.com, MetaTrader metatrader4.com, and [NinjaTrader](../n/ninjatrader.md) ninjatrader.com.
 
 ### 3. **Programming Languages**
 Proficiency in programming languages such as Python, R, and C++ is crucial for developing complex [trading algorithms](../t/trading_algorithms.md). Libraries like Pandas, NumPy, and scikit-learn in Python are widely used for data analysis and [machine learning](../m/machine_learning.md).
 
 ### 4. **Backtesting Tools**
-[Backtesting](../b/backtesting.md) tools allow traders to simulate [trading strategies](../t/trading_strategies.md) using historical data to evaluate their performance. Platforms like [QuantConnect](../q/quantconnect.md) [quantconnect.com](https://www.quantconnect.com) and [Amibroker](../a/amibroker.md) [amibroker.com](https://www.amibroker.com) are popular for [backtesting](../b/backtesting.md).
+[Backtesting](../b/backtesting.md) tools allow traders to simulate [trading strategies](../t/trading_strategies.md) using historical data to evaluate their performance. Platforms like [QuantConnect](../q/quantconnect.md) quantconnect.com and [Amibroker](../a/amibroker.md) amibroker.com are popular for [backtesting](../b/backtesting.md).
 
 ## Risks and Challenges
 

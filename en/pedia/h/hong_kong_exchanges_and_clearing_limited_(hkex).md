@@ -50,7 +50,7 @@ The HKSCC ensures the smooth [clearing and settlement](../c/clearing_and_settlem
 HKEx provides advanced [market](../m/market.md) data and technology solutions required for:
 
 - **[Real-Time Market Data](../r/real-time_market_data.md)**: Critical for traders and investors to make informed decisions.
-- **[Trading Systems](../t/trading_systems.md)**: High-frequency and [algorithmic trading](../a/accountability.md) systems depend on HKEx’s reliable [infrastructure](../i/infrastructure.md).
+- **[Trading Systems](../t/trading_systems.md)**: High-frequency and [algorithmic trading](../a/algorithmic_trading.md) systems depend on HKEx’s reliable [infrastructure](../i/infrastructure.md).
 - **Connectivity Solutions**: Secure and efficient access to [market](../m/market.md) information.
 
 ## Importance of Hong Kong in Global Finance
@@ -60,14 +60,14 @@ Hong Kong serves as a vital junction for East-West [finance](../f/finance.md), a
 - **Strategic Location**: Proximity to mainland China facilitates significant international [trade](../t/trade.md) and financial [exchange](../e/exchange.md).
 - **Financial Hub**: Hong Kong is [home](../h/home.md) to numerous global banks and financial firms.
 - **Regulatory Environment**: Stringent regulations ensure [market](../m/market.md) integrity, [transparency](../t/transparency.md), and [investor](../i/investor.md) protection.
-  
+
 ## Integration of Technology in HKEx
 
 HKEx has been at the forefront of integrating cutting-edge technology to streamline trading and post-[trade](../t/trade.md) processes.
 
 ### Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) has become crucial for [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md) in HKEx. Key aspects include:
+[Algorithmic trading](../a/algorithmic_trading.md) has become crucial for [market efficiency](../m/market_efficiency.md) and [liquidity](../l/liquidity.md) in HKEx. Key aspects include:
 
 - **High-Frequency Trading (HFT)**: Pipes transactions in milliseconds, leveraging speed and data processing power.
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Designed to execute orders at the best price with minimal [market](../m/market.md) impact.
@@ -119,6 +119,6 @@ HKEx continues to invest in technology to enhance [market efficiency](../m/marke
 
 ## Conclusion
 
-Hong Kong Exchanges and [Clearing](../c/clearing.md) Limited (HKEx) stands as a critical institution in the global financial ecosystem. With its comprehensive [range](../r/range.md) of services, focus on technology, and commitment to continuous improvement, HKEx remains a cornerstone of [financial markets](../f/financial_market.md) in Asia and a bridge connecting the financial worlds of the East and the West. For more information about HKEx and their current initiatives, visit [HKEx's official website](https://www.hkex.com.hk/).
+Hong Kong Exchanges and [Clearing](../c/clearing.md) Limited (HKEx) stands as a critical institution in the global financial ecosystem. With its comprehensive [range](../r/range.md) of services, focus on technology, and commitment to continuous improvement, HKEx remains a cornerstone of [financial markets](../f/financial_market.md) in Asia and a bridge connecting the financial worlds of the East and the West.
 
 HKEx's ability to adapt to [market dynamics](../m/market_dynamics.md) and [leverage](../l/leverage.md) technology plays a pivotal role in maintaining its [leadership](../l/leadership.md) position in global [finance](../f/finance.md). The continuous integration of cutting-edge technologies ensures that HKEx remains competitive and meets the evolving needs of [market](../m/market.md) participants, underlining its significance as a premier trading and financial services hub.

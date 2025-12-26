@@ -42,7 +42,7 @@ Lines of [credit](../c/credit.md) are flexible [loan](../l/loan.md) [options](..
 ## The Process of Obtaining Bank Credit
 
 Securing [bank](../b/bank.md) [credit](../c/credit.md) involves [multiple](../m/multiple.md) stages, including the application, [credit](../c/credit.md) assessment, approval, and [disbursement](../d/disbursement.md) of funds. Here is a typical process outline:
- 
+
 ### 1. Application
 
 The process begins with the borrower submitting an application to the [bank](../b/bank.md). This application [will](../w/will.md) include personal information, financial details, and the purpose of the [loan](../l/loan.md).
@@ -115,4 +115,4 @@ Ongoing monitoring of borrower [financial performance](../f/financial_performanc
 
 [Bank](../b/bank.md) [credit](../c/credit.md) is a cornerstone of modern [finance](../f/finance.md), providing essential funding for personal needs, [business](../b/business.md) operations, and investments. Through various forms such as personal loans, [credit](../c/credit.md) cards, and [business](../b/business.md) loans, it helps stimulate [economic growth](../e/economic_growth.md), promote financial stability, and enable consumption. The process of obtaining and managing [bank](../b/bank.md) [credit](../c/credit.md) involves rigorous assessment, [risk management](../r/risk_management.md), and the use of financial instruments to safeguard both lenders and borrowers. By understanding these components, individuals and businesses can make informed borrowing decisions, while financial institutions can maintain [robust](../r/robust.md) lending practices.
 
-For further details on specific [bank](../b/bank.md) [credit](../c/credit.md) products and services, you can visit the websites of leading financial institutions such as [J.P. Morgan Chase](https://www.jpmorganchase.com), [Wells Fargo](https://www.wellsfargo.com), and [Citibank](https://www.citibank.com).
+For further details on specific [bank](../b/bank.md) [credit](../c/credit.md) products and services, you can visit the websites of leading financial institutions such as J.P. Morgan Chase, Wells Fargo, and Citibank.

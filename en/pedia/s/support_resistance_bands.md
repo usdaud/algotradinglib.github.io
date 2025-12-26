@@ -8,7 +8,7 @@
 
 A support band is a [price level](../p/price_level.md) at which a stock or other [financial asset](../f/financial_asset.md) tends to find buying [interest](../i/interest.md) as it declines. In other words, it is an area on the chart where [demand](../d/demand.md) is strong enough to prevent the price from falling further. This occurs because a large number of traders are willing to buy the [asset](../a/asset.md) at that price, creating a "floor" that the price struggles to break below.
 
-[Support levels](../s/support_levels.md) are often identified through historical price data. Traders look for price points where the [asset](../a/asset.md) has repeatedly bounced back after falling, indicating a recurring support level. 
+[Support levels](../s/support_levels.md) are often identified through historical price data. Traders look for price points where the [asset](../a/asset.md) has repeatedly bounced back after falling, indicating a recurring support level.
 
 **Key Characteristics of [Support Levels](../s/support_levels.md):**
 - Price tends to rebound at this level.
@@ -42,19 +42,19 @@ In algotrading, several methods are deployed to identify [support and resistance
 
 ### Horizontal Support and Resistance
 
-This traditional method involves drawing horizontal lines at historical price levels where the price has repeatedly reversed direction. 
+This traditional method involves drawing horizontal lines at historical price levels where the price has repeatedly reversed direction.
 
 ### Trendlines
 
-Trendlines are diagonal lines drawn along the peaks (for resistance) and troughs (for support) of a price movement in a [trend](../t/trend.md). 
+Trendlines are diagonal lines drawn along the peaks (for resistance) and troughs (for support) of a price movement in a [trend](../t/trend.md).
 
 ### Moving Averages
 
-Moving averages can also act as dynamic [support and resistance](../s/support_and_resistance.md) levels. 
+Moving averages can also act as dynamic [support and resistance](../s/support_and_resistance.md) levels.
 
 **Example:**
 - **Simple Moving Average (SMA)**: A 200-day SMA line can often act as both a [support and resistance](../s/support_and_resistance.md) level.
-  
+
 ### Fibonacci Retracement Levels
 
 [Fibonacci retracement](../f/fibonacci_retracement.md) levels are based on the idea that markets [will](../w/will.md) retrace a predictable portion of a move, after which they [will](../w/will.md) continue to move in the original direction. These levels can serve as [support and resistance](../s/support_and_resistance.md) bands.
@@ -93,9 +93,9 @@ MetaTrader is one of the most widely used platforms that [offer](../o/offer.md) 
 
 [TradingView](../t/tradingview.md) is a popular charting platform that allows for scripting custom algotrading strategies using Pine Script.
 
-### QuantConnect
+### StockSharp
 
-[QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that supports C# and Python, [offering](../o/offering.md) tools to create [support and resistance](../s/support_and_resistance.md)-based strategies.
+[StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/algorithmic_trading.md) platform that supports C#, [offering](../o/offering.md) tools to create [support and resistance](../s/support_and_resistance.md)-based strategies.
 
 ### Multicharts
 

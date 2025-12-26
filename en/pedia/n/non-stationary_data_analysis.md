@@ -41,7 +41,7 @@ To work with non-stationary data, various transformation techniques can be appli
 - **Differencing:** Taking the difference between consecutive observations to remove trends.
 - **Log Transformation:** Stabilizes variance across time.
 - **Decomposition:** Separates the [time series](../t/time_series.md) into [trend](../t/trend.md), seasonal, and residual components.
-  - **Seasonal Decomposition of [Time Series](../t/time_series.md) (STL):** Applies a [robust](../r/robust.md) method to separate components.
+ - **Seasonal Decomposition of [Time Series](../t/time_series.md) (STL):** Applies a [robust](../r/robust.md) method to separate components.
 - **Fourier Transform:** Converts [time series](../t/time_series.md) to the frequency domain to remove cyclical effects.
 
 ### Adaptive Models
@@ -58,9 +58,9 @@ To work with non-stationary data, various transformation techniques can be appli
 
 ### Practical Examples
 Several financial firms are using advanced techniques to manage non-stationary markets:
-- **Two Sigma:** [Two Sigma](https://www.twosigma.com/) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
-- **Citadel Securities:** [Citadel Securities](https://www.citadelsecurities.com/) implements advanced statistical techniques and [adaptive algorithms](../a/adaptive_algorithms.md).
-- **DE Shaw:** [DE Shaw](https://www.deshaw.com/) employs sophisticated mathematical modeling to address non-stationarity.
+- **Two Sigma:** Two Sigma uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) to adapt to changing [market](../m/market.md) conditions.
+- **Citadel Securities:** Citadel Securities implements advanced statistical techniques and [adaptive algorithms](../a/adaptive_algorithms.md).
+- **DE Shaw:** DE Shaw employs sophisticated mathematical modeling to address non-stationarity.
 
 ## Case Studies
 

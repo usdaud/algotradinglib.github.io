@@ -39,11 +39,11 @@ Leveraging [natural language processing](../n/natural_language_processing_(nlp)_
 
 ### Renaissance Technologies
 
-Renaissance Technologies is a pioneer in algorithmic and [quantitative trading](../q/quantitative_trading.md). Their Medallion [Fund](../f/fund.md) has been known to utilize advanced [momentum](../m/momentum.md)-based strategies. More information can be found at their [official site](https://www.rentec.com/).
+Renaissance Technologies is a pioneer in algorithmic and [quantitative trading](../q/quantitative_trading.md). Their Medallion [Fund](../f/fund.md) has been known to utilize advanced [momentum](../m/momentum.md)-based strategies.
 
 ### Two Sigma
 
-Two Sigma employs [data science](../d/data_science_in_trading.md) techniques to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. They focus heavily on [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their [momentum trading](../m/momentum_trading.md) models. Details are available on their [official site](https://www.twosigma.com/).
+Two Sigma employs [data science](../d/data_science_in_trading.md) techniques to develop [algorithmic trading](../a/algorithmic_trading.md) strategies. They focus heavily on [machine learning](../m/machine_learning.md) and [big data analytics](../b/big_data_analytics_in_trading.md) to enhance their [momentum trading](../m/momentum_trading.md) models. Details are available on their public materials.
 
 ## Technical Infrastructure
 
@@ -106,4 +106,3 @@ As [algorithmic trading](../a/algorithmic_trading.md) becomes more prevalent, et
 ## Conclusion
 
 X-[Momentum Trading](../m/momentum_trading.md) represents the next evolution in [algorithmic trading](../a/algorithmic_trading.md) strategies by incorporating advanced technologies such as [machine learning](../m/machine_learning.md), high-frequency trading, and [sentiment analysis](../s/sentiment_analysis.md). While it offers significant potential for high returns, it also comes with its own set of challenges and risks. As the financial landscape continues to evolve, XMT strategies [will](../w/will.md) need to adapt to emerging technologies and regulatory environments to maintain their competitive edge.
-

@@ -7,23 +7,23 @@ The Relative Vigor [Index](../i/index_instrument.md) (RVI) is a [momentum](../m/
 The Relative Vigor [Index](../i/index_instrument.md) primarily uses the closing price relative to the [open](../o/open.md), high, and low prices of each period to calculate the [value](../v/value.md). The exact formula for RVI involves [multiple](../m/multiple.md) steps:
 
 1. **Calculate the Close-[Open](../o/open.md) Differences:**
-   \( RVI\_numerator = (Close - [Open](../o/open.md)) \)
-   
+ \( RVI\_numerator = (Close - [Open](../o/open.md)) \)
+
 2. **Calculate the High-Low Differences:**
-   \( RVI\_denominator = (High - Low) \)
-   
+ \( RVI\_denominator = (High - Low) \)
+
 3. **Smooth the Results Using a Moving Average:**
-   Usually, a simple moving average (SMA) of 10 periods is applied to both the numerator and denominator to smooth the data.
-   
+ Usually, a simple moving average (SMA) of 10 periods is applied to both the numerator and denominator to smooth the data.
+
 4. **Compute RVI Values:**
-   The final RVI [value](../v/value.md) is the ratio of the smoothed numerator to the smoothed denominator.
-   
-   \[
-   RVI = \frac{SMA(RVI\_numerator, n)}{SMA(RVI\_denominator, n)}
-   \]
+ The final RVI [value](../v/value.md) is the ratio of the smoothed numerator to the smoothed denominator.
+
+ \[
+ RVI = \frac{SMA(RVI\_numerator, n)}{SMA(RVI\_denominator, n)}
+ \]
 
 5. **Signal Line:**
-   Similar to the MACD, a signal line is created by computing an additional moving average (usually a 4-period SMA) of the RVI for further validation.
+ Similar to the MACD, a signal line is created by computing an additional moving average (usually a 4-period SMA) of the RVI for further validation.
 
 The RVI oscillates around a zero line and typically ranges between -1 and +1. The zero line serves as a midpoint to identify shifts in [momentum](../m/momentum.md).
 
@@ -39,16 +39,16 @@ Additionally, when the RVI crosses above zero, it implies bullish [momentum](../
 ## Practical Uses
 
 1. **[Trend](../t/trend.md) Confirmation:**
-   Traders often use the Relative Vigor [Index](../i/index_instrument.md) to confirm the direction of the [market](../m/market.md) [trend](../t/trend.md). When the RVI aligns with the price [trend](../t/trend.md), it adds credence to the ongoing [market](../m/market.md) movement.
+ Traders often use the Relative Vigor [Index](../i/index_instrument.md) to confirm the direction of the [market](../m/market.md) [trend](../t/trend.md). When the RVI aligns with the price [trend](../t/trend.md), it adds credence to the ongoing [market](../m/market.md) movement.
 
 2. **[Divergence](../d/divergence.md) Analysis:**
-   [Divergence](../d/divergence.md) occurs when the price moves in one direction while the RVI moves in another. [Bullish divergence](../b/bullish_divergence.md) happens when prices make lower lows, but the RVI makes higher lows. Conversely, [bearish divergence](../b/bearish_divergence.md) occurs when prices make higher highs, but the RVI makes lower highs.
+ [Divergence](../d/divergence.md) occurs when the price moves in one direction while the RVI moves in another. [Bullish divergence](../b/bullish_divergence.md) happens when prices make lower lows, but the RVI makes higher lows. Conversely, [bearish divergence](../b/bearish_divergence.md) occurs when prices make higher highs, but the RVI makes lower highs.
 
 3. **Entry and Exit Points:**
-   The RVI can help pinpoint optimal entry and exit points by signaling potential shifts in [market](../m/market.md) direction based on the crossings above or below the zero line and signal line.
+ The RVI can help pinpoint optimal entry and exit points by signaling potential shifts in [market](../m/market.md) direction based on the crossings above or below the zero line and signal line.
 
 4. **Filter for Other Indicators:**
-   The Relative Vigor [Index](../i/index_instrument.md) can be used alongside other [technical analysis](../t/technical_analysis.md) indicators to filter out [false signals](../f/false_signals_in_trading.md) and enhance trading accuracy.
+ The Relative Vigor [Index](../i/index_instrument.md) can be used alongside other [technical analysis](../t/technical_analysis.md) indicators to filter out [false signals](../f/false_signals_in_trading.md) and enhance trading accuracy.
 
 ## Limitations
 
@@ -84,7 +84,7 @@ def relative_vigor_index(df, period=10, signal_period=4):
     [return](../r/return.md) df[['RVI', 'Signal_Line']]
 
 # Example usage
-data = pd.DataFrame({
+data = pd.DataFrame{
     '[Open](../o/open.md)': [...],
     'High': [...],
     'Low': [...],
@@ -97,9 +97,9 @@ print(rvi_df.tail())
 
 ## Application in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), the implementation of the Relative Vigor [Index](../i/index_instrument.md) can be automated to create [trading strategies](../t/trading_strategies.md) and signals. For instance, using `Zipline`, a Pythonic [algorithmic trading](../a/accountability.md) library, you could create a strategy that buys or sells assets based on RVI signals.
+In [algorithmic trading](../a/algorithmic_trading.md), the implementation of the Relative Vigor [Index](../i/index_instrument.md) can be automated to create [trading strategies](../t/trading_strategies.md) and signals. For instance, using `Zipline`, a Pythonic [algorithmic trading](../a/algorithmic_trading.md) library, you could create a strategy that buys or sells assets based on RVI signals.
 
-Given the complex nature of RVI, its integration within an [algorithmic trading](../a/accountability.md) strategy often includes [backtesting](../b/backtesting.md) to validate its efficacy under different [market](../m/market.md) conditions. This can help in adjusting the parameters for optimal performance.
+Given the complex nature of RVI, its integration within an [algorithmic trading](../a/algorithmic_trading.md) strategy often includes [backtesting](../b/backtesting.md) to validate its efficacy under different [market](../m/market.md) conditions. This can help in adjusting the parameters for optimal performance.
 
 ## Conclusion
 

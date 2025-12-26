@@ -69,4 +69,4 @@ Uncle Sam also plays a vital role in shaping public perception regarding financi
 
 Looking ahead, Uncle Sam [will](../w/will.md) likely continue to evolve in response to shifting economic landscapes. Topics such as economic inequality, healthcare [financing](../f/financing.md), and sustainable development present new challenges and opportunities for Uncle Sam's role in guiding the nation's financial future.
 
-For more insights into specific aspects of Uncle Sam's role in financial oversight, you can explore resources such as [The Treasury Department](https://home.treasury.gov/) and [The Federal Reserve System](https://www.federalreserve.gov/).
+For more insights into specific aspects of Uncle Sam's role in financial oversight, you can explore resources such as The Treasury Department and The Federal Reserve System.

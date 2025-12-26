@@ -20,13 +20,13 @@ Neural network [backtesting](../b/backtesting.md) is a critical process in [algo
 
 [Backtesting](../b/backtesting.md) a neural network trading model involves several steps and requires suitable frameworks and tools. Notable frameworks include:
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides cloud-based [infrastructure](../i/infrastructure.md) and integrates with numerous datasets. [QuantConnect](https://www.quantconnect.com/)
+1. **[QuantConnect](../q/quantconnect.md)**: An [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. It provides cloud-based [infrastructure](../i/infrastructure.md) and integrates with numerous datasets. QuantConnect
 
-2. **[Backtrader](../b/backtrader.md)**: A Python-based [backtesting](../b/backtesting.md) library that offers flexibility in strategy development and extensive data sources. [Backtrader](https://www.backtrader.com/)
+2. **[Backtrader](../b/backtrader.md)**: A Python-based [backtesting](../b/backtesting.md) library that offers flexibility in strategy development and extensive data sources. Backtrader
 
-3. **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library written in Python and maintained by Quantopian. It is used in conjunction with Python and Pandas for efficient [backtesting](../b/backtesting.md). [Zipline](https://www.zipline.io/)
+3. **Zipline**: An [open](../o/open.md)-source [backtesting](../b/backtesting.md) library written in Python and maintained by Quantopian. It is used in conjunction with Python and Pandas for efficient [backtesting](../b/backtesting.md). Zipline
 
-4. **[Keras](../k/keras.md) and [TensorFlow](../t/tensorflow.md)**: [Keras](../k/keras.md), in conjunction with [TensorFlow](../t/tensorflow.md), is often used to build and train [neural networks](../n/neural_networks_in_trading.md). These frameworks facilitate the integration of [deep learning](../d/deep_learning.md) models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
+4. **[Keras](../k/keras.md) and [TensorFlow](../t/tensorflow.md)**: [Keras](../k/keras.md), in conjunction with [TensorFlow](../t/tensorflow.md), is often used to build and train [neural networks](../n/neural_networks_in_trading.md). These frameworks facilitate the integration of [deep learning](../d/deep_learning.md) models with [backtesting](../b/backtesting.md) libraries like Zipline and [Backtrader](../b/backtrader.md). Keras, TensorFlow
 
 ### Backtesting Steps
 
@@ -117,7 +117,7 @@ print(f"[Total Return](../t/total_return.md): {total_return * 100:.2f}%")
 
 Several firms and platforms utilize neural network-based [backtesting](../b/backtesting.md) to refine and deploy [trading algorithms](../t/trading_algorithms.md). For instance:
 
-- **Turing AI**: A company that provides AI-driven investment solutions, using neural network [backtesting](../b/backtesting.md) for strategy validation. [Turing AI](https://www.turing.com/)
+- **Turing AI**: A company that provides AI-driven investment solutions, using neural network [backtesting](../b/backtesting.md) for strategy validation. Turing AI
 
 - **[Hedge](../h/hedge.md) Funds**: Various [hedge](../h/hedge.md) funds use proprietary neural network [backtesting](../b/backtesting.md) frameworks to evaluate and implement high-frequency [trading strategies](../t/trading_strategies.md).
 

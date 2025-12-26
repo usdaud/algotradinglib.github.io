@@ -57,7 +57,7 @@ To effectively [trade](../t/trade.md) [upside](../u/upside.md) [volume](../v/vol
 
 1. **Trading Platforms**: Platforms like MetaTrader, [Thinkorswim](../t/thinkorswim.md), and [TradeStation](../t/tradestation.md) [offer](../o/offer.md) advanced charting and analysis tools essential for identifying and trading breakouts.
 2. **[Market Scanners](../m/market_scanners.md)**: Tools such as [Trade](../t/trade.md)-Ideas, Finviz, and StockFetcher help scan for [stocks](../s/stock.md) showing potential [breakout](../b/breakout.md) patterns.
-3. **Educational Resources**: Websites like Investopedia, BabyPips, and specialized trading courses (e.g., through websites like [Investimonials](https://investimonials.com) or financial educators like Timothy Sykes) provide valuable insights and strategies.
+3. **Educational Resources**: Websites like Investopedia, BabyPips, and specialized trading courses (e.g., through websites like Investimonials or financial educators like Timothy Sykes) provide valuable insights and strategies.
 
 ## Example of an Upside Volume Breakout
 

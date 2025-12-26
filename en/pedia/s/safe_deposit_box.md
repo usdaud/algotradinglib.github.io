@@ -20,7 +20,7 @@ Safe [deposit](../d/deposit.md) boxes come in various sizes, often ranging from 
 
 ### Security
 
-One of the primary benefits of using a safe [deposit](../d/deposit.md) box is enhanced [security](../s/security.md). Banks [offer](../o/offer.md) advanced [security](../s/security.md) features to safeguard the contents from theft, unauthorized access, and natural disasters. 
+One of the primary benefits of using a safe [deposit](../d/deposit.md) box is enhanced [security](../s/security.md). Banks [offer](../o/offer.md) advanced [security](../s/security.md) features to safeguard the contents from theft, unauthorized access, and natural disasters.
 
 ### Privacy
 
@@ -117,7 +117,7 @@ Financial technology (fintech) companies are collaborating with traditional bank
 2. **Multi-[factor](../f/factor.md) Authentication**: Enhanced [security](../s/security.md) through multi-[factor](../f/factor.md) authentication methods.
 3. **[Blockchain](../b/blockchain_in_trading.md)**: Using [blockchain](../b/blockchain_in_trading.md) for proof of existence and secure [transaction](../t/transaction.md) history regarding stored digital items.
 
-For example, technology providers like DigitalSafe® ([https://www.digitalsafe.com](https://www.digitalsafe.com)) are focusing on securing digital assets with advanced encryption methods and [offering](../o/offering.md) additional features like secure data sharing and document management.
+For example, technology providers like DigitalSafe® ( are focusing on securing digital assets with advanced encryption methods and [offering](../o/offering.md) additional features like secure data sharing and document management.
 
 ## Conclusion
 

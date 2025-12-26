@@ -16,7 +16,7 @@ Mill was heavily influenced by the utilitarian philosophy of Jeremy Bentham and 
 
 ### Utilitarianism
 
-Published in 1863, "[Utilitarianism](../u/utilitarianism.md)" is one of Mill's most famous works. In this book, he offers a more nuanced version of Bentham's [utilitarianism](../u/utilitarianism.md), emphasizing qualitative differences between pleasures. Mill argues that intellectual and moral pleasures (higher pleasures) are superior to more physical forms of pleasure (lower pleasures). This differentiation helps address some criticisms of Bentham's original formulation, which was often accused of being too simplistic. 
+Published in 1863, "[Utilitarianism](../u/utilitarianism.md)" is one of Mill's most famous works. In this book, he offers a more nuanced version of Bentham's [utilitarianism](../u/utilitarianism.md), emphasizing qualitative differences between pleasures. Mill argues that intellectual and moral pleasures (higher pleasures) are superior to more physical forms of pleasure (lower pleasures). This differentiation helps address some criticisms of Bentham's original formulation, which was often accused of being too simplistic.
 
 ### On Liberty
 

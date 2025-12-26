@@ -58,13 +58,13 @@ Heuristic [optimization](../o/optimization.md) methods, such as [simulated annea
 ## Practical Applications
 
 ### Institutional Portfolio Management
-Institutions like [hedge](../h/hedge.md) funds and pension funds employ sophisticated algorithms to manage large portfolios and achieve specific [risk](../r/risk.md)-[return](../r/return.md) objectives. Services like those provided by BlackRock's Aladdin platform [leverage](../l/leverage.md) advanced analytics for optimal portfolio construction. More information about BlackRock's Aladdin can be found here: [BlackRock Aladdin](https://www.blackrock.com/aladdin/products/aladdin).
+Institutions like [hedge](../h/hedge.md) funds and pension funds employ sophisticated algorithms to manage large portfolios and achieve specific [risk](../r/risk.md)-[return](../r/return.md) objectives. Services like those provided by BlackRock's Aladdin platform [leverage](../l/leverage.md) advanced analytics for optimal portfolio construction. More information about BlackRock's Aladdin can be found here: BlackRock Aladdin.
 
 ### Robo-Advisors
-Robo-advisors like Betterment and Wealthfront use algorithm-driven strategies to construct and manage portfolios for retail investors, providing low-cost, automated investment solutions tailored to individual [risk](../r/risk.md) preferences. More about Wealthfront services can be found here: [Wealthfront](https://www.wealthfront.com).
+Robo-advisors like Betterment and Wealthfront use algorithm-driven strategies to construct and manage portfolios for retail investors, providing low-cost, automated investment solutions tailored to individual [risk](../r/risk.md) preferences. More about Wealthfront services can be found here: Wealthfront.
 
 ### High-Frequency Trading (HFT)
-In high-frequency trading, optimal portfolio algorithms must operate at lightning speed to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies. Companies like Virtu Financial excel in this space, ensuring optimal allocation of [capital](../c/capital.md) on extremely short time scales. More about Virtu Financial can be found here: [Virtu Financial](https://www.virtu.com).
+In high-frequency trading, optimal portfolio algorithms must operate at lightning speed to [capitalize](../c/capitalize.md) on short-term [market](../m/market.md) inefficiencies. Companies like Virtu Financial excel in this space, ensuring optimal allocation of [capital](../c/capital.md) on extremely short time scales. More about Virtu Financial can be found here: Virtu Financial.
 
 ## Challenges and Considerations
 

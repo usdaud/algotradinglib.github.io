@@ -68,17 +68,17 @@ Adopting a culture of continuous improvement ensures that [supply](../s/supply.m
 ### Amazon
 Amazon's [supply](../s/supply.md) chain is a [benchmark](../b/benchmark.md) for [efficiency](../e/efficiency.md) and innovation. Its extensive use of automation, [data analytics](../d/data_analytics.md), and cutting-edge [logistics](../l/logistics.md) practices have set new standards in the [industry](../i/industry.md).
 
-For more detailed information on Amazon's [supply](../s/supply.md) chain practices, visit [Amazon's fulfillment and logistics](https://www.amazon.com/b?ie=UTF8&node=11955898011).
+For more detailed information on Amazon's [supply](../s/supply.md) chain practices, visit Amazon's fulfillment and logistics.
 
 ### IBM
 IBM utilizes [blockchain](../b/blockchain_in_trading.md) technology to enhance [transparency](../t/transparency.md) and [efficiency](../e/efficiency.md) in its [supply](../s/supply.md) chain. The IBM Food [Trust](../t/trust.md) is a prime example of how [blockchain](../b/blockchain_in_trading.md) can be used to track and verify the origins of food products, ensuring safety and sustainability.
 
-Explore IBM's [supply](../s/supply.md) chain solutions on [IBM Blockchain](https://www.ibm.com/blockchain/supply-chain).
+Explore IBM's [supply](../s/supply.md) chain solutions on IBM Blockchain.
 
 ### Tesla
 Tesla's vertically integrated [supply](../s/supply.md) chain allows it greater control over its production processes, leading to enhanced [efficiency](../e/efficiency.md) and responsiveness. This model minimizes reliance on external suppliers and optimizes the production chain from [raw materials](../r/raw_materials.md) to finished products.
 
-Learn more about Tesla's approach on their [official website](https://www.tesla.com/manufacturing).
+
 
 ## Conclusion
 

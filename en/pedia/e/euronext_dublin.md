@@ -18,10 +18,10 @@ The ESM is designed for small to mid-sized companies that are in the growth phas
 The GEM is a specialized [market](../m/market.md) for the listing of [debt](../d/debt.md) securities and investment funds. It is well-regarded for its efficient and cost-effective listing process, which makes it a preferred choice for international issuers. The GEM has a broad [range](../r/range.md) of [listed](../l/listed.md) securities, including bonds, notes, and [asset](../a/asset.md)-backed securities.
 
 ## Listing Services
-[Euronext](../e/euronext.md) Dublin provides a comprehensive suite of listing services. Companies can list various types of securities, including equities, [debt](../d/debt.md) instruments, and funds. The [exchange](../e/exchange.md) supports issuers throughout the listing process, [offering](../o/offering.md) [guidance](../g/guidance.md) on regulatory compliance, [market](../m/market.md) practices, and [investor relations](../i/investor_relations.md).
+[Euronext](../e/euronext.md) Dublin provides a comprehensive suite of listing services. Companies can list various types of securities, including equities, [debt](../d/debt.md) instruments, and funds. The [exchange](../e/exchange.md) supports issuers throughout the listing process, [offering](../o/offering.md) [guidance](../g/guidance.md) on regulatory compliance, [market](../m/market.md) practices, and [company filings](../i/investor_relations.md).
 
 ### Equities
-Listing on [Euronext](../e/euronext.md) Dublin’s [equity](../e/equity.md) markets provides companies with access to a broad base of institutional and retail investors. The [exchange](../e/exchange.md) offers stringent regulations to ensure that [listed](../l/listed.md) companies adhere to high standards of [corporate governance](../c/corporate_governance.md) and [transparency](../t/transparency.md). 
+Listing on [Euronext](../e/euronext.md) Dublin’s [equity](../e/equity.md) markets provides companies with access to a broad base of institutional and retail investors. The [exchange](../e/exchange.md) offers stringent regulations to ensure that [listed](../l/listed.md) companies adhere to high standards of [corporate governance](../c/corporate_governance.md) and [transparency](../t/transparency.md).
 
 ### Debt Instruments
 [Euronext](../e/euronext.md) Dublin is renowned for its efficient process for listing [debt](../d/debt.md) instruments. It offers a flexible framework that accommodates different types of [debt](../d/debt.md) securities, including corporate bonds, sovereign bonds, and structured products. The [exchange](../e/exchange.md) is a favored venue for international [debt](../d/debt.md) issuers due to its quick approval timelines and cost [efficiency](../e/efficiency.md).
@@ -48,7 +48,7 @@ As a part of the [Euronext](../e/euronext.md) Group, [Euronext](../e/euronext.md
 [Euronext](../e/euronext.md) Dublin emphasizes the importance of high standards of [corporate governance](../c/corporate_governance.md). [Listed](../l/listed.md) companies are required to comply with the [Corporate Governance](../c/corporate_governance.md) Code, which sets out principles and guidelines for effective board practices, [shareholder](../s/shareholder.md) rights, and corporate [transparency](../t/transparency.md).
 
 ## Economic Impact
-[Euronext](../e/euronext.md) Dublin has a substantial economic impact, both locally and globally. By providing a [robust](../r/robust.md) platform for [capital](../c/capital.md) raising and investment, the [exchange](../e/exchange.md) supports [business](../b/business.md) growth, job creation, and economic development. 
+[Euronext](../e/euronext.md) Dublin has a substantial economic impact, both locally and globally. By providing a [robust](../r/robust.md) platform for [capital](../c/capital.md) raising and investment, the [exchange](../e/exchange.md) supports [business](../b/business.md) growth, job creation, and economic development.
 
 ## Tech and Innovation
 [Euronext](../e/euronext.md) Dublin is committed to leveraging technology and innovation to enhance its services and maintain its competitive edge. The [exchange](../e/exchange.md) invests in advanced technological solutions and collaborates with fintech companies to drive innovation in trading, [data analytics](../d/data_analytics.md), and regulatory compliance.
@@ -62,7 +62,7 @@ As a part of the [Euronext](../e/euronext.md) Group, [Euronext](../e/euronext.md
 ## Future Prospects
 Looking forward, [Euronext](../e/euronext.md) Dublin aims to strengthen its position as a leading international financial center. The [exchange](../e/exchange.md) plans to expand its product offerings, enhance its technological [infrastructure](../i/infrastructure.md), and continue to [uphold](../u/uphold.md) high standards of governance and compliance.
 
-For more information, visit [Euronext Dublin’s official website](https://www.euronext.com/en/markets/dublin).
+
 
 ## Conclusion
 [Euronext](../e/euronext.md) Dublin plays a pivotal role in the financial services ecosystem, both in Ireland and globally. With its diverse offerings, [robust](../r/robust.md) regulatory framework, and commitment to innovation, it continues to attract a wide [range](../r/range.md) of issuers and investors, fostering [economic growth](../e/economic_growth.md) and development.

@@ -93,19 +93,19 @@ Utilizing NLP to analyze sentiment from news articles, [social media](../s/socia
 ## Leading Companies in Knowledge-Driven Trading
 
 ### 1. Two Sigma
-Two Sigma (https://www.twosigma.com/) employs [machine learning](../m/machine_learning.md), distributed computing, and sophisticated models to manage various investment strategies. Two Sigma's approach is a paragon of knowledge-driven trading using vast amounts of data and advanced technologies.
+Two Sigma ( employs [machine learning](../m/machine_learning.md), distributed computing, and sophisticated models to manage various investment strategies. Two Sigma's approach is a paragon of knowledge-driven trading using vast amounts of data and advanced technologies.
 
 ### 2. Renaissance Technologies
 Noted for its pioneering work in [quantitative trading](../q/quantitative_trading.md), Renaissance Technologies focuses on [systematic trading](../s/systematic_trading.md) strategies derived from complex [mathematical models](../m/mathematical_models_in_trading.md).
 
 ### 3. Numerai
-Numerai (https://numer.ai/) leverages collective intelligence from data scientists worldwide to develop [machine learning](../m/machine_learning.md) models for its [hedge fund](../h/hedge_fund.md).
+Numerai ( leverages collective intelligence from data scientists worldwide to develop [machine learning](../m/machine_learning.md) models for its [hedge fund](../h/hedge_fund.md).
 
 ### 4. AQR Capital Management
-AQR (https://www.aqr.com/) integrates economic theories with [quantitative analysis](../q/quantitative_analysis.md) to manage its diverse suite of investment strategies.
+AQR ( integrates economic theories with [quantitative analysis](../q/quantitative_analysis.md) to manage its diverse suite of investment strategies.
 
 ### 5. Point72
-Point72 (https://www.point72.com/) employs data scientists and quantitative researchers to develop [alpha](../a/alpha.md)-generating strategies using [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md).
+Point72 ( employs data scientists and quantitative researchers to develop [alpha](../a/alpha.md)-generating strategies using [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md).
 
 ## Challenges and Future Directions
 

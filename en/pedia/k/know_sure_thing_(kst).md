@@ -15,29 +15,29 @@ The KST [indicator](../i/indicator.md) takes [multiple](../m/multiple.md) rates 
 The KST can be computed using the following steps:
 
 1. **Calculate the Rate of Change (ROC) for [multiple](../m/multiple.md) time periods**.
-   
-   - ROC1 = (Current Price / Price N1 periods ago) - 1
-   - ROC2 = (Current Price / Price N2 periods ago) - 1
-   - ROC3 = (Current Price / Price N3 periods ago) - 1
-   - ROC4 = (Current Price / Price N4 periods ago) - 1
+
+ - ROC1 = (Current Price / Price N1 periods ago) - 1
+ - ROC2 = (Current Price / Price N2 periods ago) - 1
+ - ROC3 = (Current Price / Price N3 periods ago) - 1
+ - ROC4 = (Current Price / Price N4 periods ago) - 1
 
 2. **Smooth each ROC with a moving average (usually a simple moving average (SMA)).**
 
-   - SMA1 = SMA(ROC1, Period1)
-   - SMA2 = SMA(ROC2, Period2)
-   - SMA3 = SMA(ROC3, Period3)
-   - SMA4 = SMA(ROC4, Period4)
+ - SMA1 = SMA(ROC1, Period1)
+ - SMA2 = SMA(ROC2, Period2)
+ - SMA3 = SMA(ROC3, Period3)
+ - SMA4 = SMA(ROC4, Period4)
 
-3. **Assign weights to each smoothed ROC.** 
+3. **Assign weights to each smoothed ROC.**
 
-   - [Weighted](../w/weighted.md) ROC1 = Weight1 * SMA1
-   - [Weighted](../w/weighted.md) ROC2 = Weight2 * SMA2
-   - [Weighted](../w/weighted.md) ROC3 = Weight3 * SMA3
-   - [Weighted](../w/weighted.md) ROC4 = Weight4 * SMA4
+ - [Weighted](../w/weighted.md) ROC1 = Weight1 * SMA1
+ - [Weighted](../w/weighted.md) ROC2 = Weight2 * SMA2
+ - [Weighted](../w/weighted.md) ROC3 = Weight3 * SMA3
+ - [Weighted](../w/weighted.md) ROC4 = Weight4 * SMA4
 
 4. **Combine the [weighted](../w/weighted.md) SMAs** to generate the KST [value](../v/value.md).
 
-   - KST = [Weighted](../w/weighted.md) ROC1 + [Weighted](../w/weighted.md) ROC2 + [Weighted](../w/weighted.md) ROC3 + [Weighted](../w/weighted.md) ROC4
+ - KST = [Weighted](../w/weighted.md) ROC1 + [Weighted](../w/weighted.md) ROC2 + [Weighted](../w/weighted.md) ROC3 + [Weighted](../w/weighted.md) ROC4
 
 By summing these [weighted](../w/weighted.md) and smoothed rates of change, the [indicator](../i/indicator.md) becomes more [robust](../r/robust.md) and less susceptible to [market](../m/market.md) [noise](../n/noise.md).
 
@@ -99,7 +99,6 @@ You would then sum the [weighted](../w/weighted.md) SMAs to generate the KST. If
 For those interested in deeper learning, Martin Pring has several resources available:
 
 - **Books**: "[Technical Analysis](../t/technical_analysis.md) Explained" by Martin Pring
-- **Website**: [Pring Turner](https://www.pring.com)
 
 ## Conclusion
 

@@ -55,11 +55,11 @@ In the case of MBS, the [mortgage](../m/mortgage.md) payments from borrowers are
 
 ### Private Equity Funds
 
-[Private equity](../p/private_equity.md) funds often use waterfall structures to align the interests of [fund](../f/fund.md) managers and investors. For example, Blackstone Group, a leading [private equity](../p/private_equity.md) [firm](../f/firm.md), employs waterfall structures to ensure that their [fund](../f/fund.md) managers are incentivized to maximize returns for investors. More information about Blackstone's [private equity](../p/private_equity.md) operations can be found on their [official website](https://www.blackstone.com/our-businesses/private-equity/).
+[Private equity](../p/private_equity.md) funds often use waterfall structures to align the interests of [fund](../f/fund.md) managers and investors. For example, Blackstone Group, a leading [private equity](../p/private_equity.md) [firm](../f/firm.md), employs waterfall structures to ensure that their [fund](../f/fund.md) managers are incentivized to maximize returns for investors. More information about Blackstone's [private equity](../p/private_equity.md)
 
 ### Collateralized Loan Obligations (CLOs)
 
-CLOs are another common application of the waterfall concept. A CLO pools together various loans, such as corporate loans, and then issues [tranches](../t/tranches.md) to investors. Each tranche has a different [risk](../r/risk.md)/[return](../r/return.md) profile based on the waterfall structure of cash flows. For more details on CLOs and their structure, the [LSTA (Loan Syndications and Trading Association)](https://www.lsta.org/) provides comprehensive resources and articles.
+CLOs are another common application of the waterfall concept. A CLO pools together various loans, such as corporate loans, and then issues [tranches](../t/tranches.md) to investors. Each tranche has a different [risk](../r/risk.md)/[return](../r/return.md) profile based on the waterfall structure of cash flows. For more details on CLOs and their structure, the LSTA (Loan Syndications and Trading Association) provides comprehensive resources and articles.
 
 ## Conclusion
 

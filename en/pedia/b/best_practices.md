@@ -125,4 +125,4 @@ Staying updated with the latest trends, technologies, and methodologies in [algo
 ## Conclusion
 [Algorithmic trading](../a/accountability.md) offers significant advantages, but it requires meticulous planning, [robust](../r/robust.md) [risk management](../r/risk_management.md), and continuous monitoring. By adhering to these best practices, traders can enhance the effectiveness and reliability of their [trading algorithms](../t/trading_algorithms.md), paving the way for sustained success in the competitive [financial markets](../f/financial_market.md).
 
-For further reading and resources, consider exploring offerings from leading institutions and companies in the [algorithmic trading](../a/accountability.md) space such as [QuantConnect](../q/quantconnect.md) (https://www.[quantconnect](../q/quantconnect.md).com/).
+For further reading and resources, consider exploring offerings from leading institutions and companies in the [algorithmic trading](../a/accountability.md) space such as [StockSharp](../s/stocksharp.md).

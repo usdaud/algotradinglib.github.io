@@ -43,22 +43,22 @@ Profitability in convertible [arbitrage](../a/arbitrage.md) arises when the [fai
 ### Citadel LLC
 
 Citadel is a prominent global financial institution known for its various [hedge fund strategies](../h/hedge_fund_strategies.md), including convertible [arbitrage](../a/arbitrage.md). Their comprehensive approach involves sophisticated [risk management](../r/risk_management.md) and [data analytics](../d/data_analytics.md).
-Website: [Citadel LLC](https://www.citadel.com/)
+online platform: Citadel LLC
 
 ### Millennium Management
 
 Millennium Management is another major player in [hedge fund strategies](../h/hedge_fund_strategies.md), including convertible [arbitrage](../a/arbitrage.md). They focus on diversified investment strategies and rigorous [risk management](../r/risk_management.md) procedures.
-Website: [Millennium Management](https://www.mlp.com/)
+online platform: Millennium Management
 
 ### Two Sigma Investments
 
 Two Sigma leverages [data science](../d/data_science_in_trading.md) and technology to execute sophisticated [market](../m/market.md) strategies like convertible [arbitrage](../a/arbitrage.md). Their focus on [quantitative analysis](../q/quantitative_analysis.md) helps identify viable [arbitrage](../a/arbitrage.md) opportunities.
-Website: [Two Sigma Investments](https://www.twosigma.com/)
+online platform: Two Sigma Investments
 
 ### DE Shaw Group
 
 The DE Shaw Group employs a variety of quantitative and computational strategies, including convertible [arbitrage](../a/arbitrage.md), to achieve high returns for their investors.
-Website: [DE Shaw Group](https://www.deshaw.com/)
+online platform: DE Shaw Group
 
 ## Calculation Example
 
@@ -80,4 +80,4 @@ As the stock price changes, you must adjust the short position by re-evaluating 
 
 ## Conclusion
 
-Convertible [arbitrage](../a/arbitrage.md) requires advanced analytical skills, significant [capital](../c/capital.md), and a deep understanding of [market dynamics](../m/market_dynamics.md). Although [lucrative](../l/lucrative.md), the strategy involves [multiple](../m/multiple.md) types of risks, which necessitates comprehensive [risk management](../r/risk_management.md) protocols. Institutional investors and [hedge](../h/hedge.md) funds are generally well-equipped to conduct such [arbitrage](../a/arbitrage.md) given their access to sophisticated tools and technologies.
+Convertible [arbitrage](../a/arbitrage.md) requires advanced analytical skills, significant [capital](../c/capital.md), and a deep understanding of [market dynamics](../m/market_dynamics.md). Although [lucrative](../l/lucrative.md), the strategy involves [multiple](../m/multiple.md) types of risks, which necessitates comprehensive [risk management](../r/risk_management.md) protocols. Institutional investors and [hedge](../h/hedge.md) funds are generally well-equipped to conduct such [arbitrage](../a/arbitrage.md) given their access to sophisticated tools and technologies.

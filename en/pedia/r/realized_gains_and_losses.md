@@ -50,10 +50,10 @@ The choice between FIFO and LIFO can significantly impact the calculation of rea
 Some large institutions and high-frequency trading firms are prime examples of applying realized gains and losses principles effectively.
 
 ### Renaissance Technologies
-Renaissance Technologies is one of the most well-known firms utilizing [algorithmic trading](../a/algorithmic_trading.md). Accurate tracking of realized gains and losses allows them to fine-tune their models and comply with tax laws. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies is one of the most well-known firms utilizing [algorithmic trading](../a/algorithmic_trading.md). Accurate tracking of realized gains and losses allows them to fine-tune their models and comply with tax laws. Renaissance Technologies
 
 ### Citadel Securities
-Citadel Securities is another major player in the high-frequency trading space. Their sophisticated [trading algorithms](../t/trading_algorithms.md) and real-time [data analytics](../d/data_analytics.md) depend heavily on precise computations of realized gains and losses to maximize [efficiency](../e/efficiency.md) and profitability. [Citadel Securities](https://www.citadelsecurities.com/)
+Citadel Securities is another major player in the high-frequency trading space. Their sophisticated [trading algorithms](../t/trading_algorithms.md) and real-time [data analytics](../d/data_analytics.md) depend heavily on precise computations of realized gains and losses to maximize [efficiency](../e/efficiency.md) and profitability. Citadel Securities
 
 ## Tools and Software for Tracking
 Several tools and software are available to help algorithmic traders track their realized gains and losses accurately.
@@ -68,7 +68,7 @@ Firms often develop custom solutions tailored to their specific needs. These sys
 Several companies provide specialized services to help track and report gains and losses. These services are particularly valuable for smaller firms that may not have the resources to develop internal solutions.
 
 ## Challenges and Pitfalls
-Tracking realized gains and losses in [algorithmic trading](../a/algorithmic_trading.md) is not without its challenges. 
+Tracking realized gains and losses in [algorithmic trading](../a/algorithmic_trading.md) is not without its challenges.
 
 ### High Volume of Data
 The sheer [volume](../v/volume.md) of transactions can make accurate tracking difficult. Each [trade](../t/trade.md) needs to be recorded and accounted for, which becomes complex as the number of trades increases.

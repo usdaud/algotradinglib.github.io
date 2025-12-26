@@ -49,13 +49,13 @@ The [payout ratio](../p/payout_ratio.md) is the proportion of [earnings](../e/ea
 ## Case Studies and Examples
 
 ### Apple Inc.
-Apple [AAPL](https://www.apple.com/) is known for its significant cash reserves and has been returning cash to shareholders via dividends and [share buybacks](../s/share_buybacks.md). The company declared a cash [dividend](../d/dividend.md) of $0.22 per share in the third quarter of 2021.
+Apple AAPL is known for its significant cash reserves and has been returning cash to shareholders via dividends and [share buybacks](../s/share_buybacks.md). The company declared a cash [dividend](../d/dividend.md) of $0.22 per share in the third quarter of 2021.
 
 ### Johnson & Johnson
-Johnson & Johnson [JNJ](https://www.jnj.com/) is another example of a company with a long history of paying consistent and growing dividends. As of early 2023, the company declared a quarterly cash [dividend](../d/dividend.md) of $1.13 per share.
+Johnson & Johnson JNJ is another example of a company with a long history of paying consistent and growing dividends. As of early 2023, the company declared a quarterly cash [dividend](../d/dividend.md) of $1.13 per share.
 
 ### Dividend Aristocrats
-The term "[Dividend](../d/dividend.md) Aristocrats" refers to companies that have consistently increased their dividends for 25 years or more. Examples include Coca-Cola [KO](https://www.coca-colacompany.com) and Procter & Gamble [PG](https://us.pg.com).
+The term "[Dividend](../d/dividend.md) Aristocrats" refers to companies that have consistently increased their dividends for 25 years or more. Examples include Coca-Cola KO and Procter & Gamble PG.
 
 ## Risks and Concerns
 

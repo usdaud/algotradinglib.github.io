@@ -2,6 +2,8 @@
 
 A Zero Coupon [Swap](../s/swap.md) (ZCS) is a type of [interest rate swap](../i/interest_rate_swap.md) in which the [interest](../i/interest.md) on the [notional principal amount](../n/notional_principal_amount.md) is paid entirely at the end of the [swap](../s/swap.md)'s life. Unlike standard [interest rate swaps](../i/interest_rate_swaps.md) where periodic [interest](../i/interest.md) payments are exchanged between the involved parties, a ZCS involves a single [payment](../p/payment.md) at the end of the [swap](../s/swap.md) term. This makes it an appealing [financial instrument](../f/financial_instrument.md) for companies and financial institutions looking to manage [interest rate risk](../i/interest_rate_risk.md) or achieve specific financial objectives.
 
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
+
 ## Components of Zero Coupon Swaps
 
 Zero Coupon Swaps, like other swaps, consist of several key components that define the contract:
@@ -81,4 +83,4 @@ For [accounting](../a/accounting.md) purposes, ZCS must be reported according to
 
 Zero Coupon Swaps are sophisticated financial instruments that serve [multiple](../m/multiple.md) purposes, from hedging and [speculation](../s/speculation.md) to managing cash flows and balance sheets. While they [offer](../o/offer.md) benefits in terms of tailored [interest rate](../i/interest_rate.md) exposure, they also come with risks that must be carefully managed. [Valuation](../v/valuation.md) complexity, regulatory compliance, and [counterparty risk](../c/counterparty_risk.md) are key considerations for anyone looking to enter into a ZCS agreement.
 
-For more specific details and tailor-made structured swaps solutions, you can explore offerings from financial service providers such as [J.P. Morgan](https://www.jpmorgan.com) or [Goldman Sachs](https://www.goldmansachs.com).
+For more specific details and tailor-made structured swaps solutions, you can explore offerings from financial service providers such as J.P. Morgan or Goldman Sachs.

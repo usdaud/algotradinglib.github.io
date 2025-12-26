@@ -39,9 +39,6 @@ Following the [reinvestment](../r/reinvestment.md) period, the CLO enters the am
 ### CLO Managers
 CLO managers are responsible for selecting and managing the portfolio of loans that back the CLO. Their role involves assessing the [creditworthiness](../c/creditworthiness.md) of loans, buying and selling loans to optimize performance, and managing the risks within the portfolio. Examples of notable CLO managers include:
 
-- **Blackstone [Credit](../c/credit.md)**: [Website](https://www.blackstone.com/our-businesses/credit/)
-- **Carlyle Group**: [Website](https://www.carlyle.com/)
-- **PGIM [Fixed Income](../f/fixed_income.md)**: [Website](https://www.pgim.com/fixed-income)
 
 ### Originating Banks
 These are the institutions that originate the loans which go into the CLOs. They play a crucial role in providing the raw material for CLO [securitization](../s/securitization.md). Large [investment banks](../i/investment_bank_(ib).md) often act as originators.

@@ -19,17 +19,17 @@ Under the temporal method, monetary items, such as cash, receivables, and payabl
 #### Exchange Rates
 
 - **Current Rate**: The [exchange rate](../e/exchange_rate.md) prevailing at the end of the reporting period.
-  
+
 - **Historical Rate**: The [exchange rate](../e/exchange_rate.md) in effect at the time an [asset](../a/asset.md) or [liability](../l/liability.md) was initially recognized.
-  
+
 - **Average Rate**: An average of the [exchange](../e/exchange.md) rates over the reporting period, often used for translating [revenue](../r/revenue.md) and [expense](../e/expense.md) items.
 
 ### Application Steps
 
 1. **Monetary Items Translation**: Monetary assets and liabilities are translated at the [exchange rate](../e/exchange_rate.md) in effect at the [balance sheet](../b/balance_sheet.md) date.
-   
+
 2. **Non-Monetary Items Translation**: Non-monetary assets and liabilities are translated at the [exchange rate](../e/exchange_rate.md) that was in effect at the time the [asset](../a/asset.md) was acquired or the [liability](../l/liability.md) was created.
-   
+
 3. **[Revenue](../r/revenue.md) and [Expense](../e/expense.md) Items Translation**: These items are generally translated using the average [exchange rate](../e/exchange_rate.md) for the period, except for significant transactions which are translated at the rate on the [transaction](../t/transaction.md) date.
 
 4. **[Equity](../e/equity.md) Translation**: [Equity](../e/equity.md) items, such as [common stock](../c/common_stock.md) and [retained earnings](../r/retained_earnings.md), are translated at historical rates.
@@ -41,14 +41,14 @@ Under the temporal method, monetary items, such as cash, receivables, and payabl
 Consider a multinational company with operations in Europe. Assume the [functional currency](../f/functional_currency.md) of the European subsidiary is the [Euro](../e/euro.md) (€). The company needs to translate its [Euro](../e/euro.md)-denominated [financial statements](../f/financial_statements.md) into US Dollars ($) for [consolidation](../c/consolidation.md) into the [parent company](../p/parent_company.md)'s [financial statements](../f/financial_statements.md).
 
 - **Monetary assets** like cash and receivables are translated at the current [exchange rate](../e/exchange_rate.md), say 1 USD = 0.85 EUR, as of the [balance sheet](../b/balance_sheet.md) date.
-  
+
 - **Non-monetary assets** like equipment purchased at an earlier time are translated at the historical rate, say 1 USD = 0.75 EUR, which was the [exchange rate](../e/exchange_rate.md) when the equipment was acquired.
 
 - **Revenues and expenses** are translated at the average [exchange rate](../e/exchange_rate.md) for the reporting period, for example, 1 USD = 0.80 EUR.
 
 ### Impact and Considerations
 
-The temporal method can lead to significant translation gains and losses due to the [volatility](../v/volatility.md) in [exchange](../e/exchange.md) rates. These gains and losses can affect a company’s [financial performance](../f/financial_performance.md) as reported in its consolidated [financial statements](../f/financial_statements.md). 
+The temporal method can lead to significant translation gains and losses due to the [volatility](../v/volatility.md) in [exchange](../e/exchange.md) rates. These gains and losses can affect a company’s [financial performance](../f/financial_performance.md) as reported in its consolidated [financial statements](../f/financial_statements.md).
 
 - **[Volatility](../v/volatility.md) in [Earnings](../e/earnings.md)**: Since translation gains and losses are included in the [income statement](../i/income_statement.md), companies using the temporal method may exhibit greater [volatility](../v/volatility.md) in their reported [earnings](../e/earnings.md).
 
@@ -61,5 +61,5 @@ The temporal method can lead to significant translation gains and losses due to 
 The temporal method is a vital tool for multinational corporations with foreign operations. It provides a systematic approach for translating [financial statements](../f/financial_statements.md) into the [home](../h/home.md) [currency](../c/currency.md), considering the timing of transactions and the nature of different financial statement items. While it can introduce [volatility](../v/volatility.md) into reported [earnings](../e/earnings.md), it also offers a nuanced view of a company's [financial performance](../f/financial_performance.md) and position in an international context. Understanding and effectively implementing the temporal method is essential for accurate financial reporting and maintaining regulatory compliance in a globalized [economy](../e/economy.md).
 
 For further details, companies often refer to [accounting](../a/accounting.md) guidelines provided by authorities such as the [Financial Accounting](../f/financial_accounting.md) Standards Board (FASB) or the International Financial Reporting Standards (IFRS) Foundation. One can visit their official web pages for more in-depth resources:
-- [FASB](https://www.fasb.org/)
-- [IFRS Foundation](https://www.ifrs.org/)
+- FASB
+- IFRS Foundation

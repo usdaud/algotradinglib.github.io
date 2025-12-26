@@ -16,7 +16,7 @@ The normal [distribution](../d/distribution.md), also known as the [Gaussian dis
 In trading, the normal [distribution](../d/distribution.md) is heavily utilized in [risk management](../r/risk_management.md) to model potential future outcomes:
 
 1. **[Value](../v/value.md) at [Risk](../r/risk.md) (VaR)**: VaR is a statistical technique used to measure the [risk](../r/risk.md) of loss on a portfolio. Using the normal [distribution](../d/distribution.md), traders can estimate the probability of a portfolio experiencing a loss above a certain threshold.
-   
+
 2. **Expected [Shortfall](../s/shortfall.md)**: While VaR gives a threshold [value](../v/value.md), the expected [shortfall](../s/shortfall.md) provides the average of losses that exceed this threshold, [offering](../o/offering.md) a more comprehensive view of the [tail risk](../t/tail_risk.md), which is the [risk](../r/risk.md) of extreme price movements.
 
 ### Pricing Models
@@ -24,10 +24,10 @@ In trading, the normal [distribution](../d/distribution.md) is heavily utilized 
 Several pricing models in trading assume that returns are normally distributed:
 
 1. **[Black-Scholes Model](../b/black-scholes_model.md)**: This model, used for pricing [European options](../e/european_options.md), relies on the assumption that the returns of the [underlying asset](../u/underlying_asset.md) follow a normal [distribution](../d/distribution.md). The model calculates the option price by [discounting](../d/discounting.md) the expected payoff at [maturity](../m/maturity.md) under the [risk](../r/risk.md)-[neutral](../n/neutral.md) measure.
-   - Find more information on [Black-Scholes Model](https://www.investopedia.com/terms/b/blackscholes.asp)
+ - Find more information on Black-Scholes Model
 
 2. **Modern Portfolio Theory (MPT)**: Developed by [Harry Markowitz](../h/harry_markowitz.md), MPT uses the normal [distribution](../d/distribution.md) to assess the [expected return](../e/expected_return.md) and [risk](../r/risk.md) of a portfolio of assets. By considering the mean and variance ([standard deviation](../s/standard_deviation.md) squared), MPT helps in the construction of an optimal portfolio that maximizes [return](../r/return.md) for a given level of [risk](../r/risk.md).
-   - For more insights, visit the concept on [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp)
+ - For more insights, visit the concept on Modern Portfolio Theory
 
 ### Statistical Arbitrage
 
@@ -37,10 +37,10 @@ Statistical [arbitrage](../a/arbitrage.md) strategies often rely on the assumpti
 
 In [technical analysis](../t/technical_analysis.md), normal [distribution](../d/distribution.md) is used to create [Bollinger Bands](../b/bollinger_bands.md), a popular technical [indicator](../i/indicator.md):
 
-1. **[Bollinger Bands](../b/bollinger_bands.md)**: These bands consist of a moving average (typically a 20-day simple moving average) and two standard deviations plotted above and below the moving average. 
-   - When the price of an [asset](../a/asset.md) moves towards the upper band, it is often considered [overbought](../o/overbought.md), indicating a potential sell signal.
-   - Conversely, when the price moves towards the lower band, it is considered [oversold](../o/oversold.md), indicating a potential buy signal.
-   - More about [Bollinger Bands](../b/bollinger_bands.md) can be found on [John Bollinger's website](https://www.bollingerbands.com)
+1. **[Bollinger Bands](../b/bollinger_bands.md)**: These bands consist of a moving average (typically a 20-day simple moving average) and two standard deviations plotted above and below the moving average.
+ - When the price of an [asset](../a/asset.md) moves towards the upper band, it is often considered [overbought](../o/overbought.md), indicating a potential sell signal.
+ - Conversely, when the price moves towards the lower band, it is considered [oversold](../o/oversold.md), indicating a potential buy signal.
+ - More about [Bollinger Bands](../b/bollinger_bands.md) can be found on John Bollinger's online platform
 
 ## Limitations in Real-World Trading
 
@@ -56,17 +56,17 @@ Financial returns are often skewed and do not perfectly follow a normal [distrib
 
 [Asset](../a/asset.md) returns often exhibit [volatility clustering](../v/volatility_clustering.md), where periods of high [volatility](../v/volatility.md) are followed by more high [volatility](../v/volatility.md), and periods of low [volatility](../v/volatility.md) are followed by more low [volatility](../v/volatility.md). This phenomenon contradicts the assumption of constant [volatility](../v/volatility.md) in the normal [distribution](../d/distribution.md):
 
-1. **ARCH/[GARCH Models](../g/garch_models.md)**: To address [volatility clustering](../v/volatility_clustering.md), traders utilize Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (ARCH) and Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) models that allow for changing [volatility](../v/volatility.md) over time. 
-   - Learn about these models on [Robert Engle's ARCH resource page](http://www.engle-newyork.com)
+1. **ARCH/[GARCH Models](../g/garch_models.md)**: To address [volatility clustering](../v/volatility_clustering.md), traders utilize Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (ARCH) and Generalized Autoregressive Conditional [Heteroskedasticity](../h/heteroskedasticity.md) (GARCH) models that allow for changing [volatility](../v/volatility.md) over time.
+ - Learn about these models in Robert Engle's ARCH work.
 
 ## Alternatives to Normal Distribution
 
 Given these limitations, traders and [risk](../r/risk.md) managers also consider alternative distributions that better capture the characteristics of [asset](../a/asset.md) returns:
 
 1. **[Log-Normal Distribution](../l/log-normal_distribution.md)**: This [distribution](../d/distribution.md) assumes that the logarithm of returns, rather than the returns themselves, is normally distributed. It prevents negative prices, which is suitable for modeling stock prices.
-  
+
 2. **Student's t-[Distribution](../d/distribution.md)**: This [distribution](../d/distribution.md) has heavier tails than the normal [distribution](../d/distribution.md), providing a better fit for the large price movements observed in [financial markets](../f/financial_market.md).
-  
+
 3. **Stable Distributions**: These distributions, such as the Lévy [distribution](../d/distribution.md), can model the heavy tails and [skewness](../s/skewness.md) observed in financial data while accommodating the self-similar properties over different time scales.
 
 ## Conclusion

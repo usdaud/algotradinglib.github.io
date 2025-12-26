@@ -1,6 +1,6 @@
 # Introduction to Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md), often referred to as algo-trading, refers to the use of special software and algorithms to execute trading orders. These algorithms are designed to execute strategies and make trading decisions at speeds and frequencies that are beyond human capability. The primary aim is to [leverage](../l/leverage.md) computational power and sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to [gain](../g/gain.md) a [competitive advantage](../c/competitive_advantage.md) in the [financial markets](../f/financial_market.md).
+[Algorithmic trading](../a/algorithmic_trading.md), often referred to as algo-trading, refers to the use of special software and algorithms to execute trading orders. These algorithms are designed to execute strategies and make trading decisions at speeds and frequencies that are beyond human capability. The primary aim is to [leverage](../l/leverage.md) computational power and sophisticated [mathematical models](../m/mathematical_models_in_trading.md) to [gain](../g/gain.md) a [competitive advantage](../c/competitive_advantage.md) in the [financial markets](../f/financial_market.md).
 
 # Essential Components of Algorithmic Trading
 
@@ -20,13 +20,13 @@ Algorithms in trading involve a set of rules and instructions programmed to perf
 Trading platforms are software applications that facilitate the [execution](../e/execution.md) of trades through a [broker](../b/broker.md)'s system. They provide interfaces for designing, testing, and executing [trading algorithms](../t/trading_algorithms.md).
 
 ### Examples:
-- **MetaTrader:** This popular platform is used for forex trading and offers [robust](../r/robust.md) [algorithmic trading](../a/accountability.md) capabilities.
+- **MetaTrader:** This popular platform is used for forex trading and offers [robust](../r/robust.md) [algorithmic trading](../a/algorithmic_trading.md) capabilities.
 - **[NinjaTrader](../n/ninjatrader.md):** Designed for [futures](../f/futures.md) and forex trading, it provides advanced charting and analytics.
 
 ## 3. **Data Feeds**
 
 ### Description:
-Accurate and timely data feed is crucial for [algorithmic trading](../a/accountability.md). Data feeds provide real-time information about [market](../m/market.md) conditions, including price, [volume](../v/volume.md), and other relevant metrics.
+Accurate and timely data feed is crucial for [algorithmic trading](../a/algorithmic_trading.md). Data feeds provide real-time information about [market](../m/market.md) conditions, including price, [volume](../v/volume.md), and other relevant metrics.
 
 ### Providers:
 - **[Bloomberg](../b/bloomberg.md):** Offers comprehensive financial data services.
@@ -58,7 +58,6 @@ Accurate and timely data feed is crucial for [algorithmic trading](../a/accounta
 Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_trading.md), [machine learning](../m/machine_learning.md), and distributed computing for [investment management](../i/investment_management.md).
 
 ### Link:
-[Two Sigma](https://www.twosigma.com/)
 
 ## 2. **Citadel Securities**
 
@@ -66,7 +65,6 @@ Two Sigma leverages [artificial intelligence](../a/artificial_intelligence_in_tr
 Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquidity](../l/liquidity.md) provider in the [financial markets](../f/financial_market.md).
 
 ### Link:
-[Citadel Securities](https://www.citadelsecurities.com/)
 
 ## 3. **Jump Trading**
 
@@ -74,7 +72,6 @@ Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquid
 [Jump Trading](../j/jump_trading.md) is a research-driven [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) focused on algorithmic and high-frequency trading.
 
 ### Link:
-[Jump Trading](https://www.jumptrading.com/)
 
 ## 4. **DE Shaw**
 
@@ -82,7 +79,6 @@ Citadel Securities is a leading [market maker](../m/market_maker.md) and [liquid
 DE Shaw employs sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms for managing investment strategies.
 
 ### Link:
-[DE Shaw](https://www.deshaw.com/)
 
 # Techniques and Strategies in Algorithmic Trading
 
@@ -136,7 +132,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves using statistical models to 
 [Backtesting](../b/backtesting.md) software allows traders to test their algorithms on historical data to evaluate performance.
 
 ### Examples:
-- **[QuantConnect](../q/quantconnect.md):** An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and strategy development.
+- **[StockSharp](../s/stocksharp.md):** An [open](../o/open.md)-source platform for [backtesting](../b/backtesting.md) and strategy development.
 - **[TradingView](../t/tradingview.md):** Provides tools to backtest and analyze [trading strategies](../t/trading_strategies.md).
 
 ## 2. **Statistical Analysis Tools**
@@ -172,7 +168,7 @@ Manipulative practices, such as [spoofing](../s/spoofing.md) (placing fake order
 ## 3. **Compliance**
 
 ### Description:
-Regulatory bodies, like the SEC in the United States, enforce rules to ensure [algorithmic trading](../a/accountability.md) practices are fair and transparent.
+Regulatory bodies, like the SEC in the United States, enforce rules to ensure [algorithmic trading](../a/algorithmic_trading.md) practices are fair and transparent.
 
 ## 4. **Transparency and Accountability**
 
@@ -184,7 +180,7 @@ Firms are required to maintain [transparency](../t/transparency.md) in their tra
 ## 1. **Artificial Intelligence**
 
 ### Description:
-AI is poised to revolutionize [algorithmic trading](../a/accountability.md) by enhancing predictive analysis and decision-making capabilities.
+AI is poised to revolutionize [algorithmic trading](../a/algorithmic_trading.md) by enhancing predictive analysis and decision-making capabilities.
 
 ## 2. **Quantum Computing**
 
@@ -212,7 +208,7 @@ The Internet of Things (IoT) can provide real-time data from various sources, en
 ## 5. **RegTech**
 
 ### Description:
-[RegTech](../r/regtech.md) refers to the use of technology for regulatory compliance, which [will](../w/will.md) be increasingly important as regulatory scrutiny of [algorithmic trading](../a/accountability.md) grows.
+[RegTech](../r/regtech.md) refers to the use of technology for regulatory compliance, which [will](../w/will.md) be increasingly important as regulatory scrutiny of [algorithmic trading](../a/algorithmic_trading.md) grows.
 
 ### Solutions:
 - **Automated Compliance:** Systems that automatically adapt to regulatory changes.
@@ -220,4 +216,4 @@ The Internet of Things (IoT) can provide real-time data from various sources, en
 
 # Conclusion
 
-[Algorithmic trading](../a/accountability.md) represents a sophisticated and rapidly evolving aspect of [financial markets](../f/financial_market.md). By leveraging data, advanced algorithms, and computational power, traders can achieve greater [efficiency](../e/efficiency.md) and precision. However, it is equally important to address the ethical and regulatory considerations to ensure fair and transparent [market](../m/market.md) practices. The future of [algorithmic trading](../a/accountability.md) appears promising, with advancements in AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) technology poised to bring further innovations to this dynamic field.
+[Algorithmic trading](../a/algorithmic_trading.md) represents a sophisticated and rapidly evolving aspect of [financial markets](../f/financial_market.md). By leveraging data, advanced algorithms, and computational power, traders can achieve greater [efficiency](../e/efficiency.md) and precision. However, it is equally important to address the ethical and regulatory considerations to ensure fair and transparent [market](../m/market.md) practices. The future of [algorithmic trading](../a/algorithmic_trading.md) appears promising, with advancements in AI, [quantum computing](../q/quantum_computing_in_trading.md), and [blockchain](../b/blockchain_in_trading.md) technology poised to bring further innovations to this dynamic field.

@@ -40,12 +40,12 @@ JPY [futures](../f/futures.md) and [options](../o/options.md) are prevalent in [
 Several key financial institutions influence and participate in the Yen markets, including:
 
 - **[Bank](../b/bank.md) of Japan (BOJ)**: As Japan's central [bank](../b/bank.md), the BOJ plays a pivotal role in [currency](../c/currency.md) stabilization and [monetary policy](../m/monetary_policy.md).
-- **Mitsubishi UFJ Financial Group**: One of the largest financial groups in Japan, playing a significant role in both domestic and international markets. [Mitsubishi UFJ Financial Group](https://www.mufg.jp/english/).
-- **Nomura [Holdings](../h/holdings.md)**: A prominent global investment [bank](../b/bank.md) headquartered in Tokyo. [Nomura](https://www.nomura.com/).
-- **Sumitomo Mitsui Financial Group**: A leading financial group providing various banking services. [Sumitomo Mitsui Financial Group](https://www.smfg.co.jp/english/).
+- **Mitsubishi UFJ Financial Group**: One of the largest financial groups in Japan, playing a significant role in both domestic and international markets. Mitsubishi UFJ Financial Group.
+- **Nomura [Holdings](../h/holdings.md)**: A prominent global investment [bank](../b/bank.md) headquartered in Tokyo. Nomura.
+- **Sumitomo Mitsui Financial Group**: A leading financial group providing various banking services. Sumitomo Mitsui Financial Group.
 
 ## Yen and Algorithmic Trading
-In the realm of modern [finance](../f/finance.md), the Japanese Yen plays a crucial role in [algorithmic trading](../a/accountability.md). [Algorithmic trading](../a/accountability.md) utilizes computer algorithms to [trade](../t/trade.md) financial securities at high frequency and speed, based on pre-programmed instructions. The [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md) of the Yen make it an attractive target for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
+In the realm of modern [finance](../f/finance.md), the Japanese Yen plays a crucial role in [algorithmic trading](../a/algorithmic_trading.md). [Algorithmic trading](../a/algorithmic_trading.md) utilizes computer algorithms to [trade](../t/trade.md) financial securities at high frequency and speed, based on pre-programmed instructions. The [liquidity](../l/liquidity.md) and [volatility](../v/volatility.md) of the Yen make it an attractive target for [algorithmic trading strategies](../a/algorithmic_trading_strategies.md).
 
 ### Common Algorithmic Trading Strategies Involving the Yen
 - **[Arbitrage](../a/arbitrage.md)**: Exploiting price discrepancies in Yen across different markets or financial instruments.
@@ -54,7 +54,7 @@ In the realm of modern [finance](../f/finance.md), the Japanese Yen plays a cruc
 - **[Trend Following](../t/trend_following.md)**: Algorithms that detect and [capitalize](../c/capitalize.md) on trends in the Yen's [market](../m/market.md) movements.
 
 ### Technology in JPY Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) relies heavily on technology, including:
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on technology, including:
 
 - **[Execution Algorithms](../e/execution_algorithms.md)**: Designed to minimize the [market](../m/market.md) impact of large trades in the Yen.
 - **Latency Reduction**: Utilizing high-speed connections and proximity to exchanges to reduce latency.
@@ -64,7 +64,7 @@ In the realm of modern [finance](../f/finance.md), the Japanese Yen plays a cruc
 Japan's [financial markets](../f/financial_market.md) are governed by several regulatory bodies ensuring [transparency](../t/transparency.md), fairness, and integrity:
 
 - **Financial Services Agency (FSA)**: The FSA oversees banking, securities, and [exchange](../e/exchange.md) regulations.
-- **Japan [Exchange](../e/exchange.md) Group (JPX)**: JPX manages major Japanese exchanges like the Tokyo Stock [Exchange](../e/exchange.md). [Japan Exchange Group](https://www.jpx.co.jp/english/).
+- **Japan [Exchange](../e/exchange.md) Group (JPX)**: JPX manages major Japanese exchanges like the Tokyo Stock [Exchange](../e/exchange.md). Japan Exchange Group.
 
 The regulatory environment plays a vital role in maintaining [market](../m/market.md) stability and protecting [investor](../i/investor.md) interests, which in turn affects the strength and reliability of the Yen in global markets.
 

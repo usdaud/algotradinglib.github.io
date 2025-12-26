@@ -26,15 +26,15 @@ In the realm of [finance](../f/finance.md), [investing](../i/investing.md) takes
 
 #### Index Funds
 
-[Index](../i/index_instrument.md) funds are mutual funds or ETFs designed to track the performance of a specific [index](../i/index_instrument.md). They are managed passively by purchasing the same securities in the same proportions as the [index](../i/index_instrument.md) they follow. 
+[Index](../i/index_instrument.md) funds are mutual funds or ETFs designed to track the performance of a specific [index](../i/index_instrument.md). They are managed passively by purchasing the same securities in the same proportions as the [index](../i/index_instrument.md) they follow.
 
-- **Vanguard 500 [Index Fund](../i/index_fund.md) (https://[investor](../i/investor.md).vanguard.com/mutual-funds/profile/VFINX)**: It tracks the S&P 500 [index](../i/index_instrument.md) and is one of the most popular [options](../o/options.md) among passive investors.
+- **Vanguard 500 [Index Fund](../i/index_fund.md) ( It tracks the S&P 500 [index](../i/index_instrument.md) and is one of the most popular [options](../o/options.md) among passive investors.
 
 #### Exchange-Traded Funds (ETFs)
 
 ETFs operate similarly to [index](../i/index_instrument.md) funds but [trade](../t/trade.md) on an [exchange](../e/exchange.md) like a stock. They [offer](../o/offer.md) flexibility, [liquidity](../l/liquidity.md), and lower [expense](../e/expense.md) ratios.
 
-- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) (https://www.ssga.com/us/en/institutional/etfs/funds/spdr-sp-500-etf-[trust](../t/trust.md)-spy)**: It is designed to provide investment results that correspond to the price and [yield](../y/yield.md) performance of the S&P 500 [Index](../i/index_instrument.md).
+- **SPDR S&P 500 ETF [Trust](../t/trust.md) (SPY) ( It is designed to provide investment results that correspond to the price and [yield](../y/yield.md) performance of the S&P 500 [Index](../i/index_instrument.md).
 
 ### Advantages
 
@@ -71,7 +71,7 @@ Active [investing](../i/investing.md) involves continuously monitoring and manag
 
 Active mutual funds have managers who actively select securities to buy and sell in pursuit of beating the [market](../m/market.md). [Hedge](../h/hedge.md) funds often use more aggressive strategies and [leverage](../l/leverage.md).
 
-- **Fidelity Contrafund (https://fundresearch.fidelity.com/mutual-funds/summary/316071109)**: Managed by Fidelity, this [fund](../f/fund.md) seeks [capital](../c/capital.md) appreciation by [investing](../i/investing.md) in companies that exhibit strong growth potential.
+- **Fidelity Contrafund ( Managed by Fidelity, this [fund](../f/fund.md) seeks [capital](../c/capital.md) appreciation by [investing](../i/investing.md) in companies that exhibit strong growth potential.
 
 #### Stock Picking and Market Timing
 

@@ -68,15 +68,15 @@ Although gold [futures](../f/futures.md) are generally [liquid](../l/liquid.md),
 
 ### CME Group
 
-The Chicago Mercantile [Exchange](../e/exchange.md) (CME) operates one of the largest marketplaces for gold [futures](../f/futures.md). Information on contract specifications and trading can be found on their website: [CME Group](https://www.cmegroup.com/).
+The Chicago Mercantile [Exchange](../e/exchange.md) (CME) operates one of the largest marketplaces for gold [futures](../f/futures.md). Information on contract specifications and trading can be found through its online channels: CME Group.
 
 ### Tokyo Commodity Exchange (TOCOM)
 
-The Tokyo [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) also offers gold [futures](../f/futures.md) trading. Visit their website for more information: [TOCOM](http://www.tocom.or.jp/).
+The Tokyo [Commodity](../c/commodity.md) [Exchange](../e/exchange.md) also offers gold [futures](../f/futures.md) trading.
 
 ### London Metal Exchange (LME)
 
-The London Metal [Exchange](../e/exchange.md) provides trading for a variety of metals including gold. More details are available here: [LME](https://www.lme.com/).
+The London Metal [Exchange](../e/exchange.md) provides trading for a variety of metals including gold. More details are available here: LME.
 
 ## Conclusion
 

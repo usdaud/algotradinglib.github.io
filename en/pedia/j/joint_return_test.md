@@ -1,6 +1,6 @@
 # Joint Return Test
 
-The [Joint Return](../j/joint_return.md) Test is a statistical method used in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/accountability.md) to analyze the relationship between the returns of different assets. This powerful tool aims to provide insights into the [joint](../j/joint.md) [distribution](../d/distribution.md) of returns for [multiple](../m/multiple.md) assets, which can be crucial for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and developing [trading strategies](../t/trading_strategies.md).
+The [Joint Return](../j/joint_return.md) Test is a statistical method used in the field of [quantitative finance](../q/quantitative_finance.md) and [algorithmic trading](../a/algorithmic_trading.md) to analyze the relationship between the returns of different assets. This powerful tool aims to provide insights into the [joint](../j/joint.md) [distribution](../d/distribution.md) of returns for [multiple](../m/multiple.md) assets, which can be crucial for [portfolio optimization](../p/portfolio_optimization.md), [risk management](../r/risk_management.md), and developing [trading strategies](../t/trading_strategies.md).
 
 ## Overview
 
@@ -17,16 +17,16 @@ The [Joint Return](../j/joint_return.md) Test relies on various statistical tech
 ### Covariance and Correlation
 
 1. **[Covariance](../c/covariance.md):** Measures how two assets move together. A positive [covariance](../c/covariance.md) indicates that the assets move in the same direction, while a negative [covariance](../c/covariance.md) indicates they move in opposite directions.
-  
-   \[
-   \text{Cov}(X, Y) = E[(X - \mu_X)(Y - \mu_Y)]
-   \]
+
+ \[
+ \text{Cov}(X, Y) = E[(X - \mu_X)(Y - \mu_Y)]
+ \]
 
 2. **[Correlation](../c/correlation.md):** Standardizes [covariance](../c/covariance.md) by the product of the assets' standard deviations, ranging from -1 to 1. A [correlation](../c/correlation.md) of 1 means perfect positive relationship, -1 signifies a perfect negative relationship, and 0 means no relationship.
 
-   \[
-   \text{Corr}(X, Y) = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
-   \]
+ \[
+ \text{Corr}(X, Y) = \frac{\text{Cov}(X, Y)}{\sigma_X \sigma_Y}
+ \]
 
 ### Multivariate Normal Distribution
 
@@ -82,7 +82,7 @@ Implementation typically involves the following steps:
 
 ### Data Collection
 
-Gather historical [return](../r/return.md) data for the assets under consideration. This data can be sourced from financial databases such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or API services provided by trading platforms like [Interactive Brokers](https://www.interactivebrokers.com).
+Gather historical [return](../r/return.md) data for the assets under consideration. This data can be sourced from financial databases such as [Bloomberg](../b/bloomberg.md), [Reuters](../r/reuters.md), or API services provided by trading platforms like Interactive Brokers.
 
 ### Data Cleaning and Preparation
 
@@ -119,11 +119,11 @@ principalComponents = pca.fit_transform(data)
 
 ### Backtesting
 
-Backtest the strategy based on insights from the [Joint Return](../j/joint_return.md) Test to ensure its viability in historical data. Use platforms like [QuantConnect](https://www.quantconnect.com) for [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities.
+Backtest the strategy based on insights from the [Joint Return](../j/joint_return.md) Test to ensure its viability in historical data. Use platforms like QuantConnect for [robust](../r/robust.md) [backtesting](../b/backtesting.md) capabilities.
 
 ### Live Trading
 
-Once validated, implement the strategy in live trading environments. Platforms like [MetaTrader](https://www.metatrader4.com), [AlgoTrader](https://www.algotrader.com), or [QuantConnect](https://www.quantconnect.com) provide infrastructures for deploying algorithmic strategies.
+Once validated, implement the strategy in live trading environments. Platforms like MetaTrader, AlgoTrader, or QuantConnect provide infrastructures for deploying algorithmic strategies.
 
 ## Challenges and Considerations
 
@@ -145,4 +145,4 @@ Analyzing and modeling [joint](../j/joint.md) returns for large portfolios can b
 
 ## Conclusion
 
-The [Joint Return](../j/joint_return.md) Test is a fundamental tool in [algorithmic trading](../a/accountability.md), providing valuable insights into the relationships between [asset](../a/asset.md) returns. By leveraging statistical techniques and [multivariate analysis](../m/multivariate_analysis.md), traders can optimize portfolios, manage [risk](../r/risk.md), and develop profitable [trading strategies](../t/trading_strategies.md). However, it is vital to recognize the limitations and challenges associated with this method to effectively harness its potential.
+The [Joint Return](../j/joint_return.md) Test is a fundamental tool in [algorithmic trading](../a/algorithmic_trading.md), providing valuable insights into the relationships between [asset](../a/asset.md) returns. By leveraging statistical techniques and [multivariate analysis](../m/multivariate_analysis.md), traders can optimize portfolios, manage [risk](../r/risk.md), and develop profitable [trading strategies](../t/trading_strategies.md). However, it is vital to recognize the limitations and challenges associated with this method to effectively harness its potential.

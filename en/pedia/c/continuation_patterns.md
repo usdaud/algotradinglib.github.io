@@ -30,7 +30,7 @@ Pennants are similar to flags but differ in shape. Instead of a rectangle, penna
 ### Triangles
 
 Triangles are common continuation patterns that can take several forms:
-  
+
 - **Ascending Triangles**
 - **Descending Triangles**
 - **Symmetrical Triangles**
@@ -76,12 +76,12 @@ Continuation patterns are crucial for [algorithmic trading](../a/algorithmic_tra
 
 ### Renaissance Technologies
 
-Renaissance Technologies, a highly regarded quantitative [hedge fund](../h/hedge_fund.md), is known for leveraging continuation patterns and other [technical analysis](../t/technical_analysis.md) tools in its [trading strategies](../t/trading_strategies.md). Renaissance employs sophisticated algorithms and [machine learning](../m/machine_learning.md) models to analyze [market](../m/market.md) data and identify profitable trading opportunities. More information about their approach can be found on their [official website](https://www.rentec.com/).
+Renaissance Technologies, a highly regarded quantitative [hedge fund](../h/hedge_fund.md), is known for leveraging continuation patterns and other [technical analysis](../t/technical_analysis.md) tools in its [trading strategies](../t/trading_strategies.md). Renaissance employs sophisticated algorithms and [machine learning](../m/machine_learning.md) models to analyze [market](../m/market.md) data and identify profitable trading opportunities.
 
 ### Two Sigma
 
-Two Sigma, another leading quantitative [hedge fund](../h/hedge_fund.md), also utilizes continuation patterns as part of its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)'s multi-faceted approach involves employing advanced algorithms and [machine learning](../m/machine_learning.md) techniques to analyze [market](../m/market.md) trends and execute trades. Additional details about their methodology can be found on their [official website](https://www.twosigma.com/).
+Two Sigma, another leading quantitative [hedge fund](../h/hedge_fund.md), also utilizes continuation patterns as part of its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md)'s multi-faceted approach involves employing advanced algorithms and [machine learning](../m/machine_learning.md) techniques to analyze [market](../m/market.md) trends and execute trades.
 
 ## Conclusion
 
-Continuation patterns are invaluable tools in the [technical analysis](../t/technical_analysis.md) arsenal, [offering](../o/offering.md) insights into the future direction of [market](../m/market.md) trends. Their application in [algorithmic trading](../a/algorithmic_trading.md) has revolutionized the way traders approach the markets, providing a systematic and data-driven method to [capitalize](../c/capitalize.md) on price movements. By understanding and leveraging flags, pennants, triangles, and rectangles, traders can enhance their [trading strategies](../t/trading_strategies.md) and improve their chances of success in the [financial markets](../f/financial_market.md).
+Continuation patterns are invaluable tools in the [technical analysis](../t/technical_analysis.md) arsenal, [offering](../o/offering.md) insights into the future direction of [market](../m/market.md) trends. Their application in [algorithmic trading](../a/algorithmic_trading.md) has revolutionized the way traders approach the markets, providing a systematic and data-driven method to [capitalize](../c/capitalize.md) on price movements. By understanding and leveraging flags, pennants, triangles, and rectangles, traders can enhance their [trading strategies](../t/trading_strategies.md) and improve their chances of success in the [financial markets](../f/financial_market.md).

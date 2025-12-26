@@ -42,7 +42,7 @@ Modern Portfolio Theory (MPT), introduced by [Harry Markowitz](../h/harry_markow
 ### 7. Tools and Platforms
 
 Several tools and platforms facilitate [yield](../y/yield.md)-[risk](../r/risk.md) [optimization](../o/optimization.md) in [algorithmic trading](../a/algorithmic_trading.md), including:
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) capabilities.
+- **[StockSharp](../s/stocksharp.md)**: An [open](../o/open.md)-source platform providing [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md) capabilities.
 - **[Quantlib](../q/quantlib.md)**: A [quantitative finance](../q/quantitative_finance.md) library for modeling, trading, and [risk management](../r/risk_management.md).
 - **MATLAB**: Offers [robust](../r/robust.md) tools for mathematical modeling, including [optimization](../o/optimization.md) toolboxes.
 - **Python Libraries**: Pandas, NumPy, SciPy, and PyPortfolioOpt are commonly used for financial data analysis and [optimization](../o/optimization.md).
@@ -95,7 +95,3 @@ Compliance with regulatory standards is essential in [algorithmic trading](../a/
 [Yield](../y/yield.md)-[Risk](../r/risk.md) [Optimization](../o/optimization.md) is a dynamic and crucial aspect of [algorithmic trading](../a/algorithmic_trading.md), demanding a deep understanding of [finance](../f/finance.md), mathematics, and computer science. By balancing the quest for higher returns with the imperative of managing [risk](../r/risk.md), traders can develop [robust](../r/robust.md) strategies that stand the test of time and [market](../m/market.md) fluctuations. As technology and [data analytics](../d/data_analytics.md) continue to advance, the sophistication and efficacy of [yield](../y/yield.md)-[risk](../r/risk.md) [optimization](../o/optimization.md) in [algorithmic trading](../a/algorithmic_trading.md) are expected to grow, [offering](../o/offering.md) new opportunities and challenges to traders worldwide.
 
 For more information, visit:
-[QuantConnect](https://www.quantconnect.com)
-[Quantlib](https://www.quantlib.org)
-[MATLAB](https://www.mathworks.com)
-[PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/)

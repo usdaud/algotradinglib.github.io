@@ -47,13 +47,13 @@ Independent [credit rating](../c/credit_rating.md) agencies such as Moody's, Sta
 ## Major Players and Platforms
 
 ### Major Issuers
-1. **Goldman Sachs**: A leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md) that is actively involved in the issuance and trading of CMBS. More information can be found on their [website](https://www.goldmansachs.com/).
-2. **J.P. Morgan**: Another major player in the CMBS [market](../m/market.md), [offering](../o/offering.md) a wide array of [investment banking](../i/investment_banking.md) services. Details are available on their [website](https://www.jpmorgan.com/).
-3. **Deutsche [Bank](../b/bank.md)**: An international [bank](../b/bank.md) that provides CMBS [securitization](../s/securitization.md) and trading services. Learn more on their [website](https://www.db.com/).
+1. **Goldman Sachs**: A leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md) that is actively involved in the issuance and trading of CMBS.
+2. **J.P. Morgan**: Another major player in the CMBS [market](../m/market.md), [offering](../o/offering.md) a wide array of [investment banking](../i/investment_banking.md) services.
+3. **Deutsche [Bank](../b/bank.md)**: An international [bank](../b/bank.md) that provides CMBS [securitization](../s/securitization.md) and trading services.
 
 ### Trading Platforms
-1. **Trepp**: A leading provider of CMBS analytics and data services, [offering](../o/offering.md) tools for [risk](../r/risk.md) assessment and pricing. Visit [Trepp's website](https://www.trepp.com/) for more information.
-2. **[Bloomberg](../b/bloomberg.md)**: Through its [Bloomberg Terminal](../b/bloomberg_terminal.md), [Bloomberg](../b/bloomberg.md) provides comprehensive CMBS data, analytics, and trading capabilities. More details can be found on their [website](https://www.bloomberg.com/professional/solution/fixed-income/).
+1. **Trepp**: A leading provider of CMBS analytics and data services, [offering](../o/offering.md) tools for [risk](../r/risk.md) assessment and pricing.
+2. **[Bloomberg](../b/bloomberg.md)**: Through its [Bloomberg Terminal](../b/bloomberg_terminal.md), [Bloomberg](../b/bloomberg.md) provides comprehensive CMBS data, analytics, and trading capabilities. More
 
 ## Regulatory Environment
 

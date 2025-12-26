@@ -18,13 +18,13 @@ The core principle of [scalping](../s/scalping.md) is a quick entry and exit to 
 
 #### C. Small Profits
 
-Each [trade](../t/trade.md) aims for small gains, often a few pips (price [interest](../i/interest.md) points). 
+Each [trade](../t/trade.md) aims for small gains, often a few pips (price [interest](../i/interest.md) points).
 
 ### 3. Popular Quick Scalping Strategies
 
 #### A. Spread Scalping
 
-This approach takes advantage of the [bid-ask spread](../b/bid-ask_spread.md). Traders buy at the [bid price](../b/bid_price.md) and sell at the ask price to pocket the difference. 
+This approach takes advantage of the [bid-ask spread](../b/bid-ask_spread.md). Traders buy at the [bid price](../b/bid_price.md) and sell at the ask price to pocket the difference.
 
 #### B. Momentum Scalping
 
@@ -46,11 +46,10 @@ Platforms like MetaTrader 4, MetaTrader 5, and [NinjaTrader](../n/ninjatrader.md
 
 #### B. High-Frequency Trading Systems
 
-Companies like Virtu Financial (*[Virtu Financial](https://www.virtu.com/)*) and Citadel Securities (*[Citadel Securities](https://www.citadelsecurities.com/)*) specialize in high-frequency trading. They [offer](../o/offer.md) [infrastructure](../i/infrastructure.md) that facilitates rapid [trade](../t/trade.md) [execution](../e/execution.md), a key requirement for [scalping](../s/scalping.md). 
-
+Companies like Virtu Financial (*Virtu Financial*) and Citadel Securities (*Citadel Securities*) specialize in high-frequency trading. They [offer](../o/offer.md) [infrastructure](../i/infrastructure.md) that facilitates rapid [trade](../t/trade.md) [execution](../e/execution.md), a key requirement for [scalping](../s/scalping.md).
 #### C. Market Data Feeds
 
-Access to [real-time market data](../r/real-time_market_data.md) is critical for [scalping](../s/scalping.md). Services like [Bloomberg](../b/bloomberg.md) Terminal (*[Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)*) or Thomson [Reuters](../r/reuters.md) Eikon (*[Thomson Reuters](https://www.refinitiv.com/en/products/eikon-trading-software)*) provide comprehensive [real-time market data](../r/real-time_market_data.md) and analytics.
+Access to [real-time market data](../r/real-time_market_data.md) is critical for [scalping](../s/scalping.md). Services like [Bloomberg](../b/bloomberg.md) Terminal (*Bloomberg*) or Thomson [Reuters](../r/reuters.md) Eikon (*Thomson Reuters*) provide comprehensive [real-time market data](../r/real-time_market_data.md) and analytics.
 
 ### 5. Execution Algorithms
 
@@ -113,8 +112,8 @@ The ability to [handle](../h/handle.md) and quickly recover from losses is essen
 
 [Automated trading bots](../a/automated_trading_bots.md) are integrated into [scalping](../s/scalping.md) strategies to manage the high [execution](../e/execution.md) speed and [volume](../v/volume.md). Platforms such as:
 
-- **[AlgoTrader](../a/algotrader.md)** (*[AlgoTrader](https://www.algotrader.com/)*) provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions specific to [scalping](../s/scalping.md).
-- **Kryll.io** (*[Kryll](https://www.kryll.io/)*) offers drag-and-drop algorithm creation tools tailored for [scalping](../s/scalping.md).
+- **[AlgoTrader](../a/algotrader.md)** (*AlgoTrader*) provides sophisticated [algorithmic trading](../a/algorithmic_trading.md) solutions specific to [scalping](../s/scalping.md).
+- **Kryll.io** (*Kryll*) offers drag-and-drop algorithm creation tools tailored for [scalping](../s/scalping.md).
 
 ### 10. Regulatory Considerations
 

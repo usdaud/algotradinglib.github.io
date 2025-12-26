@@ -88,25 +88,21 @@ External events like geopolitical tensions, natural disasters, or economic crise
 
 Amazon has been one of the biggest beneficiaries of the recent [bull](../b/bull.md) [market](../m/market.md). The company's focus on e-[commerce](../c/commerce.md), [cloud computing](../c/cloud_computing_in_trading.md), and [artificial intelligence](../a/artificial_intelligence_in_trading.md) has driven its stock price to new highs.
 
-[Amazon](https://www.amazon.com)
 
 ### Apple (AAPL)
 
 Apple has also seen significant gains during [bull](../b/bull.md) markets, thanks to its innovative [product line](../p/product_line.md) and strong [brand loyalty](../b/brand_loyalty.md). The company continues to benefit from high [demand](../d/demand.md) for its products and services.
 
-[Apple](https://www.apple.com)
 
 ### Microsoft (MSFT)
 
 Microsoft has been another strong performer in recent [bull](../b/bull.md) markets, driven by its diversified [business](../b/business.md) model that includes software, [cloud computing](../c/cloud_computing_in_trading.md), and gaming.
 
-[Microsoft](https://www.microsoft.com)
 
 ### Tesla (TSLA)
 
 Tesla has been one of the most talked-about companies in recent [bull](../b/bull.md) markets. The company's focus on electric vehicles and renewable energy has attracted a lot of [investor](../i/investor.md) [interest](../i/interest.md).
 
-[Tesla](https://www.tesla.com)
 
 ## Conclusion
 

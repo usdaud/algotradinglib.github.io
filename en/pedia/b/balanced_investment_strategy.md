@@ -43,13 +43,13 @@ Regular [portfolio rebalancing](../p/portfolio_rebalancing.md) is essential to m
 
 ### Robo-Advisors
 Robo-advisors are digital platforms that provide automated, algorithm-driven [financial planning](../f/financial_planning.md) services. They use algorithms to create and manage a balanced portfolio based on the [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) and financial goals. Examples include:
-- Betterment: [betterment.com](https://www.betterment.com)
-- Wealthfront: [wealthfront.com](https://www.wealthfront.com)
+- Betterment: betterment.com
+- Wealthfront: wealthfront.com
 
 ### Mutual Funds and ETFs
 Mutual funds and [exchange](../e/exchange.md)-traded funds (ETFs) [offer](../o/offer.md) diversified exposure to various [asset](../a/asset.md) classes within a single [investment vehicle](../i/investment_vehicle.md). Some funds are specifically designed to maintain a balanced [asset allocation](../a/asset_allocation.md). Examples include:
-- Vanguard Balanced [Index Fund](../i/index_fund.md) (VBINX): [vanguard.com](https://investor.vanguard.com/mutual-funds/profile/VBINX)
-- [iShares](../i/ishares.md) Core Growth Allocation ETF (AOR): [ishares.com](https://www.ishares.com/us/products/239726/ishares-core-growth-allocation-etf)
+- Vanguard Balanced [Index Fund](../i/index_fund.md) (VBINX): vanguard.com
+- [iShares](../i/ishares.md) Core Growth Allocation ETF (AOR): ishares.com
 
 ### Financial Advisors
 Certified financial advisors can provide personalized [guidance](../g/guidance.md) and implement a balanced [investment strategy](../i/investment_strategy.md) tailored to an individual's unique financial situation. They assist with [asset allocation](../a/asset_allocation.md), [diversification](../d/diversification.md), and [rebalancing](../r/rebalancing.md) to ensure long-term financial objectives are met.

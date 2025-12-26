@@ -67,7 +67,7 @@ Companies and governments often rely on [liquid](../l/liquid.md) markets to rais
 ## Challenges and Risks in Liquid Markets
 
 ### Flash Crashes
-Highly [liquid](../l/liquid.md) markets are not immune to sudden, dramatic price declines known as [flash crashes](../f/flash_crashes.md). These can be triggered by a variety of factors, including [algorithmic trading](../a/accountability.md) errors or sudden shifts in [market sentiment](../m/market_sentiment.md).
+Highly [liquid](../l/liquid.md) markets are not immune to sudden, dramatic price declines known as [flash crashes](../f/flash_crashes.md). These can be triggered by a variety of factors, including [algorithmic trading](../a/algorithmic_trading.md) errors or sudden shifts in [market sentiment](../m/market_sentiment.md).
 
 ### Over-Dependence on Technology
 While technology enhances [market efficiency](../m/market_efficiency.md), it can also be a source of [systemic risk](../s/systemic_risk.md). Server downtimes, software bugs, or cyber-attacks can disrupt trading activities, affecting [market](../m/market.md) [liquidity](../l/liquidity.md).
@@ -78,7 +78,7 @@ Regulatory changes aimed at improving [market](../m/market.md) fairness and [tra
 ## Emerging Trends Impacting Market Liquidity
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) has significantly altered the landscape of [market](../m/market.md) [liquidity](../l/liquidity.md). By using algorithms to automatically execute orders, [market](../m/market.md) participants can react more quickly to [market](../m/market.md) conditions, thereby enhancing [liquidity](../l/liquidity.md).
+[Algorithmic trading](../a/algorithmic_trading.md) has significantly altered the landscape of [market](../m/market.md) [liquidity](../l/liquidity.md). By using algorithms to automatically execute orders, [market](../m/market.md) participants can react more quickly to [market](../m/market.md) conditions, thereby enhancing [liquidity](../l/liquidity.md).
 
 ### Decentralized Finance (DeFi)
 Decentralized [finance](../f/finance.md) platforms, which facilitate financial transactions without intermediaries, are gaining traction. This new paradigm could impact [market](../m/market.md) [liquidity](../l/liquidity.md) by providing alternative venues for trading and investment.

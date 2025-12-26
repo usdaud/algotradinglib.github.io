@@ -76,7 +76,7 @@ The ACL has a direct impact on a [bank](../b/bank.md)'s [financial statements](.
 
 ## Case Study: Wells Fargo's Allowance for Credit Losses
 
-Wells Fargo (Corporate Website: [wellsfargo.com](https://www.wellsfargo.com/)) is one of the largest banks in the United States and provides a comprehensive example of how financial institutions manage their Allowance for [Credit](../c/credit.md) Losses. As of the latest available financial reports, Wells Fargo follows the CECL methodology under GAAP to estimate its [credit](../c/credit.md) losses.
+Wells Fargo is one of the largest banks in the United States and provides a comprehensive example of how financial institutions manage their Allowance for [Credit](../c/credit.md) Losses. As of the latest available financial reports, Wells Fargo follows the CECL methodology under GAAP to estimate its [credit](../c/credit.md) losses.
 
 ### Key Aspects of Wells Fargo's ACL Management
 

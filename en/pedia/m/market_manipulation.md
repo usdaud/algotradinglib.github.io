@@ -45,16 +45,16 @@
 Various regulatory bodies globally are tasked with monitoring, detecting, and prosecuting [market](../m/market.md) manipulation activities. Some key regulatory bodies include:
 
 - **United States Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC)**: The SEC enforces securities laws in the United States and takes action against individuals and entities involved in [market](../m/market.md) manipulation.
-  - [SEC Website](https://www.sec.gov/)
+ -
 
 - **[Commodity Futures](../c/commodity_futures.md) Trading [Commission](../c/commission.md) (CFTC)**: The CFTC oversees [futures](../f/futures.md) and [options](../o/options.md) markets in the U.S., ensuring they operate in a transparent and competitive manner.
-  - [CFTC Website](https://www.cftc.gov/)
+ -
 
 - **Financial Conduct Authority (FCA)**: The FCA regulates [financial markets](../f/financial_market.md) in the United Kingdom, aiming to protect consumers and ensure [market](../m/market.md) integrity.
-  - [FCA Website](https://www.fca.org.uk/)
+ -
 
 - **European Securities and Markets Authority (ESMA)**: ESMA is an independent EU authority that ensures the stability of the [European Union](../e/european_union_(eu).md)'s [financial system](../f/financial_system.md).
-  - [ESMA Website](https://www.esma.europa.eu/)
+ -
 
 Regulators employ various tools and measures to detect and combat [market](../m/market.md) manipulation, such as:
 
@@ -92,6 +92,8 @@ Enron [Corporation](../c/corporation.md), an American energy company, was involv
 ### LIBOR Manipulation
 
 The London Interbank Offered Rate (LIBOR) scandal involved several large banks, including Barclays, [UBS](../u/ubs.md), and Deutsche [Bank](../b/bank.md), manipulating the [benchmark](../b/benchmark.md) [interest rate](../i/interest_rate.md) for [profit](../p/profit.md). Traders colluded to submit false rates, affecting global financial contracts worth trillions of dollars. The scandal prompted significant changes in how [benchmark](../b/benchmark.md) rates are calculated.
+
+Note: LIBOR publication ended for most tenors after 2023, and markets shifted to risk-free reference rates such as SOFR (USD), SONIA (GBP), and ESTR (EUR).
 
 ### Volkswagen Emissions Scandal
 

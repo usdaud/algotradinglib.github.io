@@ -57,7 +57,7 @@ While the [exchange](../e/exchange.md) seeks to operate in a decentralized manne
 
 ## API and Algorithmic Trading
 
-[XT](../x/xt.md).COM provides [robust](../r/robust.md) API support for users interested in [algorithmic trading](../a/accountability.md). The API offers a [range](../r/range.md) of functions, including [market](../m/market.md) data retrieval, account management, and [order](../o/order.md) [execution](../e/execution.md). [Algorithmic trading](../a/accountability.md) allows users to implement automated [trading strategies](../t/trading_strategies.md), which can be backtested and optimized for better performance. Key API features include:
+[XT](../x/xt.md).COM provides [robust](../r/robust.md) API support for users interested in [algorithmic trading](../a/algorithmic_trading.md). The API offers a [range](../r/range.md) of functions, including [market](../m/market.md) data retrieval, account management, and [order](../o/order.md) [execution](../e/execution.md). [Algorithmic trading](../a/algorithmic_trading.md) allows users to implement automated [trading strategies](../t/trading_strategies.md), which can be backtested and optimized for better performance. Key API features include:
 
 1. **REST API:** Enables access to [market](../m/market.md) data and [order management](../o/order_management_in_trading.md) functionalities.
 2. **WebSocket API:** Provides [real-time market data](../r/real-time_market_data.md) and [order book](../o/order_book.md) updates.
@@ -66,5 +66,3 @@ While the [exchange](../e/exchange.md) seeks to operate in a decentralized manne
 ## Conclusion
 
 [XT](../x/xt.md).COM has established itself as a reliable and innovative cryptocurrency [exchange](../e/exchange.md), catering to a wide [range](../r/range.md) of traders and investors. With its commitment to [security](../s/security.md), a diverse array of trading [options](../o/options.md), and continuous community engagement, [XT](../x/xt.md).COM is well-positioned to maintain its growth and remain a key player in the cryptocurrency trading landscape.
-
-For more details, visit the official website: [XT.COM](https://www.xt.com/)

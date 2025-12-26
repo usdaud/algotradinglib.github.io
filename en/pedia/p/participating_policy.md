@@ -61,9 +61,9 @@ For individuals seeking financial [security](../s/security.md) for their loved o
 
 Several [insurance](../i/insurance.md) companies [offer](../o/offer.md) participating policies. Some notable examples include:
 
-- **Northwestern Mutual**: A well-known provider of participating [life insurance](../l/life_insurance.md) policies with a long history of [dividend](../d/dividend.md) payments. (Website: [Northwestern Mutual](https://www.northwesternmutual.com))
-- **MassMutual**: Offers participating [whole life insurance](../w/whole_life_insurance.md) policies with various [dividend](../d/dividend.md) [options](../o/options.md) and a strong [financial performance](../f/financial_performance.md) record. (Website: [MassMutual](https://www.massmutual.com))
-- **New York Life**: One of the largest mutual [life insurance](../l/life_insurance.md) companies in the United States, [offering](../o/offering.md) participating policies with competitive [dividend](../d/dividend.md) rates. (Website: [New York Life](https://www.newyorklife.com))
+- **Northwestern Mutual**: A well-known provider of participating [life insurance](../l/life_insurance.md) policies with a long history of [dividend](../d/dividend.md) payments.
+- **MassMutual**: Offers participating [whole life insurance](../w/whole_life_insurance.md) policies with various [dividend](../d/dividend.md) [options](../o/options.md) and a strong [financial performance](../f/financial_performance.md) record.
+- **New York Life**: One of the largest mutual [life insurance](../l/life_insurance.md) companies in the United States, [offering](../o/offering.md) participating policies with competitive [dividend](../d/dividend.md) rates.
 
 ## Conclusion
 

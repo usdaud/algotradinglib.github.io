@@ -5,7 +5,7 @@ A Long [Straddle](../s/straddle.md) is a sophisticated [trading strategy](../t/t
 ## Components of a Long Straddle
 
 1. **[Call Option](../c/call_option.md):** A financial contract that gives the buyer the right, but not the obligation, to buy a specified amount of an [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) within a specified period (until the [expiration date](../e/expiration_date.md)).
-  
+
 2. **[Put Option](../p/put.md):** A financial contract that gives the buyer the right, but not the obligation, to sell a specified amount of an [underlying asset](../u/underlying_asset.md) at a predetermined price ([strike price](../s/strike_price.md)) within a specified period (until the [expiration date](../e/expiration_date.md)).
 
 3. **[Strike Price](../s/strike_price.md):** The set price at which the call and [put options](../p/put_options.md) can be exercised.
@@ -31,7 +31,7 @@ A Long [Straddle](../s/straddle.md) involves buying both a call and a [put optio
 
 - **Unlimited [Profit](../p/profit.md) Potential:** One of the primary advantages of a Long [Straddle](../s/straddle.md) is the unlimited [profit](../p/profit.md) potential. If the [underlying asset](../u/underlying_asset.md) experiences a significant price increase, the [call option](../c/call_option.md) can provide substantial profits. Similarly, if the [asset](../a/asset.md) experiences a substantial price decrease, the [put option](../p/put.md) can lead to significant profits.
 - **Bidirectional Opportunity:** This strategy allows investors to be indifferent to [market](../m/market.md) direction. It capitalizes on significant price movements without having to predict whether the price [will](../w/will.md) go up or down.
-  
+
 ## Breakeven Points
 
 A Long [Straddle](../s/straddle.md) has two breakeven points:
@@ -52,8 +52,8 @@ This means that for the [trade](../t/trade.md) to be profitable, the stock price
 ### Practical Considerations
 
 1. **[Market](../m/market.md) Conditions:** A Long [Straddle](../s/straddle.md) is best employed in markets that are anticipated to experience large swings in price. This can be associated with upcoming [earnings](../e/earnings.md) reports, [geopolitical events](../g/geopolitical_events.md), stock splits, or other significant news.
-  
-2. **[Volatility](../v/volatility.md) Assessment:** Before implementing a Long [Straddle](../s/straddle.md), it’s crucial to evaluate the implied [volatility](../v/volatility.md). Higher implied [volatility](../v/volatility.md) generally leads to higher option premiums. 
+
+2. **[Volatility](../v/volatility.md) Assessment:** Before implementing a Long [Straddle](../s/straddle.md), it’s crucial to evaluate the implied [volatility](../v/volatility.md). Higher implied [volatility](../v/volatility.md) generally leads to higher option premiums.
 
 3. **[Time Horizon](../t/time_horizon.md):** The [expiration date](../e/expiration_date.md) plays a crucial role in the success of this strategy. The longer the time to expiration, the higher the [premium](../p/premium.md) for the [options](../o/options.md) but also more time for a significant price movement to occur.
 
@@ -61,8 +61,8 @@ This means that for the [trade](../t/trade.md) to be profitable, the stock price
 
 Major investment firms and [hedge](../h/hedge.md) funds often employ sophisticated strategies like Long Straddles. For instance:
 
-- **Goldman Sachs**: Known for their complex [trading strategies](../t/trading_strategies.md) and use of [derivatives](../d/derivatives.md), they may use Long Straddles in certain [market](../m/market.md) conditions. [Goldman Sachs](https://www.goldmansachs.com/)
-- **JP Morgan:** Another financial giant that uses a variety of option strategies, including Long Straddles, to manage [risk](../r/risk.md) and [profit](../p/profit.md) from [volatility](../v/volatility.md). [JP Morgan](https://www.jpmorgan.com/)
+- **Goldman Sachs**: Known for their complex [trading strategies](../t/trading_strategies.md) and use of [derivatives](../d/derivatives.md), they may use Long Straddles in certain [market](../m/market.md) conditions. Goldman Sachs
+- **JP Morgan:** Another financial giant that uses a variety of option strategies, including Long Straddles, to manage [risk](../r/risk.md) and [profit](../p/profit.md) from [volatility](../v/volatility.md). JP Morgan
 
 ## Conclusion
 

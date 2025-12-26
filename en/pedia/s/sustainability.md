@@ -44,10 +44,10 @@ Despite its growth and benefits, sustainable [investing](../i/investing.md) face
 
 ## The Role of Technology in Sustainable Trading
 
-Technology plays a pivotal role in promoting sustainability in [finance](../f/finance.md) and trading, particularly in the realm of [algorithmic trading](../a/accountability.md) and fintech innovations.
+Technology plays a pivotal role in promoting sustainability in [finance](../f/finance.md) and trading, particularly in the realm of [algorithmic trading](../a/algorithmic_trading.md) and fintech innovations.
 
 ### Algorithmic Trading:
-In [algorithmic trading](../a/accountability.md), computer algorithms are used to make trading decisions at speeds and frequencies that are impossible for human traders. Sustainable practices in [algorithmic trading](../a/accountability.md) can be implemented by:
+In [algorithmic trading](../a/algorithmic_trading.md), computer algorithms are used to make trading decisions at speeds and frequencies that are impossible for human traders. Sustainable practices in [algorithmic trading](../a/algorithmic_trading.md) can be implemented by:
 - **Integrating ESG Data:** Algorithms can integrate real-time ESG data into trading decisions, prioritizing companies with strong sustainability profiles.
 - **[Risk Assessment Models](../r/risk_assessment_models.md):** Advanced analytics and [machine learning](../m/machine_learning.md) can improve the precision of [risk](../r/risk.md) assessment, incorporating long-term environmental and social factors.
 
@@ -57,7 +57,7 @@ Financial technology (fintech) is enhancing sustainability by [offering](../o/of
 - **[Blockchain](../b/blockchain_in_trading.md) Technology:** Providing greater [transparency](../t/transparency.md) and traceability, [blockchain](../b/blockchain_in_trading.md) technology can track the sustainability of assets and ensure that [green bonds](../g/green_bonds.md) are used for their intended purposes.
 - **Green Fintech Startups:** Numerous fintech startups focus on sustainability, [offering](../o/offering.md) products and services that promote environmental and social benefits, such as carbon footprint tracking apps and platforms for [investing](../i/investing.md) in renewable energy projects.
 
-For example, one can look at the growth and impact of companies like [Bloomberg](https://www.bloomberg.com/), which provides comprehensive ESG [data analytics](../d/data_analytics.md), or [BlackRock](https://www.blackrock.com/) that emphasizes sustainable investment strategies.
+For example, one can look at the growth and impact of companies like Bloomberg, which provides comprehensive ESG [data analytics](../d/data_analytics.md), or BlackRock that emphasizes sustainable investment strategies.
 
 ## Conclusion
 

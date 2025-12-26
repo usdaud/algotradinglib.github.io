@@ -50,7 +50,7 @@ To illustrate how an earnout might work, consider a tech [startup](../s/startup.
 - **Milestone 1**: Launch Product X within 12 months.
 - **Milestone 2**: Achieve $10M in [revenue](../r/revenue.md) within 18 months.
 - **Milestone 3**: Secure 100 enterprise clients within 24 months.
-  
+
 ### Earnout Payments
 
 - **[Payment](../p/payment.md) for Milestone 1**: $2M upon product launch.

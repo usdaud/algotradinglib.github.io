@@ -73,10 +73,10 @@ Companies dealing with [raw materials](../r/raw_materials.md) often face [commod
 
 Several companies have integrated advanced algotrading [hedge](../h/hedge.md) strategies, some of which include:
 
-- **Citadel Securities**: A global [market](../m/market.md)-making [firm](../f/firm.md) utilizing sophisticated algorithms for [risk management](../r/risk_management.md) and [execution](../e/execution.md) (https://www.citadelsecurities.com).
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its use of algotrading in various [financial markets](../f/financial_market.md) (https://www.janestreet.com).
-- **Two Sigma**: Leveraging advanced [data analytics](../d/data_analytics.md) and algorithms in trading and hedging (https://www.twosigma.com).
-- **AQR [Capital](../c/capital.md) Management**: Combining financial theory with sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies (https://www.aqr.com).
+- **Citadel Securities**: A global [market](../m/market.md)-making [firm](../f/firm.md) utilizing sophisticated algorithms for [risk management](../r/risk_management.md) and [execution](../e/execution.md) (
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) known for its use of algotrading in various [financial markets](../f/financial_market.md) (
+- **Two Sigma**: Leveraging advanced [data analytics](../d/data_analytics.md) and algorithms in trading and hedging (
+- **AQR [Capital](../c/capital.md) Management**: Combining financial theory with sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies (
 
 ### Conclusion
 

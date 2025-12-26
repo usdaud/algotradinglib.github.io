@@ -133,25 +133,21 @@ Once validated, the model can be deployed for live trading. This involves integr
 
 ### 1. Renaissance Technologies
 
-[Visit Renaissance Technologies](https://www.rentec.com)
 
 Renaissance Technologies is a renowned [hedge fund](../h/hedge_fund.md) company known for using advanced mathematical and statistical models in their [trading strategies](../t/trading_strategies.md). They employ various [regression techniques](../r/regression_techniques.md) to analyze [market](../m/market.md) data and predict price movements.
 
 ### 2. Two Sigma
 
-[Visit Two Sigma](https://www.twosigma.com)
 
 Two Sigma uses [machine learning](../m/machine_learning.md), AI, and advanced statistical techniques, including regression analysis, to develop [trading strategies](../t/trading_strategies.md). They [leverage](../l/leverage.md) large datasets to identify patterns and make informed trading decisions.
 
 ### 3. AQR Capital Management
 
-[Visit AQR Capital Management](https://www.aqr.com)
 
 AQR [Capital](../c/capital.md) Management focuses on [quantitative investing](../q/quantitative_investing.md) and uses regression analysis extensively to build and optimize their [trading models](../t/trading_models.md). They apply it across various [asset](../a/asset.md) classes to achieve consistent returns.
 
 ### 4. WorldQuant
 
-[Visit WorldQuant](https://www.worldquant.com)
 
 WorldQuant is a global quantitative [asset management](../a/asset_management.md) [firm](../f/firm.md) that uses statistical and [mathematical models](../m/mathematical_models_in_trading.md), including regression analysis, to forecast price movements and execute trades.
 

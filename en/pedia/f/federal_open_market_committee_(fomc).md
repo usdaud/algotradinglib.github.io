@@ -32,7 +32,7 @@ The meetings culminate in a policy statement that typically includes:
 
 ### Open Market Operations (OMOs)
 
-OMOs are a critical tool used by the Federal Reserve to control the [money supply](../m/money_supply.md). Through OMOs, the FOMC buys and sells government securities in the [open market](../o/open_market.md) to influence the amount of reserves in the banking system. 
+OMOs are a critical tool used by the Federal Reserve to control the [money supply](../m/money_supply.md). Through OMOs, the FOMC buys and sells government securities in the [open market](../o/open_market.md) to influence the amount of reserves in the banking system.
 
 When the FOMC buys securities, it increases the reserves of the banks, thus increasing the [money supply](../m/money_supply.md) and typically lowering [interest](../i/interest.md) rates. Conversely, selling securities decreases [bank](../b/bank.md) reserves, reduces the [money supply](../m/money_supply.md), and usually raises [interest](../i/interest.md) rates.
 
@@ -72,4 +72,4 @@ The FOMC emphasizes [transparency](../t/transparency.md) and clear communication
 
 The FOMC plays a crucial role in shaping U.S. economic policy and ensuring financial stability. Its decisions on [interest](../i/interest.md) rates, [money supply](../m/money_supply.md), and forward [guidance](../g/guidance.md) significantly impact the broader [economy](../e/economy.md), affecting everything from [inflation](../i/inflation.md) to employment. Through [open market operations](../o/open_market_operations.md), the setting of [federal funds](../f/federal_funds.md) rates, and forward [guidance](../g/guidance.md), the FOMC seeks to fulfill its dual mandate of promoting maximum employment and price stability.
 
-For further information on the Federal [Open Market](../o/open_market.md) Committee, you can visit [the Federal Reserve's official webpage on the FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm).
+For further information on the Federal [Open Market](../o/open_market.md) Committee, you can visit the Federal Reserve's official webpage on the FOMC.

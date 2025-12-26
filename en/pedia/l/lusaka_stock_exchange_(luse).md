@@ -8,7 +8,7 @@ The Lusaka Stock [Exchange](../e/exchange.md) was inaugurated on February 21, 19
 
 ## Role and Functions
 
-### Capital Mobilization 
+### Capital Mobilization
 
 One of the primary functions of LuSE is to assist companies in raising [capital](../c/capital.md). By listing on the [exchange](../e/exchange.md), companies can [issue](../i/issue.md) [shares](../s/shares.md) to the public and institutional investors, thereby gaining the necessary funds for [expansion](../e/expansion.md), [acquisition](../a/acquisition.md), and other [business activities](../b/business_activities.md).
 
@@ -113,4 +113,4 @@ The future of the Lusaka Stock [Exchange](../e/exchange.md) looks promising, wit
 - **International Collaboration**: Strengthening partnerships with international exchanges and financial institutions to attract [foreign investment](../f/foreign_investment.md) and share [best practices](../b/best_practices.md).
 - **Sustainable [Finance](../f/finance.md)**: Promoting sustainable and green [finance](../f/finance.md) initiatives, such as issuing [green bonds](../g/green_bonds.md), to support environmentally friendly projects and businesses.
 
-In conclusion, the Lusaka Stock [Exchange](../e/exchange.md) is a vital institution in Zambia's financial landscape, contributing to the country's [economic growth](../e/economic_growth.md) and development. Despite facing certain challenges, the [exchange](../e/exchange.md) continues to evolve and adapt, [offering](../o/offering.md) significant opportunities for investors, businesses, and the broader [economy](../e/economy.md). For more information, visit the Lusaka Stock [Exchange](../e/exchange.md)'s official website [here](http://www.luse.co.zm/).
+In conclusion, the Lusaka Stock [Exchange](../e/exchange.md) is a vital institution in Zambia's financial landscape, contributing to the country's [economic growth](../e/economic_growth.md) and development. Despite facing certain challenges, the [exchange](../e/exchange.md) continues to evolve and adapt, [offering](../o/offering.md) significant opportunities for investors, businesses, and the broader [economy](../e/economy.md). For more information, visit the Lusaka Stock [Exchange](../e/exchange.md)'s public materials here.

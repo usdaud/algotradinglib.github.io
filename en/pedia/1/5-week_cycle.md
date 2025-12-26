@@ -87,7 +87,7 @@ A case study involving a prop trading [firm](../f/firm.md) or [asset management]
 **XYZ Trading Co.**
 XYZ Trading Co. specializes in [algorithmic trading](../a/algorithmic_trading.md) strategies and has successfully integrated the 5-week cycle into its [portfolio management](../p/portfolio_management.md) approach. By incorporating statistical models to identify cyclical trends, the [firm](../f/firm.md) has consistently outperformed benchmarks, particularly in [equity](../e/equity.md) markets.
 
-For more information on their services, visit [XYZ Trading Co.](https://www.xyztradingco.com).
+For more information on their services, visit XYZ Trading Co..
 
 ## Advantages and Disadvantages
 
@@ -105,4 +105,4 @@ For more information on their services, visit [XYZ Trading Co.](https://www.xyzt
 
 ## Conclusion
 
-The 5-week cycle presents an intriguing opportunity for traders in [algorithmic trading](../a/algorithmic_trading.md). By using various tools and methods to identify and exploit this cycle, traders can potentially improve their [market](../m/market.md) predictions and overall [trading performance](../t/trading_performance.md). However, it is crucial to be aware of the limitations and to continually refine [trading algorithms](../t/trading_algorithms.md) to adapt to changing [market](../m/market.md) conditions.
+The 5-week cycle presents an intriguing opportunity for traders in [algorithmic trading](../a/algorithmic_trading.md). By using various tools and methods to identify and exploit this cycle, traders can potentially improve their [market](../m/market.md) predictions and overall [trading performance](../t/trading_performance.md). However, it is crucial to be aware of the limitations and to continually refine [trading algorithms](../t/trading_algorithms.md) to adapt to changing [market](../m/market.md) conditions.

@@ -37,27 +37,27 @@ For traders and investors, supranational entities [offer](../o/offer.md) several
 ### International Monetary Fund (IMF)
 The IMF was established to promote international monetary cooperation and [exchange rate](../e/exchange_rate.md) stability, foster [economic growth](../e/economic_growth.md), and provide financial assistance to countries in need. It operates by providing policy advice, loans, and technical assistance to its 190 member countries.
 
-**Website:** [IMF](https://www.imf.org)
+**online platform:** IMF
 
 ### World Bank Group
 The [World Bank Group](../w/world_bank_group.md) is a family of five international organizations, providing financial and technical assistance to developing countries for development programs (e.g., bridges, roads, schools, and other infrastructures) that are expected to improve the economic prospects and [quality of life](../q/quality_of_life.md) for people in those countries.
 
-**Website:** [World Bank](https://www.worldbank.org)
+**online platform:** World Bank
 
 ### European Central Bank (ECB)
 The ECB is the central [bank](../b/bank.md) for the [euro](../e/euro.md) and administers the [monetary policy](../m/monetary_policy.md) of the [Eurozone](../e/eurozone.md), which consists of 19 EU member states. It aims to maintain price stability within the [Eurozone](../e/eurozone.md), influencing [economic conditions](../e/economic_conditions.md) and [exchange](../e/exchange.md) rates.
 
-**Website:** [ECB](https://www.ecb.europa.eu)
+**online platform:** ECB
 
 ### Bank for International Settlements (BIS)
 BIS fosters international monetary and financial cooperation and serves as a [bank](../b/bank.md) for central banks. It carries out its mission by promoting discussion and facilitating collaboration among central banks, which helps to ensure global financial stability.
 
-**Website:** [BIS](https://www.bis.org)
+**online platform:** BIS
 
 ### Asian Development Bank (ADB)
 ADB aims to promote social and economic development in Asia through loans, technical assistance, grants, and [equity](../e/equity.md) investments to both sovereign countries and private enterprises.
 
-**Website:** [ADB](https://www.adb.org)
+**online platform:** ADB
 
 ## Conclusion
 

@@ -4,7 +4,7 @@
 
 ## Understanding Theta in Options
 
-[Theta](../t/theta.md), also known as [time decay](../t/time_decay.md), measures the rate at which the [value](../v/value.md) of an option decreases over time. This is particularly important because [options](../o/options.md) are wasting assets, meaning they lose [value](../v/value.md) as they approach their [expiration date](../e/expiration_date.md). [Theta](../t/theta.md) is typically represented as a negative number for long positions and a positive number for short positions. 
+[Theta](../t/theta.md), also known as [time decay](../t/time_decay.md), measures the rate at which the [value](../v/value.md) of an option decreases over time. This is particularly important because [options](../o/options.md) are wasting assets, meaning they lose [value](../v/value.md) as they approach their [expiration date](../e/expiration_date.md). [Theta](../t/theta.md) is typically represented as a negative number for long positions and a positive number for short positions.
 
 For example, if an option has a [theta](../t/theta.md) of -0.05, its [value](../v/value.md) [will](../w/will.md) decrease by $5 every day (assuming one option contract represents 100 [underlying](../u/underlying.md) [shares](../s/shares.md)). Conversely, if you have a short position with a [theta](../t/theta.md) of 0.05, the [value](../v/value.md) of your position [will](../w/will.md) theoretically [gain](../g/gain.md) $5 every day, other factors remaining constant.
 
@@ -28,7 +28,7 @@ When purchasing [options](../o/options.md) (calls or puts), you're essentially b
 
 - **[Premium](../p/premium.md) Erosion**: Expect a daily erosion of [premium](../p/premium.md). Therefore, long [options](../o/options.md) are recommended when expecting a quick, significant move in the [underlying asset](../u/underlying_asset.md).
 - **Short-term Nature**: Because [time decay](../t/time_decay.md) accelerates as expiration approaches, long [options](../o/options.md) are best suited for short-term trades.
-  
+
 ### Short Options
 
 Selling [options](../o/options.md) involves selling time [premium](../p/premium.md), making [theta](../t/theta.md) a potential [profit](../p/profit.md) center. Short [options](../o/options.md) carry a positive [theta](../t/theta.md), meaning the seller benefits as the option’s [premium](../p/premium.md) decays over time.
@@ -113,25 +113,21 @@ Several tools and platforms can help traders execute [theta](../t/theta.md) stra
 
 [Thinkorswim](../t/thinkorswim.md) is a comprehensive [trading platform](../t/trading_platform.md) that offers advanced charting, screening, and [risk analysis](../r/risk_analysis.md) tools, making it a favorite for [theta](../t/theta.md) strategies.
 
-[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.page)
 
 ### Interactive Brokers
 
 [Interactive Brokers](../i/interactive_brokers.md) provides [robust](../r/robust.md) tools for analyzing and managing [options](../o/options.md) strategies, including those centered on [theta](../t/theta.md).
 
-[Interactive Brokers](https://www.interactivebrokers.com/)
 
 ### Tastyworks
 
 Tastyworks is popular among [options](../o/options.md) traders for its user-friendly interface and focus on [options](../o/options.md) trading.
 
-[Tastyworks](https://www.tastyworks.com/)
 
 ### OptionVue
 
 OptionVue offers sophisticated analytics tools specifically designed for [options](../o/options.md) trading, helping traders manage complex strategies involving [multiple](../m/multiple.md) [Greeks](../g/greeks.md).
 
-[OptionVue](https://www.optionvue.com/)
 
 ## Risks of Theta Strategies
 

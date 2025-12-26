@@ -6,7 +6,7 @@ The Harami Cross is a widely recognized [candlestick](../c/candlestick.md) patte
 
 The Harami Cross formation consists of two specific candlesticks:
 
-1. **First [Candlestick](../c/candlestick.md)**: This is a large-bodied candle that indicates a strong bullish (white/green) or bearish (black/red) move. 
+1. **First [Candlestick](../c/candlestick.md)**: This is a large-bodied candle that indicates a strong bullish (white/green) or bearish (black/red) move.
 2. **Second [Candlestick](../c/candlestick.md)**: This candle is a [Doji](../d/doji.md), a candle where the opening and closing prices are nearly the same, creating a very small body. The [Doji](../d/doji.md) must be contained within the body of the first [candlestick](../c/candlestick.md), signifying indecision among traders.
 
 ### Bullish Harami Cross
@@ -27,7 +27,7 @@ The Harami Cross is significant because it highlights a period of [market](../m/
 
 ## Algorithmic Trading Applications
 
-In the context of [algorithmic trading](../a/accountability.md), the Harami Cross pattern can be codified into a trading algorithm to automate buy and sell decisions. Such an algorithm would typically include:
+In the context of [algorithmic trading](../a/algorithmic_trading.md), the Harami Cross pattern can be codified into a trading algorithm to automate buy and sell decisions. Such an algorithm would typically include:
 
 1. **[Pattern Recognition](../p/pattern_recognition.md)**: Using historical price data to identify the two-candle formation of the Harami Cross.
 2. **Confirmation Requirements**: Implement rules for additional confirmation before executing trades to filter out [false signals](../f/false_signals_in_trading.md).
@@ -94,9 +94,9 @@ for [trade](../t/trade.md) in trades:
 
 [Algorithmic trading platforms](../a/algorithmic_trading_platforms.md) and tools allow traders to implement and automate strategies based on the Harami Cross and other patterns. Some widely used platforms include:
 
-- **MetaTrader (MT4/MT5)**: Popular among forex and CFD traders, it supports custom indicators and trading scripts. More details at [MetaTrader](https://www.metatrader4.com).
-- **[NinjaTrader](../n/ninjatrader.md)**: A [robust](../r/robust.md) platform for [futures](../f/futures.md) and forex trading, [offering](../o/offering.md) extensive [backtesting](../b/backtesting.md) and automation capabilities. More information can be found at [NinjaTrader](https://www.ninjatrader.com).
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/accountability.md) platform that provides data, coding environments, and [backtesting](../b/backtesting.md) tools for developing and testing [trading algorithms](../t/trading_algorithms.md). Explore more at [QuantConnect](https://www.quantconnect.com).
+- **MetaTrader (MT4/MT5)**: Popular among forex and CFD traders, it supports custom indicators and trading scripts. More details at MetaTrader.
+- **[NinjaTrader](../n/ninjatrader.md)**: A [robust](../r/robust.md) platform for [futures](../f/futures.md) and forex trading, [offering](../o/offering.md) extensive [backtesting](../b/backtesting.md) and automation capabilities. More information can be found at NinjaTrader.
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that provides data, coding environments, and [backtesting](../b/backtesting.md) tools for developing and testing [trading algorithms](../t/trading_algorithms.md). Explore more at QuantConnect.
 
 ## Conclusion
 

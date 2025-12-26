@@ -98,10 +98,10 @@ If the EUR/USD rate rises above 1.1600, the [trader](../t/trader.md) profits fro
 
 Numerous trading platforms and tools support the [execution](../e/execution.md) and management of [risk](../r/risk.md) [reversal](../r/reversal.md) strategies. These platforms often provide analytical tools, real-time data, and [risk management](../r/risk_management.md) features to optimize trading decisions.
 
-- **[E*TRADE](../e/e_trade.md)**: Offers [robust](../r/robust.md) [options](../o/options.md) trading tools and research resources. [Visit E*TRADE](https://us.etrade.com/)
-- **TD [Ameritrade](../a/ameritrade.md)**: Provides comprehensive [options](../o/options.md) trading capabilities and educational resources. [Visit TD Ameritrade](https://www.tdameritrade.com/)
-- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its sophisticated [trading platform](../t/trading_platform.md) suitable for professional traders. [Visit Interactive Brokers](https://www.interactivebrokers.com/)
-- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A feature-rich [trading platform](../t/trading_platform.md) ideal for [options trading strategies](../o/options_trading_strategies.md). [Visit Thinkorswim](https://www.thinkorswim.com/)
+- **[E*TRADE](../e/e_trade.md)**: Offers [robust](../r/robust.md) [options](../o/options.md) trading tools and research resources. Visit E*TRADE
+- **TD [Ameritrade](../a/ameritrade.md)**: Provides comprehensive [options](../o/options.md) trading capabilities and educational resources. Visit TD Ameritrade
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Known for its sophisticated [trading platform](../t/trading_platform.md) suitable for professional traders. Visit Interactive Brokers
+- **Thinkorswim by TD [Ameritrade](../a/ameritrade.md)**: A feature-rich [trading platform](../t/trading_platform.md) ideal for [options trading strategies](../o/options_trading_strategies.md). Visit Thinkorswim
 
 ## Conclusion
 

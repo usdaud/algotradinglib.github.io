@@ -1,6 +1,6 @@
 # Water Exclusion Clause
 
-The Water Exclusion Clause is a standard [provision](../p/provision.md) found in many property and casualty [insurance](../i/insurance.md) policies. This clause specifically excludes coverage for damage caused by water in various forms. Understanding the Water Exclusion Clause is essential for both insurers and policyholders to clarify the limitations and conditions of their [insurance](../i/insurance.md) coverage. This article provides a detailed examination of the Water Exclusion Clause, its implications, and its relevance in various contexts, particularly within the [insurance](../i/insurance.md) [industry](../i/industry.md). 
+The Water Exclusion Clause is a standard [provision](../p/provision.md) found in many property and casualty [insurance](../i/insurance.md) policies. This clause specifically excludes coverage for damage caused by water in various forms. Understanding the Water Exclusion Clause is essential for both insurers and policyholders to clarify the limitations and conditions of their [insurance](../i/insurance.md) coverage. This article provides a detailed examination of the Water Exclusion Clause, its implications, and its relevance in various contexts, particularly within the [insurance](../i/insurance.md) [industry](../i/industry.md).
 
 ## What is the Water Exclusion Clause?
 
@@ -63,8 +63,8 @@ The Water Exclusion Clause impacts the [insurance](../i/insurance.md) [industry]
 The Water Exclusion Clause is a crucial aspect of property and casualty [insurance](../i/insurance.md) policies that excludes specific types of water damage from coverage. Understanding this clause is essential for both policyholders and insurers as it defines coverage boundaries and helps manage [risk](../r/risk.md). Policyholders should consider purchasing additional coverage and implementing preventive measures to mitigate the risks associated with water damage. Insurers benefit from reduced claim volumes and clearer policy terms, enabling them to provide more targeted and effective products.
 
 For further information, policyholders and interested parties can refer to specific [insurance](../i/insurance.md) providers for detailed policy language and additional coverage [options](../o/options.md):
-- [State Farm](https://www.statefarm.com/)
-- [Allstate](https://www.allstate.com/)
-- [GEICO](https://www.geico.com/)
+- State Farm
+- Allstate
+- GEICO
 
 Understanding the nuances of the Water Exclusion Clause and its implications can help ensure that both insurers and policyholders are well-prepared for potential water damage scenarios.

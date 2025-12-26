@@ -100,7 +100,7 @@ In [portfolio management](../p/par.md), the cost of [capital](../c/capital.md) h
 
 For companies aiming to refine their understanding of the cost of [capital](../c/capital.md), specialized information can be found on their corporate websites or in financial disclosures. For instance:
 
-- Google Inc. ([Google Investor Relations](https://abc.xyz/investor/))
-- Microsoft [Corporation](../c/corporation.md) ([Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor))
+- Google Inc.
+- Microsoft [Corporation](../c/corporation.md)
 
 These resources provide additional details on how global leaders manage their [capital](../c/capital.md) costs and make strategic decisions that align with [shareholder value](../s/shareholder_value.md) maximization.

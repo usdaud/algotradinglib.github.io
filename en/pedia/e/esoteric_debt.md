@@ -67,9 +67,9 @@ Esoteric [debt](../d/debt.md) represents a unique and complex segment of the [fi
 
 For further information and expertise on esoteric [debt](../d/debt.md), several specialized firms provide insights and services:
 
-- [PineBridge Investments](https://www.pinebridge.com/)
-- [BlackRock](https://www.blackrock.com/)
-- [Ashmore Group](https://www.ashmoregroup.com/)
-- [TCW Group](https://www.tcw.com/)
+- PineBridge Investments
+- BlackRock
+- Ashmore Group
+- TCW Group
 
 These firms have extensive experience and resources dedicated to navigating the complexities of esoteric [debt](../d/debt.md) investments.

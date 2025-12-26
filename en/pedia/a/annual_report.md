@@ -1,6 +1,6 @@
 # Annual Report
 
-An annual report is a comprehensive document prepared by a company at the end of each financial year. It provides a detailed account of its [financial performance](../f/financial_performance.md), operations, and overall condition. This report is distributed to shareholders and other interested parties, providing [transparency](../t/transparency.md) and accountability in the company’s operations. 
+An annual report is a comprehensive document prepared by a company at the end of each financial year. It provides a detailed account of its [financial performance](../f/financial_performance.md), operations, and overall condition. This report is distributed to shareholders and other interested parties, providing [transparency](../t/transparency.md) and accountability in the company’s operations.
 
 ## Components of an Annual Report
 
@@ -127,23 +127,19 @@ Here are examples of companies with noteworthy annual reports:
 
 ### 1. Apple Inc.
 Apple’s annual reports are comprehensive, providing extensive details on [financial performance](../f/financial_performance.md), innovation, and [corporate governance](../c/corporate_governance.md).
-- [Apple Inc. Investor Relations](https://investor.apple.com/)
 
 ### 2. Tesla Inc.
 Tesla’s reports focus on innovation, sustainability, and technological advancements, providing insights into the company’s strategic direction.
-- [Tesla Investor Relations](https://ir.tesla.com/)
 
 ### 3. Microsoft Corp.
 Microsoft’s annual reports highlight its performance in various [business](../b/business.md) segments, technological advancements, and commitment to sustainability.
-- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor/Annual-Reports/)
 
 ### 4. JPMorgan Chase & Co.
 JPMorgan Chase’s reports include detailed analyses of its diverse financial services, [risk management](../r/risk_management.md) practices, and regulatory compliance.
-- [JPMorgan Chase & Co.](https://www.jpmorganchase.com/annual-report)
+- JPMorgan Chase & Co.
 
 ### 5. ExxonMobil
 ExxonMobil provides extensive information on its operations, [financial performance](../f/financial_performance.md), environmental impact, and sustainability initiatives in its annual reports.
-- [ExxonMobil Investor Relations](https://corporate.exxonmobil.com/Investors/)
 
 ## Conclusion
 

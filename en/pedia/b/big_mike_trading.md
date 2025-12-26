@@ -52,5 +52,3 @@ Big Mike Trading, now known as [Futures](../f/futures.md).io, is one of the larg
 - **Secure Access**: Implementing secure login processes and user authentication to prevent unauthorized access.
 - **Moderation**: Active moderation of forums to maintain a respectful and informative community environment.
 
-## Website
-For more information and to join the community, visit the official [Futures](../f/futures.md).io website: [Futures.io](https://futures.io/)

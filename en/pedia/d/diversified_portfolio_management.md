@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Diversified [Portfolio Management](../p/portfolio_management.md) (DPM) is an [investment strategy](../i/investment_strategy.md) aimed at minimizing risks by spreading investments across various financial instruments, industries, and other categories. This approach helps in mitigating the risks associated with single [asset](../a/asset.md) classes or sectors and leverages different performance dynamics to achieve stable, long-term returns. 
+Diversified [Portfolio Management](../p/portfolio_management.md) (DPM) is an [investment strategy](../i/investment_strategy.md) aimed at minimizing risks by spreading investments across various financial instruments, industries, and other categories. This approach helps in mitigating the risks associated with single [asset](../a/asset.md) classes or sectors and leverages different performance dynamics to achieve stable, long-term returns.
 
 In the context of [algorithmic trading](../a/algorithmic_trading.md) (algo-trading), DPM is an essential technique to ensure optimal performance of trading bots or algorithms. Algorithms can be designed to automatically diversify portfolios by making real-time decisions based on [market](../m/market.md) conditions, [asset](../a/asset.md) correlations, and [risk metrics](../r/risk_metrics.md).
 
@@ -90,7 +90,7 @@ Continuous monitoring is crucial to ensure adherence to [diversification](../d/d
 
 Wealthfront is a financial advisory [firm](../f/firm.md) that offers automated investment services, leveraging algo-trading and diversified [portfolio management](../p/portfolio_management.md). They use Modern Portfolio Theory (MPT) principles to create diversified, low-cost portfolios tailored to individual [investor](../i/investor.md)'s [risk tolerance](../r/risk_tolerance.md) and financial goals.
 
-Site: [Wealthfront](https://www.wealthfront.com/)
+Site: Wealthfront
 
 Wealthfront's approach includes:
 - **Automated [Rebalancing](../r/rebalancing.md)**: Continually optimizing [asset allocation](../a/asset_allocation.md) to ensure alignment with target [risk](../r/risk.md) levels.

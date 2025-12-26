@@ -10,7 +10,7 @@ A [Bond](../b/bond.md) [Exchange](../e/exchange.md)-Traded [Fund](../f/fund.md) 
 
 ### Trading Mechanics
 
-Unlike traditional mutual funds, which are priced once daily after the close of the [market](../m/market.md), [Bond](../b/bond.md) ETFs are traded throughout the trading day at [market](../m/market.md) prices. This allows investors to take advantage of price movements within the day, providing more flexibility and [liquidity](../l/liquidity.md). 
+Unlike traditional mutual funds, which are priced once daily after the close of the [market](../m/market.md), [Bond](../b/bond.md) ETFs are traded throughout the trading day at [market](../m/market.md) prices. This allows investors to take advantage of price movements within the day, providing more flexibility and [liquidity](../l/liquidity.md).
 
 ### Creation and Redemption Process
 
@@ -80,25 +80,21 @@ While [Bond](../b/bond.md) ETFs are generally [liquid](../l/liquid.md), there ma
 
 [iShares](../i/ishares.md) is one of the largest ETF providers in the world, managed by BlackRock. [iShares](../i/ishares.md) offers a wide [range](../r/range.md) of [bond](../b/bond.md) ETFs across different categories, including government, corporate, municipal, and international bonds.
 
-[Visit iShares](https://www.ishares.com/us/products/etf-investments#!type=bond&view=keyFacts)
 
 ### Vanguard
 
 Vanguard is known for its low-cost [index](../i/index_instrument.md) funds and ETFs. Vanguard offers several [bond](../b/bond.md) ETFs, including those focused on U.S. Treasuries, corporate bonds, and international bonds.
 
-[Visit Vanguard](https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns)
 
 ### State Street Global Advisors (SPDR)
 
 State Street Global Advisors offers SPDR ETFs, which cover a wide [range](../r/range.md) of [asset](../a/asset.md) classes, including a variety of [bond](../b/bond.md) ETFs. Their offerings include [fixed income ETFs](../f/fixed_income_etfs.md) that track indexes representing [U.S. Treasury](../u/u.s._treasury.md) bonds, high-[yield](../y/yield.md) bonds, and international bonds.
 
-[Visit SPDR](https://www.ssga.com/us/en/institutional/etfs/funds)
 
 ### Invesco
 
 Invesco offers a broad spectrum of ETFs, including [bond](../b/bond.md) ETFs that provide exposure to various segments of the [fixed income](../f/fixed_income.md) [market](../m/market.md). Their [product line](../p/product_line.md) includes investment-grade corporate bonds, government bonds, and high-[yield](../y/yield.md) bonds.
 
-[Visit Invesco](https://www.invesco.com/us/financial-products/etfs/home)
 
 ## Strategies for Investing in Bond ETFs
 

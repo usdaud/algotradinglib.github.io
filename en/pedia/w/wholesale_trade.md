@@ -17,19 +17,19 @@ Wholesalers act as a vital link between manufacturers and retailers. They perfor
 Wholesalers can be classified into various categories based on their functions and the sectors they serve:
 
 1. **Merchant Wholesalers**
-   - **Full-Service Wholesalers**: [Offer](../o/offer.md) the full [range](../r/range.md) of services including stocking [inventory](../i/inventory.md), operating warehouses, and extending [credit](../c/credit.md).
-   - **Limited-Service Wholesalers**: These [offer](../o/offer.md) fewer services and include [options](../o/options.md) such as cash-and-carry wholesalers or drop shippers.
+ - **Full-Service Wholesalers**: [Offer](../o/offer.md) the full [range](../r/range.md) of services including stocking [inventory](../i/inventory.md), operating warehouses, and extending [credit](../c/credit.md).
+ - **Limited-Service Wholesalers**: These [offer](../o/offer.md) fewer services and include [options](../o/options.md) such as cash-and-carry wholesalers or drop shippers.
 
 2. **Agents and Brokers**
-   - **Brokers**: Arrange sales between buyers and sellers for a [commission](../c/commission.md) but do not take title to the goods.
-   - **Agents**: Generally represent either buyers or sellers on a long-term [basis](../b/basis.md) and perform various functions on their behalf.
+ - **Brokers**: Arrange sales between buyers and sellers for a [commission](../c/commission.md) but do not take title to the goods.
+ - **Agents**: Generally represent either buyers or sellers on a long-term [basis](../b/basis.md) and perform various functions on their behalf.
 
 3. **Specialized Wholesalers**
-   - **General Line Wholesalers**: Deal in a [wide variety](../w/wide_variety.md) of products.
-   - **Specialty Line Wholesalers**: Focus on a narrow product [range](../r/range.md) or specialized sectors like pharmaceuticals, electronics, or agricultural products.
+ - **General Line Wholesalers**: Deal in a [wide variety](../w/wide_variety.md) of products.
+ - **Specialty Line Wholesalers**: Focus on a narrow product [range](../r/range.md) or specialized sectors like pharmaceuticals, electronics, or agricultural products.
 
 4. **Industrial Distributors**
-   - [Supply](../s/supply.md) goods and services to industrial or [manufacturing](../m/manufacturing.md) sectors, often involving highly technical products.
+ - [Supply](../s/supply.md) goods and services to industrial or [manufacturing](../m/manufacturing.md) sectors, often involving highly technical products.
 
 ## Economic Importance of Wholesale Trade
 
@@ -44,7 +44,7 @@ Wholesale [trade](../t/trade.md) plays a crucial role in the [economy](../e/econ
 
 The wholesale [trade](../t/trade.md) sector has seen significant technological advancements, particularly with the increasing influence of digital transformation:
 
-1. **eCommerce Platforms**: Digital platforms allow wholesalers to reach a wider audience and streamline sales processes. For instance, platforms like Alibaba (https://www.alibaba.com) have modernized wholesale purchasing.
+1. **eCommerce Platforms**: Digital platforms allow wholesalers to reach a wider audience and streamline sales processes. For instance, platforms like Alibaba have modernized wholesale purchasing.
 2. **ERP Systems**: Enterprise Resource Planning (ERP) software facilitates the integration of various functions like [inventory management](../i/inventory_management.md), [order](../o/order.md) processing, and [customer](../c/customer.md) relations.
 3. **[Blockchain](../b/blockchain_in_trading.md)**: This can enhance [transparency](../t/transparency.md) and traceability in the [supply chain](../s/supply_chain.md) by recording every [transaction](../t/transaction.md) in a nearly immutable ledger.
 4. **AI and [Machine Learning](../m/machine_learning.md)**: These technologies can improve [demand forecasting](../d/demand_forecasting.md), optimize [logistics](../l/logistics.md), and personalize [marketing](../m/marketing.md) efforts.

@@ -8,7 +8,7 @@ Positive [economics](../e/economics.md) is a branch of [economics](../e/economic
 
 2. **Cause and Effect**: Positive [economics](../e/economics.md) seeks to identify causal relationships in economic behavior. For instance, understanding how changes in [interest](../i/interest.md) rates influence [inflation](../i/inflation.md) and employment.
 
-3. **Empirical Evidence**: Positive economic statements are tested against real-world data. This involves collecting data, running statistical analyses, and validating hypotheses. 
+3. **Empirical Evidence**: Positive economic statements are tested against real-world data. This involves collecting data, running statistical analyses, and validating hypotheses.
 
 4. **Objective Inquiry**: Positive [economics](../e/economics.md) strives for objectivity, relying on observable and measurable outcomes, devoid of [value](../v/value.md) judgments and normative opinions.
 
@@ -41,11 +41,11 @@ Key methodological tools include:
 Positive [economics](../e/economics.md) has myriad applications, spanning various fields within [economics](../e/economics.md), [business](../b/business.md), and policy-making:
 
 - **Policy Analysis**: Governments and policymakers use positive [economics](../e/economics.md) to assess the potential impact of fiscal, monetary, and [trade](../t/trade.md) policies. For example, analyzing how a change in tax policy might affect employment and [economic growth](../e/economic_growth.md).
-  
+
 - **[Financial Markets](../f/financial_market.md)**: In [financial economics](../f/financial_economics.md), positive analysis helps understand [asset](../a/asset.md) pricing, [market efficiency](../m/market_efficiency.md), and investment behaviors. Models such as the [Capital Asset](../c/capital_asset.md) Pricing Model (CAPM) and [Efficient Market Hypothesis](../e/efficient_market_hypothesis.md) (EMH) rely on positive economic principles.
-  
+
 - **[Business](../b/business.md) Strategy**: Companies utilize positive [economics](../e/economics.md) for [market](../m/market.md) analysis, competitive strategy, and to forecast [demand](../d/demand.md). Understanding the economic landscape helps firms make informed decisions about pricing, investment, and production.
-  
+
 - **Economic Research**: Academics and researchers in [economics](../e/economics.md) employ positive theories to build knowledge on various economic phenomena. This foundational research informs everything from teaching curricula to public economic discourse.
 
 ### Historical and Theoretical Foundations
@@ -81,4 +81,4 @@ Advances in technology and [data science](../d/data_science_in_trading.md) are t
 
 Positive [economics](../e/economics.md) plays a critical role in understanding, explaining, and predicting economic phenomena. By focusing on empirical evidence and objective analysis, it provides valuable insights for policymakers, businesses, and researchers. Despite its limitations, the ongoing advancements in [data science](../d/data_science_in_trading.md) and technology continue to enhance the rigor and applicability of positive economic analysis, making it an indispensable tool in the modern economic toolkit.
 
-For further reading and detailed information about specific applications of positive [economics](../e/economics.md), [industry](../i/industry.md) professionals can explore resources such as [OECD](https://www.oecd.org/) or financial institutions like [Goldman Sachs](https://www.goldmansachs.com/). These platforms [offer](../o/offer.md) extensive data and analysis tools that aid in positive economic research and applications.
+For further reading and detailed information about specific applications of positive [economics](../e/economics.md), [industry](../i/industry.md) professionals can explore resources such as OECD or financial institutions like Goldman Sachs. These platforms [offer](../o/offer.md) extensive data and analysis tools that aid in positive economic research and applications.

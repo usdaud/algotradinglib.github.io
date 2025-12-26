@@ -55,8 +55,8 @@ The [Upside Potential Ratio](../u/upside_potential_ratio.md) quantifies the rati
 [Risk](../r/risk.md) metrics are indispensable tools for algorithmic traders, enabling them to understand, quantify, and manage the various risks associated with their [trading strategies](../t/trading_strategies.md). By employing a comprehensive set of [risk](../r/risk.md) metrics, traders can enhance their [risk management](../r/risk_management.md) frameworks, leading to more [robust](../r/robust.md) and resilient [trading systems](../t/trading_systems.md).
 
 For further exploration of the tools and methodologies pertinent to [risk](../r/risk.md) metrics in [algorithmic trading](../a/algorithmic_trading.md), including advanced analytical software and [risk management](../r/risk_management.md) platforms, consider visiting companies at the cutting edge of financial technology:
-- [Numerix](https://www.numerix.com/)
-- [RiskMetrics](https://www.msci.com/riskmetrics) (now part of MSCI)
-- [QuantConnect](https://www.quantconnect.com/)
+- Numerix
+- RiskMetrics (now part of MSCI)
+- QuantConnect
 
 These resources [offer](../o/offer.md) a variety of solutions aimed at improving [risk](../r/risk.md) assessment and management capabilities for algorithmic traders.

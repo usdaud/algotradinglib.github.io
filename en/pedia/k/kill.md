@@ -35,4 +35,3 @@ In the financial context, **Kill** refers to the action of canceling or terminat
 
 ## Conclusion
 The term "Kill" in the financial context refers to the action of canceling a financial [order](../o/order.md) or [transaction](../t/transaction.md) before it is executed. This practice is essential for managing [risk](../r/risk.md), providing flexibility, and preventing potential losses in volatile [market](../m/market.md) conditions. Understanding the types, challenges, and [best practices](../b/best_practices.md) associated with kill orders can help traders and investors effectively manage their trading activities.
-

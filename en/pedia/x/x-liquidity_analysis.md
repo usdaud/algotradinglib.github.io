@@ -15,25 +15,25 @@ For example, during a [financial crisis](../f/financial_crisis.md), [liquidity](
 ### Key Metrics in X-Liquidity Analysis
 
 1. **[Bid-Ask Spread](../b/bid-ask_spread.md)**
-   - The difference between the highest price a buyer is willing to pay ([bid](../b/bid.md)) and the lowest price a seller is willing to accept (ask). A narrower spread often implies higher [liquidity](../l/liquidity.md).
+ - The difference between the highest price a buyer is willing to pay ([bid](../b/bid.md)) and the lowest price a seller is willing to accept (ask). A narrower spread often implies higher [liquidity](../l/liquidity.md).
 
 2. **[Market Depth](../m/market_depth.md)**
-   - Refers to the amount of an [asset](../a/asset.md) that can be traded at the current [bid and ask](../b/bid_and_ask.md) prices without causing a significant change in its price. Deeper markets are generally more [liquid](../l/liquid.md).
+ - Refers to the amount of an [asset](../a/asset.md) that can be traded at the current [bid and ask](../b/bid_and_ask.md) prices without causing a significant change in its price. Deeper markets are generally more [liquid](../l/liquid.md).
 
 3. **Trading [Volume](../v/volume.md)**
-   - Higher trading volumes generally indicate a more [liquid market](../l/liquid_market.md). However, it’s important to consider [volume](../v/volume.md) in relation to [market capitalization](../m/market_capitalization.md) and average daily [volume](../v/volume.md).
+ - Higher trading volumes generally indicate a more [liquid market](../l/liquid_market.md). However, it’s important to consider [volume](../v/volume.md) in relation to [market capitalization](../m/market_capitalization.md) and average daily [volume](../v/volume.md).
 
 4. **Price Impact**
-   - Measures how much the price of an [asset](../a/asset.md) changes in response to trades. Less price impact for high-[volume](../v/volume.md) trades typically signals higher [liquidity](../l/liquidity.md).
+ - Measures how much the price of an [asset](../a/asset.md) changes in response to trades. Less price impact for high-[volume](../v/volume.md) trades typically signals higher [liquidity](../l/liquidity.md).
 
 5. **[Order Book](../o/order_book.md) Imbalance**
-   - The difference between buy and sell orders at various price levels. A balanced [order book](../o/order_book.md) is a sign of healthy [liquidity](../l/liquidity.md) conditions.
+ - The difference between buy and sell orders at various price levels. A balanced [order book](../o/order_book.md) is a sign of healthy [liquidity](../l/liquidity.md) conditions.
 
 6. **[Volatility](../v/volatility.md)**
-   - While not a direct measure of [liquidity](../l/liquidity.md), high [volatility](../v/volatility.md) can be a sign of [liquidity](../l/liquidity.md) constraints, making it more challenging to execute large trades without affecting the price.
+ - While not a direct measure of [liquidity](../l/liquidity.md), high [volatility](../v/volatility.md) can be a sign of [liquidity](../l/liquidity.md) constraints, making it more challenging to execute large trades without affecting the price.
 
 7. **Cross-[Asset](../a/asset.md) Correlations**
-   - Assessing how [liquidity](../l/liquidity.md) conditions in one [asset](../a/asset.md) affect others. High [correlation](../c/correlation.md) often indicates intertwined [liquidity](../l/liquidity.md) profiles.
+ - Assessing how [liquidity](../l/liquidity.md) conditions in one [asset](../a/asset.md) affect others. High [correlation](../c/correlation.md) often indicates intertwined [liquidity](../l/liquidity.md) profiles.
 
 ### Techniques and Tools for X-Liquidity Analysis
 
@@ -57,10 +57,10 @@ Implementing systems for real-time monitoring of [liquidity](../l/liquidity.md) 
 
 Several companies and platforms specialize in [liquidity analysis](../l/liquidity_analysis.md) and provide tools for X-[Liquidity Analysis](../l/liquidity_analysis.md):
 
-- **ACI Worldwide**: Specializes in real-time trading and [liquidity](../l/liquidity.md) monitoring systems. [Visit ACI Worldwide](https://www.aciworldwide.com/)
-- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers advanced analytics and real-time data for [liquidity](../l/liquidity.md) assessment. [Visit Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
-- **Refinitiv Eikon**: Provides comprehensive financial data and analytics tools for [liquidity](../l/liquidity.md) evaluation. [Visit Refinitiv](https://eikon.thomsonreuters.com/)
-- **IHS Markit**: Delivers data and insights for [liquidity risk](../l/liquidity_risk.md) management. [Visit IHS Markit](https://ihsmarkit.com/products/liquidity-risk.html)
+- **ACI Worldwide**: Specializes in real-time trading and [liquidity](../l/liquidity.md) monitoring systems. Visit ACI Worldwide
+- **[Bloomberg](../b/bloomberg.md) Terminal**: Offers advanced analytics and real-time data for [liquidity](../l/liquidity.md) assessment. Visit Bloomberg
+- **Refinitiv Eikon**: Provides comprehensive financial data and analytics tools for [liquidity](../l/liquidity.md) evaluation. Visit Refinitiv
+- **IHS Markit**: Delivers data and insights for [liquidity risk](../l/liquidity_risk.md) management. Visit IHS Markit
 
 ### Applications of X-Liquidity Analysis
 

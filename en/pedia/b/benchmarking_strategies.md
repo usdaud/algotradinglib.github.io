@@ -34,9 +34,9 @@ Various metrics are utilized to [benchmark](../b/benchmark.md) [algorithmic trad
 
 Several tools and platforms are available to assist traders in benchmarking their [algorithmic trading](../a/algorithmic_trading.md) strategies:
 
-1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. [QuantConnect](../q/quantconnect.md) provides detailed analytics and benchmarking tools. [QuantConnect](https://www.quantconnect.com)
-2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform for developing, testing, and deploying [trading strategies](../t/trading_strategies.md), which also includes extensive benchmarking capabilities. [AlgoTrader](https://www.algotrader.com)
-3. **MetaTrader**: Widely used for forex and stock trading, MetaTrader includes built-in benchmarking features to evaluate strategy performance against various metrics. [MetaTrader](https://www.metatrader4.com)
+1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports [backtesting](../b/backtesting.md) and live trading. [QuantConnect](../q/quantconnect.md) provides detailed analytics and benchmarking tools. QuantConnect
+2. **[AlgoTrader](../a/algotrader.md)**: A comprehensive platform for developing, testing, and deploying [trading strategies](../t/trading_strategies.md), which also includes extensive benchmarking capabilities. AlgoTrader
+3. **MetaTrader**: Widely used for forex and stock trading, MetaTrader includes built-in benchmarking features to evaluate strategy performance against various metrics. MetaTrader
 
 ## Steps to Benchmarking
 
@@ -84,10 +84,10 @@ Factors like regulatory changes, [geopolitical events](../g/geopolitical_events.
 
 ## Case Studies
 
-1. **JP Morgan's LOXM AI Trading Program**: JP Morgan's AI-based trading program, LOXM, was benchmarked against traditional human traders. The AI demonstrated superior [execution](../e/execution.md) quality, reducing [trading costs](../t/trading_costs.md) and improving net performance. More details can be found on JP Morgan's official page. [JP Morgan](https://www.jpmorgan.com)
-   
-2. **Goldman Sachs' Automated Trading System**: Goldman Sachs implemented [automated trading systems](../a/automated_trading_systems.md) benchmarked against [market](../m/market.md) indexes like the S&P 500. The system was evaluated based on its ability to [outperform](../o/outperform.md) the [index](../i/index_instrument.md) while managing [risk](../r/risk.md) effectively. Details are available in their financial reports. [Goldman Sachs](https://www.goldmansachs.com)
+1. **JP Morgan's LOXM AI Trading Program**: JP Morgan's AI-based trading program, LOXM, was benchmarked against traditional human traders. The AI demonstrated superior [execution](../e/execution.md) quality, reducing [trading costs](../t/trading_costs.md) and improving net performance.
+
+2. **Goldman Sachs' Automated Trading System**: Goldman Sachs implemented [automated trading systems](../a/automated_trading_systems.md) benchmarked against [market](../m/market.md) indexes like the S&P 500. The system was evaluated based on its ability to [outperform](../o/outperform.md) the [index](../i/index_instrument.md) while managing [risk](../r/risk.md) effectively. Details are available in their financial reports. Goldman Sachs
 
 ## Conclusion
 
-Benchmarking strategies in [algorithmic trading](../a/algorithmic_trading.md) are vital for assessing performance, managing [risk](../r/risk.md), and optimizing [trading algorithms](../t/trading_algorithms.md). By comparing a strategy's performance to relevant benchmarks, traders can glean insights to improve their strategies and ensure they add [value](../v/value.md) to their investments. Utilizing appropriate tools and regularly monitoring performance against benchmarks can significantly enhance trading success and foster [transparency](../t/transparency.md) and accountability.
+Benchmarking strategies in [algorithmic trading](../a/algorithmic_trading.md) are vital for assessing performance, managing [risk](../r/risk.md), and optimizing [trading algorithms](../t/trading_algorithms.md). By comparing a strategy's performance to relevant benchmarks, traders can glean insights to improve their strategies and ensure they add [value](../v/value.md) to their investments. Utilizing appropriate tools and regularly monitoring performance against benchmarks can significantly enhance trading success and foster [transparency](../t/transparency.md) and accountability.

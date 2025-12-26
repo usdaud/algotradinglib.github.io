@@ -13,9 +13,9 @@ Algorithms can [range](../r/range.md) from simple trigger conditions, such as mo
 R is widely used in [quantitative finance](../q/quantitative_finance.md) due to its statistical prowess, extensive libraries, and [robust](../r/robust.md) data handling capabilities. The key reasons for using R in [algorithmic trading](../a/algorithmic_trading.md) include:
 
 - **Rich Set of Libraries:** R offers numerous packages specifically designed for [financial analysis](../f/financial_analysis.md), such as quantmod, TTR (Technical [Trading Rules](../t/trading_rules.md)), and PerformanceAnalytics.
-  
+
 - **Data Manipulation:** R’s data manipulation prowess with packages like dplyr and data.table make it an excellent tool for handling large datasets.
-  
+
 - **Statistical Modeling:** R is fundamentally a statistical tool, making it ideal for developing and testing [quantitative models](../q/quantitative_models.md).
 
 - **Visualization:** R provides powerful visualization tools such as ggplot2, which are essential for analyzing [market](../m/market.md) behavior and strategy performance.
@@ -24,22 +24,22 @@ R is widely used in [quantitative finance](../q/quantitative_finance.md) due to 
 
 To set up your environment for [algorithmic trading](../a/algorithmic_trading.md) in R, you need several key libraries. Here is a step-by-step setup:
 
-1. **Install R and RStudio:** Install R from the [CRAN website](https://cran.r-project.org), and RStudio, which is a convenient integrated development environment (IDE).
+1. **Install R and RStudio:** Install R from the CRAN, and RStudio, which is a convenient integrated development environment (IDE).
 
 2. **Install Essential Packages:** Use the following commands in R to install some essential packages:
-   ```r
-   install.packages(c("quantmod", "TTR", "PerformanceAnalytics", "data.table", "dplyr", "ggplot2"))
-   ```
+ ```r
+ install.packages(c("quantmod", "TTR", "PerformanceAnalytics", "data.table", "dplyr", "ggplot2"))
+ ```
 
 3. **[Load](../l/load.md) the Libraries:**
-   ```r
-   library(quantmod)
-   library(TTR)
-   library(PerformanceAnalytics)
-   library(data.table)
-   library(dplyr)
-   library(ggplot2)
-   ```
+ ```r
+ library(quantmod)
+ library(TTR)
+ library(PerformanceAnalytics)
+ library(data.table)
+ library(dplyr)
+ library(ggplot2)
+ ```
 
 ## Data Collection
 
@@ -62,19 +62,19 @@ In this example, the `getSymbols` function downloads historical stock data for A
 For more complex data needs, you can use financial APIs such as the [Quandl](../q/quandl.md) API:
 
 1. **Install [Quandl](../q/quandl.md) Package:** Install and [load](../l/load.md) the package:
-   ```r
-   install.packages("[Quandl](../q/quandl.md)")
-   library([Quandl](../q/quandl.md))
-   ```
+ ```r
+ install.packages("[Quandl](../q/quandl.md)")
+ library([Quandl](../q/quandl.md))
+ ```
 
-2. **Get API Key:** Register for an API key from [Quandl’s website](https://www.quandl.com/tools/api).
+2. **Get API Key:** Register for an API key from Quandl.
 
 3. **Fetch Data:**
-   ```r
-   [Quandl](../q/quandl.md).api_key("your_api_key_here")
-   data <- [Quandl](../q/quandl.md)("WIKI/AAPL", start_date = "2020-01-01", end_date = "2023-01-01")
-   head(data)
-   ```
+ ```r
+ [Quandl](../q/quandl.md).api_key("your_api_key_here")
+ data <- [Quandl](../q/quandl.md)("WIKI/AAPL", start_date = "2020-01-01", end_date = "2023-01-01")
+ head(data)
+ ```
 
 ## Strategy Design
 
@@ -124,7 +124,7 @@ backtest <- function(data, short_window, long_window) {
 }
 
 # Backtest Different Combinations
-results <- data.frame(
+results <- data.frame
   short_window = integer(),
   long_window = integer(),
   cumulative_return = numeric()
@@ -181,24 +181,24 @@ In this example, a function calculates the position size based on starting [capi
 [Interactive Brokers](../i/interactive_brokers.md) (IB) is a popular [broker](../b/broker.md) for [algorithmic trading](../a/algorithmic_trading.md) due to its comprehensive API. Here’s a brief overview of how to place trades using the [Interactive Brokers](../i/interactive_brokers.md) API in R:
 
 1. **Install IBrokers Package:** Install and [load](../l/load.md) the package:
-   ```r
-   install.packages("IBrokers")
-   library(IBrokers)
-   ```
+ ```r
+ install.packages("IBrokers")
+ library(IBrokers)
+ ```
 
 2. **Connect to IB Gateway:**
-   ```r
-   con <- twsConnect()
-   ```
+ ```r
+ con <- twsConnect()
+ ```
 
 3. **Place an [Order](../o/order.md):**
-   ```r
-   contract <- twsEquity("AAPL")
-   [order](../o/order.md) <- twsOrder(action = "BUY", totalQuantity = 10, orderType = "MKT")
-   placeOrder(con, contract, [order](../o/order.md))
-   ```
+ ```r
+ contract <- twsEquity("AAPL")
+ [order](../o/order.md) <- twsOrder(action = "BUY", totalQuantity = 10, orderType = "MKT")
+ placeOrder(con, contract, [order](../o/order.md))
+ ```
 
-For more detailed information, refer to the [Interactive Brokers API documentation](https://www.interactivebrokers.com/en/index.php?f=5041).
+For more detailed information, refer to the Interactive Brokers API documentation.
 
 ## Monitoring and Maintenance
 

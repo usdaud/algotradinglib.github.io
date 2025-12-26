@@ -1,10 +1,10 @@
 # Gross Leverage Ratio
 
-Gross [leverage ratio](../l/leverage_ratio.md) is a financial metric used extensively in [algorithmic trading](../a/accountability.md) to evaluate the degree of [leverage](../l/leverage.md) utilized by a [trading strategy](../t/trading_strategy.md) or portfolio. The gross [leverage ratio](../l/leverage_ratio.md) is defined as the total [value](../v/value.md) of a portfolio's positions divided by the portfolio's net [asset](../a/asset.md) [value](../v/value.md) (NAV). This measure is crucial for assessing the [risk](../r/risk.md)-taking behavior and [financial health](../f/financial_health.md) of an investment portfolio.
+Gross [leverage ratio](../l/leverage_ratio.md) is a financial metric used extensively in [algorithmic trading](../a/algorithmic_trading.md) to evaluate the degree of [leverage](../l/leverage.md) utilized by a [trading strategy](../t/trading_strategy.md) or portfolio. The gross [leverage ratio](../l/leverage_ratio.md) is defined as the total [value](../v/value.md) of a portfolio's positions divided by the portfolio's net [asset](../a/asset.md) [value](../v/value.md) (NAV). This measure is crucial for assessing the [risk](../r/risk.md)-taking behavior and [financial health](../f/financial_health.md) of an investment portfolio.
 
 ## Understanding Gross Leverage Ratio
 
-The gross [leverage ratio](../l/leverage_ratio.md) gives traders and investors an insight into how much borrowed [money](../m/money.md) or [margin](../m/margin.md) a portfolio is using relative to its [equity](../e/equity.md). This ratio measures the total amount of a portfolio's exposure to the [market](../m/market.md), which includes both long and short positions, without [netting](../n/netting.md) them out. 
+The gross [leverage ratio](../l/leverage_ratio.md) gives traders and investors an insight into how much borrowed [money](../m/money.md) or [margin](../m/margin.md) a portfolio is using relative to its [equity](../e/equity.md). This ratio measures the total amount of a portfolio's exposure to the [market](../m/market.md), which includes both long and short positions, without [netting](../n/netting.md) them out.
 
 ### Formula
 
@@ -19,10 +19,10 @@ This means that the portfolio is using twice as much [leverage](../l/leverage.md
 
 ## Importance in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) relies heavily on [leverage](../l/leverage.md) to amplify returns, but with increased [leverage](../l/leverage.md) comes increased [risk](../r/risk.md). The gross [leverage ratio](../l/leverage_ratio.md) is a critical measure for quantifying this [risk](../r/risk.md). Here are key reasons why the gross [leverage ratio](../l/leverage_ratio.md) is important in [algorithmic trading](../a/accountability.md):
+[Algorithmic trading](../a/algorithmic_trading.md) relies heavily on [leverage](../l/leverage.md) to amplify returns, but with increased [leverage](../l/leverage.md) comes increased [risk](../r/risk.md). The gross [leverage ratio](../l/leverage_ratio.md) is a critical measure for quantifying this [risk](../r/risk.md). Here are key reasons why the gross [leverage ratio](../l/leverage_ratio.md) is important in [algorithmic trading](../a/algorithmic_trading.md):
 
 1. **[Risk Management](../r/risk_management.md)**: By monitoring the gross [leverage ratio](../l/leverage_ratio.md), traders can ensure that their strategies are within acceptable [risk](../r/risk.md) limits. Excessive [leverage](../l/leverage.md) can lead to [margin](../m/margin.md) calls and forced [liquidation](../l/liquidation.md) of positions, especially in volatile markets.
-  
+
 2. **Performance Evaluation**: The gross [leverage ratio](../l/leverage_ratio.md) can help in evaluating the performance of a [trading strategy](../t/trading_strategy.md). High [leverage](../l/leverage.md) can inflate returns during favorable [market](../m/market.md) conditions but can also lead to significant losses during downturns.
 
 3. **Regulatory Compliance**: Financial regulators often set [leverage](../l/leverage.md) limits for different types of trading accounts to prevent [systemic risk](../s/systemic_risk.md) in the [financial markets](../f/financial_market.md). Monitoring the gross [leverage ratio](../l/leverage_ratio.md) helps in maintaining compliance with such regulations.
@@ -33,7 +33,7 @@ This means that the portfolio is using twice as much [leverage](../l/leverage.md
 
 ### Hedge Funds
 
-[Hedge](../h/hedge.md) funds frequently employ [leverage](../l/leverage.md) to enhance returns. The gross [leverage ratio](../l/leverage_ratio.md) is an essential metric for [hedge fund](../h/hedge_fund.md) managers to track. For instance, a [hedge fund](../h/hedge_fund.md) might use [long/short equity](../l/long_short_equity.md) strategies that could involve high gross [leverage ratios](../l/leverage_ratios.md). 
+[Hedge](../h/hedge.md) funds frequently employ [leverage](../l/leverage.md) to enhance returns. The gross [leverage ratio](../l/leverage_ratio.md) is an essential metric for [hedge fund](../h/hedge_fund.md) managers to track. For instance, a [hedge fund](../h/hedge_fund.md) might use [long/short equity](../l/long_short_equity.md) strategies that could involve high gross [leverage ratios](../l/leverage_ratios.md).
 
 ### Proprietary Trading Firms
 
@@ -47,8 +47,7 @@ In HFT, rapid [execution](../e/execution.md) and a large number of transactions 
 
 AQR [Capital](../c/capital.md) Management, one of the world's leading investment firms, utilizes quantitative and algorithmic strategies. The [firm](../f/firm.md) often leverages its positions to [gain](../g/gain.md) an edge in the [market](../m/market.md). AQR's detailed [risk management](../r/risk_management.md) and monitoring processes include tracking [leverage](../l/leverage.md) metrics such as the gross [leverage ratio](../l/leverage_ratio.md) to ensure [robust](../r/robust.md) performance and the mitigation of [risk](../r/risk.md).
 
-Visit AQR [Capital](../c/capital.md) Management's official website for more information: [AQR Capital Management](https://www.aqr.com/)
 
 ## Conclusion
 
-The gross [leverage ratio](../l/leverage_ratio.md) is a fundamental metric for anyone involved in [algorithmic trading](../a/accountability.md). It indicates the level of exposure a portfolio or [trading strategy](../t/trading_strategy.md) has in relation to its [equity](../e/equity.md) and serves as a vital tool for [risk management](../r/risk_management.md), performance evaluation, and regulatory compliance. By understanding and monitoring this ratio, traders can make more informed decisions and navigate the intricacies of leveraged trading more effectively.
+The gross [leverage ratio](../l/leverage_ratio.md) is a fundamental metric for anyone involved in [algorithmic trading](../a/algorithmic_trading.md). It indicates the level of exposure a portfolio or [trading strategy](../t/trading_strategy.md) has in relation to its [equity](../e/equity.md) and serves as a vital tool for [risk management](../r/risk_management.md), performance evaluation, and regulatory compliance. By understanding and monitoring this ratio, traders can make more informed decisions and navigate the intricacies of leveraged trading more effectively.

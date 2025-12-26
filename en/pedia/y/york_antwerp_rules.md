@@ -48,4 +48,3 @@ While the York Antwerp Rules provide a comprehensive framework, they are not wit
 
 The York Antwerp Rules form a cornerstone of modern [maritime law](../m/maritime_law.md), providing a [robust](../r/robust.md) and standardized framework for sharing losses due to extraordinary sacrifices made for the common good during maritime adventures. While they have evolved over more than a century and continue to be widely adopted, ongoing assessments and revisions are necessary to keep the rules relevant to the changing landscape of global shipping.
 
-For more information about the York Antwerp Rules, you can refer to the website of the Comité Maritime International (CMI), which oversees the development and administration of these rules: [CMI Official Website](https://comitemaritime.org).

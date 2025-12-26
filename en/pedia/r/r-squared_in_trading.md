@@ -28,7 +28,7 @@ A higher R-squared [value](../v/value.md) implies a model that closely fits the 
 - **Low R-Squared (closer to 0):** Suggests that the portfolio returns are largely independent of the [market](../m/market.md) performance, possibly indicating higher [alpha generation](../a/alpha_generation.md) and higher [idiosyncratic risk](../i/idiosyncratic_risk.md).
 
 ### Example: R-Squared in Hedge Funds
-[Hedge](../h/hedge.md) funds often use R-squared to measure how well their strategy correlates with [market](../m/market.md) performance. 
+[Hedge](../h/hedge.md) funds often use R-squared to measure how well their strategy correlates with [market](../m/market.md) performance.
 
 - **Example Case:** A [market](../m/market.md)-[neutral](../n/neutral.md) [hedge fund](../h/hedge_fund.md) might have a low R-squared [value](../v/value.md) to signify that its performance is not heavily influenced by [market](../m/market.md) movements but rather by individual [asset](../a/asset.md) performance and strategy [execution](../e/execution.md).
 
@@ -36,24 +36,24 @@ A higher R-squared [value](../v/value.md) implies a model that closely fits the 
 Many trading platforms and [portfolio management](../p/portfolio_management.md) tools provide an R-squared metric to aid traders and investors. Some of these include:
 
 ### MATLAB
-MATLAB offers various financial toolboxes for [quantitative analysis](../q/quantitative_analysis.md), including the calculation of R-squared for [trading models](../t/trading_models.md). 
+MATLAB offers various financial toolboxes for [quantitative analysis](../q/quantitative_analysis.md), including the calculation of R-squared for [trading models](../t/trading_models.md).
 
-Link: [MathWorks - MATLAB Financial Toolbox](https://www.mathworks.com/products/finance.html)
+Link: MathWorks - MATLAB Financial Toolbox
 
 ### Bloomberg Terminal
 The [Bloomberg](../b/bloomberg.md) Terminal provides comprehensive tools for traders to analyze [portfolio performance](../p/portfolio_performance.md), including R-squared statistical modeling.
 
-Link: [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+Link: Bloomberg Terminal
 
 ### QuantConnect
-[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and provides extensive resources for [backtesting](../b/backtesting.md) which include R-squared calculations. 
+[QuantConnect](../q/quantconnect.md) is an [open](../o/open.md) platform for [algorithmic trading](../a/algorithmic_trading.md) and provides extensive resources for [backtesting](../b/backtesting.md) which include R-squared calculations.
 
-Link: [QuantConnect](https://www.quantconnect.com/)
+Link: QuantConnect
 
 ### R (Programming Language)
 R is widely used for data analysis and statistical modeling in trading. Packages such as `quantmod`, `PerformanceAnalytics`, and `TTR` provide functionalities to calculate and interpret R-squared in [trading models](../t/trading_models.md).
 
-Link: [R Project for Statistical Computing](https://www.r-project.org/)
+Link: R Project for Statistical Computing
 
 ## Incorporating R-Squared in Trading Algorithms
 [Algorithmic trading](../a/algorithmic_trading.md) strategies often incorporate R-squared to enhance their robustness and predictive accuracy. Here are steps algorithms might follow:

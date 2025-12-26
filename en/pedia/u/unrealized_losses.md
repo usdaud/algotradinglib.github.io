@@ -60,22 +60,22 @@ Advanced [algorithmic trading](../a/algorithmic_trading.md) systems increasingly
 
 [Hedge](../h/hedge.md) funds are known for their sophisticated [algorithmic trading](../a/algorithmic_trading.md) strategies, often handling large portfolios with complex [risk management](../r/risk_management.md) needs. Firms like Renaissance Technologies or D.E. Shaw deploy algorithms designed to optimize returns while managing unrealized losses in real-time.
 
-- [Renaissance Technologies](https://www.rentec.com/)
-- [D.E. Shaw Group](https://www.deshaw.com/)
+- Renaissance Technologies
+- D.E. Shaw Group
 
 ### High-Frequency Trading Firms
 
 High-frequency trading (HFT) firms employ algorithms to execute a large number of orders at extremely high speeds. Unrealized losses in such scenarios can accumulate rapidly, and thus efficient handling of these losses is critical. Firms such as Citadel Securities and Virtu Financial are leaders in this domain.
 
-- [Citadel Securities](https://www.citadelsecurities.com/)
-- [Virtu Financial](https://www.virtu.com/)
+- Citadel Securities
+- Virtu Financial
 
 ### Retail Algorithmic Trading Platforms
 
 Platforms like [QuantConnect](../q/quantconnect.md) or [AlgoTrader](../a/algotrader.md) provide individual traders and smaller institutions with the tools to develop and deploy their own algorithms. These platforms often include features to monitor unrealized losses, stress-test strategies, and conduct backtests to optimize performance.
 
-- [QuantConnect](https://www.quantconnect.com/)
-- [AlgoTrader](https://www.algotrader.com/)
+- QuantConnect
+- AlgoTrader
 
 ## Conclusion
 

@@ -4,7 +4,7 @@ In the realm of [financial markets](../f/financial_market.md), commissions play 
 
 ### Types of Commissions in Trading
 1. **Fixed Commissions**: These are predefined fees charged on each [trade](../t/trade.md) irrespective of the [trade](../t/trade.md)'s [volume](../v/volume.md) or [value](../v/value.md). Since they are flat, they can make it easier to predict costs over time.
-   
+
 2. **Percentage-based Commissions**: Unlike fixed commissions, these fees are calculated as a percentage of the [transaction](../t/transaction.md)'s [value](../v/value.md). This means that larger transactions [will](../w/will.md) incur larger fees.
 
 3. **Tiered Commissions**: Some brokers [offer](../o/offer.md) tiered pricing models where the commission rates decrease as the trading [volume](../v/volume.md) or activity increases. This approach is designed to attract high-frequency traders by [offering](../o/offering.md) them lower fees as their trading activity scales up.
@@ -26,17 +26,17 @@ In the realm of [financial markets](../f/financial_market.md), commissions play 
 #### Interactive Brokers
 [Interactive Brokers](../i/interactive_brokers.md) is renowned for its low-cost commission structure, particularly appealing to high-frequency traders.
 
-Link: [Interactive Brokers](https://www.interactivebrokers.com/)
+Link: Interactive Brokers
 
 #### Charles Schwab
 [Charles Schwab](../c/charles_schwab.md) offers a [range](../r/range.md) of commission-free trading on various products, making it an attractive option for different types of traders.
 
-Link: [Charles Schwab](https://www.schwab.com/)
+Link: Charles Schwab
 
 #### E*TRADE
 [E*TRADE](../e/e_trade.md) offers a mix of commission-free trading [options](../o/options.md) and tiered commission structures.
 
-Link: [E*TRADE](https://us.etrade.com/)
+Link: E*TRADE
 
 ### Calculating the Impact of Commissions on Profitability
 

@@ -59,25 +59,21 @@ RPA is used in [manufacturing](../m/manufacturing.md) for [supply chain](../s/su
 
 UiPath is one of the leading RPA platforms that offers a comprehensive suite for building, deploying, and managing bots. It provides an intuitive drag-and-drop interface and supports integration with various third-party applications.
 
-[UiPath](https://www.uipath.com)
 
 ### Automation Anywhere
 
 Automation Anywhere is another leading RPA tool that offers cloud-native RPA services. It provides features like Bot Insights for analytics and IQ Bot for intelligent document processing.
 
-[Automation Anywhere](https://www.automationanywhere.com)
 
 ### Blue Prism
 
 Blue Prism is known for its strong governance and [security](../s/security.md) features, making it a preferred choice for industries with high regulatory requirements. It focuses on scalable and resilient automation solutions.
 
-[Blue Prism](https://www.blueprism.com)
 
 ### WorkFusion
 
 WorkFusion offers intelligent automation solutions that combine RPA with AI and [Machine Learning](../m/machine_learning.md), making it suitable for more complex automation needs.
 
-[WorkFusion](https://www.workfusion.com)
 
 ## RPA Implementation
 

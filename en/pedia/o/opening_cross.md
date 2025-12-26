@@ -65,11 +65,11 @@ Regulatory bodies and exchanges have specific rules governing the Opening Cross 
 ### Exchange Implementations
 
 Different exchanges may implement the Opening Cross with slight variations. For example:
-- **[NASDAQ](../n/nasdaq.md):** The [NASDAQ](../n/nasdaq.md) [Stock Market](../s/stock_market.md) uses a sophisticated [order](../o/order.md) matching engine to conduct its Opening Cross, catering especially to high-tech [stocks](../s/stock.md) ([NASDAQ](https://www.nasdaq.com)).
-- **NYSE:** The New York Stock [Exchange](../e/exchange.md) has its own variant of the Opening Cross, often conducted with the assistance of Designated [Market](../m/market.md) Makers (DMMs) ([NYSE](https://www.nyse.com)).
+- **[NASDAQ](../n/nasdaq.md):** The [NASDAQ](../n/nasdaq.md) [Stock Market](../s/stock_market.md) uses a sophisticated [order](../o/order.md) matching engine to conduct its Opening Cross, catering especially to high-tech [stocks](../s/stock.md) (NASDAQ).
+- **NYSE:** The New York Stock [Exchange](../e/exchange.md) has its own variant of the Opening Cross, often conducted with the assistance of Designated [Market](../m/market.md) Makers (DMMs) (NYSE).
 
 ## Conclusion
 
-The Opening Cross plays a crucial role in setting a fair and orderly start to the trading day. By aggregating orders and facilitating [price discovery](../p/price_discovery.md), it lays the groundwork for efficient [market](../m/market.md) operations, benefiting both individual investors and institutional participants. Understanding the mechanics and nuances of the Opening Cross can provide traders with valuable insights into [market dynamics](../m/market_dynamics.md) and help inform their [trading strategies](../t/trading_strategies.md). 
+The Opening Cross plays a crucial role in setting a fair and orderly start to the trading day. By aggregating orders and facilitating [price discovery](../p/price_discovery.md), it lays the groundwork for efficient [market](../m/market.md) operations, benefiting both individual investors and institutional participants. Understanding the mechanics and nuances of the Opening Cross can provide traders with valuable insights into [market dynamics](../m/market_dynamics.md) and help inform their [trading strategies](../t/trading_strategies.md).
 
 In a continuously evolving financial landscape, the Opening Cross remains a fundamental component of modern trading platforms, helping to tame the inherent [volatility](../v/volatility.md) and complexity of [financial markets](../f/financial_market.md).

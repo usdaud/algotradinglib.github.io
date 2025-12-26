@@ -62,32 +62,32 @@ For those looking to implement [volume](../v/volume.md) and price analysis in [a
 
 ### Trading Platforms
 
-1. **MetaTrader 5**: A multi-[asset](../a/asset.md) platform that offers tools for comprehensive price and [volume analysis](../v/volume_analysis.md). [MetaTrader 5](https://www.metatrader5.com/en)
-  
-2. **[QuantConnect](../q/quantconnect.md)**: An online platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, which offers extensive libraries for [volume](../v/volume.md) and price analysis. [QuantConnect](https://www.quantconnect.com)
+1. **MetaTrader 5**: A multi-[asset](../a/asset.md) platform that offers tools for comprehensive price and [volume analysis](../v/volume_analysis.md). MetaTrader 5
 
-3. **[NinjaTrader](../n/ninjatrader.md)**: This platform facilitates advanced charting, analytics, and [volume indicators](../v/volume_indicators.md) for developing [trading algorithms](../t/trading_algorithms.md). [NinjaTrader](https://ninjatrader.com)
+2. **[QuantConnect](../q/quantconnect.md)**: An online platform for [backtesting](../b/backtesting.md) and deploying [algorithmic trading](../a/algorithmic_trading.md) strategies, which offers extensive libraries for [volume](../v/volume.md) and price analysis. QuantConnect
+
+3. **[NinjaTrader](../n/ninjatrader.md)**: This platform facilitates advanced charting, analytics, and [volume indicators](../v/volume_indicators.md) for developing [trading algorithms](../t/trading_algorithms.md). NinjaTrader
 
 ### Data Providers
 
-1. **[Quandl](../q/quandl.md)**: Offers extensive datasets for financial and economic data, including [volume](../v/volume.md) and price data. [Quandl](https://www.quandl.com)
+1. **[Quandl](../q/quandl.md)**: Offers extensive datasets for financial and economic data, including [volume](../v/volume.md) and price data. Quandl
 
-2. **[Alpaca](../a/alpaca.md)**: Provides [commission](../c/commission.md)-free trading with real-time data suitable for [algorithmic trading](../a/algorithmic_trading.md). [Alpaca](https://alpaca.markets)
+2. **[Alpaca](../a/alpaca.md)**: Provides [commission](../c/commission.md)-free trading with real-time data suitable for [algorithmic trading](../a/algorithmic_trading.md). Alpaca
 
 ### Libraries and APIs
 
-1. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library used for developing custom indicators and strategies. [TA-Lib](https://mrjbq7.github.io/ta-lib/)
-  
-2. **Pandas**: A Python library providing data structures for data analysis, useful for handling [volume](../v/volume.md) and price data. [Pandas](https://pandas.pydata.org)
+1. **TA-Lib**: [Technical Analysis](../t/technical_analysis.md) Library used for developing custom indicators and strategies. TA-Lib
 
-3. **[Alpha](../a/alpha.md) Vantage API**: Provides real-time and historical [equity](../e/equity.md) data, including comprehensive [volume](../v/volume.md) and price metrics. [Alpha Vantage](https://www.alphavantage.co)
+2. **Pandas**: A Python library providing data structures for data analysis, useful for handling [volume](../v/volume.md) and price data. Pandas
+
+3. **[Alpha](../a/alpha.md) Vantage API**: Provides real-time and historical [equity](../e/equity.md) data, including comprehensive [volume](../v/volume.md) and price metrics. Alpha Vantage
 
 ## Best Practices
 
 Ensuring successful implementation of [volume](../v/volume.md) and price analysis in [algorithmic trading](../a/algorithmic_trading.md) requires adherence to several [best practices](../b/best_practices.md):
 
 1. **Data Quality**: High-quality, accurate data is essential for reliable analysis. Ensure your data sources are reputable and up-to-date.
-  
+
 2. **[Backtesting](../b/backtesting.md)**: Always backtest your strategies in historical data environments before deployment to understand their performance and limitations.
 
 3. **[Risk Management](../r/risk_management.md)**: Implement [risk management](../r/risk_management.md) protocols to protect against significant losses, even when your [volume](../v/volume.md) and price analysis suggests favorable conditions.

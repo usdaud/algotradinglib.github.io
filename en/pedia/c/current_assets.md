@@ -91,13 +91,13 @@ A balanced level of current assets indicates good [financial health](../f/financ
 
 ### Apple Inc.
 
-**Website:** [Apple Inc.](https://www.apple.com)
+**online platform:** Apple Inc.
 
 Apple Inc. maintains a significant amount of current assets, ensuring the company can meet its short-term [obligations](../o/obligation.md) while having enough [liquidity](../l/liquidity.md) to invest in new projects and innovations.
 
 ### Microsoft Corporation
 
-**Website:** [Microsoft Corporation](https://www.microsoft.com)
+**online platform:** Microsoft Corporation
 
 Microsoft consistently manages its current assets to maintain a strong [balance sheet](../b/balance_sheet.md), ensuring [liquidity](../l/liquidity.md) and [operational efficiency](../o/operational_efficiency_in_trading.md) to [fund](../f/fund.md) its diverse technological ventures.
 

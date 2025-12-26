@@ -40,8 +40,8 @@ Implementing the Halloween Strategy involves two main steps:
 
 Some financial institutions and [hedge](../h/hedge.md) funds reportedly use the Halloween Strategy as part of their broader investment strategies. For instance:
 
-- **BlackRock:** As one of the largest [asset management](../a/asset_management.md) companies, BlackRock's approach involves a variety of strategies, including time-tested tactics like the Halloween Strategy to maximize returns. (Source: [BlackRock](https://www.blackrock.com))
-- **The Oxford Club:** An investment research organization that offers various strategies, including seasonal ones. The Halloween Strategy is sometimes discussed in their publications as part of a diversified investment approach. (Source: [The Oxford Club](https://oxfordclub.com))
+- **BlackRock:** As one of the largest [asset management](../a/asset_management.md) companies, BlackRock's approach involves a variety of strategies, including time-tested tactics like the Halloween Strategy to maximize returns. (Source: BlackRock)
+- **The Oxford Club:** An investment research organization that offers various strategies, including seasonal ones. The Halloween Strategy is sometimes discussed in their publications as part of a diversified investment approach. (Source: The Oxford Club)
 
 ## Conclusion
 

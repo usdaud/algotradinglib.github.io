@@ -25,10 +25,10 @@ The payoff matrix is typically set up in such a way that:
 
 The commonly used payoff matrix is:
 
-|         | Cooperate (C) | Defect (D)   |
+| | Cooperate (C) | Defect (D) |
 |---------|----------------|--------------|
-| **C**   | -1, -1         | -3, 0        |
-| **D**   |  0, -3         | -2, -2       |
+| **C** | -1, -1 | -3, 0 |
+| **D** | 0, -3 | -2, -2 |
 
 The numbers in the table represent the years in prison. Clearly, the dilemma shows that rational agents who follow their self-[interest](../i/interest.md) (D, D) end up worse off than if they had cooperated (C, C).
 

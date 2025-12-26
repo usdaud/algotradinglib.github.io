@@ -63,23 +63,23 @@ Several tools and technologies are available for conducting [liquidity](../l/liq
 ### Trading Platforms
 
 1. **[Bloomberg](../b/bloomberg.md) Terminal**: Offers a comprehensive set of tools for [liquidity](../l/liquidity.md) analysis, including real-time data, analytics, and visualization.
-   - [Bloomberg](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+ - Bloomberg
 2. **Thomson [Reuters](../r/reuters.md) Eikon**: Provides extensive [market](../m/market.md) data and analytical tools to assess [liquidity](../l/liquidity.md) across various [asset](../a/asset.md) classes.
-   - [Eikon](https://www.refinitiv.com/en/products/eikon-trading-software)
+ - Eikon
 
 ### Algorithmic Trading Software
 
 1. **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform [offering](../o/offering.md) tools for developing and [backtesting](../b/backtesting.md) [liquidity](../l/liquidity.md) analysis strategies.
-   - [QuantConnect](https://www.quantconnect.com/)
+ - QuantConnect
 2. **[AlgoTrader](../a/algotrader.md)**: Provides [algorithmic trading](../a/algorithmic_trading.md) software that integrates [liquidity](../l/liquidity.md) analysis tools and [market](../m/market.md) data feeds.
-   - [AlgoTrader](https://www.algotrader.com/)
+ - AlgoTrader
 
 ### Data Providers
 
 1. **[Xignite](../x/xignite.md)**: Offers financial [market](../m/market.md) data APIs for accessing real-time and historical data, aiding [liquidity](../l/liquidity.md) analysis.
-   - [Xignite](https://www.xignite.com/)
+ - Xignite
 2. **[Quandl](../q/quandl.md)**: An [alternative data](../a/alternative_data.md) service providing access to a wide [range](../r/range.md) of financial and economic data.
-   - [Quandl](https://www.quandl.com/)
+ - Quandl
 
 ## Challenges in Liquidity Analysis
 

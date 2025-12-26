@@ -117,11 +117,11 @@ Hybrid models that combine traditional human advisory services with robo-advisor
 
 Several notable firms specialize in providing managed accounts, some of which include:
 
-- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a [range](../r/range.md) of managed account solutions tailored to meet various investment goals and preferences. [Fidelity Managed Accounts](https://www.fidelity.com/go/managed-accounts/overview)
-- **[Charles Schwab](../c/charles_schwab.md)**: Schwab provides both personalized and automated managed account services, catering to a broad array of [investor](../i/investor.md) needs. [Schwab Managed Accounts](https://www.schwab.com/investment-advice/managed-accounts)
-- **Vanguard**: Known for its low-cost investment [options](../o/options.md), Vanguard offers managed account services, including personal advisor services. [Vanguard Personal Advisor Services](https://investor.vanguard.com/advice/personal-advisor)
-- **Morgan Stanley**: Morgan Stanley [Wealth Management](../w/wealth_management.md) provides a variety of managed account services, backed by a team of experienced financial advisors. [Morgan Stanley Wealth Management](https://www.morganstanley.com/wealth-management/investment-management/managed-accounts.html)
-- **BlackRock**: As one of the leading [asset](../a/asset.md) managers in the world, BlackRock offers managed account solutions through its Aladdin platform. [BlackRock Managed Accounts](https://www.blackrock.com/us/individual)
+- **[Fidelity Investments](../f/fidelity_investments.md)**: Fidelity offers a [range](../r/range.md) of managed account solutions tailored to meet various investment goals and preferences. Fidelity Managed Accounts
+- **[Charles Schwab](../c/charles_schwab.md)**: Schwab provides both personalized and automated managed account services, catering to a broad array of [investor](../i/investor.md) needs. Schwab Managed Accounts
+- **Vanguard**: Known for its low-cost investment [options](../o/options.md), Vanguard offers managed account services, including personal advisor services. Vanguard Personal Advisor Services
+- **Morgan Stanley**: Morgan Stanley [Wealth Management](../w/wealth_management.md) provides a variety of managed account services, backed by a team of experienced financial advisors. Morgan Stanley Wealth Management
+- **BlackRock**: As one of the leading [asset](../a/asset.md) managers in the world, BlackRock offers managed account solutions through its Aladdin platform. BlackRock Managed Accounts
 
 ## Conclusion
 

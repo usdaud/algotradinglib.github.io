@@ -106,12 +106,11 @@ Continuous monitoring of [return](../r/return.md) [distribution](../d/distributi
 
 Several [software tools](../s/software_tools_for_trading.md) and platforms facilitate the analysis of [return](../r/return.md) [distribution](../d/distribution.md) in [algorithmic trading](../a/algorithmic_trading.md). Some popular tools include:
 
-- **[QuantConnect](../q/quantconnect.md)**: A cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive data for [backtesting](../b/backtesting.md) and live trading. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides a [range](../r/range.md) of functionalities for [return](../r/return.md) [distribution](../d/distribution.md) analysis. (http://[quantlib](../q/quantlib.md).org/)
-- **MATLAB**: A numerical computing environment used for statistical analysis, [simulation](../s/simulation_in_trading.md), and modeling of [return](../r/return.md) distributions. (https://www.mathworks.com/products/matlab.html)
-- **Python Libraries (Pandas, NumPy, SciPy, Scikit-Learn)**: Widely used libraries in Python for data analysis, statistical modeling, and [machine learning](../m/machine_learning.md), enabling comprehensive [return](../r/return.md) [distribution](../d/distribution.md) analysis. (https://pandas.pydata.org/, https://numpy.org/, https://www.scipy.org/, https://scikit-learn.org/stable/)
-- **R**: A programming language and environment for statistical computing, ideal for analyzing financial [return](../r/return.md) distributions. (https://www.r-project.org/)
-- **Excel**: A versatile tool for performing basic statistical analysis and visualization of [return](../r/return.md) distributions. (https://www.microsoft.com/en-us/microsoft-365/excel)
+- **[QuantConnect](../q/quantconnect.md)**: A [algorithmic trading](../a/algorithmic_trading.md) platform that offers extensive data for [backtesting](../b/backtesting.md) and live trading. (
+- **[Quantlib](../q/quantlib.md)**: An [open](../o/open.md)-source library for [quantitative finance](../q/quantitative_finance.md) that provides a [range](../r/range.md) of functionalities for [return](../r/return.md) [distribution](../d/distribution.md) analysis. (
+- **MATLAB**: A numerical computing environment used for statistical analysis, [simulation](../s/simulation_in_trading.md), and modeling of [return](../r/return.md) distributions. (
+- **Python Libraries (Pandas, NumPy, SciPy, Scikit-Learn)**: Widely used libraries in Python for data analysis, statistical modeling, and [machine learning](../m/machine_learning.md), enabling comprehensive [return](../r/return.md) [distribution](../d/distribution.md) analysis. ( - **R**: A programming language and environment for statistical computing, ideal for analyzing financial [return](../r/return.md) distributions. (
+- **Excel**: A versatile tool for performing basic statistical analysis and visualization of [return](../r/return.md) distributions. (
 
 ## Conclusion
 

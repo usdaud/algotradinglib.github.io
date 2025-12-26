@@ -66,19 +66,19 @@ There are numerous [inverse ETFs](../i/inverse_etfs.md) available in the [market
 
 ProShares Short S&P 500 seeks to provide -1x the daily performance of the S&P 500. This ETF is one of the most popular [inverse ETFs](../i/inverse_etfs.md) and is often used by investors looking to [hedge](../h/hedge.md) against declines in the broader U.S. [stock market](../s/stock_market.md).
 
-**Link:** [ProShares Short S&P 500 (SH)](https://www.proshares.com/our-etfs/short-etfs/sh)
+**Link:** ProShares Short S&P 500 (SH)
 
 ### Direxion Daily Financial Bear 3X Shares (FAZ)
 
 This leveraged inverse ETF seeks to deliver -3x the daily performance of the Russell 1000 Financial Services [Index](../i/index_instrument.md). Investors use FAZ to [gain](../g/gain.md) inverse exposure to the [financial sector](../f/financial_sector.md) with [leverage](../l/leverage.md).
 
-**Link:** [Direxion Daily Financial Bear 3X Shares (FAZ)](https://www.direxion.com/product/direxion-daily-financial-bear-3x-etf)
+**Link:** Direxion Daily Financial Bear 3X Shares (FAZ)
 
 ### Invesco QQQ Trust, Series 1 (PSQ)
 
 Invesco's PSQ ETF aims to provide inverse exposure to the [NASDAQ](../n/nasdaq.md)-100 [Index](../i/index_instrument.md). This ETF is popular among investors seeking to [hedge](../h/hedge.md) against declines in the technology-heavy [NASDAQ](../n/nasdaq.md) Composite.
 
-**Link:** [Invesco QQQ Trust, Series 1 (PSQ)](https://www.invesco.com/us/financial-products/etfs/products/psq)
+**Link:** Invesco QQQ Trust, Series 1 (PSQ)
 
 ## Conclusion
 

@@ -44,6 +44,6 @@ Upon completing its mission, the RTC's responsibilities were transferred to the 
 
 The RTC's creation, operation, and eventual dissolution provide a case study in government intervention in [financial markets](../f/financial_market.md). The lessons learned from the RTC experience influenced subsequent regulatory reforms and crisis management procedures, including responses to the 2008 [financial crisis](../f/financial_crisis.md).
 
-For more detailed information about the RTC and its legacy, you can visit the [FDIC website](https://www.fdic.gov).
+For more detailed information about the RTC and its legacy,
 
 In conclusion, the Resolution [Trust](../t/trust.md) [Corporation](../c/corporation.md)'s strategic handling of the S&L crisis demonstrated both the challenges and necessities of government intervention in [financial markets](../f/financial_market.md). While it faced criticism, its overall impact on restoring stability to the [financial system](../f/financial_system.md) and providing a framework for dealing with future crises remains significant.

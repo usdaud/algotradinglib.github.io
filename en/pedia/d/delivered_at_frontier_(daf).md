@@ -7,16 +7,16 @@ Delivered at Frontier (DAF) is an international [trade](../t/trade.md) term used
 DAF stipulates that the seller delivers goods to a named frontier – generally before the border of the importing country. It's the point often before customs clearance. Here are the responsibilities delineated under DAF:
 
 1. **Seller Responsibilities:**
-    - **Transportation:** The seller is responsible for delivering the goods up to the named frontier.
-    - **[Export](../e/export.md) Duties and Documentation:** The seller needs to [handle](../h/handle.md) all [export](../e/export.md) duties and documentation necessary for shipping.
-    - **Cost and [Risk](../r/risk.md):** All costs and risks involved in transporting the goods to the frontier are borne by the seller.
-    - **[Insurance](../i/insurance.md):** The seller must insure the goods against loss or damage until the delivery point.
-    - **Notify Buyer:** The seller is required to notify the buyer when the goods have reached the delivery point.
+ - **Transportation:** The seller is responsible for delivering the goods up to the named frontier.
+ - **[Export](../e/export.md) Duties and Documentation:** The seller needs to [handle](../h/handle.md) all [export](../e/export.md) duties and documentation necessary for shipping.
+ - **Cost and [Risk](../r/risk.md):** All costs and risks involved in transporting the goods to the frontier are borne by the seller.
+ - **[Insurance](../i/insurance.md):** The seller must insure the goods against loss or damage until the delivery point.
+ - **Notify Buyer:** The seller is required to notify the buyer when the goods have reached the delivery point.
 
 2. **Buyer Responsibilities:**
-    - **[Import](../i/import.md) Duties and Documentation:** The buyer is responsible for managing and paying for all [import](../i/import.md) duties and customs clearance once the goods have reached the named frontier.
-    - **Further Transportation:** It's the buyer’s obligation to arrange and pay for any onward transportation beyond the named frontier.
-    - **Cost and [Risk](../r/risk.md):** The buyer assumes all risks and costs once the goods have been delivered to the frontier.
+ - **[Import](../i/import.md) Duties and Documentation:** The buyer is responsible for managing and paying for all [import](../i/import.md) duties and customs clearance once the goods have reached the named frontier.
+ - **Further Transportation:** It's the buyer’s obligation to arrange and pay for any onward transportation beyond the named frontier.
+ - **Cost and [Risk](../r/risk.md):** The buyer assumes all risks and costs once the goods have been delivered to the frontier.
 
 ## Historical Context
 
@@ -62,13 +62,13 @@ In the [Incoterms](../i/incoterms.md) 2010 update, ICC replaced DAF with DAP (De
 ### DAP Responsibilities
 
 - **Seller Responsibilities:**
-    - Delivering goods to the named place of destination.
-    - Bearing all costs and risks until the goods are delivered.
-    - Handling [export](../e/export.md) clearance and documentation but not [import](../i/import.md).
+ - Delivering goods to the named place of destination.
+ - Bearing all costs and risks until the goods are delivered.
+ - Handling [export](../e/export.md) clearance and documentation but not [import](../i/import.md).
 
 - **Buyer Responsibilities:**
-    - Assuming risks and costs upon delivery at the named place.
-    - Managing [import](../i/import.md) clearance and any associated costs.
+ - Assuming risks and costs upon delivery at the named place.
+ - Managing [import](../i/import.md) clearance and any associated costs.
 
 ### Transition to DAP
 

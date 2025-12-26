@@ -57,7 +57,7 @@ Trading firms internalize orders by matching buy and sell orders within their ow
 
 ### High-Frequency Trading (HFT)
 
-HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing large numbers of orders at extremely high speeds. It relies on sophisticated technology and strategies to [capitalize](../c/capitalize.md) on minute price inefficiencies. 
+HFT is a subset of [algorithmic trading](../a/algorithmic_trading.md) that involves executing large numbers of orders at extremely high speeds. It relies on sophisticated technology and strategies to [capitalize](../c/capitalize.md) on minute price inefficiencies.
 
 ## 4. Post-Trade Processing
 
@@ -79,11 +79,11 @@ Trades must be reported to regulatory authorities to ensure [market](../m/market
 
 OMS are software solutions that facilitate the end-to-end [order](../o/order.md) lifecycle, enabling traders and institutions to manage orders efficiently. These systems can be integrated with [execution](../e/execution.md) management systems (EMS), [risk management](../r/risk_management.md) systems, and other trading [infrastructure](../i/infrastructure.md). Notable OMS providers include:
 
-- **Fidessa**: [Fidessa](https://www.fidessa.com/)
-- **[Bloomberg](../b/bloomberg.md) EMSX**: [Bloomberg EMSX](https://www.bloomberg.com/professional/product/emsx/)
-- **Charles River Development**: [Charles River Development](https://www.crd.com/)
-- **ION**: [ION](https://iongroup.com/)
-- **[FactSet](../f/factset.md)**: [Factset](https://www.factset.com/)
+- **Fidessa**: Fidessa
+- **[Bloomberg](../b/bloomberg.md) EMSX**: Bloomberg EMSX
+- **Charles River Development**: Charles River Development
+- **ION**: ION
+- **[FactSet](../f/factset.md)**: Factset
 
 ## 6. Risk Management in Order Processing
 

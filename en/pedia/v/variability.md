@@ -28,7 +28,7 @@ Understanding variability is crucial for creating a well-diversified portfolio. 
 
 ### 3. Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) systems often utilize measures of variability, such as [volatility](../v/volatility.md) and [standard deviation](../s/standard_deviation.md), to inform their [trading strategies](../t/trading_strategies.md). For example, a common strategy might be a [Volatility](../v/volatility.md) [Breakout](../b/breakout.md), where an algorithm generates buy or sell signals based on the [volatility](../v/volatility.md) levels of a [security](../s/security.md).
+[Algorithmic trading](../a/algorithmic_trading.md) systems often utilize measures of variability, such as [volatility](../v/volatility.md) and [standard deviation](../s/standard_deviation.md), to inform their [trading strategies](../t/trading_strategies.md). For example, a common strategy might be a [Volatility](../v/volatility.md) [Breakout](../b/breakout.md), where an algorithm generates buy or sell signals based on the [volatility](../v/volatility.md) levels of a [security](../s/security.md).
 
 ### 4. Scenario Analysis and Stress Testing
 

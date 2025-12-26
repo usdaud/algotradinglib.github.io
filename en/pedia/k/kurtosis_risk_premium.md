@@ -1,6 +1,6 @@
 # Kurtosis Risk Premium
 
-## Introduction to Kurtosis and Risk 
+## Introduction to Kurtosis and Risk
 **[Kurtosis](../k/kurtosis.md)** is a statistical measure that describes the [distribution](../d/distribution.md) of data points in the tails relative to a [normal distribution](../n/normal_distribution_in_trading.md). It is part of the higher moments of a [distribution](../d/distribution.md) in statistical terminology, along with [skewness](../s/skewness.md). [Kurtosis](../k/kurtosis.md) specifically captures the "tailedness" of the [distribution](../d/distribution.md), indicating how much weight is in the tails. A higher [kurtosis](../k/kurtosis.md) implies more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly-sized deviations.
 
 **Standard types of [kurtosis](../k/kurtosis.md)**:
@@ -14,7 +14,7 @@
 The **[Kurtosis Risk](../k/kurtosis_risk.md) [Premium](../p/premium.md)** (KRP) can be understood as the additional [return](../r/return.md) that investors [demand](../d/demand.md) for holding assets with higher [kurtosis](../k/kurtosis.md), or, more specifically, for being exposed to the [risk](../r/risk.md) of extreme deviations in returns. This concept expands the typical framework of [risk](../r/risk.md) premiums, which primarily focus on mean and variance.
 
 ### Theoretical Basis
-KRP is rooted in the notion that investors are not only averse to [volatility](../v/volatility.md) but also to the "fat tails" or extreme outcomes. Traditionally, [asset pricing models](../a/asset_pricing_models.md) like CAPM ([Capital Asset](../c/capital_asset.md) Pricing Model) consider [risk](../r/risk.md) in terms of [beta](../b/beta.md) ([market risk](../m/market_risk.md)), which assumes a [normal distribution](../n/normal_distribution_in_trading.md) of returns. However, in reality, [asset](../a/asset.md) returns often exhibit fat tails and deviations from normality. 
+KRP is rooted in the notion that investors are not only averse to [volatility](../v/volatility.md) but also to the "fat tails" or extreme outcomes. Traditionally, [asset pricing models](../a/asset_pricing_models.md) like CAPM ([Capital Asset](../c/capital_asset.md) Pricing Model) consider [risk](../r/risk.md) in terms of [beta](../b/beta.md) ([market risk](../m/market_risk.md)), which assumes a [normal distribution](../n/normal_distribution_in_trading.md) of returns. However, in reality, [asset](../a/asset.md) returns often exhibit fat tails and deviations from normality.
 
 Thus, **investors price in an additional [premium](../p/premium.md) for assets that exhibit higher [kurtosis](../k/kurtosis.md)**. Simply put, assets with potential for extreme outcomes must compensate investors with higher average returns.
 
@@ -47,14 +47,14 @@ In [financial markets](../f/financial_market.md), [kurtosis](../k/kurtosis.md) i
 - **[Kurtosis](../k/kurtosis.md)-based [Asset Allocation](../a/asset_allocation.md)**: Allocating assets in a portfolio by factoring in [kurtosis](../k/kurtosis.md) to manage [tail risk](../t/tail_risk.md).
 - **High-frequency Trading (HFT)**: Short-term strategies can benefit from analyzing [return](../r/return.md) distributions for extreme events.
 
-### Risk Management 
+### Risk Management
 Financial firms incorporate [kurtosis](../k/kurtosis.md) measurement into their [risk management](../r/risk_management.md) frameworks to understand and mitigate tail risks comprehensively. Techniques include [stress testing](../s/stress_testing_in_trading.md), [scenario analysis](../s/scenario_analysis.md), and [value](../v/value.md)-at-[risk](../r/risk.md) (VaR) models that [factor](../f/factor.md) in fat tails.
 
 ## Industry Examples
 Several financial institutions and research firms are exploring and utilizing KRP in their operations and methodologies. Examples include:
 
-- **AQR [Capital](../c/capital.md) Management**: [AQR](https://www.aqr.com) employs sophisticated [quantitative models](../q/quantitative_models.md), including those that account for higher moments, to guide investment strategies.
-- **BlackRock**: [BlackRock](https://www.blackrock.com) incorporates advanced [risk analysis](../r/risk_analysis.md) techniques, including [kurtosis](../k/kurtosis.md), in its [investment management](../i/investment_management.md) and advisory services.
+- **AQR [Capital](../c/capital.md) Management**: AQR employs sophisticated [quantitative models](../q/quantitative_models.md), including those that account for higher moments, to guide investment strategies.
+- **BlackRock**: BlackRock incorporates advanced [risk analysis](../r/risk_analysis.md) techniques, including [kurtosis](../k/kurtosis.md), in its [investment management](../i/investment_management.md) and advisory services.
 
 ## Conclusion
 [Kurtosis Risk](../k/kurtosis_risk.md) [Premium](../p/premium.md) is an advanced, nuanced concept in [financial risk management](../f/financial_risk_management.md) and portfolio theory. It provides a critical lens for understanding and mitigating tail risks, beyond traditional mean-[variance analysis](../v/variance_analysis.md). As [financial markets](../f/financial_market.md) evolve and the complexity of financial products increases, incorporating [kurtosis](../k/kurtosis.md) and KRP into models and strategies [will](../w/will.md) be increasingly vital.

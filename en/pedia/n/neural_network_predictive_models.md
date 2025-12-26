@@ -44,16 +44,16 @@ Optimizing portfolios by predicting the performance of various assets and findin
 ## Example Companies Utilizing Neural Network Predictive Models in Algotrading
 
 ### 1. **Kensho Technologies**
-[Kensho](https://www.kensho.com/) utilizes [machine learning](../m/machine_learning.md) and [neural networks](../n/neural_networks_in_trading.md) to analyze vast amounts of structured and unstructured financial data, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and actionable insights for trading and investment strategies.
+Kensho utilizes [machine learning](../m/machine_learning.md) and [neural networks](../n/neural_networks_in_trading.md) to analyze vast amounts of structured and unstructured financial data, [offering](../o/offering.md) [predictive analytics](../p/predictive_analytics.md) and actionable insights for trading and investment strategies.
 
 ### 2. **Kavout**
-[Kavout](https://www.kavout.com/) combines [neural networks](../n/neural_networks_in_trading.md) with [big data analytics](../b/big_data_analytics_in_trading.md) to provide [predictive models](../p/predictive_models_in_trading.md) specifically designed for [stock market](../s/stock_market.md) analysis and [financial forecasting](../f/financial_forecasting.md).
+Kavout combines [neural networks](../n/neural_networks_in_trading.md) with [big data analytics](../b/big_data_analytics_in_trading.md) to provide [predictive models](../p/predictive_models_in_trading.md) specifically designed for [stock market](../s/stock_market.md) analysis and [financial forecasting](../f/financial_forecasting.md).
 
 ### 3. **Numerai**
-[Numerai](https://numer.ai/) integrates [data science](../d/data_science_in_trading.md) and [neural networks](../n/neural_networks_in_trading.md) to crowdsource predictions from a decentralized community of data scientists, using ensemble models to manage a global [equity fund](../e/equity_fund.md).
+Numerai integrates [data science](../d/data_science_in_trading.md) and [neural networks](../n/neural_networks_in_trading.md) to crowdsource predictions from a decentralized community of data scientists, using ensemble models to manage a global [equity fund](../e/equity_fund.md).
 
 ### 4. **SigOpt**
-[SigOpt](https://sigopt.com/) offers an [optimization](../o/optimization.md) platform that helps traders and investors to enhance the performance of their [trading models](../t/trading_models.md) by optimizing their hyperparameters using advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [neural networks](../n/neural_networks_in_trading.md).
+SigOpt offers an [optimization](../o/optimization.md) platform that helps traders and investors to enhance the performance of their [trading models](../t/trading_models.md) by optimizing their hyperparameters using advanced machine [learning algorithms](../l/learning_algorithms_in_trading.md) and [neural networks](../n/neural_networks_in_trading.md).
 
 ## Model Training and Optimization
 
@@ -87,4 +87,4 @@ The area under the receiver operating characteristic curve, estimated to assess 
 
 Neural network [predictive models](../p/predictive_models_in_trading.md) represent a cutting-edge approach in the field of [algorithmic trading](../a/algorithmic_trading.md). By mimicking the human brain's decision-making process, these models can interpret complex financial data and deliver high-accuracy predictions. Companies leveraging these technologies are not only improving their [trading strategies](../t/trading_strategies.md) but also shaping the future of the financial [industry](../i/industry.md) by incorporating [deep learning](../d/deep_learning.md) innovations.
 
-Visit [Kensho](https://www.kensho.com/), [Kavout](https://www.kavout.com/), [Numerai](https://numer.ai/), and [SigOpt](https://sigopt.com/) for more information on their pioneering work in neural network [predictive models](../p/predictive_models_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md).
+Visit Kensho, Kavout, Numerai, and SigOpt for more information on their pioneering work in neural network [predictive models](../p/predictive_models_in_trading.md) for [algorithmic trading](../a/algorithmic_trading.md).

@@ -52,19 +52,19 @@ Non-cash charges can have significant tax implications. For example, [depreciati
 
 Amazon frequently reports non-cash charges related to stock-based compensation. In its annual [financial statements](../f/financial_statements.md), Amazon includes detailed notes on the amount of stock-based compensation [expense](../e/expense.md) incurred each year. For instance, in 2022, Amazon reported substantial expenses related to stock [options](../o/options.md) granted to employees, significantly impacting its net [income](../i/income.md) without affecting [cash flow](../c/cash_flow.md). These charges are essential for understanding Amazon's overall compensation strategy and how it affects the company's profitability.
 
-For more detailed information, refer to [Amazon's Investor Relations](https://www.amazon.com/ir).
+For more detailed information, refer to Amazon's company filings.
 
 ### Tesla
 
 Tesla also reports various non-cash charges, including [depreciation](../d/depreciation.md), amortization, and stock-based compensation. In its financial reports, Tesla provides insights into how these non-cash expenses impact its [earnings](../e/earnings.md). For instance, the [depreciation](../d/depreciation.md) of Gigafactories and the amortization of intangible assets like software development costs significantly contribute to Tesla's non-cash charges. By examining these charges, investors can better understand Tesla's [asset management](../a/asset_management.md) and future profitability.
 
-For more detailed information, refer to [Tesla's Investor Relations](https://ir.tesla.com).
+For more detailed information, refer to Tesla's company filings.
 
 ### Apple
 
 Apple Inc. regularly reports non-cash charges related to [depreciation](../d/depreciation.md), amortization, and stock-based compensation. These charges provide insights into Apple's [capital](../c/capital.md) investments, research and development expenses, and overall [financial health](../f/financial_health.md). For example, the [depreciation](../d/depreciation.md) of [manufacturing](../m/manufacturing.md) equipment and amortization of acquired patents play a significant role in Apple’s [financial statements](../f/financial_statements.md), impacting its net [income](../i/income.md) without directly affecting its cash position.
 
-For more detailed information, refer to [Apple's Investor Relations](https://investor.apple.com).
+For more detailed information, refer to Apple's company filings.
 
 ## Conclusion
 

@@ -24,7 +24,7 @@ The post gained immediate attention due to its raw expression and the misspellin
 
 ## The Philosophy Behind HODL
 
-The philosophy behind HODL extends beyond merely holding onto an [asset](../a/asset.md). It embodies a mindset reflective of long-term vision and faith in the [intrinsic value](../i/intrinsic_value.md) of the [underlying](../u/underlying.md) technological advancements and societal benefits that cryptocurrencies promise. 
+The philosophy behind HODL extends beyond merely holding onto an [asset](../a/asset.md). It embodies a mindset reflective of long-term vision and faith in the [intrinsic value](../i/intrinsic_value.md) of the [underlying](../u/underlying.md) technological advancements and societal benefits that cryptocurrencies promise.
 
 ### Long-term Vision
 

@@ -1,6 +1,6 @@
 # Stock Split
 
-A stock split is a corporate action in which a company divides its existing [shares](../s/shares.md) into [multiple](../m/multiple.md) [shares](../s/shares.md) to boost the [liquidity](../l/liquidity.md) of the [shares](../s/shares.md). Although the number of [shares](../s/shares.md) outstanding increases by a specific [multiple](../m/multiple.md), the total [value](../v/value.md) of the [shares](../s/shares.md) remains the same compared to pre-split amounts, because the split does not add any real [value](../v/value.md). The most common types of stock splits are 2-for-1, 3-for-1, and 3-for-2. When a company issues a 2-for-1 stock split, each share held by a [shareholder](../s/shareholder.md) is "split" into two [shares](../s/shares.md). Therefore, the number of [shares](../s/shares.md) outstanding is doubled. 
+A stock split is a corporate action in which a company divides its existing [shares](../s/shares.md) into [multiple](../m/multiple.md) [shares](../s/shares.md) to boost the [liquidity](../l/liquidity.md) of the [shares](../s/shares.md). Although the number of [shares](../s/shares.md) outstanding increases by a specific [multiple](../m/multiple.md), the total [value](../v/value.md) of the [shares](../s/shares.md) remains the same compared to pre-split amounts, because the split does not add any real [value](../v/value.md). The most common types of stock splits are 2-for-1, 3-for-1, and 3-for-2. When a company issues a 2-for-1 stock split, each share held by a [shareholder](../s/shareholder.md) is "split" into two [shares](../s/shares.md). Therefore, the number of [shares](../s/shares.md) outstanding is doubled.
 
 Stock splits can also occur in reverse, known as a [reverse stock split](../r/reverse_stock_split.md), where a company reduces the number of [shares](../s/shares.md) outstanding, increasing the share price correspondingly. For instance, in a 1-for-10 [reverse stock split](../r/reverse_stock_split.md), shareholders receive one share for every 10 [shares](../s/shares.md) they own, and the share price [will](../w/will.md) increase by a [factor](../f/factor.md) of 10.
 
@@ -35,10 +35,8 @@ The [value](../v/value.md) of an [investor](../i/investor.md)'s holding won't ch
 
 ## Notable Examples
 
-- **Apple Inc.**: Apple has had several stock splits, with the most recent being a 4-for-1 stock split in August 2020. For more information, see their [investor relations](../i/investor_relations.md) page: https://[investor](../i/investor.md).apple.com
-
-- **Tesla Inc.**: Tesla executed a 5-for-1 stock split in August 2020 to make [shares](../s/shares.md) more affordable for investors. For more information, visit: https://ir.tesla.com
-
+- **Apple Inc.**: Apple has had several stock splits, with the most recent being a 4-for-1 stock split in August 2020../i/investor_relations.md) page
+- **Tesla Inc.**: Tesla executed a 5-for-1 stock split in August 2020 to make [shares](../s/shares.md) more affordable for investors. For more information, visit
 ## Reverse Stock Split
 
 Opposite to stock splits, [reverse stock splits](../r/reverse_stock_splits.md) consolidate the number of existing [shares](../s/shares.md) into fewer, higher-valued [shares](../s/shares.md). For example, in a 1-for-5 [reverse stock split](../r/reverse_stock_split.md):
@@ -48,15 +46,14 @@ Opposite to stock splits, [reverse stock splits](../r/reverse_stock_splits.md) c
 ### Reasons for Reverse Stock Split
 
 1. **Compliance with [Listing Requirements](../l/listing_requirements.md)**: Companies trading below minimum required price levels might execute reverse splits to ensure continued listing on stock exchanges.
-   
+
 2. **Improving [Perceived Value](../p/perceived_value.md)**: A higher share price might improve the stock's appeal among investors and analysts.
 
 3. **Reducing Share Count**: This may be a strategy to consolidate ownership and decrease the [volatility](../v/volatility.md) caused by a large number of shareholders holding small quantities of [shares](../s/shares.md).
 
 ### Example of Reverse Stock Split
 
-- **American International Group (AIG)**: In 2009, AIG conducted a 1-for-20 [reverse stock split](../r/reverse_stock_split.md). More details regarding their reverse split can be found at: https://www.aig.com
-
+- **American International Group (AIG)**: In 2009, AIG conducted a 1-for-20 [reverse stock split](../r/reverse_stock_split.md). More details regarding their reverse split can be found at
 ## Conclusion
 
 Stock splits are strategic tools used by companies to enhance the accessibility and attractiveness of their stock, while [reverse stock splits](../r/reverse_stock_splits.md) help firms manage share price levels and [market](../m/market.md) perceptions. Investors should understand the mechanics and implications of these corporate actions as they decide on investment strategies and interpret stock performance.

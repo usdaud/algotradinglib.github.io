@@ -52,8 +52,8 @@ Examining specific examples of Super PACs can provide insight into their operati
 
 - **Restore Our Future**: A Super PAC that supported Mitt Romney's 2012 presidential campaign, raising over $142 million.
 - **Priorities USA Action**: Initially founded to support Barack Obama's re-election, it later became a key player in supporting Democratic presidential candidates.
-  
-__[Priorities USA Action](https://priorities.org/)__
+
+__Priorities USA Action__
 
 ## Ethical and Legal Considerations
 

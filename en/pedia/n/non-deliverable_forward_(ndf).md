@@ -14,7 +14,7 @@ NDF contracts have well-defined terms, including:
 
 ### Settlement Mechanism
 
-Unlike traditional [forward contracts](../f/forward_contracts.md) that involve the delivery of the [underlying asset](../u/underlying_asset.md), NDFs are settled in cash. On the fixing date, the prevailing [spot rate](../s/spot_rate.md) for the [currency](../c/currency.md) pair is compared to the pre-agreed [forward rate](../f/forward_rate.md). The difference between the two rates is used to compute the [payment](../p/payment.md) in the convertible [currency](../c/currency.md) (typically USD). 
+Unlike traditional [forward contracts](../f/forward_contracts.md) that involve the delivery of the [underlying asset](../u/underlying_asset.md), NDFs are settled in cash. On the fixing date, the prevailing [spot rate](../s/spot_rate.md) for the [currency](../c/currency.md) pair is compared to the pre-agreed [forward rate](../f/forward_rate.md). The difference between the two rates is used to compute the [payment](../p/payment.md) in the convertible [currency](../c/currency.md) (typically USD).
 
 - **Cash Settlement**: The payoff is based on the notional amount and the [exchange rate](../e/exchange_rate.md) difference. If the fixing rate is less favorable than the agreed [forward rate](../f/forward_rate.md) for the buyer, the seller compensates the buyer, and vice versa.
 
@@ -77,16 +77,16 @@ Primary participants in the NDF [market](../m/market.md) include:
 
 ## Future of NDFs
 
-The [trend](../t/trend.md) of global [economic integration](../e/economic_integration.md) and the continued emergence of new markets suggest that NDFs [will](../w/will.md) remain relevant and may even grow in importance. Advances in technology, particularly in the realms of fintech and [algorithmic trading](../a/accountability.md), are likely to increase the [efficiency](../e/efficiency.md) and accessibility of NDF markets, potentially democratizing participation and improving [liquidity](../l/liquidity.md).
+The [trend](../t/trend.md) of global [economic integration](../e/economic_integration.md) and the continued emergence of new markets suggest that NDFs [will](../w/will.md) remain relevant and may even grow in importance. Advances in technology, particularly in the realms of fintech and [algorithmic trading](../a/algorithmic_trading.md), are likely to increase the [efficiency](../e/efficiency.md) and accessibility of NDF markets, potentially democratizing participation and improving [liquidity](../l/liquidity.md).
 
 ### Technological Impact: Algorithmic Trading and Fintech
 
-[Algorithmic trading](../a/accountability.md), powered by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), is increasingly applied in the NDF markets. These technologies can analyze large datasets to identify trends and execute trades with precision, enhancing [liquidity](../l/liquidity.md) and reducing [spreads](../s/spreads.md). Fintech companies are also innovating in areas like [risk management](../r/risk_management.md) and regulatory compliance, making it easier for smaller entities to participate in the NDF [market](../m/market.md).
+[Algorithmic trading](../a/algorithmic_trading.md), powered by advances in [artificial intelligence](../a/artificial_intelligence_in_trading.md) and [machine learning](../m/machine_learning.md), is increasingly applied in the NDF markets. These technologies can analyze large datasets to identify trends and execute trades with precision, enhancing [liquidity](../l/liquidity.md) and reducing [spreads](../s/spreads.md). Fintech companies are also innovating in areas like [risk management](../r/risk_management.md) and regulatory compliance, making it easier for smaller entities to participate in the NDF [market](../m/market.md).
 
 **Example Companies Engaged in NDF Trading and Technology:**
-- [Citi](https://www.citigroup.com), a major player providing [market](../m/market.md)-making services in NDFs.
-- [Goldman Sachs](https://www.goldmansachs.com), known for its [algorithmic trading](../a/accountability.md) and [risk management](../r/risk_management.md) capabilities.
-- [AI Fintech](https://www.aifintech.com), a [firm](../f/firm.md) specializing in AI-driven [trading algorithms](../t/trading_algorithms.md) and [risk](../r/risk.md) analytics.
+- Citi, a major player providing [market](../m/market.md)-making services in NDFs.
+- Goldman Sachs, known for its [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md) capabilities.
+- AI Fintech, a [firm](../f/firm.md) specializing in AI-driven [trading algorithms](../t/trading_algorithms.md) and [risk](../r/risk.md) analytics.
 
 ## Conclusion
 

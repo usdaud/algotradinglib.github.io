@@ -50,7 +50,7 @@ Several trading platforms and financial software [offer](../o/offer.md) tools to
 - **MetaTrader 4/5**: Popular trading platforms that [offer](../o/offer.md) built-in tools for [money flow](../m/money_flow.md) analysis and [technical indicators](../t/technical_indicators.md).
 - **[ThinkOrSwim](../t/thinkorswim.md) by TD [Ameritrade](../a/ameritrade.md)**: A professional [trading platform](../t/trading_platform.md) with advanced charting tools for [Money Flow](../m/money_flow.md) Analysis.
 - **[MetaStock](../m/metastock.md)**: Advanced software for traders that include [money flow](../m/money_flow.md) indicators.
-- **[TradingView](../t/tradingview.md)**: An online charting platform that offers [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) and other related indicators. [Visit TradingView](https://www.tradingview.com)
+- **[TradingView](../t/tradingview.md)**: An online charting platform that offers [Money Flow](../m/money_flow.md) [Index](../i/index_instrument.md) and other related indicators. Visit TradingView
 
 ## Real-world Examples of Money Flow Analysis
 

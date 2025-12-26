@@ -81,9 +81,9 @@ The future of the MSE looks promising, given several ongoing initiatives and pot
 
 While the MSE hosts [multiple](../m/multiple.md) companies from various sectors, a few notable ones have made significant impacts:
 
-1. **Erdene Resource Development Corp.**: A [mining](../m/mining.md) company focused on the exploration and development of precious and base metals in Mongolia. [Erdene Resource Development Corp.](https://www.erdene.com/)
-2. **Khot [Infrastructure](../i/infrastructure.md) [Holdings](../h/holdings.md)**: Engages in [infrastructure](../i/infrastructure.md) development, including [logistics](../l/logistics.md) and transportation sectors. [Khot Infrastructure Holdings](https://www.khotinfrastructure.com/)
-3. **Mongolia Growth Group Ltd.**: Focuses on [real estate](../r/real_estate.md) investments and has diversified into the financial services sector. [Mongolia Growth Group Ltd.](https://mongoliagrowthgroup.com/)
+1. **Erdene Resource Development Corp.**: A [mining](../m/mining.md) company focused on the exploration and development of precious and base metals in Mongolia. Erdene Resource Development Corp.
+2. **Khot [Infrastructure](../i/infrastructure.md) [Holdings](../h/holdings.md)**: Engages in [infrastructure](../i/infrastructure.md) development, including [logistics](../l/logistics.md) and transportation sectors. Khot Infrastructure Holdings
+3. **Mongolia Growth Group Ltd.**: Focuses on [real estate](../r/real_estate.md) investments and has diversified into the financial services sector. Mongolia Growth Group Ltd.
 
 ## Conclusion
 

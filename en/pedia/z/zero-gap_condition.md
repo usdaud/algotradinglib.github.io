@@ -59,6 +59,6 @@ The zero-gap condition is a critical concept in [finance](../f/finance.md), part
 
 For further details and a deeper dive into specific strategies, techniques, and applications, visit the following resources:
 
-- [Bloomberg - Financial News and Analysis](https://www.bloomberg.com)
-- [JP Morgan - Wealth Management](https://www.jpmorgan.com/wealth-management)
-- [Goldman Sachs - Financial Services](https://www.goldmansachs.com)
+- Bloomberg - Financial News and Analysis
+- JP Morgan - Wealth Management
+- Goldman Sachs - Financial Services

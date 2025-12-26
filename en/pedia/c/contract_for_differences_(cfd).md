@@ -4,7 +4,7 @@ A Contract for Differences (CFD) is a popular and flexible financial [derivative
 
 ## How CFDs Work
 
-CFDs are leveraged products, meaning that traders are required to put down a small percentage of the [trade](../t/trade.md)'s total [value](../v/value.md) to [open](../o/open.md) a position. This is known as [margin trading](../m/margin_trading.md). The [leverage](../l/leverage.md) can magnify gains, but it can also mitigate large losses depending on the [market](../m/market.md) movement against the position taken by the [trader](../t/trader.md). 
+CFDs are leveraged products, meaning that traders are required to put down a small percentage of the [trade](../t/trade.md)'s total [value](../v/value.md) to [open](../o/open.md) a position. This is known as [margin trading](../m/margin_trading.md). The [leverage](../l/leverage.md) can magnify gains, but it can also mitigate large losses depending on the [market](../m/market.md) movement against the position taken by the [trader](../t/trader.md).
 
 When a CFD is initiated, the opening [trade](../t/trade.md) set in motion by the [market](../m/market.md) participant determines their stance—long (buy) or short (sell). The position can remain [open](../o/open.md) until the [trader](../t/trader.md) decides to close it, which is done by making a reverse [trade](../t/trade.md)—selling the bought position or buying the sold position. On closing, the net difference between the opening [trade](../t/trade.md) and the closing [trade](../t/trade.md) is settled in cash.
 
@@ -55,11 +55,11 @@ If the price of Company XYZ rises to $110, the [investor](../i/investor.md) can 
 
 Several leading brokers [offer](../o/offer.md) CFD trading services. Picking the right [broker](../b/broker.md) is crucial for a successful CFD trading experience. Here are some prominent CFD brokers:
 
-- **[IG Group](../i/ig_group.md)**: [IG Group](../i/ig_group.md) is a leading provider of CFDs. They [offer](../o/offer.md) access to an extensive [range](../r/range.md) of markets with sophisticated trading platforms. [IG Group Website](https://www.ig.com/)
-- **Plus500**: Plus500 is known for its [robust](../r/robust.md) [trading platform](../t/trading_platform.md) and comprehensive [range](../r/range.md) of CFD products. They provide easy access to a variety of financial instruments. [Plus500 Website](https://www.plus500.com/)
-- **[CMC Markets](../c/cmc_markets.md)**: [CMC Markets](../c/cmc_markets.md) provides one of the most feature-rich trading platforms with a wide [range](../r/range.md) of CFDs available for trading. [CMC Markets Website](https://www.cmcmarkets.com/)
-- **[Saxo Bank](../s/saxo_bank.md)**: [Saxo Bank](../s/saxo_bank.md) is a major financial institution [offering](../o/offering.md) CFD trading with competitive [spreads](../s/spreads.md) and excellent [customer service](../c/customer_service.md). [Saxo Bank Website](https://www.home.saxo/)
-- **[eToro](../e/etoro.md)**: [eToro](../e/etoro.md) is known for its innovative social [trading platform](../t/trading_platform.md) allowing traders to follow and copy the strategies of successful traders. [eToro Website](https://www.etoro.com/)
+- **[IG Group](../i/ig_group.md)**: [IG Group](../i/ig_group.md) is a leading provider of CFDs. They [offer](../o/offer.md) access to an extensive [range](../r/range.md)
+- **Plus500**: Plus500 is known for its [robust](../r/robust.md) [trading platform](../t/trading_platform.md) and comprehensive [range](../r/range.md) of CFD products. They provide
+- **[CMC Markets](../c/cmc_markets.md)**: [CMC Markets](../c/cmc_markets.md) provides one of the most feature-rich trading platforms with a wide [range](../r/range.md)
+- **[Saxo Bank](../s/saxo_bank.md)**: [Saxo Bank](../s/saxo_bank.md) is a major financial institution [offering](../o/offering.md) CFD trading with competitive [spreads](../s/spreads.md) and excellent [customer service](../c/customer_service.md).
+- **[eToro](../e/etoro.md)**: [eToro](../e/etoro.md) is known for its innovative social [trading platform](../t/trading_platform.md) allowing traders to
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # Trade Line
 
-[Trade](../t/trade.md) lines, also known as "tradelines," are the accounts [listed](../l/listed.md) on a [credit report](../c/credit_report.md). These accounts could be [credit](../c/credit.md) cards, personal loans, auto loans, mortgages, or any other type of [credit](../c/credit.md) extended to an individual or a [business](../b/business.md) by a financial institution or [lender](../l/lender.md). Each tradeline contains detailed information about the account such as the [creditor](../c/creditor.md)'s name, the type of account, the balance, the [payment](../p/payment.md) history, and the account's status. In the context of a [credit report](../c/credit_report.md), tradelines play a critical role in determining one's [credit score](../c/credit_score.md) and overall [creditworthiness](../c/creditworthiness.md). 
+[Trade](../t/trade.md) lines, also known as "tradelines," are the accounts [listed](../l/listed.md) on a [credit report](../c/credit_report.md). These accounts could be [credit](../c/credit.md) cards, personal loans, auto loans, mortgages, or any other type of [credit](../c/credit.md) extended to an individual or a [business](../b/business.md) by a financial institution or [lender](../l/lender.md). Each tradeline contains detailed information about the account such as the [creditor](../c/creditor.md)'s name, the type of account, the balance, the [payment](../p/payment.md) history, and the account's status. In the context of a [credit report](../c/credit_report.md), tradelines play a critical role in determining one's [credit score](../c/credit_score.md) and overall [creditworthiness](../c/creditworthiness.md).
 
 ## Importance in Credit Scoring
 
@@ -63,9 +63,9 @@ Various companies [offer](../o/offer.md) tradeline services that can be used jud
 
 ### Links to Companies
 
-- [Credit Strong](https://www.creditstrong.com)
-- [Self.inc](https://www.self.inc)
-- [Tradeline Supply Company, LLC](https://tradelinesupply.com)
+- Credit Strong
+- Self.inc
+- Tradeline Supply Company, LLC
 
 ## Tradeline Risks and Considerations
 

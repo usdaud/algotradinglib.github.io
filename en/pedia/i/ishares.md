@@ -103,5 +103,3 @@ iShares collaborates with financial advisors to [offer](../o/offer.md) investmen
 
 iShares ETFs, managed by BlackRock, [offer](../o/offer.md) a comprehensive [range](../r/range.md) of investment [options](../o/options.md) that cater to diverse [investor](../i/investor.md) needs. With their benefits of [diversification](../d/diversification.md), cost [efficiency](../e/efficiency.md), [liquidity](../l/liquidity.md), [transparency](../t/transparency.md), and flexibility, iShares ETFs stand out as attractive investment vehicles. The [firm](../f/firm.md)'s focus on technological innovation and [market](../m/market.md) trends further enhances its position in the ETF landscape, making iShares a leading choice for both retail and institutional investors looking to achieve their financial goals.
 
-For more information, you can visit the official iShares website [here](https://www.ishares.com).
-

@@ -38,15 +38,15 @@
 
 ## Leading CRM Platforms
 
-1. **Salesforce**: Salesforce is one of the most widely used CRM platforms, known for its cloud-based solutions and extensive customization capabilities. It offers a [range](../r/range.md) of tools for sales, [marketing](../m/marketing.md), [customer service](../c/customer_service.md), and analytics. [Visit Salesforce](https://www.salesforce.com/)
+1. **Salesforce**: Salesforce is one of the most widely used CRM platforms, known for its cloud-based solutions and extensive customization capabilities. It offers a [range](../r/range.md) of tools for sales, [marketing](../m/marketing.md), [customer service](../c/customer_service.md), and analytics. Visit Salesforce
 
-2. **HubSpot**: HubSpot is a popular CRM platform that provides free and [premium](../p/premium.md) tools for sales, [marketing](../m/marketing.md), and [customer service](../c/customer_service.md). It is known for its user-friendly interface and integration capabilities. [Visit HubSpot](https://www.hubspot.com/)
+2. **HubSpot**: HubSpot is a popular CRM platform that provides free and [premium](../p/premium.md) tools for sales, [marketing](../m/marketing.md), and [customer service](../c/customer_service.md). It is known for its user-friendly interface and integration capabilities. Visit HubSpot
 
-3. **Microsoft Dynamics 365**: Microsoft Dynamics 365 combines CRM and ERP solutions to provide a comprehensive [business](../b/business.md) management platform. It offers tools for sales, [customer service](../c/customer_service.md), [marketing](../m/marketing.md), and operations. [Visit Microsoft Dynamics 365](https://dynamics.microsoft.com/)
+3. **Microsoft Dynamics 365**: Microsoft Dynamics 365 combines CRM and ERP solutions to provide a comprehensive [business](../b/business.md) management platform. It offers tools for sales, [customer service](../c/customer_service.md), [marketing](../m/marketing.md), and operations. Visit Microsoft Dynamics 365
 
-4. **Zoho CRM**: Zoho CRM is a versatile platform that offers a wide [range](../r/range.md) of features for sales automation, lead management, and [customer](../c/customer.md) analytics. It is known for its affordability and integration with other Zoho products. [Visit Zoho CRM](https://www.zoho.com/crm/)
+4. **Zoho CRM**: Zoho CRM is a versatile platform that offers a wide [range](../r/range.md) of features for sales automation, lead management, and [customer](../c/customer.md) analytics. It is known for its affordability and integration with other Zoho products. Visit Zoho CRM
 
-5. **Pipedrive**: Pipedrive is a sales-focused CRM platform designed to help sales teams manage leads and deals more effectively. It offers intuitive pipeline management and automation features. [Visit Pipedrive](https://www.pipedrive.com/)
+5. **Pipedrive**: Pipedrive is a sales-focused CRM platform designed to help sales teams manage leads and deals more effectively. It offers intuitive pipeline management and automation features. Visit Pipedrive
 
 ## Implementation Challenges and Best Practices
 

@@ -13,7 +13,7 @@
 3. **[Simulation](../s/simulation_in_trading.md):** Running the strategy on the historical data to simulate trades.
 4. **Evaluation:** Analyzing the [simulated trading](../s/simulated_trading.md) outcomes using various [performance metrics](../p/performance_metrics.md).
 
-Popular [backtesting](../b/backtesting.md) platforms include [QuantConnect](https://www.quantconnect.com/), [Quantopian](https://www.quantopian.com/), and [Zipline](http://www.zipline.io/).
+Popular [backtesting](../b/backtesting.md) platforms include QuantConnect, Quantopian, and Zipline.
 
 ## Monte Carlo Simulation
 
@@ -26,7 +26,7 @@ Popular [backtesting](../b/backtesting.md) platforms include [QuantConnect](http
 3. **Run Simulations:** Execute the [trading strategy](../t/trading_strategy.md) across all generated scenarios.
 4. **Analyze Results:** Assess the [distribution](../d/distribution.md) of outcomes to gauge [risk](../r/risk.md) and performance.
 
-[QRM Lab](https://www.qrmlab.com/) and [Mathematica](https://www.wolfram.com/mathematica/) are platforms that [offer](../o/offer.md) [robust](../r/robust.md) tools for [Monte Carlo simulation](../m/monte_carlo_simulation.md).
+QRM Lab and Mathematica are platforms that [offer](../o/offer.md) [robust](../r/robust.md) tools for [Monte Carlo simulation](../m/monte_carlo_simulation.md).
 
 ## Agent-Based Modeling
 
@@ -40,7 +40,7 @@ Agent-Based Modeling (ABM) simulates interactions of individual agents (e.g., tr
 4. **[Simulation](../s/simulation_in_trading.md):** Run the model to observe how agents' interactions produce [market](../m/market.md) patterns.
 5. **Analysis:** Monitor aggregate [market](../m/market.md) behavior and individual agent performance.
 
-[NetLogo](https://ccl.northwestern.edu/netlogo/) and [Repast](https://repast.github.io/) are well-known platforms for agent-based modeling.
+NetLogo and Repast are well-known platforms for agent-based modeling.
 
 ## Event-Driven Simulation
 
@@ -54,7 +54,7 @@ Event-driven [simulation](../s/simulation_in_trading.md) focuses on discrete [ma
 4. **[Simulation](../s/simulation_in_trading.md):** Execute the strategy based on the predetermined events.
 5. **Performance Analysis:** Evaluate how well the strategy adapts to event-driven [market](../m/market.md) changes.
 
-[Eventus](https://www.eventus.com/) provides tools designed for event-driven [simulation in trading](../s/simulation_in_trading.md).
+Eventus provides tools designed for event-driven [simulation in trading](../s/simulation_in_trading.md).
 
 ## Sensitivity Analysis
 
@@ -68,7 +68,7 @@ Event-driven [simulation](../s/simulation_in_trading.md) focuses on discrete [ma
 4. **Collect Data:** Record [performance metrics](../p/performance_metrics.md) for each combination.
 5. **Analyze Results:** Determine sensitivity and optimize parameters for better performance.
 
-[Sensitivity analysis](../s/sensitivity_analysis.md) is often integrated into [backtesting](../b/backtesting.md) platforms like [NinjaTrader](https://ninjatrader.com/) and [TradeStation](https://www.tradestation.com/).
+[Sensitivity analysis](../s/sensitivity_analysis.md) is often integrated into [backtesting](../b/backtesting.md) platforms like NinjaTrader and TradeStation.
 
 ## Stress Testing
 
@@ -82,7 +82,7 @@ Event-driven [simulation](../s/simulation_in_trading.md) focuses on discrete [ma
 4. **[Performance Metrics](../p/performance_metrics.md):** Assess how the strategy handles stress conditions (e.g., drawdowns, recovery times).
 5. **Refinement:** Adjust the strategy to improve resilience against adverse [market](../m/market.md) scenarios.
 
-Financial institutions and prop trading firms often have custom-built tools for [stress testing](../s/stress_testing_in_trading.md), but platforms like [Alpaca](https://alpaca.markets/) also [offer](../o/offer.md) relevant utilities.
+Financial institutions and prop trading firms often have custom-built tools for [stress testing](../s/stress_testing_in_trading.md), but platforms like Alpaca also [offer](../o/offer.md) relevant utilities.
 
 ## Bootstrapping
 
@@ -96,7 +96,7 @@ Bootstrapping is a statistical technique used to estimate the [distribution](../
 4. **Estimate [Distribution](../d/distribution.md):** Analyze the [distribution](../d/distribution.md) of [performance metrics](../p/performance_metrics.md) from the simulations.
 5. **[Confidence Intervals](../c/confidence_intervals.md):** Establish [confidence intervals](../c/confidence_intervals.md) for [performance metrics](../p/performance_metrics.md).
 
-[Matlab](https://www.mathworks.com/products/matlab.html) and [R](https://www.r-project.org/) [offer](../o/offer.md) powerful libraries for bootstrapping.
+Matlab and R [offer](../o/offer.md) powerful libraries for bootstrapping.
 
 ## Scenario Analysis
 
@@ -110,7 +110,7 @@ Bootstrapping is a statistical technique used to estimate the [distribution](../
 4. **Performance Evaluation:** Compare the strategy’s performance under various scenarios.
 5. **[Optimization](../o/optimization.md):** Refine the strategy to perform well across different future conditions.
 
-Platforms like [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) and [Reuters Eikon](https://www.refinitiv.com/en/products/eikon-trading-software) are often used for this type of analysis.
+Platforms like Bloomberg Terminal and Reuters Eikon are often used for this type of analysis.
 
 ## Conclusion
 

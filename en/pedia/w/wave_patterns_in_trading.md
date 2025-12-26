@@ -68,15 +68,14 @@ Wave patterns provide traders with insight into potential [trend](../t/trend.md)
 
 - **[Pattern Recognition](../p/pattern_recognition.md) Software**: Modern AI-powered software can identify wave patterns in real-time, notifying traders about potential trading opportunities as they unfold.
 
-### 8. Review of Notable Analytics Software 
+### 8. Review of Notable Analytics Software
 
 Several analytics platforms [offer](../o/offer.md) [robust](../r/robust.md) tools for Elliott [Wave analysis](../w/wave_analysis.md):
 
-- **[MotiveWave](../m/motivewave.md)**: [https://www.motivewave.com/](https://www.motivewave.com/): A comprehensive platform [offering](../o/offering.md) detailed Elliott [Wave analysis](../w/wave_analysis.md) and advanced charting tools.
+- **[MotiveWave](../m/motivewave.md)**: A comprehensive platform [offering](../o/offering.md) detailed Elliott [Wave analysis](../w/wave_analysis.md) and advanced charting tools.
 
-- **Elliott Wave International**: [https://www.elliottwave.com/](https://www.elliottwave.com/): A premier resource for [market](../m/market.md) forecasts and educational content based on [Elliott Wave Theory](../e/elliott_wave_theory.md).
+- **Elliott Wave International**: A premier resource for [market](../m/market.md) forecasts and educational content based on [Elliott Wave Theory](../e/elliott_wave_theory.md).
 
 ### 9. Conclusion
 
 Wave patterns in trading, underscored by the [Elliott Wave Theory](../e/elliott_wave_theory.md), present a profound method of predicting [market dynamics](../m/market_dynamics.md). The integration of these principles into [algorithmic trading](../a/algorithmic_trading.md) frameworks enhances predictive accuracy, [offering](../o/offering.md) traders a competitive edge. By understanding wave patterns and their [underlying](../u/underlying.md) psychological foundations, traders can navigate [financial markets](../f/financial_market.md) with heightened clarity and confidence.
-

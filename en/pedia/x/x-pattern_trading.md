@@ -11,12 +11,12 @@ X-Pattern Trading is a sophisticated [algorithmic trading](../a/algorithmic_trad
 ### Key Components of X-Patterns
 
 1. **[Trend](../t/trend.md) Lines**: These are diagonal lines drawn on charts to indicate the direction of the price. In [X-Patterns](../x/x-patterns_in_trading.md), [trend](../t/trend.md) lines often intersect, suggesting a critical point in the price movement.
-  
-2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) frequently participate in forming [X-Patterns](../x/x-patterns_in_trading.md). 
+
+2. **[Technical Indicators](../t/technical_indicators.md)**: Indicators such as the Moving Average Convergence [Divergence](../d/divergence.md) (MACD), [Relative Strength](../r/relative_strength.md) [Index](../i/index_instrument.md) (RSI), and [Bollinger Bands](../b/bollinger_bands.md) frequently participate in forming [X-Patterns](../x/x-patterns_in_trading.md).
 
 3. **[Volume](../v/volume.md)**: Trading [volume](../v/volume.md) is an essential element. Spikes in [volume](../v/volume.md) can often signify the [breakout](../b/breakout.md) or breakdown associated with an X-Pattern.
 
-4. **[Price Action](../p/price_action.md)**: Observing the highs, lows, [open](../o/open.md), and close prices, and how they interact to form [candlestick patterns](../c/candlestick_patterns.md) also constitute a part of [X-Patterns](../x/x-patterns_in_trading.md). 
+4. **[Price Action](../p/price_action.md)**: Observing the highs, lows, [open](../o/open.md), and close prices, and how they interact to form [candlestick patterns](../c/candlestick_patterns.md) also constitute a part of [X-Patterns](../x/x-patterns_in_trading.md).
 
 ## How X-Pattern Trading Works
 
@@ -58,9 +58,9 @@ Several tools and technologies are instrumental in the development and implement
 
 ### Libraries and Frameworks
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports Python and C#. (https://www.[quantconnect](../q/quantconnect.md).com/)
-- **[Backtrader](../b/backtrader.md)**: A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). (https://www.[backtrader](../b/backtrader.md).com/)
-- **PyAlgoTrade**: A library that allows [backtesting](../b/backtesting.md) of TA-Lib based strategies. (https://github.com/gbeced/pyalgotrade)
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that supports C# and C#. (
+- **[Backtrader](../b/backtrader.md)**: A Python library for [backtesting](../b/backtesting.md) [trading strategies](../t/trading_strategies.md). (
+- **PyAlgoTrade**: A library that allows [backtesting](../b/backtesting.md) of TA-Lib based strategies. (
 
 ## Real-World Applications
 
@@ -68,15 +68,15 @@ X-Pattern Trading is used by various financial institutions and [proprietary tra
 
 ### Hedge Funds
 
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) to detect trading patterns and opportunities. (https://www.twosigma.com/)
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that leverages [machine learning](../m/machine_learning.md) to detect trading patterns and opportunities. (
 
 ### Proprietary Trading Firms
 
-- **Jane Street**: Known for its [quantitative trading](../q/quantitative_trading.md) strategies, which includes pattern-based trading techniques. (https://www.janestreet.com/)
+- **Jane Street**: Known for its [quantitative trading](../q/quantitative_trading.md) strategies, which includes pattern-based trading techniques. (
 
 ### Financial Institutions
 
-- **Goldman Sachs**: Utilizes sophisticated algorithms and advanced [trading strategies](../t/trading_strategies.md), including [pattern recognition](../p/pattern_recognition.md) techniques, for [market](../m/market.md)-making and [proprietary trading](../p/proprietary_trading.md). (https://www.goldmansachs.com/)
+- **Goldman Sachs**: Utilizes sophisticated algorithms and advanced [trading strategies](../t/trading_strategies.md), including [pattern recognition](../p/pattern_recognition.md) techniques, for [market](../m/market.md)-making and [proprietary trading](../p/proprietary_trading.md). (
 
 ## Advantages of X-Pattern Trading
 

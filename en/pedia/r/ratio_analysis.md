@@ -9,134 +9,134 @@ Ratio analysis is a quantitative method of analyzing [financial statements](../f
 [Liquidity ratios](../l/liquidity_ratios.md) measure a company's ability to meet its short-term [obligations](../o/obligation.md). They indicate the ease with which a company can convert its assets into cash without impacting its operational capability.
 
 1. **[Current Ratio](../c/current_ratio.md)**
-    \[
-    \text{[Current Ratio](../c/current_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-    \]
-    A ratio higher than 1 signifies that the company has more [current assets](../c/current_assets.md) than [current liabilities](../c/current_liabilities.md), suggesting good short-term [financial health](../f/financial_health.md).
+ \[
+ \text{[Current Ratio](../c/current_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
+ A ratio higher than 1 signifies that the company has more [current assets](../c/current_assets.md) than [current liabilities](../c/current_liabilities.md), suggesting good short-term [financial health](../f/financial_health.md).
 
 2. **[Quick Ratio](../q/quick_ratio.md) ([Acid-Test Ratio](../a/acid-test_ratio.md))**
-    \[
-    \text{[Quick Ratio](../q/quick_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)} - \text{[Inventory](../i/inventory.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-    \]
-    This ratio is a more stringent test of [liquidity](../l/liquidity.md) as it excludes [inventory](../i/inventory.md), which may not be as easily converted to cash.
+ \[
+ \text{[Quick Ratio](../q/quick_ratio.md)} = \frac{\text{[Current Assets](../c/current_assets.md)} - \text{[Inventory](../i/inventory.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
+ This ratio is a more stringent test of [liquidity](../l/liquidity.md) as it excludes [inventory](../i/inventory.md), which may not be as easily converted to cash.
 
 3. **[Cash Ratio](../c/cash_ratio.md)**
-    \[
-    \text{[Cash Ratio](../c/cash_ratio.md)} = \frac{\text{Cash and [Cash Equivalents](../c/cash_equivalents.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
-    \]
-    This ratio focuses solely on the most [liquid](../l/liquid.md) assets, ensuring the company's ability to pay off short-term liabilities immediately.
+ \[
+ \text{[Cash Ratio](../c/cash_ratio.md)} = \frac{\text{Cash and [Cash Equivalents](../c/cash_equivalents.md)}}{\text{[Current Liabilities](../c/current_liabilities.md)}}
+ \]
+ This ratio focuses solely on the most [liquid](../l/liquid.md) assets, ensuring the company's ability to pay off short-term liabilities immediately.
 
 ### Profitability Ratios
 
 [Profitability ratios](../p/profitability_ratios.md) evaluate a company's ability to generate [earnings](../e/earnings.md) relative to sales, assets, [equity](../e/equity.md), and other metrics. These ratios are crucial for assessing the company's [financial health](../f/financial_health.md) over the long term.
 
 1. **[Gross Profit Margin](../g/gross_profit_margin.md)**
-    \[
-    \text{[Gross Profit Margin](../g/gross_profit_margin.md)} = \frac{\text{[Gross Profit](../g/gross_profit.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
-    \]
-    This ratio shows the percentage of [revenue](../r/revenue.md) that exceeds the cost of goods sold (COGS), indicating the [efficiency](../e/efficiency.md) of production.
+ \[
+ \text{[Gross Profit Margin](../g/gross_profit_margin.md)} = \frac{\text{[Gross Profit](../g/gross_profit.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
+ \]
+ This ratio shows the percentage of [revenue](../r/revenue.md) that exceeds the cost of goods sold (COGS), indicating the [efficiency](../e/efficiency.md) of production.
 
 2. **[Operating Profit](../o/operating_profit.md) [Margin](../m/margin.md)**
-    \[
-    \text{[Operating Profit](../o/operating_profit.md) [Margin](../m/margin.md)} = \frac{\text{[Operating Income](../o/operating_income.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
-    \]
-    This measures the proportion of [revenue](../r/revenue.md) that remains after covering operating expenses, revealing the core [operational efficiency](../o/operational_efficiency_in_trading.md).
+ \[
+ \text{[Operating Profit](../o/operating_profit.md) [Margin](../m/margin.md)} = \frac{\text{[Operating Income](../o/operating_income.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
+ \]
+ This measures the proportion of [revenue](../r/revenue.md) that remains after covering operating expenses, revealing the core [operational efficiency](../o/operational_efficiency_in_trading.md).
 
 3. **[Net Profit Margin](../n/net_profit_margin.md)**
-    \[
-    \text{[Net Profit Margin](../n/net_profit_margin.md)} = \frac{\text{Net [Income](../i/income.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
-    \]
-    This ratio indicates the percentage of [revenue](../r/revenue.md) remaining after all expenses, [taxes](../t/taxes.md), and costs have been deducted, reflecting overall profitability.
+ \[
+ \text{[Net Profit Margin](../n/net_profit_margin.md)} = \frac{\text{Net [Income](../i/income.md)}}{\text{[Revenue](../r/revenue.md)}} \times 100
+ \]
+ This ratio indicates the percentage of [revenue](../r/revenue.md) remaining after all expenses, [taxes](../t/taxes.md), and costs have been deducted, reflecting overall profitability.
 
 4. **[Return on Assets](../r/return_on_assets_(roa).md) (ROA)**
-    \[
-    \text{ROA} = \frac{\text{Net [Income](../i/income.md)}}{\text{Total Assets}} \times 100
-    \]
-    ROA measures how effectively a company uses its assets to generate [profit](../p/profit.md).
+ \[
+ \text{ROA} = \frac{\text{Net [Income](../i/income.md)}}{\text{Total Assets}} \times 100
+ \]
+ ROA measures how effectively a company uses its assets to generate [profit](../p/profit.md).
 
 5. **[Return](../r/return.md) on [Equity](../e/equity.md) (ROE)**
-    \[
-    \text{ROE} = \frac{\text{Net [Income](../i/income.md)}}{\text{[Shareholder](../s/shareholder.md)'s [Equity](../e/equity.md)}} \times 100
-    \]
-    ROE indicates the [return](../r/return.md) generated on shareholders' investments, showcasing [financial performance](../f/financial_performance.md) from the shareholders' perspective.
+ \[
+ \text{ROE} = \frac{\text{Net [Income](../i/income.md)}}{\text{[Shareholder](../s/shareholder.md)'s [Equity](../e/equity.md)}} \times 100
+ \]
+ ROE indicates the [return](../r/return.md) generated on shareholders' investments, showcasing [financial performance](../f/financial_performance.md) from the shareholders' perspective.
 
 ### Leverage Ratios
 
 [Leverage ratios](../l/leverage_ratios.md) assess the degree to which a company is utilizing borrowed [money](../m/money.md). They help understand the [financial structure](../f/financial_structure.md) and [risk](../r/risk.md) levels associated with the company's [capital](../c/capital.md).
 
 1. **[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio**
-    \[
-    \text{[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total [Equity](../e/equity.md)}}
-    \]
-    This ratio reveals the proportion of company [financing](../f/financing.md) coming from creditors versus shareholders, indicating financial [leverage](../l/leverage.md).
+ \[
+ \text{[Debt](../d/debt.md)-to-[Equity](../e/equity.md) Ratio} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total [Equity](../e/equity.md)}}
+ \]
+ This ratio reveals the proportion of company [financing](../f/financing.md) coming from creditors versus shareholders, indicating financial [leverage](../l/leverage.md).
 
 2. **[Debt Ratio](../d/debt_ratio.md)**
-    \[
-    \text{[Debt Ratio](../d/debt_ratio.md)} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total Assets}}
-    \]
-    This measures the percentage of a company's assets that are financed by [debt](../d/debt.md) and indicates the reliance on borrowing for [asset](../a/asset.md) purchases.
+ \[
+ \text{[Debt Ratio](../d/debt_ratio.md)} = \frac{\text{Total [Debt](../d/debt.md)}}{\text{Total Assets}}
+ \]
+ This measures the percentage of a company's assets that are financed by [debt](../d/debt.md) and indicates the reliance on borrowing for [asset](../a/asset.md) purchases.
 
 3. **[Interest Coverage Ratio](../i/interest_coverage_ratio.md)**
-    \[
-    \text{[Interest Coverage Ratio](../i/interest_coverage_ratio.md)} = \frac{\text{[Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) (EBIT)}}{\text{[Interest Expense](../i/interest_expense.md)}}
-    \]
-    This ratio determines how easily a company can pay [interest](../i/interest.md) on outstanding [debt](../d/debt.md) from its operational [income](../i/income.md).
+ \[
+ \text{[Interest Coverage Ratio](../i/interest_coverage_ratio.md)} = \frac{\text{[Earnings](../e/earnings.md) Before [Interest](../i/interest.md) and [Taxes](../t/taxes.md) (EBIT)}}{\text{[Interest Expense](../i/interest_expense.md)}}
+ \]
+ This ratio determines how easily a company can pay [interest](../i/interest.md) on outstanding [debt](../d/debt.md) from its operational [income](../i/income.md).
 
 ### Efficiency Ratios
 
 [Efficiency](../e/efficiency.md) ratios, also known as [activity ratios](../a/activity_ratios.md), measure how well a company utilizes its assets and manages its operations. These ratios help in assessing [operational efficiency](../o/operational_efficiency_in_trading.md) and management effectiveness.
 
 1. **[Asset Turnover Ratio](../a/asset_turnover_ratio.md)**
-    \[
-    \text{[Asset Turnover Ratio](../a/asset_turnover_ratio.md)} = \frac{\text{[Revenue](../r/revenue.md)}}{\text{Total Assets}}
-    \]
-    This ratio evaluates how efficiently a company uses its assets to generate sales.
+ \[
+ \text{[Asset Turnover Ratio](../a/asset_turnover_ratio.md)} = \frac{\text{[Revenue](../r/revenue.md)}}{\text{Total Assets}}
+ \]
+ This ratio evaluates how efficiently a company uses its assets to generate sales.
 
 2. **[Inventory Turnover](../i/inventory_turnover.md) Ratio**
-    \[
-    \text{[Inventory Turnover](../i/inventory_turnover.md) Ratio} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{[Average Inventory](../a/average_inventory.md)}}
-    \]
-    This measures how many times a company’s [inventory](../i/inventory.md) is sold and replaced over a period.
+ \[
+ \text{[Inventory Turnover](../i/inventory_turnover.md) Ratio} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{[Average Inventory](../a/average_inventory.md)}}
+ \]
+ This measures how many times a company’s [inventory](../i/inventory.md) is sold and replaced over a period.
 
 3. **[Receivables Turnover Ratio](../r/receivables_turnover_ratio.md)**
-    \[
-    \text{[Receivables Turnover Ratio](../r/receivables_turnover_ratio.md)} = \frac{\text{[Revenue](../r/revenue.md)}}{\text{Average Accounts [Receivable](../r/receivable.md)}}
-    \]
-    This ratio evaluates how effectively the company collects receivables from customers.
+ \[
+ \text{[Receivables Turnover Ratio](../r/receivables_turnover_ratio.md)} = \frac{\text{[Revenue](../r/revenue.md)}}{\text{Average Accounts [Receivable](../r/receivable.md)}}
+ \]
+ This ratio evaluates how effectively the company collects receivables from customers.
 
 4. **Payables [Turnover Ratio](../t/turnover_ratio.md)**
-    \[
-    \text{Payables [Turnover Ratio](../t/turnover_ratio.md)} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{Average Accounts Payable}}
-    \]
-    This indicates how quickly a company pays off its suppliers.
+ \[
+ \text{Payables [Turnover Ratio](../t/turnover_ratio.md)} = \frac{\text{Cost of Goods Sold (COGS)}}{\text{Average Accounts Payable}}
+ \]
+ This indicates how quickly a company pays off its suppliers.
 
 ### Market Valuation Ratios
 
 [Market](../m/market.md) [valuation ratios](../v/valuation_ratios.md) provide insights into the [market](../m/market.md) perception of a company's [equity](../e/equity.md), assessing how well the stock is performing and valuing its profitability and growth potential.
 
 1. **Price-[Earnings](../e/earnings.md) Ratio (P/E Ratio)**
-    \[
-    \text{P/E Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Earnings](../e/earnings.md) per Share (EPS)}}
-    \]
-    This ratio indicates how much investors are willing to pay per dollar of [earnings](../e/earnings.md), reflecting [market](../m/market.md) expectations about the company's growth prospects.
+ \[
+ \text{P/E Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Earnings](../e/earnings.md) per Share (EPS)}}
+ \]
+ This ratio indicates how much investors are willing to pay per dollar of [earnings](../e/earnings.md), reflecting [market](../m/market.md) expectations about the company's growth prospects.
 
 2. **Price-to-Book Ratio (P/B Ratio)**
-    \[
-    \text{P/B Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Book Value](../b/book_value.md) per Share}}
-    \]
-    This measures the [market](../m/market.md) [valuation](../v/valuation.md) of a company relative to its [book value](../b/book_value.md).
+ \[
+ \text{P/B Ratio} = \frac{\text{[Market Price](../m/market_price.md) per Share}}{\text{[Book Value](../b/book_value.md) per Share}}
+ \]
+ This measures the [market](../m/market.md) [valuation](../v/valuation.md) of a company relative to its [book value](../b/book_value.md).
 
 3. **[Dividend Yield](../d/dividend_yield.md)**
-    \[
-    \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends per Share}}{\text{[Market Price](../m/market_price.md) per Share}} \times 100
-    \]
-    This ratio shows the annual dividends received as a percentage of the stock price, indicating [income](../i/income.md) generation for shareholders.
+ \[
+ \text{[Dividend Yield](../d/dividend_yield.md)} = \frac{\text{Annual Dividends per Share}}{\text{[Market Price](../m/market_price.md) per Share}} \times 100
+ \]
+ This ratio shows the annual dividends received as a percentage of the stock price, indicating [income](../i/income.md) generation for shareholders.
 
 4. **[Earnings Yield](../e/earnings_yield.md)**
-    \[
-    \text{[Earnings Yield](../e/earnings_yield.md)} = \frac{\text{[Earnings](../e/earnings.md) per Share (EPS)}}{\text{[Market Price](../m/market_price.md) per Share}} \times 100
-    \]
-    This reflects the percentage of each dollar invested in the stock that was earned by the company.
+ \[
+ \text{[Earnings Yield](../e/earnings_yield.md)} = \frac{\text{[Earnings](../e/earnings.md) per Share (EPS)}}{\text{[Market Price](../m/market_price.md) per Share}} \times 100
+ \]
+ This reflects the percentage of each dollar invested in the stock that was earned by the company.
 
 ## Application in Decision Making
 
@@ -194,17 +194,17 @@ Advancements in technology and [data analytics](../d/data_analytics.md) have enh
 
 Fintech companies are revolutionizing the field of ratio analysis by providing automated and AI-powered financial tools. These solutions [offer](../o/offer.md):
 
-1. **Real-Time Analysis**: Platforms like [Koyfin](https://www.koyfin.com) provide real-time financial data and ratio analysis to track [market](../m/market.md) trends and company performance.
+1. **Real-Time Analysis**: Platforms like Koyfin provide real-time financial data and ratio analysis to track [market](../m/market.md) trends and company performance.
 
-2. **Advanced Analytics**: AI and [machine learning](../m/machine_learning.md) applications predict future trends and identify hidden patterns within [financial statements](../f/financial_statements.md), as offered by companies like [Sift](https://sift.com).
+2. **Advanced Analytics**: AI and [machine learning](../m/machine_learning.md) applications predict future trends and identify hidden patterns within [financial statements](../f/financial_statements.md), as offered by companies like Sift.
 
-3. **User-Friendly Dashboards**: Intuitive platforms such as [Tableau](https://www.salesforce.com/products/tableau/overview/) enable users to visualize and interpret complex financial data easily, enhancing analytical capabilities.
+3. **User-Friendly Dashboards**: Intuitive platforms such as Tableau enable users to visualize and interpret complex financial data easily, enhancing analytical capabilities.
 
-4. **Integration with Other Systems**: Many [financial analysis](../f/financial_analysis.md) tools can integrate with [accounting](../a/accounting.md) software, ERP systems, and other financial databases to streamline data collection and analysis, exemplified by solutions from [Oracle NetSuite](https://www.netsuite.com/).
+4. **Integration with Other Systems**: Many [financial analysis](../f/financial_analysis.md) tools can integrate with [accounting](../a/accounting.md) software, ERP systems, and other financial databases to streamline data collection and analysis, exemplified by solutions from Oracle NetSuite.
 
 ### Algotrading Applications
 
-In [algorithmic trading](../a/accountability.md), ratio analysis forms a part of the larger [quantitative strategies](../q/quantitative_strategies_in_trading.md) used to make trading decisions. [Automated trading systems](../a/automated_trading_systems.md) integrate ratio analysis for:
+In [algorithmic trading](../a/algorithmic_trading.md), ratio analysis forms a part of the larger [quantitative strategies](../q/quantitative_strategies_in_trading.md) used to make trading decisions. [Automated trading systems](../a/automated_trading_systems.md) integrate ratio analysis for:
 
 1. **Stock Screening**: Algorithms filter [stocks](../s/stock.md) based on predefined ratio criteria, ensuring that only the most promising investments are selected.
 

@@ -61,15 +61,15 @@ Spot rate calculations vary depending on the [asset class](../a/asset_class.md) 
 Consider two currencies, [Currency](../c/currency.md) A and [Currency](../c/currency.md) B, with current [market](../m/market.md) prices P_A and P_B, and relevant [interest](../i/interest.md) rates i_A and i_B:
 
 1. Determine the [spot exchange rate](../s/spot_exchange_rate.md) (S) between [Currency](../c/currency.md) A and [Currency](../c/currency.md) B directly from [market](../m/market.md) prices:
-   \[
-   S = \frac{P_A}{P_B}
-   \]
+ \[
+ S = \frac{P_A}{P_B}
+ \]
 
 2. Adjust for [interest rate](../i/interest_rate.md) differentials if necessary using the formula:
-   \[
-   S_{adjusted} = S \times e^{(i_B - i_A) \times t}
-   \]
-   Here, \( e \) represents the base of the natural logarithm, and \( t \) represents the time to [maturity](../m/maturity.md).
+ \[
+ S_{adjusted} = S \times e^{(i_B - i_A) \times t}
+ \]
+ Here, \( e \) represents the base of the natural logarithm, and \( t \) represents the time to [maturity](../m/maturity.md).
 
 ### Example
 If P_A is 1.30, P_B is 1.10, i_A is 2%, and i_B is 1% over a 1-year period (t=1), the spot rate calculation is:
@@ -127,6 +127,6 @@ The spot rate is a fundamental concept in [financial markets](../f/financial_mar
 
 For further information on spot rates and their applications in specific markets, you can visit financial resources and trading platforms such as:
 
-- CME Group: [CME Group Spot Rates](https://www.cmegroup.com)
-- [OANDA](../o/oanda.md): [OANDA Forex Trading](https://www.oanda.com)
-- Investopedia: [Investopedia Spot Rate Explanation](https://www.investopedia.com)
+- CME Group: CME Group Spot Rates
+- [OANDA](../o/oanda.md): OANDA Forex Trading
+- Investopedia: Investopedia Spot Rate Explanation

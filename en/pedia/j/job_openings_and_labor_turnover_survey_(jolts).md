@@ -74,4 +74,4 @@ Workforce development agencies and educational institutions use JOLTS data to id
 
 The Job Openings and Labor [Turnover](../t/turnover.md) Survey (JOLTS) is a vital tool for understanding [labor market](../l/labor_market.md) conditions and trends. By providing detailed data on job vacancies, hires, and separations, JOLTS offers valuable insights into the [demand for labor](../d/demand_for_labor.md) and the dynamics of the [labor market](../l/labor_market.md). Policymakers, businesses, researchers, and workforce development agencies rely on JOLTS data to make informed decisions and address the challenges and opportunities in the ever-evolving [labor market](../l/labor_market.md).
 
-For more detailed information and access to JOLTS data, visit the U.S. Bureau of Labor [Statistics](../s/statistics.md) website: [BLS JOLTS](https://www.bls.gov/jlt/).
+For more detailed information and access to JOLTS data, visit the U.S. Bureau of Labor [Statistics](../s/statistics.md) online platform: BLS JOLTS.

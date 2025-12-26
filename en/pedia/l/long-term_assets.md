@@ -86,6 +86,6 @@ These models [leverage](../l/leverage.md) data and algorithms to estimate the [v
 
 ## Conclusion
 
-Long-term assets are an indispensable part of a company's resource portfolio, critical for its sustained growth, strategic planning, and financial stability. Through effective management, accurate [valuation](../v/valuation.md), and strategic utilization, businesses can harness the full potential of these assets to drive future success. 
+Long-term assets are an indispensable part of a company's resource portfolio, critical for its sustained growth, strategic planning, and financial stability. Through effective management, accurate [valuation](../v/valuation.md), and strategic utilization, businesses can harness the full potential of these assets to drive future success.
 
 By leveraging advancements in technology and fin-tech, companies can further enhance their [asset management](../a/asset_management.md) strategies, ensuring they remain competitive and resilient in the ever-evolving financial landscape.

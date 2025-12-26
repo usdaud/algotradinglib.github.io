@@ -78,10 +78,10 @@ The sheer [volume](../v/volume.md) and variety of X-input data necessitate signi
 ## Case Study: Use of X-Input Data by Leading Algorithmic Trading Firms
 
 ### Two Sigma
-Two Sigma, a renowned quantitative [hedge fund](../h/hedge_fund.md), leverages vast amounts of X-input data to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) technologies to analyze [financial markets](../f/financial_market.md). More information about their approach can be found on their [official website](https://www.twosigma.com/).
+Two Sigma, a renowned quantitative [hedge fund](../h/hedge_fund.md), leverages vast amounts of X-input data to drive its [trading strategies](../t/trading_strategies.md). The [firm](../f/firm.md) uses [machine learning](../m/machine_learning.md) and [big data](../b/big_data_in_trading.md) technologies to analyze [financial markets](../f/financial_market.md).
 
 ### Renaissance Technologies
-Renaissance Technologies is another prominent player known for its advanced [data analysis techniques](../d/data_analysis_techniques.md). They utilize diverse X-input data sources to build sophisticated [trading models](../t/trading_models.md). Details on their methodologies are available on their [official website](https://www.rentec.com/).
+Renaissance Technologies is another prominent player known for its advanced [data analysis techniques](../d/data_analysis_techniques.md). They utilize diverse X-input data sources to build sophisticated [trading models](../t/trading_models.md).
 
 ## Tools and Platforms for X-Input Data Analysis
 

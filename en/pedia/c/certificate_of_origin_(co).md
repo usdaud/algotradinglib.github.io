@@ -33,7 +33,7 @@ This CO certifies that the goods qualify for reduced tariffs or exemptions under
 - **Form A:** Used under the Generalized System of Preferences (GSP).
 - **EUR.1 and EUR-MED:** Used in [trade](../t/trade.md) agreements with the EU and Mediterranean countries.
 - **NAFTA Certificate of Origin:** Used for [trade](../t/trade.md) between Canada, Mexico, and the USA under NAFTA (now replaced by the United States-Mexico-Canada Agreement, USMCA).
-  
+
 ## How a Certificate of Origin is Issued
 
 The process of issuing a CO involves several steps, generally executed by exporters and authorized issuing bodies such as chambers of [commerce](../c/commerce.md) and [trade](../t/trade.md) associations. Below is a typical process flow:
@@ -84,4 +84,3 @@ Local chambers of [commerce](../c/commerce.md), depending on the region, are typ
 
 A Certificate of Origin is a crucial document in international [trade](../t/trade.md), playing a pivotal role in [tariff](../t/tariff.md) applications, regulatory compliance, and legal verifications. As technology progresses, the move toward digital COs promises greater [efficiency](../e/efficiency.md), [security](../s/security.md), and [transparency](../t/transparency.md) in global [trade](../t/trade.md) processes. Whether dealing with non-preferential or preferential COs, the accuracy and legitimacy of these documents are vital to avoiding legal disputes and ensuring smooth customs clearance. Understanding the importance and procedures surrounding COs enables businesses to navigate international [trade](../t/trade.md) more effectively and sustainably.
 
-For further information on Certificates of Origin and [industry](../i/industry.md) standards, you can visit the International Chamber of [Commerce](../c/commerce.md)'s official page: [International Chamber of Commerce](https://iccwbo.org/).

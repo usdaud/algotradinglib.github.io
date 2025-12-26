@@ -61,7 +61,7 @@ Machine [learning algorithms](../l/learning_algorithms_in_trading.md) can identi
 HFT algorithms can [capitalize](../c/capitalize.md) on minute price discrepancies during the formation of a V-shaped bottom. These algorithms execute thousands of trades per second to [gain](../g/gain.md) small margins that add up over time.
 
 ### API Integrations
-Many algo traders use APIs provided by trading platforms to automate their strategies. Notable platforms include [Interactive Brokers](https://www.interactivebrokers.com) and [Alpaca](https://alpaca.markets).
+Many algo traders use APIs provided by trading platforms to automate their strategies. Notable platforms include Interactive Brokers and Alpaca.
 
 ## Conclusion
 

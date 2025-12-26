@@ -110,7 +110,7 @@ Investors can [gain](../g/gain.md) exposure to [commodity](../c/commodity.md) in
 
 ### Leading CTAs
 
-Several companies are renowned for their [managed futures](../m/managed_futures.md) programs. One such example is [AQR Capital Management](https://www.aqr.com), noted for its [quantitative strategies](../q/quantitative_strategies_in_trading.md) across different [asset](../a/asset.md) classes.
+Several companies are renowned for their [managed futures](../m/managed_futures.md) programs. One such example is AQR Capital Management, noted for its [quantitative strategies](../q/quantitative_strategies_in_trading.md) across different [asset](../a/asset.md) classes.
 
 ## Risks in Commodity Investment
 
@@ -138,4 +138,4 @@ Many [commodity](../c/commodity.md) investment strategies involve [leverage](../
 
 References:
 
-- [AQR Capital Management](https://www.aqr.com)
+- AQR Capital Management

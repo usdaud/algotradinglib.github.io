@@ -58,20 +58,20 @@ Economists have debated the validity of the Kondratiev [Wave theory](../w/wave.m
 
 ### Support
 
-On the other hand, proponents of Kondratiev Waves highlight the recurring patterns seen in historical economic data. They also emphasize the role of technological innovation and structural economic changes, aligning these cycles with Schumpeter’s concepts of "[creative destruction](../c/creative_destruction.md)." 
+On the other hand, proponents of Kondratiev Waves highlight the recurring patterns seen in historical economic data. They also emphasize the role of technological innovation and structural economic changes, aligning these cycles with Schumpeter’s concepts of "[creative destruction](../c/creative_destruction.md)."
 
 ### Modern Applications
 
-In the contemporary world, [algorithmic trading](../a/accountability.md) (algotrading) is an area where long-wave theories like Kondratiev Waves draw [interest](../i/interest.md). Algotrading employs complex algorithms and [machine learning](../m/machine_learning.md) models to make investment decisions based on historical data, including long-wave economic patterns.
+In the contemporary world, [algorithmic trading](../a/algorithmic_trading.md) (algotrading) is an area where long-wave theories like Kondratiev Waves draw [interest](../i/interest.md). Algotrading employs complex algorithms and [machine learning](../m/machine_learning.md) models to make investment decisions based on historical data, including long-wave economic patterns.
 
 ## Companies and Research Institutions Exploring Kondratiev Waves
 
 Several research institutions and companies delve into long-wave theories and their implications for modern [economics](../e/economics.md):
 
-- **The Longwave Group**: A research and [wealth management](../w/wealth_management.md) [firm](../f/firm.md) that utilizes Kondratiev long-wave theories to aid investment strategies. [The Longwave Group](http://www.longwavegroup.com/)
-  
-- **The Foundation for the Study of Cycles (FSC)**: A non-[profit](../p/profit.md) organization dedicated to studying recurring patterns in [economics](../e/economics.md) and [social sciences](../s/social_sciences.md). [The Foundation for the Study of Cycles](https://cycles.org/)
-  
+- **The Longwave Group**: A research and [wealth management](../w/wealth_management.md) [firm](../f/firm.md) that utilizes Kondratiev long-wave theories to aid investment strategies. The Longwave Group
+
+- **The Foundation for the Study of Cycles (FSC)**: A non-[profit](../p/profit.md) organization dedicated to studying recurring patterns in [economics](../e/economics.md) and [social sciences](../s/social_sciences.md). The Foundation for the Study of Cycles
+
 ## Conclusion
 
-The Kondratiev [Wave theory](../w/wave.md) remains a significant topic in understanding the long-term [economic cycles](../e/economic_cycles.md) that influence our world. While debated, the insights gained from studying these economic waves provide a broader perspective on the cyclical nature of growth and [recession](../r/recession.md) driven by technological, socio-political, and financial factors. The study of Kondratiev Waves continues to be relevant in [economic forecasting](../e/economic_forecasting.md), policy-making, and even in advanced domains like [algorithmic trading](../a/accountability.md).
+The Kondratiev [Wave theory](../w/wave.md) remains a significant topic in understanding the long-term [economic cycles](../e/economic_cycles.md) that influence our world. While debated, the insights gained from studying these economic waves provide a broader perspective on the cyclical nature of growth and [recession](../r/recession.md) driven by technological, socio-political, and financial factors. The study of Kondratiev Waves continues to be relevant in [economic forecasting](../e/economic_forecasting.md), policy-making, and even in advanced domains like [algorithmic trading](../a/algorithmic_trading.md).

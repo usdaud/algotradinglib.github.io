@@ -20,7 +20,7 @@ The mechanics of a long [hedge](../h/hedge.md) can be easily understood by break
 
 #### Application in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md), which can include implementing long hedges. 
+[Algorithmic trading](../a/algorithmic_trading.md), or "algo trading," refers to the use of computer algorithms to automate [trading strategies](../t/trading_strategies.md), which can include implementing long hedges.
 
 1. **Developing the Algorithm**: The development phase involves creating a mathematical model that can identify opportunities for long hedges based on predefined criteria. This may include parameters like price movements, [volatility](../v/volatility.md), and [market](../m/market.md) trends.
 
@@ -58,13 +58,12 @@ The mechanics of a long [hedge](../h/hedge.md) can be easily understood by break
 
 Several companies and financial institutions have adopted [algorithmic trading](../a/algorithmic_trading.md) for their hedging needs:
 
-- **Goldman Sachs**: This leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md) uses sophisticated algorithms for managing its trading activities, including [hedging strategies](../h/hedging_strategies.md). More information can be found on their website: [Goldman Sachs](https://www.goldmansachs.com/).
- 
-- **Two Sigma**: A technology-focused [hedge fund](../h/hedge_fund.md) that employs advanced algorithms to drive its [trading strategies](../t/trading_strategies.md), including long hedges. More information is available at [Two Sigma](https://www.twosigma.com/).
+- **Goldman Sachs**: This leading global [investment banking](../i/investment_banking.md) [firm](../f/firm.md) uses sophisticated algorithms for managing its trading activities, including [hedging strategies](../h/hedging_strategies.md). Goldman Sachs.
 
-- **Citadel**: One of the world's prominent [hedge](../h/hedge.md) funds, Citadel leverages high-frequency trading and algorithmic models for its hedging operations. Visit their website at [Citadel](https://www.citadel.com/).
+- **Two Sigma**: A technology-focused [hedge fund](../h/hedge_fund.md) that employs advanced algorithms to drive its [trading strategies](../t/trading_strategies.md), including long hedges. More information is available at Two Sigma.
+
+- **Citadel**: One of the world's prominent [hedge](../h/hedge.md) funds, Citadel leverages high-frequency trading and algorithmic models for its hedging operations.
 
 #### Conclusion
 
 In conclusion, a long [hedge](../h/hedge.md) is a vital strategy for mitigating future price risks by locking in prices through [futures contracts](../f/futures_contracts.md). Its implementation in the realm of [algorithmic trading](../a/algorithmic_trading.md) enables greater [efficiency](../e/efficiency.md), precision, and [scalability](../s/scalability.md). However, it also poses certain challenges that require careful consideration. As technology continues to evolve, the integration of long [hedging strategies](../h/hedging_strategies.md) into automated systems is set to become even more sophisticated, [offering](../o/offering.md) more [robust](../r/robust.md) tools for investors and companies to navigate [market](../m/market.md) uncertainties.
-

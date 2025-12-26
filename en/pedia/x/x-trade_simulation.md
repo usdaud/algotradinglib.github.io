@@ -65,7 +65,7 @@ Evaluating the success of a [trading strategy](../t/trading_strategy.md) involve
 
 Many financial institutions and tech companies employ X-[Trade](../t/trade.md) [Simulation](../s/simulation_in_trading.md) or similar frameworks to enhance their [trading strategies](../t/trading_strategies.md). These companies include [investment banks](../i/investment_bank_(ib).md), [hedge](../h/hedge.md) funds, [proprietary trading](../p/proprietary_trading.md) firms, and fintech startups.
 
-One prominent [firm](../f/firm.md) specializing in trading [simulation](../s/simulation_in_trading.md) software is [Numerix](https://www.numerix.com/), which offers a [range](../r/range.md) of analytics and [simulation](../s/simulation_in_trading.md) tools to support [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md).
+One prominent [firm](../f/firm.md) specializing in trading [simulation](../s/simulation_in_trading.md) software is Numerix, which offers a [range](../r/range.md) of analytics and [simulation](../s/simulation_in_trading.md) tools to support [algorithmic trading](../a/algorithmic_trading.md) and [risk management](../r/risk_management.md).
 
 ## Conclusion
 

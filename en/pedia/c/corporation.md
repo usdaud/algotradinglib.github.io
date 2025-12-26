@@ -74,15 +74,15 @@ The formation and governance of a corporation involve several steps and legal re
 
 ## Notable Public Corporations
 
-1. **Apple Inc.**: [Apple Official Site](https://www.apple.com) - A technology company known for its innovative products, including the iPhone, iPad, and Mac computers.
+1. **Apple Inc.**.
 
-2. **Microsoft Corporation**: [Microsoft Official Site](https://www.microsoft.com) - A technology giant [offering](../o/offering.md) software, hardware, and cloud services, with flagship products like Windows and Office.
+2. **Microsoft Corporation**../o/offering.md) software, hardware, and cloud services, with flagship products like Windows and Office.
 
-3. **Amazon.com, Inc.**: [Amazon Official Site](https://www.amazon.com) - An e-[commerce](../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) company, widely recognized for its online retail platform and Amazon Web Services (AWS).
+3. **online resource, Inc.**../c/commerce.md) and [cloud computing](../c/cloud_computing_in_trading.md) company, widely recognized for its online retail platform and Amazon Web Services (AWS).
 
-4. **Alphabet Inc.**: [Alphabet Official Site](https://abc.xyz) - The [parent company](../p/parent_company.md) of Google, specializing in search engines, advertising, and various technology ventures.
+4. **Alphabet Inc.**../p/parent_company.md) of Google, specializing in search engines, advertising, and various technology ventures.
 
-5. **Tesla, Inc.**: [Tesla Official Site](https://www.tesla.com) - An electric vehicle and clean energy company known for its electric cars, solar products, and energy storage solutions.
+5. **Tesla, Inc.**.
 
 ## Conclusion
 

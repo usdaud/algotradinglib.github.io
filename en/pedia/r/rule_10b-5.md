@@ -74,4 +74,4 @@ The SEC collaborates with international regulatory bodies to enforce Rule 10b-5 
 
 Rule 10b-5 is a cornerstone of U.S. securities law, aimed at maintaining fair, honest, and transparent markets by outlawing fraudulent practices. Its broad language and rigorous enforcement have shaped countless aspects of securities litigation and regulatory compliance. As financial technology and global markets evolve, Rule 10b-5 remains a dynamic and essential tool for [investor](../i/investor.md) protection and [market](../m/market.md) integrity.
 
-For more detailed information, you can visit the [SEC's official page on Rule 10b-5](https://www.sec.gov/about/laws/secrulesregs.htm).
+For more detailed information, you can

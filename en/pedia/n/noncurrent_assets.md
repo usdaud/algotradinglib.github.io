@@ -8,7 +8,7 @@ Noncurrent assets, also known as [long-term assets](../l/long-term_assets.md), a
 PP&E are tangible fixed assets that are used in the production of goods and services. These assets are physical in nature and have a [useful life](../u/useful_life.md) longer than one year. Examples include:
 
 - **Land**: Unlike most other types of PP&E, land is not depreciated since it typically appreciates over time or maintains its [value](../v/value.md).
-  
+
 - **Buildings**: These are structures owned by the company and used for [business](../b/business.md) operations. Buildings are depreciated over their useful lives.
 
 - **Machinery and Equipment**: Tools, machinery, and other equipment used in [manufacturing](../m/manufacturing.md) and other [business](../b/business.md) processes. These are also depreciated over their useful lifespan.
@@ -42,7 +42,7 @@ These are investments that a company intends to [hold](../h/hold.md) for more th
 
 Understanding noncurrent assets is crucial for analyzing a company's [financial health](../f/financial_health.md) and long-term viability. Here are some specific reasons:
 
-- **[Capital](../c/capital.md) Intensity**: A high level of noncurrent assets can indicate that a [business](../b/business.md) is [capital](../c/capital.md)-intensive, meaning it requires significant financial investments in property, plant, and equipment to produce goods or services. 
+- **[Capital](../c/capital.md) Intensity**: A high level of noncurrent assets can indicate that a [business](../b/business.md) is [capital](../c/capital.md)-intensive, meaning it requires significant financial investments in property, plant, and equipment to produce goods or services.
 
 - **[Depreciation](../d/depreciation.md) and Amortization**: These noncash expenses reduce [taxable income](../t/taxable_income.md), impacting [financial statements](../f/financial_statements.md) and tax calculations.
 
@@ -91,13 +91,13 @@ When a noncurrent [asset](../a/asset.md) is no longer in use, it may be sold or 
 ## Noncurrent Assets in Different Industries
 
 ### Manufacturing
-[Manufacturing](../m/manufacturing.md) companies generally have a significant proportion of their assets in PP&E due to the nature of their production processes. For example, a car manufacturer like **Ford** (https://www.ford.com) would have extensive investments in assembly lines, machinery, and factories.
+[Manufacturing](../m/manufacturing.md) companies generally have a significant proportion of their assets in PP&E due to the nature of their production processes. For example, a car manufacturer like **Ford** ( would have extensive investments in assembly lines, machinery, and factories.
 
 ### Technology
-Tech companies might have substantial investments in intangible assets such as patents, software, and intellectual property. For instance, **Microsoft** (https://www.microsoft.com) would have a large portion of its noncurrent assets tied up in software development and patents.
+Tech companies might have substantial investments in intangible assets such as patents, software, and intellectual property. For instance, **Microsoft** would have a large portion of its noncurrent assets tied up in software development and patents.
 
 ### Real Estate
-[Real estate](../r/real_estate.md) companies naturally invest heavily in properties, which are classified as noncurrent assets. A company like **Realogy [Holdings](../h/holdings.md) Corp** (https://www.realogy.com) would have an extensive portfolio of properties as part of its long-term [asset](../a/asset.md) base.
+[Real estate](../r/real_estate.md) companies naturally invest heavily in properties, which are classified as noncurrent assets. A company like **Realogy [Holdings](../h/holdings.md) Corp** ( would have an extensive portfolio of properties as part of its long-term [asset](../a/asset.md) base.
 
 ## Conclusion
 

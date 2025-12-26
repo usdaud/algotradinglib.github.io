@@ -1,6 +1,6 @@
 # Gift Tax Return
 
-In the realm of [financial markets](../f/financial_market.md), [algorithmic trading](../a/accountability.md) has gained significant traction due to its ability to execute intricate [trading strategies](../t/trading_strategies.md) at high speeds and with minimal human intervention. Amidst this sophisticated landscape, various legal and financial considerations arise, one of which includes the Gift [Tax Return](../t/tax_return.md). Although it might initially seem disconnected from [trading algorithms](../t/trading_algorithms.md), understanding Gift [Tax Return](../t/tax_return.md) is pivotal for traders who might face this [tax liability](../t/tax_liability.md) under certain conditions. This document explores the concept, its relevance, and implications in the world of [algorithmic trading](../a/accountability.md).
+In the realm of [financial markets](../f/financial_market.md), [algorithmic trading](../a/algorithmic_trading.md) has gained significant traction due to its ability to execute intricate [trading strategies](../t/trading_strategies.md) at high speeds and with minimal human intervention. Amidst this sophisticated landscape, various legal and financial considerations arise, one of which includes the Gift [Tax Return](../t/tax_return.md). Although it might initially seem disconnected from [trading algorithms](../t/trading_algorithms.md), understanding Gift [Tax Return](../t/tax_return.md) is pivotal for traders who might face this [tax liability](../t/tax_liability.md) under certain conditions. This document explores the concept, its relevance, and implications in the world of [algorithmic trading](../a/algorithmic_trading.md).
 
 ## What is a Gift Tax Return?
 
@@ -58,9 +58,9 @@ The IRS periodically updates the rules and regulations concerning gift [taxes](.
 
 Working with legal and financial advisors who specialize in tax law is crucial for algorithmic traders making substantial gifts. These professionals can provide tailored advice, assist with filings, and help navigate complex tax scenarios.
 
-### IRS Website
+###
 
-The IRS website is a valuable resource for up-to-date information on [gift tax](../g/gift_tax.md) regulations, forms, and filing instructions. Traders can find Form 709 and accompanying instructions at [IRS Form 709](https://www.irs.gov/forms-pubs/about-form-709).
+The IRS online platform is a valuable resource for up-to-date information on [gift tax](../g/gift_tax.md) regulations, forms, and filing instructions. Traders can find Form 709 and accompanying instructions at IRS Form 709.
 
 ## Conclusion
 

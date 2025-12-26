@@ -47,7 +47,7 @@ Within the [bond market](../b/bond_market.md), bullet [repayment](../r/repayment
 Government bonds often utilize bullet repayments. For instance, a 10-year Treasury [bond](../b/bond.md) from the U.S. government typically requires the government to make semi-annual [interest](../i/interest.md) payments and repay the entire [principal](../p/principal.md) amount at the end of the 10-year period.
 
 ### Corporate Bonds
-Similarly, corporations might [issue](../i/issue.md) bonds with bullet repayments to [finance](../f/finance.md) large [capital](../c/capital.md) expenditures or [expansion](../e/expansion.md) projects. An example can be seen in the bonds issued by companies like Apple Inc., [Apple](https://investor.apple.com/investor-relations/default.aspx), which may use such instruments to [leverage](../l/leverage.md) low-[interest](../i/interest.md) environments.
+Similarly, corporations might [issue](../i/issue.md) bonds with bullet repayments to [finance](../f/finance.md) large [capital](../c/capital.md) expenditures or [expansion](../e/expansion.md) projects. An example can be seen in the bonds issued by companies like Apple Inc., Apple, which may use such instruments to [leverage](../l/leverage.md) low-[interest](../i/interest.md) environments.
 
 ## Bullet Repayment in Mortgages
 
@@ -58,10 +58,10 @@ A balloon [mortgage](../m/mortgage.md) involves smaller periodic payments, often
 
 ## Financial Institutions and Bullet Loans
 
-Numerous financial institutions [offer](../o/offer.md) products with bullet [repayment](../r/repayment.md) features. Understanding these products can help borrowers and investors make informed decisions. 
+Numerous financial institutions [offer](../o/offer.md) products with bullet [repayment](../r/repayment.md) features. Understanding these products can help borrowers and investors make informed decisions.
 
 ### Example: HSBC
-HSBC offers a [range](../r/range.md) of lending products, including those with bullet [repayment](../r/repayment.md) structures. More details can be found on [HSBC's official site](https://www.hsbc.com/).
+HSBC offers a [range](../r/range.md) of lending products, including those with bullet [repayment](../r/repayment.md) structures.
 
 ### Investment Banks
 [Investment banks](../i/investment_bank_(ib).md) frequently structure bullet [repayment](../r/repayment.md) loans for large corporate clients or in [syndicated loan](../s/syndicated_loan.md) arrangements. They might also [offer](../o/offer.md) bullet [repayment](../r/repayment.md) [options](../o/options.md) within [private banking](../p/private_banking.md) services for high-net-worth individuals.
@@ -81,7 +81,7 @@ Leveraged Buyouts (LBOs) often utilize bullet [repayment](../r/repayment.md) str
 [Private equity](../p/private_equity.md) firms executing LBOs might rely on banks to arrange bullet loans. These loans typically involve [interest](../i/interest.md)-only payments for a period, with the [principal](../p/principal.md) due once the [exit strategy](../e/exit_strategy.md) is realized, such as through an IPO or [sale](../s/sale.md) of the company.
 
 ### Example: Kohlberg Kravis Roberts (KKR)
-Firms like KKR frequently employ LBO strategies, leveraging bullet [repayment](../r/repayment.md) loans to optimize [capital structure](../c/capital_structure.md). More information about their operations can be found on [KKR's official site](https://www.kkr.com/).
+Firms like KKR frequently employ LBO strategies, leveraging bullet [repayment](../r/repayment.md) loans to optimize [capital structure](../c/capital_structure.md).
 
 ## Conclusion
 

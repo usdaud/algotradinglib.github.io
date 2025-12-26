@@ -63,13 +63,12 @@ Advisors and institutional investors use UCR to determine the suitability of var
 
 ### Performance Reporting
 
-Regular performance reports for funds usually include the UCR to provide a clear picture of performance during upward [market](../m/market.md) movements. 
+Regular performance reports for funds usually include the UCR to provide a clear picture of performance during upward [market](../m/market.md) movements.
 
 ## Real-World Example: BlackRock
 
-BlackRock offers various mutual funds and ETFs, many of which are benchmarked against major indices like the S&P 500 or the MSCI World [Index](../i/index_instrument.md). They use metrics like the [Upside](../u/upside.md) Capture Ratio in their performance reporting to highlight how well their funds perform compared to these benchmarks during periods of [market](../m/market.md) gains. More information can be found on their [website](https://www.blackrock.com).
+BlackRock offers various mutual funds and ETFs, many of which are benchmarked against major indices like the S&P 500 or the MSCI World [Index](../i/index_instrument.md). They use metrics like the [Upside](../u/upside.md) Capture Ratio in their performance reporting to highlight how well their funds perform compared to these benchmarks during periods of [market](../m/market.md) gains.
 
 ## Conclusion
 
 The [Upside](../u/upside.md) Capture Ratio is a valuable tool for investors seeking to understand the performance dynamics of their investments during periods of [market](../m/market.md) growth. By revealing how well a [fund](../f/fund.md) captures the gains relative to a [benchmark](../b/benchmark.md), it aids in making informed investment choices and developing strategies that align with one's financial goals. Balancing UCR with other metrics ensures a comprehensive understanding of a [fund](../f/fund.md)'s [risk](../r/risk.md) and [return](../r/return.md) profile.
-

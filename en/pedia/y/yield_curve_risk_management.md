@@ -52,8 +52,8 @@ Advancements in [quantitative finance](../q/quantitative_finance.md) and technol
 2. **Pension Funds**: Many pension funds employ advanced ALM strategies to match the durations of their liabilities with suitable assets, using [interest rate swaps](../i/interest_rate_swaps.md) to manage [yield curve](../y/yield_curve.md) exposure.
 
 #### Leading Companies and Providers
-1. **[Bloomberg](../b/bloomberg.md)**: Provides advanced [yield curve](../y/yield_curve.md) analysis tools via the [Bloomberg](../b/bloomberg.md) Terminal along with a [wealth](../w/wealth.md) of [market](../m/market.md) data. [Bloomberg](https://www.bloomberg.com)
-2. **MSCI**: Their RiskMetrics platform offers sophisticated [yield curve](../y/yield_curve.md) [risk](../r/risk.md) measurement and management tools. [MSCI](https://www.msci.com)
-3. **BlackRock**: As one of the largest [asset](../a/asset.md) managers, BlackRock offers comprehensive [risk management](../r/risk_management.md) services, including [yield curve](../y/yield_curve.md) [risk](../r/risk.md) analytics through their Aladdin platform. [BlackRock](https://www.blackrock.com)
+1. **[Bloomberg](../b/bloomberg.md)**: Provides advanced [yield curve](../y/yield_curve.md) analysis tools via the [Bloomberg](../b/bloomberg.md) Terminal along with a [wealth](../w/wealth.md) of [market](../m/market.md) data. Bloomberg
+2. **MSCI**: Their RiskMetrics platform offers sophisticated [yield curve](../y/yield_curve.md) [risk](../r/risk.md) measurement and management tools. MSCI
+3. **BlackRock**: As one of the largest [asset](../a/asset.md) managers, BlackRock offers comprehensive [risk management](../r/risk_management.md) services, including [yield curve](../y/yield_curve.md) [risk](../r/risk.md) analytics through their Aladdin platform. BlackRock
 
 [Yield curve](../y/yield_curve.md) [risk management](../r/risk_management.md) is paramount for maintaining financial stability and achieving investment objectives in the face of fluctuating [interest](../i/interest.md) rates. Mastery of various tools, techniques, and strategies to [hedge](../h/hedge.md) against this type of [risk](../r/risk.md) is essential for fixed-[income](../i/income.md) portfolio managers, financial institutions, and other entities dependent on [interest rate](../i/interest_rate.md)-sensitive instruments.

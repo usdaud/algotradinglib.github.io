@@ -19,7 +19,7 @@ The Consumer Confidence [Index](../i/index_instrument.md) (CCI) measures the lev
 ### Coincident Indicators
 
 **1. Gross Domestic Product (GDP)**
-GDP is a comprehensive measure of economic activity within a country. It represents the total [value](../v/value.md) of goods and services produced over a specific period and is a crucial sign of economic health. 
+GDP is a comprehensive measure of economic activity within a country. It represents the total [value](../v/value.md) of goods and services produced over a specific period and is a crucial sign of economic health.
 
 **2. Employment Levels**
 Employment levels reflect the current state of the [labor market](../l/labor_market.md). High employment rates usually correlate with a strong [economy](../e/economy.md), while rising [unemployment](../u/unemployment.md) typically coincides with economic downturns.
@@ -40,13 +40,10 @@ An increase in [business](../b/business.md) inventories can indicate that produc
 
 ### Example of Companies Utilizing Economic Indicators in Algorithmic Trading
 
-1. **Two Sigma** (https://www.twosigma.com/)
-Two Sigma is known for using a variety of economic indicators in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By analyzing a vast array of data, including economic indicators, they create [predictive models](../p/predictive_models_in_trading.md) to inform trading decisions.
+1. **Two Sigma** Two Sigma is known for using a variety of economic indicators in its [algorithmic trading](../a/algorithmic_trading.md) strategies. By analyzing a vast array of data, including economic indicators, they create [predictive models](../p/predictive_models_in_trading.md) to inform trading decisions.
 
-2. **Renaissance Technologies** (https://www.rentech.com/)
-Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods to predict changes in [financial markets](../f/financial_market.md). Economic indicators are a significant part of the data input into these models.
+2. **Renaissance Technologies** Renaissance Technologies uses [quantitative models](../q/quantitative_models.md) based on mathematical and statistical methods to predict changes in [financial markets](../f/financial_market.md). Economic indicators are a significant part of the data input into these models.
 
-3. **D.E. Shaw Group** (https://www.deshaw.com/)
-This [firm](../f/firm.md) utilizes economic indicators amongst other data points in their [trading algorithms](../t/trading_algorithms.md). Their strategies aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies using sophisticated computational techniques.
+3. **D.E. Shaw Group** This [firm](../f/firm.md) utilizes economic indicators amongst other data points in their [trading algorithms](../t/trading_algorithms.md). Their strategies aim to [capitalize](../c/capitalize.md) on [market](../m/market.md) inefficiencies using sophisticated computational techniques.
 
 Economic Indicators serve as a backbone for developing and refining [algorithmic trading](../a/algorithmic_trading.md) strategies. Their timely analysis can help in anticipating [market](../m/market.md) movements and making informed trading decisions.

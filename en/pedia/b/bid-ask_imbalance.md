@@ -12,7 +12,7 @@
 
 ### Imbalance Concept
 
-[Bid](../b/bid.md)-Ask Imbalance quantifies the difference between the quantities on the [bid](../b/bid.md) side and the ask side of the [order book](../o/order_book.md). 
+[Bid](../b/bid.md)-Ask Imbalance quantifies the difference between the quantities on the [bid](../b/bid.md) side and the ask side of the [order book](../o/order_book.md).
 
 - **Positive Imbalance:** More buy orders than sell orders.
 - **Negative Imbalance:** More sell orders than buy orders.
@@ -61,26 +61,25 @@ Algorithms often use imbalance metrics to optimize [order](../o/order.md) [execu
 
 ### Market Data Feeds
 
-Accurate and [real-time market data](../r/real-time_market_data.md) feeds are crucial for calculating [bid](../b/bid.md)-ask imbalances. Companies like [Bloomberg](https://www.bloomberg.com/), [Thomson Reuters](https://www.thomsonreuters.com/en.html), and [ICE Data Services](https://www.theice.com/market-data-services) provide high-quality [market](../m/market.md) data suited for this purpose.
+Accurate and [real-time market data](../r/real-time_market_data.md) feeds are crucial for calculating [bid](../b/bid.md)-ask imbalances. Companies like Bloomberg, Thomson Reuters, and ICE Data Services provide high-quality [market](../m/market.md) data suited for this purpose.
 
 ### Trading Platforms
 
-Many trading platforms [offer](../o/offer.md) built-in tools for monitoring [bid](../b/bid.md)-ask imbalances. Platforms like [MetaTrader](https://www.metatrader4.com/), [NinjaTrader](https://www.ninjatrader.com/), and [Interactive Brokers](https://www.interactivebrokers.com/) provide these functionalities to algo traders.
+Many trading platforms [offer](../o/offer.md) built-in tools for monitoring [bid](../b/bid.md)-ask imbalances. Platforms like MetaTrader, NinjaTrader, and Interactive Brokers provide these functionalities to algo traders.
 
 ### Custom Solutions
 
-For bespoke strategies, traders often develop custom solutions using programming languages like Python, R, or C++. Libraries such as [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/) in Python facilitate data manipulation and calculation of [bid](../b/bid.md)-ask imbalances.
+For bespoke strategies, traders often develop custom solutions using programming languages like Python, R, or C++. Libraries such as Pandas and NumPy in Python facilitate data manipulation and calculation of [bid](../b/bid.md)-ask imbalances.
 
 ## Case Studies and Real-World Examples
 
 ### High-Frequency Trading (HFT) Firms
 
-High-frequency trading firms like [Citadel Securities](https://www.citadelsecurities.com/) and [Virtu Financial](https://www.virtu.com/) extensively use [bid](../b/bid.md)-ask imbalance metrics to make rapid trading decisions.
+High-frequency trading firms like Citadel Securities and Virtu Financial extensively use [bid](../b/bid.md)-ask imbalance metrics to make rapid trading decisions.
 
 ### Academic Research
 
-Research by institutions such as the [MIT Laboratory for Financial Engineering](https://lfe.mit.edu/) has demonstrated the efficacy of [bid](../b/bid.md)-ask imbalance in predicting short-term price movements and refining [trading strategies](../t/trading_strategies.md). 
-
+Research by institutions such as the MIT Laboratory for Financial Engineering has demonstrated the efficacy of [bid](../b/bid.md)-ask imbalance in predicting short-term price movements and refining [trading strategies](../t/trading_strategies.md).
 ## Risks and Challenges
 
 ### Data Quality
@@ -99,7 +98,7 @@ Certain markets have regulations that might affect how imbalance data can be use
 
 ### Machine Learning Integration
 
-The integration of [machine learning](../m/machine_learning.md) techniques for better [predictive analytics](../p/predictive_analytics.md) based on [bid](../b/bid.md)-ask imbalance is an upcoming [trend](../t/trend.md). Companies like [Kensho](https://www.kensho.com/) and [Numerai](https://numer.ai/) are at the forefront of this development.
+The integration of [machine learning](../m/machine_learning.md) techniques for better [predictive analytics](../p/predictive_analytics.md) based on [bid](../b/bid.md)-ask imbalance is an upcoming [trend](../t/trend.md). Companies like Kensho and Numerai are at the forefront of this development.
 
 ### Advanced Metrics
 

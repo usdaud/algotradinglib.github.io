@@ -75,10 +75,10 @@ With advancements in technology, the trading and management of FRAs have become 
 
 Prominent financial institutions actively engaged in the FRA [market](../m/market.md) include:
 
-- **J.P. Morgan**: A global leader in financial services [offering](../o/offering.md) comprehensive FRA solutions [J.P. Morgan](https://www.jpmorgan.com)
-- **Goldman Sachs:** Known for its advanced trading and [risk management](../r/risk_management.md) capabilities [Goldman Sachs](https://www.goldmansachs.com)
-- **Barclays:** A major player in European and international FRA markets [Barclays](https://www.barclays.com)
-- **Deutsche [Bank](../b/bank.md):** Specializes in tailored FRA products for corporate and institutional clients [Deutsche Bank](https://www.db.com)
+- **J.P. Morgan**: A global leader in financial services [offering](../o/offering.md) comprehensive FRA solutions J.P. Morgan
+- **Goldman Sachs:** Known for its advanced trading and [risk management](../r/risk_management.md) capabilities Goldman Sachs
+- **Barclays:** A major player in European and international FRA markets Barclays
+- **Deutsche [Bank](../b/bank.md):** Specializes in tailored FRA products for corporate and institutional clients Deutsche Bank
 
 #### Conclusion
 

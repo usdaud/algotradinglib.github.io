@@ -13,25 +13,25 @@
 1. **Total Revenues**: This includes all the [money](../m/money.md) earned by the company from its core operations, including sales of goods or services, [interest](../i/interest.md), dividends, etc.
 
 2. **Explicit Costs**: These are the direct costs associated with running the [business](../b/business.md), such as:
-    - **Cost of Goods Sold (COGS)**: Direct costs attributable to the production of the goods sold by the company.
-    - **Operating Expenses**: Expenses related to the core [business activities](../b/business_activities.md), including salaries, rent, utilities, and [marketing](../m/marketing.md) costs.
-    - **[Depreciation](../d/depreciation.md) and Amortization**: The reduction in [value](../v/value.md) of tangible and intangible assets over time.
-    - **[Interest](../i/interest.md) Expenses**: Costs incurred from borrowed funds.
-    - **[Taxes](../t/taxes.md)**: Payments made to the government.
+ - **Cost of Goods Sold (COGS)**: Direct costs attributable to the production of the goods sold by the company.
+ - **Operating Expenses**: Expenses related to the core [business activities](../b/business_activities.md), including salaries, rent, utilities, and [marketing](../m/marketing.md) costs.
+ - **[Depreciation](../d/depreciation.md) and Amortization**: The reduction in [value](../v/value.md) of tangible and intangible assets over time.
+ - **[Interest](../i/interest.md) Expenses**: Costs incurred from borrowed funds.
+ - **[Taxes](../t/taxes.md)**: Payments made to the government.
 
 ### Example Calculation:
 
 Suppose XYZ [Corporation](../c/corporation.md) has the following financial details for a fiscal year:
 - Total Revenues: $1,000,000
 - Explicit Costs:
-  - COGS: $400,000
-  - Salaries and Wages: $200,000
-  - Rent: $50,000
-  - Utilities: $25,000
-  - [Marketing](../m/marketing.md): $30,000
-  - [Depreciation](../d/depreciation.md): $20,000
-  - [Interest](../i/interest.md): $10,000
-  - [Taxes](../t/taxes.md): $15,000
+ - COGS: $400,000
+ - Salaries and Wages: $200,000
+ - Rent: $50,000
+ - Utilities: $25,000
+ - [Marketing](../m/marketing.md): $30,000
+ - [Depreciation](../d/depreciation.md): $20,000
+ - [Interest](../i/interest.md): $10,000
+ - [Taxes](../t/taxes.md): $15,000
 
 [Accounting](../a/accounting.md) [Profit](../p/profit.md):
 \[ \text{[Accounting](../a/accounting.md) [Profit](../p/profit.md)} = \$1,000,000 - (\$400,000 + \$200,000 + \$50,000 + \$25,000 + \$30,000 + \$20,000 + \$10,000 + \$15,000) \]

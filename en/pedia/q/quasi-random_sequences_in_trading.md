@@ -37,9 +37,8 @@ The implementation of quasi-random sequences in [trading systems](../t/trading_s
 
 ### Libraries and Tools
 Several libraries and tools facilitate the integration of quasi-random sequences in [trading systems](../t/trading_systems.md):
-- **SciPy**: The `scipy.stats.qmc` module in SciPy provides functionalities to generate Sobol and Halton sequences. [SciPy Documentation](https://docs.scipy.org/doc/scipy/)
-- **[QuantLib](../q/quantlib.md)**: [QuantLib](../q/quantlib.md) is a comprehensive library for [quantitative finance](../q/quantitative_finance.md) that supports quasi-random sequences for various financial computations. [QuantLib Official Site](https://www.quantlib.org/)
-- **MATLAB**: MATLAB offers built-in support for Sobol and other low-discrepancy sequences, enabling their use in [financial modeling](../f/financial_modeling.md) algorithms. [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
+- **SciPy**: The `scipy.stats.qmc` module in SciPy provides functionalities to generate Sobol and Halton sequences. SciPy Documentation
+- **MATLAB**: MATLAB offers built-in support for Sobol and other low-discrepancy sequences, enabling their use in [financial modeling](../f/financial_modeling.md) algorithms. MATLAB Documentation
 
 ### Coding Example
 Here is a basic example of generating a Sobol sequence in Python using the SciPy library:
@@ -62,7 +61,7 @@ initial_price = 100
 time_to_maturity = 1  # 1 year
 risk_free_rate = 0.05
 
-simulated_prices = initial_price * np.exp(
+simulated_prices = initial_price * np.exp
     (risk_free_rate - 0.5 * [volatility](../v/volatility.md) ** 2) * time_to_maturity
     + [volatility](../v/volatility.md) * np.sqrt(time_to_maturity) * samples[:, 0]
 )
@@ -75,7 +74,7 @@ print(simulated_prices[:10])  # Print first 10 simulated prices
 Several financial institutions and trading firms have successfully implemented quasi-random sequences to enhance their [trading strategies](../t/trading_strategies.md).
 
 ### Renaissance Technologies
-Renaissance Technologies, a renowned [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md), has been at the forefront of employing sophisticated mathematical techniques, including quasi-random sequences, in their [trading algorithms](../t/trading_algorithms.md). Their Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds, delivering consistent high returns. While the specific details of their algorithms are proprietary, it is widely acknowledged that Renaissance leverages advanced computational methods to maintain their edge. [Renaissance Technologies](https://www.rentec.com/)
+Renaissance Technologies, a renowned [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md), has been at the forefront of employing sophisticated mathematical techniques, including quasi-random sequences, in their [trading algorithms](../t/trading_algorithms.md). Their Medallion [Fund](../f/fund.md) is one of the most successful [hedge](../h/hedge.md) funds, delivering consistent high returns. While the specific details of their algorithms are proprietary, it is widely acknowledged that Renaissance leverages advanced computational methods to maintain their edge. Renaissance Technologies
 
 ### Black-Scholes Model Enhancements
 The [Black-Scholes model](../b/black-scholes_model.md) is a staple in option pricing; however, extensions to this model often require multi-dimensional integration. Incorporating quasi-random sequences into these extensions can significantly enhance their accuracy and reliability, as evidenced by various academic studies and practical implementations.

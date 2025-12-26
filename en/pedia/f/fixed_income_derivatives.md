@@ -10,7 +10,7 @@
 5. **[Forward Rate](../f/forward_rate.md) Agreements (FRAs)**
 
 #### Interest Rate Swaps (IRS)
-[Interest Rate Swaps](../i/interest_rate_swaps.md) are agreements between two parties to [exchange](../e/exchange.md) one stream of [interest](../i/interest.md) payments for another, over a set period based on a [notional principal amount](../n/notional_principal_amount.md). The most common type is the fixed-for-floating [swap](../s/swap.md). One party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a floating rate, often pegged to a [reference rate](../r/reference_rate.md) like LIBOR or SOFR.
+[Interest Rate Swaps](../i/interest_rate_swaps.md) are agreements between two parties to [exchange](../e/exchange.md) one stream of [interest](../i/interest.md) payments for another, over a set period based on a [notional principal amount](../n/notional_principal_amount.md). The most common type is the fixed-for-floating [swap](../s/swap.md). One party agrees to pay a [fixed interest rate](../f/fixed_interest_rate.md), while the other pays a floating rate, often pegged to a [reference rate](../r/reference_rate.md) like SOFR (which replaced LIBOR in June 2023).
 
 ##### Applications of Interest Rate Swaps
 - **Hedging**: Companies and financial institutions use IRS to [hedge](../h/hedge.md) against fluctuations in [interest](../i/interest.md) rates.
@@ -83,9 +83,9 @@ Due to their complexity and [leverage](../l/leverage.md), [fixed income](../f/fi
 ### Major Market Players and Platforms
 Several institutions and platforms play a pivotal role in the [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md) [market](../m/market.md):
 
-- **CME Group**: [CME Group](https://www.cmegroup.com) provides a wide [range](../r/range.md) of [fixed income](../f/fixed_income.md) [futures](../f/futures.md) and [options](../o/options.md).
-- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: [ICE](https://www.theice.com) offers trading in [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md) including CDS.
-- **LCH Group**: [LCH](https://www.lch.com) is a leading [clearing house](../c/clearing_house.md) for IRS and other [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md).
-- **[Bloomberg](../b/bloomberg.md)**: [Bloomberg](https://www.bloomberg.com) offers extensive data, analytics, and trading platforms for [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md).
+- **CME Group**: CME Group provides a wide [range](../r/range.md) of [fixed income](../f/fixed_income.md) [futures](../f/futures.md) and [options](../o/options.md).
+- **Intercontinental [Exchange](../e/exchange.md) (ICE)**: ICE offers trading in [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md) including CDS.
+- **LCH Group**: LCH is a leading [clearing house](../c/clearing_house.md) for IRS and other [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md).
+- **[Bloomberg](../b/bloomberg.md)**: Bloomberg offers extensive data, analytics, and trading platforms for [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md).
 
 By providing mechanisms for [risk management](../r/risk_management.md), [price discovery](../p/price_discovery.md), and [market efficiency](../m/market_efficiency.md), [fixed income](../f/fixed_income.md) [derivatives](../d/derivatives.md) are vital to the broader financial ecosystem. Understanding their functionality and application helps [market](../m/market.md) participants make more informed decisions, contributing to overall [market](../m/market.md) stability and [liquidity](../l/liquidity.md).

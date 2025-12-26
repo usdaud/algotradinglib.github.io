@@ -1,6 +1,6 @@
 # Caveat Emptor (Buyer Beware)
 
-## Introduction 
+## Introduction
 
 Caveat Emptor is a Latin phrase that translates to "let the buyer beware.” It served as a fundamental principle in commercial transactions for many centuries. This doctrine places the responsibility on buyers to perform [due diligence](../d/due_diligence.md) before making a purchase. Originally, the concept emerged in [common law](../c/common_law.md) and formed the [basis](../b/basis.md) of commercial transactions, primarily in markets where the seller's primary obligation was only to deliver the product as specified.
 
@@ -38,13 +38,10 @@ These warranties shift significant responsibility onto sellers, mitigating the r
 Today, numerous institutions globally, including government agencies and consumer advocacy groups, focus on protecting consumers. These entities ensure that products are safe and that [marketing](../m/marketing.md) practices are fair and transparent. For instance:
 
 - **Federal [Trade](../t/trade.md) [Commission](../c/commission.md) (FTC):** In the U.S., the FTC enforces laws against deceptive advertising and fraudulent practices.
-  [Federal Trade Commission](https://www.ftc.gov)
 
 - **Consumer Product Safety [Commission](../c/commission.md) (CPSC):** This U.S. agency oversees the safety of [consumer goods](../c/consumer_goods.md) to prevent injuries.
-  [Consumer Product Safety Commission](https://www.cpsc.gov)
 
 - **European Consumer Centres Network (ECC-Net):** This network provides assistance and advice to consumers in the [European Union](../e/european_union_(eu).md).
-  [European Consumer Centres Network](https://ec.europa.eu/consumers/consumers_safety/safety_products/consumer_sales_guarantees/ecc-net_en.htm)
 
 ## Impact on Business Practices
 

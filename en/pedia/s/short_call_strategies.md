@@ -20,8 +20,8 @@ The [short call](../s/short_call.md) strategy is considered a bearish or [neutra
 1. **Initiation**: The call [writer](../w/writer.md) initiates the [trade](../t/trade.md) by selling a [call option](../c/call_option.md) at a specific [strike price](../s/strike_price.md) and [expiration date](../e/expiration_date.md).
 2. **Receipt of [Premium](../p/premium.md)**: Upon selling the call, the option [writer](../w/writer.md) receives a [premium](../p/premium.md) upfront.
 3. **Outcomes**:
-   - **Option Expires Worthless**: If the [underlying asset](../u/underlying_asset.md)'s price remains at or below the [strike price](../s/strike_price.md) by the [expiration date](../e/expiration_date.md), the [call option](../c/call_option.md) expires worthless, and the [writer](../w/writer.md) keeps the [premium](../p/premium.md) as [profit](../p/profit.md).
-   - **Option Exercised**: If the [underlying asset](../u/underlying_asset.md)'s price exceeds the [strike price](../s/strike_price.md), the option buyer [will](../w/will.md) [exercise](../e/exercise.md) the call, requiring the [writer](../w/writer.md) to sell the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md).
+ - **Option Expires Worthless**: If the [underlying asset](../u/underlying_asset.md)'s price remains at or below the [strike price](../s/strike_price.md) by the [expiration date](../e/expiration_date.md), the [call option](../c/call_option.md) expires worthless, and the [writer](../w/writer.md) keeps the [premium](../p/premium.md) as [profit](../p/profit.md).
+ - **Option Exercised**: If the [underlying asset](../u/underlying_asset.md)'s price exceeds the [strike price](../s/strike_price.md), the option buyer [will](../w/will.md) [exercise](../e/exercise.md) the call, requiring the [writer](../w/writer.md) to sell the [underlying asset](../u/underlying_asset.md) at the [strike price](../s/strike_price.md).
 
 ### Risk and Reward
 
@@ -64,8 +64,8 @@ While individual traders can engage in [short call](../s/short_call.md) strategi
 Institutions such as **Goldman Sachs**, **JP Morgan** employ sophisticated [algorithmic trading](../a/algorithmic_trading.md) systems that incorporate [options](../o/options.md) strategies, including short calls, into their broader trading activities. These systems analyze [market](../m/market.md) data to identify profitable opportunities and manage risks more effectively.
 
 Links for Reference:
-- Goldman Sachs: [Goldman Sachs](https://www.goldmansachs.com/)
-- JP Morgan: [JP Morgan](https://www.jpmorgan.com/)
+- Goldman Sachs: Goldman Sachs
+- JP Morgan: JP Morgan
 
 ### Conclusion
 

@@ -2,25 +2,25 @@
 
 Roll forward is an important concept in [finance](../f/finance.md) and trading, particularly in the contexts of [options](../o/options.md) and [futures contracts](../f/futures_contracts.md). When [market](../m/market.md) participants talk about "rolling forward," they are referring to the process of moving a position from a contract that is about to expire to a later-dated contract. This technique is employed to maintain a continuous exposure to a particular [underlying asset](../u/underlying_asset.md) without having to physically settle or take delivery of that [asset](../a/asset.md). This article provides an in-depth examination of roll forward, its applications, types, and considerations.
 
-## Understanding Roll Forward 
+## Understanding Roll Forward
 
 Roll forward involves closing an existing contract that is near expiration and opening a new contract with a later [expiration date](../e/expiration_date.md). This can be done in a variety of financial instruments such as [futures](../f/futures.md), [options](../o/options.md), and swaps. The primary purpose is to extend the [time horizon](../t/time_horizon.md) of the position without altering the [underlying](../u/underlying.md) exposure.
 
 ### Key Terms
 
-1. **[Expiration Date](../e/expiration_date.md)**: The date on which a contract expires and settlement is due. 
+1. **[Expiration Date](../e/expiration_date.md)**: The date on which a contract expires and settlement is due.
 2. **[Underlying Asset](../u/underlying_asset.md)**: The [financial instrument](../f/financial_instrument.md) on which a [derivatives](../d/derivatives.md) contract is based, such as a stock, [commodity](../c/commodity.md), or [index](../i/index_instrument.md).
 3. **Contract**: The formal agreement in [futures](../f/futures.md) and [options](../o/options.md) trading that specifies the [asset](../a/asset.md), the quantity, the price, and the [expiration date](../e/expiration_date.md).
 
-### Applications 
+### Applications
 
 #### Futures Contracts
 
-In [futures](../f/futures.md) trading, roll forward is common for avoiding [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md). For instance, a [trader](../t/trader.md) holding a [futures contract](../f/futures_contract.md) on [crude oil](../c/crude_oil.md) might not want to take [physical delivery](../p/physical_delivery_in_trading.md) of barrels of oil. By rolling forward, the [trader](../t/trader.md) closes the current contract near expiration and opens a new contract for a future date. 
+In [futures](../f/futures.md) trading, roll forward is common for avoiding [physical delivery](../p/physical_delivery_in_trading.md) of the [underlying asset](../u/underlying_asset.md). For instance, a [trader](../t/trader.md) holding a [futures contract](../f/futures_contract.md) on [crude oil](../c/crude_oil.md) might not want to take [physical delivery](../p/physical_delivery_in_trading.md) of barrels of oil. By rolling forward, the [trader](../t/trader.md) closes the current contract near expiration and opens a new contract for a future date.
 
 #### Options Trading
 
-In [options](../o/options.md) trading, rolling forward can mitigate the [risk](../r/risk.md) of a position expiring worthless. This is often done when a [trader](../t/trader.md) believes in the long-term potential of the [underlying asset](../u/underlying_asset.md) but needs more time for the expected price movement to materialize. 
+In [options](../o/options.md) trading, rolling forward can mitigate the [risk](../r/risk.md) of a position expiring worthless. This is often done when a [trader](../t/trader.md) believes in the long-term potential of the [underlying asset](../u/underlying_asset.md) but needs more time for the expected price movement to materialize.
 
 #### Swaps
 
@@ -34,11 +34,11 @@ Involves the simultaneous buying and selling of [options](../o/options.md) or [f
 
 ### 2. Delta-Neutral Roll
 
-Employs various strategies to maintain a [delta](../d/delta.md)-[neutral](../n/neutral.md) position. This is where the portfolio's sensitivity to changes in the price of the [underlying asset](../u/underlying_asset.md) is minimized. 
+Employs various strategies to maintain a [delta](../d/delta.md)-[neutral](../n/neutral.md) position. This is where the portfolio's sensitivity to changes in the price of the [underlying asset](../u/underlying_asset.md) is minimized.
 
 ### 3. Ratio Roll Forward
 
-This strategy involves rolling forward a different number of new contracts compared to the number being closed. For example, rolling forward one contract due to expire and opening two new contracts with a later [expiration date](../e/expiration_date.md). 
+This strategy involves rolling forward a different number of new contracts compared to the number being closed. For example, rolling forward one contract due to expire and opening two new contracts with a later [expiration date](../e/expiration_date.md).
 
 ## Factors to Consider
 
@@ -70,8 +70,8 @@ A [trader](../t/trader.md) holds a [call option](../c/call_option.md) on a stock
 
 ## Algorithmic Considerations
 
-In [algorithmic trading](../a/accountability.md), roll forward can be automated based on predefined rules. Algorithms can be programmed to monitor contract expiration dates and execute roll forward transactions when certain conditions are met. These conditions may include:
- 
+In [algorithmic trading](../a/algorithmic_trading.md), roll forward can be automated based on predefined rules. Algorithms can be programmed to monitor contract expiration dates and execute roll forward transactions when certain conditions are met. These conditions may include:
+
 1. **Time-Based Triggers**: Execute roll forward transactions a specific number of days before expiration.
 2. **[Market](../m/market.md) Conditions**: Only roll forward if [market](../m/market.md) conditions such as [volatility](../v/volatility.md) or [liquidity](../l/liquidity.md) meet certain criteria.
 3. **Strategy-Based Triggers**: Integrate with the overall [trading strategy](../t/trading_strategy.md) considering factors like [delta](../d/delta.md)-[neutral](../n/neutral.md) positions or [risk management](../r/risk_management.md) protocols.

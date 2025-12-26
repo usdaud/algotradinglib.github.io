@@ -72,7 +72,7 @@ Financial institutions use MLR to model the [risk factors](../r/risk_factors_in_
 MLR helps in [forecasting](../f/forecasting.md) [financial time series](../f/financial_time_series.md) data by modeling the relationship between a variable of [interest](../i/interest.md) (e.g., stock price) and several predictors (e.g., [economic indicators](../e/economic_indicators.md)).
 
 ### Algorithmic Trading
-In [algorithmic trading](../a/accountability.md), MLR models can be used to develop [trading strategies](../t/trading_strategies.md) by identifying patterns and relationships among [multiple](../m/multiple.md) financial indicators. For example, a trading algorithm might use an MLR model to predict future price movements based on historical prices, volumes, and other [market](../m/market.md) signals.
+In [algorithmic trading](../a/algorithmic_trading.md), MLR models can be used to develop [trading strategies](../t/trading_strategies.md) by identifying patterns and relationships among [multiple](../m/multiple.md) financial indicators. For example, a trading algorithm might use an MLR model to predict future price movements based on historical prices, volumes, and other [market](../m/market.md) signals.
 
 ## Implementing MLR in Python
 
@@ -81,54 +81,54 @@ Python is a powerful language for developing MLR models due to its rich ecosyste
 ### Step-by-Step Implementation
 
 1. **Data Preparation**:
-   [Load](../l/load.md) and preprocess data using pandas:
-   ```python
-   [import](../i/import.md) pandas as pd
-   [import](../i/import.md) numpy as np
+ [Load](../l/load.md) and preprocess data using pandas:
+ ```python
+ [import](../i/import.md) pandas as pd
+ [import](../i/import.md) numpy as np
 
-   # [Load](../l/load.md) data
-   data = pd.read_csv('data.csv')
+ # [Load](../l/load.md) data
+ data = pd.read_csv('data.csv')
 
-   # Preprocess data ([handle](../h/handle.md) missing values, encode categorical variables, etc.)
-   data.fillna(data.mean(), inplace=True)
-   data = pd.get_dummies(data, drop_first=True)
-   ```
+ # Preprocess data ([handle](../h/handle.md) missing values, encode categorical variables, etc.)
+ data.fillna(data.mean(), inplace=True)
+ data = pd.get_dummies(data, drop_first=True)
+ ```
 
 2. **Define Independent and Dependent Variables**:
-   ```python
-   X = data.drop('dependent_variable', axis=1)  # Independent variables
-   y = data['dependent_variable']  # Dependent variable
-   ```
+ ```python
+ X = data.drop('dependent_variable', axis=1) # Independent variables
+ y = data['dependent_variable'] # Dependent variable
+ ```
 
 3. **Adding Constant**:
-   It is often necessary to add a constant term to the independent variables:
-   ```python
-   [import](../i/import.md) statsmodels.api as sm
+ It is often necessary to add a constant term to the independent variables:
+ ```python
+ [import](../i/import.md) statsmodels.api as sm
 
-   X = sm.add_constant(X)
-   ```
+ X = sm.add_constant(X)
+ ```
 
 4. **Fit the Model**:
-   Create and fit the MLR model using statsmodels:
-   ```python
-   model = sm.OLS(y, X).fit()
-   ```
+ Create and fit the MLR model using statsmodels:
+ ```python
+ model = sm.OLS(y, X).fit()
+ ```
 
 5. **Model Summary**:
-   Retrieve and interpret the model summary:
-   ```python
-   print(model.summary())
-   ```
+ Retrieve and interpret the model summary:
+ ```python
+ print(model.summary())
+ ```
 
 6. **Prediction**:
-   Make predictions using the fitted model:
-   ```python
-   predictions = model.predict(X)
-   ```
+ Make predictions using the fitted model:
+ ```python
+ predictions = model.predict(X)
+ ```
 
 ### Example Application in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), let's consider an example where we predict the future price of a stock based on historical price, [volume](../v/volume.md), and a few [technical indicators](../t/technical_indicator.md).
+In [algorithmic trading](../a/algorithmic_trading.md), let's consider an example where we predict the future price of a stock based on historical price, [volume](../v/volume.md), and a few [technical indicators](../t/technical_indicator.md).
 
 ```python
 # Libraries
@@ -172,4 +172,4 @@ data.to_csv('predicted_stock_prices.csv', [index](../i/index_instrument.md)=Fals
 
 ## Conclusion
 
-[Multiple Linear Regression](../m/multiple_linear_regression.md) is a versatile and powerful tool in the statistical and financial toolkit. Its ability to model relationships between a dependent variable and [multiple](../m/multiple.md) independent variables makes it invaluable for [predictive analytics](../p/predictive_analytics.md), [asset](../a/asset.md) pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/accountability.md). Understanding the theory, assumptions, and practical implementation of MLR equips analysts and traders with the skills needed to draw actionable insights from complex datasets. With the advent of modern computational tools and libraries, implementing MLR has never been easier, opening the door for more sophisticated analyses in [finance](../f/finance.md) and beyond.
+[Multiple Linear Regression](../m/multiple_linear_regression.md) is a versatile and powerful tool in the statistical and financial toolkit. Its ability to model relationships between a dependent variable and [multiple](../m/multiple.md) independent variables makes it invaluable for [predictive analytics](../p/predictive_analytics.md), [asset](../a/asset.md) pricing, [risk management](../r/risk_management.md), and [algorithmic trading](../a/algorithmic_trading.md). Understanding the theory, assumptions, and practical implementation of MLR equips analysts and traders with the skills needed to draw actionable insights from complex datasets. With the advent of modern computational tools and libraries, implementing MLR has never been easier, opening the door for more sophisticated analyses in [finance](../f/finance.md) and beyond.

@@ -74,7 +74,7 @@ Some firms and trading desks incorporate [machine learning](../m/machine_learnin
 
 ### Bureau of Labor Statistics
 
-The primary source of NFP data is the U.S. Bureau of Labor [Statistics](../s/statistics.md), available on their website [here](https://www.bls.gov/).
+The primary source of NFP data is the U.S. Bureau of Labor [Statistics](../s/statistics.md), available through its online channels here.
 
 ### Financial News Platforms
 

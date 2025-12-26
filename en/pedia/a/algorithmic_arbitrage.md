@@ -30,13 +30,13 @@ The [efficiency](../e/efficiency.md) of algorithmic [arbitrage](../a/arbitrage.m
 [Trading algorithms](../t/trading_algorithms.md) are scripts or programs designed to identify [arbitrage](../a/arbitrage.md) opportunities and execute trades. These can [range](../r/range.md) from simple statistical models to complex machine [learning algorithms](../l/learning_algorithms_in_trading.md). They must be rigorously backtested using historical data to ensure their profitability and robustness.
 
 ### Trade Execution Systems
-Once a trading opportunity is identified, the trades must be executed swiftly to [capitalize](../c/capitalize.md) on it. High-frequency [trading systems](../t/trading_systems.md) and connections to [multiple](../m/multiple.md) exchanges are often employed to minimize latency. Companies such as Kx Systems (https://www.kx.com) and [Trading Technologies](../t/trading_technologies.md) (https://www.tradingtechnologies.com) provide advanced [execution](../e/execution.md) platforms.
+Once a trading opportunity is identified, the trades must be executed swiftly to [capitalize](../c/capitalize.md) on it. High-frequency [trading systems](../t/trading_systems.md) and connections to [multiple](../m/multiple.md) exchanges are often employed to minimize latency. Companies such as Kx Systems ( and [Trading Technologies](../t/trading_technologies.md) ( provide advanced [execution](../e/execution.md) platforms.
 
 ### Risk Management
-[Risk management](../r/risk_management.md) is crucial given the automated nature of [algorithmic trading](../a/algorithmic_trading.md). Techniques include [diversification](../d/diversification.md), [stop-loss orders](../s/stop-loss_orders.md), and real-time monitoring of positions to mitigate potential losses. Software solutions from firms like Axioma (https://www.axioma.com) and RiskMetrics can be integrated to monitor [risk](../r/risk.md) parameters.
+[Risk management](../r/risk_management.md) is crucial given the automated nature of [algorithmic trading](../a/algorithmic_trading.md). Techniques include [diversification](../d/diversification.md), [stop-loss orders](../s/stop-loss_orders.md), and real-time monitoring of positions to mitigate potential losses. Software solutions from firms like Axioma ( and RiskMetrics can be integrated to monitor [risk](../r/risk.md) parameters.
 
 ### Portfolio Management
-Once the trades are executed, the subsequent step involves effective [portfolio management](../p/portfolio_management.md). This ensures that the portfolio remains optimized, balanced, and aligned with the defined [risk](../r/risk.md) parameters. Companies like BlackRock's Aladdin (https://www.blackrock.com/aladdin) [offer](../o/offer.md) [robust](../r/robust.md) [portfolio management](../p/portfolio_management.md) solutions.
+Once the trades are executed, the subsequent step involves effective [portfolio management](../p/portfolio_management.md). This ensures that the portfolio remains optimized, balanced, and aligned with the defined [risk](../r/risk.md) parameters. Companies like BlackRock's Aladdin ( [offer](../o/offer.md) [robust](../r/robust.md) [portfolio management](../p/portfolio_management.md) solutions.
 
 ## Popular Algorithms Used in Arbitrage
 
@@ -66,8 +66,8 @@ Ethical considerations involve ensuring that the deployed algorithms do not expl
 Renaissance Technologies, a renowned [hedge fund](../h/hedge_fund.md), is famous for using advanced [algorithmic trading](../a/algorithmic_trading.md) strategies, including [arbitrage](../a/arbitrage.md). Their Medallion [Fund](../f/fund.md) consistently outperforms the [market](../m/market.md) by employing sophisticated algorithms.
 
 ### Citadel LLC
-Citadel LLC is another [hedge fund](../h/hedge_fund.md) known for its use of [algorithmic trading](../a/algorithmic_trading.md). Their [arbitrage](../a/arbitrage.md) strategies are a significant component of their trading operations. More details can be found on their [official website](https://www.citadel.com).
+Citadel LLC is another [hedge fund](../h/hedge_fund.md) known for its use of [algorithmic trading](../a/algorithmic_trading.md). Their [arbitrage](../a/arbitrage.md) strategies are a significant component of their trading operations. More
 
 ## Conclusion
 
-Algorithmic [arbitrage](../a/arbitrage.md) represents a significant evolution in financial trading, combining financial acumen with technological advancements. With the potential for substantial profits, it continues to attract both institutional and individual investors but comes with its own set of challenges and risks. Proper implementation, backed by rigorous testing and a keen understanding of [market dynamics](../m/market_dynamics.md), is crucial for successful [arbitrage](../a/arbitrage.md) trading.
+Algorithmic [arbitrage](../a/arbitrage.md) represents a significant evolution in financial trading, combining financial acumen with technological advancements. With the potential for substantial profits, it continues to attract both institutional and individual investors but comes with its own set of challenges and risks. Proper implementation, backed by rigorous testing and a keen understanding of [market dynamics](../m/market_dynamics.md), is crucial for successful [arbitrage](../a/arbitrage.md) trading.

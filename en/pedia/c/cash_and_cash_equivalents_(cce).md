@@ -29,7 +29,7 @@ Certificates of [Deposit](../d/deposit.md) are time deposits offered by banks wi
 ## Importance of CCE
 CCE is critical for several reasons:
 
-### 1. Liquidity 
+### 1. Liquidity
 CCE provides a company with the ability to quickly and easily access funds to meet short-term [obligations](../o/obligation.md). This is vital for maintaining [operational efficiency](../o/operational_efficiency_in_trading.md) and [solvency](../s/solvency.md).
 
 ### 2. Financial Stability

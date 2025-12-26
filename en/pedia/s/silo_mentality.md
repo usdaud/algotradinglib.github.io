@@ -79,7 +79,7 @@ To address these challenges, some firms have implemented advanced [data analytic
 
 Fintech companies often start with a narrow focus, such as payments or lending. As they scale and introduce more services, silos can form between different product teams. To mitigate this, companies like Stripe and Square have established cross-functional teams that work together to develop integrated financial solutions.
 
-For more details, you can visit [Stripe's website](https://stripe.com) or [Square's website](https://squareup.com).
+
 
 ## Conclusion
 

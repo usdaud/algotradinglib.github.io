@@ -17,13 +17,13 @@
 
 ## Types of Deliverables
 1. **Project Deliverables**: The end results of a project, which may include final products, completed services, or comprehensive reports.
-   - **Example**: A completed software application delivered to a client.
+ - **Example**: A completed software application delivered to a client.
 2. **Process Deliverables**: Interim results or outputs produced during the project lifecycle that contribute to the final deliverable.
-   - **Example**: Design documents, progress reports, or test plans.
+ - **Example**: Design documents, progress reports, or test plans.
 3. **External Deliverables**: Outputs delivered to external stakeholders or clients.
-   - **Example**: A [marketing](../m/marketing.md) campaign plan provided to a client.
+ - **Example**: A [marketing](../m/marketing.md) campaign plan provided to a client.
 4. **Internal Deliverables**: Outputs intended for internal use within the organization or project team.
-   - **Example**: [Internal audit](../i/internal_audit.md) reports or team training materials.
+ - **Example**: [Internal audit](../i/internal_audit.md) reports or team training materials.
 
 ## Example Scenarios
 1. **Software Development**: In a software development project, deliverables might include a project plan, requirement specifications, design documents, code modules, test results, and the final software product.
@@ -45,4 +45,3 @@
 
 ## Conclusion
 Deliverables are a crucial aspect of [project management](../p/project_management.md), representing the outputs that demonstrate progress and success. Clearly defining, managing, and delivering high-quality deliverables on time are essential for achieving project goals and satisfying stakeholders. Understanding the different types of deliverables and their importance helps in effective project planning and [execution](../e/execution.md).
-

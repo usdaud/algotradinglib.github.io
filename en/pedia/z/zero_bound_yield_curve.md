@@ -60,8 +60,8 @@ The zero bound presents several challenges and criticisms for [monetary policy](
 
 The Zero Bound [Yield Curve](../y/yield_curve.md) is a critical concept in understanding the limitations and challenges of [monetary policy](../m/monetary_policy.md) in a low-[interest](../i/interest.md)-rate environment. As central banks navigate the complexities of stimulating [economic growth](../e/economic_growth.md) when traditional tools are constrained, the shape and behavior of the [yield curve](../y/yield_curve.md) at the zero bound provide valuable insights into [market](../m/market.md) expectations and the effectiveness of policy measures.
 
-For more information on the Federal Reserve's response to the [zero lower bound](../z/zero_lower_bound.md), visit their official page on [Federal Reserve's monetary policy](https://www.federalreserve.gov/monetarypolicy.htm).
+For more information on the Federal Reserve's response to the [zero lower bound](../z/zero_lower_bound.md),
 
-To explore the [Bank](../b/bank.md) of Japan's [Yield Curve](../y/yield_curve.md) Control and other monetary policies, visit the [Bank of Japan's monetary policy page](https://www.boj.or.jp/en/mopo/outline/index.htm/).
+To explore the [Bank](../b/bank.md) of Japan's [Yield Curve](../y/yield_curve.md) Control and other monetary policies,
 
-For the European Central [Bank](../b/bank.md)'s approach to unconventional [monetary policy](../m/monetary_policy.md), [check](../c/check.md) out the [ECB's monetary policy](https://www.ecb.europa.eu/mopo/intro/html/index.en.html).
+For the European Central [Bank](../b/bank.md)'s approach to unconventional [monetary policy](../m/monetary_policy.md), [check](../c/check.md) out the ECB's monetary policy.

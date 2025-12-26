@@ -19,36 +19,36 @@ Different countries have their versions of TINs, classified based on the nature 
 ### Individual TINs
 
 1. **[Social Security](../s/social_security.md) Number (SSN) - USA:**
-   The SSN is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents. The [Social Security](../s/social_security.md) Administration (SSA) assigns the SSNs primarily to track individuals for [social security](../s/social_security.md) purposes, but they have become vital for tax identification.
+ The SSN is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents. The [Social Security](../s/social_security.md) Administration (SSA) assigns the SSNs primarily to track individuals for [social security](../s/social_security.md) purposes, but they have become vital for tax identification.
 
-   Example: 123-45-6789
+ Example: 123-45-6789
 
 2. **National [Insurance](../i/insurance.md) Number (NIN) - UK:**
-   The NIN is used in the United Kingdom to track individuals' National [Insurance](../i/insurance.md) contributions and tax records. It is issued by HM [Revenue](../r/revenue.md) and Customs (HMRC).
+ The NIN is used in the United Kingdom to track individuals' National [Insurance](../i/insurance.md) contributions and tax records. It is issued by HM [Revenue](../r/revenue.md) and Customs (HMRC).
 
-   Example: AB 12 34 56 C
+ Example: AB 12 34 56 C
 
 3. **Permanent [Account Number](../a/account_number.md) (PAN) - India:**
-   The PAN is a ten-character alphanumeric identifier issued by the [Income Tax](../i/income_tax.md) Department in India. It is mandatory for financial transactions and for filing [income tax](../i/income_tax.md) returns.
+ The PAN is a ten-character alphanumeric identifier issued by the [Income Tax](../i/income_tax.md) Department in India. It is mandatory for financial transactions and for filing [income tax](../i/income_tax.md) returns.
 
-   Example: ABCDE1234F
+ Example: ABCDE1234F
 
 ### Business TINs
 
 1. **Employer Identification Number (EIN) - USA:**
-   The EIN is a nine-digit number assigned by the Internal [Revenue](../r/revenue.md) Service (IRS) to businesses operating in the United States for tax reporting purposes. It acts as a [business](../b/business.md)'s federal tax identification number.
+ The EIN is a nine-digit number assigned by the Internal [Revenue](../r/revenue.md) Service (IRS) to businesses operating in the United States for tax reporting purposes. It acts as a [business](../b/business.md)'s federal tax identification number.
 
-   Example: 12-3456789
+ Example: 12-3456789
 
 2. **Company Unique [Taxpayer](../t/taxpayer.md) Reference (UTR) - UK:**
-   In the United Kingdom, businesses are assigned a UTR for tax purposes. This is a ten-digit number provided by HMRC when a [business](../b/business.md) registers for [taxation](../t/taxation.md).
+ In the United Kingdom, businesses are assigned a UTR for tax purposes. This is a ten-digit number provided by HMRC when a [business](../b/business.md) registers for [taxation](../t/taxation.md).
 
-   Example: 1234567890
+ Example: 1234567890
 
 3. **[Taxpayer](../t/taxpayer.md) Identification Number (TIN) - Nigeria:**
-   The Corporate Affairs [Commission](../c/commission.md) (CAC) assigns TINs to companies operating in Nigeria. It is an essential requirement for tax reporting and compliance.
+ The Corporate Affairs [Commission](../c/commission.md) (CAC) assigns TINs to companies operating in Nigeria. It is an essential requirement for tax reporting and compliance.
 
-   Example: 12345678-0001
+ Example: 12345678-0001
 
 ## Issuance of TINs
 
@@ -57,31 +57,31 @@ The process of issuing TINs varies by country and type of TIN. Generally, the pr
 ### United States
 
 1. **SSN:**
-   The SSA issues SSNs. U.S. citizens typically apply for an SSN shortly after birth, while non-citizens may obtain one if they have a work authorization from the Department of Homeland [Security](../s/security.md) (DHS).
+ The SSA issues SSNs. U.S. citizens typically apply for an SSN shortly after birth, while non-citizens may obtain one if they have a work authorization from the Department of Homeland [Security](../s/security.md) (DHS).
 
 2. **EIN:**
-   Businesses apply for an EIN through the IRS by filing Form SS-4, either online, by mail, fax, or phone. The IRS immediately issues EINs for online applicants.
+ Businesses apply for an EIN through the IRS by filing Form SS-4, either online, by mail, fax, or phone. The IRS immediately issues EINs for online applicants.
 
 3. **Individual [Taxpayer](../t/taxpayer.md) Identification Number (ITIN):**
-   For individuals who are not eligible for an SSN but need to fulfill tax [obligations](../o/obligation.md), the IRS issues ITINs. Applicants must complete Form W-7 and provide documentation to prove their identity and foreign status.
+ For individuals who are not eligible for an SSN but need to fulfill tax [obligations](../o/obligation.md), the IRS issues ITINs. Applicants must complete Form W-7 and provide documentation to prove their identity and foreign status.
 
 ### United Kingdom
 
 1. **NIN:**
-   Individuals must apply for an NIN by phone through the National [Insurance](../i/insurance.md) helpline. A face-to-face interview may be required for verification purposes.
+ Individuals must apply for an NIN by phone through the National [Insurance](../i/insurance.md) helpline. A face-to-face interview may be required for verification purposes.
 
 2. **UTR:**
-   HMRC assigns the UTR when an individual registers for self-assessment or a [business](../b/business.md) registers for [corporate tax](../c/corporate_tax.md) through the HMRC website or by phone.
+ HMRC assigns the UTR when an individual registers for self-assessment or a [business](../b/business.md) registers for [corporate tax](../c/corporate_tax.md).
 
 ### India
 
 1. **PAN:**
-   Individuals and entities can apply for a PAN through the [Income Tax](../i/income_tax.md) Department's online portal or by submitting a physical application form along with proof of identity and address.
+ Individuals and entities can apply for a PAN through the [Income Tax](../i/income_tax.md) Department's online portal or by submitting a physical application form along with proof of identity and address.
 
 ### Nigeria
 
 1. **TIN:**
-   Individuals and businesses can apply for a TIN through the Federal Inland [Revenue](../r/revenue.md) Service (FIRS) website or at FIRS offices. The application process requires submitting identification documents and [business](../b/business.md) registration details.
+ Individuals and businesses can apply for a TIN through the Federal Inland [Revenue](../r/revenue.md) Service (FIRS) online platform or at FIRS offices. The application process requires submitting identification documents and [business](../b/business.md) registration details.
 
 ## Use of TINs in Tax Filing
 
@@ -125,7 +125,7 @@ To prevent [fraud](../f/fraud.md) and inaccuracies, tax authorities have systems
 
 ### Nigeria
 
-- **TIN:** The FIRS provides a TIN verification service on its website.
+- **TIN:**
 
 ## Privacy and Security of TINs
 

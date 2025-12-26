@@ -28,39 +28,39 @@ Where:
 ### Speculation on Volatility
 
 1. **Directional [Volatility](../v/volatility.md) Trades**:
-   - **Long [Variance Swap](../v/variance_swap.md)**: Entering a long [variance swap](../v/variance_swap.md) position involves buying the [swap](../s/swap.md), which is profitable if [realized volatility](../r/realized_volatility.md) exceeds the strike [volatility](../v/volatility.md). This is commonly used if a [trader](../t/trader.md) anticipates an increase in [market](../m/market.md) turbulence or specific events like [earnings](../e/earnings.md) reports or economic announcements that might spike [volatility](../v/volatility.md).
-   - **Short [Variance Swap](../v/variance_swap.md)**: Conversely, a short [variance swap](../v/variance_swap.md) position profits if the [realized volatility](../r/realized_volatility.md) is less than the strike [volatility](../v/volatility.md). This might be employed in periods of expected [market](../m/market.md) calmness or post event-anxiety periods.
+ - **Long [Variance Swap](../v/variance_swap.md)**: Entering a long [variance swap](../v/variance_swap.md) position involves buying the [swap](../s/swap.md), which is profitable if [realized volatility](../r/realized_volatility.md) exceeds the strike [volatility](../v/volatility.md). This is commonly used if a [trader](../t/trader.md) anticipates an increase in [market](../m/market.md) turbulence or specific events like [earnings](../e/earnings.md) reports or economic announcements that might spike [volatility](../v/volatility.md).
+ - **Short [Variance Swap](../v/variance_swap.md)**: Conversely, a short [variance swap](../v/variance_swap.md) position profits if the [realized volatility](../r/realized_volatility.md) is less than the strike [volatility](../v/volatility.md). This might be employed in periods of expected [market](../m/market.md) calmness or post event-anxiety periods.
 
 2. **Event-Driven Strategies**:
-   - **[Earnings Announcements](../e/earnings_announcements.md)**: Traders might use variance swaps around company [earnings announcements](../e/earnings_announcements.md). Since these periods tend to have higher [market](../m/market.md) expectations for price movement, a [variance swap](../v/variance_swap.md) provides a direct [volatility](../v/volatility.md) play without the need to forecast price direction.
-   - **Economic Data Releases**: Similarly, significant economic data releases like GDP reports, employment figures, or central [bank](../b/bank.md) meetings can influence [market](../m/market.md) [volatility](../v/volatility.md), making variance swaps an apt tool for trading around these events.
+ - **[Earnings Announcements](../e/earnings_announcements.md)**: Traders might use variance swaps around company [earnings announcements](../e/earnings_announcements.md). Since these periods tend to have higher [market](../m/market.md) expectations for price movement, a [variance swap](../v/variance_swap.md) provides a direct [volatility](../v/volatility.md) play without the need to forecast price direction.
+ - **Economic Data Releases**: Similarly, significant economic data releases like GDP reports, employment figures, or central [bank](../b/bank.md) meetings can influence [market](../m/market.md) [volatility](../v/volatility.md), making variance swaps an apt tool for trading around these events.
 
 ### Hedging Strategies
 
 1. **Portfolio [Volatility](../v/volatility.md) Hedging**:
-   - **Hedging [Equity](../e/equity.md) Portfolios**: Investors holding substantial [equity](../e/equity.md) portfolios might use variance swaps to [hedge](../h/hedge.md) against expected [market](../m/market.md) [volatility](../v/volatility.md). By taking a long position in a [variance swap](../v/variance_swap.md), investors can mitigate the impact of rising [volatility](../v/volatility.md) on their portfolio's performance.
-   - **[Credit](../c/credit.md) [Portfolio Hedging](../p/portfolio_hedging.md)**: Variance swaps can also be applied to [hedge](../h/hedge.md) [credit](../c/credit.md) portfolios against the [volatility](../v/volatility.md) of bonds or [credit](../c/credit.md) [spreads](../s/spreads.md).
+ - **Hedging [Equity](../e/equity.md) Portfolios**: Investors holding substantial [equity](../e/equity.md) portfolios might use variance swaps to [hedge](../h/hedge.md) against expected [market](../m/market.md) [volatility](../v/volatility.md). By taking a long position in a [variance swap](../v/variance_swap.md), investors can mitigate the impact of rising [volatility](../v/volatility.md) on their portfolio's performance.
+ - **[Credit](../c/credit.md) [Portfolio Hedging](../p/portfolio_hedging.md)**: Variance swaps can also be applied to [hedge](../h/hedge.md) [credit](../c/credit.md) portfolios against the [volatility](../v/volatility.md) of bonds or [credit](../c/credit.md) [spreads](../s/spreads.md).
 
 2. **[Volatility](../v/volatility.md) [Arbitrage](../a/arbitrage.md)**:
-   - **[Relative Value](../r/relative_value.md) Trades**: This involves comparing the implied [volatility](../v/volatility.md) (from [options](../o/options.md) markets) with the forecasted [realized volatility](../r/realized_volatility.md). Traders might engage in [variance swap](../v/variance_swap.md) strategies if there's a significant discrepancy, expecting a convergence between implied and [realized volatility](../r/realized_volatility.md).
-   - **Long/Short [Volatility](../v/volatility.md) Positions**: Investors might take a long position in variance swaps on one [index](../i/index_instrument.md) or [security](../s/security.md) while taking a short position in another, considering correlations or implied [volatility](../v/volatility.md) [spreads](../s/spreads.md).
+ - **[Relative Value](../r/relative_value.md) Trades**: This involves comparing the implied [volatility](../v/volatility.md) (from [options](../o/options.md) markets) with the forecasted [realized volatility](../r/realized_volatility.md). Traders might engage in [variance swap](../v/variance_swap.md) strategies if there's a significant discrepancy, expecting a convergence between implied and [realized volatility](../r/realized_volatility.md).
+ - **Long/Short [Volatility](../v/volatility.md) Positions**: Investors might take a long position in variance swaps on one [index](../i/index_instrument.md) or [security](../s/security.md) while taking a short position in another, considering correlations or implied [volatility](../v/volatility.md) [spreads](../s/spreads.md).
 
 ### Yield Enhancement
 
 1. **[Overlay Strategies](../o/overlay_strategies.md)**:
-   - **“Overlaying” on Existing Positions**: Variance swaps can be used as overlays on existing investment portfolios to enhance [yield](../y/yield.md). For instance, in a low-[volatility](../v/volatility.md) environment, adding short variance swaps can augment returns due to the relatively low [realized volatility](../r/realized_volatility.md) compared to strike levels.
-   - **[Alpha Generation](../a/alpha_generation.md)**: [Hedge](../h/hedge.md) funds and portfolio managers might use variance swaps as part of their [alpha](../a/alpha.md)-generating strategies. By effectively predicting [volatility](../v/volatility.md) trends, traders can add performance without significantly altering the [underlying](../u/underlying.md) portfolio structure.
+ - **“Overlaying” on Existing Positions**: Variance swaps can be used as overlays on existing investment portfolios to enhance [yield](../y/yield.md). For instance, in a low-[volatility](../v/volatility.md) environment, adding short variance swaps can augment returns due to the relatively low [realized volatility](../r/realized_volatility.md) compared to strike levels.
+ - **[Alpha Generation](../a/alpha_generation.md)**: [Hedge](../h/hedge.md) funds and portfolio managers might use variance swaps as part of their [alpha](../a/alpha.md)-generating strategies. By effectively predicting [volatility](../v/volatility.md) trends, traders can add performance without significantly altering the [underlying](../u/underlying.md) portfolio structure.
 
 ### Risk Management
 
 1. **[Tail Risk](../t/tail_risk.md) Hedging**:
-   - **Protecting Against Extreme Events**: Variance swaps can be structured to protect against tail risks – rare but severe events that can lead to substantial portfolio losses. By taking positions in variance swaps, traders can mitigate the [risk](../r/risk.md) associated with sudden, extreme [volatility](../v/volatility.md) shifts.
-   - **[Divergence](../d/divergence.md) from [Historical Volatility](../h/historical_volatility.md)**: Variance swaps provide protection against scenarios where [market](../m/market.md) [volatility](../v/volatility.md) deviates substantially from historical patterns, allowing traders to [hedge](../h/hedge.md) against unpredicted variance shocks.
+ - **Protecting Against Extreme Events**: Variance swaps can be structured to protect against tail risks – rare but severe events that can lead to substantial portfolio losses. By taking positions in variance swaps, traders can mitigate the [risk](../r/risk.md) associated with sudden, extreme [volatility](../v/volatility.md) shifts.
+ - **[Divergence](../d/divergence.md) from [Historical Volatility](../h/historical_volatility.md)**: Variance swaps provide protection against scenarios where [market](../m/market.md) [volatility](../v/volatility.md) deviates substantially from historical patterns, allowing traders to [hedge](../h/hedge.md) against unpredicted variance shocks.
 
 ### Behavioral Arbitrage
 
 1. **Exploiting [Herd Behavior](../h/herd_behavior_in_trading.md)**:
-   - **Crowded Trades**: During instances where [market](../m/market.md) participants collectively engage in similar trades (herding), resulting in distorted [volatility](../v/volatility.md) signals, variance swaps [offer](../o/offer.md) a means to [capitalize](../c/capitalize.md) on these distortions. Traders can either benefit from the anticipated [correction](../c/correction.md) or protect against the behavioral-induced [volatility](../v/volatility.md) spikes.
+ - **Crowded Trades**: During instances where [market](../m/market.md) participants collectively engage in similar trades (herding), resulting in distorted [volatility](../v/volatility.md) signals, variance swaps [offer](../o/offer.md) a means to [capitalize](../c/capitalize.md) on these distortions. Traders can either benefit from the anticipated [correction](../c/correction.md) or protect against the behavioral-induced [volatility](../v/volatility.md) spikes.
 
 ## Notable Players and Market Impact
 
@@ -68,11 +68,11 @@ Where:
 
 Several major financial institutions and [hedge](../h/hedge.md) funds actively engage in [variance swap](../v/variance_swap.md) trading. Key players include:
 
-- **Goldman Sachs**: Known for its sophisticated [trading strategies](../t/trading_strategies.md), Goldman Sachs integrates variance swaps within its broader trading and [risk management](../r/risk_management.md) framework. [Goldman Sachs](https://www.goldmansachs.com/)
-  
-- **JP Morgan**: Offers variance swaps through its extensive [derivatives](../d/derivatives.md) [trading desk](../t/trading_desk.md), providing clients with tools to [hedge](../h/hedge.md) or speculate on [volatility](../v/volatility.md). [JP Morgan](https://www.jpmorgan.com/)
-  
-- **Citadel LLC**: A leading [hedge fund](../h/hedge_fund.md), Citadel uses variance swaps as part of its multi-strategy trading approach, focusing on exploiting [market](../m/market.md) inefficiencies. [Citadel](https://www.citadel.com/)
+- **Goldman Sachs**: Known for its sophisticated [trading strategies](../t/trading_strategies.md), Goldman Sachs integrates variance swaps within its broader trading and [risk management](../r/risk_management.md) framework. Goldman Sachs
+
+- **JP Morgan**: Offers variance swaps through its extensive [derivatives](../d/derivatives.md) [trading desk](../t/trading_desk.md), providing clients with tools to [hedge](../h/hedge.md) or speculate on [volatility](../v/volatility.md). JP Morgan
+
+- **Citadel LLC**: A leading [hedge fund](../h/hedge_fund.md), Citadel uses variance swaps as part of its multi-strategy trading approach, focusing on exploiting [market](../m/market.md) inefficiencies. Citadel
 
 ### Market Liquidity
 

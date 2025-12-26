@@ -82,19 +82,19 @@ Banks with [robust](../r/robust.md) CARs are better positioned to expand [busine
 
 JP Morgan Chase, one of the largest banks in the United States, regularly reports its CAR as part of its financial disclosures. In their Q2 2023 financial results, the [bank](../b/bank.md) reported a CAR well above the regulatory requirement, demonstrating its strong [capital](../c/capital.md) position.
 
-For more details, visit the [JP Morgan Chase](https://www.jpmorganchase.com) website.
+
 
 ### Case Study: HSBC Bank
 
 HSBC, a global banking giant, also maintains a [robust](../r/robust.md) CAR, aligning with the [Basel III](../b/basel_iii.md) requirements to ensure financial stability and [investor](../i/investor.md) confidence. The [bank](../b/bank.md) publishes its CAR in its annual financial reports.
 
-For more details, visit the [HSBC](https://www.hsbc.com) website.
+
 
 ## Challenges in Maintaining CAR
 
 ### Economic Downturns
 
-During economic downturns, banks may find it challenging to maintain the required CAR due to increased [loan](../l/loan.md) defaults and reduced profitability. 
+During economic downturns, banks may find it challenging to maintain the required CAR due to increased [loan](../l/loan.md) defaults and reduced profitability.
 
 ### Regulatory Changes
 

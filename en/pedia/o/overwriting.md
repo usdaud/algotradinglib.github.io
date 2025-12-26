@@ -55,9 +55,9 @@ To provide a better understanding of overwriting, let’s consider a couple of e
 An [investor](../i/investor.md) owns 100 [shares](../s/shares.md) of Microsoft, currently trading at $300 per share. The [investor](../i/investor.md) sells a [call option](../c/call_option.md) with a [strike price](../s/strike_price.md) of $310 expiring in one month for a [premium](../p/premium.md) of $5 per share.
 
 - **[Premium](../p/premium.md) [Income](../i/income.md)**: The [investor](../i/investor.md) receives $500 (100 [shares](../s/shares.md) x $5 [premium](../p/premium.md)).
-- **Possible Outcomes**: 
-  - If Microsoft trades below $310 at expiration, the option expires worthless, and the [investor](../i/investor.md) keeps the $500 [premium](../p/premium.md), potentially writing another [call option](../c/call_option.md).
-  - If Microsoft trades above $310, the option buyer exercises the call, the [investor](../i/investor.md) sells the [shares](../s/shares.md) at $310, and while they forego any gains above $310, they still keep the $500 [premium](../p/premium.md).
+- **Possible Outcomes**:
+ - If Microsoft trades below $310 at expiration, the option expires worthless, and the [investor](../i/investor.md) keeps the $500 [premium](../p/premium.md), potentially writing another [call option](../c/call_option.md).
+ - If Microsoft trades above $310, the option buyer exercises the call, the [investor](../i/investor.md) sells the [shares](../s/shares.md) at $310, and while they forego any gains above $310, they still keep the $500 [premium](../p/premium.md).
 
 ### Example 2: SPDR S&P 500 ETF Trust (Ticker: SPY)
 
@@ -65,16 +65,16 @@ Assume an [investor](../i/investor.md) holds 200 [shares](../s/shares.md) of SPY
 
 - **[Premium](../p/premium.md) [Income](../i/income.md)**: The [investor](../i/investor.md) receives $600 (200 [shares](../s/shares.md) x $3 [premium](../p/premium.md)).
 - **Possible Outcomes**:
-  - If SPY remains below $410, the calls expire worthless, and the [investor](../i/investor.md) keeps the $600 [premium](../p/premium.md).
-  - Should SPY rise above $410, the [options](../o/options.md) may be exercised, requiring the [investor](../i/investor.md) to sell at $410, thus missing out on any [upside](../u/upside.md) above that price but still retaining the [premium](../p/premium.md) collected.
+ - If SPY remains below $410, the calls expire worthless, and the [investor](../i/investor.md) keeps the $600 [premium](../p/premium.md).
+ - Should SPY rise above $410, the [options](../o/options.md) may be exercised, requiring the [investor](../i/investor.md) to sell at $410, thus missing out on any [upside](../u/upside.md) above that price but still retaining the [premium](../p/premium.md) collected.
 
 ## Tools and Platforms for Overwriting
 
 There are several tools and platforms that can assist investors in executing and managing overwriting strategies:
 
-1. **Brokerage Platforms**: Many online brokerage firms [offer](../o/offer.md) [robust](../r/robust.md) [options](../o/options.md) trading platforms with advanced tools for analyzing and executing overwriting strategies. Examples include [Interactive Brokers](https://www.interactivebrokers.com) and [TD Ameritrade](https://www.tdameritrade.com).
-2. **Option Analysis Software**: Tools like [OptionVue](https://www.optionvue.com) and [OptionsPlay](https://www.optionsplay.com) provide in-depth analytical capabilities for evaluating potential overwriting trades.
-3. **[Market](../m/market.md) Data Services**: Data providers like [Bloomberg](https://www.bloomberg.com/professional/) and [Reuters](https://www.reuters.com) deliver [real-time market data](../r/real-time_market_data.md) and news, which are essential for making informed overwriting decisions.
+1. **Brokerage Platforms**: Many online brokerage firms [offer](../o/offer.md) [robust](../r/robust.md) [options](../o/options.md) trading platforms with advanced tools for analyzing and executing overwriting strategies. Examples include Interactive Brokers and TD Ameritrade.
+2. **Option Analysis Software**: Tools like OptionVue and OptionsPlay provide in-depth analytical capabilities for evaluating potential overwriting trades.
+3. **[Market](../m/market.md) Data Services**: Data providers like Bloomberg and Reuters deliver [real-time market data](../r/real-time_market_data.md) and news, which are essential for making informed overwriting decisions.
 
 ## Conclusion
 

@@ -22,7 +22,7 @@ Servicing fees cover the costs associated with maintaining and servicing the acc
 
 * **Annual Fees**: A yearly [fee](../f/fee.md) charged for maintaining the account, commonly seen with [credit](../c/credit.md) cards.
 * **Maintenance Fees**: Monthly or periodic fees for maintaining the account.
-  
+
 ### Penalty Fees
 Penalty fees are charged when the borrower violates the terms of the agreement. They serve both as a penalty and as a deterrent against undesirable behavior. Examples include:
 

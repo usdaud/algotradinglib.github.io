@@ -10,13 +10,13 @@ The Ukrainian [Exchange](../e/exchange.md) was established in May 2008, amidst h
 The UX operates on a sophisticated trading system that enables both spot and [derivatives](../d/derivatives.md) trading. The [exchange](../e/exchange.md) is structured to accommodate a variety of financial instruments, including equities, corporate and government bonds, and [derivatives](../d/derivatives.md).
 
 ### Board of Directors and Management
-The governance structure of the Ukrainian [Exchange](../e/exchange.md) includes a Board of Directors responsible for strategic decisions, and an executive team that oversees daily operations. Detailed profiles of the board members and management team can be found on the official Ukrainian [Exchange](../e/exchange.md) website.
+The governance structure of the Ukrainian [Exchange](../e/exchange.md) includes a Board of Directors responsible for strategic decisions, and an executive team that oversees daily operations. Detailed profiles of the board members and management team can be found on the official Ukrainian [Exchange](../e/exchange.md) online platform.
 
 ## Financial Instruments Traded
 The UX supports a comprehensive [range](../r/range.md) of financial instruments, each catering to different [market](../m/market.md) needs.
 
 ### Equities
-Equities are one of the most traded instruments on UX. These include [shares](../s/shares.md) of various Ukrainian companies [listed](../l/listed.md) on the [exchange](../e/exchange.md). 
+Equities are one of the most traded instruments on UX. These include [shares](../s/shares.md) of various Ukrainian companies [listed](../l/listed.md) on the [exchange](../e/exchange.md).
 
 ### Bonds
 The UX also facilitates the trading of both corporate and government bonds. This category provides a secure investment option for [risk-averse](../r/risk-averse.md) investors.
@@ -37,7 +37,7 @@ To ensure [liquidity](../l/liquidity.md), UX employs a [market](../m/market.md)-
 The [trading platform](../t/trading_platform.md) of UX is built on advanced technology, ensuring high-speed [execution](../e/execution.md) and low latency, catering to high-frequency traders and institutional investors alike.
 
 ## Regulatory Framework
-The UX is regulated by the National Securities and [Stock Market](../s/stock_market.md) [Commission](../c/commission.md) (NSSMC) of Ukraine. The [exchange](../e/exchange.md) adheres to stringent regulations to ensure [transparency](../t/transparency.md), fairness, and [investor](../i/investor.md) protection. 
+The UX is regulated by the National Securities and [Stock Market](../s/stock_market.md) [Commission](../c/commission.md) (NSSMC) of Ukraine. The [exchange](../e/exchange.md) adheres to stringent regulations to ensure [transparency](../t/transparency.md), fairness, and [investor](../i/investor.md) protection.
 
 ### Compliance and Reporting
 Companies [listed](../l/listed.md) on the UX are required to provide regular financial disclosures and comply with numerous regulatory requirements. This ensures a high level of [transparency](../t/transparency.md) and protects [investor](../i/investor.md) interests.
@@ -46,10 +46,10 @@ Companies [listed](../l/listed.md) on the UX are required to provide regular fin
 The UX's advanced technology [infrastructure](../i/infrastructure.md) makes it suitable for algorithmic and high-frequency trading. These [trading strategies](../t/trading_strategies.md) rely on automated systems to execute trades at extremely high speeds, taking advantage of minor price fluctuations.
 
 ### Algorithmic Trading
-[Algorithmic trading](../a/accountability.md) involves using pre-set computer programs to execute trades based on specified criteria, such as time, price, or [volume](../v/volume.md).
+[Algorithmic trading](../a/algorithmic_trading.md) involves using pre-set computer programs to execute trades based on specified criteria, such as time, price, or [volume](../v/volume.md).
 
 ### High-Frequency Trading
-High-frequency trading (HFT) takes [algorithmic trading](../a/accountability.md) a step further by executing a large number of orders at very high speeds. This requires a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) capable of handling significant amounts of data with minimal latency.
+High-frequency trading (HFT) takes [algorithmic trading](../a/algorithmic_trading.md) a step further by executing a large number of orders at very high speeds. This requires a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) capable of handling significant amounts of data with minimal latency.
 
 ## Market Indices
 The Ukrainian [Exchange](../e/exchange.md) is known for its key benchmarks, which serve as indicators of [market](../m/market.md) performance.
@@ -75,4 +75,4 @@ Despite its significant role in Ukraine's [financial markets](../f/financial_mar
 ## Conclusion
 The Ukrainian [Exchange](../e/exchange.md) is a cornerstone of Ukraine's financial [market](../m/market.md) [infrastructure](../i/infrastructure.md). Its modern [trading systems](../t/trading_systems.md), diverse [range](../r/range.md) of financial instruments, and [robust](../r/robust.md) regulatory framework make it a vital platform for both domestic and international investors. As Ukraine continues to develop its [financial markets](../f/financial_market.md), the UX is poised to play an even more critical role in driving [economic growth](../e/economic_growth.md) and investment.
 
-For more information, you can visit the official Ukrainian [Exchange](../e/exchange.md) website [here](https://www.ux.ua).
+For more information, you can visit the official Ukrainian [Exchange](../e/exchange.md) online platform here.

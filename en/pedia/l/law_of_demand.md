@@ -44,7 +44,7 @@ Understanding the Law of [Demand](../d/demand.md) is crucial for businesses, pol
 [Elasticity](../e/elasticity.md) of [Demand](../d/demand.md) measures how responsive the [quantity demanded](../q/quantity_demanded.md) of a good is to a change in its price. It is a key concept related to the Law of [Demand](../d/demand.md) and provides additional insights into consumer behavior.
 
 ### Price Elasticity of Demand (PED)
-[Price Elasticity of Demand](../p/price_elasticity_of_demand.md) is calculated as the [percentage change](../p/percentage_change.md) in [quantity demanded](../q/quantity_demanded.md) divided by the [percentage change](../p/percentage_change.md) in price. 
+[Price Elasticity of Demand](../p/price_elasticity_of_demand.md) is calculated as the [percentage change](../p/percentage_change.md) in [quantity demanded](../q/quantity_demanded.md) divided by the [percentage change](../p/percentage_change.md) in price.
 \[ \text{PED} = \frac{\% \text{ Change in [Quantity Demanded](../q/quantity_demanded.md)}}{\% \text{ Change in Price}} \]
 
 ### Types of Elasticity

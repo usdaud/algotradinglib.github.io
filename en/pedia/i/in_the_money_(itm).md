@@ -16,7 +16,7 @@ A [put option](../p/put.md) gives the holder the right to sell an [asset](../a/a
 
 ### Intrinsic Value and Time Value
 
-An option's price is composed of [intrinsic value](../i/intrinsic_value.md) and [time value](../t/time_value.md). ITM [options](../o/options.md) have [intrinsic value](../i/intrinsic_value.md): 
+An option's price is composed of [intrinsic value](../i/intrinsic_value.md) and [time value](../t/time_value.md). ITM [options](../o/options.md) have [intrinsic value](../i/intrinsic_value.md):
 - The [intrinsic value](../i/intrinsic_value.md) for a [call option](../c/call_option.md) is the amount by which the [underlying](../u/underlying.md) price exceeds the [strike price](../s/strike_price.md).
 - The [intrinsic value](../i/intrinsic_value.md) for a [put option](../p/put.md) is the amount by which the [strike price](../s/strike_price.md) exceeds the [underlying](../u/underlying.md) price.
 
@@ -24,7 +24,7 @@ The [time value](../t/time_value.md) is the additional [premium](../p/premium.md
 
 ### Profit Potential
 
-ITM [options](../o/options.md) are crucial for traders because they represent opportunities for [profit](../p/profit.md). Investors interested in understanding their option positions' profitability closely follow whether their [options](../o/options.md) are ITM. 
+ITM [options](../o/options.md) are crucial for traders because they represent opportunities for [profit](../p/profit.md). Investors interested in understanding their option positions' profitability closely follow whether their [options](../o/options.md) are ITM.
 
 ### Reduced Time Decay
 
@@ -48,7 +48,7 @@ A [bull call spread](../b/bull_call_spread.md) involves buying a [call option](.
 
 ### Lower Risk than OTM Options
 
-ITM [options](../o/options.md) naturally have [intrinsic value](../i/intrinsic_value.md), making them less risky than OTM [options](../o/options.md) which could expire worthless if the [strike price](../s/strike_price.md) is not met by expiration. 
+ITM [options](../o/options.md) naturally have [intrinsic value](../i/intrinsic_value.md), making them less risky than OTM [options](../o/options.md) which could expire worthless if the [strike price](../s/strike_price.md) is not met by expiration.
 
 ### Utilization in Hedging
 
@@ -58,24 +58,24 @@ Traders and [fund](../f/fund.md) managers use ITM [options](../o/options.md) as 
 
 ### Institutional Trading
 
-Institutional investors and [hedge](../h/hedge.md) funds often [leverage](../l/leverage.md) ITM [options](../o/options.md) for various sophisticated [trading strategies](../t/trading_strategies.md), including hedging, [speculation](../s/speculation.md), and [income](../i/income.md) generation. For more detailed insights into institutional practices, visit [Goldman Sachs](https://www.goldmansachs.com/).
+Institutional investors and [hedge](../h/hedge.md) funds often [leverage](../l/leverage.md) ITM [options](../o/options.md) for various sophisticated [trading strategies](../t/trading_strategies.md), including hedging, [speculation](../s/speculation.md), and [income](../i/income.md) generation. For more detailed insights into institutional practices, visit Goldman Sachs.
 
 ### Retail Investors
 
-Retail investors utilize ITM [options](../o/options.md) in their [trading strategies](../t/trading_strategies.md) by directly engaging with brokerage platforms such as [Interactive Brokers](https://www.interactivebrokers.com/) to execute trades that align with their financial goals and [risk](../r/risk.md) tolerances.
+Retail investors utilize ITM [options](../o/options.md) in their [trading strategies](../t/trading_strategies.md) by directly engaging with brokerage platforms such as Interactive Brokers to execute trades that align with their financial goals and [risk](../r/risk.md) tolerances.
 
 ## Advanced Considerations
 
 ### Greek Analytics
 
 To evaluate ITM [options](../o/options.md), traders often use Greek metrics:
-- [Delta](../d/delta.md): measures the rate of change in the option's price concerning the [underlying asset](../u/underlying_asset.md)'s price. ITM [options](../o/options.md) have higher [delta](../d/delta.md) values.
-- [Theta](../t/theta.md): gauges the rate of [time decay](../t/time_decay.md) in the option's price. ITM [options](../o/options.md) have lower [theta](../t/theta.md) impacts, meaning their [value](../v/value.md) decays slower over time.
+- [Delta](../d/delta.md): measures the rate of change in the option's price concerning the [underlying asset](../u/underlying_asset.md)'s price. ITM [options](../o/options.md) have higher delta values.
+- [Theta](../t/theta.md): gauges the rate of [time decay](../t/time_decay.md) in the option's price. ITM [options](../o/options.md) have lower theta impacts, meaning their [value](../v/value.md) decays slower over time.
 - [Vega](../v/vega.md): indicates the sensitivity of the option's price to [volatility](../v/volatility.md) changes. ITM [options](../o/options.md) can be more resilient to [volatility](../v/volatility.md) fluctuations in the [underlying asset](../u/underlying_asset.md) compared to OTM [options](../o/options.md).
 
 ### Implied Volatility
 
-Implied [volatility](../v/volatility.md) reflects [market](../m/market.md) expectations of the [underlying asset](../u/underlying_asset.md)’s [volatility](../v/volatility.md); ITM [options](../o/options.md) possess an inherent [value](../v/value.md) less sensitive to [volatility](../v/volatility.md) spikes compared to OTM [options](../o/options.md). 
+Implied [volatility](../v/volatility.md) reflects [market](../m/market.md) expectations of the [underlying asset](../u/underlying_asset.md)’s [volatility](../v/volatility.md); ITM [options](../o/options.md) possess an inherent [value](../v/value.md) less sensitive to [volatility](../v/volatility.md) spikes compared to OTM [options](../o/options.md).
 
 ## Conclusion
 

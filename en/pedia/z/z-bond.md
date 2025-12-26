@@ -34,7 +34,7 @@ Suppose an [investor](../i/investor.md) purchases a Z-[Bond](../b/bond.md) with 
 
 ## Advantages
 
-### High Yield 
+### High Yield
 Z-Bonds often [offer](../o/offer.md) higher yields compared to other types of bonds due to the [risk](../r/risk.md) associated with the lack of periodic [interest](../i/interest.md) payments.
 
 ### Compounded Returns

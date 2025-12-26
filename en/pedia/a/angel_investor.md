@@ -25,7 +25,7 @@ In contrast to venture capitalists who manage [pooled funds](../p/pooled_funds.m
 
 ### Deal Sourcing
 
-Angel investors frequently participate in [startup](../s/startup.md) ecosystems to spot potential investment opportunities. They attend pitch events, [startup](../s/startup.md) competitions, and [industry](../i/industry.md) conferences. Platforms like AngelList (https://angel.co/) also serve as intermediaries, connecting startups with potential investors.
+Angel investors frequently participate in [startup](../s/startup.md) ecosystems to spot potential investment opportunities. They attend pitch events, [startup](../s/startup.md) competitions, and [industry](../i/industry.md) conferences. Platforms like AngelList ( also serve as intermediaries, connecting startups with potential investors.
 
 ### Due Diligence
 

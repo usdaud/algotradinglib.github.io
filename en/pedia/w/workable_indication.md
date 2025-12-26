@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The concept of a workable indication is fundamental in both [finance](../f/finance.md) and trading, including [algorithmic trading](../a/accountability.md) and fintech. It refers to actionable signals or insights generated from [market](../m/market.md) data analysis, which can be used to make informed trading decisions. Workable indications are derived from various analytical methods, including [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), [quantitative models](../q/quantitative_models.md), and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md).
+The concept of a workable indication is fundamental in both [finance](../f/finance.md) and trading, including [algorithmic trading](../a/algorithmic_trading.md) and fintech. It refers to actionable signals or insights generated from [market](../m/market.md) data analysis, which can be used to make informed trading decisions. Workable indications are derived from various analytical methods, including [technical analysis](../t/technical_analysis.md), [fundamental analysis](../f/fundamental_analysis.md), [quantitative models](../q/quantitative_models.md), and [machine learning algorithms](../m/machine_learning_algorithms_in_trading.md).
 
 ## Types of Workable Indications
 
@@ -46,7 +46,7 @@ Fundamental indicators involve evaluating a company's [financial statements](../
 
 ## Practical Applications in Algorithmic Trading
 
-[Algorithmic trading](../a/accountability.md) refers to the use of computer algorithms to automate trading activity. Workable indications play a crucial role in developing and executing [trading strategies](../t/trading_strategies.md). Here are some key applications:
+[Algorithmic trading](../a/algorithmic_trading.md) refers to the use of computer algorithms to automate trading activity. Workable indications play a crucial role in developing and executing [trading strategies](../t/trading_strategies.md). Here are some key applications:
 
 ### 1. Trend Following
 
@@ -90,6 +90,6 @@ Workable indications form the backbone of informed decision-making in the realms
 
 For more detailed information, you might visit specific companies or solutions providers such as:
 
-- [Algorithmic Trading Company: Alpaca](https://alpaca.markets)
-- [Fintech Company: Plaid](https://plaid.com)
-- [Machine Learning Solutions in Finance: H2O.ai](https://www.h2o.ai)
+- Algorithmic Trading Company: Alpaca
+- Fintech Company: Plaid
+- Machine Learning Solutions in Finance: H2O.ai

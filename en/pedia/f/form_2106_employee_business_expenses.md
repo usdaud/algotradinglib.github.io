@@ -34,7 +34,7 @@ This section requires you to list all unreimbursed employee expenses, including 
 
 ### Part II: Vehicle Expenses
 
-This part asks for detailed information about the vehicle(s) used for work-related activities. Details include purchase date, the total number of miles driven, and specifics on the [business](../b/business.md) use percentage of the vehicle. 
+This part asks for detailed information about the vehicle(s) used for work-related activities. Details include purchase date, the total number of miles driven, and specifics on the [business](../b/business.md) use percentage of the vehicle.
 
 ### Part III: Depreciation of Vehicles
 
@@ -56,7 +56,7 @@ For vehicle expenses, you have the option to use either the standard mileage rat
 
 ### Reimbursement Plans
 
-If your employer has an accountable plan, any reimbursements received under this plan are not included in your wages and are not deductible on Form 2106. If the employer has a non-accountable plan, or if you incur expenses not covered by an accountable plan, you would use Form 2106 to claim these deductions. 
+If your employer has an accountable plan, any reimbursements received under this plan are not included in your wages and are not deductible on Form 2106. If the employer has a non-accountable plan, or if you incur expenses not covered by an accountable plan, you would use Form 2106 to claim these deductions.
 
 ### Depreciation
 

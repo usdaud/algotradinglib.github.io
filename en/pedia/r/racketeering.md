@@ -88,4 +88,4 @@ Effective strategies to combat racketeering require a multifaceted approach due 
 
 Racketeering remains a significant challenge for law enforcement agencies worldwide. The adaptability and complexity of racketeering schemes require ongoing efforts to develop innovative strategies for detection, prevention, and prosecution. Whether through the powerful provisions of laws like RICO, the development of international cooperation, or public engagement initiatives, the fight against racketeering continues to evolve in response to an ever-changing criminal landscape.
 
-For more detailed information on this topic and specific case studies, you can explore resources like the [U.S. Department of Justice](https://www.justice.gov/criminal-ccips) or INTERPOL’s [Organized Crime](https://www.interpol.int/en/Crimes/Organized-crime) section.
+For more detailed information on this topic and specific case studies, you can explore resources like the U.S. Department of Justice or INTERPOL’s Organized Crime section.

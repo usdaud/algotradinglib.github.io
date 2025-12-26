@@ -88,7 +88,7 @@ Statistical [arbitrage](../a/arbitrage.md) involves exploiting price discrepanci
 
 ### J.P. Morgan Chase & Co.
 
-J.P. Morgan (https://www.jpmorgan.com/) is a renowned investment [bank](../b/bank.md) that extensively employs [algorithmic trading](../a/algorithmic_trading.md) strategies. One notable application of the [hedge](../h/hedge.md) ratio is in their [equity](../e/equity.md) [derivatives](../d/derivatives.md) trading. By maintaining precise [hedge](../h/hedge.md) ratios, J.P. Morgan's algorithms optimize the [risk](../r/risk.md)-[return](../r/return.md) profile of their [derivatives](../d/derivatives.md) portfolio, ensuring [robust](../r/robust.md) performance even in volatile markets.
+J.P. Morgan ( is a renowned investment [bank](../b/bank.md) that extensively employs [algorithmic trading](../a/algorithmic_trading.md) strategies. One notable application of the [hedge](../h/hedge.md) ratio is in their [equity](../e/equity.md) [derivatives](../d/derivatives.md) trading. By maintaining precise [hedge](../h/hedge.md) ratios, J.P. Morgan's algorithms optimize the [risk](../r/risk.md)-[return](../r/return.md) profile of their [derivatives](../d/derivatives.md) portfolio, ensuring [robust](../r/robust.md) performance even in volatile markets.
 
 ### Renaissance Technologies
 

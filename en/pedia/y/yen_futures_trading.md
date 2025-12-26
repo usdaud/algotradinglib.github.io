@@ -30,7 +30,6 @@ Arbitrageurs seek to [profit](../p/profit.md) from discrepancies in the price of
 
 Yen [futures](../f/futures.md) are primarily traded on the CME Group’s [exchange](../e/exchange.md), under the International Monetary [Market](../m/market.md) (IMM) division. They may also be available on other global exchanges, but the CME is the most widely recognized and [liquid market](../l/liquid_market.md) for these contracts.
 
-[Learn more about CME Yen futures](https://www.cmegroup.com/trading/fx/g10/japanese-yen_contract_specifications.html)
 
 ### Understanding Contract Specifications
 

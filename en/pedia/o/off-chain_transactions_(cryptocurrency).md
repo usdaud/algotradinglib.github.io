@@ -11,27 +11,27 @@ In traditional [blockchain](../b/blockchain_in_trading.md) systems, every [trans
 Off-chain transactions can be implemented in several ways:
 
 1. **Third-party Custodians:**
-   In this scenario, a trusted [third party](../t/third_party.md) holds the assets and facilitates the off-chain transactions. Only the net result of transactions is settled on-chain. For example, centralized exchanges often conduct numerous trades internally and only send aggregated transactions to the [blockchain](../b/blockchain_in_trading.md).
+ In this scenario, a trusted [third party](../t/third_party.md) holds the assets and facilitates the off-chain transactions. Only the net result of transactions is settled on-chain. For example, centralized exchanges often conduct numerous trades internally and only send aggregated transactions to the [blockchain](../b/blockchain_in_trading.md).
 
 2. **[Payment](../p/payment.md) Channels:**
-   [Payment](../p/payment.md) channels allow users to conduct [multiple](../m/multiple.md) transactions off-chain by locking a portion of their funds in a multi-signature address. The [Bitcoin](../b/bitcoin.md) [Lightning Network](../l/lightning_network.md) is a prominent example, enabling instantaneous and cost-effective micro-transactions.
+ [Payment](../p/payment.md) channels allow users to conduct [multiple](../m/multiple.md) transactions off-chain by locking a portion of their funds in a multi-signature address. The [Bitcoin](../b/bitcoin.md) [Lightning Network](../l/lightning_network.md) is a prominent example, enabling instantaneous and cost-effective micro-transactions.
 
-   - **Opening a Channel:** Two parties set up a multi-signature address and [deposit](../d/deposit.md) funds.
-   - **Transacting Off-Chain:** They can conduct numerous transactions by signing and exchanging updated balance sheets.
-   - **Closing the Channel:** The final state of the [balance sheet](../b/balance_sheet.md) is broadcasted to the [blockchain](../b/blockchain_in_trading.md), settling the net balance.
+ - **Opening a Channel:** Two parties set up a multi-signature address and [deposit](../d/deposit.md) funds.
+ - **Transacting Off-Chain:** They can conduct numerous transactions by signing and exchanging updated balance sheets.
+ - **Closing the Channel:** The final state of the [balance sheet](../b/balance_sheet.md) is broadcasted to the [blockchain](../b/blockchain_in_trading.md), settling the net balance.
 
 3. **Sidechains:**
-   Sidechains are separate blockchains that connect to the main [blockchain](../b/blockchain_in_trading.md) via a two-way peg, allowing assets to be moved back and forth. Examples include [Liquid](../l/liquid.md) Network for [Bitcoin](../b/bitcoin.md).
+ Sidechains are separate blockchains that connect to the main [blockchain](../b/blockchain_in_trading.md) via a two-way peg, allowing assets to be moved back and forth. Examples include [Liquid](../l/liquid.md) Network for [Bitcoin](../b/bitcoin.md).
 
-   - **Two-way Peg:** This involves a locking and unlocking mechanism ensuring the transfer of assets between the main chain and the sidechain.
-   - **Transacting on Sidechain:** Transactions occur on the sidechain, [offering](../o/offering.md) higher [throughput](../t/throughput.md) and faster confirmations.
-   - **Mainchain Settlement:** Periodic or conditional settlements are recorded on the main [blockchain](../b/blockchain_in_trading.md).
+ - **Two-way Peg:** This involves a locking and unlocking mechanism ensuring the transfer of assets between the main chain and the sidechain.
+ - **Transacting on Sidechain:** Transactions occur on the sidechain, [offering](../o/offering.md) higher [throughput](../t/throughput.md) and faster confirmations.
+ - **Mainchain Settlement:** Periodic or conditional settlements are recorded on the main [blockchain](../b/blockchain_in_trading.md).
 
 4. **State Channels:**
-   Similar to [payment](../p/payment.md) channels, state channels expand the concept to a broader set of state changes beyond simple payments. Applications like generalized state channels can facilitate complex interactions off-chain.
+ Similar to [payment](../p/payment.md) channels, state channels expand the concept to a broader set of state changes beyond simple payments. Applications like generalized state channels can facilitate complex interactions off-chain.
 
 5. **Off-Chain Orders:**
-   Some decentralized exchanges utilize off-chain orders where [order](../o/order.md) matching is done off-chain, and only successful trades are settled on-chain. For instance, the [0x Protocol](../1/0x_protocol.md) employs this method.
+ Some decentralized exchanges utilize off-chain orders where [order](../o/order.md) matching is done off-chain, and only successful trades are settled on-chain. For instance, the [0x Protocol](../1/0x_protocol.md) employs this method.
 
 ## Benefits of Off-Chain Transactions
 
@@ -52,49 +52,44 @@ Off-chain transactions can be implemented in several ways:
 ## Examples of Off-Chain Solutions
 
 1. **[Lightning Network](../l/lightning_network.md) ([Bitcoin](../b/bitcoin.md)):**
-   The [Lightning Network](../l/lightning_network.md) is a second-layer solution designed to enable instant and low-[fee](../f/fee.md) transactions for [Bitcoin](../b/bitcoin.md). By creating bi-directional [payment](../p/payment.md) channels, it aims to tackle the [scalability](../s/scalability.md) [issue](../i/issue.md) inherent in the [Bitcoin](../b/bitcoin.md) network.
-   [Lightning Network](https://lightning.network/)
+ The [Lightning Network](../l/lightning_network.md) is a second-layer solution designed to enable instant and low-[fee](../f/fee.md) transactions for [Bitcoin](../b/bitcoin.md). By creating bi-directional [payment](../p/payment.md) channels, it aims to tackle the [scalability](../s/scalability.md) [issue](../i/issue.md) inherent in the [Bitcoin](../b/bitcoin.md) network.
 
 2. **Raiden Network ([Ethereum](../e/ethereum_.md)):**
-   Raiden Network offers [Ethereum](../e/ethereum_.md) users an off-chain solution to facilitate faster and cheaper transactions. Like the [Lightning Network](../l/lightning_network.md), Raiden utilizes [payment](../p/payment.md) channels to conduct off-chain transactions.
-   [Raiden Network](https://raiden.network/)
+ Raiden Network offers [Ethereum](../e/ethereum_.md) users an off-chain solution to facilitate faster and cheaper transactions. Like the [Lightning Network](../l/lightning_network.md), Raiden utilizes [payment](../p/payment.md) channels to conduct off-chain transactions.
 
 3. **[Liquid](../l/liquid.md) Network:**
-   [Liquid](../l/liquid.md) Network is a sidechain-based settlement network designed to provide faster and more confidential [Bitcoin](../b/bitcoin.md) transactions. Primarily aimed at traders and exchanges, it allows for faster transfers and enhanced privacy.
-   [Liquid Network](https://blockstream.com/liquid/)
+ [Liquid](../l/liquid.md) Network is a sidechain-based settlement network designed to provide faster and more confidential [Bitcoin](../b/bitcoin.md) transactions. Primarily aimed at traders and exchanges, it allows for faster transfers and enhanced privacy.
 
 4. **Celer Network:**
-   Celer Network is a layer 2 scaling platform [offering](../o/offering.md) off-chain [transaction](../t/transaction.md) and smart contract handling. It leverages state channels to significantly enhance the [scalability](../s/scalability.md) and usability of [blockchain](../b/blockchain_in_trading.md) applications.
-   [Celer Network](https://www.celer.network/)
+ Celer Network is a layer 2 scaling platform [offering](../o/offering.md) off-chain [transaction](../t/transaction.md) and smart contract handling. It leverages state channels to significantly enhance the [scalability](../s/scalability.md) and usability of [blockchain](../b/blockchain_in_trading.md) applications.
 
 5. **[0x Protocol](../1/0x_protocol.md):**
-   The [0x Protocol](../1/0x_protocol.md) facilitates the trading of ERC-20 tokens on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). By handling [order](../o/order.md) matching off-chain, it reduces costs and increases the [efficiency](../e/efficiency.md) of decentralized exchanges.
-   [0x Protocol](https://0x.org/)
+ The [0x Protocol](../1/0x_protocol.md) facilitates the trading of ERC-20 tokens on the [Ethereum](../e/ethereum_.md) [blockchain](../b/blockchain_in_trading.md). By handling [order](../o/order.md) matching off-chain, it reduces costs and increases the [efficiency](../e/efficiency.md) of decentralized exchanges.
 
 ## Use Cases for Off-Chain Transactions
 
 1. **Micro-Payments:**
-   Off-chain solutions are ideal for micro-payments in applications like tipping, pay-per-use services, and gaming transactions, where on-chain fees would be prohibitive.
+ Off-chain solutions are ideal for micro-payments in applications like tipping, pay-per-use services, and gaming transactions, where on-chain fees would be prohibitive.
 
 2. **Cross-Border Transfers:**
-   They provide a faster and cheaper alternative for cross-border [money](../m/money.md) transfers compared to traditional banking systems.
+ They provide a faster and cheaper alternative for cross-border [money](../m/money.md) transfers compared to traditional banking systems.
 
 3. **Decentralized Exchanges:**
-   Off-chain [order](../o/order.md) books and matching engines can [offer](../o/offer.md) the benefits of decentralized exchanges while maintaining high performance and lower costs.
+ Off-chain [order](../o/order.md) books and matching engines can [offer](../o/offer.md) the benefits of decentralized exchanges while maintaining high performance and lower costs.
 
 4. **Gaming:**
-   Many [blockchain](../b/blockchain_in_trading.md)-based games use off-chain solutions to enable frequent, small-scale interactions between players and game assets, reducing congestion and costs.
+ Many [blockchain](../b/blockchain_in_trading.md)-based games use off-chain solutions to enable frequent, small-scale interactions between players and game assets, reducing congestion and costs.
 
 5. **IoT Payments:**
-   Internet of Things (IoT) applications can benefit from off-chain micro-payments, enabling high-frequency, low-[value](../v/value.md) transactions between connected devices.
+ Internet of Things (IoT) applications can benefit from off-chain micro-payments, enabling high-frequency, low-[value](../v/value.md) transactions between connected devices.
 
 ## Conclusion
 
 Off-chain transactions present a compelling alternative to traditional on-chain transactions by [offering](../o/offering.md) [scalability](../s/scalability.md), reduced costs, speed, and privacy. Various mechanisms, including third-party custodians, [payment](../p/payment.md) channels, sidechains, and state channels, cater to different needs and use-cases within the digital [asset](../a/asset.md) ecosystem. Though not without challenges, off-chain transactions are set to play an increasingly important role in the future of [blockchain](../b/blockchain_in_trading.md) technology, enabling new applications and broadening the [scope](../s/scope.md) of what decentralized systems can achieve.
 
 For more information on off-chain solutions and projects:
-- [Lightning Network](https://lightning.network/)
-- [Raiden Network](https://raiden.network/)
-- [Liquid Network](https://blockstream.com/liquid/)
-- [Celer Network](https://www.celer.network/)
-- [0x Protocol](https://0x.org/)
+- Lightning Network
+- Raiden Network
+- Liquid Network
+- Celer Network
+- 0x Protocol

@@ -38,15 +38,15 @@ In trading, "scope" typically refers to the [range](../r/range.md) or extent of 
 ## Related Concepts
 
 1. **[Average True Range](../a/average_true_range_(atr).md) (ATR)**
-   - A technical [indicator](../i/indicator.md) that measures [market](../m/market.md) [volatility](../v/volatility.md)
-   - Often used alongside scope analysis for a more comprehensive view
+ - A technical [indicator](../i/indicator.md) that measures [market](../m/market.md) [volatility](../v/volatility.md)
+ - Often used alongside scope analysis for a more comprehensive view
 
 2. **Trading [Range](../r/range.md)**
-   - Similar to scope but typically refers to longer-term price boundaries
+ - Similar to scope but typically refers to longer-term price boundaries
 
 3. **[Price Action](../p/price_action.md)**
-   - The study of an [asset](../a/asset.md)'s price movement over time
-   - Scope is one aspect of [price action analysis](../p/price_action_analysis.md)
+ - The study of an [asset](../a/asset.md)'s price movement over time
+ - Scope is one aspect of [price action analysis](../p/price_action_analysis.md)
 
 ## Importance in Trading Decisions
 

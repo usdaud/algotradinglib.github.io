@@ -22,7 +22,7 @@ Dry powder is usually measured in terms of cash reserves, [liquid](../l/liquid.m
 - **Undrawn Commitments**: Funds pledged by limited partners to a [private equity](../p/private_equity.md) or [venture capital](../v/venture_capital.md) [firm](../f/firm.md) that have not yet been called.
 
 ### Example of Dry Powder Disclosures:
-For instance, [private equity](../p/private_equity.md) [firm](../f/firm.md) **The Carlyle Group** consistently reports their dry powder in their [financial statements](../f/financial_statements.md), providing [transparency](../t/transparency.md) into their [liquidity](../l/liquidity.md) and investment strategies. You can find more details at [The Carlyle Group – Investor Relations](https://ir.carlyle.com).
+For instance, [private equity](../p/private_equity.md) [firm](../f/firm.md) **The Carlyle Group** consistently reports their dry powder in their [financial statements](../f/financial_statements.md), providing [transparency](../t/transparency.md) into their [liquidity](../l/liquidity.md) and investment strategies. You can find
 
 ## Role of Dry Powder in Different Financial Sectors
 
@@ -30,9 +30,9 @@ For instance, [private equity](../p/private_equity.md) [firm](../f/firm.md) **Th
 
 In the realm of [private equity](../p/private_equity.md) (PE) and [venture capital](../v/venture_capital.md) (VC), dry powder is paramount. Firms in these sectors often raise funds from limited partners with the agreement that this [capital](../c/capital.md) [will](../w/will.md) be deployed into promising investment opportunities over a specified period. The timing of these investments is crucial, therefore maintaining an optimal level of dry powder ensures that firms can seize profitable opportunities as they arise.
 
-- **[Private Equity](../p/private_equity.md)**: PE firms like **Blackstone** and **KKR** maintain substantial dry powder to acquire [undervalued](../u/undervalued.md) companies, especially in [market](../m/market.md) downturns. (Visit [Blackstone Investor Relations](https://www.blackstone.com/investors/) and [KKR Investor Relations](https://ir.kkr.com) for more information.)
+- **[Private Equity](../p/private_equity.md)**: PE firms like **Blackstone** and **KKR** maintain substantial dry powder to acquire [undervalued](../u/undervalued.md) companies, especially in [market](../m/market.md) downturns.
 
-- **[Venture Capital](../v/venture_capital.md)**: VC firms like **Sequoia [Capital](../c/capital.md)** and **Andreessen Horowitz** similarly keep significant dry powder for rounds of funding startups at various stages. (For more insights, see [Sequoia Capital](https://www.sequoiacap.com) and [Andreessen Horowitz](https://a16z.com).)
+- **[Venture Capital](../v/venture_capital.md)**: VC firms like **Sequoia [Capital](../c/capital.md)** and **Andreessen Horowitz** similarly keep significant dry powder for rounds of funding startups at various stages. (For more insights, see Sequoia Capital and Andreessen Horowitz.)
 
 ### Hedge Funds
 
@@ -41,13 +41,13 @@ In the realm of [private equity](../p/private_equity.md) (PE) and [venture capit
 ### Corporate Finance
 
 In [corporate finance](../c/corporate_finance.md), companies might keep dry powder for various strategic purposes, such as:
-- **Mergers & Acquisitions (M&A)**: Firms like **Amazon** and **Apple** often maintain significant cash reserves to acquire smaller companies or startups that can provide technological or [market](../m/market.md) advantages. (Explore [Amazon Investor Relations](https://www.amazon.com/ir) and [Apple Investor Relations](https://investor.apple.com).)
+- **Mergers & Acquisitions (M&A)**: Firms like **Amazon** and **Apple** often maintain significant cash reserves to acquire smaller companies or startups that can provide technological or [market](../m/market.md) advantages.
 
 - **R&D Investments**: Companies in high-tech or pharmaceuticals might keep dry powder to [fund](../f/fund.md) research and development (R&D) projects which require substantial [capital](../c/capital.md) infusion.
 
 ### Real Estate
 
-[Real estate](../r/real_estate.md) investment trusts (REITs) and property developers also utilize dry powder strategies. During property [market](../m/market.md) downturns, they can acquire properties at lower prices and benefit when the [market](../m/market.md) recovers. Companies like **Brookfield [Asset Management](../a/asset_management.md)** frequently disclose their dry powder status, emphasizing their readiness to invest in [lucrative](../l/lucrative.md) property deals. (More information can be found at [Brookfield Asset Management](https://bam.brookfield.com)).
+[Real estate](../r/real_estate.md) investment trusts (REITs) and property developers also utilize dry powder strategies. During property [market](../m/market.md) downturns, they can acquire properties at lower prices and benefit when the [market](../m/market.md) recovers. Companies like **Brookfield [Asset Management](../a/asset_management.md)** frequently disclose their dry powder status, emphasizing their readiness to invest in [lucrative](../l/lucrative.md) property deals. (More information can be found at Brookfield Asset Management).
 
 ## Strategic Considerations
 

@@ -44,15 +44,15 @@ Modern [algorithmic trading](../a/algorithmic_trading.md) increasingly relies on
 
 ### Renaissance Technologies
 
-[Renaissance Technologies](https://www.rentec.com/) is renowned for its use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. The [firm](../f/firm.md) employs a variety of [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) strategies as part of its broader [quantitative trading](../q/quantitative_trading.md) programs.
+Renaissance Technologies is renowned for its use of sophisticated [mathematical models](../m/mathematical_models_in_trading.md) and algorithms in trading. The [firm](../f/firm.md) employs a variety of [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md) strategies as part of its broader [quantitative trading](../q/quantitative_trading.md) programs.
 
 ### Two Sigma
 
-[Two Sigma](https://www.twosigma.com/) is another major player that leverages technology and [data science](../d/data_science_in_trading.md) for trading, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They use advanced data modeling and [machine learning](../m/machine_learning.md) techniques to identify and exploit [market](../m/market.md) inefficiencies.
+Two Sigma is another major player that leverages technology and [data science](../d/data_science_in_trading.md) for trading, including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They use advanced data modeling and [machine learning](../m/machine_learning.md) techniques to identify and exploit [market](../m/market.md) inefficiencies.
 
 ### Citadel LLC
 
-[Citadel](https://www.citadel.com/) is a financial institution that applies rigorous [quantitative research](../q/quantitative_research.md) for a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They have a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) and sophisticated algorithms to manage and execute these trades effectively.
+Citadel is a financial institution that applies rigorous [quantitative research](../q/quantitative_research.md) for a [range](../r/range.md) of [trading strategies](../t/trading_strategies.md), including [volatility](../v/volatility.md) [arbitrage](../a/arbitrage.md). They have a [robust](../r/robust.md) [infrastructure](../i/infrastructure.md) and sophisticated algorithms to manage and execute these trades effectively.
 
 ## Risks and Challenges
 
@@ -74,4 +74,4 @@ Overall [market](../m/market.md) movements can influence the success of [volatil
 
 ## Conclusion
 
-[Arbitrage](../a/arbitrage.md) in [volatility](../v/volatility.md) is a sophisticated aspect of modern trading, requiring advanced models, algorithms, and considerable expertise. Despite the risks, it offers [lucrative](../l/lucrative.md) opportunities for those capable of navigating its complexities. Institutions like Renaissance Technologies, Two Sigma, and Citadel demonstrate the potential for success in this field, provided one has the technological [infrastructure](../i/infrastructure.md) and [intellectual capital](../i/intellectual_capital.md) to support sophisticated [trading strategies](../t/trading_strategies.md).
+[Arbitrage](../a/arbitrage.md) in [volatility](../v/volatility.md) is a sophisticated aspect of modern trading, requiring advanced models, algorithms, and considerable expertise. Despite the risks, it offers [lucrative](../l/lucrative.md) opportunities for those capable of navigating its complexities. Institutions like Renaissance Technologies, Two Sigma, and Citadel demonstrate the potential for success in this field, provided one has the technological [infrastructure](../i/infrastructure.md) and [intellectual capital](../i/intellectual_capital.md) to support sophisticated [trading strategies](../t/trading_strategies.md).

@@ -40,7 +40,7 @@ In M&A, regulatory authorities often impose waiting periods to allow for a thoro
 
 ## Practical Applications in Algorithmic Trading
 
-In [algorithmic trading](../a/accountability.md), waiting periods can be incorporated into [trading algorithms](../t/trading_algorithms.md) to manage [risk](../r/risk.md) and enhance strategy. This involves setting delays or conditions that must be met before executing a [trade](../t/trade.md).
+In [algorithmic trading](../a/algorithmic_trading.md), waiting periods can be incorporated into [trading algorithms](../t/trading_algorithms.md) to manage [risk](../r/risk.md) and enhance strategy. This involves setting delays or conditions that must be met before executing a [trade](../t/trade.md).
 
 ### Example: Mean Reversion Strategy
 
@@ -52,4 +52,4 @@ For news-based [trading algorithms](../t/trading_algorithms.md), a waiting perio
 
 ## Conclusion
 
-Understanding and recognizing the implications of waiting periods across different facets of [finance](../f/finance.md) and trading is paramount. Whether navigating the regulatory landscape of securities, managing [risk](../r/risk.md) in [algorithmic trading](../a/accountability.md), or ensuring compliance with [insurance](../i/insurance.md) policy stipulations, waiting periods play an essential role in fostering a structured and legally compliant financial environment. Tailoring [trading algorithms](../t/trading_algorithms.md) to consider these periods can significantly impact their effectiveness and robustness, ultimately aiding traders in making strategic decisions grounded in a well-defined temporal framework.
+Understanding and recognizing the implications of waiting periods across different facets of [finance](../f/finance.md) and trading is paramount. Whether navigating the regulatory landscape of securities, managing [risk](../r/risk.md) in [algorithmic trading](../a/algorithmic_trading.md), or ensuring compliance with [insurance](../i/insurance.md) policy stipulations, waiting periods play an essential role in fostering a structured and legally compliant financial environment. Tailoring [trading algorithms](../t/trading_algorithms.md) to consider these periods can significantly impact their effectiveness and robustness, ultimately aiding traders in making strategic decisions grounded in a well-defined temporal framework.

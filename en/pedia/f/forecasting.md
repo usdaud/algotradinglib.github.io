@@ -84,11 +84,11 @@ The field of forecasting in [algorithmic trading](../a/accountability.md) is con
 
 Several companies and platforms specialize in [algorithmic trading](../a/accountability.md) and forecasting:
 
-1. **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced [machine learning](../m/machine_learning.md) models to generate [trading signals](../t/trading_signals.md). (https://numer.ai/)
-2. **[QuantConnect](../q/quantconnect.md):** [QuantConnect](../q/quantconnect.md) is a cloud-based [algorithmic trading](../a/accountability.md) platform that provides tools for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md). (https://www.[quantconnect](../q/quantconnect.md).com/)
-3. **Kensho Technologies:** Kensho develops advanced analytics and [machine learning](../m/machine_learning.md) solutions for financial institutions. (https://www.kensho.com/)
-4. **Sentient Technologies:** Sentient Technologies specializes in AI-driven [trading systems](../t/trading_systems.md). (https://www.sentient.ai/)
-5. **WorldQuant:** WorldQuant is a quantitative investment [firm](../f/firm.md) that uses data-driven models for trading. (https://www.worldquant.com/)
+1. **Numerai:** Numerai is a [hedge fund](../h/hedge_fund.md) that leverages crowd-sourced [machine learning](../m/machine_learning.md) models to generate [trading signals](../t/trading_signals.md). (
+2. **[StockSharp](../s/stocksharp.md):** [StockSharp](../s/stocksharp.md) is a [algorithmic trading](../a/accountability.md) platform that provides tools for designing, testing, and deploying [trading algorithms](../t/trading_algorithms.md).
+3. **Kensho Technologies:** Kensho develops advanced analytics and [machine learning](../m/machine_learning.md) solutions for financial institutions. (
+4. **Sentient Technologies:** Sentient Technologies specializes in AI-driven [trading systems](../t/trading_systems.md). (
+5. **WorldQuant:** WorldQuant is a quantitative investment [firm](../f/firm.md) that uses data-driven models for trading. (
 
 # Conclusion
 

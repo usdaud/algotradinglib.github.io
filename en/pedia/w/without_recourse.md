@@ -1,6 +1,6 @@
 # Without Recourse
 
-"Without [recourse](../r/recourse.md)" is a legal term used in [finance](../f/finance.md) that signifies a seller's [exemption](../e/exemption.md) from responsibility for future non-[payment](../p/payment.md) or failure to meet contractual [obligations](../o/obligation.md) by the buyer or borrower. This term is predominantly utilized in contexts involving the [sale](../s/sale.md) of financial assets, including loans, accounts [receivable](../r/receivable.md), letters of [credit](../c/credit.md), and other transferable financial instruments. When an entity sells a [financial asset](../f/financial_asset.md) "without [recourse](../r/recourse.md)," it signifies that the buyer assumes the [default risk](../d/default_risk.md) associated with that [asset](../a/asset.md). 
+"Without [recourse](../r/recourse.md)" is a legal term used in [finance](../f/finance.md) that signifies a seller's [exemption](../e/exemption.md) from responsibility for future non-[payment](../p/payment.md) or failure to meet contractual [obligations](../o/obligation.md) by the buyer or borrower. This term is predominantly utilized in contexts involving the [sale](../s/sale.md) of financial assets, including loans, accounts [receivable](../r/receivable.md), letters of [credit](../c/credit.md), and other transferable financial instruments. When an entity sells a [financial asset](../f/financial_asset.md) "without [recourse](../r/recourse.md)," it signifies that the buyer assumes the [default risk](../d/default_risk.md) associated with that [asset](../a/asset.md).
 
 ## Understanding the Concept
 
@@ -14,16 +14,16 @@ This concept differs significantly from a "with [recourse](../r/recourse.md)" [s
 
 The term "without [recourse](../r/recourse.md)" is embedded in the contracts governing the transfer of financial assets. Its inclusion or exclusion has significant implications:
 
-1. **For Sellers:** 
-   - **[Risk Management](../r/risk_management.md):** Sellers mitigate their exposure to the performance [risk](../r/risk.md) of the transferred [asset](../a/asset.md).
-   - **Financial Flexibility:** By selling assets without [recourse](../r/recourse.md), sellers can improve their [liquidity](../l/liquidity.md) and [balance sheet](../b/balance_sheet.md) metrics.
-   
-2. **For Buyers:** 
-   - **[Risk](../r/risk.md) Assumption:** Buyers accept the full [credit risk](../c/credit_risk.md) of the [asset](../a/asset.md). This often necessitates thorough [due diligence](../d/due_diligence.md) before purchasing the [asset](../a/asset.md).
-   - **Potential High Returns:** The assumption of additional [risk](../r/risk.md) typically comes with the prospect of higher returns if the [asset](../a/asset.md) performs well.
+1. **For Sellers:**
+ - **[Risk Management](../r/risk_management.md):** Sellers mitigate their exposure to the performance [risk](../r/risk.md) of the transferred [asset](../a/asset.md).
+ - **Financial Flexibility:** By selling assets without [recourse](../r/recourse.md), sellers can improve their [liquidity](../l/liquidity.md) and [balance sheet](../b/balance_sheet.md) metrics.
+
+2. **For Buyers:**
+ - **[Risk](../r/risk.md) Assumption:** Buyers accept the full [credit risk](../c/credit_risk.md) of the [asset](../a/asset.md). This often necessitates thorough [due diligence](../d/due_diligence.md) before purchasing the [asset](../a/asset.md).
+ - **Potential High Returns:** The assumption of additional [risk](../r/risk.md) typically comes with the prospect of higher returns if the [asset](../a/asset.md) performs well.
 
 3. **For Borrowers:**
-   - **Impact on Terms:** The nature of the [sale](../s/sale.md) ([recourse](../r/recourse.md) vs. without [recourse](../r/recourse.md)) can influence the terms offered to borrowers, such as [interest](../i/interest.md) rates and [collateral](../c/collateral.md) requirements.
+ - **Impact on Terms:** The nature of the [sale](../s/sale.md) ([recourse](../r/recourse.md) vs. without [recourse](../r/recourse.md)) can influence the terms offered to borrowers, such as [interest](../i/interest.md) rates and [collateral](../c/collateral.md) requirements.
 
 ## Practical Applications
 
@@ -68,19 +68,19 @@ Contracts that involve the [sale](../s/sale.md) of financial assets often includ
 
 Companies like CIT Group or J.P. Morgan Chase frequently engage in without [recourse](../r/recourse.md) transactions as part of their [asset](../a/asset.md)-backed lending and [financing](../f/financing.md) solutions. These transactions help them manage [risk](../r/risk.md) while [offering](../o/offering.md) clients favorable [financing](../f/financing.md) terms.
 
-For more information about J.P. Morgan’s activities and offerings, you can visit [J.P. Morgan Chase](https://www.jpmorganchase.com/).
+For more information about J.P. Morgan’s activities and offerings, you can visit J.P. Morgan Chase.
 
 ### Factoring Services
 
 Factoring firms such as BlueVine and Fundbox provide without [recourse](../r/recourse.md) factoring services that allow small and medium-sized businesses to sell their accounts [receivable](../r/receivable.md) and improve their [liquidity](../l/liquidity.md) without retaining the [credit risk](../c/credit_risk.md).
 
-Visit BlueVine at [BlueVine](https://www.bluevine.com/) and Fundbox at [Fundbox](https://www.fundbox.com/) for more details on their services.
+Visit BlueVine at BlueVine and Fundbox at Fundbox for more details on their services.
 
 ### Trade Finance
 
 Major [trade finance](../t/trade_finance.md) providers like HSBC and BNP Paribas [offer](../o/offer.md) without [recourse](../r/recourse.md) letters of [credit](../c/credit.md), enabling exporters to secure [payment](../p/payment.md) and mitigate the [risk](../r/risk.md) associated with international [trade](../t/trade.md).
 
-For more about HSBC [trade finance](../t/trade_finance.md), visit [HSBC](https://www.business.hsbc.com/trade-finance) and BNP Paribas at [BNP Paribas Trade Finance](https://tradefinance.bnpparibas).
+For more about HSBC [trade finance](../t/trade_finance.md), visit HSBC and BNP Paribas at BNP Paribas Trade Finance.
 
 ## Conclusion
 

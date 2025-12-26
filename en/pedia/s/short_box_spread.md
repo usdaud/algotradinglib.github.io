@@ -46,7 +46,7 @@ The net effect is capturing any pricing inefficiencies while being relatively in
 
 ## Execution in Algorithmic Trading
 
-[Algorithmic trading](../a/algorithmic_trading.md) employs sophisticated algorithms to execute trades based on predefined criteria. Algorithms can optimize the timing and [execution](../e/execution.md) of Short Box [Spreads](../s/spreads.md) to maximize profitability. 
+[Algorithmic trading](../a/algorithmic_trading.md) employs sophisticated algorithms to execute trades based on predefined criteria. Algorithms can optimize the timing and [execution](../e/execution.md) of Short Box [Spreads](../s/spreads.md) to maximize profitability.
 
 ### Algorithmic Strategy Development
 
@@ -58,8 +58,8 @@ The net effect is capturing any pricing inefficiencies while being relatively in
 
 Fully [automated trading systems](../a/automated_trading_systems.md) can monitor markets in real-time and execute Short Box [Spreads](../s/spreads.md) more efficiently than manual trading. Popular platforms and resources for developing these systems include:
 
-- **[QuantConnect](../q/quantconnect.md)**: [QuantConnect](https://www.quantconnect.com/) - provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for [options](../o/options.md) trading.
-- **[Interactive Brokers](../i/interactive_brokers.md)**: [Interactive Brokers](https://www.interactivebrokers.com/) - offers [robust](../r/robust.md) API access for [automated trading systems](../a/automated_trading_systems.md).
+- **[QuantConnect](../q/quantconnect.md)**: QuantConnect - provides a cloud-based [algorithmic trading](../a/algorithmic_trading.md) platform with extensive resources for [options](../o/options.md) trading.
+- **[Interactive Brokers](../i/interactive_brokers.md)**: Interactive Brokers - offers [robust](../r/robust.md) API access for [automated trading systems](../a/automated_trading_systems.md).
 
 ## Risks and Considerations
 
@@ -84,12 +84,12 @@ Consider implementing a Short [Box Spread](../b/box_spread.md) on the S&P 500 [i
 
 1. **Select Strikes**: Identify appropriate strike prices based on [market](../m/market.md) conditions.
 2. **Algorithm Development**: Create an algorithm to automatically enter the Short [Box Spread](../b/box_spread.md) when certain criteria are met:
-   - Implied [volatility](../v/volatility.md) thresholds
-   - Spread between synthetic [short call](../s/short_call.md) and put premiums
+ - Implied [volatility](../v/volatility.md) thresholds
+ - Spread between synthetic [short call](../s/short_call.md) and put premiums
 
 3. **[Backtesting](../b/backtesting.md) and [Optimization](../o/optimization.md)**: Test the algorithm against historical S&P 500 data to ensure robustness.
 
-4. **Deployment**: Execute the strategy in a live [trading environment](../t/trading_environment.md) using platforms such as [QuantConnect](../q/quantconnect.md) or [Interactive Brokers](../i/interactive_brokers.md).
+4. **Deployment**: Execute the strategy in a live [trading environment](../t/trading_environment.md) using platforms such as [StockSharp](../s/stocksharp.md) or [Interactive Brokers](../i/interactive_brokers.md).
 
 ## Conclusion
 

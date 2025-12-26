@@ -22,7 +22,7 @@ Conversely, to convert [basis](../b/basis.md) points back to a [percentage chang
 
 For instance:
 - A 0.5% [interest rate](../i/interest_rate.md) increase is equivalent to 50 [basis](../b/basis.md) points.
-- 200 [basis](../b/basis.md) points can be converted back to a [percentage change](../p/percentage_change.md) as follows: 
+- 200 [basis](../b/basis.md) points can be converted back to a [percentage change](../p/percentage_change.md) as follows:
 \[ \frac{200}{100} = 2\% \]
 
 ## Importance of Basis Points in Finance

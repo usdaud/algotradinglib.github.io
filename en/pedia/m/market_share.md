@@ -85,7 +85,7 @@ Apple Inc. is a prime example of a company that has successfully increased its [
 
 Apple's [market](../m/market.md) share is not only concentrated in smartphones; it also extends to wearables, tablets, and laptops. By focusing on high-quality products, [investing](../i/investing.md) heavily in R&D, and executing effective [marketing](../m/marketing.md) strategies, Apple has maintained its competitive edge and expanded its [market](../m/market.md) share.
 
-For more information on Apple Inc., you can visit their official website: [Apple Inc.](https://www.apple.com)
+For more information on Apple Inc.,
 
 ## Conclusion
 

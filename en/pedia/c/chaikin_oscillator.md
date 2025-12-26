@@ -8,31 +8,31 @@ The Chaikin [Oscillator](../o/oscillator.md) (CHO), named after its creator Marc
 The Chaikin [Oscillator](../o/oscillator.md) measures the difference between the 3-day and 10-day moving averages of the Accumulation/[Distribution](../d/distribution.md) Line (ADL). The ADL itself is a cumulative total of the [Money Flow](../m/money_flow.md) [Multiplier](../m/multiplier.md) times the [volume](../v/volume.md) of a given period. Primarily, the Chaikin [Oscillator](../o/oscillator.md) helps traders to identify [market](../m/market.md) trends before price movements that might confirm the direction.
 
 ### Historical Background
-Marc Chaikin, a seasoned [stock market](../s/stock_market.md) analyst, developed this [oscillator](../o/oscillator.md) in the 1970s. Chaikin's financial career spans over 40 years, during which he founded Chaikin Analytics ([link](https://www.chaikinanalytics.com/)), a provider of stock tools and analytics designed specifically for individual investors and traders. Chaikin's methodologies focus heavily on the impact of [volume](../v/volume.md) on price [volatility](../v/volatility.md).
+Marc Chaikin, a seasoned [stock market](../s/stock_market.md) analyst, developed this [oscillator](../o/oscillator.md) in the 1970s. Chaikin's financial career spans over 40 years, during which he founded Chaikin Analytics (link), a provider of stock tools and analytics designed specifically for individual investors and traders. Chaikin's methodologies focus heavily on the impact of [volume](../v/volume.md) on price [volatility](../v/volatility.md).
 
 ## Calculation of the Chaikin Oscillator
 
 ### Step-by-Step Calculation
 1. **[Money Flow](../m/money_flow.md) [Multiplier](../m/multiplier.md) (MFM):**
-   \[
-   MFM = \frac{(Close - Low) - (High - Close)}{High - Low}
-   \]
+ \[
+ MFM = \frac{(Close - Low) - (High - Close)}{High - Low}
+ \]
 
 2. **[Money Flow](../m/money_flow.md) [Volume](../v/volume.md) (MFV):**
-   \[
-   MFV = MFM \times [Volume](../v/volume.md)
-   \]
+ \[
+ MFV = MFM \times [Volume](../v/volume.md)
+ \]
 
 3. **Accumulation/[Distribution](../d/distribution.md) Line (ADL):**
-   \[
-   ADL_t = ADL_{t-1} + MFV
-   \]
+ \[
+ ADL_t = ADL_{t-1} + MFV
+ \]
 
 4. **Chaikin [Oscillator](../o/oscillator.md) (CHO):**
-   \[
-   CHO = EMA_3(ADL) - EMA_10(ADL)
-   \]
-   Where \( EMA_n \) represents the Exponential Moving Average over 'n' days.
+ \[
+ CHO = EMA_3(ADL) - EMA_10(ADL)
+ \]
+ Where \( EMA_n \) represents the Exponential Moving Average over 'n' days.
 
 ### Interpretation
 The Chaikin [Oscillator](../o/oscillator.md)'s [value](../v/value.md) fluctuates around a zero line. Positive values indicate net accumulation, suggesting buying pressure, while negative values imply net [distribution](../d/distribution.md), indicating selling pressure. Therefore, by interpreting these oscillations, traders can infer potential buying or selling opportunities based on the [underlying asset](../u/underlying_asset.md)'s [volume](../v/volume.md) and price movement relationships.
@@ -71,14 +71,14 @@ Let's consider a practical example involving the Chaikin [Oscillator](../o/oscil
 
 ### Trading Rules
 1. **Buy Signal:**
-   - The Chaikin [Oscillator](../o/oscillator.md) crosses above zero.
-   - The 50-day SMA is trending up.
-   - RSI is above 50 but not in [overbought](../o/overbought.md) territory (i.e., below 70).
+ - The Chaikin [Oscillator](../o/oscillator.md) crosses above zero.
+ - The 50-day SMA is trending up.
+ - RSI is above 50 but not in [overbought](../o/overbought.md) territory (i.e., below 70).
 
 2. **Sell Signal:**
-   - The Chaikin [Oscillator](../o/oscillator.md) crosses below zero.
-   - The 50-day SMA is trending down.
-   - RSI is below 50 but not in [oversold](../o/oversold.md) territory (i.e., above 30).
+ - The Chaikin [Oscillator](../o/oscillator.md) crosses below zero.
+ - The 50-day SMA is trending down.
+ - RSI is below 50 but not in [oversold](../o/oversold.md) territory (i.e., above 30).
 
 ### Execution
 Using a [trading platform](../t/trading_platform.md) or algorithm trading software, the strategy can be coded to automate the [execution](../e/execution.md) of trades based on the specified conditions. By [backtesting](../b/backtesting.md) this strategy on historical data, we can evaluate its performance, making necessary adjustments before deploying it in live trading.

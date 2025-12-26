@@ -75,4 +75,4 @@ With the rapid evolution of financial technology and increased competition from 
 
 The Over-the-Counter Bulletin Board plays an essential role in the financial ecosystem by [offering](../o/offering.md) a platform for trading lower-priced, higher-[risk](../r/risk.md) securities. While it presents unique opportunities for both issuers and investors, it also carries inherent risks that require careful consideration. Regulatory oversight and [transparency](../t/transparency.md) measures help mitigate some of these risks, but [due diligence](../d/due_diligence.md) is crucial for successful participation in the OTCBB [market](../m/market.md).
 
-For more detailed information about the OTCBB and its regulatory framework, you can visit the FINRA website: [FINRA OTCBB Information](https://www.finra.org/).
+For more detailed information about the OTCBB and its regulatory framework,

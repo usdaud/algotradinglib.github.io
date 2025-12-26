@@ -13,11 +13,11 @@ A **Franchise** is a [business](../b/business.md) model in which an individual o
 
 ## Types of Franchises
 1. **Product [Distribution](../d/distribution.md) Franchise**: The [franchisee](../f/franchisee.md) sells the franchisor’s products. Common in industries like automotive, gasoline, and soft drink [distribution](../d/distribution.md).
-   - **Example**: Car dealerships.
+ - **Example**: Car dealerships.
 2. **[Business](../b/business.md) Format Franchise**: The [franchisee](../f/franchisee.md) uses the franchisor’s [business](../b/business.md) model and branding to run their own [business](../b/business.md). This is the most common type of franchise.
-   - **Example**: Fast food restaurants like McDonald's, retail stores like 7-Eleven.
+ - **Example**: Fast food restaurants like McDonald's, retail stores like 7-Eleven.
 3. **[Manufacturing](../m/manufacturing.md) Franchise**: The [franchisee](../f/franchisee.md) manufactures and sells products using the franchisor’s branding and formulas.
-   - **Example**: Soft drink bottling companies.
+ - **Example**: Soft drink bottling companies.
 
 ## Importance
 1. **[Brand Recognition](../b/brand_recognition.md)**: Franchisees benefit from the established [brand recognition](../b/brand_recognition.md) and reputation of the franchisor.
@@ -38,4 +38,3 @@ A **Franchise** is a [business](../b/business.md) model in which an individual o
 
 ## Conclusion
 A franchise is a [business](../b/business.md) model that allows individuals to own and operate a [business](../b/business.md) under the established brand and [business](../b/business.md) system of another company. It offers the advantage of [brand recognition](../b/brand_recognition.md), a proven [business](../b/business.md) model, and ongoing support but also comes with challenges such as initial costs, operational restrictions, and dependency on the franchisor. Understanding the components, types, and challenges of franchising is crucial for potential franchisees considering this [business](../b/business.md) model.
-

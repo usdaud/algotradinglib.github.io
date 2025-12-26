@@ -4,11 +4,11 @@
 
 ### What is Correlation?
 
-At its core, [correlation](../c/correlation.md) is a statistical measure that describes the degree to which two variables move in relation to each other. The [correlation coefficient](../c/correlation_coefficient.md), usually denoted as \( \[rho](../r/rho.md) \) or \( r \), lies between -1 and 1. 
+At its core, [correlation](../c/correlation.md) is a statistical measure that describes the degree to which two variables move in relation to each other. The [correlation coefficient](../c/correlation_coefficient.md), usually denoted as \( \rho \) or \( r \), lies between -1 and 1.
 
-- **[Positive Correlation](../p/positive_correlation.md) ( \( 0 < \[rho](../r/rho.md) \leq 1 \) )**: Indicates that the indices tend to move in the same direction. A [correlation](../c/correlation.md) of 1 implies a perfect positive relationship.
-- **[Negative Correlation](../n/negative_correlation.md) ( \( -1 \leq \[rho](../r/rho.md) < 0 \) )**: Indicates that the indices tend to move in opposite directions. A [correlation](../c/correlation.md) of -1 implies a perfect negative relationship.
-- **Zero [Correlation](../c/correlation.md) ( \( \[rho](../r/rho.md) = 0 \) )**: Implies no [linear relationship](../l/linear_relationship.md) between the indices.
+- **[Positive Correlation](../p/positive_correlation.md) ( \( 0 < \rho \leq 1 \) )**: Indicates that the indices tend to move in the same direction. A [correlation](../c/correlation.md) of 1 implies a perfect positive relationship.
+- **[Negative Correlation](../n/negative_correlation.md) ( \( -1 \leq \rho < 0 \) )**: Indicates that the indices tend to move in opposite directions. A [correlation](../c/correlation.md) of -1 implies a perfect negative relationship.
+- **Zero [Correlation](../c/correlation.md) ( \( \rho = 0 \) )**: Implies no [linear relationship](../l/linear_relationship.md) between the indices.
 
 ### Importance in Algo-Trading
 
@@ -43,13 +43,11 @@ Several advanced tools and [software platforms](../s/software_platforms_for_trad
 
 BlackRock, one of the leading global [investment management](../i/investment_management.md) firms, applies sophisticated [index](../i/index_instrument.md) [correlation analysis](../c/correlation_analysis.md) as part of its [risk management](../r/risk_management.md) and [portfolio optimization](../p/portfolio_optimization.md) strategies. Their Aladdin platform leverages [big data](../b/big_data_in_trading.md) and [machine learning](../m/machine_learning.md) to assess correlations and make informed investment decisions.
 
-[BlackRock](https://www.blackrock.com/us/individual)
 
 #### Renaissance Technologies
 
 Renaissance Technologies, a pioneer in [quantitative trading](../q/quantitative_trading.md), utilizes extensive statistical analysis, including [index](../i/index_instrument.md) [correlation](../c/correlation.md), to drive its Medallion [Fund](../f/fund.md)'s algorithmic strategies. [Correlation analysis](../c/correlation_analysis.md) helps them identify [market](../m/market.md) patterns and predict price movements accurately.
 
-[Renaissance Technologies](https://www.rentec.com/)
 
 ### Challenges and Considerations
 

@@ -36,7 +36,7 @@ In this equation, autonomous consumption (\( a \)) is the intercept, representin
 
 ### Keynesian Economics
 
-In [Keynesian economics](../k/keynesian_economics_in_trading.md), autonomous consumption plays a pivotal role in understanding [aggregate demand](../a/aggregate_demand.md). [John Maynard Keynes](../j/john_maynard_keynes.md) argued that consumption is a primary driver of economic activity and that autonomous consumption ensures a [baseline](../b/baseline.md) level of [demand](../d/demand.md) even during economic downturns. 
+In [Keynesian economics](../k/keynesian_economics_in_trading.md), autonomous consumption plays a pivotal role in understanding [aggregate demand](../a/aggregate_demand.md). [John Maynard Keynes](../j/john_maynard_keynes.md) argued that consumption is a primary driver of economic activity and that autonomous consumption ensures a [baseline](../b/baseline.md) level of [demand](../d/demand.md) even during economic downturns.
 
 ### Multiplier Effect
 

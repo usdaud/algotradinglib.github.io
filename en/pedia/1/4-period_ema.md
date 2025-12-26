@@ -7,24 +7,24 @@ The 4-period Exponential Moving Average (EMA) is a type of moving average used i
 To calculate a 4-period EMA, the following steps should be followed:
 
 1. **Determine the Smoothing [Factor](../f/factor.md)**: The smoothing [factor](../f/factor.md) (or Exponential Moving Average weighting [multiplier](../m/multiplier.md)) is calculated using the formula:
-   \[
-   \text{Smoothing [Factor](../f/factor.md) (α)} = \frac{2}{n+1}
-   \]
-   For a 4-period EMA:
-   \[
-   α = \frac{2}{4+1} = 0.4
-   \]
+ \[
+ \text{Smoothing [Factor](../f/factor.md) (α)} = \frac{2}{n+1}
+ \]
+ For a 4-period EMA:
+ \[
+ α = \frac{2}{4+1} = 0.4
+ \]
 
 2. **Calculate the Initial EMA**: The initial EMA is usually calculated using a Simple Moving Average (SMA) of the same period:
-   \[
-   \text{SMA}_4 = \frac{P_1 + P_2 + P_3 + P_4}{4}
-   \]
-   Where \( P_n \) represents the closing prices of the [asset](../a/asset.md).
+ \[
+ \text{SMA}_4 = \frac{P_1 + P_2 + P_3 + P_4}{4}
+ \]
+ Where \( P_n \) represents the closing prices of the [asset](../a/asset.md).
 
 3. **Apply the EMA Formula**: For each subsequent period, the EMA is calculated using the previous EMA [value](../v/value.md) and the current closing price:
-   \[
-   \text{EMA}_{\text{current}} = \left(P_{\text{current}} - \text{EMA}_{\text{previous}}\right) \times α + \text{EMA}_{\text{previous}}
-   \]
+ \[
+ \text{EMA}_{\text{current}} = \left(P_{\text{current}} - \text{EMA}_{\text{previous}}\right) \times α + \text{EMA}_{\text{previous}}
+ \]
 
 ### Practical Example
 
@@ -32,38 +32,38 @@ Assume we are calculating a 4-period EMA for a stock with the following closing 
 
 | Day | Closing Price |
 |-----|---------------|
-| 1   | 50            |
-| 2   | 52            |
-| 3   | 51            |
-| 4   | 53            |
-| 5   | 54            |
-| 6   | 55            |
-| 7   | 56            |
+| 1 | 50 |
+| 2 | 52 |
+| 3 | 51 |
+| 4 | 53 |
+| 5 | 54 |
+| 6 | 55 |
+| 7 | 56 |
 
 1. **SMA for the First 4 Days**:
-   \[
-   \text{SMA} = \frac{50 + 52 + 51 + 53}{4} = 51.5
-   \]
+ \[
+ \text{SMA} = \frac{50 + 52 + 51 + 53}{4} = 51.5
+ \]
 
 2. **EMA Calculation**:
-   \[
-   α = 0.4
-   \]
+ \[
+ α = 0.4
+ \]
 
-   Day 5 EMA:
-   \[
-   \text{EMA}_5 = (54 - 51.5) \times 0.4 + 51.5 = 52.6
-   \]
+ Day 5 EMA:
+ \[
+ \text{EMA}_5 = (54 - 51.5) \times 0.4 + 51.5 = 52.6
+ \]
 
-   Day 6 EMA:
-   \[
-   \text{EMA}_6 = (55 - 52.6) \times 0.4 + 52.6 = 53.56
-   \]
+ Day 6 EMA:
+ \[
+ \text{EMA}_6 = (55 - 52.6) \times 0.4 + 52.6 = 53.56
+ \]
 
-   Day 7 EMA:
-   \[
-   \text{EMA}_7 = (56 - 53.56) \times 0.4 + 53.56 = 54.336
-   \]
+ Day 7 EMA:
+ \[
+ \text{EMA}_7 = (56 - 53.56) \times 0.4 + 53.56 = 54.336
+ \]
 
 ### Applications in Algorithmic Trading
 
@@ -89,8 +89,8 @@ Several tools and [software platforms](../s/software_platforms_for_trading.md) p
 
 [Algorithmic trading](../a/algorithmic_trading.md) platforms like MetaTrader 4, [TradingView](../t/tradingview.md), and more sophisticated platforms like [QuantConnect](../q/quantconnect.md) and [Alpaca](../a/alpaca.md) Markets allow traders to automate EMA-based strategies. For instance:
 
-- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that lets users backtest and implement EMA-based strategies using Python (URL: [QuantConnect](https://www.quantconnect.com)).
-- **[Alpaca](../a/alpaca.md) Markets**: Provides a [commission](../c/commission.md)-free trading API that supports the implementation of algorithmic strategies, including those utilizing the 4-period EMA (URL: [Alpaca Markets](https://alpaca.markets)).
+- **[QuantConnect](../q/quantconnect.md)**: An [open](../o/open.md)-source [algorithmic trading](../a/algorithmic_trading.md) platform that lets users backtest and implement EMA-based strategies using Python (URL: QuantConnect).
+- **[Alpaca](../a/alpaca.md) Markets**: Provides a [commission](../c/commission.md)-free trading API that supports the implementation of algorithmic strategies, including those utilizing the 4-period EMA (URL: Alpaca Markets).
 
 ### Limitations of EMA
 
@@ -104,4 +104,4 @@ While the EMA is a powerful tool, it has certain limitations:
 
 ### Conclusion
 
-The 4-period EMA is a versatile and widely used tool in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its ability to smooth out short-term price fluctuations while remaining responsive to recent price changes makes it valuable for identifying trends, generating [trading signals](../t/trading_signals.md), and setting dynamic [support and resistance](../s/support_and_resistance.md) levels. However, like all [technical indicators](../t/technical_indicators.md), it is most effective when used in conjunction with other analysis tools and sound [risk management](../r/risk_management.md) practices.
+The 4-period EMA is a versatile and widely used tool in [technical analysis](../t/technical_analysis.md) and [algorithmic trading](../a/algorithmic_trading.md). Its ability to smooth out short-term price fluctuations while remaining responsive to recent price changes makes it valuable for identifying trends, generating [trading signals](../t/trading_signals.md), and setting dynamic [support and resistance](../s/support_and_resistance.md) levels. However, like all [technical indicators](../t/technical_indicators.md), it is most effective when used in conjunction with other analysis tools and sound [risk management](../r/risk_management.md) practices.

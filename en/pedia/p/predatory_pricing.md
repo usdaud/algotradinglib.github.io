@@ -16,13 +16,13 @@ One of the most cited examples of predatory pricing involves large retail chains
 
 **Walmart**, the global retail giant, has faced numerous accusations and legal challenges regarding predatory pricing. In the 1990s and early 2000s, several local grocery stores and small businesses across the United States claimed that Walmart was setting prices so low that these smaller stores could not compete. The strategy, they argued, was intended to drive them out of [business](../b/business.md), allowing Walmart to raise prices once they were the only retailer left standing.
 
-**More information**: [Walmart Corporate](https://corporate.walmart.com/)
+**More information**: Walmart Corporate
 
 ### Amazon Example
 
 Another recent and prominent example is **Amazon**. Amazon has been accused of using predatory pricing in several areas, including books and consumer electronics. Smaller bookstores and electronic retailers have complained that they cannot compete with the artificially low prices Amazon sets, which forces them out of the [market](../m/market.md). Evidence has suggested that Amazon uses data and advanced algorithms to precisely price items, often below cost.
 
-**More information**: [Amazon About](https://www.aboutamazon.com/)
+**More information**: Amazon About
 
 ## Why It's Used
 
@@ -48,7 +48,7 @@ While the company incurs short-term losses during the predatory pricing phase, t
 
 ### Legal Challenges
 
-Predatory pricing is illegal in many countries, including the United States and [European Union](../e/european_union_(eu).md), under anti-[trust](../t/trust.md) and competition laws because of its potential to create monopolies and harm consumers. Various legal tests and economic analyses are employed to identify and take action against predatory pricing practices. 
+Predatory pricing is illegal in many countries, including the United States and [European Union](../e/european_union_(eu).md), under anti-[trust](../t/trust.md) and competition laws because of its potential to create monopolies and harm consumers. Various legal tests and economic analyses are employed to identify and take action against predatory pricing practices.
 
 - **The Areeda-Turner Test**: This test, developed by [antitrust](../a/antitrust.md) scholars Phillip Areeda and Donald Turner, states that pricing below average [variable cost](../v/variable_cost.md) should be considered predatory, as it assumes no rational [firm](../f/firm.md) would price below this level unless intending to eliminate competition.
 - **Recoupment Test**: Courts often look for evidence that the [firm](../f/firm.md) engaging in predatory pricing would be able to recoup its losses through higher prices once the competition is eliminated.

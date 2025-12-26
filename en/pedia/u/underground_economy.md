@@ -4,7 +4,7 @@ The underground [economy](../e/economy.md), also known as the shadow or black [m
 
 ## Characteristics of the Underground Economy
 
-1. **Lack of Regulation**: Transactions are conducted without adhering to government regulations, which can lead to a lack of consumer protection, inconsistent product quality, and ethical concerns. 
+1. **Lack of Regulation**: Transactions are conducted without adhering to government regulations, which can lead to a lack of consumer protection, inconsistent product quality, and ethical concerns.
 
 2. **[Tax Evasion](../t/tax_evasion.md)**: Participants in the underground [economy](../e/economy.md) do not report their [earnings](../e/earnings.md) to tax authorities. This results in significant tax [revenue](../r/revenue.md) losses for governments.
 

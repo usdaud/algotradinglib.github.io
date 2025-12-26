@@ -61,7 +61,7 @@ Pair trading involves taking positions in two correlated assets with the aim of 
 
 ### Equity Markets
 
-[Equity](../e/equity.md) markets provide ample opportunities for different trading strategies due to high [liquidity](../l/liquidity.md) and diverse instruments. 
+[Equity](../e/equity.md) markets provide ample opportunities for different trading strategies due to high [liquidity](../l/liquidity.md) and diverse instruments.
 
 - **[Dividend](../d/dividend.md) Capture**: Involves buying a stock just before the [ex-dividend](../e/ex-dividend.md) date to capture the [dividend](../d/dividend.md) and then selling it.
 - **[Sector Rotation](../s/sector_rotation.md)**: Involves shifting investments from one sector to another to [capitalize](../c/capitalize.md) on different phases of the [economic cycle](../e/economic_cycle.md).
@@ -99,10 +99,10 @@ Cryptocurrency markets are known for their high [volatility](../v/volatility.md)
 
 ## Key Players and Technology Providers
 
-- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) with expertise in trading, research, and technology. [Jane Street](https://www.janestreet.com/)
-- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies [data science](../d/data_science_in_trading.md) and technology to trading. [Two Sigma](https://www.twosigma.com/)
-- **[AlgoTrader](../a/algotrader.md)**: A trading software company providing institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solutions. [AlgoTrader](https://www.algotrader.com/)
-- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). [QuantConnect](https://www.quantconnect.com/)
+- **Jane Street**: A [quantitative trading](../q/quantitative_trading.md) [firm](../f/firm.md) and [market maker](../m/market_maker.md) with expertise in trading, research, and technology. Jane Street
+- **Two Sigma**: A [hedge fund](../h/hedge_fund.md) that applies [data science](../d/data_science_in_trading.md) and technology to trading. Two Sigma
+- **[AlgoTrader](../a/algotrader.md)**: A trading software company providing institutional-grade [algorithmic trading](../a/algorithmic_trading.md) solutions. AlgoTrader
+- **[QuantConnect](../q/quantconnect.md)**: A platform [offering](../o/offering.md) cloud-based [algorithmic trading](../a/algorithmic_trading.md) and [backtesting](../b/backtesting.md). QuantConnect
 
 ## Conclusion
 

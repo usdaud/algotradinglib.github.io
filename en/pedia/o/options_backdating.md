@@ -80,9 +80,9 @@ For employees, especially those not involved in backdating practices, there can 
 
 Several companies and solution providers have focused on improving [transparency](../t/transparency.md) and compliance in [stock option](../s/stock_option.md) granting processes:
 
-- **[Equity](../e/equity.md) Methods:** This [firm](../f/firm.md) provides reporting and financial services solutions to ensure compliance with FASB, SEC, and IRS requirements. Visit [Equity Methods](https://www.equitymethods.com) for more information.
-- **Certent:** Certent offers software solutions for [equity compensation](../e/equity_compensation.md) management that help in adhering to regulatory requirements. Visit [Certent](https://www.certent.com) to explore their offerings.
-- **Solium (now Shareworks by Morgan Stanley):** Provides [equity](../e/equity.md) plan management solutions to ensure transparent and compliant [stock option](../s/stock_option.md) granting processes. Visit [Shareworks by Morgan Stanley](https://www.shareworks.com) for additional details.
+- **[Equity](../e/equity.md) Methods:** This [firm](../f/firm.md) provides reporting and financial services solutions to ensure compliance with FASB, SEC, and IRS requirements. Visit Equity Methods for more information.
+- **Certent:** Certent offers software solutions for [equity compensation](../e/equity_compensation.md) management that help in adhering to regulatory requirements. Visit Certent to explore their offerings.
+- **Solium (now Shareworks by Morgan Stanley):** Provides [equity](../e/equity.md) plan management solutions to ensure transparent and compliant [stock option](../s/stock_option.md) granting processes. Visit Shareworks by Morgan Stanley for additional details.
 
 ## Conclusion
 

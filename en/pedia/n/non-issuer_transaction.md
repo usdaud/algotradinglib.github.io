@@ -48,13 +48,11 @@ Regulation is vital to ensure that non-[issuer](../i/issuer.md) transactions are
 
 In the United States, the Securities and [Exchange](../e/exchange.md) [Commission](../c/commission.md) (SEC) is the primary regulatory body. The SEC enforces federal securities laws to protect investors, maintain fair and efficient markets, and facilitate [capital](../c/capital.md) formation. Specific regulations, such as the [Securities Exchange Act of 1934](../s/securities_exchange_act_of_1934.md), govern various aspects of non-[issuer](../i/issuer.md) transactions.
 
-[Official SEC Website](https://www.sec.gov/)
 
 ### Europe
 
 In Europe, the European Securities and Markets Authority (ESMA) is responsible for safeguarding the stability of the [European Union](../e/european_union_(eu).md)'s [financial system](../f/financial_system.md). ESMA works in tandem with national regulators to ensure consistent application of securities laws across member states.
 
-[Official ESMA Website](https://www.esma.europa.eu/)
 
 ## Technological Advancements
 
@@ -106,6 +104,6 @@ Non-[issuer](../i/issuer.md) transactions are a cornerstone of [financial market
 
 For further exploration of specific software solutions and companies facilitating non-[issuer](../i/issuer.md) transactions, you may visit:
 
-- [Nasdaq](https://www.nasdaq.com/)
-- [NYSE](https://www.nyse.com/)
-- [OTC Markets](https://www.otcmarkets.com/)
+- Nasdaq
+- NYSE
+- OTC Markets

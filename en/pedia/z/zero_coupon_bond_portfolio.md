@@ -66,9 +66,8 @@ Zero Coupon Bonds, also known as "zeros," are a type of [bond](../b/bond.md) tha
 ### Treasury STRIPS
 
 - **Description**: The [U.S. Treasury](../u/u.s._treasury.md) issues zero coupon bonds through a program known as STRIPS (Separate Trading of Registered [Interest](../i/interest.md) and [Principal](../p/principal.md) Securities). These instruments are popular due to the [credit](../c/credit.md) quality of the U.S. government.
-- **Example**: Algorithms utilize [Treasury STRIPS](../t/treasury_strips.md) to predict [interest rate](../i/interest_rate.md) movements and optimize [bond](../b/bond.md) portfolio allocations based on [yield](../y/yield.md) curves. 
-        
-        [Link to Treasury Direct](https://www.treasurydirect.gov/indiv/research/indepth/strips/res_strips.htm)
+- **Example**: Algorithms utilize [Treasury STRIPS](../t/treasury_strips.md) to predict [interest rate](../i/interest_rate.md) movements and optimize [bond](../b/bond.md) portfolio allocations based on [yield](../y/yield.md) curves.
+
 
 ### Corporate Zeros
 
@@ -79,8 +78,8 @@ Zero Coupon Bonds, also known as "zeros," are a type of [bond](../b/bond.md) tha
 
 - **Description**: Municipal zero coupon bonds [offer](../o/offer.md) tax advantages and are commonly used in tax-aware algo [trading strategies](../t/trading_strategies.md).
 - **Example**: Algorithms can assess the tax-equivalent yields and optimize [holdings](../h/holdings.md) accordingly.
-  
-- [Link to a municipal bond listing site](https://emma.msrb.org/)
+
+- Link to a municipal bond listing site
 
 ## Conclusion
 
